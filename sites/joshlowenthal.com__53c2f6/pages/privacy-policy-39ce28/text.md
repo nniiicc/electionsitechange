@@ -7,4 +7,4 @@ Visitor options If you have subscribed to one of our services, you may unsubscri
 You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
 Cookies Google ads Google, as a third party vendor, uses cookies to serve ads.
 Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-Join the Team Email ZIP Code Mobile Number About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District
+Join the Team Email ZIP Code Mobile Number Submit About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District

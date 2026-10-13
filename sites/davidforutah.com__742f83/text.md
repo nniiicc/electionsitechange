@@ -12,7 +12,7 @@ MY PLAN FOR EVERYDAY UTAHNS Ban Corporate Money in Politics Pass a Renters ' and
 Text me anytime: 801.960.2217 Vote for david november 3 ✸ Vote for david november 3 ✸ Vote for david november 3 ✸ Learn more about my plan Learn more about my plan Voter Toolkit 🛠️ David's Campaign Finance Summary of my donors and expenses.
 Click Here Norm's Campaign Finance Summary of my opponents’ donors.
 Click Here The Utah Budget A visualization of how the budget works and how I’d want to change it.
-Click Here Frequently Asked Questions Click Here Norm's Vote Record Some votes from my opponents 12-year record.
+Click Here Frequently Asked Questions Click Here Norm's Vote Record Some votes from my opponent’s 12-year record.
 Click Here Endorsements Click Here About the Tax Cuts A visualization of how you are taxed, how recent tax cuts have affected you, and how you compare to the top 1% Click Here Voter Registration Tool A tool to help Utah County residents fill out their voter registration forms.
 Click Here Donate Help us take back the legislature from special interests.
 I don't take corporate money , this campaign lives on the generosity of everyday people like you.

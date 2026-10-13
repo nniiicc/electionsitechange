@@ -1,15 +1,10 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 6 · Draft Your Tax Dollars: Who Is Accountable for the Money?
-30-second overview From the published campaign article Being a good steward of public money means treating every dollar as a responsibility.
-Before government starts a program, we should know what problem it is meant to solve, what it will cost, and how we will tell whether it works.
-We should test promising ideas, review the results, and be willing to change course when the evidence calls for it.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.ottawanewsnetwork.org — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.ottawanewsnetwork.org — linked reporting or reference. apnews.com — linked reporting or reference.
-By Meegan Zickus Being a good steward of public money means treating every dollar as a responsibility.
-Before government starts a program, we should know what problem it is meant to solve, what it will cost, and how we will tell whether it works.
-We should test promising ideas, review the results, and be willing to change course when the evidence calls for it.
-That is the standard I would bring to Lansing.
-It is also the standard voters should use when judging Joe Moss’s record as chair of the Ottawa County Board of Commissioners in 2023 and 2024 .
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the Issues Library Issues That Hit Home · Article 6 Your Tax Dollars: Who Is Accountable for the Money?
+By Meegan Zickus It’s your money.
+You should be able to see where it went and what it accomplished.
+On the school board, we balanced budgets while building schools and providing busing.
+I want that same attention to the work and the numbers in Lansing.
+Before starting a program, I’ll ask what problem we’re solving, what it costs, and how we’ll know it helped.
+Those are also fair questions about Joe Moss’s time as Ottawa County board chair in 2023 and 2024.
 What did the disputes cost?
 By January 2025, Ottawa News Network reported that the county had paid more than $700,000 to settle four lawsuits filed between February 2023 and December 2024 .
 Some payments were approved after Moss’s term as chair ended.
@@ -32,17 +27,11 @@ What outcome was the board trying to achieve?
 What alternatives had it evaluated?
 What were the legal and financial risks?
 How would residents have benefited from spending that money?
-How I would make decisions I believe good government makes smart, informed decisions , then checks its work.
-For a new plan or program, I would ask: What problem are we solving?
-Define the need using evidence from the people affected.
-What are the options and costs?
-Compare approaches, including the cost of doing nothing.
-Can we test an idea first?
-Set a limited scope and a clear measure of success before committing more money.
-What did the results show?
-Publish the spending and outcomes in language residents can understand.
-Should we continue, improve, or stop?
-Put resources where they produce results.
+How I would make decisions Before starting a program, I want a clear account of the problem and the people affected.
+Then compare the options and costs—including what happens if we do nothing.
+Where we can test an idea on a limited scale, we should agree on a measure of success before committing more money.
+Publish the spending and results in language residents can understand.
+Continue, improve, or stop based on what we learn.
 That approach applies to housing, healthcare, schools, and county services.
 A program should not be protected simply because someone proposed it.
 It should earn continued support by helping people at a responsible cost.
@@ -51,6 +40,6 @@ Legal fees added further expense, but published figures can overlap, so I will n
 Residents deserve an accounting of each payment, the legal bills by case, and the decisions that led to them.
 Stewardship means doing the homework before spending public money and being honest about the results afterward.
 Ottawa County families do that with their own budgets.
-They should expect the same care from the people elected to serve them. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading Why are property taxes changing in Ottawa County?
-Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+They should expect the same care from the people elected to serve them. ← Back to the Issues Library More from Meegan’s Top 10 priorities Sources for this article www.ottawanewsnetwork.org www.fox17online.com www.ottawanewsnetwork.org apnews.com Related reading Why are property taxes changing in Ottawa County?
+Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

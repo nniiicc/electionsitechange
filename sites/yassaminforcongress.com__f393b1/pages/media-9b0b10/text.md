@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute Media Resources Get the most important photos and facts about Yassamin Ansari.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute Media Resources Get the most important photos and facts about Yassamin Ansari.
 On The Trail Photos Download High-Res Photos Get Involved Paid for by Yassamin Ansari for Congress.
 Contribute by check: Yassamin Ansari for Congress P.O.
 Box 13524, Phoenix, AZ 85002 © Copyright #.

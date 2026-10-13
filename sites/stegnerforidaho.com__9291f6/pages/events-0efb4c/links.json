@@ -9,6 +9,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=108+grangeville+truck+route+grangeville%2C+idaho%2C+83530+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1080+south+5th+avenue+pocatello%2C+idaho%2C+83209+united+states"
 },
 {
@@ -30,6 +34,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=195+river+vista+place+twin+falls%2C+idaho%2C+83301+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2000+country+club+road+kellogg%2C+idaho%2C+83837+united+states"
 },
 {
 "text": "(map)",
@@ -94,6 +102,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=619+irving+street+caldwell%2C+idaho%2C+83605+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6421+main+street+bonners+ferry%2C+idaho%2C+83805+united+states"
 },
 {
 "text": "(map)",
@@ -269,11 +281,23 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Bonners+Ferry&dates=20261021T170000Z%2F20261021T190000Z&location=6421+Main+Street%2C+Bonners+Ferry%2C+Idaho%2C+83805%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Grangeville&dates=20261019T170000Z%2F20261019T180000Z&location=108+Grangeville+Truck+Route%2C+Grangeville%2C+Idaho%2C+83530%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+John&dates=20261005T144500Z%2F20261005T154500Z&location=2233+North+Records+Way%2C+Meridian%2C+Idaho%2C+83646%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+in+Blackfoot&dates=20261015T213000Z%2F20261015T223000Z&location=850+Jensen+Grove+Drive%2C+Blackfoot%2C+Idaho%2C+83221%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Shoshone+County+Bipartisan+Candidate+Forum&dates=20261020T210000Z%2F20261020T220000Z&location=2000+Country+Club+Road%2C+Kellogg%2C+Idaho%2C+83837%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -373,6 +397,14 @@
 },
 {
 "text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-with-john?format=ical"
 },
 {
@@ -394,6 +426,10 @@
 {
 "text": "ICS",
 "href": "https://www.stegnerforidaho.com/events/salmon?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/shoshone-county-bipartisan-candidate-forum?format=ical"
 },
 {
 "text": "ICS",
@@ -508,6 +544,14 @@
 "href": "https://www.stegnerforidaho.com/events/meet-greet"
 },
 {
+"text": "Meet & Greet in Bonners Ferry",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
+"text": "Meet & Greet in Grangeville",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
 "text": "Meet & Greet with John",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-with-john"
 },
@@ -522,6 +566,10 @@
 {
 "text": "Privacy policy",
 "href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "Shoshone County Bipartisan Candidate Forum",
+"href": "https://www.stegnerforidaho.com/events/shoshone-county-bipartisan-candidate-forum"
 },
 {
 "text": "Sign Up Here",
@@ -625,6 +673,14 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
+"text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
+"text": "View Event →",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-with-john"
 },
 {
@@ -642,6 +698,10 @@
 {
 "text": "View Event →",
 "href": "https://www.stegnerforidaho.com/events/salmon"
+},
+{
+"text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/shoshone-county-bipartisan-candidate-forum"
 },
 {
 "text": "View Event →",
@@ -776,12 +836,24 @@
 "href": "https://www.stegnerforidaho.com/events/twin-falls"
 },
 {
+"text": "[image: Meet & Greet in Bonners Ferry]",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
+"text": "[image: Meet & Greet in Grangeville]",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
 "text": "[image: Meet & Greet with John]",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-with-john"
 },
 {
 "text": "[image: Meet &amp; Greet in Blackfoot]",
 "href": "https://www.stegnerforidaho.com/events/meet-greet"
+},
+{
+"text": "[image: Shoshone County Bipartisan Candidate Forum]",
+"href": "https://www.stegnerforidaho.com/events/shoshone-county-bipartisan-candidate-forum"
 },
 {
 "text": "[image: Speed Representing: Conversations with Magic Valley Voters]",
@@ -806,6 +878,14 @@
 {
 "text": "[no text]",
 "href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "becca@silvervalleychamber.com",
+"href": "mailto:becca@silvervalleychamber.com"
+},
+{
+"text": "here",
+"href": "https://www.facebook.com/events/1637649837731053/?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
 },
 {
 "text": "here",

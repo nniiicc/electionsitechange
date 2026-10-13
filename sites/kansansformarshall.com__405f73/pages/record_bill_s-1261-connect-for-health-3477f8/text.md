@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 1261 CONNECT for Health Act Makes the pandemic-era Medicare telehealth coverage permanent so a Kansan in a frontier county can keep seeing a specialist by video instead of driving two hours.
 The bill What it does.
 For a Kansan in a frontier county, a Medicare video visit with a specialist can be the difference between getting care and going without.

@@ -16,15 +16,10 @@ After his tenure as mayor, he returned to the City Council and continued to serv
 Representative Lorenz is a member of St.
 Mary’s Catholic Church in Delaware, where he is an active member of the Knights of Columbus.
 He is also a proud member of the Ohio Farm Bureau.
-Endorsements Paid for by Lorenz for Ohio By providing your telephone number, you consent to receive calls and text messages.
-Msg & data rates may apply.
-Msg frequency may vary.
-Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy and terms and conditions for more info.
-By providing your contact information and cell phone number, you consent to receive campaign-related alerts, updates, and news messages via SMS/MMS from Lorenz for Ohio.
+Endorsements Paid for by Lorenz for Ohio By providing your contact information and cell phone number, you consent to receive campaign-related alerts, updates, and news messages via SMS/MMS from Lorenz for Ohio.
 Text and data rates may apply.
 Message frequency may vary.
-Reply STOP to opt out, HELP for help, or email {INSERT EMAIL}.
+Reply STOP to opt out, HELP for help, or email lorenzforohio@gmail.com.
 Donations may be solicited.
-View our Privacy Policy {INSERT LINK} and Terms and Conditions {INSERT LINK} for more information.
+View Privacy Policy and terms and conditions for more info.
 Mobile opt-in data will not be shared with third parties.

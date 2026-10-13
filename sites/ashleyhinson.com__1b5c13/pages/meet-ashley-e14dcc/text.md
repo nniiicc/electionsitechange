@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute Meet Ashley Meet Ashley News & Updates Get Involved Congresswoman Ashley Hinson proudly represents Northeast Iowa in Congress.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Meet Ashley Meet Ashley News & Updates Get Involved Congresswoman Ashley Hinson proudly represents Northeast Iowa in Congress.
 Ashley is running to be Iowa’s next Senator in 2026.
 Ashley is a proud mother and wife who is fighting for the future of her children and the next generation.
 She is working alongside President Trump to secure our borders, cut wasteful spending, and put our country back on the path to prosperity.

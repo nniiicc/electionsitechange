@@ -1,4 +1,4 @@
-Skip to content Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Menu Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Donate Fighting for you.
+Skip to content Make your plan × Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Voter Hub Yard Sign Request Menu Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Voter Hub Yard Sign Request Donate Fighting for you.
 Fighting for all Ohioans to have a fair playing field as they seek economic and health security.
 Join Our Campaign Sign up to receive updates and get involved!
 Meet Marcy Marcy has dedicated her career in public service to fighting for all Ohioans to have a fair playing field as they seek economic and health security.
@@ -10,4 +10,4 @@ She’s worked with both parties to secure investments in our communities and ha
 She’s a voice for us all in the People’s House.
 Donate Contribute to our campaign and help reelect Marcy to Congress.
 Contribute You can also send a check to: Kaptur for Congress P.O.
-Box 899 Toledo, OH 43697 Follow Marcy Facebook X-twitter Get in touch info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com To reach our campaign call: ‪(419) 665-3133‬ Information Media Privacy Policy Donate Paid for by Kaptur for Congress Site by Kinetic Meet Marcy Marcy’s Priorities Contact Get Involved Menu Toggle Volunteer Fellowships Voter Hub Yard Sign Request Scroll to Top Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Donate
+Box 899 Toledo, OH 43697 Follow Marcy Facebook X-twitter Get in touch info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com To reach our campaign call: ‪(419) 665-3133‬ Information Media Privacy Policy Donate Paid for by Kaptur for Congress Site by Kinetic Meet Marcy Marcy’s Priorities Contact Get Involved Menu Toggle Volunteer Voter Hub Yard Sign Request Scroll to Top Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Donate

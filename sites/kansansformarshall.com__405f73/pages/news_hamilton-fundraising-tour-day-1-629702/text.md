@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release Adam Hamilton's Woke Washington Fundraising Tour Day 1: The Drag Queen Pastor For immediate release September 16, 2026 WICHITA – Woke Megachurch CEO Adam Hamilton is spending this week fundraising with drag queen pastors, trans activists, liberal celebrities, and Chuck Schumer.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Press release Adam Hamilton's Woke Washington Fundraising Tour Day 1: The Drag Queen Pastor For immediate release September 16, 2026 WICHITA – Woke Megachurch CEO Adam Hamilton is spending this week fundraising with drag queen pastors, trans activists, liberal celebrities, and Chuck Schumer.
 Hamilton kicked off day one in Washington at a fundraiser hosted by crazy left wing activist Paul Raushenbush.
 Paul Raushenbush is a radical left-wing activist and CEO of Interfaith Alliance.
 Raushenbush has built his career on transgender/drag queen activism, including leading Trans Day of Visibility events, and advocating for the use of “Drag Worship” in churches.

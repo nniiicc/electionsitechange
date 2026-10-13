@@ -1,4 +1,4 @@
-Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Contact Home About Endorsements Volunteer Priorities District Events News Contact Donate Contact reach out Drop us a line Sign up, send a message, and Tom will get back to you as soon as possible.
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Contact Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Contact reach out Drop us a line Sign up, send a message, and Tom will get back to you as soon as possible.
 You can also email Tom directly at Tom@ElectMelville.com First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Send us a message!
 Send us a message!
 0 / 255 By submitting your information here, you're authorizing to be contacted by the Melville Committee.

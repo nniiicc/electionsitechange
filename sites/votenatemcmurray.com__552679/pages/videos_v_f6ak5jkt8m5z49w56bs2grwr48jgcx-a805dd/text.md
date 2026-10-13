@@ -28,6 +28,10 @@ And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
 Next Why Is Southern Ontario Doing Better Than Western New York?
-You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!
+You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Why Is Southern Ontario Doing Better Than Western New York?
+NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+Volunteer and Sign Up for Updates!

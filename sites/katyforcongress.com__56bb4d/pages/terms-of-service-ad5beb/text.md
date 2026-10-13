@@ -1,4 +1,4 @@
-Follow us Menu Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Accessibility Statement This statement was last updated on December 7, 2025.
+Follow us Menu Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Accessibility Statement This statement was last updated on December 7, 2025.
 We at Katy Padilla Stout for Congress are working to make our site www.katyforcongress.com accessible to people with disabilities.
 What web accessibility is An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors.
 This can be achieved with the capabilities of the system on which the site is operating, and through assistive technologies.
@@ -8,5 +8,5 @@ As part of this effort, we have also Used the Accessibility Wizard to find and f
 These pages may not fully comply with accessibility standards.
 Requests, issues, and suggestions If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the campaign’s accessibility coordinator: Accessibility Coordinator: Katy Padilla Stout for Congress Webmaster Phone: 210-201-3635 Email: info@katystoutforcongress.com ​ We will make every effort to respond promptly and address your concerns.
 Stay Up To Date Follow us on the campaign trail!
-Email Email Subscribe Donate Follow us Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
+Email Email Subscribe Donate Follow us Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
 217-509 San Antonio, TX 78257 (210) 201-3635 Accessibility Statement Terms of Service Contact Privacy Policy

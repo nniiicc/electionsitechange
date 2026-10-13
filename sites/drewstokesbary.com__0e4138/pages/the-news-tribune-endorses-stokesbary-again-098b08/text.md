@@ -5,5 +5,6 @@ In a two-candidate race headed straight for general election ballots in November
 More importantly?
 Over the last decade, Stokesbary has become one of the most respected members of either chamber or party, particularly when it comes to budgetary matters and the finer points of actually getting things done in the state Legislature — which, as it turns out, is fairly important. … In the view of the TNT Ed Board, Stokesbary deserves voters’ continued support.
 Read the full TNT Endorsement (including their endorsement of Josh Penner for the other position in the 31st District!) at: https://www.thenewstribune.com/opinion/article289751734.html .
-Endorsements In the News endorsement More For You Auburn Republican Drew Stokesbary seeking House seat In the News “The trouble with politicians” In the News National Federation of Independent Business endorses Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News endorsement More For You Republican Drew Stokesbary Launches Campaign for State House of Representatives Press Releases The Seattle Times recommends: Rep.
+Drew Stokesbary Endorsements Washington State Farm Bureau endorses Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

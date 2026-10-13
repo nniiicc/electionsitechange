@@ -7,6 +7,6 @@ It's always a good plan to check your polling location before Election Day!
 Please consult your local Registrars of Voters office or use the button below to access the Secretary of the State's Voter Registration Look-Up website.
 Where do I vote? absentee ballot information If you're unable to make it to your polling place on Election Day for any reason, you can vote by absentee ballot.
 You can either apply online or by sending an application to your Town or City Clerk's office.
-Read below for more information on voting absentee this year. absentee ballot info How to vote absentee ✓ Apply for your ballot - online or by calling your Town/City Clerk’s office. ✓ Receive your ballot and fill it out ASAP ✓ Return your ballot - the ballot drop box outside city hall is the quickest, easiest way to return!
-Deadline is November 3 at 8pm. ✓ Know that your vote counts and you made a difference Paid for by: Cardillo 2026, Peter Hargett, Treasurer.
+Read below for more information on voting absentee this year. absentee ballot info How to vote absentee ✓ Apply for your ballot - online or by calling your Town/City Clerk’s office. ✓ Receive your ballot and fill it out ASAP ✓ Return your ballot - the ballot drop box outside your town or city hall is the quickest, easiest way to return!
+Deadline to return is November 3 at 8pm. ✓ Know that your vote counts and you made a difference Paid for by: Cardillo 2026, Peter Hargett, Treasurer.
 Approved by Chad Cardillo.

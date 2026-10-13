@@ -1,0 +1,17 @@
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store TAX HIKER HINOJOSA SUPPORTS GREEN NEW DEAL REGULATIONS THAT WOULD DECIMATE TEXAS JOBS, ENERGY, AND PUBLIC SCHOOL FUNDING Oct 12, 2026 TAX HIKER HINOJOSA SUPPORTS GREEN NEW DEAL REGULATIONS THAT WOULD DECIMATE TEXAS JOBS, ENERGY, AND PUBLIC SCHOOL FUNDING AUSTIN — Since 2019, Gina Hinojosa has championed bringing the radical Green New Deal to Texas, threatening hundreds of thousands of Texas energy jobs, draining billions of dollars in funding for public schools, and creating new taxes on an industry that powers the Texas economy.
+“Gina’s Green New Deal is nothing but a bad deal for Texans.
+It would kill Texas energy jobs, and levy a new tax on an industry that funds everything from education to transportation to border security and beyond.
+Texans want good jobs and good schools.
+Tax Hiker Gina wants socialism – no matter the cost to Texans.” — Catherine Frazier, Texans for Greg Abbott Communications Director In 2017, in the wake of Hurricane Harvey, Hinojosa said, a “Green New Deal” was “the only sustainable and substantive way forward.” ( X Post ) In 2020, Hinojosa called the building of new oil and gas facilities in Texas “alarming.” ( X Post ) In 2021, Hinojosa voted to allow Texas cities to ban natural gas. ( 87R, HB 17 ) In 2021, Hinojosa proposed a “Texas Climate Plan” that included new taxes and regulations on the Texas oil and gas industry. ( X Post ) Hinojosa’s “Texas Climate Plan” included a controversial new “Office of Environmental Justice.” ( Austin Chronicle ) Learn more about Hinojosa’s deplorable record at HypocriteHinojosa.com and GenderBenderGina.com .
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Endorsed By Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Join Greg Today − " * " indicates required fields First Name * Email * Zip Code * Cell Phone Yes, I would like to receive text updates from Texans for Greg Abbott.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the Terms & Privacy Policy for auto dialed messages to the phone number you provide.
+Message frequency may vary.
+Msg&data rates may apply.
+Reply STOP to stop and HELP for help. Δ

@@ -34,6 +34,5 @@ History, culture and learning A Smithsonian experience, close to home In 2018, K
 Every third grader in Dorchester County toured the pop up museum.
 For me, the Eastern Shore is not just a district on a map.
 It is home.
-Let’s Build What Comes Next JOIN TEAM KATIE CONTRIBUTE Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel.
-Cathy Frey, Treasurer.
+Let’s Build What Comes Next JOIN TEAM KATIE CONTRIBUTE Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

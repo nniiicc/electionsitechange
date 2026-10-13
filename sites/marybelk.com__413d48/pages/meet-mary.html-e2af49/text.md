@@ -1,4 +1,4 @@
-MARY BELK FOR STATE HOUSE Home Meet Mary Our Freshman Year The Latest CONTRIBUTE Where She's Going The education of our children, the safety of our neighborhoods, and the health of our communities are far more than political issues for Mary Belk.
+MARY BELK FOR STATE HOUSE Home Meet Mary The Latest CONTRIBUTE Where She's Going The education of our children, the safety of our neighborhoods, and the health of our communities are far more than political issues for Mary Belk.
 They’re necessities for a thriving North Carolina.
 Mary is running for re-election to continue to fight for them.
 Family and community have always been Mary’s anchors, so her goal is simple: to focus on improving and growing our region by giving every family the opportunity to educate their children, keep them healthy, and put them on a path to success.
@@ -21,4 +21,4 @@ And as your representative, she’ll be there for you.
 How She's Served Mary’s commitment to North Carolina and her community spans 50 years, and has included work with the following organizations: Dilworth Community Development Association: Board Member, Community Police Liason Refugee Office of Charlotte Friendship Trays NC Second Harvest CPCC and CMS ESL Tutor Special Advisor for UNCC Model United Nations Team Missionaries of Charity, Annual Day at Lake (Organizer) Charlotte Catholic Foundation (Board Member) Church Council, St.
 Patrick Cathedral (Board Member) Children Friendly Services, St.
 Patrick Cathedral (Coordinator) Head Grade Mother, St.
-Patrick Elementary School PTO President, Saint Patrick Elementary School PTO Vice President, Holy Trinity Middle School and Charlotte Catholic High School CONTRIBUTE VOLUNTEER EMAIL UPDATES Proudly powered by Weebly Home Meet Mary Our Freshman Year The Latest CONTRIBUTE
+Patrick Elementary School PTO President, Saint Patrick Elementary School PTO Vice President, Holy Trinity Middle School and Charlotte Catholic High School CONTRIBUTE VOLUNTEER EMAIL UPDATES Proudly powered by Weebly Home Meet Mary The Latest CONTRIBUTE

@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Immigration & Border Security I’m an eighth-generation Texan.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Immigration & Border Security Secure the Border, Fix the System James Talarico believes our border should have a welcome mat out front and a lock on the door.
+His plan, endorsed by a Republican sheriff, hires more Border Patrol agents, cracks down on the cartels, and passes comprehensive immigration reform to fix a broken system.
+I’m an eighth-generation Texan.
 My family has been here since it was Mexico.
 We have deep ties to the border — my mother grew up in Laredo, and much of our family still lives there.
 We Texans understand immigration better than most Americans — both its challenges and its benefits.

@@ -1,4 +1,4 @@
-Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page VOTE FOR AVA Voting plays a critical role in shaping Colorado’s future, especially in highly competitive districts that can be decided by just a handful of votes.
+Home Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page VOTE FOR AVA Voting plays a critical role in shaping Colorado’s future, especially in highly competitive districts that can be decided by just a handful of votes.
 One striking example is House District 16, where the 2024 election was decided by only three votes.
 This reality underscores why every ballot matters and why your decision to vote for Ava Flanell can truly make a difference.
 In 2024, Colorado Republicans gained three seats in the House, ending the Democratic supermajority.

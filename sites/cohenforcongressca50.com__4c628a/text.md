@@ -20,6 +20,10 @@ I've reported on grocery prices eating up paychecks and healthcare premiums that
 Our current congressman has spent over a decade in Washington while these problems got worse, not better.
 I'm not a politician.
 I'm a San Diegan who has spent fifty years holding the powerful accountable — and I'm not stopping now.
+A question for Scott Peters Will you tell us before we vote?
+Are you interested in running for mayor in 2028?
+If you are, or you're considering it, let voters know before they cast their ballots.
+Steve Cohen: For truth, for change, and for all of you.
 For Truth.
 For Change.
 For Congress.

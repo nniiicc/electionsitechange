@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow Join Marty O'Donnell for Nevada District 3 Fighting for an Affordable America Marty O'Donnell is dedicated to serving the people of Nevada's Third District with a focus on family, small business support, and community security.
+Close About Priorities Join Store Contact Yard Sign Donate Follow Join Marty O'Donnell for Nevada District 3 Fighting for an Affordable America Marty O'Donnell is dedicated to serving the people of Nevada's Third District with a focus on family, small business support, and community security.
 Together, we can build a stronger future for our families and neighborhoods.
 Join the conversation with Marty O'Donnell Meet Marty O'Donnell: Ready to Lead.
 Ready to Serve.

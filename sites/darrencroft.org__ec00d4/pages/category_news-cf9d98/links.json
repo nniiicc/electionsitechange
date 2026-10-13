@@ -85,7 +85,7 @@
 },
 {
 "text": "Leave a comment",
-"href": "https://darrencroft.org/running-in-district-41/#respond"
+"href": "https://darrencroft.org/voter-guide/#respond"
 },
 {
 "text": "Meet Darren Croft and Kathleen Anderson",
@@ -140,16 +140,16 @@
 "href": "https://darrencroft.org/primary-results/"
 },
 {
-"text": "Read more",
-"href": "https://darrencroft.org/running-in-district-41/"
-},
-{
 "text": "Top 3",
 "href": "https://darrencroft.org/top-3-reasons-to-vote-for-darren/"
 },
 {
 "text": "Uncategorized",
 "href": "https://darrencroft.org/category/uncategorized/"
+},
+{
+"text": "Voter Guide",
+"href": "https://darrencroft.org/voter-guide/"
 },
 {
 "text": "[image: Darren Croft for Utah House District 41]",
@@ -193,7 +193,7 @@
 },
 {
 "text": "[image]",
-"href": "https://darrencroft.org/running-in-district-41/"
+"href": "https://darrencroft.org/voter-guide/"
 },
 {
 "text": "[no text]",
@@ -206,9 +206,5 @@
 {
 "text": "dvcadmin",
 "href": "https://darrencroft.org/author/dvcadmin/"
-},
-{
-"text": "“Running” in District 41",
-"href": "https://darrencroft.org/running-in-district-41/"
 }
 ]

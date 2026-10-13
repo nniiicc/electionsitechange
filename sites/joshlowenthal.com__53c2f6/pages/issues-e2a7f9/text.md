@@ -13,4 +13,4 @@ As a business owner, I’ve helped create hundreds of good paying jobs, many in 
 With record low employment, we need to focus not on just creating jobs, but making our existing jobs better.
 This means making access to education and uptraining easier and less expensive, ensuring our secondary and higher education graduates are being trained for the best jobs in our economy, and working to give workers a say on the job.
 In the Assembly, I’ll fight to make sure our schools have the resources they need, our higher education meets its promise of providing affordable college education to all graduating Californians, and our state is taking every step possible to help businesses create jobs we can all raise a family on.
-Join the Team Email ZIP Code Mobile Number About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District
+Join the Team Email ZIP Code Mobile Number Submit About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District

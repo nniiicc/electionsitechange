@@ -1,5 +1,4 @@
 Skip to content Matt Loesby for Idaho Campaign Platform Who Am I?
-Can I Win?
 Help the Campaign Donate Search Archive June 2024 May 2024 March 2024 Categorise Libertarian Party Politics Uncategorized Recent Posts Remove Chase Oliver as the Libertarian Presidential Nominee June 17, 2024 I Was Wrong.
 May 1, 2024 TikTok Is Not The Target March 15, 2024 Tags Social Links Facebook Twitter LinkedIn Instagram matt March 15, 2024 This week, the incumbent Russ Fulcher voted in favor of H.R.
 7521, a bill which sells itself as a means to ban TikTok and other foreign-owned social media companies that use algorithmic manipulation to propagandize their users.

@@ -1,4 +1,4 @@
-Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Meet Cyndi!
+Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Contact Donate Meet Cyndi Priorities Events Store Volunteer Contact Donate Meet Cyndi!
 Cyndi Munson is one of us.
 She has overcome life’s challenges to be where she is today, working to help others.
 The daughter of a Vietnam War Veteran and a South Korean immigrant, Cyndi grew up in Lawton.
@@ -16,4 +16,4 @@ Cyndi has fought against the most extreme measures in the Legislature, such as t
 Cyndi and her caucus were the first to call for an impeachment investigation into State Superintendent of Instruction Ryan Walters.
 Cyndi lives in Oklahoma City and enjoys running, reading, rowing, hiking, painting, puzzles, and mentoring young women across the state.
 Most of all, she loves spending time with her nephew, Jude.
-PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.
+Privacy Policy Media Kit FAQ PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.

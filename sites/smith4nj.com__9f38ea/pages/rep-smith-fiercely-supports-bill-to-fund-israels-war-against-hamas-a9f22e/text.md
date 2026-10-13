@@ -1,0 +1,20 @@
+Skip to content About Endorsements Election Information News Volunteer Contact Donate Rep.
+Smith Fiercely Supports Bill To Fund Israel’s War Against Hamas April 21, 2024 Rep.
+Chris Smith on Saturday took to the House Floor during debate and urged his colleagues to pass legislation (HR 8034) that would provide more than $26 billion in critical military assistance to Israel while prohibiting any US funds from flowing to the failed and pervasively antisemitic United Nations Relief and Works Agency (UNRWA) in Gaza.
+The bill was passed by the House in a vote of 366-58.
+“The United States must make absolutely clear in both word and deed, not just today, but every day—and without equivocation—that we stand with Israel,” said Smith, the Co-Chair of the Israel Allies Caucus.
+“Both defensive weapons systems like Iron Dome and David’s Sling and all necessary offensive military capabilities must be conveyed without delay to Israel for as long as it takes to defeat Hamas and to deter Iran, Hezbollah, and other radical Islamists,” Smith said.
+Smith, who has led efforts in Congress to expose UNRWA’s rampant antisemitism, said the legislation will prohibit US funding for the problematic UN agency.
+The measure mirrors Smith’s own bill—the Stop Support for UNRWA Act of 2024 (HR 7122)—that was passed by the House Foreign Affairs Committee in February.
+“Of significance, HR 8034 prohibits aid to Gaza from flowing through UNRWA, an antisemitic disgraceful organization that teaches Palestinian children to hate Jews and glorifies suicidal martyrdom and the evisceration of Israel as a state,” said Smith, who has chaired three hearings over the past ten months on UNRWA’s unbridled antisemitism and recently joined an international panel of experts in Geneva to highlight the issue.
+“UNRWA is a child soldiers factory that we have funded for decades,” Smith continued.
+“Twenty-#ago—on this Floor in 2003—I offered an amendment that passed the House to defund UNRWA.
+The Senate never acted.” “A few weeks ago, the Foreign Affairs Committee passed my bill to stop UNRWA funding,” said Smith.
+“HR 8034 defunds UNRWA.” “Israel has an absolute right to exist—free from aggression and antisemitic hate,” Smith said.
+According to the House Republican Leadership, the Israel Security Supplemental Appropriations Act of 2024 includes: $4 billion to replenish Iron Dome and David’s Sling missile defense systems; $1.2 billion for the Iron Beam defense system; $3.5 billion for the procurement of advanced weapons systems, defense articles, and defense services through the Foreign Military Financing Program; $1 billion to enhance the production and development of artillery and critical munitions; $4.4 billion to replenish defense articles and defense services provided to Israel; $2.4 billion for current US military operations in response to recent attacks; $9 billion for worldwide humanitarian aid; and $400 million to help secure non-profit institutions in America, including from increased threats of antisemitism; Provides flexibility for transfers of defense articles to Israel from US stockpiles; Prohibits funds to the United Nations Relief and Works Agency (UNRWA).
+WATCH: Rep.
+Smith Fiercely Supports Bill To Fund Israel’s War Against Hamas – Lakewood Alerts Post navigation Chris Smith said TikTok’s lobby campaign targeting minors was ‘greatly disturbing’ Rep.
+Chris Smith provides updates on human trafficking legislation, Prosecutor Raymond Santiago Shares County Initiatives.
+Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

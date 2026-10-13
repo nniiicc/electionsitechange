@@ -1,9 +1,38 @@
 [
-"https://facebook.com/StateRepSusanLynn",
-"https://instagram.com/susanlynn510",
-"https://linkedin.com/in/susan-lynn-8723b6a",
-"https://susanlynn.us/bio.html",
-"https://susanlynn.us/index.html",
-"https://susanlynn.us/links.html",
-"https://twitter.com/SusanMLynn"
+{
+"text": "BIO",
+"href": "https://www.susanlynn.us/bio.html"
+},
+{
+"text": "Home",
+"href": "https://www.susanlynn.us/index.html"
+},
+{
+"text": "Links",
+"href": "https://www.susanlynn.us/links.html"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/SusanMLynn"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/StateRepSusanLynn/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/susanlynn510/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/susan-lynn-8723b6a/"
+},
+{
+"text": "[image]",
+"href": "mailto:rep.susan.lynn@capitol.tn.gov"
+},
+{
+"text": "[image]",
+"href": "tel:615-741-7462"
+}
 ]

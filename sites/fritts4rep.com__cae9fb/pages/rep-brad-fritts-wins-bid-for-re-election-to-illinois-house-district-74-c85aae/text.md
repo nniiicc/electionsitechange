@@ -6,8 +6,8 @@ We didn’t stoop to negative, divisive political rhetoric, but instead focused 
 “Serving the people of the 74th has been the honor of a lifetime.
 I look forward to continuing my work to make our community a better place for families, businesses, and the hard-working men and women who make our state great.” For more information about State Representative Brad Fritts, visit his website at Fritts4Rep.com .
 ### You Might Also Like Rep.
-Fritts Responds to State of the State and Budget Address February 22, 2024 Fritts Seeks Third Term in Illinois House July 14, 2025 Rep.
-Fritts Condemns Senate Bill 2412 May 2, 2024 Young Conservative Voice Fighting for Common Sense Values.
+Fritts Condemns Senate Bill 2412 May 2, 2024 Fritts Seeks Third Term in Illinois House July 14, 2025 Rep.
+Brad Fritts Endorses Chris Bishop for State Senate March 8, 2024 Young Conservative Voice Fighting for Common Sense Values.
 Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
 Fritts P.O.
 Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.

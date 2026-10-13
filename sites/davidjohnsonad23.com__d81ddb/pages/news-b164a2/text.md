@@ -1,4 +1,30 @@
-Home Meet David Issues Photos News Endorsements News Latest updates from the campaign: 26 Jun Friday, 10:28 AM · 2026 America At 250 How should we think about the American Revolution on the 250 th anniversary of the Declaration of Independence?
+Home Meet David Issues Photos News Endorsements News Latest updates from the campaign: 12 Oct Monday, 9:40 AM · 2026 Article by Dave Johnson: “We’re not a piggy bank” [Opportunity Now Silicon Valley News] What does this November’s election say about where California is going?
+As part of an Opportunity Now exclusive series , we caught up with SVGOP Chairman Dave Johnson , who warns the state is turning further toward “an economic model of failure” based on unsustainable tax increases: For this mid-term, Reform California has a massive, coordinated, 58-county, statewide effort, the first of its kind in 20 years, and it just feels like there's grassroots momentum.
+Meanwhile, the Democrats have no plan other than portraying all Republicans as MAGA then repeating ‘MAGA bad, Trump bad, ICE bad,’ just to stay in power.
+Their only real plan is ‘we want to tax you more.’ Never mind the fraud.
+Never mind the waste.
+Never mind the abuse to the taxpayers.
+I think your walking-down-the-street Democrat doesn't want fraud.
+He doesn't want to pay more taxes for some program that goes to some grifter who lives in a mansion while we have to move out.
+California citizens are not a piggy bank.
+Any of us.
+I'm a small business owner.
+I'm getting impacted regularly by rising costs, from payroll taxes to the cost of materials, City permit fees, codes and a never-ending stream of regulations that impact the cost of doing business.
+And then there’s the billionaire’s tax.
+Along with businesses and employers, billionaires are leaving the state and will continue to do so.
+This takes away high paying jobs that keep the restaurants, pharmacies and dry cleaners (among others) open.
+All those people who leave the State are backfilled with people who are at the lowest level of income, and then the State puts them on public assistance.
+So, you're taking out the upper end of the marketplace and replacing it with a like number of people – although actually I think the state population is still trending down.
+People are voting with their feet.
+They're leaving, and the people that are backfilling those positions can't afford a house and can't afford to live here, because affordable housing is not really affordable.
+And the taxes are going to keep going up.
+You're going to lose the upper end of your revenue stream, and your solution is to raise taxes continuously.
+It doesn't work.
+It's an economic model of failure.
+If we start with "where does the money go?" and install a real-time tracking system of EVERY State expenditure, audits on all bills and install REAL financial transparency, we will soon find that we have a $50 billion surplus.
+Use that money to pay for social programs and infrastructure projects.
+Raising taxes (again) spells doom for California and its citizens, regardless of their political leanings (unless the goal is a socialist State).
+Read more 26 Jun Friday, 10:28 AM · 2026 America At 250 How should we think about the American Revolution on the 250 th anniversary of the Declaration of Independence?
 In 1818, John Adams wrote that the American Revolution took place “in the hearts and minds of the people” and that it was a “radical change in the principals, opinions and sentiments of the people”.
 THAT, was the real American revolution.
 Read more 9 Jun Tuesday, 10:28 AM · 2026 Work To Do: Tips for Matt Mahan as he returns to San Jose Leadership SVGOP Chairman Dave Johnson offers SJ Mayor Matt Mahan--now that his gubernatorial run is over--a simple, cost-effective agenda to get San Jose back on track.

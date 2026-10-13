@@ -1,4 +1,4 @@
-Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE March 27, 2026 Chris Backemeyer Secures Endorsement from Former Governor and U.S.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Volunteer Home Meet Chris Priorities Latest News Endorsements Events Merch Volunteer Facebook X-twitter Instagram Youtube VOLUNTEER DONATE March 27, 2026 Chris Backemeyer Secures Endorsement from Former Governor and U.S.
 Senator Ben Nelson Support from respected community leaders signals growing momentum for Backemeyer’s campaign to bring new leadership to Nebraska’s 1st Congressional District FOR IMMEDIATE RELEASE: March 27, 2026CONTACT: Campaign@BackNebraska.com Backemeyer continues to build support in Nebraska’s First Congressional District Lincoln, NE — Today, Democratic candidate for Nebraska’s First Congressional District Chris Backemeyer announced the endorsement of former governor and U.S.
 Senator Ben Nelson.
 “This is a moment that demands Chris’ experience and vision for our state,” said former Senator Ben Nelson .
@@ -10,6 +10,6 @@ For more than two decades, Chris served at the highest levels of national securi
 Department of State and the White House National Security Council.
 Now, he’s running for Congress to serve the state that shaped him, fighting for working families, expanding opportunity, and building a better future for all Nebraskans.
 ### Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
-Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Volunteer Home Meet Chris Priorities Latest News Endorsements Events Merch Volunteer Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
 Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

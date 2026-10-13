@@ -1,5 +1,10 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News REP.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News Thompson, Schiff, Valadao Lead Call for USDA Assistance for Peach Farmers California Farmers Need Relief Following Peach Processing Plant Closure March 13, 2026 Yuba-Sutter Region, California – Today, Rep.
+Mike Thompson (D-CA-04), Senator Adam Schiff (D-CA), and Rep.
+David Valadao (R-CA-22) led a bipartisan group of 39 colleagues to request Secretary of Agriculture Brooke Rollins issue assistance to peach farmers in Yuba and Sutter Counties.
+Read more REP.
+MIKE THOMPSON LEADS OVER 700 COMMUNITY MEMBERS IN NAPA AND WOODLAND FOR “NO FOREVER WARS” DAYS OF ACTION March 12, 2026 Napa and Woodland, CA — Congressman Mike Thompson (CA-04) led over 700 community members, veterans, and military families this weekend in Napa and Woodland for “No Forever Wars” Day of Action events calling for congressional oversight regarding the U.S. military involvement in Iran.
+Read more REP.
 MIKE THOMPSON PRESENTS $850,000 CHECK TO SUPPORT NAPA VALLEY VINE TRAIL CONNECTION BETWEEN YOUNTVILLE AND ST.
 HELENA March 10, 2026 Napa County, CA — Congressman Mike Thompson (CA-04) yesterday presented an $850,000 federal funding check to the Napa Valley Vine Trail Coalition to support the development of a key segment of the Napa Valley Vine Trail between Yountville and St.
 Helena.
@@ -44,9 +49,4 @@ Mike Thompson (CA-04) issued the following statement in response to the Supreme 
 Read more Thompson Secures $13.32 Million in Federal Funding for Projects in California's Fourth District February 17, 2026 Delivers $2.3 Million for Sonoma County Community Projects Read more Thompson Issues Statement on Voting to End the President's "Emergency" Tariffs on Canada February 11, 2026 Read my statement on voting to end President Trump's "emergency" tariffs on Canada.
 Read more Thompson Releases Statement Condemning Republican Funding for ICE February 3, 2026 Washington, D.C. – Rep.
 Mike Thompson (CA-04) released the following statement in response to Republicans’ government funding package, which included funding for ICE.
-Read more Thompson Introduces Bill to Prevent President from Profiting Off Lawsuits Against the U.S.
-Government February 2, 2026 Washington, D.C. – Today, Rep.
-Mike Thompson (CA-04), Ranking Member of the House Ways and Means Subcommittee on Tax, announced legislation to prevent a sitting president from profiting from lawsuits against the United States government.
-Read more REP.
-MIKE THOMPSON, JOINED BY 1,500+ ACROSS NORTHERN CALIFORNIA, CALLS FOR NOEM IMPEACHMENT AND CUTS TO ICE FUNDING January 31, 2026 Woodland, CA — This week, Congressman Mike Thompson (CA-04) was joined by over 1,500 community members in Napa and Woodland to protest ICE’s rogue actions in Minneapolis and call for action.
 Read more Pagination First page « First Previous page ‹ Previous … Page 2 Page 3 Page 4 Page 5 Current page 6 Page 7 Page 8 Page 9 Page 10 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

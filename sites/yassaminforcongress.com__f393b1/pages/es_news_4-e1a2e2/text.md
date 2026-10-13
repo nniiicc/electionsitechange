@@ -1,4 +1,4 @@
-Ir al contenido Meet Yass Noticias Media Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
+Ir al contenido Meet Yass Noticias Endorsements Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
 Read below to find out what Yassamin has been up to recently.
 NEWS Notus: Progressive Lawmakers Launch Affordability Listening Tour in Battleground States “The goal is really to build the progressive affordability agenda,” Ansari said.
 “Determine what are the bills, and also the big-picture policies that we want, we would potentially want a 2028 presidential contender to run on that we think would be the most impactful to address the affordability crisis.” abril 17, 2026 Huffpost: Congresswoman Files Articles Of Impeachment Against Pete Hegseth Rep.

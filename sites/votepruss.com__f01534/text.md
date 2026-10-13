@@ -1,4 +1,4 @@
-DONATE TODAY Protecting Your Vote.
+Protecting Your Vote.
 Protecting Your Rights.
 Protecting Your Business.
 Ohioans deserve a Secretary of State who believes in: For too long, the Secretary of State’s office has been used as a gatekeeper for the two major parties.
@@ -24,4 +24,4 @@ His dedication to public service reflects his deep ties to the Toledo community 
 At home, Tom is a devoted family man.
 He and his wife, Alicia, are proud parents of three children: Jillian, a Purdue University graduate; Joe, currently a junior at Butler University; and Jamison, a sophomore at Northview High School in Sylvania.
 Whether at work, in the community, or with his family, Tom leads with passion, integrity, and a commitment to making a difference.
-Get in touch www.votepruss.com Website info@votepruss.com Email 419.540.8667 Contact number DONATE TODAY PAID FOR BY Vote Pruss
+Get in touch www.votepruss.com Website info@votepruss.com Email 419.540.8667 Contact number PAID FOR BY Vote Pruss

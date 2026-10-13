@@ -1,11 +1,9 @@
 top of page Home About Me Testimonials Blog Donate Contact Blog The Importance of Freedom in Choices: A Day with Anthony Kathol at Dairy Queen State Senate Candidate Anthony Kathol makes a trip to his local Dairy Queen and discusses the importance of free enterprise.
-Anthony Kathol Jul 17 3 min read Featured Blog Post Vote YES on Amendment L District 27 State Senate Candidate recommends voting YES on South Dakota Amendment L to protect our state constitution from out-of-state special interests.
+Anthony Kathol Jul 17 3 min read Featured Blog Post A Busy Day on the Campaign Trail Read about District 27 State Senate Candidate Anthony Kathol's busy day on the campaign trail.
+#ago Vote YES on Amendment L District 27 State Senate Candidate recommends voting YES on South Dakota Amendment L to protect our state constitution from out-of-state special interests.
 #ago Join me on the Kathol for District 27 State Senate Campaign "Freedom Train" All Aboard!!!
 The Kathol for District 27 State Senate Campaign "Freedom Train" #ago Why Some Voters Did Not Receive My Postcard District 27 State Senate Candidate Anthony Kathol sends out his first postcard and discusses why some voters did not receive theirs.
-#ago A Challenge to all Men Aged 18 to 35 District 27 State Senate Candidate Anthony Kathol offers a challenge to young men between the ages of 18 and 25.
-Check out my video to find out.
-#ago One of the Best Days on the Campaign Trail Discover why today was one of the best days on the campaign trail with District 27 State Senate Candidate Anthony Kathol, as he puts up yard signs in his hometown of Martin!
-Sep 30 Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+#ago Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

@@ -9,7 +9,7 @@ He’s worked with leaders of every political stripe to understand what Louisian
 VIEW THE ISSUES DONATE TODAY Pat knows how to bring people together, solve difficult problems, and deliver for Louisiana.
 We need your help to get it done.
 DONATE “Washington, D.C. is a disaster.
-Reckless tariffs, misguided wars, and tax cuts for billionaires are driving up the cost of living for Louisiana families.
+Rampant corruption, reckless tariffs, misguided wars, and tax cuts for billionaires are driving up the cost of living for Louisiana families.
 I’ve spent decades working with people of every political stripe to make Louisiana a safer, better place to live and that’s exactly what I’ll do in Congress.” — PAT FORBES Thank you for your support Gov.
 Edwards!
 “I’ve known Pat Forbes my entire life.

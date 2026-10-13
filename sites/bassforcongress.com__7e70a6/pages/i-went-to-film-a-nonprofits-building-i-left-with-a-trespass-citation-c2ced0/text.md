@@ -106,20 +106,15 @@ If you’re an employee who has seen something wrong, you’ll be protected.
 Minnesota is a great state.
 Let’s make sure it stays that way.
 Tyler Bass For Congress Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
-I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
-September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular CCX Media Community News October 13, 2026 WCCO Questions and Answers October 13, 2026 Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
 Email Address Phone # Name subscribe Categories Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
-Next Americans Should Always Come First Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Next Americans Should Always Come First Next On Key Related Posts CCX Media Community News Why I Am Going on CCX Media: The Difference Between Me and Kelly Morrison Oct 13, 2026 · Voters in Minnesota’s 3rd District deserve a WCCO Questions and Answers My Answers on Taxes, Health Care, Immigration, Jobs, and Fraud Oct 12, 2026 · Minnesotans deserve straight answers, so here are mine to five questions Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
 Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
-In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
-I Left With a Trespass Citation.” Where Is the Money Going?
-What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
-What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+In December 2023 she was supposed to perform Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!

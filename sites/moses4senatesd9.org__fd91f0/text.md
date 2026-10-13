@@ -57,7 +57,7 @@ Never turn my back on them but work for the best interest of you!
 Also, I will keep the lines of communication open with those I will run against to ensure continued dialog that supports you.
 No other way is acceptable to me.
 My IDEOLOGY The entirety of my adult life has been “Service before Self.” I believe in the Constitution and the Bill of Rights.
-Over the span of time while in the military and later as a Federal Civil Servant, I have taken an oath nearly a dozen times to affirm my commitment to defend this country; to hold dear our way of life that we the people as Americans have chosen.
+Over the span of time while in the military and later as a Federal Civil Servant, I have taken an oath of office nearly a dozen times to affirm my commitment to defend this country; to hold dear our way of life that we the people as Americans have chosen.
 My life lives in and is centered in this Oath.
 Martin Luther King said that a “If a man hasn’t discovered something that he will die for, he isn’t fit to live.” I will and would fight and die for this country without hesitation.
 The Oaths I took stated, “I William D.

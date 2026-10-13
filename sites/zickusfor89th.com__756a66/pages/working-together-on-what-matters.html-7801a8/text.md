@@ -1,10 +1,4 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved Back to Things Meegan is Thinking About Things Meegan is Thinking About We Don’t Have to Agree on Everything to Work Together on What Matters 30-second overview From the published campaign article You may disagree with me on some issues.
-I’ll still listen, take your concerns seriously, and work for the things our families need: strong public schools, responsible use of our tax dollars, and health care people can afford.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records Source: the published campaign statement on this page.
-Further reading is linked below.
-By Meegan Zickus · September 30, 2026 You may disagree with me on some issues.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved Back to Things Meegan is Thinking About Things Meegan is Thinking About We Don’t Have to Agree on Everything to Work Together on What Matters By Meegan Zickus · September 30, 2026 You may disagree with me on some issues.
 I’ll still listen, take your concerns seriously, and work for the things our families need: strong public schools, responsible use of our tax dollars, and health care people can afford.
 Public education has been a commitment throughout my career.
 On the Allendale school board, I earned the Michigan Association of School Boards’ President’s Award of Distinction for completing its highest level of training.
@@ -28,5 +22,5 @@ You don’t have to agree with me on every issue to know what I’ll bring to th
 That’s how we make progress for all of us . — Meegan Zickus Back to Things Meegan is Thinking About Related reading What has happened with Ottawa County legal costs and settlements?
 What Did Ottawa County Taxpayers Get for Their Money?
 Ottawa County families got the bill.
-Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

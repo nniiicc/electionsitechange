@@ -25,9 +25,5 @@ Volunteer, ask about upcoming events, or find another way to get involved with T
 Volunteer / Events Instagram Send the campaign a message and tell us how you would like to help.
 A member of Team Zickus can follow up with volunteer opportunities.
 Follow Meegan Connect with the campaign on social media.
-Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Disclaimer: Any errors are unintentional.
-Please bring them to our attention so we can fix them—also, information changes.
-Positions will always reflect the best information I had at the time.
-I am responsive and open to adjusting.
-Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Sources & corrections Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

@@ -1,4 +1,7 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Archuleta County Sheriff Mike Le Roux “Michael doesn’t view Law Enforcement as a ‘problem to be managed.’ He views us as the primary line of defense for Colorado citizens.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Retired Arapahoe County Sheriff David Walcher “I’ve spent my career in law enforcement, and I know what it takes to keep communities safe – Michael Allen has done that job and done it well.
+He has the experience, the backbone, and the record of putting dangerous criminals behind bars.
+This is a winnable race, but only if we nominate someone who can both stand up to the Democrats and win statewide – and Michael Allen is that candidate.
+Colorado needs a prosecutor as Attorney General, not another politician.” Archuleta County Sheriff Mike Le Roux “Michael doesn’t view Law Enforcement as a ‘problem to be managed.’ He views us as the primary line of defense for Colorado citizens.
 He has spent his career successfully building bridges and developing partnerships with elected officials, local agencies and departments, and is committed to ensuring that the Attorney General’s Office serves as a resource, not an obstacle.” Douglas County Sheriff Darren Weekly “I’ve known Michael Allen for many years and I’m proud to call him a friend.
 As a District Attorney, he’s demonstrated strong judgment, real leadership, and a clear commitment to the rule of law and public safety.
 Michael Allen is the clear choice for Attorney General of Colorado.” El Paso County Sheriff Joe Roybal “It is my privilege to support Michael Allen for Colorado Attorney General.
@@ -15,10 +18,6 @@ I’m proud to endorse them.” Teller County Sheriff Jason Mikesell and former 
 Michael stood with me when no one else would and we had a 100 percent conviction rate for many cartel members.
 I believe he is best positioned to take the fight to the Democrats this fall and deliver victories for citizens as state Attorney General.
 He is a principled leader who will be ready on day one.” Weld County Sheriff Steve Reams “As the Sheriff of Weld County, I am proud to put my full support behind Michael Allen for Colorado Attorney General.
-He is the only candidate with the experience, resolve, and proven record needed to put criminals behind bars and make Colorado a safe place to live again.” District Attorney for the 9th Judicial District Benjamin Sollars “As the District Attorney serving Garfield, Pitkin, and Rio Blanco counties, I know how important it is to have an Attorney General who understands both public safety and the communities of the Western Slope.
-Michael Allen will answer the call for Colorado.
-Michael understands that public service is about doing the work, defending the rule of law, and protecting the things that matter to our communities, including our safety and our water.
-He has the experience, integrity, and judgment to be an Attorney General for all of Colorado.
-I am proud to endorse Michael Allen for Attorney General.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+He is the only candidate with the experience, resolve, and proven record needed to put criminals behind bars and make Colorado a safe place to live again.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

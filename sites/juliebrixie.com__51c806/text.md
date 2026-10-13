@@ -1,1 +1,2 @@
-
+Home Julie's Story Julie's Values Endorsements Contact CANVASSING CONTRIBUTE UPDATES YARD SIGNS Paid for by Julie Brixie for State Representative (73rd House District) | 2294 Hamilton Rd, Okemos, MI 48864 | julie@juliebrixie.com MEDIA: Download Julie's Headshot | Download Julie's Media Bio | Julie's Voluntary Financial Disclosure For m Former State Rep.
+Mark Meadows - Treasurer © # All Rights Reserved ​    

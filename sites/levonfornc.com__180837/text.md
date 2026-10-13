@@ -2,9 +2,11 @@ Home About Priorities Endorsements Merch Volunteer Events Home About Priorities 
 LeVon Barnes is a father, husband, teacher and coach who knows what it takes to raise a family here in Alamance County.
 He’s running for State House District 64 to make government work for us — not for Duke Energy or Raleigh insiders.
 JOIN MY CAMPAIGN DONATE From the kitchen table to the classroom, Coach Barnes is fighting for the everyday people who make this community home.
-His priorities are simple: make life affordable, invest in our kids, rebuild our communities, and protect our freedoms.
-The COACH BARNES PLATFORM: Affordability: Making Alamance livable again Government Accountability: Making Raleigh work for us Fully Fund Public Education: Investing in our kids' futures, regardless of zip code.
-Community Investment and Resiliency Protecting what we've built Reproductive Freedom: Protect and expand access to quality reproductive health care.
+His priorities are simple: make life affordable, invest in our kids, fully fund our communities, and protect our freedoms.
+The COACH BARNES PLATFORM: Affordability Making Alamance livable again by fighting the cost-of-living emergency.
+Government Accountability Making Raleigh work for us Fully Fund Public Education Investing in our kids' futures, regardless of zip code.
+Community Investment and Resiliency Protecting what we've built Reproductive Freedom Protect and expand access to quality reproductive health care.
+Community and Police Cooperation Instill common-sense, results-oriented policies that improve safety in our communities.
 Protect Farms and Small Businesses Enable working people to prosper in Alamance Read Coach Barnes's Plan The Scouting Playbook says it all: My opponent looks out for big money donors and Raleigh lobbyists.
 I'm looking out for the working people of Alamance who have been neglected by leadership for far too long.
 Read Coach Barnes's Bio Coach LeVon Barnes Fights for an affordable Alamance A champion for public schools Accountable to you, the voter Advocate for community investment Fighter for reproductive care Dennis Riddell Increased your medical and utility bills Dismantling public education Closed his public inbox Helped prevent access to FEMA funds Supports govt. overreach in the doctor's office JOIN OUR MOVEMENT Together, we can create an affordable place to live with a government that fights for us, not the lobbyists in Raleigh.

@@ -6,15 +6,12 @@ Knock on doors with Katie!
 RSVP for location Get out the vote!
 Training provided.
 Join us to get a free hat and a button!
-Knock on doors with Katie!
-RSVP for location Get out the vote!
-Training provided.
-Join us to get a free hat and a button!
 Day of Action!
 RSVP for Location Let's get out the vote!
 However you would like to help, there's something for you: -Stay home in your PJs and call voters -Hit the streets and put out yard signs -Join Katie to knock on doors All information, materials, and training will be provided.
 Thank you so much for making a difference!
-Weekend of Action RSVP for Location Let's get out the vote!
+Candidates Meet and Greet Towne Tavern 9789 Charlotte Hwy Indian Land, SC 29707 Meet Your Democratic Candidates: Dr.
+Jermaine Johnson - Governor Vincent Coe - Treasurer Tiffany Boozer - Comptroller General Mallor Dittmer - US Congressional District 5 Katie Crosby - SC House District 44 Weekend of Action RSVP for Location Let's get out the vote!
 However you would like to help, there's something for you: -Stay home in your PJs and call voters -Hit the streets and put out yard signs -Join Katie to knock on doors All information, materials, and training will be provided.
 Thank you so much for making a difference!
 Election Day of Action RSVP for location Let's get out the vote!

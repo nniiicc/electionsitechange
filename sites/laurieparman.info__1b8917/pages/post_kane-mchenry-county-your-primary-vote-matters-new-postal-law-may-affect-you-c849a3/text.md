@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform Search Kane & McHenry County -Your Primary Vote Matters!
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA Search Kane & McHenry County -Your Primary Vote Matters!
 NEW Postal Law May Affect Your Mail-in Ballot Judi Zapp Feb 7 1 min read ⭐ Laurie Parman for the People⭐ Vote in Person Early⭐ Vote on Election Day ⭐Vote by Mail KEY DATES 2/5/26 - Early Voting and Vote by Mail Voting Begin 3/17/26 - Election Day (6 am - 7 pm) OPTION 1 ⭐ Early Voting with Your Mail-in Ballot (2/5/26 to 3/16/26) You can decide to vote in person.
 BUT… You MUST bring your ballot to your polling place, surrender the ballot to the judges, sign the required affidavit, and then you can vote using election equipment.
 Otherwise, it’s back home to get it.

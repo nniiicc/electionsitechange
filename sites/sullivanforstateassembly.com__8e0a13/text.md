@@ -11,14 +11,18 @@ Tom Sullivan has dedicated his life to serving others as a father, husband, sold
 With more than 30 years of experience in business and finance, while serving 30 years in the Army Reserve — including combat tours in Kuwait, Iraq, and Afghanistan before retiring as a Colonel — Tom is well prepared to serve our community as its next assemblyman.
 Read More Read More A Bold Vision.
 Real Solutions.
-Read More Affordability New York’s high taxes and rising costs are putting pressure on families, seniors, and small businesses.
-Tom Sullivan will fight for tax relief, responsible budgets, and common-sense policies to make New York more affordable.
-Quality of Life Many neighborhoods are facing concerns like cleanliness, sanitation, overcrowding, and neglected public spaces.
-Tom Sullivan will work to improve local quality of life by supporting better services, responsible planning, and investments that keep communities safe, clean, and livable.
-Rockaway Level 1 Trauma Center Residents of the Rockaways deserve access to the highest level of emergency care close to home.
-Tom Sullivan will fight to bring a Level 1 Trauma Center to the Rockaways, ensuring faster emergency response times and better healthcare access for residents and first responders.
-Public Safety and First Responders Many New Yorkers are concerned about rising crime and the safety of their neighborhoods.
-Tom Sullivan will support our police, firefighters, and EMS personnel by investing in training, resources, and tools needed to keep communities safe.
+Read More Affordability New York families deserve a state they can afford.
+Tom Sullivan has signed the Taxpayer Protection Pledge, promising to oppose and vote against tax increases.
+He will fight to lower costs, reduce wasteful spending, and put more money back in the pockets of working families.
+Public Safety Safe streets mean stronger communities.
+Tom Sullivan will fight to support our police, equip officers with modern technology, and ensure first responders have the resources they need.
+Every New Yorker deserves to feel safe at home, on the streets, and on the subway.
+Transportation and Infrastructure Queens deserves better roads and better transit.
+Tom Sullivan proudly supports QueensLink and will fight for road repairs, improved drainage, and reliable public transportation.
+It's time to invest in infrastructure that keeps our communities moving.
+Education A quality education is the right of every student.
+Tom Sullivan champions robust public schooling, updated facilities, advanced workforce preparation, and vocational growth.
+Above all, he stands for parental empowerment, ensuring families have a vital role in local learning.
 We the People Volunteer here, we're stronger together.
 First name * Last name * Email * Phone By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information and event reminders) from Sullivan for State Assembly at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.

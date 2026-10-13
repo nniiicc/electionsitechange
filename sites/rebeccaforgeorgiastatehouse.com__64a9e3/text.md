@@ -5,7 +5,7 @@ As an educator and working parent, I’ve seen how hard families work and how of
 I’m running as a Democrat to fight for strong public schools, affordable healthcare, fair wages, and an economy that puts people over politics.
 I want to be a voice for everyday Georgians and make sure our state works for all of us, not just the few.
 Hello!
-My name is Rebecca Sims, and I am a life-long resident of this area who believes that thriving communities are 0.5s Everyone who works full-time should be able to afford the basics of life.
+My name is Rebecca Sims, and I am a life-long resident of this area who believes that thriving communities are 0.2s Everyone who works full-time should be able to afford the basics of life.
 That means being able to pay for housing, put food on the table, and cover everyday expenses without constant fear of falling behind.
 Cashiers, janitors, bank tellers, and so many others keep our communities running every day, and they deserve wages that support a stable, dignified life.
 Hard work should be rewarded with security, respect, and the opportunity to get ahead—not just survive.

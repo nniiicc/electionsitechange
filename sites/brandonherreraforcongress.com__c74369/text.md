@@ -14,7 +14,7 @@ He works with pro-freedom groups both in the Second Amendment community and othe
 Brandon is a very strong constitutionalist who believes one of the keys to individual Liberty is limiting federal power as much as possible, and returning that power to the states to decide issues for themselves.
 Proudly Endorsed By President Donald J.
 Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Proudly Endorsed By President Donald J.
-Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Top Issues in TX-23 Live Results 1 Second Amendment 87 2 Border Security 80 3 Cost of Living (food, necessities, auto insurance) 76 4 Economy 59 5 Socialism 56 Texas's 23rd Congressional District Live in TX-23?
+Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Top Issues in TX-23 Live Results 1 Second Amendment 87 2 Border Security 81 3 Cost of Living (food, necessities, auto insurance) 76 4 Economy 60 5 Socialism 57 Texas's 23rd Congressional District Live in TX-23?
 We're Listening.
 Whether you've made it to a town hall or not, your voice belongs in this campaign.
 Tell us what matters most to you — and see what your neighbors are already saying.
@@ -23,5 +23,5 @@ Herrera Campaign Announces $# Raised in Q3 October 6, 2026 • Press Releases He
 17 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST • Volunteer Event 18 Oct Early Voting Kickoff Rally 5:00 PM - 6:00 PM CST • Rally 19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST • Town Hall 21 Oct Maverick County Town Hall – Maverick County Lake Pavilion 6:30 PM - 7:30 PM CST • Town Hall View All Campaign Events Support Brandon's Campaign Your donation will help us bring new leadership to Texas' 23rd Congressional District and fight for actual conservative values in Congress. $# $# $# $# $#,# $#,# $#,# Other Campaign Gallery Explore media from Brandon Herrera's campaign trail, events, and community engagements.
 Get a closer look at the moments that define our journey to bring actual conservative values to Congress, and see how you can be a part of this movement.
 Join Our Grassroots Volunteer Team Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
-Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274 Watch Brandon's Speech From The Trump Rally Fired up?
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274 Fired up?
 Chip in to keep the momentum going all the way to November! $35 $100 $250 Other

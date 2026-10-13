@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Releases New Ad: “Aisle” Sep 15, 2026 | Press Release Back to Updates Marion, IA – Ashley Hinson launched a new ad for the general election today, “Aisle.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [ Watch Here ] “It used to be that reaching across the aisle wasn’t just okay, it was expected.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Releases New Ad: “Aisle” Sep 15, 2026 | Press Release Back to Updates Marion, IA – Ashley Hinson launched a new ad for the general election today, “Aisle.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [ Watch Here ] “It used to be that reaching across the aisle wasn’t just okay, it was expected.
 Some people in Washington forgot that.
 I never have.
 That’s why I worked with Democrats to expand mental healthcare for veterans and with President Trump to take on big health insurance companies to lower your costs.

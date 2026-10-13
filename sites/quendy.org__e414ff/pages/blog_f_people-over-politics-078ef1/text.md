@@ -21,5 +21,5 @@ Parties are so polarizing these days, and I don’t care for all the hateful rhe
 My pledge is simple: People Over Politics.
 What that looks like is representation that you can TRUST and a representative who is ACCESSIBLE and actually LISTENS.
 It takes vulnerability to put your name on a ballot, but our rural communities are worth fighting for.
-I hope you’ll vote for me November 3 and tell your friends and neighbors about me as well. 🗳🗳🗳 #voteforquendy #peopleoverpolitics Share this post: Recent Posts District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Overwhelmed with Gratitude Aug 31, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
+I hope you’ll vote for me November 3 and tell your friends and neighbors about me as well. 🗳🗳🗳 #voteforquendy #peopleoverpolitics Share this post: Recent Posts District 60 Tour l Carlisle + DesArc Oct 12, 2026 District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
 Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

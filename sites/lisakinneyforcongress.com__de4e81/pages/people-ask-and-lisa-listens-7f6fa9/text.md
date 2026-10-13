@@ -35,6 +35,4 @@ I will work to bring back funding as well as expanding programs for everyone.
 What experiences, traits, or actions distinguish you from your fellow candidates?
 The Constitution, the rule of law, and due process have been ignored by the current administration, in my opinion.
 I want to strengthen our rights under the Constitution by reaffirming the Voting Rights Act, putting some teeth in Civil Rights laws, getting rid of all violent ICE activities, honoring equal rights laws and taking other steps to put us on a solid future for our kids and grandkids.
-Thank you for your support! ← Labor Day Picnic Protect Public Lands Rally → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
-Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Thank you for your support! ← Labor Day Picnic Protect Public Lands Rally → More posts Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Wyoming PBS Debates Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

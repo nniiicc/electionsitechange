@@ -40,8 +40,6 @@ Get involved.
 Make your voice heard.
 Because if we don’t shape the future of this region, someone else will.
 Previous I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Next PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Why Is Southern Ontario Doing Better Than Western New York?
-PODCAST CLIP: THEY DIDN’T EVEN SHOW UP IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-Volunteer and Sign Up for Updates!
+You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
+Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Volunteer and Sign Up for Updates!

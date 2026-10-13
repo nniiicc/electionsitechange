@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record What we delivered.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record What we delivered.
 Eight issue areas.
 Real bills, real votes, real Kansas outcomes.
 Browse every bill by number → 01 Senate Agriculture, Nutrition & Forestry Agriculture Phosphate fertilizer relief for Kansas growers.

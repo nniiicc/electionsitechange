@@ -1,4 +1,4 @@
-top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Search Why I’m Voting No on the Essex Local Option Tax Stephanie Mack #ago 5 min read Essex voters are being asked to consider three questions concerning a 1% local option tax (LOT).
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Government Accountability Search Why I’m Voting No on the Essex Local Option Tax Stephanie Mack Oct 5 5 min read Essex voters are being asked to consider three questions concerning a 1% local option tax (LOT).
 Before we add another tax, I believe we need to ask a basic question that has not received enough attention: Who will actually pay it?
 Lowering the tax burden is one of the priorities I have identified in my campaign for the Vermont House.
 That means looking carefully at every proposal that asks Vermont families to pay more, especially at a time when property taxes, housing, energy, food and other everyday expenses are already putting tremendous pressure on household budgets.
@@ -67,4 +67,4 @@ Essex is not Williston.
 It is not South Burlington, nor Burlington.
 We should not assume that a tax structure that produces substantial revenue for communities built around regional shopping, interstate traffic and tourism will work the same way here.
 I will be voting no on the Essex local option tax questions, and I encourage Essex voters to take a close look at who will really pay before casting their votes.
-Tags: Small Business Essex Chittenden-24 Vermont Business Stephanie Mack LOT Local Option Tax Sales Tax Vermont Taxes Tax Burden Campaign Updates Recent Posts See All Listening to Local Business: Stephanie Mack Visits Homeport AI, Innovation, and Vermont Small Business Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page
+Tags: Small Business Essex Chittenden-24 Vermont Taxes Vermont Business Stephanie Mack LOT Local Option Tax Sales Tax Tax Burden Campaign Updates Recent Posts See All Listening to Local Business: Stephanie Mack Visits Homeport AI, Innovation, and Vermont Small Business Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow Privacy Policy Who we are Our website address is: https://martyforcongress.vote.
+Close About Priorities Join Store Contact Yard Sign Donate Follow Privacy Policy Who we are Our website address is: https://martyforcongress.vote.
 Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/.

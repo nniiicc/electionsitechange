@@ -1,14 +1,18 @@
 {
- "description": "\"Tennesseeans are dealing with a cost of living crisis. I hear it from voters regularly, especially folks who have been here for long enough to notice the change. Every policy in this collection takes tangible steps to reduce costs in Tennessee, either directly for your every day purchases or for the state in a way that reduces cost for all. Inside you'll find relief for housing, healthcare, energy, groceries, debt, and more.\"",
+ "description": "\"Tennesseeans are dealing with a cost of living crisis. I hear it from voters regularly, especially folks who have been here for long enough to notice the change. Every policy in this collection takes tangible steps to reduce costs in Tennessee, either directly for your every day purchases or for the state in a way that reduces cost for all.\"",
  "final_url": "https://davefortn.com/policy-collections/cost-savers",
- "fingerprint": "6cf04e17660b6e49283075d1fa6be125b65b7605",
+ "fingerprint": "150c9b0190e569219f481a92188a0f0b07400f21",
  "format": 3,
  "paid_for_by": "paid for by closing corporate tax loopholes",
- "title": "Cost Savings",
+ "rendered": false,
+ "title": "Cost Conscious",
  "years_mentioned": [
   "2010",
+  "2018",
   "2021",
-  "2023",
-  "2026"
+  "2025",
+  "2026",
+  "2028",
+  "2029"
  ]
 }

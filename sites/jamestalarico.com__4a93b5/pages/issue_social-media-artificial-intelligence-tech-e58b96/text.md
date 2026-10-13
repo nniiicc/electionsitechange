@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Social Media, AI & Tech Our government has a role to play in ensuring technology makes our lives easier, safer, and more productive.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Social Media, AI & Tech Keeping Kids Safe and Holding Platforms Accountable Predatory algorithms are profiting off our outrage.
+James Talarico will keep kids safe online, give parents more control over their children’s social media, and hold social media companies accountable without limiting free speech.
+Our government has a role to play in ensuring technology makes our lives easier, safer, and more productive.
 America should be the world’s innovation leader — but it shouldn’t come at the cost of our children’s safety, our workers’ livelihoods, or the reliability of the news we consume.
 Social media was created to bring us together and keep us informed, but it has evolved into something else.
 Predatory algorithms elevate the most extreme voices on all sides to provoke our outrage, get more clicks, and make more money.
@@ -12,7 +14,7 @@ When it comes to regulating the tech sector, some say we must choose between inn
 I reject that false choice.
 We can defend free speech while holding powerful corporations accountable.
 We can encourage innovation while setting clear guidelines that protect Americans from harm.
-We can and must do both. . @JamesTalarico : Social media algorithms and cable news networks tear us apart so we don’t notice they are closing our schools, gutting our health care, and cutting taxes for the rich.
+We can and must do both. @teamtalaricohq 👏👏 ♬ original sound – Team Talarico @teamtalaricohq Watch this. ♬ original sound – Team Talarico @teamtalaricohq Wow. 👀 ♬ original sound – Team Talarico @teamtalaricohq Listen to this. ♬ original sound – Team Talarico . @JamesTalarico : Social media algorithms and cable news networks tear us apart so we don’t notice they are closing our schools, gutting our health care, and cutting taxes for the rich.
 They want to keep us from seeing that there is far more that unites us than divides us pic.twitter.com/eGY9J9bmQ5 — Team Talarico (@TeamTalaricoHQ) September 15, 2025 . @JamesTalarico : Our division is not by accident.
 The social media platforms, the algorithms, and the news networks tear us apart.
 We have got to find our back to each other.
@@ -27,6 +29,8 @@ Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .
 We want to hear from you!
+Hold data centers accountable and stop them from jacking up our utility bills : End sweetheart tax deals for big tech companies, guarantee large energy users like data centers fund the infrastructure improvements they need rather than passing those costs on to consumers, require new data centers to use a closed-loop system to reduce water consumption and pollution, set minimum federal requirements for new data center projects to protect our grid, environment, and jobs and ensure transparency, and empower local communities to decide whether they want a data center in their town.
+Establish an AI Dividend : Institute a tax on the AI-attributable profits and use that tax to issue annual dividends to Americans and pay for entrepreneurship grants, so every citizen owns a piece of the growth of AI profits.
 Regulate social media companies without infringing on free speech: Pass commonsense safeguards to keep kids safe online — like giving parents more control over their children’s social media use and prohibiting platforms from using algorithms to send targeted content to minors; require social media companies to conduct regular impact assessments to check algorithms for bias, fairness, privacy, and security; and rein in broad immunity protections for companies.
 Ensure America continues to lead the world in the quality of its tech workforce: Invest in STEM education to foster the next generation of responsible tech leaders, as well as programs like Registered Apprenticeships aimed at re-training workers displaced or at risk of being displaced by AI so they can excel in industry-leading technology jobs.
 Ensure AI works for working people: Protect workers from invasive AI surveillance in the workplace; use AI to make jobs safer and less repetitive; create pathways for workers to move into higher-skilled, better-paying roles as the economy evolves; ensure AI companies follow the same copyright laws as everyone else; include worker voices in government-funded AI research and development; and defend the right to transparency and human review for automated decisionmaking around promotions, discipline, and terminations.

@@ -1,7 +1,4 @@
-0 Skip to Content ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE ERIN HOUCHIN for CONGRESS DONATE TODAY Newsletter Block This newsletter signup form needs a storage option.
-Edit the block and enter a storage location via the Storage tab.
-First Name Last Name Email Address JOIN Thank you!
-JOIN TEAM HOUCHIN ABOUT ERIN Erin Houchin was born and raised in Indiana’s 9th District, and is a proud lifelong Hoosier .
+0 Skip to Content ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE ERIN HOUCHIN for CONGRESS DONATE TODAY JOIN TEAM HOUCHIN ABOUT ERIN Erin Houchin was born and raised in Indiana’s 9th District, and is a proud lifelong Hoosier .
 Growing up in Scottsburg as the daughter of a local dentist, the strong conservative values of personal responsibility and hard work were instilled in Erin at an early age, but she first became politically active as an intern with the Indiana State Senate while a student at Indiana University.
 There, she met her husband, and realized her passion for public service.
 READ ERIN'S FULL BIO ERIN ON THE ISSUES SECURE THE BORDER: Joe Biden let over 10 million individuals illegally invade our country—that we know of.
@@ -40,4 +37,4 @@ Indiana has one of the best economies in the nation, a direct result of our cons
 As a small business owner, Erin continues the fight to cut bureaucratic red tape and support limited government while working to cut taxes, promote free markets, and control government spending.
 PROTECT THE SECOND AMENDMENT: Erin is a firm believer that the Second Amendment is one of our most important freedoms, and she understands the importance of protecting our constitutional right to bear arms.
 The founders saw the crucial importance of giving citizens the right to protect themselves, and we must all protect that right.
-DONATE $10 DONATE $25 DONATE $50 DONATE $100 CONTRIBUTE PAID FOR BY HOUCHIN FOR CONGRESS ABOUT | ISSUES | CONTACT Privacy Policy
+DONATE $10 DONATE $25 DONATE $50 DONATE $100 CONTRIBUTE PAID FOR BY HOUCHIN FOR CONGRESS ABOUT | ISSUES | CONTACT Privacy Policy | Mobile Terms

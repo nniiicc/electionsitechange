@@ -434,7 +434,7 @@ Source Sen.
 Kim Jackson Contact Kim Jackson at [email protected] for her position.
 GEEARS, the Georgia Early Education Alliance for Ready Students, publishes every candidate's answer as written at geears.org .
 Sen.
-Jackson's answer shown here is her 2024 response.
+Jackson's 2026 answer is the same text GEEARS published for her in 2024, including the same typo.
 Georgia is often touted as the best state to do business.
 How would you ensure that it is also the best place to raise young children?
 Jeff Newlin My wife and I raised three children in DeKalb County, and we became grandparents this spring.
@@ -455,7 +455,7 @@ Georgia families need a Senator who will reduce income tax and pass jobs bills.
 Sen.
 Jackson hasn't done either.
 Source Sen.
-Kim Jackson 2024 Raising young children successfully requires a multi-pronged approach, from ensuring the health and wellbeing of parents to providing access to affordable healthcare and childcare opportunities for children.
+Kim Jackson 2026 Raising young children successfully requires a multi-pronged approach, from ensuring the health and wellbeing of parents to providing access to affordable healthcare and childcare opportunities for children.
 Establishing adequate maternal AND family healthcare, providing affordable childcare options, guaranteeing that our children our fed year-round, and funding preK programs are just the start to ensuring that Georgia is the best place to raise young children.
 We must also continue pushing for better gun safety legislation, so our children are free to embrace school without the fear of gun violence.
 Addressing the homelessness crisis is another crucial step to ensuring Georgian families have the resources they need to raise their children in safe, nurturing environments.
@@ -496,10 +496,7 @@ Jeff Newlin Yes When a university takes state money, accountability comes with i
 Georgia's SB 523, in effect since May 2026, already lets the state withhold funds from a school that fails to treat antisemitism like any other religious discrimination, and I will defend that law.
 The line I will hold is conduct versus speech: a student may protest, but no one may harass Jewish students, block them from class, or shut down their worship.
 Source Sen.
-Kim Jackson Voted Yes on SB 523 (2026) , Passage, March 4, 2026, 50 to 2.
-Senate votes SB 523 (2026) lets public schools and colleges treat antisemitism the same as religious discrimination, sets a statewide K-12 Title VI coordinator, and allows the state to withhold funds for noncompliance.
-Law since May 5, 2026.
-Voted Yes on SB 523 (2026) , Agree to house substitute, March 25, 2026, 46 to 0.
+Kim Jackson Voted Yes on SB 523 (2026) , Agree to house substitute, March 25, 2026, 46 to 0.
 Senate votes SB 523 (2026) lets public schools and colleges treat antisemitism the same as religious discrimination, sets a statewide K-12 Title VI coordinator, and allows the state to withhold funds for noncompliance.
 Law since May 5, 2026.
 5.
@@ -509,10 +506,7 @@ Material that is antisemitic under the definition Georgia adopted in HB 30 has n
 Parents have a right to know what their children are taught.
 Teaching students the history of the Middle East is not the same as teaching them to hate.
 Source Sen.
-Kim Jackson Voted Yes on SB 523 (2026) , Passage, March 4, 2026, 50 to 2.
-Senate votes SB 523 (2026) lets public schools and colleges treat antisemitism the same as religious discrimination, sets a statewide K-12 Title VI coordinator, and allows the state to withhold funds for noncompliance.
-Law since May 5, 2026.
-Voted Yes on SB 523 (2026) , Agree to house substitute, March 25, 2026, 46 to 0.
+Kim Jackson Voted Yes on SB 523 (2026) , Agree to house substitute, March 25, 2026, 46 to 0.
 Senate votes SB 523 (2026) lets public schools and colleges treat antisemitism the same as religious discrimination, sets a statewide K-12 Title VI coordinator, and allows the state to withhold funds for noncompliance.
 Law since May 5, 2026.
 6.
@@ -722,11 +716,6 @@ Her floor votes on abortion bills Voted No on SB 456 (2021) , Passage by substit
 Senate votes Doctors and clinics would face new rules on how abortion pills, like mifepristone, can be given to patients.
 The pills could not be provided or taken in schools or on any state-owned property.
 The changes would affect doctors, pharmacists, and people seeking a medication abortion in Georgia.
-Voted No on SB 116 (2021) , Passage by substitute, Feb.
-26, 2021, 32 to 17.
-Senate votes Homes that give free housing to pregnant women, and to new mothers for a time after birth, could register with the state instead of getting a full license.
-The state could not add extra rules beyond the law, and cities and counties could not block or limit these homes.
-It affects nonprofits running these homes and the women who live in them.
 Voted No on SB 116 (2021) , Agree to house substitute, April 4, 2022, 32 to 22.
 Senate votes Homes that give free housing to pregnant women, and to new mothers for a time after birth, could register with the state instead of getting a full license.
 The state could not add extra rules beyond the law, and cities and counties could not block or limit these homes.

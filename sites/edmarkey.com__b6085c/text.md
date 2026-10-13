@@ -3,14 +3,13 @@ Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endor
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
-Social Media Follow Ed Markey #ago Pete Hegseth must go.
-50 Retweet on Twitter 2108720467565580338 268 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
+Social Media Follow Ed Markey #ago On Indigenous People’s Day, we honor the rich history, resilience, and contributions of Native communities.
+Today and every day, we must join Indigenous people in the pursuit of justice and sovereignty and be strong partners in the fight to protect their land, water, and rights.
+9 Retweet on Twitter 2109637699061571752 39 Like on Twitter 2109637699061571752 Share 2109637699061571752 Follow Ed Markey #ago Pete Hegseth must go.
+51 Retweet on Twitter 2108720467565580338 269 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
 They're our friends, our neighbors, and our families.
 We must fight to restore all of the cuts and protect access to essential healthcare in our country.
-9 Retweet on Twitter 2108697593140146451 22 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
-We must get private equity out of our housing, our health care, and our lives.
-It’s past time we put people over profits.
-5 Retweet on Twitter 2108605074998018381 46 Like on Twitter 2108605074998018381 Share 2108605074998018381 The Latest Ed Markey Wins Democratic Primary For U.S.
+9 Retweet on Twitter 2108697593140146451 22 Like on Twitter 2108697593140146451 Share 2108697593140146451 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.

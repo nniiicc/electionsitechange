@@ -13,6 +13,10 @@ Agriculture Agriculture is at the heart of Nebraska and my life.
 I understand firsthand the challenges farmers face with rising costs and tight margins.
 We must pursue fair tax solutions and responsible spending to ensure long-term stability for our agricultural communities and our state.
 We must keep the family farm viable with fair prices for our crops and livestock.
+Data Centers As a farmer, I know how important it is to protect the resources that make our communities and farms thrive.
+As your Senator, I will stand up to the unchecked expansion of data centers.
+These facilities can strain our already limited water and power supplies, while our community deals with the consequences.
+We shouldn’t sacrifice Nebraska’s farmland for corporate interests.
 Paid for by Janet Bock for Legislature | 13643 W.
 Sargent Rd.
 Beatrice, NE 68310

@@ -7,13 +7,7 @@ Senate Joint Appearance in Billings Moderated by KULR-8’s John Martin Where Bi
 We’ll post attendance details here as the organizers share them.
 How to watch TV coverage is expected, and the organizers plan to stream it live.
 We’ll post the link here.
-On stage Alani Bankhead (D) · all four Senate candidates have been invited Monday, October 19 · 6:15 pm · doors at 5:30 Debate City Club Missoula US Senate Debate Hosted by City Club Missoula · moderated by Jill Valley and Seaborn Larson Where UC Ballroom, University of Montana, Missoula How to attend Doors open at 5:30 and the debate starts at 6:15.
-Seating is through City Club Missoula’s registration , and audience questions are submitted in advance there.
-How to watch No stream announced yet.
-If the organizers share one, we’ll post the link here.
-On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L).
-Kurt Alme (R) has been invited and hasn’t confirmed.
-Wednesday, October 21 · 6:00 pm MT (8:00 pm ET) Candidate forum NCBW Virtual Meet the Candidate Forum Hosted by the National Coalition of 100 Black Women, Inc.
+On stage Alani Bankhead (D) · all four Senate candidates have been invited Wednesday, October 21 · 6:00 pm MT (8:00 pm ET) Candidate forum NCBW Virtual Meet the Candidate Forum Hosted by the National Coalition of 100 Black Women, Inc.
 Where Online (virtual forum) Topics “The Voices of Women”: health care, education, economic empowerment, and public policy affecting women, families and communities.
 Every candidate gets the same format, questions and time.
 How to watch We’ll post the viewing link here as soon as NCBW shares it.

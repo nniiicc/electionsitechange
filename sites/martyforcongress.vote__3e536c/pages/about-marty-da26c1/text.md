@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow About Marty The road to Congress Marty O’Donnell has taken the road less traveled to running for Congress.
+Close About Priorities Join Store Contact Yard Sign Donate Follow About Marty The road to Congress Marty O’Donnell has taken the road less traveled to running for Congress.
 He earned his Master of Music Degree in Composition with honors from USC in 1981.
 Then, a few months later, Marty started his first career by founding the Chicago-based commercial music and sound production company O’Donnell/Salvatori Inc.
 He wrote and produced numerous film scores and the iconic Flintstones Kids and Mr.

@@ -3,7 +3,7 @@ As your next Senator for District 34, Rusty will fight for our shared values and
 JOIN TEAM RUSTY Be part of the campaign!
 Sign up to volunteer and help us protect Alabama’s conservative values.
 Email Zip Join Us Now About Me ABOUT RUSTY Rusty Glover has dedicated his life to serving the people of Southwest Alabama—as a teacher, a public servant, and a proud family man.
-Born, raised and educated in Mobile where he earned a BS, M.Ed, and MA from the University of South Alabama.
+Born, raised and educated in Mobile, he earned a BS, M.Ed, and MA from the University of South Alabama.
 Rusty spent 25 years teaching U.S.
 History and coaching students at Mary G.
 Montgomery High School in Semmes.
@@ -12,7 +12,7 @@ Rusty represented District 34 in the Alabama Senate from 2006 to 2018, after ser
 As Senate Majority Whip, he led with integrity, always putting the needs of the people first.
 His record includes a 100% pro-life and pro-Second Amendment voting record, strong support for small businesses, and a consistent stand against raising taxes.
 Today, Rusty and his wife Connie live in Semmes.
-They’ve been married for 35 years, raising two daughters, both now married to hard working men who share the family’s commitment to faith and community.
+They’ve been married for 35 years, raising two daughters, both now married to hard-working men who share the family’s commitment to faith and community.
 Rusty is also a proud grandfather of three, and family time is still his favorite way to spend the day.
 He and his family worship together as active members of Wilmer Baptist Church. read more Election Day Days Hours Minutes Elect Rusty Glover Your Conservative Voice for Alabama Senate District 34 Southwest Alabama deserves a leader who knows the district, shares its values, and has the experience to get things done.
 Rusty Glover has spent his life serving our communities—as a teacher, as a state legislator, and as a trusted neighbor who understands what matters most to the people of District 34.

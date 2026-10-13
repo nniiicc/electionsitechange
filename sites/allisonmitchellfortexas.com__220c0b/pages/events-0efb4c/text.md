@@ -5,7 +5,13 @@ RSVP Here With Election Day just weeks away, your support now can make a real di
 Whether you can attend the event or simply make a contribution, we'd be grateful to have you with us.
 Please join us October 13 as we come together to support Allison and build the campaign we need to win HD 108.
 Address upon RSVP.
-View Event → Oct 8 Hockaday Alumnae & Friends for Allison Mitchell Fundraising Reception Thursday, October 8, 2026 6:00 PM 8:00 PM Google Calendar ICS Join hosts Eden & Thomas Elieff for an evening in support of Allison Mitchell for State House on Thursday, October 8, from 6:00–8:00 p.m.
+View Event → Oct 20 Park Cities Fundraising Reception Tuesday, October 20, 2026 6:00 PM 7:00 PM Google Calendar ICS Join hosts Ann McIntyre & Reyn Mansson for an evening in support of Allison Mitchell for State House on Tuesday, October 20, from 6:00–8:00 p.m.
+RSVP HERE This election is an important opportunity to bring new leadership to State House District 108—and Allison is ready to get to work.
+As a Dallas entrepreneur, Hockaday alumnae, public school parent, and advocate for families, Allison understands the challenges facing our community and is running to fully fund public schools, lower health care costs, protect homeowners, and make sure Texas puts people ahead of special interests.
+Your support now can make a real difference .
+Whether you can attend the event or simply make a contribution, we'd be grateful to have you with us.
+Please join us on October 19 as we come together to support Allison and build the campaign we need to win HD 108.
+RSVP HERE View Event → Oct 8 Hockaday Alumnae & Friends for Allison Mitchell Fundraising Reception Thursday, October 8, 2026 6:00 PM 8:00 PM Google Calendar ICS Join hosts Eden & Thomas Elieff for an evening in support of Allison Mitchell for State House on Thursday, October 8, from 6:00–8:00 p.m.
 This election is an important opportunity to bring new leadership to State House District 108—and Allison is ready to get to work.
 As a Dallas entrepreneur, public school parent, and advocate for families, Allison understands the challenges facing our community and is running to fully fund public schools, lower health care costs, protect homeowners, and make sure Texas puts people ahead of special interests.
 RSVP Here: https://act.campaigndeputy.com/hockadayallison With Election Day just weeks away, your support now can make a real difference.

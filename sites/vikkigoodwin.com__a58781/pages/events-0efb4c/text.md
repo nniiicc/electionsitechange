@@ -1,16 +1,7 @@
 0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Campaign Events Join Representative Goodwin on her journey to visit every corner of our great state before Election Day!
 Interested in having Rep.
 Goodwin attend an event in your area?
-Please drop us an email to info@VikkiGoodwin.com Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
-254 counties.
-500,000 Texans.
-We're in the final stretch of the most important election Texas has seen in years, and one of the most powerful ways to win it isn't another ad.
-It's people reaching the people they already know.
-RSVP HERE That's one of the ways Texas Together is organizing to win in November, and it's where you come in.
-We're recruiting volunteers in all 254 counties, each one reaching their friends, family, and coworkers to make sure they vote and volunteer in these final weeks.
-Join our GOTV Reach Friend Bank kickoff call on [Monday, Oct 12, 6pm] to get plugged in.
-We'll share our plan to mobilize voters in all 254 counties through the power of our personal networks using the Reach app, and how to plug in to reach your people, make sure they have a plan to vote and volunteer and help elect James Talarico, Gina Hinojosa, Vikki Goodwin, and Democrats up and down the ballot.
-View Event → Oct 13 Legalize it!
+Please drop us an email to info@VikkiGoodwin.com Oct 13 Legalize it!
 Rally — San Antonio Tuesday, October 13, 2026 6:00 PM 7:30 PM High Horse Ice Hall (map) Google Calendar ICS It's High Time For Change!
 Dan Patrick banned it.
 Vikki Goodwin will regulate it.
@@ -92,6 +83,15 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 You will be handed one of the following: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
+View Event → Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
+254 counties.
+500,000 Texans.
+We're in the final stretch of the most important election Texas has seen in years, and one of the most powerful ways to win it isn't another ad.
+It's people reaching the people they already know.
+RSVP HERE That's one of the ways Texas Together is organizing to win in November, and it's where you come in.
+We're recruiting volunteers in all 254 counties, each one reaching their friends, family, and coworkers to make sure they vote and volunteer in these final weeks.
+Join our GOTV Reach Friend Bank kickoff call on [Monday, Oct 12, 6pm] to get plugged in.
+We'll share our plan to mobilize voters in all 254 counties through the power of our personal networks using the Reach app, and how to plug in to reach your people, make sure they have a plan to vote and volunteer and help elect James Talarico, Gina Hinojosa, Vikki Goodwin, and Democrats up and down the ballot.
 View Event → Oct 11 Reception — McKinney Sunday, October 11, 2026 7:00 PM 10:00 PM Gather On The Square (map) Google Calendar ICS Don’t miss the Texas Six Pack Social in McKinney!
 Six candidates.
 Six statewide races.
@@ -348,9 +348,7 @@ View Event → Aug 13 Phone Bank with Team Vikki Thursday, August 13, 2026 6:00 
 It’s going to take all hands on deck to elect the first woman Lieutenant Governor in Texas history — but you can do it from the comfort of your own home.
 Sign up here View Event → Aug 13 Phone Bank with Team Vikki Thursday, August 13, 2026 6:00 PM 7:00 PM Virtual (map) Google Calendar ICS Join Team Vikki on Thursdays to call voter across the state!
 It’s going to take all hands on deck to elect the first woman Lieutenant Governor in Texas history — but you can do it from the comfort of your own home.
-Sign up here View Event → Aug 8 Houston IAPAC Candidate Meet & Greet Saturday, August 8, 2026 4:00 PM 6:00 PM Google Calendar ICS Meet the candidates, ask questions, and engage in meaningful conversation about the issues affecting Texas and our community.
-This event offers community members an opportunity to meet the candidates in person, hear their perspectives on issues affecting Texas and the Greater Houston community, ask questions, and participate in meaningful conversation ahead of the November 3, 2026 election.
-View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
+Sign up here View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
 Vikki Goodwin Campaign’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.

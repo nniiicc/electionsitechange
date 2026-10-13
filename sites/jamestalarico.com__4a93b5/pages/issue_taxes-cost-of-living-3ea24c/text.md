@@ -1,4 +1,7 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Taxes & Cost of Living I was born to a single mom who worked overtime at a hotel to support me.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Taxes & Cost of Living Lowering What Texans Pay Why is everything so expensive in Texas?
+James Talarico worked with Republicans to deliver the largest property tax cut in Texas history.
+In the Senate, he’ll cut taxes for working people, cap credit card interest rates, and lower the cost of rent, groceries, utilities, and gas by making billionaires and giant corporations pay their fair share.
+I was born to a single mom who worked overtime at a hotel to support me.
 We lived in a little apartment in East Austin.
 There wasn’t room for a nursery, so I slept in a crib in her closet.
 She was so proud of that closet.
@@ -15,8 +18,26 @@ We need a government that serves working people instead of giant corporations.
 And we need a government that rolls back the barriers keeping us from living the American dream — whether they’re unnecessary tariffs or outdated zoning regulations.
 As a legislator, I have fought for working Texans, I’ve stood up to billionaire mega-donors and special interests, and I’ve worked to cut bureaucratic red tape — passing major legislation to lower the cost of prescription drugs, housing, and childcare.
 Now I’m ready to take this fight to the U.S.
-Senate.
-I sat down with 20 undecided Texas voters on @JubileeMedia ’s Surrounded.
+Senate. . @JamesTalarico : We are getting screwed.
+Whether you're a little more conservative or a little more progressive — none of us can afford groceries, none of us can afford gas, none of us can afford healthcare.
+The billionaires buying politicians like Ken Paxton don't care who you… pic.twitter.com/olBSwkjgBi — Team Talarico (@TeamTalaricoHQ) August 6, 2026 . @JamesTalarico : The young people here might not remember this, but those of you who are a little older might.
+Not so long ago, you could afford to live a good life here in America.
+You could buy a home in your 20s.
+You could go to college for cheap or free.
+You could support a… pic.twitter.com/Wlc3KUUKbw — Team Talarico (@TeamTalaricoHQ) August 6, 2026 . @JamesTalarico : Since taking office, Ken Paxton has become a multi-millionaire — all while most Texans’ pay has remained stagnant for decades.
+He now owns 15 homes, while most Texans can't afford one.
+He's taken bribes from wealthy donors, all while he blocks overtime pay for… pic.twitter.com/H67NeuuPSm — Team Talarico (@TeamTalaricoHQ) August 4, 2026 I’m tired of being divided into teams.
+Do you have an elderly grandparent who needs care?
+So do I.
+Do you struggle to afford the high price of everything?
+So do I.
+Do you know what it means to carry the weight of medical debt?
+So do I.
+You’re on my team — and I’m on yours. pic.twitter.com/qFsma8LPwF — James Talarico (@jamestalarico) September 24, 2025 The American Dream has become an American Nightmare.
+It’s too expensive to buy a home.
+It’s too expensive to get married and have kids.
+It’s too expensive to retire comfortably.
+The top 1% put the American Dream behind a paywall. pic.twitter.com/gfhM2weVY0 — James Talarico (@jamestalarico) August 6, 2026 I sat down with 20 undecided Texas voters on @JubileeMedia ’s Surrounded.
 One of them brought up “welfare queens” so I told him the truth: The biggest welfare queens in this country are the giant corporations that don’t pay a penny in federal taxes. pic.twitter.com/avxyjUKNJx — James Talarico (@jamestalarico) December 14, 2025 WE DID IT!!
 We capped the out-of-pocket cost of insulin in Texas!
 Our bill is headed to the Governor’s desk for a signature!
@@ -42,6 +63,7 @@ Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .
 We want to hear from you!
+Pass a cost-of-living tax cut for the middle class : Expand the Child Tax Credit and Earned Income Tax Credit, restore the ACA Tax Credits, and provide a tariff rebate to Americans who have been paying too much for everything, and pay for it by closing tax loopholes and making the wealthiest Americans and giant corporations pay their fair share.
 Create a fairer tax system: Make giant corporations and the wealthiest Americans pay their fair share of taxes.
 (That way, we can cut taxes for working families and small businesses.) Make billionaires pay their fair share in taxes — including by imposing a higher tax on their income and capital gains and ending the dubious “buy, borrow, die” loopholes that billionaires use to grow untaxed wealth.
 Make corporations pay their fair share in taxes — including by raising the corporate tax rate (it has fallen by HALF since the mid-1980s!), ending the “carried interest” tax loopholes that allow hedge funds to avoid paying billions that they owe, and rolling back other extreme tax breaks that allow the largest corporations to pay $0 in federal income taxes.
@@ -49,11 +71,12 @@ Raise the tax on corporate stock buybacks , which corporations use to artificial
 Increase wages for workers, not CEOs: Raise the federal minimum wage to $15 an hour, and incentivize CEOs to pay fair wages by creating a special tax on corporations that pay their top executives more than 250 times their median worker’s salary.
 Ensure Americans can afford to retire: Fight tooth and nail against attacks on Medicare and Social Security, ensure the wealthiest Americans pay their fair share into Social Security by eliminating the tax cap on those earning over $400,000 a year, and incentivize employer-sponsored pensions.
 Expand tax credits that support working families: Expand the Child Tax Credit and the Earned Income Tax Credit, which reward hard work, offset the cost of raising children, and can save the government money over the long-term.
-Lower health care and prescription drug costs: Create a federal public health insurance option that competes with private insurance, institute caps on out-of-pocket costs for lifesaving drugs, reinstate the Affordable Care Act (ACA)’s enhanced premium tax credits, increase price transparency and Medicare’s negotiating power to ensure fair pricing, incentivize the development and approvals of generics, and regulate pharmacy benefit managers to ensure they’re not up-charging patients.
+Lower health care and prescription drug costs: Create a federal public health insurance option that competes with private insurance, institute caps on out-of-pocket costs for lifesaving drugs, reinstate the Affordable Care Act (ACA)’s enhanced premium tax credits, increase price transparency and Medicare’s negotiating power to ensure fair pricing, incentivize the development and approvals of generics, regulate pharmacy benefit managers to ensure they’re not up-charging patients, and break up healthcare monopolies that are raising prices on all of us.
 Lower housing costs: Stop corporate landlords from engaging in market manipulation to artificially hike rents, ban Wall Street from buying up housing stock to enrich wealthy investors while making it harder for families to afford homes, expand the Low-Income Housing Tax Credit, repeal outdated red tape that hinders the construction of housing, support legislation to lower property insurance costs, and create a federal task force charged with helping communities use quality, cost-effective options like factory-built “modular” homes to speed up construction timelines.
 Lower grocery costs: Stand up to attacks against SNAP and WIC, increase oversight into mergers and acquisitions that artificially jack up prices, remove tariffs on produce that can’t be grown in the United States, and reduce barriers to entry for new grocery providers to increase market competition.
 Lower energy costs: Require AI data centers to pay for their own energy infrastructure updates so those costs aren’t passed on to consumers, diversify our energy sources to drive down costs, expand the Energy Star program that educates consumers about energy-efficient products, and modernize the Low-Income Home Energy Assistance Program’s disbursement formula to ensure that hot climate states — like Texas — receive equitable funds to help families with utility costs.
 Repeal the Trump tariffs: Repeal the Trump tariffs that are making everything — from groceries to cars to clothing — more expensive.
+Cap sky-high credit card interest rates : Rein in the predatory credit card companies ripping people off.
 My Track Record in the Texas Legislature Reduced prescription drug costs by capping insulin co-pays at $25 a month in Texas, allowing Texas to import cheaper prescription drugs from Canada at reduced costs, increasing transparency around Big Pharma’s price gouging tactics, and establishing a prescription drug savings program for uninsured Texans.
 Lowered housing costs by replacing outdated regulations to increase the supply of apartments and condos, establishing Texas’ first-ever Low-Income Housing Tax Credit program , and providing tax relief on low-income housing construction .
 Lowered child care costs by establishing property tax exemptions for child care providers and increasing the supply of high-quality centers.

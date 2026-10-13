@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE FREQUENTLY ASKED QUESTIONS TROY JACKSON AT A GLANCE Last updated: October 10, 2026.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE FREQUENTLY ASKED QUESTIONS TROY JACKSON AT A GLANCE Last updated: October 12, 2026.
 Who is Troy Jackson?
 Troy Jackson is a fifth-generation logger from Allagash, a longtime union member, former Maine Senate President, and the Democratic nominee for U.S.
 Senate in Maine.
@@ -23,18 +23,19 @@ Susan Collins and other politicians promised help, but the loggers were left to 
 Troy decided working people needed one of their own at the table, so he ran for the Maine Legislature.
 How long did he serve in the Maine Legislature?
 Troy served for 20 years, representing communities in northern Maine.
-He served in the Maine House from 2002 to 2008 and in the Maine Senate from 2008 to 2014 and again from 2016 to 2024.He represented his hometown in what was then House District 151 and Senate District 35, and, after redistricting changed the lines, Senate District 1.
+He served in the Maine House from 2002 to 2008 and in the Maine Senate from 2008 to 2014 and again from 2016 to 2024.
+He represented his hometown in what was then House District 151 and Senate District 35, and, after redistricting changed the lines, Senate District 1.
 Was he Maine Senate President?
 Yes.
 He served six years as President of the Maine Senate, from 2018 to 2024.
 What did he accomplish in the legislature?
 Troy helped lower prescription drug prices, pass universal free school meals, protect union jobs, expand rural health care, deliver property tax relief, protect Maine's environment, and pass some of the strongest reproductive health protections in the country: Prescription drug costs: Troy sponsored laws establishing Maine’s Prescription Drug Affordability Board (LD 1499) and a pathway to import lower-cost prescription drugs (LD 1272), and fought to increase competition for more affordable generic medicines (LD 1280).
 Free school meals: Troy helped make school breakfast and lunch free for all Maine public school students (LD 1679).
-Workers’ rights: Troy fought for collective bargaining rights for loggers and farmworkers (LD 2273), stronger wage-theft enforcement (LD 372), and fair wages and labor standards on clean energy projects (LD 1895, LD 2266).
+Workers’ rights: Troy fought for collective bargaining rights for loggers and farmworkers (LD 1459), stronger wage-theft enforcement (LD 372), and fair wages and labor standards on clean energy projects (LD 1895, LD 2266).
 He has a 100% pro-labor voting score from the Maine AFL-CIO.
-Paid family and medical leave: Troy helped pass Maine’s paid family and medical leave law.
-Property tax relief: Troy helped deliver relief for Maine homeowners and strengthen protections that help people stay in their homes.
-Healthcare access: Troy fought to expand access to care and protect rural communities that too often get left behind.
+Paid family and medical leave: Troy helped pass Maine’s paid family and medical leave law (LD 258).
+Property tax relief: Troy helped deliver relief for Maine homeowners and strengthen protections that help people stay in their homes (LD 215, LD 1629).
+Healthcare access: Troy fought to expand access to care and protect rural communities that too often get left behind (LD 915, LD 1350).
 Reproductive freedom: Troy helped strengthen Maine’s abortion protections after Roe v.
 Wade was overturned — co-sponsoring major legislation (LD 1619) that expanded abortion access, protected providers from criminal penalties, and improved data privacy practices.
 He also sponsored legislation (LD 1954) requiring state-regulated health plans to cover FDA-approved prescription contraception without out-of-pocket costs.
@@ -42,7 +43,7 @@ Gun safety: Troy supported Maine’s 72-hour waiting period for firearm purchase
 Wabanaki rights: Troy backed greater self-determination for the Wabanaki Nations, including legislation expanding Tribal courts’ authority (LD 2007).
 Has he won in tough districts?
 Yes.
-In 2008, Troy defeated a Republican incumbent by 25 points ( 62%-37% ) to flip Senate District 35.
+In 2008, Troy defeated a Republican by 25 points ( 62%-37% ) to flip Senate District 35.
 He held the seat in 2010, despite a national GOP wave that saw Republicans secure their first trifecta in Maine state government since 1963.
 He ran and won in a district three times in a row that was carried by both Donald Trump and Susan Collins.
 What are his top priorities in the Senate?

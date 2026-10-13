@@ -2,12 +2,14 @@ Skip to content Issues Our District Meet Saif Events Blog Contact Donate Join th
 Read the full story behind each issue — the numbers, the sources, and what it means for District 9A families.
 All Posts Affordability Education Fiscal Accountability Community Campaign VOTE BY TUESDAY, NOV.
 3 · District 9A elects two delegates.
-Join the campaign → FEATURED CAMPAIGN October 2026 You Get Two Votes for Delegate.
+Join the campaign → FEATURED EDUCATION October 2026 Tech Should Help Our Kids Learn, Not Hook Them Phone bans were step one.
+Saif Rehman's plan for standards on school devices, apps and AI so Maryland kids learn with technology without being hooked.
+Read the full post November 3 · two delegates, two votes CAMPAIGN October 2026 You Get Two Votes for Delegate.
 Here Is What the Second One Can Do.
 District 9A sends two delegates to Annapolis and every voter gets two votes.
 In the 2026 election I am the only unaffiliated name on any General Assembly ballot in Maryland.
 Here is what your second vote can do, and how to cast it.
-Read the full post November 3 · two delegates, two votes CAMPAIGN September 2026 Maryland Has One Unaffiliated General Assembly Candidate in 2026—Why It Matters Maryland fills 188 General Assembly seats in November.
+Read more November 3 · two delegates, two votes CAMPAIGN September 2026 Maryland Has One Unaffiliated General Assembly Candidate in 2026—Why It Matters Maryland fills 188 General Assembly seats in November.
 On every ballot in the state, one candidate's name carries no party beside it — and it is on the District 9A ballot.
 What it took, and who is locked out.
 Read more November 3 · two delegates, two votes AFFORDABILITY August 2026 BGE wants a 10.4% return.
@@ -24,10 +26,6 @@ More than 1 million Marylanders couldn't vote in Tuesday's primary.
 38% of Maryland's state legislative seats had no opposition from any other party.
 The 2027 General Assembly should pass open primary reform as its first bill.
 Tuesday showed why.
-Read more November 3 · two delegates, two votes AFFORDABILITY June 2026 59% say Maryland is on the wrong track.
-The data shows why.
-Three nonpartisan studies released in the last 75 days all confirm the same thing.
-UMBC, LendingTree, and WalletHub explain what 9A families have been telling me at their doors.
 Read more November 3 · two delegates, two votes Load More Posts Join the Campaign Updates from the campaign, and where I stand — backed by real data.
 Count me in → No spam.
 Unsubscribe anytime.

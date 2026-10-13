@@ -6,6 +6,10 @@ Sarah led the fight to successfully pass the Healthy Delaware Families Act which
 Keeping our families safe from gun violence.
 Following Uvalde, Sarah was one of the first elected officials to speak out and demand action in Dover.
 Together with her colleagues, she took on the NRA and fought for the most significant gun safety package in state history.
+Preserving Democracy.
+Congresswoman McBride is focused on winning back the House majority for the Democrats.
+She hopes that those with resources will focus their support on competitive districts across the country.
+She feels that the dynamics of her own race do not create conditions for any national groups to get involved.
 Making health care more affordable and available.
 As Chair of the Health Committee, Sarah has passed legislation expanding access to care, enhancing home health services, and providing mental health care to at-risk Delawareans.
 Improving our public schools and supporting our youth.

@@ -4,7 +4,7 @@ Meanwhile, the average household income is roughly half of what is required to q
 Read More Evening Edition: State Senator Balances Needs Of A Rural District January 24, 2025 It happens in Washington D.C. all the time but also in state legislatures, political decisions are often made down the party lines with members voting with the official policy or opinion of one’s political party.
 What happens when those policies work for cities but not for the rural districts of a state?
 That challenge could not be showcased better than in Washington State, which ranks second in the nation for agricultural production but also has cities like Seattle and Spokane to care for.
-Read More More News Drew MacEwen Follow 2,078 3,109 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 8 Oct 2108208022988488732 Thank you Refuse and Recycling association for your support!
+Read More More News Drew MacEwen Follow 2,078 3,108 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 8 Oct 2108208022988488732 Thank you Refuse and Recycling association for your support!
 Twitter feed image.
 Reply on Twitter 2108208022988488732 Retweet on Twitter 2108208022988488732 0 Like on Twitter 2108208022988488732 1 Twitter 2108208022988488732 Drew MacEwen @DrewMacEwen · 7 Oct 2107909716940886381 Thank you food industry for your support!
 Twitter feed image.

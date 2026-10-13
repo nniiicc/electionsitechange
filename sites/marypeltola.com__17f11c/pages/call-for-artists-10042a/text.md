@@ -46,7 +46,8 @@ If your project is funded, get creating!
 Our team will be sending a funding check to the address you shared in the application.
 We will be in touch about project progress, documentation, and trouble-shooting.
 If you have questions or need help refining an idea, reach out to us at [email protected] .
-Our Selection Committee Alice Bioff Founder and Owner Naataq Gear LLC Trina Landlord Past Executive Director for the Alaska Native Arts Foundation Jennifer Carlson Educator and Owner of Cabin Creations About the Final Exhibit Date: Saturday, October 17th, 2026 Time: 6PM – 8PM Location: Alaska Native Heritage Center Join us for a captivating evening of Alaska-inspired art!
+Our Selection Committee Alice Bioff Founder and Owner Naataq Gear LLC Trina Landlord Past Executive Director for the Alaska Native Arts Foundation Jennifer Carlson Educator and Owner of Cabin Creations About the Final Exhibit Date: Saturday, October 17th, 2026 Time: 3:30PM - 5:30PM Location: Please use this link to RSVP.
+Join us for a captivating evening of Alaska-inspired art!
 Witness the culmination of our Call for Artists program as we unveil the talented artists who have captured the essence of Alaska’s future.
 Enjoy a gallery opening featuring stunning pieces, followed by a prestigious award ceremony put on by the Fish Family Freedom Fund.
 Event Highlights: Award Ceremony: Witness the announcement of the prizes: 1st | King Salmon: $3,000 2nd | Silver Salmon: $1,500 3rd | Sockeye Salmon: $500 Honorable Mentions | Chum Salmon: Mary Gift Pack.

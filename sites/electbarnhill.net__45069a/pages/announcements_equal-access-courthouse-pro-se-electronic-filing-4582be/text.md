@@ -95,6 +95,6 @@ Has your candidate?
 Get to know me · Join the campaign · Donate Share: Categories: Announcements 1 thought on “Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer” Pingback: Request for Ruling on E-Filing in Barnhill v.
 Aguilar Post navigation Previous Previous post: I’ve Asked the Court to Rule on My E-Filing Request Next Next post: How Nevada Election Audits Build Voter Confidence footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

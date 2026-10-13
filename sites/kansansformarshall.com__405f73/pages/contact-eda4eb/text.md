@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Contact Reach the campaign.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Contact Reach the campaign.
 Press inquiries, volunteer questions, constituent stories.
 We read what comes in.
 Send a message Tell us what's on your mind.

@@ -5,8 +5,7 @@ I believe the best conversations happen face-to-face, and I look forward to earn
 Please check back often, as new events will be added regularly.
 I would love the opportunity to meet you, answer your questions, and discuss how we can work together to make Minnesota more affordable, more accountable, and a better place for families, businesses, seniors, and future generations.
 I look forward to seeing you soon!
-Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Tue Oct 13 2026 Next › No events in this range Try a different date range, or check back soon for new events.
-Make a Donation Running a grassroots campaign takes time, energy, and resources.
+Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Tue Oct 13 2026 Next › 13 Oct Tuesday, 6:00 PM – 7:00 PM Minnesota Farmers Union Forum 15 Frontage Rd, Byron, MN, 55920 Add your event description here More info › Make a Donation Running a grassroots campaign takes time, energy, and resources.
 If you believe in our vision for stronger communities, fiscal responsibility, and practical leadership, I would be honored to have your support.
 Every contribution, no matter the amount, helps us reach more voters, share our message, and build a campaign focused on the people of District 25A.
 Thank you for being part of this journey and for believing that together, we can make a difference. $5,502.94 of $0.00 $10 $25 $50 $100 $250 $500 $1000 Other 28 Sep Monday, 9:39 AM · 2026 Brad receives endorsement from Minnesotans for Affordable Health Insurance September 25th NEWS RELEASE FOR IMMEDIATE RELEASE: 9/25/2026 Contact: Bob Stein 651-270-0634 Minnesotans for Affordable Health Insurance Endorse Brad Trahan for State House Minnesotans for Affordable Health Insurance is pleased to announce its endorsement of Brad Trahan in the race for the State House.

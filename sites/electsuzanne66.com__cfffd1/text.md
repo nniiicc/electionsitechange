@@ -1,6 +1,4 @@
-Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-My name is Suzanne Lovig, and I am the Democratic candidate for the CT Assembly District 66.
+Sign Up for Office Hours Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials My name is Suzanne Lovig, and I am the Democratic candidate for the CT Assembly District 66.
 Bethlehem – Litchfield – Morris – Warren – Woodbury I Will Work Hard for You.
 I am a long-time resident of Woodbury, and my deep love of the community and the people in this region has always guided my involvement.
 As a mother of two, a small business owner, a public servant, and an advocate, I understand the financial pressures facing families and the importance of responsible governance.

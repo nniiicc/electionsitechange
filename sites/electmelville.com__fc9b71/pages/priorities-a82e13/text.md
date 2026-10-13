@@ -1,4 +1,4 @@
-Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Priorities Home About Endorsements Volunteer Priorities District Events News Contact Donate Priorities Massachusetts has become unaffordable.
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Priorities Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Priorities Massachusetts has become unaffordable.
 I'm running to change that.
 Rising costs across education, healthcare, and daily essentials have forced families to reevaluate their household budgets.
 As municipal budgets feel the effect of federal and state cuts, we need a full-time state representative to deliver state aid to the six towns in the 9th Norfolk District.

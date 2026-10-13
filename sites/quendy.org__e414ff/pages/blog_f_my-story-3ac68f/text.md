@@ -119,5 +119,5 @@ Because I think we need to be vulnerable to help others.
 Because this story is uniquely mine, and I've gained wisdom from it.
 Because it's real life.
 And real life is exactly why I’m running for state representative.
-“I want people in District 60 to see me as a real person — someone who’s lived, suffered, grown, and still believes deeply in the power of compassion, honesty, and community.” Share this post: Recent Posts District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Overwhelmed with Gratitude Aug 31, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
+“I want people in District 60 to see me as a real person — someone who’s lived, suffered, grown, and still believes deeply in the power of compassion, honesty, and community.” Share this post: Recent Posts District 60 Tour l Carlisle + DesArc Oct 12, 2026 District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
 Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

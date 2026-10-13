@@ -16,7 +16,5 @@ Accountability & Transparency Supporting open government, ethical standards, and
 View all issues → 2026 GENERAL ELECTION Make a plan to vote.
 Early Voting October 19–31 Monday–Saturday • 8:30 AM–6:00 PM Closed Sunday, October 25 Election Day Tuesday, November 3 Polls open 7:00 AM–7:00 PM Voting Information GET IN TOUCH Contact Micah Have a question, need help with a state issue, or want to get involved?
 Send Micah and his team a message.
-View full contact information → About You Your Name (Required) First Last Street Address How Can We Reach You?
-We would love to chat with you.
-How can we get in touch?
+View full contact information → About You Your Name (Required) First Last Street Address Let's Connect Please fill out this form to get in touch.
 Your Email Address (Required) Your Phone Send message here Submit Serving South Carolina House District 89 Cayce • West Columbia • Springdale STAY IN TOUCH micah@micahcaskey.com (803) 250-5834 Facebook PO Box 5875 West Columbia, SC 29171 QUICK LINKS Meet Micah The Record Voting Information Contact Donate PAID FOR BY CASKEY FOR HOUSE Privacy Policy

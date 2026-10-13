@@ -1,10 +1,10 @@
 {
- "description": "Chip in to elect Adam Duda to Wisconsin's 11th Senate District. Secure donation via ActBlue.",
+ "description": "",
  "final_url": "https://www.dudaforwi.com/donate?amount=30&refcode=site-events_happy-hour-2026-10-13",
- "fingerprint": "5c8a742563c4de6f343b96efcdb1d5ae39193c6e",
+ "fingerprint": "409a51893b83e1cc7c943c400eb0a80ad224d7ae",
  "format": 3,
- "paid_for_by": "",
- "rendered": false,
- "title": "Donate! · Adam Duda for State Senate",
+ "paid_for_by": "paid for by ActBlue ( actblue",
+ "rendered": true,
+ "title": "Adam Duda — Donate via ActBlue",
  "years_mentioned": []
 }

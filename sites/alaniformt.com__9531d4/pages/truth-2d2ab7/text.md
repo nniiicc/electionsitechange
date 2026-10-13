@@ -83,7 +83,8 @@ They said She “won the primary fueled by over $3 million of dark money spendin
 His super PAC’s mailer says it too.
 Seth’s money The truth Both sides played the primary.
 Seth’s side bet on her.
-GOP PAC ads calling her “Trump-friendly” $901K GOP PAC ads “attacking” Reilly $1.0M Seth’s dark-money network, for Alani $2.3M The Republican PAC (Sheehy’s More Jobs, Less Government) “supported” Alani by calling her a Trump-friendly, “conservative Democrat,” and “attacked” Reilly as “too liberal,” for universal health care, soft on the border and out to impeach Trump.
+GOP PAC ads calling her “Trump-friendly” $901K GOP PAC ads “attacking” Reilly $1.0M Seth’s dark-money network, for Alani $2.3M The Republican PAC (More Jobs, Less Government, a super PAC aligned with Sen.
+Steve Daines) “supported” Alani by calling her a Trump-friendly, “conservative Democrat,” and “attacked” Reilly as “too liberal,” for universal health care, soft on the border and out to impeach Trump.
 Those ads were built to boost Reilly with Democrats.
 Their bet: a Democrat who’d never drop out, splitting the vote against Alme.
 Seth’s own dark-money network spent the most, propping Alani up through Progressive Vet PAC.

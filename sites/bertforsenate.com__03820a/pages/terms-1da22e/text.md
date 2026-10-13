@@ -1,8 +1,6 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
 Use of Website and Services 2.
 10DLC Compliance 3.
 Privacy and Data Use 4.

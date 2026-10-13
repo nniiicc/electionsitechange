@@ -4,10 +4,6 @@
 "href": "https://secure.actblue.com/donate/nisha-lodhavia-1?refcode2=nav_button&recurring=true"
 },
 {
-"text": "Donate",
-"href": "https://secure.actblue.com/donate/nisha-lodhavia-1?refcode2=nav_link&recurring=true"
-},
-{
 "text": "Endorsements",
 "href": "https://nishaforsenate.com/endorsements"
 },
@@ -20,20 +16,20 @@
 "href": "https://ivote.de.gov/VoterView"
 },
 {
-"text": "Home",
-"href": "https://nishaforsenate.com/"
-},
-{
-"text": "Media",
-"href": "https://nishaforsenate.com/media"
-},
-{
 "text": "Meet Nisha",
 "href": "https://nishaforsenate.com/meet-nisha"
 },
 {
 "text": "On the Issues",
 "href": "https://nishaforsenate.com/on-the-issues"
+},
+{
+"text": "Photos & media",
+"href": "https://nishaforsenate.com/media"
+},
+{
+"text": "Platform",
+"href": "https://nishaforsenate.com/platform"
 },
 {
 "text": "Powered by Perspect",

@@ -1,4 +1,4 @@
-X Meet Blakeman Blakeman’s Record Meet Todd News Get Involved Volunteer Supporters Map Coalitions DONATE STORE BRUCE BLAKEMAN for NEW YORK GOVERNOR AND TODD HOOD ‍ for LT.
+X Meet Blakeman Blakeman’s Record Meet Todd News Get Involved Volunteer Supporters Map Coalitions Vote DONATE STORE BRUCE BLAKEMAN for NEW YORK GOVERNOR AND TODD HOOD ‍ for LT.
 GOVERNOR By checking the box above, you agree to receive SMS alerts, marketing, polling, updates, and news from Bruce Blakeman for New York Governor.
 Messages may include donation requests.
 Standard message and data rates may apply.
@@ -81,4 +81,4 @@ See our Privacy Policy and Terms & Conditions.
 Thank you for joining the fight to take back New York!
 Oops!
 Something went wrong while submitting the form.
-Meet Blakeman Blakeman’s Record News Get involved Volunteer Supporters Map Coalitions DONATE To request an event with Bruce Blakeman or the campaign, please email: events@blakemanfornewyork.com Paid for by Blakeman for new york Stop Hochul
+Meet Blakeman Blakeman’s Record News Get involved Volunteer Supporters Map Coalitions Vote DONATE To request an event with Bruce Blakeman or the campaign, please email: events@blakemanfornewyork.com Paid for by Blakeman for new york Stop Hochul

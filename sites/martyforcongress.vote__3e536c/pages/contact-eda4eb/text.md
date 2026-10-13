@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow Contact Us Please fill out the form below to contact Marty O'Donnell.
+Close About Priorities Join Store Contact Yard Sign Donate Follow Contact Us Please fill out the form below to contact Marty O'Donnell.
 Contact Us First Name Last Name Email Phone How are you able to help?
 Yard sign Share on social media Hold an event Phone bank Knock on doors Donate to the campaign By providing your phone number and checking the box, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from Marty for Congress.
 Text messages may include polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education).

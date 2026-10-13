@@ -16,8 +16,6 @@ If you can do more Volunteers are urgently needed.
 You can serve as a poll worker, poll watcher, or support the Voter Protection Hotline.
 Learn more about voter protection volunteering .
 If you have concerns or questions, call the Voter Protection Hotline at 888-730-5816 .
-Early voting begins Tuesday, October 13.
-Tomorrow Plan your trip now — come back on Oct 13 to vote.
 Enter your address and travel mode Your address We save your address so the campaign can follow up about voting.
 See our Privacy Policy .
 How will you get there?

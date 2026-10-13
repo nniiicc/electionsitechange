@@ -94,9 +94,9 @@ The WWII truck with Masuda branding will be traveling across the district.
 We encourage people to join the caravan at any of the stops that day, each stop will include a short Rally, about 1-2 hours of canvassing, then getting back on the road to go to the next town.
 You are encouraged to follow in your car or continue canvassing in your original area, we will provide car paints for decorating if you’d like to continue the tour.
 You do not need to join for the full day, but we encourage you to join as long as you can.
-Town Hall Summer Series Join us at a Town Hall near you!
-Click on one of the locations below to RSVP and receive event updates!
-Soulsbyville 8/19 ~ Clovis 8/26 ~ Madera 8/27 ~ Bishop 9/3 ~ Oakdale 9/11 ~ Waterford 9/15 ~ West Point 9/17 ~ Angels Camp 9/22 ~ Chowchilla 9/23 ~ North Fork 9/26 ~ Groveland 9/27 ~ Rancho Calaveras 9/29 ~ Ione 9/30 ~ Fresno 10/1 ~ Modesto 10/8 Mariposa Fundraiser Yosemite Plaisance Enjoy a conversation with Michael Masuda over delicious appetizers and pastries.
+Del rio Fundraiser Join us to meet Michael and show your generous support for his campaign as we come closer to election day.
+Monday, October 19th 6:00 - 8:00 pm Please RSVP to events@votemasuda.com for additional details and address.
+Mariposa Fundraiser Yosemite Plaisance Enjoy a conversation with Michael Masuda over delicious appetizers and pastries.
 Hosted by Ron and Helene at Yosemite Plaisance B & B.
 Wednesday, October 14th 5:30 - 7:30 pm RSVP HERE Host an Event Please click the button below and the Campaign will contact you!
 Host an Event Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate Showing up.
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate Showing up.
 Listening.
 Getting Things Done.
 Showing up.
@@ -16,7 +16,7 @@ Your vote is your voice.
 I would be honored to have your trust and your support.
 DE Delaware roots Community-backed leadership Nisha Lodhavia for State Senate People Before Politics.
 Common-Sense Solutions.
-Lower Costs · Stronger Schools Better Healthcare Farms & Small Business District 15 · Vote November 3 Meet Nisha → Where She Stands → Donate today Get involved Showing up.
+Lower Costs · Stronger Schools Better Healthcare Farms & Small Business District 15 · Vote November 3 Meet Nisha → Where She Stands → Platform → Donate today Get involved Showing up.
 Listening.
 Getting Things Done.
 Showing up.

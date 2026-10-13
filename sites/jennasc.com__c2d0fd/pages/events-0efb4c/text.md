@@ -2,6 +2,10 @@ Skip navigation menu Home Meet Jenna Priorities Events District 112 Volunteer Co
 P, IOP, SI, Awendaw) Canvass for Jenna on your own timeline .
 We'll set you up with a turf and training.
 You knock doors when it's convenient for you.
+More Info CCDP's Blue Jamboree Brittlebank Park 185 Lockwood Dr.
+Charleston, SC Meet the candidates at the Blue Jamboree.
+Free to attend.
+Live music, food, and community the day before early voting begins.
 More Info Canvassing with Jenna Meeting Place TBD Mount Pleasant, SC Let's go door knocking together!
 Join Jenna & friends for canvassing.
 We'll provide the training.

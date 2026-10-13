@@ -1,5 +1,5 @@
-Skip to content For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Category: Announcements News & Information Hello World!
-Previous Page Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Skip to content For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Category: Announcements News & Information Press Release: Official Announcement Hello World!
+Previous Page Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Paid for by the Committee to Elect Joshua Brant .
 Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website

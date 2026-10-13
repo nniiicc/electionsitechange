@@ -7,13 +7,13 @@ Election Day • 2.
 Weekend Advance Voting Dates and Hours • 3.
 Where to Vote Early in District 157 • 4.
 Absentee Ballots and Drop Boxes – Absentee Application Deadline – Drop Box Regulations – Switching from Absentee to In-Person Voting • 5.
-Accessibility and Curbside Voting – Curbside Voting – In-Booth Voter Assistance • 6.
+Accessibility and Voter Assistance – Priority Voting for Seniors and Voters with Disabilities – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
 Acceptable Forms of Photo ID – Provisional Ballots • 7.
 What’s on Your Ballot – Georgia House District 157 – Statewide Constitutional Amendments • 8.
 District 157 Community Town Hall (October 17) • Verified Election & Community Resources – Official Government Election Resources – Campaign & Community Resources In-person advance voting for the 2026 General Election begins on Tuesday, October 13, 2026 , and runs through Friday, October 30, 2026 , across Appling, Evans, Jeff Davis, and Tattnall Counties.
 This guide provides practical election information for voters across House District 157: verified voting locations, weekend schedules, absentee ballot rules, and identification requirements.
 Start Here: Quick Election Reference Advance Voting Window: Tuesday, October 13 - Friday, October 30, 2026 Mandatory Saturday Voting Days: Saturday, October 17 & Saturday, October 24, 2026 Absentee Application Deadline: Friday, October 23, 2026 (must be received by county) General Election Day: Tuesday, November 3, 2026 (7:00 AM - 7:00 PM) Official Voter Status & Sample Ballots: Georgia My Voter Page (mvp.sos.ga.gov) Quick Links to Sections Early Voting vs.
-Election Day Weekend Advance Voting Dates and Hours Where to Vote Early in District 157 Absentee Ballots and Drop Boxes Accessibility and Curbside Voting Acceptable Forms of Photo ID What’s on Your Ballot Glennville Community Town Hall (October 17) 1.
+Election Day Weekend Advance Voting Dates and Hours Where to Vote Early in District 157 Absentee Ballots and Drop Boxes Accessibility and Voter Assistance Acceptable Forms of Photo ID What’s on Your Ballot Glennville Community Town Hall (October 17) 1.
 Early Voting vs.
 Election Day The primary operational difference between early voting and Election Day is where you are permitted to cast your ballot.
 During the advance voting window (October 13 - October 30), registered voters may cast a ballot at any designated advance voting location within their home county .
@@ -28,7 +28,7 @@ While state law requires counties to open on both Saturdays, exact operating hou
 Check your county listing below or visit the Georgia My Voter Page to confirm local weekend hours.
 3.
 Where to Vote Early in District 157 Each of the four counties in District 157 designates a central elections facility for advance in-person voting.
-Below are the official physical locations and contact details for each county: County Designated Early Voting Facility Physical Address Regular Weekday Hours Office Phone Appling County Board of Elections Office 83 South Oak Street Baxley, GA 31513 8:30 AM - 5:00 PM (912) 367-8113 Evans County Courthouse Annex (Suite 8) 201 Freeman Street Claxton, GA 30417 8:30 AM - 5:00 PM (912) 739-0708 Jeff Davis County Public Safety Facility 15 Public Safety Drive Hazlehurst, GA 31539 8:30 AM - 5:00 PM (912) 375-6635 Tattnall County Central Elections Office 114 W Brazell Street Reidsville, GA 30453 8:30 AM - 5:00 PM (912) 557-6417 Note for Tattnall County voters: Advance early voting is conducted at the Board of Elections central office in Reidsville.
+Below are the official physical locations and contact details for each county: County Designated Early Voting Facility Physical Address Regular Weekday Hours Office Phone Appling County Board of Elections Office 83 South Oak Street Baxley, GA 31513 9:00 AM - 5:00 PM (912) 367-8113 Evans County Courthouse Annex (Suite 8) 201 Freeman Street Claxton, GA 30417 9:00 AM - 5:00 PM (912) 739-0708 Jeff Davis County Public Safety Facility 15 Public Safety Drive Hazlehurst, GA 31539 9:00 AM - 5:00 PM (912) 375-6635 Tattnall County Central Elections Office 114 W Brazell Street Reidsville, GA 30453 9:00 AM - 5:00 PM (912) 557-6417 Note for Tattnall County voters: Advance early voting is conducted at the Board of Elections central office in Reidsville.
 Glennville voters should plan to travel to Reidsville during the advance window or utilize the Saturday voting dates. [!NOTE] Operating schedules and entrance details are subject to official county determination.
 Official county election notices and the Georgia My Voter Page take precedence over third-party summaries.
 4.
@@ -42,17 +42,15 @@ Switching from Absentee to In-Person Voting Under O.C.G.A. § 21-2-388 , if you 
 Surrender the paper ballot to the poll clerk, who will mark it as canceled in the state database and issue you a standard in-person ballot.
 If you do not have the paper ballot with you, poll officials will require you to sign an affidavit affirming that the absentee ballot was not used before issuing an in-person ballot.
 5.
-Accessibility and Curbside Voting Georgia election law contains specific accommodations to ensure every eligible citizen can cast a ballot safely and privately.
-Curbside Voting Under O.C.G.A. § 21-2-409.1 and O.C.G.A. § 21-2-385(b) , curbside voting is available to: Voters who are 75 years of age or older.
-Voters with a physical disability that prevents entering the polling facility.
-When arriving at the voting facility, a driver or companion may enter the lobby to notify election workers that a qualified voter requires curbside service.
-Two election workers will bring the voting materials to the vehicle.
-In-Booth Voter Assistance Under O.C.G.A. § 21-2-409 , any voter who requires assistance due to physical disability or difficulty reading English may receive help from a person of their choice.
+Accessibility and Voter Assistance Georgia election law contains specific accommodations to ensure every eligible citizen can cast a ballot safely, privately, and independently.
+Priority Voting for Seniors and Voters with Disabilities Under O.C.G.A. § 21-2-409.1 , voters who are 75 years of age or older, or who have a physical disability, are entitled to proceed directly to the front of the line to vote between the hours of 9:30 AM and 4:30 PM during advance voting and on Election Day, without waiting in line.
+In-Booth Voter Assistance Under O.C.G.A. § 21-2-409 , any voter who requires assistance due to physical disability or difficulty reading English may receive help from a companion of their choice.
 The law specifies that an assistant may not be the voter’s employer, an agent of the employer, or an officer or agent of the voter’s labor union.
+Accessible Voting Equipment Every advance voting site in District 157 is equipped with Georgia’s certified ballot marking devices (BMDs) configured with accessibility features, including audio-tactile keypads, headphones for audio ballots, high-contrast screen modes, large-text magnification, and compatibility with sip-and-puff devices.
 6.
 Acceptable Forms of Photo ID Georgia law ( O.C.G.A. § 21-2-417 ) requires in-person voters to present government-issued photo identification at check-in.
 The six acceptable forms of photo identification are: Any valid state or federal government-issued photo ID, including a free Georgia Voter ID card.
-A Georgia driver’s license (even if expired within statutory grace limits).
+A Georgia driver’s license (even if expired).
 A valid U.S. passport or passport card.
 A valid employee photo ID issued by any branch, department, or agency of the federal government, Georgia, or any Georgia county or municipality.
 A valid U.S. military photo ID.
@@ -86,7 +84,7 @@ Election Day • 2.
 Weekend Advance Voting Dates and Hours • 3.
 Where to Vote Early in District 157 • 4.
 Absentee Ballots and Drop Boxes – Absentee Application Deadline – Drop Box Regulations – Switching from Absentee to In-Person Voting • 5.
-Accessibility and Curbside Voting – Curbside Voting – In-Booth Voter Assistance • 6.
+Accessibility and Voter Assistance – Priority Voting for Seniors and Voters with Disabilities – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
 Acceptable Forms of Photo ID – Provisional Ballots • 7.
 What’s on Your Ballot – Georgia House District 157 – Statewide Constitutional Amendments • 8.
 District 157 Community Town Hall (October 17) • Verified Election & Community Resources – Official Government Election Resources – Campaign & Community Resources Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

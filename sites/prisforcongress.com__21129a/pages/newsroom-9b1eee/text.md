@@ -4,23 +4,26 @@ Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion P
 Mary Parish St.
 Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom On April 18, 2024, Congressman Clay Higgins introduced the Safeguarding American… On April 18, 2024, Congressman Clay Higgins introduced the Safeguarding American Workers’ Benefits Act, claiming it would save taxpayers $24.5 billion by preventing individuals without work authorization from claiming federal [Click Title to Continue Reading] October 12, 2026 no comments Scared bro Scared bro Source [Click Title to Continue Reading] October 11, 2026 2 comments Don’t ever forget that he works for us, our taxpayer dollars pay his bills.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom The Challenges Facing Louisiana’s 3rd Congressional District Working families a… The Challenges Facing Louisiana’s 3rd Congressional District Working families are struggling, coastal communities are at risk, and residents deserve answers.
+Louisiana’s 3rd Congressional District faces serious challenges that demand sustained [Click Title to Continue Reading] October 13, 2026 no comments Does anybody want to or state a goodbye ceremony for Mr Higgins?
+We could do it … Does anybody want to or state a goodbye ceremony for Mr Higgins?
+We could do it on November 3..
+If you would like to donate:, https://secure.actblue.com/donate/priscilla-gonzalez-3 Source [Click Title to Continue Reading] October 12, 2026 no comments Now he wants to thank them.
+How many of them died?
+What happened to no new wars?… Now he wants to thank them.
+How many of them died?
+What happened to no new wars?
+What happened to gas prices, grocery prices?
+What happened to our houses, community? [Click Title to Continue Reading] October 12, 2026 no comments The Pregnant Women in Custody Act (H.R.
+6878) aims to establish standards for th… The Pregnant Women in Custody Act (H.R.
+6878) aims to establish standards for the treatment and care of pregnant women who are incarcerated.
+Key provisions of the bill include: Prohibition [Click Title to Continue Reading] October 12, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
+I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 12, 2026 no comments The Respect for Child Survivors Act (S.4926) is a crucial piece of legislation d… The Respect for Child Survivors Act (S.4926) is a crucial piece of legislation designed to improve the support system for victims of child sexual abuse.
+It requires the FBI to [Click Title to Continue Reading] October 12, 2026 no comments On April 18, 2024, Congressman Clay Higgins introduced the Safeguarding American… On April 18, 2024, Congressman Clay Higgins introduced the Safeguarding American Workers’ Benefits Act, claiming it would save taxpayers $24.5 billion by preventing individuals without work authorization from claiming federal [Click Title to Continue Reading] October 12, 2026 no comments Scared bro Scared bro Source [Click Title to Continue Reading] October 11, 2026 2 comments Don’t ever forget that he works for us, our taxpayer dollars pay his bills.
 Don’… Don’t ever forget that he works for us, our taxpayer dollars pay his bills.
 Don’t forget early voting begins October 20.
 If you would like to donate: https://secure.actblue.com/donate/priscilla-gonzalez-3 Source [Click Title to Continue Reading] October 11, 2026 no comments On April 18, 2024, Higgins announced The Safeguarding American Workers Benefit A… On April 18, 2024, Higgins announced The Safeguarding American Workers Benefit Act.
-On his website he claims that “Congressman Clay Higgins (R-LA) introduced the Safeguarding American Workers’ Benefits Act, which, [Click Title to Continue Reading] October 10, 2026 no comments Candidate for U.S.
-Congress | Louisiana’s 3rd Congressional District October 9,… Candidate for U.S.
-Congress | Louisiana’s 3rd Congressional District October 9, 2026 The Honorable Clay Higgins U.S.
-Representative, Louisiana’s 3rd Congressional District Dear Congressman Higgins: I respectfully invite you to [Click Title to Continue Reading] October 10, 2026 no comments Candidate for U.S.
-Congress | Louisiana’s 3rd Congressional District October 9,… Candidate for U.S.
-Congress | Louisiana’s 3rd Congressional District October 9, 2026 The Honorable Clay Higgins U.S.
-Representative, Louisiana’s 3rd Congressional District Dear Congressman Higgins: I respectfully invite you to [Click Title to Continue Reading] October 10, 2026 no comments Please check your voter registration!
-Please check your voter registration!
-Source [Click Title to Continue Reading] October 9, 2026 no comments Don’t forget to check your blood pressure registration status, everyone.
-You w… Don’t forget to check your blood pressure registration status, everyone.
-You would like to donate to my campaign, please use this link: https://secure.actblue.com/donate/priscilla-gonzalez-3 Don’t forget to check your blood pressure [Click Title to Continue Reading] October 9, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
-I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 9, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
-I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 8, 2026 no comments 1 2 3 … 14 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+On his website he claims that “Congressman Clay Higgins (R-LA) introduced the Safeguarding American Workers’ Benefits Act, which, [Click Title to Continue Reading] October 10, 2026 no comments 1 2 3 … 15 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.
 Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.

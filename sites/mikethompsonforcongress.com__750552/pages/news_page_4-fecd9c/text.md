@@ -1,5 +1,11 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News Rep.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News Thompson and Huffman to Host Petaluma Affordability Roundtable April 10, 2026 Petaluma, CA – On Monday, April 13, Rep.
+Mike Thompson (CA-04) and Rep.
+Jared Huffman (CA-02) will host a community affordability roundtable in Petaluma from 9:30 am – 11:00 am.
+Read more Thompson and Huffman to Host Petaluma Affordability Roundtable April 7, 2026 Petaluma, CA – On Monday, April 13, Rep.
+Mike Thompson (CA-04) and Rep.
+Jared Huffman (CA-02) will host a community affordability roundtable in Petaluma from 9:30 am – 11:00 am.
+Read more Rep.
 Mike Thompson Presents $1,000,000 Check to Build Pedestrian and Bicycle Connection to Davis Amtrak Station April 7, 2026 Davis, CA – Rep.
 Mike Thompson (CA-04) presented a $1,000,000 check to Davis Mayor Donna Neville, Yolo County Supervisors Lucas Frerichs and Sheila Allen, and Capitol Corridor Managing Director Robert Padgette for the Amtrak Depot / Olive Drive Connection Project.
 Read more Rep.
@@ -43,9 +49,4 @@ Read more Thompson Hosts Community Members in Lincoln for Community Coffee March
 Congressman Thompson heard from constituents about the threats facing our democracy, the rising cost of living in Placer County, and this administration’s unconstitutional war in Iran.
 Read more Rep.
 Mike Thompson Applauds Napa Renewable Natural Gas Project Powered by Inflation Reduction Act Tax Credits March 16, 2026 Napa, CA — Congressman Mike Thompson (CA-04) applauded the City of Napa’s new anaerobic digestion system, a transformative clean energy project that will convert organic waste into renewable natural gas to power the city’s garbage and recycling trucks.
-Read more Thompson, Schiff, Valadao Lead Call for USDA Assistance for Peach Farmers California Farmers Need Relief Following Peach Processing Plant Closure March 13, 2026 Yuba-Sutter Region, California – Today, Rep.
-Mike Thompson (D-CA-04), Senator Adam Schiff (D-CA), and Rep.
-David Valadao (R-CA-22) led a bipartisan group of 39 colleagues to request Secretary of Agriculture Brooke Rollins issue assistance to peach farmers in Yuba and Sutter Counties.
-Read more REP.
-MIKE THOMPSON LEADS OVER 700 COMMUNITY MEMBERS IN NAPA AND WOODLAND FOR “NO FOREVER WARS” DAYS OF ACTION March 12, 2026 Napa and Woodland, CA — Congressman Mike Thompson (CA-04) led over 700 community members, veterans, and military families this weekend in Napa and Woodland for “No Forever Wars” Day of Action events calling for congressional oversight regarding the U.S. military involvement in Iran.
 Read more Pagination First page « First Previous page ‹ Previous Page 1 Page 2 Page 3 Page 4 Current page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

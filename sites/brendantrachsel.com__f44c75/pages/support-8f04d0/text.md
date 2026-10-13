@@ -3,8 +3,8 @@ Whether you’re giving time, money, or just helping spread the word, it all add
 Donate A tremendous thank you to everyone’s generosity, but we don’t need more money!
 Volunteer Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * How are you interested in helping? * Door Knocking Calling Flyering Tabling Some other skill I have!
-(Please elaborate below) Email to the If selected other, how do you want to help?
+Name * First Last the the Name Email * How are you interested in helping? * Door Knocking Calling Flyering Tabling Some other skill I have!
+(Please elaborate below) If selected other, how do you want to help?
 What town/city do you live in?
 Anything else to add?
 Check the box below if you would like to be added to the mailing list Yes I would!

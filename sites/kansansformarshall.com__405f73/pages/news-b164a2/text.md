@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Kansans for Marshall In the News Press releases, endorsements, and updates from the campaign.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Kansans for Marshall In the News Press releases, endorsements, and updates from the campaign.
 September 28, 2026 Press release NRSC & Marshall Campaign Issue Cease and Desist Letters After Democrat Adam Hamilton’s Ad Exposed as a Lie The Washington Reporter completely dismantled the false statements in Hamilton’s recent attack ad, exposing how Kansas legal records completely shatter Democrat Adam Hamilton’s narrative, showing that he lied about the patient’s debts and previous court records—like the fact that she had failed to appear in court 16 times in the previous 3 years.
 Hamilton knew her case details but instead chose to peddle a lie to Kansans to support his own interests.
 Read the release → September 18, 2026 Press release Adam Hamilton Runs from Second Debate Today, Adam Hamilton declined to participate in a second debate that was scheduled with Nexstar Television Network.

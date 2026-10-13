@@ -32,6 +32,10 @@
 "href": "https://www.jacksonformaine.com/events"
 },
 {
+"text": "GET VOTING INFO",
+"href": "https://www.jacksonformaine.com/vote"
+},
+{
 "text": "Get answers to frequently asked questions about Troy and his campaign",
 "href": "https://www.jacksonformaine.com/troy-at-a-glance"
 },
@@ -54,10 +58,6 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.jacksonformaine.com/privacy-policy"
-},
-{
-"text": "RSVP",
-"href": "https://www.mobilize.us/jacksonformaine/?is_high_priority=true"
 },
 {
 "text": "Terms of Service",

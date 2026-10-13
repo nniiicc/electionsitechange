@@ -29,7 +29,7 @@ These dollar amounts determined in 1984 have not changed in the last 40 years.
 Historical Income Tables: Households (census.gov) How has paying into social security been as an investment?
 Terrible.
 If you had been given the chance to invest $5,670 times 2 (since your employer was also was taxed) in 1984 in the S&P 500 you would have over $120,000 in 2023 (just for that one year’s investment).
-Moreover, a dollar earned in 1984 or 1974 (for someone turning age 70 in 2026) is valued the same by the SSA as a dollar in 2023 in calculating benefits.
+Moreover, a dollar earned in 1984 or 1974 (for someone turning age 70 in 2026) is valued the same by the SSA as a dollar in 2025 in calculating benefits.
 This is, of course, ludicrous and inconsistent with the real world.
 Sadly, there is a tremendous amount of water under the social security bridge.
 When unemployment rates fell before and after WWII, the Act could have been repealed.
@@ -38,11 +38,13 @@ However, for future generations, it is still critical to make major changes in S
 Recently the Congressional Budget Office estimated that the combined trust funds will run out of money by 2033 ( Social Security Board of Trustees: Projection for Combined Trust Funds One Year Sooner than Last Year | News | SSA ) Old versus Young.
 Today, social security solutions will require balancing what is best for younger people (who should prefer that SSA is abolished and never mentioned again) versus what is best for older people (having younger people pay in to SSA even if there will be little money when they retire).
 This is a balance in fairness to older Americans (who have already paid in for decades) and younger people (for whom the failure of the pyramid scheme is now obvious).
-Short-Run “Solutions”?
-There are several actions that can keep the old pyramid scheme solvent past 2033.
-These include: 1) require more than 10 years (40 quarters) paying into social security.
-Today, someone paying in for 10 years can receive the same benefits as paying in for 45 years; 2) increase the retirement ages; 3) reduce base benefit payments; 4) use general tax revenues to make up the shortfall; 5) raise payroll tax levels.
-I have listed these roughly in my order of preference, but except for the first one, I don’t really like any of them.
+Possible Solutions There are several actions that can keep the old pyramid scheme solvent past 2032.
+These include: 1) Allow the trust fund to invest in index funds (invest in America, not in the Government via US treasuries), 2) Do a better job of cutting other government spending; 3) immigration reform – we need new legal workers in America (they already pay over $100 billion in combined state/local/federal taxes); 4) expand personal retirement accounts; 5) we have to allow people to voluntarily leave the system by taking pennies on the dollar – and social security is such a terrible investment – people will do it.
+This moves us away from the failed pyramid scheme.
+6) reduce regulations to make America more productive; 7) change retirement ages to better reflect longer life expectancy.
+I have listed these roughly in my order of preference.
+I strongly prefer solutions that do NOT increase taxes.
+I explain some of these in more detail below, others are described in more detail on other pages at this website.
 Don’t Limit the Trust Fund to U.S.
 Treasury Securities.
 Even when there has been a social security trust fund, that fund has been constrained to “invest” only in U.S.
@@ -56,10 +58,10 @@ Should Social Security Invest in Equities? – Center for Retir ement Research (
 I want Americans to be able to invest in America - not forced to only “invest” in the US government.
 Voluntary Long-Run Solutions.
 Today, I would gladly take pennies on the dollar for a lump-sum payout of what the SSA calculates as my lifetime SSA benefits.
-Earlier in my life, I would have been willing to pay some tax to opt out of social security.
+Earlier in my life, I would have been willing to pay some tax to opt out of social security entirely.
 Indeed, even into my 30s and 40s I would have abandoned any claims to future social security benefits in exchange for no longer paying social security taxes for the remainder of my life – because social security is such an abysmal investment.
 Paying some tax (and reducing or abandoning claims on the system) will, for many people, simply be a better choice than remaining in the Social Security system.
 Such voluntary “buy-out” options are critical in order to allow people to rid themselves of the pyramid scheme and reduce the Social Security problem in the future – yet no such options exist today.
-We must also cut other government spending.
-See the other tabs on regulations, the Jones Act, Eliminating Tariffs, Replacing the USMCA, and Stop Being the World Charity and Police for some of the areas in which the US can cut spending or increase US productivity.
+We must also cut other government spending such as the $181 billion in corporate welfare and eliminating FEMA.
+See my other tabs on immigration; cutting regulations (like the Jones Act), Eliminating Tariffs, and Stop Being the World Charity and Police for some of the areas in which the US can cut spending or increase US productivity.
 Information Home About Platform Get in Touch Cut Inflation Cut Regulation s The Power of Trade: Tariffs and Trade Restrictions Federal Reserve Reform US-Mexico-Canada-A greement More Topics Immigration Reform Social Security Stop Being the World Charity and the World Police Incarceration, Substance Abuse and Mental Health Reform Gym Training for Libertarians 2024 Debate s

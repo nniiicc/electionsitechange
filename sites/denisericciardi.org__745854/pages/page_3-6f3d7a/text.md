@@ -1,6 +1,7 @@
 denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi Thank You for Re-Electing Me!
-New Hampshire Senate District 9 Senator Ricciardi, Select Board Discusses Challenges Facing Greenfield Aug 27, 2026 State Sen.
+New Hampshire Senate District 9 Ricciardi Visits New Boston Aug 27, 2026 Senator Ricciardi regularly visits all the 13 towns in her district to listen about their needs and struggles.
+This was in New Boston. read more Senator Ricciardi, Select Board Discusses Challenges Facing Greenfield Aug 27, 2026 State Sen.
 Denise Ricciardi met with the Greenfield Select Board on Wednesday during her annual visit to discuss the mounting pressures facing New Hampshire’s smallest municipalities, including volunteer shortages, state mandates, and rising property taxes.
 Read more... read more Sen.
 Ricciardi’s Work For Towns Deserves Our Support Aug 6, 2026 Sen.
@@ -16,5 +17,4 @@ Bedford will be getting double its share of meals and rooms tax revenue as compa
 Denise Ricciardi, R-Bedford, told the Town Council.
 “Most of you know that, in my first... read more Happy 250th Birthday, America!
 Jul 4, 2026 Happy 250th Birthday, America! 🇺🇸 Today we celebrate 250 years of the United States of America—a nation founded on the enduring ideals of liberty, self-government, and opportunity.
-As we honor this historic milestone, we remember the courage and sacrifice of those who... read more Hoops for Healing Jun 29, 2026 I’m honored to help spread the word about the inaugural Hoops for Healing Basketball Dinner on August 29 at the Double Tree Hotel in Manchester.
-This special event will feature NBA standout Duncan Robinson and raise funds for programs supporting mental health, heart... read more « Older Entries Next Entries » Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110
+As we honor this historic milestone, we remember the courage and sacrifice of those who... read more « Older Entries Next Entries » Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

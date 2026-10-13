@@ -1,9 +1,8 @@
 Home About News Volunteer Donate Contact Contribute I am so proud to be a member of the Democratic caucus Home All Posts ...
 I am so proud to be a member of the Democratic...
 Home About News Volunteer Donate Contact Election News February 5, 2021 by webmaster 0 Comments Share: twitter facebook youtube Post navigation Previous post Working together with a positive heart brings about real change.
-Next post Commemorating History Makers You May Also Like News October 15, 2021 Now more than ever, we need to create good, decent-paying jobs!
-News Priorities & Structure August 1, 2023 State Rep.
-Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Next post Commemorating History Makers You May Also Like Election News August 26, 2024 Attending the 2024 Democratic National Convention News January 26, 2022 Cynthia Neeley on Gov.
+Whitmer’s State of the State Address Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

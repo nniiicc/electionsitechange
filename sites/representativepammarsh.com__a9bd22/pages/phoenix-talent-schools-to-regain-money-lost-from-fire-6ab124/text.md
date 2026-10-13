@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Phoenix-Talent schools to regain money lost from fire By Kevin Opsahl for the Mail Tribune LINK TO ARTICLE Paintings by student artists adorn a fence surrounding RV housing for Almeda Fire victims on South Pacific Highway in Talent.
+Skip to content Tue.
+Oct 13th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Phoenix-Talent schools to regain money lost from fire By Kevin Opsahl for the Mail Tribune LINK TO ARTICLE Paintings by student artists adorn a fence surrounding RV housing for Almeda Fire victims on South Pacific Highway in Talent.
 Photo by Denise Baratta Gov.
 Kate Brown signs law allowing the district to get state grants to make up for money from lost students The Phoenix-Talent School District will get a shot in the arm with cash to recoup what it lost when students were displaced by the Almeda fire in 2020.
 Gov.

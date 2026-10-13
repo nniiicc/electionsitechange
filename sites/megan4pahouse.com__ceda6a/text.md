@@ -5,4 +5,9 @@ DEMOCRACY REFORM Our democracy is strongest when every eligible voter can partic
 Public Transportation Public transportation is a vital economic engine that must be fully funded across our Commonwealth, including SEPTA.
 WORKERS' & UNION RIGHTS A strong economy is one that works for everyone, not just corporations and the wealthy.
 Safeguard Our Environment The health of our environment directly impacts the prosperity of our communities.
-READ MORE ABOUT WHAT MEGAN STANDS FOR
+READ MORE ABOUT WHAT MEGAN STANDS FOR Meet Megan Megan’s story starts in Lafayette Hill, right in the heart of Whitemarsh Township.
+She grew up racing across the fields at Miles Park, breaking barriers as one of only two girls in Whitemarsh Little League, and cheering on the annual July Fourth Parade from the steps of her father’s office on Germantown Pike.
+GET TO KNOW MEGAN Talk to megan Interested in working together?
+Fill out some info and I’ll be in touch shortly.
+I can’t wait to hear from you!
+Megan griffin-shelley for pa state rep Donate Get Connected Paid for by Friends of Megan GS

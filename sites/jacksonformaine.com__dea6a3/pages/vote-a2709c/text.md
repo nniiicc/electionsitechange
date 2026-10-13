@@ -1,7 +1,7 @@
 Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE VOTING INFORMATION & RESOURCES MAKE A PLAN TO VOTE FOR TROY Election Day November 3 Polling places open on Tuesday, November 3 between 6:00 AM and 10:00 AM, and close at 8:00 pm.
 Anyone in line by 8:00 PM on Election Day can register and vote.
 Find your polling place here.
-Early In-Person Voting Starts on October 5 You can vote early in-person at your municipal clerk's office between Monday, October 5 and Thursday, October 29.
+Early In-Person Voting October 5 to October 29 You can vote early in-person at your municipal clerk's office between Monday, October 5 and Thursday, October 29.
 Check your municipal clerk's office hours for In-Person Absentee Voting availability.
 Mail-in Voting Request by October 29 To vote by mail, your absentee ballot request must be received by the close of business on Thursday, October 29.
 Voters can request absentee ballots online here.

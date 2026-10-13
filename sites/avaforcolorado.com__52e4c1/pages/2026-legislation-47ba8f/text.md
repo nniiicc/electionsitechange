@@ -1,4 +1,4 @@
-Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page SB26-182: Updated Clean Energy Plan Municipally Owned Utility – Pushes the deadline back by three years to meet Colorado’s emission reduction goals.
+Home Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page SB26-182: Updated Clean Energy Plan Municipally Owned Utility – Pushes the deadline back by three years to meet Colorado’s emission reduction goals.
 This gives Colorado Springs Utilities a little more time to pursue clean energy responsibly without driving up costs or risking blackouts.
 SB26-149: Pathways for Individuals with Mental Health Disorder – Keeps dangerous individuals who are incompetent to stand trial from being released back into the community by creating pathways for treatment, supervision, and long-term placement when necessary to protect public safety.
 SB26-137: Measures to Reduce Administrative Burdens – Requires departments to review their rules every five years to identify outdated or burdensome regulations and allows legislative committees to recommend further review, improving accountability and efficiency.

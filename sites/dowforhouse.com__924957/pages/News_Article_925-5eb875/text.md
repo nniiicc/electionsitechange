@@ -1,4 +1,4 @@
-Home Flood Victims LAS CRUCES RESIDENTS HATCH VALLEY RESIDENTS (WHEN AVAILABLE) SOCORRO RESIDENTS (WHEN AVAILABLE) News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS GUIDE TO HOMESCHOOLING IN NM ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 5 Feb From the Round House By housereplogin How do I know an arbitrary increase in the minimum wage will hurt low-wage workers?
+Home Flood Victims LAS CRUCES RESIDENTS HATCH VALLEY RESIDENTS (WHEN AVAILABLE) SOCORRO RESIDENTS (WHEN AVAILABLE) News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS GUIDE TO HOMESCHOOLING IN NM ABOUT ABOUT REBECCA REBECCA'S VALUES GALLERY CONTACT REBECCA Contribute News Home In the News Article 5 Feb From the Round House By housereplogin How do I know an arbitrary increase in the minimum wage will hurt low-wage workers?
 Simple, I was one.
 It may be easy to believe an increase in the minimum wage is appealing because I don’t know anyone who would turn down a raise.
 The jobs that pay minimum wage often require the maximum work and no one would say it is easy.

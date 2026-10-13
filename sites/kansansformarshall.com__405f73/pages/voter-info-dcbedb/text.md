@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute For every Kansas voter Your vote.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute For every Kansas voter Your vote.
 Your dates.
 Sourced from the Kansas Secretary of State.
 Register by October 13 Tuesday · 2026 Early voting Oct 14 — Nov 2 2026 Election day November 3 Tuesday · 2026 Register to vote ↗ Kansas DOR online voter registration · ~3 min (opens in a new tab) → Find your polling place ↗ VoterView · sos.ks.gov (opens in a new tab) → Voter ID requirements ↗ Kansas Secretary of State (opens in a new tab) → County clerk directory ↗ All 105 counties · sos.ks.gov (opens in a new tab) → Frequently asked Questions — answered.

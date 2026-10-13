@@ -1,6 +1,18 @@
-About Communities Issues Media Values Get Involved Donate About Communities Issues Media Values Get Involved Donate Democratic Nominee · PA House District 62 Trajan Jones for Pennsylvania House District 62 For PA State House Built Here.
+Vote About Communities Issues Media Values Get Involved Donate Vote About Communities Issues Media Values Get Involved Donate Democratic Nominee · PA House District 62 Trajan Jones for Pennsylvania House District 62 For PA State House Built Here.
 Fighting Here.
-Canvass Today, 12 to 4 PM Volunteer Issues Chip in to flip HD-62 $10 $25 $50 $100 Other Data Center Accountability Paid Sick Leave $15 Minimum Wage Fund Our Schools Fighting For District 62 Built Here Reproductive Freedom Revitalize Indiana County Stop The Premium Crisis Data Center Accountability Paid Sick Leave $15 Minimum Wage Fund Our Schools Fighting For District 62 Built Here Reproductive Freedom Revitalize Indiana County Stop The Premium Crisis Indiana County Deserves Better Our communities are being left behind.
+Canvass Today, 12 to 4 PM Volunteer Issues Chip in to flip HD-62 $10 $25 $50 $100 Other Data Center Accountability Paid Sick Leave $15 Minimum Wage Fund Our Schools Fighting For District 62 Built Here Reproductive Freedom Revitalize Indiana County Stop The Premium Crisis Data Center Accountability Paid Sick Leave $15 Minimum Wage Fund Our Schools Fighting For District 62 Built Here Reproductive Freedom Revitalize Indiana County Stop The Premium Crisis Voter Action Center Make Your Plan to Vote Four quick questions.
+Your answers stay on this device.
+Registration How you vote Timing Your plan # days to Election Day, Tue, Nov 3 Step 1 of 4 Are you registered at your current address?
+Yes, I'm registered I'm not sure Not yet I moved since I last voted Step 2 of 4 How do you want to vote?
+In person Tuesday, Nov 3 By mail Request by Oct 27 I already requested a mail ballot Step 3 of 4 When will you go vote on Tuesday, Nov 3?
+Morning 7 to 10 AM Midday 10 AM to 2 PM Afternoon 2 to 5 PM Evening 5 to 8 PM Step 3 of 4 How will you return your ballot?
+Mail it back As soon as it arrives Drop it off At the county elections office Step 4 of 4 Your plan to vote Official form Hide form Form not loading?
+Register with PA Voter Services Form not loading?
+Check your status with PA Voter Services Form not loading?
+Apply with PA Voter Services Add to calendar Text a friend Start over Next Back Questions about your registration or ballot?
+Indiana County Elections Office, (724) 465-3852 .
+Official deadlines at vote.pa.gov .
+Indiana County Deserves Better Our communities are being left behind.
 The data tells the story.
 Zero paid sick days guaranteed to PA workers by state law Trajan will fight for paid leave for all workers $7.25 PA minimum wage — frozen since 2009, the lowest allowed by federal law Trajan will fight to raise the minimum wage 25% of family income spent on healthcare costs in rural PA Trajan will fight to lower healthcare costs Meet Trajan An Energetic Leader.
 A True Neighbor.
@@ -60,7 +72,7 @@ Trajanforpahouse@gmail.com (724) 717-3899 Privacy Policy Support The Campaign Fu
 We won the primary.
 Now we're up against a seven-year incumbent with PAC money behind him.
 Every dollar funds mailers, field organizing, and getting our message to all 21 communities before November. $10 Yard Sign $25 Door Hangers $50 Most Popular $100 Event Host Other Custom Secure donation via ActBlue Built Here.
-Fighting Here. trajanforpahouse@gmail.com 724-717-3899 140 Miller Ave, Indiana PA 15701 Campaign About Trajan Communities Issues Media Our Values Get Involved Volunteer Donate Contact Us Connect Paid for by TrajanForPAHouse © #.
+Fighting Here. trajanforpahouse@gmail.com 724-717-3899 140 Miller Ave, Indiana PA 15701 Campaign About Trajan Communities Issues Media Our Values Get Involved Make a Plan to Vote Volunteer Donate Contact Us Connect Paid for by TrajanForPAHouse © #.
 All rights reserved.
 Site by Privacy Policy Accessibility Statement Red Box Return To Site Rep.
 Jim Struzzi R, 62nd District Official portrait The Record On Jim Struzzi A public resource on the voting record, public statements and committee role of the Republican incumbent in Pennsylvania House District 62.

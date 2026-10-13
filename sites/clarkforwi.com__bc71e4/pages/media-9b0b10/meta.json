@@ -1,9 +1,10 @@
 {
  "description": "Clark for Wisconsin's campaign",
  "final_url": "https://www.clarkforwi.com/media",
- "fingerprint": "da4a2f427518408893123116d7932315e4b5f527",
+ "fingerprint": "b3a27584abc2260b8626874e63e6e2f4da647b84",
  "format": 3,
  "paid_for_by": "Paid for by Fred Clark for Wisconsin PO Box 385, Washburn, WI 54891 You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Media — Clark for Wisconsin",
  "years_mentioned": [
   "2026"

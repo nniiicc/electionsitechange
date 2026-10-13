@@ -1,4 +1,4 @@
-Skip to content Conoce a Jose Prensa Noticias Declaraciones Eventos Propuestas de Política Una verdadera política de Medicare para Todos Hacer del Bronx el centro de reindustrialización de Estados Unidos Una reforma migratoria robusta Un enfoque revolucionario de política exterior: Paz a través del Desarrollo Todas las Políticas Eng Donar Registrarse Rescatemos el Bronx!
+Skip to content Lea la última declaración Dignity, Or Subjugation Leer → Conoce a Jose Prensa Noticias Declaraciones Eventos Propuestas de Política Una verdadera política de Medicare para Todos Hacer del Bronx el centro de reindustrialización de Estados Unidos Una reforma migratoria robusta Un enfoque revolucionario de política exterior: Paz a través del Desarrollo Todas las Políticas Eng Donar Registrarse Rescatemos el Bronx!
 Donar Voluntario Rescatemos el Bronx!
 Donar Voluntario “ Me postulo para derribar las barreras que silencian las voces del pueblo.
 Debemos empoderar a los ciudadanos para que recuperen su participación en el gobierno, restaurar la confianza, y desmantelar la corrupción.

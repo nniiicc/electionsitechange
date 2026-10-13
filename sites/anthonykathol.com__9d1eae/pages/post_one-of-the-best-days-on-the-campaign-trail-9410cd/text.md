@@ -12,7 +12,7 @@ Those conversations continue to motivate me as we enter the homestretch of this 
 If you live in the Martin area and would like to host one of my campaign signs, please contact me at Kathol4D27@goldenwest.net .
 Please note that I will be picking up all of my campaign signs after the election.
 Take care and God bless.
-Tags: Kathol for District 27 State Senate #GOP #Republican Peri Pourier #votered Celestine Stadnick Vote Red South Dakota District 27 Recent Posts See All A Summer of Parades Across District 27 It Takes Teamwork Getting the "Ball" across the end zone for a Victory in November Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Tags: Kathol for District 27 State Senate #GOP #Republican Peri Pourier #votered Vote Red Celestine Stadnick South Dakota District 27 Recent Posts See All A Summer of Parades Across District 27 It Takes Teamwork Getting the "Ball" across the end zone for a Victory in November Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

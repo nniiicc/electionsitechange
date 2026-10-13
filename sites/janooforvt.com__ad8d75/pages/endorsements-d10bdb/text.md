@@ -1,4 +1,4 @@
-Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Campaign Stops Volunteer Opportunities Town Hall State Tour News Store Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour News Store Endorsements Real power doesn’t live in party headquarters or donor networks.
+Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Campaign Stops Volunteer Opportunities Town Hall State Tour News Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour News Endorsements Real power doesn’t live in party headquarters or donor networks.
 It lives in our communities, our town halls, and the people who show up every day for the places they call home.
 That’s why this campaign isn’t collecting the standard slate of political endorsements.
 We’re earning one from every town in Vermont, all 252 of them.
@@ -8,6 +8,8 @@ Endorse Amanda Loading map… Endorsed By Vermont State Employees' Association A
 Landing retired Forward thinking, young, nonestablishment Mary Saudade Retired Saw her last night at the forum in Vergennes.
 Liked what I heard about solving problems within the state without dependence on Federal Government.
 Real change in the system is needed and she addressed that.
+John Spencer Retired she is a breath of fresh air.
+We need a different direction.
 Albany Susanna Bowman retired she hasn't got her platform out very effectively but she sounds like she has excellent ideas and wide experience Alburgh Melisa Peterson Kindergarten Teacher Amanda’s vision for building up Vermont communities is inspiring.
 I believe we need someone who is willing to not only think outside of the box but is willing to work with community members to do so.
 As an educator, I am really excited to work with Amanda and her team to find ways to help create better health services for students, families and staff.
@@ -730,7 +732,10 @@ It is time to have generational diversity in politics.
 It is time to have non-career politicians take the reins and move us forward in a kind, responsible, and thoughtful way that represents ALL Vermonters.
 Kestopher Pagter Newton Social worker Amanda rocks Scudder H.
 Parker Former Vermont State Senator and 2006 Democratic nominee for Governor I appreciate her understanding of the structure of our economy and society and the way she translates that understanding into specific, practical proposals that will increase the well-being of all Vermonters.
-Nancy Reilly Administrative She knows VT intimately and her education and work experience are exactly what's needed right here, right now, to counter big money and paring away of basic rights Middletown Springs Daniel Brooks Semi retired , Feed store retail.
+Nancy Reilly Administrative She knows VT intimately and her education and work experience are exactly what's needed right here, right now, to counter big money and paring away of basic rights Katharine Shapiro International public health and physician assistant, retired.
+I'm endorsing her because she has a positive vision and concrete plans for what we can do to address the multiple problems facing all of us and the most vulnerable in our state--she will stand up for labor, for working people not corporations, our farmers and farmworkers, help us build sustainable communities that make decisions about schools, health care and housing.
+She's smart, has a broad perspective and knowledge from other countries on policies that work and most of all she has heart.
+Middletown Springs Daniel Brooks Semi retired , Feed store retail.
 I think Vermont is sorely in need of Amanda's experience, vision , and energy.
 I am sick of hearing that things like health care reform and common sense gun control, "can't be done", while on the flip side seeing things being done daily by the federal government that I never thought could happen in this country.
 Laurie Brooks self employed artist We've waited 10 years for the current governor to address the systemic problems that VT is facing like our ever growing unhoused population, the exodus of health care professionals and the closure of rural hospitals, unaffordable and unavailable housing, environmental degradation, the state's problematic education system and forced school mergers, and so much more.
@@ -863,7 +868,7 @@ Ellen Blachly upholsterer She's got the stuff.
 Her platform is practical and ambitious.
 She sees Vermont's potential from our small size, rather than "too small to matter." Health care, housing, against Data centers, supports community solutions to problems, is warm and friendly.
 Madge Rossinoff retired So she'll work for farmers.
-Perkinsville Calliope Stoddard Peru Carrie Temple Pittsford Erin Dunford Facilitator Amanda is a brilliant, determined and capable woman who can make positive changes for Vermonters!
+Perkinsville Calliope Stoddard Peru Carrie Temple Pittsfield Annabelle Westling Williams retired from social work She represents my beliefs to a T Pittsford Erin Dunford Facilitator Amanda is a brilliant, determined and capable woman who can make positive changes for Vermonters!
 Christopher Szczerba Healthcare Administrator Vermonters deserve better than a governor who shrugs his shoulders and pretends like a better future is out of our control.
 Amanda will lead by empowering us all to listen to and work together with our neighbors to build an even better Vermont.
 It’s time to enable leaders who will work for better infrastructure, real educational opportunities, actual access to healthcare, and more!
@@ -1059,6 +1064,7 @@ She understands the power of community and that the only way things are going to
 I can stand behind that.
 Priscilla Connelly licensed mental health counselor, Licensed Alcohol &Drug counselor Amanda is showing strong desire and ways to plan on working in a democratic manner to support the everyday people of Vermont .
 She knows basic needs for healthy life starts with proper living wages, healthcare, education and considers the importance of addressing serious environmental issues NOW.
+Taftsville Peter Landis Art + Design I believe in her ability to scrap the corrupt frameworks that do not serve the average Vermonter and to create universal healthcare and fully funded education, including free secondary education.
 Thetford Colin Breen Teacher I liked her economic perspective on the future of the state, and hearing her primary opponent talk about all of the great things venture capital could do for our state on VPR made me extremely annoyed.
 Maureen Burford I directed a nonprofit called creative lives.
 At the deepest level, I believe most of us want the same thing: a government, an education system, and an economy that serve the well-being of people and the planet.
@@ -1094,7 +1100,7 @@ Universal primary care.
 Housing for people.
 Banning AI.
 Perhaps the real answer is that this state needs someone with vision who is not afraid to ask the hard questions and who will lead us through these challenging times.
-Warren Connie Colman Retired healthcare administrator Her vision, her commitment to community engagement, her expertise in economic and social transformation, her willingness to take on governor Scott and do the hard work that is involved in addressing Vermont’s critical issues.
+Waltham Deborah Harte Felmeth Many things Amanda is bold enough to know that big ideas need to be heard, visited many times, change is possible, and she’s smart enough to navigate Warren Connie Colman Retired healthcare administrator Her vision, her commitment to community engagement, her expertise in economic and social transformation, her willingness to take on governor Scott and do the hard work that is involved in addressing Vermont’s critical issues.
 Mary Moffroid Retired Professor Physical Therapy UVM Sincere commitment to fostering change and she has good ideas based on having listened carefully to many Vermonters Washington Sean Grafton Charles La Rosa Retired teacher, coach, and businessperson.
 Amanda's economic vision for a Vermont that moves forward in affordability for us, for a sustainable healthy environment, and an economy that works for individual Vermonters and provides the financial resources we need to provide child care, health care, housing, security and, yes, happiness, aligns with my vision for Vermont and our neighbors up and down the road.
 Waterbury John Bauer Wedding DJ, retail at Umiak Outfitters She is speaking for the change we need.

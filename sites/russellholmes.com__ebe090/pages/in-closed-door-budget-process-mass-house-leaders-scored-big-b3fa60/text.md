@@ -88,17 +88,12 @@ House Minority Leader Brad Jones — whose $275,000 in earmarks led all members 
 Late last year, the few Republican members of the House repeatedly blocked a spending bill with money for the emergency shelter system by using parliamentary maneuvering, ultimately forcing dozens of Democrats to attend an informal session to push it through.
 At the time, Mariano released statements accusing House Republicans of “obstructionism.” “I’ve been in the building long enough to know it’s a cause and effect,” Jones said, “even if it’s not stated.” Mariano’s office did not comment on the treatment of GOP budget amendments.
 Share this Post navigation PREVIOUS Previous post: Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Related Post ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
+Related Post Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:36 am State Rep.
-Russell Holmes (left) and former Boston Police Capt.
-Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
+Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
+“It is imperative Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:23 am Rep.
 Russell Holmes is ready to start screaming again over police reform bill.

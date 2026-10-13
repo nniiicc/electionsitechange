@@ -5,4 +5,4 @@ I’m ready to represent the full 31st District with honesty, compassion, and de
 Learn more Proudly Endorsed by: Kristin Reeves , WA State Representative Kate Baldwin , City of Auburn Councilmember Stephanie Vignal , City of Mill Creek Mayor Griselda Arias , City of Yelm Councilmember Cheryl Rakes , City of Auburn Councilmember View all endorsements Support the campaign: Donate today Stay in the loop.
 Make sure you’re getting the latest campaign updates and developments by following the official Together with Tamara pages on Instagram and Facebook.
 View this profile on Instagram Tamara Stramel (@ together_with_tamara ) • Instagram photos and videos Navigate: Home Meet Tamara Stramel Priorities Donate today MAIL TO: Paid for by Together with Tamara Stramel P.O.
-Box 281, Sumner, WA 980
+Box 281, Sumner, WA 98390

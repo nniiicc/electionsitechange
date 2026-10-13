@@ -1,4 +1,4 @@
-Meet Blakeman Blakeman’s Record Meet Todd News Get Involved Volunteer Supporters Map Coalitions DONATE STORE BLAKEMAN IN THE NEWS August 12, 2026 Blakeman on Siena Poll: This Race is Neck & Neck All of the polls we have seen in the last two months have us virtually tied with Kathy Hochul.
+Meet Blakeman Blakeman’s Record Meet Todd News Get Involved Volunteer Supporters Map Coalitions Vote DONATE STORE BLAKEMAN IN THE NEWS August 12, 2026 Blakeman on Siena Poll: This Race is Neck & Neck All of the polls we have seen in the last two months have us virtually tied with Kathy Hochul.
 This poll is always off and continues to be off.
 We know and she knows this race is neck and neck.
 READ MORE Read Article July 31, 2026 Hochul Sacrificed an Entire Generation’s Education Anthony Fauci and Kathy Hochul forced masks on our kids even though children were at virtually zero risk of serious illness from COVID.
@@ -89,4 +89,4 @@ Elise Stefanik for the GOP nomination, The Post has learned.
 READ MORE Read Article November 17, 2025 Nassau County executive visits Albany as he weighs joining race for New York governor Blakeman said after winning his reelection bid for county executive last week, business and community leaders called him and urged him to enter the race for governor.
 READ MORE Read Article November 17, 2025 Nassau County Executive Bruce Blakeman challenges Hochul to draw line as DSA pressures her to back Zohran Mamdani tax hike Nassau County Executive Bruce Blakeman challenged Gov.
 Kathy Hochul to draw a line in the sand Monday as she faces pressure from Democratic Socialists of America to back Mayor-elect Zohran Mamdani's proposed tax hikes.
-READ MORE Read Article ➜ ➜ Meet Blakeman Blakeman’s Record News Get involved Volunteer Supporters Map Coalitions DONATE To request an event with Bruce Blakeman or the campaign, please email: events@blakemanfornewyork.com Paid for by Blakeman for new york Stop Hochul
+READ MORE Read Article ➜ ➜ Meet Blakeman Blakeman’s Record News Get involved Volunteer Supporters Map Coalitions Vote DONATE To request an event with Bruce Blakeman or the campaign, please email: events@blakemanfornewyork.com Paid for by Blakeman for new york Stop Hochul

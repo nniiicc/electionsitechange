@@ -1,4 +1,4 @@
-Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store STRONGER TEXAS.
+Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store STRONGER TEXAS.
 BRIGHTER TOMORROW.
 GREG ABBOTT'S RECORD Conservative solutions for a stronger, safer, and more prosperous Texas.
 EXPLORE THE ACCOMPLISHMENTS Governor Abbott is committed to building a stronger Texas for every family.

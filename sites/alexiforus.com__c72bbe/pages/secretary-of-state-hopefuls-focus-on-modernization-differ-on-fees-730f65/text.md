@@ -40,10 +40,5 @@ While the two candidates shared a modernization focus, they diverged on the issu
 Brady has proposed cutting license registration fees by $50 temporarily due to rising inflation, but he had not yet filed a bill to do so.
 Giannoulias, meanwhile, called it “irresponsible budgeting” to suspend fees regardless of a person’s income without identifying funding alternatives.
 But he said he would consider a program that would cut fees for lower-income individuals, provided there is a budget workaround.
-Read on the DailyHearld Related Posts Secretary Giannoulias’ Legislation to Protect Motorists and Police by Decriminalizing Rearview Mirror Air Fresheners Heads to Governor House Bill 2389 passes Senate 41-11 today Keep Reading → Digital IDs will become available this year for Illinois residents.
-Here’s what to know.
-The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
-Secretary Keep Reading → Giannoulias Earns Early Endorsement of Bernie Sanders’ Progressive Organization Democrat Alexi Giannoulias has won the support of progressive grassroots political network that grew out of the presidential campaign of U.S.
-Sen Bernie Sanders.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Read on the DailyHearld Related Posts Southern IL Democrats Endorse Giannoulias for Secretary of State Party Leaders Praise Former Treasurer’s Commitment to Downstate; Middle-Class Values Keep Reading → Secretary of State Giannoulias reveals rejected vanity plates in 2022 Small percentage prohibited for violating the state’s vehicle code Keep Reading → Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State Launches New Ad Announcing his Support for Former Democrat Treasurer and Their Fight for Worker Rights Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

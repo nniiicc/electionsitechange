@@ -1,4 +1,4 @@
-Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs News from Christine O'Riley Candidate for North Dakota State Senate District 11 Be one of the first to know.
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs News from Christine O'Riley Candidate for North Dakota State Senate District 11 Be one of the first to know.
 Follow news from Christine O'Riley's campaign online here.
 Follow Christine O'Riley's Campaign News 10 Oct Saturday, 8:19 AM · 2026 League of Women Voters Forum League of Women Voters & AARP of ND Host a District 11 Candidate Forum The link to the forum is below On October 8 th, the District 11 candidates convened to share ideas and answer questions from the public.
 The forum reminded me of the importance of hearing from others and collaboration.
@@ -130,6 +130,6 @@ The program received a very special award – stay tuned to hear about the detai
 This beautiful event included prayer, singing, and fellowship.
 As a bonus, we were blessed with a sunny day!
 We must continue to pray for our nation during our daily reflections.
-VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
+NEWS DONATE VOLUNTEER VOTING INFO YARD SIGNS Get Updates Thank you for signing up!
 News League of Women Voters Forum Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

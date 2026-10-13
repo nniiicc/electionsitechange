@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Blake Edler: Ashley Hinson is defending family farms like mine Jul 7, 2026 | In the News Back to Updates For five generations, my family and I have grown corn, soybeans, and hay while raising cattle and swine.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Blake Edler: Ashley Hinson is defending family farms like mine Jul 7, 2026 | In the News Back to Updates For five generations, my family and I have grown corn, soybeans, and hay while raising cattle and swine.
 I have been working on my family’s farm in Marshall County since I was a kid.
 I look forward to teaching my cousins how to make a career out of farming here in Iowa.
 With the rise of policies like Prop 12, I worry about our farm’s longevity and ability to thrive.

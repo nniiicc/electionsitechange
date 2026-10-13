@@ -7,7 +7,7 @@ Donations may be solicited.
 Text HELP for help.
 Text STOP to unsubscribe.
 Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use .
-Paid for by Tim Wilk 4 CT, Ruth Cyr, Treasurer.
+Paid for by Tim Wilk 4 CT, Ruth Stanley-Cyr, Treasurer.
 Approved by Tim Wilk.
 Copyright © # Tim Wilk 4 CT - All Rights Reserved.
 Contact Privacy Policy

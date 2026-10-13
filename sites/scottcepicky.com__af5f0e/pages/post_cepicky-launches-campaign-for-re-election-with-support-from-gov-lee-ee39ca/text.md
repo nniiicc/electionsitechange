@@ -57,4 +57,5 @@ Not just the ones that voted for me.
 When I go to the General Assembly about how great Maury County is.
 When you have a campaign kick-off and you have got the governor and new speaker of the House here to support you, I think that says a lot about the trust they have in me and what they are trying to get done here in Maury County.
 There is more work to be done and they want me to come back and keep doing the work.” Recent Posts See All A fellow Big10 football player in the House today Cepicky proposes changes to public education Rep Cepicky Receives Award for Conservative Excellence!
-Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

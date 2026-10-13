@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 593 Nationwide Consumer and Fuel Retailer Choice Act Makes year-round nationwide E15 sales permanent in federal law, locking in what Trump's executive order opened administratively.
 Doc is a cosponsor.
 My top three priorities right now are E15, E15, and E15. — Sen.

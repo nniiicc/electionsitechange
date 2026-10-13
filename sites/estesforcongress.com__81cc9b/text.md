@@ -28,7 +28,14 @@ Learn More Health Care Ron supports replacing Obamacare with state-based, free-m
 Learn More Defending Constitutional Rights Ron works to protect religious liberty, parental rights, and the constitutional freedoms of Kansans.
 Learn More Taxes Ron supports simplifying the tax code to relieve the burden on Kansas families and rein in the IRS bureaucracy .
 Learn More Second Amendment Ron supports the rights of law-abiding citizens, sportsmen, and hunters to protect their families and property.
-Learn More Recent News Ron’s Reads 10/4 October 4, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
+Learn More Recent News Ron’s Reads 10/11 October 11, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
+I hope you enjoy the rest of your Sunday, and thanks for staying informed.
+A few reads to recap the week… 8 4% of Gen Z Democrats Back Socialism: Poll The Daily Signal Poll: 1 In 5 Undergrads Says U.S.
+Deserved 9/11, Nearly Half Endorse Violence Against 'Hate Speech' The Federalist Obama will campaign with Abdul El-Sayed in Michigan Roll Call Report: Federal Govt Spent $26.5 Billion on NGOs for Illegal Migrants Breitbart New Trump Admin Stats Prove Good Guys With Guns Save Lives The Federalist ‘The Martyr's Blood Is Fragrant’: Mamdani's Wife Does Artwork for Terror-Loving, Anti-Israel Olive Oil Company That Celebrates Palestinian Terrorist Who Shot Down a British Plane The Washington Free Beacon I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
+If you’d like to support me and my team even further, please consider contributing to my campaign.
+SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
+Enjoy the rest of your weekend!
+Onward to Victory, Ron Estes Ron’s Reads 10/4 October 4, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
 I hope you enjoy the rest of your Sunday, and thanks for staying informed.
 A few reads to recap the week… ​​ Republicans Must Either Vote in Droves or Kiss the Trump-GOP Agenda Goodbye The Daily Signal Poll: 6 In 10 Americans Oppose Democrats' Plan To Pack The Supreme Court The Federalist Be like Sophie Cunningham, not Chris Simms — never give in to the outrage mob Fox News ​​ Hispanics Still Reject Socialism, and Yesterday’s White House Celebration Proved It The Daily Signal Squad 2.0 The Daily Signal The ‘Affordability’ Democrats?
 You Have to Be Kidding Wall Street Journal I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
@@ -78,12 +85,6 @@ Enjoy the rest of your weekend!
 Onward to Victory, Ron Estes Ron’s Reads 8/16 August 16, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
 I hope you enjoy the rest of your Sunday, and thanks for staying informed.
 A few reads to recap the week… Kansas Dem Nominee Faces Heat Over Old Jesus Posts Newsmax Stop Calling Democrats 'Moderate' For Hiding Their Socialism Behind A Bad Haircut The Federalist The Quiet Manufacturing Boom The Daily Signal NJ’s ‘Software Error’ Registering 6,600 Noncitizens Is No Accident The Federalist Report: Democrats Spent $20M on Healthcare Program for Just 173 Migrants Breitbart Year After Deadly Crash, 21 Blue States Move to Block Trump Commercial Driver's License Data Request The Daily Signal In Massachusetts, You Can Now Abort Babies Minutes Before Birth For Any Reason The Federalist I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
-If you’d like to support me and my team even further, please consider contributing to my campaign.
-SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
-Enjoy the rest of your weekend!
-Onward to Victory, Ron Estes Ron’s Reads 8/9 August 9, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
-I hope you enjoy the rest of your Sunday, and thanks for staying informed.
-A few reads to recap the week… Peter Schweizer: One Third of Democrats Now Call Themselves Socialists Breitbart Politico Said Noncitizen Voting Was 'Overblown.' Now It Admits The Entire System Runs On Honor The Federalist Trump Expands Low-Income Childcare Program That Shrunk Under Biden - The Daily Signal The Daily Signal Hospital Admits To Years Of Lies In Settlement Over Transing Kids The Federalist Kansas judge strikes down long list of abortion restrictions, says decision was not 'even a close call' KCUR I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
 If you’d like to support me and my team even further, please consider contributing to my campaign.
 SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
 Enjoy the rest of your weekend!

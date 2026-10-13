@@ -10,7 +10,7 @@ Several of their questions came from a very "progressive" viewpoint.
 I countered their attempt to drive the narrative… Civic Participation QUESTIONS & ANSWERS October 6, 2023 0 Comments This page is where you take the narrative by the horns.
 Ask Questions, Get Answers.
 Ask #RussIsForUS.
-Please be polite and on topic regarding… Table of Contents Recent Posts Uncategorized Andrea Salinas Congressional Record October 1, 2026 Uncategorized, Civic Participation, Electoral Education, Government Policy, Political Analysis Willamette Week 9/29/26 September 29, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Please be polite and on topic regarding… Table of Contents Recent Posts Uncategorized Money Wins October 9, 2026 Uncategorized Andrea Salinas Congressional Record October 1, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.
 Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.

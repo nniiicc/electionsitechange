@@ -1,9 +1,15 @@
 {
  "description": "Caleb Theodros, North Carolina state senator for District 41 (West Charlotte through Plaza Midwood). His record in plain English, 2027 priorities, and help with state agencies and towing.",
  "final_url": "https://calebnc.com/",
- "fingerprint": "deba1ea9303826bf3bfc249f28e7718d513a01fc",
+ "fingerprint": "3f268f32792d41000921bc40514de4de2ed90053",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "paid for by people in this district",
+ "rendered": true,
  "title": "Caleb Theodros | NC Senate District 41",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2025",
+  "2026",
+  "2027"
+ ]
 }

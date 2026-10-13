@@ -11,4 +11,4 @@ Over the coming weeks, we will continue having conversations in every corner of 
 Johnson, II ; State Senator Derek Mallow ; State Representatives Anne Allen Westbrook , Edna Jackson , and Ruwa Romman ; and former Savannah Mayor Hon.
 Otis S.
 Johnson .
-Santiago Barragan Next Next Amanda Hollowell Announces Major Endorsements in GA-01 Congressional Race DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop
+Santiago Barragan Next Next Amanda Hollowell Announces Major Endorsements in GA-01 Congressional Race DONATE About Volunteer Events Endorsements Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

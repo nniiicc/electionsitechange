@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker January 5, 2026 Colorado law protecting renters from 'junk fees' now in effect Morgan Anker January 5, 2026 House Bill 1090 officially became law on January 1st.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker January 5, 2026 Colorado law protecting renters from 'junk fees' now in effect Morgan Anker January 5, 2026 House Bill 1090 officially became law on January 1st.
 The law protects Colorado consumers against deceptive pricing, including prohibiting landlords from requiring tenants to pay certain fees.
 COLORADO SPRINGS, Colo.
 (KOAA) — New year, new protections.

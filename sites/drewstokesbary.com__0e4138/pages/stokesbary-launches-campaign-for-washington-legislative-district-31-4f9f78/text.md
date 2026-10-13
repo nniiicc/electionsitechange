@@ -13,7 +13,5 @@ He and his wife Ashley live in Auburn, and the couple is expecting their first c
 They enjoy home improvement projects, hiking and cooking together.
 The Stokesbarys attend Mars Hill Church.
 Voters can learn more at www.drewstokesbary.com .
-Press Releases More For You Rep.
-Stokesbary calls on auditor to resign In the News Too many special sessions is problematic for schools In the News Rep.
-Stokesbary votes ‘no’ on House budget In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Press Releases More For You Seattle and King County police endorse Stokesbary (2020) Endorsements Washington Fire Chiefs “Legislator of the Year” Awards Washington Hospitality Association names Stokesbary “2020 Legislative Hero” Awards Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

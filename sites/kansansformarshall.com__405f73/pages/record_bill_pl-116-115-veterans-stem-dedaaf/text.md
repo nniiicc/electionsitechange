@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · PL 116-115 Supporting Veterans in STEM Careers Act Opens federal STEM scholarship, fellowship, and outreach programs to veterans transitioning into civilian careers.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · PL 116-115 Supporting Veterans in STEM Careers Act Opens federal STEM scholarship, fellowship, and outreach programs to veterans transitioning into civilian careers.
 The bill What it does.
 This law gets transitioning veterans into the federal STEM programs that fit the careers they actually pursue after service: engineering, IT, cybersecurity, aviation.
 It instructs the NSF, NASA, and Department of Energy to actively recruit veterans into their scholarship, fellowship, and outreach programs, and to coordinate with the VA on transition-career pathways.

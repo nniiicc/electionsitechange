@@ -1,10 +1,4 @@
 Skip to main content MEEGAN ZICKUS FOR THE 89TH ☰ Menu Meet Meegan Priorities Issues Library Local Resources Candidate positions Public record Get involved Home Issues Affordability Ottawa County issue article What Does a Family Need to Build a Stable Life in Ottawa County?
-30-second overview From the published campaign article Ottawa County is a place where a lot of people want to live.
-It has growing communities, strong employers, good schools, access to Lake Michigan, and a quality of life that continues to attract families.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records Source: the published campaign statement on this page.
-Further reading is linked below.
 Ottawa County is a place where a lot of people want to live.
 It has growing communities, strong employers, good schools, access to Lake Michigan, and a quality of life that continues to attract families.
 But growth also creates pressure.
@@ -74,4 +68,4 @@ Navigating Healthcare in Ottawa County Access to care, mental health, caregiving
 How State Government Can Help Ottawa County as West Michigan Grows Housing supply, roads, water, sanitary sewer, infrastructure, jobs and long-term planning.
 Related reading Affordability & Housing How does Michigan policy affect household costs?
 Why is it so hard to buy a home in Allendale and Ottawa County?
-Browse the Issues Library · Compare candidate positions Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Resources Issues Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab)
+Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Resources Issues Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab) Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401

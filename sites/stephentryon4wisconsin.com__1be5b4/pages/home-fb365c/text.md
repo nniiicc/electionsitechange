@@ -4,7 +4,7 @@ Affordability for Working Wisconsites in AD15 Affordability is not a buzz word t
 Stephen will fight to restore access to affordable health care and housing.
 He will work to reverse the harmful economic policies that disproportionately harm middle and lower income residents of Assembly District 15.
 Investments for Growth Stephen will work to secure state funding for the infrastructure and resource requirements (including mass transit) laid out in the City of Pewaukee Neighborhood Plan 2050 and its next revision. the current Waukesha City Strategic Plan, and the City of Brookfield 2050 Comprehensive Plan.
-Build and Sustain a Community of Positive, Informed, and Engaged Citizens Since publishing his first book ( Accountability Citizenship ) in 2013, Stephen has worked diligently to give Americans the tools they need for effective information-age citizenship: tools that allow people to ensure their civic priorities are represented at every level of government without disrupting personal priorities of family, work, and quality of life.
+Build and Sustain a Community of Positive, Informed, and Engaged Citizens Since publishing his first book (Accountability Citizenship) in 2013, Stephen has worked diligently to give Americans the tools they need for effective information-age citizenship: tools that allow people to ensure their civic priorities are represented at every level of government without disrupting personal priorities of family, work, and quality of life.
 Endorsements "Steve is a great person.
 He was my Platoon Leader in Korea in 1984.
 We had a firefight with the North Koreans in 1984.

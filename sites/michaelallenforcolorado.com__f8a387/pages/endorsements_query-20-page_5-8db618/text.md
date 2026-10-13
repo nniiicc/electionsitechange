@@ -1,4 +1,8 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements El Paso County Commissioner Cory Applegate “Michael Allen has the highest murder conviction rate in the state.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Arapahoe County Commissioner Jeff Baker “Michael Allen is the strongest candidate Republicans have to win statewide and take back the Attorney General’s office.
+He understands that rising crime is driving up the cost of living for families across Colorado.
+Michael will crack down on crime, make our communities safer, and reduce the costs that rising crime is forcing on hardworking Colorado families.
+We cannot afford four more years of failed Democrat leadership, and Michael Allen is the leader who can help change course for Colorado and for future generations of Coloradans.
+He’s the candidate who can win in November and deliver results.” El Paso County Commissioner Cory Applegate “Michael Allen has the highest murder conviction rate in the state.
 Simply put, Michael Allen locks up killers.
 Michael Allen and his office were a huge support when Fountain police officer Julian Becerra died.
 His office was a driving force to get the Colorado State House to change the laws and prosecute, as well as punish criminals more severely.

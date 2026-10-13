@@ -1,4 +1,4 @@
-MARY BELK FOR STATE HOUSE Home Meet Mary Our Freshman Year The Latest CONTRIBUTE The Committee to Elect Mary Belk Online Contribution Your Support Counts!
+MARY BELK FOR STATE HOUSE Home Meet Mary The Latest CONTRIBUTE The Committee to Elect Mary Belk Online Contribution Your Support Counts!
 Every dollar I raise will be spent to turn out progressive voters and elect Democrats in tough House races across the state.
 Your support is crucial to both of those missions.
 Thank you! ?
@@ -18,4 +18,4 @@ Show your support with a single click Autofill forms quickly and securely with F
 Log in By clicking "Log in," I confirm that I agree with the Fast Action terms of service and privacy policy. × Show your support with a single click Autofill forms quickly and securely with Fast Action Log in with your email address Don't have a Fast Action account yet?
 Sign up By clicking "Sign up," I confirm that I agree with the Fast Action terms of service and privacy policy. × Show your support with a single click Autofill forms quickly and securely with Fast Action Sign up with your email address Already have a Fast Action account?
 Log in By clicking "Log in," I confirm that I agree with the Fast Action terms of service and privacy policy. × Show your support with a single click Autofill forms quickly and securely with Fast Action Log in with your email address Don't have a Fast Action account yet?
-Sign up By clicking "Sign up," I confirm that I agree with the Fast Action terms of service and privacy policy. × CONTRIBUTE VOLUNTEER EMAIL UPDATES Proudly powered by Weebly Home Meet Mary Our Freshman Year The Latest CONTRIBUTE
+Sign up By clicking "Sign up," I confirm that I agree with the Fast Action terms of service and privacy policy. × CONTRIBUTE VOLUNTEER EMAIL UPDATES Proudly powered by Weebly Home Meet Mary The Latest CONTRIBUTE

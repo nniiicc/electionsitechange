@@ -10,4 +10,6 @@ Make checks payable to "Friends of Satish Chapagain" and mail to: PO Box 7A, Per
 Maryland law requires us to collect your name, address, occupation, and employer for contributions.
 Scan to Donate Scan with your phone or download for flyers and events.
 Donate to Satish https://secure.actblue.com/donate/satish-chapagain Download Satish Chapagain for Maryland State Delegate · District 7A "People First.
-Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish
+Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish continue to site Support Satish Chapagain Today Click an option below to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Secure contributions processed by ActBlue.
+You can give any amount.

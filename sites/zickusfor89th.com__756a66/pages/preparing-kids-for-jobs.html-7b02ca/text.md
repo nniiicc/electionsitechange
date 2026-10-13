@@ -1,15 +1,10 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 4 Are We Preparing Our Kids for the Jobs That Actually Exist?
-30-second overview From the published campaign article West Michigan’s economy runs on manufacturing, health care, construction, skilled trades, information technology, and a growing set of professional services.
-Employers across Kent, Ottawa, and Muskegon counties are hiring—but too often they cannot find workers with the right skills.
-At the same time, many high school graduates leave school without a clear path into those local opportunities.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.michigan.gov — official document or government source. content.govdelivery.com — official document or government source. ed.cde.state.co.us — linked reporting or reference. www.in.gov — linked reporting or reference. tea.texas.gov — linked reporting or reference. www.house.mi.gov — official document or government source.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the Issues Library Issues That Hit Home · Article 4 Are We Preparing Our Kids for the Jobs That Actually Exist?
 Grand Valley State University · Allendale Photo: Gpwitteveen / Wikimedia Commons · CC BY-SA 3.0 · Resized and compressed; display may crop.
-West Michigan’s economy runs on manufacturing, health care, construction, skilled trades, information technology, and a growing set of professional services.
-Employers across Kent, Ottawa, and Muskegon counties are hiring—but too often they cannot find workers with the right skills.
-At the same time, many high school graduates leave school without a clear path into those local opportunities.
-The question is straightforward: Are our schools preparing students for the jobs that actually exist here, or are we still steering too many young people toward a single four-year college pathway that does not match regional demand?
+A diploma should open a door.
+I want a student leaving high school to know where the next one is: college, an apprenticeship, a certificate, or a job with a future here in West Michigan.
+I led the Early College Initiative on the Allendale school board.
+I’ve also taught for more than 25 years, from medical assisting at a trade school to bioethics at GVSU.
+Students need more than one route to a good life.
 The Jobs Side of the Equation Manufacturing remains a cornerstone of the West Michigan economy, accounting for a large share of private-sector employment and regional output.
 Health sciences, construction, information technology, and hospitality also show strong demand.
 West Michigan Works! and regional talent analyses consistently list roles in these fields among the most in-demand occupations—many of which require certifications, technical training, or apprenticeships rather than a bachelor’s degree.
@@ -61,6 +56,6 @@ Our kids deserve preparation that matches the opportunities in their own backyar
 The school and workforce examples cover the broader West Michigan region.
 They are not all located inside House District 89 , and countywide findings should not be described as districtwide measurements.
 Career programs require equipment, instructors, transportation, and employer participation.
-Students should retain meaningful choices, including college, and should not be directed into a pathway solely because of their family income or background. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading What are the education issues in House District 89?
-Ottawa County Schools: Building More Paths to a Good Future Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Students should retain meaningful choices, including college, and should not be directed into a pathway solely because of their family income or background. ← Back to the Issues Library More from Meegan’s Top 10 priorities Sources for this article www.michigan.gov content.govdelivery.com ed.cde.state.co.us www.in.gov tea.texas.gov www.house.mi.gov Related reading What are the education issues in House District 89?
+Ottawa County Schools: Building More Paths to a Good Future Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

@@ -18,7 +18,7 @@ The second School Board for the high school didn’t pass the revised language a
 For more information see jimforwi.com.
 Paid for by Jim for Wisconsin.
 Post navigation Previous post: Prev WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 Next post: Next DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted July 26, 2024 in News , Political Issues Protect Our Checks & Balances System: Vote YES on the State Referendum Questions How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted March 5, 2024 in News Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

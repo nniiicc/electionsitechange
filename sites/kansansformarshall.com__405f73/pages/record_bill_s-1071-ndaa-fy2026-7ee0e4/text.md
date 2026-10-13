@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 1071 National Defense Authorization Act FY2026 Annual Defense Department authorization.
 Doc secured funding for a new air-traffic-control tower at Fort Riley and an expanded training course at the post.
 The bill What it does.

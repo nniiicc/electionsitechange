@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
 Read below to find out what Yassamin has been up to recently.
 NEWS Congresswomen Rashida Tlaib, Yassamin Ansari denounce ‘immoral’ Iran war “In the past six months since Donald Trump started his illegal war in Iran, 120 children died after a US military strike hit their school, 18 American servicemembers have been killed, Americans have endured record high gas costs, and Donald Trump and his sons have profited endlessly from investing in August 29, 2026 Rep.
 Ansari Says “Send Trump to Prison” as He Dismisses Family Concerns Over USS Lincoln’s Record-Length Deployment, Saying “Not Nearly Long Enough” “He is absolutely insane, out of touch & evil.

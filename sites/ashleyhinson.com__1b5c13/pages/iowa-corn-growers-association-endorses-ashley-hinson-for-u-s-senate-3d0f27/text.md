@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Iowa Corn Growers Association Endorses Ashley Hinson for U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Iowa Corn Growers Association Endorses Ashley Hinson for U.S.
 Senate Sep 22, 2026 | Press Release Back to Updates Marion, IA – Yesterday, the Iowa Corn Growers Association endorsed Ashley Hinson for U.S.
 Senate pointing to her record of delivering results for Iowa corn farmers and securing House passage of year-round E15.
 “I’m honored to earn the endorsement of the Iowa Corn Growers Association for my record of delivering results for our corn farmers,” said Ashley Hinson .

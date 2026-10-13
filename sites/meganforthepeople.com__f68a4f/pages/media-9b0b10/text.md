@@ -13,4 +13,4 @@ Join my Mailing List!
 Stay up to date with my campaign and be the first to know about events and volunteer opportunities.
 First Name Last Name Email Address Sign Up Thank you!
 Connect with us on Social Media!
-PO BOX 4672, Boise, ID 83711 208-369-2925 Paid for by Megan For The People | Ali Rabe, Treasurer
+PO BOX 4672, Boise, ID 83704 208-369-2925 Paid for by Megan For The People | Ali Rabe, Treasurer

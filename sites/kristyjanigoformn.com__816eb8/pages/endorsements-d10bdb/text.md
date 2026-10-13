@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate Endorsements Tina Smith U.S.
+Skip to content Home About City Council Record Priorities Endorsements News Volunteer DONATE DONATE Home About City Council Record Priorities Endorsements News Volunteer Events on Mobilize Donate Endorsements Tina Smith U.S.
 Senator Kristin Bahner State Representative I am proud to call Kristy Janigo a friend, and my choice for Minnesota State Senate.
 I have watched her grow in dedication to serving our community as Maple Grove’s Deputy Mayor, an outstanding advocate for veterans, and a strong leader that puts her community and her neighbors first.
 Kristy is thoughtful, compassionate, and never backs down from doing the hard work.
@@ -51,5 +51,5 @@ Her dedication to public service and her ability to bring people together make h
 I’m excited to continue this work with Kristy in the Senate, where I know she’ll be a powerful advocate for inclusive policies and meaningful progress for all Minnesotans.
 Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
 Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About City Council Record Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
 Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

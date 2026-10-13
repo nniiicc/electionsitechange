@@ -1,4 +1,4 @@
-top of page Home About Kim Volunteer Voter Information Endorsements Rooted in This Community Why I'm Running For over 18 years, I have lived and worked in the heart of our 62nd District.
+top of page Home About Kim Volunteer Voter Information Endorsements Contrast Rooted in This Community Why I'm Running For over 18 years, I have lived and worked in the heart of our 62nd District.
 I believe that strong government is about serving the people, not culture wars.
 My mission is to bring a grounded, community-first approach to the State House, ensuring that the voices of Granby, New Hartford, Barkhamsted, and Hartland are heard and respected.
 We are a team of neighbors dedicated to protecting our small-town values and building a future where everyone has a strong voice.
@@ -17,4 +17,5 @@ My family has been the foundation of my life.
 I believe that good government serves the people, not culture wars.
 My mission is to bring a grounded, community-first approach to the 62nd District, ensuring that every voice is heard and every neighbor is supported.
 Want to help?
-Volunteer 62nd District: Granby, New Hartford, Barkhamsted, Hartland Paid for by Kim Becker for CT, Nora Bishop, Treasurer bottom of page
+Volunteer We can do better for our small towns Make your plan to vote by November 3rd.
+Plan to Vote Volunteer 62nd District: Granby, New Hartford, Barkhamsted, Hartland Paid for by Kim Becker for CT, Nora Bishop, Treasurer bottom of page

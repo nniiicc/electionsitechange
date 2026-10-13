@@ -1,9 +1,10 @@
 {
  "description": "Read the latest news and updates from Mike Croley’s campaign for Congress. Stay informed on events, policy views, and campaign announcements.",
  "final_url": "https://croleyforcongress.com/latest-news/page/2/",
- "fingerprint": "79807ccddd96ca0609563761e11f7c214e670459",
+ "fingerprint": "d22d51dc3720417fd9ba966b79a691cdd96c48c1",
  "format": 3,
  "paid_for_by": "Paid for by Mike Croley For Congress",
+ "rendered": false,
  "title": "Croley for Congress | Latest News",
  "years_mentioned": [
   "2015",

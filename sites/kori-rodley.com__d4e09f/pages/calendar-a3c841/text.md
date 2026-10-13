@@ -1,4 +1,1 @@
-We won the May Democratic Primary with more than 58% of the votes!
-On to November… Home Endorsements Calendar More Home Endorsements Calendar DONATE Home Endorsements Calendar DONATE Subscribe to Kori's Calendar Subscribe Events Sun Oct 11th Knock Doors to Elect Kori Rodley! - Lively Park 10:00 AM - 1:00 PM Jack B Lively Memorial Park, 6100 Thurston Rd, Springfield, OR 97478, USA Event Details Sun Oct 11th Knock Doors to Elect Kori Rodley! - Lively Park RSVP here for more details: https://mobilize.us/s/tv88Gh Join Kori and her team knocking doors in Springfield to talk to voters, build commu ...
-Event Details 10:00 AM - 1:00 PM Jack B Lively Memorial Park, 6100 Thurston Rd, Springfield, OR 97478, USA Copyright © # Kori Rodley - All Rights Reserved.
-Paid for and authorized by Elect Kori Rodley, PAC ID # 19995 Powered by
+

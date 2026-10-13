@@ -1,31 +1,166 @@
 [
-"http://access.tarrantcounty.com/en/elections.html",
-"http://co.ellis.tx.us/312/Elections",
-"http://dallascountyvotes.org/",
-"http://kaufmancounty.org/elections",
-"http://rockwallvotes.com/",
-"http://votedenton.com/",
-"http://votetexas.gov/",
-"https://collincountytx.gov/elections/Pages/default.aspx",
-"https://dallasnews.com/opinion/editorials/2018/10/12/recommend-rhetta-bowers-texas-house-district-113",
-"https://dallasnews.com/opinion/we-recommend/2018/09/07/dallas-morning-news-editorial-board-recommendations-nov-6-2018-general-election",
-"https://facebook.com/RhettaForHD113",
-"https://instagram.com/rhettaforhd113",
-"https://rhettabowers.com/",
-"https://rhettabowers.com/2018/10/13/rhetta-is-endorsed-by-dallas-morning-news/editorialboard@dallasnews.com",
-"https://rhettabowers.com/2022/02/14/2483",
-"https://rhettabowers.com/2022/02/14/redistricting",
-"https://rhettabowers.com/2023/01/23/garland-lawmaker-takes-on-issue-of-hair-discrimination-re-files-crown-act",
-"https://rhettabowers.com/about",
-"https://rhettabowers.com/contact",
-"https://rhettabowers.com/endorsements",
-"https://rhettabowers.com/issues",
-"https://rhettabowers.com/join-the-campaign",
-"https://rhettabowers.com/news-articles-about-rhetta-bowers",
-"https://rhettabowers.com/texas-house-district-113-information",
-"https://rhettabowers.com/voting-information",
-"https://tinyurl.com/WebDonation",
-"https://twitter.com/BowersForTexas",
-"https://twitter.com/rhettaforhd113",
-"https://voterguide.dallasnews.com/"
+{
+"text": "ABOUT",
+"href": "https://rhettabowers.com/about"
+},
+{
+"text": "At Paul Quinn College in Dallas, Beto O’Rourke promises not to take Black voters for granted – DMN",
+"href": "https://rhettabowers.com/2022/02/14/2483/"
+},
+{
+"text": "Connect with Dallas Morning News Editorial",
+"href": "https://rhettabowers.com/2018/10/13/rhetta-is-endorsed-by-dallas-morning-news/editorialboard@dallasnews.com"
+},
+{
+"text": "Contact",
+"href": "https://rhettabowers.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://tinyurl.com/WebDonation"
+},
+{
+"text": "Endorsements",
+"href": "https://rhettabowers.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RhettaForHD113/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/RhettaForHD113/"
+},
+{
+"text": "Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act",
+"href": "https://rhettabowers.com/2023/01/23/garland-lawmaker-takes-on-issue-of-hair-discrimination-re-files-crown-act/"
+},
+{
+"text": "Home",
+"href": "https://rhettabowers.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://rhettabowers.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rhettaforhd113/"
+},
+{
+"text": "Issues",
+"href": "https://rhettabowers.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/"
+},
+{
+"text": "Meet Rhetta",
+"href": "https://rhettabowers.com/about/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2022/02/14/2483/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2022/02/14/redistricting/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2023/01/23/garland-lawmaker-takes-on-issue-of-hair-discrimination-re-files-crown-act/"
+},
+{
+"text": "Redistricting",
+"href": "https://rhettabowers.com/2022/02/14/redistricting/"
+},
+{
+"text": "The District",
+"href": "https://rhettabowers.com/texas-house-district-113-information/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/BowersForTexas"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/rhettaforhd113"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://rhettabowers.com/join-the-campaign"
+},
+{
+"text": "VOTE",
+"href": "https://rhettabowers.com/voting-information"
+},
+{
+"text": "Volunteer",
+"href": "https://rhettabowers.com/join-the-campaign/"
+},
+{
+"text": "Voting Information",
+"href": "https://rhettabowers.com/voting-information/"
+},
+{
+"text": "We [Dallas Morning News Editorial] recommend Rhetta Bowers for Texas House District 113",
+"href": "https://www.dallasnews.com/opinion/editorials/2018/10/12/recommend-rhetta-bowers-texas-house-district-113"
+},
+{
+"text": "[image: Re-Elect Rhetta Bowers State Representative Logo]",
+"href": "https://rhettabowers.com/"
+},
+{
+"text": "[image: State of Texas Capitol Building]",
+"href": "https://rhettabowers.com/2023/01/23/garland-lawmaker-takes-on-issue-of-hair-discrimination-re-files-crown-act/"
+},
+{
+"text": "[image]",
+"href": "https://rhettabowers.com/2022/02/14/2483/"
+},
+{
+"text": "[image]",
+"href": "https://rhettabowers.com/2022/02/14/redistricting/"
+},
+{
+"text": "access.tarrantcounty.com/en/elections.html",
+"href": "http://access.tarrantcounty.com/en/elections.html"
+},
+{
+"text": "co.ellis.tx.us/312/Elections",
+"href": "http://co.ellis.tx.us/312/Elections"
+},
+{
+"text": "collincountytx.gov/elections",
+"href": "https://www.collincountytx.gov/elections/Pages/default.aspx"
+},
+{
+"text": "dallascountyvotes.org",
+"href": "http://dallascountyvotes.org/"
+},
+{
+"text": "https://voterguide.dallasnews.com",
+"href": "https://voterguide.dallasnews.com/"
+},
+{
+"text": "https://www.dallasnews.com/opinion/we-recommend/2018/09/07/dallas-morning-news-editorial-board-recommendations-nov-6-2018-general-election",
+"href": "https://www.dallasnews.com/opinion/we-recommend/2018/09/07/dallas-morning-news-editorial-board-recommendations-nov-6-2018-general-election"
+},
+{
+"text": "kaufmancounty.org/elections",
+"href": "http://kaufmancounty.org/elections"
+},
+{
+"text": "rockwallvotes.com",
+"href": "http://rockwallvotes.com/"
+},
+{
+"text": "votedenton.com",
+"href": "http://votedenton.com/"
+},
+{
+"text": "votetexas.gov",
+"href": "http://votetexas.gov/"
+}
 ]

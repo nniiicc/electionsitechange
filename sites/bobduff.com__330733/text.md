@@ -1,6 +1,6 @@
 0 Skip to Content Endorsements Contact Contact Us Open Menu Close Menu Endorsements Contact Contact Us Open Menu Close Menu Endorsements Contact Contact Us As a fifth-generation Connecticut native, Bob Duff has delivered results for Connecticut families.
 As our Senate Majority Leader, he’s led the charge to cut taxes and help people get ahead.
-Order your FREE “Kindness Comes Back to You” Magnet and Lawn Sign!
+Register to Vote Here: https://voterregistration.ct.gov/OLVR/welcome.do Absentee Ballot Applications: https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do Order your FREE “Kindness Comes Back to You” Magnet and Lawn Sign!
 ORDER HERE!
 Bob Duff “In the State Senate, I’ve been leading the effort to cut costs and improve quality of life for Connecticut families.
 I am honored to serve you every day, and I look forward to continuing my fight to make healthcare more affordable, improve our schools, and protect a woman’s right to choose.” STANDING UP FOR YOU REDUCING COSTS FOR RESIDENTS Bob helped cut over $600 million in taxes, expanded the child tax credit by $250 per child and the earned income tax credit for working families, and capped the property tax rate on cars.

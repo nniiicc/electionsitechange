@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release Adam Hamilton Runs from Second Debate September 18, 2026 For immediate release Today, Adam Hamilton declined to participate in a second debate that was scheduled with Nexstar Television Network.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Press release Adam Hamilton Runs from Second Debate September 18, 2026 For immediate release Today, Adam Hamilton declined to participate in a second debate that was scheduled with Nexstar Television Network.
 This would have been the largest televised audience ever for a debate in Kansas — airing on FOX4, KSN, KSNF, KSNT and KSNW — nearly 95% of the state.
 Senator Marshall accepted the debate on September 4th while Hamilton missed three separate deadlines before finally declining.
 “Adam Hamilton is afraid to debate without the manufactured crowds he bussed into the State Fair.

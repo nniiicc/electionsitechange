@@ -6,15 +6,22 @@ Get my voting plan The choice in 2026 Your vote should be earned, not assumed.
 In 2024, Utah's official general-election candidate list included only one candidate for House District 61.
 This year, voters have a real choice.
 Election Day is Tuesday, November 3, 2026.
-Source: Utah's 2024 general-election certification ↗ What you can expect from me Explain major votes in plain language.
+Source: Utah's 2024 general-election certification ↗ What you can expect from me Take no money from large PACs or corporations.
+Post every lobbyist meeting online.
+Explain major votes in plain language.
 Hold regular public meetings in District 61.
 Publish the numbers behind major uses of public money.
 Maintain a clear process for constituent questions and casework.
 Report back on results, unfinished work, and upcoming priorities.
-See my service promises → Endorsed by Priorities Make it easier to afford a life here and build a future.
-Lower Costs & Responsible Growth Fight unfair property taxes, make room for homes people can afford, and make sure growth does not leave families paying the bill.
-Affordability plan → Local growth test → Strong Schools & Local Opportunity Give kids a strong start, support excellent teachers, and keep UVU an affordable path to degrees, training, and good jobs.
-Education & UVU plan → My story My family came here for opportunity.
+See my clean-government pledges → Endorsed by In the news: Read my answers in The Salt Lake Tribune's House District 61 voter guide ↗ Priorities Make it easier to afford a life here and build a future.
+Lower Costs & More Homes Cut the grocery tax and make starter homes easier to build.
+Push back on unfair property taxes and climbing insurance and drug costs.
+Affordability plan → Water & Responsible Growth Protect the Great Salt Lake and make data centers pay their own way.
+Big projects shouldn’t get pushed through without residents having a say.
+Water & growth plan → Strong Schools & Local Opportunity Give kids a strong start, support excellent teachers, and keep UVU an affordable path to degrees, training, and good jobs.
+Education & UVU plan → Clean Government I don’t take money from big PACs or corporations, and I’ll post every lobbyist meeting online.
+I’m also voting no on Amendments A and B.
+Clean-government pledges → My story My family came here for opportunity.
 I want to keep it within reach.
 My parents came to Utah from Peru and Spain and met in Provo.
 They taught me that hard work and education can open doors.

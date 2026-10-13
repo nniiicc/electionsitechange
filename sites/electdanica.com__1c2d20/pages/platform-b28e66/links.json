@@ -28,6 +28,10 @@
 "href": "https://www.electdanica.com/news"
 },
 {
+"text": "Now",
+"href": "http://participate.now"
+},
+{
 "text": "Platform",
 "href": "https://www.electdanica.com/platform"
 },
@@ -42,5 +46,9 @@
 {
 "text": "[image: Instagram logo danica.png]",
 "href": "https://www.instagram.com/danica4the32/"
+},
+{
+"text": "[no text]",
+"href": "http://participate.now"
 }
 ]

@@ -1,11 +1,7 @@
-0 Skip to Content About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Lisa District 31 Get Involved Priorities Voting Endorsements Folder: Learn More Back Stories Data Center Nicole Contact CONTRIBUTE Voting Election Day Tuesday, November 3, 2026, 7am-7pm Register to Vote You can register to vote online here until October 6.
-Afterwards, Same Day Registration (SDR) opens at all Early or Election Day voting locations.
-Please bring proper ID toupdate your voter registration or to register to vote.
-Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
-Absentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
+0 Skip to Content About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Lisa District 31 Get Involved Priorities Voting Endorsements Folder: Learn More Back Stories Data Center Nicole Contact CONTRIBUTE Voting Election Day Tuesday, November 3, 2026, 7am-7pm Absentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
 It is easy to request your absentee ballot online .
 Ballots will be mailed out beginning on October 6.
-On Tuesday, October 6, you can also vote In-Person (Absentee) at the Clerk’s Annex at 1500 Lomas Blvd NW , Suite A.
+On Tuesday, October 6, you can also vote In-Person (Absentee) at the Clerk’s Annex at 1500 Lomas Blvd NW , Suite A .
 You can track the status of your absentee ballot here .
 October 20 is the deadline for the county clerk to receive an absentee-ballot application.
 Returning your absentee ballot is also easy.
@@ -18,7 +14,10 @@ Expanded Early Voting Saturday, October 17—Saturday, October 31 There are 20 E
 Early Voting centers are open from Monday through Saturday, 10am to 7pm.
 All Early Voting Locations can be found here .
 The Early Voting Location closest to House District 31 is: Holy Plaza, 6600 Holly Ave NE.
-Suite: Suite B6, Albuquerque, NM 87113 Election Day Tuesday, November 3, 2026, 7am-7pm There are 72 Voting Locations in Bernalillo County.
+Suite: Suite B6, Albuquerque, NM 87113 Register to Vote Same Day Registration (SDR) opens at all Early or Election Day voting locations.
+Please bring proper ID toupdate your voter registration or to register to vote.
+Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
+Election Day Tuesday, November 3, 2026, 7am-7pm There are 72 Voting Locations in Bernalillo County.
 Election Day Voting Locations can be found here .
 Bernalillo County Clerk’s website is here .
 CONTRIBUTE Newsletter Block This newsletter signup form needs a storage option.

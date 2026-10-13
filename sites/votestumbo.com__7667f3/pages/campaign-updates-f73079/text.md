@@ -1,6 +1,10 @@
 Countdown loading...
 Home About David Endorsements Campaign Updates Media Join the Fight On The Road Latest updates and highlights from the campaign trail across South Carolina, where we’ve been, who we’ve met, and what we’re hearing from communities across the state.
-October 9, 2026 Enjoyed speaking at the South Carolina Fraternal Order of Police Conf...
+October 12, 2026 Loved stopping by the Charleston GOP meeting tonight and joining in o...
+Loved stopping by the Charleston GOP meeting tonight and joining in on writing handwritten letters to voters!
+Just # days until Election Day on November 3rd!
+It’s all about getting out the vote!
+LINK October 9, 2026 Enjoyed speaking at the South Carolina Fraternal Order of Police Conf...
 Enjoyed speaking at the South Carolina Fraternal Order of Police Conference and catching up with my friend Sheriff Thompson!
 Always appreciate the opportunity to spend time with the men and women who work every day to keep our communities safe.
 LINK October 6, 2026 Thank you, Georgetown Republican Party, for a great evening!
@@ -44,13 +48,5 @@ Go Gamecocks!
 LINK September 13, 2026 Always good to be home with our Greenwood County people in the Town o...
 Always good to be home with our Greenwood County people in the Town of Hodges for the annual Lights on Main event this weekend, as we honored our first responder and military heroes in reflection of 25 years since the 9/11 attacks on our country.
 Special thanks to our state’s Adjutant General, my friend Major General Robin Stilwell, who made the trip to join us as the keynote speaker.
-LINK September 11, 2026 Twenty-five years ago today, our nation changed forever.
-Twenty-five years ago today, our nation changed forever.
-Like so many Americans, I still remember where I was when I heard the news and watched the unimaginable unfold.
-Today, we remember the nearly 3,000 lives lost, the hundreds heroes who ran toward danger to save lives.
-September 11th reminds us of the courage and sacrifice of our first responders and other citizen heroes that saved lives that day.
-In the days that followed, our nation came together in prayer, grief, and love for one another.
-That unity and sense of purpose to fight our common enemies is something we should never forget, and hopefully remind us that we are so much stronger as a country when we come together under the same flag and values that made our country great in the first place.
-Vanessa and I continue to pray for the families who still grieve their lost loved ones.
-We must always honor the courage of those who gave all that day (and in the years that followed) to serve and protect our country - and to bring to justice the evildoers who continue to seek our destruction.🙏🇺🇸💪 *Pictures are of Gabe and Hallie Ruth Stumbo at the National September 11 Memorial & Museum in 2014 LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
+LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
 Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

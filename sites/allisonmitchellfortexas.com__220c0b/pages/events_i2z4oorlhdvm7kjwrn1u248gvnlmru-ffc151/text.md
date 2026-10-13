@@ -5,7 +5,7 @@ RSVP Here With Election Day just weeks away, your support now can make a real di
 Whether you can attend the event or simply make a contribution, we'd be grateful to have you with us.
 Please join us October 13 as we come together to support Allison and build the campaign we need to win HD 108.
 Address upon RSVP.
-Previous Previous October 8 Hockaday Alumnae & Friends for Allison Mitchell Fundraising Reception Allison Mitchell for Texas P.O.
+Previous Previous October 8 Hockaday Alumnae & Friends for Allison Mitchell Fundraising Reception Next Next October 20 Park Cities Fundraising Reception Allison Mitchell for Texas P.O.
 Box 670162 Dallas, TX 75367 Pol.
 Adv.
 Paid for by Allison Mitchell for State House Campaign.

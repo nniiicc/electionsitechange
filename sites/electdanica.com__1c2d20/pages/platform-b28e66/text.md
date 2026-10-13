@@ -21,14 +21,14 @@ And we need it at every income level: starter homes, apartments near transit, an
 We also need stronger protections for renters.
 Corporate landlords are using AI to raise rents and tack on junk fees so renters have to spend every dollar just to keep their home.
 That should be illegal.
-Olympia needs AI expertise so we can get ahead of big corporations, stop playing catch- up, and put guardrails on AI to make it work for all of us.
+Olympia needs AI expertise so we can get ahead of big corporations, stop playing catch-up, and put guardrails on AI to make it work for all of us.
 I’ll fight for policies that speed up home building, protect renters from exploitation, and keep our communities stable and affordable for all of us.
 Fund Strong Public Schools and Quality Affordable Child Care Every kid in Washington deserves a world-class education, no matter their ZIP code.
 But years of underfunding have left schools facing impossible choices between classroom support, fair wages, and student services.
 I’ll fight for stable, fair school funding that reflects our values and gives every student the tools to thrive.
 Funding is only part of the picture.
 We must ensure that every student and family has meaningful access to education.
-That means expanding language access so that parents who speak languages other than English are never left out of decisions about their kids&#39; futures and students are not left out of learning in the classroom.
+That means expanding language access so that parents who speak languages other than English are never left out of decisions about their kids's futures and students are not left out of learning in the classroom.
 I’ll champion expanded language access and support for our increasingly diverse classrooms so every parent and student can meaningfully participate.
 Now more than ever, our schools should provide safe and focused classrooms, and modern guardrails for technology that targets children.
 I have been a fierce advocate for smartphone-free classrooms so teachers can teach, students can focus, and school can be places for learning.
@@ -36,7 +36,7 @@ I will keep fighting to ensure classrooms and educational technologies are used 
 Ensure Responsible Tech Technology should protect privacy, foster innovation, and keep children safe online.
 I believe Washington can have both progress and responsibility where innovation fuels the economy and digital tools empower learning and connection without undermining trust, eliminating jobs, or exploiting kids.
 I’ve built real expertise in consumer protection and AI policy.
-With no ties to Big Tech, I’ll use my experience to make sure technology serves Washington families, not the other way around.
+With no ties to Big Tech, I’ll use myexperience to make sure technology serves Washington families, not the other way around.
 Healthcare The healthcare system is a mess, and we all know it.
 Health insurance premiums are skyrocketing, yet we’re getting less coverage and more denials.
 Health insurance companies and even Medicare are using AI to decide whether to deny coverage.

@@ -11,4 +11,4 @@ I was proud to help organize the successful campaign for the Sumner-Bonney Lake 
 I now volunteer on the Oversight Committee for that bond, working to ensure public transparency and fiscal accountability.
 When I’m not involved in local efforts, I enjoy reading, hiking, camping, and distance swimming — and reminding everyone I meet how important it is to participate in local government and vote!
 Priorities for LD 31: Learn more Support the Campaign: Learn more Navigate: Home Meet Tamara Stramel Priorities Donate today MAIL TO: Paid for by Together with Tamara Stramel P.O.
-Box 281, Sumner, WA 980
+Box 281, Sumner, WA 98390

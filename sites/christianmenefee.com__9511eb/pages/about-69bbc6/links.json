@@ -1,26 +1,6 @@
 [
 {
 "text": "$# $#",
-"href": "https://secure.actblue.com/donate/cdm_25_website?amount=10&express_lane=true"
-},
-{
-"text": "$# $#",
-"href": "https://secure.actblue.com/donate/cdm_25_website?amount=100&express_lane=true"
-},
-{
-"text": "$# $#",
-"href": "https://secure.actblue.com/donate/cdm_25_website?amount=18&express_lane=true"
-},
-{
-"text": "$# $#",
-"href": "https://secure.actblue.com/donate/cdm_25_website?amount=250&express_lane=true"
-},
-{
-"text": "$# $#",
-"href": "https://secure.actblue.com/donate/cdm_25_website?amount=50&express_lane=true"
-},
-{
-"text": "$# $#",
 "href": "https://secure.actblue.com/donate/cdmwebsite?amount=100"
 },
 {
@@ -133,7 +113,7 @@
 },
 {
 "text": "Other Other",
-"href": "https://secure.actblue.com/donate/cdm_25_website?express_lane=true"
+"href": "https://secure.actblue.com/donate/cdmwebsite"
 },
 {
 "text": "Privacy Policy",

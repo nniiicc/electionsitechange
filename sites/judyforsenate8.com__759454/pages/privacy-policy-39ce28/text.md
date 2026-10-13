@@ -1,4 +1,4 @@
-top of page ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
+top of page VOTE ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
 REQUEST A YARD SIGN DONATE Privacy Policy A LEGAL DISCLAIMER The explanations and information provided on this page are only general and high-level explanations and information on how to write your own document of a Privacy Policy.
 You should not rely on this article as legal advice or as recommendations regarding what you should actually do, because we cannot know in advance what are the specific privacy policies you wish to establish between your business and your customers and visitors.
 We recommend that you seek legal advice to help you understand and to assist you in the creation of your own Privacy Policy.

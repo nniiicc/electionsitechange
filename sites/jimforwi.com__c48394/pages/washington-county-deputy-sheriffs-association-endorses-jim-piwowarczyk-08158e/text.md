@@ -14,7 +14,7 @@ You also have a very specific and clear goal of what you will do and fight for w
 The association provides “representation to deputies of the Washington County Sheriff’s Department,” according to its website.
 For more information, see: https://jimforwi.com/.
 Post navigation Previous post: Prev Washington Co.
-Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 Next post: Next Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 You May Also Like Posted July 29, 2024 in Endorsements , News , ticker WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK Posted March 18, 2024 in ticker , Endorsements , News Rep.
+Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 Next post: Next Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 You May Also Like Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly Posted March 18, 2024 in ticker , Endorsements , News Rep.
 Barbara Dittrich Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?

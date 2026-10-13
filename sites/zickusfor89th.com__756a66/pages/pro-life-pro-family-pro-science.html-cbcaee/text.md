@@ -1,9 +1,4 @@
-Policy & families Pro Life By Being Pro Family and Pro Science 30-second overview From the published campaign article Michigan should look at what Colorado and other states learned about preventing unintended pregnancy.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records Source: the published campaign statement on this page.
-Further reading is linked below.
-Michigan should look at what Colorado and other states learned about preventing unintended pregnancy.
+Policy & families Pro Life By Being Pro Family and Pro Science Michigan should look at what Colorado and other states learned about preventing unintended pregnancy.
 By Meegan Zickus, Candidate for Michigan House District 89 We spend an extraordinary amount of time arguing about abortion in America.
 Maybe we should spend more time talking about what happens before an abortion ever becomes a decision.
 If we want fewer abortions, fewer unintended pregnancies, stronger families and less dependence on taxpayer-funded assistance, there is evidence from other states that Michigan should be willing to examine.
@@ -87,6 +82,4 @@ Follow the science.
 And hold government accountable for every dollar it spends.
 If we can prevent unintended pregnancies, reduce abortions, empower women, strengthen families and save taxpayers money while respecting individual choice, that's a conversation Michigan ought to be having.
 That's not left or right.
-That's responsible government.
-Sources & notes Colorado Family Planning Initiative and peer-reviewed research on teen birth outcomes; Colorado legislative and budget materials on estimated Medicaid, TANF, SNAP and WIC savings; Contraceptive CHOICE Project research; Iowa family-planning research; Delaware contraceptive-access evaluations; Michigan Department of Health and Human Services birth and abortion statistics.
-Michigan comparisons in this article are illustrative arithmetic based on published benchmarks and are not forecasts of program results. ← Back to priorities Related reading Healthcare Shouldn’t Be This Hard Navigating Healthcare in Ottawa County: Making the System Easier for Families Browse the Issues Library · Compare candidate positions
+That's responsible government. ← Back to priorities Related reading Healthcare Shouldn’t Be This Hard Navigating Healthcare in Ottawa County: Making the System Easier for Families Browse the Issues Library · Compare candidate positions Zickus for 89th Sources & corrections Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401

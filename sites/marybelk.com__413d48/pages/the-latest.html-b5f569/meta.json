@@ -1,9 +1,10 @@
 {
  "description": "Subscribe to get the latest updates and news from Rep. Belk in Raleigh.",
  "final_url": "https://www.marybelk.com/the-latest.html",
- "fingerprint": "6cd5e40827a72184d6a66dbaf00864eb379828ed",
+ "fingerprint": "add05b4972f6d37d5be7d413e533a2301a2a7b04",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "The Latest - MARY BELK FOR STATE HOUSE",
  "years_mentioned": [
   "2017",

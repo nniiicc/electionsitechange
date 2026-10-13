@@ -2,7 +2,7 @@ Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Voter ID October 2, 2026 No Comments Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Read More » Americans Should Always Come First October 2, 2026 No Comments Who Stands for Lizbeth Medina?
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin CCX Media Community News October 13, 2026 No Comments Why I Am Going on CCX Media: The Difference Between Me and Kelly Morrison Oct 13, 2026 · Voters in Minnesota’s 3rd District deserve a Read More » WCCO Questions and Answers October 13, 2026 No Comments My Answers on Taxes, Health Care, Immigration, Jobs, and Fraud Oct 12, 2026 · Minnesotans deserve straight answers, so here are mine to five questions Read More » Voter ID October 2, 2026 No Comments Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Read More » Americans Should Always Come First October 2, 2026 No Comments Who Stands for Lizbeth Medina?
 Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
 In December 2023 she was supposed to perform Read More » “I Went to Film a Nonprofit’s Building.
 I Left With a Trespass Citation.” October 1, 2026 No Comments Where Is the Money Going?
@@ -14,11 +14,7 @@ August 26, 2026 No Comments Trust the Science, or lose your job Kelly Morrison C
 Minnesotans Are Still Paying For It.
 On March 25, 2020, when Governor Walz Read More » HuttCast Podcast August 24, 2026 No Comments I Sat Down with HuttCast to Talk About What’s Really Going On in CD3 Today I had the chance to join HuttCast, the American Podcast Read More » I Sold Health Insurance For A Living.
 Here’s Why Your Premium Is Broken — And How I’d Fix It.
-August 4, 2026 No Comments I want to start this one differently than my other posts, because this issue isn’t just something I’ve read about or watched happen to other Read More » Gun Rights On The Ballot August 3, 2026 No Comments Gun Owners of CD3: Quentin Wittrock Has Already Told You What He Thinks of Your AR-15.
-Now It’s Time to Vote.
-If you own a Read More » Kelly Morrison’s caught with insider trading June 6, 2026 No Comments Who Is Kelly Morrison Really Working For?
-By now, most people in Minnesota’s Third Congressional District have heard the name Kelly Morrison.
-She’s the OB-GYN Read More » Page 1 Page 2 Let's work together to tackle the fraud!
+August 4, 2026 No Comments I want to start this one differently than my other posts, because this issue isn’t just something I’ve read about or watched happen to other Read More » Page 1 Page 2 Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!

@@ -1,7 +1,7 @@
 top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
 Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
-Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE What Kansas's SAVE Law Can Teach Nebraska #ago 1 min read Our neighbors in Kansas are taking a structured approach to voter-list maintenance that Nebraska should study.
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE What Kansas's SAVE Law Can Teach Nebraska Oct 5 1 min read Our neighbors in Kansas are taking a structured approach to voter-list maintenance that Nebraska should study.
 Earlier this year, Kansas enacted the SAVE Kansas Act .
 The law requires the Secretary of State to compare the statewide voter-registration system with the federal SAVE database twice a year, including at least one check 180 days before a regularly scheduled federal general election.
 County election officials then review potential noncitizen matches.

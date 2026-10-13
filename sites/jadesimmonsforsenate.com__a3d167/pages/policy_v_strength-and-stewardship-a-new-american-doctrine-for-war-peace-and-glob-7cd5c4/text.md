@@ -229,7 +229,7 @@ Resolve without recklessness.
 Diplomacy first, readiness always.
 Strength in defense, discipline in action, humanity in judgment, and accountability in every single outcome.
 America must be strong enough to protect, wise enough to restrain itself, and responsible enough to help secure the peace that should be our ultimate goal.
-Next TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE You Might Also Like Statement of Belief: Honor God, Serve People A Breakthrough Brief: Thrivability for Small Business Women’s Empowerment & A Fresh Take on Life and Choice Thrivability: Beyond Affordability to Economic Possibility TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE STAY UPDATED Let’s Build the Future Together.
+Previous TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Next Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like The Thurgood Marshall Plan Thrivability: Beyond Affordability to Economic Possibility A New Era in Education Healthcare That Works for People, Not Bureaucracies TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

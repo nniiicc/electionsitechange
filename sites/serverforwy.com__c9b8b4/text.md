@@ -10,4 +10,4 @@ Expand school choice while ensuring that we have a robust and competitive public
 Empower Wyoming business, industry, and agriculture.
 Value and support Main Street interests when considering busines with Wall Street and Silicon Valley.
 Legislate and live in such a way that not only inspires people to stay, but also welcomes likeminded people to move here.
-Strive to live up to the tenets of the Code of the West 0.8s Toggle mute
+Strive to live up to the tenets of the Code of the West 0.3s Toggle mute

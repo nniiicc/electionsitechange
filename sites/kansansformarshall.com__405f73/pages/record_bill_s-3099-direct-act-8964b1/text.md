@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 3099 DIRECT Act Lets Kansas's state-inspected meat and poultry processors ship directly to customers across state lines, with retail quantity caps.
 Doc is the lead Senate sponsor.
 The bill What it does.

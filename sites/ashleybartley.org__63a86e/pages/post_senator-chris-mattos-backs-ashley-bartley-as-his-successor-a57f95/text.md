@@ -5,5 +5,7 @@ I’m proud to share his endorsement: “After serving with Ashley Bartley in Mo
 Ashley has been a leading voice on housing and affordability, and she understands the challenges facing Vermont families.
 I’ve seen firsthand how hard she works for her constituents, always willing to listen, advocate, and fight for the communities she represents.
 Essex, Milton, Westford, and Fairfax would be lucky to have Ashley as their Senator.
-I’m proud to endorse her and encourage you to join me in voting for Ashley Bartley on or before November 3rd.“ - Senator Chris Mattos Recent Posts See All Independent Representative Jed Lipsky backs Ashley for State Senate!
-The Vermont Police Association Endorses Ashley Bartley WDEV: Alison Despathy talks with Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page
+I’m proud to endorse her and encourage you to join me in voting for Ashley Bartley on or before November 3rd.“ - Senator Chris Mattos Recent Posts See All My opponent says I don’t have the time to be a Senator.
+Here’s my answer.
+Independent Representative Jed Lipsky backs Ashley for State Senate!
+The Vermont Police Association Endorses Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

@@ -39,7 +39,7 @@ Tim asks for your vote to represent Southington and be your voice as State Repre
 Support Tim's Campaign!
 Donate to support Tim Wilk's campaign for Southington!
 Donate Contact: info@timwilk4ct.com Follow me on Social Media!
-Paid for by Tim Wilk 4 CT, Ruth Cyr, Treasurer.
+Paid for by Tim Wilk 4 CT, Ruth Stanley-Cyr, Treasurer.
 Approved by Tim Wilk.
 Copyright © # Tim Wilk 4 CT - All Rights Reserved.
 Contact Privacy Policy

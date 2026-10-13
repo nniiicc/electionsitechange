@@ -2,13 +2,10 @@ Saltar al contenido principal ¿Se mudó?
 Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar El día de la elección es el martes 3 de noviembre de 2026 Haga su plan para votar Todo votante registrado y activo en Utah recibe su boleta por correo.
 El gran cambio este año: su boleta tiene que llegar antes de las 8 p.m. el día de la elección.
 El matasellos ya no es suficiente.
-Verificar mi registro ↗ Buscar un buzón → En su boleta: Cámara de Utah, Distrito 61 — Alan Jimenez. ¿No sabe si vive en el Distrito 61?
-Consulte sus distritos en vote.utah.gov ↗ En resumen 1.
-Asegúrese de que su dirección esté al día.
-2.
-Llene su boleta y firme el sobre.
-3.
-Deposítela en un buzón antes de las 8 p.m. del 3 de noviembre.
+Verificar mi registro ↗ Buscar un buzón → En su boleta: Alan Jimenez para la Cámara de Utah, Distrito 61. ¿No sabe si vive en el Distrito 61?
+Consulte sus distritos en vote.utah.gov ↗ En resumen 1 Asegúrese de que su dirección esté al día.
+2 Llene su boleta y firme el sobre.
+3 Deposítela en un buzón antes de las 8 p.m. del 3 de noviembre.
 Fechas clave Apúntelas en su calendario.
 12 OCT Abren los buzones Los buzones de boletas están abiertos las 24 horas desde el 12 de octubre hasta las 8 p.m. del día de la elección.
 13 OCT Se envían las boletas Busque la suya en su correo durante la próxima semana o dos. ¿No le llegó?
@@ -20,7 +17,14 @@ Detalles abajo.
 3 NOV · 8 P.M.
 Día de la elección Su boleta debe estar en un buzón, en un centro de votación o recibida por la oficina electoral del condado antes de las 8 p.m.
 Si ya es la última semana, no la mande por correo: use un buzón.
-Nuevo este año No confíe en el matasellos.
+También en su boleta Cómo votaré sobre las enmiendas.
+Este año, todas las boletas de Utah incluyen dos cambios propuestos a la constitución estatal.
+Esta es mi posición.
+ENMIENDA A · VOTARÉ EN CONTRA Hace más difícil encontrar la información La Enmienda A dejaría de publicar las enmiendas propuestas en periódicos de todo el estado y las pondría en sitios web del estado.
+Quiero que siga siendo fácil para todos ver lo que están votando.
+ENMIENDA B · VOTARÉ EN CONTRA No cambiar las reglas del juego a los votantes Exigiría el 60% de los votos para las iniciativas ciudadanas que creen o aumenten un impuesto.
+Cuando la propia Legislatura aumenta impuestos, solo necesita una mayoría simple.
+Por qué votaré en contra de ambas → Nuevo este año No confíe en el matasellos.
 Utah cambió la ley.
 Las boletas por correo solo cuentan si la oficina electoral del condado las recibe antes de las 8 p.m. el día de la elección.
 Las que llegan después no se cuentan, aunque se hayan enviado a tiempo.

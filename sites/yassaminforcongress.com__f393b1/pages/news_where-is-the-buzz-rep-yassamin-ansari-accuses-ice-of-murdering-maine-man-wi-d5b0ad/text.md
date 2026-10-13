@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute July 14, 2026 Where is the Buzz: Rep.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute July 14, 2026 Where is the Buzz: Rep.
 Yassamin Ansari Accuses ICE of Murdering Maine Man: “Witnesses Described It as an Execution” Congresswoman Yassamin Ansari claimed on Thursday that the U.S.
 Immigration and Customs Enforcement (ICE) “murdered” a 26-year-old Colombian man who was lawfully authorized to work in the United States at a traffic stop in Maine, less than a week after the death of another man in Houston during an encounter with ICE.
 “News just broke that ICE murdered another person today,” Ansari said in her video posted on TikTok.

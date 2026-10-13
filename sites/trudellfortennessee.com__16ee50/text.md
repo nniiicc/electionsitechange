@@ -29,7 +29,7 @@ DONATE NOW GET INVOLVED Join our movement.
 Whether you're passionate about protecting public schools, affordable housing, or civil liberties, your time is the most powerful tool we have.
 Sign up for volunteer opportunities and join us as we build a better future for District 8!
 Join Us!
-Events Upcoming Events Hilary Trudell Town Hall Mon, Oct 12 Blount County Public Library More info RSVP Canvassing with the Candidate Sat, Oct 10 Location is TBD More info Details Coffee with the Candidate Sat, Sep 19 Vienna Coffee Company More info Details Latest Updates Stay informed with the latest campaign news, articles, and policy updates from District 8.
+Events Upcoming Events Hilary Trudell Town Hall Mon, Oct 12 Blount County Public Library More info Details Canvassing with the Candidate Sat, Oct 10 Location is TBD More info Details Coffee with the Candidate Sat, Sep 19 Vienna Coffee Company More info Details Latest Updates Stay informed with the latest campaign news, articles, and policy updates from District 8.
 Affordability in Housing: A Priority for District 8 Housing affordability is a pressing issue that affects many communities, and District 8 is no exception.
 As the cost of living continues to rise, the challenge of finding affordable housing becomes more significant.
 This blog post explores the current state of housing affordability in District 8, the factors contributing to the crisis, and potential solutions that can help ensure that all residents have access to safe and affordable homes.

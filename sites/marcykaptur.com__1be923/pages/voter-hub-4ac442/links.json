@@ -1,5 +1,29 @@
 [
 {
+"text": "844-OHI-VOTE",
+"href": "tel:+18446448683"
+},
+{
+"text": "866-OUR-VOTE",
+"href": "tel:+18666878683"
+},
+{
+"text": "877-SOS-OHIO",
+"href": "tel:+18777676446"
+},
+{
+"text": "BMV",
+"href": "https://www.bmv.ohio.gov/dl-id-card.aspx"
+},
+{
+"text": "Check my registration",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "Check your registration",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
 "text": "Contact",
 "href": "https://marcykaptur.com/contact/"
 },
@@ -16,8 +40,8 @@
 "href": "https://www.facebook.com/marcykapturforcongress"
 },
 {
-"text": "Fellowships",
-"href": "https://marcykaptur.com/fellowships/"
+"text": "Find my Election Day polling place",
+"href": "https://www.ohiosos.gov/directories/find-my-polling-location"
 },
 {
 "text": "Get Involved",
@@ -28,8 +52,20 @@
 "href": "https://www.mobilize.us/marcykapturforcongress/"
 },
 {
+"text": "IWillVote.com/OH",
+"href": "https://iwillvote.com/OH"
+},
+{
 "text": "Lawn Signs",
 "href": "https://marcykaptur.com/?page_id=2024"
+},
+{
+"text": "Look it up by address.",
+"href": "https://findmydistrict.ohiosos.gov/"
+},
+{
+"text": "Make your plan",
+"href": "https://marcykaptur.com/vote"
 },
 {
 "text": "Marcy’s Priorities",
@@ -44,16 +80,60 @@
 "href": "https://marcykaptur.com/about-marcy/"
 },
 {
+"text": "Ohio Secretary of State 2026 voting schedule",
+"href": "https://www.ohiosos.gov/elections/voting-schedule-text-only"
+},
+{
+"text": "Ohio Secretary of State — Voter ID requirements",
+"href": "https://www.ohiosos.gov/elections/voter-ID-requirements"
+},
+{
 "text": "Privacy Policy",
 "href": "https://marcykaptur.com/privacy-policy/"
+},
+{
+"text": "See my sample ballot",
+"href": "https://www.ohiosos.gov/directories/sample-ballot"
 },
 {
 "text": "Site by Kinetic",
 "href": "https://kineticstrategies.us/"
 },
 {
+"text": "Text it",
+"href": "sms:?body=Here%E2%80%99s+everything+you+need+to+vote+in+Ohio+this+November+%E2%80%94+dates%2C+hours%2C+ID%2C+where+to+go%3A+https%3A%2F%2Fmarcykaptur.com%2Fvoter-hub%2F"
+},
+{
+"text": "Track my mail ballot",
+"href": "https://www.ohiosos.gov/directories/ballot-tracking"
+},
+{
 "text": "Volunteer",
 "href": "https://www.mobilize.us/marcykapturforcongress/"
+},
+{
+"text": "Volunteer with us",
+"href": "https://www.mobilize.us/marcykapturforcongress/"
+},
+{
+"text": "VoteOhio.gov",
+"href": "https://www.ohiosos.gov/directories/ballot-tracking"
+},
+{
+"text": "VoteOhio.gov",
+"href": "https://www.ohiosos.gov/directories/find-my-polling-location"
+},
+{
+"text": "VoteOhio.gov",
+"href": "https://www.ohiosos.gov/elections"
+},
+{
+"text": "VoteOhio.gov",
+"href": "https://www.ohiosos.gov/elections/elections-administration/forms-and-petitions/absentee-ballot-application-html-to-pdf"
+},
+{
+"text": "VoteOhio.gov ballot tracking",
+"href": "https://www.ohiosos.gov/directories/ballot-tracking"
 },
 {
 "text": "Voter Hub",
@@ -78,6 +158,10 @@
 {
 "text": "press@marcykaptur.com",
 "href": "mailto:press@marcykaptur.com"
+},
+{
+"text": "statewide directory",
+"href": "https://www.ohiosos.gov/directories/county-boards-of-elections"
 },
 {
 "text": "‪(419) 665-3133‬",

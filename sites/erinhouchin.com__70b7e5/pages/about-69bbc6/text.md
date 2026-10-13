@@ -15,4 +15,4 @@ A proud alumna of Indiana University in Bloomington, Erin also holds a master's 
 Elected by her colleagues as Secretary of the House Republican Conference, Erin is the second-highest-ranking Republican woman in the House.
 She serves on the House Energy & Commerce Committee — one of the most powerful committees in Congress, with jurisdiction over energy, health care, and technology — as well as the Budget and Rules Committees.
 She lives in Salem with her husband, Dustin, and their three children.
-CONTRIBUTE PAID FOR BY HOUCHIN FOR CONGRESS ABOUT | ISSUES | CONTACT Privacy Policy
+CONTRIBUTE PAID FOR BY HOUCHIN FOR CONGRESS ABOUT | ISSUES | CONTACT Privacy Policy | Mobile Terms

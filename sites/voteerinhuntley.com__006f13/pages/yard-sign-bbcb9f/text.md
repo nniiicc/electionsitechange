@@ -1,5 +1,5 @@
 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign!
-Donate Contact 𝕏 𝕏 Donate 𝕏 About Vote Our District Car Magnet In the News Endorsements Volunteer Contact Donate General Election Tuesday, November 3rd Get a free yard sign.
+Donate Contact 𝕏 Free Yard Sign Donate 𝕏 𝕏 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign Volunteer Contact Donate General Election Tuesday, November 3rd Get a free yard sign.
 Show your neighbors in District 45 that you're with Erin.
 Fill out the short form below and our volunteers will bring a sign right to your home, free of charge.
 1.

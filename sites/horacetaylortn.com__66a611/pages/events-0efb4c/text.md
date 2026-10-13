@@ -5,7 +5,7 @@ Every conversation between now and then matters.
 Oct 15 Candidates’ Meet and Greet for Congressional Districts 5, 8, and 9.
 October 15, 2026 5:30 PM – 7:30 PM · Mt.
 Olive Cathedral Christian Methodist Episcopal Church, 538 Dr.
-MLK Boulevard, Memphis, TN RSVP Oct 15 East Jackson Town Hall October 15, 2026 6:00 PM – 7:30 PM · Home M.B.
+MLK Boulevard, Memphis, TN RSVP Oct 15 East Jackson Town Hall October 15, 2026 6:30 PM – 8:00 PM · Home M.B.
 Church, 307 James Buchanan Dr, Jackson, TN 38301, USA RSVP Oct 18 2nd 10 Miler - Sunday, October 18 - 7am start October 18, 2026 7:00 AM – 8:00 AM · Tennessee's 8th District RSVP Oct 22 Christie Taylor (River City Round Up Public Affairs Show) October 22, 2026 12:30 PM – 1:30 PM · Tennessee's 8th District RSVP Oct 24 Just After the Window: Día de los Muertos Parade & Festival October 24, 2026 12:00 PM – 1:00 PM · Downtown Memphis, Memphis, TN, USA RSVP Nov 1 1st Half Marathon - Sunday, November 1 - 7am start November 1, 2026 7:00 AM – 8:00 AM · Tennessee's 8th District RSVP Want Horace at Your Event?
 Invite Horace to your community.
 Church suppers, civic clubs, VFW halls, school board forums — if it matters to your town, Horace wants to be there.

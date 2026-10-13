@@ -6,4 +6,4 @@ Governor More on where I stand Shop Account Orders My Account Sign out Sign In O
 Create Account Already have an account?
 Sign in This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Copyright © # Burkett for FL Governor - All Rights Reserved.
-Powered by More on where I stand Privacy Policy Terms and Conditions Both Parties Want to Crush Us by Pretending We Don't Exist "First they ignore you, then they laugh at you, then they fight you, then you win" Ghandi
+Powered by More on where I stand Privacy Policy Terms and Conditions Not Dead Yet WATCH VIDEO

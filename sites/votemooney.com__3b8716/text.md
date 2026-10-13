@@ -4,9 +4,7 @@ General Election Day: Nov.
 House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info More Home Biography On the Issues N.H.
 House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info Home Biography On the Issues N.H.
 House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info Maureen Mooney for State Representative Maureen Mooney for State Representative Maureen Mooney for State Representative Maureen Mooney for State Representative To be of service to Merrimack, New Hampshire U.S. and N.H.
-Flags United States Flag Info on the United States Flag: https://www.usa.gov/flag New Hampshire State Flag Info on the New Hampshire State Flag: https://www.nh.gov/almanac/state-flag Welcome Message September 12, 2026 Legislative Updates for September '26 are here on the Merrimack NH Patch.
-In November '26 and '28, you'll see a question on the ballot.
-Find out more in this article. https://patch.com/new-hampshire/merrimack/legislative-updates-rep-maureen-mooney-september-2026 See you around town! ~Maureen Maureen Mooney for State Representative Biography N.H.
+Flags United States Flag Info on the United States Flag: https://www.usa.gov/flag New Hampshire State Flag Info on the New Hampshire State Flag: https://www.nh.gov/almanac/state-flag Welcome Message October 13, 2026 Legislative Updates for October '26 are here on the Merrimack NH Patch including a SAMPLE ballot: https://patch.com/new-hampshire/merrimack/legislative-updates-rep-maureen-mooney-october-2026 See you around town! ~Maureen Maureen Mooney for State Representative Biography N.H.
 House Bills On the Issues About Maureen Mooney Learn more On the Issues N.H.
 House Bills On the Issues Issues for a better New Hampshire Learn more N.H.
 House Bills N.H.

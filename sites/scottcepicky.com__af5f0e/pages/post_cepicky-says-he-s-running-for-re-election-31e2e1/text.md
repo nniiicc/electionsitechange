@@ -94,4 +94,5 @@ Being a representative is a commitment that’s year around.
 It’s the most time-consuming part-time job you’ll ever have in your life.” The former professional baseball player and college football punter says politics is like sports.
 “When you lose that fire, it’s time to go,” Cepicky said.
 “As long as I have the fire in my belly, I hope the voters will keep sending me back.” Recent Posts See All A fellow Big10 football player in the House today Cepicky proposes changes to public education Rep Cepicky Receives Award for Conservative Excellence!
-Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

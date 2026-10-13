@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate Register to Vote The election is on Tuesday, November 3, 2026.
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate Register to Vote The election is on Tuesday, November 3, 2026.
 You must be registered to vote by 11:59PM on OCTOBER 10, 2026.
 Your vote is your voice.
 I will be your voice in the rooms where decisions are made.

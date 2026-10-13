@@ -1,6 +1,6 @@
 top of page Home Precinct Official Information About Newsroom Resources/Scholarship Power in the Park Immigration Resources Delegate Scholarship Legislation Events More Use tab to navigate through the menu items.
 DONATE SUBSCRIBE All Articles Search GET(S) with the (Energy Efficiency) Program!
-#ago 3 min read Promoting Advanced Transmission Technologies Wouldn’t it be great to get more electricity from our existing power lines?
+Oct 6 3 min read Promoting Advanced Transmission Technologies Wouldn’t it be great to get more electricity from our existing power lines?
 It would mean we wouldn’t need to build as many new power plants and lines to meet rising demand for electricity.
 Turns out we can by using advanced transmission technologies (ATTs) and “grid-enhancing technologies” (GETs).
 What are ATTs and GETs?

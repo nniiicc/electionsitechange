@@ -1,4 +1,8 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News NBC News • August 5, 2026 Republican Ty Masterson and Democrat Cindy Holscher to face off in Kansas governor’s race Republican state Senate President Ty Masterson will face Democratic state Sen.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News Community Voice • August 10, 2026 Holscher, Ohaebosim Advance to November as Kansas Governor’s Race Takes Shape Holscher selected Wichita attorney K.C.
+Ohaebosim as her running mate.
+If elected, Ohaebosim would become the first African American elected to statewide executive office in Kansas since Edward P.
+McCabe, who was elected state auditor in 1882 and remains the only Black Kansan to have won statewide executive office.
+NBC News • August 5, 2026 Republican Ty Masterson and Democrat Cindy Holscher to face off in Kansas governor’s race Republican state Senate President Ty Masterson will face Democratic state Sen.
 Cindy Holscher in Kansas’ election for governor this fall, NBC News projects....
 Politico • August 4, 2026 Populist Cindy Holscher beats establishment pick for Kansas Democratic gubernatorial primary State Sen.
 Cindy Holscher won the Democratic gubernatorial primary in Kansas on Tuesday, a resounding defeat for establishment Democrats as they seek to hold onto the governor’s mansion.

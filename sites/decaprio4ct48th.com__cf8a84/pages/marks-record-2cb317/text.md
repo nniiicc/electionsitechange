@@ -1,5 +1,5 @@
 top of page RE-ELECT MARK DECAPRIO STATE REPRESENTATIVE—48TH DISTRICT Home About Mark's Record Values News Get Involved Contact More Use tab to navigate through the menu items.
-THE People I WORK FOR More than $84.5 Million in Municipal aid has been allocated to our four towns $7.2 Million in bonding for important community programs WORKING FAMILIES FOUGHT against policies that increase the cost of living and supported efforts to lower energy costs and make Connecticut more affordable for working families.
+THE People I WORK FOR WORKING FAMILIES FOUGHT against policies that increase the cost of living and supported efforts to lower energy costs and make Connecticut more affordable for working families.
 SENIORS OPPOSED policies that place a greater financial burden on seniors and continue to advocate for responsible spending that protects those living on fixed incomes.
 VOLUNTEER FIREFIGHTERS & EMS SUPPORTED tax relief and legislation recognizing the volunteers who protect our communities and help keep local emergency services strong.
 VETERANS CHAMPIONED legislation recognizing military funeral honor guards because honoring those who continue serving our veterans is more than a promise—it's a responsibility.

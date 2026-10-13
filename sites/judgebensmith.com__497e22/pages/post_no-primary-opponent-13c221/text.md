@@ -9,7 +9,7 @@ His experience as a former chief felony prosecutor and his commitment to the rul
 "With no primary opposition, I look forward to focusing fully on continuing my service to the people of Collin, Dallas, Grayson, Kaufman, Hunt, and Rockwall Counties on the Fifth Court of Appeals.
 I remain committed to upholding justice, protecting individual rights, and ensuring our courts serve with integrity and impartiality." Judge Smith resides in Collin County and is a graduate of Boston University School of Law.
 For more information about Judge Ben Smith's campaign for the Texas Fifth District Court of Appeals, visit www.judgebensmith.com or contact the campaign office.
-Contact: Cris Rude, Judge Ben Smith for Justice Email: campaign@judgebensmith.com Recent Posts See All Law Enforcement Associations Endorse Judge Ben Smith for Fifth Court of Appeals Successful Fundraiser at Harlan Crow Library Bolsters Campaign for Judge Ben Smith Judge Ben Smith Launches Campaign for 5th Court of Appeals, Place 6 "He has shown you, O mortal, what is good.
+Contact: Cris Rude, Judge Ben Smith for Justice Email: campaign@judgebensmith.com Recent Posts See All Dallas Morning News Endorses Judge Smith Law Enforcement Associations Endorse Judge Ben Smith for Fifth Court of Appeals Successful Fundraiser at Harlan Crow Library Bolsters Campaign for Judge Ben Smith "He has shown you, O mortal, what is good.
 And what does the LORD require of you?
 To act justly and to love mercy and to walk humbly with your God." Micah 6:8 2025 Judge Ben Smith | Pol.
 Adv. paid for and/or authorized by Judge Ben Smith for Justice, 5th Court of Appeals.

@@ -1,4 +1,4 @@
-Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page Affordability and Fiscal Responsibility Make Colorado more affordable by delivering real tax and regulatory relief for homeowners and small businesses.
+Home Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page Affordability and Fiscal Responsibility Make Colorado more affordable by delivering real tax and regulatory relief for homeowners and small businesses.
 Ava will defend TABOR’s taxpayer protections, oppose hidden “fees” that function as taxes, and restore government accountability through fiscal discipline.
 Public Safety Colorado deserves to feel safe again.
 Ava supports stricter penalties for violent crime and repeat offenders.

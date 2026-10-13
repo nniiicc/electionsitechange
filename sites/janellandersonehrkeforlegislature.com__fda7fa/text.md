@@ -1,4 +1,4 @@
-top of page ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE More Use tab to navigate through the menu items.
+top of page ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE Portfolio More Use tab to navigate through the menu items.
 Grow District 38 Keep Lincoln out of Local Issues Provide Real Property Tax Relief I’m Janell Anderson Ehrke- a Nebraska wife, mother and CEO of GROW Nebraska.
 I'm a strong advocate for our communities and conservative values.
 For over two decades, I’ve strengthened Nebraska’s small businesses by helping entrepreneurs start, scale, and thrive.
@@ -17,5 +17,5 @@ STAY CONNECTED Click here to stay updated with our latest news and event.
 Subscribe to our Facebook page for campaign updates, events, and more!
 YARD SIGN Show your support by requesting a campaign sign.
 Display it proudly and let everyone know you stand with us.
-ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE More Use tab to navigate through the menu items.
+ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE Portfolio More Use tab to navigate through the menu items.
 Paid for by Anderson Ehrke for Legislature 10802 HWY 89 Orleans, NE 68966 Contact: 308-963-6767 info@janellandersonehrkeforlegislature.com bottom of page

@@ -1,4 +1,4 @@
-Skip to content Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Town Hall Monday, March 23, 2026 Register for the Townhall!
+Skip to content Read the latest statement Dignity, Or Subjugation Read → Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Town Hall Monday, March 23, 2026 Register for the Townhall!
 Tonight at 8:00 PM Eastern with independent candidates Date & Time March 23, 2026 8:00 PM - 9:30 PM Location Online Town Hall Register now for access details Cost Free RSVP for This Event Join us and help build the movement for change in the Bronx.
 RSVP Now Share Event By RSVPing, you agree to receive event updates and campaign information.
 Register for the Townhall!

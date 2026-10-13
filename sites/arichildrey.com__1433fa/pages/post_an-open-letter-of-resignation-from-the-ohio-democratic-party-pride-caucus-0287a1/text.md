@@ -1,6 +1,6 @@
 top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
 Donate Now Log In All Posts Search An Open Letter of Resignation from the Ohio Democratic Party Pride Caucus.
-Arienne Childrey #ago 3 min read To the Ohio Democratic Party, the Pride Caucus, and Democratic Allies, This is a particularly difficult letter to write, as I feel it’s necessary to do something I had vowed not to do.
+Arienne Childrey Oct 5 3 min read To the Ohio Democratic Party, the Pride Caucus, and Democratic Allies, This is a particularly difficult letter to write, as I feel it’s necessary to do something I had vowed not to do.
 It is with a very heavy heart that I must announce my official resignation from the Ohio Democratic Party Pride Caucus—both as Vice Chair and as a member.
 Over the past two years, it has been my honor to serve first as a member of the steering committee and then as the Vice Chair.
 I accepted the position because I felt it was an important opportunity to represent the LGBTQ+ community (and especially the trans community) to the Ohio Democratic Party.

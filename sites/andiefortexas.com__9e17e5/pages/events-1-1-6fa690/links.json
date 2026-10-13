@@ -36,6 +36,10 @@
 "href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser"
 },
 {
+"text": "Candidate Meet & Greet",
+"href": "https://www.andiefortexas.com/events-1-1/candidate-meet-greet"
+},
+{
 "text": "DONATE",
 "href": "https://secure.actblue.com/donate/andie-ho-1"
 },
@@ -46,6 +50,10 @@
 {
 "text": "Environmental Conservation",
 "href": "https://www.andiefortexas.com/issues/enviromentalconservation"
+},
+{
+"text": "Erica Gillum",
+"href": "https://www.gillumfortexas.com/"
 },
 {
 "text": "Events",
@@ -65,7 +73,27 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet+%26+Greet&dates=20261016T160000Z%2F20261016T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Local+Candidates+Forum&dates=20261013T230000Z%2F20261014T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=OUToberfest+2026&dates=20261017T170000Z%2F20261017T210000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Save+Our+Public+Schools&dates=20261008T230000Z%2F20261009T010000Z&location=1719+East+29th+Street%2C+Bryan%2C+Texas%2C+77802%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Speed+Dating+with+the+Candidates&dates=20261018T180000Z%2F20261018T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Voter+Mobilization+%40+SHSU+with+Beto&dates=20261014T150000Z%2F20261014T210000Z"
 },
 {
 "text": "Healthcare for All",
@@ -85,15 +113,47 @@
 },
 {
 "text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/candidate-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/local-candidates-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/outoberfest-2026?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/speed-dating-with-the-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/voter-mobilization-shsu-with-beto?format=ical"
 },
 {
 "text": "Janet Dudding",
 "href": "https://thomassonforsenate.com/"
 },
 {
+"text": "Larry J. Ringer Public Library",
+"href": "https://www.bcslibrary.org/"
+},
+{
+"text": "Local Candidates Forum",
+"href": "https://www.andiefortexas.com/events-1-1/local-candidates-forum"
+},
+{
 "text": "Meet Andie",
 "href": "https://www.andiefortexas.com/meet-andie"
+},
+{
+"text": "OUToberfest 2026",
+"href": "https://www.andiefortexas.com/events-1-1/outoberfest-2026"
 },
 {
 "text": "Pathways to Citizenship",
@@ -112,8 +172,16 @@
 "href": "https://www.andiefortexas.com/issues/nospacex"
 },
 {
+"text": "Speed Dating with the Candidates",
+"href": "https://www.andiefortexas.com/events-1-1/speed-dating-with-the-candidates"
+},
+{
 "text": "Strong Public Schools",
 "href": "https://www.andiefortexas.com/issues/strong-public-schools"
+},
+{
+"text": "Tanya Lloyd",
+"href": "https://www.tanyafortx27.com/"
 },
 {
 "text": "View Event →",
@@ -125,11 +193,35 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/candidate-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/local-candidates-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/outoberfest-2026"
+},
+{
+"text": "View Event →",
 "href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/speed-dating-with-the-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/voter-mobilization-shsu-with-beto"
 },
 {
 "text": "Volunteer",
 "href": "https://www.andiefortexas.com/home#volunteer"
+},
+{
+"text": "Voter Mobilization @ SHSU with Beto",
+"href": "https://www.andiefortexas.com/events-1-1/voter-mobilization-shsu-with-beto"
 },
 {
 "text": "Yard Signs",
@@ -140,12 +232,32 @@
 "href": "https://www.andiefortexas.com/"
 },
 {
+"text": "[image: OUToberfest 2026]",
+"href": "https://www.andiefortexas.com/events-1-1/outoberfest-2026"
+},
+{
+"text": "[image: Speed Dating with the Candidates]",
+"href": "https://www.andiefortexas.com/events-1-1/speed-dating-with-the-candidates"
+},
+{
+"text": "[image: Voter Mobilization @ SHSU with Beto]",
+"href": "https://www.andiefortexas.com/events-1-1/voter-mobilization-shsu-with-beto"
+},
+{
 "text": "[no text]",
 "href": "https://www.andiefortexas.com/events-1-1/bearkat-mania-shsu"
 },
 {
 "text": "[no text]",
 "href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.andiefortexas.com/events-1-1/candidate-meet-greet"
+},
+{
+"text": "[no text]",
+"href": "https://www.andiefortexas.com/events-1-1/local-candidates-forum"
 },
 {
 "text": "[no text]",

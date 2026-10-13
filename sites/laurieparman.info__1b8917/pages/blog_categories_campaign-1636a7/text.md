@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform Campaign & PSA Campaign, Election Information and Public Service Announcements.
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA Campaign & PSA Campaign, Election Information and Public Service Announcements.
 Kane & McHenry County -Your Primary Vote Matters!
 NEW Postal Law May Affect Your Mail-in Ballot Kane & McHenry County -Your Primary Vote Matters!
 NEW Postal Law May Affect Your Mail-in Ballot Campaign & PSA Judi Zapp Feb 7 1 min read Announcement: "I'm Running for Illinois District 66 House of Representative!" Thank You for Your Prior Support in the Illinois House Race Dear Friends, Supporters, and Voters, As I reflect on the recent Illinois...

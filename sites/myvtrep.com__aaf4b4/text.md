@@ -1,4 +1,4 @@
-Skip to content Mark Yuengling for Vermont House About Contact Endorsements DONATE RSVP to Community BBQ Vermont’s taxpayers deserve better!
+Skip to content Mark Yuengling for Vermont House About Contact Endorsements DONATE Vermont’s taxpayers deserve better!
 First, Fix the Funding Formula -Vermont’s current school funding formula drives property taxes up and leaves rural districts behind.
 Consolidation and cuts alone are not enough or even feasible.
 The reality is that those that can afford to pay more are not asked to, while the well that is middle and lower income earners runs dry.

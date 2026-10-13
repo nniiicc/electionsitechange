@@ -1,5 +1,4 @@
 Matt Loesby for Idaho Campaign Platform Who Am I?
-Can I Win?
 Help the Campaign Donate Support the Campaign Thank you for your interest!
 I’m thankful for any support you can give.
 Donate to Matt Loesby for Congress I would greatly appreciate if you would give your support to the Libertarian Party of Idaho .

@@ -8,7 +8,7 @@ That experience has taught me how to build coalitions, negotiate difficult issue
 Outside the Legislature, I am an attorney and small-business owner.
 Those experiences have given me a practical understanding of the challenges facing families, farmers and businesses in our communities.
 I want to continue putting that experience to work for the people of District 1.
-LEARN MORE ﻿ A strong voice for Greater Minnesota.
+LEARN MORE A strong voice for Greater Minnesota.
 Keeping Northwest Minnesota Strong and Growing ﻿What are priorities for Northwest Minnesota and our state?
 My focus is making sure northwest Minnesota isn't an afterthought in St.
 Paul.
@@ -21,4 +21,4 @@ We need continued investment in roads, bridges, flood protection, water infrastr
 Statewide, affordability and responsible government remain priorities.
 Families face higher costs for housing, property taxes, energy, groceries, and other necessities.
 State government needs to remember that every dollar it spends ultimately comes from taxpayers.
-The goal is straightforward: northwest Minnesota should be a place where businesses can grow, communities can thrive, and our children can find the opportunity to build a good life and raise their own families here." - Mark Johnson ﻿ ON THE ISSUES LEARN MORE ﻿ CONTRIBUTE ﻿ DONATE TODAY ﻿ GET INVOLVED ﻿ JOIN THE TEAM Prepared and Paid for by Mark Johnson for State Senate Copyright ©#
+The goal is straightforward: northwest Minnesota should be a place where businesses can grow, communities can thrive, and our children can find the opportunity to build a good life and raise their own families here." - Mark Johnson ﻿ ON THE ISSUES LEARN MORE ﻿ CONTRIBUTE ﻿ DONATE TODAY ﻿ GET INVOLVED ﻿ JOIN THE TEAM Prepared and Paid for by Mark Johnson for State Senate Mobile Terms and Conditions and Privacy Policy Copyright ©#

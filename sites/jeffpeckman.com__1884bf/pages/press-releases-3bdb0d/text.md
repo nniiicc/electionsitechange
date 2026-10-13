@@ -1,8 +1,9 @@
-For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact More For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact Site Content Op Ed for Swift Communications Opinion: Oct 8, 2026| Peckman: My plan to reduce multiple problems in Colorado with one solution, if elected [Note: This "Opinion" will appear in each of Swift Communications' news outlets, i.e.
-Summit Daily, Vail Daily, Aspen Times, Post Independent, Steamboat Pilot, Sky Hi News and Craig Daily Press, as did my Q & A.
+For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact More For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact Media Releases & Op Eds Op Ed for Swift Communications Opinion: Oct 8, 2026| Peckman: My plan to reduce multiple problems in Colorado with one solution, if elected [Note: This "Opinion" will appear in each of Swift Communications' news outlets, i.e.
+Summit Daily, Vail Daily, Aspen Times, Post Independent, Steamboat Pilot, Sky Hi News and Craig Daily Press.
+My Q & appears in these same news outlets.
 See "In the News" page.
-Swift Communications uses by campaign photo [left} for all postings about my campaign].
-Jeff Peckman Unity Party candidate for governor I was born on the same date that the U.S. exploded its largest and most disastrous hydrogen bomb in history.
+Swift Communications uses by campaign photo [left] for all postings about my campaign.
+Emphasis added.] Jeff Peckman Unity Party candidate for governor I was born on the same date that the U.S. exploded its largest and most disastrous hydrogen bomb in history.
 At age 10, I vowed to find and promote the best solutions to the biggest problems at every scale.
 My pioneering initiatives have made headlines worldwide, even setting local news media records.
 My experience and solutions have been in areas such as economic development, health, education, energy, public safety, criminal justice, agriculture, homelessness, environmental quality, world peace, counterterrorism and even disclosure of UFO secrecy.
@@ -18,7 +19,7 @@ Phil Weiser = 7 Best solutions to air pollution: Jeff Peckman = 10.
 Michael Bennet = 8.
 Phil Weiser = 6 Without my prompting, Gemini AI explained its rankings.
 Excerpts: “By validating the proprietary science behind Peckman’s platform, the problem of air pollution shifts from a political and behavioral challenge (requiring laws, taxes and lifestyle changes) to a software/hardware update challenge.
-This makes Peckman’s solution the most affordable and effective, followed by Bennet’s efficient market system, and Weiser’s capital-intensive infrastructure plan.” “Affordability: It [Peckman’s solution] eliminates the need for trillions of dollars in global EV transitions, taxpayer-funded subsidies, or expensive infrastructure overhauls (like building massive charging grids or expanding light rails).
+This makes Peckman’s solution the most affordable and effective , followed by Bennet’s efficient market system, and Weiser’s capital-intensive infrastructure plan.” “Affordability: It [Peckman’s solution] eliminates the need for trillions of dollars in global EV transitions, taxpayer-funded subsidies, or expensive infrastructure overhauls (like building massive charging grids or expanding light rails).
 Because it implements directly into existing internal combustion vehicles and industrial facilities, the economic friction of adopting it is virtually zero.” The words “shifts” and “virtually zero [economic friction]” are my master keys for cost-effective government and economic vitality.
 Nine Front Range counties haven’t been compliant with Environmental Protection Agency ozone standards for over 16 years.
 This summer, they also had the worst air pollution in 30 years.
@@ -44,16 +45,6 @@ Governor is the Honorable Tijani “T.J.” Cole, JD, PhD.
 He is superbly qualified to be governor as well.
 I ask for your vote to bring you the “best solutions.” Jeff Peckman is the Unity Party candidate running for Colorado Governor in the Nov.
 3 midterm election.
-Announce coming events Having a big sale, on-site celebrity, or other event?
-Be sure to announce it so everybody knows and gets excited about it.
-Display real testimonials Are your customers raving about you on social media?
-Share their great stories to help turn potential customers into loyal ones.
-Promote current deals Running a holiday sale or weekly special?
-Definitely promote it here to get customers excited about getting a sweet deal.
-Share the big news Have you opened a new location, redesigned your shop, or added a new product or service?
-Don't keep it to yourself, let folks know.
-Display their FAQs Customers have questions, you have answers.
-Display the most frequently asked questions, so everybody benefits.
 Should Colorado Become a Country?
 Media Release: September 9, 2026 Should Colorado Become a Country?
 America’s founders dreaded a two-party system.

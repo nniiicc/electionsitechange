@@ -1,4 +1,4 @@
-[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Get Involved Join our Coalitions Store Volunteer Contact X Donate Learn more about Alan Wilson Alan Wilson was elected South Carolina’s 51st Attorney General in 2010, becoming the nation’s youngest Attorney General.
+[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Vote Get Involved Join our Coalitions Store Volunteer Contact X Donate Learn more about Alan Wilson Alan Wilson was elected South Carolina’s 51st Attorney General in 2010, becoming the nation’s youngest Attorney General.
 He was re-elected in 2014 and again in 2018.
 As Attorney General, Alan has always focused on keeping South Carolina’s families safe, defending their freedoms and protecting their futures.
 Before serving as Attorney General, Wilson served as an Assistant Solicitor and Assistant Attorney General.

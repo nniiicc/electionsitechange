@@ -189,6 +189,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Park+Cities+Fundraising+Reception&dates=20261020T230000Z%2F20261021T000000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Park+Cities+Meet+and+Greet&dates=20250913T200000Z%2F20250913T220000Z"
 },
 {
@@ -285,6 +289,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.allisonmitchellfortexas.com/events/park-cities-fundraising-reception?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.allisonmitchellfortexas.com/events/park-cities-meet-and-greet-1?format=ical"
 },
 {
@@ -332,6 +340,10 @@
 "href": "https://www.allisonmitchellfortexas.com/events/meet-and-greet-preston-hollow"
 },
 {
+"text": "Park Cities Fundraising Reception",
+"href": "https://www.allisonmitchellfortexas.com/events/park-cities-fundraising-reception"
+},
+{
 "text": "Park Cities Meet and Greet",
 "href": "https://www.allisonmitchellfortexas.com/events/park-cities-meet-and-greet"
 },
@@ -370,6 +382,10 @@
 {
 "text": "RSVP HERE",
 "href": "https://secure.actblue.com/donate/allisonandwendydavis"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/parkcities"
 },
 {
 "text": "RSVP HERE",
@@ -497,6 +513,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.allisonmitchellfortexas.com/events/park-cities-fundraising-reception"
+},
+{
+"text": "View Event →",
 "href": "https://www.allisonmitchellfortexas.com/events/park-cities-meet-and-greet"
 },
 {
@@ -618,6 +638,10 @@
 {
 "text": "[image: Meet and Greet]",
 "href": "https://www.allisonmitchellfortexas.com/events/meet-and-greet-birdies"
+},
+{
+"text": "[image: Park Cities Fundraising Reception]",
+"href": "https://www.allisonmitchellfortexas.com/events/park-cities-fundraising-reception"
 },
 {
 "text": "[image: Park Cities Meet and Greet]",

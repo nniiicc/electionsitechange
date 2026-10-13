@@ -2,8 +2,9 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate News, Updates and Policy Thoughts Lisa Earns Another Endorsement Posted on October 10, 2026 Bill Schwartz is a colleague and friend of Lisa Kinney who understands the important issues with this election.
-Thank you, Bill!
+Donate Donate News, Updates and Policy Thoughts Three out of four Republicans said no to Chuck Gray.
+Say it again in November.
+Posted on October 10, 2026 Three out of four Republicans said no to Chuck Gray!
 Read more… WTE Election Guide Posted on October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
 Read more… Rep.
 Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa is honored to receive an endorsement from Congresswoman Pettersen of Colorado’s 7th District Read more… Friends Endorse Lisa for Congress Posted on September 30, 2026 Lisa is grateful for the endorsements of former legislators and friends.

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Meet JB Accomplishments Meet Christian News & Updates Sign Up JB Delivered: Combating Gun Violence CHICAGO, IL — Governor JB Pritzker has enacted some of the strongest gun safety legislation and reforms in the country.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Meet JB Accomplishments Meet Christian News & Updates Sign Up JB Delivered: Combating Gun Violence CHICAGO, IL — Governor JB Pritzker has enacted some of the strongest gun safety legislation and reforms in the country.
 He is fighting every day to ensure every Illinoisan is safe from gun violence, no matter their zip code.
 In 2021, Gov.
 Pritzker declared gun violence a public health crisis in Illinois, reaffirming his commitment to getting guns off the street and ending gun violence once and for all.

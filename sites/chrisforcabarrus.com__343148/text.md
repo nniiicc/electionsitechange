@@ -18,6 +18,7 @@ He believes economic growth should lift local families, not leave them behind.
 Health Care Access to reliable, affordable health care is essential as Cabarrus County continues to grow.
 Chris supports protecting recent progress in expanding coverage, strengthening local hospitals and clinics, and improving access to mental and behavioral health care.
 With a career spent in safety-critical public service, he believes health care decisions should be guided by data, accountability, and a focus on long-term stability for patients, providers, and communities across North Carolina.
+Frequently Asked Questions Click HERE to see answers to frequently asked questions about Chris Bishopp's positions on important issues.
 Together, we can move our community forward.
 Sign up to join us today.
 By submitting this form and signing up for texts, you consent to receive donation asks, voter contact, and informational messages from Committee to elect Chris Bishopp.

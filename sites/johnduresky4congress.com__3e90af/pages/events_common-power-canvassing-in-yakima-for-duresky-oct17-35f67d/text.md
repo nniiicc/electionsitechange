@@ -5,7 +5,7 @@ Sign up here for weekend shifts starting Saturday, September 19th through Octobe
 After signing up, your Canvass Lead will send you the exact meetup location, time, and other shift logistics.
 Each shift may have different canvass leads and meetup locations.
 We’ll see you at the doors!
-Previous Previous October 17 Canvassing Event (Yakima) Next Next October 21 Phonebanking Session Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
+Previous Previous October 17 Canvassing Event (Yakima) Next Next October 18 Bilingual Phonebank (Virtual) Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
 All rights reserved.
 Privacy Policy‍ Plain Talk.
 Real Service. info@johnduresky.com John Duresky is a retired member of the U.S.

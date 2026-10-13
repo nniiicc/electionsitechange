@@ -64,7 +64,7 @@ THE ROAD TO NOVEMBER This Campaign Is Built on Front Porches All year, this camp
 No party machine.
 Just neighbors, face to face.
 The next steps belong to you.
-# Days to Election 1 Days to register to vote Deadline October 13, 2026 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
+# Days to Election #ago Registration deadline Deadline October 13, 2026 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
 You Have Two Votes.
 I am not asking you to change how you vote.
 Two candidates on this ballot are running as a pair and two more are running as a pair, and all four want both of your votes.
@@ -78,7 +78,9 @@ No sign-up, nothing collected by this campaign — whoever you end up voting for
 Check if I'm registered Takes about 30 seconds Request a mail-in ballot Request by October 27, 2026 Find my polling place Early voting October 22–29, 2026 Register to vote Deadline October 13, 2026 Tuesday, November 3, 2026.
 Polls open 7am to 8pm.
 Mail your ballot postmarked by November 3, or place it in a drop box by 8pm on Election Day.
-LATEST UPDATES From the Campaign CAMPAIGN You Get Two Votes for Delegate.
+LATEST UPDATES From the Campaign EDUCATION Tech Should Help Our Kids Learn, Not Hook Them Phone bans were step one.
+Saif Rehman's plan for standards on school devices, apps and AI so Maryland kids learn with technology without being hooked.
+Read more CAMPAIGN You Get Two Votes for Delegate.
 Here Is What the Second One Can Do.
 District 9A sends two delegates to Annapolis and every voter gets two votes.
 In the 2026 election I am the only unaffiliated name on any General Assembly ballot in Maryland.
@@ -86,10 +88,6 @@ Here is what your second vote can do, and how to cast it.
 Read more CAMPAIGN Maryland Has One Unaffiliated General Assembly Candidate in 2026—Why It Matters Maryland fills 188 General Assembly seats in November.
 On every ballot in the state, one candidate's name carries no party beside it — and it is on the District 9A ballot.
 What it took, and who is locked out.
-Read more AFFORDABILITY BGE wants a 10.4% return.
-The formula never asks what you got for it.
-BGE has asked Maryland regulators for a 10.4% return.
-The number isn't the real problem — the formula behind it is, and Annapolis killed the study of a better one 19 to nothing.
 Read more View all updates WHY INDEPENDENT Unaffiliated Is Not A Protest.
 It Is A Job Description.
 I ran for Howard County Board of Education in 2018 and 2020, and for this same District 9A seat in 2022 under a party label.

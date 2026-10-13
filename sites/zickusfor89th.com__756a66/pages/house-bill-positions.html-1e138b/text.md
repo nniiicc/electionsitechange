@@ -1,10 +1,4 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the landing page State issues State Issues 30-second overview From the published campaign article Positions supplied September 30, 2026.
-Bill text and legislative status can change; these statements describe Meegan’s position at that time.
-Consult the linked official records for current status.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.house.mi.gov — official document or government source. legislature.mi.gov — official document or government source. www.house.mi.gov — official document or government source. legislature.mi.gov — official document or government source. legislature.mi.gov — official document or government source. www.house.mi.gov — official document or government source. legislature.mi.gov — official document or government source. www.house.mi.gov — official document or government source.
-Positions supplied September 30, 2026.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back home State issues State Issues Positions supplied September 30, 2026.
 Bill text and legislative status can change; these statements describe Meegan’s position at that time.
 Consult the linked official records for current status.
 1.
@@ -321,13 +315,9 @@ Research sources: Source 1 · Source 2 Disclaimer: Any errors are unintentional.
 Please bring them to our attention so we can fix them—also, information changes.
 Positions will always reflect the best information I had at the time.
 I am responsive and open to adjusting.
-Related reading What has happened with Ottawa County legal costs and settlements?
+Sources for this article www.house.mi.gov legislature.mi.gov www.house.mi.gov legislature.mi.gov legislature.mi.gov www.house.mi.gov legislature.mi.gov www.house.mi.gov Related reading What has happened with Ottawa County legal costs and settlements?
 What Did Ottawa County Taxpayers Get for Their Money?
 Ottawa County families got the bill.
 Browse the Issues Library · Compare candidate positions Follow Meegan Connect with the campaign on social media.
-Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Disclaimer: Any errors are unintentional.
-Please bring them to our attention so we can fix them—also, information changes.
-Positions will always reflect the best information I had at the time.
-I am responsive and open to adjusting.
-Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Sources & corrections Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

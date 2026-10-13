@@ -10,7 +10,8 @@ Unsurprisingly to all who knew them, the accolades started in 2014 and continued
 Now, Carlie is a mom of three and owns a ceramics studio.
 She works alongside her husband on their 16-acre farm full of animals and gardens and still has that delusional optimism.
 She built this chapter of life in the 38th the same way she's built every chapter prior - and the same way she'll build the next as your State Representative: with enthusiasm and dedication.
-DONATE Contact Me Want to Volunteer?
+DONATE Contact Me Some photos by Heartbeat Branding Co.
+Want to Volunteer?
 Any support given whether volunteering, donating, or spreading the word helps get Carlie one step closer to Dover where she can be a true voice for THE PEOPLE.
 Thank you so much for contributing to our campaign!
 We couldn't do this without you.

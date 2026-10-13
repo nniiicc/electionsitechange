@@ -9,10 +9,10 @@ Leigh Wambsganss brings over 34 years of proven leadership – fighting for libe
 Leigh has a proven record of fighting for lower property taxes.
 As a State Senator, Leigh will work to lower taxes and insurance premiums, and support career training and apprenticeship programs to prepare students for the work force.
 In the Senate, Leigh will fight for working families.
-Join the Fight! $5 $25 $50 $100 $1000 $2500 $5000 Other Join the Fight! $5 $25 $50 $100 $1000 $2500 $5000 Other Leigh Wambsganss Follow 1,236 5,928 Christian, wife, mama bear, dog lover, CCO.
-Proven conservative running for Texas SD 9 to put Texans First. pd pol ad | Leigh Wambsganss Campaign Leigh Wambsganss @LeighForTexas · 19h 2109299425046614044 Be encouraged today, because we know the eternal reward awaiting us in heaven.
+Join the Fight! $5 $25 $50 $100 $1000 $2500 $5000 Other Join the Fight! $5 $25 $50 $100 $1000 $2500 $5000 Other Leigh Wambsganss Follow 1,236 5,927 Christian, wife, mama bear, dog lover, CCO.
+Proven conservative running for Texas SD 9 to put Texans First. pd pol ad | Leigh Wambsganss Campaign Leigh Wambsganss @LeighForTexas · 11 Oct 2109299425046614044 Be encouraged today, because we know the eternal reward awaiting us in heaven.
 Twitter feed image.
-Reply on Twitter 2109299425046614044 5 Retweet on Twitter 2109299425046614044 9 Like on Twitter 2109299425046614044 26 X 2109299425046614044 Leigh Wambsganss @LeighForTexas · 10 Oct 2109037715199037551 Thank you to the Carrick family for opening your home today - and the wonderful neighbors & friends who showed up to our Haslet meet and greet.
+Reply on Twitter 2109299425046614044 6 Retweet on Twitter 2109299425046614044 9 Like on Twitter 2109299425046614044 28 X 2109299425046614044 Leigh Wambsganss @LeighForTexas · 10 Oct 2109037715199037551 Thank you to the Carrick family for opening your home today - and the wonderful neighbors & friends who showed up to our Haslet meet and greet.
 I love meeting with voters and am so impressed when people make the time to sit down and discuss state issues.
 Your voice and your vote Twitter feed image.
 Reply on Twitter 2109037715199037551 Retweet on Twitter 2109037715199037551 13 Like on Twitter 2109037715199037551 50 X 2109037715199037551 Leigh Wambsganss @LeighForTexas · 10 Oct 2108944499019849776 Join us for the @JohnMcQueeneyTX and @LeighForTexas block walk!
@@ -21,7 +21,7 @@ On this day we will join together as one team Twitter feed image.
 Reply on Twitter 2108944499019849776 1 Retweet on Twitter 2108944499019849776 13 Like on Twitter 2108944499019849776 46 X 2108944499019849776 Leigh Wambsganss @LeighForTexas · 10 Oct 2108922675640881449 I worked three jobs to put myself through college, was the first in my family to earn a bachelor’s degree and I was a working mom, growing my business while raising two boys.
 I understand the challenges facing working families in Texas because I lived them.
 As your State Twitter feed image.
-Reply on Twitter 2108922675640881449 11 Retweet on Twitter 2108922675640881449 15 Like on Twitter 2108922675640881449 58 X 2108922675640881449 Leigh Wambsganss @LeighForTexas · 9 Oct 2108674917277249918 HD 91 Area Leader, Carla Gonzales is a powerhouse!
+Reply on Twitter 2108922675640881449 11 Retweet on Twitter 2108922675640881449 16 Like on Twitter 2108922675640881449 59 X 2108922675640881449 Leigh Wambsganss @LeighForTexas · 9 Oct 2108674917277249918 HD 91 Area Leader, Carla Gonzales is a powerhouse!
 She has been an activist in Tarrant County for years, and has put in countless hours to keeping Tarrant County red.
 We are so grateful for all she has sacrificed to get our outstanding Republicans elected.
 Thank you, Carla, for Twitter feed image.

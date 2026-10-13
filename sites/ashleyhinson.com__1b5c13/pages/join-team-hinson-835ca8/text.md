@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute Stay up to date with Ashley’s campaign!
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Stay up to date with Ashley’s campaign!
 Sign up for our weekly newsletter below.
 Please enable JavaScript in your browser to complete this form.
 First Name * Last Name * Phone Email * Zip Code * Checkboxes By providing your cell phone and checking the box, you consent to receive campaign updates via calls and texts, including automated calls and texts with notifications from Ashley Hinson for Iowa.

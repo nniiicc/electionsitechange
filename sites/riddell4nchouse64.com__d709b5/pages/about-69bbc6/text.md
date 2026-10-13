@@ -4,7 +4,7 @@ Merchant Marine.
 Dennis was also commissioned as an Ensign in the U.S.
 Naval Reserve, ultimately attaining the rank of Lieutenant before receiving an honorable discharge.
 His professional career has also included teaching high school social studies and building two local businesses: FreedomIR Thermal Imaging and Heritage Stables Equestrian Facility. ​ Dennis has represented North Carolina House District 64 since 2012.
-Before his election to the General Assembly, he served five years as Chairman of the Alamance County Republican Party and was the founder and former Chairman of the Alamance County Young Republicans. ​ His commitment to service extends well beyond elected office.
+Before his election to the General Assembly, he served five years as Chairman of the Alamance County Republican Party and was the founder and former Chairman of the Alamance County Young Republicans. ​ ​ His commitment to service extends well beyond elected office.
 Dennis has served his church as a teaching elder, treasurer, deacon, and Sunday School teacher, and has volunteered with organizations including Piedmont Rescue Mission, 4-H, youth athletics, the Victory League, and local historical organizations. ​ Dennis and his wife, Polly, have been married for more than four decades and raised their family in the Snow Camp community.
 They attend Pleasant Hill Christian Church. ​ An avid student of American history, Dennis enjoys woodworking and woodcarving, fly fishing, playing bluegrass music on guitar and dulcimer, Civil War reenacting, and reading American history.
 Issues.

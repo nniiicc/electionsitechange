@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate November 16, 2021 Morgan Anker Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 AURORA, COLORADO — Naquetta Ricks was 13 years old when three soldiers came to her family’s home in Monrovia, Liberia, searching for her mother’s fiancé, a government official.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate November 16, 2021 Morgan Anker Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 AURORA, COLORADO — Naquetta Ricks was 13 years old when three soldiers came to her family’s home in Monrovia, Liberia, searching for her mother’s fiancé, a government official.
 "They held my mother at gunpoint for over two hours while my sister and I watched," Ricks said, cringing at the memory.
 The soldiers found the official, Cyril A.
 Bright, hiding in the house and, after interrogating the couple in the driveway, tossed him into the back of a pickup truck.

@@ -145,7 +145,14 @@ I served for five and a half years as a 35P—Cryptologic Linguist, and earned t
 I earned my second associate's degree in 2018 and my bachelor's degree in political science in 2019.
 Right before I deployed to Syria in January 2020.
 I transitioned out of the Army in May 2022 and graduated from the University of Oklahoma College of Law in 2025.
-Straight From Mitch Blog October 5, 2026 The Economics of Campaigning for Office October 5, 2026 We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
+Straight From Mitch Blog October 12, 2026 Legacy: A Champion for the People or a Friend of Special Interests?
+October 12, 2026 When Congress votes, our lives change.
+Often, the changes are small and go unnoticed.
+Lately, however, federal policy has reached down to affect nearly every American.
+Rising prices, another war, more tax breaks for the wealthy, and fewer services.
+Congress can both create and solve these problems.
+I advocate for progress over more of the status quo.
+Read more → October 12, 2026 October 5, 2026 The Economics of Campaigning for Office October 5, 2026 We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
 Let’s dive into the realities and numbers involved.
 Read more → October 5, 2026 September 28, 2026 Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations September 28, 2026 Oil.
 One of the world’s most critical resources.
@@ -176,9 +183,7 @@ You learn to recognize the women who are sitting in it.
 They arrive early and sit facing the door.
 Often, they have a folder with photographs in it, text messages printed out, and a police report.
 You can sometimes hear them rehearsing what they are going to say to a judge they have never met about the worst thing that has ever happened to them.
-Read more → August 24, 2026 August 21, 2026 40 Trillion August 21, 2026 In 2025, the United States collected $5.23T in revenue, and we are on track to collect nearly that amount again in 2026.
-According to USASpending.gov , the United States is set to spend $8.3T, which means the United States will borrow $3T, three trillion dollars , in just 2026 alone .
-Read more → August 21, 2026 Quality Education Let's talk about education.
+Read more → August 24, 2026 Quality Education Let's talk about education.
 If we want a better future, it starts with our kids.
 I have a public education.
 I know education is the greatest equalizer.

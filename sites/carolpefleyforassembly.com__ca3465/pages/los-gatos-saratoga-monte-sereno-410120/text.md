@@ -15,5 +15,5 @@ Edit the block and enter a storage location via the Storage tab.
 Join Our Email List Join our email list to stay connected with campaign updates and local news.
 First Name Last Name Email Address Sign Up We respect your privacy.
 Thank you!
-Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+Home ‍ ‍ Privacy ‍ ‍ Terms of Service Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
 All Rights Reserved. | site design by Conservative Toolbox

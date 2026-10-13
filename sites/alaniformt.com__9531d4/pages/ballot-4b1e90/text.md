@@ -4,7 +4,7 @@ Ballots mail Oct 9 · Election Day Nov 3 Check your registration → Federal rac
 Senate Alani Bankhead Retired Air Force Lt Col.
 Former federal supervisory special agent.
 No corporate PAC money.
-On the record on 113 of 117 issues.
+On the record on 114 of 118 issues.
 Where she stands Compare all four Debates Also running: Kurt Alme (R) · Seth Bodnar (I) · Kyle Austin (L) Western Montana only U.S.
 House · MT-01 Sam Forstag Labor leader and former smokejumper from Missoula.
 The Democratic nominee.

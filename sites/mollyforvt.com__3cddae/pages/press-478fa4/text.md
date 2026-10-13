@@ -1,7 +1,7 @@
 0 Skip to Content MEET MOLLY PRIORITIES SUPPORTERS VOLUNTEER EVENTS PRESS CONTACT DONATE Open Menu Close Menu MEET MOLLY PRIORITIES SUPPORTERS VOLUNTEER EVENTS PRESS CONTACT DONATE Open Menu Close Menu MEET MOLLY PRIORITIES SUPPORTERS VOLUNTEER EVENTS PRESS CONTACT DONATE Explore recent media coverage featuring Molly and her vision for Vermont.
 If you are a member of the press or media and have an inquiry please email us at info@mollyforvt.com .
 Browse coverage by month.
-October 8, 2026 - Manchester Journal David F.
+October 9, 2026 - Rutland Herald Helping farmers October 8, 2026 - Brattleboro Reformer Molly Gray for lieutenant governor October 8, 2026 - Manchester Journal David F.
 Kelley: Molly Gray for Lt.
 Gov.
 October 8, 2026 - Rutland Herald Supporting Gray October 6, 2026 - The Vermont Cynic Democratic candidates rally in support of pro-union constitutional amendment October 6, 2026 - Rutland Herald For Gray October 5, 2026 - Vermont Public Vermont Public's 2026 lieutenant governor debate October 4, 2026 - Caledonian Record Molly Gray Will Tackle Affordability - Howard Dean October 2, 2026 - Colchester Sun Q&A with 2026 Lieutenant Governor candidates John Rodgers and Molly Gray October 1, 2026 - NBC 5 R﻿﻿﻿ace for Vermont’s lieutenant governor gains momentum about one month from the general election October September 29, 2026 - Saint Albans Messenger Q&A with 2026 Lieutenant Governor candidates John Rodgers and Molly Gray September 28, 2026 - Yahoo!

@@ -16,7 +16,7 @@ That experience showed me the heartbreaking truth: it’s simply unfair how the 
 I then spent three years as a public educator in our schools and saw firsthand how the voucher program is hurting public schools by diverting vital funding.
 I want to be the voice against all discrimination—against race, sex, gender, the poor, and the marginalized.
 We have to fight together, ALL of us, to secure true economic equality and civil rights for every person in District 8.
-A better life isn't a privilege—it's the standard we must demand." media Endorsements MY PLATFORM AND GOALS EDUCATION Stop Vouchers & Fund Public Schools: Reject all school voucher or "Education Savings Account" schemes that divert taxpayer money from public schools.
+A better life isn't a privilege—it's the standard we must demand." media MY PLATFORM AND GOALS EDUCATION Stop Vouchers & Fund Public Schools: Reject all school voucher or "Education Savings Account" schemes that divert taxpayer money from public schools.
 Increase Teacher Pay and Retention: Push for significant state funding increases specifically for teachers and support staff.
 Expand Career & Technical Education (CTE): Mandate and fully fund the expansion of CTE programs.
 Universal Free School Meals: Champion state funding to ensure free breakfast and lunch for all students, regardless of income.
@@ -41,7 +41,7 @@ Fair Housing Protections: Support strengthening state-level fair housing laws to
 Indigenous peoples' causes, issues, and rights.
 Other Priorities Smart Economics: Legalizing and taxing gaming and cannabis to fund education and reduce property taxes.
 Justice Reform: Ending low-level marijuana arrests to let police focus on violent crime.
-Humane Texas: Strengthening animal cruelty laws and promoting responsible ownership through accessible spay/neuter initiatives. ​ © # Chavez For Texas Pol.
+Humane Texas: Strengthening animal cruelty laws and promoting responsible ownership through accessible spay/neuter initiatives. ​ Endorsements © # Chavez For Texas Pol.
 Adv. paid for by Jeff Chavez.Privacy Policy: We respect your privacy.
 Personal information is used for campaign updates only and will never be sold or shared.
 Mobile numbers are not shared for marketing purposes.

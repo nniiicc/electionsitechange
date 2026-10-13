@@ -12,11 +12,5 @@ I would be honored to be yours. ✓ Battle Tested ✓ Conservative Values ✓ Lo
 Conservative Values James has a proven track record of standing up for what matters, such as opposing the trans agenda in our schools, fighting for election integrity, working to secure the border, and defeating the Biden Administration’s COVID-19 vaccine mandate in Arizona.
 Local Roots James is a sixth-generation Arizonan.
 His third-great grandfather, Ross Ransom Rogers, was a member of the first pioneer company that settled the East Valley in 1877.
-Sign Up for Updates Thank you for your response. ✨ Name (required) Cell Phone Numer ​ ​ Email By providing your telephone number and checking this box, you consent to receive calls and text messages.
-Msg & data rates may apply.
-Msg frequency may vary.
-Messaging may include requests for donation.
-Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info.
-Submit Δ © Copyright #.
+Sign Up for Updates © Copyright #.
 James Rogers for Arizona Paid for & Authorized by James Rogers for Arizona .

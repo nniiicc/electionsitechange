@@ -1,7 +1,7 @@
 Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account PRINCIPLES AND ISSUES Individual Rights - Respect individual rights, autonomy, liberty, the right to own and control property, right to bear arms.
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account PRINCIPLES AND ISSUES Individual Rights - Respect individual rights, autonomy, liberty, the right to own and control property, right to bear arms.
 Public Dialogue - Uphold transparency, oversight, public participation, freedom of speech, and accountability in the governance process and policy.
 Separation of Powers : The separation of powers is essential to protecting individual liberty, preventing the concentration of government authority, and ensuring each branch remains accountable within its constitutional role.
 Data Privacy : Defend and protect data privacy.
@@ -52,5 +52,5 @@ Our priority.
 Your family.
 My family.
 Our priority.
-Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+HD61 Updates Volunteer Contact Privacy Policy Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
 Powered by Thank YOU for the honor and privilege to serve!

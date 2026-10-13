@@ -12,4 +12,4 @@ In the State Assembly, he’ll be a leader to make sure middle and working class
 Education and Jobs Our schools, students, and classroom teachers need help to bounce back from the pandemic.
 Josh will fight to get more funding to teachers’ universities like Long Beach to make sure we have qualified, highly trained teachers.
 And he’ll bring together our schools, colleges, universities, and local employers to ensure we are giving students the skills they need for the jobs of tomorrow.
-Follow Josh Join the Team Email ZIP Code Mobile Number About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District
+Follow Josh Join the Team Email ZIP Code Mobile Number Submit About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District

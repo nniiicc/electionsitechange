@@ -1,4 +1,4 @@
-Ir al contenido Meet Yass Noticias Media Contact Shop Contribute Endorsements proudly endorsed by: Involúcrate Pagado por Yassamin Ansari for Congress.
+Ir al contenido Meet Yass Noticias Endorsements Contact Shop Contribute Endorsements proudly endorsed by: Involúcrate Pagado por Yassamin Ansari for Congress.
 Contribute by check: Yassamin Ansari for Congress P.O.
 Box 13524, Phoenix, AZ 85002 © Copyright #.
 All rights reserved.

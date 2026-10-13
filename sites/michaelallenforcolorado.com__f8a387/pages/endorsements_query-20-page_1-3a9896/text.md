@@ -22,9 +22,9 @@ Michael Allen has the strength, the record, and the message to win this race and
 The Attorney General is Colorado’s chief legal officer and top law enforcement official.
 Michael has the extensive legal experience necessary to handle the challenging issues facing the state.
 He will be a vigorous champion for the people of Colorado.
-I am proud to endorse Michael Allen for Colorado Attorney General.” Former Colorado Attorney General John Suthers “Michael Allen has the experience, the judgment, and the backbone to confront rising crime, restore confidence in the rule of law, and put the Attorney General’s office back to work for the people of this state.” Colorado Congressman Jeff Crank “Michael Allen has delivered real results for families in El Paso County by standing strong for law and order and holding criminals accountable.
-As a Navy veteran, he understands service, faith, and the responsibility we have to protect our communities.
-Michael is a proven conservative, a strong defender of the Second Amendment, and the only District Attorney in Colorado with an Election Integrity Unit.
-He’s exactly the kind of leader we need as our next Attorney General.” 1 2 3 … 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+I am proud to endorse Michael Allen for Colorado Attorney General.” Former Colorado Attorney General John Suthers “Michael Allen has the experience, the judgment, and the backbone to confront rising crime, restore confidence in the rule of law, and put the Attorney General’s office back to work for the people of this state.” Former Colorado Deputy Attorney General Tom Raynes “The office of Attorney General requires a lawyer who has regularly handled complex trials as the lead attorney.
+It relies upon an individual with a significant track record of navigating highly charged legal matters in the public forum with the highest level of integrity and professional ethics.
+Only Michael Allen brings these qualities to the election for Attorney General.
+I emphatically endorse Michael Allen as he is far and away the best and most qualified choice to be Colorado’s next Attorney General.” 1 2 3 … 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

@@ -3,6 +3,6 @@ Tuesday, November 3, 2026 12:01 AM 7:00 PM Google Calendar ICS If you want to vo
 Even if you do not return your mail ballot you may still vote in person.
 The deadline to vote in-person is 7:00 PM on Election Day.
 Go to https://www.coloradosos.gov/pubs/elections/VIP.html to find Drop Boxes or Voting locations near you!
-Previous Previous October 8 Coffee Hour for HD9 Next Next November 5 HD9 Coffee Hour Paid for by Monica for Colorado.
+Previous Previous October 22 NCJW Colorado Candidates' Fair and Forum Next Next November 5 HD9 Coffee Hour Paid for by Monica for Colorado.
 Registered Agent Monica VanBuskirk.
 Privacy policy

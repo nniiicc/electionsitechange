@@ -1,9 +1,10 @@
 {
  "description": "Read official press releases, campaign announcements, and news updates from Bruce Blakeman's campaign for New York State Governor.",
  "final_url": "https://www.blakemanfornewyork.com/press",
- "fingerprint": "e5e2f228b110a70c1258d7171e3b041d05e4efce",
+ "fingerprint": "0c80ee5435738709ce46c45fed0259bfa95252c0",
  "format": 3,
  "paid_for_by": "Paid for by Blakeman for new york Stop Hochul",
+ "rendered": false,
  "title": "Press Releases & Media Updates | Bruce Blakeman for NY",
  "years_mentioned": [
   "2024",

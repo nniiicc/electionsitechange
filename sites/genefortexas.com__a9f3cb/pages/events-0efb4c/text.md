@@ -3,7 +3,7 @@ Find a time that works and sign up in seconds.
 All types Canvass Phone bank Town hall Any place In person Virtual List Calendar Map Phone bank Wed, Oct 14 · 6-7:30PM ↻ Weekly series Phone Bank for Gene Wu Virtual 5 left RSVP Canvass Sat, Oct 17 · 9:00am-11:30am ↻ Weekly series Block Walk for Gene Wu Campaign HQ 6 left RSVP Town hall Sun, Oct 18 · 7:00 PM – 8:00 PM ↻ Weekly series AAPI Town Hall with Rep.
 Gene Wu Virtual Join Rep.
 Gene Wu live on Zoom every Sunday evening — a conversation on the threats facing AAPI communities, what is happening in HD-137 and at the Capitol, and open Q&A.
-27 going · 273 left RSVP Phone bank Wed, Oct 21 · 6-7:30PM ↻ Weekly series Phone Bank for Gene Wu Virtual 5 left RSVP Canvass Sat, Oct 24 · 9:00am-11:30am ↻ Weekly series Block Walk for Gene Wu Campaign HQ 7 left RSVP Town hall Sun, Oct 25 · 7:00 PM – 8:00 PM ↻ Weekly series AAPI Town Hall with Rep.
+28 going · 272 left RSVP Phone bank Wed, Oct 21 · 6-7:30PM ↻ Weekly series Phone Bank for Gene Wu Virtual 5 left RSVP Canvass Sat, Oct 24 · 9:00am-11:30am ↻ Weekly series Block Walk for Gene Wu Campaign HQ 7 left RSVP Town hall Sun, Oct 25 · 7:00 PM – 8:00 PM ↻ Weekly series AAPI Town Hall with Rep.
 Gene Wu Virtual Join Rep.
 Gene Wu live on Zoom every Sunday evening — a conversation on the threats facing AAPI communities, what is happening in HD-137 and at the Capitol, and open Q&A.
 27 going · 273 left RSVP Phone bank Wed, Oct 28 · 6-7:30PM ↻ Weekly series Phone Bank for Gene Wu Virtual 5 left RSVP Canvass Sat, Oct 31 · 9:00am-11:30am ↻ Weekly series Block Walk for Gene Wu Campaign HQ 7 left RSVP Take the next step Ready to do more?

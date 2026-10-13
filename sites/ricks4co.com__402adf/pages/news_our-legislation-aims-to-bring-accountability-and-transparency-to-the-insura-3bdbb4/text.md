@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker June 23, 2021 Our legislation aims to bring accountability and transparency to the insurance industry Morgan Anker June 23, 2021 So many of us are working to eliminate injustice in our world.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker June 23, 2021 Our legislation aims to bring accountability and transparency to the insurance industry Morgan Anker June 23, 2021 So many of us are working to eliminate injustice in our world.
 It certainly seems fair to ask insurance companies to do their part.
 Sen.
 Janet Buckner , Rep.

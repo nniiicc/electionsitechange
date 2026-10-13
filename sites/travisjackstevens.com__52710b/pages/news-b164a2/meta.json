@@ -1,13 +1,12 @@
 {
  "description": "Campaign news, policy updates, and daily letters from the trail. Travis Jack Stevens — declared write-in candidate for U.S. Senate in Delaware 2026. No Super PAC money.",
  "final_url": "https://travisjackstevens.com/news",
- "fingerprint": "35641fe5067d6e52fa9d123ca3dcf7c5edfef743",
+ "fingerprint": "8eeba752bf25c9ca11cef42e17625ad67490d183",
  "format": 3,
  "paid_for_by": "Paid for by Travis Jack Stevens for U",
- "rendered": true,
+ "rendered": false,
  "title": "News & Updates — Travis Jack Stevens for U.S. Senate | Delaware 2026",
  "years_mentioned": [
-  "2026",
-  "2027"
+  "2026"
  ]
 }

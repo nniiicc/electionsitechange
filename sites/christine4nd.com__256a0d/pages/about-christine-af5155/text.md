@@ -1,4 +1,4 @@
-Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Expect More… Attention Thank you for taking the time to learn about me and our campaign.
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Expect More… Attention Thank you for taking the time to learn about me and our campaign.
 Over the next few months, I look forward to meeting you, the voters of District 11.
 I would like to hear what is important to you and your family, what changes you would like to see in the District and/or State, and perhaps most importantly, how I can best represent you if you choose me as your senator.
 Please consider signing up to volunteer, to place a campaign sign in your yard, or extending an invitation to a neighborhood event so we can learn more about one another.
@@ -18,6 +18,6 @@ Expect More… Problem-Solving Neither governments nor agencies make good parent
 Whether pain and suffering stem from national, inner-city, local, or family circumstances, be confident that I am committed to enabling people to flourish.
 I will challenge the state and local governments to empower people to move forward with their lives rather than encourage a life centered on government dependency and/or encouraging a life of “victimhood.” Please share your ideas with me, because I seek to be your senator and represent you.
 Sign up for emails to keep up with the campaign, and if possible, please make a small donation to the campaign.
-VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
+NEWS DONATE VOLUNTEER VOTING INFO YARD SIGNS Get Updates Thank you for signing up!
 News League of Women Voters Forum Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

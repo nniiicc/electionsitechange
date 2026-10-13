@@ -6,6 +6,11 @@ This is an opportunity to come together, lend a helping hand, and support the im
 We’re looking forward to spending the day serving alongside our neighbors and making a positive difference!
 RSVP Pasta Dinner Fundraiser Date: 10/23 Location: 3303 W Columbus Ave, Tampa, FL 33607, USA Join us for an evening of enjoying Italian cuisine while helping elect Luis Salazar to the Florida State House!
 Enjoy a delicious night out, connect with friends, and support a grassroots campaign fighting for Florida’s future.
+RSVP Watch Party Date: 11/03 Location: 3303 W Columbus Ave, Tampa, FL 33607, USA Join us for Election Night!
+Election Day is November 3rd, and we’re gathering at 5:00PM for a watch party to follow the results, connect with friends and neighbors, and share the evening together!
+Our community has come together and worked hard to get out the vote for the General Election, and it’s almost that time to watch our hard work unfold as the results come in!
+Come spend election night with us as results come in from across Florida.
+We look forward to seeing everyone for an evening of community and conversation.
 RSVP Upcoming Events Featuring Luis Salazar Stay up-to-date with Luis Salazar’s latest campaign rallies, community gatherings, and opportunities to connect and learn about his vision for District 64.
 More events coming soon… Date: TBD Location: TBD More info coming soon… Coming soon Join Luis Salazar’s Campaign Events Today Discover upcoming rallies and community gatherings to connect with Luis Salazar and support his vision for District 64.
 Learn how to get involved and make a difference.

@@ -1,4 +1,4 @@
-Justin Middaugh Videos Events Issues About Volunteer Donate 🎬 Latest Videos See All Videos → ‹ ▶ Episode 58 ▶ Episode 57 ▶ Episode 56 ▶ Episode 55 ▶ Episode 54 ▶ Episode 53 ▶ Episode 52 ▶ Episode 51 ▶ Episode 47 ▶ Episode 46 ▶ Episode 45 ▶ Episode 44 › ✕ District 44A · Minnesota House Tired of career politicians destroying Minnesota?
+Justin Middaugh Videos Events Issues About Volunteer Donate 🎬 Latest Videos See All Videos → ‹ ▶ Episode 63 ▶ Episode 62 ▶ Episode 61 ▶ Episode 60 ▶ Episode 59 ▶ Episode 58 ▶ Episode 57 ▶ Episode 56 ▶ Episode 55 ▶ Episode 54 ▶ Episode 53 ▶ Episode 52 ▶ Episode 51 ▶ Episode 47 ▶ Episode 46 ▶ Episode 45 ▶ Episode 44 › ✕ District 44A · Minnesota House Tired of career politicians destroying Minnesota?
 So is Justin.
 It's time to fight back for Maplewood and Little Canada. ♥ Donate Now Volunteer → District Maplewood and Little Canada — two great communities that deserve a fighter in St.
 Paul, not another career politician.
@@ -27,4 +27,6 @@ Sign Up to Volunteer First Name Last Name Email Phone I want to help with… Kno
 Sign Me Up! ✅ You're on the team!
 Thanks for signing up.
 Justin's team will be in touch with next steps.
-Support the Campaign Help Justin Win Your contribution fuels door-knocking, community outreach, and the organizing it takes to win District 44A. $25 $50 $75 $100 $250 $500 ♥ Donate $75 #ago Paid for by Campaign Fund of Justin Middaugh · 1794 Mcknight Rd N, Maplewood, MN 55109 · Contributions are not tax-deductible · +16122422211 Justin Middaugh for House 44A Paid for by Campaign Fund of Justin Middaugh 1794 Mcknight Rd N Maplewood, MN 55109 · +16122422211 Issues About Volunteer Donate Facebook TikTok YouTube X
+Support the Campaign Help Justin Win Your contribution fuels door-knocking, community outreach, and the organizing it takes to win District 44A. $25 $50 $75 $100 $250 $500 ♥ Donate $75 #ago Paid for by Campaign Fund of Justin Middaugh · 1794 Mcknight Rd N, Maplewood, MN 55109 · Contributions are not tax-deductible · +16122422211 Justin Middaugh for House 44A Paid for by Campaign Fund of Justin Middaugh 1794 Mcknight Rd N Maplewood, MN 55109 · +16122422211 Issues About Volunteer Donate Facebook TikTok YouTube X ✕ ❤️ Help Us Get Our Message Out!
+We need to raise our advertising budget to reach every voter in District 44A before November 3rd.
+Even $5.00 makes a difference! $# raised Goal: $# ❤️ Donate Now Maybe Later Thank you for supporting Justin!

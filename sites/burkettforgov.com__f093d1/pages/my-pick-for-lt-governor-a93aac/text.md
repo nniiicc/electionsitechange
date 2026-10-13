@@ -22,4 +22,4 @@ A strong advocate for education, Ruben helped establish a local education commit
 His extensive local involvement also includes serving on Parks and Recreation committees, the Surfside Business Association, and working with public information programs focused on flood education and safety.
 Additionally, guided by 13 years of service as a Cub Scout and Boy Scout leader, Ruben operates with a strict code of being helpful, trustworthy, and courteous.
 Copyright © # Burkett for FL Governor - All Rights Reserved.
-Powered by More on where I stand Privacy Policy Terms and Conditions Both Parties Want to Crush Us by Pretending We Don't Exist "First they ignore you, then they laugh at you, then they fight you, then you win" Ghandi
+Powered by More on where I stand Privacy Policy Terms and Conditions Not Dead Yet WATCH VIDEO

@@ -11,4 +11,4 @@ Keeping those industries strong requires workers, housing, reliable and affordab
 Fraud & Accountability Minnesotans should be able to trust that their tax dollars are going where lawmakers said they would go.
 Mark has made stronger oversight, fraud prevention and accountability in state government a priority, including pushing for reforms designed to identify problems earlier and hold agencies accountable.
 Let's build a stronger Minnesota, together Contact Us!
-Prepared and Paid for by Mark Johnson for State Senate Copyright ©#
+Prepared and Paid for by Mark Johnson for State Senate Mobile Terms and Conditions and Privacy Policy Copyright ©#

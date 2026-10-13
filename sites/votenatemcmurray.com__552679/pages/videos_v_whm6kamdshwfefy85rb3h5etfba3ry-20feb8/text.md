@@ -26,5 +26,5 @@ We do a quick review because honestly… what is even happening anymore?
 WATCH LIVE OR CATCH THE FULL EPISODE: Search:“Nate Cast with Nate McMurray” Available on YouTube, Spotify, and Apple Podcasts.
 Previous PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Next NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK WE ARE AT A CROSSROADS IN WESTERN NEW YORK Volunteer and Sign Up for Updates!
+You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!

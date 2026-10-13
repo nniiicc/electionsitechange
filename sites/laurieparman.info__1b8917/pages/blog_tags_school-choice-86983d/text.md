@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform SCHOOL CHOICE.
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA SCHOOL CHOICE.
 OUR CHOICE.
 SCHOOL CHOICE.
 OUR CHOICE.

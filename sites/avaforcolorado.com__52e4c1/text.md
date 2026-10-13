@@ -1,4 +1,4 @@
-Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page for District 14 I’m not waiting for change, I’m stepping up to lead it.
+Home Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page for District 14 I’m not waiting for change, I’m stepping up to lead it.
 I was born and raised in Colorado Springs, and I’ve seen firsthand how much this state has changed.
 For quite some time now, young adults haven’t been able to move out of their parents’ homes because rent is simply too expensive.
 Those who are fortunate enough to afford rent struggle to take the next step toward homeownership because entry-level homes simply aren’t available.
@@ -43,20 +43,32 @@ Since then, I’ve worked to understand the issues, listen to people on all side
 Colorado families deserve a state where they can afford to live, work, raise a family, and build a future.
 I’m not waiting for change.
 I’m leading it.
-Donate I will work hard for the people of House District 14.
-I bring experience, integrity, and a proven record grounded in honesty, accountability and service to our community.
+Donate I’m here for the people, not the politics.
+I’ll work with anyone who is serious about making Colorado better, regardless of the letter behind their name.
+What matters isn’t party affiliation, it’s delivering real results for the people we serve.
 Ava A vision for colorado Ava Flanell is focused on making Colorado more affordable and safer for the people who call it home.
 She is committed to delivering tax relief, defending TABOR, and restoring accountability in government while standing up for public safety, veterans, parental rights, small businesses, and our constitutional freedoms.
-Learn More DONATE Key Issues Affordability & Fiscal Responsibility – Tax and regulatory relief, defending TABOR, opposing hidden fees, and restoring accountability through disciplined spending.
-Public Safety – Stronger penalties for crime and repeat offenders.
-Education Freedom & Parental Rights – School choice, charter schools, homeschooling, full transparency, and keeping politics out of classrooms.
-Efficient, Responsible Government – Eliminating waste, streamlining bureaucracy, and returning power to citizens rather than career politicians.
-Second Amendment Rights – Defending the constitutional right that protects all other freedoms.
-Defending Life & the Vulnerable – Supporting affordable adoption, seniors, children, and those most in need of care and protection.
-Pro-Business Economy – Standing with small businesses by cutting red tape and overregulation.
-Military & Veterans – Expanding healthcare, mental-health support, job opportunities, and smoother transitions to civilian life.
+Learn More DONATE Key Issues Affordability – Reduce taxes, fees, and unnecessary regulations that are driving up costs for consumers while tackling the rising costs of housing, utilities, healthcare, and everyday essentials.
+Public Safety – Hold violent and repeat offenders accountable while reducing recidivism through effective rehabilitation, skills training, and programs that help people successfully reintegrate into society.
+Keep our communities safe while creating pathways for those willing to turn their lives around.
+Government Accountability & Fiscal Responsibility – Demand transparency, strengthen audits and sunset reviews, and protect TABOR.
+Eliminate wasteful spending, streamline bureaucracy, and ensure taxpayer dollars are used responsibly.
+Government should be accountable to the people, not career politicians, and power should remain in the hands of Colorado citizens.
+Education Freedom & Parental Rights – Empower parents to choose the educational path that best meets their children’s needs, whether through traditional public schools, charter schools, school choice programs, or homeschooling.
+Promote transparency, protect parental rights, and keep political agendas out of the classroom so students can focus on learning.
+Smart Growth & Infrastructure – Support responsible development that keeps pace with population growth while ensuring roads, utilities, and public services can meet demand.
+Community voices matter, and residents deserve a seat at the table when decisions affect their neighborhoods.
+Respect local control, protect our communities’ character, and preserve our quality of life.
+Protecting Constitutional Rights – Defend the constitutional rights and freedoms guaranteed to every Coloradan.
+We must protect individual liberty and ensure government respects the rights of the people it serves.
+Defending Life & Protecting the Vulnerable – We have a moral responsibility to care for and protect those who need us most, including children, senior citizens, and individuals with disabilities.
+Everyone deserves dignity, compassion, and the opportunity to live a safe and fulfilling life.
+Pro-Business Economy – Support small businesses by reducing unnecessary regulations, cutting red tape, and removing barriers to growth.
+Foster an environment where entrepreneurs can succeed, create jobs, and strengthen Colorado’s local economies.
+Lowering Healthcare Costs – Expanding access to affordable, quality healthcare by increasing competition, reducing unnecessary regulations, improving price transparency, and bridging the gap between Medicaid and private insurance so more Coloradans can access coverage that fits their needs and budget.
+Military & Veterans – Expanding access to mental-health services, including PTSD and suicide-prevention resources, increasing access to community-based care, and supporting a smoother transition from military service to civilian life.
 Election Integrity – Ensuring secure, transparent elections where every legal vote counts.
-Protecting Natural Resources – Responsible stewardship of water, land, and agriculture while keeping energy affordable and reliable.
+Protecting Natural Resources – Preserving Colorado’s natural beauty for future generations through responsible stewardship of our water, land, and agricultural resources while ensuring energy remains affordable, reliable, and accessible.
 Learn More Awards Named Woman of the Year by Gun Owners of America – Empowered 2A Recipient of the Defender of Liberty Award from the Second Amendment Foundation Presented with the Charlie Kirk Award for Defender of Freedom by CSSA Common Sense in the Courtroom Award by CCJL Bridging the Gap Award by Healthier CO Adult Education Champion Award by CAE Sign up for Ava’s Newsletter Stay informed and engaged as we work to put Colorado first.
 Success!
 First Name Last Name Email Subscribe Facebook Instagram Facebook Instagram Paid for by Ava for Colorado, Registered Agent Ava Flanell.

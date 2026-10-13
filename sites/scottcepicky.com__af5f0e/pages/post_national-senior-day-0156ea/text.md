@@ -4,4 +4,5 @@ Please give a smile and a thank you to seniors, they have a lifetime of knowledg
 I appreciate all the commitment and sacrifice our Seniors have made to our Country making it as great as it is today.
 Please give a smile and a thank you to seniors, they have a lifetime of knowledge and wisdom to share.
 Recent Posts See All A fellow Big10 football player in the House today Cepicky proposes changes to public education Rep Cepicky Receives Award for Conservative Excellence!
-Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

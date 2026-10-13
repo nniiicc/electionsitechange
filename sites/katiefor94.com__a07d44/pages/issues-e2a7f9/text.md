@@ -27,6 +27,8 @@ Regulate AI data centers to pay for their own electricity and water, and be acco
 Lift the minimum wage.
 Local economies need the ability to grow and community members deserve the chance to voice input.
 We need to change the state law, SB 840, that removes local control to ensure that people here at home, not politicians in Austin, make decisions about our communities.
+Katie’s appearance on the Greater Arlington Chamber of Commerce’s 2026 Texas State Legislature Candidate Forum.
+Click here to see the full video.
 Katie’s campaign is powered by people like you who believe in a future that puts our community first.
 Every dollar you chip in goes directly toward the tools we need to win: reaching more voters, printing materials, and fueling our grassroots organizing efforts across the district. $10 $25 $50 $100 $250 OTHER AMOUNT Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

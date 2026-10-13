@@ -11,7 +11,7 @@ Mix warm water with laundry detergent and clean the bag with terry washcloth or 
 Let the bag air dry.
 Weight N/A Add a Review Cancel reply Your email address will not be published.
 Required fields are marked * Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
-Type in the text displayed above Related products Rock Creek Coffee Blend (Medium Roast) $ 19.54 Love Where You Live Baseball Cap – Stylish Low Profile Hat for Community Pride $ 17.74 Spiral Notebook – Ruled Line $ 10.06 Love Where You Live Unisex T-Shirt – Heart Design $ 15.51 – $ 22.08 Price range: $15.51 through $22.08 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+Type in the text displayed above Related products Mug 15oz $ 9.24 Spiral Notebook – Ruled Line $ 10.36 Hooded Sweatshirt $ 26.98 – $ 31.86 Price range: $26.98 through $31.86 Unisex Short Sleeve Tee $ 22.61 – $ 29.31 Price range: $22.61 through $29.31 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
 All rights reserved.
 Services by burnett media group .
 Hosting by Hostdoodle .

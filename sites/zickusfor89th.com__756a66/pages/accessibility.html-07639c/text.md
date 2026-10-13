@@ -7,4 +7,4 @@ Review status On September 9, 2026, the nine public pages were reviewed using au
 Changes addressed navigation, focus, photo captions, map descriptions and page structure.
 Automated and browser checks do not verify every WCAG requirement.
 Independent testing with screen-reader users remains to be completed; this statement is not a claim of full conformance.
-Last reviewed: September 9, 2026 Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab)
+Last reviewed: September 9, 2026 Sources & corrections Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab) Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401

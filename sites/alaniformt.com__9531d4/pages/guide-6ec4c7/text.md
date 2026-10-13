@@ -1,13 +1,13 @@
 2026 Montana U.S.
-Senate · Voter Guide Proposition by proposition Where all four candidates — Alani Bankhead , Kurt Alme, Seth Bodnar, and Kyle Austin — stand on 117 specific propositions , side by side.
+Senate · Voter Guide Proposition by proposition Where all four candidates — Alani Bankhead , Kurt Alme, Seth Bodnar, and Kyle Austin — stand on 118 specific propositions , side by side.
 Every position is located and sourced the same way, from the candidates' own words and public filings.
 A gap means no position was found, not that none exists.
-Current as of October 7, 2026.
-Who's on the record — and who isn't Across 117 propositions · current as of October 7, 2026 · every candidate's positions located and sourced the same way Kurt Alme Republican 32 Alani Bankhead Democrat 113 Seth Bodnar Independent 61 Kyle Austin Libertarian 31 This chart counts one thing: how many of these 117 issues each candidate has taken a clear, sourced position on.
+Current as of October 12, 2026.
+Who's on the record — and who isn't Across 118 propositions · current as of October 12, 2026 · every candidate's positions located and sourced the same way Kurt Alme Republican 36 Alani Bankhead Democrat 114 Seth Bodnar Independent 64 Kyle Austin Libertarian 35 This chart counts one thing: how many of these 118 issues each candidate has taken a clear, sourced position on.
 It doesn’t say who is right.
-Alani has the most detail: 95 of her 113 positions carry a specific plan, and the other three candidates have 30 plans between them.
-She has a position on 113 of the 117 issues.
-The next closest has 61.
+Alani has the most detail: 95 of her 114 positions carry a specific plan, and the other three candidates have 31 plans between them.
+She has a position on 114 of the 118 issues.
+The next closest has 64.
 A short bar means a candidate hasn’t said, and it doesn’t mean they disagree.
 Some of these issues only Alani has addressed so far, and every candidate’s gaps are marked the same way.
 Read the rows and decide for yourself.
@@ -17,11 +17,15 @@ Alani Bankhead Dem Supports Plan Backs universal coverage; would block the work-
 Seth Bodnar Ind Supports Stance Explicitly: will defend Medicaid expansion.
 Says the bill drops 30,000 Montanans and costs rural hospitals $5B.
 Kyle Austin Lib Mixed Plan Warns recent Medicaid changes could drop eligible Montanans, but supports work requirements for benefits.
-Guarantee universal coverage through public financing Sources: 2·5·4·13 Kurt Alme Rep Opposes Stance Opposes subsidizing insurers; favors patient choice, competition and market pricing.
-Alani Bankhead Dem Supports Plan Gets to universal coverage in steps: finish the ACA, then Medicaid for all, then Medicare for all, on a TRICARE-style model through your own doctor.
+Guarantee universal coverage through public financing Sources: 2·5·4·13·43·47 Kurt Alme Rep Opposes Stance Would send “healthcare dollars to patients to shop for policies instead of subsidizing insurance companies” (MTFP, Oct.
+7); favors price transparency and competition, and says more tax dollars “have just subsidized big insurance companies and big pharma.” Alani Bankhead Dem Supports Plan Gets to universal coverage in steps: finish the ACA, then Medicaid for all, then Medicare for all, on a TRICARE-style model through your own doctor.
 Each step is independently scored, and the next step doesn't cancel anyone's coverage.
-Seth Bodnar Ind Mixed Stance Backs “universal coverage with still some competition” but worries about single payer, and answered “no” to Medicare for All.
-Pairs it with prevention, price transparency and moving “toward expanding coverage.” Kyle Austin Lib Opposes Stance Says costs rise whenever government gets involved, including through insurance subsidies.
+Seth Bodnar Ind Mixed Stance Calls for a “universal coverage option for every American while maintaining choice and competition” (debate, Oct.
+11) but worries about single payer, and answered “no” to Medicare for All.
+Pairs it with prevention, price transparency and moving “toward expanding coverage.” Kyle Austin Lib Mixed Plan His “Health Care 2.0” plan would “consolidate it all under one program” with “one set of rules” (debate, Oct.
+11): Medicare, Medicaid, the VA, TRICARE and other federal coverage folded into a congressionally chartered nonprofit, paid for by redirecting existing federal health spending, with a standard plan for people who can’t afford private coverage (MTFP, Oct.
+7).
+No guarantee of coverage for everyone, and he has said costs rise whenever government gets involved.
 Restore the expired ACA premium tax credits Sources: 2·16 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Restore the expired ACA premium tax credits that doubled people's premiums and make the help permanent, at about $350 billion over 10 years by CBO's estimate, roughly $35 billion a year.
 Seth Bodnar Ind Supports Stance Restore the expired ACA premium tax credits.
@@ -53,8 +57,9 @@ Mandatory hospital price transparency Sources: 5·19·40 Kurt Alme Rep Supports 
 Alani Bankhead Dem Supports Plan Make hospitals and insurers post real prices before you’re treated: write the price-transparency rules into law with penalties that bite, and pass the Lower Costs, More Transparency Act and the Health Care PRICE Transparency Act.
 Seth Bodnar Ind Supports Plan “Making prices honest”: the posting rules hospitals and insurers already face “need teeth,” and the surprise-billing system has become a windfall for hospitals and insurers and needs fixing.
 Kyle Austin Lib Not found No position located.
-Health care · Rural access and workforce Expand telehealth to close the rural access gap Sources: 5 Kurt Alme Rep Supports Stance Names telehealth expansion as a way to ease hospital burden.
-Alani Bankhead Dem Supports Plan Make telehealth permanent so distance isn’t destiny, back the telehealth licensure compacts so rural and reservation Montanans can reach the right provider, and grow rural providers with NHSC loan forgiveness.
+Health care · Rural access and workforce Expand telehealth to close the rural access gap Sources: 2·5 Kurt Alme Rep Supports Stance Names telehealth expansion as a way to ease hospital burden.
+Alani Bankhead Dem Supports Plan Make telehealth permanent: Medicare’s telehealth coverage now runs only through the end of 2027, so pass the bipartisan CONNECT for Health Act.
+Back the telehealth licensure compacts so rural and reservation Montanans can reach the right provider, and grow rural providers with NHSC loan forgiveness.
 Seth Bodnar Ind Supports Stance Supports telehealth plus rural workforce incentives.
 Kyle Austin Lib Not found No position located.
 Grow the rural doctor and provider pipeline Sources: 2·5·4 Kurt Alme Rep Supports Stance Says Rural Health Transformation Program funds “can be invested to help recruit, train, and retain doctors, nurses, and other health care professionals.” Alani Bankhead Dem Supports Plan Loan forgiveness for providers who serve rural and tribal Montana, and take on the medical-education costs that keep the pipeline too small.
@@ -79,10 +84,10 @@ Make home- and community-based care a guaranteed Medicaid benefit Sources: 2 Kur
 Alani Bankhead Dem Supports Plan Grow federal HCBS funding to clear Montana's 2,100-person waiver waitlist and make home- and community-based services a guaranteed part of Medicaid, not the first thing cut.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Housing and the cost of living Raise the capital-gains exclusion on a home sale from $250k to $500k Sources: 2·5 Kurt Alme Rep Not found No position located.
+Housing and the cost of living Raise the capital-gains exclusion on a home sale from $250k to $500k Sources: 2·5·44 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Would raise the home-sale capital-gains exclusion from $250k to $500k.
 The 1990s-era cap keeps owners from selling, and lifting it adds inventory and eases prices.
-Seth Bodnar Ind Not found No position located.
+Seth Bodnar Ind Supports Stance Platform: “Raising the capital gains exemption on home sales to encourage longtime owners to sell.” Names no amount.
 Kyle Austin Lib Not found No position located.
 Tax breaks for builders whose portfolio is at least 30% affordable housing Sources: 5 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Tax breaks for builders who make at least 30% of their units genuinely affordable, paired with the HOPE for Homeownership Act so Wall Street funds can’t buy up the homes that get built.
@@ -92,9 +97,9 @@ Bar private equity firms from bulk-buying single-family homes Sources: 2·5 Kurt
 Alani Bankhead Dem Supports Plan Back the HOPE for Homeownership Act: a 15% tax (at least $10,000) on every single-family home a hedge fund buys, no more tax breaks for those homes, and $5,000 a home each year until the funds sell back to families.
 Seth Bodnar Ind Supports Plan Would put rules in place to prevent it.
 Kyle Austin Lib Not found No position located.
-Cut construction red tape to increase housing supply Sources: 5·40 Kurt Alme Rep Supports Stance Says overregulation created the shortage and government must get out of the way.
+Cut construction red tape to increase housing supply Sources: 5·40·43·44 Kurt Alme Rep Supports Stance Says overregulation created the shortage and government must get out of the way.
 Alani Bankhead Dem Supports Plan Cut the delays that keep homes from getting built: speed up federal reviews and permits without gutting clean-water protections, and pass the bipartisan ROAD to Housing Act.
-Seth Bodnar Ind Supports Stance Cut red tape, use tax-code incentives, fix supply chains.
+Seth Bodnar Ind Supports Stance Cut “the red tape slowing new housing construction” and back “zoning and code reform that expands supply” (platform); at the debate, “we need zoning and code reform to build more homes,” plus infrastructure investment to unlock supply.
 Kyle Austin Lib Supports Stance Reduce construction barriers; zero tariffs on materials; expand logging and mills.
 Federal down-payment help for first-time home buyers Sources: 2·23 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Back the Downpayment Toward Equity Act (up to $# for first-generation buyers), the First-Time Homebuyer Tax Credit Act (up to $#) and the Homeownership Promise Act (a 5-to-1 match on savings, up to $#).
@@ -111,10 +116,15 @@ Protect seniors from being taxed out of long-held homes Sources: 2 Kurt Alme Rep
 Alani Bankhead Dem Supports Stance Montanans who spent a lifetime working shouldn’t be taxed out of the homes where they raised their families: partner with the state on property-tax relief for Montanans living on Social Security.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Protect Social Security and shore up its solvency Sources: 2·3 Kurt Alme Rep Not found No position located.
+Protect Social Security and shore up its solvency Sources: 2·3·43·37·44 Kurt Alme Rep Partly Stance “I will never support a cut in benefits for seniors” (debate, Oct.
+11).
+Backs the 2025 tax law’s Social Security deduction and would start with “what I know best,” stopping fraud.
+No solvency plan beyond fraud recovery.
 Alani Bankhead Dem Supports Plan No benefit cuts and no privatization; protect it from the automatic cut coming in late 2032, lift the wage cap so the wealthiest pay in on all their income, end the federal tax on benefits, and stop docking caregivers' pay from a senior's check.
-Seth Bodnar Ind Supports Stance Would lift the Social Security payroll-tax cap so the highest earners pay in on all their income, with no benefit cuts.
-Kyle Austin Lib Not found No position located.
+Seth Bodnar Ind Supports Stance Would lift the payroll-tax cap on the highest earners and rule out benefit cuts, including a higher eligibility age.
+At the debate: “we need a fair approach to taxation,” since a $75,000 earner pays on all of their income and a $2 million earner on “less than ten percent.” “You fix that situation.
+You fix Social Security.” Kyle Austin Lib Mixed Stance Would “take care of the people currently on Social Security,” but for future generations proposes “a trust fund where your money goes into your account, your investment … It’s your money, not the government’s money” (debate, Oct.
+11).
 An annual wealth tax on the largest fortunes Sources: 2·16·22·27·33 Kurt Alme Rep Opposes Stance Signed the Taxpayer Protection Pledge to oppose any tax increase; no statement on a wealth tax itself located.
 Alani Bankhead Dem Supports Plan Pass the Ultra-Millionaire Tax Act (S.
 4246): 2 cents on every dollar of net worth over $50 million and 3 cents over $1 billion, leaving 99.85% of households alone; close the carried-interest break and reject top-heavy tax cuts.
@@ -151,24 +161,32 @@ Protect Head Start and restore the expanded Child Tax Credit Sources: 2 Kurt Alm
 Alani Bankhead Dem Supports Plan Protect Head Start and Early Head Start, and bring back an expanded Child Tax Credit so families have real breathing room.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Public lands, and what gets built on them No sale or transfer of public lands, under any circumstance Sources: 2·5·1·8·23 Kurt Alme Rep Mixed Mentioned only Lists “protecting public lands” as a priority; no measures or absolute commitment located.
+Public lands, and what gets built on them No sale or transfer of public lands, under any circumstance Sources: 2·5·1·8·23·43·44 Kurt Alme Rep Partly Stance “I will always fight to keep our public lands in public hands, and I’ll fight against anyone who tries to sell them off” (debate, Oct.
+11).
+Nothing said on transfer to the states.
 Alani Bankhead Dem Supports Plan “No selling of public lands ever.
 No opening up public lands for exploitation ever.” Pass the bipartisan Public Lands in Public Hands Act.
-Seth Bodnar Ind Supports Stance “Oppose any transfer or sale of public lands to private or out-of-state interests,” including voting against any reconciliation bill or budget provision that uses public lands as a bargaining chip.
-Kyle Austin Lib Not found No position located.
+Seth Bodnar Ind Supports Stance Will “oppose any sale or transfer of public land, full stop,” and any budget provision that uses public lands as a bargaining chip.
+At the debate: “We do not need to repeal the roadless rule.” Kyle Austin Lib Partly Stance “Public lands will remain public lands” (debate, Oct.
+11).
+Nothing said on transfer to the states.
 Legal right to corner cross between public parcels Sources: 2 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Stance “I support corner crossing.
 Period.” Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-A temporary moratorium on new large-scale data centers Sources: 2·13·30 Kurt Alme Rep Not found No position located.
+A temporary moratorium on new large-scale data centers Sources: 2·13·30·43 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Back the federal moratorium on the largest AI data centers (the 20-megawatt AI Data Center Moratorium Act, S.
 4214) and the moratoriums Montana communities are pushing: a pause until the studies, the data, and the standards are in place, with a federal right-to-know standard to give it teeth.
-Seth Bodnar Ind Opposes Stance Told the Beer, Buds & Big Sky podcast “no” to a two-year moratorium and called data centers inevitable; favors transparency and cost limits instead.
-Kyle Austin Lib Supports Stance “Until there’s transparency out there, I’m completely against data centers in Montana.” Keep large AI data centers off public lands Sources: 2·6·15 Kurt Alme Rep Not found No position located.
+Seth Bodnar Ind Opposes Stance Told the Beer, Buds & Big Sky podcast “no” to a two-year moratorium.
+Would stop projects one at a time instead: “any AI data center that wants to come into this state and exploit Montana communities” (debate, Oct.
+11), backed by ratepayer protection and a local veto.
+Kyle Austin Lib Mixed Stance On AI data centers: “We’re not stopping it,” but wants safeguards, privacy protection and a “kill switch”; “I don’t want data centers in my backyard in Montana, but I want them in the ocean” (debate, Oct.
+11).
+In September: “Until there’s transparency out there, I’m completely against data centers in Montana.” Keep large AI data centers off public lands Sources: 2·6·15 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Stance Would not allow large AI data centers on public lands.
 Seth Bodnar Ind Mixed Stance His AI Pledge opposes “any AI data center that threatens Montana’s water, our wildlife habitat, or our public land” (a conditional, not a siting ban); no ban on building on public lands, and says a moratorium is likely a county matter.
 Kyle Austin Lib Not found No position located.
-Data center limits are a federal responsibility, not just a county one Sources: 2·6·13·18·23 Kurt Alme Rep Mixed Stance Says "Let the local communities make that decision" but backs federal guardrails: a "big supporter" of the congressional Ratepayer Protection Act, and wants comprehensive power, water, land and jobs guardrails "for every data center company." Alani Bankhead Dem Supports Plan Would set a federal right-to-know standard for data-center siting, cost, and disclosure, not leave it to counties alone.
+Data center limits are a federal responsibility, not just a county one Sources: 2·6·13·18·23·43 Kurt Alme Rep Mixed Stance Says "Let the local communities make that decision" but backs federal guardrails: a "big supporter" of the congressional Ratepayer Protection Act, and wants comprehensive power, water, land and jobs guardrails "for every data center company." At the debate: companies must “guarantee that there’ll be no electricity increases on Montana families,” and even then “need to work with local communities to get their acceptance.” Alani Bankhead Dem Supports Plan Would set a federal right-to-know standard for data-center siting, cost, and disclosure, not leave it to counties alone.
 Seth Bodnar Ind Supports Plan Platform now names the federal mechanisms: champion the Ratepayer Protection Act, tie federal tax incentives to ratepayer-protection compliance, and mandate federal real-time water and energy disclosure, alongside explicit local authority to reject.
 Kyle Austin Lib Not found No position located.
 Require public reporting of data centers' power and water use Sources: 2·15·18·23 Kurt Alme Rep Mixed Stance Companies "need to be transparent... come in early... no cutting corners" with all questions answered, and water rights and quality protected.
@@ -281,7 +299,10 @@ Build domestic fertilizer production so producers aren't import-dependent Source
 Alani Bankhead Dem Supports Plan Break the fertilizer squeeze: keep funding new domestic fertilizer plants, put farmer-owned co-ops first in line, and have antitrust enforcers look hard at fertilizer pricing.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Supports Stance Names it among five agriculture measures, alongside rail and highway investment.
-Address agricultural consolidation squeezing family operations Sources: 2·11·3·23·5 Kurt Alme Rep Not found No position located.
+Address agricultural consolidation squeezing family operations Sources: 2·11·3·23·5·43 Kurt Alme Rep Partly Mentioned only “It’s good to see the U.S.
+Department of Justice having the big four meatpacking plants under antitrust investigations” (debate, Oct.
+11).
+No consolidation measure of his own.
 Alani Bankhead Dem Supports Plan Break the meatpacker chokepoint (four packers now control about 85% of beef processing): enforce the Packers & Stockyards Act, pass the American Beef Labeling Act to restore mandatory country-of-origin labeling, and fund small and local processing.
 Seth Bodnar Ind Supports Plan Take on meatpacker and agribusiness consolidation and rebuild the local mills and packing plants it hollowed out; pass a full five-year Farm Bill, Right to Repair, and Country-of-Origin Labeling.
 Kyle Austin Lib Partly Stance Would “eliminate the corruption and fraud of the markets that leave our farmers and ranchers with the bottom dollar”; no consolidation measure named.
@@ -307,19 +328,22 @@ A Court taking undisclosed gifts and overturning settled rights has lost public 
 Seth Bodnar Ind Supports Plan Political Reform Agenda: term and age limits plus financial transparency for the Supreme Court, a congressional insider-trading ban, and a lifetime lobbying ban.
 Kyle Austin Lib Supports Stance “We do have to have ethics in all levels of government”; says Congress, not the courts, should write the judiciary’s ethics rules and oversee them, and wants judges kept from “ruling from the bench.” Bar transgender girls from girls' school sports Sources: 1·32·33 Kurt Alme Rep Supports Stance Commits to “keep boys out of girls’ sports.” Alani Bankhead Dem Not found No position located.
 Seth Bodnar Ind Not found No position located.
-Kyle Austin Lib Supports Stance Answered “Strongly Agree” that “biological males should not be allowed to participate in women’s sports.” Federal nondiscrimination protections for LGBTQ+ Montanans Sources: 2 Kurt Alme Rep Not found No position located.
+Kyle Austin Lib Supports Stance Answered “Strongly Agree” that “biological males should not be allowed to participate in women’s sports.” Federal nondiscrimination protections for LGBTQ+ Montanans Sources: 2·44 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Champion the Equality Act to guarantee nondiscrimination in housing, employment, and public life; defend the Respect for Marriage Act; protect access to gender-affirming care, ban so-called “conversion therapy,” and fund crisis and suicide-prevention services for LGBTQ+ youth.
-Seth Bodnar Ind Not found No position located.
+Seth Bodnar Ind Supports Stance Platform: “Seth will oppose discrimination against any Montanan, including LGBTQ+ Montanans, in employment, housing, or public life,” and defends the right to marry.
+Names no federal bill such as the Equality Act.
 Kyle Austin Lib Not found No position located.
 A national digital privacy law and data-broker limits Sources: 2·24·30·34 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Take Montana's constitutional privacy standard national: one clear privacy law, a warrant before the government can track you, limits on data brokers, and an end to your every move being bought and sold.
 Seth Bodnar Ind Mixed Stance Calls on Congress to pass the Flock-Off Act, which bars federal funds for license-plate readers and biometric surveillance cameras, and says he would push it in the Senate; points to Montana closing the police data-broker loophole (“It’s time Washington caught up to Montana”).
 No comprehensive national privacy law proposed.
 Kyle Austin Lib Partly Stance On AI: “My biggest concern is privacy… how is it going to be used against the citizens of the United States to invade your privacy and your rights?” No privacy law or data-broker measure named.
-Voter ID and documentary proof of citizenship to register Sources: 1·4 Kurt Alme Rep Supports Stance Calls both common sense; ties them to election security.
+Voter ID and documentary proof of citizenship to register Sources: 1·4·43·44 Kurt Alme Rep Supports Stance Calls both common sense; ties them to election security.
 Alani Bankhead Dem Mixed Plan Fine to verify name and address the common-sense way; opposes the SAVE Act’s proof-of-citizenship paperwork wall, since more than 21 million voting-age citizens lack ready access to a passport, birth certificate, or naturalization papers.
-Seth Bodnar Ind Not found No position located.
-Kyle Austin Lib Supports Stance Supports voter ID and REAL ID; questions why noncitizens should influence elections.
+Seth Bodnar Ind Mixed Stance Supports “Montana’s existing voter ID law,” but “will oppose federal mandates that strip states of that authority, from either party.” No position on documentary proof of citizenship.
+Kyle Austin Lib Supports Stance Calls the SAVE America Act “a great act”; supports voter ID and REAL ID and questions why noncitizens should influence elections.
+Also says “I stand behind mail-in ballots” and “I will secure our mail-in ballots” (debate, Oct.
+11).
 Tribal sovereignty and consultation as a standing federal obligation Sources: 2 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Honor tribal sovereignty and the federal trust responsibility, treating funding as an obligation, not charity: fully fund the Indian Health Service, and put tribal leadership at the table with direct access to the federal delegation.
 Seth Bodnar Ind Supports Plan Calls tribal sovereignty "a legal obligation"; would honor treaty and trust obligations as binding, ensure tribes are "genuinely consulted — not just notified," and protect the Indian Health Service and tribal health system.
@@ -333,18 +357,19 @@ Alani Bankhead Dem Supports Plan Write the 39% national TV ownership cap into la
 No fairness doctrine, and no government deciding which newsrooms survive.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Guns, crime and the border New federal firearm restrictions Sources: 2·1·9·4·22·35 Kurt Alme Rep Opposes Stance Endorsed by the NRA (“AQ” rating).
+Guns, crime and the border New federal firearm restrictions Sources: 2·1·9·4·22·35·44 Kurt Alme Rep Opposes Stance Endorsed by the NRA (“AQ” rating).
 “We got to defend our Second Amendment rights and our firearms heritage.” Alani Bankhead Dem Mixed Plan A gun owner who opposes bans on the semi-automatic firearms Montanans lawfully own, but backs universal background checks and red-flag protections with strong due-process safeguards, and would never repeal the domestic-violence gun ban.
-Seth Bodnar Ind Partly Stance Asked about gun control: “I’m a strong supporter of the Second Amendment.” States no position for or against any new federal restriction.
-Kyle Austin Lib Opposes Stance Campaign site calls for unrestricted access to bear arms; a gun owner and hunter.
+Seth Bodnar Ind Opposes Stance Platform: “Seth opposes a federal assault weapons ban, a new universal background check mandate, and a federal red-flag law,” favoring “enforcing the laws already on the books rather than adding new mandates.” Kyle Austin Lib Opposes Stance Campaign site calls for unrestricted access to bear arms; a gun owner and hunter.
 Cartel and trafficking prosecution as the top federal crime priority Sources: 2·5 Kurt Alme Rep Supports Stance Cites prosecutions at a 20-year high; would pursue trafficking organizations to the cartels.
 Alani Bankhead Dem Supports Plan Would prioritize follow-the-money financial-crimes enforcement to reach the trafficking organizations and the cartels behind them, the approach that worked in her own cases.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Immigration reform beyond enforcement Sources: 2·5·11·3 Kurt Alme Rep Not found No position located.
+Immigration reform beyond enforcement Sources: 2·5·11·3·43·44 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Secure the border and go after traffickers, clear the visa backlog, shut ICE down and build its replacement from scratch, move immigration courts out of the DOJ into independent judges, keep the military out of immigration enforcement, and oppose family detention.
-“Treat people like people.” Seth Bodnar Ind Supports Plan Secure the border and build an orderly, fair immigration system: reliable legal labor for farmers and ranchers, constitutional protections for everyone on American soil, and immigration recognized as a source of prosperity.
-Kyle Austin Lib Not found No position located.
+“Treat people like people.” Seth Bodnar Ind Supports Plan Secure the border and enforce existing law, and fix “a legal immigration system that takes years and doesn’t serve Montana’s ranches, farms, or hospitals.” At the debate he named the H-2A farm-visa process: “We need workers here.” Due process for every citizen.
+Kyle Austin Lib Partly Stance Enforcement “has to be done humane”: “an expedited process through a judicial branch” to decide who can stay, plus an “entry fee” on immigrants to pay for deportation instead of taxpayers.
+Says “the actions of ICE that have gotten out of control” are where he differs from Trump (debate, Oct.
+11).
 Let Ukrainians here legally stay while the war goes on, with a path to permanent residence Sources: 2 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Extend Temporary Protected Status for Ukrainians for as long as Russia’s war makes it unsafe to go home, and pass the Ukrainian Adjustment Act so those who came legally and passed vetting have a path to permanent residence.
 Clear the work-permit backlog so people here legally can work.
@@ -418,20 +443,28 @@ Alani Bankhead Dem Supports Plan The TVPA is the backbone of how this country fi
 Reauthorize it and fully fund it.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
-Restore tribal jurisdiction and resource MMIP investigations Sources: 2·17·23·35 Kurt Alme Rep Record As U.S.
+Restore tribal jurisdiction and resource MMIP investigations Sources: 2·17·23·35·43 Kurt Alme Rep Record As U.S.
 Attorney, created the office's first Missing & Murdered Indigenous Persons Coordinator and made 20+ reservation visits on MMIP and trafficking.
 Alani Bankhead Dem Supports Plan Native women are ~3% of Montana but 30–40% of trafficking victims.
-Restore VAWA tribal jurisdiction, fully implement Savanna's Act and the Not Invisible Act, and resource the corridor investigations.
-Seth Bodnar Ind Partly Stance Platform: “Push for equal access to healthcare, infrastructure, and law enforcement resources on tribal lands.” No position on tribal jurisdiction or MMIP investigations.
-Kyle Austin Lib Not found No position located.
-War and foreign policy Enforce the War Powers Resolution as written, without exception Sources: 2·5 Kurt Alme Rep Mixed Stance Says Congress must enforce its role, but warns against tying the commander-in-chief's hands.
+Restore tribal authority over every crime on tribal land, by anyone (fix Oliphant and lift the tribal-court sentencing cap); fully implement Savanna's Act and the Not Invisible Act; and make the investigations happen: all-ages Native missing-person alerts, staffed joint FBI, BIA, tribal and county task forces, and equal reward money.
+Seth Bodnar Ind Partly Stance At the debate: a senator must take “just as serious a crime that happens on a reservation as one that happens in Billings” and “aggressively go after criminals”; his platform backs treaty obligations and real consultation.
+No position on tribal jurisdiction or MMIP investigations.
+Kyle Austin Lib Partly Mentioned only Cites “barriers between federal law enforcement and tribal law enforcement”; when a reservation needs help, “I will be there to provide that support whether it’s monetary or whether it’s boots on the ground” (debate, Oct.
+11).
+No jurisdiction or investigation measure.
+War and foreign policy Enforce the War Powers Resolution as written, without exception Sources: 2·5·43·45 Kurt Alme Rep Opposes Stance Now says “we can’t vote to stop allowing new weapons use against Iran” (debate, Oct.
+11) and “We can’t vote to limit the use of force in the Gulf” (MTN, Oct.
+6).
+In April he had said Congress “has to exercise its authority” to keep troops out of another forever war.
 Alani Bankhead Dem Supports Plan 48-hour notice to Congress, forces home within 60–# days without a vote, and repeal the stale 2001 war authorization.
 Seth Bodnar Ind Supports Stance Says Congress must declare war and is ceding too much power to the executive.
 Kyle Austin Lib Supports Stance Calls the 60-day framework a good balance of power.
-Congress should halt U.S. involvement in Iran Sources: 2·4·7·20·22·27·29·31·41 Kurt Alme Rep Opposes Stance Criticized “forever wars” but balked at Congress halting Trump’s involvement in Iran: “Right now, we’ve got to support the president and help him.” Alani Bankhead Dem Supports Plan Completely opposed to the war: vote to end it and invoke the War Powers Resolution, and use appropriations and oversight to cut off funding for an unauthorized war.
+Congress should halt U.S. involvement in Iran Sources: 2·4·7·20·22·27·29·31·41·43·45 Kurt Alme Rep Opposes Stance Criticized “forever wars” but balked at Congress halting Trump’s involvement in Iran: “Right now, we’ve got to support the president and help him.” On Oct.
+6: “So I support the president”; at the debate he said he would “push for a quick and a successful end to the conflict.” Alani Bankhead Dem Supports Plan Completely opposed to the war: vote to end it and invoke the War Powers Resolution, and use appropriations and oversight to cut off funding for an unauthorized war.
 Cites DNI testimony that Iran was not building a weapon.
-Seth Bodnar Ind Supports Stance “If I were a senator, I absolutely would vote to check the President’s war power in Iran”; wants a clear rationale, strategy, and exit plan, and calls the war “a complete and total strategic failure.” Kyle Austin Lib Supports Stance “We got to get our troops and end the war in Iran and get the troops out of Iran and back to the United States” (Whitefish forum, Oct.
-1).
+Seth Bodnar Ind Supports Stance “If I were a senator, I absolutely would vote to check the President’s war power in Iran”; wants a clear rationale, strategy, and exit plan, and calls the war “a complete and total strategic failure.” Kyle Austin Lib Supports Stance “No, I do not defend the war in Iran”; “The first thing I’ll do as United States senator is end the war in Iran and bring our troops home” (debate, Oct.
+11).
+Backs the Defend the Guard Act to keep Montana troops home without a declaration of war.
 In June he had said “I support Trump and his efforts with Iran.” End U.S. support for Israeli operations in Gaza Sources: 2 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Enforce the Leahy Law, which in practice means a full arms embargo while the assault continues; end the loan-guarantee program and the Qualitative Military Edge mandate, oppose NDAA Section 219, and keep humanitarian aid reaching civilians.
 Cites the UN commission finding that it meets the definition of genocide.
@@ -471,14 +504,19 @@ Alani Bankhead Dem Supports Plan Would hold town halls in every one of Montana's
 Seth Bodnar Ind Partly Stance Holding town halls (Glasgow on Sept.
 9, a Helena veterans town hall, virtual town halls) and says “we need our political leaders to show up and take questions”; no standing commitment to regular town halls or to answering for votes.
 Kyle Austin Lib Not found No position located.
-Overturn Citizens United and get big money out of politics Sources: 2·3·21 Kurt Alme Rep Not found No position located.
+Overturn Citizens United and get big money out of politics Sources: 2·3·21·43·46 Kurt Alme Rep Partly Stance Asked to commit to banning members of Congress and their immediate families from trading individual stocks: “the answer is yes” (debate, Oct.
+11).
+No position on Citizens United or campaign money located.
 Alani Bankhead Dem Supports Plan Would overturn Citizens United, pass the DISCLOSE Act and the End Congressional Stock Trading Act, and back small-dollar public financing with strict, real-time disclosure; runs on $0 corporate PAC money.
 See note on money in politics.
 Seth Bodnar Ind Supports Plan Backs a constitutional amendment to reverse Citizens United and end “unlimited, anonymous corporate spending,” plus a ban on congressional stock trading.
 See note on money in politics.
-Kyle Austin Lib Partly Stance At the Glendive forum: “our elections are not for sale,” urging voters to stand behind I-194 and reject dark-money candidates.
-No stated position on overturning Citizens United itself.
-Congressional term limits Sources: 2·38·39 Kurt Alme Rep Supports Mentioned only Club for Growth, which backs him, says he “supports term limits”; no statement in his own words located.
+Kyle Austin Lib Mixed Stance Now urges “Vote NO on I-194,” calling the anti-dark-money initiative “a far left agenda” (X, Oct.
+9), after urging voters to back it at the Glendive forum in September.
+At the debate he wanted the insider-trading ban extended “to all government employees who have insider information.” No position on overturning Citizens United.
+Congressional term limits Sources: 2·38·39·43 Kurt Alme Rep Supports Stance “We also need to pass congressional term limits” (debate, Oct.
+11).
+Names no limit or vehicle.
 Alani Bankhead Dem Supports Stance “Support congressional term limits.” Seth Bodnar Ind Supports Plan Supports “a limit of 3 terms for Senators and a maximum age of 75 at the time they’re sworn into the Senate, Congress, and President.” Kyle Austin Lib Not found No position located.
 No Budget, No Pay: stop Congress’s pay when it fails to do its budget job Sources: 1·35·38·40 Kurt Alme Rep Supports Plan Says his first bill would stop Congress’s pay if it can’t balance the budget: “No balanced budget, no paycheck!” Alani Bankhead Dem Supports Plan No budget, no pay: if Congress misses its budget and spending deadlines, members’ paychecks go into escrow until it acts, as the bipartisan No Budget, No Pay bills are written.
 Seth Bodnar Ind Supports Plan Supports “suspending Congressional pay and forcing the Senate to remain in session for any period during which the government is shut down.” Kyle Austin Lib Not found No position located.
@@ -494,7 +532,9 @@ Seth Bodnar Ind Supports Stance Supports “nonpartisan open primaries and ranke
 Ban members of Congress and senior officials from betting on prediction markets Sources: 38·40 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Ban members of Congress, their staff and senior officials from betting on prediction markets: write the Senate’s April ban into law for the House, the White House and every senior appointee.
 Seth Bodnar Ind Supports Plan Would “sponsor a bill creating an immediate ban on use of prediction markets by Members and staff of Congress, and political appointees and senior members of the Executive Branch.” Kyle Austin Lib Not found No position located.
-A lifetime ban on lobbying the committees and agencies you served on Sources: 2·23·41 Kurt Alme Rep Not found No position located.
+A lifetime ban on lobbying the committees and agencies you served on Sources: 2·23·41·43 Kurt Alme Rep Supports Stance Would “ban individual congressmen from becoming lobbyists” (debate, Oct.
+11).
+Did not say “lifetime” or define the scope.
 Alani Bankhead Dem Supports Plan Members of Congress and senior executive-branch officials never lobby the committees or agencies they served on, and never register to lobby for a foreign government; close the loophole that lets former officials call themselves advisors and lobby without registering.
 Seth Bodnar Ind Supports Plan “A lifetime ban on members of Congress or senior executive branch officials lobbying the agencies or committees they served on,” plus a lifetime ban on registering to lobby for foreign governments.
 Kyle Austin Lib Mixed Stance “Not really banning them from taking another job once they’re done serving the people, but I do feel we need to get lobbyists out of Washington, D.C.” An independent ethics office for Congress with subpoena power Sources: 2·23 Kurt Alme Rep Not found No position located.
@@ -504,6 +544,10 @@ Finish the Epstein files release Congress ordered and hold the powerful accounta
 Alani Bankhead Dem Supports Plan Finish the Epstein files release: the Justice Department is still redacting and withholding records the law requires it to publish.
 Back S.
 5005, the Epstein Files Transparency Act II, and hold the “Epstein class” accountable so the wealthy and connected face the same laws as everyone else.
+Seth Bodnar Ind Not found No position located.
+Kyle Austin Lib Not found No position located.
+Vote to convict and remove the President if the House impeaches him Sources: 2 Kurt Alme Rep Not found No position located.
+Alani Bankhead Dem Supports Stance Signed the Citizens Impeachment pledge: “when the articles reach the Senate floor I’ll vote to convict,” and convict the accomplices too, starting with Secretary of Defense Pete Hegseth.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
 DOGE-style cuts to federal and state government Sources: 5·4·10·27 Kurt Alme Rep Mixed Stance Praises the cuts but says “where they took them wasn’t necessarily the places where we needed them”; frames it as fiscal responsibility.
@@ -605,5 +649,14 @@ Mont.) resignation release, November 2020, as carried by KULR8 and KTVQ 36 Bozem
 3, 2026) 41 Whitefish U.S.
 Senate candidate forum, Oct.
 1, 2026, livestream (youtube.com/live/gI24q0ZqF9A); quotes checked against a transcript of the recording 42 Seth Bodnar campaign statement on the Sheep Creek mine, sethformontana.com/news, Aug.
-20, 2026 One clear choice for Montana.
+20, 2026 43 Montana Broadcasters Association / Montana PBS U.S.
+Senate debate, Bozeman, Oct.
+11, 2026 (public broadcast; also carried by C-SPAN); quotes checked against a transcript of the recording 44 sethformontana.com/issues, issue planks as rewritten Oct.
+4, 2026, read Oct.
+12, 2026 45 MTN News (KTVQ), “Kurt Alme draws on Montana roots in U.S.
+Senate campaign,” Oct.
+6, 2026; Voices of Montana, Alme in studio, April 13, 2026 46 Kyle Austin for US Senate (@Austin4senatemt) on X, “Vote NO on I-194,” Oct.
+9, 2026 47 Montana Free Press, “How Montana’s candidates for U.S.
+House and Senate plan to tackle healthcare,” Oct.
+7, 2026 (unedited 300-word answers from all four Senate candidates) One clear choice for Montana.
 Chip in → Get involved

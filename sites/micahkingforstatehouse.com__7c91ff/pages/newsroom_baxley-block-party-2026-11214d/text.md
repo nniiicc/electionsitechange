@@ -40,7 +40,7 @@ Explore District 157 Guide → Paid for by the Committee to Elect Micah King cop
 Table of Contents • Connecting with the Community • A Town Built on Timber, Turpentine, and Grit • Kitchen-Table Issues, Not Atlanta Talking Points – What Those Numbers Actually Look Like in Appling County • Why Local Gatherings Like This One Matter • Thank You, Baxley Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
 Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.
 Read Dispatch → Elections District 157 Early Voting Guide: Polling Locations, Hours & Rules across Appling, Evans, Jeff Davis, and Tattnall Counties (2026) In-person early voting runs October 13 to October 30 across Southeast Georgia.
-Verified county polling hubs, Saturday voting dates, curbside rules, and drop box guidelines.
+Verified county polling hubs, Saturday voting dates, voter accessibility rules, and drop box guidelines.
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

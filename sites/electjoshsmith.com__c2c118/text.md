@@ -15,6 +15,9 @@ Challenging Curriculum Every child deserves the opportunity to reach their full 
 We need to ensure that child of all capacities are challenged to grow and learn.
 Support For Educators Educators are hard working professional that work tirelessly to provide a quality education to our children.
 The classroom is not a political battleground.
+Voucher Accountability Anyone taking public education money for personal education should be required to take the same tests that are required for public schools.
+Funds should be used for education purposes and not for expensive equipment or hobbies.
+Re-enrolling in a public school part way through the school year should return a prorated return of the funds.
 Utah Values Faith With our strong religious heritage, We understand the importance of freedom to worship according to the dictates of our consciences.
 Community With strong desire to help our neighbors and volunteer in our communities .
 We want to make sure our communities are safe places for individuals to interact and share experiences.
@@ -32,13 +35,15 @@ We need policies that streamline business creation and support local business.
 These business enrich our state and make it more enjoyable to live here.
 Government by the People Our leaders are elected to represent all of their constituents.
 They should care more about good policies then scoring political points or consolidating more power for themselves.
-Eliminate Spoiler Effect Using Ranked Choice and Approval Voting methods.
+Eliminate Spoiler Effect We can make our races more competitive and viable independent or third party candidates by using Ranked and Approval Voting methods.
 Voters can elect the best candidate regardless of party without worrying the about throwing away their vote.
-Non Partisan Primaries Increase voter participation by allowing voters regardless of party to participate in primaries.
-Parties no longer need to worry about party hopping and can focus on their platform and building excellent candidates.
-Independent Redistricting People should choose their representatives and districts map should be fairly draw by an independent board.
-The State legislature are actively attempting to dismantle ballot initiatives to prevent independent district maps.
-The Utah Supreme Court has upheld Utahns have the right to “alter or reform their government” and that the legislature overstepped their bounds.
+Final Four Voting We can copy Alaska’s popular Top Four Voting which puts everyone that qualifies for the primary on the same ballot.
+The top four candidates with the most votes move on to the General Election.
+Votes rank the remaining four, using instant run off voting to eliminate candidates until someone gets above the 50% threshold.
+Independent Redistricting People have the right to choose their representatives rather then representatives choosing their voters.
+The Independent Commissioning Board present a selection of maps that are fairly drawn to ensure proper competition and representation across the state.
+The State Legislatures job is to pick ONE of the maps proved by the commission.
+The Utah Supreme Court has upheld that Utahns have the right to “alter or reform their government” and that the legislature is still able to do their constitutional duty.
 Technology “We have Paleolithic emotions, medieval institutions and godlike technology” — Edward Wilson.
 It is our responsibility to ensure technology is used for the benefit of Humanity Privacy Personal data about ourselves, images, and things we create should be respected and protected from use by governments, artificial intelligence and corporations without our consent or a court order.
 Right to Repair It is unsustainable to replace our appliances and electronic device every few years because of the cost of difficulty in repairing these devices.

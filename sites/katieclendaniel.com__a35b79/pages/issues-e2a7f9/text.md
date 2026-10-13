@@ -25,6 +25,5 @@ REPRODUCTIVE FREEDOM In 2023, Johnny Mautz voted no on the measure that sent Mar
 Maryland voters approved it statewide in 2024.
 Katie will protect that freedom.
 All vote references are drawn from official Maryland General Assembly roll calls.
-Put Practical Leadership to Work JOIN KATIE Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel.
-Cathy Frey, Treasurer.
+Put Practical Leadership to Work JOIN KATIE Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

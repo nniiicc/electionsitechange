@@ -1,4 +1,4 @@
-Ir al contenido Meet Yass Noticias Media Contact Shop Contribute Contact Team Yassamin Want to get in touch?
+Ir al contenido Meet Yass Noticias Endorsements Contact Shop Contribute Contact Team Yassamin Want to get in touch?
 Fill out the form below to drop us a line.
 Involúcrate Pagado por Yassamin Ansari for Congress.
 Contribute by check: Yassamin Ansari for Congress P.O.

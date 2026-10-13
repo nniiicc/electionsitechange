@@ -1,1 +1,1 @@
-Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page Home Issues Vote Gallery Endorsements 2026 Legislation Donate Contact Ava for Colorado Facebook Instagram Facebook Instagram Paid for by Ava for Colorado, Registered Agent Ava Flanell.
+Home Vote Gallery Endorsements 2026 Legislation Donate Contact Select Page Home Vote Gallery Endorsements 2026 Legislation Donate Contact Facebook Instagram Facebook Instagram Paid for by Ava for Colorado, Registered Agent Ava Flanell.

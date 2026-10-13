@@ -20,11 +20,7 @@ We have a unique way of life here and I want to make sure we preserve it for fut
 I didn’t come to Congress as a politician.
 I came as your local meteorologist, your trusted voice, focused on tackling real problems with common-sense, bipartisan solutions.
 I’m working for the people and the place I love, and that’s why I’m running. where I stand We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Click on an option to get started.
-If you've saved your payment information with ActBlue Express, your donation will go through immediately. news & press Latest Campaign Developments NEWS ARTICLE U.S.
-Rep.
-Sorensen and others encourage Illinois residents to vote early Read more Sep 23 2026 NEWS ARTICLE U.S.
-Democratic Rep.
-Eric Sorensen, Rock Island officials speak on election integrity Read more Sep 23 2026 NEWS ARTICLE South Pekin may get $8M for water system infrastructure improvements Read more Sep 21 2026 sign up to Get Involved First Name First Name Email Email ZIP Code ZIP Code By submitting your cell phone number, you are agreeing to receive periodic text messages from Eric Sorensen For Illinois.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. news & press Latest Campaign Developments NEWS ARTICLE Teamsters Joint Council 25 Endorses Eric Sorensen (D-17th District) Read more Oct 8 2026 NEWS ARTICLE Chicago Tribune Editorial: Eric Sorensen for IL-17 Read more Oct 6 2026 NEWS ARTICLE Peoria Heights breaks ground on $8.1 million water filtration plant Read more Sep 25 2026 sign up to Get Involved First Name First Name Email Email ZIP Code ZIP Code By submitting your cell phone number, you are agreeing to receive periodic text messages from Eric Sorensen For Illinois.
 Message and data rates may apply.
 Messaging frequency varies.
 Text STOP to stop receiving messages.

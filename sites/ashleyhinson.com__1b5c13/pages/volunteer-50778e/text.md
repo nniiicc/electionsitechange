@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute Volunteer Thank you for your interest in joining the Ashley Hinson for Senate campaign.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Volunteer Thank you for your interest in joining the Ashley Hinson for Senate campaign.
 We’re glad you’re on board.
 Please fill out your information below to help us get in contact with you: Please enable JavaScript in your browser to complete this form.
 Name * First Last Email * County * State Zip * Phone * Checkboxes I agree to be contacted via mobile phone I'll knock doors or make phone calls to voters to help spread the word and get out the vote Help spread the word about #TeamHinson with door knocking in your area I'll put up a yard sign or barn sign Help share your support for Ashley with a yard sign for your front yard!

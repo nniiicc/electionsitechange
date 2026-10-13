@@ -26,7 +26,7 @@ Vote YES on Initiative 645: Voting YES repeals the state income tax, repeals the
 Send Proven Leadership to Olympia: As your Representative, I remain committed to fighting government overreach, opposing new tax burdens, and protecting your hard-earned income.
 The bureaucrats at the Department of Revenue are building their framework today.
 Make your voice heard at the ballot box this fall to dismantle it.
-WA Washington State Legislature by John Ley previous Two Governors Agree: Washington Doesn’t Have a Revenue Problem—Olympia Has a Spending Addiction Help me fight for the people and common sense solutions.
+WA Washington State Legislature by John Ley previous Two Governors Agree: Washington Doesn’t Have a Revenue Problem—Olympia Has a Spending Addiction next The $17 Billion IBR Taxpayer Rip-Off: Unpacking the Scene of the Crime Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

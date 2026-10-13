@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Launches “Veterans for Ashley” Coalition Oct 10, 2026 | Press Release Back to Updates Davenport, IA – Today, at a rally with veterans in Davenport, Ashley Hinson launched “Veterans for Ashley,” a coalition of more than 100 veterans from across Iowa endorsing her campaign for United States Senate.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Launches “Veterans for Ashley” Coalition Oct 10, 2026 | Press Release Back to Updates Davenport, IA – Today, at a rally with veterans in Davenport, Ashley Hinson launched “Veterans for Ashley,” a coalition of more than 100 veterans from across Iowa endorsing her campaign for United States Senate.
 “Our veterans are real American heroes, and I’m honored to have their support,” said Ashley Hinson .
 “In the Senate, I will work with anyone to deliver for our veterans and ensure that they receive the high-quality healthcare and benefits they have earned and deserve.
 My opponent, Liberal Josh Turek, put his political ambitions ahead of our veterans.

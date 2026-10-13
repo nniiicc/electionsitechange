@@ -6,4 +6,4 @@ KPTV: “Governor Tina Kotek signed legislation aimed to help lower energy costs
 OPB: “Lawmakers approve Gov.
 Tina Kotek’s top priority for the session; funding expected to ease Oregon housing crisis” KGW : “Gov.
 Tina Kotek signs 5 bills to promote housing production” Governor Kotek canceled proposed freeway tolls so that Oregonians who commute on I-205 don’t have to shoulder an unfair burden.
-KGW : “Kotek calls for cancellation of Portland-area freeway toll plan” press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+KGW : “Kotek calls for cancellation of Portland-area freeway toll plan” info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

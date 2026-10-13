@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute Josh Turek is wrong for Iowa agriculture by Addie Lavis | Sep 14, 2026 | In the News I’m a third-generation seedsman from Alexander, where my family has also farmed since 1892 — spanning five generations.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Josh Turek is wrong for Iowa agriculture by Addie Lavis | Sep 14, 2026 | In the News I’m a third-generation seedsman from Alexander, where my family has also farmed since 1892 — spanning five generations.
 My grandfather Willard Latham started our business in 1947 — and I now run our operation with my wife and brother.
 Needless to say, it matters to me...
 Letter: Iowa needs a mom in the U.S.

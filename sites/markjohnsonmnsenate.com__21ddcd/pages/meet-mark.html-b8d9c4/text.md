@@ -24,4 +24,4 @@ Northwest Minnesota has tremendous potential, and the people who live here deser
 That's why I ran for the Minnesota Senate, and it's why I continue to serve.
 I want to help keep Northwest Minnesota a place where families can put down roots, businesses can grow, communities can thrive, and the next generation can see a future right here at home.
 Together, we can make sure the communities we love remain strong for generations to come.
-GET TO KNOW MARK JOHNSON Prepared and Paid for by Mark Johnson for State Senate Copyright ©#
+GET TO KNOW MARK JOHNSON Prepared and Paid for by Mark Johnson for State Senate Mobile Terms and Conditions and Privacy Policy Copyright ©#

@@ -1,0 +1,12 @@
+Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery More Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery Blog Posts All Posts District 60 Tour l Carlisle + DesArc October 12, 2026 District 60 Tour— Starting with Carlisle’s Homecoming Parade, then on to a couple of stops in DesArc, and finally back to Carlisle for an exciting football game—this day was filled with great fun, good food, and visits with awesome new and old friends.
+There really are not a lot of experiences that are more fun than sitting on the back of a convertible riding in a parade.
+Somehow, it feels like it’s a big party where I’m a guest of honor because I get to wave and throw mini frisbees and candy at the crowds! 🍬 Carlisle put on a wonderful parade with lots of participation from the student body, community, and alumni! 🖤💛 Thank you Kari Jo Sayger and Candy Mills and my great team of Mari Ben Smith Newton and Bill Newton!
+After the dust settled from the parade, Bill and I drove over to DesArc for pizza at The Slice House.
+I had been told by many that it was delicious, and they were certainly right!
+Next stop was Lynn’s Flower Shop where we got to meet Lynn Calhoun, I bought a pretty necklace, and Lynn helped me out with a few phone calls to folks she knew.
+We had just enough time to pop into Garth Hardware before they closed and meet Jimmy and Brad Garth.
+This place is like a hardware store is supposed to be—lots of all sorts of stuff you might need one day with a smell like my dad’s shop and friendly, knowledgeable folks to help!
+We then headed back to Carlisle where we switched gears and became the guests, as Carlisle’s HOCO opponent was none other than my favorite District 60 school—the England Lions. 🦁💜💛 Perfect weather and exciting game.
+England fought hard, but unfortunately for us, it was just Carlisle’s night.
+I am awfully tired, but it was an incredibly good day in small town Arkansas. ❤️ #PeopleOverPolitics #vote4quendy #IndependentCandidate #YourVoteMatters #EnglandLions #carlislebison Share this post: Recent Posts District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Overwhelmed with Gratitude Aug 31, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
+Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

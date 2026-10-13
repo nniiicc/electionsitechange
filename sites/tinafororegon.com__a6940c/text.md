@@ -4,5 +4,5 @@ Learn More FUEL THE FIGHT FOR OREGON’S FUTURE.
 This campaign is powered by grassroots support.
 Will you chip in $10, $25, or whatever you can today to support Governor Kotek? $10 $25 $50 $250 $500 Other Building Oregon's Future Together Governor Tina Kotek is fighting to make life more affordable, create more economic opportunity, help all students succeed, and defend what makes Oregon special.
 Learn More Progress for Oregon Governor Kotek has spent her first term tackling our biggest challenges head-on: Fighting to help Oregonians dealing with the cost of living, reducing homelessness, improving our schools, and so much more.
-Learn More press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+Learn More info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
 Watch video TINA IS FIGHTING FOR US $10 $25 $50 $100 Chip In Continue to website

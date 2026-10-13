@@ -1,4 +1,11 @@
-0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Mitch 10/5/26 Mitch 10/5/26 The Economics of Campaigning for Office We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Mitch 10/12/26 Mitch 10/12/26 Legacy: A Champion for the People or a Friend of Special Interests?
+When Congress votes, our lives change.
+Often, the changes are small and go unnoticed.
+Lately, however, federal policy has reached down to affect nearly every American.
+Rising prices, another war, more tax breaks for the wealthy, and fewer services.
+Congress can both create and solve these problems.
+I advocate for progress over more of the status quo.
+Read More Mitch 10/5/26 Mitch 10/5/26 The Economics of Campaigning for Office We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
 Let’s dive into the realities and numbers involved.
 Read More Mitch 9/28/26 Mitch 9/28/26 Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations Oil.
 One of the world’s most critical resources.
@@ -29,7 +36,5 @@ You learn to recognize the women who are sitting in it.
 They arrive early and sit facing the door.
 Often, they have a folder with photographs in it, text messages printed out, and a police report.
 You can sometimes hear them rehearsing what they are going to say to a judge they have never met about the worst thing that has ever happened to them.
-Read More Mitch 8/21/26 Mitch 8/21/26 40 Trillion In 2025, the United States collected $5.23T in revenue, and we are on track to collect nearly that amount again in 2026.
-According to USASpending.gov , the United States is set to spend $8.3T, which means the United States will borrow $3T, three trillion dollars , in just 2026 alone .
 Read More Older Posts Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
 Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

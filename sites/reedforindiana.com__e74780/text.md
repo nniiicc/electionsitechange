@@ -26,4 +26,27 @@ You agree to receive updates on the campaign (up to 5/mo.) via SMS from the Comm
 Message rates may apply.
 Reply STOP to unsubscribe.
 Privacy policy can be found at reedforindiana.com/privacy.
-Let's Win This Home About Policies Donate Get In Touch Contact Form Newsletter Name Email Message Send Paid for by the Committee to Elect John Reed.
+Let's Win This Where to Vote Polling centers for the 2026 Johnson County General Election Early Voting Johnson County Courthouse 5 E.
+Jefferson St., Franklin Oct.
+6-9; Oct.
+12-16; Oct.
+19-23; Oct.
+26-30 (8:30 a.m. – 4:30 p.m.) Oct.
+24, Oct 31 (8:00 a.m. – 3:00 p.m.) Nov 2 (8:00 a.m. – NOON) White River Public Library 1664 Library Blvd., Greenwood Oct.
+26-30 (10 a.m. to 6 p.m. ) Oct.
+24, 31 (8 a.m. to 3 p.m.) Greenwood Public Library 310 S.
+Meridian St., Greenwood Oct.
+26-30 (10 a.m. to 6 p.m. ) Oct.
+24, 31 (8 a.m. to 3 p.m.) John R.
+Drybread Community Center 100 E.
+Main Cross St., Edinburgh Oct.
+26-30 (10 a.m. to 6 p.m. ) Oct.
+24, 31 (8 a.m. to 3 p.m.) Trafalgar Public Library 424 S Tower Dr, Trafalgar, IN Oct.
+26-30 (10 a.m. to 6 p.m. ) Oct.
+24, 31 (8 a.m. to 3 p.m.) Early Voting - Retirement Communities Greenwood Village South 295 Village Ln, Greenwood Oct.
+26 (10 a.m. to 2 p.m.) Otterbein Franklin SeniorLife Community 1070 W Jefferson St, Franklin Oct.
+27 (10 a.m. to 2 p.m.) Compass Park 690 S State St, Franklin Oct.
+28 (10 a.m. to 2 p.m.) Election Day Voting November 3 | 6:00am - 6:00 pm Mount Auburn Church 3100 W Stones Crossing Rd, Greenwood Mt.
+Pleasant Christian Church 381 N Bluff Rd, Greenwood White River Public Library 1664 Library Blvd, Greenwood Community Church of Greenwood 1477 West Main Street, Greenwood Greenwood Christian Church 2045 Averitt Rd, Greenwood Greenwood Public Library 310 S Meridian St, Greenwood Greenwood Bible Baptist Church 1461 Sheek Rd, Greenwood GraceHouse 6822 US 31 S, Whiteland Clark Pleasant Public Library 350 Clearwater Blvd, Whiteland Bargersville Town Hall 24 N Main St, Bargersville Franklin Parks & Recreation Center 396 Branigin Blvd, Franklin Trafalgar Public Library 424 S Tower Dr, Trafalgar Prince’s Lakes Town Hall 14 E Lakeview Dr, Nineveh John R.
+Drybread Community Center 100 E.
+Main Cross St., Edinburgh Johnson County Fairgrounds (Scott Hall) 250 Fairground St, Franklin, IN 46131 Home About Policies Donate Get In Touch Contact Form Subscribe Name Email Message Send Paid for by the Committee to Elect John Reed.

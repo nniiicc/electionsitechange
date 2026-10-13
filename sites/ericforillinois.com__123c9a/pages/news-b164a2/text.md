@@ -1,4 +1,4 @@
-Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate news & press Latest Campaign Developments NEWS ARTICLE U.S.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Latest News & Press NEWS ARTICLE Teamsters Joint Council 25 Endorses Eric Sorensen (D-17th District) Read more Oct 8 2026 NEWS ARTICLE Chicago Tribune Editorial: Eric Sorensen for IL-17 Read more Oct 6 2026 NEWS ARTICLE Peoria Heights breaks ground on $8.1 million water filtration plant Read more Sep 25 2026 NEWS ARTICLE New faster electric vehicle charging stations debut in East Moline Read more Sep 24 2026 NEWS ARTICLE U.S.
 Rep.
 Sorensen and others encourage Illinois residents to vote early Read more Sep 23 2026 NEWS ARTICLE U.S.
 Democratic Rep.

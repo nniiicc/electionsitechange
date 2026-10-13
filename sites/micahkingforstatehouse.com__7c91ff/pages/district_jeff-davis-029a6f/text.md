@@ -4,7 +4,7 @@ New HD-157 Opportunity Board is Live!
 Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Jeff Davis County County Seat: Hazlehurst 14,774 Population 1905 Est.
 Community Profile Key details for Jeff Davis County "Timber, livestock, strong vocational education tradition" Key Communities Hazlehurst Denton Lumber City Take Action Represent Jeff Davis County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Jeff Davis County, join our grassroots movement today.
-Volunteer Here Donate Jeff Davis County Forecast Live Data #ago Rain 79° 67° Mon, Oct 12 Clear sky 80° 64° Tue, Oct 13 Clear sky 83° 62° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Jeff Davis County Forecast Live Data #ago Clear sky 80° 62° Tue, Oct 13 Clear sky 83° 62° Wed, Oct 14 Clear sky 86° 65° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

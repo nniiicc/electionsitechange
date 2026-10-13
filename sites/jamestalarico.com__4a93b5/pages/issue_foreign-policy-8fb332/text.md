@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Foreign Policy Texas has the eighth-largest economy in the world, exporting more goods to foreign nations than any other state.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Foreign Policy Strong Alliances, No More Forever Wars For Texans, foreign policy isn’t foreign.
+James Talarico will end the forever war in Iran that’s driving up the cost of gas and groceries, keep Iran from getting a nuclear weapon, stand with our allies, and lead with moral clarity.
+Texas has the eighth-largest economy in the world, exporting more goods to foreign nations than any other state.
 We share the country’s largest border with Mexico.
 And we’re home to the largest number of veterans who have served across the globe.
 For Texans, foreign policy isn’t foreign.
@@ -13,12 +15,15 @@ But Prime Minister Benjamin Netanyahu does not have the right to bomb civilians,
 With tens of thousands of civilians killed and unimaginable human suffering in Gaza, America must lead with moral clarity and prevent any U.S. funds from being used to harm civilians.
 As U.S.
 Senator, I will do everything in my power to ensure America always leads with moral clarity in its approach to foreign policy.
-Not only is it the right thing to do — but it will make America stronger, richer, and safer.
-My Priorities in the U.S.
+Not only is it the right thing to do — but it will make America stronger, richer, and safer. . @JamesTalarico : As a millennial, I saw how military disasters like the Iraq war robbed this nation of young lives, of billions of dollars, and of our moral standing in the world.
+I worry this administration is making the same mistake with another forever war.
+We’re always told… pic.twitter.com/WCBJdHYE98 — Team Talarico (@TeamTalaricoHQ) March 20, 2026 . @JamesTalarico : As a millennial, I saw how military disasters like the Iraq war robbed this nation of young lives, billions of dollars, and our moral standing.
+Every dollar we spend bombing people in the Middle East is a dollar we are not spending in communities like Sand… pic.twitter.com/vbXCwjYS6B — Team Talarico (@TeamTalaricoHQ) March 10, 2026 My Priorities in the U.S.
 Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .
 We want to hear from you!
+Keep Iran from getting a nuclear weapon — without another forever war : Find an end to this disastrous war that ensures Iran does not develop a nuclear weapon, supports the democracy movement, and stops costing American taxpayers hundreds of billions of dollars.
 Serve the veterans who have served all of us: Stand against efforts to privatize the VA, reverse the Trump Administration’s mass terminations of federal veteran employees, and ensure veterans have access to housing, job training, career opportunities, and real pathways to stability when they come home.
 Repeal unnecessary tariffs and support responsible trade: Roll back the Trump Administration’s tariff policies that are raising costs for American consumers and hurting Texas business owners, reject actions that risk escalating trade wars, and support trade partnerships that include strong protections for American workers.
 Deepen cooperation with NATO, the EU, and other allies: Encourage more — not less — cooperation with our foreign allies as a means to promote human rights, build more resilient supply chains to combat inflation, prevent nuclear proliferation, and protect America’s interests both at home and abroad.

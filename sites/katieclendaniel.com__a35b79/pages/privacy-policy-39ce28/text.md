@@ -30,6 +30,5 @@ Changes become effective when the revised policy is posted on this website.
 Contact Us Questions about this Privacy Policy may be directed to info@katieclendaniel.com or 410-205-4770.
 Paid for by Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 Approved by Katie Clendaniel.
-Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel.
-Cathy Frey, Treasurer.
+Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

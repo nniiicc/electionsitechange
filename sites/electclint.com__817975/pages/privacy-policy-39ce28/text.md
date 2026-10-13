@@ -1,4 +1,4 @@
-0 Skip to Content Home Meet Clint Priorities Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Events Contact Volunteer Donate Privacy Policy & Terms of Service Last modified and effective on February 15, 2025 1.
+0 Skip to Content Home Meet Clint Priorities Endorsements Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Endorsements Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Endorsements Events Contact Volunteer Donate Privacy Policy & Terms of Service Last modified and effective on February 15, 2025 1.
 INTRODUCTION.
 Welcome to ELECTCLINT.COM , the official website (the “website” or “site”) of the COMMITTEE TO ELECT CLINT OKERLUND .
 We hope you enjoy your visit.
@@ -174,4 +174,4 @@ CONTACT US.
 If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at: Email: CLINT@ELECTCLINT.COM OR Mail: 7 GATEHOUSE LNSANDY, UT 84092 14.
 SOLE STATEMENT.
 This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other versions thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
-Stay Connected with Clint Site Navigation Home Meet Clint Priorities Contact Volunteer Site Information Copyright # All Rights Reserved Paid for by Committee to Elect Clint Okerlund Privacy Policy
+Stay Connected with Clint Site Navigation Home Meet Clint Priorities Endorsements Events Contact Volunteer Site Information Copyright # All Rights Reserved Paid for by Committee to Elect Clint Okerlund Privacy Policy

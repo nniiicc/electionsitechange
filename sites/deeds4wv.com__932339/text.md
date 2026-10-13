@@ -1,5 +1,5 @@
 Vince Deeds is running for Re-Election to the West Virginia State Senate, District 10 representing Greenbrier, Nicholas, Summers, Monroe and part of Fayette County.
-Donate Public Employees Disregard Enable sound About Vince Deeds Professional Background Retired, West Virginia State Police.
+Donate Public Employees Disregard Schakel geluid in About Vince Deeds Professional Background Retired, West Virginia State Police.
 Currently works with the Prosecuting Attorney’s Office in Lewisburg.
 Director of School Safety for Greenbrier County Schools.
 Pastor, Sinks Grove Baptist Church.

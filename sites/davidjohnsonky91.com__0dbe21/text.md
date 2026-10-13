@@ -1,5 +1,6 @@
-estill, powell, and part of madison county- HD 91st About David Johnson David Johnson is a lifelong Kentuckian, public school teacher, and community advocate who believes government should work for everyday people—not just the wealthy and well-connected.
-With deep family roots in Estill County and a lifetime in Madison County, David has dedicated himself to serving families, students, and communities across Eastern Kentucky.
+estill, powell, and part of madison county- HD 91st About David Johnson David Johnson is a lifelong Kentuckian, special education teacher, and community advocate who believes government should work for everyday people—not just the wealthy and well-connected.
+A lifelong Madison County resident with deep family roots in Estill County and close friends and family in Powell County, David has strong personal connections throughout the 91st District.
+He has dedicated himself to serving families, students, and communities across Kentucky.
 Having taught in both Madison County and Estill County Schools, David has worked closely with students and families from diverse backgrounds and understands the challenges facing Kentucky's public schools.
 As a special education teacher, he works every day with students with disabilities and sees firsthand how decisions made in Frankfort affect real people.
 His commitment to service extends beyond the classroom.

@@ -1,10 +1,10 @@
 Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Campaign Events Team Julie Z for SC needs YOU Just like a championship football team, no one wins the game alone.
 It takes all of us showing up, doing our part, and working together.
-Julie Z for SC: Anytime Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/906846F-923198 Julie Zimmerman is running to represent South Carolina House District 71.
+Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
+District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
+Help us make… Show more RSVP Julie Z for SC: Anytime Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/906846F-923198 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Flip the Future Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/6E2C66Q-891946 Julie Zimmerman is running to represent South Carolina House District 71.
-District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
-Help us make… Show more RSVP Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Autodialer Phonebank Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
@@ -15,11 +15,7 @@ We are looking for volunteers to cover a voting location to wave signs, greet vo
 Please let us know how you can join our effort.
 RSVP Flip the Future 'In-Person' Phone Bank Multiple Times 805 Calhoun St, Columbia, SC, 29201 Make phone calls with others at the RCDP Office.
 We'll use a phone bank that assists you in dialing the numbers and doesn't show your personal information or phone number.
-Bring your phone and lapto… Show more RSVP BIC Dems October Meeting This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Columbia, SC, 29212 Come join us for our September BIC meeting.
-The meeting will be held on Monday, October 12, 2026 at Zorba's Greek Restaurant in the Seven Oaks Shopping Center.
-The meeting starts promptly at 6:30 and… Show more RSVP Young Democrats of the Central Midlands Monthly Meeting Multiple Times Richland Library, Main 1431 Assembly St, Columbia, SC, 29201 Join the Young Democrats of the Central Midlands covering Richland, Lexington, Fairfield, Orangeburg County areas.
+Bring your phone and lapto… Show more RSVP Young Democrats of the Central Midlands Monthly Meeting Multiple Times Richland Library, Main 1431 Assembly St, Columbia, SC, 29201 Join the Young Democrats of the Central Midlands covering Richland, Lexington, Fairfield, Orangeburg County areas.
 Our meetings are regularly on the 2nd and 4th Wednesday (recently changed from Thurs… Show more RSVP Build the Bench: Volunteer Action Night Multiple Times RCDP Office 805 Calhoun St, Columbia, SC, 29201 Get ready for the November 3rd Midterm Elections!
 Join us on Thursday evenings for action and information packed volunteer sessions.
 Each session is designed to support and empower you as a volunteer… Show more RSVP Team Richland County Canvassing Crew and Doors Team Multiple Times Richland County Democratic Party 805 Calhoun St, Columbia, SC, 29201 Come out and support our SC Democrats running to represent Columbia and surrounding Richland County areas.

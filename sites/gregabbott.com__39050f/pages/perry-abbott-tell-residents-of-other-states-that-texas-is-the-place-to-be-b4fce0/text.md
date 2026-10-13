@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Perry, Abbott tell residents of other states that Texas is the place to be Feb 8, 2013 Perry, Abbott tell residents of other states that Texas is the place to be By Anna M.
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Perry, Abbott tell residents of other states that Texas is the place to be Feb 8, 2013 Perry, Abbott tell residents of other states that Texas is the place to be By Anna M.
 Tinsley Fort Worth Star-Telegram February 8, 2013 They’ve been at war with Washington for years.
 Now Texas Gov.
 Rick Perry and Attorney General Greg Abbott have set their sights on other places as well.

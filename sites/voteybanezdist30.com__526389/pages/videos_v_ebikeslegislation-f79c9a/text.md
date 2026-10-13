@@ -6,9 +6,7 @@ AND another BIG mahalo to Pearl City Neighborhood Board Chairman Larry Veray for
 Let us continue to consider the safety for EVERYONE in our communities in Hawai‘i!
 #OurCommunityFirst​ #Kalihi​ #EBikes​ #Hawaii​ ##VoteYbanez4Kalihi​ Previous YBANEZ - More Outreach for our Students!
 Next A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
-You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY "Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy YBANEZ - More Outreach for our Students!
-Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Door to Door at Kuhio Park Terrace in Kalihi!
-Are you registered to vote?
+You Might Also Like Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Rail Interview w/ Miss Ro Moment of Self-Reflection from Amanda Ybanez YBANEZ - Saturday, 7/25/2026 Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

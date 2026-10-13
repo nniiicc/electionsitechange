@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 1032 Major Richard Star Act Lets combat-injured veterans who were medically retired collect both their military retirement pay and their VA disability compensation, instead of being forced to choose.
 The bill What it does.
 The Major Richard Star Act fixes a longstanding inequity for combat-injured veterans.

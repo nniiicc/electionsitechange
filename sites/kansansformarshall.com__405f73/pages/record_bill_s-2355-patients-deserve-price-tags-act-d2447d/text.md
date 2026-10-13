@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 2355 Patients Deserve Price Tags Act Requires hospitals, surgery centers, imaging centers, and clinical labs to publish real upfront prices for the services patients actually use, with penalties for noncompliance.
 Codifies and strengthens the Trump administration's hospital price-transparency rules.
 If a hospital can hand a patient a bill three months later, they can hand the patient a price three minutes earlier. — Sen.

@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Jimmy Gomez has sold out Los Angeles.
+Skip navigation menu About Issues Endorsements Volunteer Voter Guides Donate About Issues Endorsements Volunteer Voter Guides Donate Jimmy Gomez has sold out Los Angeles.
 Angela is the fighter we deserve.
 Date updated: Sept 17th, 2026 Voters need to read and then see on the go that Jimmy Gomez has sold out Los Angeles to AI, AIPAC, and corporate PACs.
 Jimmy Gomez is endorsed by Leading the Future, a corporate AI super PAC funded by some of Donald Trump’s biggest donors.

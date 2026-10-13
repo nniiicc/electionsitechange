@@ -1,7 +1,7 @@
-Home Donate Volunteer Platform Resource Link 1 Resource Link 2 Resource Link 3 Call Dave Data Centers "Tennessee needs to prepare to put our people and our common resources before data centers.
+Home Donate Volunteer Platform Resource Link 1 Resource Link 2 Resource Link 3 Call Dave Data Center Protection Act "Tennessee needs to prepare to put our people and our common resources before data centers.
 My plan calls for a moratorium for 24 months, long enough to establish a division for Environmental Justice (EJ) and rules it can enforce.
 The EJ Division can deny permits that push communities beyond safe limits and empowers individuals and communities to negotiate benefit agreements and sue over environmental injustices.
-Rules would create scalable standards that can’t be gamed, mutual grid stability prioritizing communities in emergencies and matching demand with renewable energy, and banning or regulating AI systems regarding surveillance, companions, price setting, decision making, and synthetic content." - Dave Seeman Pause New Data Centers Until Communities Get a Say No new data center will break ground in Tennessee until the state has the office and the standards to weigh its harm and the community it lands in has a say, and we'll build that capacity first.
+Rules would create scalable standards that can’t be gamed, mutual grid stability prioritizing communities in emergencies and matching demand with renewable energy, and banning or regulating AI systems regarding surveillance, companions, price setting, decision making, and synthetic content." - Dave Seeman Pause New Data Centers No new data center will break ground in Tennessee until the state has the office and the standards to weigh its harm and the community it lands in has a say, and we'll build that capacity first.
 Explore → Copied!
 No new data center will break ground in Tennessee until the state has the office and the standards to weigh its harm and the community it lands in has a say, and we'll build that capacity first.
 Data centers have already requested roughly 11,000 megawatts of power; that's five times the data center load served today.
@@ -11,7 +11,7 @@ The moratorium may end earlier, provided our work is done.
 On day one we'll direct the state's environmental agency to design the Environmental Justice Division and the Tennessee EnviroScreen map so they're ready.
 The moratorium's design ensures that no data center, AI campus, or crypto mine at a megawatt or above will register or break ground until the office is staffed, the map is live, and the siting, water, noise, emergency, outage, renewable matching, and backup-power rules are in force.
 The pause will reach back to the day the bill was filed so companies cannot race to apply before a vote.
-If the EJ Division, the standards, or the grid rules are not in place at 24 months, review continues under whichever exists, our environmental agency fills in for whichever doesn't, and every registration is conditional until all three are in place.
+If regulatory bodies and standards are not enacted within the 24 months, our environmental agency will run the review process in the interim and issue only conditional registrations until the bodies and standards are in place.
 Affected facilities already permitted or under construction will be required to meet the new standards within twelve months.
 Projects filed during the pause will pay their fees up front, so the queue can fund the standup of the EJ Division.
 Projects in a community the EnviroScreen map flags for pollution and health burden will have to leave that burden lower than they found it and sign a binding agreement the EJ Division enforces.
@@ -28,7 +28,7 @@ Local programs will be allowed to set higher standards, but no program in a name
 Permit fees will pay for community organizations to take part in permit proceedings and for neighborhood air monitors, and frontline groups will hold reserved seats on the board reviewing each local program.
 The EJD will also be tasked with reviewing and screening all computing facilities by size from one megawatt up and be empowered to order any source running in or beside a named community without a required permit to stop operating, regardless of the temporary or permanent status of their equipment.
 Furthermore, we will make sure that Tennesseans are able to enforce our environmental laws in state court themselves, with attorney's fees when they win, to help ensure that a livable world remains available to us all.
-Civil Rights & Freedoms Climate Action Collapse ↑ Hold Data Centers to Tennessee's Standards We'll hold every data center in Tennessee to one state standard it cannot split, rename, or bargain its way around, where outages run on batteries and fossil engines may run only to keep people safe.
+Public Safety & Justice Climate Action Collapse ↑ Hold Data Centers to Tennessee's Standards We'll hold every data center in Tennessee to one state standard it cannot split, rename, or bargain its way around, where outages run on batteries and fossil engines may run only to keep people safe.
 Explore → Copied!
 We'll hold every data center in Tennessee to one state standard it cannot split, rename, or bargain its way around, where outages run on batteries and fossil engines may run only to keep people safe.
 Nashville wrote Tennessee's first local data center rules in 2026, and a developer sued within weeks.
@@ -44,7 +44,20 @@ We'll ban nondisclosure agreements between an operator and any unit of governmen
 Every facility will register with the state each year, pay the fee that funds its own oversight, and post a bond that pays to clear the site if it's abandoned.
 The state will refuse registration when a facility would push a community's pollution and health burdens above the lower of the state or county median.
 Tennessee has the land and power these companies want so we get to set the terms and make sure no county has to win their fight on their own.
-Energy & Infrastructure Community Enrichment Collapse ↑ Make Data Centers Pay to Strengthen the Grid with Renewables We'll make data centers strengthen our grid, match demand with renewables, and pay for their infrastructure and stranded assets so that their buildout never lands on your power bill.
+Energy & Infrastructure Community Enrichment Collapse ↑ Regulate AI We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
+Explore → Copied!
+We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
+While Tennessee's voice-cloning ban was the country's first, it stops at voice and likeness and could go much further to regulate AI.
+Right now hiring algorithms can screen out Tennessee applicants without any information or appeal to a person's judgment and chatbots can impersonate personal relationships to keep your attention without disclosure.
+Artificial Intelligence now touches our work and our personal life unchecked, and we need to rein it in.
+We'll ban social scoring, subliminal manipulation, real-time mass biometric surveillance without a judge's order, and systems built to push a person toward self-harm.
+No AI will simulate romance, sex, or intimacy with a minor, and parental consent will be no defense.
+Any system that talks with you will say it is a machine, and applications with over a million monthly users will mark every synthetic image, video, or sound their systems make as machine-made.
+When a machine makes or shapes a decision about your job, home, or medical care, a person must review it before you're denied, you'll have the right to know what data was used for the decision, and the right to appeal to a person who can overrule the decision and get an answer to your appeal within 30 days.
+Lastly, we'll make it illegal for a business to price essential goods and services like groceries, rents, or emergency services based on your data.
+A permanent Tennessee AI Commission will write the rules, register every system that's affected, and demand records necessary for enforcement.
+We'll also make sure the Attorney General enforces every duty, and that persons harmed can sue.
+Civil Rights & Freedoms Public Accountability Collapse ↑ Make Data Centers Pay We'll make data centers strengthen our grid, match demand with renewables, and pay for their infrastructure and stranded assets so that their buildout never lands on your power bill.
 Explore → Copied!
 We'll make data centers strengthen our grid, match demand with renewables, and pay for their infrastructure and stranded assets so that their buildout never lands on your power bill.
 In Tennessee communities with data centers, residential bills rose 3.2 percent from 2023 to 2024 while commercial bills fell.
@@ -60,17 +73,4 @@ In grid emergencies where a utility orders a load cut the facility may draw no g
 The security is held by the Tennessee Renewable Power Authority, and the grants run through the Tennessee Green Bank.
 Neither exists yet, so until they do the State Treasurer will hold the security and the state's Office of Energy Programs will run the grants.
 This way a company building here covers its own costs and depends on the same grid we do, so the houses next door keep their money safe and their lights on.
-Energy & Infrastructure Climate Action Collapse ↑ Regulate AI to Enforce Safety, Freedom, and Fairness We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
-Explore → Copied!
-We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
-While Tennessee's voice-cloning ban was the country's first, it stops at voice and likeness and could go much further to regulate AI.
-Right now hiring algorithms can screen out Tennessee applicants without any information or appeal to a person's judgment and chatbots can impersonate personal relationships to keep your attention without disclosure.
-Artificial Intelligence now touches our work and our personal life unchecked, and we need to rein it in.
-We'll ban social scoring, subliminal manipulation, real-time mass biometric surveillance without a judge's order, and systems built to push a person toward self-harm.
-No AI will simulate romance, sex, or intimacy with a minor, and parental consent will be no defense.
-Any system that talks with you will say it is a machine, and applications with over a million monthly users will mark every synthetic image, video, or sound their systems make as machine-made.
-When a machine makes or shapes a decision about your job, home, or medical care, a person must review it before you're denied, you'll have the right to know what data was used for the decision, and the right to appeal to a person who can overrule the decision and get an answer to your appeal within 30 days.
-Lastly, we'll make it illegal for a business to price essential goods and services like groceries, rents, or emergency services based on your data.
-A permanent Tennessee AI Commission will write the rules, register every system that's affected, and demand records necessary for enforcement.
-We'll also make sure the Attorney General enforces every duty, and that persons harmed can sue.
-Civil Rights & Freedoms Public Accountability Collapse ↑ ← Back to Policy for Me Donate now Support Donate Volunteer Signs & Shirts Connect Facebook Instagram Events & More More FAQ Share your Advocacy Endorse Dave for Tennessee Request Appearance Handmade in Tennessee Paid for by David Seeman for Governor.
+Energy & Infrastructure Climate Action Collapse ↑ ← Back to Policy for Me Donate now Support Donate Volunteer Signs & Shirts Connect Facebook Instagram Events & More More FAQ Share your Advocacy Endorse Dave for Tennessee Request Appearance Handmade in Tennessee Paid for by David Seeman for Governor.

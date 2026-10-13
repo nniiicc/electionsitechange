@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 1816 Improving Seniors' Timely Access to Care Act Puts hard 24- and 72-hour decision deadlines on Medicare Advantage prior-authorization requests so Kansas seniors stop waiting weeks for care a doctor already prescribed.
 Prior authorization is the denial process I fight every day as a doctor.
 Patients deserve a yes-or-no on a timeframe that doesn't kill them while they wait. — Sen.

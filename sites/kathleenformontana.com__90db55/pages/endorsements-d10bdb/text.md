@@ -1,7 +1,8 @@
 0 Skip to Content About Kathleen Priorities Endorsements Senate District 31 Join Us!
 Open Menu Close Menu About Kathleen Priorities Endorsements Senate District 31 Join Us!
 Open Menu Close Menu About Kathleen Priorities Endorsements Senate District 31 Join Us!
-Endorsements Endorsements for Kathleen Williams’ campaign reflect shared values and trust. “…you are what we need in the Montana Senate.” –Beth & Lynn Kaeding “When I was diagnosed with cancer, my insurance company was unwilling to cover the recommended treatment.
+Endorsements Endorsements for Kathleen Williams’ campaign reflect shared values and trust.
+List View “…you are what we need in the Montana Senate.” –Beth & Lynn Kaeding “When I was diagnosed with cancer, my insurance company was unwilling to cover the recommended treatment.
 I contacted Kathleen, who was our representative in Helena at the time and she immediately came to my aid.
 With her perseverance, insurance companies changed their policies, not just for me, but for all cancer patients.” –Paul Burns "I can't imagine a better person than Kathleen to succeed me in Senate District 31; I only wish I had the opportunity to serve with her." -Sen.
 Pat Flowers, 2025-26 Minority Leader "I’ve known Kathleen for nearly 20 years, and throughout that time she has proven herself to be fair, dedicated, and deeply committed to serving the state she proudly calls home.
@@ -23,8 +24,9 @@ And she makes incredible salsa.
 I strongly endorse Kathleen for the Montana Senate.” – Sen.
 Mary McNally “We're excited to share our support for Kathleen Williams and her commitment to Montana!” - Kate and Kevin Emmerich BECOME AN ENDORSER!
 KATHLEEN’S ENDORSERS Douglas & Jean Badenoch Sen.
-Dick Barrett Carolyn J Boyd Paul Burns Barb Cestero Dulaney Collins Laura H.
+Dick Barrett Big Sky 55+ Carolyn J Boyd Paul Burns Pam & Bill Bryan Barb Cestero Dulaney Collins Laura H.
 Cunningham Tim Dallacqua Kate and Kevin Emmerich Sen.
 Bob Hawks Susan Higgins & Scott Gill Frank & Linda Johnson Beth & Lynn Kaeding Roland MacNichol Sen.
-Mary McNally Montana Federation of Public Employees Barbara & Ben Phinney Penelope & Ben Pierce Vito & Teresa Quatraro Eli Steinberg Carson Taylor JOIN US!
+Mary McNally Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Montana Rural Voters Action Fund Montana Sportsmen Alliance Lennox Niece Barbara & Ben Phinney Penelope & Ben Pierce Planned Parenthood Advocates of Montana Vito & Teresa Quatraro Patricia A.
+Simmons Professional Services Eli Steinberg Dede & Carson Taylor JOIN US!
 DONATE GET INVOLVED Paid for by Kathleen for Montana, PO Box 548 Bozeman, MT 59771 - Democrat

@@ -28,10 +28,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Brad Lee Barnhill’s approach",
 "href": "https://electbarnhill.net/about/about-brad/"
 },
@@ -64,12 +60,24 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
 {
 "text": "Independent",
 "href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada",
@@ -102,6 +110,10 @@
 {
 "text": "Secure Ballot Counting in Nevada Starts Here",
 "href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VW Themes",

@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 143 Natural Gas Tax Repeal Act Repeals the Biden-era methane fee on oil and natural gas in federal law so Kansas ratepayers don't see the cost passed through on their heating bills.
 The bill What it does.
 S.

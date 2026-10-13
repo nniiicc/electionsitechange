@@ -2,7 +2,7 @@ top of page VOLUNTEER MENU Close Home About Get Involved Blog All Posts All Post
 It isn't always about aging in place.
 Aging in town should be an option, too.
 There isn't a single housing solution because there isn't a single aging experience.
-Carolann Reid #ago 2 min read June Reflections: Listening, Learning, Moving Forward June has been a month of engagement and momentum.
+Carolann Reid Oct 5 2 min read June Reflections: Listening, Learning, Moving Forward June has been a month of engagement and momentum.
 Door knocking in Stratford Over the past several weeks, I've spent time knocking doors across the district, sometimes with volunteers, sometimes with State House candidates, and always with the goal of listening.
 Every conversation reinforces my decision to run for State Senate.
 People want leaders who listen with the intent of learning and are focused on practical solutions that improve their daily lives.

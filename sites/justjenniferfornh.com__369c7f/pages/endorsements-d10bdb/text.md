@@ -1,4 +1,7 @@
-0 Skip to Content Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Endorsements Thank you!!
+0 Skip to Content Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact "Jennifer LePla has my vote on Nov 3rd!
+As a life-long NRA member and local gunsmith, I know that Jennifer has proven she will defend the 2nd Amendment and our rights to bear arms.
+Jennifer received an A rating from the NRA.
+Jennifer will vote to protect our constitutional freedoms, and we need her voice in Concord." Rick Hiland Albany Selectman, Vice-Chairman Endorsements Thank you!!
 It is a great honor to have the endorsements in support of this campaign.
 Statewide, various elected officials, businesses, and most importantly: voters.
 Granite State Taxpayers: 100% Gold Rating granitestatetaxpayers.org RebuildNH: A rating Action.rebuildnh.com Cornerstone: It's an honor to receive the endorsement of Cornerstone.

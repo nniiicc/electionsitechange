@@ -1,4 +1,4 @@
-[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Get Involved Join our Coalitions Store Volunteer Contact X Donate This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Wilson for SC. websites that display this policy (the Sites).
+[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Vote Get Involved Join our Coalitions Store Volunteer Contact X Donate This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Wilson for SC. websites that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.

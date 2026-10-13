@@ -1,9 +1,4 @@
 Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved Back to Things Meegan is Thinking About Things Meegan is Thinking About · Campaign Analysis What Did Ottawa County Taxpayers Get for Their Money?
-30-second overview From the published campaign article Hambley retained her position.
-The court ordered 30-second overview 88,179.24 in her attorney fees; other county legal bills must be distinguished from this case.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.fox17online.com — linked reporting or reference. content.govdelivery.com — official document or government source. www.fox17online.com — linked reporting or reference. www.ottawanewsnetwork.org — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.michigan.gov — official document or government source. www.courts.michigan.gov — official document or government source. content.govdelivery.com — official document or government source.
 Health officer litigation Hambley retained her position.
 The court ordered $188,179.24 in her attorney fees; other county legal bills must be distinguished from this case.
 Read the details and sources The proposed $4 million settlement Settlement discussions were disputed.
@@ -113,11 +108,8 @@ No counting a planned connection as a connected home.
 No treating missing data as proof that a project failed.
 That is the standard residents should expect.
 As you read the record of the board Moss chaired, keep one question in mind: What changed for the people who live here?
-Source note: Adapted from the September 2026 “MOSS COSTS” review supplied to the campaign, with links to supporting records and reporting.
-Where the review does not verify a final cost, completion or service count, this article preserves that limitation.
-Missing measurements should not be read as proof of no benefit.
-This is campaign analysis, not an independent newspaper report.
-Back to Things Meegan is Thinking About Related reading What has happened with Ottawa County legal costs and settlements?
+Based on the September 2026 “MOSS COSTS” review supplied to the campaign and the records linked below.
+Back to Things Meegan is Thinking About Sources for this article www.fox17online.com content.govdelivery.com www.fox17online.com www.ottawanewsnetwork.org www.fox17online.com www.michigan.gov www.courts.michigan.gov content.govdelivery.com Related reading What has happened with Ottawa County legal costs and settlements?
 Ottawa County families got the bill.
-Joe Moss: “Leadership” Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Joe Moss: “Leadership” Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

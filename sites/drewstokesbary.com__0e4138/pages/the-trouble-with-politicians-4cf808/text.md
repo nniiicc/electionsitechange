@@ -14,5 +14,6 @@ He’s working hard on finding the funding to replace the overpass with one that
 None of it is easy, and every action has a reaction.
 While we don’t know the outcomes yet as the legislators continue to work through their special session, we do know that they have fought well for Sumner’s interests.
 And, because it doesn’t get said enough, I want to say “thank you,” because I think they really do deserve our thanks.
-In the News budget flooding legislature transportation More For You Early Endorsement from Stand for Children Endorsements Washington risks budgeting online sales tax revenue In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget flooding legislature transportation More For You Endorsed by League of Education Voters Endorsements Lawmakers concerned about auditor probe In the News Rep.
+Drew Stokesbary hosts town hall Saturday In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

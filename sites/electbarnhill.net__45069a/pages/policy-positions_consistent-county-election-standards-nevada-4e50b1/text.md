@@ -85,8 +85,13 @@ Nevada does not need more election arguments designed for cable news or social m
 It needs rules that county officials can carry out, voters can understand, and the public can verify.
 The work of protecting a vote is often quiet, detailed, and unglamorous.
 That is exactly why it deserves steady attention — results, not noise .
-Share: Categories: Policy Positions 1 thought on “Consistent County Election Standards: The Same Protections for Every Nevada Voter” Pingback: Secure Ballot Counting in Nevada Starts Here Post navigation Previous Previous post: A Voter in Ely Shouldn’t Have a Harder Path to the Ballot Next Next post: Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 1 thought on “Consistent County Election Standards: The Same Protections for Every Nevada Voter” Pingback: Secure Ballot Counting in Nevada Starts Here Post navigation Previous Previous post: A Voter in Ely Shouldn’t Have a Harder Path to the Ballot Next Next post: Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

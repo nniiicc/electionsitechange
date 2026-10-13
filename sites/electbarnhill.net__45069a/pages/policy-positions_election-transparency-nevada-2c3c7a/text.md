@@ -23,7 +23,7 @@ Observers should know ahead of time where they may stand, what they may document
 Election workers should get the same written guidance, so the rules apply the same way whatever party an observer belongs to.
 Observation isn’t confrontation.
 It’s accountability through visibility, and a well-organized process protects election workers as much as it reassures voters.
-Report what’s working, and what isn’t The quarterly public reports I’ve committed to should include numbers with context, not just raw data.
+(More on what observers should and shouldn’t do in What Election Observer Rights Mean for Nevada Voters .) Report what’s working, and what isn’t The quarterly public reports I’ve committed to should include numbers with context, not just raw data.
 For voter-roll maintenance: address updates, inactive-status changes, voters contacted, and duplicate or outdated records found and resolved.
 For Voter ID: how many voters asked for help getting identification, where problems clustered, and what was fixed before the next election.
 When voters can see the rolls being maintained carefully, they’re less likely to be surprised at the polls, and more likely to trust that the work is being done.
@@ -41,9 +41,9 @@ Is your candidate for Nevada Secretary of State fighting this hard to protect yo
 If not, it’s time to take a closer look.
 Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions Post navigation Next Next post: The Court Asked Who Has a Stake in My Lawsuit.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 1 thought on “Election Transparency in Nevada Means Showing the Work” Pingback: What Election Observer Rights Mean for Nevada Voters - Nevadans for Barnhill Post navigation Previous Previous post: What Election Observer Rights Mean for Nevada Voters Next Next post: The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You. footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

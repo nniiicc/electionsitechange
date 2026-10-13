@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release Adam Hamilton's Washington Fundraising Tour Day 2: The Schumer Fundraiser For immediate release September 17, 2026 WICHITA – Yesterday, while Republicans were passing the Farm Bill, Megachurch CEO Adam Hamilton continued his fundraising tour by kissing the ring of Chuck Schumer and Adam Schiff.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Press release Adam Hamilton's Washington Fundraising Tour Day 2: The Schumer Fundraiser For immediate release September 17, 2026 WICHITA – Yesterday, while Republicans were passing the Farm Bill, Megachurch CEO Adam Hamilton continued his fundraising tour by kissing the ring of Chuck Schumer and Adam Schiff.
 After publicly denying taking any money from Chuck Schumer, it only took five days for him to turn coat.
 Hamilton's very first vote will be for Chuck Schumer as leader.
 “Kansans deserve to know that his campaign is now being bankrolled by Schumer.

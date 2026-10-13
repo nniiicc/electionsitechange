@@ -1,4 +1,4 @@
-top of page DONATE ABOUT PLATFORM GET INVOLVED CONTACT Events PRESS Menu Close DONATE 13 days to the event Sat, Oct 24 Annual Gloria Butler Fish Fry / Lenora Park RSVP Oct 24, 2026, 3:00 PM – 5:00 PM Lenora Park, 4515 Lenora Church Rd, Snellville, GA 30039, USA For years, Senator Gloria Butler brought our community together through her annual fish fry.
+top of page DONATE ABOUT PLATFORM GET INVOLVED CONTACT Events PRESS Menu Close DONATE 11 days to the event Sat, Oct 24 Annual Gloria Butler Fish Fry / Lenora Park RSVP Oct 24, 2026, 3:00 PM – 5:00 PM Lenora Park, 4515 Lenora Church Rd, Snellville, GA 30039, USA For years, Senator Gloria Butler brought our community together through her annual fish fry.
 When she retired from the Georgia Senate, I made a commitment to her—and to our community—to keep this tradition going.
 I am proud to continue the Annual Gloria Butler Fish Fry in her name.
 DOREEN CARTER State Representative House District 93 Subscribe to our newsletter Email * Subscribe me to your newsletter.

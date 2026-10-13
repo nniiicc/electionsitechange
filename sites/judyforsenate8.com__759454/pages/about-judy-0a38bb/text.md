@@ -1,4 +1,4 @@
-top of page ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
+top of page VOTE ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
 REQUEST A YARD SIGN DONATE Teacher.
 Fighter.
 Neighbor.

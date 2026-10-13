@@ -37,7 +37,7 @@ What that would do to people's costs for their homes, their utilities.
 By the way, auto workers.
 I don't know if you noticed, we build cars in Michigan — kind of shocking — gas cars.
 You might want to take a tour of the state.” Learn more about Conman Abdul El-Sayed’s lies, corruption, and extremism at StopAbdul.com .
-### Hinson Peed Next Next MIKE ROGERS WINS WOOD TV DEBATE CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous AD: DEMOCRAT DETROITERS EMPHASIZE SUPPORT FOR MIKE ROGERS Next Next MIKE ROGERS WINS WOOD TV DEBATE CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

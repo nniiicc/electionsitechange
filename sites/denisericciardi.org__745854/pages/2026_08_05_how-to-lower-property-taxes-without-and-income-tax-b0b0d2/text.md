@@ -1,11 +1,10 @@
-Matt McLaughlin’s “three-step plan” to lower property taxes may sound good as a political soundbite, but the math does not hold up which makes higher taxes inevitable.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page How to Lower Property Taxes Without and Income Tax Aug 5, 2026 Matt McLaughlin’s “three-step plan” to lower property taxes may sound good as a political soundbite, but the math does not hold up which makes higher taxes inevitable.
 Voters in District 9 deserve numbers that add up without slamming their wallets.
-First: The State pays far more for Education Funding than McLaughlin Admits
-McLaughlin claims the state pays “around $4,800” per pupil instead of a $7,356 court-ordered floor, leaving a flat $2,500 gap that lands on your property tax bill.
+First: The State pays far more for Education Funding than McLaughlin Admits McLaughlin claims the state pays “around $4,800” per pupil instead of a $7,356 court-ordered floor, leaving a flat $2,500 gap that lands on your property tax bill.
 NH’s actual funding formula targets aid to communities most in need based on the students receiving free and reduced lunch, special education and students who speak English as a second language.
 Average per pupil education funding in NH is $7132 and total funding exceeds $1 billion — a very different picture than the flat $4,800 figure he’s discussing.
-Second: McLauglin’s Math Does Not Add Up
-He claims raising business taxes, repealing educational choice for at risk students and legalizing marijuana will fund the court mandate which costs $7356 per student or $536 million statewide.
+Second: McLauglin’s Math Does Not Add Up He claims raising business taxes, repealing educational choice for at risk students and legalizing marijuana will fund the court mandate which costs $7356 per student or $536 million statewide.
 He believes that business tax hikes could raise $100 million annually — but only if tax hikes don’t cause business slowdown.
 Repealing educational choice could produce another $50 million.
 Marijuana revenue at best will be small.
@@ -21,8 +20,7 @@ That Home Owner Tax could mean $1800 – $2000 additional tax on a home of media
 And let’s not forget that Home Owner Tax was coupled with a 3% income tax.
 A $375 million funding hole leads only one way – to the Home Owner / Income tax proposed on the State House steps.
 Rest assured, I do not support a new Homeowner Tax or an Income Tax.
-Third: Matt McLaughlin and I have clear differences
-I have actually done something to combat rising property taxes rather than offering plan that doesn’t even add up.
+Third: Matt McLaughlin and I have clear differences I have actually done something to combat rising property taxes rather than offering plan that doesn’t even add up.
 My legislation in 2021 that became part of the budget guaranteed towns received 30% of the Rooms and Meals Tax Revenue.
 Since then, funding has doubled for towns.
 The 13 towns in District 9 received $5.7 million this year.
@@ -49,3 +47,7 @@ States around us have both an income and sales tax.
 They also have higher property taxes than NH.
 I will continue to fight for lower property taxes as I have done without leading us to an income tax, a sales tax or new homeowner tax as Matt McLaughlin and his funding shortfall would do.
 That is the key difference between us.
+SEARCH OUR SITE Search for: Click on the titles to read the full article and reveal the sharing icons.
+Recent Posts Sen.
+Ricciardi Airs Proposals Aimed at Reducing Property Taxes October 12, 2026 Recent Press Releases October 9, 2026 Fighting for NH Families October 8, 2026 Bedford Safety Complex Open House October 6, 2026 The Cure Café October 5, 2026 Childrens Environmental Health Day on October 8 October 5, 2026 Dedication of McDonald Fire Station in New Boston October 5, 2026 Friends of the Greenfield Community Meetinghouse Hold 7th Annual Oktoberfest October 1, 2026 Sen.
+Ricciardi Unveils Plan for Reducing High Property Taxes September 30, 2026 New Hampshire-Greece Trade Council Ceremonial Signing at 47th Glendi September 29, 2026 Senator Ricciardi Visits Jaffrey Select Board to Discuss Recent Legislation, Town Concerns September 29, 2026 Ricciardi is ‘Our Own Erin Brockovich’ September 25, 2026 Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

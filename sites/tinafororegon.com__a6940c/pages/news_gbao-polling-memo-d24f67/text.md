@@ -14,4 +14,4 @@ The survey was conducted by telephone using live interviewers and text.
 The survey is subject to a 3.5 percentage point margin of error at the 95% confidence level.
 Join us!
 Fighting for progress takes all of us.
-Join Team Tina today and become part of the movement fighting for Oregon’s future. press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+Join Team Tina today and become part of the movement fighting for Oregon’s future. info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

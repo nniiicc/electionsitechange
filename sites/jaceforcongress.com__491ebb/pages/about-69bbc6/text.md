@@ -9,5 +9,6 @@ He is a former fellow of the John Jay Institute for Faith, Society and Law, Alli
 With his wife and high school sweetheart, Elizabeth, he founded Saint Francis Academy, a classical Christian school that reflects their shared passion for shaping the next generation.
 Actively engaged in their local church, raising five children, the Yarbroughs live out their values at home and in the community.
 In 2024, Jace volunteered to deploy to inner-city Detroit as an attorney to combat voter fraud and ensure President Trump's victory in Michigan was securely protected.
+Currently a Major in the US Air Force, where he has served for the past 15 years, Jace Yarbrough has always put service first.
 He’s running for Congress because real patriots need to get in the fight for America’s future and stand up for our MAGA movement.
 Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

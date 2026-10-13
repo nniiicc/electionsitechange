@@ -15,7 +15,7 @@ I have truly enjoyed getting to know Carina as a colleague, as a fellow parent, 
 I have a great deal of respect for the care, thoughtfulness, and dedication she brings to serving Arlington Heights.
 Due to this dedication to serving, I fully endorse her candidacy for the Illinois State Senate.” - Colin Gilbert Arlington Heights Village Trustee Be a part of the change you want to see in our communities.
 DONATE NOW Support our campaign for a better Illinois by contributing a donation below.
-Checks can also be made payable to Citizens for Carina and mailed to: # S Elmhurst Road, PO Box 84, Prospect Heights, IL 60070 Endorsements Jessi Cabanin https://thiswaytofabulous.com/ Next Next Showing Up, Listening, and Disagreeing Respectfully HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
+Checks can also be made payable to Citizens for Carina and mailed to: # S Elmhurst Road, PO Box 84, Prospect Heights, IL 60070 Endorsements Jessi Cabanin https://thiswaytofabulous.com/ Previous Previous Officially Endorsed by The Chicago Tribune Next Next Showing Up, Listening, and Disagreeing Respectfully HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
 DONATE NOW Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay Updated Sign up with your email address to receive news and updates.

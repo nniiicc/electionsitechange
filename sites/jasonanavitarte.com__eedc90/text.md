@@ -22,21 +22,25 @@ I will work with each county to advocate for new businesses to come to our area.
 As I stated in the education section, we must have a workforce available to encourage new businesses to come and that starts with offering educational classes that will train our students in the skills needed for future jobs.
 Having broadband that is accessible to all of the district is essential to economic development.
 2023 Legislative Updates Week 1 Legislative Update Week 2 Legislative Update Week 3 Legislative Update Week 4 Legislative Update Week 6 Legislative Update Week 7 Legislative Update Week 8 Legislative Update Week 9 Legislative Update Follow me on Twitter Jason R.
-Anavitarte Follow 17,447 2,337 Husband.
+Anavitarte Follow 17,448 2,337 Husband.
 Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
-Go Jackets! 🐝 ; Jason R.
-Anavitarte @jasonanavitarte · 1h 2109615500380586193 🇺🇸🇺🇸🇺🇸 Arlington National Cemetery @ArlingtonNatl Attn Family Pass Holders!
+Go Jackets! 🐝 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; Greg Bluestein @bluestein · 23h 2109647786719199394 “The number one responsibility of the governor is to make sure that our citizens are safe,” Gov.
+Kemp says.
+“And this election, to me, is a clear contrast about who will do that, who will get in the trenches, who will stand shoulder to shoulder with local law enforcement and Twitter feed image.
+Twitter feed image.
+Reply on Twitter 2109647786719199394 Retweet on Twitter 2109647786719199394 4 Like on Twitter 2109647786719199394 16 Twitter 2109647786719199394 ; Jason R.
+Anavitarte @jasonanavitarte · 12 Oct 2109615500380586193 🇺🇸🇺🇸🇺🇸 Arlington National Cemetery @ArlingtonNatl Attn Family Pass Holders!
 Wreaths Across America Family Pass Holder Day will now be two days, Dec.
 12 & 13, 8 a.m. – 5 p.m.
 Wreaths Across America Day is Dec.
 19 at 8 a.m.
 Additional details will become available over the next month!
 Reply on Twitter 2109615500380586193 Retweet on Twitter 2109615500380586193 0 Like on Twitter 2109615500380586193 0 Twitter 2109615500380586193 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Laura Loomer @LauraLoomer · 19h 2109349470399766722 Abdul El-Sayed signed a pledge in support of the Muslim Brotherhood while he was a student.
+Anavitarte Retweeted ; Laura Loomer @LauraLoomer · 11 Oct 2109349470399766722 Abdul El-Sayed signed a pledge in support of the Muslim Brotherhood while he was a student.
 He pledged his support to Mohammed Morsi, the leader of the Muslim Brotherhood in Egypt.
 I broke this story in 2018 and then shared it again this election season.
 He lied to Twitter feed video.
-Reply on Twitter 2109349470399766722 Retweet on Twitter 2109349470399766722 5579 Like on Twitter 2109349470399766722 11813 Twitter 2109349470399766722 ; Jason R.
-Anavitarte @jasonanavitarte · 17h 2109376019912429732 #NEPats LFG New England Patriots @Patriots THROWBACK W Reply on Twitter 2109376019912429732 Retweet on Twitter 2109376019912429732 0 Like on Twitter 2109376019912429732 0 Twitter 2109376019912429732 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE
+Reply on Twitter 2109349470399766722 Retweet on Twitter 2109349470399766722 6094 Like on Twitter 2109349470399766722 12742 Twitter 2109349470399766722 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

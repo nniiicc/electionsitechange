@@ -19,9 +19,9 @@ Illinois has extraordinary people, strong communities, world-class employers and
 Yet policy decisions in Springfield have eroded some of these advantages and have made it harder to stay, raise a family and build a business here.
 See the Issues Get involved Get to Know The Man Behind The Campaign Values, Perspective, action Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-Sign Up for campaign updates 56,000+ illinois Residents lost to domestic out-migration, 2023 to 2024 That trend is not sustainable.
-When businesses leave or never locate here, residents bear the burden of the lost tax base.
-Issues and Priorities Results Ahead of Ideology The Illinois 57th District deserves disciplined, independent representation focused on results not ideology.
+Sign Up for campaign updates Chicago Tribune Endorsed "Katz Muhl has served her constituents well and has received our endorsement in the past, but Behr makes a credible case for a different approach.
+It’s a close call.
+But with Democrats holding overwhelming majorities in Springfield, Illinois voters would benefit from more independent voices challenging the status quo." THE EDITORIAL BOARD Chicago Tribune Issues and Priorities Results Ahead of Ideology The Illinois 57th District deserves disciplined, independent representation focused on results not ideology.
 Priority One Cost Control and Economic Discipline Focus on affordability, transparency, and sustainable government costs.
 Affordability, Property Taxes & Government Transparency The rising cost of living, particularly property and other taxes, is a major concern in the 57th District.
 Meaningful tax relief requires taxpayers to be able to see clearly where their money goes, why costs are increasing and what results they receive.
@@ -79,9 +79,12 @@ Greater judicial discretion should therefore be combined with the clear-and-conv
 Safe neighborhoods protect families and property values.
 Recent armed home invasions in Northbrook and Glencoe remind us that public safety must remain a priority.
 Safety and fairness are not opposites.
-Election Day is Tuesday, November 3, 2026 Make a plan to vote The 57th District Deserves What Dan Supports Responsible spending and resistance to unnecessary tax and fee increases Safe communities with policies that deter crime and hold repeat violent offenders accountable Strong schools focused on foundational education and academic rigor Measurable results for taxpayer dollars Effective government focused on results, not ideology Who Supports Dan Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-John Doe Designer Practical Experience for Springfield Serious problems require serious preparation Grounded in Economics.
+56,000+ illinois Residents lost to domestic out-migration, 2023 to 2024 That trend is not sustainable.
+When businesses leave or never locate here, residents bear the burden of the lost tax base.
+The 57th District Deserves What Dan Supports "Katz Muhl has served her constituents well and has received our endorsement in the past, but Behr makes a credible case for a different approach.
+It’s a close call.
+But with Democrats holding overwhelming majorities in Springfield, Illinois voters would benefit from more independent voices challenging the status quo.
+Daniel Behr is endorsed." THE EDITORIAL BOARD Chicago Tribune Responsible spending and resistance to unnecessary tax and fee increases Safe communities with policies that deter crime and hold repeat violent offenders accountable Strong schools focused on foundational education and academic rigor Measurable results for taxpayer dollars Effective government focused on results, not ideology Election Day is Tuesday, November 3, 2026 Make a plan to vote Practical Experience for Springfield Serious problems require serious preparation Grounded in Economics.
 Driven by Results.
 Applied Economics PhD in Applied Economics.
 Small Business Small business professional and business consultant.

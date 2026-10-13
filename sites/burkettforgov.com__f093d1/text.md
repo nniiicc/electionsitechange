@@ -310,4 +310,4 @@ For even more information on where I stand on the issues, click the white button
 More Info History in Pictures History in Pictures History in Pictures Want to know my views on various subjects?
 Help fuel our success by getting our word out!
 Please join our email list Email Sign up PRESS RELEASES Press release announcing candidacy 5.18.26 (pdf) Download Connect With Us Political advertisement paid for and approved by Charles Burkett, NPA, for Florida Governor Featured Products Copyright © # Burkett for FL Governor - All Rights Reserved.
-Powered by More on where I stand Privacy Policy Terms and Conditions Both Parties Want to Crush Us by Pretending We Don't Exist "First they ignore you, then they laugh at you, then they fight you, then you win" Ghandi
+Powered by More on where I stand Privacy Policy Terms and Conditions Not Dead Yet WATCH VIDEO

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute WHAT VOTERS NEED TO KNOW ABOUT JAMES Updated: September 10th Persuadable Texas voters statewide need to see and hear the following message on all digital and streaming platforms at high frequencies.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute WHAT VOTERS NEED TO KNOW ABOUT JAMES Updated: September 10th Persuadable Texas voters statewide need to see and hear the following message on all digital and streaming platforms at high frequencies.
 Voters need to continue to hear that Ken Paxton is the most corrupt politician in Texas.
 Specifically, they need to hear about Paxton’s sweetheart deal for Adam Hoffman, who admitted to sexually abusing a child.
 Hoffman should’ve spent his life in prison, but Ken Paxton offered him one day in jail.

@@ -2,7 +2,6 @@
 Everyone’s welcome to come have a sip and chat with Monica at one of the district’s locally owned businesses.
 This coffee meeting repeats on the second Thursday of every month.
 See the events page for other coffee meetings.
-Previous Previous October 3 One Colorado Prism Awards Next Next November 3 Election Day!
-Paid for by Monica for Colorado.
+Previous Previous October 3 One Colorado Prism Awards Next Next October 15 Cook Park Neighborhood Association (CPNA) Meeting Paid for by Monica for Colorado.
 Registered Agent Monica VanBuskirk.
 Privacy policy

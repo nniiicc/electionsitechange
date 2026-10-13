@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 331 HALT Fentanyl Act Permanently classifies fentanyl and its chemical cousins as the most tightly controlled drugs in federal law, closing the loophole chemists used to stay one step ahead of the DEA.
 The bill What it does.
 The HALT Fentanyl Act keeps fentanyl and the chemical cousins traffickers engineer to skirt the law on the most-controlled drug list permanently.

@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker June 30, 2021 Colorado's immigrants now have more protections, benefits in state law Morgan Anker June 30, 2021 Democratic lawmakers passed more than a dozen pro-immigrant bills this year By SAJA HINDI | shindi@denverpost.com | The Denver Post June 26, 2021 at 6:00 a.m.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker June 30, 2021 Colorado's immigrants now have more protections, benefits in state law Morgan Anker June 30, 2021 Democratic lawmakers passed more than a dozen pro-immigrant bills this year By SAJA HINDI | shindi@denverpost.com | The Denver Post June 26, 2021 at 6:00 a.m.
 In a year that Sen.
 Julie Gonzales called “transformative” for immigrants in Colorado, lawmakers passed more than a dozen bills aimed at helping a population they say suffered disproportionally over the last year.
 Several have been signed into law, including HB21-1075 , repealing the use of the term “illegal alien” in state statute; HB21-1057 , expanding the state’s criminal extortion law to prohibit threatening to report a person’s immigration status to take advantage of them; HB21-1054 , allowing immigrants without documentation to apply for housing assistance ; and SB21-077 , removing lawful presence as a requirement for professional licensing.

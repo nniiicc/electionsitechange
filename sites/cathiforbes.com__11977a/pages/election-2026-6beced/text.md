@@ -4,7 +4,8 @@ Where to Vote Early Voting: You may vote between 7 a.m. and 8 p.m. at any Baltim
 The one in our district is: Towson University , South Campus Pavilion, 1 Auburn Drive, Towson, MD.
 Other locations can be found here .
 Election Day: Check your voter card, or find your polling place here .
-Drop Box Locations: ‍ ‍ Locations will be posted here when made available by the state.
+Drop Box Locations: ‍ ‍ The closest drop by is also at Towson University’s South Campus Pavilion — 1 Auburn Drive.
+Here is a complete list of drop box locations throughout Maryland.
 Vote By Mail Maryland now allows voting by mail on a permanent basis, so you don’t have to re-apply each election .
 More information can be found here .
 Register to Vote The deadline to register for the General Election is October 13.

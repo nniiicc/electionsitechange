@@ -1,4 +1,4 @@
-Skip to content Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media About Brandy Donaghy lives in unincorporated Snohomish County with her family.
+Skip to content Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS Donate Media Voter Info Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS Donate Media Voter Info About Brandy Donaghy lives in unincorporated Snohomish County with her family.
 She is a community organizer and volunteers with a number of local, state, and national organizations.
 Brandy credits her mother who was a registered nurse and active with her union in instilling the importance of public service.
 She is a First Gulf War era U.S.

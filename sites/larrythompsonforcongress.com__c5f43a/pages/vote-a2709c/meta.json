@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.larrythompsonforcongress.com/vote",
- "fingerprint": "0126f3ca8571a60e6bee73f9a60ae62af2895f05",
+ "fingerprint": "8b5a78062df08a07849ad3c9715953e3217ed33f",
  "format": 3,
  "paid_for_by": "PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

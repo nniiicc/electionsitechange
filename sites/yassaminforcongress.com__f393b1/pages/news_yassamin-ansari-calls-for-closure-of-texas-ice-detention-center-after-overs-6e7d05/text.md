@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute July 29, 2026 Yassamin Ansari calls for closure of Texas ICE detention center after oversight visit The Arizona congresswoman visited the Texas ICE facility and called conditions for detained women, children and families “nothing short of horrific.” Arizona Rep.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute July 29, 2026 Yassamin Ansari calls for closure of Texas ICE detention center after oversight visit The Arizona congresswoman visited the Texas ICE facility and called conditions for detained women, children and families “nothing short of horrific.” Arizona Rep.
 Yassamin Ansari called for the immediate closure of the Dilley ICE detention center Tuesday after visiting the facility with a congressional delegation.
 Ansari, who represents Arizona’s 3rd Congressional District, called the conditions for detained women, children and families horrific.
 “Children are being jailed and traumatized while private contractors’ profit from it, all at the expense of American taxpayers,” Ansari said in a statement.

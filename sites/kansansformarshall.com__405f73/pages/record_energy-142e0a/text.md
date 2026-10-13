@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · All of the above Energy Oil, gas, wind, and Kansas-grown ethanol — no apologies for any of them.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · All of the above Energy Oil, gas, wind, and Kansas-grown ethanol — no apologies for any of them.
 Finding Oil, gas, wind, and Kansas-grown ethanol — no apologies for any of them.
 What's wrong.
 What it costs the patient.

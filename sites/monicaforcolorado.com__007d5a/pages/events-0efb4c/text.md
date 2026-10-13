@@ -1,6 +1,24 @@
 0 Skip to Content About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Join our community-powered campaign, meet neighbors, and share your ideas, concerns, and issues.
 I can’t wait to meet you and hear what’s on your mind!
-Nov 3 Election Day!
+Oct 15 Cook Park Neighborhood Association (CPNA) Meeting Thursday, October 15, 2026 6:00 PM 7:00 PM Cook Park Recreation Center (map) Google Calendar ICS Monica will be at the Cook Park Neighborhood Association’s October meeting and is happy to answer your questions.
+Come say hello, hear what’s happening in the neighborhood, and share what matters to you.
+The meeting starts at 6:00 PM at the Cook Park Recreation Center.
+Can’t make it in person?
+A virtual option is available, sign up here: https://cookparkneighborhood.com/event/cpna-monthly-meeting-2026-october Hosted by the Cook Park Neighborhood Association (CPNA).
+View Event → Oct 18 Cook Park Fall Clean-Up Sunday, October 18, 2026 2:00 PM 4:00 PM Cook Park (map) Google Calendar ICS Join Monica and neighbors for the Cook Park Fall Clean-Up!
+We’ll be picking up litter along Cherry Creek and around Cook Park to get the neighborhood ready for the season.
+Grabbers and trash bags are provided.
+Bring work or gardening gloves.
+Kids are welcome with an adult.
+Please RSVP so organizers can plan equipment: https://cookparkneighborhood.com/event/clean-up-fall-2026 Hosted by the Cook Park Neighborhood Association.
+View Event → Oct 22 NCJW Colorado Candidates' Fair and Forum Thursday, October 22, 2026 6:30 PM 7:30 PM Temple Emanuel (map) Google Calendar ICS Meet Monica at the National Council of Jewish Women Colorado Candidates’ Fair!
+Stop by to say hello, ask your questions, and learn more about her campaign for House District 9.
+The in-person Candidates’ Fair meet-and-greet runs from 6:30 to 7:30 PM.
+It’s followed by the Candidates’ Forum from 7:30 to 9:30 PM, featuring U.S.
+Senate, U.S.
+House and statewide candidates.
+Hosted by the National Council of Jewish Women Colorado.
+View Event → Nov 3 Election Day!
 Tuesday, November 3, 2026 12:01 AM 7:00 PM Google Calendar ICS If you want to vote in-person, you may return your mail ballot and vote in-person at a voter service and polling center.
 Even if you do not return your mail ballot you may still vote in person.
 The deadline to vote in-person is 7:00 PM on Election Day.

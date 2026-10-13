@@ -1,4 +1,4 @@
-Skip to content Meet Bill Issues Events Volunteer Donate Donate State Representative · 173rd District Bill Griffin : Proven Educator.
+Skip to content Meet Bill Issues Events Videos Volunteer Donate Donate State Representative · 173rd District Bill Griffin : Proven Educator.
 Trusted Neighbor.
 Dedicated to the Northeast.
 For more than 35 years, Bill Griffin served Philadelphia’s children and families as a special education teacher, administrator, and principal.
@@ -202,6 +202,6 @@ Be part of the conversation.
 If you have an issue that matters to you, Bill wants to hear from you.
 Northeast Philadelphia Pennsylvania’s 173rd District bill@electbillgriffin.com Request a yard sign Follow Bill Get in touch Want to help, or have a question for Bill ?
 Send a message and the campaign will get back to you.
-Name Email I’d like to Volunteer Get campaign updates Ask Bill a question Message Send message Meet Bill Issues Events Volunteer Donate Paid for by Bill Griffin for State Representative 8629 Yale Pl, Philadelphia, PA 19136 © 2026 Bill Griffin .
+Name Email I’d like to Volunteer Get campaign updates Ask Bill a question Message Send message Meet Bill Issues Events Videos Volunteer Donate Paid for by Bill Griffin for State Representative 8629 Yale Pl, Philadelphia, PA 19136 © 2026 Bill Griffin .
 All rights reserved.
 Follow Bill

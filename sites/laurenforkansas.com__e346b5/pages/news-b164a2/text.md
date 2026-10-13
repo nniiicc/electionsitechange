@@ -4,7 +4,7 @@ Vote for Lauren on November 3rd. https://www.facebook.com/reel/1113125337873852 
 Tracey Mann failed to show up.
 #ago 1 min read Big First Congressional Candidates' Debate -- hosted by Fort Hays State University Lauren repeatedly countered Tracey Mann's claims, pointing out that he has consistently voted against the interests of Kansans in favor of the Trump agenda.
 Lauren expressed her concerns about impending hits to rural hospitals and reiterated her dedication to reversing the trajectory of increasing daily costs (groceries, everyday good, gas/diesel, healthcare) rapidly out-pacing income.
-#ago 1 min read Taking the Fight for Accountability to Washington!
+Oct 5 1 min read Taking the Fight for Accountability to Washington!
 Lauren joined a gathering of federal candidates at Take BAC Congress for essential discussions for restoring the balance of power.
 All candidates have made signed commitments to fight for Getting Corporate Money Out of Politics, No Stock Trading for Members of Congress, A Five-Year Moratorium on Lobbying, A Code of Judicial Ethics for the Supreme Court, and Congressional Term Limits.
 Lauren's committment to these prinicples is rooted in her unwavering belief that our govern Sep 30 1 min read Lauren Reinhold for Kansas 4000 W.

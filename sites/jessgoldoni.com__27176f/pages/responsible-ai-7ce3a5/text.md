@@ -16,104 +16,54 @@ No name or email required.
 What concerns you most about AI?
 A Jobs and the future of work B Scams, deepfakes and misinformation C Kids and AI D Privacy and personal data E Data centers, energy and water use F I’m more excited than concerned G Something else One response per browser.
 Selecting an answer submits your vote.
-Growth with accountability NEBRASKA IS NOT READY FOR MORE LARGE-SCALE DATA CENTERS.
+Growth with accountability Nebraska is not ready for more large-scale data centers.
 No more building first and asking questions later.
-Before I support another large-scale project, Nebraska needs one tough standard for power, water, ratepayer protection, transparency and community return.
-Jess’s position Meet the standard or don’t build here.
-I want the growth and the jobs.
+Before I support another major project, Nebraska needs clear, enforceable standards for power, water, transparency and community benefit.
+Jess’s position I want growth and jobs.
 But Nebraska sets the terms.
-PROTECT OUR POWER A large-scale project should not raise residential or small-business rates.
-If a project needs new generation, transmission, storage or other infrastructure, the project should provide or pay for the capacity needed to serve it.
-No impact on existing ratepayers.
-No public risk.
-PROTECT OUR WATER A large-scale project should not reduce the water available to Nebraska families, farms or communities.
-Before approval, the project should show how its water needs will be met without creating new pressure on existing users, including conservation, reuse, recycling or additional infrastructure where appropriate.
-No net burden on Nebraska’s water resources.
-SHOW US THE NUMBERS If a project uses Nebraska’s water, power, infrastructure or public tax incentives, Nebraskans should be able to see the basic facts.
-That includes: Projected and actual power use Projected and actual water use Public incentives Infrastructure commitments Potential effects on residential rates Community benefits Whether the company delivered what it promised Recent data center reporting showed the gap between requiring information and actually making useful information available to the public.
-Legitimate trade secrets should be protected.
-But basic use of Nebraska’s water and power should not be hidden.
-LEAVE NEBRASKA WHOLE — THEN ADD VALUE Meeting the standard should mean the project does not make Nebraska worse off.
-No higher rates.
-No new pressure on existing water supplies.
-No stranded infrastructure.
-No shifting private risk to taxpayers or ratepayers.
-The project should cover its impact first.
-The community benefit should be additional.
-First, neutralize the impact.
-Then provide a measurable public return.
-THE STANDARD COMES FIRST.
-Before another major project moves forward, Nebraska should be able to answer: Will residential or small-business rates go up?
-Does the project bring or pay for the power capacity it needs?
-Does it add pressure to existing water supplies?
-Who pays for new infrastructure?
-What happens if the project downsizes or leaves?
-What public incentives are involved?
-What is the guaranteed community benefit?
-Can the public verify the promises afterward?
-The standard should be simple: No new burden on Nebraska’s people or resources.
-The project covers its impact and provides an additional community benefit.
-Until Nebraska can answer those questions consistently, we should not keep approving large-scale projects and figuring out the rules afterward.
-JESS’S PLAN 01 1.
-ONE STRONG NEBRASKA STANDARD.
-ONE COORDINATED PROCESS.
-Large-scale data centers do not stop at county lines.
-Nebraska needs one statewide standard and one coordinated review so major projects are judged by the same basic rules.
-Counties, NRDs, utilities and local governments keep the decisions that belong to them.
-The statewide standard gives them a stronger foundation to work from.
-One front door.
-One standard.
-Local control stays intact.
-02 2.
-MAKE LB1010 WORK.
-Nebraska has already taken important steps on large-load protections, reporting and community-benefit agreements.
-Now make those requirements actionable and enforceable.
-Turn reporting into information the public can actually use.
-Make sure obligations are enforced.
-Make sure protections are actually protecting ratepayers.
-03 3.
-GUARANTEE A MEASURABLE COMMUNITY RETURN.
-Community benefit should not be used to compensate Nebraska for harm the project created.
-The project should first meet a human- and resource-neutral standard: no higher rates, no added strain on existing water supplies, and no public infrastructure risk.
-Then the community benefit is additional.
-Nebraska should establish a clearer statewide formula based on project size and impact, including: Tax incentives Power demand Water use Infrastructure needs Local impact The affected community should have a public role in deciding how that benefit is used.
-That could include local hiring, workforce training, apprenticeships, roads, water infrastructure, emergency services or other long-term community needs.
-Cover your impact first.
-Then invest in the community hosting you.
-04 4.
-CREATE PERMANENT TECHNOLOGY OVERSIGHT.
-This is bigger than data centers.
-Technology now affects banking, insurance, health care, education, agriculture, energy, jobs, privacy and government services.
-Nebraska needs a permanent place in the Legislature looking across those issues: How is AI being used?
-What decisions are being automated?
-What data is being collected?
-Who can challenge a decision?
-Who is accountable?
-Where has existing law failed to keep up?
-Technology is moving across every industry.
-Legislative oversight needs to keep up with it.
-AI DOES NOT GET A FREE PASS.
-If AI is used to make an important decision about your health care, insurance, job or government services, you should know.
-You should be able to question the decision.
-And a real person should remain accountable.
+Meet the standard or don’t build here.
+Protect our power Families and small businesses should not pay higher rates to power a data center.
+Projects must provide or pay for the power capacity and infrastructure they need.
+No costs or private risk shifted to ratepayers.
+Protect our water Projects must show how they will meet their water needs without reducing supplies for Nebraska families, farms or communities.
+No added strain on our water resources.
+Show us the numbers Make power use, water use, tax incentives, infrastructure commitments and community benefits public.
+Protect legitimate trade secrets while letting Nebraskans verify whether companies deliver on their promises.
+Our resources should not come with hidden numbers.
+Cover the impact.
+Then add value.
+Projects must cover their costs and protect the public if they downsize or leave.
+Community benefits must be additional, measurable and shaped by the people hosting the project.
+Leave Nebraska whole.
+Then invest in its future.
+Jess’s plan 01 01.
+One statewide standard.
+A coordinated review.
+Apply consistent rules to major projects while preserving the authority of counties, NRDs, utilities and local governments.
+02 02.
+Make LB1010 work.
+Make its protections enforceable, its reporting useful to the public and its commitments accountable.
+# 03.
+Guarantee a community return.
+Set a clear community-benefit formula based on project size, resource use, incentives and local impact.
+Give residents a voice in directing investments toward workforce training, infrastructure and other long-term needs.
+04 04.
+Create permanent technology oversight.
+Establish ongoing legislative oversight of AI and technology across health care, banking, education, agriculture, jobs and government services.
+AI does not get a free pass.
+If AI helps make an important decision about your health care, insurance, job or government services, you should know, be able to question it and have a real person held accountable.
 The technology may be new.
 Accountability is not.
-I KNOW ENOUGH ABOUT THIS TECHNOLOGY TO ASK HARDER QUESTIONS.
+I know enough to ask harder questions.
 I co-founded an AI education and implementation company.
-I work with businesses on the questions that matter in the real world: What does it cost?
-What is the return?
-What changes for workers?
-What happens to our data?
-What risks are we taking?
-Who is accountable?
-The more I have learned, the less comfortable I am with “trust us.” The people selling the technology should not be the only people explaining the technology.
-NEBRASKA SETS THE TERMS.
+I work with businesses on costs, results, worker impacts, data and accountability.
+The more I learn, the less comfortable I am with “trust us.” The people selling the technology should not be the only people explaining it.
+Nebraska sets the terms.
 No blank checks.
 No hidden numbers.
-No higher rates for families and small businesses.
-No new burden on Nebraska’s water and infrastructure.
-No shifting private risk onto the public.
-No more building first and figuring out the rules later.
+No higher rates or added strain on our water.
+No private risk pushed onto the public.
+Until clear protections are in place, Nebraska should not approve more large-scale projects.
 Our power.
 Our water.
 Our data.

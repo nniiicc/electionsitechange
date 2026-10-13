@@ -1,7 +1,7 @@
 Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
-Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Little Lisa Little Lisa 1985 "Oh, little Lisa.
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story HD61 Updates Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Little Lisa Little Lisa 1985 "Oh, little Lisa.
 We always wondered what happened to you! " In 1985, at the urging of her husband, Phil, to find out medical history six months into her pregnancy, Lisa placed a cold call wondering if this could be her birth father's family.
 Indeed it was—well, almost.
 Aunt "Tricia" answered the call.
@@ -73,5 +73,5 @@ They finally got a daughter-in-law on Leap Day 2024.
 They look forward to getting two more daughters-in-law and many more grandchildren.
 (No pressure, right!?!?
 Phil is a gaffer in the film industry, lighting industrial and retail commercials, and owns a film studio in Orem.
-Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+HD61 Updates Volunteer Contact Privacy Policy Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
 Powered by Thank YOU for the honor and privilege to serve!

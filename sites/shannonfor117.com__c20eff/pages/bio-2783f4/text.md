@@ -1,4 +1,4 @@
-top of page Home Bio Issues Contact Us I'm MJ Shannon and I'm Fighting for You in Hartford I have the experience, the connections, and the care to best lead our district. ​As an organizer and advocate, I've worked with a diverse group of people in order to build coalitions of support for various causes.
+top of page Home Bio Issues Endorsements Contact Us I'm MJ Shannon and I'm Fighting for You in Hartford I have the experience, the connections, and the care to best lead our district. ​As an organizer and advocate, I've worked with a diverse group of people in order to build coalitions of support for various causes.
 I know how to work with Democrats, Republicans, and everything in between to get things done.
 In just two sessions, I have helped secure millions in education funding, municipal aid, and our local small businesses.
 I continue to focus on protecting our environment and our shoreline, as my work on the Environment Committee the past two years has led to increased coastal resiliency efforts.

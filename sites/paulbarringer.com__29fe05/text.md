@@ -3,7 +3,7 @@ North Carolina values.
 Paul Barringer, Democrat for Congress.
 I’m running for US Congress to put the people of District 13 first – ahead of any big corporations, partisan agenda, or the DC establishment.
 Add your name and contact information below to join the campaign and receive our updates.
-Volunteer Contribute I’m Paul Barringer.
+Volunteer Contribute Get A Yard Sign I’m Paul Barringer.
 Hello & welcome!
 My name is Paul Barringer, and I’m running for Congress in North Carolina’s 13th Congressional District.
 I’m a husband, father, lawyer, Eagle Scout, Sunday School teacher, and endurance athlete.

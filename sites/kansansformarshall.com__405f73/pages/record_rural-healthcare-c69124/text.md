@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · HELP Committee · Doctors Caucus Rural Healthcare 82 of Kansas's 124 hospitals are Critical Access.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · HELP Committee · Doctors Caucus Rural Healthcare 82 of Kansas's 124 hospitals are Critical Access.
 We protect them.
 Finding 82 of Kansas's 124 hospitals are Critical Access.
 We protect them.

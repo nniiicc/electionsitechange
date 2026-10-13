@@ -1,4 +1,4 @@
-Skip to main content READ TO LEAD RHYS READ · ILLINOIS HOUSE DISTRICT 56 ☰ About Issues Positions Record Events Get Involved Contact Donate Republican Candidate · General Election Nov 3, 2026 READ TO LEAD Rhys Read for Illinois House District 56 A certified public accountant by training who spent his career reading every line of the budget — fighting to cut property taxes, restore fiscal discipline in Springfield, and keep our Des Plaines-area communities safe and thriving.
+Skip to main content READ TO LEAD RHYS READ · ILLINOIS HOUSE DISTRICT 56 ☰ About Issues Positions Record Events Get Involved Contact Donate Endorsed by the Chicago Tribune · Oct 12, 2026 Candidate for State Representative · General Election Nov 3, 2026 READ TO LEAD Rhys Read for Illinois House District 56 A certified public accountant by training who spent his career reading every line of the budget — fighting to cut property taxes, restore fiscal discipline in Springfield, and keep our Des Plaines-area communities safe and thriving.
 Donate Get Involved Meet Rhys A lifelong numbers guy, running because the numbers in Springfield don't add up.
 Rhys Read is a certified public accountant by training who spent his career as a corporate controller and treasurer, including running a major pension fund — the person responsible for keeping the books accurate, the budgeting honest, and long-term obligations fully funded.
 He knows what it takes to manage other people's money responsibly, because he did it for decades.
@@ -19,6 +19,8 @@ Rhys will work to keep our state competitive — so businesses, good jobs, and t
 04 / QUALITY OF LIFE Safe, Thriving Communities Strong local schools, safe neighborhoods, and reliable services are what make Des Plaines, Schaumburg, Elk Grove Village, Roselle, and Hoffman Estates great places to raise a family.
 Rhys will fight to protect and strengthen them.
 Read the full position papers → Read the Record Decades of fiscal stewardship, not political ambition. 🎓 Certified Public Accountant Spent his career as a CPA reading every line of a budget. 💼 Pension-Fund Controller Served as Treasurer & Controller of a major pension fund, managing other people's money responsibly. 🏪 Library Board Service Fiscal oversight of a public tax levy on the Des Plaines Public Library board. ♟ Chess Leadership Volunteer leader with the Illinois Chess Association — strategy, patience, discipline.
+October 12, 2026 Endorsed by the Chicago Tribune “brings valuable financial experience to his challenge” “He supports pension reform, property tax relief and stronger oversight of government misconduct, and is opposed to new taxes.
+Good.” Chicago Tribune Editorial Board, “Editorial: Rhys Read for Illinois 56th House District.” Read the full editorial.
 On the Trail Upcoming Events Come meet Rhys across Illinois House District 56 and beyond.
 Details are added as they are confirmed.
 Sep 24 Campaign Event Thursday, September 24.
@@ -37,4 +39,5 @@ Questions, ideas, or want to help elect Rhys?
 Reach the campaign directly.
 Donate Email the Campaign Message on Facebook [email protected] Call or text the campaign: (847) 497-5021 READ TO LEAD Rhys Read for Illinois House District 56.
 A fiscal conservative who reads the record.
-Explore About Rhys Issues Positions Read the Record Events Get Involved Take Action Contact (847) 497-5021 Volunteer Sign Up for Updates Paid for by ReadForIL56. readforil56.com · readtolead56.com
+Explore About Rhys Issues Positions Read the Record Events Get Involved Take Action Contact (847) 497-5021 Volunteer Sign Up for Updates Paid for by ReadForIL56.
+Website by Bull Moose Strategy readforil56.com · readtolead56.com

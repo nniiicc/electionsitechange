@@ -1,5 +1,5 @@
 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign!
-Donate Contact 𝕏 𝕏 Donate 𝕏 About Vote Our District Car Magnet In the News Endorsements Volunteer Contact Donate General Election Tuesday, November 3rd Pro-Family | Pro-Common Sense Erin Huntley Common Sense Leadership Erin Huntley has spent her career solving problems.
+Donate Contact 𝕏 Free Yard Sign Donate 𝕏 𝕏 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign Volunteer Contact Donate General Election Tuesday, November 3rd Pro-Family | Pro-Common Sense Erin Huntley Common Sense Leadership Erin Huntley has spent her career solving problems.
 From the private sector to public service, she's earned a reputation for bringing people together, improving schools, supporting public safety, and being a responsible steward of taxpayer dollars.
 Every Child Deserves Opportunity As a mother of three, Erin knows every child learns differently.
 She'll continue expanding educational opportunities, supporting excellent teachers, improving literacy, and making sure parents remain partners in their children's education.

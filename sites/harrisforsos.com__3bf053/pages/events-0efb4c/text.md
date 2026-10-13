@@ -2,5 +2,5 @@ Home News Meet Diane Issues Contribute Photos Contact Events Fundraiser for Dian
 Chili Dinner Fundraiser Get ready for a fun and tasty event.
 Mark your calendar to come out and support our Chili Dinner Fundraiser on March 5th, 4:30pm, at Stone City VFW, 124 Stone City Dr, in Joliet.
 All are welcome!
-Kick Off Campaign Fundraiser https://www.facebook.com/share/p/17G1RwrtF3/?mibextid=wwXIfr #ago This Week This Month ‹ Previous Mon Oct 12 2026 - Tue Oct 12 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Kick Off Campaign Fundraiser https://www.facebook.com/share/p/17G1RwrtF3/?mibextid=wwXIfr #ago This Week This Month ‹ Previous Tue Oct 13 2026 - Wed Oct 13 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

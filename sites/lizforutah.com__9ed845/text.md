@@ -1,7 +1,7 @@
 0 Skip to Content Meet Liz Join the Team Canvass with Liz DONATE Open Menu Close Menu Open Menu Close Menu Meet Liz Join the Team Canvass with Liz DONATE Meet Liz Join the Team Canvass with Liz DONATE COMPASSION.
 SERVICE.
 COMMUNITY.
-Meet Liz Born and raised in Magna, Liz Oates understands firsthand the issues that our community is facing, and she’s running for House District 27 because she’s tired of watching the west side be ignored at the Capitol.
+ELECTION DAY IS NOVEMBER 3 Mail your ballot by October 29 Drop it off at a drop box by 8 PM on Election Day Vote in person early or on Election Day Meet Liz Born and raised in Magna, Liz Oates understands firsthand the issues that our community is facing, and she’s running for House District 27 because she’s tired of watching the west side be ignored at the Capitol.
 Growing up, her father owned a small business, and money was often tight.
 It took her parents years to pay off her tonsillectomy, and food from the bishop’s storehouse sometimes lined their shelves.
 As so many of our neighbors struggle to keep up with rising costs, she knows what it’s like to live within your means but still sometimes need a little help.

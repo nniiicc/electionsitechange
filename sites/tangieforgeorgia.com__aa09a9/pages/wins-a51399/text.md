@@ -1,14 +1,14 @@
 0 Skip to Content Meet Tangie Tangie's Wins Priorities Contact Donate Open Menu Close Menu Meet Tangie Tangie's Wins Priorities Contact Donate Open Menu Close Menu Meet Tangie Tangie's Wins Priorities Contact Donate Tangie’s Wins DELIVERING RESULTS FOR MACON-BIBB, MONROE COUNTY & MIDDLE GEORGIA Tangie’s Wins EARLY VOTING: OCTOBER 13 TO 30 | ELECTION DAY: TUESDAY, NOVEMBER 3 Find where to vote Three ways to vote for Tangie Vote early, in person.
 October 13 to 30 at your county’s early voting site(s).
-Weekdays 7am to 7pm, with Saturday and Sunday hours.
+Weekdays 7 am to 7 pm, with Saturday and Sunday hours.
 Skip the Election Day lines.
 Vote by mail.
 Request your absentee ballot by Friday, October 23.
-Return it to a drop box by October 30, or mail it so it arrives by 7pm on November 3.
+Return it to a drop box by October 30, or mail it so it arrives by 7 pm on November 3.
 Vote on Election Day.
-Tuesday, November 3, 7am to 7pm at your assigned polling place.
+Tuesday, November 3, 7 am to 7 pm at your assigned polling place.
 Bring a valid photo ID, such as a Georgia driver's license or free Georgia voter ID card.
-Look for Tangie Herring, Democrat, under House Senate District 145on your ballot.
+Look for Tangie Herring, Democrat, under House District 145 on your ballot.
 And vote all the way down the ballot: every race counts.
 Check my registration and polling place A Record of Results for Georgia Families As the State Representative for Georgia House District 145, Tangie Herring has built a reputation for working across the aisle to solve problems and deliver meaningful results for the people of Macon-Bibb and Monroe Counties and communities across Middle Georgia.
 Drawing on nearly three decades as a Georgia public school educator, Tangie brings practical experience, thoughtful leadership and a commitment to putting people before politics.

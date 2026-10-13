@@ -1,7 +1,8 @@
-0 Skip to Content Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Back to All Events Day of Action Saturday, October 17, 2026 1:00 PM 3:30 PM CSM HQ 14 West Miner Street Arlington Heights, Illinois, 60004 United States (map) Google Calendar ICS Join us for a day of Action with District 27 Illinois State Senate Candidate Carina Santa Maria 🗓️ Date: Saturday, October 17th 📍 Location: 14 W Miner Street, Arlington Heights ⏰ Times: 1:00pm - 3:30 pm A Day of Action is our chance to take the campaign directly to the community — one conversation at a time.
-We'll be canvassing neighborhoods across District 27, knocking on doors and talking with real people about the issues that matter most: affordability, safety, schools, and what it means to have a leader who actually shows up.
-You don't need any experience to join us.
-We'll train you, pair you up, and make sure you feel comfortable before you head out.
+0 Skip to Content Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Back to All Events Day of Action Saturday, October 17, 2026 1:30 PM 4:00 PM CSM HQ 14 West Miner Street Arlington Heights, Illinois, 60004 United States (map) Google Calendar ICS Senate President Don Harmon is joining us in District 27 to hit the doors alongside our volunteers, and we want a big crew there to meet him. 🗓️ Date: Saturday, October 17th 📍 Location: 14 W Miner Street, Arlington Heights ⏰ Time: 1:30pm A Day of Action is our chance to take the campaign directly to the community, one conversation at a time.
+We’ll be out in neighborhoods across the district talking with real people about what matters most: affordability, safety, schools, and what it means to have a leader who actually shows up.
+You don’t need any experience.
+We’ll train you, pair you up, and make sure you feel comfortable before you head out.
+Most conversations are short and friendly, and you’ll never be on your own.
 All you need is yourself.
 Can’t make it?
 You can still donate here Thank you for all your support – hope to see you there!

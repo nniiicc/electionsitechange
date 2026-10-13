@@ -1,0 +1,9 @@
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate ← Media & Press Official Press Release PRESS RELEASE:﻿ ﻿Ken Block Launches New TV Advertising Campaign Ken Block, Independent candidate for Governor of Rhode Island, releases ad touting his work disproving false claims of voter fraud after the 2020 Presidential Election Release Date October 12, 2026 Location Barrington, Rhode Island Media Contact michelle@blockforgovernor.com Barrington, Rhode Island — BARRINGTON, RI – Independent candidate for Governor Ken Block today announced the launch of a new TV advertising campaign.
+"We're in the final stretch of the campaign and we're excited to launch this TV ad campaign and deliver our message to voters across Rhode Island," said Block.
+The first ad, "Democracy Defender," can be viewed here .
+The ad highlights Block's work after the 2020 Presidential Election, when he was hired to investigate claims of voter fraud.
+Block disproved those claims and was name a "Democracy Defender" by Time Magazine .
+The second ad, "Status Quo," can be viewed here.
+It states that Rhode Island "keeps electing the same kind of Governor and keeps getting the same kind of results." Block, who played a leading role in eliminating the master lever in Rhode Island, notes his track record of fighting the political status quo.
+# # # ← Back to Media & Press ✉ Media Contact For questions, interviews, or additional information, contact Michelle Conway. michelle@blockforgovernor.com ★ About Ken Block Ken Block is an independent candidate for Governor of Rhode Island focused on accountable, effective government that works for every resident.
+Learn more about Ken → Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

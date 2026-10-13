@@ -1,4 +1,4 @@
-Skip to content Contact Endorsements Get Involved ▼ Events Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved ▼ Events Meet Rick News & Media Priorities Donate Website Policies Terms of Use Privacy Policy Accessibility Website Terms of Use Effective October 4, 2026 Welcome to the website of Rick Crosson for Congress.
+Skip to content Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Website Policies Terms of Use Privacy Policy Accessibility Website Terms of Use Effective October 4, 2026 Welcome to the website of Rick Crosson for Congress.
 By accessing or using this website, you agree to these Website Terms of Use.
 If you do not agree with these terms, please do not use the website.
 Purpose of This Website This website provides information about Rick Crosson for Congress, campaign priorities, campaign updates, events, volunteer opportunities, voting information, endorsements, ways to support the campaign, and related campaign activities.
@@ -54,5 +54,5 @@ We may revise this Statement periodically to reflect improvements or changes to 
 Feedback We welcome your feedback on the accessibility of the Rick Crosson for Congress website.
 Please let us know if you encounter accessibility barriers on our website.
 We try to respond to accessibility feedback within 3–5 business days.
-Website Policies P.O.
+Support Rick Crosson for Congress Choose an amount to continue securely to ActBlue. $5 $25 $50 $100 $250 Other Website Policies P.O.
 Box 11321, Green Bay, WI 54307 info@rickcrosson.com Paid For by Rick Crosson for Congress Website Powered by WordPress and Built by Daniel Mulladzhanov

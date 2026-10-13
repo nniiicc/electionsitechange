@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Ashley Hinson Launches “Sheriffs for Hinson” Coalition Sep 4, 2026 | Press Release Back to Updates Marion, IA – Today, Ashley Hinson launched “Sheriffs for Hinson,” a coalition of current and former Iowa sheriffs endorsing her campaign for United States Senate.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Ashley Hinson Launches “Sheriffs for Hinson” Coalition Sep 4, 2026 | Press Release Back to Updates Marion, IA – Today, Ashley Hinson launched “Sheriffs for Hinson,” a coalition of current and former Iowa sheriffs endorsing her campaign for United States Senate.
 “I’m humbled to be endorsed by sheriffs from across Iowa who put their lives on the line to keep our families and communities safe,” said Ashley Hinson .
 “Josh Turek puts dangerous illegal immigrants before Iowans, and his record proves it.
 He voted to give taxpayer-funded welfare benefits to illegal immigrants, restrict Iowa law enforcement from working with ICE to detain and deport criminal illegal immigrants, and advised, in his official newsletter, illegal immigrants on how to avoid ICE.

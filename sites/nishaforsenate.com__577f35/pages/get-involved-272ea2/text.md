@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate Let’s do this together!
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate Let’s do this together!
 Because this campaign is about all of us … and the belief that government should work for the people it serves.
 It’s about listening, showing up, and choosing collaboration over division.
 And it only works if we do it together.

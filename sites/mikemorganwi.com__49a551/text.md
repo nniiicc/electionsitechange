@@ -8,6 +8,7 @@ Mike's commitment to fiscal responsibility, community engagement, and effective 
 I'm Running... to be an independent voice seeking balanced solutions and common-sense coalitions.
 I will use my decades of experience in the community, government and the private sector to immediately benefit the citizens of the 13th District and the State of Wisconsin. -Mike I support efforts to ensure transparency, options, and information are available to parents to make the best decision when it comes to their child's education.
 We need strong investments in the classroom and accountability to ensure students are learning and succeeding.
+Learn more about my education plan here .
 Let's protect citizens and especially children by holding criminals accountable for their actions.
 We must give law enforcement, fire, and EMS the proper levels of support to keep us safe.
 Lower Taxes I will work to provide real affordability, especially property tax relief, to ensure you keep more of your hard-earned money.

@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker November 20, 2025 Three years after fires, Club Valencia homeowners still can’t return home Morgan Anker November 20, 2025 ARAPAHOE COUNTY, Colo. — Three years after two fires ripped through the Club Valencia Condominiums off Parker Road, Linda Jones still hasn’t been able to go home.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker November 20, 2025 Three years after fires, Club Valencia homeowners still can’t return home Morgan Anker November 20, 2025 ARAPAHOE COUNTY, Colo. — Three years after two fires ripped through the Club Valencia Condominiums off Parker Road, Linda Jones still hasn’t been able to go home.
 Jones, a certified nursing assistant who has owned her condo since 2019, said the anniversary of the first fire in November 2022 , feels less like a date on the calendar and more like an open wound.
 “We’ve got 160 units shut down, people out of a home, people living on the streets, people in their cars,” Jones said.
 Jones was displaced after the first fire and never returned to live in her unit.

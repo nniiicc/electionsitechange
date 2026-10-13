@@ -1,4 +1,4 @@
-Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Cyndi's Priorities Cyndi Munson is running for Governor to solve Oklahoma’s biggest challenges.
+Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Contact Donate Meet Cyndi Priorities Events Store Volunteer Contact Donate Cyndi's Priorities Cyndi Munson is running for Governor to solve Oklahoma’s biggest challenges.
 Jobs and Workforce Development Top Flight Public Schools and College and Career Tech Every Life is Valued and Affordable and Accessible Healthcare Corporations and Wealthiest Held Accountable Everyday Oklahomans Tax Relief Valuing Tribal Sovereignty Supporting Agriculture and Energy Jobs and Workforce Development Cyndi believes the key to attracting and growing businesses in Oklahoma is an educated and healthy workforce.
 She wants to focus on policies that will help everyday Oklahomans take care of their families, and afford housing.
 She will work to institute mandatory paid family leave for parental and family caregiving.
@@ -35,4 +35,4 @@ Supporting Agriculture and Energy Cyndi believes in protecting two of Oklahoma�
 She believes in an “all of the above approach” to energy, meaning that she will support oil, natural gas, and renewable energy production.
 She also knows that we need to balance that approach with protecting the private property rights of landowners and ensuring that these industries are good stewards of our land and natural resources.
 Cyndi also knows that our water is a precious resource and will stand up to big corporations and others who want to waste our water.
-PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.
+Privacy Policy Media Kit FAQ PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.

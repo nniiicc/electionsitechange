@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform SAFER Communities Safe communities need strong consistent law enforcement, accountability, and respect for the rule of law.
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA SAFER Communities Safe communities need strong consistent law enforcement, accountability, and respect for the rule of law.
 Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law ICE at Voting Polls debate.
 Laurie Parman isn’t afraid to speak the truth.
 As a longtime election judge and Republican candidate for Illinois House District 66, she’s calling out the “dog and pony show” by Democratic officials who are trying to block federal immigration authorities near polling places.

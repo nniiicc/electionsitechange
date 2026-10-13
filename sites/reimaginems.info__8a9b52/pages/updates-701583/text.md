@@ -53,9 +53,7 @@ Let’s ReIMAGINE MISSISSIPPI together.
 Thank you Coahoma County!
 Clarksdale, MS was full of powerful conversations with residents who are ready to ReIMAGINE Mississippi and put people over politics.
 Next stop: Indianola, Sunflower County Visit www.electbenniefoster.com to learn why you should elect Bennie Foster as your next US Congressman for MS-02 on November 3.
-Thank you Mound Bayou!
-Next stop: Cleveland, MS.
-Visit www.electbenniefoster.com to see why you should vote November 3 to elect independent candidate Bennie Foster to US CONGRESS MS-02. ￼ Updates Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Updates Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up to stay connected with the campaign and receive updates.
 Email Address Sign Up Thank you!

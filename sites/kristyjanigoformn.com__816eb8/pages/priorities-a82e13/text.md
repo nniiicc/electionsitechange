@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate Priorities Bringing Down Costs for Families This day and age, families are struggling to maintain a middle-class life, like the one Kristy was raised in.
+Skip to content Home About City Council Record Priorities Endorsements News Volunteer DONATE DONATE Home About City Council Record Priorities Endorsements News Volunteer Events on Mobilize Donate Priorities Bringing Down Costs for Families This day and age, families are struggling to maintain a middle-class life, like the one Kristy was raised in.
 Families are pressed from all sides, whether from the costs of housing, education, transportation, healthcare, or food.
 We have to do more to ensure life is affordable for Minnesotans.
 Improving Access to Quality Healthcare Healthcare should be accessible, affordable, and close to home.
@@ -70,5 +70,5 @@ Cities soon must all deal with the threat of PFAS (per- and polyfluoroalkyl subs
 As a state senator, Kristy will be a strong partner to the cities in the district because she knows what it takes for local governments to deliver essential public services.
 Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
 Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About City Council Record Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
 Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

@@ -1,6 +1,4 @@
-Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-What’s Cooking?
+Sign Up for Office Hours Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials What’s Cooking?
 This first recipe I am sharing with you is very special to me.
 I used to eat these when I was young, but I didn’t start making them until Dave and I lived in Rhode Island when he was in college.
 We had very little money and although this could be labor intense, it was relatively inexpensive to make.

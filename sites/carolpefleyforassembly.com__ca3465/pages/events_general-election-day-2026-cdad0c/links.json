@@ -92,6 +92,10 @@
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election+Day+2026&dates=20261103T150000Z%2F20261104T040000Z"
 },
 {
+"text": "Home",
+"href": "https://www.carolpefleyforassembly.com/home-original"
+},
+{
 "text": "Host an Event",
 "href": "https://www.carolpefleyforassembly.com/host-an-event"
 },
@@ -140,6 +144,10 @@
 "href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11"
 },
 {
+"text": "Privacy",
+"href": "https://www.carolpefleyforassembly.com/privacy"
+},
+{
 "text": "Register to Vote",
 "href": "https://registertovote.ca.gov/RegisterToVote"
 },
@@ -162,6 +170,10 @@
 {
 "text": "Statewide Ballot Measures",
 "href": "https://www.carolpefleyforassembly.com/statewide-ballot-measures"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.carolpefleyforassembly.com/terms-of-service"
 },
 {
 "text": "The Issue",

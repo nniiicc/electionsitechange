@@ -16,8 +16,7 @@ She is chairperson of the Human Services Committee and a member of the Executive
 “I am thrilled to receive the endorsement of an accomplished local leader like Supervisor Schulteis,” Piwowarczyk said.
 “I am humbled by the strong support I am receiving from local officials in this race.
 I will work hard to earn the support of district voters, who tell me that they are deeply concerned about the economy, border, education, election integrity, and the state of the country.” You can learn more about Piwowarczyk’s campaign at https://jimforwi.com/.
-Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly Posted March 18, 2024 in ticker , Endorsements , News Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted March 11, 2024 in Endorsements , News , ticker Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

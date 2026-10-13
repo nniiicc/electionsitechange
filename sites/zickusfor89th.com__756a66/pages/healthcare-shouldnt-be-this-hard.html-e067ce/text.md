@@ -1,12 +1,14 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 5 · Draft Healthcare Shouldn’t Be This Hard 30-second overview From the published campaign article Getting care in Ottawa County should not depend on how long you can wait, how far you can drive, or whether you can afford to miss work.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.michigan.gov — official document or government source. healthyottawa.org — linked reporting or reference. joemoss.com — candidate campaign source. content.govdelivery.com — official document or government source. www.mass.gov — linked reporting or reference. www.oregon.gov — linked reporting or reference. downloads.cms.gov — linked reporting or reference.
-By Meegan Zickus Getting care in Ottawa County should not depend on how long you can wait, how far you can drive, or whether you can afford to miss work.
-A parent needs a mental health appointment for a child.
-A worker puts off a dental visit because of the bill.
-Someone with a new diagnosis leaves the doctor’s office with a referral, then spends weeks trying to figure out who takes their insurance.
-Michigan has programs that help.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the Issues Library Issues That Hit Home · Article 5 Healthcare Shouldn’t Be This Hard By Meegan Zickus I live with a rare autoimmune illness.
+I know the loneliness of being sick and the frustration of trying to get answers.
+Healthcare is personal to me.
+You’ve got an insurance card.
+Now you need an appointment, a referral that goes somewhere, and a bill you can understand.
+Getting help shouldn’t take this much work.
+During COVID, my family isolated to protect me.
+Illness affected all of us.
+I want the person seeking care, and the family helping them, to have a clear place to turn.
+Here’s where I stand: make care easier to find, support caregivers, and judge public spending by whether people can actually get help.
+The fuller explanation and public-health record Michigan has programs that help.
 The Healthy Michigan Plan provides low-cost coverage for eligible adults, including preventive care, prescriptions, and mental health and substance use treatment.
 But an insurance card does not guarantee a nearby appointment or make every bill easy to understand.
 Ottawa County residents have told us where the gaps are.
@@ -18,12 +20,11 @@ His own press release said the proposal would leave the department with an estim
 That proposal was not the final budget , and voters deserve the distinction.
 The board ultimately adopted $14.40 million in public health expenditures for fiscal 2024 , down 5.6% from the prior year, and declined $2.2 million in proposed COVID-related grants.
 The county said the adopted budget funded critical programs; the question is whether reducing resources and rejecting available funds helped residents get the care they needed.
-Moss framed the debate around returning spending to earlier levels.
-Meegan Zickus would start with a different set of measures: Can residents get an appointment?
+I’d start with the questions families need answered: Can residents get an appointment?
 Can they understand and afford the cost?
 Are we catching problems early enough to avoid more expensive care later?
 Those are the results families experience.
-Other states are testing practical answers We do not have to pretend Ottawa County is the first place to face these problems.
+Other states are testing practical answers We can learn from places that have made care easier to reach.
 Massachusetts made mental health care easier to reach.
 Its Community Behavioral Health Centers offer urgent mental health and substance use care, including round-the-clock crisis services, with a statewide help line that connects people to care.
 The useful lesson is a clearer place to start when someone needs help now.
@@ -35,19 +36,15 @@ Maryland tested a different way to pay hospitals.
 Its all-payer model set hospital budgets and aimed to reduce avoidable spending while maintaining quality.
 A federal evaluation estimated $975 million in Medicare savings over the model’s five years, alongside slower growth in total Medicare expenditures for beneficiaries.
 Maryland’s system is complex and cannot simply be transplanted to Michigan, but it shows that cost control can be tested and measured.
-What Meegan would push for Meegan’s approach is to bring providers, public health officials, employers, insurers, and residents to the same table and focus on a few results: A clearer path to care.
-Help residents find an available primary care, dental, or mental health provider and understand coverage before they give up.
-Earlier help for mental health needs.
-Examine urgent community care and crisis response models so the emergency room is not the only door open.
-Prevention that earns its funding.
-Protect effective screenings and other services, then publish what they cost and whom they reach.
-Accountability for access and cost.
-Track appointment waits, unmet needs, avoidable emergency visits, and out-of-pocket barriers.
-Keep what works and change what does not.
-Ottawa County families do not need another argument about whether healthcare is difficult.
-They already know it is.
-Joe Moss proposed reducing the county general-fund allocation for public health; the adopted budget differed from that proposal.
-Meegan Zickus wants to measure whether people can actually get care—and use the evidence to make it easier and more affordable.
+Make the next step easier to find I’ll bring providers, public health officials, employers, insurers, and residents together around a practical question: how do you find care before you give up?
+That means helping people locate an available primary care, dental, or mental health provider and understand their coverage.
+Urgent community care and crisis-response models deserve examination, so people have somewhere to turn before an emergency-room visit.
+Effective screenings and prevention should earn continued funding through clear results.
+Publish what services cost, whom they reach, appointment waits, unmet needs, and out-of-pocket barriers.
+Keep what works; change what doesn’t.
+I want the test to be simple: can you get care when you need it, and can you afford it?
+That’s what I’ll keep asking in Lansing.
 Improving access also depends on provider capacity, staffing, insurance rules, and sustainable funding.
-Appointment availability and patient costs should be measured alongside public spending, rather than assuming either higher or lower spending guarantees better care. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading Navigating Healthcare in Ottawa County: Making the System Easier for Families Pro Life By Being Pro Family and Pro Science Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Appointment availability and patient costs should be measured alongside public spending, rather than assuming either higher or lower spending guarantees better care.
+Hear my story My TEDxGVSU talk: Immunosuppression in a Pandemic My interview with FOX 17 about family isolation during COVID ← Back to the Issues Library More from Meegan’s Top 10 priorities Sources for this article www.michigan.gov healthyottawa.org joemoss.com content.govdelivery.com www.mass.gov www.oregon.gov downloads.cms.gov Related reading Navigating Healthcare in Ottawa County: Making the System Easier for Families Pro Life By Being Pro Family and Pro Science Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

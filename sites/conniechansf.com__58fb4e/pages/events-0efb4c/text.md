@@ -6,12 +6,10 @@ Bring your headphones and a laptop or tablet, and we'll have every… Show more 
 We'll be meeting outside the forum at 6:30 pm to show our … Show more RSVP Mission Community Farmers Market Multiple Times Mission Community Farmers Market Bartlett and 22nd Street, San Francisco, CA, 94110 Join Team Connie as we talk to voters and do visibility outside the Mission Community Farmers Market!
 RSVP Solidarity Town Hall with Connie Chan United Irish Cultural Center 2700 45th Ave, San Francisco, CA, 94116 Townhall with Supervisor Connie Chan around the upcoming November election and the importance of international solidarity.
 RSVP Noe Valley Farmers Market Multiple Times Noe Valley Town Square 3861 24th St, San Francisco, CA, 94114 Join Team Connie as we talk to voters and do visibility outside the Noe Valley Farmers Market!
-RSVP Fillmore Canvass Alamo Square Park Hayes St, San Francisco, CA, 94117 Join us at 10 am on Saturday, October 17 at Alamo Square Park as we canvass for Connie Chan!
-RSVP District 10 Canvass 1700 Silver Ave, San Francisco, CA, 94124 Join us in District 10 we canvass for Connie Chan!
-RSVP Alamo Square Canvass with Our City Our College Slate!
-Alamo Square Park Scott Street & Hayes Street, San Francisco, CA, 94117 Canvass for Connie Chan and the Our City, Our College Slate for the Community College Board (Bunny McFadden, Jeremy Lee, Leah LaCroix).
-10 AM at Alamo Square (Hayes and Scott streets).
-Bring you water… Show more RSVP Outer Sunset Farmers Market Multiple Times 1994 37th Ave, San Francisco, CA, 94122 Join us at the Outer Sunset Farmers Market to talk with voters about Connie Chan for Congress!
+RSVP Alamo Square Canvass with Our City, Our College!
+Alamo Square Park Hayes St, San Francisco, CA, 94117 Join us at 10 am on Saturday, October 17 at Alamo Square Park as we canvass for Connie and the Our City, Our College Slate for the Community College Board (Bunny McFadden, Jeremy Lee, Leah LaCroix).
+B… Show more RSVP Silver Terrace (D10) Canvass 1700 Silver Ave, San Francisco, CA, 94124 Join us in District 10 we canvass for Connie Chan!
+RSVP Outer Sunset Farmers Market Multiple Times 1994 37th Ave, San Francisco, CA, 94122 Join us at the Outer Sunset Farmers Market to talk with voters about Connie Chan for Congress!
 RSVP Inner Sunset Farmers Market Multiple Times Inner Sunset Neighborhood Bulletin Board 1310 9th Ave, San Francisco, CA, 94122 Join us at the Inner Sunset Farmers Market to talk with voters about Connie Chan for Congress!
 RSVP Stonestown Farmers Market Multiple Times 501 Buckingham Way, San Francisco, CA, 94132 Join us at the Stonestown Farmers Market to talk with voters about Connie Chan for Congress!
 RSVP Heart of the City Farmers Market Multiple Times 147 Fulton St, San Francisco, CA, 94102 Join us at the Heart of the City Farmers Market to talk with voters about Connie Chan for Congress!

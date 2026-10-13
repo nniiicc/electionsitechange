@@ -2,10 +2,9 @@
 He and his family want a place of their own right now, but they’re told by building managers to apply online, and be on a waitlist that can take a year until they can be placed.
 Please like, comment, and share if you agree with Randy and his take on the affordable housing process.
 #honolulurailtransit #affordablehousing #streamlined #applicationprocess #homeless Previous Door to Door at Kuhio Park Terrace in Kalihi!
-Next Rail Interview w/ Miss Ro You Might Also Like YBANEZ 4 KALIHI - Support Local!
-Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Free Food Distribution at Kalihi Kai on October 31st!
-More Details to Follow!
-Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst Moment of Self-Reflection from Amanda Ybanez Are you registered to vote?
+Next Rail Interview w/ Miss Ro You Might Also Like YBANEZ - Stay prepared for Tropical Cyclone Lala!
+YBANEZ 4 KALIHI - Support Local!
+Moment of Self-Reflection from Amanda Ybanez Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst YBANEZ - Walk & Talk 7/29/2026 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

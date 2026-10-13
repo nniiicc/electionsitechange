@@ -37,10 +37,10 @@ Predecessor to H.R.
 1383. ❌ Lydia Opposes View on Congress.gov → HR-46 Introduced ✅ Lydia Supports ★ ⬆ Rural Broadband Window of Opportunity Act Science, Technology, Communications Latest Action Jan 3, 2025 Referred to the House Committee on Energy and Commerce.
 Introduced: Jan 3, 2025 View on Congress.gov HR-148 Introduced ✅ Lydia Supports ★ ⬆ Keep Your Coins Act of 2025 Finance and Financial Sector Latest Action Jan 3, 2025 Referred to the House Committee on Financial Services.
 Introduced: Jan 3, 2025 View on Congress.gov HR-117 Introduced ✅ Lydia Supports ★ ⬆ Fourth Amendment Restoration Act Armed Forces and National Security Latest Action Jan 3, 2025 Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
-Introduced: Jan 3, 2025 View on Congress.gov HR-10772 Introduced ★ ⬆ To evaluate and invest in Ukrainian defense technologies.
-Latest Action Oct 9, 2026 Referred to the House Committee on Armed Services.
-Introduced: Oct 9, 2026 View on Congress.gov HR-10775 Introduced ★ ⬆ To direct the Chairman of the Federal Trade Commission to establish a task force for the purpose of studying the effects of automated accounts on social media, public discourse, and elections.
+Introduced: Jan 3, 2025 View on Congress.gov HR-10775 Introduced ★ ⬆ To direct the Chairman of the Federal Trade Commission to establish a task force for the purpose of studying the effects of automated accounts on social media, public discourse, and elections.
 Latest Action Oct 9, 2026 Referred to the House Committee on Energy and Commerce.
+Introduced: Oct 9, 2026 View on Congress.gov HR-10772 Introduced ★ ⬆ To evaluate and invest in Ukrainian defense technologies.
+Latest Action Oct 9, 2026 Referred to the House Committee on Armed Services.
 Introduced: Oct 9, 2026 View on Congress.gov HR-10777 Introduced ★ ⬆ To codify certain policies to combat transnational cyber-enabled crime, and for other purposes.
 Latest Action Oct 9, 2026 Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 Introduced: Oct 9, 2026 View on Congress.gov HR-10768 Introduced ★ ⬆ To establish the Office of Artificial Intelligence and Emerging Technology Threats within the Executive Office of the President, and for other purposes.
@@ -52,9 +52,9 @@ Introduced: Sep 24, 2026 View on Congress.gov S-5658 Introduced ★ ⬆ A bill t
 Latest Action Sep 30, 2026 Read twice and referred to the Committee on Energy and Natural Resources.
 Introduced: Sep 30, 2026 View on Congress.gov S-4444 Introduced ★ ⬆ A bill to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through May 21, 2026, and for other purposes.
 Latest Action Apr 30, 2026 Read twice and referred to the Select Committee on Intelligence.
-Introduced: Apr 30, 2026 View on Congress.gov HR-10736 Introduced ★ ⬆ Safeguarding Technology from CCP Influence Act Latest Action Oct 5, 2026 Referred to the House Committee on Oversight and Government Reform.
-Introduced: Oct 5, 2026 View on Congress.gov S-5581 Introduced ★ ⬆ Veteran Technology Employment Success Act of 2026 Latest Action Sep 29, 2026 Read twice and referred to the Committee on Veterans' Affairs.
-Introduced: Sep 29, 2026 View on Congress.gov S-3404 Active ★ ⬆ Satellite Cybersecurity Act of 2025 Latest Action Sep 24, 2026 Held at the desk.
+Introduced: Apr 30, 2026 View on Congress.gov S-5581 Introduced ★ ⬆ Veteran Technology Employment Success Act of 2026 Latest Action Sep 29, 2026 Read twice and referred to the Committee on Veterans' Affairs.
+Introduced: Sep 29, 2026 View on Congress.gov HR-10736 Introduced ★ ⬆ Safeguarding Technology from CCP Influence Act Latest Action Oct 5, 2026 Referred to the House Committee on Oversight and Government Reform.
+Introduced: Oct 5, 2026 View on Congress.gov S-3404 Active ★ ⬆ Satellite Cybersecurity Act of 2025 Latest Action Sep 24, 2026 Held at the desk.
 Introduced: Dec 9, 2025 View on Congress.gov S-5640 Introduced ★ ⬆ Data Center Transparency Act of 2026 Latest Action Sep 30, 2026 Read twice and referred to the Committee on Environment and Public Works.
 Introduced: Sep 30, 2026 View on Congress.gov S-5562 Introduced ★ ⬆ Jimmy Lai Internet Freedom Act Latest Action Sep 24, 2026 Read twice and referred to the Committee on Foreign Relations.
 Introduced: Sep 24, 2026 View on Congress.gov S-5673 Introduced ★ ⬆ Car Privacy Rights Act of 2026 Latest Action Sep 30, 2026 Read twice and referred to the Committee on Commerce, Science, and Transportation.

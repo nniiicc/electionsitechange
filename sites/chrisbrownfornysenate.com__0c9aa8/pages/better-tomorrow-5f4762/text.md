@@ -1,4 +1,4 @@
-Skip to content Connect with us Toggle Navigation MEET CHRIS EVENTS DONATE Chris Brown is fighting to build a better tomorrow by putting families, education, and opportunity back at the center of New York’s future.
+Skip to content Connect with us Toggle Navigation MEET CHRIS ISSUES EVENTS DONATE Chris Brown is fighting to build a better tomorrow by putting families, education, and opportunity back at the center of New York’s future.
 For too long, families in the 55th District have been asked to pay more while getting less—especially when it comes to education.
 Despite record-high spending, too many students are being left behind.
 Chris believes that every child deserves access to a high-quality education that fits their needs, not a one-size-fits-all system dictated by Albany.

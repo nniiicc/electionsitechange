@@ -24,7 +24,7 @@ Please RSVP (link in comments) so we know how much turf and materials to prepare
 We'll also be supporting amazing candidates for local office, too.
 Let's get, Chris Pettit, Nicole Miller, and Lynda Nashed Zeman elected, too!
 Thurston County needs them. @followers Thurston County Democratic Women Thurston County Democrats ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 67 Shares: 24 Comments: 3 3 Comments Comment on Facebook Load more Instagram View Instagram post by electbethdoglio Aug 23 Open post by electbethdoglio with ID 18054487954695260 I can`t say enough about this phenomenal team.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 68 Shares: 26 Comments: 3 3 Comments Comment on Facebook Load more Instagram View Instagram post by electbethdoglio Aug 23 Open post by electbethdoglio with ID 18054487954695260 I can`t say enough about this phenomenal team.
 It was wonderful to see so many of you at our first summer Weekend of Action, where we reached an incredible 17,000 voters across our beautiful state.
 And guess what?
 We`re hitting the pavement again this weekend!

@@ -51,4 +51,5 @@ Election integrity Secure Illinois elections so every voter can trust that the c
 Keep employers and jobs here Stop driving Illinois families, iconic institutions, and good jobs across the border with high taxes and heavy-handed government.
 Sixteen years is long enough.
 If you want a representative who does the math before he spends your money, help send Rhys Read to Springfield.
-Donate Get Involved Paid for by ReadForIL56. readforil56.com
+Donate Get Involved Paid for by ReadForIL56.
+Website by Bull Moose Strategy readforil56.com

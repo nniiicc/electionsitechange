@@ -1,5 +1,4 @@
 Matt Loesby for Idaho Campaign Platform Who Am I?
-Can I Win?
 Help the Campaign Donate Help the Campaign This is not a Republican campaign.
 We don’t have hundreds of thousands of dollars in the war chest, nor hundreds of PACs and partisan media companies touted our candidate to the masses.
 We have volunteers who are passionate about defending liberty for Idahoans.

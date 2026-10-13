@@ -1,4 +1,8 @@
-Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Darren Chosen for the Primary!
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News “Running” in District 41 May 5, 2026 Yes, I’m running for office in District 41, and I’m running on the roads and trails too.
+Watch for my campaign-mobile, and you’ll know I’m nearby running or walking to get to know the people and places of our district!
+Hope to see you!
+We’ll be posting about it on our social media pages.
+Please Darren Chosen for the Primary!
 April 18, 2026 Darren Croft advanced out of the County Nominating Convention held April 18th at Cottonwood High School!
 Three candidates were running and Delegates were equally split among the top two candidates.
 A second vote was again almost equal as delegates chose to send the race to voters to decide the eventual nominee.
@@ -14,6 +18,5 @@ Thank you to the Precinct chairs from all over Salt Lake County who were there t
 I was grateful to meet some of the precinct chairs in district Blessed to live in Cottonwood Heights!
 February 25, 2026 We are so blessed to live in Cottonwood Heights!
 This is a beautiful sunrise I saw from the Cottonwood Heights Rec center in November 2025.
-Previous 1 2 Search Search Recent Posts Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
-Recent Comments No comments to show.
+Previous 1 2 Search Search Recent Posts Voter Guide Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Recent Comments No comments to show.
 District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

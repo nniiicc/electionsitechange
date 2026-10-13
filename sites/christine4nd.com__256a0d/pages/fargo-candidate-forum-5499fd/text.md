@@ -1,0 +1,13 @@
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs On October 8, Christine O'Riley had the opportunity to participate in the Fargo Candidate Forum.
+Here are the video clips of of her answers so you can hear her ideas in her own words.
+Introductory Remarks Christine O'Rieley Senate Candidate District 11 Introductory Remarks Fargo Forum Candidate Questions What do you think are a few of the biggest challenges facing North Dakota and/or your district during the coming year?How will you address affordable housing for homelessness or homelessness and support for the unhoused community?
+Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Question 1 How will you address affordable housing for homelessness or homelessness and support for the unhoused community?
+Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Question 2 There are a number of concerns/questions about school funding and how we support our whole range of students from gifted, regular classroom, disabled, immigrant, LGBTQ, Trans students, as well as a question about funding for higher ed and just a reminder that District 11 has four public schools, two of which are elementary, one middle school, and one high school.
+So looking at funding support your attitudes about how to deal with the complexities of education in District 11.
+Christine O'Riley North Dakota Senate Candidate District 11 Fargo Forum Question 3 How will you advocate for childcare needs of families in North Dakota?
+There’s been a pretty significant cut in childcare support.
+Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Question 4 What are your views on tightening rules on campaigning financing including limits on certain PACs spending on campaigns?
+Would you support efforts to limit independent expenditures by super PACS or individual’s support for candidates Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Question 5 Do you believe our elections are safe and secure?
+As a candidate what would you say to someone who thinks otherwise?
+Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Question 6 Closing remarks.
+Christine O'Riley North Dakota Senate District 11 Candidate Fargo Forum Closing Remarks Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

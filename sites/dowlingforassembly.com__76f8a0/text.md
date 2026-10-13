@@ -43,7 +43,10 @@ My husband and I have been married for 18 years, and we homeschool our four boys
 We stay involved in our community with our boys playing on the Menasha Football team (Menasha track team in the off season), and by organizing community events in our neighborhood.
 My husband Joshua works locally at Habitat for Humanity. ​ Learn more about me on the blog: Click Here Public Service Winnebago County Board Supervisor (2022–present) East Central WI Regional Planning Commission (Appointed 2026) Winnebago Health & Human Services (Appointed 2026) Winnebago County IT Committee (2022–2024) Winnebago County Parks and Recreation Committee (2022–present) Winnebago County Diversity Affairs Committee (2022–2023) Menasha Parks and Recreation Board (2020–2023) Professional Experience Multi small business owner (2007–present) FAA Part 107 Licensed Drone Pilot (commercial UAS operations).
 Aerial photography and videography, documentation for inspections and reporting, and project-based visual communications.
-Community Involvement Hart Park Neighborhood Group Admin (2019–present) Valley Home Schoolers Board Member (2024–present) Menasha Football Volunteer (2024 - Present) HBBA Secretary (2019–2020) NWTC Academic Advisor (2019–2023) Recent Blogs There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Companies aren't just looking at inflation statistics.
+Community Involvement Hart Park Neighborhood Group Admin (2019–present) Valley Home Schoolers Board Member (2024–present) Menasha Football Volunteer (2024 - Present) HBBA Secretary (2019–2020) NWTC Academic Advisor (2019–2023) Recent Blogs I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools We all want our children to have opportunities to learn, grow, discover their strengths, and prepare for adulthood.
+We might organize our schedules differently or choose different educational environments, but that doesn't mean our goals are all that different.
+We just might take different paths to get there.
+There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Companies aren't just looking at inflation statistics.
 They're watching what people actually do when the money runs out.
 Buy less.
 Wait longer.
@@ -61,10 +64,6 @@ I want District 53 to have someone there who approaches those problems the same 
 Not by deciding what the answer is before asking the question.
 Not by checking which political party introduced the idea.
 And being able to come with the understanding that disagreements doesn't make someone is the enemy.
-Federal Vaccine Guidelines Changed.
-Should Wisconsin Change Too?
-During the recent League of Women Voters candidate forum, I was asked a question I didn't have an answer to: “Should the public school system’s vaccine mandates be updated to match the new federal vaccine guidelines?” Now?
-Now, I have an answer.
 Help bring accountability, transparency, and affordability back to government.
 By donating $5 or more, you consent to having your first name and last initial written on the jacket.
 Donate $5 Now via PayPal Donate $5 Now Via Venmo Request A Yard Sign Once the form is filled out, Rachael, or a member of my team will place a yard sign in your yard.

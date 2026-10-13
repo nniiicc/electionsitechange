@@ -16,10 +16,6 @@
 "href": "https://secure.actblue.com/donate/stand-with-jim-mcgovern?express_lane=true&amount=500&refcode2=express-buttons"
 },
 {
-"text": "Boxes to ☑️",
-"href": "https://www.jimmcgovern.com/2026/10/03/boxes/"
-},
-{
 "text": "Contact",
 "href": "https://www.jimmcgovern.com/contact/"
 },
@@ -34,6 +30,10 @@
 {
 "text": "Donate",
 "href": "https://www.jimmcgovern.com/mobile-donate/"
+},
+{
+"text": "Elon’s at it again:",
+"href": "https://www.jimmcgovern.com/2026/10/12/elons-it-again/"
 },
 {
 "text": "Here's the thing",
@@ -77,15 +77,15 @@
 },
 {
 "text": "Read More",
-"href": "https://www.jimmcgovern.com/2026/10/03/boxes/"
-},
-{
-"text": "Read More",
 "href": "https://www.jimmcgovern.com/2026/10/07/heres-thing/"
 },
 {
 "text": "Read More",
 "href": "https://www.jimmcgovern.com/2026/10/09/im-calling-bs/"
+},
+{
+"text": "Read More",
+"href": "https://www.jimmcgovern.com/2026/10/12/elons-it-again/"
 },
 {
 "text": "Sign Up",

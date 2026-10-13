@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute August 14, 2026 Rep.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute August 14, 2026 Rep.
 Ansari Says “Send Trump to Prison” as He Dismisses Family Concerns Over USS Lincoln’s Record-Length Deployment, Saying “Not Nearly Long Enough” Rep.
 Yassamin Ansari, D-Ariz., condemned President Donald Trump in unusually harsh terms early Saturday after he dismissed concerns about sailors aboard the USS Abraham Lincoln, whose deployment has stretched nearly nine months, telling reporters they had “not nearly long enough” at sea.
 Ansari’s post on X responded to a clip of Trump’s remarks at Joint Base Andrews.

@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Rural VA · Doctors Caucus Veterans Supporting Veterans in STEM Careers Act — signed into law.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Rural VA · Doctors Caucus Veterans Supporting Veterans in STEM Careers Act — signed into law.
 Finding Supporting Veterans in STEM Careers Act — signed into law.
 What's wrong.
 What it costs the patient.

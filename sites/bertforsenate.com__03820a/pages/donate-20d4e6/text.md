@@ -1,8 +1,6 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Contribute Donate Today Stand with Bert and help bring strong, principled leadership to Virginia.
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Contribute Donate Today Stand with Bert and help bring strong, principled leadership to Virginia.
 WinRed Contribute securely through WinRed.
 Donate via WinRed Anedot Contribute securely through Anedot.
 Donate via Anedot Official Campaign Store Gear up and show your support across Virginia.

@@ -12,4 +12,4 @@ A hash of your network address and short-lived submission counts are stored priv
 Submission emails remain in the reviewer's mailbox.
 To request removal or withdraw permission before publication, email ZickusJD@gmail.com .
 External websites Links to Facebook, Instagram, news organizations, and other external websites are governed by those services' own privacy policies.
-Future services Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab)
+Future services Sources & corrections Zickus for 89th 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th Accessibility Privacy Facebook (opens in a new tab) Instagram (opens in a new tab) Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401

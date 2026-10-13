@@ -8,7 +8,6 @@ Throughout his career, Armen has worked to strengthen our communities by partner
 He understands the challenges facing working families because he's lived them.
 Armen believes every American deserves the chance to own a home, feel safe in their neighborhood, and build a better future for their family.
 These aren't just talking points—they're the values he's fought for throughout his life.
-Play video “My family came here for this.” Caption: Armen Kurdian reflects on why his family immigrated to America.
 Core Values Faith & Family Faith and family come first — the foundation that shapes every decision and guides every action.
 Service 25 years in the U.S.
 Navy taught Armen that leadership means putting country and community before self.

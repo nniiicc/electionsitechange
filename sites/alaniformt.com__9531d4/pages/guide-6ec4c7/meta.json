@@ -1,9 +1,9 @@
 {
  "description": "Compare the 2026 Montana Senate candidates side by side: where Kurt Alme, Alani Bankhead, Seth Bodnar and Kyle Austin stand on 114 propositions, all sourced.",
  "final_url": "https://alaniformt.com/guide",
- "fingerprint": "e31bc79e862f5abe4fdbf7b6085d3df706ab4fbf",
+ "fingerprint": "8bf976fed0624f07b0b43d791327c3824c7ae811",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "paid for by redirecting existing federal health spending, with a standard plan for people who can’t afford private coverage (MTFP, Oct",
  "rendered": false,
  "title": "Montana Senate Voter Guide 2026: Bankhead, Alme, Bodnar, Austin",
  "years_mentioned": [
@@ -16,6 +16,7 @@
   "2024",
   "2025",
   "2026",
+  "2027",
   "2030",
   "2032"
  ]

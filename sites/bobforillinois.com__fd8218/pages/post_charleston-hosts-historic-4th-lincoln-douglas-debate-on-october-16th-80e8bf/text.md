@@ -35,7 +35,7 @@ Bob Fioretti believes this overall effort as a way to promote civility, public a
 Event information for attendees The fourth debate will be held: Lincoln-Douglas Debate Museum Auditorium Charleston, Illinois Friday, Oct.
 16 1:30 to 3:30 p.m.
 For more information, contact KAT@BobforIllinois.com or 773-828-9696.
-Recent Posts See All Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Recent Posts See All 3 Weeks Left: Help Bob Fioretti Cross the Finish Line Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

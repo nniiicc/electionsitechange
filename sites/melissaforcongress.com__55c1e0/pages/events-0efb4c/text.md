@@ -10,17 +10,7 @@ Meet at The Backyard Grill 9453 Jones Rd.
 Houston, TX 77065 RSVP for Details Every Thursday!
 (11am – 2pm) CALL BANKING (SHQ) Get involved taking calls with us inviting the community to the next event!
 Houston, TX 77024 By Beltway 8/Memorial Dr.
-RSVP for Details Sunday, October 11.
-(4:00 – 6:00pm) CARPOOL CANVAS/BLOCK WALK Take part by walking or driving with us to invite the community to vote!
-Materials and scripts will be given to you!
-Bring a group!
-Meet at: Romero’s Las Brazas 15703 Longenbaugh Dr.
-Houston, TX 77095 Sunday, October 11.
-(4:00 – 6:00pm) CARPOOL CANVAS/BLOCK WALK- Hockley Take part by walking or driving with us to invite the community to vote!
-Materials and scripts will be given to you!
-Bring a group!
-Meet at: Pizzaiolo’s 20153 FM 2920 Ste.
-5 Tomball, TX 77377 Monday, October 12 – 1:00 pm – 2:00 pm ZOOM Poll Greeter Training This is it!
+RSVP for Details Monday, October 12 – 1:00 pm – 2:00 pm ZOOM Poll Greeter Training This is it!
 We need your assistance!
 Click to sign up to be a poll greeter in your early polling location.
 We are welcoming all voters to the polls.

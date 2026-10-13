@@ -30,7 +30,7 @@ Collins is reelected has serious consequences not only for Maine but for the cou
 Hers is among the lonely voices in Washington pushing back against the dangerous partisanship that undermines our constitutional order.
 Simply put, a vote against Sen.
 Collins is a vote to perpetuate our national polarization while a vote for her is a vote for a healthy, civil and effective democracy.
-Read the Letter: Portland Press Herald Previous post Collins for Senator Statement on First Debate Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Read the Letter: Portland Press Herald Previous post Collins for Senator Statement on First Debate Next post Collins for Senator Statement on WMTW Debate Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

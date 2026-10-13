@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Calls Out Turek for Dodging Debate Invitations Aug 10, 2026 | Press Release Back to Updates Marion, IA – Nearly two weeks ago, Congresswoman Ashley Hinson accepted two debate invitations from Nexstar and Iowa PBS, both of which will be broadcast statewide.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Calls Out Turek for Dodging Debate Invitations Aug 10, 2026 | Press Release Back to Updates Marion, IA – Nearly two weeks ago, Congresswoman Ashley Hinson accepted two debate invitations from Nexstar and Iowa PBS, both of which will be broadcast statewide.
 Those same invitations were extended to Josh Turek, yet he still has not confirmed his participation.
 “Josh Turek is dodging debates because his record and his values are too liberal for Iowa,” said Congresswoman Ashley Hinson.
 “He supports raising taxes on working families, putting Iowa family farms out of business, and giving taxpayer-funded welfare benefits to illegal immigrants.

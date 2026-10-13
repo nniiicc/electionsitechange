@@ -4,7 +4,7 @@ When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 Who Is Running for NC House District 21 in 2026?
 North Carolina House District 21 is one of the most closely watched state legislative races in Wake County this cycle.
 The district covers significant portions of Cary and Apex — two of the fastest-growing communities in North Carolina — and the 2026 election will determine who represents tens of thousands of families in Raleigh.
-Cary and Apex Voters deserve real leadership. ​ Here's what voters in Cary and Apex need to know about the candidates running for NC House District 21 in 2026. ​ The Candidates ​ Bryson Johnson (Republican) Bryson is challenging for the District 21 seat.
+Cary and Apex Voters deserve real leadership. ​ Here's what voters in Cary and Apex need to know about the candidates running for NC House District 21 in 2026. ​ ​ ​ The Candidates ​ Bryson Johnson (Republican) Bryson is challenging for the District 21 seat.
 A 20-year resident and business owner within the district, Johnson has spent two decades teaching martial arts and leadership to thousands of children in Cary and Apex.
 He also works professionally as a cybersecurity engineer protecting critical healthcare, military, and government infrastructure — a background that included a Top Secret security clearance.
 Johnson is running as an independent-minded Republican who refuses all PAC money, arguing that campaigns funded by special interest groups cannot truly represent the people who live in the district.

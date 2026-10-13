@@ -2,5 +2,5 @@ Volunteer Contribute Events College of Complexes speech, on Sat., Aug.
 17, at 5:00, Dapper’s Restaurant, 2901 W.
 Addison (at California), Chicago, free parking On March 5, Chad gave a speech at the meeting of the republican parties of Maine and Niles Townships.
 On March 7, Chad filed about twice the number of required signatures.
-#ago This Week This Month ‹ Previous Mon Oct 12 2026 - Tue Oct 12 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Tue Oct 13 2026 - Wed Oct 13 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com - Political Campaign Websites Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu

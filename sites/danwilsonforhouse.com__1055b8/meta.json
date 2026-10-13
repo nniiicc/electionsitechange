@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.danwilsonforhouse.com/",
- "fingerprint": "b81df134052a3e662a8b7a17bbb2d69e473e4500",
+ "fingerprint": "a5ff76b1182bf68e28aa5a872e1ca5168dea6e98",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by the Dan Wilson for House Committee",
  "rendered": false,
  "title": "Dan Wilson for Minnesota State House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2019",
+  "2020"
+ ]
 }

@@ -58,17 +58,12 @@ I was a licensed life and health insurance agent in Minnesota.
 I’m not a lawyer.
 I’m not a career politician.
 I’m a Minnesotan who built something with his own two hands — and I’m running for Congress because working families in CD3 deserve a representative who actually lives like they do.
-From Tyler Uncategorized Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Read More » October 2, 2026 No Comments Uncategorized Americans Should Always Come First Who Stands for Lizbeth Medina?
+From Tyler Uncategorized CCX Media Community News Why I Am Going on CCX Media: The Difference Between Me and Kelly Morrison Oct 13, 2026 · Voters in Minnesota’s 3rd District deserve a Read More » October 13, 2026 No Comments Uncategorized WCCO Questions and Answers My Answers on Taxes, Health Care, Immigration, Jobs, and Fraud Oct 12, 2026 · Minnesotans deserve straight answers, so here are mine to five questions Read More » October 13, 2026 No Comments Uncategorized Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Read More » October 2, 2026 No Comments Uncategorized Americans Should Always Come First Who Stands for Lizbeth Medina?
 Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
 In December 2023 she was supposed to perform Read More » October 2, 2026 No Comments Uncategorized “I Went to Film a Nonprofit’s Building.
 I Left With a Trespass Citation.” Where Is the Money Going?
 What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Read More » October 1, 2026 No Comments Uncategorized Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
-What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Read More » September 6, 2026 No Comments Uncategorized Dr.
-Death is a War Profiteer Kelly Morrison Profited From War — And CD3 Deserves to Know the Truth Kelly Morrison likes to present herself as a small-town doctor who came Read More » September 6, 2026 No Comments Uncategorized Kelly Morrison Cheered the Lockdown.
-Minnesotans Are Still Paying For It.
-Trust the Science, or lose your job Kelly Morrison Cheered the Lockdown.
-Minnesotans Are Still Paying For It.
-On March 25, 2020, when Governor Walz Read More » August 26, 2026 No Comments Follow Tyler On Social Tyler Bass For Minnesota Congress Call Email X LinkedIn TikTok Facebook Support Republican More jobs, less taxes and affordable housing terms.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Read More » September 6, 2026 No Comments Follow Tyler On Social Tyler Bass For Minnesota Congress Call Email X LinkedIn TikTok Facebook Support Republican More jobs, less taxes and affordable housing terms.
 Get Involved Help us turn Minnesota Red!
 Contact Us Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!

@@ -54,4 +54,5 @@ Pleasant High School ◆ Oct.
 15: Hampshire Unit School ◆ Oct.
 22: Santa Fe Unit School ◆ Nov.
 5: Culleoka Unit School Recent Posts See All A fellow Big10 football player in the House today Cepicky proposes changes to public education Rep Cepicky Receives Award for Conservative Excellence!
-Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

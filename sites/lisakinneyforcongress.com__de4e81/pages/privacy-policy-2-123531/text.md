@@ -33,8 +33,9 @@ What rights you have over your data If you have an account on this site, or have
 You can also request that we erase any personal data we hold about you.
 This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 Where your data is sent Visitor comments may be checked through an automated spam detection service.
-Latest Updates Lisa Earns Another Endorsement October 10, 2026 Bill Schwartz is a colleague and friend of Lisa Kinney who understands the important issues with this election.
-Thank you, Bill!
+Latest Updates Three out of four Republicans said no to Chuck Gray.
+Say it again in November.
+October 10, 2026 Three out of four Republicans said no to Chuck Gray!
 WTE Election Guide October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
 Rep.
 Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress October 5, 2026 Lisa is honored to receive an endorsement from Congresswoman Pettersen of Colorado’s 7th District Friends Endorse Lisa for Congress September 30, 2026 Lisa is grateful for the endorsements of former legislators and friends.

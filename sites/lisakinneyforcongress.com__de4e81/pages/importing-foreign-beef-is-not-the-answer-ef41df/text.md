@@ -11,6 +11,4 @@ Washington could help Wyoming ranchers solve the problem by rebuilding cattle he
 “We can bring grocery prices down by increasing American production and competition – not by asking Wyoming ranchers to take the hit,” responded President Justin Tupper of the U.S.
 Cattlemen’s Association (USCA).
 He continued, “You don’t put America first by putting U.S. cattle producers last.” I will work to help American ranchers and residents by removing tariffs on everyday products as well as introducing legislation to bring back Country of Origin labeling.
-My goal is to help all consumers as soon as possible. ← Washington Needs Reexamined Election Interference? → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
-Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+My goal is to help all consumers as soon as possible. ← Washington Needs Reexamined Election Interference? → More posts Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Wyoming PBS Debates Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

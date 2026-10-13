@@ -8,7 +8,7 @@ She is pictured here on a home visit with a hospice patient for whom coming to t
 Affordable housing Safe and affordable housing is a right for all.
 Melody believes that this is a value that all Montanans hold dear.
 Due to dramatic property tax increases and rising housing costs, there is a severe shortage of homes that community members in all areas of Montana can afford to buy and rent.
-In the 2025 session, we were able to make meaningful changes in property taxes and thus affordable housing.
+In the 2025 session, we were able to make some, but insufficient, changes in property taxes and thus affordable housing.
 If re-elected, she will continue this fight to further protect our hardworking Montanans and for fair and affordable housing and property taxes for all.
 Public education As a former teacher, a first-generation college grad and retired member of MFPE, Melody believes that public education is the great equalizer and the backbone of democracy.
 She was advantaged by amazing public institutions through high school and for medical school.

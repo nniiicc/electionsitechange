@@ -5,5 +5,6 @@ Learn More Learn More ISSUE Cost of Living In his first term, Governor Josh Gree
 ISSUE Affordable Housing Governor Green is also bringing down housing costs for everyone in Hawaii.
 ISSUE Homelessness Since 2022, Josh has made the largest investment in reducing homelessness in Hawaii state history.
 Latest News Stay updated with the campaign by following us on Facebook , Twitter , and Instagram , or check out our recent News .
-Steady leadership in a crisis — when we need it most, Governor Josh Green delivers billions in aid, brings people together, and helps communities he...
+Governor Josh Green explains how kauhale are reducing homelessness, bringing hope, and saving taxpayers over $100 million in Hawaii.
+#TrustedCaringLea...
 #ago A Housed and Healthy Hawai’i: Charting a “Housing is Healthcare” Model for Preventing and Addressing Homelessness #ago Take Action Volunteer Volunteer Donate Donate Home Meet Josh Issues News Store Donate Facebook X-twitter Instagram Youtube Contact Us: [email protected] Contact Us Accessibility Privacy Policy PAID FOR BY JOSH GREEN FOR HAWAII, PO BOX 88 HONOLULU HI 96810 Powered by Apollo Home Meet Josh Issues News Store Home Meet Josh Issues News Store Volunteer Volunteer Donate Donate Facebook-f Twitter Instagram Youtube Support Josh Today! $ 50 $ 50 $ 500 $ 500 $ 2,000 $ 2,000 $ 100 $ 100 $ 1,000 $ 1,000 CHIP IN CHIP IN CONTINUE TO WEBSITE CONTINUE TO WEBSITE

@@ -18,9 +18,7 @@ Mike Levin believes that when we work together, we can still do big things.
 Here’s his agenda to tackle some of the important issues facing our nation.
 Agenda Click on an option to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Mike Levin relies on contributions from individuals like you and doesn't take a dime from corporate PACs!
-News & Media San Clemente Times: Levin Highlights Rail, Beach Restoration and San Onofre During San Clemente Town Hall September 19, 2026 Published Wed, Sept 3 2026 By Angélica Escobar Rep.
-Mike Levin addressed coastal erosion, rail stability, nuclear waste, rising energy costs and other local and national issues during a town hall at San Clemente High School on Friday, Aug.
-28.
-The event marked Levin’s 138th town hall since entering Congress, continuing a commitment he said […] Thank you for visiting my campaign website.
+Press Releases Rep.
+Mike Levin Tops $# Million Raised for Red to Blue and Frontline Candidates October 12, 2026 Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

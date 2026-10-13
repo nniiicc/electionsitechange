@@ -7,5 +7,5 @@ This campaign is committed to transparency under the Judicial Campaign Fairness 
 Thank you for your support and adherence to these guidelines.
 To donate by check, please make contributions payable to the Matthew Kolodoski Campaign.
 Please include your occupation and employer information and, if your spouse is a member of a law firm, please provide your spouse’s name and the name of the law firm, if applicable, so we may comply with TEC campaign finance reporting regulations.
-Checks may be mailed to: Matthew Kolodoski Campaign PO Box 367 Addison, TX 75001 Political advertising paid for by Matthew Kolodoski Campaign.
+Checks may be mailed to: Matthew Kolodoski Campaign PO Box 367 Addison, TX 75001 View Privacy Policy Political advertising paid for by Matthew Kolodoski Campaign.
 Links Home About Donations Contact News Social media Join the Campaign Thank you for joining the newsletter!

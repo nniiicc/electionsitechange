@@ -1,7 +1,6 @@
 Skip navigation menu About Issues Volunteer Events Contact Donate Standing up for the working class Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to be contacted by Ben Davis for Indiana for campaign updates.
 About Issues Volunteer Events Contact Donate Standing up for the working class Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to be contacted by Ben Davis for Indiana for campaign updates.
-Independent's Day Rally Three Indiana independent candidates speak at the Statehouse on July 2nd about the much longer road to qualifying for the ballot versus major party candidates.
-The Capitalists have two parties.
+Meet Ben Davis The Capitalists have two parties.
 Life for working Hoosiers continues to worsen under the two-party system.
 The cost of living has risen, voting rights have been restricted, more minorities are under attack, public education has been hollowed out, and college graduates continue to leave.
 The Socialist Party of Indiana will give working Hoosiers a voice.

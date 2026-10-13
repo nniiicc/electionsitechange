@@ -27,7 +27,7 @@ Texas should welcome international business and investment.
 But Texas should not use taxpayer-funded state institutions to conduct foreign policy.
 Texas first.
 Bookmark .
-Minority Winner Abbott’s Tax Plan 3 Comments Pingback: Biblical Principles Malek Muraywed September 28, 2026 at 21:42 Glad to see there are options to get rid of the governor we have.
+Minority Winner Abbott’s Tax Plan 4 Comments Pingback: Biblical Principles Malek Muraywed September 28, 2026 at 21:42 Glad to see there are options to get rid of the governor we have.
 Two questions: What’s your plan to distance Texas from Israel and its criminal military actions across Gaza, the West Bank, Syria, Lebanon, Sudan, Yemen, and Iran—and do you plan to go cry at the Wall?
 Thanks for your time.
 Reply patdixon September 28, 2026 at 23:00 I believe I addressed this.
@@ -38,5 +38,5 @@ I receive no support from AIPAC.
 Foreign policy is better directed toward our Libertarian US Senate candidate Ted Brown.
 To be clear: – I do not believe the Governor of Texas has any role in the policies of Israel.
 I do support repealing financial commitments that entangle Texas in foreign affairs.
-Therefore, whatever military actions Israel has are not the purview of the Governor of Texas. – I would have no plans to cry at the Wall Reply Leave a Reply Cancel reply Your email address will not be published.
+Therefore, whatever military actions Israel has are not the purview of the Governor of Texas. – I would have no plans to cry at the Wall Reply Pingback: Clarifications on “Texas Muslims” Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

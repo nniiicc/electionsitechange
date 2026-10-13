@@ -1,4 +1,8 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • September 9, 2026 Why Jill Oberlander is the Leader We Need in the State Senate Jill has worked to keep our taxes low and the quality of our lives high.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • September 17, 2026 A little more about me I’m running to be your state senator because I care deeply about our community, and I want to help make life better for the families… Read more… Letter to the Editor • September 15, 2026 A common-sense approach is why Jill Oberlander has earned my vote for State Senator A common-sense approach is why Jill Oberlander has earned my vote for State Senator.
+I hope she will earn yours, too.
+Read more… Newsletter • September 11, 2026 Twenty five years later, we remember Today is first and foremost about remembering.
+We remember the nearly # people whose lives were taken.
+We honor the first responders who ran toward… Read more… Letter to the Editor • September 9, 2026 Why Jill Oberlander is the Leader We Need in the State Senate Jill has worked to keep our taxes low and the quality of our lives high.
 She is committed to fiscal responsibility and to preserving our… Read more… Letter to the Editor • September 8, 2026 Strong Schools Require More Than Good Intentions At a time when politics too often turns schools into another source of division, that approach is refreshing.
 Our children deserve excellent schools.
 Our teachers… Read more… Newsletter • September 3, 2026 Gun safety shouldn’t be partisan Keeping our communities safe shouldn’t be a partisan issue.
@@ -12,8 +16,5 @@ I think that will come in handy in Hartford.
 Why?
 Because my… Read more… Newsletter • August 6, 2026 A better commute is possible Connecticut needs to prioritize transportation — both our trains and our roads.
 You deserve a transportation system that works for you.
-I’ll keep fighting until… Read more… Newsletter • July 30, 2026 Building Connecticut’s economic future As I talk with residents and business owners across our community, one theme comes up again and again: we want Connecticut to be as competitive,… Read more… Newsletter • July 23, 2026 Protecting the spaces that build communities I know how important parks and open spaces are to a community.
-From my first job with the New York City Parks Department, to my… Read more… Editorial • July 18, 2026 Eversource wants more money.
-It wants to hide the receipts.
-From the Greenwich Free Press This week Eversource asked PURA, the state regulator, to raise its rates, roughly 11% for a typical household and as… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+I’ll keep fighting until… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

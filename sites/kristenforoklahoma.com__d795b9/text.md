@@ -14,7 +14,6 @@ Chip In Today Kristen Thompson on FOX 23 In Depth: OK Sen.
 Kristen Thompson explains her bill aimed at including school supplies during tax Learn More “For the past decade, our family has been committed to providing high quality jobs for our fellow Oklahomans.
 Now, as a mom of 3 who cares about the future of our state, I am stepping out of the private sector to take conservative leadership and innovation with me to our State Capitol.
 I am dedicated to earning your trust and working for a more prosperous Oklahoma for us all.” Kristen Thompson Republican for Senate Legislative Accomplishments Comprehensive Tax Reform: House Bill 2764 is a significant reduction in personal income taxes and modernization of Oklahoma’s tax code, aimed at strengthening the state’s economy.
-Economic Development Initiatives: House Bill 2781 is the Reimagine Oklahoma Act, which supports the construction of a new aluminum plant, revitalizing Oklahoma’s industrial base and creating thousands of new jobs.
 In-Person Learning: Senate Bill 758 reduces reliance on virtual school days to ensure students receive the benefit of in-person learning.
 Bell to Bell No Cell: Senate Bill 139 requires public school districts to limit student cellphone use from “bell to bell” for the entire 2025-2026 school year.
 Ending DEI on College Campuses: Senate Bill 796 prohibits taxpayer-funded DEI (Diversity, Equity and Inclusion) programs at public colleges and universities.
@@ -25,7 +24,7 @@ REINS ACT: House Bill 2728, The REINS Act (Regulations from the Executive in Nee
 It requires state agencies to seek approval from the Legislature before adopting major administrative rules and provides for independent review of agency economic impact statements.
 Chevron Deference: House Bill 2729, legislation to eliminate the "doctrine of Chevron deference," a legal test that limited courts' ability to interpret ambiguous administrative rules.
 The law ensures that unelected agencies do not have the final word in establishing law.
-Meet Kristen Get the Latest from Kristen Email Zip Phone Consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Kristen for Oklahoma 2026 at the number provided.
+NRA rating: Kristen Thompson A rating Oklahoma Farm Bureau endorsement Petroleum Alliance Legislator of the Year Meet Kristen Get the Latest from Kristen Email Zip Phone Consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Kristen for Oklahoma 2026 at the number provided.
 Message frequency varies.
 Msg & data rates may apply.
 Reply HELP for assistance.

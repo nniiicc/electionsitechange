@@ -27,6 +27,6 @@ What does Michaela do for a job?
 What position is Michaela running for?
 Do I live in Michaela's district?
 Who is Michaela running against?
-This is going to take all of us.
-Are you in?
-Join Us Donate Resources Email us : cavalry@michaelafortennessee.com Michaela for Tennessee PO Box 9116, Knoxville, TN 37940 Press Kit Powered by RUN! website builder Paid for By Michaela for Tennessee You need to enable JavaScript to run this app.
+Want to see how Rep.
+Tim Burchett and Michaela Barnett compare?
+SEE HOW WE STACK UP Resources Email us : cavalry@michaelafortennessee.com Michaela for Tennessee PO Box 9116, Knoxville, TN 37940 Press Kit Powered by RUN! website builder Paid for By Michaela for Tennessee You need to enable JavaScript to run this app.

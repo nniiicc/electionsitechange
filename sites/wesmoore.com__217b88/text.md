@@ -18,11 +18,10 @@ WES WES ARUNA ARUNA Donate to Fuel Our Re-Election Fight This campaign is powere
 Will you chip in $10, $20, or whatever you can afford to support Governor Moore and LG Miller’s re-election campaign today! $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER If you've saved your information with ActBlue Express, your donation will go through immediately.
 GET INVOLVED Wes and Aruna believe that no matter where you start in life, you deserve an equal opportunity to succeed – a job you can raise a family on and the chance to create wealth for you and your family.
 Volunteer with Moore-Miller!
-Follow us on Instagram Watch Our Latest Videos THE LATEST FROM THE CAMPAIGN NEWS AND PRESS NEWS AND PRESS I banned dynamic pricing at grocery stores in Maryland so corporations can’t use your personal data to charge you more...
-#ago The stakes of this race were laid out in front of Maryland tonight.
-In just 4 years, we created nearly 65,000 new busin...
-#ago Gov.
-Wes Moore Launches Statewide Ad Blitz Highlighting Real Results In Maryland #ago Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
+Follow us on Instagram Watch Our Latest Videos THE LATEST FROM THE CAMPAIGN NEWS AND PRESS NEWS AND PRESS Montgomery County Dems were fired up!
+Thank you to all of the incredible precinct officers and volunteers that are makin...
+#ago I banned dynamic pricing at grocery stores in Maryland so corporations can’t use your personal data to charge you more...
+#ago The Mid-Atlantic Pipe Trades Association Endorses Governor Wes Moore For Reelection #ago Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
 TAKE ACTION By providing your phone number and opting-in, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

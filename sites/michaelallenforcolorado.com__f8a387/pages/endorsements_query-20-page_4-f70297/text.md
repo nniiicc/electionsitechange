@@ -1,4 +1,8 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements District Attorney for the 10th Judicial District Kala Beauvais “I am proud to support Michael Allen for Colorado’s next Attorney General – a candidate that embodies the highest standards of public service.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements District Attorney for the 9th Judicial District Benjamin Sollars “As the District Attorney serving Garfield, Pitkin, and Rio Blanco counties, I know how important it is to have an Attorney General who understands both public safety and the communities of the Western Slope.
+Michael Allen will answer the call for Colorado.
+Michael understands that public service is about doing the work, defending the rule of law, and protecting the things that matter to our communities, including our safety and our water.
+He has the experience, integrity, and judgment to be an Attorney General for all of Colorado.
+I am proud to endorse Michael Allen for Attorney General.” District Attorney for the 10th Judicial District Kala Beauvais “I am proud to support Michael Allen for Colorado’s next Attorney General – a candidate that embodies the highest standards of public service.
 His leadership is defined by integrity, fairness, and respect for the legal system that he has spent a career upholding.
 He brings experience and direction when it comes to holding criminals accountable and protecting our communities.
 Michael Allen is the positive change that Colorado so badly needs.” District Attorney for the 12th Judicial District Anne Kelly “I’m proud to support Michael Allen for Attorney General.
@@ -23,10 +27,6 @@ Michael Allen has spent a career defending Coloradans from crime by holding crim
 Our state has experimented with having a hyper political AG with no courtroom experience.
 We deserve better.
 Get politics out of the AG’s office.
-Let’s vote for experience and character.” Arapahoe County Commissioner Jeff Baker “Michael Allen is the strongest candidate Republicans have to win statewide and take back the Attorney General’s office.
-He understands that rising crime is driving up the cost of living for families across Colorado.
-Michael will crack down on crime, make our communities safer, and reduce the costs that rising crime is forcing on hardworking Colorado families.
-We cannot afford four more years of failed Democrat leadership, and Michael Allen is the leader who can help change course for Colorado and for future generations of Coloradans.
-He’s the candidate who can win in November and deliver results.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+Let’s vote for experience and character.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

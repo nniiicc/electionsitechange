@@ -1,12 +1,10 @@
 {
  "description": "Stay updated with campaign news, press releases, and media coverage from the Teresa Fox for Congress campaign.",
  "final_url": "https://foxforwa.com/media",
- "fingerprint": "8076199b226ca6a42662eee4f10229794f86fc43",
+ "fingerprint": "cf83a41c24dcd9e8b93e0377af38de1b6bbde09e",
  "format": 3,
  "paid_for_by": "Paid for by Fox for WA (R) - PO Box 4026 Bremerton, WA 98312",
  "rendered": true,
  "title": "Media & News | Teresa Fox for Congress",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

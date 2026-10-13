@@ -1,5 +1,4 @@
-Campaign news (08/20/2026): Judge Hawk advances in primary election to November!
-Judge Hawk’s Experience Endorsements Media Get Involved Donate Judge Hawk’s Experience There are lawyers who represent powerful interests, and lawyers who defend the public interest.
+Campaign news (10/09/2026): Judge Hawk endorsed by The Seattle Times and The Stranger Judge Hawk’s Experience Endorsements Media Get Involved Donate Judge Hawk’s Experience There are lawyers who represent powerful interests, and lawyers who defend the public interest.
 As an attorney, Jaime Hawk was in the second group — defending people arrested by ICE, making the justice system fairer for people living paycheck-to-paycheck, and leading trials and appeals in courtrooms across Washington, arguing that the Constitution protects everyone, not just the powerful.
 Now she’s a judge and is committed to fairness, court independence, and the rule of law.
 Raised by a single mother, she started her first job at 14.
@@ -33,7 +32,7 @@ Judge Hawk serves on the Washington Supreme Court’s Minority and Justice Commi
 Her commitment to justice has earned recognition throughout the legal profession, including the 21st annual Myra Bradwell Award for Gonzaga Alumnae Leadership, the Washington Defender Association President’s Award, and the American Bar Association’s "Star of the Year" Award for her work on access to justice.
 The Trusted Choice to Protect Our Rights U.S.
 Senators Patty Murray and Maria Cantwell appointed her to a bipartisan federal judicial selection committee.
-Judge Hawk is endorsed by more than 100 current and former judges and justices from across Washington.
+Judge Hawk is endorsed by more than 125 current and former judges across Washington - and by nine current and retired justices of the Washington Supreme Court.
 She is endorsed by the Washington State Labor Council because she understands how hard it is for working families.
 She is endorsed by the National Women’s Political Caucus because she understands what is at stake for women today.
 She has been recognized as a "Democracy Champion" by FairVote Washington because she has spent her career defending voting rights and the rule of law.

@@ -2,7 +2,7 @@ Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Conta
 Feed your ballot in the machine.
 Have it counted.
 Democracy in action, in person, starting October 16th.
-Learn more Previous Previous October 13 Voting: Early Registration Deadline Next Next October 20 Last Day to Request Absentee By Mail Newsletter Block This newsletter signup form needs a storage option.
+Learn more Previous Previous October 15 Ramsey Candidate Forum Next Next October 20 Last Day to Request Absentee By Mail Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Leave us your email to stay informed Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up Thank you!

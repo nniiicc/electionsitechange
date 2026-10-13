@@ -25,7 +25,21 @@ To promote academic excellence, Senator Kreun will: ​ Support strong academic 
 Senator Kreun will continue to support law enforcement and policies that hold criminals accountable, beginning with repealing the 2023 law allowing certain felony offenders to serve only half their sentences.
 He will pursue additional reforms that strengthen accountability and make Minnesota safer.
 Safe communities require law enforcement and accountability.
-Senator Kreun will support police, firefighters, first responders, and school resource officers while working to strengthen penalties, improve sentencing transparency, end catch-and-release, and repeal early-release policies allowing offenders to serve only half their sentences. ​ Prepared and paid for by Campaign Fund of Michael Kreun P.O.
+Senator Kreun will support police, firefighters, first responders, and school resource officers while working to strengthen penalties, improve sentencing transparency, end catch-and-release, and repeal early-release policies allowing offenders to serve only half their sentences. ​ Healthcare Rising healthcare costs are a significant challenge for businesses and their employees.
+Senator Kreun supports Minnesota’s individual-market reinsurance program, which helps stabilize the insurance market and blunt premium increases without imposing additional mandates or regulations that drive up costs.
+Energy Minnesota businesses need reliable, affordable, and flexible energy.
+Senator Kreun supports an all-of-the-above approach that allows businesses and consumers to benefit from a diverse energy portfolio.
+That includes eliminating Minnesota’s nuclear moratorium and ensuring energy policy prioritizes reliability and affordability rather than restricting viable energy sources.
+Business Senator Kreun is running for reelection because Minnesota needs a pro-growth approach that makes it easier to start, grow, and invest in a business.
+We need lower taxes, less unnecessary and more predictable regulation, permitting reform, and a government that understands businesses are partners in creating jobs and opportunity.
+Public service, like any successful business, should be defined by professionalism, civility, collaboration, and results.
+Michael, a small business owner himself, consistently advocates for pro-growth policies, opposing legislation that makes it harder to operate and grow a business.
+He has a 100% voting record on votes scored by the Minnesota Chamber of Commerce and National Federation of Independent Business (NFIB).
+He has worked closely with the Minnesota Chamber and his local chambers, including MetroNorth, Ham Lake, and Forest Lake, to understand their concerns and advocate for their priorities.
+Michael can often be found visiting the businesses in his district.
+He routinely engages with business representatives on legislation before the Judiciary Committee, where he serves, working to cultivate the best business climate, and oppose legislation that would negatively impact businesses.
+He received the endorsements of the Minnesota Chamber of Commerce Leadership PAC, MetroNorth Chamber Leadership fund and NFIB.
+Prepared and paid for by Campaign Fund of Michael Kreun P.O.
 Box 490311 Blaine, MN 55449 ​ www.MichaelForMNSenate.com ​ 2026 Michael Kreun for MN Senate.
 All Rights Reserved.
 PRIVACY POLICY TERMS & CONDITIONS bottom of page

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Lowering Costs for Working Families JB has made it his mission to make life more affordable for Illinoisans.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Lowering Costs for Working Families JB has made it his mission to make life more affordable for Illinoisans.
 From cutting taxes and raising wages to reducing grocery bills and making prescription drugs cheaper, he is getting big things done for people across the state.
 Groceries Eliminated the state sales tax on groceries.
 Child Tax Credit Created and doubled a state Child Tax Credit, saving working families up to $600 per year.

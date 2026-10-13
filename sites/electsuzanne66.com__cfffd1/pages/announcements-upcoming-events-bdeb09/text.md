@@ -1,6 +1,5 @@
-Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Announcements & Upcoming Events We will be hosting a community food drive on Saturday September 26 from 10 a.m. to 1p.m. at the Bethlehem Green and Gazebo located at 36 Main Street South (Route 61) in Bethlehem.
+Sign Up for Office Hours Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Announcements & Upcoming Events Families are feeling the pressure, and it’s time for leadership that puts our communities first, and delivers real solutions.
+Send me to Hartford and I’ll be a stronger voice for our communities. —Suzanne Lovig We will be hosting a community food drive on Saturday September 26 from 10 a.m. to 1p.m. at the Bethlehem Green and Gazebo located at 36 Main Street South (Route 61) in Bethlehem.
 This will be a convenient drive-up and drop-off event, making it easy for community members to participate.
 We want to make it as easy as possible for people to give.
 Simply drive up, unload your donated items into our wagons, and we will take everything over to the food bank.

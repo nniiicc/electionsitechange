@@ -12,4 +12,4 @@ Huntington Beach Mayor Linda Moulton-patterson Ret.
 Cerritos Mayor Mark Pulido Los Angeles City Attorney Mike Feuer Los Alamitos Unified School Board Trustee Marlys Davidson Ocean View School District Board Member Gina Clayton-tarvin Ret.
 Westminster Councilmember Diana Carey Ret.
 Westminster Elementary School District Jamison Power Carmen O.
-Perez Ray Cordova Supervisor Janice Hahn Assemblymember Ash Karla Assemblymember Matt Haney Assemblymember Tasha Boener Horvath Join the Team Email ZIP Code Mobile Number About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District
+Perez Ray Cordova Supervisor Janice Hahn Assemblymember Ash Karla Assemblymember Matt Haney Assemblymember Tasha Boener Horvath Join the Team Email ZIP Code Mobile Number Submit About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District

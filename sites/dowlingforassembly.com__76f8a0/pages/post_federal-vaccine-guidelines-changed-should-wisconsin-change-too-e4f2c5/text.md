@@ -32,6 +32,6 @@ I would want to understand the evidence behind a proposed change, hear from phys
 But I would begin from a simple principle: When medical guidance recognizes that a decision should be individualized, I don't think legislators should casually replace that conversation with a one-size-fits-all mandate.
 At the forum, I promised I would research the question instead of giving an answer I wasn't prepared to defend.
 This is where that research has led me.
-As of 9-16-26, The recording is now live, and you can watch it here: YouTube Recent Posts See All There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
-We’re All on a Fixed Income CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+As of 9-16-26, The recording is now live, and you can watch it here: YouTube Recent Posts See All I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
+CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

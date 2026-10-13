@@ -37,31 +37,31 @@ Follow Manka Dhingra #ago Lightbox link for post with description The more you l
 The more you learn about Initiative 638, the more you will realize how harmful it is.
 We cannot allow this in our Washington where we value each and every person.
 Vote No!
-75 110 Share 1283135171724918_1483505753593967 Follow Manka Dhingra #ago Lightbox link for post with description Congratulations Rep.
+95 149 Share 1283135171724918_1483505753593967 Follow Manka Dhingra #ago Lightbox link for post with description Congratulations Rep.
 Lisa Callan for the...
 Congratulations Rep.
 Lisa Callan for the well-deserved Mental Health Champion award at the NAMI Eastside Gala.
 Always a great evening to support the incredible work being done by NAMI Eastside.
-#mentalhealth 26 8 Share 1283135171724918_1482840756993800 Follow Manka Dhingra #ago Lightbox link for post with description Please vote no on all 3 initiatives.
+#mentalhealth 27 10 Share 1283135171724918_1482840756993800 Follow Manka Dhingra #ago Lightbox link for post with description Please vote no on all 3 initiatives.
 These...
 Please vote no on all 3 initiatives.
 These initiatives are not about good policy but about bad politics; Brian Heywood politics.
 #nohate Thank you to Orna and BiIl Berryman and all the other great co-hosts for hosting such a great event for No Hate WA.
 When people learn that there are less ... than 10 trans school athletes in the entire state and that 100% of the girls will have to produce a physician's verification of biological sex in order to play sports, they truly understand that this is not about policy or protection of girls but political ideology in punching down.
-336 992 Share 1283135171724918_1481979303746612 Follow Manka Dhingra #ago Lightbox link for post with description As the federal government continues to desimate...
+353 1K Share 1283135171724918_1481979303746612 Follow Manka Dhingra #ago Lightbox link for post with description As the federal government continues to desimate...
 As the federal government continues to desimate public health, in this Washington we can still get our insurance covered vaccine schedule based on science and data.
 Please get your flu and Covid vaccines ASAP.
-#VaccinesSavesLives 387 758 Share 1283135171724918_1478569637420912 Follow Manka Dhingra #ago Lightbox link for post with description Responsibility for rape is with the rapist....
+#VaccinesSavesLives 387 763 Share 1283135171724918_1478569637420912 Follow Manka Dhingra #ago Lightbox link for post with description Responsibility for rape is with the rapist....
 Responsibility for rape is with the rapist.
 Thank you Sexual Violence Center Cork for this graphic.
 5.4K 97 Share 1283135171724918_1474479164496626 Follow Manka Dhingra #ago Lightbox link for post with description Always a pleasure to see the incredible work ...
 Always a pleasure to see the incredible work being done at the YWCA in serving women, children and families.
 I have greatly appreciated partnering with them to help survivors of domestic violence.
 A true bonus to get to hear from Laila Ali and her life journey.
-33 8 Share 1283135171724918_1472953621315847 Follow Manka Dhingra #ago Lightbox link for post with description Always an honor to attend the Internet Crimes...
+33 9 Share 1283135171724918_1472953621315847 Follow Manka Dhingra #ago Lightbox link for post with description Always an honor to attend the Internet Crimes...
 Always an honor to attend the Internet Crimes Against Children Conference and learn from impacted families and the experts doing the work to keep our children safe.
 Our ICAC taskforce does some incredible work and I am always happy to support their evidence based, best practice work.
-29 16 Share 1283135171724918_1471640594780483 Follow Manka Dhingra #ago Lightbox link for post with description ...and could not forget the fun video ...and could not forget the fun video 39 13 Share 1283135171724918_1468050555139487 Follow Manka Dhingra #ago Lightbox link for post with description Thank you to everyone who made Bollywood this ...
+29 17 Share 1283135171724918_1471640594780483 Follow Manka Dhingra #ago Lightbox link for post with description ...and could not forget the fun video ...and could not forget the fun video 39 13 Share 1283135171724918_1468050555139487 Follow Manka Dhingra #ago Lightbox link for post with description Thank you to everyone who made Bollywood this ...
 Thank you to everyone who made Bollywood this year so special and full of joy!
 Thank you for all your trust and support.
-46 16 Share 1283135171724918_1468042318473644 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct
+46 17 Share 1283135171724918_1468042318473644 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct

@@ -1,4 +1,4 @@
-Follow us Menu Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Meet Katy Wife, mother, attorney, fighter for TX-23 I’m a mom on a mission to restore honesty and integrity to TX-23.
+Follow us Menu Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Meet Katy Wife, mother, attorney, fighter for TX-23 I’m a mom on a mission to restore honesty and integrity to TX-23.
 I am a lifelong Texan, a wife, a mother, an attorney, and a former public school teacher.
 My life has been defined by a firm commitment to serving the children, families, and communities that make up Texas’ 23rd Congressional District.
 My journey began with humble roots that shaped everything I believe about hard work and integrity.
@@ -22,5 +22,5 @@ Strong public schools that empower the next generation.
 A future where opportunity is not determined by your ZIP code.
 I am ready to take our values to Washington and fight for the opportunity of every Texan to thrive.
 Support Our Campaign Stay Up To Date Follow us on the campaign trail!
-Email Email Subscribe Donate Follow us Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
+Email Email Subscribe Donate Follow us Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
 217-509 San Antonio, TX 78257 (210) 201-3635 Accessibility Statement Terms of Service Contact Privacy Policy

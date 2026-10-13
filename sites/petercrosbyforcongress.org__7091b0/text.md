@@ -1,4 +1,4 @@
-Ballots Mail · Oct 13, 2026 Election Day · Tue, Nov 3 Register to Vote ↗ 🌐 English ▾ HOME ABOUT POLICIES NEWSROOM Media coverage Interviews, articles and video Press releases Statements from the campaign Data Room New Polling and the numbers behind the race EVENTS ENDORSEMENTS CONTACT Volunteer DONATE HOME ABOUT POLICIES NEWSROOM Media coverage Press releases Data Room New EVENTS ENDORSEMENTS CONTACT Request a Yard Sign Volunteer U.S.
+Ballots Mail · Oct 13, 2026 Election Day · Tue, Nov 3 Register to Vote ↗ 🌐 English ▾ HOME ABOUT POLICIES NEWSROOM Media coverage Interviews, articles and video Press releases Statements from the campaign Data Room Polling and the numbers behind the race EVENTS ENDORSEMENTS CONTACT Volunteer DONATE HOME ABOUT POLICIES NEWSROOM Media coverage Press releases Data Room EVENTS ENDORSEMENTS CONTACT Request a Yard Sign Volunteer Live debate Watch the CD2 debate Tuesday, October 13 · 6:00–8:00 PM MT Hosted by the Utah Debate Commission Watch on YouTube ↗ U.S.
 Congress · Utah District 2 The Voice for Northern Utah Northern Utah is home.
 It’s where Amanda and I have put down roots and have raised our family for almost 20 years now.
 I’m running because our community needs a leader that will voice our concerns, resolve our issues, and hold to our values whatever comes.
@@ -19,7 +19,7 @@ Donate Fuel voter outreach and events.
 Volunteer Door knocks, calls, and community events.
 Events Town halls and meetups near you.
 Contact Questions or ideas for the campaign.
-Live debate Watch the CD2 debate Tuesday, October 13 · 6:00–8:00 PM MT Hosted by the Utah Debate Commission Watch on YouTube ↗ Newsroom Media Coverage Article Congressional candidate pledges to spend no more than six years in Washington, D.C.
+Newsroom Media Coverage Article Congressional candidate pledges to spend no more than six years in Washington, D.C.
 Democratic candidate Peter Crosby hasn’t been elected to Congress yet, but is already confident enough to set term limits for himself.
 Cache Valley Daily • Sep 23, 2026 Article Peter Crosby narrows gap with Blake Moore in Utah’s new Congressional district, unaffiliated voters show strong support Democrat Peter Crosby trails Republican Representative Blake Moore by 1.7 percentage points in an internal poll conducted for the Utah CD2 race.
 The survey found Crosby leading among unaffiliated voters, while more than 26% of respondents remained unsure of their choice.

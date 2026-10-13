@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate Meet Nisha Leadership and Service Meet Nisha Nisha Lodhavia is an education and community leader running for the Delaware State Senate to represent Senate District 15: Cheswold, Harrington, Felton, Marydel, Hartly, Willow Grove, Sandtown - essentially western Kent County.
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate Meet Nisha Leadership and Service Meet Nisha Nisha Lodhavia is an education and community leader running for the Delaware State Senate to represent Senate District 15: Cheswold, Harrington, Felton, Marydel, Hartly, Willow Grove, Sandtown - essentially western Kent County.
 As the daughter of educators, Nisha was raised with the values of hard work, responsibility, and community service.
 Nisha knows hard work should lead to opportunity - but she also knows that for too many families today, it’s just not enough anymore.
 That’s why Nisha believes we can’t waste time arguing about problems; we have to listen, collaborate, and find real solutions.

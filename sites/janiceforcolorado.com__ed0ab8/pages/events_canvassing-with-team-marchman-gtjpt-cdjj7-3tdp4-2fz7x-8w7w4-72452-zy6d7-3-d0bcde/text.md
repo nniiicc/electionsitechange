@@ -1,6 +1,5 @@
-0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Canvassing with Team Marchman!
-Sunday, October 25, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens 1125 W 29th St, Loveland, CO 80538 Loveland, CO (map) Google Calendar ICS Friends, November will be here before you know it.
-And we need your help.
+0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Wellington Canvass Launch with Team Marchman!
+Sunday, October 25, 2026 10:00 AM 1:00 PM 7745 Kelbran Lane Wellington, Colorado, 80549 United States (map) Google Calendar ICS Friends, November will be here before you know it and we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
 We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
 And we need your help to do it!

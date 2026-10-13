@@ -1,7 +1,7 @@
 Skip to content Meet Elizabeth Media Priorities Get Involved Order a T-Shirt Donate Donate Donate Order a T-Shirt Meet Elizabeth Media Priorities Get Involved Ask Elizabeth Leading Starts With Listening Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Number What would you like to ask Elizabeth about? * How would you like to hear back from Elizabeth?
-Phone Email hear like What Stay in Touch!
+Name * First Last about? like would Email * Phone Number What would you like to ask Elizabeth about? * How would you like to hear back from Elizabeth?
+Phone Email Stay in Touch!
 Sign Me Up for News and Updates Submit Hi, I’m Elizabeth I’m running to represent my neighbors in Senate District 15 because I believe we are settling for too little from Charleston.
 I’m a writer, teacher, neighbor, and devoted congregant at my church, Bethel Lutheran .
 I’m committed to strengthening and protecting our communities by listening to what my neighbors really need .
@@ -40,7 +40,7 @@ West Virginia Senate District 15 encompasses all of Morgan and Hampshire countie
 Please visit this interactive map if you are unsure if you are in District 15.
 West virginians deserve leaders who show up Get Involved Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Your WV Alert Name * First Last Email * Your WV County * Phone Number Alert Me to Volunteer Opportunities Yes!
+Name * First Last Email * Your WV County * Opportunities Number WV Phone Number Alert Me to Volunteer Opportunities Yes!
 Not Today Submit Donate Email Me Privacy Policy Copyright © # Elizabeth Ferris for W.Va.
 Senate In-kind contribution declared. .
 CLOSE Scroll to Top

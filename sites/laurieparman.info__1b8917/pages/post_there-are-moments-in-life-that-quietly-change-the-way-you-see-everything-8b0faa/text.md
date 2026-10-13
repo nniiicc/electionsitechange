@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform Search There are Moments in Life that Quietly Change the Way you See Everything...
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA Search There are Moments in Life that Quietly Change the Way you See Everything...
 Judi Zapp Jul 9 2 min read There are moments in life that quietly change the way you see everything...
 For me, those moments come when I think about the generations yet to come.
 I think about my grandchildren.
@@ -25,7 +25,5 @@ Not for recognition.
 But because love for the next generation is one of the strongest reasons there is to step forward and do the hard work.
 My grandchildren are my daily reminder that our best days don't have to be behind us.
 I hope you'll join me in building that future—for them, and for all of ours.
-Laurie Recent Posts See All Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law SCHOOL CHOICE.
-OUR CHOICE.
-Kane & McHenry County -Your Primary Vote Matters!
-NEW Postal Law May Affect Your Mail-in Ballot Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page
+Laurie Recent Posts See All “What Mississippi Did to Improve Reading—and Why Illinois Should Pay Attention” “Only 1 in 3 Illinois Students Can Read at Grade Level.
+Why Aren't We Fixing It?” Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

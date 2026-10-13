@@ -1,6 +1,7 @@
 ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Support the Campaign Help send an actuary to Springfield.
 Every campaign needs money.
 Yours goes to reaching District 53 voters before November 3.
+Endorsed by the Chicago Tribune , October 12, 2026.
 Choose an amount.
 You will confirm it on the secure Stripe page that opens next. $25 $53 for the 53rd District $100 $250 $1,000 Other Other amount: $ Credit card Your gift: $53 .
 Processed securely through Stripe.

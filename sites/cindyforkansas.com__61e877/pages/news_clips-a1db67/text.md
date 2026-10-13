@@ -1,4 +1,4 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Kansas Reflector • October 6, 2026 Democrat Cindy Holscher's campaign for Kansas governor highlights distinctions from GOP rival Kansas Reflector • October 4, 2026 The AI data center push has roiled Kansas politics.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News KMBC • October 12, 2026 How Democratic Kansas governor candidate Cindy Holscher says she'll tackle the issues Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Kansas Reflector • October 6, 2026 Democrat Cindy Holscher's campaign for Kansas governor highlights distinctions from GOP rival Kansas Reflector • October 4, 2026 The AI data center push has roiled Kansas politics.
 It may also define the race for governor.
 KVOE • September 28, 2026 Holscher discusses education funding, property tax relief and data center policies in pair of Emporia stops Holscher visited with constituents at Gravel City Roasters on Saturday, following that appearance with an educator meet-and-greet at the Lyon County Democrat party headquarters Sunday.
 Sunflower State Journal • September 9, 2026 Holscher introduces new general election ad "Instead of looking out for us, politicians look out for themselves and their donors, and leave everyday Kansans stuck with the bill," she says in the ad.
@@ -22,11 +22,7 @@ Sam Brownback’s disastrous time in office and how Democrats have strengthened 
 We also discuss her call for a data center moratorium in the state, why it’s become such a big issue for voters, and how to support economic growth while ensuring everyday people aren’t left out of the benefits.
 Kansas City Star • August 19, 2026 Who has the edge in rare Kansas governor race with only 2 candidates in November?
 “In the Legislature, Cindy Holscher has worked across the aisle to solve problems, including ending the failed Brownback experiment, taking on special interests, and standing up for victims of sexual assault,” Osen said.
-“She’s laser-focused on lowering the cost of living, and she’s running a campaign that will appeal to all Kansans regardless of party label.” Community Voice • August 10, 2026 Holscher, Ohaebosim Advance to November as Kansas Governor’s Race Takes Shape Holscher selected Wichita attorney K.C.
-Ohaebosim as her running mate.
-If elected, Ohaebosim would become the first African American elected to statewide executive office in Kansas since Edward P.
-McCabe, who was elected state auditor in 1882 and remains the only Black Kansan to have won statewide executive office.
-1 2 Older → Sign up here.
+“She’s laser-focused on lowering the cost of living, and she’s running a campaign that will appeal to all Kansans regardless of party label.” 1 2 Older → Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.
 Lynn Rogers, Treasurer.

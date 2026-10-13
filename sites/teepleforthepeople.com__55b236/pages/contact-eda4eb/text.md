@@ -1,5 +1,5 @@
 Early Voting: October 19th - October 31st. | Election Day: November 3rd.
-Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues & Endorsements Events Endorsements News Volunteer Contact Donate Get in touch Contact Us Campaign contacts We read every message Questions about a bill, an invitation to speak, a media request, or an idea for the district — send it along and the team will route it to the right place.
+Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues Events Endorsements News Volunteer Contact Donate Get in touch Contact Us Campaign contacts We read every message Questions about a bill, an invitation to speak, a media request, or an idea for the district — send it along and the team will route it to the right place.
 Follow James Facebook facebook.com/JamesTforSC Donate via WinRed Christian.
 Conservative.
 Veteran.
@@ -11,7 +11,7 @@ Email address Subscribe Thank you — you're on the list.
 Watch your inbox for campaign updates.
 Something went wrong — please try again.
 Fighting for lower taxes, less red tape, better roads and the first responders who keep South Carolina safe.
-Explore Home Meet James Issues & Endorsements Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
+Explore Home Meet James Issues Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
 Something went wrong — please try again. © # James Teeple.
 Paid for by James Teeple for State House.
 Christian.

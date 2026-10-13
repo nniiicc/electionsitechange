@@ -1,4 +1,4 @@
-For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Blog Hump Day Update (08/26/26) Published by J.R.
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Blog Hump Day Update (08/26/26) Published by J.R.
 Brant on August 26, 2026 Howdy, Hoosiers.
 The time has come for another Hump Day Update, where I tell you what I’ve been up to, keep you up‑to‑date on the campaign, and give you a glimpse of what’s planned for the immediate future.
 Last week, I mentioned a few things on the horizon, and it turned out to be a meaningful stretch across District 23 and beyond.
@@ -22,6 +22,6 @@ I’ll be using the time to catch up on donor thank‑you letters, reach out to 
 Until next time, District 23, have yourselves a better‑than‑great weekend.
 I’ll be thinking about ya.
 Genuinely, Joshua Brant Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ ← Previous: Moto Monday 5 Next: Moto Monday 6 → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
-Type your email… Subscribe Recent posts Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Type your email… Subscribe Recent posts Response to Alting Statement Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Paid for by the Committee to Elect Joshua Brant .
 Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

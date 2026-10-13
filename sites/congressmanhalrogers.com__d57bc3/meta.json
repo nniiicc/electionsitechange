@@ -1,9 +1,10 @@
 {
  "description": "Congressman Hal Rogers campaign website",
  "final_url": "https://www.congressmanhalrogers.com/",
- "fingerprint": "e6c70028a71476614ffd75647e6d8813c44f1d02",
+ "fingerprint": "a176e47f951a05ff4ebbb9f8877e81a3c7538089",
  "format": 3,
  "paid_for_by": "Paid for by Hal Rogers for Congress ©# Hal Rogers for Congress",
+ "rendered": false,
  "title": "Congressman Hal Rogers - Eastern Kentucky's Champion",
  "years_mentioned": [
   "2026"

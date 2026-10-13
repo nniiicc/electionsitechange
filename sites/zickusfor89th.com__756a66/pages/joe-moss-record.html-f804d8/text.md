@@ -1,9 +1,4 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved THE PUBLIC RECORD Joe Moss: “Leadership” 30-second overview From the published campaign article Joe Moss had an opportunity to lead as chair of the Ottawa County Board of Commissioners in 2023 and 2024.
-Before voters send him to Lansing, they deserve to look at the public record.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.ottawanewsnetwork.org — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.ottawanewsnetwork.org — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.ottawanewsnetwork.org — linked reporting or reference. boards.miottawa.org — official document or government source.
-Ottawa County already saw what that looked like.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved THE PUBLIC RECORD Joe Moss: “Leadership” Ottawa County already saw what that looked like.
 Multiple lawsuits, rising legal costs, and settlements Joe Moss had an opportunity to lead as chair of the Ottawa County Board of Commissioners in 2023 and 2024.
 Before voters send him to Lansing, they deserve to look at the public record.
 Legal costs climbed FOX 17 reported that Ottawa County moved $110,000 from its general fund to cover legal costs after changing corporate counsel.
@@ -14,15 +9,13 @@ That is taxpayer money that could not be spent twice.
 The $280,000 severance controversy FOX 17 reported that the county paid a combined $280,000 to former interim administrator Benjamin Wetmore and former senior executive Jordan Epperson.
 Ottawa News Network reported that Moss argued during closed sessions that severance agreements were necessary to reduce potential litigation exposure.
 Other commissioners questioned the basis for that exposure.
-Lawsuits involve disputed allegations.
-Settlements are not admissions of wrongdoing, and allegations in complaints are not findings of fact.
-This page identifies those distinctions where relevant.
+The records below distinguish allegations, proposals, and completed payments.
 The choice for Michigan House District 89 Joe Moss had his chance to lead Ottawa County.
 Voters can judge the results for themselves.
-Meegan Zickus is offering District 89 a different approach: practical leadership focused on affordability, education, healthcare and the issues families deal with every day.
+I want to spend our time and public money on the things families need: attainable homes, good schools, and healthcare they can reach.
 MEEGAN ZICKUS REAL LEADERSHIP FOR A STRONGER MI-89 Meet Meegan → Sources and documentation Ottawa News Network — January 2025 Gibbs settlement reporting FOX 17 — Ottawa County overhaul: One year later Ottawa News Network — County settlement reporting FOX 17 — Unsealed recordings and severance deals Ottawa News Network — Closed-session recordings Ottawa County Board — Approved Proceedings, Sept.
-23, 2025 Related reading What has happened with Ottawa County legal costs and settlements?
+23, 2025 Sources for this article www.ottawanewsnetwork.org www.fox17online.com www.ottawanewsnetwork.org www.fox17online.com www.ottawanewsnetwork.org boards.miottawa.org Related reading What has happened with Ottawa County legal costs and settlements?
 What Did Ottawa County Taxpayers Get for Their Money?
 Ottawa County families got the bill.
-Browse the Issues Library · Compare candidate positions Issues library Local resources Accessibility Privacy Zickus for 89th Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Browse the Issues Library · Compare candidate positions Sources & corrections Issues library Local resources Accessibility Privacy Zickus for 89th Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

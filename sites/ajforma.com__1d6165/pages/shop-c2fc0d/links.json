@@ -1,9 +1,5 @@
 [
 {
-"text": "Español",
-"href": "https://www.ajforma.com/shop?locale=es"
-},
-{
 "text": "Events",
 "href": "https://www.ajforma.com/events"
 },
@@ -16,10 +12,6 @@
 "href": "https://www.ajforma.com/platform"
 },
 {
-"text": "Kreyòl",
-"href": "https://www.ajforma.com/shop?locale=ht"
-},
-{
 "text": "Media and Contact",
 "href": "https://www.ajforma.com/media"
 },
@@ -28,20 +20,12 @@
 "href": "https://www.ajforma.com/meet-andrea"
 },
 {
-"text": "Português",
-"href": "https://www.ajforma.com/shop?locale=pt"
-},
-{
 "text": "Shop",
 "href": "https://www.ajforma.com/shop"
 },
 {
 "text": "Solidarity Tech",
 "href": "https://www.solidarity.tech"
-},
-{
-"text": "Tiếng Việt",
-"href": "https://www.ajforma.com/shop?locale=vi"
 },
 {
 "text": "Voter Information",
@@ -54,17 +38,5 @@
 {
 "text": "[no text]",
 "href": "https://www.solidarity.tech"
-},
-{
-"text": "français",
-"href": "https://www.ajforma.com/shop?locale=fr"
-},
-{
-"text": "日本語",
-"href": "https://www.ajforma.com/shop?locale=ja"
-},
-{
-"text": "汉语",
-"href": "https://www.ajforma.com/shop?locale=zh"
 }
 ]

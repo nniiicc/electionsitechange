@@ -1,9 +1,4 @@
 Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved Back to Things Meegan is Thinking About Things Meegan is Thinking About · Campaign Analysis Ottawa County families got the bill.
-30-second overview From the published campaign article Two years of sweeping changes brought political battles, lawsuits and major controversy to Ottawa County.
-The harder question is what the average family received in return.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.fox17online.com — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.fox17online.com — linked reporting or reference. www.fox17online.com — linked reporting or reference.
 Two years of sweeping changes brought political battles, lawsuits and major controversy to Ottawa County.
 The harder question is what the average family received in return.
 By Meegan Zickus · Campaign analysis · September 30, 2026 OTTAWA COUNTY, Mich. — When Joe Moss became chairman of the Ottawa County Board of Commissioners in January 2023, there was little doubt that county government was about to change.
@@ -83,7 +78,7 @@ He clearly did.
 The question is: After two years of controversy, lawsuits, political fights and taxpayer-funded legal expenses, how much better off was the average Ottawa County family?
 For someone asking voters to send him to Lansing based on his record in county government, that's a question worth answering.
 Sources FOX 17 reporting corresponding to the source references in the original article.
-Board accomplishments and public-health budget debate Ottawa County overhaul: One year later Attorney firm ending contract as county legal counsel Judge: County on the hook for $188K in legal fees Closed meeting minutes detail proposed $4M settlement Back to Things Meegan is Thinking About Related reading What has happened with Ottawa County legal costs and settlements?
+Board accomplishments and public-health budget debate Ottawa County overhaul: One year later Attorney firm ending contract as county legal counsel Judge: County on the hook for $188K in legal fees Closed meeting minutes detail proposed $4M settlement Back to Things Meegan is Thinking About Sources for this article www.fox17online.com www.fox17online.com www.fox17online.com www.fox17online.com www.fox17online.com Related reading What has happened with Ottawa County legal costs and settlements?
 What Did Ottawa County Taxpayers Get for Their Money?
-Joe Moss: “Leadership” Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Joe Moss: “Leadership” Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

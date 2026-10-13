@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Josh Turek’s Missed Vote of the Day: Funding the Iowa Departments of Agriculture and Natural Resources Sep 1, 2026 | Press Release Back to Updates Marion, IA – Liberal U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Josh Turek’s Missed Vote of the Day: Funding the Iowa Departments of Agriculture and Natural Resources Sep 1, 2026 | Press Release Back to Updates Marion, IA – Liberal U.S.
 Senate candidate Josh Turek missed hundreds of critical votes – more than 58% of votes during the 2026 legislative session – failing to do his basic duties as a legislator for his constituents.
 His voting record was the second worst in the State House this year.
 Despite missing hundreds of votes, Turek took the full taxpayer funded per diem of more than $20,000.

@@ -1,19 +1,13 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the landing page In Meegan’s words Local Issues 30-second overview From the published campaign article Michigan needs reliable, affordable energy, and landowners have a right to make reasonable use of their property.
-But those principles do not justify pushing local residents and township governments aside when a large industrial energy project will permanently affect farmland, drainage, roads, neighboring properties, and the character of a community.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.michigan.gov — official document or government source. www.michigan.gov — official document or government source. groundwater.miottawa.org — official document or government source. boards.miottawa.org — official document or government source.
-Little Mac Bridge · Allendale Photo: Demhem / Wikimedia Commons · CC BY-SA 3.0 · Resized and compressed; display may crop.
-Meegan’s answers on energy development, clean water and housing stability.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back home In Meegan’s words Local Issues Little Mac Bridge · Allendale Photo: Demhem / Wikimedia Commons · CC BY-SA 3.0 · Resized and compressed; display may crop.
+Here’s what I’ll work for on energy development, clean water, and keeping a stable home.
 Public Act 233 and Silver Maple Solar Local communities deserve a meaningful voice.
 Michigan needs reliable, affordable energy, and landowners have a right to make reasonable use of their property.
 But those principles do not justify pushing local residents and township governments aside when a large industrial energy project will permanently affect farmland, drainage, roads, neighboring properties, and the character of a community.
 That is why I support substantially amending Public Act 233.
 The law gives the Michigan Public Service Commission authority over certain large renewable-energy projects under specified circumstances.
 Silver Maple Solar, a proposed 200-megawatt project in Zeeland and Jamestown townships, is now part of that state process.
-Michigan Public Service Commission My position is not anti-solar.
-It is pro-accountability, pro-property rights, and pro-local representation.
-Renewable energy projects should earn community support through a fair process, not receive special treatment that weakens local zoning authority.
+Michigan Public Service Commission I want energy projects to earn community support through a fair process.
+Landowners’ choices, neighboring families, and township zoning all deserve serious consideration.
 I would work to amend PA 233 so that: Township zoning decisions receive substantial deference.
 State review should be a limited backstop for unreasonable obstruction, not the default path around local government.
 Residents have a real seat at the table.
@@ -61,8 +55,7 @@ Housing Security and Homelessness Attainable homes, prevention and a path back t
 Ottawa County's housing problem affects people at every stage of life: young adults looking for a starter home, families struggling with rent, employers trying to recruit workers, and seniors who want to remain near their communities.
 The county's 2025 housing assessment found substantial gaps in both rental and for-sale housing.
 It also identified opportunities to serve middle-income buyers by allowing smaller homes on appropriately sized lots and expanding options such as townhomes and two-to-four-unit buildings in suitable locations.
-Ottawa County The answer is not one large new bureaucracy.
-It is a disciplined strategy built around supply, prevention, self-sufficiency, and accountability.
+Ottawa County I’ll focus on making homes easier to build, helping people through temporary crises, and giving people who have lost housing a way back to stability.
 State government should help communities remove unnecessary barriers while respecting legitimate local planning.
 That includes: Encouraging smaller starter homes, townhomes, accessory dwelling units, and other modest housing choices where infrastructure can support them.
 Making permitting more predictable and reducing unnecessary delays that add cost without improving health or safety.
@@ -89,10 +82,6 @@ Connection to treatment and recovery services.
 Reduced repeated use of shelters, emergency rooms, courts, and jails.
 Michigan should expand programs that demonstrate results, revise those that do not, and stop funding efforts that cannot show where the money went or whether lives improved.
 A serious housing policy should make it easier to build attainable homes, help people survive temporary crises, and give those who have lost housing a realistic route back to stability - without creating another costly system measured only by how much it spends.
-Related reading Water, Land & Community Browse the Issues Library · Compare candidate positions Follow Meegan Connect with the campaign on social media.
-Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Disclaimer: Any errors are unintentional.
-Please bring them to our attention so we can fix them—also, information changes.
-Positions will always reflect the best information I had at the time.
-I am responsive and open to adjusting.
-Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+Sources for this article www.michigan.gov www.michigan.gov groundwater.miottawa.org boards.miottawa.org Related reading Water, Land & Community Browse the Issues Library · Compare candidate positions Follow Meegan Connect with the campaign on social media.
+Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Sources & corrections Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

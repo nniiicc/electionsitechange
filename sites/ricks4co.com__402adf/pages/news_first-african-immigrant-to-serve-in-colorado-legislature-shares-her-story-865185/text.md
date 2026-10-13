@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker February 22, 2023 First African immigrant to serve in Colorado legislature shares her story Morgan Anker February 22, 2023 BLACK HISTORY MONTH First African immigrant to serve in Colorado legislature shares her story by: Gabrielle Franklin Posted: Feb 20, 2023 / 05:59 PM MST Updated: Feb 20, 2023 / 05:59 PM MST DENVER (KDVR) — When we talk about Black History in America, we are typically referring to the contributions and achievements of Black people born here in America.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker February 22, 2023 First African immigrant to serve in Colorado legislature shares her story Morgan Anker February 22, 2023 BLACK HISTORY MONTH First African immigrant to serve in Colorado legislature shares her story by: Gabrielle Franklin Posted: Feb 20, 2023 / 05:59 PM MST Updated: Feb 20, 2023 / 05:59 PM MST DENVER (KDVR) — When we talk about Black History in America, we are typically referring to the contributions and achievements of Black people born here in America.
 Here in Colorado, the state has become a hot spot for Black immigrants to make a life for themselves and break history while doing it.
 One immigrant blazing her own trail in the state Capitol is Rep.
 Naquetta Ricks, of House District 40 in Southeast Aurora.

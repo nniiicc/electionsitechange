@@ -5,4 +5,4 @@ It originated in the Trump Administration, but is now fanning out across party l
 7 0 Jan 1, 2026 ∙ 4 min Why We Voted for a Felon When you're at the bottom, you have nothing to lose and everything to gain by tearing it all down.
 People know the game is rigged against them.
 And they're not wrong.
-19 0 1 Load More © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page
+20 0 1 Load More © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page

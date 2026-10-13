@@ -1,5 +1,5 @@
 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign!
-Donate Contact 𝕏 𝕏 Donate 𝕏 About Vote Our District Car Magnet In the News Endorsements Volunteer Contact Donate General Election Tuesday, November 3rd Erin Huntley Campaign Privacy Policy Last modified on January 13, 2025.
+Donate Contact 𝕏 Free Yard Sign Donate 𝕏 𝕏 About Vote Our District Car Magnet In the News Endorsements Free Yard Sign Volunteer Contact Donate General Election Tuesday, November 3rd Erin Huntley Campaign Privacy Policy Last modified on January 13, 2025.
 1.
 INTRODUCTION Welcome to the official website (the "website" or "site") of Erin Huntley's campaign committee ("we", "us", "our").
 We understand that visitors to our website may have questions about how this website collects and uses information.

@@ -9,5 +9,5 @@ WACOPS membership is made up of law enforcement guilds from across the state.
 The more agencies involved, the stronger voice we have.
 Drew is also endorsed by a number of other law enforcement organizations, including the Fraternal Order of Police and Washington State Patrol Troopers Association.
 See the full list here .
-Endorsements In the News public safety More For You Tacoma News Tribune picks Stokesbary Endorsements AWB announces endorsement of Drew Stokesbary Endorsements Endorsements announced by the League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News public safety More For You The Seattle Times Endorses Stokesbary for Reelection Endorsements My 2018 Re-Election Campaign Current Events Transparency in the Governor’s Office In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

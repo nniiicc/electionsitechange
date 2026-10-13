@@ -1,5 +1,10 @@
 DONATE HOME DONATE JOIN US VISION ENDORSEMENTS ABOUT SNAPSHOTS MEDIA HOME DONATE JOIN US VISION ENDORSEMENTS ABOUT SNAPSHOTS MEDIA Mcgowan for iowa PO Box 207 Sioux City, IA 51101 Privacy Policy | ENDORSEMENTS As a weekly staple of our “McGowan for Iowa” campaign, each Monday, we feature a new endorsement of Chris from one of our key supporters.
 We are grateful to each and every single one of these advocates.
+Monday, October 12, 2026 Today is “National Farmer’s Day” and I am proud to have received the Iowa Farm Bureau’s coveted “Friend of Agriculture” designation in this election!
+Our family has deep roots in Iowa-4 as my mom grew up on a grain and livestock farm in Fonda.
+Additionally, my great grandfather, William Landgraf, was recognized by the Des Moines Register as the “Iowa Corn King” in 1945 for harvesting the most bushels of corn per acre the previous fall (161.9) in Sac County.
+Eight decades later, Great-Grandpa Landgraf’s great-great-grandchildren carry on the legacy as the fifth generation of Iowans to call this state home.
+Click to read endorsement.
 Monday, October 5, 2026 “As a nurse and lawmaker, I’ve spent my career working to make sure our healthcare system works for everyday Iowans.
 That means keeping the focus right where it belongs: on the care and well-being of the people who walk through clinic doors.
 That’s why I am proud to endorse Chris McGowan.

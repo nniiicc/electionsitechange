@@ -23,4 +23,4 @@ Will work to change our broken funding model when elected.
 Unfunded regulations are hurting our local schools, we need to have a realistic funding model to get our kids the best education.
 I know how important good meals and nutrition are for our kids.
 I will fight to expand the free school meals program to all schools. return to top » Navigate: Home Meet Tamara Stramel Priorities Donate today MAIL TO: Paid for by Together with Tamara Stramel P.O.
-Box 281, Sumner, WA 980
+Box 281, Sumner, WA 98390

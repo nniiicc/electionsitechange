@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Jim Boyer: Ignore the lies; Ashley Hinson bill backs farmers, consumers Jul 7, 2026 | In the News Back to Updates By now, Iowans have likely seen a completely false and disingenuous attack ad funded by a liberal, dark-money group against U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Jim Boyer: Ignore the lies; Ashley Hinson bill backs farmers, consumers Jul 7, 2026 | In the News Back to Updates By now, Iowans have likely seen a completely false and disingenuous attack ad funded by a liberal, dark-money group against U.S.
 Rep.
 Ashley Hinson, U.S.
 Sen.

@@ -47,7 +47,7 @@ People deserve to choose their representatives and cast their vote with confiden
 Together we are prioritizing the protection and improvement of our democratic process.
 I am championing policies for non-partisan redistricting, overturning Citizens United, and enacting automatic voter registration for every eligible voter.
 Together, we can ensure that our democracy is representative to the will of the people.
-Renuka Mayadev with her mentor Marian Wright Edelman, founder of the Children's Defense Fund and a Civil Rights Hero Newsletter Block This newsletter signup form needs a storage option.
+Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay in the loop Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up Thank you!

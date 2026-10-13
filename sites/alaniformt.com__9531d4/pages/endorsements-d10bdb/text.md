@@ -15,7 +15,7 @@ Senator?
 Give me a break.
 John Driscoll Former Speaker, Montana House of Representatives " A strong guardian of the public interest, and not the special interests.
 Ed Smith Former Clerk, Montana Supreme Court " We appreciate all you do to support women's rights and know that you'll continue to fight for us.
-National Women's Political Caucus Endorsement letter to Alani, July 2026 On the record Published questionnaires These organizations do not endorse candidates.
+National Women's Political Caucus Endorsement letter to Alani, July 2026 · NWPC’s endorsed candidates On the record Published questionnaires These organizations do not endorse candidates.
 They ask every candidate the same questions and publish what comes back.
 Check them yourself.
 Who asked Alani Bankhead (D) Kurt Alme (R) Seth Bodnar (I) Kyle Austin (L) Vote-USA Nonpartisan candidate profiles on every major issue.

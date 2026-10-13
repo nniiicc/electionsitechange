@@ -1,5 +1,10 @@
 2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
-Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Kassner Recognized for Legislative Work by Municipal Lawyers Association Hamilton resident and state Rep.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/11/26 News Kristin Kassner 10/11/26 Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers On Oct.
+1, Kristin Kassner was given the Massachusetts Legislator of the Year Award by the Massachusetts Municipal Lawyers’ Association.
+Kristin is one of 200 Massachusetts legislators, a junior one, and from a small town.
+The MMLA hadn’t felt compelled to select anyone to honor for seven years.
+How is it that a legislator such as Kristin, not a talented self-promoter, came to the fore for such recognition?
+In a statement, MMLA explained, “Representative Kassner has worked tirelessly and collaboratively with local government to improve communication among all stakeholders.” Read More News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Kassner Recognized for Legislative Work by Municipal Lawyers Association Hamilton resident and state Rep.
 Kristin Kassner has been named “Legislator of the Year” by the Massachusetts Municipal Lawyers Association (MMLA).
 “Representative Kassner has worked tirelessly and collaboratively with local government to improve communication among all stakeholders and to help make municipal voices, including the MMLA’s position and commentary on a variety of pending legislation, especially land use, heard on Beacon Hill,” Brown said.
 “I am deeply grateful for their collaboration, and profoundly humbled by this recognition as Legislator of the Year,” she said.
@@ -74,8 +79,6 @@ Kristin Kassner Read More News Kristin Kassner 6/12/26 News Kristin Kassner 6/12
 Bruce Tarr’s office announced on Thursday.
 “Investing in our roads, bridges, and public transportation through Chapter 90 is one of the most important tools we have to keep our cities and towns moving.
 This legislation strengthens the local infrastructure that residents rely on every day, supports local economies, and prepares our cities and towns for the challenges ahead.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 6/12/26 News Kristin Kassner 6/12/26 ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech Leaders from across the state gathered in Ipswich this week to brainstorm how to bring the biotech industry north of Boston.
-“A key part of preparing for our future is bringing people together to learn from one another to see what’s possible and to understand where our work intersects, because it's where we intersect that we create new ideas.” - Rep.
 Kristin Kassner Read More Older Posts Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

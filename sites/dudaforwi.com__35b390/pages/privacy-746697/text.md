@@ -1,8 +1,10 @@
 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
-Brienne Brown SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
+Brienne Brown SHARE Rep.
+Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
-Brienne Brown SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS Privacy Effective October 10, 2026.
+Brienne Brown SHARE Rep.
+Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS Privacy Effective October 10, 2026.
 This is the website of Duda for State Senate, the campaign committee for Adam Duda, candidate for Wisconsin's 11th Senate District.
 The site has no accounts and no sign-in.
 This page says, in plain words, what it does with information.
@@ -30,6 +32,8 @@ Changes and contact Changes to this page are posted here with a new date.
 Questions go to campaign@dudaforwi.com , 262-393-3832, or Duda for State Senate, PO BOX 191, East Troy, WI 53120.
 SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
-Brienne Brown SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
+Brienne Brown SHARE Rep.
+Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
-Brienne Brown SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS endorsements REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 election deadlines Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message $ Give Give in multiples of 11 $11 $22 $33 $55 $77 Paid for by Duda for State Senate District Map Flyer Campaign Photos Privacy PO BOX 191, East Troy, WI 53120 campaign@dudaforwi.com +1 (262) 393-3832 +1 (262) 393-3832 opens in a new tab
+Brienne Brown SHARE Rep.
+Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS endorsements REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 election deadlines Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message $ Give Give in multiples of 11 $11 $22 $33 $55 $77 Paid for by Duda for State Senate District Map Flyer Campaign Photos Privacy PO BOX 191, East Troy, WI 53120 campaign@dudaforwi.com +1 (262) 393-3832 +1 (262) 393-3832 opens in a new tab

@@ -1,6 +1,7 @@
 Skip to content Moved?
-Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate ← All priorities Priority 01 Lower Costs & Responsible Growth Utah's growth should create opportunity without pricing families out of their communities.
-My commitment Plan new housing and development around what families can afford.
+Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate ← All priorities Priority 01 Lower Costs & More Homes Utah's growth should create opportunity without pricing families out of their communities.
+Looking for water, data centers, or the Great Salt Lake?
+See the water & growth plan → My commitment Plan new housing and development around what families can afford.
 Make sure projects account for the roads, water, power, and public services they need. $91.55/year Estimated increase in the Utah County General Fund tax for the average residential parcel under the adopted 2025 budget.
 That is about $7.63 a month.
 Individual bills vary.
@@ -11,14 +12,22 @@ Before the state approves a big incentive, changes the tax code, or sends a cost
 Who benefits?
 Was it public?
 Will it help HD61 families afford to stay here?
-Housing Make room for homes people can afford where services can support them.
+Housing More homes, not more red tape.
+Make starter homes easier to build.
+Groceries Cut the grocery sales tax, then work toward ending it.
+Health costs Check big insurance rate hikes and rein in drug-price middlemen.
 Property tax Stop unfair assessment shifts from landing on homeowners.
 Utilities Make major users show how they will affect capacity and rates.
 Transportation Plan growth with roads, transit, and daily travel costs in mind.
 01 · TAX FAIRNESS Fix unfair cost shifts Push for accurate commercial property values so homeowners do not carry an unfair share of the tax burden.
-02 · HOUSING Make room for homes people can afford Support housing in the right places and plan for the water, roads, utilities, and schools it will need.
-03 · BIG PROJECTS Plan before we pay Make large developments show how they will affect power, water, roads, public services, and household rates.
-04 · TAXPAYER DEALS Demand proof before subsidies Before approving big taxpayer incentive packages, show what they cost, put the promises in writing, and get an outside review.
+02 · HOUSING More homes, not more red tape Fix zoning so starter homes are easier to build, and plan ahead for the water, roads, utilities, and schools they’ll need.
+03 · GROCERIES Cut the grocery tax Cut the sales tax on groceries, then work toward getting rid of it.
+Food is the one thing every family has to buy.
+04 · HEALTH COSTS Rein in insurance and drug costs Utah County families keep telling me their insurance bills are climbing.
+Big rate hikes should need state approval.
+I’d also go after the middlemen driving up drug prices and look at help with ACA costs.
+05 · BIG PROJECTS Plan before we pay Make large developments show how they will affect power, water, roads, public services, and household rates.
+06 · TAXPAYER DEALS Demand proof before subsidies Before approving big taxpayer incentive packages, show what they cost, put the promises in writing, and get an outside review.
 Before spending public money How the two sports projects are financed The two Salt Lake-area projects have different financing arrangements.
 For the Fairpark stadium, the 2024 legislation limited the district’s contribution to half the stadium’s development and construction cost, with a maximum of $900 million.
 Bonds issued by the district are not general obligations of the state.
@@ -31,9 +40,9 @@ They do not mean the Legislature wrote a $1.8 billion check or that the full amo
 03 Explain major budget and tax votes in plain language.
 Check the sources Read the public records These are the reports and records behind the claims on this page.
 01 Utah County Auditor Adopted 2025 budget and estimated residential impact ↗ 02 Utah Public Notice Website Original Utah County Truth in Taxation notice ↗ 03 Legislative Auditor General Property-tax accountability and transparency audit ↗ 04 Utah Legislature H.B.
-562 Fairpark stadium-contribution cap ↗ 05 Salt Lake City Council District approval and $900 million maximum ↗ 06 Responsible growth detail East Bay proposal, estimates, and source documents → The two $900 million figures are separate caps with different financing structures.
+562 Fairpark stadium-contribution cap ↗ 05 Salt Lake City Council District approval and $900 million maximum ↗ 06 Water & growth plan East Bay and Stratos examples, estimates, and source documents → The two $900 million figures are separate caps with different financing structures.
 They are not a $1.8 billion state-budget appropriation.
 Evidence last verified August 2026.
 Put affordability first Help take this plan to every doorstep in HD61.
-Join the Campaign Next: Schools & Local Opportunity → AJ Alan Jimenez FOR UTAH HOUSE · DISTRICT 61 Paid for by Alan Jimenez.
+Join the Campaign Next: Water & Growth → AJ Alan Jimenez FOR UTAH HOUSE · DISTRICT 61 Paid for by Alan Jimenez.
 Home How to Vote Priorities Join the Campaign Donate ↗ Español Privacy Text Terms alanforutah@outlook.com Facebook ↗ Instagram ↗

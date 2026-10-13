@@ -1,5 +1,12 @@
 Our Kansas Champion.
-Meet Ron Issues News Contact Volunteer Contribute Meet Ron Issues News Contact Volunteer News Ron’s Reads 10/4 October 4, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
+Meet Ron Issues News Contact Volunteer Contribute Meet Ron Issues News Contact Volunteer News Ron’s Reads 10/11 October 11, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
+I hope you enjoy the rest of your Sunday, and thanks for staying informed.
+A few reads to recap the week… 8 4% of Gen Z Democrats Back Socialism: Poll The Daily Signal Poll: 1 In 5 Undergrads Says U.S.
+Deserved 9/11, Nearly Half Endorse Violence Against 'Hate Speech' The Federalist Obama will campaign with Abdul El-Sayed in Michigan Roll Call Report: Federal Govt Spent $26.5 Billion on NGOs for Illegal Migrants Breitbart New Trump Admin Stats Prove Good Guys With Guns Save Lives The Federalist ‘The Martyr's Blood Is Fragrant’: Mamdani's Wife Does Artwork for Terror-Loving, Anti-Israel Olive Oil Company That Celebrates Palestinian Terrorist Who Shot Down a British Plane The Washington Free Beacon I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
+If you’d like to support me and my team even further, please consider contributing to my campaign.
+SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
+Enjoy the rest of your weekend!
+Onward to Victory, Ron Estes Ron’s Reads 10/4 October 4, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
 I hope you enjoy the rest of your Sunday, and thanks for staying informed.
 A few reads to recap the week… ​​ Republicans Must Either Vote in Droves or Kiss the Trump-GOP Agenda Goodbye The Daily Signal Poll: 6 In 10 Americans Oppose Democrats' Plan To Pack The Supreme Court The Federalist Be like Sophie Cunningham, not Chris Simms — never give in to the outrage mob Fox News ​​ Hispanics Still Reject Socialism, and Yesterday’s White House Celebration Proved It The Daily Signal Squad 2.0 The Daily Signal The ‘Affordability’ Democrats?
 You Have to Be Kidding Wall Street Journal I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
@@ -67,12 +74,6 @@ Onward to Victory, Ron Estes Ron’s Reads 7/26 July 26, 2026 Friend, As usual, 
 I hope you enjoy the rest of your Sunday, and thanks for staying informed.
 A few reads to recap the week… California's Medi-Cal Crisis: Fraud and Waste Exposed The Daily Signal New Jersey Dem Governor Pledges Transparency, Blocks Election Docs Release The Federalist Gov.
 Sarah Huckabee Sanders Shows Education Can Be Fixed The Daily Signal Illegal Immigrants Who Refuse to Leave the US Fined Over $84 Billion The Epoch Times Marco Rubio Exposes the Threat of Leftist Terrorism and the Institutions That Covered for It The Daily Signal I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
-If you’d like to support me and my team even further, please consider contributing to my campaign.
-SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
-Enjoy the rest of your weekend!
-Onward to Victory, Ron Estes Ron’s Reads 7/12 July 12, 2026 Friend, As usual, below are recent news and opinion articles from around the country.
-I hope you enjoy the rest of your Sunday, and thanks for staying informed.
-A few reads to recap the week… ﻿ Trump Identifies Communism Biggest Enemy of America The Daily Signal New Testimony Builds Case That Charlie Kirk Was Assassinated For Christian Belief The Federalist Welcome to the one-day week: LA’s $230K-a-year politicians now want to do even less work — while the city rots New York Post After Defending Murder Fantasies And 9/11 Apologists, Dems Only Dumped Platner Because He Was Going To Lose The Federalist Battle for Future of Democratic Party Rages in Key Senate Primary Wall Street Journal I’m thankful to have you on my team as I work to defend our constitutional liberties and bring common sense policies back to our nation’s capital.
 If you’d like to support me and my team even further, please consider contributing to my campaign.
 SUPPORT TEAM ESTES — DONATE TODAY Thank you for taking the time to stay informed.
 Enjoy the rest of your weekend!

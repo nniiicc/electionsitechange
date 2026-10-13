@@ -1,4 +1,4 @@
-Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate 🪙 Cost of living 🏥 Healthcare 💼 Jobs & The Economy 👥 Immigration 🏠 Housing 🏦 Fight Political Corruption 🎓 Education & Training 🏞️ Environment 🌎 Foreign Policy 🧠 Artificial Intelligence 👥 Immigration We must fix our broken system You’ve seen the videos.
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate 🪙 Cost of living 🏥 Healthcare 💼 Jobs & The Economy 👥 Immigration 🏠 Housing 🚰 Water 🏦 Fight Political Corruption 🎓 Education & Training 🏞️ Environment 🌎 Foreign Policy 🧠 Artificial Intelligence 👥 Immigration We must fix our broken system You’ve seen the videos.
 Unidentified masked men kidnapping innocent mothers selling fruit, or ripping children away from their parents.
 The current policies of blanket detention and deportation are unconstitutional and un-American.
 As the son of immigrants from Mexico, this is personal to me.

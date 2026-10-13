@@ -2,7 +2,7 @@ Running for YOU About Issues Events Vote Endorsements Get Involved Endorse Donat
 Lifelong Michigander.
 Common-sense conservative leadership for Washtenaw and Jackson Counties.
 JOIN THE CAMPAIGN Running for YOU | 137.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
-She and her husband Gerry have been married 36 years, and have made Northfield Township their home since 2015.
+She and her husband Gerry have been married 37 years, and have made Northfield Township their home since 2015.
 She previously served as Northfield Township Trustee from 2016 to 2020.
 Tawn currently serves as Vice-Chair of the Washtenaw County Republican Committee (elected by precinct delegates), sits on the Executive Committee of the 6th Congressional District Republican Committee, and was a delegate to the 2024 Republican National Convention.
 Tawn is committed to fighting for lower taxes, stronger public safety, pro-life values, parental rights, and protecting our constitutional freedoms.

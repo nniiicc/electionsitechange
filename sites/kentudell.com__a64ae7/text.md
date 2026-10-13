@@ -16,7 +16,7 @@ An avid river rafter, hiker, skier and mountain biker, he understands viscerally
 He believes that Utah's 3rd district embodies both rugged independence and deep interdependence and that effective representation must honor both.
 Expanded Bio “I’m not a career politician nor a lawyer.
 I am an engineering scientist and educator.
-I identify problems and work to solve them, not make problems and promise to solve them.” Kent and his wife, Cherise Kent is an avid outdoorsman IMG_4146 Kent and his wife, Cherise 1/19 “I am not taking any corporate PAC money.
+I identify problems and work to solve them, not make problems and promise to solve them.” Kent and his wife, Cherise Kent is an avid outdoorsman IMG_4146 Kent and his wife, Cherise 1/20 “I am not taking any corporate PAC money.
 Representative Maloy can not say the same.” Want to get involved?
 Join our Team Donate Learn more about Kent Key Issues The Constitution Our Constitution, the Bill of Rights, and the foundational promise of life, liberty, and the pursuit of happiness are sacred.
 These are not slogans, they are guardrails that keep us on the path to a better future.
@@ -67,7 +67,7 @@ The approval process is lacking transparency and public concerns are overriden i
 This is entirely unnacceptable!
 I call for a moratorium on any new data centers in Utah until pertinent questions are honestly answered.
 Even if those questions are answered, Utahns may decide clean water, clean air, night skies and lower energy demands on our grid are more important than ai training and government surveillance.
-1/6 Get Involved Join The Team Name * Phone * Zip Code * County * Email * Join Our Team I want to subscribe to your mailing list.
+IMG_2116 IMG_0619 1/11 Get Involved Join The Team Name * Phone * Zip Code * County * Email * Join Our Team I want to subscribe to your mailing list.
 Donate Now Every donation matters for People powered campaign $# $# $# $# $# $1000 Other Contact Candidate Kent Udell kent.udell@gmail.com ​ Campaign Manager: Emily Bingham emily@kentudellforcongress.com Facebook Meet me in person!
 Kent's Track Record Kent Udell’s career has been defined by solving hard problems with real-world consequences where integrity, evidence, and accountability matter.
 01 Protecting Water & Public Health Kent pioneered groundwater cleanup technologies now used worldwide to remove toxic contamination from aquifers and protect drinking water.

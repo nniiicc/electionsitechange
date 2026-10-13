@@ -13,7 +13,7 @@ Regardless of party or political beliefs, I have fought for every single one of 
 I have also seen the shortcomings of our political system locally and across the state.
 Families are choosing between their electric bill and putting food on the table.
 The lack of investment in public education and other services is unacceptable.
-The gap between the haves and the have nots is widening at an alarming rate, and much of this is due to our failed leadership right here in Alamance County and at the General Assembly.
+The gap between the haves and the have-nots is widening at an alarming rate, and much of this is due to our failed leadership right here in Alamance County and at the General Assembly.
 My approach to politics is consistent with my approach to teaching, coaching and life in general: everyone deserves a fair shot, everyone deserves respect, and together, we are capable of making greater progress than we ever possibly could on our own." -Coach Levon Barnes Help us send a community leader who fights for All of us to the General Assembly.
 DONATE TODAY A Champion for Alamance Families.
 Contact levonfornc@gmail.com Paid for by the Committee to Elect LeVon Barnes Read our Privacy Policy

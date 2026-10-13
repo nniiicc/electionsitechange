@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate About Smalltown Roots Kristy was raised in small towns throughout North Dakota.
+Skip to content Home About City Council Record Priorities Endorsements News Volunteer DONATE DONATE Home About City Council Record Priorities Endorsements News Volunteer Events on Mobilize Donate About Smalltown Roots Kristy was raised in small towns throughout North Dakota.
 As the daughter of two teachers, she learned the importance of hard work and a quality education from an early age.
 Her family’s rural background, with her father’s family farming in the Red River Valley and her mother’s parents serving as a county social worker and a hospital nurse, instilled in her the value of strong communities.
 Military Service Kristy joined the North Dakota Army National Guard when she was just 17 years old and still in high school, making her a third generation Army soldier.
@@ -18,5 +18,5 @@ Bipartisan Track Record For the past three years, Kristy has served as a volunte
 Kristy collaborates with lawmakers of both parties to pass bills into law, prioritizing service and effective policy above all else.
 Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
 Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About City Council Record Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
 Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 42 Build the Wall Act Pays to build and maintain physical barriers on the southern border by redirecting unspent COVID-era state and local stimulus funds into a dedicated DHS construction fund.
 The bill What it does.
 The Build the Wall Act funds the physical barrier on the southern border without adding to the deficit.

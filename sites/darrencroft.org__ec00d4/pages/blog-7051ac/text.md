@@ -1,4 +1,5 @@
-Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Campaign Events September 26, 2026 Upcoming events including those dedicated to meeting Darren, and those with multiple candidates.
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Voter Guide October 12, 2026 Critical dates, locations, and smart voting tips prepared especially for District 41.
+Click for Voter Guide Campaign Events September 26, 2026 Campaign events including those dedicated to meeting Darren, and those with multiple candidates.
 Meet Darren Croft and Kathleen Anderson August 13, 2026 Kathleen is a candidate for Salt Lake County Council At Large When: August 17, 6-8pm Where: Whitmore Library, Downstairs Neighborhood Meet and Greet August 8, 2026 An opportunity to meet and talk with Darren When: Thursday, August 13, 7:00pm Where: Home of Kelvyn & Laurie Cullimore Come Visit During Butlerville Days!
 July 17, 2026 Come have some community fun July 18 in the fields West of Butler Junior High and the Rec Center.
 Look for our tent in the vendor area on Saturday and come visit.
@@ -19,10 +20,5 @@ Text, email, or call if you’re willing to have one on your property.
 We’re following the rules which means signs can’t be in park strips, on utility poles, or on government property.
 They have to be on private property.
 Thanks!
-“Running” in District 41 May 5, 2026 Yes, I’m running for office in District 41, and I’m running on the roads and trails too.
-Watch for my campaign-mobile, and you’ll know I’m nearby running or walking to get to know the people and places of our district!
-Hope to see you!
-We’ll be posting about it on our social media pages.
-Please 1 2 Search Search Recent Posts Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
-Recent Comments No comments to show.
+1 2 Search Search Recent Posts Voter Guide Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Recent Comments No comments to show.
 District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

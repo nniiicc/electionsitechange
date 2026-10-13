@@ -24,3 +24,5 @@ Merch — Merch on Bridgford for Iowa.
 An official campaign website for Bridgford for Iowa, providing information about.
 Past Events Page — Past Events Page on Bridgford for Iowa.
 An official campaign website for Bridgford for Iowa, providing information about.
+Debate Watch Party — Debate Watch Party on Bridgford for Iowa.
+An official campaign website for Bridgford for Iowa, providing information about.

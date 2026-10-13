@@ -18,8 +18,18 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Summary Block This block has no content yet.
-Items you add to the page connected to this block will display here.
-Events Andie for Texas Political advertisement paid for by Andie Ho.
+RSVP Upcoming Events Events Local Candidates Forum What: Local Candidates Forum hosted by the Bryan/College Station Chamber of Commerce to help the community get to know the candidates and make informed voting decisions When: Tuesday, October 13, 6–8 pm Where: Brazos Center, 3232 Briarcrest Dr, Bryan, TX77802 Who: Candidates for State Representative (Districts 12 & 14), County Commissioner (Precinct 4), Mayor (Bryan & College Station) Cost: Free Read more → Oct 14 Voter Mobilization @ SHSU with Beto Ready to do the work that actually works?
+In 2024, our face-to-face voter registration model achieved a massive 79% voter turnout among the Texans we registered.
+We aren't just hoping for change—we have the blueprint to create it.
+Join us and special guest Beto O'Rourke for the Every Campus Counts tour at SHSU !
+We are showing up to talk to students, spark personal conversations, and build lasting progressive power through relational organizing.
+At this event, we will: Engage directly with existing and potential student voters Connect with voters using Reach , our relational organizing tool, so we can personally stay in touch with them all the way to Election Day All volunteers are welcome!
+There are plenty of vital roles for everyone.
+Read more → Candidate Meet & Greet What: Candidate Meet & Greet - light snacks will be provided.
+Support a local business and buy drinks from HSF Biergarten!
+When: Friday, October 16, 11 am–1 pm Where: HSF Biergarten, 307 South Park St, Brenham, TX 77833 Who: Andie Ho (HD-12), Erica Gillum (SD-18), Tanya Lloyd (TX-27) Cost: Free - light snacks provided and whatever drinks you purchase Read more → Oct 17 OUToberfest 2026 What: Third annual OUToberfest 2026 , the Brazos Valley Pride Festival!
+Come check out the artisan market, food and drink vendors, local non-profit and community resources, big stage performances and more!
+When: Saturday, October 17, 12–4 pm Where: Astin Mansion, 506 W 26th St, Bryan, TX 77803 Who: Candidates Andie Ho (HD-12) & Paul Thomasson (SD-5) Read more → Oct 18 Speed Dating with the Candidates What: A fun and fast-paced Candidate Forum where candidates from various local races rotate to tables of voters to answer questions When: Sunday, October 18, 1–5 PM Where: Larry J.
+Ringer Public Library , 1818 Harvey Mitchell Pkwy S, College Station, TX 77845 Cost: Free Read more → Andie for Texas Political advertisement paid for by Andie Ho.
 Copyright #.
 Contact andieforHD12@gmail.com

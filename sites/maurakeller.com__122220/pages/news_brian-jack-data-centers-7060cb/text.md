@@ -46,6 +46,7 @@ The people of Georgia’s 3rd, when I speak to them, tell me what they think abo
 I know exactly how many frustrated residents stand in line on hot Georgia days so they can be early to sign up for public comments.
 I know exactly how Jack’s voters feel when they tell me about Dear constituents letters they’ve received when begging for help for weeks and months on end.
 I care about this issue because the people care about this issue, and I’m running to serve you .
+Click here to read more about how Jack and I differ on major policy issues.
 Maura Keller Maura Keller stands for service, dedication, and progress.
 Born in South Weymouth, Massachusetts, and residing in Fayetteville, Georgia for 28 years, Maura's life has been a testament to the power of hard work and helping others.
 Next Next Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller Maura Keller is a retired Lieutenant Colonel with the United States Army.

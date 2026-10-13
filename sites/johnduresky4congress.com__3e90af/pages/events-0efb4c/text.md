@@ -11,7 +11,10 @@ Sign up here for weekend shifts starting Saturday, September 19th through Octobe
 After signing up, your Canvass Lead will send you the exact meetup location, time, and other shift logistics.
 Each shift may have different canvass leads and meetup locations.
 We’ll see you at the doors!
-View Event → Oct 21 Phonebanking Session Wednesday, October 21, 2026 5:30 PM 8:00 PM CSA Building (713 C) (map) Google Calendar ICS Join us at the CSA Building in Richland (713 C Jadwin Ave) for a phonebanking session on Wednesday, October 21st from 5:30-8:00PM!
+View Event → Oct 18 Bilingual Phonebank (Virtual) Sunday, October 18, 2026 2:00 PM 5:00 PM Google Calendar ICS ¿Hablas Español?
+Join us for a bilingual virtual phonebank on Sunday, October 18th from 2-5PM.
+Call voters to help us flip Congressional District 4 and Legislative District 14.
+Here's the link to join us: https://platform.winnable.app/events/bilingual-virtual-phonebank-nfnfbxwv View Event → Oct 21 Phonebanking Session Wednesday, October 21, 2026 5:30 PM 8:00 PM CSA Building (713 C) (map) Google Calendar ICS Join us at the CSA Building in Richland (713 C Jadwin Ave) for a phonebanking session on Wednesday, October 21st from 5:30-8:00PM!
 Sign up here: https://bit.ly/4xvmY5A If you prefer to phone bank from home, join us on Wednesdays, from 5:30-8pm on Zoom where we can answer your questions and help you get you started! https://us06web.zoom.us/j/81460511002?pwd=U9r0mrfMEJeNEHAwQ5eKIHTasf4SvW.1 View Event → Oct 24 Canvassing Event (Tri-Cities) Saturday, October 24, 2026 9:30 AM 1:00 PM CSA Building (713 C) (map) Google Calendar ICS Sign up here, and choose your dates to canvass: https://forms.gle/BxbrhVigGB8Y6Y9X9 Join us for a Day of Action in the Tri-Cities with John Duresky for Congress for door knocking and community.
 Ballots will be arriving to voters next month and the conversations we have with our neighbors will make a difference.
 Whether you've knocked thousands of doors or this would be your very first time, we'd love to have you on the team.

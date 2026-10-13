@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate People over politics On the Issues Building a Better Delaware The issues that face Delawareans are not political or partisan; they are people issues.
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate People over politics On the Issues Building a Better Delaware The issues that face Delawareans are not political or partisan; they are people issues.
 We are all touched by these issues, despite party affiliation.
 I’ve canvassed every part of the district to meet residents, to listen, and to understand what matters to them.
 Your conversations have informed my priorities.

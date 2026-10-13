@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Freedom, Family & Faith Politicians like John Cornyn and Ken Paxton claim to stand for freedom, family, and faith.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Freedom, Family & Faith Personal Freedom, Working Families, and Religious Liberty James Talarico is a Christian and a Presbyterian seminarian whose faith is guided by two commandments: love God and love your neighbor.
+He defends the separation of church and state, opposes book bans and the Texas THC ban, and fights for paid family leave and affordable child care.
+Politicians like John Cornyn and Ken Paxton claim to stand for freedom, family, and faith.
 But you can’t stand for freedom and control what we say, what we read, and what we do with our own bodies.
 You can’t stand for family and vote against paid family leave, affordable child care, or the right of every American to marry who they love.
 And you can’t stand for faith and then warp and weaponize religion to hurt our neighbors.

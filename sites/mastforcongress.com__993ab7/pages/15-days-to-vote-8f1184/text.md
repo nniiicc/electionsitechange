@@ -28,9 +28,8 @@ Remind your family.
 Text a friend.
 Knock a door.
 Talk to the people who want clean water, safer roads, lower costs, and leaders who keep their word.
-Related Posts: Biden Keeps Claiming Credit For Trump’s Accomplishments August 8, 2021 Support America First With New Merchandise!
-November 23, 2021 Brian Has Been Busy!
-March 19, 2021 Honoring the Sacrifice: Better Healthcare for Our Heroes May 26, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Common Sense Relief at the Pump This Summer May 11, 2026 The Made in America Era is Back But We Have to Protect It April 10, 2026 Honoring the Battle After the Battlefield June 8, 2026 Thank you, President Trump!
+August 1, 2025 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

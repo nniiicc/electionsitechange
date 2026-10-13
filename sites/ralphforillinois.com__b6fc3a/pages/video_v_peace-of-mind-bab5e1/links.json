@@ -16,10 +16,6 @@
 "href": "https://www.ralphforillinois.com/action-center"
 },
 {
-"text": "Around Town",
-"href": "https://www.ralphforillinois.com/video/v/3tkejp66cmz73bphc8jl2gl8z2l74z?categoryId=694adbb7b6b5e72ee65c36c8"
-},
-{
 "text": "Donate",
 "href": "https://secure.winred.com/citizens-for-ralph-black/donate1"
 },
@@ -38,6 +34,10 @@
 {
 "text": "Home",
 "href": "https://www.ralphforillinois.com/"
+},
+{
+"text": "IGOLD",
+"href": "https://www.ralphforillinois.com/video/v/igold?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "Neighbors Helping Neighbors",
@@ -64,8 +64,8 @@
 "href": "https://www.ralphforillinois.com/promisetodeliver"
 },
 {
-"text": "Support the campaign",
-"href": "https://www.ralphforillinois.com/video/v/support-the-campaign?categoryId=694adbb7b6b5e72ee65c36c8"
+"text": "Supporting Small Business",
+"href": "https://www.ralphforillinois.com/video/v/ill-treat-your-money-like-its-my-own-money?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Ralph Black for State Representative]",
@@ -73,11 +73,15 @@
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
-"href": "https://www.ralphforillinois.com/video/v/3tkejp66cmz73bphc8jl2gl8z2l74z?categoryId=694adbb7b6b5e72ee65c36c8"
+"href": "https://www.ralphforillinois.com/video/v/help-us-take-the-next-step-forward?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
-"href": "https://www.ralphforillinois.com/video/v/help-us-take-the-next-step-forward?categoryId=694adbb7b6b5e72ee65c36c8"
+"href": "https://www.ralphforillinois.com/video/v/igold?categoryId=694adbb7b6b5e72ee65c36c8"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://www.ralphforillinois.com/video/v/ill-treat-your-money-like-its-my-own-money?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
@@ -86,10 +90,6 @@
 {
 "text": "[image: Related Video Item Thumbnail]",
 "href": "https://www.ralphforillinois.com/video/v/politicians-tearing-us-down?categoryId=694adbb7b6b5e72ee65c36c8"
-},
-{
-"text": "[image: Related Video Item Thumbnail]",
-"href": "https://www.ralphforillinois.com/video/v/support-the-campaign?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[no text]",

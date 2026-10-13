@@ -1,7 +1,7 @@
-Skip navigation menu About Issues Endorsements Volunteer Donate Our Home.
+Skip navigation menu About Issues Endorsements Volunteer Voter Guides Donate Our Home.
 Our Future.
 Our Los Angeles.
-Meet Angela About Issues Endorsements Volunteer Donate Our Home.
+Meet Angela About Issues Endorsements Volunteer Voter Guides Donate Our Home.
 Our Future.
 Our Los Angeles.
 Meet Angela Join us!

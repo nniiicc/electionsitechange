@@ -3,7 +3,7 @@ Labor The Pennsylvania AFL-CIO, SEIU Pennsylvania State Council, AFT Pennsylvani
 UAW Region 9 Pennsylvania AFL-CIO SEIU Pennsylvania State Council AFT Pennsylvania Pennsylvania State Education Association Healthcare and Reproductive Rights Planned Parenthood PA PAC, Vote Pro Choice, Her Bold Move, PASNAP, and the Committee to Protect Health Care are backing Meriam.
 EMILY’s List Planned Parenthood PA PAC Vote Pro Choice Her Bold Move Pennsylvania Association of Staff Nurses & Allied Professionals Committee to Protect Health Care Gun Safety Moms Demand Action backs Meriam because she supports clear, common-sense gun safety laws.
 Moms Demand Action Environment and Climate Conservation Voters of Pennsylvania, Climate Cabinet, and Lead Locally are with Meriam.
-Conservation Voters of Pennsylvania Climate Cabinet Lead Locally Democratic Committees Democrats in all three counties are working for Meriam.
+Conservation Voters of Pennsylvania Clean Air Action Climate Cabinet Lead Locally Democratic Committees Democrats in all three counties are working for Meriam.
 Local groups in Southern Lehigh and Upper Perkiomen are with her too.
 Lehigh County Democratic Committee Montgomery County Democratic Committee Northampton County Democratic Committee Lehigh Valley for All Southern Lehigh Democrats Upper Perkiomen Democrats Leadership and Democracy New American Leaders Action Fund, Indian American Impact, NDRC, Represent PA, Vote Mama PAC, and young Democrats back the campaign too.
 Working Families For the People Action New American Leaders Action Fund Indian American Impact NDRC — National Democratic Redistricting Committee Represent PA Vote Mama PAC High School Democrats of PA Join the team Add your name to the team Volunteer for a shift, make calls, or chip in.

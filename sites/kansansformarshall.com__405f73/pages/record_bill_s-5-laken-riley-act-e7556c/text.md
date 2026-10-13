@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 5 Laken Riley Act Requires ICE detention of unauthorized immigrants charged with theft, burglary, assault on a law enforcement officer, or any offense causing death or serious injury.
 First bill signed into law in Trump's second term.
 The bill What it does.

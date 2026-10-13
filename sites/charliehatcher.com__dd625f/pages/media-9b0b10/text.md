@@ -1,12 +1,12 @@
 Skip to content Donate Online Donate By Mail Request Yard Sign About Contact Home Media Platform Donate Online Donate by mail About Contact Home Media Platform TENNESSEE IS READY TO HIRE A FARMER TENNESSEE IS READY TO HIRE A FARMER FIND OUT THE LATEST FROM CHARLIE HATCHER’S CAMPAIGN!
 The latest videos about Charlie, the race, and Charlie’s plan for Tennessee.
 Hatcher for Congress Follow 204 186 Former Agriculture Commissioner and fifth-generation dairy farmer Charlie Hatcher is running for Congress in Tennessee’s 5th District to put America First.
-Hatcher for Congress @HatcherforTN · 9h 2109422725806620712 I was honored to be asked by the President to speak at his rally.
+Hatcher for Congress @HatcherforTN · 11 Oct 2109422725806620712 I was honored to be asked by the President to speak at his rally.
 While I may not agree with every decision or every word, I firmly support the Republican agenda: lower taxes, less regulation, secure borders, a strong military, American energy, and responsible government Twitter feed image.
 Twitter feed image.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2109422725806620712 1 Retweet on Twitter 2109422725806620712 0 Like on Twitter 2109422725806620712 6 X 2109422725806620712 Hatcher for Congress @HatcherforTN · 16h 2109314357116993546 I’m deeply honored to receive the endorsement of Col.
+Reply on Twitter 2109422725806620712 1 Retweet on Twitter 2109422725806620712 0 Like on Twitter 2109422725806620712 6 X 2109422725806620712 Hatcher for Congress @HatcherforTN · 11 Oct 2109314357116993546 I’m deeply honored to receive the endorsement of Col.
 James C.
 Harding, USAF (Ret.), of Huntingdon, Tennessee—America’s most-decorated living military veteran.
 At 92 years old, Colonel Harding is an extraordinary example of service, courage, and love of country.

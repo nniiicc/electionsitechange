@@ -1,3 +1,3 @@
-Meet Andrea Issues News Volunteer Contribute Events More events coming soon!
-#ago This Week This Month ‹ Previous Mon Oct 12 2026 - Tue Oct 12 2027 Next › No events in this range Try a different date range, or check back soon for new events.
-Endorsements Yard Signs Events Photos Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+Meet Andrea Issues Volunteer Contribute Events Sign up for the next Constitution Class!
+It is interesting and fun! aandersonpianist@hotmail.com #ago This Week This Month ‹ Previous Tue Oct 13 2026 - Wed Oct 13 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu

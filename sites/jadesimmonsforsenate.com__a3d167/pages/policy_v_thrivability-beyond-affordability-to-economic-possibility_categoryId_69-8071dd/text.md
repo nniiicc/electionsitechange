@@ -42,7 +42,7 @@ If the answer is no, then we’re not even close to being done.
 We shouldn’t even be asking for your vote.
 Economic policy shouldn’t be about making politicians look good.
 It should be about making your life not just affordable, but thrivable.
-Previous Statement of Belief: Honor God, Serve People Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like Humane Immigration Reform and Border Security Independence from Party Control Statement of Belief: Honor God, Serve People TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
+Next A New Era in Education You Might Also Like Independence from Party Control A Breakthrough Brief: Thrivability for Small Business Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Women’s Empowerment & A Fresh Take on Life and Choice STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

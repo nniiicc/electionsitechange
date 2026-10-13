@@ -50,10 +50,14 @@ As governor of Texas, I would recognize that the governor is not king and cannot
 The Legislature writes the laws, and the governor’s responsibility is to lead, advocate, sign or veto legislation, and faithfully execute the laws that are passed.
 As a Libertarian, I will be open minded while defending the rights of law-abiding Texans to defend themselves, hunt, compete, collect, and enjoy other peaceful uses of firearms while supporting policies that hold criminals accountable and protect innocent people.
 Bookmark .
-How to Return Taxes Texas Stance on Science Questionnaire 2 Comments Cat August 29, 2026 at 04:20 Even if guns were to be banned, it would only mean that criminals are armed while citizens are not.
+How to Return Taxes Texas Stance on Science Questionnaire 3 Comments Cat August 29, 2026 at 04:20 Even if guns were to be banned, it would only mean that criminals are armed while citizens are not.
 If someone wants to commit a violent crime with a gun, they’re going to do it regardless of the laws.
 However if a citizen wants to stop that armed criminal but the laws prevent them from having a gun, they will be unable to do it.
 There are numerous cases in which an armed criminal was stopped from causing harm by armed citizens.
 When a criminal wants to commit an armed crime, they’ll think twice if they know that every individual on site might also be armed and willing to defend those around them.
-Reply Pingback: Biblical Principles Leave a Reply Cancel reply Your email address will not be published.
+Reply Pingback: Biblical Principles James Ganus October 12, 2026 at 02:17 The Constitution protects the right to keep and bear arms.
+Acquisition of arms is not explicitly protected and reasonable gun laws should be enforced.
+No one wants to see a 9 year old buy a gun to shoot their sibling.
+That is an example of reasonable gun laws.
+Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

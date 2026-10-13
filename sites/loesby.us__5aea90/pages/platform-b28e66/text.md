@@ -1,5 +1,4 @@
 Matt Loesby for Idaho Campaign Platform Who Am I?
-Can I Win?
 Help the Campaign Donate Campaign Platform Stop Doing Evil Re-knit the Social Fabric Know What Time It Is The US Federal Government does countless evil things in our name, with our money.
 All must end.
 In the past century, the US Federal Government has established the Global American Empire, a totalitarian regime attempting to rule the entire world.
@@ -39,7 +38,7 @@ End Birthright Citizenship.
 The US Federal Government knows that the American people do not want most of its policies.
 In this nominal Democratic Republic, that should be a problem that they solve by changing their policies.
 Instead, they are importing a new population that they think will accept and enable them.
-This must end.
+This must be reversed.
 Libertarians believe in private property.
 On your own property, the only people who are welcome are the people whom you have invited.
 In a similar manner, the United States border should be closed to any immigrants, except those who have been invited by US Citizen landowners.

@@ -1,5 +1,10 @@
 2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
-Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Kassner Recognized for Legislative Work by Municipal Lawyers Association Hamilton resident and state Rep.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/11/26 News Kristin Kassner 10/11/26 Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers On Oct.
+1, Kristin Kassner was given the Massachusetts Legislator of the Year Award by the Massachusetts Municipal Lawyers’ Association.
+Kristin is one of 200 Massachusetts legislators, a junior one, and from a small town.
+The MMLA hadn’t felt compelled to select anyone to honor for seven years.
+How is it that a legislator such as Kristin, not a talented self-promoter, came to the fore for such recognition?
+In a statement, MMLA explained, “Representative Kassner has worked tirelessly and collaboratively with local government to improve communication among all stakeholders.” Read More News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Kassner Recognized for Legislative Work by Municipal Lawyers Association Hamilton resident and state Rep.
 Kristin Kassner has been named “Legislator of the Year” by the Massachusetts Municipal Lawyers Association (MMLA).
 “Representative Kassner has worked tirelessly and collaboratively with local government to improve communication among all stakeholders and to help make municipal voices, including the MMLA’s position and commentary on a variety of pending legislation, especially land use, heard on Beacon Hill,” Brown said.
 “I am deeply grateful for their collaboration, and profoundly humbled by this recognition as Legislator of the Year,” she said.
@@ -72,8 +77,6 @@ Kristin Kassner Read More News Kristin Kassner 5/22/26 News Kristin Kassner 5/22
 Kristin Kassner has filed legislation intended to expand some seniors’ eligibility for state tax credits, eliminating a loophole that has prevented seniors who make use of one state tax-relief program from qualifying for additional savings under another.
 "Seniors on a fixed income are struggling to pay for food, electricity, gas—and property taxes, which are also increasing across the Commonwealth.
 This bill would allow income-qualifying seniors to defer property taxes and still qualify for the Senior Circuit Breaker.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 5/8/26 News Kristin Kassner 5/8/26 Ipswich Receives Over $250K for Water Treatment Plant Design Ipswich has received $254,583 in state funding to complete the design of a new water treatment plant, the Healey-Driscoll Administration announced Thursday.
-“These grants will provide the funding for water infrastructure investments required to address PFAS contamination and bring essential water supplies back online, crucial to the sustainability of our communities and the environment.” - Rep.
 Kristin Kassner Read More Older Posts Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

@@ -29,11 +29,16 @@ Yet Gov.
 Bob Ferguson’s proposed budget treats childcare as expendable.
 Read More Herald Net Volunteer of the year gives kids a voice in the courtroom April 25, 2019 Hannah Patterson spent her whole career helping kids as a special education teacher and a school administrator.
 Now, she’s helping them in retirement, too, volunteering as a court-appointed special advocate.
-In the past five years, she’s helped over 40 foster children navigate the court Read More More News Follow Ida Keeley for WA #ago Lightbox link for post with description Snohomish County, Ballots are in the mail.
+In the past five years, she’s helped over 40 foster children navigate the court Read More More News Follow Ida Keeley for WA #ago Lightbox link for post with description The air is clean & crisp, the sun is shining, and...
+The air is clean & crisp, the sun is shining, and the trees are stunning here in Lake Stevens🍁.
+I have so much to be grateful for today!
+Thank you to Congresswoman DelBene's office, Representative Brandy Donaghy and her team, and our volunteers for joining us to knock doors in Lake ...
+Stevens.
+The energy has been amazing and I look forward to the opportunity to represent LD39 in Olympia.💛 33 2 Share 1108195102383524_122117205326631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Snohomish County, Ballots are in the mail.
 Vote...
 Snohomish County, Ballots are in the mail.
 Vote early and drop your ballots off at your local drop boxes.
-#VoteEarly #ballotbox #snohomishcounty #voteidakeeley #votekimschrier 29 3 Share 1108195102383524_122117082302631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Huge shout out to Congresswoman Kim Schrier and...
+#VoteEarly #ballotbox #snohomishcounty #voteidakeeley #votekimschrier 37 5 Share 1108195102383524_122117082302631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Huge shout out to Congresswoman Kim Schrier and...
 Huge shout out to Congresswoman Kim Schrier and her team for joining us in Sultan this afternoon to knock doors!
 And thank you to our incredible volunteers, both this afternoon and this morning in Marysville.
 Remember, Ballots are in the mail!
@@ -41,14 +46,14 @@ Please vote early and get your ballots to the ... ballot boxes.
 You can then check your vote at votewa.com.
 Feeling FOMO?
 Head to our Volunteers4Ida page to see all the ways you can get involved.
-#voteIdaKeeley #voteKimSchrier #snohomishcounty #ballotbox #VoteEarly 19 1 Share 1108195102383524_122117067824631455 Follow Ida Keeley for WA #ago Lightbox link for post with description This endorsement from the Tulalip Tribes means a...
+#voteIdaKeeley #voteKimSchrier #snohomishcounty #ballotbox #VoteEarly 23 1 Share 1108195102383524_122117067824631455 Follow Ida Keeley for WA #ago Lightbox link for post with description This endorsement from the Tulalip Tribes means a...
 This endorsement from the Tulalip Tribes means a great deal to me. 💛 I have worked alongside the Tulalip Tribes for years in different capacities: at the state, at the county, and in the courts.
 That work included State-Tribal MOUs, joint trainings, and serving as a liaison as they ... created their Legacy of Healing child advocacy center, among other meaningful partnerships.
 Those years taught me that successful government-to-government work begins with understanding sovereignty and respecting history, culture, and treaty rights.
 It grows through consistent communication and a deep regard for the longstanding ties between our communities.
 I am grateful for the trust placed in me.
 In Olympia, I will work to strengthen the government-to-government relationship between the state and Tribal nations.
-40 13 Share 1108195102383524_122116963142631455 Follow Ida Keeley for WA #ago Lightbox link for post with description I am honored to be endorsed by the Washington...
+44 14 Share 1108195102383524_122116963142631455 Follow Ida Keeley for WA #ago Lightbox link for post with description I am honored to be endorsed by the Washington...
 I am honored to be endorsed by the Washington State Council of Firefighters.
 I have worked alongside firefighters and EMS throughout my career.
 I know the bravery they show every time they run toward danger.
@@ -57,7 +62,7 @@ I also know their workload is about to grow.
 As rural clinics and hospitals close, wildfires increase, and behavioral and mental health needs go unmet, more of those calls land on our fire and EMS crews.
 That will keep getting worse unless we push back on what is happening both federally and in Olympia.
 Thank you to the firefighters and the whole WSCFF team for trusting me to carry your voice to Olympia and push back.
-#WA39 #IdaForWA #WSCFF #Community #Representativeforall 19 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 12 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 8 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
+#WA39 #IdaForWA #WSCFF #Community #Representativeforall 21 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 12 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 8 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
 I sent in my comment and you can too!
 7 1 Share 1108195102383524_122116545938631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Beyond grateful that Transportation for ...
 Beyond grateful that Transportation for Washington has endorsed my campaign for the 39th Legislative District!
@@ -68,14 +73,4 @@ And in our rural communities, where distances are long and options are few, it c
 Every person in our district deserves safe, reliable, accessible ways to get where they need to go.
 Thank you to Transportation for Washington for your trust.
 I'll bring my budgeting experience and my commitment to working across agencies and communities to make sure the disability community and rural communities have a voice in Olympia.
-#LD39 #IdaForWA #TransportationforWa #Repforall #Community 13 0 Share 1108195102383524_122116515110631455 Follow Ida Keeley for WA #ago Lightbox link for post with description It was an honor to share the day with LD39 Pos 1...
-It was an honor to share the day with LD39 Pos 1 candidate Kathryn4LD39 and Snohomish County PUD candidate Janet St Clair.
-A special Thank you to Emily Wicks, Cindy Gobel, and the Women’s Auxiliary Board.
-We had fun with individual conversations along with speeches and rapid fire questions. ...
-Women are often the backbone of our communities.
-We bring people together to celebrate, surround families with comfort in times of grief, and rally everyone to help problem solve during a crisis.
-We know when more hands make light work vs when there are too many cooks in the kitchen.
-Women's representation matters.
-LD39 needs experienced leaders who will make sure our communities are heard and bring home the resources we need.
-Thank you, Oso, for the great conversations and for showing up for each other.
-#LD39 #IdaforWa #Voteforwomen #Oso #peopleoverpolitics Reel credit: Emily Wicks 18 3 Share 1108195102383524_122116454186631455 Load More Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033 | Lake Stevens , WA 98258
+#LD39 #IdaForWA #TransportationforWa #Repforall #Community 13 0 Share 1108195102383524_122116515110631455 Load More Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033 | Lake Stevens , WA 98258

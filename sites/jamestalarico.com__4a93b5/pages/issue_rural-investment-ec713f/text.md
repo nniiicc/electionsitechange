@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Rural Investment My family is from rural Texas – from the small towns and agricultural communities that built this great state.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Rural Investment Hospitals, Schools, Water, and Broadband for Rural Texas Rural Texas built this state, but voucher scams are draining its public schools and data centers are taking over its farmland.
+James Talarico will protect rural schools, bring high-speed internet and clean water to every corner of the state, and stand with the farmers and ranchers who feed Texas, so young people can build a life close to home.
+My family is from rural Texas – from the small towns and agricultural communities that built this great state.
 Every Texas community contributes to this state’s success.
 But not every community is being given the opportunity to share in it.
 Our leaders have turned their backs on rural Texas — failing to keep rural hospitals from shuttering, stand up to the private school voucher scams that are siphoning off funding from rural public schools, or make the basic investments needed to ensure that rural businesses can thrive and young people can find a job close to home.
@@ -6,8 +8,7 @@ I’m going to keep showing up and listening to rural Texans.
 Because I’m going to be a Senator for every Texan. — James Talarico — And we have to do better by our Texas farmers and ranchers, who produce the food and fiber that power economies in every corner of our state and country.
 The agriculture sector employs one out of every seven Texans — and they shouldn’t have to give up farms that their parents and grandparents tended because of our government’s failures.
 I’m going to keep showing up and listening to rural Texans.
-Because I’m going to be a Senator for every Texan.
-Wichita Falls hasn’t voted for a Democrat in nearly 40 years.
+Because I’m going to be a Senator for every Texan. @jamestalarico There’s always enough money for bombs, bailouts, and billionaire tax breaks — but never enough to fix basic infrastructure. ♬ original sound – James Talarico Wichita Falls hasn’t voted for a Democrat in nearly 40 years.
 But that didn’t stop a huge crowd from showing up for @JamesTalarico . pic.twitter.com/hL4phHF25x — Team Talarico (@TeamTalaricoHQ) November 20, 2025 Amarillo is one of the reddest towns in Texas.
 But I showed up because our campaign is not writing off any community.
 It was standing room only. pic.twitter.com/biiJVpAvIa — James Talarico (@jamestalarico) November 6, 2025 Huge crowd for @jamestalarico in deep red San Angelo, TX!
@@ -19,7 +20,7 @@ Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .
 We want to hear from you!
-Repeal policies that are hurting Texas farmers and ranchers: Oppose the Argentina beef buyout and remove the Trump Administration’s tariffs on farm inputs like equipment and fertilizer that are making Texas agricultural production more expensive — as well as those on produce that have sparked retaliatory tariffs on key agricultural exports.
+Repeal policies that are hurting Texas farmers and ranchers: Oppose new foreign beef imports like the Argentina buyout and cuts to essential USDA programs that protect our herd from pests like the New World Screwworm , and remove the Trump Administration’s tariffs on farm inputs like equipment and fertilizer that are making Texas agricultural production more expensive — as well as those on produce that have sparked retaliatory tariffs on key agricultural exports.
 Save rural hospitals: Prioritize recruiting and retaining rural healthcare workers, improve Medicaid and Medicare reimbursement rates to more swiftly deliver payments to hospitals, and make sure rural hospitals have the funding they need to continue to serve as vital employers and health care providers.
 Reject private school voucher scams: Oppose the federal voucher scam being pushed by billionaires like Betsy DeVos — which would defund public schools to subsidize private education for the wealthy, disproportionately harming rural areas where public schools are the community’s largest employer.
 Help young people stay and contribute to their hometowns: Dedicate technical support toward economic and community development activities that address gaps in job opportunities, child care, internet connectivity, and housing that are pushing many young families out of rural communities.

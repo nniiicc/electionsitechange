@@ -1,5 +1,15 @@
 0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Check out our upcoming events!
-Sep 19 Door Knock for Matt Norris Saturday, September 19, 2026 10:00 AM 2:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Oct 21 October 21 Phone Banking for Matt (Virtual) Wednesday, October 21, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
+You must have your own computer and phone to complete this volunteer opportunity!
+This opportunity is 100% virtual.
+Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
+Sign up below to join us!
+View Event → Oct 28 October 28 Phone Banking for Matt (Virtual) Wednesday, October 28, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
+You must have your own computer and phone to complete this volunteer opportunity!
+This opportunity is 100% virtual.
+Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
+Sign up below to join us!
+View Event → Sep 19 Door Knock for Matt Norris Saturday, September 19, 2026 10:00 AM 2:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 We have two shifts this Saturday—one starts at 10 am and the other one starts at 12 pm.
 Register here so we know you’re coming.
 We’ll meet by the big red barn at the Lexington Athletic Complex in Blaine.

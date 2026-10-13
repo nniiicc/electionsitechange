@@ -20,6 +20,8 @@ Options could include managed RV sites, tiny homes, transitional housing, suppor
 Jobs — Everyone who is able should have an opportunity to contribute.
 For one person that might mean two hours of work a day; for another, it could mean full-time employment.
 Work provides income, responsibility, structure, and a path toward greater independence.
+With my city Graffiti Proposal grants would provide additional opportunities.
+In larger cities expanding the ambassador cleaning patrol program and adding attendants to portable sanitation facilities are other possibilities.
 Roll-Down Security Shutters Businesses should be able to use roll-down security shutters to help prevent smash-and-grab and vehicle-ram burglaries.
 Security shutters may cost considerably less than repeatedly repairing windows, doors, and other building damage.
 They could also become part of neighborhood beautification.
@@ -237,7 +239,7 @@ Potential New Revenue Sources Short-Term Opportunities Reduce and compact regula
 Reducing this burden would encourage entrepreneurship, help existing small businesses grow, and make Washington more attractive to new employers.
 Campaign donation tax #% tax on all polical contributions.
 2024 data of contributions in the State was 44.7 million (PDC) Tort Reform Must regulated liabilites especially for old cases.
-Attorney Fee linits.
+Attorney Fee limits.
 Washington should implement a highway speed ticket camera program in clearly identified, high-risk areas with significant histories of speeding and serious collisions.
 Camera-enforced areas should be marked well in advance.
 Drivers would receive clear notice, and anyone who chooses to speed through those areas would be responsible for the consequences.
@@ -258,6 +260,35 @@ Washington should develop a stronger statewide tourism campaign that promotes de
 Restore Washington’s Film Industry Washington once had a stronger competitive position in film and television production, but many projects moved to Vancouver, British Columbia, and other locations offering more attractive incentives.
 The state should develop competitive, performance-based incentives that encourage production companies to film in Washington, hire Washington workers, and spend money with local businesses.
 Any incentive program should include clear requirements, measurable economic benefits, and strong accountability for taxpayer funds.
+Responsible Spending and Economic Growth A balanced Washington State budget requires responsible spending, efficient government, and a growing economy.
+I support the principles behind Senator Chris Gildon's 2025 $ave Washington budget proposal, which offered an alternative approach to addressing the state's budget shortfall without proposing new taxes.
+I also support RCW 43.88.090 , Washington's existing law requiring state agencies to establish measurable goals, evaluate performance, and connect results to budget decisions.
+Rather than create another government bureaucracy, I want to strengthen this law by improving accountability, transparency, and follow-through.
+My Five Budget Priorities 1.
+Strengthen Budget Accountability Use SMART goals—Specific, Measurable, Achievable, Relevant, and Time-bound—to evaluate government programs.
+Require agencies to report what they promised, what they accomplished, and what they spent.
+Programs that repeatedly miss their objectives should be reviewed and improved, consolidated, or discontinued when appropriate.
+2.
+Reduce B&O Taxes on Small Businesses Washington's Business and Occupation (B&O) tax is generally calculated on gross receipts rather than profits.
+That can place a disproportionate burden on businesses operating with narrow profit margins.
+I support targeted B&O tax reductions for small businesses, taking existing exemptions and credits into account.
+The objective is to encourage business formation, expansion, hiring, and long-term economic activity.
+Proposed reductions should include a fiscal analysis of their impact on state revenues.
+3.
+Create One Unified Building Permit Application Businesses, builders, and property owners should not have to repeatedly submit the same information to multiple government agencies.
+I propose a Washington Unified Building Permit Application and Tracking System that would allow applicants to submit information once, track progress, and receive coordinated responses from the agencies responsible for reviewing their projects.
+Cities, counties, and state agencies would retain their lawful approval authority, including building safety, zoning, and environmental protections.
+The goal is to reduce duplication, unnecessary delays, and administrative costs without weakening legitimate safeguards.
+4.
+Eliminate Unnecessary and Duplicative Regulations Review existing regulations to identify outdated requirements, overlapping rules, and procedures that impose unnecessary costs without producing meaningful public benefits.
+Protecting public health, workers, consumers, and the environment remains essential.
+Regulations should accomplish those objectives efficiently and be periodically evaluated for effectiveness.
+5.
+Expand Washington's Tax Base Through Economic Growth A competitive business environment can encourage private investment, construction, employment, and consumer spending.
+Rather than relying primarily on higher tax rates, I want Washington to create conditions that support economic growth and a broader tax base.
+Economic growth can strengthen public revenues over time, but projected revenue gains must be evaluated realistically rather than assumed to offset tax reductions automatically.
+My Commitment Government should operate efficiently, businesses should have the opportunity to prosper, and taxpayers should receive measurable value for their money.
+My goal is a structurally balanced budget that maintains essential services, eliminates unnecessary spending, encourages economic opportunity, and strengthens Washington's long-term financial future.
 Auto Insurance Accidents where the driver isn’t at fault shouldn’t be used to raise that driver’s insurance rates.
 Self Propelled Human Transportation I have been biking around the neighborhoods, meeting folks while out and about.
 The 46th Legislative District has a particularly good network of bike lanes, and I felt comfortable riding throughout the neighborhoods.

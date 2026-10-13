@@ -1,7 +1,7 @@
-Skip navigation menu Early voting october 17—October 30 Check Registration Find Your Location Home About Endorsements Volunteer Priorities District Events News Contact Donate Send Tom your questions!
+Skip navigation menu Early voting october 17—October 30 Check Registration Find Your Location Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Send Tom your questions!
 All residents of the 9th Norfolk are encouraged to submit questions.
 What do you want your next state rep to answer?
-Volunteer Here Home About Endorsements Volunteer Priorities District Events News Contact Donate Send Tom your questions!
+Volunteer Here Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Send Tom your questions!
 All residents of the 9th Norfolk are encouraged to submit questions.
 What do you want your next state rep to answer?
 Volunteer Here We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other We need to tackle problems like affordable housing, rising healthcare costs, and strengthening our public schools.
@@ -37,5 +37,5 @@ Use the form below to tell us how you'd like to get involved, or visit our volun
 Every effort counts.
 Let's all pitch in to help Tom finish strong on November 3!
 I Want to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting your information here, you're authorizing to be contacted by the Melville Committee.
-Submit Watch the recording of the Wrentham Forum Visit Tom's YouTube Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
+Submit Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
 You need to enable JavaScript to run this app.

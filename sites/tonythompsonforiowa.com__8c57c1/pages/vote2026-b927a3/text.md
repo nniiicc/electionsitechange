@@ -4,7 +4,6 @@ Dallas County Auditor Voting Information Polk County Auditor Voting Information 
 Anyone from Polk County (IA) can vote at the Bondurant Library on Tuesday, Oct 20th from 10AM to 4PM.
 Anyone from Polk County (IA) can vote at the Grimes Library on Monday, Oct 19th from 10AM to 4PM.
 Anyone from Polk County (IA) can vote at the Polk City Community Room (in the new City Hall) on Tuesday, Oct 20th from 10AM to 4PM.
-Early Voting information for Voters in Polk County: Always confirm with the County Auditor; the information below comes from Polk County's General Election Voter Information page.
-Early voting at the Election Office (2309 Euclid Ave, Des Moines) Oct 14-Nov 2 Mon-Fri 8AM to 4:30PM Also, Sat., 10/24 8AM-4PM and Sat., 10/31 (8AM-5PM) In addition, Polk County has early voting options at the following locations from Weds., Oct 21 to Sat., Oct 24 from 10:00AM to 4:00PM at: DMARC Northwest Community Center Altoona Library Des Moines Central Library Johnston Library Urbandale Library West Des Moines Library ---------------------------------- Also, the East Side Library on (only) Thurs., Oct 22 and Fri., Oct 23 10:00AM to 4:00PM Also, the Ankeny Library on (only) Fri., Oct 23 and Sat., Oct 24 10:00AM to 4:00PM Additional Questions?
+Additional Questions?
 If you have other questions about voting, visit the Iowa Secretary of State's Elections page, including: Am I registered to Vote?
 Find your polling place Register to Vote What to bring (Proof of who you are and where you live) Paid for by Tony Thompson for Iowa Copyright © All Rights Reserved Terms of Service Tony Thompson for Iowa Privacy Info Privacy policy | Privacy policy OK

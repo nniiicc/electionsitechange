@@ -1,5 +1,5 @@
 Skip to content Moved?
-Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate ← All priorities Priority 02 Strong Schools & Local Opportunity Every child deserves a strong start and a strong classroom.
+Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate ← All priorities Priority 03 Strong Schools & Local Opportunity Every child deserves a strong start and a strong classroom.
 Every family deserves an affordable path to a useful degree, training, or a good job.
 My commitment Judge education policy by what it does for families, students, and teachers.
 900 Utah families began losing child care assistance on Oct.
@@ -56,5 +56,5 @@ Both figures are from the U.S.
 Census Bureau and are not adjusted for inflation or differences in living costs.
 The teacher-spending survey is national, not Utah-specific.
 News reports put the federal child care shortfall at $21 million to $22 million, so we say “about $20 million.” Stand up for Utah families Help bring this conversation to your neighborhood.
-Join the Campaign See the Service Guarantees → AJ Alan Jimenez FOR UTAH HOUSE · DISTRICT 61 Paid for by Alan Jimenez.
+Join the Campaign Next: Clean Government → AJ Alan Jimenez FOR UTAH HOUSE · DISTRICT 61 Paid for by Alan Jimenez.
 Home How to Vote Priorities Join the Campaign Donate ↗ Español Privacy Text Terms alanforutah@outlook.com Facebook ↗ Instagram ↗

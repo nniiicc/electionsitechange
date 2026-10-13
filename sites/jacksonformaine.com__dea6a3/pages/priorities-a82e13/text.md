@@ -14,9 +14,9 @@ Just this summer, ICE agents shot and killed Johan Sebastián Guerrero, a young 
 A month earlier, Susan Collins had voted to give ICE $70 billion with no reforms.
 Troy supports an immigration system that respects due process and human rights, is accountable to the public, and focuses resources on genuine public-safety threats rather than indiscriminate raids and deportations.
 Pass a federal right to abortion Where Collins has failed, Troy will fight to make the right to abortion federal law.
-After Collins’ helped confirm the judges who overturned Roe v.
+After Collins helped confirm the judges who overturned Roe v.
 Wade, Troy co-sponsored and helped pass LD 1619, one of the strongest abortion protections in the country.
-Troy is proud to have earned a 100% approval rating from Planned Parenthood of Northern New England in every election he’s run in for the past decade, and he’s earned the endorsement of both Planned Parenthood Action Fund and Reproductive Freedom for All in this Senate race.
+Troy is proud to have earned a 100% approval rating from Planned Parenthood Maine Action Fund in every election he’s run in for the past decade, and he’s earned the endorsement of both Planned Parenthood Action Fund and Reproductive Freedom for All in this Senate race.
 End the genocide in Gaza and stop U.S. funding for Israel's military Troy believes what's happening in Gaza is a genocide, that Benjamin Netanyahu is a war criminal, and the U.S. government has a responsibility to not enable that suffering.
 Protect the right to vote and to organize a union Troy believes democracy depends on Americans being able to exercise both their right to vote and their right to organize at work without intimidation or retaliation.
 As Maine Senate President, Troy passed a law giving our state’s loggers and haulers the same right to bargain collectively as potato farmers and lobstermen.

@@ -1,9 +1,10 @@
 {
  "description": "Stay updated with the latest Oregon healthcare news, including funding updates, hospital issues, and telehealth expansions.",
  "final_url": "https://emilwaukieor.org/health-care-news",
- "fingerprint": "226632a951d29dc0247228655ee877e9a584f7d8",
+ "fingerprint": "6337fcc397f6c1f84ecade18bb1b2f46071b889c",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Health Care News",
  "years_mentioned": [
   "2017",

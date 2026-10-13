@@ -78,7 +78,10 @@ I’ve heard their disgust when the Attorney General screams about the stock mar
 I’ve heard from you, who is being hurt and wants to stop the people who hurt you.
 So what do people tell me they want to do to hold people in power accountable?
 Release all of the unredacted Epstein Files in full compliance with the Epstein Files Transparency Act Dramatically scale back funding for DHS and ICE to make sure reforms can’t be sidestepped Overhaul campaign finance laws to ban Congressmen from trading stocks and becoming lobbyists Overturn the disastrous Citizens United v.
-FEC decision Enact term limits for members of Congress Ensure corporations are engaging the market in full faith and break up any illegal monopolies like Google and Apple Investigate healthcare companies to ensure patient care is prioritized over profit Together We Rise: A Campaign for Everyone Building a Better 6th District When Money Gets a Vote Gallery When Money Gets a Vote When Money Gets a Vote The Country We Were Promised Gallery The Country We Were Promised The Country We Were Promised The Cost of Living: Tennessee Families Cannot Afford More of the Same Gallery The Cost of Living: Tennessee Families Cannot Afford More of the Same The Cost of Living: Tennessee Families Cannot Afford More of the Same See All prosperity, freedom, equality!
+FEC decision Enact term limits for members of Congress Ensure corporations are engaging the market in full faith and break up any illegal monopolies like Google and Apple Investigate healthcare companies to ensure patient care is prioritized over profit Together We Rise: A Campaign for Everyone Building a Better 6th District Did the Last Generation Really Do Better?
+Gallery Did the Last Generation Really Do Better?
+Did the Last Generation Really Do Better?
+When Money Gets a Vote Gallery When Money Gets a Vote When Money Gets a Vote The Country We Were Promised Gallery The Country We Were Promised The Country We Were Promised See All prosperity, freedom, equality!
 Request a Yard Sign subscribe to campaign newsletter * indicates required Email Address * Phone Number Messaging Preferences Opt-in to SMS updates Sign Up for the most event and election updates.
 By providing your phone number, you agree to receive recurring campaign text messages from Mike Croley for Congress.
 Message frequency may vary.

@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Ashley Hinson Launches “Local Leaders for Hinson” Coalition Jul 16, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson launched “Local Leaders for Hinson,” a coalition of mayors, county supervisors, county treasurers, county auditors, and other local elected officials who are backing her campaign for U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Ashley Hinson Launches “Local Leaders for Hinson” Coalition Jul 16, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson launched “Local Leaders for Hinson,” a coalition of mayors, county supervisors, county treasurers, county auditors, and other local elected officials who are backing her campaign for U.S.
 Senate.
 “I’m humbled to have the support of local leaders from across Iowa who want to keep our state moving forward.
 The best ideas don’t come from Washington — they come from our local communities.

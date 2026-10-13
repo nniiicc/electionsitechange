@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform FINANCIAL Reform Over taxing businesses makes them leave Illinois.
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA FINANCIAL Reform Over taxing businesses makes them leave Illinois.
 Taxing everything Illinoisians need and love makes them move.
 Laurie provides a common sense voice.
 Posts Coming Soon Explore other categories in this blog or check back later.

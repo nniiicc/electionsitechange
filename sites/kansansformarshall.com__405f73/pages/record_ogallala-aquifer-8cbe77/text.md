@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Western Kansas water Ogallala Aquifer The aquifer under Kansas wheat country is dropping more than a foot a year.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Western Kansas water Ogallala Aquifer The aquifer under Kansas wheat country is dropping more than a foot a year.
 Finding The aquifer under Kansas wheat country is dropping more than a foot a year.
 What's wrong.
 What it costs the patient.

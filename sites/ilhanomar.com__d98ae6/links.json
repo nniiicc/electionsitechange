@@ -12,6 +12,18 @@
 "href": "https://secure.actblue.com/donate/ilhan_for_congress?express_lane=true&amount=5"
 },
 {
+"text": "$100",
+"href": "https://secure.actblue.com/donate/io-dhs-oct26?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/io-dhs-oct26?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/io-dhs-oct26?amount=50"
+},
+{
 "text": "Authentic",
 "href": "https://www.authentic.org"
 },
@@ -94,6 +106,10 @@
 {
 "text": "Other",
 "href": "https://secure.actblue.com/donate/ilhan_for_congress"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/io-dhs-oct26?amount=25"
 },
 {
 "text": "Privacy Policy",

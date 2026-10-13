@@ -1,4 +1,4 @@
-Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Chris’ Priorities “As a former police officer and prosecutor, I took an oath to serve and protect Kansas families.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate Chris’ Priorities “As a former police officer and prosecutor, I took an oath to serve and protect Kansas families.
 That’s what I will do as Attorney General – put Kansans first and ensure no politician or corporation is above the law.” – Chris Mann, candidate for Kansas Attorney General The Attorney General’s office shouldn’t be about Team Red or Team Blue; it should be about Team Kansas and making sure every Kansan feels safe.
 The Attorney General of Kansas should have one priority – protecting Kansans.
 Chris Mann knew from an early age that he wanted to serve and protect his community.
@@ -136,6 +136,6 @@ Read more Create a Division of Agriculture and Natural Resources within the AG's
 As Attorney General, Chris will create a Division of Agriculture and Natural Resources within the office to ensure a direct line of communication between producers and the Attorney General.
 A Division of Agriculture and Natural Resources will allow the Attorney General’s office to stay informed about the issues facing our producers and to provide expert legal guidance to our agricultural community on issues ranging from water rights to fertilizer regulation.
 Kansas producers deserve an Attorney General who has their back.
-Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
 Docking Treasurer.
 Privacy Policy

@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Fox News: “Dem Senate hopeful pocketed massive taxpayer-funded cash while skipping hundreds of votes” Jul 13, 2026 | Press Release Back to Updates Marion, IA — A new Fox News story exposed Josh Turek for accepting more than $20,000 in taxpayer-funded per diem benefits while skipping 58% of votes in the 2026 legislative session.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Fox News: “Dem Senate hopeful pocketed massive taxpayer-funded cash while skipping hundreds of votes” Jul 13, 2026 | Press Release Back to Updates Marion, IA — A new Fox News story exposed Josh Turek for accepting more than $20,000 in taxpayer-funded per diem benefits while skipping 58% of votes in the 2026 legislative session.
 Turek even skipped the vote to fund the Iowa Department of Veterans Affairs to attend a fundraiser with a Schumer-aligned Super PAC.
 Hinson has a 98.8% lifetime voting record since her election to the U.S.
 House of Representatives in 2020.

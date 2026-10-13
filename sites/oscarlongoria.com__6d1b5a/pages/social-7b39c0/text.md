@@ -15,7 +15,7 @@ See More See Less View on Facebook · Share Share on Facebook Share on Twitter S
 It is always great to see so many families, local leaders, and first responders come together for an evening focused on community and public safety.
 Thank you to Sullivan City, our law enforcement officers, first responders, and everyone who helped organize this great event.
 I always appreciate opportunities to connect with the people I have the privilege of serving.
-#TXLege #HD35 #puro956 ...
+#txlege #HD35 #puro956 ...
 See More See Less +4 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments Likes: 42 Shares: 2 Comments: 2 2 Comments Comment on Facebook Nice job Sullivan City!!!
 Al TU Te evantaste Oscar Longoria State Representative District 35 🏈🙏✌️♥️🤘🤘🤘 Load more Instagram replongoria 356 replongoria View May 18 Open It was an honor to recognize Keily Guzman and her parents on the House Floor today!
 Keily is La Joya ISD`s first powerlifting state champion!

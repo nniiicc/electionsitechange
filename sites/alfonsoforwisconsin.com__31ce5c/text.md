@@ -5,23 +5,23 @@ Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
 Privacy Policy ➔ Δ For Liberty For Opportunity For a Brighter Future Michael Alfonso will fight for the people of Wisconsin’s 7th District, protect our way of life, and always put America First.
 He’ll never back down to the Radical Left and will always uphold the values that built our state and nation — faith, community, and hard work.
-Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress is with Evita Duffy Alfonso .
+Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress is with Republican Party of Wood County, WI.
+#ago I had an awesome time at the Wood County Patriot Dinner!
+Wood County is full of hardworking patriots who love Wisconsin.
+Grateful for the warm welcome.
+Let’s go win for Republicans in November! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha angry 75 Shares: 4 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress #ago Christopher Columbus risked his life and fortune on uncharted seas to expand Christendom and Western Civilization.
+He is a hero who paved the way for the creation of the greatest and most prosperous nation in the history of the world — the United States of America.🇺🇸 ...
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha wow angry 352 Shares: 18 Comments: 210 210 Comments Comment on Facebook Alfonso for Congress is with Evita Duffy Alfonso .
 #ago Baby Rosita’s first Packers game!
 One game in, and she’s already our little good luck charm.
 Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 1179 Shares: 5 Comments: 65 65 Comments Comment on Facebook Alfonso for Congress #ago Had the chance to stop by Cummings Lumber Co. in Frederic on my Dirt, Sweat, and Trades Tour.
-Small mills like this used to be the norm in northern Wisconsin, but overregulation and unfair trade policies have cost us some of these gems.
-In Congress, I'll work with President Trump to bring back a robust American lumber industry! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha angry 327 Shares: 7 Comments: 131 131 Comments Comment on Facebook Alfonso for Congress #ago I stopped at Henry Repeating Arms on my Dirt, Sweat, and Trades Tour.
-Wisconsin is blessed to have one of the nation's finest firearms manufacturers in Rice Lake and Ladysmith.
-I'm a 2A absolutist.
-I will always fight for your right to keep and bear arms. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha wow angry 410 Shares: 12 Comments: 115 115 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 8h 2109394596820361249 Baby Rosita’s first Packers game!
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha wow angry 1919 Shares: 10 Comments: 100 100 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
 One game in, and she’s already our little good luck charm.
 Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 Twitter feed image.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2109394596820361249 6 Retweet on Twitter 2109394596820361249 29 Like on Twitter 2109394596820361249 558 X 2109394596820361249 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2109024197544415658 Had the chance to stop by Cummings Lumber Co. in Frederic on my Dirt, Sweat, and Trades Tour.
+Reply on Twitter 2109394596820361249 14 Retweet on Twitter 2109394596820361249 50 Like on Twitter 2109394596820361249 869 X 2109394596820361249 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2109024197544415658 Had the chance to stop by Cummings Lumber Co. in Frederic on my Dirt, Sweat, and Trades Tour.
 Small mills like this used to be the norm in Northern Wisconsin, but overregulation and unfair trade policies have cost us some of these gems.
 In Congress, I'll work with President Twitter feed image.
 Twitter feed image.
@@ -31,7 +31,7 @@ I'm a 2A absolutist.
 I will always fight for your right to keep and bear arms.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2108923715907948741 9 Retweet on Twitter 2108923715907948741 31 Like on Twitter 2108923715907948741 147 X 2108923715907948741 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2108742527079567804 Big thanks to the Headwaters Builders Association and Wisconsin Builders Association for hosting me in Eagle River!
+Reply on Twitter 2108923715907948741 9 Retweet on Twitter 2108923715907948741 31 Like on Twitter 2108923715907948741 149 X 2108923715907948741 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2108742527079567804 Big thanks to the Headwaters Builders Association and Wisconsin Builders Association for hosting me in Eagle River!
 Burdensome government regulations are driving up construction costs and putting the American Dream of homeownership out of reach for too many Wisconsin families.
 Twitter feed image.
 Twitter feed image.

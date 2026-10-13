@@ -18,6 +18,4 @@ We all use it today.” Kinney commented that “Representative Jones was always
 MacMillan recalled, “Lisa, Senator Dave Nicholas and I talked a lot about what Albany County needed and where we could join forces.” Kinney finished with the thought that “The beauty of how the Wyoming legislature worked for the 10 years I was in it, is that we looked at the issues facing our constituents and how to solve those problems together.
 We didn’t always agree, but we all remembered who we served – Wyoming people.
 It was always about bipartisanship, not divisiveness.” Kinney concluded, “My gratitude to these three friends and colleagues.” ← Meet Lisa in Rawlins!
-Casper Fundraiser for Lisa → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
-Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Casper Fundraiser for Lisa → More posts Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Wyoming PBS Debates Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

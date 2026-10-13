@@ -1,4 +1,8 @@
-Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Join Us Campaign Events Get Your Randy Villegas Yard Sign NOW in Fresno!
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Join Us Campaign Events Get Your Randy Villegas Yard Sign NOW in Hanford!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Hanford, CA, 93230 We are excited to announce that we have Randy Villegas yard signs available NOW in our Tulare office!
+We have less than # days until the election, so there has never been a better time to get a Randy… Show more RSVP Get Your Randy Villegas Yard Sign NOW in Fresno!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Fresno, CA, 93721 We are excited to announce that we have Randy Villegas yard signs available NOW in our Fresno office!
@@ -10,7 +14,12 @@ We have less than # days until the election, so there has never been a better ti
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Tulare, CA, 93274 We are excited to announce that we have Randy Villegas yard signs available NOW in our Tulare office!
-We have less than # days until the election, so there has never been a better time to get a Randy… Show more RSVP Knock Doors for Randy Villegas in Bakersfield!
+We have less than # days until the election, so there has never been a better time to get a Randy… Show more RSVP Knock on Doors for Randy Villegas in Tulare!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Tulare, CA, 93274 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
+Please join us to knock on doors in Tulare to ensure we elect Randy to Congress!
+If you’ve never canvassed before… Show more RSVP Knock Doors for Randy Villegas in Bakersfield!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Bakersfield, CA, 93301 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
@@ -20,16 +29,7 @@ Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Fresno, CA, 93721 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
 Please join us to knock on doors in Fresno to ensure we elect Randy to Congress!
-If you’ve never canvassed before… Show more RSVP Knock on Doors for Randy Villegas in Tulare!
-Multiple Times This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Tulare, CA, 93274 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
-Please join us to knock on doors in Tulare to ensure we elect Randy to Congress!
-If you’ve never canvassed before… Show more RSVP Get Your Randy Villegas Yard Sign NOW in Hanford!
-Multiple Times This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Hanford, CA, 93230 We are excited to announce that we have Randy Villegas yard signs available NOW in our Tulare office!
-We have less than # days until the election, so there has never been a better time to get a Randy… Show more RSVP Become a Great Canvasser: CA-22 / Villegas for Congress Edition Multiple Times Virtual Event You don’t have to be an expert—or have the perfect speech—to be a great canvasser.
+If you’ve never canvassed before… Show more RSVP Become a Great Canvasser: CA-22 / Villegas for Congress Edition Multiple Times Virtual Event You don’t have to be an expert—or have the perfect speech—to be a great canvasser.
 The key is knowing how to listen, connect, and make the most of each conversation.
 In this interactive 75-minute wor… Show more RSVP Phonebank for Randy Villegas en Español Multiple Times Virtual Event Únete al equipo de campaña de Villegas para el Congreso en nuestras sesiones de llamadas a votantes de los miércoles a las 5:30-7:30 pm.
 Llamamos a los votantes del Distrito 22 para ganar su apoyo par… Show more RSVP Phonebank for Randy Villegas!
@@ -56,7 +56,11 @@ We'll be calling voters in District 22 to earn their votes for the November 3rd 
 Each phone bank will begin with a training o… Show more RSVP Phonebank for Randy Villegas!
 Multiple Times Virtual Event Join the Villegas for Congress team for our Sunday phonebanks.
 We'll be calling voters in District 22 to earn their votes for the November 3rd election.
-Each phone bank will begin with a training on … Show more RSVP Hop on a bus: Mountain View to Delano!
+Each phone bank will begin with a training on … Show more RSVP Delano Town Hall! ¡Reunión en Delano!
+This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Delano, CA, 93215 Join us for a town hall in Delano! ¡Acompáñenos en una reunión en Delano!
+RSVP Hop on a bus: Mountain View to Delano!
 Flip the House (Randy Villegas, CA-22) Moutain View (near 101 & Rengstorff & San Antonio) (full address available after you RSVP), Mountain View, CA, 94043 Join lots of fired-up volunteers on a bus to Delano in the Central Valley to help flip the U.S.
 House.
 We’ll be knocking on doors for Randy Villegas in Congressional District 22 (CA-22), one of the f… Show more RSVP Hop on a bus in San Jose to flip the House!

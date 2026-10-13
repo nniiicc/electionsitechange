@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release International Brotherhood of Teamsters Endorses Senator Roger Marshall September 3, 2026 For immediate release Today, Senator Roger Marshall, M.D., was proud to be endorsed by the International Brotherhood of Teamsters and the Topeka-based Teamsters Local 696 chapter.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Press release International Brotherhood of Teamsters Endorses Senator Roger Marshall September 3, 2026 For immediate release Today, Senator Roger Marshall, M.D., was proud to be endorsed by the International Brotherhood of Teamsters and the Topeka-based Teamsters Local 696 chapter.
 Senator Marshall has been a champion of pro-labor bills, including his own Railway Safety Act, the Faster Labor Contracts Act, and the Warehouse Worker Protection Act.
 He also led the Overtime Wages Relief Act, which eliminated federal income tax on up to $10,000 of overtime wages for individuals.
 “Having worked alongside the Teamsters on a number of projects to protect American workers, it’s an honor to receive this endorsement.

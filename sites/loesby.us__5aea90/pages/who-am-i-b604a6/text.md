@@ -1,5 +1,4 @@
 Skip to content Matt Loesby for Idaho Campaign Platform Who Am I?
-Can I Win?
 Help the Campaign Donate Who Am I?
 I come from a place that no longer exists.
 My parents raised me in a pleasant middle class suburb south of Denver, Colorado, in the 90’s and 00’s.
@@ -10,9 +9,9 @@ After a brief stay in North Carolina for a job, I bought a house in the Treasure
 I now split my time between volunteering for my church, developing a video game, hiking in the Rockies, and doing administrative work and activism for the Libertarian Party of Idaho.
 Why am I running?
 We all know that Idaho’s politics are dominated by the Republican Party, to the point that most people register Republican in order to vote in their primary; even progressives do this, which is part of the reason we see progressive-leaning moderates like Brad Little in our government.
-What, then, is the point of challenging Russ Fulcher, who has only lost one election in Idaho when he challenged Butch Otter in the primary for Governor in 2014?
-For me, there are two major reasons: While Fulcher is one of the less bad House Republicans regarding our Natural Rights and Liberties, he still regularly votes along with the Washington establishment to increase the debt limit, fund the many different agencies that infringe on our liberties, and spend our grandchildren’s savings before they are even born.
-Idaho deserves better.
+What, then, is the point of challenging Jim Risch, the long-incumbent Senator for a deep red state?
+For me, there are two major reasons: Jim Risch campaigns on all the things we expect of Republicans: Family Values, Low Taxes, Low Regulation.
+However, while in Washington, he has regularly voted to increase the Federal budget, continued to fund programs that undermine American culture and replace our people with strangers from strange lands, and expanded administrative departments, all while prioritizing the well-being of a foreign state in the Middle East over Americans’ needs.
 The Republicans in Idaho need a real challenge from a party that loves what Idaho is, and is unhappy with how the GOP sells us out for political gains in DC.
 The Democrats are possessed by the Progressive movement, which would seek to destroy the things we love about Idaho, and is a non-starter.
 The Libertarian Party can be the vehicle for real opposition to the GOP that defends Idahoan liberty and culture.

@@ -1,18 +1,23 @@
 {
  "description": "The Volunteer Plan is a detailed action plan for building better government, by design. Each policy was designed to meet the needs of real Tennesseeans.",
  "final_url": "https://davefortn.com/platform",
- "fingerprint": "8797a20df862e89f3596dbd1c7203ab20f538911",
+ "fingerprint": "a7ed797b1f1bf9a298c425e58082fcdfb8cac456",
  "format": 3,
  "paid_for_by": "paid for by closing corporate tax loopholes",
+ "rendered": false,
  "title": "Platform | The Volunteer Plan",
  "years_mentioned": [
+  "1984",
   "1988",
-  "2005",
+  "1991",
   "2007",
+  "2008",
   "2009",
   "2010",
+  "2011",
   "2013",
   "2014",
+  "2015",
   "2016",
   "2017",
   "2018",
@@ -24,7 +29,12 @@
   "2024",
   "2025",
   "2026",
+  "2027",
+  "2028",
   "2029",
+  "2030",
+  "2034",
+  "2035",
   "2040"
  ]
 }

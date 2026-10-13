@@ -24,9 +24,8 @@ It is about clean water, safe streets, veterans who earned better than excuses, 
 Twenty days is not much time.
 But it is enough time to organize, talk to voters, and make sure every patriot who cares about Florida’s future shows up.
 Help Republicans in our community finish strong and keep fighting for the community we love.
-Related Posts: Army Corps Cover Up EXPOSED!
-January 14, 2022 Thank you, President Trump!
-August 1, 2025 Mast Launches Campaign In FL-21 April 25, 2022 250 Years of Freedom June 26, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: We’re at the top… April 4, 2022 Biden’s Big Crisis March 7, 2021 Endorsement Alert!
+October 27, 2021 Why this month is important to me May 16, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

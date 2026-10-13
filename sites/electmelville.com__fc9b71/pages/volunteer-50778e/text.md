@@ -1,4 +1,4 @@
-Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Home About Endorsements Volunteer Priorities District Events News Contact Donate Sign up to Volunteer GET A FRONT ROW SEAT TO ALL THE CAMPAIGN ACTION Let's get YOU started!
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Home About Endorsements Volunteer Priorities District Events News & Videos Contact Donate Sign up to Volunteer GET A FRONT ROW SEAT TO ALL THE CAMPAIGN ACTION Let's get YOU started!
 JOIN TEAM TOM Join Team Tom Virtual Event Tom Melville is working to flip the 9th Norfolk State Representative district from red to blue this November.
 Join Team Tom to fight for thoughtful, decent leadership that listens, shows up, and works… Show more RSVP Week Day Door Knocking with Tom Melville for State Representative Multiple Times Team Tom Volunteer Headquarters 8 King Philip Trail, Norfolk, MA, 02056 Join Team Melville for door knocking across the 9th Norfolk District!
 The time listed is 9am-8pm, but this just means you can canvass on your own time.

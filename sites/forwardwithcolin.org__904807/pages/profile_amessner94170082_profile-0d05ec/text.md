@@ -11,12 +11,12 @@ Our guest speaker was Andrew Yang.
 He gave us a brief history of the party and his vision for the future.
 He also shared the party progress taking place in Utah and across the United States.
 It is exciting to see the...
-8 0 1 Apr 2, 2026 ∙ 2 min Salt Lake County Convention Thanks to everyone who attended the Salt Lake County Convention last Saturday.
+9 0 1 Apr 2, 2026 ∙ 2 min Salt Lake County Convention Thanks to everyone who attended the Salt Lake County Convention last Saturday.
 I especially want to thank Sue Schulman who helped us secure the location for this event.
 It was a successful convention, and it was wonderful to meet the other Salt Lake County Candidates that I will be serving with in the next term.
 Each candidate had three minutes to outline their objectives prior to voting, and I was pleased to learn that most of our priorities are aligned.
 As a reminder, my primary...
-8 0 1 Colin Smith Building for a Better Future Email * Yes, subscribe me to your newsletter. * Submit Privacy Policy ​ © # Forward With Colin.
+9 0 1 Colin Smith Building for a Better Future Email * Yes, subscribe me to your newsletter. * Submit Privacy Policy ​ © # Forward With Colin.
 Paid for by Forward With Colin, Alice Smith, Treasurer.
 Contributions are not tax deductible.
 Powered and secured by Wix bottom of page

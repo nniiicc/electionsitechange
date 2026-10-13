@@ -23,5 +23,5 @@ He and his family are active members of their local church.
 Judicial Philosophy Whether you are rich or poor, an individual or a corporation, a plaintiff or a defendant, you are entitled to equal and impartial justice.
 A judge’s duty is to apply the law as written, to consider every argument with care, and to decide every case without favor, prejudice, or preconception.
 If given the privilege to serve on the Fifth Court of Appeals, I will be guided by the rule of law, respect for the limited role of the judiciary, and an unwavering commitment to treat every person who comes before the Court with fairness, dignity, and equal respect.
-Election Information For 5th District Court of Appeals, Place 3 Tuesday November 3 2026 Counties Collin Hunt Dallas Kaufman Grayson Rockwall Political advertising paid for by Matthew Kolodoski Campaign.
+Election Information For 5th District Court of Appeals, Place 3 Tuesday November 3 2026 Counties Collin Hunt Dallas Kaufman Grayson Rockwall View Privacy Policy Political advertising paid for by Matthew Kolodoski Campaign.
 Links Home About Donations Contact News Social media Join the Campaign Thank you for joining the newsletter!

@@ -30,6 +30,6 @@ And that’s the work I look forward to doing.
 I will stay focused on those problems and on fighting for Arkansas.” About Hallie Shoffner Hallie Shoffner is a wife, mother, sixth-generation Arkansan, row crop farmer and small business owner, running for U.S.
 Senate to fight for her neighbors.
 For more information, visit hallieshoffner.com .
-Micah Wallace Next Next Tom Cotton says “Arkansans are rightfully feeling pressure at the pump.” Cotton is wrong, there is nothing right about the war that is costing Arkansans at the pump.
+Micah Wallace Previous Previous Statement from Campaign Manager Anna Lee Pittman after Cotton No-Shows at Arkansas TV Debate Next Next Tom Cotton says “Arkansans are rightfully feeling pressure at the pump.” Cotton is wrong, there is nothing right about the war that is costing Arkansans at the pump.
 Follow us DONATE Contact: (501) 295-3428 info@shoffnerforarkansas.com Mailing Address: 600 E Capitol PO Box 57 Little Rock, AR 72202 Little Rock Office: 415 W 12th St Little Rock, AR 72202 Please direct all media requests to media@shoffnerforarkansas.com.
 Privacy Policy

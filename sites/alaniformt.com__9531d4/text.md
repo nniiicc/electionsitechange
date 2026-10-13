@@ -9,7 +9,10 @@ Track your ballot What's on your ballot Retired Air Force lieutenant colonel and
 She hunted terror networks, spies and child predators.
 Now she's Montana's Democratic nominee for U.S.
 Senate, and she can't be bought.
-Donate Volunteer Get a yard sign Your ballot is in the mail.
+Donate Volunteer Get a yard sign Press release · Oct.
+12 Bankhead: O’Brien spent months working to undo the Democratic primary.
+Today she made it official.
+Read the release Every claim, answered Your ballot is in the mail.
 Mail it back or drop it off at your county election office.
 It has to arrive by 8 p.m. on Tuesday, Nov.
 3.
@@ -17,15 +20,15 @@ Track your ballot What's on your ballot Why Alani She shows her work.
 Check it.
 Four candidates are on your ballot.
 These are the differences, and every claim links to the proof.
-On the record on 113 of 117 issues Your voter guide puts all four candidates side by side on 117 questions, with every answer sourced to their own words.
+On the record on 114 of 118 issues Your voter guide puts all four candidates side by side on 118 questions, with every answer sourced to their own words.
 Alani has a stated position on almost every one.
 The others leave dozens blank.
-Compare all four → Alani Bankhead (D) 113 Seth Bodnar (I) 61 Kurt Alme (R) 32 Kyle Austin (L) 31 She can't be bought Zero corporate PAC money.
+Compare all four → Alani Bankhead (D) 114 Seth Bodnar (I) 64 Kurt Alme (R) 36 Kyle Austin (L) 35 She can't be bought Zero corporate PAC money.
 She backs I-194, The Montana Plan, to end dark money in Montana.
 Her accountability plan → She's done the job 21 years in the Air Force and a career as a federal agent.
 She led a counterintelligence task force that caught spies, directed more than 180 agents across eight countries, and built coalitions of federal, state, local and nonprofit organizations to go after child predators.
 See the record → She answers the questions Her answers to voter questionnaires are published, side by side with her opponents', so you can compare for yourself.
-See the questionnaires → Montana chose her 48,772 Montana Democrats picked her in the primary.
+See the questionnaires → Montana chose her Montana Democrats chose her in an open primary.
 She'll serve as a Democrat; the independent says he'll caucus with neither party.
 Compare all four → Heard a rumor?
 Every attack tracked this campaign, answered with the record and the sources.
@@ -37,7 +40,7 @@ Read → Women’s rights Reproductive freedom: trust people, not the government
 Meet Alani Raised all over the map, 21 years in uniform, the home she chose.
 Service record Both DD-214s, citations and letters, posted in full.
 Every position 52 topics, searchable, in her own words.
-Voter guide All four candidates on 117 questions, sourced.
+Voter guide All four candidates on 118 questions, sourced.
 Rumors, answered Every attack, with the record behind each answer.
 Fact-check: the attack ads The mailers and TV ads, side by side with the facts.
 Debates & forums Where to watch, live and on demand.

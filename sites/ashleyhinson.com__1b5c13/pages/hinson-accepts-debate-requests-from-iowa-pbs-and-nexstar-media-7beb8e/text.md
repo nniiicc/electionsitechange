@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Accepts Debate Requests from Iowa PBS and Nexstar Media Jul 28, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson has formally accepted requests from Iowa PBS and Nexstar Media, the parent company of WHO TV, to participate in two statewide debates ahead of the November 3rd general election.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Accepts Debate Requests from Iowa PBS and Nexstar Media Jul 28, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson has formally accepted requests from Iowa PBS and Nexstar Media, the parent company of WHO TV, to participate in two statewide debates ahead of the November 3rd general election.
 Scheduling details to follow.
 “I look forward to debating Josh Turek and giving Iowans the opportunity to see the clear contrast in this election,” said Congresswoman Ashley Hinson.
 “Josh is a liberal who owes Iowans answers on why he missed more than half the votes in the legislature while collecting more than $20,000 in daily per-diem from taxpayers.

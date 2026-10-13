@@ -11,7 +11,25 @@ Watch video Close Get Involved Deb Haaland is determined to face New Mexico’s 
 And she’s building a campaign you can be a part of.
 Join us!
 Volunteer Sign Up Give Donate Share Post Pledge to Vote Pledge Vote Early!
-NMVote.org The Latest NewsNation: Deb Haaland Projected to Win Gubernatorial Race in New Mexico Press Release September 28, 2026 On NewsNation this week, Deb Haaland, the Democratic nominee for governor in New Mexico, talked about her plan to stand up to Donald Trump and put more money back into the pockets of New Mexicans.
+NMVote.org Vote New Mexico!
+YOUR VOICE.
+YOUR FUTURE.
+Make Your Plan to Vote Your voice matters, and your vote can help shape New Mexico’s future.
+Make a plan to vote and mark these important dates on your calendar.
+OCTOBER 6 Early Voting Begins Early voting starts across New Mexico.
+OCTOBER 17 Expanded Early Voting Begins Expanded early voting begins.
+Same-day registration and voting is available in person.
+OCTOBER 20 Deadline to Request a Mail-In Ballot Make sure you request your mail-in ballot by the deadline.
+OCTOBER 31 Last Day of Early Voting This is the last day to vote early.
+There is no voting on November 1 or 2.
+NOVEMBER 3 Election Day Polls are open from 7:00 AM to 7:00 PM.
+If you’re in line by 7:00 PM, stay in line.
+You can still vote.
+You can register and vote in person on Election Day.
+Mail-in ballots must be received by 7:00 PM.
+Voting dates and procedures may vary by location.
+Check with the New Mexico Secretary of State for official election information.
+More Voting Information Here → The Latest NewsNation: Deb Haaland Projected to Win Gubernatorial Race in New Mexico Press Release September 28, 2026 On NewsNation this week, Deb Haaland, the Democratic nominee for governor in New Mexico, talked about her plan to stand up to Donald Trump and put more money back into the pockets of New Mexicans.
 New … Deb Haaland Tours Emergency Homeless Shelter, Shares Vision to Address New Mexico’s Housing Crisis Press Release September 28, 2026 Yesterday, Deb Haaland, the Democratic nominee for Governor, toured Consuelo’s Place, an Emergency Homeless Shelter.
 The shelter serves vulnerable individuals and families who are transitioning into permanent housing and provides life-stabilizing services.
 Consuelo’s Place provides wraparound … RECAP: Deb Haaland Shares Vision to Lower Costs Across Eight Southeastern Counties During Roadrunnin’ Tour Press Release September 28, 2026 Deb Haaland, the Democratic nominee for Governor of New Mexico, shared her vision for lowering costs across eight counties in southeastern New Mexico, as part of her third Roadrunnin’ Tour.

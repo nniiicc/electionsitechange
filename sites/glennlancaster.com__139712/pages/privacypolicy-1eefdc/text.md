@@ -28,9 +28,20 @@ We encourage our users to be aware when they leave our site and to read the priv
 Communications Preferences You may opt out of receiving certain communications from us, such as digests, newsletters, and activity notifications, by following the instructions in those communications.
 Mobile Push Notifications With your consent, we may send push notifications to your mobile device.
 You can deactivate these messages at any time by changing the notification settings on your mobile device.
-Text Messaging By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including autodialed and automated calls and texts, to that number from Glenn Lancaster.
-Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
-If you no longer wish to receive text messages, you may opt-out at any time by replying "STOP".
+Text Messaging If you opt in to the Glenn Lancaster Oregon Senate SMS Program, we may use the mobile phone number you provide to send you recurring SMS/MMS messages.
+Messages may include campaign updates, announcements, event information, volunteer opportunities, fundraising communications, reminders, and other promotional or marketing messages from Glenn Lancaster Oregon Senate.
+Consent to Receive Messages : By opting in to receive text messages, you consent to receive recurring marketing text messages from Glenn Lancaster Oregon Senate at the mobile number you provided.
+Consent is not a condition of purchase, donation, or participation.
+Message Frequency and Charges : Message frequency varies.
+Message and data rates may apply depending on your wireless carrier and service plan.
+Opt-Out : You may unsubscribe from text messages at any time by replying STOP to any message you receive from us.
+After you send STOP, you may receive a confirmation message indicating that you have been unsubscribed.
+You will no longer receive SMS messages from us unless you opt in again.
+Help : For assistance, reply HELP to any text message or contact us at Glenn@GlennLancaster.com or 971-396-6610.
+SMS Privacy : We do not sell, rent, or share your mobile phone number, SMS opt-in data, or consent information with third parties for their marketing or promotional purposes.
+Mobile information will not be shared with third parties or affiliates for marketing or promotional purposes.
+Text messaging originator opt-in data and consent will not be shared with any third parties, except as necessary to provide the messaging service or as required by law.
+For additional information about the Glenn Lancaster Oregon Senate SMS Program, please review our Terms and Conditions.
 California Consumer Privacy Act (CCPA) This Privacy Policy is intended to comply with the CCPA, which provides certain rights to California residents.
 Under the CCPA, “Personal Information” means anything that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a California consumer or household.
 If you are a California resident, under California law you have the right to know about and request the following information regarding your Personal Information we collect for the period covering 12 months preceding your request: • The categories and specific pieces of Personal Information we collected; • The categories of sources from which we collected your Personal Information; • The business or commercial purpose for which we collected your Personal Information; and, • The categories of third parties to whom we disclosed your Personal Information.

@@ -50,5 +50,5 @@ Learn More Veterans As a Combat Veteran who served for nearly 40 years in unifor
 Learn More The Latest From Facebook Scott Perry for Congress #ago Great people, great community, another great Pumpkin Fest!
 I look forward to this time in East Pennsboro every year – meeting neighbors, sharing some laughs, eating too much, and having some amazing chats.
 Thanks to everyone who helped make it another beautiful day!
-114 42 6 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+164 73 10 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
 Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

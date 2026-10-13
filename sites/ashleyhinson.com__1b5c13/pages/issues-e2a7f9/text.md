@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute Issues See where Ashley stands on the issues most important to Iowa families and businesses: Lowering Costs & Growing the Economy Ashley has always believed it is YOUR money, not the government’s money.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Issues See where Ashley stands on the issues most important to Iowa families and businesses: Lowering Costs & Growing the Economy Ashley has always believed it is YOUR money, not the government’s money.
 She has been laser focused on lowering taxes for working families and empowering all Iowans with opportunities.
 Help more families become homeowners by allowing first-time homebuyers to save tax-free for a down payment through the First Home Savings Opportunity Act and ensuring large institutional investors cannot buy up single-family homes in Iowa neighborhoods.
 Make child care more affordable and accessible by expanding tax relief for working families, supporting parents who work nontraditional hours, and encouraging employers to invest in child care solutions.

@@ -1,5 +1,5 @@
 Early Voting: October 19th - October 31st. | Election Day: November 3rd.
-Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues & Endorsements Events Endorsements News Volunteer Contact Donate James on the Issues Promises kept, results delivered 01 Regulations To address the over regulation, James fought to be placed in the House Regulations Committee.
+Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues Events Endorsements News Volunteer Contact Donate James on the Issues Promises kept, results delivered 01 Regulations To address the over regulation, James fought to be placed in the House Regulations Committee.
 After discussing his plan to address this issue with House Leadership, he was selected as Chairman of the Education and Administrative Regulations Subcommittee, a rare appointment for a freshman legislator.
 In this committee he has slashed outdated and unnecessary regulations helping to ease the burden on small businesses.
 He was a cosponsor and champion for the Small Business Regulatory Freedom Act which will help every small business in the state by sunsetting regulations which no longer serve a purpose, are not tied to statute, or do nothing to protect South Carolinians.
@@ -39,7 +39,7 @@ Johns Firefighters Gun Owners of America PFFASC IAFF Sheriff Carl Ritchie Conser
 Please note: this is a legislative scorecard rating, not an endorsement.
 Conservation Voters of South Carolina has not endorsed this campaign.
 Help keep delivering results Donate Volunteer Fighting for lower taxes, less red tape, better roads and the first responders who keep South Carolina safe.
-Explore Home Meet James Issues & Endorsements Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
+Explore Home Meet James Issues Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
 Something went wrong — please try again. © # James Teeple.
 Paid for by James Teeple for State House.
 Christian.

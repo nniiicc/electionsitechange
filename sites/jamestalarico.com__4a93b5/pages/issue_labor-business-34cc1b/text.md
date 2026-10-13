@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Labor & Business When my younger sister was born, she was 10 weeks premature and required around-the-clock care.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Labor & Business Higher Wages and a Fair Shot for Small Businesses Supporting workers and supporting small businesses go hand in hand.
+James Talarico will raise the minimum wage to $15, expand overtime, pass paid family leave, protect the freedom to unionize, and give small businesses a fair shot against giant corporations.
+When my younger sister was born, she was 10 weeks premature and required around-the-clock care.
 Our mom didn’t have access to family leave, so while she was with my sister in the NICU, the hotel she worked at called her and fired her over the phone.
 So there she was — no job, mounting medical bills, and a baby struggling to survive.
 Thankfully, my sister got better.
@@ -11,7 +13,11 @@ But the evidence doesn’t back that up.
 We don’t have to choose between supporting workers and supporting businesses.
 Doing both is how we ensure hard work is rewarded and every American has the opportunity to earn their way into the middle class.
 From my 100% pro-labor voting record to my leadership as Vice Chair of the Committee on Trade, Workforce, and Economic Development in the Texas House, I’ve spent my career fighting for workers, connecting Texans to more good-paying jobs, and making Texas the #1 place to start and grow a business.
-I joined the picket line with striking hotel workers in Houston.
+James Talarico stopped at Takitos Con Sabor in Eagle Pass, TX🔥 pic.twitter.com/u4cCwxyJLz — Team Talarico (@TeamTalaricoHQ) July 19, 2026 @teamtalaricohq 👏 ♬ original sound – Team Talarico Childcare is now more expensive than college.
+In the Legislature, I passed a bill to cut property taxes for childcare centers, allowing small businesses like Green Space Nature Preschool to cut costs for working families.
+In the Senate, I’ll keep fighting for our tiny Texans.… pic.twitter.com/Prd4Vpig3o — James Talarico (@jamestalarico) July 28, 2026 I just gave the commencement address at Paul Quinn College — the oldest HBCU in Texas.
+I told them: “You have scrolled through more suffering, division, and chaos than any generation in human history.
+But as painful as it may be, your disillusionment is a superpower." pic.twitter.com/B5z3KCSfHK — James Talarico (@jamestalarico) May 3, 2026 I joined the picket line with striking hotel workers in Houston.
 If you put in the hours, you shouldn’t be scraping by.
 I will never stop fighting for Texas workers in this economy rigged for billionaires. pic.twitter.com/wIF4Tf4zy6 — James Talarico (@jamestalarico) September 16, 2025 Fight corruption.
 Beat the billionaires.

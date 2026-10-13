@@ -40,8 +40,16 @@
 "href": "tel:+17177878724"
 },
 {
+"text": "(724) 465-3852",
+"href": "tel:+17244653852"
+},
+{
 "text": "(724) 717-3899",
 "href": "tel:+17247173899"
+},
+{
+"text": "Apply with PA Voter Services",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/"
 },
 {
 "text": "Call (724) 357-0151",
@@ -50,6 +58,10 @@
 {
 "text": "Canvass Today, 12 to 4 PM",
 "href": "https://www.mobilize.us/trajanforpa62/event/1055730/"
+},
+{
+"text": "Check your status with PA Voter Services",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
 },
 {
 "text": "Contact Us",
@@ -68,8 +80,16 @@
 "href": "https://secure.actblue.com/donate/trajanforpahouse"
 },
 {
+"text": "Register with PA Voter Services",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
 "text": "Site by[image: Andy Muth]",
 "href": "https://andymuth.com"
+},
+{
+"text": "Text a friend",
+"href": "sms:"
 },
 {
 "text": "Trajanforpahouse@gmail.com",

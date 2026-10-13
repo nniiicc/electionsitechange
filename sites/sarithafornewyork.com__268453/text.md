@@ -18,25 +18,25 @@ IN THE NEWS Lawless Letitia James is in big trouble from Saritha Komatireddy By 
 CostaSeptember 9, 2026National Review […] Read more New York Needs a Prosecutor As Attorney General Focused on New york, focused on safety.
 We will: Enforce the law by prosecuting crime Take the homeless and the sick off the street humanely Eliminate corruption and fraud FOLLOW SARITHA ON SOCIAL MEDIA Follow Saritha Komatireddy @sarithaforny If New York isn't safe, nothing else matters.
 The only prosecutor running for New York Attorney General.
-Tweets 1.2K Following 97 Followers 9.3K Saritha Komatireddy @sarithaforny #ago New Yorkers deserve to know their Medicaid dollars are paying for care.
-As Attorney General, I’ll rebuild fraud enforcement, hold scammers accountable, and protect taxpayer dollars. https://t.co/JtATqjxHLG 47 121 Saritha Komatireddy @sarithaforny #ago https://t.co/RanMBbZdTq 24 128 Saritha Komatireddy @sarithaforny #ago Letitia James laid the groundwork for defunding the police, and that's disgraceful for the state's chief law enforcement officer.
-As your next Attorney General, I will support law enforcement and enforce the laws.
-That’s why police unions and law enforcement officers across the https://t.co/UPjMEK1AFC 31 108 Saritha Komatireddy @sarithaforny #ago Two men were beaten in the head with hammers on a Brooklyn street.
-Their attackers are still on the run.
-Felony assaults like this are up across New York.
-This kind of brutal violence cannot become something New Yorkers are expected to accept as part of everyday life.
-Public 24 114 Saritha Komatireddy @sarithaforny #ago New Yorkers are spending billions on a homelessness crisis that continues to get worse, and they deserve to know where every dollar is going.
-This organization received hundreds of millions of dollars in city shelter contracts despite lacking basic financial and compliance 58 174 Saritha Komatireddy @sarithaforny #ago The Attorney General’s office has the power to protect New Yorkers.
-I’m running to use it for exactly that purpose: prosecuting crime, holding dangerous people accountable, and making our communities safer. https://t.co/oSCYBWjTYB 56 203 Saritha Komatireddy @sarithaforny #ago 585 vehicles stolen in Syracuse so far this year — a 43% increase from last year.
-When a car is stolen, the victim takes a huge financial hit and everyone’s insurance costs rise — it’s why we pay more for car insurance in New York than any other state in the country.
-Fight 50 206 Saritha Komatireddy @sarithaforny #ago 14-year-old Zah’nia Barr should still be alive.
-The man charged with her murder was already a twice-convicted felon who was prohibited from possessing a handgun.
-Despite that, he was armed and opened fire into a crowd, killing an innocent 14-year-old girl.
-New York has no 27 74 Saritha Komatireddy @sarithaforny #ago As a mother of four, I know how fast kids can get into a jam.
-Huge thanks to the FDNY for calmly getting this little one's head safely out of that fence.
-Moments like this remind us that our firefighters show up for every emergency, big or small, and treat each one like it https://t.co/AprKF1htXh Crime In NYC @Crime_In_NYC #ago High fives all around. 👍 https://t.co/F6N8x88y40 24 151 Saritha Komatireddy @sarithaforny #ago New York, llegó la hora!
-The time has come and I’m ready to bring new energy and real accountability to the Attorney General’s office.
-That’s why some people call me Saritha “Come-On-Already.” Let’s go! https://t.co/s3IjXf0BoX 48 189 Donate $25 Donate $250 Donate $1,000 other amount Mail checks to: PO BOX 1092 Holbrook, NY 11741 Sign up to receive exclusive updates from Team Saritha! *Required Field. *By providing your telephone number and checking the box, you consent to receive calls and text messages.
+Tweets 1.3K Following 103 Followers 45.9K Saritha Komatireddy @sarithaforny #ago https://t.co/VH3DsYT07d Saritha Komatireddy @sarithaforny #ago “Ms.
+Komatireddy offers as well the prospect of an ethical and cultural reset for the state attorney general’s office” https://t.co/H24ETPCrdY 3 19 Saritha Komatireddy @sarithaforny #ago “Ms.
+Komatireddy offers as well the prospect of an ethical and cultural reset for the state attorney general’s office” https://t.co/H24ETPCrdY 32 143 Saritha Komatireddy @sarithaforny #ago Crime.
+Chaos.
+Failed leadership.
+New Yorkers have had enough.
+Public safety is not optional.
+It’s time for accountability, action, and real change.
+Watch our new ad on the epidemic of homelessness gripping New York under Letitia James. https://t.co/tXA8Foemqw 125 699 Saritha Komatireddy @sarithaforny #ago Erin Piacenti was stabbed and killed in Times Square on her first day back from maternity leave, and the system failed everyone involved.
+As your next Attorney General, I will launch an Office of Civil Commitment to get severely mentally ill people off the streets and into https://t.co/VLSa2H7phI 132 512 Saritha Komatireddy @sarithaforny #ago As Attorney General, I will audit and investigate every homeless shelter nonprofit in New York.
+The ones doing good work will get help to expand.
+The ones taking taxpayer money and failing will have to fix it or shut down. https://t.co/qojtAB1lzk 311 1.4K Saritha Komatireddy @sarithaforny #ago Proud to join the 2026 Annual Columbus Circle Wreath Laying Ceremony in New York City as we honor Italian American heritage, celebrate the contributions of generations of Americans, and recognize the enduring legacy of our communities.
+Heritage matters, and so does honoring the https://t.co/X0Tm6VRjo3 475 2.9K Saritha Komatireddy @sarithaforny #ago Fraud costs you.
+As Attorney General, I’ll root out fraud, hold those stealing taxpayer dollars accountable, and protect your hard earned money. https://t.co/qjfVi0jV7S 102 365 Saritha Komatireddy @sarithaforny #ago Thrilled to join the crowd in Cortland County as we take the momentum from winning the debate back out to the campaign trail.
+Thank you to all of our volunteers and supporters in Central New York!
+A silent majority in New York already agrees that we need change in this state — https://t.co/fJZPeqLSaL 132 669 Saritha Komatireddy @sarithaforny #ago Excited to speak to volunteers and supporters in Syracuse as we continue our travel around the state.
+New Yorkers saw with their own eyes on Thursday how Letitia James is failing them — it’s time for a change! https://t.co/fu6QWSEcNU 107 821 Saritha Komatireddy @sarithaforny #ago New Yorkers deserve an Attorney General focused on protecting them.
+I’ve spent my career prosecuting dangerous criminals, and I’m ready to bring that experience to an office with the power to make our communities safer.
+Just Fight Crime. https://t.co/JisQ7PVW0r 331 1.4K Donate $25 Donate $250 Donate $1,000 other amount Mail checks to: PO BOX 1092 Holbrook, NY 11741 Sign up to receive exclusive updates from Team Saritha! *Required Field. *By providing your telephone number and checking the box, you consent to receive calls and text messages.
 Messages may include requests for donations.
 Msg & data rates may apply.
 Msg frequency may vary.

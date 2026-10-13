@@ -1,5 +1,5 @@
-top of page JESSICA CAIRD FOR JUSTICE About Get Involved Contact Donations More Use tab to navigate through the menu items.
-Because Caird Cares Jessica Caird for the First District Court of Appeals Houston, Place 5 Judicial Philosophy Jessica Caird will uphold Republican values.
+top of page JESSICA CAIRD FOR JUSTICE About Get Involved Contact Endorsment's Donations More Use tab to navigate through the menu items.
+Because Caird Cares Jessica Caird for the First District Court of Appeals Houston, Place 5 Judicial Philosophy Jessica Caird will uphold Texas values.
 She believes in the United States and Texas Constitutions, and she understands those sacred documents must be interpreted as written because they stand as the will of the people.
 We have existed as a society of laws since our founding, and must remain so to succeed and thrive as a community.
 She recognizes that the job of a judge is not to ignore or create the law, but to faithfully apply it as written by the Texas Legislature and as enshrined in the Constitution.

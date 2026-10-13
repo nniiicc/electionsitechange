@@ -14,4 +14,4 @@ And as governor, she’ll bring people together to tackle Oregon’s challenges,
 “Oregon, I’m counting on you.
 Mail your ballot back by November 8th, and vote Tina Kotek for governor.” Join us!
 Fighting for progress takes all of us.
-Join Team Tina today and become part of the movement fighting for Oregon’s future. press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+Join Team Tina today and become part of the movement fighting for Oregon’s future. info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

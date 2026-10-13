@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate FAQ Table Of Contents About And Background Who is Kristy Janigo?
+Skip to content Home About City Council Record Priorities Endorsements News Volunteer DONATE DONATE Home About City Council Record Priorities Endorsements News Volunteer Events on Mobilize Donate FAQ Table Of Contents About And Background Who is Kristy Janigo?
 What communities are in Minnesota Senate District 37?
 What is Kristy's military background?
 What is Kristy's education and professional background?
@@ -77,5 +77,5 @@ Kristy has made fighting fraud, rebuilding trust, and protecting taxpayer dollar
 She calls for stronger investigations, prosecution, penalties, whistleblower protections, and an independent Office of the Inspector General.
 Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
 Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About City Council Record Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
 Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

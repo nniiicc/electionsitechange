@@ -1,7 +1,12 @@
 top of page HOME ABOUT ASHLEY WHY I RAN CONTACT SIGN-UP FOR UPDATES CAMPAIGN UPDATES DONATE More Use tab to navigate through the menu items.
 Updates from Montpelier Thank you for visiting the blog section of our website.
 I plan to post legislative updates, news articles, opinion pieces, and press releases on this page!
-All Posts Campaign Affordability Crisis Childcare Crisis Working Families Affordable Housing Legislative Updates Education Independent Representative Jed Lipsky backs Ashley for State Senate!
+All Posts Campaign Affordability Crisis Childcare Crisis Working Families Affordable Housing Legislative Updates Education My opponent says I don’t have the time to be a Senator.
+Here’s my answer.
+My opponent has been telling voters that I won’t have enough time to serve in the State Senate because I’m a full-time working mother with two children.
+I think it’s worth asking why, in 2026, we’re still questioning whether a woman can lead because she’s also a mother.
+Rep.
+Ashley Bartley #ago 4 min read Independent Representative Jed Lipsky backs Ashley for State Senate!
 I have had the privilege of working with Ashley in the House of Representatives over the last four years.
 Ashley takes care and consideration in how every piece of legislation will affect her constituents, and she has always put them first.
 As an independent State Representative, I don't endorse lightly or along party lines — I look for legislators who put good policy over politics.
@@ -12,6 +17,4 @@ Collaboration is critical if you want to make progress in Montpelier.
 I'm looking forward to working closely with the VPA next year as your Vermont State Senator. info4075055 Sep 25 1 min read Senator Chris Mattos Backs Ashley Bartley as his Successor Senator Chris Mattos endorses Rep.
 Ashley Bartley to succeed him.
 Rep.
-Ashley Bartley Sep 24 1 min read WDEV: Alison Despathy talks with Ashley Bartley Ashley Bartley appeared on WDEV with Alison Despathy to discuss farming, Act 181, the process during a super majority, and Ashley's unwavering support of the Vermont Air National Guard.
-Rep.
-Ashley Bartley Sep 23 1 min read Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page
+Ashley Bartley Sep 24 1 min read Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

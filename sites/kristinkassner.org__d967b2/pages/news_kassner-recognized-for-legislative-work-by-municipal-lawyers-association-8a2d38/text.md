@@ -11,6 +11,6 @@ Her recent work includes a set of measures to require training for members of mu
 Both are included in the state’s pending, wide-ranging Economic Development Bill.
 Kassner is up for reelection Nov.
 3 against Republican challenger Dan Kelly of Ipswich.
-Kristin Kassner https://kristinkassner.org Next Next Letter: Kassner is the Leader We Need Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Kristin Kassner https://kristinkassner.org Previous Previous Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers Next Next Letter: Kassner is the Leader We Need Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

@@ -1,4 +1,4 @@
-Follow us Menu Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Privacy Policy Who we are Our website address is: https://www.katyforcongress.com.
+Follow us Menu Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Privacy Policy Who we are Our website address is: https://www.katyforcongress.com.
 Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/.
@@ -32,5 +32,5 @@ Where your data is sent Visitor comments may be checked through an automated spa
 Contact us For questions, requests, or to exercise your privacy rights, contact: Katy Padilla Stout for Congress Email: info@katyforcongress.com Mailing Address: 24165 IH-10 West, Ste.
 217-509, San Antonio, TX 78257 We aim to respond within the timeframes required by applicable law.
 Stay Up To Date Follow us on the campaign trail!
-Email Email Subscribe Donate Follow us Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
+Email Email Subscribe Donate Follow us Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
 217-509 San Antonio, TX 78257 (210) 201-3635 Accessibility Statement Terms of Service Contact Privacy Policy

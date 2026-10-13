@@ -70,7 +70,7 @@ I learn.
 I do the work.
 And then I ask: What's the next move?
 Tags: Who is running for WI State Assembly District 53?
-Recent Posts See All There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Federal Vaccine Guidelines Changed.
+Recent Posts See All I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Federal Vaccine Guidelines Changed.
 Should Wisconsin Change Too?
-We’re All on a Fixed Income CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

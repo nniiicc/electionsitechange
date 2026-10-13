@@ -265,6 +265,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ramsey+Candidate+Forum&dates=20261015T223000Z%2F20261016T011500Z&location=7550+Sunwood+Drive+NW%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ramsey+Happy+Days&dates=20260912T130000Z%2F20260913T020000Z&location=Ramsey%2C+MN+55303%2C+United+States"
 },
 {
@@ -377,6 +381,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.walkerforward.com/events/ramsey-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.walkerforward.com/events/ramsey-happy-days-2026?format=ical"
 },
 {
@@ -450,6 +458,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Ramsey Candidate Forum",
+"href": "https://www.walkerforward.com/events/ramsey-candidate-forum"
 },
 {
 "text": "Ramsey Happy Days",
@@ -558,6 +570,10 @@
 {
 "text": "View Event →",
 "href": "https://www.walkerforward.com/events/nw-food-truck-fest"
+},
+{
+"text": "View Event →",
+"href": "https://www.walkerforward.com/events/ramsey-candidate-forum"
 },
 {
 "text": "View Event →",
@@ -678,6 +694,10 @@
 {
 "text": "[image: POSTPONED: Neighborhood Conversations: Andover P3]",
 "href": "https://www.walkerforward.com/events/neighborhood-conversations-andover-p3"
+},
+{
+"text": "[image: Ramsey Candidate Forum]",
+"href": "https://www.walkerforward.com/events/ramsey-candidate-forum"
 },
 {
 "text": "[image: Ramsey Happy Days]",

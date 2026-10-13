@@ -7,6 +7,5 @@ All dates and links below come from the Maryland State Board of Elections.
 MAIL IN VOTING How do I vote by mail?
 EARLY VOTING When and where can I vote early?
 ELECTION DAY What should I know about Election Day?
-Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel.
-Cathy Frey, Treasurer.
+Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

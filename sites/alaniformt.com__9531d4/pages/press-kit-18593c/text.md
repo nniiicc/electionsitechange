@@ -4,7 +4,7 @@ General election, November 3, 2026.
 Bios, fast facts, high-resolution photography, and logo files.
 Everything here is cleared for publication.
 Updated October 7, 2026.
-Press contact Kaight Meyers Operations and Press Director kaight@alanibankheadforsenate.com (703) 517-0409 Jeri Bucy Director of Strategic Communications jeri@alanibankheadforsenate.com (406) 431-4993 General press inbox: press@alanibankheadforsenate.com .
+Press contact General press inbox: press@alanibankheadforsenate.com .
 Positions, in her own words, are at alaniformt.com/positions .
 Her service record is at alaniformt.com/service .
 Biography Short bio, 57 words Alani Bankhead is a retired Air Force lieutenant colonel and federal agent.
@@ -63,6 +63,6 @@ For screen, use PNG or SVG.
 Please reproduce the logo as provided.
 Do not recolor it, stretch it, or rebuild it, and leave clear space around it so it reads cleanly.
 If you need full brand specifications, exact color formulas, or a format that is not here, contact us and we will send them.
-Interview and reprint requests For interviews, statements, background, or additional photography, contact Kaight Meyers or Jeri Bucy.
+Interview and reprint requests For interviews, statements, background, or additional photography, email the press desk.
 We try to respond same day on deadline.
 Email the press desk

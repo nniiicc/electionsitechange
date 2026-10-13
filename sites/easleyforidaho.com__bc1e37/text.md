@@ -1,8 +1,6 @@
 top of page Home Issues Join Us!
 District & Voting Information Events Donate Log In Real Leadership for District 22 Idaho Karlie Easley for State Senate Amanda Easley for House Seat 22B Donate to Karlie Donate to Amanda South Boise, Meridian and Nampa Get campaign updates from Amanda & Karlie Stay up to date with our latest news and events by signing up for our newsletter.
-Upcoming Events Mon, Oct 12 Candidate Meet & Greet / Charter Pointe Park at Clubhouse RSVP Oct 12, 2026, 4:30 PM – 6:00 PM Charter Pointe Park at Clubhouse, 9488 W Hearthside Dr, Boise, ID 83709, USA Come meet Amanda & Karlie as well as Loren Petty and Michael Fitzgerald.
-No RSVP Needed.
-Tue, Oct 13 Door knocking with the Easleys / Location is TBD RSVP Oct 13, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking in South Boise with the Easleys Location will be shared after RSVP.
+Upcoming Events Tue, Oct 13 Door knocking with the Easleys / Location is TBD RSVP Oct 13, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking in South Boise with the Easleys Location will be shared after RSVP.
 Multiple Dates Wed, Oct 14 Phone Banking with the Easleys - GOTV / RSVP on mobilize for link RSVP Oct 14, 2026, 11:30 AM – 1:00 PM RSVP on mobilize for link Help us Get Out the Vote - call and make sure people have a plan to vote from the comfort of your home.
 Every Wednesday over lunch.
 Thu, Oct 15 Coffee with Candidates District 22 - Black Rock / Black Rock Coffee Bar RSVP Oct 15, 2026, 10:00 AM – 11:00 AM Black Rock Coffee Bar, 3300 E Victory Rd, Meridian, ID 83642, USA Casual stop by event.

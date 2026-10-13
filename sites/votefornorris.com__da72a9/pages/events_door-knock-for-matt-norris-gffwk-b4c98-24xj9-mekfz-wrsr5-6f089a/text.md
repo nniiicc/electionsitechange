@@ -2,6 +2,6 @@
 We have two shifts this Saturday—one starts at 10 am and the other one starts at 12 pm.
 Register here so we know you’re coming.
 We’ll meet by the big red barn at the Lexington Athletic Complex in Blaine.
-Previous Previous September 16 Door Knock for Matt Norris Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+Previous Previous September 16 Door Knock for Matt Norris Next Next October 21 October 21 Phone Banking for Matt (Virtual) Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
 P.O.
 Box 490868, Blaine, MN 55449

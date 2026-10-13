@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Canonical bills Every bill, with sources.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Canonical bills Every bill, with sources.
 Bill number, sponsor, cosponsors, status, a plain-English explainer, and a link to the official Congress.gov record.
 The on-the-record version of what Doc has filed and voted on.
 Agriculture S.

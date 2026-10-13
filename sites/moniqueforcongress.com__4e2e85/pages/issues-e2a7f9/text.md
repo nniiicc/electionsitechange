@@ -170,6 +170,9 @@ Forest-policy support Endorsed by Citizens for Sensible Forest Management, Fores
 Holds a 98% lifetime score from the extreme national League of Conservation Voters.
 Val Hoyle tells timber communities she supports active management, but her record too often follows the organizations that helped lock up our federal forests.
 I have one message throughout this district: manage our forests responsibly, protect our communities, restore rural prosperity, and demand results.
+Gay Marriage and Equal Rights Since my corrupt, career politician opponent has been lying about my record on countless issues, including gay marriage, I feel compelled to set the record straight.
+I have always supported equal marriage rights and that includes the right to marry for gay couples.
+I am proud to have countless friends and supporters in the LGBTQ community and believe this issue has been settled by the Supreme Court.
 Education Education Our government-run education system is failing our children, and Oregon ranks among the worst government education programs in America.
 Yet more money is being spent and extracted from taxpayers every year, only to produce steadily declining education results with our kids.
 Students are increasingly failing to meet minimum proficiency in reading, writing, and math.

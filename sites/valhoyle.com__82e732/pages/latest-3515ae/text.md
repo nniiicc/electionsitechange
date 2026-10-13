@@ -1,0 +1,12 @@
+Home | Menu | Sign Up | Donate | En Español Val Hoyle for Congress - http://www.valhoyle.com Fighting for Working Families About Val Priorities Endorsements News Request a Sign Contact Donate En Español Latest News August 27, 2026 Eugene Weekly Politics and Clap-Backs in Letters: Say Say What on Hoyle?
+August 12, 2026 Abortion is on the ballot August 10, 2026 Lookout Eugene-Springfield As Eugene’s former mayor, I’ve seen how wrong Monique DeSpain is on homelessness | Letter to the editor July 20, 2026 Build more housing now June 16, 2026 More and more expensive June 8, 2026 We passed the War Powers Resolution May 30, 2026 I will never agree to this corrupt payoff scheme May 19, 2026 BREAKING: Rep.
+Val Hoyle Wins OR-4 Primary: Vows to Fight for Workers, Rights, and Democracy May 1, 2026 The Corvallis Advocate The Advocate’s 2026 Primary Endorsements April 30, 2026 Eugene Weekly Vote ’Em If You Got ’Em April 28, 2026 Peter DeFazio: Val deserves our vote this May April 27, 2026 Lookout Eugene-Springfield A ‘blue wave’ this fall will give Val Hoyle a chance to shine | Letter to the editor April 22, 2026 The 25th amendment March 24, 2026 We can make sure that doesn't happen March 6, 2026 Kristi Noem was fired.
+Private prisons still win.
+February 20, 2026 Congresswoman Val Hoyle Announces Re-election Campaign February 20, 2026 It’s official: I’m running for re-election Join the Movement We can’t win this fight if we don’t join together and fight back against the billionaires.
+Be part of our movement and chip in today.
+Click on an amount to get started and contribute to support Val Hoyle.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# OTHER Sign up to Get Involved Get a Lawn Sign Help us Spread the Word Putting Working People First Val Hoyle’s record of standing up for Oregon’s hardworking families and small businesses stems from a lifetime of experience.
+From her union roots, to her leadership in Oregon's government, she always puts working people first.
+Val Hoyle’s record of standing up for Oregon’s hardworking families and small businesses stems from a lifetime of experience.
+MEET VAL » About Val Priorities Endorsements News Request a Sign Contact Donate Paid for and authorized by Val Hoyle for Congress.
+PO Box 657 | Springfield, OR 97477 Contact | Media Resources | Privacy Policy | Terms of Service © # Val Hoyle for Congress | Powered by Mandate Media .

@@ -1,4 +1,4 @@
-Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Privacy Policy This privacy notice discloses the privacy practices for this website.
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Privacy Policy This privacy notice discloses the privacy practices for this website.
 This privacy notice applies solely to information collected by this website.
 Information Collection, Use, and Sharing We collect information you provide directly to us.
 For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, request support, send us an email, or otherwise communicate with us.
@@ -9,6 +9,6 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
+NEWS DONATE VOLUNTEER VOTING INFO YARD SIGNS Get Updates Thank you for signing up!
 News League of Women Voters Forum Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

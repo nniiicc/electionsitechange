@@ -1,4 +1,6 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Category: Capitol Corner Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage October 2, 2026 Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Category: Capitol Corner How Can We Protect Minors At Work October 12, 2026 Bianca Orfila-Molinet Capitol Corner Sexual violence against minors occurs at an extraordinarily high rate in the United States.
+Child sexual abuse refers to the involvement of a child, defined as a person less than 18 years old, in sexual activity that violates the laws or social taboos of society.
+Approximately one in four girls and one in twenty boys […] Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage October 2, 2026 Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
 Diabetes.
 Infections.
 Preterm labor.
@@ -223,8 +225,5 @@ Since there is a lack of […] Fellowship Spotlight: Gitzel Anguiano October 24,
 She is also pursuing a public affairs communication certificate.
 Gitzel is involved in a number of organizations on campus including Speak Out for Species, Hispanic Student Association, Young Democrats, Student Government Association and the […] Fellowship Spotlight: Catie Gelting October 10, 2021 Mennah Abdelwahab Capitol Corner Catie Gelting is a fourth-year at the University of Georgia studying international affairs and philosophy with a minor in political science.
 She is a member of the philosophy club and a non-religious member of the Bahai’i Student Association.
-Catie is also the Historian for UGA’s Demosthenian Literary Society, where she keeps records of meetings, historic […] The Toll of COVID-19 on Women in the Workplace April 25, 2021 Vanisha Kudumuri Capitol Corner “We can do it!”––the iconic poster of Rosie the Riveter looms over girls and women in schools and workplaces alike.
-But can they really do it?
-Even as higher education and male-dominated industries have become more accessible for women, the pillars of the patriarchy stand tall with the wage gap and the glass ceiling.
-This […] Posts navigation Older posts ©# Spencer Frye State House 122.
+Catie is also the Historian for UGA’s Demosthenian Literary Society, where she keeps records of meetings, historic […] Posts navigation Older posts ©# Spencer Frye State House 122.
 All Rights Reserved.

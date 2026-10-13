@@ -1,4 +1,4 @@
-Skip to content Connect with us Toggle Navigation MEET CHRIS EVENTS DONATE MEET CHRIS 975168pwpadmin 2026-09-29T18:48:16+00:00 Christopher Richard Brown Jr. is a Rochester-area technology leader, community volunteer, and Republican candidate for New York State Senate.
+Skip to content Connect with us Toggle Navigation MEET CHRIS ISSUES EVENTS DONATE MEET CHRIS 975168pwpadmin 2026-09-29T18:48:16+00:00 Christopher Richard Brown Jr. is a Rochester-area technology leader, community volunteer, and Republican candidate for New York State Senate.
 He is focused on empowering parents, improving education, and restoring fiscal discipline to deliver real results for Monroe County families.
 Christopher Richard Brown Jr. is a proven leader and Republican candidate for State Senate who is fighting to strengthen families, expand school choice, and cut wasteful spending in Albany.
 Christopher Richard Brown Jr. is a software engineering leader and community advocate dedicated to improving education, supporting families, and bringing accountability and fiscal discipline to New York State government.

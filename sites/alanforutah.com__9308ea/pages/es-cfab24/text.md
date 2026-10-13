@@ -6,15 +6,22 @@ Mi plan para votar La elección en 2026 Su voto debe ganarse, no darse por senta
 En 2024, la lista oficial de candidatos de Utah incluyó a un solo candidato para el Distrito 61 de la Cámara de Representantes.
 Este año, los votantes tienen una alternativa real.
 El día de las elecciones es el martes 3 de noviembre de 2026.
-Fuente: Certificación oficial de la elección general de Utah 2024 ↗ Lo que puede esperar de mí Explicar votos importantes en lenguaje claro.
+Fuente: Certificación oficial de la elección general de Utah 2024 ↗ Lo que puede esperar de mí No aceptar dinero de grandes PAC ni de corporaciones.
+Publicar cada reunión con cabilderos en internet.
+Explicar votos importantes en lenguaje claro.
 Celebrar reuniones públicas regulares en el Distrito 61.
 Publicar las cifras y costos detrás del uso de fondos públicos.
 Mantener un proceso claro y accesible para preguntas de los vecinos y asistencia en casos individuales.
 Informar periódicamente sobre resultados, tareas pendientes y próximas prioridades.
-Ver mis compromisos de servicio → Con el respaldo de Propuestas Hacer más fácil costear la vida aquí y construir un futuro.
-Costos Más Bajos y Crecimiento Responsable Combatir impuestos a la propiedad injustos, abrir espacio para viviendas que las familias puedan pagar y asegurar que el crecimiento no deje a las familias con la cuenta.
-Plan de asequibilidad → Prueba de crecimiento local → Escuelas Fuertes y Oportunidades Locales Dar a los niños un buen comienzo, apoyar a los maestros excelentes y mantener a UVU como una opción asequible para títulos, capacitación técnica y buenos empleos.
-Plan de educación y UVU → Mi historia Mi familia vino aquí en busca de oportunidades.
+Ver mis compromisos de gobierno limpio → Con el respaldo de En las noticias: Lea mis respuestas en la guía electoral del Distrito 61 de The Salt Lake Tribune (en inglés) ↗ Propuestas Hacer más fácil costear la vida aquí y construir un futuro.
+Costos Más Bajos y Más Viviendas Reducir el impuesto a los comestibles y facilitar la construcción de casas para primeros compradores.
+Frenar los impuestos a la propiedad injustos y el alza de seguros y medicamentos.
+Plan de asequibilidad → Agua y Crecimiento Responsable Proteger el Gran Lago Salado y hacer que los centros de datos paguen lo que les corresponde.
+Los grandes proyectos no deberían aprobarse sin que los residentes tengan voz.
+Plan de agua y crecimiento → Escuelas Fuertes y Oportunidades Locales Dar a los niños un buen comienzo, apoyar a los maestros excelentes y mantener a UVU como una opción asequible para títulos, capacitación técnica y buenos empleos.
+Plan de educación y UVU → Gobierno Limpio No acepto dinero de grandes PAC ni de corporaciones, y publicaré cada reunión con cabilderos en internet.
+También votaré en contra de las Enmiendas A y B.
+Compromisos de gobierno limpio → Mi historia Mi familia vino aquí en busca de oportunidades.
 Quiero que sigan al alcance de todos.
 Mis padres llegaron a Utah desde Perú y España y se conocieron en Provo.
 Me enseñaron que el trabajo duro y la educación pueden abrir puertas.

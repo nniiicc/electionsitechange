@@ -6,14 +6,14 @@ AI companies’ trillionaire CEOs are deciding pressing public questions like wh
 AI governance will eventually be remembered as the defining issue of our time.
 We need elected leaders who are unafraid of industry and willing to step into the breach and pass forward-thinking legislation to address AI’s disruption.
 When our campaign launched in April, I was the only candidate in the State prioritizing AI regulation or with a robust, detailed AI regulatory platform.
-On AI, I will: Regulate or stop the construction of new data centers to preserve climate progress and keep electricity prices sane.
+On AI, I will: A data center moratorium and regulation of existing data centers to preserve climate progress and keep electricity prices sane.
 Ban the replacement of public school teachers and other public-sector workers with AI, and provide state employees with the right to bargain over AI.
 Protect private-sector jobs via state licensing regimes.
 Prohibit the spreading of false depictions of reality that are not clearly marked as such, and hold AI companies liable for deepfakes—including nonconsensual nude deepfakes—created by their technology.
 Tax sales of AI services and products to help pay for AI’s disruptive impacts.
 Ban the use of AI in employment and education discipline and healthcare decisions.
 Prohibit AI mass surveillance at home, at work, and in public, including price surveillance.
-Pass legislation addressing the catastrophic risks that certain AI applications pose, including right-to-warn protections for AI employees who perceive risks from their companies’ work, regulatory audits and controls that apply before even internal deployment of new models, and required transparency by AI companies of risks flagged internally during safety testing.
+Pass legislation addressing the catastrophic cybersecurity, biosecurity, and other risks that certain AI applications pose, including: right-to-warn protections for AI employees who perceive risks from their companies’ work, regulatory audits and controls that apply before even internal deployment of new models, required transparency by AI companies of risks flagged internally during safety testing; and AG investigative authority and fines and sanctions for AI safety incidents.
 Evaluate mandatory insurance and other innovative governance regimes that address safety risk.
 Found an intergovernmental, national caucus of legislators, governors, and other policymakers interested in ensuring public control over this transformational technology.
 Improving Statewide Education Performance The Puget Sound region (and the 46th district!) boasts a world class research university and one of the highest concentrations of well-educated parents in the country.

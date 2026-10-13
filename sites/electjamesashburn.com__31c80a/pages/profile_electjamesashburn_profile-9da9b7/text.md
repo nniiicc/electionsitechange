@@ -1,7 +1,7 @@
 top of page Elect James Ashburn HOME MEET JAMES PLATFORM GET INVOLVED NEWS More Use tab to navigate through the menu items.
 DONATE Profile Join date: Oct 8, 2018 Posts (3) Sep 21, 2022 ∙ 1 min James Ashburn participates in NAACP Primary Forum Today I participated in the NAACP Forum at the Waldorf West Library.
 Over seven candidates were in attendance.
-203 1 Mar 18, 2022 ∙ 1 min James Ashburn files for State Delegate District 28.
+204 1 Mar 18, 2022 ∙ 1 min James Ashburn files for State Delegate District 28.
 James Ashburn filed in Annapolis for State delegate District 28.
 Vowing to bring common sense back to Maryland.
 And push back against...

@@ -1,7 +1,7 @@
 Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Upcoming Events Sep 19 to Nov 2 Vote Early: In Person or by Mail Sat, Sep 19, 2026 9:00 AM Mon, Nov 2, 2026 5:00 PM Anoka County Government Center (map) Google Calendar ICS In Minnesota, you can vote absentee in person, or by mail, through November 2nd.
 Read more at mnvotes.gov View Event → Oct 13 Voting: Early Registration Deadline Tuesday, October 13, 2026 9:00 AM 10:00 AM Walker Forward (map) Google Calendar ICS Need to register to vote?
 Do so by October 13th ahead of time, or remember that you can register in person on Election Day, too.
-View Event → Oct 16 to Nov 2 Early Voting in Person Fri, Oct 16, 2026 9:00 AM Mon, Nov 2, 2026 5:00 PM Ramsey City Hall (map) Google Calendar ICS Vote in person.
+View Event → Oct 15 Ramsey Candidate Forum Thursday, October 15, 2026 5:30 PM 8:15 PM Ramsey City Hall (map) Google Calendar ICS Hear from candidates in Ramsey View Event → Oct 16 to Nov 2 Early Voting in Person Fri, Oct 16, 2026 9:00 AM Mon, Nov 2, 2026 5:00 PM Ramsey City Hall (map) Google Calendar ICS Vote in person.
 Drop your ballot in the machine.
 Have it counted.
 Let's go, democracy.

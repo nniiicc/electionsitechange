@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
 Read below to find out what Yassamin has been up to recently.
 NEWS Common Dreams: ‘An Abomination’: House Dem Revives Hegseth Impeachment Push After Iran School Massacre Revelation “Children were murdered in the first days of Trump’s illegal, pointless war that has wreaked havoc across the world,” said Rep.
 Yassamin Ansari.

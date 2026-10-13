@@ -1,4 +1,4 @@
-About Schedule Issues In the News Contact DONATE Putting people before politics.
+About Schedule Issues In the News Contact DONATE Leadership you can trust.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.

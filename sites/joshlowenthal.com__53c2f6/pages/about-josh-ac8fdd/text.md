@@ -6,4 +6,4 @@ He understands that complex problems require careful and creative solutions, and
 He’s focused on making our community better by working to solve the homelessness crisis, improve our public schools, and make sure everyone feels safe in their community and home.
 Josh Lowenthal grew up in Long Beach where he attended public schools.
 He worked as a local teacher, is a local business owner, and has three young daughters in public schools.
-Join the Team Email ZIP Code Mobile Number About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District
+Join the Team Email ZIP Code Mobile Number Submit About Josh Issues Supporters Media Get Involved Donate [email protected] Privacy Policy Paid for and authorized by Josh Lowenthal for 69th Assembly District

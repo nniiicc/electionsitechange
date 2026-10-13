@@ -1,5 +1,4 @@
-Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Woonsocket Autumnfest Parade Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
-The parade is the closing event of the festival weekend, with the park open until about 6:00 pm after the parade Conversation with Ken - Portsmouth Pizza.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Conversation with Ken - Portsmouth Pizza.
 Cash Bar.
 Ken speaks at 6:30 p.m.
 No R.S.V.P. required Ice Cream with Ken - East Providence Join Us for Ice Cream with Ken!
@@ -7,7 +6,8 @@ Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gma
 WPRO Radio Gubernatorial Debate Hosted by Bill Bartholomew of Bartholomewtown.
 Video will also be recorded.
 The full debate will be posted on YouTube, with clips shared on social media.
-WPRI Channel 12 Gubernatorial Debate SAVE THE DATE - Conversation with Ken - Warwick Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
+WPRI Channel 12 Gubernatorial Debate If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
+Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart TV app Conversation with Ken - Warwick Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.
 Cash bar.
@@ -15,7 +15,8 @@ R.S.V.P to michelle@blockforgovernor.com East Bay Chamber Gubernatorial Forum Ad
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
-Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
+Woonsocket Autumnfest Parade Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
+The parade is the closing event of the festival weekend, with the park open until about 6:00 pm after the parade Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
 Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
 Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
 PARKING There are over 1000 parking spaces available throughout the Avenue.

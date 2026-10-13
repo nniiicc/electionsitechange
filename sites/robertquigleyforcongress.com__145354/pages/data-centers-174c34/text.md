@@ -33,4 +33,10 @@ Let’s say no to data centers.
 Let’s put leaders in Congress that actually understand what’s going on in the economics so that we can protect our citizens and stop the economic cannibalization which the tech industry has forced onto America.
 Connect with us and stay informed.
 Quigley's LinkedIn The Divine Republic The Arab Spring Climate Impact Global Warming Solutions Kentucky & Washington DC r.a.quigley.95@cantab.net 202-578-8390 2637 Berea Rd Lexington, KY 40511 ​ And ​ ​ (Office) 142 Webster St NE Washington, DC 20011 © # by Robert Quigley For Congress.
-Get in touch First name * Last name Email * Phone Write a message Submit Books By Quigley The Tyranny of Certainty The Death Of Humanity - The Science Pomeranian Treat 1 Pomeranian Treat 2 bottom of page
+Get in touch First name * Last name Email * Phone Write a message Submit Books By Quigley The Tyranny of Certainty The Death Of Humanity - The Science Pomeranian Treat 1 Pomeranian Treat 2 Texting Disclosures By providing my phone number, I agree to receive informational text messages from Robert Quigley for Congress.
+Donations may be solicited.
+Message frequency may vary.
+Msg & data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see Privacy Policy and Terms & Conditions. bottom of page

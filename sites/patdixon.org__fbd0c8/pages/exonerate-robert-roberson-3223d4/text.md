@@ -26,5 +26,5 @@ The governor can request the board reconsider the case and issue a pardon.
 Greg Abbott won’t.
 I will.
 Bookmark .
-Sports and Outdoors Texas Muslims One Comment Pingback: About Greg Abbott Leave a Reply Cancel reply Your email address will not be published.
+Sports and Outdoors Texas Muslims 2 Comments Pingback: About Greg Abbott Pingback: Death Penalty Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

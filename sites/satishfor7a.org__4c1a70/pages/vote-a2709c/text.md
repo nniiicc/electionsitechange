@@ -1,6 +1,6 @@
 You need to enable JavaScript to run this app. info@satishchapagain.com +1 (443) 760-8167 Follow: Home About Priorities Get Involved Vote Contact Donate Make Your Voice Heard Your plan to vote Voting in District 7A is easy.
 Here's everything you need to make sure your voice is counted in 2026.
-Countdown to Election Day November 3, 2026 21 Days 13 Hours 04 Minutes 03 Seconds Mark Your Calendar Key 2026 election dates General Election Day Tuesday, November 3, 2026 Polls open across Maryland.
+Countdown to Election Day November 3, 2026 20 Days 13 Hours 03 Minutes 02 Seconds Mark Your Calendar Key 2026 election dates General Election Day Tuesday, November 3, 2026 Polls open across Maryland.
 Make your plan to vote!
 Early Voting Thursday, October 22, 2026 through Thursday, October 29, 2026 Early voting centers are open 7 a.m. to 8 p.m.
 Official Resources Maryland State Board of Elections All links go to the official Maryland elections website.
@@ -11,4 +11,6 @@ Msg & data rates may apply.
 Reply STOP to opt out.
 I'm Voting for Satish Share Voting Info Download this QR code to help neighbors find voting information.
 Make Your Plan to Vote https://satishchapagain.com/vote Download Satish Chapagain for Maryland State Delegate · District 7A "People First.
-Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish
+Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish continue to site Support Satish Chapagain Today Click an option below to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Secure contributions processed by ActBlue.
+You can give any amount.

@@ -1,0 +1,20 @@
+Follow us Menu Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Media Updated October 12, 2026 OVERVIEW Brandon Herrera is a well-known “gun-tuber” with millions of subscribers, who has used his platform to create content about mass shootings, directed sexually explicit language at women and children, joked about veteran suicide, and goose-stepped to a Nazi marching song.
+Katy Padilla Stout is a native Texan, a child welfare attorney, former teacher, and mother of four.
+In Congress, she will fight the cost of living crisis and skyrocketing prices hurting Texas families.
+SUMMARY Starting immediately, Independent and Hispanic voters in San Antonio, El Paso, and Odessa-Midland media markets need to see the contrast between Herrera and Padilla Stout in ads on broadcast and cable, with a central focus on Herrera’s character, particularly his Uvalde video.
+They need to hear him in his own words and learn more about Padilla Stout.
+He downplayed the severity of mass shootings: Three months after the tragic mass shooting in Uvalde, Texas, Herrera joined a fellow YouTube creator to create a video in Uvalde.
+In this video, Herrera and the creator strapped an assault weapon to a robotic dog and fired at child-shaped targets.
+In a video titled “ Mass Shootings: An Unpopular Opinion ,” Herrera stated that people “should be really glad” mass shooters “are using guns,” and argued that most mass shootings result in fewer deaths than attacks carried out with some other, more severe methods.
+Herrera has called for the elimination of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) , the government agency tasked with investigating mass shooting events and helped handle the investigation following the Uvalde shooting.
+Long history of Antisemitism and trafficking in Nazi ideology: On his own podcast, Herrera discussed owning a copy of “Mein Kampf,” Hitler’s manifesto.
+In a video in which he fired Nazi-made weapons, Herrera referred to a gun as the “original ghetto blaster,” said “for the Fatherland” while firing a weapon, and goosestepped to the Nazi marching song “Erika.” Herrera has a disturbing history of misogyny and using vulgar sexual language to describe women and children.
+He has an extensive record of directing crude sexual remarks at women.
+He used vulgar sexual language to describe children and insult mothers who engage in advocacy .
+When a fellow podcaster “joked” about rape, Herrera laughed and joined in with “jokes” of his own .
+Joked about veterans suicide: During one of his podcast appearances, Herrera said, “If it makes everyone in the room feel better, I often think about putting a gun in my mouth.
+So I’m basically an honorary veteran.” Herrera will be a rubber stamp for Trump’s price-hiking agenda that is hurting Texas families: A central policy listed on Herrera’s platform was “Standing With President Trump.” Herrera, who has supported Trump since 2016 , would be another vote to move Trump’s price-hiking agenda forward.
+Trump and Speaker Mike Johnson were behind legislation that cut health care for 17 million Americans , including nearly 12 million Medicaid beneficiaries.
+More than 4.4 million people in Texas relied on Medicaid to obtain health insurance, and more than 41,000 Texans in the old 23rd congressional district were at risk of losing their health coverage because of Trump and Johnson’s “Big Ugly Bill.” He defended high CEO salaries and landlords while saying renters “just live there like a fucking bum.” Herrera stated “ People are poor and bitch about anything over $600. “ Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
+217-509 San Antonio, TX 78257 (210) 201-3635 Accessibility Statement Terms of Service Contact Privacy Policy

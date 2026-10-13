@@ -8,6 +8,8 @@ Privacy Policy Fighting for New Mexico Email Address Zip Code Phone Number (Opti
 Facebook X-twitter Instagram Youtube Sign Up Sign Up VOLUNTEER VOLUNTEER CONTRIBUTE CONTRIBUTE MEET Ben RAY Luján Why I'm Running Ben Ray has dedicated his career to improving the lives of those in his community and his state, fighting to create good-paying jobs for hardworking New Mexican women and men, increase access to quality, affordable health care, and protect New Mexico’s natural resources.
 Read More Read More TAKE ACTION Delivering real results for Working Families Ben Ray is working to lower costs, create good-paying jobs, and ensure families across New Mexico have access to affordable health care, strong schools, and real economic opportunity.
 Get Involved Get Involved Donate to Stand with Team Luján $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Happy Indigenous Peoples’ Day!
+New Mexico is home to 23 Tribes and Pueblos whose cultures and contributions...
 Thank you, Bernadette, for your courage to come forward so those involved can be prosecuted to the fullest ext...
 Last year, my legislation to expand RECA became law.
 For decades, New Mexicans poisoned by radiation from the ...
@@ -21,9 +23,7 @@ Rural hospitals are under threat because of Republican cuts to healthcare.
 I sat down with hospital leaders wh...
 Proud to have received the support of the AFL-CIO.
 Our unions are the backbone of working families and a power...
-New Mexicans stand their ground and we don’t take bull from anyone. https://t.co/L2kdYrBICi Proud to have received the support of the National Security Leaders for America.
-I’m committed to strengthen...
-Join BEN Email Address Zip Code Phone Number (Optional) .
+New Mexicans stand their ground and we don’t take bull from anyone. https://t.co/L2kdYrBICi Join BEN Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from People for Ben.
 Message and data rates may apply.
 Text HELP for more information.

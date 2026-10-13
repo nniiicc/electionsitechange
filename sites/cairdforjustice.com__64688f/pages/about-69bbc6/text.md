@@ -1,4 +1,4 @@
-top of page JESSICA CAIRD FOR JUSTICE About Get Involved Contact Donations More Use tab to navigate through the menu items.
+top of page JESSICA CAIRD FOR JUSTICE About Get Involved Contact Endorsment's Donations More Use tab to navigate through the menu items.
 ABOUT ME Hi, I'm Jessica Caird WHERE JESSICA COMES FROM Jessica was raised in Dallas.
 She has lived in Houston since 1995 when she came to attend the University of Houston Law Center.
 Jessica knew she wanted to be a lawyer since high school when she joined the mock trial team as a freshman remaining on the team for all four years.

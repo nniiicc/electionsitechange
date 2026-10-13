@@ -1,4 +1,4 @@
-Follow us Menu Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Join Team Katy! working together for TX-23 First Name * First Name Last Name * Last Name Email * Email Phone Number Phone Number Join Us *By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Katy Padilla Stout for Congress.
+Follow us Menu Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate Request Yard Sign Follow us Donate Request Yard Sign Join Team Katy! working together for TX-23 First Name * First Name Last Name * Last Name Email * Email Phone Number Phone Number Join Us *By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Katy Padilla Stout for Congress.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
@@ -29,7 +29,7 @@ Together, we’ll fight for the people and places that make Texas home.
 0 11 4 Katy Padilla Stout @katy4congress.bsky.social September 24, 2026 Protecting the places we call home means protecting our families, our health, and our livelihoods.
 From preserving Big Bend’s extraordinary landscapes to defending clean air and safe drinking water, we have a responsibility to safeguard what we pass on to the next generation.
 1 10 4 Where I Stand On The Issues I'm fighting for the issues that are critically important to the people of TX-23.
-Issues Big Bend Border Wall Cost of Living Healthcare Universal Pre-K Climate Change Free and Fair Elections Immigration Gun Violence Reproductive Rights Stay Up To Date Follow us on the campaign trail!
-Email Email Subscribe Donate Follow us Home Meet Candidate Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
+Issues Cost of Living Healthcare Gun Violence Universal Pre-K Big Bend Border Wall Climate Change Free and Fair Elections Reproductive Rights Immigration Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Media Endorsements Issues News Voting Info Volunteer Donate PAID FOR BY KATY PADILLA STOUT FOR CONGRESS Katy Padilla Stout for Congress © # Mailing Address: 24165 IH-10 West, Ste.
 217-509 San Antonio, TX 78257 (210) 201-3635 Accessibility Statement Terms of Service Contact Privacy Policy Close Together, we can do this.
 Will you chip in to support our campaign for Congress? $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.

@@ -1,5 +1,5 @@
 top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
-CruzNYC Our Heritage Our Future THE COMMUNITY BLUEPRINT I protect long-term homeowners from deed theft and fraud so their legacy stays in their families.
+CruzNYC Our Heritage Our Future The Future of Aqueduct THE COMMUNITY BLUEPRINT I protect long-term homeowners from deed theft and fraud so their legacy stays in their families.
 I help local storefronts cut through Albany’s red tape to access the grants they need to grow.
 I turn community board concerns into legislative action to ensure our district is never overlooked again. ​ ​I find the hidden money that should be fixing our neighborhood’s streets.
 Affordability & Accountability Issues ​ 1.
@@ -11,7 +11,7 @@ If our local shops can’t afford to stay, our neighborhood loses its soul." Sla
 Ending the "Hidden Fees" Tax Utility Bill Transparency: "I’m going after the extraneous charges and fees buried in our telephone, cable, and utility bills.
 It’s time to stop the 'nickel and diming' of Queens families." The War on Junk Fees: "Bank fees and ATM fees are a tax on being working-class.
 I’m coming after these predatory practices to keep more money in your pocket." A Cleaner District: "I will fight to fully fund the Department of Sanitation.
-Clean streets aren't a luxury; they are the foundation of a healthy, vibrant city." the blueprint Click Here for the Highlights EDUCATION HOUSING HEALTHCARE TRANSPORTATION ANIMAL WELFARE WHAT CAN YOU DO The Full Circle: Join the Movement Donate to WIN SUBSCRIBE VOLUNTEER Fuel the Mission: Your contributions help us advocate for transit equity and senior independence.
+Clean streets aren't a luxury; they are the foundation of a healthy, vibrant city." Blueprint for GRROW Download Blueprint for GRROW by Rubén Cruz the blueprint Click Here for the Highlights EDUCATION HOUSING HEALTHCARE TRANSPORTATION ANIMAL WELFARE WHAT CAN YOU DO The Full Circle: Join the Movement Donate to WIN SUBSCRIBE VOLUNTEER Fuel the Mission: Your contributions help us advocate for transit equity and senior independence.
 Get the Blueprint: Sign up for our newsletter to see how we are putting neighbors first every day.
 Lend a Hand: Be part of the TRUEROOTS® team that managed the Queens Pet Pantry and local community center relocations.
 Faces of the 38th Faces of the 38th Faces of the 38th Faces of the 38th "My opponents have the endorsement of the party bosses.

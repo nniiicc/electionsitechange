@@ -1,4 +1,4 @@
-Ir al contenido Meet Yass Noticias Media Contact Shop Contribute Conoce a Yassamin Congresswoman Yassamin Ansari represents Arizona’s Third Congressional District – one of the most diverse communities in the country and home to Phoenix, the fifth-largest city in America.
+Ir al contenido Meet Yass Noticias Endorsements Contact Shop Contribute Conoce a Yassamin Congresswoman Yassamin Ansari represents Arizona’s Third Congressional District – one of the most diverse communities in the country and home to Phoenix, the fifth-largest city in America.
 She is the youngest woman in the 119th Congress and serves as Democratic Freshman Class President.
 In her first term, Yassamin has taken on corruption in Washington and been a fearless voice against Donald Trump and his authoritarian agenda.
 She’s worked to rein in ICE and protect immigrant communities, defend reproductive freedom, and advance a bold agenda to lower costs for Arizonans.

@@ -18,6 +18,12 @@ IBEW leaders say he will be a strong advocate for working men and women because 
 Montana Boilermakers Local 11: The officers and members of Boilermakers Local 11 have voted to endorse Dr.
 Michael Eisenhauer.
 Business Manager Joshua Mangold said the local is proud to stand behind the campaign because of its commitment to working families, organized labor, good-paying jobs, and opportunities for Montana workers.
+Montana Federation of Public Employees (MFPE): Montana’s largest union of public employees has endorsed Dr.
+Michael Eisenhauer for Congress in MT-02.
+MFPE represents teachers, nurses, law enforcement officers, and other public employees working across the state.
+Sheetmetal Workers Local 103 (SMART Local 103): Sheetmetal Workers Local 103 has formally endorsed Dr.
+Michael Eisenhauer.
+The local represents members across Montana, southeast Idaho, and northern Wyoming.
 Individual Endorsements Gary Buchanan: Independent candidate for Montana’s 2nd Congressional District (2022) Marc Racicot: Former two-term Republican Governor of Montana (1993–2001), Former RNC Chairman (2001-03), and Chairman of President G.W.
 Bush national reelection committee (2003-04) “… Congress is broken, and we need leaders willing to go to Washington to serve by working with both sides of the aisle.
 I proudly stand with Mike Eisenhauer for Congress—he is an independent candidate who will represent Montana well. ” — Governor Marc Racicot Randy Gray: “Dr.

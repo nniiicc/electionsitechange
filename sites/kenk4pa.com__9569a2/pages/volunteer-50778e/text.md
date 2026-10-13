@@ -4,14 +4,14 @@ There are numerous things you can do on your own, either independent of the camp
 Below is a partial list of suggested topics.
 Watch the Web This is probably the easiest thing to do.
 If you’re surfing the web and happen to notice that some website features the gubernatorial candidates and the Libertarians are not listed among them, contact the site’s webmaster and ask (politely) that they are included.
-You can point them to this website (www.KenK.org) for more info about the campaign and for a downloadable headshot (www.KenK.org/headshot).
+You can point them to this website (www.KenK4Pa.com) for more info about the campaign and for a downloadable headshot (www.KenK4Pa.com/meet-ken).
 This approach has been 100% successful so far, and it should be easy for you to help maintain that stellar record.
 If you’re a member of any forum, whether political or not, you can always talk up the campaign.
 Just make sure that it fits in somehow with the conversation at hand and the overall purpose of the forum, lest you be considered some sort of spammer.
 And always be polite, of course.
 You won’t win any friends for Liberty by calling them a bonehead (even if they are — remember that many non-boneheads are reading your posts too, and you don’t want to alienate them).
 If you’re unsure how to respond to a specific issue, you can familiarize yourself with the Libertarian stand on the topic by reviewing the campaign website, and if you’re still unsure, feel free to contact the campaign directly.
-Also, be sure to include a link to www.KenK4PA.com every time you post something.
+Also, be sure to include a link to www.KenK4Pa.com every time you post something.
 In fact, many people include it in their forum sig line just to be sure they always get it in there.
 Another thing you can do on the web is to comment on articles.
 As with the Forums, posting a comment on an article can get the Libertarian word out to an audience already predisposed to the topic at hand.
@@ -57,16 +57,14 @@ One of them is to host a gathering (see above) and charge admission at the door.
 That admission could include niceties like dinner, an open bar, door prizes, 50/50 tickets, silent auctions, and more.
 Your Idea Here Have an off-the-wall idea to spread the Libertarian message of the campaign?
 Maybe it’s Libertarian night at the local roller rink, judging for American Idol, or a dunk tank at the county fair (uh… maybe not), feel free to use your imagination.
-This list is not meant to be exhaustive, and some of the most interesting events from 2002 were suggested by volunteers.
+This list is not meant to be exhaustive, and some of the most interesting events from past campaigns were suggested by volunteers.
 So don’t count out that wacky idea right off the bat; it may fit in well with some Liberty-oriented theme.
-And feel free to discuss your thoughts on the Volunteers e-mail list.
-Everyone has posting authority; don’t hesitate to use it.
-To sign up for the list, submit the form immediately to the left on this page.
 In Conclusion Regardless of what you have in mind or how much effort you’re willing to put into it, just do it!
 Great campaigns are made up of many, many hands all doing small deeds that, taken together, make for one very large result.
 When I ran for governor in 1998 against Tom Ridge, the campaign broke virtually every Pennsylvania Libertarian record for that office.
 When I ran for governor in 2002 against Ed Rendell, the campaign broke every Pennsylvania Libertarian record for that office.
-Let’s go for the hat trick and make it three out of three.
+And in 2018 against Tom Wolf, once again a high water mark was set for the Libertarian gubernatorial vote total.
+Let’s go beyond the hat trick and make it four out of four!
 But, as with the previous races, it won’t happen without you, the volunteer.
 And don’t hesitate to contact the campaign directly if you have any questions.
 Thanks for all your help!

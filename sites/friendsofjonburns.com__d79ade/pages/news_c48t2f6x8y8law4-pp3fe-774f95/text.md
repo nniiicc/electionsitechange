@@ -35,4 +35,4 @@ Ballot Question #3 - Authorize Creation of Next Generation 9-1-1 Fund Shall the 
 If ratified, this constitutional amendment will strengthen public safety and modernize Georgia’s emergency services system, ensuring first responders have the resources they need to serve communities across our state.
 To learn more about the candidates and questions on the ballot in November, please visit KnowYourBallotGA.com .
 Have a great weekend, everyone!
-My best, Speaker Jon Burns Emma Nunez Next Next Supporting Rick Jackson + 2026 Ballot Questions JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY
+My best, Speaker Jon Burns Emma Nunez Previous Previous Georgia Pre-K Week + Early Voting Next Next Supporting Rick Jackson + 2026 Ballot Questions JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

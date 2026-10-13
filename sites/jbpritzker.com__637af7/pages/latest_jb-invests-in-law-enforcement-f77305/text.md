@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Meet JB Accomplishments Meet Christian News & Updates Sign Up JB Delivered: Investing in Law Enforcement and Crime Labs CHICAGO, IL — Governor JB Pritzker improved public safety by hiring new law enforcement officers and creating new crime labs in Illinois.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Meet JB Accomplishments Meet Christian News & Updates Sign Up JB Delivered: Investing in Law Enforcement and Crime Labs CHICAGO, IL — Governor JB Pritzker improved public safety by hiring new law enforcement officers and creating new crime labs in Illinois.
 He is working every day to make sure every Illinoisan is protected from violent crime, no matter their zip code.
 Over the last eight years, Gov.
 Pritzker has more than doubled funding for violence prevention initiatives and added hundreds of troopers to the Illinois State Police.

@@ -1,7 +1,7 @@
 Skip to main content Meet Josh The Platform Events Media Get Involved Store Donate Donate Menu Meet Josh The Platform Events Media Get Involved Store Donate 1 event found.
-Events for October 12, 2026 Events Search and Views Navigation Search Enter Keyword.
+Events for October 13, 2026 Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation Day List Month Day #ago 10/12/2026 October 12, 2026 Select date.
+Find Events Event Views Navigation Day List Month Day #ago 10/13/2026 October 13, 2026 Select date.
 Ongoing Ongoing: Phone Bank for Josh April 1 @ 8:00 am - November 3 @ 5:00 pm Join us Sunday, Monday, and Wednesday afternoons to let your neighbors know why you support Josh Smead for Congress.
 Bring your phone, a pair of headphones, and your laptop, and from the […] Previous Day Next Day Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Family.
 Freedom.

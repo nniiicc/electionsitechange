@@ -31,15 +31,10 @@ You agree not to use a false or misleading name or a name that you are not autho
 If in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, or you have opted into a Program for an ulterior purpose, we may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
 New!
-Paid for by Lorenz for Ohio By providing your telephone number, you consent to receive calls and text messages.
-Msg & data rates may apply.
-Msg frequency may vary.
-Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy and terms and conditions for more info.
-By providing your contact information and cell phone number, you consent to receive campaign-related alerts, updates, and news messages via SMS/MMS from Lorenz for Ohio.
+Paid for by Lorenz for Ohio By providing your contact information and cell phone number, you consent to receive campaign-related alerts, updates, and news messages via SMS/MMS from Lorenz for Ohio.
 Text and data rates may apply.
 Message frequency may vary.
-Reply STOP to opt out, HELP for help, or email {INSERT EMAIL}.
+Reply STOP to opt out, HELP for help, or email lorenzforohio@gmail.com.
 Donations may be solicited.
-View our Privacy Policy {INSERT LINK} and Terms and Conditions {INSERT LINK} for more information.
+View Privacy Policy and terms and conditions for more info.
 Mobile opt-in data will not be shared with third parties.

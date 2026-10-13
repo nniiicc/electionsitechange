@@ -22,4 +22,4 @@ Coulombe verify → HB 83 REJECT COMP COMMISSION RECOMMENDATIONS (H) RLS · w/ R
 Stapp verify → HJR 7 THANK PRES.
 TRUMP: RESOURCE DEVELOPMENT (H) RES · w/ Rep.
 Rauscher verify → SB 140 FIRE STATION GRANT PROGRAM (H) RLS · w/ Sen.
-Stedman verify → WHERE DO YOU STAND ON IT? → 112 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577
+Stedman verify → WHERE DO YOU STAND ON IT? → 114 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577

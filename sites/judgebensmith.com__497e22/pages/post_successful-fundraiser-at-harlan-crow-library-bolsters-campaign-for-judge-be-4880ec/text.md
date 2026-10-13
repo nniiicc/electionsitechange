@@ -15,7 +15,7 @@ Judge Smith continues to serve Collin County with distinction, bringing over a d
 About Judge Ben Smith Judge Ben Smith is the presiding judge of the 380th District Court in Collin County, Texas.
 A dedicated public servant, he is running for Justice on the Fifth Court of Appeals, Place 6, in the 2026 election.
 His campaign focuses on fair, efficient justice and protecting Texas values.
-Recent Posts See All Law Enforcement Associations Endorse Judge Ben Smith for Fifth Court of Appeals No Primary Opponent Judge Ben Smith Launches Campaign for 5th Court of Appeals, Place 6 "He has shown you, O mortal, what is good.
+Recent Posts See All Dallas Morning News Endorses Judge Smith Law Enforcement Associations Endorse Judge Ben Smith for Fifth Court of Appeals No Primary Opponent "He has shown you, O mortal, what is good.
 And what does the LORD require of you?
 To act justly and to love mercy and to walk humbly with your God." Micah 6:8 2025 Judge Ben Smith | Pol.
 Adv. paid for and/or authorized by Judge Ben Smith for Justice, 5th Court of Appeals.

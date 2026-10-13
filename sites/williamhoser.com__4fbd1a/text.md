@@ -4,7 +4,9 @@ ATHENS .
 WINDHAM.
 Support Will’s campaign with a yard sign!
 Send us your address and we’ll drop one off.
-Request A YARD SIGN upcoming events I’ll Represent You in the State House With...
+Request A YARD SIGN ENDORSEMENTS "William Hoser understands what Vermont needs to grow: good-paying jobs, strong local businesses, and real opportunities for working families.
+He will bring a practical, community-focused approach to economic development in the Vermont House.
+I’m proud to endorse him.” - Vermont Treasurer, Mike Pieciak upcoming events I’ll Represent You in the State House With...
 Despite the unfortunate course we have been led down, and the challenging economic and political environment, I still believe our best days are ahead of us because “tough times don’t last, tough people do!” Enthusiasm As a healthcare professional, I have seen patients on their worst days, facing vulnerability and pain.
 I’ll advocate for healthcare for all, without exceptions.
 EMPATHY In every sense of the word.

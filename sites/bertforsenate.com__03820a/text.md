@@ -1,8 +1,6 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses… See upcoming events Bert Mizusawa For U.S.
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Bert Mizusawa For U.S.
 Senate A proven leader protecting Virginia's values and securing America's future.
 See Where I Stand Join the Campaign Fighting for Virginia Decades of service.
 A clear vision for Virginia families.
@@ -13,18 +11,21 @@ Michael Tran Conversation with Michael Tran.
 The Staunton Debate hosted by The Family Foundation Debate hosted by The Family Foundation.
 See all media MEET US ON THE TRAIL Find rallies, meet-and-greets, and volunteer opportunities near you across the Commonwealth.
 We look forward to seeing you there!
-View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 12 Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
+View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 13 Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.
+Yet the report behind that figure won’t release its full methodology until 2027.
+The USDA’s data puts Virginia’s household food insecurity rate at about 13%, a very different picture.
+These statistics deserve scrutiny, not political spin.
+Fighting childhood hunger should be about feeding hungry children, not using them as political talking points.
+Virginians deserve transparency and facts. https://restoration-news.com/warner-s-childhood-hunger-hoax-exposed Bert Mizusawa @GenBert2026 · Oct 12 Every day brings a new opportunity to vote, and the deadline is rapidly approaching.
+Only # days remain before Election Day.
+The Senate majority is on the ballot, common sense is on the ballot, and we need to make the right choice this November.
+Vote Bert Mizusawa.
+Bert Mizusawa @GenBert2026 · Oct 12 Rural Virginians deserve the same high standard of care as the rest of Virginia!
+I support strengthening rural hospitals and protecting access to care close to home.
+My opponent voted against legislation that included $50 billion for rural health care.
+Bert Mizusawa @GenBert2026 · Oct 12 Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
 Meanwhile, he refuses to even say my name or debate me so voters can judge our records side by side.
 Virginia deserves a senator focused on the real choice in this race, not endless attacks on someone else.
-Bert Mizusawa @GenBert2026 · Oct 11 Let's help my grandaughter's wish come true.
-Vote Bert Mizusawa for US Senate!
-Bert Mizusawa @GenBert2026 · Oct 11 This election is for all of us: those Mark Warner has overlooked, those ready for change, and those who want real representation.
-I stand for lower energy prices, fiscal responsibility, and ending stock trading in Congress.
-What does Mark Warner stand for?
-Bert Mizusawa @GenBert2026 · Oct 9 We can lead in technology and still listen to the people who live alongside it.
-Data centers are a growing part of life in NOVA.
-Families and neighbors have real questions about energy costs, noise, and what these projects mean for their communities, and they deserve to be heard.
-Virginia communities deserve a real say in tech expansion.
 Get Involved Candidate for U.S.
 Senate, Virginia.
 Fighting for Virginia's families, veterans, and future.

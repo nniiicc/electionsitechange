@@ -31,5 +31,9 @@ He is half of the radio broadcast team of Columbia Lions Football on WKRM for th
 He is a member of all of the following organizations: ​ Maury Alliance Kiwanis of Columbia TN Board of Directors of Boys and Girls Club of Columbia NAACP Scholarship Selection Committee Fraternal Order of Police Columbia TN Spring Hill Parks and Recreation Committee Downtown Association of Spring Hill Spring Hill Chamber of Commerce Greater Nashville Mortgage Bankers Association B.A.S.S.
 FLW and National Wild Turkey Federation ​ Scott’s desire to offer his skills to public service are based around his unwavering belief in the ability to unite people around a politics of purpose.
 “I’m asking you to believe.
-Not just in my ability to bring real change to the 64th District, but also to believe in your ability to help make a difference.” Scott Cepicky REGISTER TO VOTE Join the Campaign Success!
-Message received. send Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Not just in my ability to bring real change to the 64th District, but also to believe in your ability to help make a difference.” Scott Cepicky REGISTER TO VOTE Join the Campaign By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Privacy Policy send Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

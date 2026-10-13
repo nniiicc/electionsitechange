@@ -7,7 +7,28 @@ If you're concerned about our right to choose, to afford a home, to have healthc
 Sign up for more details This event’s address is private.
 Sign up for more details, South Paris, ME, 04281 In less than 30 days, we have the opportunity to change our communities and the country.
 Join Women for Troy to help elect Troy Jackson and other Democrats in Oxford County.
-Come meet your Oxford Co… Show more RSVP Past Campaign Events Bath Town Hall with Troy Jackson & Planned Parenthood of Maine Action Fund | Solidarity Forever Tour Bath, ME Join U.S.
+Come meet your Oxford Co… Show more RSVP Past Campaign Events Biddeford Rally with Bernie Sanders | Solidarity Forever Tour Biddeford, ME Join U.S.
+Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
+Troy is a fifth-generation logger who has spent his career fighting for working people.
+Come hear from Troy about why he’s running for U.S.
+Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
+5:00 PM: Doors open 6:00 PM: Music by Ted Leo (solo) 6:25 PM: Music by Griffin William Sherry 7:00 PM: Program begins RSVP does not guarantee entry.
+Free parking is available on-site.
+Lewiston Rally with Bernie Sanders | Solidarity Forever Tour Lewiston, ME Join U.S.
+Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
+Troy is a fifth-generation logger who has spent his career fighting for working people.
+Come hear from Troy about why he’s running for U.S.
+Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
+10:00 AM: Doors open 11:00 AM: Music by Jacob Augustine 11:25 AM: Music by Ted Leo (solo) 12:00 PM: Program begins RSVP does not guarantee entry.
+Street parking is available nearby.
+Bangor Rally with Bernie Sanders | Solidarity Forever Tour Bangor, ME Join U.S.
+Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
+Troy is a fifth-generation logger who has spent his career fighting for working people.
+Come hear from Troy about why he’s running for U.S.
+Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
+4:00 PM: Doors open 5:25 PM: Music by Ted Leo (solo) 6:00 PM: Program begins RSVP does not guarantee entry.
+Parking is available in the garage across Main Street, closer to the Woodrow entrance.
+Bath Town Hall with Troy Jackson & Planned Parenthood of Maine Action Fund | Solidarity Forever Tour Bath, ME Join U.S.
 Senate candidate Troy Jackson in Bath for a community conversation as part of his Solidarity Forever Tour across Maine.
 Troy will be joined by Nicole Clegg, CEO/President of Planned Parenthood of Maine Action Fund.
 Troy is a fifth-generation logger who has spent his career fighting for working people.
@@ -82,7 +103,7 @@ You must register to attend, and the exact address and location will be provided
 Off the Clock Breakfast Happy Hour with Troy Jackson Portland, ME Start the morning with Troy and nurses from across Maine for a breakfast happy hour conversation about the future of health care in our state.
 Hear directly from the nurses who keep our communities healthy, and from Troy about why standing up for the people who care for us matters.
 Grab some breakfast and join us!
-Labor Karaoke with Troy Jackson 1234 Maple Street Municipal, State 12345 Come sing, laugh, and celebrate Labor Day weekend with Troy Jackson and Union members from across Maine.
+Labor Karaoke with Troy Jackson Lewiston, ME Come sing, laugh, and celebrate Labor Day weekend with Troy Jackson and Union members from across Maine.
 Grab a drink, pick your song, and join the fun — no singing talent required, solidarity is mandatory.
 Sign up for address to be sent via email right after.
 Jay Town Hall with Troy Jackson | Solidarity Forever Tour Jay, ME Join U.S.
@@ -93,7 +114,7 @@ Senate, share what’s on your mind, and ask Troy your questions about the issue
 4:00 PM: Doors open + live music 5:00–6:00 PM: Town hall and Q&A Labor Day Weekend Kittery Coffee Kick Off with Troy Jackson Kittery, ME Join Troy, IAM members, and union workers from across Maine for coffee in Kittery as we kick off Labor Day weekend.
 Start the morning with good company and a conversation about working people, solidarity, and building power together.
 Come grab a coffee and help us get Labor Day weekend started!
-Gorham Town Hall with Troy Jackson | Solidarity Forever Tour 1234 Maple Street Municipal, State 12345 Join U.S.
+Gorham Town Hall with Troy Jackson | Solidarity Forever Tour Gorham, ME Join U.S.
 Senate candidate Troy Jackson in Gorham for a town hall as part of his Solidarity Forever Tour across Maine.
 Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
 Come hear why he’s running for U.S.
@@ -105,31 +126,7 @@ Senate candidate Troy Jackson in Lewiston for a town hall as part of his Solidar
 Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
 Come hear why he’s running for U.S.
 Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-6:00 PM: Doors open + live music from Jeff Beam & Friends 7:00–8:30 PM: Town hall and Q&A Statewide Organizing Call with Troy Virtual event Thank you for signing up to volunteer with Team Troy!
-We would love for you to join us for a Statewide Organizing Call this Friday at 6:30PM.
-On this call, we'll hear from Troy, give an update on ways to get involved and share new resources.
-If you can’t make it, no worries -- fill out our volunteer form at jacksonformaine.com/take-action and our team will be in touch soon with ways to get involved in your area.
-This movement is powered by people like you who take the initiative to get involved.
-We can't wait to continue building this with you all!
-"Women for Troy" Coalition Launch with Troy!
-Brunswick, ME Join Troy Jackson for a Meet and Greet to launch a coalition of women working hard to elect him to the U.S.
-Senate in November.
-Fifth-generation logger, former President of the Maine Senate, and Democratic nominee for U.S.
-Senate Troy Jackson is joining supporters from across the state in Brunswick to launch his coalition, ‘Women for Troy’.
-Joined by coalition leaders, Maine AFL-CIO President Cynthia Phinney and Reproductive Freedom for All President and CEO, Mini Timmaraju, Jackson will speak directly with Maine women on the changes they want to see in Washington.
-Location: Brunswick, ME.
-Exact address upon registration.
-5:30 PM: Doors open 6:00–7:30 PM: Coalition launch followed by Meet and Greet Belfast Garden Party with Troy Jackson!
-Belfast, ME Please join us for a Meet & Greet Garden Party with U.S.
-Senate candidate Troy Jackson!
-Troy is a 5th-generation Mainer and logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-Live music and libations provided!
-Saturday, August 22nd, 3 - 5 PM.
-RSVP Required.
-(Both this link and the QR code work.) Exact address provided upon registration.
-Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
+6:00 PM: Doors open + live music from Jeff Beam & Friends 7:00–8:30 PM: Town hall and Q&A Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

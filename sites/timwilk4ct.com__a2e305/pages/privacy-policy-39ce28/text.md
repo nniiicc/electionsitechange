@@ -49,7 +49,7 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
-Paid for by Tim Wilk 4 CT, Ruth Cyr, Treasurer.
+Paid for by Tim Wilk 4 CT, Ruth Stanley-Cyr, Treasurer.
 Approved by Tim Wilk.
 Copyright © # Tim Wilk 4 CT - All Rights Reserved.
 Contact Privacy Policy

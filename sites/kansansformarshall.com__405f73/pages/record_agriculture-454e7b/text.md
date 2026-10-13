@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Senate Agriculture, Nutrition & Forestry Agriculture Phosphate fertilizer relief for Kansas growers.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Senate Agriculture, Nutrition & Forestry Agriculture Phosphate fertilizer relief for Kansas growers.
 Finding Phosphate fertilizer relief for Kansas growers.
 What's wrong.
 What it costs the patient.

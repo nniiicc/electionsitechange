@@ -12,7 +12,16 @@ St.
 Charles League of Women Voters October 20, 2026 6 pm - 7 pm St.
 Charles Community Center 830 Whitewater Ave St.
 Charles, MN League of Women Voters (LWV) Winona and St.
-Charles Area Citizens sponsored General Election Candidate Forum for the MN Senate (20) and MN House of Representatives (20A) candidates Election Day November 3, 2026 Find where you vote here!
+Charles Area Citizens sponsored General Election Candidate Forum for the MN Senate (20) and MN House of Representatives (20A) candidates Red Wing Get Out The Vote Rally with Jason Lohmann & Heather Arndt October 24, 2026 10 am - 12:30 pm Red Wing DFL Office 1320 Old West Main Street Red Wing MN 55066 This is a great opportunity for those still deciding on who to vote for.
+Stop by, talk to Jason and Heather about your concerns and any questions you may have.
+We’d love to meet you.
+See Event Lake City Get Out The Vote Rally with Jason Lohmann & Heather Arndt October 24, 2026 2 pm - 4:30 pm Hok Si La Park Lake City, MN This is a great opportunity for those still deciding on who to vote for.
+Stop by, talk to Jason and Heather about your concerns and any questions you may have.
+We’d love to meet you.
+See Event Wabasha Get Out The Vote Rally with Jason Lohmann & Heather Arndt October 25, 2026 1 pm - 3:30 pm VFW Post 4086 Wabasha MN This is a great opportunity for those still deciding on who to vote for.
+Stop by, talk to Jason and Heather about your concerns and any questions you may have.
+We’d love to meet you.
+See Event Election Day November 3, 2026 Find where you vote here!
 Precinct Locator Election Night Watch Party November 3, 2026 7 pm 22547 County 10 Blvd Zumbrota, MN 55992 Come out and support Jason on election night, hang out with friends and neighbors, and celebrate a successful campaign season!
 Food & drinks will be provided.
 We will be holding the event in our shed (heated!) and will be watching live updates on the election results during the event.

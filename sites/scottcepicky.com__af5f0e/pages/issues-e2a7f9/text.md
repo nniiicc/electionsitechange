@@ -17,4 +17,5 @@ We have abrogated far too much of our state’s rights to the federal government
 Government Regulations I will utilize the Republican approach of decreasing and minimizing regulations.
 Our approach ensures that small businesses will grow and allows private industry to provide excellent job opportunities with good wages and benefits so that all Tennessee workers can prosper.
 The only way government can create jobs is to create an environment where businesses can thrive.
-Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

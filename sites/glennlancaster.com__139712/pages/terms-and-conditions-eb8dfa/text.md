@@ -34,6 +34,19 @@ Children’s Online Privacy Protection Act (COPPA) Our Service does not address 
 We do not knowingly collect personally identifiable information from anyone under the age of 13.
 If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.
 If we become aware that we have inadvertently received Personal Data from anyone under the age of 13, we will take steps to remove that information from our records.
+SMS Messaging Terms Program Name : Glenn Lancaster Oregon Senate SMS Program By opting in to the Glenn Lancaster Oregon Senate SMS Program, you consent to receive recurring text messages from Glenn Lancaster at the mobile telephone number you provided.
+Messages may include campaign updates, announcements, event information, volunteer opportunities, fundraising messages, promotional or marketing messages, and other information related to Glenn Lancaster Oregon Senate.
+Consent : Consent to receive text messages is not a condition of purchase, donation, or participation.
+Message Frequency and Charges : Message frequency varies.
+Message and data rates may apply.
+Please contact your wireless provider if you have questions regarding your text messaging or data plan.
+Opt-Out : You may unsubscribe from SMS messages at any time by replying STOP to any message you receive from us.
+After you send STOP, you may receive a confirmation message indicating that you have been unsubscribed.
+You will no longer receive SMS messages from the program unless you opt in again.
+Help : For assistance, reply HELP to any SMS message or contact Glenn Lancaster Oregon Senate at Glenn@GlennLancaster.com or 971-396-6610.
+Carrier Disclaimer : Mobile carriers are not liable for delayed or undelivered messages.
+Privacy : Your participation in the SMS Program is subject to our Privacy Policy.
+Please review our Privacy Policy for information about how we collect, use, and protect your personal information.
 Changes to Terms We may modify these Terms at any time.
 It is your responsibility to review them periodically.
 Contact Us If you have any questions about these Terms and Conditions, you can contact us: • By email: Glenn@GlennLancaster.com • By visiting this page on our website: https://glennlancaster.com/contact-page/ • By phone number: 971.396.6610 Effective 12/12/2024 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.

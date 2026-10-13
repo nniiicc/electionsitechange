@@ -20,7 +20,7 @@ It’s time to help neighbors as they need.
 Stay safe in your clean up.
 God bless, — Representative Jennifer Fidler Alabama House District 94 ...
 See More See Less Today for iPhone - App Store apps.apple.com Find apps and games for iPhone, iPad, Mac, and more on the App Store.
-View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 6 Shares: 0 Comments: 1 1 Comments Comment on Facebook Jennifer Fidler #ago Once a month the Baldwin County ‘think tank’ gathers at Mama Lou’s.
+View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 8 Shares: 0 Comments: 1 1 Comments Comment on Facebook Jennifer Fidler #ago Once a month the Baldwin County ‘think tank’ gathers at Mama Lou’s.
 Today’s speakers include Corey Hill for Ag commissioner and Jim Ziegler for Public Service Commissioner. ...
 See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 35 Shares: 0 Comments: 2 2 Comments Comment on Facebook Jennifer Fidler #ago Memorable day in Mobile.
 The president came to Mobile and we had a groundbreaking for the new Bridge across the bay.

@@ -3,13 +3,7 @@ Let's Make Life Easier!
 Let's Make Life Easier!
 Let's Make Life Easier!
 Let's Make Life Easier!
-Help Fuel The Campaign....DONATE Get In Touch Candidate Endorsements Endorsed for the General Election Endorsed for the Primary & General Election Endorsed for the Primary & General Election The Illinois Nurses Association is an independent, Illinois-based union fighting for healthcare workers and our patients across the public and private sector.
-At the forefront fighting for healthcare workers’ rights to empower us all to be the best advocates for our patients and communities.
-Endorsed for the Primary & General Election Endorsed for the Primary & General Election Endorsed for the Primary & General Election Citizen Action/Illinois has led campaigns for fair taxes, affordable and quality health care, retirement security, campaign finance reform, marriage equality, voter registration and mobilization and stronger environmental and food safety protections.
-Endorsed for the General Election Endorsed for the Primary & General Election Endorsed for the General Election Sierra Club's mission is: To explore, enjoy, and protect the wild places of the earth; To practice and promote the responsible use of the earth's ecosystems and resources; To educate and enlist humanity to protect and restore the quality of the natural and human environment; And to use all lawful means to carry out these objectives.
-Endorsed for the Primary Election Endorsed for the Primary Election Endorsed for the General Election Equality Illinois and the Equality Illinois Institute brings the voices of LGBTQ+ people and allies to institutions of power across Illinois Endorsed for the Primary Election Endorsed for the Primary Election Endorsed for the Primary Election Personal PAC is a nonpartisan political action committee dedicated to protecting and advancing reproductive rights and equitable health care access by recruiting and electing officials at the state and local office in Illinois and holding them accountable.
-They envision equitable access to reproductive health care in Illinois without government interference.
-About the Candidate Mother.
+Help Fuel The Campaign....DONATE Get In Touch About the Candidate Mother.
 Daughter.
 Sister.
 Healthcare worker.
@@ -29,7 +23,9 @@ Living in Yorkville, with almost 15 years of experience in the healthcare, these
 Caroline knows that families need people they can trust, and that’s why she has stepped in to serve her community in Springfield.
 She has experienced the same struggles as most of those in her community and knows what would help improve the lives of people here.
 Caroline knows firsthand the families and folks of the 75th need someone they can trust.
-Show Less The Platform Serving The Community Caroline has been part of the Kendall County community for over 30 years, working tirelessly to make it a better place through volunteering and community outreach.
+Show Less The Platform Please send Caroline McCree to Springfield in 2027.
+Video paid for by Noah Readhead.
+Serving The Community Caroline has been part of the Kendall County community for over 30 years, working tirelessly to make it a better place through volunteering and community outreach.
 From helping the unhoused in Yorkville to leading a local women's group and organizing political rallies, she loves bringing people together for a common cause.
 Housing Solutions Caroline's decision to run for office was sparked by Yorkville’s recent ordinance on “public camping.” Having previously relied on public assistance soon after becoming a single mom, and more recently while supporting a homeless man she befriended, she has firsthand experience with the overwhelming complexity of navigating social services.
 Even individuals familiar with these systems often face significant barriers to accessing support.
@@ -59,13 +55,38 @@ This means less stress to all by reducing financial strains, improving access to
 We have much more in common than we have in differences.
 Let's lift the community up together!
 Please reach out if you'd like Caroline to stop by for a chat in person or if you'd like to request a yard sign.
-Upcoming Events SEPTEMBER EVENTS Saturday, September 5th 10:30am to 5:00pm - Visit Caroline at the Kendall County Democrats booth at Hometown Days in Yorkviile. https://www.yorkville.il.us/459/Hometown-Days-Festival Saturday, September 12th starting at 10:00am - Join us at the Grundy County Democrats office for a canvassing event to get the word out to the Grundy County community to support Caroline McCree for State Rep of the 75th District and Ernie Marcelain for State Senator of the 38th District.
-Grundy County Democrats Headquarters 103 E Jefferson St Morris, IL 60450 https://www.mobilize.us/organizeillinois2026/event/1019178/ Contact Us Better yet, see us in person!
+Candidate Endorsements Endorsed for the General Election Endorsed for the General Election Endorsed for the General Election Northern Illinois is ripe for change.
+Congresswoman Lauren Underwood founded the Farm Team to elect exceptional candidates to public office at the state and local levels.
+Building on grassroots energy, the Farm Team identifies, recruits, trains, supports, and elects community leaders to local office in the seven counties of Illinois’s 14th congressional district.
+Endorsed for the General Election Endorsed for the General Election Endorsed for the General Election The Illinois Nurses Association is an independent, Illinois-based union fighting for healthcare workers and our patients across the public and private sector.
+At the forefront fighting for healthcare workers’ rights to empower us all to be the best advocates for our patients and communities.
+Endorsed for the General Election Endorsed for the General Election Endorsed for the General Election Sierra Club's mission is: To explore, enjoy, and protect the wild places of the earth; To practice and promote the responsible use of the earth's ecosystems and resources; To educate and enlist humanity to protect and restore the quality of the natural and human environment; And to use all lawful means to carry out these objectives.
+Endorsed for the General Election Endorsed for the Primary & General Elections Endorsed for the General Election Planned Parenthood Illinois Action (PPIA) is an independent, nonpartisan, 501(c)4 not-for-profit organization formed as the advocacy and political arm of Planned Parenthood in Illinois.
+PPIA engages in educational and electoral activity, including public education campaigns, grassroots organizing, and legislative advocacy on behalf of c Show More Planned Parenthood Illinois Action (PPIA) is an independent, nonpartisan, 501(c)4 not-for-profit organization formed as the advocacy and political arm of Planned Parenthood in Illinois.
+PPIA engages in educational and electoral activity, including public education campaigns, grassroots organizing, and legislative advocacy on behalf of commonsense policies that protect and foster the sexual and reproductive health and rights of individuals, families, and communities.
+Show Less Endorsed for the Primary & General Elections Endorsed for the Primary & General Elections Endorsed for the Primary & General Elections Citizen Action/Illinois has led campaigns for fair taxes, affordable and quality health care, retirement security, campaign finance reform, marriage equality, voter registration and mobilization and stronger environmental and food safety protections.
+Endorsed for the Primary & General Elections Endorsed for the Primary & General Elections Endorsed for the Primary & General Elections Personal PAC is a nonpartisan political action committee dedicated to protecting and advancing reproductive rights and equitable health care access by recruiting and electing officials at the state and local office in Illinois and holding them accountable.
+They envision equitable access to reproductive health care in Illinois without government interference.
+Selected as a Gun Sense Candidate Selected as a Mental Health Now Candidate Selected as a Mental Health Now Candidate Gun safety is a winning issue at every level of the ballot.
+In the past few election cycles, voters like you have demanded candidates who will keep us safe.
+And together, we’ve elected gun sense champions up and down the ballot—from school boards to statehouses to the White House.
+There’s a lot at stake in our elections.
+Every day, nearly Show More Gun safety is a winning issue at every level of the ballot.
+In the past few election cycles, voters like you have demanded candidates who will keep us safe.
+And together, we’ve elected gun sense champions up and down the ballot—from school boards to statehouses to the White House.
+There’s a lot at stake in our elections.
+Every day, nearly 130 people in the United States are killed by guns, and more than 200 are shot and wounded.
+We are dedicated to creating a future free from gun violence—and that starts with electing candidates who will govern with gun safety in mind.
+That’s why we continue to lead major electoral engagement programs and grassroots-powered actions to support Gun Sense across the country.
+Show Less Selected as a Mental Health Now Candidate Selected as a Mental Health Now Candidate Selected as a Mental Health Now Candidate Mental Health Now is intended to empower voters who care about mental health to identify candidates who have committed to govern with mental health in mind.
+We encourage voters to do their own research, to remind candidates of their commitment to increasing access to care, improving crisis response, expanding youth services, and strength Show More Mental Health Now is intended to empower voters who care about mental health to identify candidates who have committed to govern with mental health in mind.
+We encourage voters to do their own research, to remind candidates of their commitment to increasing access to care, improving crisis response, expanding youth services, and strengthening the mental health workforce, and to make sure they know how important that commitment is to you.
+Show Less Endorsed for the Primary Election Selected as a Mental Health Now Candidate Endorsed for the Primary Election Equality Illinois and the Equality Illinois Institute brings the voices of LGBTQ+ people and allies to institutions of power across Illinois Upcoming Events Contact Us Better yet, see us in person!
 Watch for future events and meet & greets!
 Drop us a line!
 Drop us a line!
 Name Email* Where did you hear about us?
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Send Cancel Drop us a line!
-Lift Up the Community with Caroline Yorkville, Illinois Copyright © # Lift Up The Community with Caroline - All Rights Reserved.
+Paid for by McCree Fortitudine Yorkville, Illinois Copyright © # Lift Up The Community with Caroline - All Rights Reserved.
 Powered by

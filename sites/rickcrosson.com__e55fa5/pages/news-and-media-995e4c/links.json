@@ -1,23 +1,23 @@
 [
 {
 "text": "$100",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=100"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL?amount=100"
 },
 {
 "text": "$25",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=25"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL?amount=25"
 },
 {
 "text": "$250",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=250"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL?amount=250"
 },
 {
 "text": "$5",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=5"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL?amount=5"
 },
 {
 "text": "$50",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=50"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL?amount=50"
 },
 {
 "text": "Articles",
@@ -49,7 +49,7 @@
 },
 {
 "text": "Donate",
-"href": "https://secure.actblue.com/donate/crosson-primary"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL"
 },
 {
 "text": "Endorsements",
@@ -60,6 +60,10 @@
 "href": "https://www.youtube.com/watch?v=7LRQN8WIzbM"
 },
 {
+"text": "Former Green Bay School Board member Rick Crosson announces run for 8th Congressional District",
+"href": "https://www.greenbaypressgazette.com/story/news/politics/2025/08/18/rick-crosson-announces-run-for-congress-as-democrat-against-tony-wied/85710973007/"
+},
+{
 "text": "Fox 11",
 "href": "https://www.youtube.com/watch?v=h8396o3FxDQ"
 },
@@ -68,8 +72,8 @@
 "href": "https://rickcrosson.com/get-involved/"
 },
 {
-"text": "Green Bay Press Gazette",
-"href": "https://www.greenbaypressgazette.com/story/news/politics/2025/08/18/rick-crosson-announces-run-for-congress-as-democrat-against-tony-wied/85710973007/"
+"text": "Green Bay’s Rick Crosson runs for 8th Congressional District",
+"href": "https://wgbw.fm/news/2025/09/05/green-bays-rick-crosson-runs-for-8th-congressional-district"
 },
 {
 "text": "Group Photos",
@@ -109,7 +113,7 @@
 },
 {
 "text": "Other",
-"href": "https://secure.actblue.com/donate/crosson-primary"
+"href": "https://secure.actblue.com/donate/CROSSON-GENERAL"
 },
 {
 "text": "Outside the Box",
@@ -196,12 +200,12 @@
 "href": "https://www.youtube.com/watch?v=gL5Us0Cv_8E"
 },
 {
-"text": "Running in the Red",
-"href": "https://balloon-juice.com/2026/06/16/running-in-the-red-affordability-accountability-and-results/"
-},
-{
 "text": "Running in the Red – A True Hero Doesn’t Hesitate to Change the World",
 "href": "https://balloon-juice.com/2026/10/03/running-in-the-red-a-true-hero-doesnt-hesitate-to-change-the-world/"
+},
+{
+"text": "Running in the Red: Affordability, Accountability, and Results",
+"href": "https://balloon-juice.com/2026/06/16/running-in-the-red-affordability-accountability-and-results/"
 },
 {
 "text": "Spotify",
@@ -222,10 +226,6 @@
 {
 "text": "Videos",
 "href": "https://rickcrosson.com/news-and-media/#videos"
-},
-{
-"text": "WGBW",
-"href": "https://wgbw.fm/news/2025/09/05/green-bays-rick-crosson-runs-for-8th-congressional-district"
 },
 {
 "text": "Watch",
@@ -349,7 +349,7 @@
 },
 {
 "text": "[no text]",
-"href": "https://www.youtube.com/@RickCrossonForCongress"
+"href": "https://www.youtube.com/@CrossonforCongress"
 },
 {
 "text": "info@rickcrosson.com",

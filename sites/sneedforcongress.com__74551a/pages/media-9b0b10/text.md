@@ -2,9 +2,7 @@ top of page About Andrew Our Way Forward Healthcare Immigration Affordability La
 DONATE Media Updated Monday, October 5, 2026 CPP: $120 OVERVIEW Dale Strong is a career politician worth $25 million who supports wealthy DC insiders and corporate donors, not working families here in North Alabama.
 When we needed him most, he gave tax breaks to corporate special interest groups and the ultra-wealthy and let health insurance, utility bills, and day-to-day costs skyrocket.
 North Alabamians need someone in Congress who knows what it takes to build a business from the ground up and understands the problems that average Alabamians are facing.
-SUMMARY Likely independent and moderate voters across the district need to see on Huntsville Broadcast and districtwide radio that Dale Strong has sold North Alabamians out when it mattered most.
-Dale Strong voted to give nearly $70 billion in tax breaks to data centers that increase electricity and water bills.
-Dale Strong voted for the largest Medicaid cuts in history and to let health insurance premiums increase on Alabamians by as much as 300% [three-hundred percent] by ending the tax credits that working families and small businesses use to pay for their health coverage.
+SUMMARY Likely independent and moderate voters across the district need to see on Huntsville Broadcast and districtwide radio that Dale Strong has sold North Alabamians out when it mattered most. ​ Dale Strong voted for the largest Medicaid cuts in history and to let health insurance premiums increase on Alabamians by as much as 300%. ​ Dale Strong voted to give nearly $70 billion in tax breaks to data centers that increase electricity and water bills.
 Additional Information: Dale Strong voted for gate closures at Redstone Arsenal and job cuts across North Alabama (H.R.
-4, 2025; AL.com Dale Strong has raised prices for Alabama families by supporting illegal tariffs and the war in Iran.
-(Yellowhammer News, AL.com) Images of Andrew Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page
+4, 2025; AL.com , 2/20/25) Dale Strong has raised prices for Alabama families by supporting illegal tariffs and the war in Iran.
+(Yellowhammer News, AL.com , 9/11/26) Images of Andrew Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Meet James Talarico James is an eighth-generation Texan, former middle school teacher, and Presbyterian seminarian.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Meet James Talarico James is an eighth-generation Texan, former middle school teacher, and Presbyterian seminarian.
 As a state representative, he’s led the fight against the billionaire mega-donors and puppet politicians who have taken over Texas.
 Now, he’s running for U.S.
 Senate to take his fight against corruption to Washington and win power back for working people.

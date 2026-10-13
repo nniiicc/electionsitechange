@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Bill · S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Bill · S.
 4418 Lowering Input Costs for American Farmers Act Cuts phosphate fertilizer costs for American growers by roughly 20 to 25%, about $150 per ton, by ending the Biden-era duties on imports from Morocco.
 Phosphate is a critical nutrient for crop production, and right now farmers are paying prices that threaten their bottom line.
 This bill puts money back in the hands of the people feeding this country. — Sen.

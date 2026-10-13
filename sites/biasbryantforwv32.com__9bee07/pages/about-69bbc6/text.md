@@ -1,4 +1,4 @@
-Skip to content About Me Recent Updates Donate About Me Jennifer Bias Bryant is a West Virginian from the southern coalfields.
+Skip to content About Me My Platform Donate About Me Jennifer Bias Bryant is a West Virginian from the southern coalfields.
 Born and raised in rural Logan county, she now calls Boone county home with her husband (Dr.
 Deric Bryant) and youngest daughter.
 Their oldest is a member of the WV National Guard and lives in Virginia.

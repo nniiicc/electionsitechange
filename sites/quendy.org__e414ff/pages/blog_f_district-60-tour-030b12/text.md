@@ -10,5 +10,5 @@ Despite a slight hiccup with my bug, I’d call the evening a huge success.
 We ended the parade with a delicious meal at Dondie’s on the White River where we made a few new friends and enjoyed each others company!
 Another day with multiple reasons I need to fight for our small towns.
 Our current political system isn’t listening.
-#Peopleoverpolitics #vote4quendy #IndependentCandidate Share this post: Recent Posts District 60 Tour l Humnoke Oct 6, 2026 Overwhelmed with Gratitude Aug 31, 2026 People Over Politics Aug 24, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
+#Peopleoverpolitics #vote4quendy #IndependentCandidate Share this post: Recent Posts District 60 Tour l Carlisle + DesArc Oct 12, 2026 District 60 Tour l Humnoke Oct 6, 2026 Overwhelmed with Gratitude Aug 31, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
 Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

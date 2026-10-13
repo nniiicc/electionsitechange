@@ -1,5 +1,5 @@
 Early Voting: October 19th - October 31st. | Election Day: November 3rd.
-Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues & Endorsements Events Endorsements News Volunteer Contact Donate Professional Fire Fighters Association of South Carolina 2026 First Responder Legislator of the Year South Carolina's firefighters named Representative James Teeple their Legislator of the Year for his unwavering commitment to South Carolina’s first responders.
+Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues Events Endorsements News Volunteer Contact Donate Professional Fire Fighters Association of South Carolina 2026 First Responder Legislator of the Year South Carolina's firefighters named Representative James Teeple their Legislator of the Year for his unwavering commitment to South Carolina’s first responders.
 Endorsed by NRA-PVF & Gun Owners of America A proven, unwavering defender of the Second Amendment for the families of House District 116.
 Endorsed by Medal of Honor Recipient Maj.
 Gen.
@@ -35,7 +35,7 @@ Something went wrong — please try again.
 Join the team Accelerating results for House District 116 Knock doors, make calls, host a sign or write a check.
 Every hour helps us keep delivering for the Lowcountry.
 Volunteer Sign-Up Fighting for lower taxes, less red tape, better roads and the first responders who keep South Carolina safe.
-Explore Home Meet James Issues & Endorsements Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
+Explore Home Meet James Issues Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
 Something went wrong — please try again. © # James Teeple.
 Paid for by James Teeple for State House.
 Christian.

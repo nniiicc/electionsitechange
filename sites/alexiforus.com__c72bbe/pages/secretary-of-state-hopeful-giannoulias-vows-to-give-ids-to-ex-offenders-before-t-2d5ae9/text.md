@@ -7,6 +7,8 @@ Senate candidate also plans to eliminate the short-term correctional release car
 Other states — such as Florida, Oklahoma and Missouri — have already streamlined the process for IDs for people awaiting release from prison, according to a news release announcing Giannoulias’ policy proposal.
 Former Gov.
 Bruce Rauner signed legislation into law in late 2016 meant to make it easier for people leaving prisons to get a state identification card, but that process can be harder for those who don’t have access to the required birth certificate or Social Security card.
-Continue Reading at Chicago Sun Times Related Posts Voting Rights Keep Reading → Join me in supporting HR-1: the For The People Act The shocking images of the January 6th attack on our Capitol may have faded from the news, but make no mistake — our democracy is Keep Reading → African-American Leaders Rally Behind Giannoulias for Secretary of State Several Black elected officials – including state legislators, mayors and committeepersons – announced their support today for Democrat Alexi Giannoulias in the race for Illinois Secretary of State.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Continue Reading at Chicago Sun Times Related Posts Giannoulias Releases New Campaign Ad Featuring Congressman Jesús “Chuy” García Highlights Progressive Support for 2022 Secretary of State Campaign Keep Reading → Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Day.
+Keep Reading → Giannoulias Receives Support from Key Suburban Lawmakers Villivalam, Hernandez, Pierog joins other Democrats from Aurora and Kane County in endorsing Giannoulias’ SOS bid Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

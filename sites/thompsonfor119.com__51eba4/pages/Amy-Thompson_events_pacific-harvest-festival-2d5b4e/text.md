@@ -1,0 +1,3 @@
+About Amy Issues Get Involved Events Donate Now Home About Amy Issues Get Involved Events Donate Now Friday, October 16 | 5:00pm-10:00pm Pacific Harvest Festival Liberty Fields, Pacific Join me at the Franklin County Dems booth at the festival.
+Who knows, we may even have some fall weather for the weekend.
+Event Details Friday, October 16 5:00 pm - 10:00 pm Liberty Fields 101 W Pacific St Pacific, MO 63069 Get Directions General Events Share This Event Support Amy Thompson’s Campaign for Missouri Donate Now Thompson For 119 PO Box 101, Pacific, MO 63069 tel:(314) 520-6076 | thompsonfor119@gmail.com Rob Compton, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

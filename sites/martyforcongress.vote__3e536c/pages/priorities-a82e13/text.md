@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow Priorities Why Marty O'Donnell Is Fighting for Nevada’s Future Marty O'Donnell is running for Congress to be a strong, steady voice for Nevada's 3rd District, because our values, safety, and livelihoods are on the line .
+Close About Priorities Join Store Contact Yard Sign Donate Follow Priorities Why Marty O'Donnell Is Fighting for Nevada’s Future Marty O'Donnell is running for Congress to be a strong, steady voice for Nevada's 3rd District, because our values, safety, and livelihoods are on the line .
 Marty understands the challenges our communities face and the opportunities we deserve.
 He’s not interested in political games.
 He’s focused on delivering real results.

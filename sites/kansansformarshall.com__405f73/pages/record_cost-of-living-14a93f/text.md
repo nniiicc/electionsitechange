@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Senate Finance · Budget Cost of Living A $4 gallon of milk is a kitchen-table problem, not an abstraction.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Senate Finance · Budget Cost of Living A $4 gallon of milk is a kitchen-table problem, not an abstraction.
 Finding A $4 gallon of milk is a kitchen-table problem, not an abstraction.
 What's wrong.
 What it costs the patient.

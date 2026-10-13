@@ -1,6 +1,4 @@
-Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
-Affordability Everyday costs are putting real pressure on families across our communities.
+Sign Up for Office Hours Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Home About What I Stand For Contact Announcements & Upcoming Events Endorsements & Testimonials Affordability Everyday costs are putting real pressure on families across our communities.
 Basic necessities—like utilities—have become far too expensive, stretching household budgets and making it harder for people to plan for the future.
 Healthcare costs are another major burden.
 No one should have to worry that getting the care they need will create financial hardship, yet for many families, that is the reality they face today.

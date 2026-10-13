@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Releases New Ad: “False” Oct 2, 2026 | Press Release Back to Updates Marion, IA – Ashley Hinson launched a new ad for the general election, “False.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [ Watch Here ] “Josh Turek is lying.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Releases New Ad: “False” Oct 2, 2026 | Press Release Back to Updates Marion, IA – Ashley Hinson launched a new ad for the general election, “False.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [ Watch Here ] “Josh Turek is lying.
 Ashley Hinson doesn’t own a single share of public stock, and she voted to ban members of Congress from trading stocks.
 Josh Turek is just a big liberal who tells even bigger lies.” Hinson’s record of cleaning up Washington and rooting out corruption: Hinson voted to ban members of Congress from trading stocks.
 Hinson and her husband sold all their public stocks shortly after she was sworn into office and do not trade stocks.

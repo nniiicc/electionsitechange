@@ -1,4 +1,4 @@
-[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Get Involved Join our Coalitions Store Volunteer Contact X Donate Defending Our Freedoms Keeping Families Safe Learn More Combat Veteran.
+[email protected] 701 Gervais Street - Suite 150 - PO Box 156 - Columbia, SC 29201 Donate About Alan About Mike Platform Vote Get Involved Join our Coalitions Store Volunteer Contact X Donate Defending Our Freedoms Keeping Families Safe Vote Early Combat Veteran.
 Proven Prosecutor.
 Battle-tested Conservative.
 Combat Veteran Immediately after graduating from college, Alan Wilson answered the call and joined the South Carolina National Guard.

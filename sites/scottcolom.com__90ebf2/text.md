@@ -30,7 +30,10 @@ Holding accountable a corrupt sheriff who was trading favors for sexual material
 Scott has emphasized the importance of preventing crime by making sure criminals know they will be held accountable – and also pushing for more jobs and opportunities, which he knows is the best way to prevent crime.
 Northeastern Mississippi has embraced Scott’s approach.
 Since first winning election to his swing district in 2015, Scott has been re-elected twice with support from Republicans, Independents and Democrats, most recently with a winning margin that exceeded national Democrats by 10 percentage points.
-Learn More The Latest Updates More News October 1, 2026 “She’s Chicken”: District Attorney Scott Colom Challenges Cindy Hyde-Smith to Debate Him in Columbus Columbus, MS — Today, outside the WCBI TV station, U.S.
+Learn More The Latest Updates More News October 12, 2026 NEW AD: President Obama Tells Mississippi “It’s Time for a Change,” Urges Voters to “Send Scott Colom to the U.S.
+Senate” Jackson, MS — Today, District Attorney and U.S.
+Senate nominee Scott Colom launched a new ad featuring President Barack Obama, who speaks directly to Mississippians about Colom’s roots in the state, his faith and his record as district attorney....
+Read More October 1, 2026 “She’s Chicken”: District Attorney Scott Colom Challenges Cindy Hyde-Smith to Debate Him in Columbus Columbus, MS — Today, outside the WCBI TV station, U.S.
 Senate candidate and District Attorney Scott Colom challenged incumbent Senator Cindy Hyde-Smith to debate him in Columbus, Mississippi hosted by an outlet of her choosing....
 Read More October 1, 2026 WITHIN REACH: New Washington Post Report Highlights Growing Democratic Hope in Mississippi as Colom Builds Momentum Toward November Jackson, MS — In case you missed it, The Washington Post reports that District Attorney Scott Colom's campaign has Democratic officials and donors increasingly hopeful about flipping Mississippi's Senate seat, as an invigorated Democratic base and a depressed Republican electorate...
 Read More September 30, 2026 20-Year Mississippi Republican Voter Calls Out Hyde-Smith’s Vote Against Releasing the Epstein Files, Endorses Colom Southaven businessman Mark Vines, who appears in Colom’s new ad, says Hyde-Smith lost his vote when she voted to block the release of the Epstein files Vines: “If Cindy Hyde-Smith is not going to stand up to the the sexual...
@@ -39,9 +42,6 @@ Senate candidate and District Attorney Scott Colom challenged incumbent Senator 
 Read More September 28, 2026 MISSISSIPPI IN PLAY: WSJ, AP Spotlight Scott Colom’s Surging U.S.
 Senate Campaign As Polls Tighten Jackson, MS – In case you missed it, the Wall Street Journal and Associated Press just profiled District Attorney Scott Colom’s surging Senate campaign and why Democrats are bullish on Mississippi – and why Republicans are scared.
 Mississippi is in...
-Read More September 28, 2026 NEW: “I’ve Voted Republican for 20 Years, But I Won’t This November” — In New Colom Ad, DeSoto County Republican Says Hyde-Smith Has “Lost Her Way” Over Epstein Files Jackson, MS — Today, District Attorney and U.S.
-Senate nominee Scott Colom launched "Lost Her Way," a new ad running statewide across digital and connected television.
-In it, Mark Vines, a Southaven businessman who has voted Republican for 20 years,...
 Read More Let's Go!
 Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
 Txt HELP for help, STOP to end.

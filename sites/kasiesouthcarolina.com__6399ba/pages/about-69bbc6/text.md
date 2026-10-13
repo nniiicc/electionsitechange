@@ -20,13 +20,13 @@ She published her first novel, After December , in 2019 and her second, Before P
 She is on the South Carolina Humanities Speaker’s Bureau and has delivered talks for the Pat Conroy Literary Center, Aiken Book Festival, and the Lancaster Literary Arts Festival, among others.
 Kasie is a community leader.
 She was a two-term President of the South Carolina Writers Association, and still serves on the Board.
-She was the Richland County Chairperson for the South Carolina Libertarian Party (SCLP) for two terms and currently Chair of the State Committee for the SCLP.
+She was the Richland County Chairperson for the Richland County Libertarian Party for two terms and Chair of the State Committee for the South Carolina Libertarian Party (SCLP).
 Kasie led 1 Million Cups Columbia for two years and co-founded the Women’s Business Center at Columbia College in 2018.
 She was a reviewer for the SC Arts Commission Artist Venture Grant.
 Kasie is a Florence native who grew up in Herndon, Virginia, but returned to South Carolina when she enrolled at Clemson University in 1995.
 Her maternal family, the Johnsons, still reside in Florence and remain faithful IPTAY members.
 Her mother and stepfather live in the Upstate, a stone’s throw from Death Valley.
-Kasie resides in Blythewood, S.C. with her husband, Charlie, a nurse, and their 18-year-old daughter who is attending Clemson University this fall.
+Kasie resides in Blythewood, S.C. with her husband, Charlie, a nurse, and their 19-year-old daughter who is attending Clemson University this fall.
 Big government tells us we can’t be trusted and that we can’t trust our neighbors.
 That is not true.
 I believe in small government.

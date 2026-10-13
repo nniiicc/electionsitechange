@@ -1,5 +1,5 @@
 Saltar al contenido principal ¿Se mudó?
-Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar ← Todas las propuestas Propuesta 02 Escuelas Fuertes y Oportunidades Locales Cada niño merece un buen comienzo y un aula sólida.
+Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar ← Todas las propuestas Propuesta 03 Escuelas Fuertes y Oportunidades Locales Cada niño merece un buen comienzo y un aula sólida.
 Cada familia merece un camino asequible hacia un título útil, capacitación técnica o un buen empleo.
 Mi compromiso Evaluar la política educativa según lo que realmente hace por las familias, los estudiantes y los maestros.
 900 Familias de Utah empezaron a perder la asistencia para el cuidado infantil el 1 de octubre de 2026, tras una baja de unos $20 millones en fondos federales. $11,347 Utah gastó $11,347 por estudiante de escuela pública en el año fiscal 2024, el segundo más bajo entre los 50 estados.
@@ -54,5 +54,5 @@ Ambas cifras son de la Oficina del Censo de EE.UU. y no están ajustadas por inf
 La encuesta de gasto de maestros es a nivel nacional.
 Los reportajes de prensa sitúan la baja federal para el cuidado infantil entre $21 y $22 millones, por eso decimos “unos $20 millones”.
 Defender a las familias de Utah Ayude a llevar esta conversación a su vecindario.
-Unirse a la Campaña Ver las Garantías de Servicio → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 Pagado por Alan Jimenez.
+Unirse a la Campaña Siguiente: Gobierno Limpio → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 Pagado por Alan Jimenez.
 Inicio Cómo Votar Propuestas Participe Donar ↗ English Privacidad Términos de Textos alanforutah@outlook.com Facebook ↗ Instagram ↗

@@ -12,6 +12,7 @@ Now, I’d love to see even more events, house parties, rallies, and opportuniti
 We also need volunteers to knock on doors, make phone calls, send texts, spread the word, and do whatever else you can to help us win.
 We are in it to win it!
 Let’s get to work and finish strong in November!
+Recent Posts See All Crunch Time!!!
 SUBSCRIBE TO THE BUTLER BULLETIN Learn about the latest Campaign News and upcoming Community Events Enter your email here * First name * Last name * Email * Phone Yes, subscribe me to your newsletter. * Yes, I'd like to volunteer!
 SUBSCRIBE Mail Facebook © # Cynthia Butler for Florida.
 All rights reserved. ​ Political advertisement paid for and approved by Cynthia Butler for Florida, Democrat for Florida State House of Representatives District 75 ​ Terms & Conditions • Privacy Policy • Accessibility Statement bottom of page

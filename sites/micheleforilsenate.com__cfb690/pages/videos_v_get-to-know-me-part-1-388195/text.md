@@ -2,6 +2,6 @@
 I'm Michele Clark!
 Next Get to Know Me (part 2) You Might Also Like Hi!
 I'm Michele Clark!
-Child Care Assistance...It's not just for people with kids Get to Know Me (part 2) The Illinois Property Tax Problem Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
+The Illinois Property Tax Problem Get to Know Me (part 2) Child Care Assistance...It's not just for people with kids Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
 Algonquin Rd.
 #7203 Algonquin, IL 60102 Contact info@friendsofmicheleclark.com

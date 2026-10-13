@@ -1,4 +1,4 @@
-Skip to main content Home Meet Nisha On the Issues Get Involved Endorsements Media Register to Vote Donate Donate Privacy Privacy Policy Last updated: December 20, 2025 This policy explains how Friends of Nisha Lodhavia (the "Campaign") collects, uses, and shares information when you visit this site, volunteer, or donate.
+Skip to main content Meet Nisha On the Issues Get Involved Endorsements Register to Vote Media Photos & media Platform Donate Privacy Privacy Policy Last updated: December 20, 2025 This policy explains how Friends of Nisha Lodhavia (the "Campaign") collects, uses, and shares information when you visit this site, volunteer, or donate.
 Information we collect Information you provide, such as name, email address, phone number, volunteer interests, and any message you submit through our forms.
 Donation details shared with us by ActBlue, including contact information and contribution data required for campaign finance compliance.
 Payment card details are handled by ActBlue and are not stored by the Campaign.

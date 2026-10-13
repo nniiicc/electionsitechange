@@ -10,7 +10,8 @@ Instead, it is doing things to us .
 Our elected officials are far more concerned about politics than service.
 It is time to change that.
 Restoring trust in government means electing representatives who want to serve and listen to the people.
-Key Issues Meet Josh Kendrick I was born in Athens, Georgia, and moved to Greenville as a baby.
+Key Issues Chip in to help.
+It’s time for representation you can trust to do the right thing. $10 $25 $50 $100 Other $250 Meet Josh Kendrick I was born in Athens, Georgia, and moved to Greenville as a baby.
 I was raised here and graduated from J.L.
 Mann High School in 1995.
 I attended Clemson University and graduated with a degree in marketing in 1999.
@@ -45,10 +46,10 @@ We need access to housing and jobs.
 We need working families to be able to take care of children without being stressed.
 We need to keep more of our money and spend less of it.
 Those solutions are possible, but only when government works for you.
-Chip in to help.
-It’s time for representation you can trust to do the right thing. $10 $25 $50 $100 Other $250 Stay Connected .
+Support the Campaign .
+Request a Postcard Packet Request a Yard Sign Request a Phone Banking List Stay Connected .
 Sign up for campaign updates, event invitations, and ways to get involved.
-Request a Postcard Packet Request a Yard Sign Request a Phone Banking List Volunteer!
+Volunteer!
 RSVP to receive reminders of volunteer opportunities, meeting locations, and other ways to get involved.
 Find Your District Paid for by Josh Kendrick for SC House P.O.
 Box 5471 Greenville, SC 29606

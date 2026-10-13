@@ -12,4 +12,4 @@ On reproductive rights: Tina said she will never stop fighting to defend your ri
 10 11 12 13 14 ...
 20 ... » Last » Join us!
 Fighting for progress takes all of us.
-Join Team Tina today and become part of the movement fighting for Oregon’s future. press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+Join Team Tina today and become part of the movement fighting for Oregon’s future. info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

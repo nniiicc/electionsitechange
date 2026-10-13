@@ -107,7 +107,7 @@ So, you can tell a lot about someone by how they participate in meetings.
 Rick Crossen has attended our Veterans For Peace meetings regularly.
 His input and leadership has been consistently insightful and pragmatic while being respectful of other participants – a real asset for congress and Dems.
 With his character values and people skills, I believe we have the right candidate for this office.
-Organizations Wisconsin Bricklayers and Allied Craftworkers Mental Health Now Moms Demand Action UAW Voces de la Fronterra Wisconsin AFL-CIO Wisconsin Education Association Council National Education Association (NEA) Wisconsin Teamsters Joint Council No.
+Organizations Wisconsin Bricklayers and Allied Craftworkers (BAC) Mental Health Now Moms Demand Action United Autoworkers (UAW) Voces de la Fronterra Wisconsin AFL-CIO Wisconsin Education Association Council (WEAC) National Education Association (NEA) Wisconsin Teamsters Joint Council No.
 29 Testimonials Your browser does not support this video.
 Your browser does not support this video.
 Your browser does not support this video.

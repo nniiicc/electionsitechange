@@ -13,6 +13,6 @@ As a private citizen and attorney, I have assisted a King County voter initiativ
 The campaign was sued by the City of Seattle and a coalition of groups who will operate an injection site in order to block the initiative from a public vote, and I represented the campaign in superior court (the case is now pending before the Supreme Court).
 As your state representative, I’ve sponsored bills to prohibit these injection sites and offered similar amendments to virtually every appropriations bill and public health bill that has come to the House floor.
 Unfortunately, the majority party has so far relied on parliamentary tactics to avoid any vote or even debate on the topic.
-If I return to Olympia, I’ll continue this fight, not stopping until heroin injection sites are as illegal as heroin itself. —Drew Current Events More For You Rep.
-Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Green River Community College in Enumclaw will host candidate forum In the News Transportation package offers relief to Auburn drivers In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+If I return to Olympia, I’ll continue this fight, not stopping until heroin injection sites are as illegal as heroin itself. —Drew Current Events More For You Tri-City Herald: “We Agree” with Rep.
+Stokesbary In the News Third major police group backs Drew Stokesbary Endorsements “The trouble with politicians” In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

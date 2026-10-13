@@ -24,7 +24,7 @@ On four of those five, between 14 and 33 Republicans voted yes and Mackenzie sti
 No Blank Checks A firm that gets a tax break must share the deal.
 Job, road, and water promises should be in writing—and have teeth.
 Endorsed Climate Groups Are With Meriam Conservation Voters of Pennsylvania, Climate Cabinet, and Lead Locally have endorsed her.
-Conservation Voters of Pennsylvania Climate Cabinet Lead Locally See all endorsements → Compare the Candidates See how Meriam and Milou Mackenzie compare on every issue.
+Clean Air Action Conservation Voters of Pennsylvania Climate Cabinet Lead Locally See all endorsements → Compare the Candidates See how Meriam and Milou Mackenzie compare on every issue.
 Compare → Join the team Data center rules are being written now Help Meriam talk to voters about who pays, who decides, and who gets heard.
 Get Involved Donate Meriam Sabih for Pennsylvania House of Representatives, District 131 Campaign Meet Meriam Endorsements Get Involved Issues Affordability Data Centers Healthcare Access Education Environment Gun Safety Information Vote Compare Candidates FAQ Contact contact@meriamforpa.com Prepared and Paid for by Friends of Meriam Sabih.
 Privacy Policy Accessibility

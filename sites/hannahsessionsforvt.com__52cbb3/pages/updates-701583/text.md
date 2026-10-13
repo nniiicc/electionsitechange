@@ -1,4 +1,4 @@
-Skip to content Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources DONATE DONATE DONATE DONATE DONATE DONATE Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Updates hannahsessionsforvt Parent, farmer, business owner, artist, candidate for VT Senate for Addison County, Rochester, Huntington and Buels Gore Rolling rolling rolling all the way to November 3!
+Skip to content Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources DONATE DONATE DONATE DONATE DONATE DONATE Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Updates hannahsessionsforvt Parent, farmer, business owner, artist, candidate for VT Senate for Addison County, Rochester, Huntington and Buels Gore Thank you, Johanna ❤️ Rolling rolling rolling all the way to November 3!
 Beautiful display of PRIDE in Middlebury today.
 Pa Festive fall canvass crew in Bristol!
 Lots of grea Thank you, Linda!
@@ -8,8 +8,7 @@ Throwback to a week ago when @bykerforvermont and Look at this great group ready
 Thank you, Susie!
 Thank you to ALL who made this day on the campaign Sessions with Sessions in a town near you!
 And com Thank you, Mike!
-Enjoy some playful goats and a very serious messag A great canvassing crew and a lovely Sunday at the Proud to be recognized as a Child Care Champion by Thank you Rochester and New Haven for amazing comm Thank you, Marjorie!
-Load More Follow on Instagram Meet Our Amazing Team CAMPAIGN MANAGER : Laura King TREASURER : Erin Ruble SECRETARY & ASSISTANT TREASURER : Greg Bernhardt Why I’m Running for Vermont State Senate April 10, 2026 | by Hannah Sessions I’m grateful to be featured in the Addison Independent following the launch of my campaign for Vermont State Senate.
+Enjoy some playful goats and a very serious messag A great canvassing crew and a lovely Sunday at the Proud to be recognized as a Child Care Champion by Thank you Rochester and New Haven for amazing comm Load More Follow on Instagram Meet Our Amazing Team CAMPAIGN MANAGER : Laura King TREASURER : Erin Ruble SECRETARY & ASSISTANT TREASURER : Greg Bernhardt Why I’m Running for Vermont State Senate April 10, 2026 | by Hannah Sessions I’m grateful to be featured in the Addison Independent following the launch of my campaign for Vermont State Senate.
 In...
 Read More → Hannah Sessions for Vermont Is Officially Underway January 9, 2026 | by hannahsessions We're officially underway!
 Read More → Get involved Get updates, take action, and help build a better Vermont; join us today.

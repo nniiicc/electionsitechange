@@ -1,5 +1,5 @@
 Early Voting: October 19th - October 31st. | Election Day: November 3rd.
-Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues & Endorsements Events Endorsements News Volunteer Contact Donate About Meet James South Carolina House District 116 Christian.
+Home About Meet James Why He Ran Issues Events Endorsements News Volunteer Contact Volunteer Donate Home Meet James Issues Events Endorsements News Volunteer Contact Donate About Meet James South Carolina House District 116 Christian.
 Conservative.
 Veteran.
 His story From a Hospital Room to the State House Floor.
@@ -42,7 +42,7 @@ Jude and begins the campaign for a South Carolina affiliate.
 2025 Named Chairman of the Education and Administrative Regulations Subcommittee and selected for the SCDOT Modernization Committee.
 2026 Named PFFASC First Responder Legislator of the Year.
 Fighting for lower taxes, less red tape, better roads and the first responders who keep South Carolina safe.
-Explore Home Meet James Issues & Endorsements Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
+Explore Home Meet James Issues Events Endorsements In the News & Events Volunteer Contact Get Involved Donate via WinRed Facebook: JamesTforSC Request a yard sign Newsletter Email address Subscribe Thanks — you're subscribed.
 Something went wrong — please try again. © # James Teeple.
 Paid for by James Teeple for State House.
 Christian.

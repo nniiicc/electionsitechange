@@ -7,7 +7,10 @@ Sixty key votes, and sixty times Senator Holscher stood with working Kansans.”
 Adam Hamilton and Cindy Holscher have demonstrated that they will stand with working families and federal employees who serve Kansans every day.” Kansas National Education Association through the Kansas Political Action Committee Labor Union “The Kansas Political Action Committee recommended Cindy Holscher for governor because, throughout her service in the Kansas Senate, she has consistently advocated for public education.
 This is not the first time KPAC has recommended Cindy.
 She was also recommended as a Friendly Incumbent in the 2024 Kansas Senate race.
-Cindy understands that public schools are the foundation of thriving communities.” AFT-Kansas Labor Union Republicans for Cindy “Members of Republicans for Cindy include: Sandy Praeger, Former Kansas Insurance Commissioner, State Senator, and State Representative Rep.
+Cindy understands that public schools are the foundation of thriving communities.” AFT-Kansas Labor Union Missouri-Kansas-Nebraska Conference of Teamsters ““Cindy Holscher understands that working people are the backbone of Kansas, and she has the record to prove it.
+In the legislature, she has always sided with workers and our families.
+As governor, she will work to create good-paying jobs and to bring down the cost of living.
+The Missouri-Kansas-Nebraska Conference of Teamsters is proud to endorse Cindy Holscher for governor of Kansas.”” Read more → Republicans for Cindy “Members of Republicans for Cindy include: Sandy Praeger, Former Kansas Insurance Commissioner, State Senator, and State Representative Rep.
 Don Hineman, Former Majority Leader and State Representative Rep.
 Kent Thompson, District 9 (House Majority Whip) Eric Kirsch, Wabaunsee County Sheriff Sen.
 Mary Jo Taylor, District 33 Rep.

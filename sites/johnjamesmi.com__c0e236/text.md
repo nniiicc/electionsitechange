@@ -11,14 +11,10 @@ What We're Fighting For Join the Team Our Freedom Agenda The Flight Plan See the
 Read the pillar → 02 Excellent Schools Reading, math and skilled trades first — with parents in charge of their children's education.
 Read the pillar → 03 Safe Neighborhoods Back the blue, prosecute violent crime and secure every neighborhood from Detroit to the U.P.
 Read the pillar → 04 Lansing Answers to You Transparency, term limits enforcement and an end to backroom deals with your tax dollars.
-Read the pillar → Latest updates Latest News & Events All news → Press Release | October 6, 2026 Michigan Manufacturers Association Endorses John James for Governor Michigan Manufacturers Association endorsed John James for governor, citing his business experience, manufacturing agenda, and plan to strengthen Michigan’s economy, workforce, and competitiveness.
-Read more → Press Release | October 5, 2026 John James and Gov.
-Tate Reeves Outline Plan to Bring the Mississippi Miracle to Michigan’s Failing Schools John James joined Gov.
-Tate Reeves in Livonia to outline an education plan focused on literacy, accountability, parents, teachers, and bringing Mississippi-style school reforms to Michigan.
-Read more → Press Release | October 1, 2026 BREAKING: Ohio & Indiana deliver gas tax relief.
-What is Michigan waiting for?
-“Democrats in Lansing can suspend the gas tax today and they are choosing not to.
-Your pain is their plan.” Read more → Social updates War Room John James @johnjamesmi 𝕏 Aug 7, 2026 My message to the next generation: Freedom, not Socialism, is your birthright.
+Read the pillar → Latest updates Latest News & Events All news → Press Release | October 9, 2026 As Extremism Threatens American Values, John James Releases Powerful New Ad: Love of Country Is Not Partisan John James released a new ad featuring his sons raising the American flag and reciting the Pledge of Allegiance, calling for unity and defending American values.
+Read more → In the News | October 8, 2026 John James Momentum Surges After Dominant Debate Performance, Democrat Sheriff Crosses Party Lines to Endorse John James continued building momentum after the debate with a cross-party endorsement from Democrat Saginaw County Sheriff William Federspiel, a Freeland campaign stop, and support from the LIBRE Initiative.
+Read more → Press Release | October 6, 2026 John James Wins Debate, Drawing a Clear Line Against Corrupt Lansing Liar Jocelyn Benson John James said the debate showed a clear contrast between his plan to lower costs, create jobs, fix schools, keep communities safe, and Jocelyn Benson’s record in Lansing.
+Read more → Social updates War Room John James @johnjamesmi 𝕏 Aug 7, 2026 My message to the next generation: Freedom, not Socialism, is your birthright.
 View on X → John James @johnjamesmi 𝕏 Oct 1, 2025 Hey @TheRevAl & MSDNC — THE Black Congressman from Michigan here 👋🏾.
 I’ve got a message and an invite: come to Detroit for a debate.
 Let’s talk about how Democrat control has failed families in Detroit neighborhoods for the past six decades and how conservative principles can h View on X → John James @johnjamesmi 𝕏 Jun 27, 2025 CNN claimed President @realDonaldTrump was violating the Constitution.

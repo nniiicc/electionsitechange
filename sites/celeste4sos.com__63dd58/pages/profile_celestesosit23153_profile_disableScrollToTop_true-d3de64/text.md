@@ -6,6 +6,6 @@ Online advertising.
 Possibly a movie screening of the 2012 Chilean film “No” – maybe on my birthday.
 The best birthday present would be 1.5 million Coloradans voting for me!
 Please share your...
-6 0 Celeste Landry for Secretary of State P.O.
+8 0 Celeste Landry for Secretary of State P.O.
 BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
 Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

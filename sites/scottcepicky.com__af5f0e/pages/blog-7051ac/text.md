@@ -15,4 +15,5 @@ Tom Stewart Aug 7, 2019 5 min read Cepicky says he’s running for re-election B
 Scott Cepicky, R-Columbia,...
 Tom Stewart Jul 20, 2019 6 min read We applaud state Rep.
 Scott Cepicky By James Bennett jbennett@c-dh.net Posted Mar 23, 2019 at 11:02 AM Updated Mar 23, 2019 at 5:54 PM The Tennessee State Fair would be a...
-Tom Stewart Mar 25, 2019 2 min read Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items. bottom of page
+Tom Stewart Mar 25, 2019 2 min read Paid for by the Committee to Elect Scott Cepicky, Ken McArthur, Treasurer HOME MEET SCOTT ISSUES UPDATES FROM THE CAPITOL NEWS More Use tab to navigate through the menu items.
+Privacy Policy bottom of page

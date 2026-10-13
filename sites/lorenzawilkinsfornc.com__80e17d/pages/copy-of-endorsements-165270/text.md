@@ -13,5 +13,6 @@ Supporting my commitment to affordable healthcare, strong family supports, and p
 Greater Than Honored to be endorsed by Greater Than for my commitment to thoughtful, community-focused leadership for NC House District 25.
 Sierra Club Honored to be endorsed by the Sierra Club for my commitment to protecting our environment and building healthier, more resilient communities.
 Down Home North Carolina Honored to be endorsed by Down Home North Carolina for my commitment to working families and stronger small-town and rural communities.
+Utility Fairness NOW Honored to be recognized as a Candidate for Fairness for my commitment to affordable, reliable energy and fair energy leadership for Nash County.
 GET INVOLVED Support Lorenza DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for your support!
 Paid for by Committee to Elect Lorenza Wilkins bottom of page

@@ -2,7 +2,7 @@ top of page Home About Me Testimonials Blog Donate Contact Blog The Importance o
 Anthony Kathol Jul 17 3 min read Featured Blog Post Join me on the Kathol for District 27 State Senate Campaign "Freedom Train" All Aboard!!!
 The Kathol for District 27 State Senate Campaign "Freedom Train" #ago A Challenge to all Men Aged 18 to 35 District 27 State Senate Candidate Anthony Kathol offers a challenge to young men between the ages of 18 and 25.
 Check out my video to find out.
-#ago A Summer of Parades Across District 27 State Senate Candidate Anthony Kathol participates in his final parade of the summer, celebrating America's 250th birthday one last time.
+Oct 5 A Summer of Parades Across District 27 State Senate Candidate Anthony Kathol participates in his final parade of the summer, celebrating America's 250th birthday one last time.
 Sep 29 Putting South Dakota Politicians "Out to Pasture" in November Here is my latest campaign ad about what I like about South Dakota.
 It's political satire about putting two of our local politicians "out to pasture" this November.
 Check out the YouTube video.

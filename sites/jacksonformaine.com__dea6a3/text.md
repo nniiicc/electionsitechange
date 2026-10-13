@@ -1,4 +1,6 @@
-Skip navigation menu NEW: RALLY WITH BERNIE SANDERS IN BANGOR, LEWISTON, AND BIDDEFORD, OCTOBER 10-11 RSVP About Troy Endorsements Priorities News Volunteer Events Vote DONATE MAINER BY BIRTH.
+Skip navigation menu Early voting is underway through October 29.
+Election Day is November 3.
+GET VOTING INFO About Troy Endorsements Priorities News Volunteer Events Vote DONATE MAINER BY BIRTH.
 LOGGER BY TRADE.
 SENATOR FOR THE PEOPLE.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and opting in, you consent to receive voter contact, donation asks, and informational messages from Troy Jackson for Maine.

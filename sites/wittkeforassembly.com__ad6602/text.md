@@ -12,7 +12,7 @@ He is an avid supporter of the work of the Norway Community Fund, Raymond Commun
 Bob works closely with The Racine Area Manufacturers &amp; Commerce (RAMAC) and the Racine County Economic Development Corp. on business issues impacting our community.
 Send Bob back to Madison so he can continue to be a strong advocate for the communities he represents.
 FINANCE PROFESSIONAL Bob has over 30 years of experience in private industry tax and accounting.
-Bob's private industry perspective and financial expertise continues to serve you as he works to reduce your tax burden putting more money in your pocket during these high inflationary times.
+Bob’s private industry perspective and financial expertise continues to serve you as he works to reduce your tax burden putting more money in your pocket during these high inflationary times.
 Bob received an award from the Wisconsin Institute of CPAs (WICPA) for his pro-taxpayer work.
 This included two pieces of legislation Bob authored that provided over $600M in tax relief for Wisconsin small businesses and restaurants.
 Re-elect Bob so his expertise works for you in Madison during these challenging economic times.
@@ -25,6 +25,6 @@ The rising cost of living or doing business, increasing crime rates, and a faili
 I believe my track record demonstrates my ability to serve the residents of the 63rd District well.
 Send me back to Madison so I can continue to deliver results for you on policies that put more money in your pocket during these inflationary times, keep you safe in your communities, and reform our education system to focus solely on improving student outcomes in reading and math.
 I would be grateful to earn your vote on November 3rd!
-DONATE TO BOB'S CAMPAIGN Bob relies on the generosity of the people he serves to keep his campaign going strong.
+DONATE TO BOB’S CAMPAIGN Bob relies on the generosity of the people he serves to keep his campaign going strong.
 Please consider investing what you can spare to help send Bob back to Madison to work on your behalf!
 Contact Bob Robert Wittke for Assembly 11 Sandalwood Court Racine, WI 53402 wittkeforassembly@gmail.com 262-639-0964 PAID FOR BY ROBERT WITTKE FOR ASSEMBLY

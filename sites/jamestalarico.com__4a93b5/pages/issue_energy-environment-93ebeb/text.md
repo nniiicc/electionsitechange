@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Energy & Environment Texas is the state that put a man on the moon.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Energy & Environment A Reliable Grid and Lower Energy Bills Will the Texas grid hold this winter?
+James Talarico will weatherproof the grid, lower electric bills, and keep Texas the world’s energy leader with an all-of-the-above strategy that protects good-paying oil and gas jobs and grows wind, solar, and geothermal.
+Texas is the state that put a man on the moon.
 We’re the state that pioneered ranching, computers, and modern energy.
 If any state can figure out how to grow our economy, lower costs, and combat climate change, it’s Texas.
 We’re the energy leader of the world — and as Senator, I will work tirelessly to ensure our state not only maintains, but extends that innovative leadership for generations to come so that Texans always have access to reliable, affordable energy.
@@ -7,7 +9,12 @@ We can pioneer innovative ways to streamline permitting processes without compro
 I will work tirelessly to ensure our state not only maintains, but extends that innovative leadership for generations to come. — James Talarico — And we can better prepare for climate disasters instead of constantly being caught flat-footed when they hit our state.
 Just in the last decade, Texans have faced historic droughts, devastating wildfires, multiple “500-year” floods, and one of the deadliest winter storms in our state’s history — which killed hundreds of our fellow Texans.
 That kind of incompetence in the face of increasingly frequent climate disasters is completely unacceptable — and I will do everything in my power to ensure Texans never face the consequences of that level of unpreparedness ever again.
-My Priorities in the U.S.
+This new war in Venezuela is deeply corrupt.
+I will never vote to send someone’s son or daughter to war to make oil executives richer. pic.twitter.com/wxBD9B60dS — James Talarico (@jamestalarico) January 5, 2026 Gas prices are surging because of this new war in Iran.
+I’m calling for a suspension of the federal gas tax — which would immediately drop the price of gas by 18 cents a gallon.
+Suspend the gas tax.
+End the war in Iran.
+Make life more affordable. pic.twitter.com/HQ5rQ8c6I2 — James Talarico (@jamestalarico) April 30, 2026 My Priorities in the U.S.
 Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .

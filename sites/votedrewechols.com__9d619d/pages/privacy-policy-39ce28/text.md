@@ -1,4 +1,4 @@
-0 Skip to Content About Drew Priorities DONATE Open Menu Close Menu About Drew Priorities DONATE Open Menu Close Menu About Drew Priorities DONATE Privacy Policy Who we are Our website address is: https://www.votedrewechols.com/ .
+0 Skip to Content About Drew Priorities Open Menu Close Menu About Drew Priorities Open Menu Close Menu About Drew Priorities Privacy Policy Who we are Our website address is: https://www.votedrewechols.com/ .
 Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/ .
@@ -44,4 +44,4 @@ Please make sure you review those separate Privacy Policies, located on our webs
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 No mobile information will be shared with third parties/affiliates for marketing/promotional purposes.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-Privacy Policy DONATE Paid For by Friends of Drew Echols
+Privacy Policy Paid For by Friends of Drew Echols

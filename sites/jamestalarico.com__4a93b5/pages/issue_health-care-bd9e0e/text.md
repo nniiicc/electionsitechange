@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Health Care When I was 28 years old, I almost died.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Health Care Lower Costs and Coverage Texans Can Count On James Talarico capped insulin at $25 a month in Texas and got it through a Republican legislature.
+In the Senate, he’ll protect Texans’ health insurance and Medicaid, lower drug costs and medical debt, and end Texas’ maternal mortality crisis.
+When I was 28 years old, I almost died.
 I was running in my first race for the Texas House.
 I decided to walk the entire length of my district — 25 miles in one day — holding town halls along the way.
 I wasn’t worried about my ability to finish the walk — I hike Big Bend every year!
@@ -17,8 +19,7 @@ It’s time to take our fight for guaranteed health care to our nation’s capit
 But there’s so much more to do.
 Republicans in DC just passed the largest transfer of wealth in American history with their “Big Ugly Bill.” They slashed Medicaid and Medicare, are kicking 15 million people off their health insurance, and raised premiums for millions more — all to give yet another tax break for billionaires.
 It’s time to take our fight for guaranteed health care to our nation’s capital and finally put the lives of Americans over the profits of billionaire mega-donors and special interests.
-Because health care is a human right.
-WE DID IT!!
+Because health care is a human right. @teamtalaricohq You need to hear this. ♬ original sound – Team Talarico @teamtalaricohq You need to hear this. ♬ original sound – Team Talarico WE DID IT!!
 We capped the out-of-pocket cost of insulin in Texas!
 Our bill is headed to the Governor’s desk for a signature!
 #txlege https://t.co/EMe4zfph4n — James Talarico (@jamestalarico) May 24, 2021 When I was diagnosed with type 1 diabetes, I paid $684 for my first 30-day supply of insulin.
@@ -41,13 +42,15 @@ If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .
 We want to hear from you!
 Allow every American — regardless of their age — to join Medicare: Provide an affordable not-for-profit health care option for every American, while also bringing down costs for those who don’t participate by increasing competition with private insurance.
+Break up Big Medicine : Support bipartisan antitrust legislation to stop vertically integrated health-care conglomerates, including pharmacy benefit managers, insurance companies, big hospital networks, and other healthcare monopolies that put profit above the well-being of patients.
 Lower prescription drug costs: Increase price transparency and negotiating power to ensure fair pricing, incentivize the development and approval of generic drugs, institute caps on out-of-pocket costs, and regulate pharmacy benefit managers to ensure they’re not up-charging patients.
 Protect health coverage and lower premiums: Protect and improve the Affordable Care Act (ACA) and reverse the Trump Administration’s dangerous cuts to the ACA enhanced tax credits, Medicare, and Medicaid that will kick 15 million Americans off their insurance and raise premiums for millions more.
 Reform the prior authorization system: Ensure that insurance companies do not arbitrarily deny patients the medication and treatments that their health care providers have determined necessary.
+Address Texas’ maternal mortality crisis : End maternal care deserts, improve data collection, provider training, and investment in maternal health research, extend eligibility for the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), expand the Healthy Start Program, and guarantee all new mothers can take time off work to tend to their health.
 Restore access to reproductive health care in Texas: Codify Roe v.
 Wade and protect access to contraception and IVF so that families can get the reproductive care they need and so that women are no longer dying needlessly due to Texas’ dangerous abortion ban.
 Save rural hospitals: Prioritize recruiting and retaining rural health care workers, improve Medicaid and Medicare reimbursement rates to more swiftly deliver payments to hospitals, and make sure rural hospitals have the funding they need to continue to serve as vital employers and health care providers.
-Protect Americans from crippling medical debt: Regulate medical debt collection practices, bar the inclusion of medical debt in credit scores, and increase transparency and public reporting of both medical billing practices and the allocation of financial assistance provided by hospitals.
+Protect Americans from crippling medical debt : Cancel eligible medical debt and stop hospitals and insurance companies from overcharging patients, regulate medical debt collection practices, bar the inclusion of medical debt in credit scores, and increase transparency and public reporting of both medical billing practices and the allocation of financial assistance provided by hospitals so Texans no longer go into debt when they get sick.
 Ensure veterans have access to the services they’ve earned: Stand against efforts to privatize the VA, and fund the agency to ensure every veteran receives the quality care they need.
 My Track Record in the Texas Legislature Lowered prescription drug costs by capping insulin co-pays at $25 a month in Texas, allowing Texas to import cheaper prescription drugs from Canada at reduced costs, cracking down on Big Pharma for price-gouging , and establishing a prescription drug savings program for uninsured Texans.
 Held health insurance companies accountable by cracking down on surprise billings for emergency care and banning insurance companies from steering patients to hospitals that overcharge for services .

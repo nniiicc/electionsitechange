@@ -1,4 +1,6 @@
-Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Public Education Before I ran for office, I was a public school teacher.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Public Education A Former Teacher Fighting for Public Schools James Talarico taught sixth grade on San Antonio’s West Side and led the fight against private school vouchers in the Texas House.
+He’ll keep public money in public schools, hire more teachers, raise teacher pay, and bring universal Pre-K to every Texas family.
+Before I ran for office, I was a public school teacher.
 I taught 6th-grade language arts on the Westside of San Antonio — one of Texas’s poorest zip codes.
 When I entered the classroom, the Texas Legislature had just gutted the public education budget by $5 billion — so I had 45 kids in one classroom.
 There weren’t enough desks for everyone, so some of my students sat on the air conditioning unit.
@@ -9,7 +11,8 @@ Because of that commitment to public schools, my colleagues in the Texas House s
 I’ve gone toe-to-toe with billionaires like Tim Dunn, Farris Wilks, and Betsy DeVos, who have been spending their fortunes attacking our neighborhood public schools.
 As I see those same billionaires now partnering with DC Republicans to take their voucher scam nationwide and gut the U.S.
 Department of Education, I’m ready to take my fight to Washington and not only save our public schools — but make them the envy of the world so that every Texas child has a chance at success.
-I started my career as a public school teacher on the westside of San Antonio.
+Texas Republicans are trying to force public schools to display the Ten Commandments in every classroom.
+I told the bill author: “This bill is not only un-constitutional and un-American, it’s deeply un-Christian.” #txlege pic.twitter.com/TI7TmGvIKM — James Talarico (@jamestalarico) May 3, 2023 I started my career as a public school teacher on the westside of San Antonio.
 Now I’m back as a candidate for the U.S.
 Senate.
 This city taught me how to fight for working families — and I’m ready to take that fight to our nation’s capital. pic.twitter.com/y3dYJu9nRl — James Talarico (@jamestalarico) December 10, 2025 The most profound part of @jamestalarico conversation with @joerogan was the part where he shared his “why”.

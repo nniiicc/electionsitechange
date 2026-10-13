@@ -11,4 +11,4 @@ I understand how policy is made, how power is built, and how to fight for commun
 This work is not abstract to me.
 It is rooted in Georgia, shaped in Savannah, and driven by the lived realities of families across Southeast Georgia.
 This is the leadership I will bring to Congress, proven, prepared, and people first.
-DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop
+DONATE About Volunteer Events Endorsements Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

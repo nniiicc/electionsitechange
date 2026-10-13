@@ -18,4 +18,4 @@ Learn More Protecting Oregon’s Land, Water, and Air From the beaches to the mo
 Governor Kotek has doubled down on protecting Oregon’s land, water, and air while ensuring Oregon does its part in tackling the climate crisis.
 Learn More Ensuring Every Oregon Community is Heard Before taking office, Governor Kotek set an ambitious goal: Visit all 36 counties in her first year in office.
 On her One Oregon Listening Tour, the Governor met with more than 1,000 Oregonians to better understand the needs of communities across the state.
-Learn More press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.
+Learn More info@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

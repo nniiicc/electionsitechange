@@ -1,10 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 12 Breakfast Event with Rep.
-Clyburn and David Jolly Monday, October 12, 2026 9:30 AM 10:30 AM Quincy, FL (map) Google Calendar ICS NOTE: This event starts at 8:30AM Central/9:30AM Eastern.
-Amanda will be attending breakfast with Congressman Jim Clyburn and David Jolly in Quincy, along with neighbors and community members.
-Interested in attending?
-RSVP through their event page for location details.
-View Event → Oct 12 Get Out The Vote Rally Monday, October 12, 2026 6:30 PM 8:30 PM Monticello Opera House (map) Google Calendar ICS NOTE: This event starts at 5:30PM Central/6:30PM Eastern.
+Oct 12 Get Out The Vote Rally Monday, October 12, 2026 6:30 PM 8:30 PM Monticello Opera House (map) Google Calendar ICS NOTE: This event starts at 5:30PM Central/6:30PM Eastern.
 View Event → Oct 14 Florida A&M University Voter Fair Wednesday, October 14, 2026 10:00 AM 2:00 PM Florida A&M University (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
 Amanda will be joining Team AMG while they table at the Florida A&M Student Government Association’s Voter Fair!
 View Event → Oct 14 Westminster Oaks Forum Wednesday, October 14, 2026 7:00 PM 9:00 PM Maguire Center for Lifelong Learning (map) Google Calendar ICS NOTE: This event starts at 6PM Central/7PM Eastern.
@@ -55,6 +50,11 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 12 Breakfast Event with Rep.
+Clyburn and David Jolly Monday, October 12, 2026 9:30 AM 10:30 AM Quincy, FL (map) Google Calendar ICS NOTE: This event starts at 8:30AM Central/9:30AM Eastern.
+Amanda will be attending breakfast with Congressman Jim Clyburn and David Jolly in Quincy, along with neighbors and community members.
+Interested in attending?
+RSVP through their event page for location details.
 View Event → Oct 11 40th Pastor Anniversary Service Sunday, October 11, 2026 10:00 AM 12:30 PM Bethel Missionary Baptist Church (map) Google Calendar ICS NOTE: This event starts at 9AM Central/ 10AM Eastern.
 Amanda is honored to be a guest at the celebration of 40 years of service at the Bethel Missionary Baptist Church by the Reverend RB and Gloria Price Holmes.
 Special guest Rev.

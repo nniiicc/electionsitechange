@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute August 29, 2026 Congresswomen Rashida Tlaib, Yassamin Ansari denounce ‘immoral’ Iran war Two US Congresswomen have criticised Trump administration’s “immoral” war on Iran, which completed six months on Sunday.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute August 29, 2026 Congresswomen Rashida Tlaib, Yassamin Ansari denounce ‘immoral’ Iran war Two US Congresswomen have criticised Trump administration’s “immoral” war on Iran, which completed six months on Sunday.
 In a post on X, Congresswoman Rashida Tlaib wrote: “Today marks 6 months since the Trump administration launched its illegal and immoral war on the people of Iran.
 This act of imperial aggression has claimed thousands of innocent lives, put the US and global economies on the brink, and caused suffering for millions,” she wrote on X.
 “No more war,” she added.

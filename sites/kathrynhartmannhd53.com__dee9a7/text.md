@@ -57,21 +57,11 @@ Mission trip to Ghana Kathryn provided physical therapy to patients from 6 weeks
 A Walk Through Bethlehem She volunteers at the Lakehills Community Center, where people of every faith come together to recreate Old Town Bethlehem.
 All are welcome.
 On the trail From the Texas Democratic Convention in Corpus Christi to block walks in Bandera and Kerr counties, Kathryn is meeting voters across all 16 counties.
-Upcoming events Come meet Kathryn Oct 8 Thursday Live debate in Brady Kathryn debates the incumbent, 6:30–8pm at the McCulloch County Library, Brady.
-Hosted by Citizens for Change 325.
-Can’t make it?
-Watch live on the Citizens for Change 325 Facebook page, KNELradio.com, or KNEL’s YouTube and Roku channels.
-A recording will be posted afterward.
-Event details Oct 10 Saturday “What Has He Done?” Rally & Block Walk in Bandera We need a change!
-Rally 9–11am at the Bandera County Courthouse, 500 Main Street, Bandera, then join Kathryn for a block walk around Bandera, 11am–1pm.
-Hosted by Indivisible Bandera.
-RSVP on Mobilize Oct 11 Sunday Meet the Candidates in Kerrville With Joe Paz Herrera (SD 24).
-4–6pm at River Star Arts & Event Park, 4000 Riverside Dr, Kerrville.
-RSVP on Mobilize Oct 17 Saturday Block walk in Hondo Join Kathryn knocking doors in Hondo, 11am–2pm.
-Meeting spot coming soon.
-Join us!
-Oct 24 Saturday Castroville: Kathryn speaks & block walk Kathryn speaks in Castroville, plus a block walk around town.
+Upcoming events Come meet Kathryn Oct 17 Saturday No Kings: Vote Early rally & block walk in Hondo Rally 11am–1pm at the H-E-B, 609 19th St, Hondo, then join Kathryn for a block walk from 1–3pm, meeting at the same H-E-B.
+RSVP on Mobilize Oct 24 Saturday Castroville: Kathryn speaks & block walk Kathryn speaks in Castroville, plus a block walk around town.
 Times and location coming soon.
+Missed the October 8 debate in Brady?
+Watch the recording on the Citizens for Change 325 Facebook page .
 More events are being added.
 Check back, or follow Kathryn Hartmann for HD 53 on Facebook .
 Make a plan to vote Sixteen counties.

@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute About Doc The doctor who stayed in Kansas.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute About Doc The doctor who stayed in Kansas.
 Twenty-five years delivering babies in rural Kansas before the Senate.
 Fifth-generation Kansas farm kid, born in El Dorado.
 Still calls Kansas home.

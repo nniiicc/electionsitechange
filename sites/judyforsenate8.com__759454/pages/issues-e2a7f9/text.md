@@ -1,4 +1,4 @@
-top of page ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
+top of page VOTE ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
 REQUEST A YARD SIGN DONATE My Priorities Florida families deserve a government that works for them—not one that puts corporate profits, political power, or special interests first.
 These are the issues I’ll fight for in the Florida Senate.
 Working Families Fair wages.

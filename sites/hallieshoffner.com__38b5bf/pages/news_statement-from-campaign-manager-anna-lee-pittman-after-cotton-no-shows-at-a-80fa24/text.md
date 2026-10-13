@@ -1,0 +1,8 @@
+0 Skip to Content Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Statement from Campaign Manager Anna Lee Pittman after Cotton No-Shows at Arkansas TV Debate Oct 12 Written By Micah Wallace Ahead of today’s Arkansas U.S.
+Senate debate, the Shoffner for Arkansas campaign is calling out Senator Tom Cotton for refusing to show up and defend his record to the voters he’s asking to send him back to Washington for six more years.
+Campaign Manager Anna-Lee Pittman released the following statement: “Tom Cotton is asking Arkansans for six more years in Washington, but he’s refusing to show up today to defend his record and earn their votes.
+Hallie Shoffner will be on that stage because she knows that when you ask for someone’s vote, you owe them answers—and when you want to keep a job, you have to do the work.
+Cotton is either too scared to debate someone like Hallie who has lived experience in the challenges facing Arkansans or perhaps as an elite Washington insider, he thinks he’s too good for it.
+Arkansas deserves a senator who shows up, listens and fights for them.
+And that’s Hallie Shoffner.” Micah Wallace Next Next Senate Adjourns Without Farm Bill or Cost-of-Living Relief for Arkansas Families Follow us DONATE Contact: (501) 295-3428 info@shoffnerforarkansas.com Mailing Address: 600 E Capitol PO Box 57 Little Rock, AR 72202 Little Rock Office: 415 W 12th St Little Rock, AR 72202 Please direct all media requests to media@shoffnerforarkansas.com.
+Privacy Policy

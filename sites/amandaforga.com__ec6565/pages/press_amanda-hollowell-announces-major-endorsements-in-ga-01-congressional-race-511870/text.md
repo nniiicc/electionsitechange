@@ -10,4 +10,4 @@ A proud chosen daughter of Georgia’s 1st Congressional District, Hollowell say
 “I’m running for Congress because families across this district deserve leadership that understands their struggles and is ready to fight for real solutions,” Hollowell said.
 “We need a government that works for all of us, not just the well-connected.” Learn more at amandaforga.com .
 Santiago Barragan Previous Previous Amanda Hollowell for Congress Looks Forward to Runoff Election Next Next Savannah Mayor Van R.
-Johnson, II Endorses Amanda Hollowell for Congress DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop
+Johnson, II Endorses Amanda Hollowell for Congress DONATE About Volunteer Events Endorsements Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

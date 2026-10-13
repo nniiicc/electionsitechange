@@ -50,8 +50,6 @@ I want policies to be understandable.
 I want people to know what’s being discussed and why.
 And I want progress on the kinds of projects that make our communities safer and more connected.
 At the end of the day, my goal is simple: Show up, do the work, and keep the focus where it belongs… on the people who call this community home.
-Tags: WI 53rd Assebmly Who is running for 53rd Assembly Recent Posts See All There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
-Federal Vaccine Guidelines Changed.
-Should Wisconsin Change Too?
+Tags: WI 53rd Assebmly Who is running for 53rd Assembly Recent Posts See All I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
 CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

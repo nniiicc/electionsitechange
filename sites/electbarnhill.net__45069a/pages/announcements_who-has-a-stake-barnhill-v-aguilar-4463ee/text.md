@@ -1,5 +1,5 @@
 #YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no The Court Asked Who Has a Stake in My Lawsuit.
-The Honest Answer Is You. electbarnhill Oct 08, 2026 0 Comments Every federal lawsuit in Nevada comes with a short form most people never read: the Certificate of Interested Parties.
+The Honest Answer Is You. electbarnhill Oct 08, 2026 0 2 Comments Every federal lawsuit in Nevada comes with a short form most people never read: the Certificate of Interested Parties.
 Its job is simple.
 It tells the judges who has a financial or corporate stake in the case (parent companies, subsidiaries, insurers, anyone standing behind a party) so a judge can step aside if there’s a conflict.
 In most cases, it reads like a corporate org chart.
@@ -67,9 +67,9 @@ Latest update: The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 I took the Secretary of State to federal court to protect your vote.
 Has your candidate?
-Get to know me · Join the campaign · Donate Share: Categories: Announcements 1 thought on “The Court Asked Who Has a Stake in My Lawsuit.
-The Honest Answer Is You.” Pingback: Election Transparency in Nevada Means Showing the Work - Nevadans for Barnhill Post navigation Previous Previous post: Election Transparency in Nevada Means Showing the Work Next Next post: Public Trust Starts With Elections Done Right footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 2 thoughts on “The Court Asked Who Has a Stake in My Lawsuit.
+The Honest Answer Is You.” Pingback: Election Transparency in Nevada Means Showing the Work - Nevadans for Barnhill Pingback: What Election Observer Rights Mean for Nevada Voters - Nevadans for Barnhill Post navigation Previous Previous post: Election Transparency in Nevada Means Showing the Work Next Next post: Public Trust Starts With Elections Done Right footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

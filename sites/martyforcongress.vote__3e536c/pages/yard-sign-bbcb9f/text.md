@@ -1,4 +1,4 @@
-Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow Claim Your Yard Sign Marty O’Donnell is running in one of the most important House races in the country and we need to COVER Nevada with signs.
+Close About Priorities Join Store Contact Yard Sign Donate Follow Claim Your Yard Sign Marty O’Donnell is running in one of the most important House races in the country and we need to COVER Nevada with signs.
 We just got a new shipment of yard signs, and as a thank you for your support, we’re offering free signs + free delivery to your address.
 No cost.
 No catch.

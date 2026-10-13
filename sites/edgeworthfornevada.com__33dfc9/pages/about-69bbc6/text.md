@@ -16,7 +16,7 @@ Combining clinical expertise with a compassionate, community-centered approach, 
 Edgeworth remains committed to improving the lives of Nevadans, especially those with limited access to care.
 Through both her legislative work and her role as an educator, she continues to inspire future healthcare professionals to serve their communities with skill, empathy, and purpose.
 All Videos Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Search videos Search video...
-Now Playing Edgworth - Safer Nevada 00:14 Play Video Now Playing Healthcare 00:28 Play Video Now Playing Edgeworth Education 15 00:14 Play Video Let Rebecca know how we can work together in her run for Nevada State Assembly District 35 or sign up for campaign updates below!
+Now Playing Edgeworth Real Relief 00:31 Play Video Now Playing Edgeworth Coffee 00:31 Play Video Now Playing Edgeworth Healthcare 00:30 Play Video Let Rebecca know how we can work together in her run for Nevada State Assembly District 35 or sign up for campaign updates below!
 By selecting Sign Up you agree to receive automated text messages related to the campaign.
 You may Opt Out at anytime by replying STOP to any received message.
 Carrier data charges may or may not apply and are based on your carrier.

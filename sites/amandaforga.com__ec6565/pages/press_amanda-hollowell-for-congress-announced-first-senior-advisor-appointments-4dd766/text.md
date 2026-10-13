@@ -21,4 +21,4 @@ Her leadership has earned recognition from Essence , Forbes , USA Today , Black 
 But Amanda’s most important title is mom and caregiver .
 Her son, Joah—an alum of Savannah’s public school system and a college student-athlete—and her father, a veteran she cares for full-time, remain her greatest motivation.
 For more information about Amanda Hollowell for Congress, please visit amandaforga.com .
-MEDIA CONTACT Hannah Vega campaign@amandaforga.com Amanda Hollowell Previous Previous State and Local Leaders Endorse Amanda Hollowell for Congress DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop
+MEDIA CONTACT Hannah Vega campaign@amandaforga.com Amanda Hollowell Previous Previous State and Local Leaders Endorse Amanda Hollowell for Congress DONATE About Volunteer Events Endorsements Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

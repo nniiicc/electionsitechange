@@ -1,9 +1,10 @@
 {
  "description": "Explore a collection of hilarious cartoons, including Dilbert and Elvis Clark humor, all centered around Milwaukie themes.",
  "final_url": "https://emilwaukieor.org/cartoons",
- "fingerprint": "c569cf33270914e29cbd411ff7fadaedea00a324",
+ "fingerprint": "622190cc204738e20c7df239230b69549aef4567",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Cartoons",
  "years_mentioned": [
   "2020",

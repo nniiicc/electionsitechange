@@ -1,4 +1,4 @@
-Meet Andrea Issues News Volunteer Contribute Issues Balancing the state budget The purpose of government, by the consent of the governed, is to do things that we cannot do as individuals.
+Meet Andrea Issues Volunteer Contribute Issues Balancing the state budget The purpose of government, by the consent of the governed, is to do things that we cannot do as individuals.
 For example, keeping all fire-fighting equipment in excellent condition, optimizing forest growth with controlled burns, putting in nuclear power, putting in a desalinization plant – in other words doing what government can do and individuals can’t.
 Balancing the state budget will require a change in goals.
 The current budget spends too much money on things that individuals can do.
@@ -103,4 +103,4 @@ That is what we all want, and I will work for that.
 No new legislation without thinking through the consequences.
 Some of the best ideas may be to undo existing legislation!
 Like regulations!
-Read More Endorsements Yard Signs Events Photos Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+Read More Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu

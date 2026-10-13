@@ -9,6 +9,5 @@ Yet he is equally focused on maintaining strict accountability and auditing requ
 Stokesbary has proved an especially effective lawmaker who also fits his district.
 Voters in the 31st District should re-elect him to a third term.
 The full editorial is available online at seattletimes.com .
-Endorsements More For You Rep.
-Stokesbary votes ‘no’ on House budget In the News Early Endorsement from Stand for Children Endorsements Stokesbary concerned about auditor’s media silence In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You Drew Stokesbary receives NRA endorsement Endorsements National Federation of Independent Business endorses Drew Stokesbary Endorsements Stokesbary wins AWC “City Champion Award” Awards Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

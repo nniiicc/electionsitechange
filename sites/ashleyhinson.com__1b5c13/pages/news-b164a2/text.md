@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Endorse Ashley Get Involved U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Endorse Ashley Get Involved U.S.
 Chamber of Commerce Endorses Ashley Hinson for U.S.
 Senate Oct 11, 2026 | Press Release Cedar Rapids, IA – Today, the U.S.
 Chamber of Commerce endorsed Ashley Hinson for U.S.

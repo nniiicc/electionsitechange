@@ -38,9 +38,49 @@ It continues to be an absolute pleasure meeting so many of you and discussing th
 If elected I will work tirelessly to address these challenges and create new and vibrant opportunities for Vermonters.
 Please remember to vote and, once again, thank you for your time.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
+Show Less WHY I AM ASKING FOR YOUR VOTE GOVERNOR SCOTT OR AMANDA JANOO Where do our candidates stand?
+GOVERNOR SCOTT OR AMANDA JANOO Where do our candidates stand?
+October 12 The Hinesburg Record John Kinston, Independent for State Representative Hello again.
+For those I have not yet met, my name is John Kingston, and I am running as an Independent to be your State Representative (Chittenden District – 4).
+I am asking for your vote and would like to tell you why.
+I’m a husband, father, grandfather a Show More October 12 The Hinesburg Record John Kinston, Independent for State Representative Hello again.
+For those I have not yet met, my name is John Kingston, and I am running as an Independent to be your State Representative (Chittenden District – 4).
+I am asking for your vote and would like to tell you why.
+I’m a husband, father, grandfather and businessperson.
+My wife Diane and I moved to Vermont over #ago and raised our two wonderful children here.
+We started our married life together in a rented flat in the Boston area with student loans and plans for a family and home.
+I was the first member of my immediate family to graduate from college, and together Diane and I pursued our respective careers, raised a family and made a home in Vermont.
+It has been and continues to be a wonderful place to live…and I want my children and grandchildren to have the opportunity to take the same ride.
+You learn a lot by raising a family, advancing a career, and running businesses.
+You meet so many wonderful people along the way and you learn so much from them.
+I never cease to be amazed by the willingness of people to help each other.
+Teachers and coaches looking out for kids.
+Employers trying to provide the best they can for their employees in terms of wages and benefits.
+Neighbors who step up when someone is in need.
+You experience all the good and it becomes a part of you.
+Today, when I’m not campaigning, I spend time on a number of for-profit and non-profit boards.
+It’s enormously rewarding work.
+One of these is the Vermont Youth Conservation Corps which does tremendous work with young people interested in conservation, agriculture and apprenticeship programs such as timber framing.
+These young people get paid positions learning skills in these areas while gaining valuable life experience.
+All of the boards I sit on care deeply about their employees and it is a core principle to their respective missions.
+It is one of the reasons I chose to work with these amazing organizations.
+As with life, in business you learn the important skill of listening.
+You learn to be aware of the context in which discussion is taking place.
+You learn to question and when necessary, you learn to press.
+This is when leadership takes place.
+The courage to admit you don’t understand or that you don’t agree.
+The willingness to challenge in search of the best solution.
+Dialogue that is always respectful and on point but will not relinquish simply to get along and follow the crowd.
+If you are looking for an independent voice to challenge the status quo in the Vermont legislature then I am your candidate.
+I am interested in solutions to the many challenges we face.
+Solutions that solve everyday problems for Vermonters like affording their property taxes.
+A commonsense approach with no ideological baggage.
+Thank you for listening.
+Please make sure you vote.
+John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
 Show Less WHAT IS UNIVERSAL PRIMARY CARE?
 GOVERNOR SCOTT OR AMANDA JANOO Where do our candidates stand?
-GOVERNOR SCOTT OR AMANDA JANOO Where do our candidates stand?
+WHAT IS UNIVERSAL PRIMARY CARE?
 October 8, 2026 Hinesburg Front Porch Forum (No.
 6533) If you are following the candidates for the upcoming election, you are hearing a lot about Universal Primary Care (UPC).
 So, exactly what is UPC?
@@ -61,8 +101,8 @@ If it’s a step towards another attempt at single-payer healthcare in Vermont; 
 As always, please reach out if you would like to further explore this or any other issue.
 Thank you and please make sure you vote.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less On Healthcare GOVERNOR SCOTT OR AMANDA JANOO Where do our candidates stand?
-On Healthcare October 5, 2026 I posted the following on August 18, 2026 on Front Porch Forum: THE COST OF HEALTHCARE Vermont has the most expensive private healthcare insurance rates in the country.
+Show Less On Healthcare Kingston: Why I Am Voting for Phil Scott WHAT IS UNIVERSAL PRIMARY CARE?
+October 5, 2026 I posted the following on August 18, 2026 on Front Porch Forum: THE COST OF HEALTHCARE Vermont has the most expensive private healthcare insurance rates in the country.
 There are many reasons for this, but it starts at the provider level.
 Just under half of all healthcare spending takes place at our hospitals that have some Show More October 5, 2026 I posted the following on August 18, 2026 on Front Porch Forum: THE COST OF HEALTHCARE Vermont has the most expensive private healthcare insurance rates in the country.
 There are many reasons for this, but it starts at the provider level.
@@ -93,7 +133,7 @@ We must continue moving in the direction of helping Vermonters be healthier with
 I will support legislation that continues those efforts.
 Thank you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less VOTE…PLEASE Kingston: Why I Am Voting for Phil Scott On Healthcare September 29, 2026 Hinesburg Front Porch Forum (No.
+Show Less VOTE…PLEASE Kingston: Why I Am Voting for Phil Scott Kingston: Why I Am Voting for Phil Scott September 29, 2026 Hinesburg Front Porch Forum (No.
 6524) It has been an absolute pleasure meeting so many of you in person and messaging through email and my website.
 I look forward to more of that over the next month.
 Mail-in ballots go out on October 1st and in person voting takes place at our town hall on November 3rd.
@@ -136,7 +176,7 @@ I will do my best to provide as much clarity as I can on my positions.
 Please reach out to me with any questions you might have and please visit my website for more information on my positions.
 Thank you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less What to Learn From Act 181 Kingston: Why I Am Voting for Phil Scott Kingston: Why I Am Voting for Phil Scott September 24, 2026 Hinesburg Front Porch Forum (No.
+Show Less What to Learn From Act 181 John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes September 24, 2026 Hinesburg Front Porch Forum (No.
 6519) ACT 181 was a well-intentioned effort to reduce regulatory burden on land development largely by easing the restrictions on when ACT 250 permitting would be required for residential development.
 Most would agree that the Tier 1A and 1B designations in designated growth areas made Show More September 24, 2026 Hinesburg Front Porch Forum (No.
 6519) ACT 181 was a well-intentioned effort to reduce regulatory burden on land development largely by easing the restrictions on when ACT 250 permitting would be required for residential development.
@@ -178,7 +218,7 @@ If elected, he says he will communicate regularly with Hinesburg residents about
 “I want to be approachable,” he said.
 “If you want to talk about an issue, individually or in a group, let me know.
 We’ll find the time to do it.” The Record asked Kingston - and his Democratic opponent Kelsey Pasteris – to answer six questions.
-To read the full article and John's answers click link below: https://www.hinesburgrecord.org/p/john-kingston-profile Show Less On the Issues John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes September 14, 2026 Hinesburg Front Porch Forum (No.
+To read the full article and John's answers click link below: https://www.hinesburgrecord.org/p/john-kingston-profile Show Less On the Issues John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes Why Higher Taxes Are Not the Answer September 14, 2026 Hinesburg Front Porch Forum (No.
 6509) Many of the issues facing us in Vermont are complex and often nuanced.
 I want voters to be best informed and so I do my best to be specific on where I stand on issues.
 As I have mentioned before, Front Porch Forum (understandably) limits the length and number of posts a candidate c Show More September 14, 2026 Hinesburg Front Porch Forum (No.
@@ -197,7 +237,7 @@ I have heard from many of you, and it has been a pleasure meeting fellow Hinesbu
 I look forward to more of that.
 Thank you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less Why Higher Taxes Are Not the Answer John Kingston Stresses the Need for Affordability in Housing, Healthcare and Taxes Why Higher Taxes Are Not the Answer September 9, 2026 Hinesburg Front Porch Forum (No.
+Show Less Why Higher Taxes Are Not the Answer Why Higher Taxes Are Not the Answer Why Higher Taxes Are Not the Answer September 9, 2026 Hinesburg Front Porch Forum (No.
 6504) It is easy to view our affordability challenges around school funding, healthcare, and housing as a need for additional financial support, that is, higher taxes.
 But Vermont is already one of the highest taxed states in the country (personal and business income taxes, property taxes Show More September 9, 2026 Hinesburg Front Porch Forum (No.
 6504) It is easy to view our affordability challenges around school funding, healthcare, and housing as a need for additional financial support, that is, higher taxes.
@@ -214,7 +254,7 @@ If you vote for me as your State Representative, that is where my focus will be;
 Please reach out if you would like to further discuss this or any other issue.
 Thank you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less Governor Scott Endorses Kingston Governor Scott Endorses Kingston Why Higher Taxes Are Not the Answer August 25, 2026 Hinesburg Front Porch Forum (No.
+Show Less Governor Scott Endorses Kingston Why Higher Taxes Are Not the Answer Governor Scott Endorses Kingston August 25, 2026 Hinesburg Front Porch Forum (No.
 6488) "We need moderate, common-sense legislators who understand the need for policies that make it more affordable to live, work, and do business in Vermont.
 John has the know-how and background to help bring the conversation back to the center." Phil Scott, Governor State of Vermont I am Show More August 25, 2026 Hinesburg Front Porch Forum (No.
 6488) "We need moderate, common-sense legislators who understand the need for policies that make it more affordable to live, work, and do business in Vermont.
@@ -225,7 +265,7 @@ Addressing affordability around property taxes, healthcare and housing with sust
 As is always the case, please do not hesitate to contact me if there is anything you would like to discuss.
 Thank you.
 John Kingston https://kingston4vt.com kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less The Cost of Healthcare Governor Scott Endorses Kingston The Cost of Healthcare August 18, 2026 Hinesburg Front Porch Forum (No.
+Show Less MEDIA & POSTINGS The Cost of Healthcare KINGSTON4VT – Stumping in Hinesburg The Cost of Healthcare August 18, 2026 Hinesburg Front Porch Forum (No.
 6481) Vermont has the most expensive private healthcare insurance rates in the country.
 There are many reasons for this, but it starts at the provider level.
 Just under half of all healthcare spending takes place at our hospitals that have some of the highest administrative costs in the c Show More August 18, 2026 Hinesburg Front Porch Forum (No.
@@ -243,7 +283,7 @@ Our healthcare providers need to be held accountable to high standards of servic
 The primary oversight for that is our Green Mountain Care Board, which in turn needs to be held accountable as our key regulatory body to oversee healthcare services.
 Healthcare is a complicated issue, and I would welcome discussing it with you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less VOTE…PLEASE Governor Scott Endorses Kingston The Cost of Healthcare August 4, 2026 Hinesburg Front Porch Forum (No.
+Show Less VOTE…PLEASE KINGSTON4VT – Stumping in Hinesburg The Cost of Healthcare August 4, 2026 Hinesburg Front Porch Forum (No.
 6467) Politics in our country is very divisive right now.
 For that reason, it may be more important than ever to demonstrate that our democracy can work, and we can all do that by exercising our right to vote.
 Our next election is the primary on August 11th.
@@ -255,7 +295,7 @@ Request the party ballot that you think best suits you and regardless of whether
 As a reminder, since I am running as an Independent, I will not be on the primary ballot, but I will be on the general election ballot in November (both the mail-in ballots and at the polls).
 Thank you.
 John Kingston https://kingston4vt.com/ kingstonjvt@gmail.com Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont. .
-Show Less MEDIA & POSTINGS KINGSTON4VT – Stumping in Hinesburg KINGSTON4VT – Stumping in Hinesburg KINGSTON4VT – Stumping in Hinesburg July 27, 2026 Hinesburg Front Porch Forum (No.
+Show Less KINGSTON4VT – Stumping in Hinesburg KINGSTON4VT – Stumping in Hinesburg KINGSTON4VT – Stumping in Hinesburg July 27, 2026 Hinesburg Front Porch Forum (No.
 6459) Last Sunday was one of those perfect Vermont summer days: low 70s, no humidity, bluebird sky and just enough breeze to keep the bugs at bay.
 It was the perfect day for a hike and walk which started at my home and then onto the HART trails to visit residents in our community.
 It was a w Show More July 27, 2026 Hinesburg Front Porch Forum (No.
@@ -270,7 +310,7 @@ To all those who were so generous with your time and considerate with your quest
 We may not agree on all points, but you continue to show me a path to meaningful and respectful dialogue which helps me better understand the issues at hand.
 Please visit my website ( https://kingston4vt.com/ ) and reach out to me with anything you would like to discuss.
 John Kingston Independent Candidate for State Representative (Chittenden District 4) Together…for an even better Vermont.
-Show Less Responsible Growth KINGSTON4VT – Stumping in Hinesburg KINGSTON4VT – Stumping in Hinesburg July 21, 2026 Hinesburg Front Porch Forum (No.
+Show Less Responsible Growth Education Funding and Property Taxes KINGSTON4VT – Stumping in Hinesburg July 21, 2026 Hinesburg Front Porch Forum (No.
 6453) Hello again, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
 I am the Hinesburg Board Representative for the Chittenden County Regional Planning Commission.
 I also interact with various policy gro Show More July 21, 2026 Hinesburg Front Porch Forum (No.
@@ -291,7 +331,7 @@ Please reach out to me if there is anything you would like to discuss and please
 Finally, remember to vote in the primary election on August 11th (as an Independent I will not be on the ballot for the primary, but I will be for the general election on November 3rd).
 Thank you.
 John Kingston Together…for an even better Vermont.
-Show Less Campaign Update KINGSTON4VT – Stumping in Hinesburg Education Funding and Property Taxes July 15, 2026 Hinesburg Front Porch Forum (No.
+Show Less Campaign Update Education Funding and Property Taxes Education Funding and Property Taxes July 15, 2026 Hinesburg Front Porch Forum (No.
 6447) Hello again, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
 I have already had the pleasure of visiting many Hinesburg residents and will continue that effort through the campaign season.
 Everyon Show More July 15, 2026 Hinesburg Front Porch Forum (No.
@@ -313,7 +353,7 @@ I look forward to seeing you in the near future.
 Reach out to me anytime and visit my website if you have a chance.
 Thank you.
 Together…for an even better Vermont.
-Show Less Education Funding and Property Taxes Independent House Candidate Enters Race Education Funding and Property Taxes July 9, 2026 Hinesburg Front Porch Forum (No.
+Show Less Education Funding and Property Taxes Education Funding and Property Taxes Education Funding and Property Taxes July 9, 2026 Hinesburg Front Porch Forum (No.
 6440) Hello again, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
 Over the course of the next several months leading to the general election on November 3rd (I am running as an Independent and therefore Show More July 9, 2026 Hinesburg Front Porch Forum (No.
 6440) Hello again, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
@@ -344,7 +384,7 @@ The opportunity awaiting our children depends on it.
 Please visit my website ( https://kingston4vt.org ) and please feel free to reach out to me if you would like to chat.
 Thank you.
 John Kingston Together…for an even better Vermont.
-Show Less Why We Need Change Independent House Candidate Enters Race Independent House Candidate Enters Race June 30, 2026 Hinesburg Front Porch Forum (No.
+Show Less Why We Need Change Update – State Representative (Chittenden District 4) Independent House Candidate Enters Race June 30, 2026 Hinesburg Front Porch Forum (No.
 6429) Hello, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
 First, let me state that I believe the vast majority of people involved in government and who hold public office do so with the very best of Show More June 30, 2026 Hinesburg Front Porch Forum (No.
 6429) Hello, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
@@ -365,7 +405,7 @@ Change is needed in Montpelier, and I would like to help with that change.
 Please visit my website ( https://kingston4vt.org ) and please feel free to reach out to me if you would like to chat.
 Thank you.
 John Kingston Together…for an even better Vermont.
-Show Less Independent House Candidate Enters Race Independent House Candidate Enters Race Independent House Candidate Enters Race June 25, 2026 The Citizen Brianna Brady, staff reporter Like many independent political candidates, Hinesburg resident John Kingston doesn’t feel particularly aligned with either Republicans or Democrats.
+Show Less Independent House Candidate Enters Race Update – State Representative (Chittenden District 4) Independent House Candidate Enters Race June 25, 2026 The Citizen Brianna Brady, staff reporter Like many independent political candidates, Hinesburg resident John Kingston doesn’t feel particularly aligned with either Republicans or Democrats.
 So, in deciding to throw his hat in the ring for the House seat representing Hinesburg, he’s doing so without affiliating himself with a Show More June 25, 2026 The Citizen Brianna Brady, staff reporter Like many independent political candidates, Hinesburg resident John Kingston doesn’t feel particularly aligned with either Republicans or Democrats.
 So, in deciding to throw his hat in the ring for the House seat representing Hinesburg, he’s doing so without affiliating himself with a major party.
 With no primaries to contend with, after he files with the Secretary of State, Kingston’s name will go directly to the general ballot in November.
@@ -411,7 +451,7 @@ I welcome more conversations.
 I will also post periodically on Front Porch Forum as it is a wonderful platform for community engagement.
 Please feel free to visit my website ( https://kingston4vt.com/ ) and to reach out to me at any time.
 Thank you.
-John Kingston "Together…for an even better Vermont." Show Less Re: Hinesburg Town Hall - Observance of Memorial Day Update – State Representative (Chittenden District 4) Update – State Representative (Chittenden District 4) May 25, 2026 Hinesburg Front Porch Forum (No.
+John Kingston "Together…for an even better Vermont." Show Less Re: Hinesburg Town Hall - Observance of Memorial Day Re: Hinesburg Town Hall - Observance of Memorial Day Update – State Representative (Chittenden District 4) May 25, 2026 Hinesburg Front Porch Forum (No.
 6385) Thank you to all that attended this moving event with thanks to the musicians, Boy Scouts, Police Officers, Fire Fighters, and Emergency Responders who proudly represented.
 Most of all, thank you to our Veterans and to those who served and made the ultimate sacrifice.
 My father passed away Show More May 25, 2026 Hinesburg Front Porch Forum (No.
@@ -421,7 +461,7 @@ My father passed away in 2019 at the age of 95.
 At the tender age of 18 he enlisted as a Marine to serve in WWII.
 This day always meant a lot to him, and he instilled its importance in his three sons.
 A wonderful community event!
-Show Less John Kingston for Vermont State Representative Update – State Representative (Chittenden District 4) John Kingston for Vermont State Representative May 6, 2026 Hinesburg Front Porch Forum (No.
+Show Less John Kingston for Vermont State Representative Re: Hinesburg Town Hall - Observance of Memorial Day John Kingston for Vermont State Representative May 6, 2026 Hinesburg Front Porch Forum (No.
 6364) Hello, my name is John Kingston and I will be running as an Independent to be your State Representative here in Hinesburg (Chittenden District 4).
 Why am I running?
 I am running because I believe we can do better.
@@ -441,7 +481,7 @@ Over the coming weeks and months you will see me around town or going door to do
 I will either be in my black Chevy Colorado or riding my bike.
 I look forward to having a meaningful dialogue with you, to gaining your trust and hopefully to earn your vote.
 Thank you.
-"Together…for an even better Vermont." kingstonjvt@gmail.com 802.734.1826 Show Less Re: Property Taxes To Selectboard Members and Candidates – Thank You John Kingston for Vermont State Representative December 3, 2025 Hinesburg Front Porch Forum (No.
+"Together…for an even better Vermont." kingstonjvt@gmail.com 802.734.1826 Show Less Re: Property Taxes Re: Hinesburg Town Hall - Observance of Memorial Day John Kingston for Vermont State Representative December 3, 2025 Hinesburg Front Porch Forum (No.
 6205) First, I will thank Rep.
 Waters Evans for her service in the legislature.
 Those positions require significant commitment and are a true public service.
@@ -460,7 +500,7 @@ How will our legislature address this?
 Is there the political courage in Montpelier to move forward with a plan that brings fiscally responsible school funding into place?
 The one thing of which I am certain is that no plan will satisfy everyone.
 Leadership is the courage to recognize that and move forward so that progress can be made.
-John Kingston Hinesburg Show Less To Selectboard Members and Candidates – Thank You To Selectboard Members and Candidates – Thank You To Selectboard Members and Candidates – Thank You February 27, 2025 Hinesburg Front Porch Forum (No.
+John Kingston Hinesburg Show Less MEDIA & POSTINGS To Selectboard Members and Candidates – Thank You To Selectboard Members and Candidates – Thank You To Selectboard Members and Candidates – Thank You February 27, 2025 Hinesburg Front Porch Forum (No.
 5902) We are fortunate to live in a town where so many citizens are committed to community service.
 The current Hinesburg Selectboard members and candidates should be valued and respected by our community.
 They commit significant time to address the issues facing our town.

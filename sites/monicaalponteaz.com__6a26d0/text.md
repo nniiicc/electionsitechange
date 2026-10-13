@@ -1,4 +1,4 @@
-Official Campaign Website of Monica Alponte for Congress Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS More Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS America FIRST 🇺🇸 End the WARS!
+Official Campaign Website of Monica Alponte for Congress Home Newsletters Policies SENIORS * DISABLED * VETS MEETUPS Home Newsletters Policies SENIORS * DISABLED * VETS MEETUPS More Home Newsletters Policies SENIORS * DISABLED * VETS MEETUPS Home Newsletters Policies SENIORS * DISABLED * VETS MEETUPS America FIRST 🇺🇸 End the WARS!
 America FIRST 🇺🇸 End the WARS!
 America FIRST 🇺🇸 End the WARS!
 America FIRST 🇺🇸 End the WARS!
@@ -54,4 +54,4 @@ HELP OUR CAUSE Throw us a bone!
 Your support will enable us to be a powerful voice for PEACE & LIBERTY not just a political party, a MOVEMENT VOTE LIBERTARIAN!
 Contact Us Name* Email* JOIN OUR MOVEMENT Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 MonicaAlponteAZ@yahoo.com • (480) 442-2205 Scottsdale, AZ 🌵 Copyright © # Libertarian Candidate Monica Alponte - All Rights Reserved.
-PAID FOR BY MONICA ALPONTE FOR CONGRESS Home Newsletters Powered by
+PAID FOR BY MONICA ALPONTE FOR CONGRESS Home Newsletters Policies Powered by

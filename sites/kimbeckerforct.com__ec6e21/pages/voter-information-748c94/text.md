@@ -1,4 +1,4 @@
-top of page Home About Kim Volunteer Voter Information Endorsements Your Vote.
+top of page Home About Kim Volunteer Voter Information Endorsements Contrast Your Vote.
 Your Voice.
 Election Day: Nov 3, 2026 Granby Granby Memorial High School 54 N.
 Granby Road Granby, CT 06035 Registrar of Voters: 860-844-5532 Can I Vote for Kim?
@@ -12,4 +12,5 @@ Voter Registration Information Secretary of State website: access your voter reg
 View Site Absentee Ballot Apply for an absentee ballot application and find application deadlines.
 Apply Now Still have questions?
 Whether you have concerns about the voting process or want to learn more about how we can work together, we're here to help.
-Contact Us 62nd District: Granby, New Hartford, Barkhamsted, Hartland Paid for by Kim Becker for CT, Nora Bishop, Treasurer bottom of page
+Contact Us We can do better for our small towns Make your plan to vote by November 3rd.
+Plan to Vote Volunteer 62nd District: Granby, New Hartford, Barkhamsted, Hartland Paid for by Kim Becker for CT, Nora Bishop, Treasurer bottom of page

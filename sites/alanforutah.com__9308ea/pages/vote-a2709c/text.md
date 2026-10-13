@@ -2,14 +2,11 @@ Skip to content Moved?
 Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate Election Day is Tuesday, November 3, 2026 Make your plan to vote Every active registered voter in Utah gets a ballot in the mail.
 The one big change this year: your ballot has to arrive by 8 p.m. on Election Day.
 A postmark is no longer enough.
-Check my registration ↗ Find a drop box → On your ballot: Utah House District 61 — Alan Jimenez.
+Check my registration ↗ Find a drop box → On your ballot: Alan Jimenez for Utah House District 61.
 Not sure you live in HD61?
-Look up your districts at vote.utah.gov ↗ The short version 1.
-Make sure your address is current.
-2.
-Fill out your ballot and sign the envelope.
-3.
-Put it in a drop box by 8 p.m. on November 3.
+Look up your districts at vote.utah.gov ↗ The short version 1 Make sure your address is current.
+2 Fill out your ballot and sign the envelope.
+3 Put it in a drop box by 8 p.m. on November 3.
 Key dates Mark your calendar.
 OCT 12 Drop boxes open Ballot drop boxes open 24/7 from October 12 until 8 p.m. on Election Day.
 OCT 13 Ballots are mailed Look for yours over the next week or two.
@@ -23,7 +20,14 @@ Details below.
 NOV 3 · 8 P.M.
 Election Day Ballots must be in a drop box, at a vote center, or received by the county clerk by 8 p.m.
 If it's the last week, skip the mail and use a drop box.
-New this year Don't count on the postmark.
+Also on your ballot How I'm voting on the amendments.
+Every Utah ballot this year includes two proposed changes to the state constitution.
+Here's where I stand.
+AMENDMENT A · I'M VOTING AGAINST It makes ballot info harder to find Amendment A would stop printing proposed amendments in newspapers around the state and post them on state websites instead.
+I want it to stay easy for everyone to see what they’re voting on.
+AMENDMENT B · I'M VOTING AGAINST Don't move the goalposts on voters It would require 60% of the vote for citizen initiatives that create or raise a tax.
+When the Legislature raises taxes itself, it still needs only a simple majority.
+Why I'm voting no on both → New this year Don't count on the postmark.
 Utah changed its law.
 Mailed ballots now count only if the county clerk receives them by 8 p.m. on Election Day.
 Ballots that arrive later are not counted, even if they were mailed on time.

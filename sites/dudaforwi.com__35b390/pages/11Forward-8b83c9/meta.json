@@ -1,7 +1,7 @@
 {
  "description": "Pan and zoom the interactive Wisconsin map: senate and assembly districts, wards, municipalities, and reporting units. Type any address to see its districts.",
  "final_url": "https://www.dudaforwi.com/11Forward",
- "fingerprint": "1c55a68754b64e613fe5e7d446dfd516fb76efd2",
+ "fingerprint": "1c9fca7be051b64ed8cc0fd88f8c6fdec5cbd6ec",
  "format": 3,
  "paid_for_by": "Paid for by Duda for State Senate Common Sense",
  "rendered": false,

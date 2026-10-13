@@ -64,4 +64,68 @@ Committee to Protect Healthcare “The Committee to Protect Health Care is a nat
 I am proud to endorse Karla Hult for Minnesota Senate District 50, and I encourage my fellow community members to support her.” Joni Bennett Former Edina City Council Member “I am delighted to endorse Karla Hult to represent our Senate District 50, Bloomington and Edina.
 Karla understands the many challenges facing our community and is committed to finding solutions.
 Her intelligence, persistence, compassion, and humility have made her an award-winning journalist and a very effective advocate.
-They will make her a great State Senator.”
+They will make her a great State Senator.” Patty Wetterling National advocate for children's safety and author of "Dear Jacob: A Mother's Journey of Hope" “Karla Hult is exactly who we need in our state senate right now.
+She stands for honesty, integrity and the greater good we are all seeking in our lives during some troubling times.
+I am so proud of her for having the courage to take on difficult challenges.
+We need you Karla!” Kelly Condit-Shrestha, Ph.D.
+Community Advocate “It takes a different type of leadership to publicly lend your voice or sign your name in support of a cause, outside of closed doors.
+This has been my experience with Karla Hult.
+This is the type of bold integrity a community wants in a leader that we entrust to advocate on our behalf.
+And what is a single conversation without sustained dialogue?
+I trust Karla Hult’s commitment to sustain community relations that are authentic in their depth.
+I trust in Karla Hult’s vision for leadership.
+And I trust in her ability to build and lead with us at the Capitol.
+That is why I am endorsing Karla Hult to be our next senator for Senate District 50.” Paul Douglas Meteorologist and Entrepreneur “I’ve known and respected Karla Hult for decades.
+She is a friend, and I’m impressed with her integrity, problem-solving skills and ongoing efforts to genuinely help people.
+I saw it in her journalistic and reporting days on local TV, and I see the same traits in her efforts to help families grappling with Alzheimer’s; her advocacy platform ‘So Many Goodbyes.’ She is not only smart and persistent but compassionate.
+Spend any time with Karla and you’ll see that she genuinely cares about people.
+From healthcare to childcare to stewarding environmental issues, I’m confident Karla will search for common ground and common-sense solutions that lift all families.
+She will be an amazing addition to the Minnesota Senate and I wholeheartedly support her efforts.” Richard Thieme Respected leader, professional speaker and acclaimed author best known for the Mobius Trilogy.
+I am writing in support of Karla Hult's candidacy for the Minnesota Senate from District 50.
+The first time I met Karla I realized she was a woman of great substance, passionate commitments, and an intellect as big as her heart.
+My respect for her has only deepened over time.
+From supporting the journeys of family members with Alzheimer's to advocacy on behalf of underserved and marginalized communities, Karla sees everyone she meets as a neighbor and all of us as her community.
+Her professional career as a journalist with numerous honors and awards says as much about her ability to listen as it does about her writing skills.
+Every conversation she has, in my experience, results in a deeper understanding of who we are and what we need.
+I found myself aligned with every one of her values, which all related to serving people, especially people who had often been passed over.
+She even stood up to bullies in middle school, a forecast of the courage to come.
+Her support of quality education is deep and life long.
+Her priorities might be summed up in the old Superman slogan--truth, justice, and the American way, that is, an America where every person is treated with dignity and respect.
+Fighting to safeguard our rights and our democracy is her first order of business, without which all the rest might crumble.
+Karla is a strong, articulate, passionate defender of those rights and freedoms.
+To put it simply, Karla Hult would be a terrific senator fighting for us and our cherished values.
+I decided to write this letter when I looked over a crowded field of candidates and realized how much she stood out.
+We cannot do better than vote for Karla Hult to represent us.
+Ann Johnson Stewart Senator, Senate District 45 “I’m proud to endorse Karla Hult for State Senate in District 50.
+As a civil engineer, I value thoughtful, solutions-driven leadership – and Karla brings exactly that.
+Her experience as an award-winning journalist and her academic work in economic and political development give her the perspective, curiosity, and accountability we need in public service.
+Karla is also a strong advocate for those experiencing displacement and for families facing Alzheimer’s and other dementias, pairing empathy with action.
+She has the integrity, intelligence, and heart to serve with distinction, and I’m confident she’ll deliver meaningful results for our community and state.” Thuy Anh Fox Community Leader “When I first met Karla, I felt an immediate, genuine connection.
+She brings the passion and skills of a trained, seasoned journalist who knows how to ask tough questions, dig into complex issues and communicate honestly with the public.
+At a time when our trust in government feels shaken, her integrity and trustworthiness are exactly what we need in the Minnesota State Senate.” Kelly Streit Community Organizer “The traits that make Karla a good reporter—intelligence, compassion and genuine curiosity—will make her an excellent state senator.
+When I met Karla I immediately felt at ease because of the positive energy that she exudes.
+She listened and asked questions to understand my values and priorities.
+I know she will do the same for all of her constituents and use that awareness to shape policies that will be beneficial to all.” Mary Brindle Community Leader "I'm proud to support Karla Hult in her campaign for Minnesota Senate District 50.
+Karla's deep experience as a journalist and her gift for truly listening set her apart.
+She has spent her career amplifying voices that often go unheard — and I know she'll bring that same empathy, integrity, and dedication to the Minnesota Senate.
+Please join me and support Karla Hult for Minnesota!" Bill Melton Economist and longtime DFL leader “Our democracy is under assault, and the Trump regime is delivering extraordinary wealth to a few, with great hardships for the many.
+Karla Hult will be a strong voice for Edina and Bloomington—and for all of Minnesota.
+She’s rooted in Minnesota values, sharp as a tack, and a forceful communicator.
+Just as important, she listens.” Jim Carlson Senator, Senate District 52 “I’m proud to endorse Karla Hult for the Minnesota Senate.
+Throughout her career, Karla has earned the trust of Minnesotans through thoughtful, top-notch journalism and a genuine commitment to understanding people’s lives and experiences.
+She brings integrity, compassion, and the kind of character people trust in a leader.
+What stands out most to me is Karla’s ability to listen carefully, communicate clearly, and bring people together around shared values and practical solutions.
+Through her advocacy for families affected by Alzheimer’s and her work serving vulnerable communities, she has shown that public service is always about putting people first.
+Minnesota will be well served by her leadership, and I’m honored to support her campaign for Senate District 50.” Patty Acomb Representative, District 45B "I'm pleased to endorse Karla Hult for the Minnesota Senate.
+As Chair of the Climate and Energy Finance and Policy Committee, I know how critical it is to have leaders who understand that complex challenges — like our transition to a clean energy economy – require careful listening, clear communication, and a genuine willingness to seek out the right answers.
+Karla demonstrated exactly that when she reached out to me with thoughtful questions about state environmental issues and policies, including the urgent threat to the Boundary Waters Canoe Area and the need for strong environmental guardrails as data centers attempt to rapidly expand across our state.
+That kind of intellectual curiosity and humility is rare, and it's exactly what we need in the Senate.
+Karla's decades as a journalist give her a unique ability to cut through complexity, find common ground, and tell the stories that matter to everyday Minnesotans.
+Her advocacy for vulnerable communities – from families experiencing homelessness to those navigating the heartbreak of Alzheimer's – reflects a deep commitment to people-first public service.
+I'm proud to support Karla Hult for Senate District 50.
+She will be a strong voice for our environment, our communities, and the future we all want to build together." Bocar Kane Business and Community Leader “As a father who’s raised my family here and built my company from the ground up, I know how much it matters to have leaders who listen before they act.
+From the moment I welcomed Karla to our Rotary community, I could see she was the real deal.
+Karla asks the right questions, reaches across every community, and treats people with genuine kindness and respect.
+Those qualities are exactly what we need at the Capitol right now.
+I’m proud to endorse Karla Hult for Senate District 50.”— Bocar Kane, Founder & CEO, AMKA Safety DONATE Karla@KarlaHultforSenate.com 612-437-7721 Paid for by Karla Hult for Senate, P.O.
+Box 24544, Edina, MN 55424

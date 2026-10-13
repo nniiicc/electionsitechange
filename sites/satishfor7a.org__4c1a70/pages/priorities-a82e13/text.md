@@ -14,4 +14,6 @@ Community Always.
 These priorities come from our neighbors Every item on this list started as a conversation on a front porch, in a backyard, or at a kitchen table across District 7A.
 When we put people first, everyone has a chance to thrive.
 Get Involved Share Your Idea Satish Chapagain for Maryland State Delegate · District 7A "People First.
-Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish
+Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish continue to site Support Satish Chapagain Today Click an option below to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Secure contributions processed by ActBlue.
+You can give any amount.

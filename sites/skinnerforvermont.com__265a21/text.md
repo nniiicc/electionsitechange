@@ -1,10 +1,9 @@
 top of page Home About Issues and Ideas Events Log In Skinner For Vermont Ready to Listen, Ready to Work, Ready to Represent Every Voice.
 Donate Check out this weeks Islander Newspaper for my latest campaign ad, and as always thanks for your support! ​ Please contact us below if you're interested in any of these events and stay tuned...
-More to come! ​ Upcoming Events : October 10 : Harvest Fest at Allenholme Farm - check it out!
-October 13 : Candidate event with Amanda Janoo.
+More to come! ​ Upcoming Events : October 13 : Candidate event with Amanda Janoo.
 Snow Farm Vineyards.
 5:30pm October 15 : Building Bright Futures Candidate Forum NCSS Ted Mable Family Center - St.
-Albans 1 to 2:30pm October 16 : Honk and Wave at the Flag Pole on Sand Bar (rt 2) 7-9am October 17 : Coffee with Dave Worthen Library, South Hero 9 to 10:30 October 18 : Door Knock with Dave in South Hero 1 to 4pm VT Dems, Syvia Jensen, Kim Gleason and Dave Skinner October 24: Door Knock with Dave in South Hero 1 to 4pm VT Dems, Syvia Jensen, Kim Gleason and Dave Skinner I have 2-sided yard signs now.
+Albans 1 to 2:30pm October 16 : Honk and Wave at the Flag Pole on Sand Bar (rt 2) 7-9am October 17 : Coffee with Dave Worthen Library, South Hero 9 to 10:30 October 18 : Door Knock with Dave in South Hero 1 to 4pm VT Dems, Syvia Jensen, Kim Gleason and Dave Skinner October 19 : Grand Isle Dems /Vermont Conservation Voters Impact of Data Centers on Vermont GreenTara Space, North Hero 6:30pm October 24: Door Knock with Dave in South Hero 1 to 4pm VT Dems, Syvia Jensen, Kim Gleason and Dave Skinner I have 2-sided yard signs now.
 If you would like a sign (or know someone who does), let me know in the Connect & Engage section below!
 Representing the Champlain Islands and West Milton Dave Skinner for State House I’m Dave Skinner, and I’m running for the Vermont House of Representatives to represent the Grand Isle–Chittenden District.
 I am ready to do the work—ready to listen, exchange ideas, and put political labels aside to focus on practical solutions.

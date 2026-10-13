@@ -1,4 +1,4 @@
-Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Chris Mann leads over incumbent Kris Kobach in the latest poll in Kansas Attorney General race October 1, 2026 LAWRENCE, KS — As first reported by the Washington Sun , Chris Mann leads over Kris Kobach in Kansas’ Attorney General race, according to a recent poll commissioned by the Democratic Attorneys General Association.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate Chris Mann leads over incumbent Kris Kobach in the latest poll in Kansas Attorney General race October 1, 2026 LAWRENCE, KS — As first reported by the Washington Sun , Chris Mann leads over Kris Kobach in Kansas’ Attorney General race, according to a recent poll commissioned by the Democratic Attorneys General Association.
 Kris Kobach’s deep unpopularity is on full display in this recent poll, with 48% of respondents viewing Kobach unfavorably.
 “Kansans are fed up with Kris Kobach and his partisan political games.
 As Attorney General, he has continually failed to protect Kansans from violent crime, scam artists, and greedy corporations that try to take advantage of them,” said Leah Rymer, campaign spokesperson.
@@ -7,6 +7,6 @@ These recent numbers reflect the energy Mann has seen on the ground across Kansa
 “As we have traveled to more than 70 counties across Kansas, it is clear that Kansans are ready for change,” said Rymer.
 “Chris’ message of public service and refocusing this office back on the people of Kansas is resonating with voters across the political spectrum and state.” Earlier this week, the Mann campaign released its second broadcast television ad of the cycle , featuring a sitting Republican sheriff.
 Mann has also shattered Attorney General fundraising records , established a bipartisan advisory committee of current and retired law enforcement leaders , and earned the endorsement of 16 labor unions .
-### Post navigation Previous: NEW AD: Sitting Republican Sheriff Endorses Chris Mann for Kansas Attorney General Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+### Post navigation Previous: NEW AD: Sitting Republican Sheriff Endorses Chris Mann for Kansas Attorney General Next: Kansas State Lodge Fraternal Order of Police Endorses Chris Mann for Kansas Attorney General Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
 Docking Treasurer.
 Privacy Policy

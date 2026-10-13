@@ -32,10 +32,6 @@
 "href": "https://halesformissouri.com/get-involved/"
 },
 {
-"text": "Green Blouse $90.00",
-"href": "https://halesformissouri.com/product/green-blouse/"
-},
-{
 "text": "Green Necklace $299.00 Original price was: $299.00.$199.00Current price is: $199.00.",
 "href": "https://halesformissouri.com/product/green-necklace/"
 },
@@ -68,16 +64,20 @@
 "href": "https://halesformissouri.com/privacy/"
 },
 {
+"text": "Product with Sizes $70.00",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
+},
+{
 "text": "Sale! [image: Green Necklace]",
 "href": "https://halesformissouri.com/product/green-necklace/"
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/green-blouse/"
+"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/navy-blue-shirt/"
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "Shop",
@@ -100,16 +100,16 @@
 "href": "https://halesformissouri.com/volunteers/"
 },
 {
-"text": "[image: Green Blouse]",
-"href": "https://halesformissouri.com/product/green-blouse/"
-},
-{
 "text": "[image: Hales for Missouri]",
 "href": "https://halesformissouri.com/"
 },
 {
 "text": "[image: Navy Blue Shirt]",
 "href": "https://halesformissouri.com/product/navy-blue-shirt/"
+},
+{
+"text": "[image: Product with Sizes]",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "[image: Support the Party]",

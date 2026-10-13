@@ -39,13 +39,13 @@ Read More Mar 22 $26+ million for Central Ohio The Third Congressional District 
 Read More Feb 19 Save Voters Act Voting is a permanent guarantee that is the very lifeblood of our nation.
 As the Representative of Ohio’s Third Congressional District and the Chair of the Congressional Black Caucus, Representative Joyce Beatty is committed to doing everything in her power toward making it… Read More Feb 09 For the People Your voice is your vote, and your vote is your power.
 Our democracy must serve all Americans, and generations of civil rights activists like Congressman John Lewis fought to make sure every citizen has the opportunity to make their voice heard.
-Republicans in Congress and in… Read More Sign Up Stay Connected facebook.com/JoyceBeattyforCongress twitter.com/JoyceBeatty instagram.com/JoyceBeattyforCongress Joyce Beatty for Congress #ago I am honored to have the endorsement of the Alliance 4 American Leadership!
+Republicans in Congress and in… Read More Sign Up Stay Connected facebook.com/JoyceBeattyforCongress twitter.com/JoyceBeatty instagram.com/JoyceBeattyforCongress Joyce Beatty for Congress #ago A great weekend at Central States Homecoming.
+Thank you to all who attended and lovely spending time with Governor Wes Moore and future Governor Amy Acton. ...
+See More See Less Photo Joyce Beatty for Congress #ago I am honored to have the endorsement of the Alliance 4 American Leadership!
 Diplomacy and global development are two of America's most powerful tools to advance our interests, keep our troops safe at home, and fight poverty, disease, and hunger. ...
 See More See Less Photo Joyce Beatty for Congress #ago Thank you to everyone who has reached out in support of Congresswoman Beatty this last week.
 Those of us who know her, know she will never give up fighting for US and what she believes is right.
 In that spirit we wanted to share the song below and ask for your support to keep Congresswoman Beatty fighting for us.
 If you are able please contribute today: secure.actblue.com/donate/kc_2026 ...
 See More See Less Joyce Beatty: He Picked the Wrong One (Official Audio) www.youtube.com He picked the wrong one.Joyce Beatty — He Picked the Wrong OneC-...
-Video Joyce Beatty for Congress #ago Spending # days to Election Day in Michigan for an Early Vote Rally for their Primary.
-Check your registration and GO VOTE! ...
-See More See Less Video
+Video

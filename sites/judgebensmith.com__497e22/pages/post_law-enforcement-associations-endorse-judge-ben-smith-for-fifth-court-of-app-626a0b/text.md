@@ -19,7 +19,7 @@ He was appointed by Governor Rick Perry after winning the Republican primary and
 Before taking the bench, Smith worked in private practice and served for eight years as an assistant district attorney in Kaufman and Collin Counties.
 He is a graduate of Boston University School of Law and is a candidate for Justice of the Texas Fifth Court of Appeals, Place 6.
 #JudgeBensSmith #SmithforFifth #FifthCourtofAppeals #RuleofLaw #LawEnforcement #NorthTexas Political advertising paid for and/or authorized by Judge Ben Smith for Justice, 5th Court of Appeals.
-Recent Posts See All Successful Fundraiser at Harlan Crow Library Bolsters Campaign for Judge Ben Smith No Primary Opponent Judge Ben Smith Launches Campaign for 5th Court of Appeals, Place 6 "He has shown you, O mortal, what is good.
+Recent Posts See All Dallas Morning News Endorses Judge Smith Successful Fundraiser at Harlan Crow Library Bolsters Campaign for Judge Ben Smith No Primary Opponent "He has shown you, O mortal, what is good.
 And what does the LORD require of you?
 To act justly and to love mercy and to walk humbly with your God." Micah 6:8 2025 Judge Ben Smith | Pol.
 Adv. paid for and/or authorized by Judge Ben Smith for Justice, 5th Court of Appeals.

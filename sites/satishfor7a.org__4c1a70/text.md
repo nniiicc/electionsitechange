@@ -4,7 +4,7 @@ Satish Chapagain is running for Maryland State Delegate in District 7A — to pu
 Donate Volunteer Make Your Plan to Vote Power this campaign Chip in today — every dollar helps us reach more neighbors.
 Donate Now Countdown to Election Day Tuesday, November 3, 2026 Every day counts.
 Make your plan to vote today.
-21 Days 13 Hours 09 Minutes 00 Seconds Not sure where to vote?
+20 Days 13 Hours 08 Minutes 01 Seconds Not sure where to vote?
 Find Your Polling Place This November Vote for Satish Chapagain Maryland House of Delegates · District 7A Make Your Plan to Vote A Letter From Satish Why I'm running for our community I'm Satish Chapagain, and I'm running for Delegate because our neighbors in Perry Hall, White Marsh, Kingsville, Middle River, and Bowleys Quarters deserve a representative who listens first and delivers results.
 For too long, families here have felt unheard — struggling with the cost of living, under-resourced schools, and roads that need real investment.
 I've spent my life bringing people together and solving problems, and I'll carry that same spirit to Annapolis.
@@ -21,4 +21,6 @@ Reply STOP to opt out.
 Join the Movement Power this campaign Chip in today — every dollar helps us reach more neighbors.
 Donate Now Join our team Knock doors, make calls, or host a meet & greet.
 Volunteer Today Satish Chapagain for Maryland State Delegate · District 7A "People First.
-Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish
+Community Always." Donate Quick Links Home About Priorities Get Involved Vote Contact Contact info@satishchapagain.com satishfordelegate@gmail.com +1 (443) 760-8167 18 Chapel Manor Ct, Perry Hall, MD 21128 Stay Updated Join the Movement Privacy Policy Terms Admin By Authority: Friends of Satish Chapagain, Gyan Hari Ghimire, Treasurer Ask Team Satish continue to site Support Satish Chapagain Today Click an option below to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Secure contributions processed by ActBlue.
+You can give any amount.

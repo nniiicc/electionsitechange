@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Media Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
 Read below to find out what Yassamin has been up to recently.
 NEWS MS Now: Rep.
 Ansari: Wexner said he’d been to Epstein Island, denied ever seeing unusually young women Members of the House Oversight Committee questioned billionaire Les Wexner on his long friendship with Jeffrey Epstein.

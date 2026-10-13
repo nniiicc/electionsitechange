@@ -1,6 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Morgan Anker June 11, 2021 DREAM ON: Amid a housing crisis, Colorado lawmakers try to preserve a slice of the American Dream Morgan Anker June 11, 2021 By Sentinel Staff - June 12, 2021 For months, even throughout the pandemic, housing costs in Aurora and across Colorado have continued to rise, making a manicured lawn and white picket fence that much more elusive for umpteen local residents.
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Ballot Drop Box Information!
+Donate Morgan Anker June 11, 2021 DREAM ON: Amid a housing crisis, Colorado lawmakers try to preserve a slice of the American Dream Morgan Anker June 11, 2021 By Sentinel Staff - June 12, 2021 For months, even throughout the pandemic, housing costs in Aurora and across Colorado have continued to rise, making a manicured lawn and white picket fence that much more elusive for umpteen local residents.
 Those emblems of the American dream remain even more intangible for certain slices of the metroplex, and the ideals they represent became a prime focus for the newest crop of state legislators that represent Aurora.
 The city’s freshman delegation, Naquetta Ricks and Iman Jodeh, both co-sponsored two bills related to affordable housing and tenant’s rights.
 “Housing is going to be a big deal,” Ricks said.

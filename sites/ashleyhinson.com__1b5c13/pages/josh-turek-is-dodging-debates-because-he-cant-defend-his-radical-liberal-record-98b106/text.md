@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Josh Turek Is Dodging Debates Because He Can’t Defend His Radical, Liberal Record Sep 1, 2026 | Press Release Back to Updates Marion, IA – Hinson Campaign Communications Director Billy Fuerst issued the following statement calling out Josh Turek for dodging debates with Ashley Hinson: “Ashley Hinson has accepted a live WHO TV debate on October 13th.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Josh Turek Is Dodging Debates Because He Can’t Defend His Radical, Liberal Record Sep 1, 2026 | Press Release Back to Updates Marion, IA – Hinson Campaign Communications Director Billy Fuerst issued the following statement calling out Josh Turek for dodging debates with Ashley Hinson: “Ashley Hinson has accepted a live WHO TV debate on October 13th.
 Josh Turek won’t.
 Ashley has also agreed to a debate with Iowa PBS.
 Josh Turek won’t.

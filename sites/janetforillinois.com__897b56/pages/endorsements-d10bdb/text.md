@@ -1,4 +1,4 @@
-top of page JANET YANG ROHR Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+top of page JANET YANG ROHR Home Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
 For State Representative of IL House District 41 GET A YARD SIGN BUILDING A COALITION Endorsements We're proud to have the support of neighbors, essential workers, and other local and national forward thinkers.
 JB Pritzker, Illinois Governor Sean Casten, Congressman, 6th District Theresa Sullivan, Naperville City Councilwoman The IFT represents more than 100,000 dedicated education and public service professionals across Illinois.
 The Illinois AFL-CIO represents nearly 900,000 union members and is the voice of working families in the state.
@@ -24,4 +24,4 @@ IRTA is an organization of over 37,000 retired educators.
 They aim to protect, preserve, and improve benefits for individuals receiving pension and healthcare benefits.
 Other Endorsements Men4Choice | Asian American Democratic Club | Asian American Leaders Caucus | UAW - Region 4 | Sprinkler Fitters and Apprentices Union - Local 281 | Indo-American Democratic Organization | Cook County Teachers Union, Local 1600 | Illinois Farm Bureau ACTIVATOR | Western Suburban Teacher's Union Local 571 ​ ​ Other endorsements will be added throughout the campaign as organizations release their slates of candidates.
 SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
-Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page
+Home Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

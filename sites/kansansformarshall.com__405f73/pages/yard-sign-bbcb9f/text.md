@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Yard signs Put Doc in the yard.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute Yard signs Put Doc in the yard.
 Free for Kansas supporters.
 Signs are freely available from your county GOP — or tell us where to bring it, and the field team will get one to you.
 Request a sign Tell us where it's going.

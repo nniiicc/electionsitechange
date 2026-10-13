@@ -13,6 +13,6 @@ I will continue to make myself Accessible to all and Accountable to YOU.
 Let's take this energy all the way to Olympia and make sure Eastern Washington is represented and heard.
 In future weeks I'll take what you have told me you want and further refine our policy priorities and make sure we have clear objectives and a plan that we can take all the way to Olympia.
 Thank you again so much for your votes.
-Humbly Yours, Julia Payne Tags: BLOG POST Recent Posts See All UPCOMING: Julia at Indigenous Peoples Day Celebration on October 12, 2026 UPCOMING: Julia at Trans-Forum on October 11, 2026 Julia at Gonzaga's 8th Annual Spokane Candidates Climate Change Forum Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
+Humbly Yours, Julia Payne Tags: BLOG POST Recent Posts See All UPCOMING: Julia at Inland Empire Nurses Association Legislative Dinner on October 14 at 5 PM UPCOMING: Julia's Radio Interview with Spokane Public Radio and League of Women Voters on October 13, 2026 at 6 PM Julia at Indigenous Peoples Day Celebration on October 12, 2026 Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
 All Rights Reserved.
 Paid for by Friends of Julia, PO Box 9056, Spokane, WA 99209 bottom of page

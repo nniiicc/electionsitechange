@@ -1,4 +1,4 @@
-| Newspaper (may select more than one) The Boscobel DialFennimore TimesGrant County Herald IndependentThe Platteville JournalRichland ObserverTelegraph-HeraldWisconsin State JournalTri-County PressThe Republican JournalCrawford County Independent and the Kickapoo ScoutCourier Press LaCrosse Tribune Letter To The Editor Form First Name Last Name Address City State Zip Phone (Some editors will call to confirm authenticity) Your Email | Contact Information Be sure to provide all your contact information in the spaces provided.
+Skip to content Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact Search Search for: Close menu Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact Search Toggle menu Search for: Letters to the Editor Newspaper (may select more than one) The Boscobel Dial Fennimore Times Grant County Herald Independent The Platteville Journal Richland Observer Telegraph-Herald Wisconsin State Journal Tri-County Press The Republican Journal Crawford County Independent and the Kickapoo Scout Courier Press LaCrosse Tribune Letter To The Editor Form First Name Last Name Address City State Zip Phone (Some editors will call to confirm authenticity) Your Email Contact Information Be sure to provide all your contact information in the spaces provided.
 Many papers will not publish a letter without contacting you first to confirm your identity and some editors may have questions about your letter.
 Less is More A brief yet well stated point makes a great letter to the editor.
 Be sure to use clear and concise wording.
@@ -10,5 +10,9 @@ This is Your Voice Remember, you have the right to speak and be heard!
 Take pride in you letter and make the most of your opportunity to advocate whatever is on your mind.
 Focus on relevant issues in the news, particularly those that were recently published in the paper you are writing.
 If possible, cite a specific article or letter you are responding to.
-The more recent your topic made news the more likely you are to be published. | |
-| Subject Your Message | | |
+The more recent your topic made news the more likely you are to be published.
+Subject Your Message Contact Tranel For Assembly | PO Box 111 | Platteville, WI 53818 608-778-5567 travis@travistranel.com Page likes: 2,084 (opens in a new tab) Tranel for Assembly (opens in a new tab) VOTE - Travis Tranel - NOV 3 Tranel for Assembly is with College Republicans of UW-Platteville and 4 others.
+#ago Had a great time at the UW–Platteville Homecoming Parade today!
+Thank you for the warm welcome, and a special thanks to the organizers and volunteers who worked hard to make the parade such a success.
+The university is a tremendous asset to Southwest Wisconsin, and it was wonderful to celebrate its community spirit on such a beautiful day! ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Locations Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact © # Travis Tranel for 49th Assembly - All Rights Reserved Authorized and Paid for by Tranel for Assembly, Rosie Bechen, Treasurer

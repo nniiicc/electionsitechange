@@ -1,5 +1,5 @@
 Skip to content DOC MARSHALL U.S.
-SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute The record · Spirit · McConnell AFB · Fort Riley Aerospace & Defense Kansas builds the planes.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News The facts Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News The facts Contribute The record · Spirit · McConnell AFB · Fort Riley Aerospace & Defense Kansas builds the planes.
 We make sure Kansas keeps building them.
 Finding Kansas builds the planes.
 We make sure Kansas keeps building them.

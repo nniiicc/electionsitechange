@@ -16,7 +16,14 @@ With bold leadership and a deep love for this state, Hannah is ready to deliver 
 #TeamPingree Take Action Today Maine people are already stepping up to build this grassroots campaign, pitching in however they can, early and with heart.
 This work is powered by you, and together we are laying the groundwork to win.
 Join us, and be part of building a bright future for our great state.
-Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 9, 2026 Wabanaki Tribal Chiefs Endorse Hannah Pingree for Governor Chiefs back Hannah’s plan to restore full Tribal sovereignty and strengthen government-to-government partnership INDIAN ISLAND – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, joined Wabanaki Nation Tribal Chiefs and leaders today to announce their endorsements of her campaign, ahead of Indigenous Peoples’ Day weekend.
+Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 12, 2026 Five Questions with Hannah Pingree This column, written by Joyce Vance, was originally published on Substack.
+Read it here.
+The first time I met Hannah Pingree was at a local parade in Freeport, Maine.
+My daughter was working there at the time.
+I saw Hannah walking around, casually chatting with folks.
+I told her I wasn’t a Maine voter, but...
+Read More October 12, 2026 Hannah Pingree Statement on Indigenous Peoples’ Day MAINE – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, released the following statement on Indigenous Peoples’ Day: “On Indigenous Peoples’ Day, we honor the Wabanaki people, who have been the original stewards of this land for over 12,000 years, and reaffirm the commitment to advancing tribal sovereignty and building...
+Read More October 9, 2026 Wabanaki Tribal Chiefs Endorse Hannah Pingree for Governor Chiefs back Hannah’s plan to restore full Tribal sovereignty and strengthen government-to-government partnership INDIAN ISLAND – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, joined Wabanaki Nation Tribal Chiefs and leaders today to announce their endorsements of her campaign, ahead of Indigenous Peoples’ Day weekend.
 During her years in public...
 Read More October 8, 2026 Hannah Pingree Releases New TV Ad, “Time Out” New spot offers Maine voters a break from the attack ads as every publicly available poll show Hannah with a commanding lead MAINE – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, released her third television advertisement of the general election, titled “Time Out”.
 While negative ads crowd Maine’s airwaves,...
@@ -30,10 +37,6 @@ Read More October 5, 2026 Letter: Why Hannah Pingree has my vote This guest colu
 Bill Bridgeo, was originally published in the Portland Press Herald.
 I am in full support of Hannah Pingree for governor of Maine.
 I’ve known and admired Hannah for many years; I believe that she has the right combination of principled leadership skills, compassion, creativity and energy to enable our...
-Read More September 28, 2026 Hannah Pingree Releases New TV Ad, “We Bought It” – Features Resident of Blueberry Fields Cooperative in Brunswick Two new public polls secure her overwhelming lead in the Maine gubernatorial race MAINE – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, released her second television advertisement of the general election, titled “We Bought It” — remaining the only candidate in the gubernatorial race to go on air.
-The...
-Read More September 25, 2026 Hannah Pingree Statement on Spike in Heating Oil Costs MAINE — According to a new survey from the Maine Department of Energy Resources, heating fuel costs are climbing sharply heading into winter.
-The agency’s weekly fuel survey found the statewide average price of heating oil hit $5.77 per gallon on September 14 — a 74% jump from a year earlier — with kerosene averaging...
 Read More Spread The Word Let's Go!
 Sign Up For Updates First Name Cell Phone Email Zipcode Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
 Message & data rates may apply.

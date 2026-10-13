@@ -4,7 +4,7 @@ To the Ohio Democratic Party, the Pride Caucus, and Democratic Allies, This is a
 It is with a very heavy heart that I must announce my official resignation from the Ohio Democratic Party Pride Caucus—both as Vice Chair and as a member.
 Over the past two years, it has been my honor to serve first as a member of the steering committee and then as the Vice Chair.
 I accepted the position...
-20 0 May 6, 2026 ∙ 3 min Arienne Childrey: A Strong Night in the Ohio Primary – Moving Forward Together Tonight, Ohio voters spoke, and I am deeply grateful.
+54 0 May 6, 2026 ∙ 3 min Arienne Childrey: A Strong Night in the Ohio Primary – Moving Forward Together Tonight, Ohio voters spoke, and I am deeply grateful.
 In the 2026 Ohio Primary Election, thousands of citizens across Auglaize, Darke, and Mercer counties took time out of their busy lives to participate in our democracy.
 Whether you voted for me, supported other candidates, or simply showed up to make your voice heard, thank you.
 Active civic engagement is the foundation of a healthy republic, and every ballot cast strengthens our community.

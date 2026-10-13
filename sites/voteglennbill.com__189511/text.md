@@ -3,7 +3,13 @@ Donate Join Newsletter Top 125 Keynote Speaker – SUCCESS Magazine #1 Internati
 Donate Join Newsletter Top 125 Keynote Speaker – SUCCESS Magazine #1 International Best-Selling Author 35+ Years Indiana Business Leader Proven Community Leader Award Winning Podcast Host 35+ Years in Business 10,000+ Properties Sold 13 Indiana State Titles Top 1% Indiana Realtor Campaign Highlights WATCH GLENN IN ACTION Campaign speeches, events, and moments from the trail.
 Hear directly from Glenn why he's running for Indiana State Representative — and what he'll fight for on behalf of the families and businesses of District 86.
 Your browser does not support the video tag.
-MORE FROM THE CAMPAIGN TRAIL GLENN'S SPEECH ROOFTOP FUNDRAISER SPEECH Get Involved Learn More About Glenn America's #1 Authority on Attitude Keynote Speaker · Author · Business Leader Meet the Candidate A LEADER BUILT BY INDIANA Glenn Bill has spent over 35 years building businesses, coaching championship teams, and serving the Indiana community.
+MORE FROM THE CAMPAIGN TRAIL GLENN'S SPEECH ROOFTOP FUNDRAISER SPEECH VOTE FOR GLENN BILL Your browser does not support the video tag.
+Get Involved Learn More About Glenn NAR Research Summit DATA CENTER IMPACTS ON HOUSING VALUES IN NORTHERN VIRGINIA A National Association of REALTORS® research briefing on data-center growth and housing markets.
+Take the time to familiarize yourself with the results of the Data Center Study from NAR (the National Association of REALTORS).
+Official Video Recording NAR RESEARCH SUMMIT: DATA CENTERS & REAL ESTATE Watch the full NAR discussion on data-center development, real estate, and housing-market impacts.
+Watch on NAR 2026 Data Center Impact: The Data Behind the Data Centers, Nadia Evangelou NAR presentation PDF Download PDF Data Center Impacts on Housing Values in Norther Virginia, by Terry L.
+Clower, Ph.D.
+NAR presentation PDF Download PDF REALTOR® Impact Perceptions by Matt Christopherson NAR presentation PDF Download PDF America's #1 Authority on Attitude Keynote Speaker · Author · Business Leader Meet the Candidate A LEADER BUILT BY INDIANA Glenn Bill has spent over 35 years building businesses, coaching championship teams, and serving the Indiana community.
 He got his real estate license at 19, purchased his own franchise at 23, and grew it into one of the most successful real estate offices in the world — selling it at 37 after achieving 10x growth.
 As a high school football coach for 25 years, Glenn was part of teams that won 11 State Championships — which, combined with his two state titles as a player, set an Indiana State record of 13 titles.
 He is married to his grade school sweetheart, is a father of four, and a proud grandfather of six.

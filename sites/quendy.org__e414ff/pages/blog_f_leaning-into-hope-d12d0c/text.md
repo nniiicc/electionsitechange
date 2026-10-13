@@ -56,5 +56,5 @@ I don’t have all the answers, but I do know this: giving up on hope isn’t an
 I believe in people, in community, and in the idea that our best days don’t have to be behind us.
 Even when the world feels heavy, hope reminds us that better days are possible—and that our actions matter.
 I’m choosing hope as an action; choose it with me.
-Share this post: Recent Posts District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Overwhelmed with Gratitude Aug 31, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
+Share this post: Recent Posts District 60 Tour l Carlisle + DesArc Oct 12, 2026 District 60 Tour l Humnoke Oct 6, 2026 District 60 Tour Sep 21, 2026 Copyright © # Quendy's Campaign - All Rights Reserved.
 Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

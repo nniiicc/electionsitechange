@@ -1,5 +1,5 @@
 top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
-CruzNYC All Articles Search Transforming Local Education: Essential Education Reform Strategies Ruben Cruz #ago 3 min read Education shapes our future.
+CruzNYC All Articles Search Transforming Local Education: Essential Education Reform Strategies Ruben Cruz Oct 5 3 min read Education shapes our future.
 It molds the minds of tomorrow’s leaders, workers, and citizens.
 Yet, our local schools face challenges that demand urgent action.
 I believe it’s time to transform local education with bold, essential reforms.

@@ -1,4 +1,4 @@
-Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Announces 6th Annual BBQ Bash Jul 10, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson will host the 6th Annual Ashley’s BBQ Bash at the Horizon Events Center in Clive on Saturday, August 29, 2026.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Announces 6th Annual BBQ Bash Jul 10, 2026 | Press Release Back to Updates Marion, IA – Congresswoman Ashley Hinson will host the 6th Annual Ashley’s BBQ Bash at the Horizon Events Center in Clive on Saturday, August 29, 2026.
 Over the last six years, Ashley’s BBQ Bash has become one of Iowa’s premier political events, bringing together supporters, community leaders, and families from across the state as well as highlighting a local non-profit organization.
 Previous featured guests have included Majority Whip Tom Emmer, Scott Jennings, Senator Ted Cruz, and Chairman Jim Jordan.
 This year’s speakers and special guests will be announced in the coming weeks.

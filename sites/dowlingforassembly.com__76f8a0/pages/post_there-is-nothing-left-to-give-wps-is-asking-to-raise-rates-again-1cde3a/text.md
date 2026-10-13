@@ -1,5 +1,5 @@
 top of page hello@dowlingforassembly.com (920) 268-4734‬ Home WI Assembly District 53 About Endorsements Proven Record Experience Contact Video Message Merch Events & Community Conversations Request A Yard Sign File Share Notifications Members Blog More Use tab to navigate through the menu items.
-All Posts Flock Cameras Data Centers Housing Fixed Income Search There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Rachael Dowling #ago 4 min read There is nothing left to give.
+All Posts Flock Cameras Data Centers Housing Fixed Income Search There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Rachael Dowling Oct 4 4 min read There is nothing left to give.
 That's what kept running through my head when I started reading about Wisconsin Public Service's proposed rate increases for 2027 and 2028.
 WPS is asking the Public Service Commission of Wisconsin to approve another increase in electric and natural gas rates.
 According to WPS, a typical residential electric customer would pay about $11 more per month in 2027 and another $5 more per month in 2028.
@@ -96,8 +96,8 @@ We pay it alongside every other household expense that has increased.
 There comes a point when there is simply nothing left to cut.
 I respectfully ask the Commission to closely scrutinize the costs included in WPS's request and approve only those increases that are demonstrated to be necessary and reasonable.
 Please consider the real financial circumstances of the customers who ultimately have to pay these rates.
-Thank you for considering my comments. [YOUR NAME] [CITY] WPS Customer Tags: WPS Rate Increase Public Service Commission of Wisconsin Recent Posts See All Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
+Thank you for considering my comments. [YOUR NAME] [CITY] WPS Customer Tags: WPS Rate Increase Public Service Commission of Wisconsin Recent Posts See All I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
 Federal Vaccine Guidelines Changed.
 Should Wisconsin Change Too?
-We’re All on a Fixed Income CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

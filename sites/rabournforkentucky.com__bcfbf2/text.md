@@ -1,6 +1,6 @@
 Home About Facebook VOLUNTEER CONTRIBUTE Home About Facebook VOLUNTEER CONTRIBUTE Home About Volunteer Contribute Home About Volunteer Contribute A brighter future for generations to come Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone * Name Phone Checkboxes Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Felicia Rabourn for State Representative at the number provided.
+Phone Name Layout Name * First Last Email * Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Felicia Rabourn for State Representative at the number provided.
 Donations may be solicited.
 Msg & data rates may apply.
 Msg frequency varies.
@@ -28,11 +28,11 @@ Lower taxes strengthen our economy, support job growth, and give families greate
 I will continue fighting for policies that put taxpayers first and keep Kentucky moving in the right direction.
 Stay Informed Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Last Name First Name * Last Name * Email * Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Felicia Rabourn for State Representative at the number provided.
+First Name * Last Name * Email * Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Felicia Rabourn for State Representative at the number provided.
 Donations may be solicited.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
 See the Privacy Policy and Terms & Conditions in the links below.
-SUBMIT Follow Follow Privacy Policy Terms & Conditions Paid for by Felicia Rabourn for State Representative.
+Email Name First SUBMIT Follow Follow Privacy Policy Terms & Conditions Paid for by Felicia Rabourn for State Representative.
