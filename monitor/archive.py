@@ -2,20 +2,27 @@
 
 Submission itself is done by spn.sh (overcast07/wayback-machine-spn-scripts, MIT, vendored in tools/vendor/), which
 handles Save Page Now authentication, parallel jobs, retries and the account's limits. This module only decides WHAT
-to submit and records WHAT came back:
+to submit and records WHAT came back. archive.sh runs it alongside the daily crawl:
 
-  queue  REPO DAY STATE [--backlog N]   write STATE/queue/DAY-changed.txt and DAY-backlog.txt
-         changed: pages added or changed today that step 0 kept, in priority order: homepages (a site-wide
-                  change submits the site's homepage), new pages, pages whose text/links/metadata changed,
-                  pages where only images changed. backlog: up to N homepages never archived yet (first round).
-  record STATE DAY                      read spn.sh's logs for DAY into STATE/results/DAY.csv
-                                        (url, capture, status) and add archived homepages to the done list
-  apply  REPO STATE                     copy results into REPO/wayback/ and fill each change record's wayback
-                                        links: after = the capture made by that day's archiving, before = the
-                                        latest capture of the page made on an earlier day
+  The crawler (snapshot.py --archive-queue) appends "<priority>\t<url>" to STATE/live/DAY.tsv for every new or
+  changed page that step 0 keeps, as soon as it is found. daily.sh touches STATE/live/DAY.done when the crawl ends.
 
-STATE (~/monitor/wayback) is outside the snapshot repository: daily.sh discards uncommitted files in the repository
-at the start of each run, so results are copied in by `apply` just before the snapshot commit.
+  homepages  REPO STATE              write STATE/homepages.txt (the site list's homepages)
+  next-batch STATE DAY N             the N highest-priority queued pages not yet submitted today, in priority order,
+                                     into STATE/queue/DAY-batch.txt; they are added to STATE/queue/DAY-changed.txt
+                                     (everything submitted today). Prints how many.
+  backlog    STATE DAY N             up to N homepages never archived and not submitted today -> DAY-backlog.txt
+  queue      REPO DAY STATE          for a day archived by hand after its run: build live/DAY.tsv from the day's
+                                     change records (same priorities) and mark it done
+  record     STATE DAY               read spn.sh's logs for DAY into STATE/results/DAY.csv (url, queue, capture,
+                                     status) and add archived homepages to the done list
+  apply      REPO STATE              copy results into REPO/wayback/ and fill each change record's wayback links:
+                                     after = the capture made by that day's archiving, before = the latest capture
+                                     of the page made on an earlier day
+
+Priorities: 0 homepage (a site-wide change submits the homepage), 1 new page, 2 text/links/metadata changed,
+3 only images changed. STATE (~/monitor/wayback) is outside the snapshot repository: daily.sh discards uncommitted
+files in the repository at the start of each run, so results are copied in by `apply` just before the snapshot.
 """
 import argparse, csv, glob, json, os, re, sys
 
@@ -51,36 +58,68 @@ def done_homepages(state):
     return set(_read(p).split()) if os.path.exists(p) else set()
 
 
-def queue(repo, day, state, backlog_n):
+def _live(state, day):
+    return os.path.join(state, "live", f"{day}.tsv")
+
+
+def priority(r, home):
+    """(priority, url) for a change record, or None if it is not submitted"""
+    if (r.get("step0") or {}).get("discard") or r["kind"] == "removed":
+        return None
+    if r["kind"] == "sitewide":
+        return 0, home.get(r["site_id"]) or r.get("url")
+    if r["page"] == "/":
+        return 0, r.get("url")
+    if r["kind"] == "added":
+        return 1, r.get("url")
+    content = any((r.get(k) or {}).get("removed") or (r.get(k) or {}).get("added") for k in ("text", "links")) or r.get("meta")
+    return (2 if content else 3), r.get("url")
+
+
+def queue(repo, day, state):
     p = os.path.join(repo, "changes", f"{day}.jsonl")
     recs = [json.loads(l) for l in _read(p).splitlines() if l.strip()] if os.path.exists(p) else []
     home = {sid: url for sid, url in homepages(repo)}
-    # priority: 0 homepages (incl. a site-wide change's homepage), 1 new pages, 2 pages whose text, links or
-    # metadata changed, 3 pages where only images changed. The account captures about 3,000 pages a day, so
-    # the end of the list may not be reached before the next day's run.
-    tiers, seen = ([], [], [], []), set()
-    for r in recs:
-        if (r.get("step0") or {}).get("discard") or r["kind"] == "removed":
-            continue
-        if r["kind"] == "sitewide":
-            url, t = home.get(r["site_id"]) or r.get("url"), 0
-        elif r["page"] == "/":
-            url, t = r.get("url"), 0
-        elif r["kind"] == "added":
-            url, t = r.get("url"), 1
-        else:
-            content = any(r.get(k, {}).get("removed") or r.get(k, {}).get("added") for k in ("text", "links")) or r.get("meta")
-            url, t = r.get("url"), 2 if content else 3
-        if url and _norm(url) not in seen:
-            seen.add(_norm(url)); tiers[t].append(url)
-    first = tiers[0]
-    changed = [u for t in tiers for u in t]
-    done = done_homepages(state)
-    backlog = [u for _, u in homepages(repo) if _norm(u) not in done and _norm(u) not in seen][:backlog_n]
-    _write(os.path.join(state, "queue", f"{day}-changed.txt"), changed)
-    _write(os.path.join(state, "queue", f"{day}-backlog.txt"), backlog)
-    return {"changed": len(changed), "changed_homepages": len(first), "backlog": len(backlog),
-            "homepages_never_archived": sum(1 for _, u in homepages(repo) if _norm(u) not in done)}
+    lines = [f"{pu[0]}\t{pu[1]}" for pu in (priority(r, home) for r in recs) if pu and pu[1]]
+    _write(_live(state, day), lines)
+    _write(_live(state, day)[:-4] + ".done", [])
+    return {"queued": len(lines)}
+
+
+def _submitted(state, day):
+    p = os.path.join(state, "queue", f"{day}-changed.txt")
+    return _read(p).split() if os.path.exists(p) else []
+
+
+def next_batch(state, day, n):
+    best = {}                                             # page -> (priority, arrival order, url)
+    p = _live(state, day)
+    text = _read(p) if os.path.exists(p) else ""
+    if text and not text.endswith("\n"):
+        text = text[:text.rfind("\n") + 1]               # the last line is still being written: next time
+    for k, line in enumerate(text.splitlines()):
+        prio, _, url = line.partition("\t")
+        if not url.strip() or not prio.isdigit():
+            continue                                      # a line still being written, or damaged
+        key = _norm(url)
+        if key not in best or int(prio) < best[key][0]:
+            best[key] = (int(prio), best.get(key, (0, k))[1], url.strip())
+    done = {_norm(u) for u in _submitted(state, day)}
+    batch = [u for _, _, u in sorted(v for key, v in best.items() if key not in done)][:n]
+    _write(os.path.join(state, "queue", f"{day}-batch.txt"), batch)
+    if batch:
+        os.makedirs(os.path.join(state, "queue"), exist_ok=True)
+        with open(os.path.join(state, "queue", f"{day}-changed.txt"), "a") as f:
+            f.writelines(u + "\n" for u in batch)
+    return len(batch)
+
+
+def backlog(state, day, n):
+    done = done_homepages(state) | {_norm(u) for u in _submitted(state, day)}
+    homes = [u for _, u in homepages_from_state(state)]
+    out = [u for u in homes if _norm(u) not in done][:n]
+    _write(os.path.join(state, "queue", f"{day}-backlog.txt"), out)
+    return {"backlog": len(out), "homepages_never_archived": sum(1 for u in homes if _norm(u) not in done_homepages(state))}
 
 
 def record(state, day):
@@ -189,18 +228,19 @@ def apply(repo, state):
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
+    h = sub.add_parser("homepages"); h.add_argument("repo"); h.add_argument("state")
+    nb = sub.add_parser("next-batch"); nb.add_argument("state"); nb.add_argument("day"); nb.add_argument("n", type=int)
+    b = sub.add_parser("backlog"); b.add_argument("state"); b.add_argument("day"); b.add_argument("n", type=int)
     q = sub.add_parser("queue"); q.add_argument("repo"); q.add_argument("day"); q.add_argument("state")
-    q.add_argument("--backlog", type=int, default=2000)
     r = sub.add_parser("record"); r.add_argument("state"); r.add_argument("day")
     a = sub.add_parser("apply"); a.add_argument("repo"); a.add_argument("state")
     x = ap.parse_args()
-    if x.cmd == "queue":
-        _write(os.path.join(x.state, "homepages.txt"), [u for _, u in homepages(x.repo)])
-        out = queue(x.repo, x.day, x.state, x.backlog)
-    elif x.cmd == "record":
-        out = record(x.state, x.day)
-    else:
-        out = apply(x.repo, x.state)
+    if x.cmd == "homepages":
+        _write(os.path.join(x.state, "homepages.txt"), [u for _, u in homepages(x.repo)]); return
+    if x.cmd == "next-batch":
+        print(next_batch(x.state, x.day, x.n)); return
+    out = {"backlog": lambda: backlog(x.state, x.day, x.n), "queue": lambda: queue(x.repo, x.day, x.state),
+           "record": lambda: record(x.state, x.day), "apply": lambda: apply(x.repo, x.state)}[x.cmd]()
     print(json.dumps(out))
 
 

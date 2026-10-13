@@ -29,8 +29,20 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
     # wayback links of those days' change records
     [ -f "$REPO/monitor/archive.py" ] && "$PY" "$REPO/monitor/archive.py" apply "$REPO" "$MON/wayback" \
         || echo "wayback apply skipped or failed"
+    # Wayback archiving (issue #8) runs alongside the crawl: the crawler appends each new or changed page to
+    # LIVE as it finds it, and archive.sh submits them while the crawl visits other sites. DONE tells it the
+    # crawl has ended. Detached, and 9>&- so it does not inherit this run's lock (tomorrow's run would be skipped).
+    LIVE="$MON/wayback/live/$DAY.tsv"; DONE="$MON/wayback/live/$DAY.done"
+    mkdir -p "$MON/wayback/live"; rm -f "$DONE"; : >>"$LIVE"
+    QUEUE_ARGS=()
+    if [ -x "$REPO/monitor/archive.sh" ] && [ -z "${MONITOR_NO_ARCHIVE:-}" ]; then
+        setsid nohup "$REPO/monitor/archive.sh" "$DAY" >>"$MON/archive.log" 2>&1 < /dev/null 9>&- &
+        QUEUE_ARGS=(--archive-queue "$LIVE")
+        echo "archiving started for $DAY"
+    fi
     if "$PY" "$REPO/monitor/snapshot.py" "$REPO/monitor/monitor_urls.csv" "$REPO" \
-            --workers 24 --raw-dir "$MON/raw" --summary "$MON/last_summary.json"; then
+            --workers 24 --raw-dir "$MON/raw" --summary "$MON/last_summary.json" "${QUEUE_ARGS[@]}"; then
+        touch "$DONE"
         # Take any commits made on GitHub first (e.g. a README edited in the browser);
         # otherwise every later push would be rejected.
         if git -C "$REPO" pull -q --rebase origin main && git -C "$REPO" push -q origin main; then
@@ -39,14 +51,9 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
             git -C "$REPO" rebase --abort 2>/dev/null || true
             echo "PUSH FAILED - will be retried by the next run"
         fi
-        # archive today's changed pages (issue #8); detached, so this run's lock is released now
-        if [ -x "$REPO/monitor/archive.sh" ] && [ -z "${MONITOR_NO_ARCHIVE:-}" ]; then
-            # 9>&- : the archiver must not inherit this run's lock, or tomorrow's run would be skipped
-            setsid nohup "$REPO/monitor/archive.sh" "$DAY" >>"$MON/archive.log" 2>&1 < /dev/null 9>&- &
-            echo "archiving started for $DAY"
-        fi
     else
         echo "SNAPSHOT FAILED (exit $?) - partial files discarded"
+        touch "$DONE"                      # pages already submitted stay archived; their records are not kept
         discard_partial
     fi
     echo "=== $(date -u +%FT%TZ) end"

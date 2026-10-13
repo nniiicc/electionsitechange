@@ -11,7 +11,24 @@ run:  ~/monitor/.venv/bin/python -m unittest discover -s tests -v
 import fcntl, os, shutil, subprocess, sys, tempfile, unittest
 from pathlib import Path
 
-from test_daily_run import page, serve_dir, OTHER
+import http.server, time
+
+from test_daily_run import page, serve, serve_dir, OTHER
+
+SLOW_S = 6
+
+
+class Slow(http.server.BaseHTTPRequestHandler):
+    """a site that takes SLOW_S seconds per request, so the crawl is still running long after the fast site is done"""
+    def do_GET(self):
+        time.sleep(SLOW_S)
+        body = (page("Lee Poe for Mayor", OTHER) if self.path == "/" else "").encode()
+        self.send_response(200 if self.path == "/" else 404)
+        self.send_header("Content-Type", "text/html; charset=utf-8"); self.send_header("Content-Length", str(len(body)))
+        self.end_headers(); self.wfile.write(body)
+
+    def log_message(self, *a):
+        pass
 
 CODE = Path(__file__).resolve().parent.parent / "monitor"
 GIT_ENV = {"GIT_AUTHOR_NAME": "test", "GIT_AUTHOR_EMAIL": "test@localhost",
@@ -34,6 +51,7 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
         cls.www = t / "www"; cls.www.mkdir()
         (cls.www / "index.html").write_text(page("Sam Roe for State Senate", OTHER))
         cls.srv = serve_dir(str(cls.www))
+        cls.slow = serve(Slow)
 
         # "GitHub": a bare repo holding the monitor code and a one-site URL list
         git(t, "init", "-q", "--bare", "-b", "main", str(cls.origin))
@@ -44,7 +62,8 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
                   "archive.py", "archive.sh"):
             shutil.copy(CODE / f, author / "monitor" / f)
         (author / "monitor" / "monitor_urls.csv").write_text(
-            f"site_id,url\nroe,http://127.0.0.1:{cls.srv.server_address[1]}/\n")
+            f"site_id,url\nroe,http://127.0.0.1:{cls.srv.server_address[1]}/\n"
+            f"poe,http://127.0.0.1:{cls.slow.server_address[1]}/\n")
         git(author, "add", "-A"); git(author, "commit", "-q", "-m", "code")
         git(author, "remote", "add", "origin", str(cls.origin)); git(author, "push", "-q", "origin", "main")
 
@@ -59,8 +78,11 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
 
         # a stand-in for spn.sh: waits a few seconds, then "captures" every submitted URL
         cls.stub = t / "spn_stub.sh"
+        # it also records when it was called and what it was given
+        cls.calls = t / "spn_calls.txt"
         cls.stub.write_text('#!/bin/bash\nwhile getopts "a:f:p:nqt:d:" o; do [ "$o" = f ] && D="$OPTARG"; done\n'
-                            'shift $((OPTIND-1)); mkdir -p "$D"; sleep 4\n'
+                            f'shift $((OPTIND-1)); echo "$(date +%s) $(tr "\\n" " " < "$1")" >> {cls.calls}\n'
+                            'mkdir -p "$D"; sleep 4\n'
                             'while read -r u; do [ -n "$u" ] && echo "/web/20990101000000/$u" >> "$D/captures.log"; done < "$1"\n')
         cls.stub.chmod(0o755)
         cls.keys = t / "keys"; cls.keys.write_text("testkey:testsecret\n")
@@ -78,15 +100,26 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
     @classmethod
     def run_daily(cls):
         env = {**os.environ, **GIT_ENV, "MONITOR_HOME": str(cls.mon), "MONITOR_PY": sys.executable,
-               "SPN_SH": str(cls.stub), "SPN_KEYS": str(cls.keys)}
+               "SPN_SH": str(cls.stub), "SPN_KEYS": str(cls.keys), "ARCHIVE_POLL_S": "1"}
         return subprocess.run(["bash", str(CODE / "daily.sh")], env=env, timeout=120,
                               capture_output=True, text=True).returncode
 
     @classmethod
     def tearDownClass(cls):
-        cls.srv.shutdown(); cls.srv.server_close(); cls.tmp.cleanup()
+        for s_ in (cls.srv, cls.slow):
+            s_.shutdown(); s_.server_close()
+        cls.tmp.cleanup()
 
-    def test_archiving_runs_after_the_run_without_holding_its_lock(self):
+    def test_pages_are_submitted_while_the_crawl_is_still_visiting_other_sites(self):
+        snap_time = int(git(self.mon / "snapshots", "log", "-1", "--format=%ct", "--grep=^snapshot").strip())
+        calls = [l.split() for l in self.calls.read_text().splitlines()]
+        roe = f"http://127.0.0.1:{self.srv.server_address[1]}/"
+        first = next(c for c in calls if roe in c[1:])
+        # the fast site's page went to the archive before the crawl (held up by the slow site) committed
+        self.assertLess(int(first[0]), snap_time, (calls, snap_time))
+        self.assertNotIn(f"http://127.0.0.1:{self.slow.server_address[1]}/", first[1:])
+
+    def test_archiving_runs_alongside_the_run_without_holding_its_lock(self):
         self.assertIn("archiving started for", self.log_after_run)
         self.assertTrue(self.lock_free, "the archiver inherited the daily lock; tomorrow's run would be skipped")
 
@@ -101,7 +134,8 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
         # the site's homepage is new on the first day, so it is queued as a changed page and "captured" by the stand-in
         alog = (self.mon / "archive.log").read_text() if (self.mon / "archive.log").exists() else ""
         runs = sorted(str(p.relative_to(self.mon)) for p in (self.mon / "wayback").rglob("*"))
-        self.assertEqual([(r["queue"], r["status"]) for r in rows], [("changed", "captured")], (rows, alog, runs))
+        # both homepages are new on the first day, so both are queued as changed pages and "captured" by the stand-in
+        self.assertEqual([(r["queue"], r["status"]) for r in rows], [("changed", "captured")] * 2, (rows, alog, runs))
         self.assertEqual(self.run_daily(), 0)
         tree = git(self.origin, "ls-tree", "-r", "--name-only", "main").split()
         self.assertIn("wayback/" + os.path.basename(res[0]), tree)

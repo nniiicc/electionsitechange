@@ -229,6 +229,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
             subprocess.run([sys.executable, SNAPSHOT, urls, cls.repo, "--workers", "4",
                             "--max-pages", str(MAX_PAGES),
                             "--raw-dir", os.path.join(t, "raw"), "--summary", os.path.join(t, "s.json"),
+                            "--archive-queue", os.path.join(t, f"queue-{day}.tsv"),
                             "--day", day], check=True, capture_output=True, text=True, timeout=120)
 
         t0 = time.monotonic()
@@ -246,6 +247,9 @@ class DailyRunOverTwoDays(unittest.TestCase):
             cls.rows2 = list(csv.DictReader(f))
         cls.log2 = {r["site_id"]: r for r in cls.rows2 if r["page"] == "/"}     # homepage rows
         cls.summary2 = json.loads(Path(cls.repo, "logs", f"{DAY2}-summary.json").read_text())
+        q = Path(t, f"queue-{DAY2}.tsv")
+        cls.queue2 = [tuple(l.split("\t")) for l in q.read_text().splitlines()] if q.exists() else []
+        cls.port = {sid: srv.server_address[1] for sid, srv in cls.servers.items()}
         cls.changes2 = {}
         for line in Path(cls.repo, "changes", f"{DAY2}.jsonl").read_text().splitlines():
             r = json.loads(line); cls.changes2[(r["site_id"], r["page"].rsplit("-", 1)[0])] = r
@@ -434,6 +438,34 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertEqual((r["kind"], r["text"]), ("changed", {"removed": [ISSUES[1]], "added": [REWORDED]}))
         self.assertEqual((r["links"]["added"], r["media"]["added"], r["meta"]), ([], [], {}))
         self.assertFalse(r["step0"]["discard"])
+
+    # ---- Wayback queue written during the crawl (#8)
+    def queued_prio(self, sid, path="/"):
+        u = f"http://127.0.0.1:{self.port[sid]}{path}"
+        return [p for p, url in self.queue2 if url == u]
+
+    def test_changed_and_new_pages_are_queued_for_archiving_as_they_are_found(self):
+        self.assertEqual(self.queued_prio("edited"), ["0"])                     # changed homepage: first
+        self.assertEqual(self.queued_prio("campaign", "/endorsements.html"), ["1"])   # new page
+        self.assertEqual(self.summary2["archive_queued"], len(self.queue2))
+        self.assertEqual(self.summary2["archive_queue_errors"], 0)
+
+    def test_unchanged_noise_only_and_removed_pages_are_not_queued(self):
+        for sid in ("unchanged", "noisy", "resized", "down", "blocked"):
+            self.assertEqual(self.queued_prio(sid), [], sid)
+        self.assertEqual(self.queued_prio("campaign", "/about.html"), [])         # removed
+
+    def test_queue_matches_the_days_change_records(self):
+        # every page with a kept added/changed record is queued, and nothing else (site-wide records are
+        # queued page by page, so their pages are allowed)
+        kept = {r["url"] for r in self.changes2.values()
+                if not r["step0"]["discard"] and r["kind"] in ("added", "changed")}
+        sitewide = {r["site_id"] for r in self.changes2.values() if r["kind"] == "sitewide"}
+        port_site = {str(p): sid for sid, p in self.port.items()}
+        queued = {u for _, u in self.queue2}
+        self.assertLessEqual(kept, queued)
+        extra = {u for u in queued - kept if port_site.get(u.split(":")[2].split("/")[0]) not in sitewide}
+        self.assertEqual(extra, set())
 
     def test_change_records_for_added_removed_pages_and_links(self):
         self.assertEqual(self.changes2[("campaign", "about.html")]["kind"], "removed")

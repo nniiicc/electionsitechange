@@ -127,18 +127,26 @@ Chooses the parser and change detection, using fake sites built from real pages,
 - We submit URLs; Internet Archive's own crawler fetches the pages. Submission uses the open-source `spn.sh`
   (overcast07/wayback-machine-spn-scripts, MIT), vendored unmodified in `tools/vendor/`; it handles Save Page Now
   authentication, parallel jobs and retries. `monitor/archive.py` only builds the queue and records results, and
-  `monitor/archive.sh` runs them, started in the background by `daily.sh` after each snapshot.
+  `monitor/archive.sh` runs them, started in the background by `daily.sh` before each crawl.
 - **Measured capacity (9 Oct):** this account has 3 concurrent captures and a 30,000/day limit (Save Page Now's status
   call). Two trials (50 and 30 changed pages) captured 2.3 and 2.9 pages a minute, so about **3,300–4,200 pages a
   day**; concurrency, not the daily limit, is the constraint. (The published 12 concurrent / 100,000 a day do not
   apply to this account.)
-- **Daily queue, in priority order:** homepages of sites that changed (a site-wide change submits the homepage), new
-  pages, pages whose text, links or metadata changed, pages where only images changed. On 8 Oct data that is about
-  5,100 pages, more than a day's capacity: submission stops at 07:30 UTC the next day, so the lowest-priority end of
-  the list may not be archived. **Unsent pages are not carried over** (a change from the earlier spec): with the queue
-  already above capacity every day, carried-over pages would only push out the next day's changes; the change itself is
-  still recorded in Git, and its record says it has no Wayback copy (`wayback.after` empty, status `not_captured` in
-  `wayback/<day>.csv`). Changed pages are skipped only if captured in the last 3 hours.
+- **Submitted during the crawl (13 Oct):** the crawler appends each new or changed page that step 0 keeps to a
+  queue file as soon as it finds it, and `archive.sh`, started by `daily.sh` just before the crawl, submits from that
+  queue while the crawl visits other sites. Until 13 Oct archiving started only after the run and push (~17:30 UTC),
+  leaving ~14 hours and ~1,800 captures a day of ~3,400-4,300 queued; it now has ~23 hours.
+- **Priority:** the archiver takes batches of 90 (30-40 minutes at the measured rate) of the best pages queued so far: homepages,
+  then new pages, then pages whose text, links or metadata changed, then pages where only images changed. A
+  site-wide edit queues each of its pages (grouping needs the whole site), but its homepage comes first anyway.
+  Submission stops at 07:30 UTC the next day; what is left is the lowest-priority end. **Unsent pages are not
+  carried over** (a change from the earlier spec): the queue is above capacity every day, so carried-over pages
+  would only push out the next day's changes; the change itself is still recorded in Git, and its record says it
+  has no Wayback copy (`wayback.after` empty, status `not_captured` in `wayback/<day>.csv`). Changed pages are
+  skipped only if captured in the last 3 hours. If the crawl fails, pages already submitted stay archived but the
+  day's change records are discarded with the rest of the run. A page whose queue check raises an error is not queued; the run summary counts these in
+  `archive_queue_errors`. The crawl-time queue and the end-of-run records use the same priority function
+  (`archive.priority`), and a test checks that every kept record's page was queued.
 - **First round:** after the day's changed pages, up to 2,000 homepages never archived by us are submitted (skipped if
   already captured in the last 30 days). At current capacity this queue is rarely reached. Outlink capture is not
   used: it would multiply captures far beyond capacity.

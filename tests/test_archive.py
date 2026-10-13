@@ -32,25 +32,62 @@ class Archive(unittest.TestCase):
     def queued(self, kind):
         return (self.state / "queue" / f"{DAY}-{kind}.txt").read_text().split()
 
+    def from_records(self):
+        """the manual path: the queue built from the day's change records, then drained in one batch"""
+        archive.queue(str(self.repo), DAY, str(self.state))
+        archive.next_batch(str(self.state), DAY, 100)
+        return self.queued("batch")
+
+    def live(self, *lines):
+        p = self.state / "live" / f"{DAY}.tsv"; p.parent.mkdir(parents=True, exist_ok=True)
+        with open(p, "a") as f:
+            f.writelines(l + "\n" for l in lines)
+
     def test_queue_order_and_what_is_left_out(self):
-        out = archive.queue(str(self.repo), DAY, str(self.state), 10)
         # homepages first (b, and c's homepage for its site-wide change), then other pages;
         # noise-only and removed pages are not submitted
-        self.assertEqual(self.queued("changed"), ["https://b.test/", "https://c.test/", "https://a.test/about"])
-        # first round: homepages never archived and not already queued today
-        self.assertEqual(self.queued("backlog"), ["https://a.test/", "https://d.test/"])
-        self.assertEqual(out["homepages_never_archived"], 4)
+        self.assertEqual(self.from_records(), ["https://b.test/", "https://c.test/", "https://a.test/about"])
+        self.assertTrue((self.state / "live" / f"{DAY}.done").exists())
 
     def test_priority_new_pages_then_text_changes_then_image_only(self):
         recs = [rec("a", "img-1", url="https://a.test/img") | {"media": {"removed": ["img:x"], "added": ["img:y"]}},
                 rec("a", "plan-2", url="https://a.test/plan") | {"text": {"removed": ["Old."], "added": ["New."]}},
                 rec("a", "new-3", kind="added", url="https://a.test/new"), rec("d", "/", url="https://d.test/")]
         (self.repo / "changes" / f"{DAY}.jsonl").write_text("".join(json.dumps(r) + "\n" for r in recs))
-        archive.queue(str(self.repo), DAY, str(self.state), 0)
-        self.assertEqual(self.queued("changed"), ["https://d.test/", "https://a.test/new", "https://a.test/plan", "https://a.test/img"])
+        self.assertEqual(self.from_records(), ["https://d.test/", "https://a.test/new", "https://a.test/plan", "https://a.test/img"])
 
-    def test_backlog_size_is_capped(self):
-        archive.queue(str(self.repo), DAY, str(self.state), 1)
+    def test_batches_take_the_best_pages_found_so_far_and_never_repeat(self):
+        self.live("2\thttps://a.test/plan", "3\thttps://a.test/img", "2\thttps://a.test/news")
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 2), 2)
+        self.assertEqual(self.queued("batch"), ["https://a.test/plan", "https://a.test/news"])
+        # while that batch runs the crawl finds a homepage change, a new page, and the same page again
+        self.live("1\thttps://b.test/new", "0\thttps://b.test/", "2\thttps://www.a.test/plan/")
+        with open(self.state / "live" / f"{DAY}.tsv", "a") as f:
+            f.write("2\thttps://c.te")                                        # caught mid-write
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 2), 2)
+        self.assertEqual(self.queued("batch"), ["https://b.test/", "https://b.test/new"])
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 10), 1)    # the half-written line is not read
+        self.assertEqual(self.queued("batch"), ["https://a.test/img"])
+        with open(self.state / "live" / f"{DAY}.tsv", "a") as f:
+            f.write("st/c\n")                                                # its write completes
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 10), 1)
+        self.assertEqual(self.queued("batch"), ["https://c.test/c"])
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 10), 0)
+        self.assertEqual(self.queued("batch"), [])
+        self.assertEqual(len(self.queued("changed")), 6)
+
+    def test_a_damaged_line_is_skipped(self):
+        self.live("x\thttps://a.test/", "2", "1\thttps://b.test/new")
+        self.assertEqual(archive.next_batch(str(self.state), DAY, 10), 1)
+
+    def test_backlog_skips_done_and_submitted_homepages_and_is_capped(self):
+        archive._write(str(self.state / "homepages.txt"), ["https://a.test/", "https://b.test/", "https://c.test/", "https://d.test/"])
+        archive._write(str(self.state / "homepages_done.txt"), ["d.test"])
+        self.live("0\thttps://b.test/"); archive.next_batch(str(self.state), DAY, 10)
+        out = archive.backlog(str(self.state), DAY, 10)
+        self.assertEqual(self.queued("backlog"), ["https://a.test/", "https://c.test/"])
+        self.assertEqual(out["homepages_never_archived"], 3)
+        archive.backlog(str(self.state), DAY, 1)
         self.assertEqual(self.queued("backlog"), ["https://a.test/"])
 
     def write_run(self, kind, captures, failed=""):
@@ -61,7 +98,8 @@ class Archive(unittest.TestCase):
 
     def test_record_reads_captures_and_failures(self):
         archive._write(str(self.state / "homepages.txt"), ["https://a.test/", "https://b.test/", "https://c.test/", "https://d.test/"])
-        archive.queue(str(self.repo), DAY, str(self.state), 10)
+        self.from_records()
+        archive._write(str(self.state / "queue" / f"{DAY}-backlog.txt"), ["https://a.test/", "https://d.test/"])
         self.write_run("changed", [("20261009120000", "https://b.test/"), ("20261009120500", "https://a.test/about")],
                        failed="2026-10-09 12:01:00 [error:http-status-403] https://c.test/\n")
         self.write_run("backlog", [("20261009130000", "https://d.test/")])
@@ -74,7 +112,7 @@ class Archive(unittest.TestCase):
         self.assertEqual(archive.done_homepages(str(self.state)), {"b.test", "c.test", "d.test"})
 
     def test_rerun_keeps_earlier_captures_and_reads_invalid_log(self):
-        archive.queue(str(self.repo), DAY, str(self.state), 0)
+        self.from_records()
         self.write_run("changed", [("20261009120000", "https://b.test/")])
         os.rename(self.state / "runs" / f"{DAY}-changed", self.state / "runs" / f"{DAY}-changed.1")
         self.write_run("changed", [("20261009150000", "https://a.test/about")])

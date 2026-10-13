@@ -36,7 +36,7 @@ from urllib import robotparser
 import requests
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import changes, detect, pdf, step0  # noqa: E402
+import archive, changes, detect, pdf, step0  # noqa: E402
 
 UA = "CampaignSiteMonitor/0.1 (nonpartisan research archive of 2026 candidate websites)"
 TIMEOUT = 20
@@ -216,6 +216,8 @@ class Run:
     max_pages: int = 50
     parser: ParsePool | None = None
     render: bool = True
+    archive_queue: str | None = None   # changed pages are appended here as they are found (issue #8)
+    site_rules: dict | None = None     # step-0 per-site noise rules, for the archive queue
 
 
 @dataclasses.dataclass
@@ -235,6 +237,8 @@ class PageRec:
     removed: bool = False
     low_text: bool = False
     rendered: bool = False      # parsed from the DOM after JavaScript ran (#6)
+    archive_queued: bool = False   # queued for the Wayback Machine during the crawl (#8)
+    archive_error: str = ""
     pdf: bool = False           # a PDF; its text is stored like a page (#7)
     scanned: bool = False       # a PDF with no text layer
     render_error: str = ""
@@ -342,6 +346,8 @@ def fetch_page(rec, run, page_dir, hosts):
     ch = detect.changed(prev, pg["meta"])        # True / False; None = new page or older format
     rec.changed = ch is True
     rec.reformatted = ch is None and not rec.first_seen
+    if run.archive_queue and (rec.changed or rec.first_seen):
+        queue_for_archive(rec, run, page_dir, pg)       # before the files are overwritten: it reads the old ones
     if ch is not False:
         # the snapshot is rewritten only when the detector reports a change, so noise never reaches Git
         os.makedirs(page_dir, exist_ok=True)
@@ -358,6 +364,43 @@ def fetch_page(rec, run, page_dir, hosts):
             with gzip.open(os.path.join(d, ("_home" if rec.is_home else rec.page) + ext), "wb") as f:
                 f.write(raw)
     return pg["hrefs"]
+
+
+# ---------------------------------------------------------------- Wayback queue (issue #8)
+# The archiver (archive.sh) runs alongside the crawl and submits pages as they are found, instead of waiting for
+# the whole run to finish. A page is queued when it is new or changed AND its change survives the same step-0
+# noise rules applied to the day's change records. Each line is "<priority>\t<url>", with archive.priority():
+# 0 homepage, 1 new page, 2 text/links/metadata changed, 3 only images changed. A page whose check raises is not
+# queued and is counted in the summary's archive_queue_errors. Site-wide grouping is not applied here (it needs every
+# page of the site), so a site-wide edit queues each of its pages; the homepage among them comes first anyway.
+_archive_lock = threading.Lock()
+_STORED = ("text.md", "links.json", "media.json", "meta.json")
+
+
+def _read_or_none(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    except OSError:
+        return None
+
+
+def queue_for_archive(rec, run, page_dir, pg):
+    try:
+        old = None if rec.first_seen else changes.parse_files({n: _read_or_none(os.path.join(page_dir, n)) for n in _STORED})
+        content = changes.diff_pages(old, changes.from_page(pg))
+        if content is None:
+            return
+        r = changes.record(run.day, rec.site_id, changes.HOME if rec.is_home else rec.page, content, {})
+        if step0.apply(r, run.site_rules)["step0"]["discard"]:
+            return
+        prio, url = archive.priority(r, {})     # the same priorities as for records queued by hand
+        url = url or rec.final_url or rec.url
+        with _archive_lock, open(run.archive_queue, "a", encoding="utf-8") as f:
+            f.write(f"{prio}\t{url}\n")
+        rec.archive_queued = True
+    except Exception as e:                       # the archive queue must never break the crawl
+        rec.archive_error = error_name(e)
 
 
 def in_scope(url, hosts, prefix):
@@ -460,6 +503,8 @@ def summarise(day, n_sites, sites, wall_s):
             "pages_reformatted": sum(1 for r in pages if r.reformatted),
             "pages_added": sum(1 for r in inner if r.first_seen),
             "pages_removed": sum(1 for r in pages if r.removed),
+            "archive_queued": sum(1 for r in pages if r.archive_queued),            # sent to the Wayback queue (#8)
+            "archive_queue_errors": sum(1 for r in pages if r.archive_error),
             "errors": {}, "page_errors": {}}
     for r in pages:
         if r.error:
@@ -477,6 +522,7 @@ def main():
     ap.add_argument("--raw-dir"); ap.add_argument("--summary", default="summary.json")
     ap.add_argument("--day", help="run date YYYY-MM-DD (default: today, UTC); used by tests")
     ap.add_argument("--no-render", action="store_true", help="never re-fetch low-text pages in Chromium")
+    ap.add_argument("--archive-queue", help="append each new or changed page here for the Wayback archiver (#8)")
     ap.add_argument("--parse-workers", type=int, default=max(1, (os.cpu_count() or 2)),
                     help="processes that parse pages (0 = parse in the fetching thread)")
     a = ap.parse_args()
@@ -487,7 +533,8 @@ def main():
         git(a.repo, "init", "-q"); git(a.repo, "config", "user.name", "campaign-monitor")
         git(a.repo, "config", "user.email", "monitor@localhost")
     run = Run(a.repo, a.raw_dir, a.day or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d"),
-              a.max_depth, a.max_pages, ParsePool(a.parse_workers), not a.no_render)
+              a.max_depth, a.max_pages, ParsePool(a.parse_workers), not a.no_render, a.archive_queue,
+              step0.load_site_rules(os.path.join(os.path.dirname(os.path.abspath(a.urls)), "site_noise.csv")))
     t0 = time.time(); sites = []
     with cf.ThreadPoolExecutor(a.workers) as ex:
         futs = [ex.submit(crawl_site, r, run) for r in rows]
