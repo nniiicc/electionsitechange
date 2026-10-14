@@ -250,4 +250,4 @@ If we make material changes to this privacy notice, we may notify you either by 
 We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 13.
 HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions concerning this Privacy Policy and/or the Website, please contact: Nate for Colorado Effective Date: March 12, 2026 Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein Copyright © # Nate for Colorado - All Rights Reserved.
+If you have questions concerning this Privacy Policy and/or the Website, please contact: Nate for Colorado Effective Date: March 12, 2026 Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein NATE@NATEFORCOLORADO.COM Copyright © # Nate for Colorado - All Rights Reserved.

@@ -1,5 +1,5 @@
-Skip to main content Skip to footer Erin Bingham For Idaho Menu About Erin Why I'm Running Contact Donate Expand Search Invest in Bonneville County GET INVOLVED VOTE On Tuesday, May 19th!
-The Republican primary election is on May 19th..
+Skip to main content Skip to footer Erin Bingham For Idaho Menu About Erin Why I'm Running Contact Donate Expand Search Invest in Bonneville County GET INVOLVED VOTE On Tuesday, November 3rd!
+The general election is on November 3rd.
 Whether you have five minutes or five hours to volunteer, there is a place for you on this team.
 We need help with: Door knocking in your neighborhood Phone banking and texting Event support Yard sign distribution Sign Up to Volunteer Put Up a Yard Sign Yard signs will be available in mid April.
 Request one and we'll get it to you.

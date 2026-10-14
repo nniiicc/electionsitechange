@@ -1,4 +1,8 @@
-Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Local News Local News Search Search Explore by Topic Endorsements Events Local News Priorities Voting Trump & Republican Lies Continue October 4, 2026 The lies keep coming.
+Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Local News Local News Search Search Explore by Topic Endorsements Events Local News Priorities Voting Tornadoes in Central NC October 12, 2026 Relieved that there were no fatalities reported.
+I’m grateful to the National Weather Service, our first responders, and all emergency personnel.
+Read More » Lillian’s List Event October 5, 2026 Honored to be with so many incredible women supporting Lillian’s List yesterday.
+Their work recruiting, training, and electing Democratic, pro-choice women is essential.
+Read More » Trump & Republican Lies Continue October 4, 2026 The lies keep coming.
 Trump lied to Western NC about helping and then withheld hurricane relief for months.
 (Reference: The News & Observer; The New York Times, ABC 11) “Trump’s X account said: “Where was Roy Cooper when Helene slammed into North Carolina?
 In New York speaking at a New Read More » Wake County Democrats Event September 28, 2026 Great to be with fired-up Wake County Democrats yesterday.
@@ -16,10 +20,4 @@ Read More » # Days to Raise Support for Dems September 14, 2026 # days to do ev
 Great to be with Wake Dems precincts 01-01 and 01-02 this weekend.
 Read More » NC Food Banks “Seeing Unprecedented Need” September 14, 2026 New work requirements imposed by The Trump administration under the Supplemental Nutrition Assistance Program, or SNAP, also known as food stamps, are causing people to lose benefits, and seek more help from places like pantries.
 Combined with rising living costs, it’s a “perfect storm,” said Rappl.
-“We are seeing unprecedented Read More » Happy Labor Day September 7, 2026 Happy Labor Day!
-Thankful for the hardworking Americans who organize and fight for fair wages, safe workplaces, and the dignity of a day’s work.
-I will always have their backs.
-Read More » Celebrating History at St.
-Paul AME Church September 6, 2026 Honored to celebrate 178 years of history and service with the congregation of St.
-Paul AME Church this morning as they unveiled their National Register marker.
-Read More » « Newer Page 1 Page 2 Page 3 … Page 39 Older »
+“We are seeing unprecedented Read More » « Newer Page 1 Page 2 Page 3 … Page 39 Older »

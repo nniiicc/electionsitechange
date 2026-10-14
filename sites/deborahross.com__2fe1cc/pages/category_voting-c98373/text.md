@@ -1,4 +1,7 @@
-Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Voting Voting Search Search Explore by Topic Endorsements Events Local News Priorities Voting NC Elections July 21, 2026 North Carolina’s elections are safe, fair, and secure.
+Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Voting Voting Search Search Explore by Topic Endorsements Events Local News Priorities Voting Knocking on Doors with Volunteers October 10, 2026 Fired up to be with so many amazing volunteers knocking doors this morning to help keep Haseeb Fatmi for North Carolina in the State Senate and elect Evonne Hopkins to the State House.
+Read More » Getting Fired Up for Early Voting October 6, 2026 Great to be with Senator Angela Alsobrooks to get folks fired up for the start of early voting on October 15.
+Make sure you have a plan to vote!
+Read More » NC Elections July 21, 2026 North Carolina’s elections are safe, fair, and secure.
 Don’t let anyone convince you otherwise.
 Learn more from the NC Commission on the Future of Elections.
 Read More » The Fate of Mail-In Ballots in Upcoming Elections July 16, 2026 As Trump works to undercut faith in our elections with his speech tonight, the Republican majority on the NC State Board of Elections voted today to make it easier to throw out your ballot.
@@ -15,10 +18,4 @@ Read More » Supporting Foushee for Congress at the Polls February 22, 2026 Love
 Read More » I Voted Early!
 February 21, 2026 Steve and I voted early at NC State today.
 Only a week left of early voting before the March 3rd primary.
-Read More » Vote in Wake County Starting 2/12 February 12, 2026 In-person early voting begins in North Carolina tomorrow, February 12.
-Make sure you have a plan to vote!
-Read More » Voting is Underway in NC!
-January 14, 2026 Voting is underway in North Carolina for the March Primary!
-The state has begun sending out mail-in ballots to voters who requested one, and in-person early voting begins on February 12.
-Make sure you have a plan to vote.
-Read more in the WRAL article, Voting starts Monday in NC, Read More » « Newer Page 1 Page 2 Page 3 … Page 13 Older »
+Read More » « Newer Page 1 Page 2 Page 3 … Page 14 Older »

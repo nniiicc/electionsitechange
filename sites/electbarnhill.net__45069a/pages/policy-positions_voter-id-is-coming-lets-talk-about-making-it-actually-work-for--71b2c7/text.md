@@ -71,6 +71,6 @@ Aguilar's Approach Pingback: What an Independent Secretary of State Can Accompli
 Here’s What Comes Next in Barnhill v.
 Aguilar. - Nevadans for Barnhill Pingback: Question 7 Nevada Voter ID: What Comes Next - Nevadans for Barnhill Post navigation Previous Previous post: A Small Procedural Fight, With a Bigger Point Behind It Next Next post: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

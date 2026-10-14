@@ -38,10 +38,7 @@ Check your registration, request your ballot, or find your early voting site.
 It takes two minutes.
 Every date and deadline Florida chooses its direction on November 3.
 This page stays current through Election Day: the candidates, the dates, the coverage, and how to be counted.
-Be part of it Explore this issue In depth Byron Donalds says I'm selling hope In depth David Jolly - Candidate for governor - The next 65 Days In depth David Jolly for Governor - Change is here...be a part of it!
-In depth How to Vote in Florida in 2026 In depth Florida Governor Polls 2026 In depth Who Is Byron Donalds?
-In depth David Jolly vs.
-Byron Donalds In depth Who is running for Florida governor?
-In depth Florida Election 2026: Every Date and Deadline About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+Be part of it Every question on this topic (12) A New Coalition → Byron Donalds says I'm selling hope → David Jolly - Candidate for governor - The next 65 Days → David Jolly for Governor - Change is here...be a part of it! → David Jolly vs.
+Byron Donalds → Florida Election 2026: Every Date and Deadline → Florida Governor Polls 2026 → History Is Upon Us → How to Vote in Florida in 2026 → This November. → Who Is Byron Donalds? → Who is running for Florida governor? → Inside Elections Shifts Florida Governor’s Race Even Further in David Jolly’s Direction, Now Rating Race ‘Lean Republican’ → Minority Leader Hakeem Jeffries Endorses Jolly-Graham Campaign → Joint Statement from Florida’s Democratic Statewide Nominees → Jolly-Graham Campaign Opens Miami Field Office → Cook Political Report Shifts Florida Governor’s Race in David Jolly’s Direction → Sabato’s Crystal Ball Shifts Governor’s Race in David Jolly’s Direction, Now Rates Race ‘Leans Republican’ → Black Leaders Organize to Support David Jolly → Florida Governor’s Race is Officially a Toss-Up → Another National Election Analyst Points Out David Jolly’s Ever-Growing Momentum in the Race for Florida Governor → Inside Elections Shifts Florida Governor’s Race Forecast in David Jolly’s Direction → About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
 All rights reserved.
 Built with AVM

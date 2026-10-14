@@ -28,7 +28,7 @@ Too many politicians are focused on serving the people with the biggest checkboo
 And that’s how communities lose faith in government.
 The question isn’t whether you’re for solar or against solar.
 The question is simple: Who is government really working for?
-Previous WE ARE AT A CROSSROADS IN WESTERN NEW YORK Next PODCAST CLIP: THEY DIDN’T EVEN SHOW UP You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+Previous WE ARE AT A CROSSROADS IN WESTERN NEW YORK Next PODCAST CLIP: THEY DIDN’T EVEN SHOW UP You Might Also Like NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-Why Is Southern Ontario Doing Better Than Western New York?
-PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!
+WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Volunteer and Sign Up for Updates!

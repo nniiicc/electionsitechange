@@ -1,4 +1,4 @@
-Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate NATHAN BALLENTINE “People, not Politics” " * " indicates required fields Submit Δ Nathan's News Campaign Update – 4 weeks til Election Day October 6, 2026 Spent some time again this afternoon personally delivering yard signs to supporters in the community!
+Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate NATHAN BALLENTINE “People, not Politics” " * " indicates required fields Nathan's News Campaign Update – 4 weeks til Election Day October 6, 2026 Spent some time again this afternoon personally delivering yard signs to supporters in the community!
 EARLY VOTING starts in less than 2 weeks: October 19th Richland County voters can vote […] Watch Campaign signs are going up!
 Let me know where to deliver yours!
 September 28, 2026 I waited until this week to start delivering my yard signs and look forward to visiting with you at your doorstep.

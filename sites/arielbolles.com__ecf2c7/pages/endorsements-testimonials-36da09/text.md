@@ -59,4 +59,4 @@ Her initiative reflects the kind of leadership our district needs —practical, 
 Ariel Bolles has already shown what she can accomplish for our community, and I believe she will bring that same dedication and effectiveness to Montpelier.
 I encourage voters to support Ariel Bolles in the Democratic primary.” Carol Hanley, Ferrisburgh Have questions or ideas for our district?
 Contact Ariel Back to Top Paid for by Ariel Bolles for Vermont P.O.
-Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign
+Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign Privacy policy

@@ -11,6 +11,6 @@ Experience and accountability Bordonaro’s public service on the Central Coast 
 Kessler is running to bring practical, community-focused problem solving to Sacramento.
 A community-centered campaign Kessler is a Central Coast business owner and children’s advocate.
 Her priorities include...
-1 0 PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
+2 0 PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
 Privacy Policy kesslerforca@gmail.com Kessler For California D istrict 30 © # by Kessler For California District 30.
 Powered and secured by Wix bottom of page

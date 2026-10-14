@@ -205,7 +205,7 @@ Monitor actual performance and enforce commitments.
 Reassess the pace of expansion as technology, demand and resource conditions change.
 These decisions should be informed by independent evidence, public input and the long-term interests of Texas, not solely by the forecasts of companies seeking approval or the fears of those warning that America must build without limits to compete with China.
 We should build what we need, where it makes sense, on terms that serve the people of Texas first.
-Previous Humane Immigration Reform and Border Security Next Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice Independence from Party Control Healthcare That Works for People, Not Bureaucracies The Thurgood Marshall Plan Statement of Belief: Honor God, Serve People STAY UPDATED Let’s Build the Future Together.
+Previous Humane Immigration Reform and Border Security Next Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility You Might Also Like A Breakthrough Brief: Thrivability for Small Business Humane Immigration Reform and Border Security Women’s Empowerment & A Fresh Take on Life and Choice Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

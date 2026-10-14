@@ -1,6 +1,6 @@
-0 Skip to Content Home My Story The Issues Endorsements Donate Contact Join the Fight Open Menu Close Menu Open Menu Close Menu Home My Story The Issues Endorsements Donate Contact Join the Fight Home My Story The Issues Endorsements Donate Contact Join the Fight Donate today!
-Monthly investments go a long way in helping us plan and budget so we can reach all of House District 120.
+0 Skip to Content Home My Story The Issues Endorsements Donate Contact Join the Fight Open Menu Close Menu Open Menu Close Menu Home My Story The Issues Endorsements Donate Contact Join the Fight Home My Story The Issues Endorsements Donate Contact Join the Fight Monthly investments go a long way in helping us plan and budget so we can reach all of House District 120.
 Your generosity is greatly appreciated!
+Donate today!
 Donate Georgia is not for sale.
 Neither am I.
 My Story Make a plan to vote!

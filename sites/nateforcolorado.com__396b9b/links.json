@@ -20,6 +20,10 @@
 "href": "https://nateforcolorado.com/"
 },
 {
+"text": "NATE@NATEFORCOLORADO.COM",
+"href": "mailto:NATE@NATEFORCOLORADO.COM"
+},
+{
 "text": "Privacy Policy",
 "href": "https://nateforcolorado.com/privacy-policy"
 },
@@ -46,5 +50,9 @@
 {
 "text": "[no text]",
 "href": "https://www.x.com/nate4colorado?s=11"
+},
+{
+"text": "privacy policy.",
+"href": "https://nateforcolorado.com/privacy-policy"
 }
 ]

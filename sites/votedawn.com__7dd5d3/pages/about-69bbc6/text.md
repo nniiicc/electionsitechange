@@ -33,6 +33,7 @@ Her leadership reflects the values of the 13th District and the people who call 
 Dawn White’s story is one of service, perseverance, and an unshakable dedication to the conservative principles that make Tennessee strong.
 Home About Issues Stay Connected Receive updates from Dawn White and join the team fighting for the conservative principles that make Tennessee strong.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Donations may be solicited.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

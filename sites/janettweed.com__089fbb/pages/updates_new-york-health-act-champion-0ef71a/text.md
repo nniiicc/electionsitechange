@@ -1,4 +1,4 @@
-0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved New York Health Act Champion Endorsements + Recognitions Jul 22 Written By Heather Phelps-Lipton “Healthcare is an essential part of life.
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved New York Health Act Champion Endorsements + Recognitions Jul 22 Written By Heather Phelps-Lipton “Healthcare is an essential part of life.
 Most Americans are only one big injury or illness away from bankruptcy with the current system.
 This isn’t right and needs to change.
 The NYHA provides a way for New Yorkers to thrive.

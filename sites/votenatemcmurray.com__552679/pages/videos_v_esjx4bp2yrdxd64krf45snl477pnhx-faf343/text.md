@@ -16,10 +16,10 @@ I showed up.
 I answered every question.
 The question is: why won’t they?
 Previous PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Why Is Southern Ontario Doing Better Than Western New York?
-IS NATE A RADICAL COMMUNIST?
+You Might Also Like PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
 NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Volunteer and Sign Up for Updates!
+Why Is Southern Ontario Doing Better Than Western New York?
+Volunteer and Sign Up for Updates!

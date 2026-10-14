@@ -1,5 +1,5 @@
-top of page Home About Me Volunteer Events Vote More Use tab to navigate through the menu items.
-DONATE SUBSCRIBE Rooted in Arkansas.
+top of page Home About Me Volunteer Events Make a Plan to Vote Vote Blog More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Make a Plan to Vote Rooted in Arkansas.
 Ready to Serve.
 Meet Your Candidate Jacob Allen knows what it’s like to overcome obstacles and learn discipline.
 After a run-in with the law in high school, he joined the Arkansas Army National Guard as a Diesel Mechanic in 2005.

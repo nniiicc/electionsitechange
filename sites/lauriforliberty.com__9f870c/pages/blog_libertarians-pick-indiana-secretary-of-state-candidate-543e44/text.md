@@ -1,5 +1,5 @@
 0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Libertarians pick Indiana secretary of state candidate.
-Mar 31 Written By Danny Lundy Lauri Shillings, a graphic designer and small business owner, is officially running as a Libertarian in the Indiana Secretary of State race after receiving the nomination at the party's state convention March 20-22.
+Mar 31 Written by Danny Lundy Lauri Shillings, a graphic designer and small business owner, is officially running as a Libertarian in the Indiana Secretary of State race after receiving the nomination at the party's state convention March 20-22.
 Shillings joins a somewhat crowded field for the office, including former Indianapolis mayor and independent candidate Greg Ballard.
 The lifelong Republican will run under the newly formed " Lincoln Party " but he faces an uphill battle to secure a spot on the ballot.
 In Indiana, Libertarians are currently guaranteed ballot access because they've consistently received at least 2% of the vote in the secretary of state's race.

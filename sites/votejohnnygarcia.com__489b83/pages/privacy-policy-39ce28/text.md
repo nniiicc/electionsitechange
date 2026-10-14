@@ -1,4 +1,4 @@
-top of page HOME MEET JOHNNY ISSUES MEDIA JOIN THE FIGHT DONATE Last Updated: December 9, 2025 This Privacy Policy explains how information about you is collected, used and disclosed by Johnny Garcia for Congress (the “Organization”).
+top of page HOME HOGAR (ES) MEET JOHNNY CONOCE A JOHNNY (ES) ISSUES TEMAS (ES) MEDIA JOIN THE FIGHT DONATE Last Updated: December 9, 2025 This Privacy Policy explains how information about you is collected, used and disclosed by Johnny Garcia for Congress (the “Organization”).
 This Privacy Policy applies to information we collect when you use our website, mobile site, mobile applications and other online services that link to this Privacy Policy (collectively, the “site”) or when you otherwise interact with us.
 We may change this Privacy Policy from time to time.
 If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).

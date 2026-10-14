@@ -11,7 +11,8 @@ Cynthia Neeley (D-Flint) and Helena Scott (D-Detroit), chair of the House Energy
 WHAT: A stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour.
 WHEN: Wednesday, Aug.
 16 from 11 a.m.-1 p.m.
-WHERE: 1101 Saginaw St., Flint, MI 48502, inside the dome at City Hall Share: twitter facebook youtube Post navigation Previous post State of the State Next post Black Women in Michigan Politics Luncheon 2023 You May Also Like Law News September 10, 2021 Celebrating our Men & Women frontline and remembering 9/11 Election News July 31, 2024 Meet the Candidates: Michigan’s 70th House District – Cynthia Neeley Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+WHERE: 1101 Saginaw St., Flint, MI 48502, inside the dome at City Hall Share: twitter facebook youtube Post navigation Previous post State of the State Next post Black Women in Michigan Politics Luncheon 2023 You May Also Like Family Law News January 27, 2023 State of the State Family News Priorities & Structure June 8, 2022 Introducing the 4 Pillars Project.
+Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

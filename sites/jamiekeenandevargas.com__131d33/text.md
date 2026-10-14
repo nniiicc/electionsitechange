@@ -1,8 +1,4 @@
-About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate Jamie is fighting for working people, not corporations.
+About Policies Volunteer Donate About Policies Volunteer Donate Jamie is fighting for working people, not corporations.
 Running for State House in LD22.
 To stay up-to-date on events or request a yard sign: First Name Last Name Phone Number Email Leave this field blank Opt-in to text messages (do this, please!) Yes No I'm in!
 By providing your phone number, you agree to receive text messages from Team Jamie Keenan-deVargas, including donation asks.
@@ -20,7 +16,7 @@ Housing & Rent We're in a cost-of-living crisis, and the legislature's main resp
 Rent has outpaced wage growth for 15 years straight; nearly half of Washington renter households are now cost-burdened.
 Jamie will fight for: Statewide Caps on Rent Increases: Restrict annual rent increases to the rate of inflation, with no exemptions for corporate landlords or new luxury construction.
 Repealing the Rent Control Ban (RCW 35.21.830): Abolish the corporate lobby's state preemption law and restore local municipal authority over rent freezes.
-State-Funded Social Housing & Community Land Trusts: Establish a public social housing program to develop mixed-income, affordable homes entirely separate from the speculative market via Community Land Trust (CLT) ownership.
+State-Funded Housing Development & Community Land Trusts: Establish a public housing developer to build mixed-income, affordable homes entirely separate from the speculative market via Community Land Trust (CLT) ownership.
 Universal Housing First & Vocational Training: Provide immediate, requisite-free permanent supportive housing to end chronic homelessness, saving lives and cutting costs (emergency services are massively expensive).
 Pair housing-first policy with access to free vocational training, union apprenticeships, and a statewide public works program paying prevailing wages.
 Shift to a Land Value Tax (LVT): Exclude improvements and construction (buildings) from property taxes, shifting the tax burden onto speculative land hoarders.
@@ -35,22 +31,28 @@ Jamie may not be able to fully rectify the unhealthy patriarchal societal struct
 Wondering how we pay for things?
 Click here.
 Healthcare Costs For too long, Washington has been under the thumb of massive health insurance companies.
-Jamie's opponent, Lisa Parshley, received literally 22% of her funding from the corporate medical industry, and she claims to be a progressive!
-Lisa Parshley sits on the Committee for Healthcare and Wellness (CHW), the committee which has killed ALL of the Single-payer healthcare bills that have been proposed in Washington state.
-Every CHW member is bankrolled by insurance companies and other medical giants, and it's usually by members of the CHW that work with their corporate masters to 1) author a flawed bill, and 2) ensure that the bill never reaches the house floor.
-Washington has the power to provide single-payer healthcare and ensure that hospitals, doctors, and nurses get paid fairly for the life-saving work they do.
-Jamie will cut corporations out of Washington politics, fight to get impartial legislators onto that committee, and work with the true progressives to save lives and save wallets: with free and effective healthcare.
-Wondering how we pay for things?
-Click here.
+Jamie's opponent, Lisa Parshley, received 22% of her funding from the corporate medical industry.
+Data has shown for decades that the moment someone takes money from an industry, they lose the ability to regulate that industry.
+The data holds true.
+Jamie is committed to fighting for Universal Healthcare, where every single person is provided comprehensive health insurance by the state with NO co-pays, NO deductibles, with NO exceptions.
+Universal Healthcare would cover medical, dental, mental health, and reproductive health; and would also cover the cost of ambulances, medication, medical supplies, and would allow you to visit the doctor as many times as you want every year.
+How do we pay for Universal Healthcare?
+Well, as it turns out... we already do.
+The state and its people spend roughly $55,100,000,000 ($55.1 billion) on healthcare every year via medicaid, medicare, and insurance premiums.
+A huge portion of this money goes to insurance cartels.
+A Universal Healthcare system would be paid for by redirecting these funds, and because insurance cartels would be cut out of the equation, it would cost workers and their employers significantly LESS than what they're currently paying - despite all of the coverage improvements.
 Gas & Utilities Gas is a huge financial stressor for Washingtonians.
 Jamie is committed to long-term investment in expanded public transit infrastructure (including trains), but that's the long-term.
 People are struggling right now with the cost of gas.
-As with so many exacerbated costs in the modern day, gas prices can be traced back to huge corporations extracting record-breaking (windfall) profits every chance they get: COVID-19, conflicts in the middle-east, and Trump's deregulation have all given exploitative oil companies opportunities to cheat the consumer.
-Although the state can't control the global price of oil, that doesn't mean there's nothing we can do, even if the establishment wants to make you think we're helpless.
-We: Can modify antitrust enforcement to address tacit collusion between the refineries Can implement a tax on price-gouging windfall profits, putting that money right back into the pockets of the people.
-Jamie wholly rejects corporate PACs and lobbying money, and will fight for the people every chance he gets.
-He will save Washington state money, and he will save you money.
-Jamie will fight to make sure there is NO MORE price-gouging for gas or utilities!
+About $1.11 on every gallon of gas is paid into two different gas taxes, both of which exclusively impact the consumer at the pump , and do not affect gas companies at all.
+Jamie will fight to repeal these regressive taxes and enforce far stronger antitrust regulations and price-gouging regulations on oil companies, who's profit margins are almost four times as high as they should be based on historical data.
+The loss of tax revenue will be recaptured by ending the billionaire tax exemption (as linked below)!
+Jamie also detests Puget Sound Energy.
+His dislike of PSE is an important difference to highlight between him and his opponent: His opponent happens to be bankrolled by PSE.
+Jamie will fight to end PSE's political lobbying, and fight to strengthen the people's rights to vote for Public Utility Districts, which can be held accountable to the community.
+Jamie wholly rejects corporate PACs and lobbying money, and will fight for the working people every chance he gets.
+Wondering how we pay for things?
+Click here.
 The opposition is funded by multiple Fortune-500 companies.
 We're funded by YOU: the people.
 Consider donating! $# $# $# $# $# Other Endorsements *Note: due to the nature of a two-democrat-race, many organizations' bylaws and procedures require them to endorse the incumbent - unfortunately including many local unions.

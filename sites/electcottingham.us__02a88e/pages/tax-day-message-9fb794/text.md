@@ -3,8 +3,6 @@ Contact Us Volunteer Events Ballot Access My Support & Endorsements Media & Cont
 Donate Tax Day Message!
 April 15th, 2026 What better day to bring awareness to bottom-up tax cuts than today?
 Happy Tax Day!
-Leave a Reply Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
 Interview with Larry Sharpe!
 Independence Party Nominates Andrew Cottingham as Candidate!

@@ -9,7 +9,7 @@ With unnecessary wars spiking fertilizer, fuel and diesel prices and trade wars 
 Washington dysfunction also keeps a $1.4 trillion Farm Bill that would buy our products and feed the Commonwealth from passing.
 I will support the $12 billion farm aid package currently stalled in the U.S.
 Senate and a new farm bill that puts our farmers first.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

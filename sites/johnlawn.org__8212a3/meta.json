@@ -1,7 +1,7 @@
 {
  "description": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
- "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/johnlawn&followup=https://sites.google.com/view/johnlawn&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S758268751:1791897108211088",
- "fingerprint": "69ba3f36773226ed305830cbd2808f88e2ab588b",
+ "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/johnlawn&followup=https://sites.google.com/view/johnlawn&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1645858761:1791983282549021",
+ "fingerprint": "f10445530a961d353108d7419892fd9a2a17a6ed",
  "format": 3,
  "paid_for_by": "",
  "rendered": true,

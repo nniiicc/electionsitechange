@@ -1,4 +1,4 @@
-Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Early voting starts Wednesday, October 14.
+Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Early voting is open through Monday, November 2.
 See where and when to vote → Mark Divitt for Iowa House District 91 Retired software engineer, Swisher small-business founder, and organizer with Save Morgan Valley — running to fight for clean water and air, help seniors stay in their homes, strong public schools, and health care Iowans can count on.
 Donate Now Get Involved About Mark A Voice for District 91 Mark earned a B.S. in Computer Science, graduating cum laude from Sonoma State University.
 He started his career at Hewlett-Packard, then went on to work with a number of large companies and small startups as a software engineer and architect, along the way holding numerous leadership roles where he learned that listening, attention to detail, and hard work are the keys to success.

@@ -1,4 +1,10 @@
-Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Ensure Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Voter Resources Early voting begins September 18 Register in advance by October 13 Last day to vote early November 2 Election Day November 3 You can register on Election Day.
+Donate today.
+Every dollar counts.
+I’m running for governor to take on the powerful and get things done for every Minnesotan.
+This is a home-grown campaign, born in a moment like no other.
+Will you chip in today?
+Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Continue to Site Donate Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Support Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Menu Close Home Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Voter Resources Early voting begins September 18 Register in advance by October 13 Last day to vote early November 2 Election Day November 3 You can register on Election Day.
 Minnesota offers same-day registration at your polling place.
 See what to bring → Check your registration Check your registration Takes a minute.
 Register to vote Register to vote Online or at the polls.

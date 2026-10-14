@@ -9,6 +9,7 @@ RSVP here What we need & what we did this week Volunteers Working for a campaign
 Even more so when you are donating your time.
 We need to fill some specialty roles as well as have volunteers to accompany us for events, town halls, and canvassers to phone bank and door knock.
 This is an ALL HANDS ON DECK request!
+Send an email to Maria , our volunteer coordinator, to find out more.
 KSVC 980AM Radio Interview Last week I had a another great interview on KSVC 980AM in Sevier County.
 You can listen to it on their website here .
 It is listed in the July 2026 section.
@@ -33,7 +34,9 @@ A huge shout out to La Vonne for hosting and to our campaign volunteers for maki
 Without you, it would not have been the success it was.
 I appreciate everything you do.
 From the bottom of my heart, thank you!
-View Original Email Version → Support the Commitment Click an option to get started.
+View Original Email Version → ← Newer 🪖 FIELD REPORT: Week of August 9th - 16th - Time is running out, help us door knock!
+Older → 🪖 FIELD REPORT: Week of July 26th - We had an amazing time in Sanpete County for Pioneer Day Parades!
+Support the Commitment Click an option to get started.
 If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
 Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
 Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.

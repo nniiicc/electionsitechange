@@ -54,7 +54,11 @@ I am proud to support Gina Wall because I know she will do the hard work of legi
 She will build bridges with other representatives, represent the needs of her constituents, and work collectively with all legislators to do what’s right for our community.
 Gina understands how vital our schools are, that we need to support those who support our communities, and that Alaska will do best when we invest in a future that provides opportunity for future generations.
 Alaska faces challenges, without a doubt, but we also have such great opportunities!
-Gina Wall will work towards solutions and a vision for something better, and this is why I so eagerly support her candidacy.” Brian Mason 21-Year Public Educator Friends & neighbors “Over many years of friendship, I’ve had the privilege of learning who Gina truly is: intentional, honest, principled, and courageous.
+Gina Wall will work towards solutions and a vision for something better, and this is why I so eagerly support her candidacy.” Brian Mason 21-Year Public Educator “I am so glad to see Gina Wall running for state house.
+She is an amazing person, and has been a great professional in our schools.
+I’m excited to see a conservative educator running for office.
+Gina knows what needs to be done to help our schools, especially in ASD.
+I look forward to her serving as our representative!” Roger Spackman Retired ASD Teacher Friends & neighbors “Over many years of friendship, I’ve had the privilege of learning who Gina truly is: intentional, honest, principled, and courageous.
 She balances a soft front and a strong back with grace and grit, open enough to truly listen and understand another person’s perspective while remaining firmly grounded in her values.
 Those qualities matter in public service, especially when navigating difficult issues and representing people with different perspectives.
 That balance of compassion and strength is one of the things I admire most about Gina, and I’m honored to endorse her for State House District 24.” Tracie Lawrence Friends of Gina “I’ve had the privilege of working alongside Gina Wall and seeing firsthand the kind of champion she is.

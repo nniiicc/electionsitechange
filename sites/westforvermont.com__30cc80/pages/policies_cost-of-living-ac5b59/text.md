@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Cost of Living A good life in Vermont should be affordable.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Cost of Living A good life in Vermont should be affordable.
 Too many Vermonters are doing everything right and still watching the cost of living climb faster than their paychecks.
 Housing, healthcare, childcare, energy, groceries, transportation, and especially property taxes are putting more pressure on household budgets every year.
 Property taxes have become unsustainable for too many Vermonters.

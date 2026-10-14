@@ -1,4 +1,5 @@
-Skip to content Facebook X-twitter Instagram Menu Contribute The Latest From the Campaign Trail Houston Chronicle For Attorney General: Nathan Johnson October 12, 2026 After decades of single-party rule landed Texans with a crook in the attorney general’s office, it’s about time for a change.
+Skip to content Facebook X-twitter Instagram Menu Contribute The Latest From the Campaign Trail MS Now Texas Democrats See Opening in Attorney General’s Race October 13, 2026 Watch Nathan on MS NOW’s The Last Word here. ...
+Read More Houston Chronicle For Attorney General: Nathan Johnson October 12, 2026 After decades of single-party rule landed Texans with a crook in the attorney general’s office, it’s about time for a change.
 Yes, folks may be reluctant to cast a crossover vote.
 But this challenger is experienced and respected.
 He’ll bring...
@@ -19,7 +20,6 @@ Read More More Perfect Union We Investigated Starlink.
 The Corruption We Found Will Shock You.
 October 2, 2026 The U.S. was supposed to spend $40 billion to build internet in rural America, then Elon Musk got a huge chunk of that money redirected to Starlink.
 He made hundreds of millions, while countless people still don’t have good internet....
-Read More Press Release Nathan Johnson Announces Intention to Review Texas State Vendor Contracts After 178,000 Voter Registrations Go Missing October 2, 2026 Democratic AG nominee says the Deloitte failure indicates the pitfalls of outsourcing core government services to private contractors DALLAS, Texas — State Senator Nathan Johnson, the Democratic nominee for Texas Attorney General, said today the failure by a private vendor...
 Read More Let's Meet This Moment Together First Name Last Name Email Zip Code Cell Phone Join The Team By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.

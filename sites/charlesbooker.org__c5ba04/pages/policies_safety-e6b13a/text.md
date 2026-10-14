@@ -11,7 +11,7 @@ Fight the fentanyl and opioid crisis by stopping the flow of drugs and expanding
 Invest in proven violence prevention, youth programs and job training that keep young people on the right path.
 Protect every Kentuckian from discrimination and harassment, no matter who they are or whom they love.
 Help people returning home from incarceration find work and housing so they stay home for good.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

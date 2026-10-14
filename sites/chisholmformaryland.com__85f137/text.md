@@ -5,16 +5,11 @@ Follow Follow Follow First elected in 2018 , Brian has proudly represented Distr
 He is guided by unwavering core values of integrity, transparency, and accountability, and is deeply committed to serving with honesty and openness.
 Every action he takes is focused on faithfully representing the priorities and values of the community he serves.
 MEET BRIAN Please help me continue my tireless fight for Freedom and Liberty by Donating here.
-DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,449 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer I was honored to travel to Taiwan with fellow Mid-Atlantic legislators to learn, listen, and build relationships recently.
-I came away deeply impressed by the Taiwanese people: their family-centered values, strong work ethic, and forward-looking commitment to the future.
-Taiwan’s leadership in semiconductor manufacturing and its impressive work with drones show how innovation supports both economic opportunity and national security.
-I was also struck by the seriousness of Taiwan’s security concerns.
-As an island nation facing persistent threats and saber-rattling from adversaries, its people understand firsthand what is at stake in protecting their freedom and security.
-I have the deepest respect and admiration for the people and culture of Taiwan.
-I’m grateful to everyone who welcomed our delegation and shared their time and insight.
-I look forward to building stronger relationships among Taiwan, Maryland, and the United States and working toward a safer, more prosperous future for all of us.
-#Maryland #Taiwan #Semiconductors #ArtificialIntelligence #NationalSecurity ...
-See More See Less #ago View Comments likes 4 Comments: 0 Shares: 0 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 0 Comments Comment on Facebook Play Load more  Brian Chisholm Follow 848 1,836 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 9 Oct 2108409120776663523 When Maryland Democrats show us who they are, believe them: ➡️ 92 voted to pass the Community Trust Act and restrict ICE cooperation ➡️ Democrats killed Fairness in Girls’ Sports — again — so biological males can compete against our daughters ➡️ Democrats rushed a special Twitter feed image.
+DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,452 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Reminder: Join me this Thursday at the Waterfront with special guest Kim Klacik and live music by Nate and Jim!
+With Election Day approaching, your presence Thursday will help us finish strong.
+Whether you’ve supported me for years or are joining us for the first time, I would love to see you there.
+Bring your spouse, invite a friend, and come enjoy the evening with us! ...
+See More See Less #ago View Comments likes 5 Comments: 1 Shares: 0 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 1 Comments Comment on Facebook Load more  Brian Chisholm Follow 848 1,836 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 9 Oct 2108409120776663523 When Maryland Democrats show us who they are, believe them: ➡️ 92 voted to pass the Community Trust Act and restrict ICE cooperation ➡️ Democrats killed Fairness in Girls’ Sports — again — so biological males can compete against our daughters ➡️ Democrats rushed a special Twitter feed image.
 Reply on Twitter 2108409120776663523 Retweet on Twitter 2108409120776663523 24 Like on Twitter 2108409120776663523 51 X 2108409120776663523 Brian Chisholm @Chisholmstrong · 6 Oct 2107334140190208430 Decisions that shape our communities deserve transparency, scrutiny, and a public voice.
 Earlier this evening, Delegate Brian Chisholm stayed through hours of County Council testimony to stand up for his constituents and speak against Bill 61-26, a sweeping revision of zoning Twitter feed video.
 Reply on Twitter 2107334140190208430 Retweet on Twitter 2107334140190208430 0 Like on Twitter 2107334140190208430 8 X 2107334140190208430 Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 5 Oct 2107127624040366223 According to just about every poll in the 2026 cycle, "affordability" is the TOP concern for voters.
@@ -26,16 +21,11 @@ Earlier this evening, Delegate Brian Chisholm stayed through hours of County Cou
 Reply on Twitter 2107334140190208430 Retweet on Twitter 2107334140190208430 0 Like on Twitter 2107334140190208430 8 X 2107334140190208430 Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 5 Oct 2107127624040366223 According to just about every poll in the 2026 cycle, "affordability" is the TOP concern for voters.
 It's been our concern as well.
 It's why we could not vote for a Maryland budget in any of the last 4 years because it was balanced on tax and fee increases like the illustrated Twitter feed image.
-Reply on Twitter 2107127624040366223 Retweet on Twitter 2107127624040366223 19 Like on Twitter 2107127624040366223 51 X 2107127624040366223 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,449 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer I was honored to travel to Taiwan with fellow Mid-Atlantic legislators to learn, listen, and build relationships recently.
-I came away deeply impressed by the Taiwanese people: their family-centered values, strong work ethic, and forward-looking commitment to the future.
-Taiwan’s leadership in semiconductor manufacturing and its impressive work with drones show how innovation supports both economic opportunity and national security.
-I was also struck by the seriousness of Taiwan’s security concerns.
-As an island nation facing persistent threats and saber-rattling from adversaries, its people understand firsthand what is at stake in protecting their freedom and security.
-I have the deepest respect and admiration for the people and culture of Taiwan.
-I’m grateful to everyone who welcomed our delegation and shared their time and insight.
-I look forward to building stronger relationships among Taiwan, Maryland, and the United States and working toward a safer, more prosperous future for all of us.
-#Maryland #Taiwan #Semiconductors #ArtificialIntelligence #NationalSecurity ...
-See More See Less #ago View Comments likes 4 Comments: 0 Shares: 0 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 0 Comments Comment on Facebook Play Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
+Reply on Twitter 2107127624040366223 Retweet on Twitter 2107127624040366223 19 Like on Twitter 2107127624040366223 51 X 2107127624040366223 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,452 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Reminder: Join me this Thursday at the Waterfront with special guest Kim Klacik and live music by Nate and Jim!
+With Election Day approaching, your presence Thursday will help us finish strong.
+Whether you’ve supported me for years or are joining us for the first time, I would love to see you there.
+Bring your spouse, invite a friend, and come enjoy the evening with us! ...
+See More See Less #ago View Comments likes 5 Comments: 1 Shares: 0 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 1 Comments Comment on Facebook Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
 We were able to come to a verbal agreement for repayment.
 I am waiting on email documentation of our agreement and from there God willing I do expect all to be resolved with no further issues!
 I truly want to thank you and anyone on staff who assisted with helping me on this.

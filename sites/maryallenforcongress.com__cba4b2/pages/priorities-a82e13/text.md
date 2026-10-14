@@ -147,6 +147,16 @@ We deserve better.
 We deserve tax dollars spent on public goods: roads and sidewalks, good public schools that inspire our students to learn, access to quality health care in every community, a safety net so that we’re not left destitute when we come across hard times.
 I will fight to ensure our tax dollars work to build the kind of future that we deserve through Ensuring the ultra-wealthy and corporations pay their fair share in taxes.
 Supporting U.S. jobs by removing corporate tax incentives that shift jobs overseas.
+Foreign Policy Our Foreign policy should be rooted in active diplomacy and moral leadership.
+For too long, the United State’s policy has favored endless foreign interventions over strong, focused national defense and that ends up costing our military and costing us here at home.
+We spend more on the Department of War than the next nine highest-spending countries combined.
+This drives up our national debt and keeps us from having the funds to invest in our families here at home.
+National security means focusing our defense dollars where they matter, like domestic readiness and regional innovation.
+Crane Naval Base, the largest employer in the 8th District, is a wonderful example of how we can achieve these two priorities By working with our allies, we can build a world where wars are the exception, not the rule.
+I will fight to ensure that our foreign policy recognizes the humanity of all people through: Reinvesting in diplomacy and strengthening our strategic alliances Addressing the runaway spending of the military that enriches private defense contractors.
+Supporting the War Powers Resolution to end the unpopular, illegal war in Iran.
+Ending military support to Israel to align foreign aid with human rights and international law.
+Prioritizing human needs funding through investments in global public health and USAID programs.
 Affordability Part 1 Filing Day!
 Happy 250th!
 Affordability Part 2 SAVE Act Grief and Hope Immigration and Birthright Citizenship Let’s Choose Respect Redistricting Diversity and Community My Vote is Not for Sale Why are you supporting Mary?

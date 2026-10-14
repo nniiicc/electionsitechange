@@ -1,5 +1,6 @@
 Home About Issues News & Events Endorsements Voting Resources VOLUNTEER DONATE DONATE Country Over Party News & Events The latest updates, endorsements, and upcoming events from the Mullock for Congress campaign.
-Campaign News Press October 2, 2026 The Philadelphia Inquirer Zack Mullock Takes On Jeff Van Drew in South Jersey's Congressional Race The Philadelphia Inquirer looks at Cape May Mayor Zack Mullock's challenge to Rep.
+Campaign News Letter October 13, 2026 Press of Atlantic City Why Mullock Is the Better Choice for the 2nd District A letter to the editor in the Press of Atlantic City makes the case for Zack Mullock in this important NJ-2 election.
+Read Article Press October 2, 2026 The Philadelphia Inquirer Zack Mullock Takes On Jeff Van Drew in South Jersey's Congressional Race The Philadelphia Inquirer looks at Cape May Mayor Zack Mullock's challenge to Rep.
 Jeff Van Drew in NJ-2.
 Read Article Press October 2026 WHYY Election 2026: New Jersey's 2nd Congressional District Voter Guide WHYY's voter guide to the NJ-2 race between Zack Mullock and Rep.
 Jeff Van Drew.

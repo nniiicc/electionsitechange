@@ -23,5 +23,5 @@ Amount Required field!
 Donate Contribution rules : I am at least eighteen years old.
 This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
 I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
-Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

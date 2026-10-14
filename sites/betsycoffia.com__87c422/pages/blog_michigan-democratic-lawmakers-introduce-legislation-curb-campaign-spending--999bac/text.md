@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Michigan Democratic lawmakers introduce legislation to curb campaign spending power of corporations By Katherine Dailey - July 8, 2026 10:00 am State Rep.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Michigan Democratic lawmakers introduce legislation to curb campaign spending power of corporations By Katherine Dailey - July 8, 2026 10:00 am State Rep.
 Betsy Coffia, a Democrat from Traverse City, and state Sen.
 Sean McCann, a Kalamazoo Democrat, introduced legislation in their respective chambers last week to limit the powers of business corporations, nonprofit corporations and limited liability companies to participate in campaign spending.
 The legislation seeks to curb the impact of the 2010 landmark U.S.

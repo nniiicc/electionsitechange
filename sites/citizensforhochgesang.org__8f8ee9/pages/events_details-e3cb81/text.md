@@ -176,7 +176,9 @@ Presented with the Gibson County Democratic Party.
 September 9 recap The Princeton town hall brought Gibson County residents and candidates together to discuss public-school funding under Indiana’s property-tax changes, housing and utility costs, data centers, and local accountability.
 The Princeton Clarion reported on the meeting and the questions raised by residents.
 Brad Hochgesang told the room that data centers should pay their way rather than shift infrastructure costs to residents.
-Read the Princeton Clarion report Read the campaign recap on Facebook Watch the town hall video on Facebook Follow the Gibson County Democratic Party on Facebook Related links Princeton Clarion report Campaign recap Watch the town hall video Organizer on Facebook Pike County Candidate Meet & Greet at Hornady Park Sep 20, 2026, 6:00 PM Hornady Park Shelter House, 1213 W.
+Read the Princeton Clarion report Read the campaign recap on Facebook Watch the town hall video on Facebook Follow the Gibson County Democratic Party on Facebook Related Princeton town hall clip: skills for a state senator (posted September 10, 2026).
+Watch on Facebook.
+Related links Princeton Clarion report Campaign recap Watch the town hall video Organizer on Facebook Pike County Candidate Meet & Greet at Hornady Park Sep 20, 2026, 6:00 PM Hornady Park Shelter House, 1213 W.
 Park Road, Petersburg, IN 47567 Meet Jessica Bailey, Mason Barclay, Brad Hochgesang, and Tiffanie Arthur at Hornady Park in Petersburg on September 20 from 6:00 to 7:30 PM Eastern.
 Four Democratic candidates are scheduled for a public meet and greet at the Hornady Park Shelter House in Petersburg on Sunday, September 20, 2026, from 6:00 to 7:30 PM Eastern.
 The announced participants are Jessica Bailey for Indiana State Comptroller, Mason Barclay for Indiana House District 75, Brad Hochgesang for Indiana Senate District 48, and Tiffanie Arthur for Indiana House District 63.

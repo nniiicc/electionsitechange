@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Two good ideas from Republicans dead on arrival in Democratic Legislature By George Skelton at the LA Times SACRAMENTO — Memo to Democrats and independents: Just because an idea emanates from a Republican, doesn’t mean it necessarily stinks.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Two good ideas from Republicans dead on arrival in Democratic Legislature By George Skelton at the LA Times SACRAMENTO — Memo to Democrats and independents: Just because an idea emanates from a Republican, doesn’t mean it necessarily stinks.
 Here are two examples.
 Legislators wearing red jerseys have proposed to: Make the California secretary of state officially nonpartisan.
 Rip off the seemingly inevitable blue jersey and replace it with a neutral referee’s garb.

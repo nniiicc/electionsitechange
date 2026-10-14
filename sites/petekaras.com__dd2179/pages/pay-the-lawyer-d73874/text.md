@@ -30,5 +30,5 @@ And that's precisely why we refused to back down.
 Help us close out this legal bill so we can get back to the campaign — and the voters — where this race belongs.
 About Pete Pete is a lifelong Wisconsinite, former alderman, small business owner, and long-time advocate for third-party and independent political representation.
 He is running for Wisconsin Secretary of State on the Green Party ticket with a commitment to ranked choice voting, open records modernization, and a no-corporate-money pledge.
-Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

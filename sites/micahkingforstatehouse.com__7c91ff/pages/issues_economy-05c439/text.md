@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Cost of Living and the Economy in Georgia House District 157 A data-driven look at wages, taxes, utility bills, and housing costs squeezing families across District 157, and Micah King's plan to make Southeast Georgia affordable again.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Cost of Living and the Economy in Georgia House District 157 A data-driven look at wages, taxes, utility bills, and housing costs squeezing families across District 157, and Micah King's plan to make Southeast Georgia affordable again.
 The Math Isn’t Working for Working Families Ask anyone in Hazlehurst, Baxley, Claxton, or Reidsville how far their paycheck stretches compared to five years ago, and you will get the same answer: not far enough.
 The grocery bill is higher.
 The power bill is higher.

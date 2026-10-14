@@ -3,9 +3,9 @@ As I mention in the video, I don’t know how my colleagues from across the stat
 Fortunately, my office is just a few blocks away and obviously my work is mainly in the Midlands with local realtors and our local bankers.
 The balance between “paying jobs” and public service is difficult and it’s one of the reasons I support a shorter session for the General Assembly.
 Share Post navigation Curbing Fee Increases H.3004 (Roll Call Voting) becomes law Comments are closed.
-Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

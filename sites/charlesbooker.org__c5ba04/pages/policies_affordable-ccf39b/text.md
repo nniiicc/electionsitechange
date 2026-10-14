@@ -15,7 +15,7 @@ Blanket tariffs fueling trade wars are hidden taxes.
 They continue to raise prices, increase costs for farmers, and invite retaliation against Kentucky bourbon, a signature industry that supports thousands of Kentucky jobs and has been caught in the crossfire of trade fights for years.
 The House of Representatives has introduced this resolution, but Andy Barr does not support it, effectively rubber-stamping a stupid trade war that is being waged at our expense.
 It ends on day one if I am elected.
-People Over Politics More from Charles Booker's platform Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

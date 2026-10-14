@@ -5,4 +5,4 @@ I’m a problem-solver, not a career politician.
 I want to bring my professional experience in operational design to the Hill to ensure our state’s systems are built to support our families, protect our resources, and empower every Utahn to succeed.
 We live in the best state in the nation, and by bringing more clarity and common sense to our capitol, I know we can make it even better for our children.
 Check Out Our Socials!
-Paid for by Iva Williams
+Paid for by Elect Iva Williams

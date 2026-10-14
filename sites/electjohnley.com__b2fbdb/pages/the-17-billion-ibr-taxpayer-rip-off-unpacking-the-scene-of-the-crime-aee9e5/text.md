@@ -7,7 +7,7 @@ What planners are actually delivering will accomplish the exact opposite.
 Doubling Your Commute Time by 2045 The IBR project’s own official disclosures reveal a shocking truth: after spending up to $18 billion of your money, your drive into Portland will take longer .
 Today, driving from Salmon Creek to I-405 in North Portland takes approximately # minutes in average traffic.
 Under the IBR’s proposed design, that same commute is projected to balloon to # minutes or more by 2045 .
-To put this expenditure in perspective, consider Washington State’s two recent major transportation packages: Connecting Washington: $17 Billion Move Ahead Washington: $15 Billion Either one of those statewide packages bought and paid for hundreds of critical transportation projects across the entire state.
+To put this expenditure in perspective, consider Washington State’s two recent major transportation packages: Connecting Washington: $17 Billion Move Ahead Washington: $16 Billion Either one of those statewide packages bought and paid for hundreds of critical transportation projects across the entire state.
 The IBR program wants to spend more than those entire statewide packages combined on a single project that leaves Clark County drivers trapped in worse traffic than today.
 Guaranteed 32% Consultant Profit Margins The waste doesn’t stop at poor bridge design; it extends directly into how state contracts are being written.
 The Washington State Department of Transportation (WSDOT) signed a contract with the primary general engineering consultant for the IBR program that guarantees them a 32% profit margin .

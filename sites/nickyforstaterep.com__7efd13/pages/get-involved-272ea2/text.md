@@ -18,4 +18,4 @@ Our campaign team will be in touch soon with ways you can get involved.
 Together, we can bring common-sense conservative leadership to Harrisburg.
 SUPPORT THE CAMPAIGN Your support helps us reach voters across the 98th District and fight for common-sense conservative leadership in Harrisburg.
 Donate to Support the Campaign Follow Nicky Woods on Facebook HOME MEET NICKY ISSUES GET INVOLVED More Use tab to navigate through the menu items.
-Paid for by Friends of Nicky Woods bottom of page
+PRIVACY POLICY Paid for by Friends of Nicky Woods bottom of page

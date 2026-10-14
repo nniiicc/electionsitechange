@@ -30,7 +30,11 @@ He will fight to fund public schools first, because that's the promise we all ma
 Water & Air Quality Clean water and clean air are a basic duty the State of Iowa owes its citizens — not something to be traded away in decisions made behind closed doors.
 Mark believes Iowa has an obligation to protect its people and build a healthy environment for the next generation to grow up in, with clean water to drink and clean air to breathe.
 He'll push for transparency and enforceable standards, informed by his direct experience fighting the Morgan Valley Energy Center power plant.
-Data Center Moratorium As the AI boom drives a wave of new data centers across Iowa, ratepayers and rural communities shouldn't foot the bill for someone else's power and water demand.
+Water monitoring: The Iowa Water Quality Information System tracks nitrates in Iowa's rivers and streams, and the state cut its funding in 2023.
+This year's agriculture budget gives it $300,000 for one year.
+On May 1, 2026, a House Democrat offered an amendment (H–8464) to appropriate $600,000 a year, every year, to support it.
+The House rejected it, 27 to 59, and Judd Lawler voted no.
+House Journal, May 1, 2026 · Amendment text Data Center Moratorium As the AI boom drives a wave of new data centers across Iowa, ratepayers and rural communities shouldn't foot the bill for someone else's power and water demand.
 Counties have already acted where Republican leadership in Des Moines hasn't — a bill combining data-center transparency and ratepayer protection, House File 2690, passed the House Commerce Committee 23 to 0 this year and still never got a floor vote.
 Johnson County, part of this district, passed its own data center moratorium in November 2025, and Linn County followed in July 2026.
 Mark is proposing an 18-month statewide moratorium on new large-scale AI data center approvals, with a catch: it doesn't simply expire when the calendar runs out.

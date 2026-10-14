@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=976490f258 News Alabama gas tax: How did your legislator vote?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=fa58c3f5e6 News Alabama gas tax: How did your legislator vote?
 By Leada Gore | lgore@al.com Gov.
 Kay Ivey has signed the Rebuild Alabama Infrastructure Plan after the state House and Senate both approved the 10-cent-a-gallon fuel tax increase.
 The increase will be phased in over three years: a 6 cent increase after Aug.

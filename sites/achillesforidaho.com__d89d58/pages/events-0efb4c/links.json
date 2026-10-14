@@ -13,6 +13,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1138+east+poleline+avenue+post+falls%2C+idaho%2C+83854+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=114+east+32nd+street+garden+city%2C+idaho%2C+83714+united+states"
 },
 {
@@ -25,11 +29,19 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1527+northwest+boulevard+coeur+d%27alene%2C+idaho%2C+83814+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1700+west+university+drive+boise%2C+idaho%2C+83725+united+states"
 },
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=2+east+main+street+rexburg%2C+idaho%2C+83440+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2000+county+club+road+kellogg%2C+idaho%2C+83837+united+states"
 },
 {
 "text": "(map)",
@@ -45,10 +57,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=215+fair+avenue+filer%2C+idaho%2C+83328+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=2206+north+cole+road+boise%2C+idaho%2C+83704+united+states"
 },
 {
@@ -57,7 +65,19 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=318+east+main+street+grangeville%2C+idaho%2C+83530+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=411+north+15th+street+coeur+d%27alene%2C+idaho%2C+83814+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=414+church+street+sandpoint%2C+idaho%2C+83864+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=418+main+street+kamiah%2C+idaho%2C+83536+united+states"
 },
 {
 "text": "(map)",
@@ -66,6 +86,14 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=5181+north+glenwood+street+garden+city%2C+idaho%2C+83714+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5525+idaho+54+athol%2C+idaho%2C+83801+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5770+u.s.+2+priest+river%2C+idaho%2C+83856+united+states"
 },
 {
 "text": "(map)",
@@ -132,10 +160,6 @@
 "href": "mailto:info@achillesforidaho.com"
 },
 {
-"text": "County Fair - Twin Falls",
-"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
-},
-{
 "text": "Donate",
 "href": "https://secure.numero.ai/contribute/Achilles-For-Idaho"
 },
@@ -178,10 +202,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Air+Force+Appreciation+Day++Parade+-+Mountain+Home&dates=20260912T163000Z%2F20260912T183000Z&location=Mountain+Home%2C+ID"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=County+Fair+-+Twin+Falls&dates=20260907T190000Z%2F20260907T220000Z&location=215+Fair+Avenue%2C+Filer%2C+Idaho%2C+83328%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -273,11 +293,43 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-++Meet+%26+Greet+-+Sandpoint&dates=20261019T153000Z%2F20261020T050000Z&location=414+Church+Street%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Ask+Me+Anything+-+Grangeville&dates=20261016T160000Z%2F20261016T180000Z&location=318+East+Main+Street%2C+Grangeville%2C+Idaho%2C+83530%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Candidate+Forum+-+Kellogg&dates=20261020T230000Z%2F20261021T000000Z&location=2000+County+Club+Road%2C+Kellogg%2C+Idaho%2C+83837%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Independent+Voter+Town+Hall+-+Boise&dates=20261012T233000Z%2F20261013T010000Z&location=1700+West+University+Drive%2C+Boise%2C+Idaho%2C+83725%2C+United+States"
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Athol&dates=20261020T140000Z%2F20261020T150000Z&location=5525+Idaho+54%2C+Athol%2C+Idaho%2C+83801%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Coeur+d%27Alene&dates=20261018T150000Z%2F20261018T170000Z&location=1527+Northwest+Boulevard%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Post+Falls&dates=20261018T230000Z%2F20261019T010000Z&location=1138+East+Poleline+Avenue%2C+Post+Falls%2C+Idaho%2C+83854%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Priest+River&dates=20261019T133000Z%2F20261019T150000Z&location=5770+U.S.+2%2C+Priest+River%2C+Idaho%2C+83856%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+the+Candidate+-+Payette&dates=20261016T000000Z%2F20261016T020000Z&location=127+North+Main+Street%2C+Payette%2C+Idaho%2C+83661%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Table+Stop+-+Kamiah&dates=20261016T230000Z%2F20261017T000000Z&location=418+Main+Street%2C+Kamiah%2C+Idaho%2C+83536%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -342,10 +394,6 @@
 {
 "text": "ICS",
 "href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls?format=ical"
 },
 {
 "text": "ICS",
@@ -449,7 +497,39 @@
 },
 {
 "text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-candidate-forum-kellogg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-idaho-veterans-outreach-community-center?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-post-falls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-priest-river?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-table-stop-kamiah?format=ical"
 },
 {
 "text": "ICS",
@@ -572,12 +652,44 @@
 "href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
 },
 {
+"text": "Todd Event - Ask Me Anything - Grangeville",
+"href": "https://www.achillesforidaho.com/events/todd-event-idaho-veterans-outreach-community-center"
+},
+{
+"text": "Todd Event - Candidate Forum - Kellogg",
+"href": "https://www.achillesforidaho.com/events/todd-event-candidate-forum-kellogg"
+},
+{
 "text": "Todd Event - Independent Voter Town Hall - Boise",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
 },
 {
+"text": "Todd Event - Meet & Greet - Athol",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
+},
+{
+"text": "Todd Event - Meet & Greet - Coeur d'Alene",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "Todd Event - Meet & Greet - Post Falls",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-post-falls"
+},
+{
+"text": "Todd Event - Meet & Greet - Priest River",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-priest-river"
+},
+{
+"text": "Todd Event - Meet & Greet - Sandpoint",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint"
+},
+{
 "text": "Todd Event - Meet the Candidate - Payette",
 "href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
+},
+{
+"text": "Todd Event - Table Stop - Kamiah",
+"href": "https://www.achillesforidaho.com/events/todd-event-table-stop-kamiah"
 },
 {
 "text": "Todd Event - Voter Information Forum - Rexburg",
@@ -610,10 +722,6 @@
 {
 "text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell"
-},
-{
-"text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
 },
 {
 "text": "View Event →",
@@ -717,7 +825,39 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-candidate-forum-kellogg"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-idaho-veterans-outreach-community-center"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-post-falls"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-priest-river"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint"
+},
+{
+"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-table-stop-kamiah"
 },
 {
 "text": "View Event →",
@@ -762,10 +902,6 @@
 {
 "text": "[image: Air Force Appreciation Day Parade - Mountain Home]",
 "href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
-},
-{
-"text": "[image: County Fair - Twin Falls]",
-"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
 },
 {
 "text": "[image: Hispanic Heritage Month - Bellevue]",
@@ -848,12 +984,44 @@
 "href": "https://www.achillesforidaho.com/"
 },
 {
+"text": "[image: Todd Event - Ask Me Anything - Grangeville]",
+"href": "https://www.achillesforidaho.com/events/todd-event-idaho-veterans-outreach-community-center"
+},
+{
+"text": "[image: Todd Event - Candidate Forum - Kellogg]",
+"href": "https://www.achillesforidaho.com/events/todd-event-candidate-forum-kellogg"
+},
+{
 "text": "[image: Todd Event - Independent Voter Town Hall - Boise]",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
 },
 {
+"text": "[image: Todd Event - Meet & Greet - Athol]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Coeur d'Alene]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Post Falls]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-post-falls"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Priest River]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-priest-river"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Sandpoint]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint"
+},
+{
 "text": "[image: Todd Event - Meet the Candidate - Payette]",
 "href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
+},
+{
+"text": "[image: Todd Event - Table Stop - Kamiah]",
+"href": "https://www.achillesforidaho.com/events/todd-event-table-stop-kamiah"
 },
 {
 "text": "[image: Todd Event - Voter Information Forum - Rexburg]",

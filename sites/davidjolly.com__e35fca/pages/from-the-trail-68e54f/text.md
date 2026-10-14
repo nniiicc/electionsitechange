@@ -9,30 +9,91 @@ Below you can see some of those stops, and hear from some of the friends we have
 Tap a stop for the photos from that day, or a voice to hear it.
 The stops Where we have been The newest stops first.
 Tap a pin on the map above for the photos and the story from that day.
-Oct 2, 2026 3 photos Meaningful time in Broward County yesterday meeting with Haitian American leaders, business owners, and educators.
-My dad was dedicated to supporting this community.
-I’m honored...
-Close Oct 2, 2026 Meaningful time in Broward County yesterday meeting with Haitian American leaders, business owners, and educators.
+Oct 12, 2026 5 photos A jam-packed house last night in Jefferson County!
+The room was filled with excitement, enthusiasm, and hope for Florida’s future.
+Thank you to everyone who came out! 😊 Close Oct 12, 2026 A jam-packed house last night in Jefferson County!
+The room was filled with excitement, enthusiasm, and hope for Florida’s future.
+Thank you to everyone who came out! 😊 Open this stop on its own Oct 12, 2026 4 photos Congressman Clyburn joined us this afternoon to meet with FSU and FAMU student leaders.
+Thank you for helping build a brighter future for Florida.
+Close Oct 12, 2026 Congressman Clyburn joined us this afternoon to meet with FSU and FAMU student leaders.
+Thank you for helping build a brighter future for Florida.
+Open this stop on its own Oct 12, 2026 4 photos Proud to spend the afternoon in Tallahassee with Gwen, Laura, Jim Clyburn, Al Lawson, and everyone who joined us for lunch and our press conference.
+We’re working for a Florida...
+Close Oct 12, 2026 Proud to spend the afternoon in Tallahassee with Gwen, Laura, Jim Clyburn, Al Lawson, and everyone who joined us for lunch and our press conference.
+We’re working for a Florida where a paycheck covers the bills, a good education opens doors, and families can see a future here.
+Thank you for being part of it.
+Watch the full press conference on our YouTube channel under the “Live” tab.
+Open this stop on its own Oct 12, 2026 3 photos Gadsden County, thank you for a seat at the breakfast table and a chance to earn your trust.
+Grateful to have Jim Clyburn alongside us this morning.
+Showing up matters.
+Listenin...
+Close Oct 12, 2026 Gadsden County, thank you for a seat at the breakfast table and a chance to earn your trust.
+Grateful to have Jim Clyburn alongside us this morning.
+Showing up matters.
+Listening matters.
+And I intend to keep doing both long after Election Day.
+Open this stop on its own See all 140 stops Oct 11, 2026 5 photos Close Oct 11, 2026 A special service this morning at the historic Bethel Baptist Missionary Church in Tallahassee, where we joined Rev.
+Al Sharpton to honor our friend, Pastor R.B.
+Homes Jr., on his 40th anniversary with the church.
+A heartfelt thanks to the congregation for their warm and gracious welcome.
+Open this stop on its own Oct 10, 2026 4 photos Close Oct 10, 2026 Thank you to Commissioner Lumon May for inviting me to the Escambia County Emergency Operations Center to meet our officials and responders who are working hard around the clock right now.
+Thank you for keeping Floridians safe.
+Open this stop on its own Oct 8, 2026 4 photos Close Oct 8, 2026 Thank you to the Madison County DEC and NAACP for welcoming me into your community this evening! 💙 I’m grateful for the opportunity to connect, listen, and discuss the future we want for Florida.
+Every community deserves to be heard, and together, we can build a Florida that puts people first.
+Open this stop on its own Oct 7, 2026 4 photos Close Oct 7, 2026 An amazing Workday at Zoo Miami, continuing my father Bob Graham’s legacy of showing up, listening, and working alongside Floridians!
+With the wonderful Ron Magill and a welcoming, talented team, I spent time with the elephants and flamingos and helped with dietary prep for the animals.
+Serving the people starts with showing up and rolling up your sleeves.
+That’s the leadership Florida deserves!
+Open this stop on its own Oct 7, 2026 4 photos Close Oct 7, 2026 It was wonderful to gather with our friends in the Haitian community at Randy’s Restaurant & Lounge tonight in Miami.
+Gwen and I will always stand beside our Haitian neighbors who have contributed so much to Florida, and are a key part of its brighter future.
+Open this stop on its own Oct 6, 2026 4 photos Close Oct 6, 2026 I had the pleasure of joining students at the University of North Florida today for a “Chew and Chat,” hearing their concerns and learning more about what matters most to them.
+Thank you for the thoughtful questions, honest conversation, and warm welcome.
+So glad to have spent this time with you!
+Open this stop on its own Oct 6, 2026 4 photos Close Oct 6, 2026 A great evening in Sarasota!
+Thanks to so many friends and allies who have joined us in this historic campaign.
+We are grateful everyday for your support and encouragement.
+Open this stop on its own Oct 5, 2026 5 photos Close Oct 5, 2026 Grateful to spend this morning at The Children’s Table in Bronson, helping distribute food and connecting with Levy County families.
+Serving the people is what this journey is all about.😊 An especially meaningful part of this morning was hearing 97-year-old founder Bill Brown share memories of knowing my parents and predicting my father Bob Graham’s victory in his race for governor.
+This morning, he endorsed the Jolly–Graham ticket, making this visit even more special.
+Thank you, Bill, for your support and for feeding hundreds of our neighbors each week.
+Your lifetime of service is an inspiration.
+Open this stop on its own Oct 5, 2026 4 photos Close Oct 5, 2026 A crowded room, full of excitement, in Coconut Creek this morning for our conversation with Ambassador Rahm Emanuel .
+Thanks to the friends and neighbors who joined us to talk about the issues that matter most for Florida.
+Open this stop on its own Oct 4, 2026 3 photos Close Oct 4, 2026 Thank you to the Alachua County Democratic Party for welcoming me to the 27th Annual Lawton Chiles Gala!
+I enjoyed spending the evening with so many dedicated Floridians who are ready for a new direction for our state.
+Honoring Lawton Chiles’ legacy means keeping people at the heart of public service.
+David Jolly and I are ready to carry that commitment forward by fighting for strong public schools, affordable health care, and a Florida where families can afford to thrive.
+Thank you for your energy, your commitment, and the work you’re doing to help us win in November.
+Change is coming!
+Open this stop on its own Oct 4, 2026 5 photos Close Oct 4, 2026 A beautiful Sunday morning at Koinonia Worship Center and Ebenezer Missionary Baptist Church, two historic Broward churches.
+Thank you Pastor Eric Jones and Pastor Wayne Allen for welcoming us into your congregations and worshipping alongside us.
+Open this stop on its own Oct 4, 2026 4 photos Close Oct 4, 2026 Inspiring night in Orlando at Onyx Magazine’s Men of Honor, celebrating those who are making a real difference in their communities, throughout Florida, every single day.
+Open this stop on its own Oct 4, 2026 5 photos Close Oct 4, 2026 Gwen and Laura spent a great evening with the Palm Beach County Democrats at their annual Truman-Kennedy-Johnson Gala, talking about how, all over Florida, we’ve built the energy and momentum on the ground into a movement.
+We’re believing in something better, and together, we’re going to win.
+Open this stop on its own Oct 3, 2026 4 photos Close Oct 3, 2026 This morning, it was an honor to join the FEA and Leon Classroom Teachers Association for the LCTA Public Education Listening Forum.
+Some of the most important conversations about public education begin by simply listening.
+This morning was about hearing directly from educators and school employees about the realities they face every day, the systems that shape their work, and the experiences of the students and families they serve.
+Thank you to LCTA for creating a space where educators’ lived experiences can help inform meaningful public policy and real solutions for Florida’s public schools.
+Our educators deserve to be heard, supported, and included in the conversations that shape the future of public education.
+Open this stop on its own Oct 3, 2026 4 photos Close Oct 3, 2026 Grateful for our additional time with community leaders today in Sarasota.
+We’re building a bigger table in politics - one where everyone has a voice, where everyone leads, and where we work together to leave to our kids a strong and fair Florida.
+Open this stop on its own Oct 3, 2026 3 photos Close Oct 3, 2026 I’m running to make sure Florida’s kids get a world-class education, to build a state that leads the world in public education, and to ensure every student has the opportunity to pursue their dreams.
+A big thank you to the good folks in Sarasota who organized today’s education rally, and a big thank you to the teachers, administrators, and staff all across the state who work hard everyday to change lives and support our kids.
+Open this stop on its own Oct 3, 2026 3 photos Close Oct 3, 2026 Great to join friends at last night’s Hispanic Heritage & Awards Gala at the Alianza Center in Orlando, honoring the contributions of so many who have made Florida a wonderful place to call home.
+Open this stop on its own Oct 2, 2026 3 photos Close Oct 2, 2026 Meaningful time in Broward County yesterday meeting with Haitian American leaders, business owners, and educators.
 My dad was dedicated to supporting this community.
 I’m honored to carry that torch forward.
 Thank you to Rep.
 Marie Woodson and for the warm welcome from all there.
-Open this stop on its own Oct 1, 2026 2 photos Great to join members of the Haitian American community in Broward County once again, alongside my friends Rep.
-Marie Woodson and Mayor Samson Borgelin.
-The Haitian community i...
-Close Oct 1, 2026 Great to join members of the Haitian American community in Broward County once again, alongside my friends Rep.
+Open this stop on its own Oct 1, 2026 2 photos Close Oct 1, 2026 Great to join members of the Haitian American community in Broward County once again, alongside my friends Rep.
 Marie Woodson and Mayor Samson Borgelin.
 The Haitian community is an integral part of our state's fabric.
 Together, we'll build a better Florida for everyone.
-Open this stop on its own Oct 1, 2026 4 photos Delighted to stand beside Bishop Marvin C.
+Open this stop on its own Oct 1, 2026 4 photos Close Oct 1, 2026 Delighted to stand beside Bishop Marvin C.
 Zanders, II and join the AME conference at Mount Hermon AME Church in Fort Lauderdale.
 Thank you for having us!
-Close Oct 1, 2026 Delighted to stand beside Bishop Marvin C.
-Zanders, II and join the AME conference at Mount Hermon AME Church in Fort Lauderdale.
-Thank you for having us!
-Open this stop on its own Sep 27, 2026 2 photos Great to be with the Broward County Democrats today, and thank you to the Senior Caucus for hosting and always showing up.
-Close Sep 27, 2026 Great to be with the Broward County Democrats today, and thank you to the Senior Caucus for hosting and always showing up.
-Open this stop on its own See all 119 stops Sep 27, 2026 2 photos Close Sep 27, 2026 Beautiful morning at Friendship Missionary Baptist Church in West Palm.
+Open this stop on its own Sep 27, 2026 2 photos Close Sep 27, 2026 Great to be with the Broward County Democrats today, and thank you to the Senior Caucus for hosting and always showing up.
+Open this stop on its own Sep 27, 2026 2 photos Close Sep 27, 2026 Beautiful morning at Friendship Missionary Baptist Church in West Palm.
 Thank you for your grace and kindness.
 Open this stop on its own Sep 27, 2026 4 photos Close Sep 27, 2026 Great to be at Manifest Church in West Palm on their 22nd Anniversary!
 Thank you, Bishop Wright for your love, hospitality and prayers.

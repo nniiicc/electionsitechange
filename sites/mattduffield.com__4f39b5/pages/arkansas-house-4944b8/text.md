@@ -1,4 +1,4 @@
-Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Facebook Youtube House District 53 About Our District Matt Duffield • State Representative • House District 53 An Amazing Slice of Arkansas That We Happily Call… Home.
+Home Meet Matt My Agenda House District 53 Tour the Capitol Gallery Videos Contact X Facebook Youtube House District 53 About Our District Matt Duffield • State Representative • House District 53 An Amazing Slice of Arkansas That We Happily Call… Home.
 Arkansas House District 53 includes the City of Russellville , and encompasses the very heart of Pope County.
 Our neighbors, families, and visitors from all over enjoy a wide array of joyous community gatherings, vast economic opportunities, and fantastic local cuisine in both a friendly and breathtakingly beautiful region of the Natural State.
 Resting in the majestic Arkansas River Valley, Pope County is home to Arkansas Nuclear One (the state’s only nuclear facility), Arkansas Tech University , the historic Old South Restaurant , Lake Dardanelle State Park , and a thriving industrial sector, including nearly 50 manufacturing plants.
@@ -15,4 +15,4 @@ Entergy remains one of the area’s premiere employers and attracts highly-skill
 The station currently employs approximately 1,048 full-time workers and more than 100 baseline contractors employed to assist in daily plant activities.
 One of Entergy’s core values is a commitment to communities, and ANO employees maintain a strong presence in Russellville and the surrounding Arkansas River Valley area.
 Each year, grants totaling more than $100,000 are awarded to local non-profit organizations, and employees partner with Entergy Corporation to donate in excess of $230,000 to the River Valley United Way for distribution to its partner agencies.
-Paid for by Matt Duffield for State Representative Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Youtube Facebook Envelope Privacy Policy Copyright @ # | Mattduffield.com | All Rights Reserved.
+Paid for by Matt Duffield for State Representative Home Meet Matt My Agenda House District 53 Tour the Capitol Gallery Videos Contact X Youtube Facebook Envelope Privacy Policy Copyright @ # | Mattduffield.com | All Rights Reserved.

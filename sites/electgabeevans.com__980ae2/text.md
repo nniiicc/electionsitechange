@@ -1,4 +1,4 @@
-0 Skip to Content MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Back DONATE FIGHT BACK FOR COLORADO Congressman Gabe Evans is a conservative leader who has spent his entire life running toward challenge.
+0 Skip to Content MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Back HOW TO VOTE DONATE FIGHT BACK FOR COLORADO Congressman Gabe Evans is a conservative leader who has spent his entire life running toward challenge.
 He represents Colorado's 8th Congressional District, where he is fighting to secure the border, strengthen public safety, and make life more affordable for hardworking Coloradans.
 Before serving in Congress, Gabe spent twelve years in the U.S.
 Army and Colorado Army National Guard as a UH-60 Black Hawk helicopter pilot and company commander.

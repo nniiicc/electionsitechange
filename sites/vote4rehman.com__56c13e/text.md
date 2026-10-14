@@ -64,7 +64,7 @@ THE ROAD TO NOVEMBER This Campaign Is Built on Front Porches All year, this camp
 No party machine.
 Just neighbors, face to face.
 The next steps belong to you.
-# Days to Election #ago Registration deadline Deadline October 13, 2026 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
+# Days to Election 8 Days to early voting Same-day registration available Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
 You Have Two Votes.
 I am not asking you to change how you vote.
 Two candidates on this ballot are running as a pair and two more are running as a pair, and all four want both of your votes.
@@ -75,7 +75,8 @@ Send one who answers only to you.
 Join the Campaign Volunteer Before you vote Make sure your vote counts.
 These go straight to the Maryland State Board of Elections.
 No sign-up, nothing collected by this campaign — whoever you end up voting for.
-Check if I'm registered Takes about 30 seconds Request a mail-in ballot Request by October 27, 2026 Find my polling place Early voting October 22–29, 2026 Register to vote Deadline October 13, 2026 Tuesday, November 3, 2026.
+Check if I'm registered Takes about 30 seconds Request a mail-in ballot Request by October 27, 2026 Find my polling place Early voting October 22–29, 2026 Not registered yet?
+You still can Register and vote in person, at an early voting center in your own county, Howard or Montgomery from October 22 Tuesday, November 3, 2026.
 Polls open 7am to 8pm.
 Mail your ballot postmarked by November 3, or place it in a drop box by 8pm on Election Day.
 LATEST UPDATES From the Campaign EDUCATION Tech Should Help Our Kids Learn, Not Hook Them Phone bans were step one.

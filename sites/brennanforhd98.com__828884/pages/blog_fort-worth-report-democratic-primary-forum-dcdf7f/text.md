@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Fort Worth Report Democratic Primary Forum CB Feb 13, 2026 · By Cate B Fort Worth Report Democratic Primary Forum Thursday, Feb 12 from 5:30 pm to 7:30 pm CST Get Tickets Here!
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Fort Worth Report Democratic Primary Forum CB Feb 13, 2026 · By Cate B Fort Worth Report Democratic Primary Forum Thursday, Feb 12 from 5:30 pm to 7:30 pm CST Get Tickets Here!
 Candidates will discuss the issues that matter most to you - don't miss it!
 Vote smart this spring: Fort Worth Report, SteerFW, and the League of Women Voters are holding candidate forums for the March 3 primary election.
 On Thursday, Feb.

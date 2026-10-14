@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Community #Heat Safety #Public Health #Agriculture How to Beat the Heat in District 157 This Summer August 18, 2026 7 min read By Micah King Table of Contents • The Reality of Our Changing Summers • The Hit to Our Local Farms • Keeping Our Outdoor Workers Safe • The Hidden Danger: Sunburn • What You Can Do Right Now • Block the Sun Completely If you have spent any time in Tattnall, Evans, Jeff Davis, or Appling counties over the last few summers, you already know the truth: it is getting hotter.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Community #Heat Safety #Public Health #Agriculture How to Beat the Heat in District 157 This Summer August 18, 2026 7 min read By Micah King Table of Contents • The Reality of Our Changing Summers • The Hit to Our Local Farms • Keeping Our Outdoor Workers Safe • The Hidden Danger: Sunburn • What You Can Do Right Now • Block the Sun Completely If you have spent any time in Tattnall, Evans, Jeff Davis, or Appling counties over the last few summers, you already know the truth: it is getting hotter.
 Our local economy is built on outdoor work.
 We rely on farmers, forestry crews, poultry workers, and construction teams to keep our district running.
 But as the summers drag on longer and the heat hits harder, the physical strain on the hardworking people of District 157 is becoming a serious issue.

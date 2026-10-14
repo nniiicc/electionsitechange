@@ -15,7 +15,7 @@ It was a great opportunity to answer questions and have meaningful conversations
 The discussion covered several important topics, including where transportation funding comes from, what factors impact road and infrastructure projects, wetland replacement challenges, and more.
 It’s always valuable to hear directly from county engineers and MnDOT representatives who work with these issues firsthand.
 Thank you to the Minnesota Transportation Alliance for hosting and to everyone who participated in the conversation! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 36 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 37 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
 We also need to make sure the people who truly need a hand up are the ones receiving it.
 My work as a Benton County Commissioner has given me an in-depth look at the outdated technology used at the state level to administer these programs.
 These antiquated systems not only create unnecessary work and delays for employees entering data, but they also lack the checks and balances needed to help prevent fraud.

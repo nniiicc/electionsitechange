@@ -2,7 +2,7 @@ Site is Loading, Please wait...
 Skip to content Press Release | News | Past Events | Input From The Voters | Contact Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Menu Close Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Search this website 12 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 10/18/2025 October 18, 2025 - 10/9/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 10/18/2025 October 18, 2025 - 10/14/2026 Now Select date.
 October 2025 Sat 18 Washington County Stonewall Federation Festival October 18, 2025 @ 12:00 pm - 7:00 pm Washington County Stonewall Federation Festival 9th & Shawnee, Dewey, United States Tue 21 Nowata Democrat Meeting October 21, 2025 @ 7:00 pm - 9:00 pm Clark Event Center 220 North Maple, Nowata, OK, United States Thu 30 Washington County Democrats Meeting October 30, 2025 @ 7:00 pm - 9:00 pm Crossing 2nd 215 E 2nd St, Bartlesville, OK, United States November 2025 Tue 11 McIntosh County Democrats Meeting November 11, 2025 @ 6:30 pm - 8:30 pm Jim Lucas Checotah Public Library 626 W Gentry Ave, Checotah, OK, United States July 2026 Sat 11 Pryor Oklahoma.
 Biscuits & Ballots July 11 @ 8:00 am - 11:00 am Sertoma Building 215 N.
 Holloway St., Pryor, OK, United States Biscuits & Ballots – Pryor, OK Sertoma Building 215 N.

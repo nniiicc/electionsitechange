@@ -8,10 +8,6 @@
 "href": "https://secure.actblue.com/donate/betsyfor103"
 },
 {
-"text": "Events",
-"href": "https://www.betsycoffia.com/events"
-},
-{
 "text": "Galiant Solutions Inc.",
 "href": "https://www.galiantsolutions.com"
 },
@@ -26,6 +22,10 @@
 {
 "text": "Home",
 "href": "https://www.betsycoffia.com/home"
+},
+{
+"text": "Local Events",
+"href": "https://www.betsycoffia.com/events"
 },
 {
 "text": "Policy",
@@ -46,6 +46,10 @@
 {
 "text": "Subscribe to Special Interest",
 "href": "https://www.betsycoffia.com/taxonomy/term/19/feed"
+},
+{
+"text": "Take MI Power Back",
+"href": "https://www.betsycoffia.com/takemipowerback"
 },
 {
 "text": "[email protected]",

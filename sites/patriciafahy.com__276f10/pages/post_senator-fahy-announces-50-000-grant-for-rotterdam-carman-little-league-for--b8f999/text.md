@@ -4,5 +4,5 @@ Formerly Rotterdam and Carman Little Leagues, the groups merged in 2014 to form 
 Carman Little League dates back decades in the Capital Region and had a famous Little League World Series run in 1977.
 Just last year, the RC Little League 10U All-Star team took home 4th place at the 2025 New York State Little League 8-10-year-old Championship Tournament.
 Read the full story here.
-Recent Posts See All Fahy, McDonald Introduce Legislation to Cut the Red Tape and Streamline the Human Service Provider Background Check Process Albany Times Union: More than 80% of NY's home-schooled students are chronically absent Fahy, Romero Release Letter Regarding Albany's Proposed City Budget Friends of Patricia Fahy 2026, P.O.
+Recent Posts See All Senator Fahy Announces $10,000 Grant for Postage Stamp Ping Pong Fahy, McDonald Introduce Legislation to Cut the Red Tape and Streamline the Human Service Provider Background Check Process Albany Times Union: More than 80% of NY's home-schooled students are chronically absent Friends of Patricia Fahy 2026, P.O.
 Box 8282, Albany, NY 12208 pat@patriciafahy.com ​ ​Accessibility Statement © # by Friends of Patricia Fahy 2026. bottom of page

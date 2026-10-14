@@ -49,6 +49,6 @@ I care about this issue because the people care about this issue, and I’m runn
 Click here to read more about how Jack and I differ on major policy issues.
 Maura Keller Maura Keller stands for service, dedication, and progress.
 Born in South Weymouth, Massachusetts, and residing in Fayetteville, Georgia for 28 years, Maura's life has been a testament to the power of hard work and helping others.
-Next Next Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Previous Previous The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll Next Next Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

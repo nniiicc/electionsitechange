@@ -29,7 +29,7 @@ But we cannot do any of that if we no longer own the land.
 I will fight every attempt to sell off our public lands.
 I will stand against the short-sighted politicians who see our mountains and prairies as line items on a ledger.
 Our public lands are the soul of Wyoming, and I will keep them where they belong: in your hands.
-Latest Updates Three out of four Republicans said no to Chuck Gray.
+Latest Updates Governor Mike Sullivan Endorses Lisa October 13, 2026 Former Wyoming Governor Mike Sullivan announced on Tuesday, October 6,… Read more : Governor Mike Sullivan Endorses Lisa Three out of four Republicans said no to Chuck Gray.
 Say it again in November.
 October 10, 2026 Three out of four Republicans said no to Chuck Gray!
 WTE Election Guide October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
@@ -38,5 +38,4 @@ Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress October 5, 2026 Lis
 Move to a New Building – July 4, 1981 September 22, 2026 Lisa Kinney was instrumental in getting a bond issue passed… Read more : Move to a New Building – July 4, 1981 Lisa’s Answer to an ICE Pledge September 17, 2026 Pledges are tricky to navigate these days.
 Why Can’t Drones be Built in Wyo?
 September 10, 2026 Kinney proposes exploring federal partnerships to make Wyoming a center… Read more : Why Can’t Drones be Built in Wyo?
-Big Horn Basin Tour Dates September 9, 2026 Join Lisa Kinney and Jim Byrd as they make stops through the Big Horn Basin for meet & greet opportunities!
 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

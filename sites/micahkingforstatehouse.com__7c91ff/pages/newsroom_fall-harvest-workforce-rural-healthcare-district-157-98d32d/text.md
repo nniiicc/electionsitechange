@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Agriculture #Rural Healthcare #Workforce Development #Economy The Hidden Pressures on District 157: ER Shortfalls, Trade Fees, and Harvest Season September 8, 2026 6 min read By Micah King Table of Contents • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Agriculture #Rural Healthcare #Workforce Development #Economy The Hidden Pressures on District 157: ER Shortfalls, Trade Fees, and Harvest Season September 8, 2026 6 min read By Micah King Table of Contents • 1.
 The 2026 Fall Harvest: Resilience on the Family Farm • 2.
 Technical Trades: Bridging the Rural Workforce Gap • 3.
 The Rural Healthcare Crisis: ER Shortfalls and Price Transparency • Actionable Legislative Solutions for District 157 As the first week of September draws to a close, families across Tattnall, Evans, Appling, and Jeff Davis counties are stepping into one of the busiest seasons of the year.

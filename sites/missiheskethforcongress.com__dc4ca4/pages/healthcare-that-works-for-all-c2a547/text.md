@@ -1,4 +1,4 @@
-About Top 5 Issues Endorsements Events Volunteer Donate Merch About Top 5 Issues Endorsements Events Volunteer Donate Merch In your own words, what would you want to tell DC?
+About Top 5 Issues Endorsements Tour Volunteer Donate Merch About Top 5 Issues Endorsements Tour Volunteer Donate Merch In your own words, what would you want to tell DC?
 Fill out the form below or call/text (417) 674-3481 to leave your message.
 Leave this field blank May we follow up with you via text?
 Yes No May we follow up with you via email?

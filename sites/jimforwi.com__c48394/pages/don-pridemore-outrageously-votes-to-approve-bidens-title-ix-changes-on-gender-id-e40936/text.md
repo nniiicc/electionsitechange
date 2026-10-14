@@ -17,8 +17,7 @@ Pridemore has asked for his yes vote to be stricken and another vote taken with 
 The second School Board for the high school didn’t pass the revised language after failing to get a second to the motion – with Pridemore absent, the Daily News reported.
 For more information see jimforwi.com.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 Next post: Next DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted March 5, 2024 in News Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 Next post: Next DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 You May Also Like Posted July 29, 2024 in Endorsements , News , ticker WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

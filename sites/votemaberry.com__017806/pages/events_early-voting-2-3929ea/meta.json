@@ -1,9 +1,10 @@
 {
  "description": "Get out and vote on Election Day for Aron Maberry for State Representative.",
  "final_url": "https://votemaberry.com/events/early-voting-2/",
- "fingerprint": "1076f21778120d1011af1b46b0f31203c300711b",
+ "fingerprint": "2a802150e039d7a3c39480028a477b6f9c0e43ee",
  "format": 3,
  "paid_for_by": "PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer",
+ "rendered": false,
  "title": "Early Voting - Aron Maberry | State Representative",
  "years_mentioned": [
   "2024"

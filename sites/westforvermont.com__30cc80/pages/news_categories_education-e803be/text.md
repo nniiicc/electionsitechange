@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE CAMPAIGN NEWS The Latest Updates All Posts Education Press Release Housing Service Endorsements Search Commentary: Protect school choice in rural Vermont Rural schools operate under different realities than schools in larger cities or suburban areas.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE CAMPAIGN NEWS The Latest Updates All Posts Education Press Release Housing Service Endorsements Search Commentary: Protect school choice in rural Vermont Rural schools operate under different realities than schools in larger cities or suburban areas.
 In small towns, geography and population size shape what is possible in ways that policy discussions in Montpelier sometimes overlook.
 Mar 10 3 min read Commentary: Gov.
 Phil Scott is Wrong on Universal School Meals I know the stigma firsthand.

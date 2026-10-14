@@ -42,6 +42,6 @@ Governing Law These terms and conditions are governed by and construed in accord
 13.
 Contact Information If you have any questions about these Terms of Service, please contact us through the contact information provided on our website.
 Paid for by Carey Coleman for Congress P.O.
-Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+Box 560222 Macedonia, OH 44056 Facebook-f Instagram X-twitter Youtube Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
 All rights reserved.
 Terms of Service Privacy Policy Terms of Service Privacy Policy

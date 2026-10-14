@@ -1,5 +1,5 @@
 0 Skip to Content Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Before I ask you for your vote, I'm asking for your voice.
-Aug 31 Written By Kara Myrick-Emele These are Henry's remarks after the Ward 7 Town Hall & Meet-and-Greet on August 29, 2026.
+Aug 31 Written by Kara Myrick-Emele These are Henry's remarks after the Ward 7 Town Hall & Meet-and-Greet on August 29, 2026.
 Some of you I've met at your doors.
 Some I've spoken with around the neighborhood.
 And some of you I'm meeting for the first time today.

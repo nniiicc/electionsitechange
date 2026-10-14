@@ -36,10 +36,6 @@
 "href": "https://www.missiformo.com/endorsements"
 },
 {
-"text": "Events",
-"href": "https://www.missiformo.com/events"
-},
-{
 "text": "Joplin Townhall",
 "href": "https://www.missiformo.com/joplin-townhall?event_session_ids=118185"
 },
@@ -138,6 +134,10 @@
 {
 "text": "Top 5 Issues",
 "href": "https://www.missiformo.com/top-5-issues"
+},
+{
+"text": "Tour",
+"href": "https://www.missiformo.com/events"
 },
 {
 "text": "Volunteer",

@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Baxley #Appling County #Community Connecting with the Community at the Baxley Block Party July 28, 2026 5 min read By Micah King When Saturday, July 25, 2026 Where Baxley, Appling County, GA Table of Contents • Connecting with the Community • A Town Built on Timber, Turpentine, and Grit • Kitchen-Table Issues, Not Atlanta Talking Points – What Those Numbers Actually Look Like in Appling County • Why Local Gatherings Like This One Matter • Thank You, Baxley Connecting with the Community This weekend, I had the privilege of attending the community block party in Baxley, GA .
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Baxley #Appling County #Community Connecting with the Community at the Baxley Block Party July 28, 2026 5 min read By Micah King When Saturday, July 25, 2026 Where Baxley, Appling County, GA Table of Contents • Connecting with the Community • A Town Built on Timber, Turpentine, and Grit • Kitchen-Table Issues, Not Atlanta Talking Points – What Those Numbers Actually Look Like in Appling County • Why Local Gatherings Like This One Matter • Thank You, Baxley Connecting with the Community This weekend, I had the privilege of attending the community block party in Baxley, GA .
 It was a fantastic event sponsored by Marc Carter , who was celebrating his 20th year of hosting this incredible gathering for the community.
 Twenty years is not a small thing to sustain.
 It means Marc has been bringing this town together, one summer at a time, through changing economic conditions, changing leadership in Atlanta, and changing seasons in this district’s agricultural economy.

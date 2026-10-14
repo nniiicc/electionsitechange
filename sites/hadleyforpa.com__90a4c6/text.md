@@ -1,9 +1,10 @@
 Vote Meet Hadley Priorities District 44 Endorsements News Community Events Media Get Involved Invest in Hadley Vote Meet Hadley Priorities District 44 Endorsements News Community Events Media Get Involved Invest in Hadley Pennsylvania House · District 44 Hadley Haas Courage · Compassion · Integrity Named a DLCC Target Race to flip HD‑44 As a mother, a daughter and a community leader, I show up and ask - how can I help ?
 As a state legislator, I will do the same.
-Invest in Hadley Make your plan to vote Scroll Endorsed · September 2026 Governor Josh Shapiro has endorsed Hadley Haas for HD‑44.
-Hadley and the Governor share a mission to lower costs and deliver for working families.
-Flipping HD‑44 is how we get it done.
-Invest in Hadley Not right now New Ad Where she comes from Her roots in the Pittsburgh region, and her plans for what comes next.
+Invest in Hadley Make your plan to vote Scroll Election Day · Tuesday, November 3 Make your plan to vote for Hadley Haas .
+Endorsed by Governor Josh Shapiro.
+Four quick taps and you’ll know how, when and where you’re voting.
+Oct 19 Register by Monday, October 19 New voters and anyone who moved.
+Make my plan to vote Check my registration Find my polling place Invest in Hadley Not right now New Ad Where she comes from Her roots in the Pittsburgh region, and her plans for what comes next.
 30 seconds Vote Voter Action Center Make your plan to vote.
 Everything you need to register, request a mail ballot, and find your polling place in District 44.
 Countdown to Election Day Election Day • November 3, 2026 -- Days to Go Tuesday, November 3, 2026 Register to Vote Start Check Your Registration Verify Request a Mail‑In Ballot Apply Find Your Polling Place Locate Oct 19 Register to Vote By Last day to register, or to update your address if you have moved.

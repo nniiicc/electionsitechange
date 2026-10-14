@@ -1,4 +1,6 @@
-Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Hinson to Launch “Fighting for Iowa” Statewide Bus Tour by Addie Lavis | Oct 13, 2026 | Press Release Mason City, IA – Tomorrow, Ashley Hinson will launch her “Fighting for Iowa” statewide bus tour with supporters in Mason City.
+Over the next three weeks, she will traverse the state sharing her commonsense message and warning Iowans that Josh Turek is too liberal for...
+U.S.
 Chamber of Commerce Endorses Ashley Hinson for U.S.
 Senate by Addie Lavis | Oct 11, 2026 | Press Release Cedar Rapids, IA – Today, the U.S.
 Chamber of Commerce endorsed Ashley Hinson for U.S.
@@ -10,7 +12,5 @@ Get the Facts on Ashley Hinson’s Family Finances, Record of Cleaning Up Washin
 “Ashley and her husband, Matt, sold her individual publicly traded stocks shortly after taking office and do not trade stocks.
 In fact,...
 Hinson Releases New Ad: “Doug” by Addie Lavis | Oct 3, 2026 | Press Release Marion, IA – Ashley Hinson launched a new ad for the general election today, “Doug.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “I’ve been a Democrat my entire life, and I’m supporting Ashley Hinson.
-She’s honest, she...
-Hinson Releases New Ad: “False” by Addie Lavis | Oct 2, 2026 | Press Release Marion, IA – Ashley Hinson launched a new ad for the general election, “False.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “Josh Turek is lying.
-Ashley Hinson doesn’t own a single share of public stock, and she voted... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+She’s honest, she... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
 Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

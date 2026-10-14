@@ -1,4 +1,4 @@
-Skip navigation menu Home Meet Caitlin Issues News Volunteer Yard Signs DONATE Meet Caitlin: A Leader Built to Serve Home Meet Caitlin Issues News Volunteer Yard Signs DONATE Meet Caitlin: A Leader Built to Serve Caitlin Rourk is a U.S.
+Skip navigation menu Home Meet Caitlin Issues News Volunteer DONATE Meet Caitlin: A Leader Built to Serve Home Meet Caitlin Issues News Volunteer DONATE Meet Caitlin: A Leader Built to Serve Caitlin Rourk is a U.S.
 Army officer and mom running for Congress to bring principled, practical leadership to Washington.
 She's the Democratic nominee for Congressional District 10, which spans 13 counties across central and east Texas.
 Raised by public school teachers and shaped by a family tradition of service, Caitlin’s roots run deep in American grit and perseverance.

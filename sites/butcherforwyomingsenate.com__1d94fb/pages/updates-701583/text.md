@@ -8,7 +8,23 @@ I grew up in my dad's gun shop.
 The shop was part of [...] Read More Why Stability Matters for Wyoming’s Future mdbutcher 2026-06-24T15:18:41-06:00 June 24, 2026 | Categories: Campaign | Yesterday, I participated in the Wyoming Business Alliance Policy & Prosperity Summit, joining business and industry leaders from across Wyoming for a series of conversations about the opportunities and challenges [...] Read More Why Solving Problems Across Differences Is a Conservative Value mdbutcher 2026-05-29T13:37:00-06:00 May 29, 2026 | Categories: Stewardship Conservatism | I’ve spent most of my career working across northern Wyoming, facilitating difficult conversations around community issues.
 And here’s something I know for certain: Communities and economies do not get stronger [...] Read More A Conversation About the Work Ahead mdbutcher 2026-04-30T21:27:07-06:00 April 14, 2026 | Categories: Campaign | Today I had the chance to sit down with Jake on the Cowboy State Daily Morning Show for a short conversation about this campaign and what I’m hearing across the [...] Read More Melissa Butcher Announces Run for Wyoming Senate District 21 mdbutcher 2026-04-08T08:44:22-06:00 March 9, 2026 | Categories: Campaign | Melissa Butcher, a Sheridan County business owner, announced today she will run as a Republican for the Wyoming Senate in District 21, bringing her experience in business leadership, collaborative problem-solving, [...] Read More Used for the like, share, comment, and reaction icons 579 Butcher for Wyoming Senate District 21 Sheridan County business owner, community facilitator, and candidate for Wyoming Senate District 21.
 Focused on trust, opportunity, and Wyoming’s future.
-Butcher for Wyoming Senate District 21 #ago Formal Senate training starts in December and continues in January, but I’m not much of a wait-until-then person.
+Butcher for Wyoming Senate District 21 #ago We talk a lot about taxes and government spending, and rightly so.
+But I think we sometimes lose sight of what those tax dollars actually pay for.
+This fire is a good example.
+Look at the number of agencies and organizations that came together to protect lives and property.
+Fire departments, law enforcement, road crews and others, all working together.
+Most of us go about our daily lives without giving much thought to the people, equipment, training and infrastructure that make these services possible.
+We just expect them to be there when we need them.
+I'm a firm believer that we need to be careful with taxpayer dollars and continually look for ways to operate more efficiently.
+But we also need to understand what we're getting for those dollars, and what the consequences might be when we cut funding.
+Taxes don't simply disappear into government coffers.
+Much of that money comes back to our communities in the form of services we rely on every day, whether we realize it or not.
+This is personal for me, too.
+During the Elk Fire, volunteer firefighters saved our home.
+I know firsthand what it means to have neighbors willing to put themselves in harm's way to protect others.
+Thank you to everyone who responded to the Border Fire, and especially to the volunteers who give so much of their time to protect their neighbors. ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 26 Shares: 1 Comments: 2 Butcher for Wyoming Senate District 21 #ago Formal Senate training starts in December and continues in January, but I’m not much of a wait-until-then person.
 Since the primary, I’ve been using this time to prepare.
 I’ve been reviewing past committee work and legislation, spending time with the state budget, talking with people who know these issues well, and looking closely at what may be coming in 2027.
 I’m also exploring some possible legislation of my own, based on conversations with constituents during the campaign.
@@ -30,7 +46,7 @@ The ballot language includes the estimated revenue impact of the initiative to t
 The proposition references a beginning in 2025, but if passed in 2026 the earliest applicable tax year would be 2027, with impact to the state beginning in 2028.
 Fiscal impact will apply to each year so long as the exemption is in place.
 Future impacts depend on unpredictable economic conditions.” ———— Photo: Tony Webster / CC BY 2.0 ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love sad 114 Shares: 3 Comments: 9 Butcher for Wyoming Senate District 21 #ago “We should all be asking the question… ‘What am I doing to make my community better?’” Years ago, when I worked for the Wyoming Department of Transportation, I spent quite a bit of time in Newcastle as WYDOT prepared to reconstruct Main Street.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love sad 120 Shares: 3 Comments: 9 Butcher for Wyoming Senate District 21 #ago “We should all be asking the question… ‘What am I doing to make my community better?’” Years ago, when I worked for the Wyoming Department of Transportation, I spent quite a bit of time in Newcastle as WYDOT prepared to reconstruct Main Street.
 My job was public outreach — talking with residents and business owners, gathering their input about how the street should function and what kinds of improvements and amenities they wanted to see as part of the project.
 One of my first projects after joining WYDOT involved very similar work right here in Sheridan, as Main Street was being revitalized.
 Those projects gave me a front-row seat to just how much people care about the places they call home — and how important it is that they have a meaningful voice when decisions are being made about those places.
@@ -86,9 +102,4 @@ It is the beginning of a new one.
 Thank you for your trust.
 I will work hard to earn it every day.
 #butcherforwyoming #always ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 238 Shares: 4 Comments: 77 Butcher for Wyoming Senate District 21 #ago The polls are closed.
-Whatever tonight brings, I’m deeply grateful to everyone who voted, volunteered, contributed, opened a door, attended an event, asked a question, or simply took the time to have a conversation with me during this campaign.
-And to the people who have worked beside me these past several months: thank you.
-There is no way to adequately describe what your time, encouragement and confidence have meant to me.
-Now we wait for the results. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 58 Shares: 0 Comments: 9 Load more Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 238 Shares: 4 Comments: 77 Load more Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

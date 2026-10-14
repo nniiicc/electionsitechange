@@ -5,4 +5,5 @@ Your benefits and the future of Social Security and Medicare should not be aucti
 But for those living on a fixed income, these skyrocketing costs of gas and groceries are effectively the same as cutting Social Security.
 We must reverse these price hikes caused by this Congress, and protect our seniors by reducing the trade wars and foreign wars that are driving up prices back home.
 We must bring costs down.
-Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

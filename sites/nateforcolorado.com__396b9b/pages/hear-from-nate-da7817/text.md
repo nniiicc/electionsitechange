@@ -1,3 +1,3 @@
 Home Hear From Nate Endorsements More Home Hear From Nate Endorsements Home Hear From Nate Endorsements Hear from Nate Colorado Deserves Better Free State Colorado Interview See Nate and hear his vision for Highlands Ranch with Free State Colorado Support the Cause Big Timber Podcast Hear Nate talk about how Colorado is picking abusers over victims and what we can do to stop it!
 Testifying at the Capitol Hear Nate testify against a bad bill that would let convicted murderers and habitual violent criminals out of prison.
-We Can Do Better Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein Copyright © # Nate for Colorado - All Rights Reserved.
+We Can Do Better Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein NATE@NATEFORCOLORADO.COM Copyright © # Nate for Colorado - All Rights Reserved.

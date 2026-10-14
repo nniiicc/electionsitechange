@@ -1,4 +1,4 @@
-Donate Meet Ray Priorities Events News Get Involved Volunteer Media Kit Priorities What motivates me as a candidate is bringing hope and opportunity back to the 15 th Congressional District, and to do that, we need better jobs, higher quality, accessible healthcare and improved infrastructure.
+Donate About Ray Meet Ray Endorsements Priorities Events News Get Involved Volunteer Media Kit Priorities What motivates me as a candidate is bringing hope and opportunity back to the 15 th Congressional District, and to do that, we need better jobs, higher quality, accessible healthcare and improved infrastructure.
 Economy Healthcare Farming Energy Rural Communities Second Amendment Veterans Education Fixing Congress Data Centers SNAP and Food Security Immigration and ICE Reproductive Rights Israel-Palestine Iran War Economy A strong economy isn’t measured only by the stock market or GDP.
 It’s measured at the kitchen table—by whether a paycheck covers the groceries, whether a family can afford a home, whether a small business can grow, and whether young people can find good jobs without leaving the communities where they grew up.
 Too many families in PA-15 are working hard and still falling behind.
@@ -227,6 +227,6 @@ The United States must avoid unnecessary and counterproductive foreign wars with
 Trump’s war in Iran clearly fails to meet these criteria because it was entered into without an apparent goal, lacked proper planning, preparation, or coordination with our allies, and was not prompted by a direct threat to the United States.
 We must support a War Powers Resolution now to rein in Trump’s war in Iran.
 This would help prevent the loss of precious American lives in a senseless and counterproductive war and restore Congress’s constitutional authority to declare war.
-Copy section link Share Back to top Meet Ray Priorities Events News Get Involved Volunteer Media Kit info@bilgerforcongress.com Mail and checks: Ray Bilger for Congress P.O.
+Copy section link Share Back to top About Ray Meet Ray Endorsements Priorities Events News Get Involved Volunteer Media Kit info@bilgerforcongress.com Mail and checks: Ray Bilger for Congress P.O.
 Box 441 Lemont, PA, 16851 ©# Ray Bilger for Congress Map adapted from Wikipedia under a CC BY-SA 4.0 license.
 Featured photography by Dave Mengle

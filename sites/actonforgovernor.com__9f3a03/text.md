@@ -14,9 +14,9 @@ But that made Amy tough – and now, Amy is running for governor to fight for ev
 LEARN MORE LEARN MORE ISSUE Reducing Costs for Ohio Families Read More ISSUE Cleaning Up Corruption Read More ISSUE Improving Ohio’s Education Read More ISSUE Lowering the Cost of Health Care Read More ISSUE Growing Ohio Jobs and Businesses Read More ISSUE Standing Up for Workers Read More ISSUE Building Safer Communities Read More ISSUE Ensuring Reproductive Freedom Read More ISSUE Aging in place Read More PRIORITIES FOR OHIO PRIORITIES FOR OHIO $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount CHIP IN TODAY Donate now to Stand with Amy If you’ve saved your payment info with ActBlue Express, your donation will go through immediately.
 THE LATEST UPDATES A wonderful Sunday morning at City of Grace Church in Columbus!
 Grateful to share this morning of faith and f...
-#ago That means protecting our farmland, supporting family farms and investing in the future of Ohio agriculture.
-October 11, 2026 Press Releases Oct 10, 2026 Dr.
-Amy Acton on The Briefing: “I am laser-focused on helping make life better for Ohioans” TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+#ago Sign up here: www.mobilize.us/ohiowins/eve...
+October 13, 2026 Press Releases Oct 13, 2026 Vivek Ramaswamy and Billionaire Allies Surpass $101 Million in Ad Spending Against Dr.
+Acton TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

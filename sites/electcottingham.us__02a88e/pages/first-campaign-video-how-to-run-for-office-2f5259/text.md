@@ -3,9 +3,7 @@ Contact Us Volunteer Events Ballot Access My Support & Endorsements Media & Cont
 Donate First Campaign Video “How to Run for Office.” April 21st, 2026 Here is my first campaign video “How to Run for Office,” a fun, lighthearted take on the complexities of running for office, and an opportunity for you to learn more about me.
 I am a candidate who is serious about the issues, policies, and solutions; however, I am also a candidate who can take himself less seriously and can even laugh at himself at times.
 Smile, laugh, and enjoy!
-I know I did while making it. 😁😂 Leave a Reply Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
-Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
+I know I did while making it. 😁😂 Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
 Interview with Larry Sharpe!
 Independence Party Nominates Andrew Cottingham as Candidate!
 Archives September 2026 April 2026 March 2026 Social Media X Instagram Facebook LinkedIn Andrew Cottingham for Illinois State Representative For a more equal and free Illinois .

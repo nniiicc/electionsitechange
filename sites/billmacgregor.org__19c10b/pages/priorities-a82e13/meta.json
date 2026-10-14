@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.billmacgregor.org/priorities",
- "fingerprint": "3d9437064788fd54d43c1e3fbfb5ac61e053ca86",
+ "fingerprint": "55a1572b7fbd4b09893f6ee15c1d6ce23fa78470",
  "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Bill MacGregor",
+ "rendered": false,
  "title": "Priorities — State Rep. Bill MacGregor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023"
+ ]
 }

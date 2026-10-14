@@ -17,4 +17,5 @@ Big Tech wants the answer to be whoever spends the most money.
 They have amassed a war chest of over $100 million to buy the midterm elections.
 They have gone after candidates with the courage to demand AI safety, and they are bankrolling candidates who promise them a blank check through federal preemption.
 That is not right, and it is not inevitable.
-Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

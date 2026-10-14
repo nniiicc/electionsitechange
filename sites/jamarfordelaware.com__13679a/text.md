@@ -1,12 +1,7 @@
-Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Fundraiser Tuesday, October 13 · 6–8 pm · Cantwell’s Tavern , · Odessa RSVP Middletown Odessa Townsend Port Penn A new voice for the 9th District.
+Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Middletown Odessa Townsend Port Penn A new voice for the 9th District.
 Jamar Money is running for Delaware’s 9th District State Representative.
 A 17-year public school teacher, husband, and father who knows what families in Middletown, Odessa, and Townsend are actually facing.
-Get involved Read the platform Upcoming event Join Jamar at Cantwell’s Tavern Please join us in support of Jamar Money for State Representative.
-When Tuesday, October 13 6–8 pm Where Cantwell’s Tavern 109 Main Street , Odessa , DE 19730 Tickets $75 per person Sponsorships $300 Silver sponsor $600 Gold sponsor RSVP & get tickets Or RSVP by email: ETaylor2680@gmail.com Tickets securely processed by WinRed.
-Contributions are not tax-deductible.
-Delaware law limits individual contributions to $600 per election for a State Representative race (15 Del.
-C. § 8010).
-Open the full-size flyer Why I’m running Listen to the district.
+Get involved Read the platform Why I’m running Listen to the district.
 Advocate for its needs.
 Your candidate Jamar Money 17-year classroom teacher.
 Husband and father.

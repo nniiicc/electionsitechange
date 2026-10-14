@@ -1,7 +1,11 @@
-Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The Farmer Servant’s Covenants Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The People’s Constitutional Convention The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
 Touch device users, explore by touch or with swipe gestures.
-Home → The People’s Covenant to Oklahoma The People’s Covenant to Oklahoma The People’s Covenant to Oklahoma The People’s Covenant to Oklahoma is a public commitment to transparency, accountability, constitutional rights, and government that truly belongs to the people.
-It’s a WE Thing, Not a ME Thing.
+Home → The Farmer Servant’s Covenants to the Voters of Oklahoma The Farmer Servant’s Covenants to the Voters of Oklahoma United we stand.
+Divided we fall.
+Together, we can restore Oklahoma, rebuild our middle class, protect everyone’s constitutional and civil rights, and hold elected officials accountable to the people they serve.
+These covenants are my commitment to transparent government, public participation, and leadership that puts people ahead of political parties, corporate influence, and personal gain.
+Let’s show the world what happens when We the People work together.
+It’s a WE thing, not a ME thing.
 For too long, Oklahoma government has been driven by political parties, special interests, lobbyists, and career politicians instead of the people government was created to serve.
 The Farmer Servant Movement is built on a simple belief: Government Belongs to the People.
 These covenants are the standards by which I am asking Oklahomans to judge me—not only during an election, but if you give me the privilege of serving as your Governor.
@@ -9,7 +13,7 @@ And these Covenants can grow.
 When an Oklahoman brings us a good idea for making government more accountable to the people, we will listen.
 Because this isn’t supposed to be my government.
 It’s our government.
-The People’s Covenant to Oklahoma: Fourteen Written Covenants COVENANT #1: LET THE PEOPLE DECIDE Your Voice Shouldn’t End on Election Day.
+The Farmer Servant’s Covenants to the Voters of Oklahoma: Fifteen Written Covenants COVENANT #1: LET THE PEOPLE DECIDE Your Voice Shouldn’t End on Election Day.
 For generations, representative government required citizens to elect someone and then hope that person continued representing them after arriving at the Capitol.
 Technology gives us an opportunity to do something more.
 Through the People’s App, we will create a system that allows registered Oklahoma voters to provide their input on important issues facing our state.
@@ -157,8 +161,20 @@ I will publicly report requests made, progress achieved, findings received, and 
 MY COVENANT: I will follow the evidence wherever it leads, without political favoritism, preconceived conclusions, or special treatment for anyone.
 The victims, survivors, families, and first responders deserve remembrance, respect, truth, and accountability.
 It’s a WE thing, not a ME thing. —Robert E.
-Brooks, Farmer Servant Fourteen Covenants.
-One Commitment.
+Brooks, Farmer Servant COVENANT #15: MILITARY SECURITY AND SURVEILLANCE ACCOUNTABILITY Protecting Those Who Protect Us.
+I covenant with the people of Oklahoma to use the lawful authority of the Governor’s office to protect our military personnel, their families, and our communities from security risks associated with license plate readers and connected surveillance systems.
+Upon taking office, I will: Issue an executive order directing agencies, departments, and offices under my executive authority to review these systems, verify compliance with applicable federal and state requirements, including NDAA restrictions where applicable, and correct identified security weaknesses.
+Coordinate with appropriate military security officials to assess potential risks involving Fort Sill, Tinker Air Force Base, National Guard facilities in Norman, and other sensitive military locations.
+Examine data access and sharing: who can search, download, retain, or distribute records, and whether those records could expose sensitive patterns of movement.
+Require documented safeguards within my lawful authority, including access controls, audit logs, retention limits, and procedures for investigating unauthorized access or misuse.
+Pursue statewide accountability for cities and counties through all lawful executive tools and proposed legislation where additional authority is necessary.
+Publish findings and corrective-action updates while protecting sensitive military information and personal privacy.
+MY COVENANT: My commitment is to investigate potential risks, act on verified findings, and provide public accountability.
+This covenant does not assert that foreign access, a security breach, or an NDAA violation has already been established.
+Our military’s security and the people’s privacy deserve action, transparency, and answers.
+It’s a WE thing, not a ME thing. — Robert E.
+Brooks Farmer Servant for Governor Fifteen Covenants.
+One Promise.
 LET THE PEOPLE DECIDE.
 Give Oklahomans a voice in major decisions.
 LET THE PEOPLE SEE.
@@ -187,6 +203,8 @@ PEACEFUL TRIBAL LAND RETURN.
 Voluntary, lawful pathways for tribal land restoration.
 TRUTH AND ACCOUNTABILITY FOR THE OKLAHOMA CITY BOMBING.
 Follow the evidence and seek answers.
+MILITARY SECURITY AND SURVEILLANCE ACCOUNTABILITY.
+Protect military personnel, their families, and Oklahoma communities through oversight, transparency, and security safeguards.
 These covenants are not campaign slogans.
 They are written commitments by which you can judge me before, during, and after an election.
 If an Oklahoman brings forward another reasonable, constitutional idea that can make elected officials more accountable, I want to hear it.
@@ -194,7 +212,7 @@ Government belongs to the people.
 It’s a WE thing, not a ME thing.
 Robert E.
 Brooks Independent Candidate for Governor of Oklahoma Have We Earned Your Vote?
-Thank you for reviewing our Fourteen Covenants and the other plans in our historic, people-built platform for Governor of Oklahoma.
+Thank you for reviewing our Fifteen Covenants and the other plans in our historic, people-built platform for Governor of Oklahoma.
 Now we want to hear from YOU .
 Have we earned your vote?
 Is there another Covenant or a change you believe would help us earn it?

@@ -20,4 +20,5 @@ Amy will protect access to Medi-Cal because she knows firsthand how families dep
 Amy will work to lower healthcare costs and ensure access to quality healthcare.
 Amy knows what it takes for California’s public schools to thrive, and she has a plan to do just that for District 7 schools.
 "I will always put people first, no matter who they are, where they come from, or what their politics are.
-That's the job, and I've spent 40 years doing just that." Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.
+That's the job, and I've spent 40 years doing just that." Amy in the community Amy is ready to get to work for the people of Assembly District 7.
+Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.

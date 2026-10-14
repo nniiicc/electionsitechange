@@ -47,7 +47,7 @@ We will notify registered users by email and post notice to this site of any sub
 Your use of this site following such changes constitutes your agreement with regard to information collected from you in the past and in the future.
 How To Contact Us For text messaging help, reply HELP or contact info@achillesforidaho.com .
 Questions regarding this Privacy Policy should be emailed to info@achillesforidaho.com .
-Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
-Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Saturday l 12pm - 4pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Monday - Friday l 11am - 6pm Saturday | 9am - 3pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Saturday l 11am - 2pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
 Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
 The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

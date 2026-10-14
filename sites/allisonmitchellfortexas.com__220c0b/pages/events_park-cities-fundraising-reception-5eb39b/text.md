@@ -3,7 +3,7 @@ RSVP HERE This election is an important opportunity to bring new leadership to S
 As a Dallas entrepreneur, Hockaday alumnae, public school parent, and advocate for families, Allison understands the challenges facing our community and is running to fully fund public schools, lower health care costs, protect homeowners, and make sure Texas puts people ahead of special interests.
 Your support now can make a real difference .
 Whether you can attend the event or simply make a contribution, we'd be grateful to have you with us.
-Please join us on October 19 as we come together to support Allison and build the campaign we need to win HD 108.
+Please join us on October 20 as we come together to support Allison and build the campaign we need to win HD 108.
 RSVP HERE Previous Previous October 13 Fundraising reception with Michael Kaufman and Durward Watson Allison Mitchell for Texas P.O.
 Box 670162 Dallas, TX 75367 Pol.
 Adv.

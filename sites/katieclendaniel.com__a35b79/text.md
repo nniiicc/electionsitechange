@@ -39,9 +39,7 @@ From downtown revitalization and housing to small business support and infrastru
 Meet Katie Read below for some of our top priorities Lower Costs and Fair Utility Bills Local Jobs and Small Businesses Rural Health Care and Strong Schools Infrastructure and Resilient Communities ON THE TRAIL Meet Katie Across District 37 Events Join Katie at upcoming community gatherings, campaign events, and conversations across the Shore.
 We would love to see you there.
 Open Virtual Phone Bank for Katie Multiple Times Virtual Event https://www.openvpb.com/VirtualPhoneBank/ Join Team Katie from wherever you are and help us connect with voters across District 37.
-Our Open Virtual Phone Bank is available any day from 9 AM to 9 PM Eastern, so you can choose a time that fits… Show more RSVP Dorchester County Canvassing with Katie Clendaniel Multiple Times Dorchester Democrats HQ 403 Race St, Cambridge, MD, 21613 Join Katie Clendaniel’s campaign to talk with neighbors across Dorchester County.
-Volunteers will canvass voters, share information about Katie, and hear what matters to our community.
-No experience i… Show more RSVP Caroline County Canvassing with Katie Clendaniel Multiple Times Preston OfficePlex 239 Main St, Preston, MD, 21655 Join Katie Clendaniel’s campaign to talk with neighbors across Caroline County.
+Our Open Virtual Phone Bank is available any day from 9 AM to 9 PM Eastern, so you can choose a time that fits… Show more RSVP Caroline County Canvassing with Katie Clendaniel Multiple Times Preston OfficePlex 239 Main St, Preston, MD, 21655 Join Katie Clendaniel’s campaign to talk with neighbors across Caroline County.
 Volunteers will canvass voters, share information about Katie, and hear what matters to our community.
 No experience is … Show more RSVP Phone Bank with Katie (Virtual) Virtual Event Join Team Katie in Wicomico County for our Thursday phone bank, 5:00 to 6:30 PM.
 This phone bank is virtual only.
@@ -50,7 +48,9 @@ Sign up for more details This event’s address is private.
 Sign up for more details, Claiborne, MD, 21624 Join Katie Clendaniel and friends for an evening reception in Claiborne on Thursday, October 15, from 5:00 to 6:30 PM.
 The address will be shared after you RSVP.
 Come meet Katie, hear more about her … Show more RSVP Wicomico County Canvassing with Katie Clendaniel Multiple Times Wicomico County Democratic Central Committee office 231 W Main Street, Salisbury, MD, 21801 Join Team Katie in Wicomico County for our weekly canvass.
-We gather at the Wicomico County Democratic Central Committee office in Salisbury every Sunday from 2:00 to 4:00 PM, then head out in pairs t… Show more RSVP Talbot County Canvassing with Katie Clendaniel Multiple Times Talbot Office 316 E Dover St, Easton, MD, 21601 Join Katie Clendaniel’s campaign to talk with neighbors across Talbot County.
+We gather at the Wicomico County Democratic Central Committee office in Salisbury every Sunday from 2:00 to 4:00 PM, then head out in pairs t… Show more RSVP Dorchester County Canvassing with Katie Clendaniel Multiple Times Dorchester Democrats HQ 403 Race St, Cambridge, MD, 21613 Join Katie Clendaniel’s campaign to talk with neighbors across Dorchester County.
+Volunteers will canvass voters, share information about Katie, and hear what matters to our community.
+No experience i… Show more RSVP Talbot County Canvassing with Katie Clendaniel Multiple Times Talbot Office 316 E Dover St, Easton, MD, 21601 Join Katie Clendaniel’s campaign to talk with neighbors across Talbot County.
 Volunteers will canvass voters, share information about Katie, and hear what matters to our community.
 No experience is ne… Show more RSVP VOTE 2026 VOTER RESOURCES Make a Plan to Vote MAIL IN VOTING Request by October 27 EARLY VOTING October 22 through October 29 ELECTION DAY November 3, 2026 Check Registration or Ballot Status Request a Mail In Ballot Register or Update Voter Information Find Your Polling Place CAMPAIGN UPDATES News From District 37 Follow Katie’s campaign, community events, and the practical work ahead across District 37.
 PRESS RELEASE Former Salisbury Mayor Barrie Tilghman Endorses Katie Clendaniel for State Senate Over more than a decade leading Salisbury, Tilghman saw firsthand what it takes to turn local priorities into real results for Shore families.

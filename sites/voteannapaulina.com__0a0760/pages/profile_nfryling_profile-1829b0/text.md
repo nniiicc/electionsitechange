@@ -3,7 +3,7 @@ Profile Join date: Sep 7, 2020 Posts (6) Sep 24, 2026 ∙ 2 min Luna Calls for Q
 The men, Representatives Eric Swalwell, Democrat of California, and Tony Gonzales, Republican of Texas, are both expected to face motions to remove them from office this week.
 Mr.
 Swalwell suspended his campaign for California governor" on Sunday after news reports last week about accusations of...
-45 0 Sep 9, 2026 ∙ 2 min Florida Politics: ‘Root it out’: Anna Paulina Luna makes pitch for insider trading ban in speech to RNC 'Corruption has no party; it is a threat to us all.' U.S.
+46 0 Sep 9, 2026 ∙ 2 min Florida Politics: ‘Root it out’: Anna Paulina Luna makes pitch for insider trading ban in speech to RNC 'Corruption has no party; it is a threat to us all.' U.S.
 Rep.
 Anna Paulina Luna revved up the Republican National Convention with a call for an insider trading ban in Congress.
 “The American people elected a Republican Congress to fix Washington, not to profit off it or to tolerate its corruption,” Luna said.
@@ -15,7 +15,7 @@ The agreement means the corps will now go back to paying for 65% of beach renour
 We’re ready to turn this agreement into action," said Major Gen.
 Jason Kelly.
 "We’re ready to build.” This past February, a $125 million beach renourishment project wrapped up that...
-29 0 Load More DONATE Anna Paulina Luna Admin 0 Followers 0 Following Follow More actions Profile Events Blog Posts Blog Comments Blog Likes More Use tab to navigate through the menu items.
+30 0 Load More DONATE Anna Paulina Luna Admin 0 Followers 0 Following Follow More actions Profile Events Blog Posts Blog Comments Blog Likes More Use tab to navigate through the menu items.
 MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
 Anna Paulina Luna for Congress 1201 Gandy Boulevard North PO Box 23064 St.
 Petersburg, FL 33742 PRIVACY POLICY PAID FOR BY ANNA PAULINA LUNA FOR CONGRESS bottom of page

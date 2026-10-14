@@ -1,13 +1,14 @@
 This interactive model needs JavaScript.
 Please allow JavaScript for this page (some browsers and script-blocking extensions block it for files opened from disk), then reload.
 See README.md → Troubleshooting.
-Washington Overdose Model ⓘ How it works Overdose deaths • 2018 — 2024 — — Total deaths V2/V1 OD deaths (growth-rate period) V2 — — — V1 — — — time to double — years Calculated from State data • — Actual 2024 • projection start — — 2024 Est.
+Can You Save 1,000 Lives?
+Bend the Curve · Washington Overdose Model ⓘ How it works Overdose deaths • 2018 — 2024 — — Total deaths V2/V1 OD deaths (growth-rate period) V2 — — — V1 — — — time to double — years Calculated from State data • — Actual 2024 • projection start — — 2024 Est.
 2025 • current slider settings — — Est.
 2025 Predicted 2026 • current slider settings — — Pred.
-2026 Growth rate from observed period: 2019–2023 — Addiction high growth years 2018–2024 — All data years Chooses the V1–V2 date range that sets the natural (no-policy) annual growth rate, time to double or half-life of the modeled series.
+2026 Growth rate from observed period: 2018–2024 — All data years 2019–2023 — Addiction high growth years Chooses the V1–V2 date range that sets the natural (no-policy) annual growth rate, time to double or half-life of the modeled series.
 Projections always start from the actual 2024 count.
 OD Cause OD deaths Fentanyl deaths Opiates OD deaths Oxy deaths Heroin deaths Cocaine deaths Switches the model (baseline, projections, t-double or half-life, chart, lives saved) between total, fentanyl, opiate, oxycodone (Rx opioid), heroin, and cocaine deaths.
-Policy Levers Discourage Addict Migration / Inflow Reduce net arrival of active users 0 % 0% (status quo) 100% (strong discouragement) Criminalize Use & Distribution Enforcement + deterrence impact 0 % 0% (current approach) 100% (strong enforcement) Projection horizon 6 years (2025– 2030 ) Default: 6 years (through 2030, the end of the next state Senate term); maximum 10.
+Policy Levers Discourage Addict Migration / Inflow Reduce net arrival of active users 0 % 0% (status quo) 100% (strong discouragement) Criminalize Use & Distribution Enforcement + deterrence impact 0 % 0% (current approach) 100% (strong enforcement) Projection horizon 6 years (2025– 2028 ) Default: 4 years (through 2028, the end of the next state Senate term); maximum 10.
 Beyond a few years the lines show what pure compounding implies, not a forecast.
 Reset to Baseline Copy summary HOW THE MODEL WORKS Growth comes from two drivers: • Inflow/migration of new users (35% of growth) • Lethality + distribution among existing users (65%) Sliders reduce the compounding growth rate in proportion to those shares; both at 100% turn growth into a decline.
 Projections start from the actual 2024 count. t-double or half-life = ln(2) / |growth rate|, per the equations.

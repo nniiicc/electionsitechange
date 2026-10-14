@@ -1,4 +1,6 @@
-Skip to content Menu X-twitter Threads Instagram Facebook Youtube DONATE Endorsed by Governor Andy Beshear, former Lexington mayor Jim Gray, veterans, and teachers Press Releases Press Releases BREAKING: The Cook Political Report Moves KY-06 in Zach Dembo’s Direction As Momentum Surges October 9, 2026 More race raters see clear path to victory for competitive Dembo campaign Lexington, KY – Today, another national race rater, the Cook Political Report, updated their rating for Kentucky’s 6th Congressional District from “Likely Republican” to “Lean Republican,” moving the likelihood of winning in Zach Dembo’s direction.
+Skip to content Menu X-twitter Threads Instagram Facebook Youtube DONATE Endorsed by Governor Andy Beshear, former Lexington mayor Jim Gray, veterans, and teachers Press Releases Press Releases At Veterans Park in Lexington, Zach Dembo, Fellow Veterans Call for End to the Iran War October 12, 2026 Lexington, KY – Earlier today, Navy veteran and candidate for Kentucky’s 6th congressional district, Zach Dembo, hosted a press conference alongside fellow veterans to speak out against the Iran war, the toll it has had on service members, and the impact it has had on costs at home.
+Meanwhile, Dembo’s...
+Read More Press Releases BREAKING: The Cook Political Report Moves KY-06 in Zach Dembo’s Direction As Momentum Surges October 9, 2026 More race raters see clear path to victory for competitive Dembo campaign Lexington, KY – Today, another national race rater, the Cook Political Report, updated their rating for Kentucky’s 6th Congressional District from “Likely Republican” to “Lean Republican,” moving the likelihood of winning in Zach Dembo’s direction.
 The ratings shift...
 Read More Press Releases Ralph Alvarado Collects Big Checks With Washington Insider At High-Dollar Lexington Fundraiser While Kentuckians’ Costs Rise October 8, 2026 Latest polls show Dembo pulling ahead in toss up race as Alvarado’s allies scramble to bail out his sinking campaign Lexington, KY – Tomorrow, Ralph Alvarado will be holding a high-dollar fundraiser with the ultimate Washington insider, Speaker Mike Johnson.
 Tickets start at the current maximum allowable contribution to a...
@@ -56,8 +58,6 @@ Serve America is an organization that supports Democratic public servants who ru
 Seth Moulton (MA-06).
 They join a growing coalition...
 Read More Press Releases Former Congressman Ben Chandler Endorses Zach Dembo for Congress May 13, 2026 Last Democrat to represent Central Kentucky in Congress says Zach is ‘our best shot’ at electing a Democrat to once again represent the district Lexington, KY – Today, in a press event at the campaign team’s HQ, former Kentucky Sixth Congressional District Congressman Ben Chandler announced his full support of...
-Read More Press Releases New General Election Poll Shows Zach Dembo Is Democrats’ Best Option To Flip Central Kentucky Congressional Seat May 12, 2026 Lexington, KY – POLITICO Playbook just reported a new poll showing Zach Dembo to be the most viable candidate in a general election match-up against Ralph Alvarado or Ryan Dotson in the race for Kentucky’s open Sixth Congressional seat.
-Zach is already tied with presumptive Republican Ralph Alvarado and beating...
 Read More Page 1 Page 2 Let's Go!
 First Name Last Name Email Cell Phone Zip Code Let's Go!
 X-twitter Threads Instagram Facebook Youtube Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media X-twitter Threads Instagram Facebook Youtube By providing your cell phone number you consent to receive recurring updates from Zach Dembo for Congress, including by automated text message.
@@ -81,4 +81,4 @@ NAVY.
 USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE.
 Copyright # Zach Dembo for Congress.
 All rights reserved.
-Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer X-twitter Threads Instagram DONATE ONLINE Close Menu
+Bio Priorities Endorsements Press Releases Anti-Corruption Plan Volunteer Bio Priorities Endorsements Press Releases Anti-Corruption Plan Volunteer X-twitter Threads Instagram DONATE ONLINE Close Menu

@@ -9,13 +9,11 @@ MANUFACTURED HOUSING Protect tenants’ rights and investments in their homes.
 PROTECT VOTING RIGHTS Expand voting rights legislation.
 DEFEND REPRODUCTIVE FREEDOM Protect a woman’s right to make her own healthcare decisions.
 SUPPORT MARRIAGE EQUALITY Uphold equal rights and protections for all Delaware families.
-News & Updates Senator Russ Huxtable Endorses Gregg Lindner for State Representative I greatly appreciate the endorsement from Senator Russ Huxtable and his confidence in my experience, commitment to our community, and ability to deliver practical, effective solutions for the people of District 4.
+News & Updates Endorsed by Planned Parenthood Action Fund Delaware This endorsement by the Planned Parenthood Action Fund of Delaware backs Gregg's commitment to Women's Health Care and Reproductive Rights.
+Mary Tweten #ago Senator Russ Huxtable Endorses Gregg Lindner for State Representative I greatly appreciate the endorsement from Senator Russ Huxtable and his confidence in my experience, commitment to our community, and ability to deliver practical, effective solutions for the people of District 4.
 Thank you, Senator Huxtable, for your support.
 Mary Tweten #ago Endorsed by the Sierra Club I am honored to receive the endorsement of the Sierra Club.
-Mary Tweten Oct 3 Honored to Receive the Endorsement of Councilwoman Jane Gruenebaum I am grateful to receive the endorsement of Sussex County Councilwoman Jane Gruenebaum, who represents District 3.
-Jane understands the opportunities and challenges facing Sussex County, and I appreciate her confidence in my experience, commitment to education, and support for smarter growth.
-I look forward to partnering with her to strengthen our infrastructure, schools, environment, and communities.
-Mary Tweten Oct 2 1 2 3 4 5 Upcoming Events 9 days to the event Oct 21, 2026, 7:00 PM EDT LWV Candidate Forum / Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA Learn more Oct 21, 2026, 7:00 PM EDT Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA The League of Women Voters of Sussex County, Delaware (LWVSCDE) is hosting a public forum for the candidates Gregg Lindner (D) and Dan Zitofsky (R) for Delaware House Representative District #4 Share Putting My Experience to Work LEADERSHIP, INTEGRITY, and RIGHTS ​ My name is Gregg Lindner, and I am a Democrat in Delaware District 4.
+Mary Tweten Oct 3 1 2 3 4 5 Upcoming Events 8 days to the event Oct 21, 2026, 7:00 PM EDT LWV Candidate Forum / Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA Learn more Oct 21, 2026, 7:00 PM EDT Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA The League of Women Voters of Sussex County, Delaware (LWVSCDE) is hosting a public forum for the candidates Gregg Lindner (D) and Dan Zitofsky (R) for Delaware House Representative District #4 Share Putting My Experience to Work LEADERSHIP, INTEGRITY, and RIGHTS ​ My name is Gregg Lindner, and I am a Democrat in Delaware District 4.
 With a background spanning leadership in the business community, elected office, and volunteer work, I believe I possess the necessary experience and skills to effectively represent our district in the legislature.
 Our community faces a diverse range of challenges that must be addressed to move forward together.
 Background and Values I t all starts with family and friends.
@@ -45,5 +43,5 @@ It is also directly related to everything happening with our infrastructure. ​
 By the 2026 election, we’ll be the largest district for a state house seat in Delaware.
 I believe change can be a positive force for our community, and I am committed to helping guide that change thoughtfully and inclusively.
 Together, we can build a vibrant, welcoming, and forward-looking community that reflects the best of who we are. ​ Thank you, Gregg ​ FOLLOW GREGG ON SOCIAL MEDIA Subscribe SUBSCRIBE TO OUR NEWSLETTER Get the latest updates SUBSCRIBE Thanks for submitting!
-Home About Me Priorities News & Media Get Involved Donate Contact Voting Privacy Policy Gregg Lindner - DELAWARE DISTRICT 4 - DEMOCRAT © # Paid for by Lindner4Delaware Powered and secured by Wix ​ Lindner4Delaware P.O.
+Home Gregg's Message News & Media Endorsements Events Donate Family Get Involved Voting Contact Privacy Policy Gregg Lindner - DELAWARE DISTRICT 4 - DEMOCRAT © # Paid for by Lindner4Delaware Powered and secured by Wix ​ Lindner4Delaware P.O.
 Box #246 Millsboro, Delaware 19966 ​ Lindner4Delaware@gmail.com T: +1 302 259 8337 ​ bottom of page

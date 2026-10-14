@@ -17,6 +17,7 @@ Meet the Family Armen and his family call Southern California home.
 As a husband and father, he understands the everyday challenges families in the 49th District face—from the cost of living to the quality of local schools.
 After 14 military relocations, the Kurdian family finally put down roots in North County.
 That personal experience drives Armen's commitment to making this community the best place to raise a family.
+Play video “My family came here for this.” Caption: Armen Kurdian reflects on why his family immigrated to America.
 Get the latest news, events, volunteer opportunities, and campaign updates.
 LET'S GO!
 By signing up, you agree to receive campaign emails from Kurdian for Congress.

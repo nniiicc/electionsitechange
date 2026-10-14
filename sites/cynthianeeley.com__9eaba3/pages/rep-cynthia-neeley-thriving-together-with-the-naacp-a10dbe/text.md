@@ -4,7 +4,8 @@ Rep.
 Cynthia Neeley Thriving Together with the...
 Home About News Volunteer Donate Contact Priorities & Structure Rights & Obligations October 16, 2023 by webmaster 0 Comments Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
 Share: twitter facebook youtube Post navigation Previous post Black Women in Michigan Politics Luncheon 2023 Next post My deepest condolences to the Lewiston community.
-You May Also Like News Priorities & Structure Rights & Obligations April 1, 2022 Recognizing Civil Rights leader and Union organizer Cesar Chavez News Rights & Obligations February 25, 2021 Facing the Rising Sun: Black Leadership in the Michigan Legislature Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+You May Also Like News Priorities & Structure Rights & Obligations September 24, 2020 Neeley stands up for Michigan Drivers Family News Priorities & Structure June 8, 2022 Introducing the 4 Pillars Project.
+Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

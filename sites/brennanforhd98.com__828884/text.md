@@ -1,8 +1,17 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Open Forum for Voters of HD98: 6-7:30pm, Oct.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Open Forum for Voters of HD98: 6-7:30pm, Oct.
 14; The Vine, 225 W.
 Worth St., Grapevine Putting public schools, family and economic security, and Texas’s future first Not left vs. right | Only right vs. wrong Grapevine, Keller, Southlake, Colleyville, Euless, and Westlake Donate $200 for corner sign Donate $25 for yard sign Who is Cate Brennan?
 Why I'm Running to Be Your State Rep More below...
-Why I'm Running to be Your State Rep “Over my dead body” was my first reaction when I realized HD98 might not have a real choice for state representative in Austin.
+Endorsements Matter Community Leaders Trust Cate's Leadership Planned Parenthood Texas Votes PAC Annie's List Our Vision At Annie’s List, our vision is to achieve equity for women by changing the face of power in Texas.
+To do this, we recruit, train, support, and elect progressive women who are dedicated to advancing the self-determination, health, safety, and financial security of Texas women and their families.
+Asian American Democrats of Texas AADT is the statewide organization dedicated to amplifying the voices of Asian Texans in the political process.On behalf of the Asian American Democrats of Texas (AADT), the only officially recognized Asian American and Pacific Islander (AAPI) caucus of the Texas Democratic Party, we are proud to endorse Cate Brennan for State Representative, District 98.
+Moms Demand Action Gun Sense Candidate Endorsed Democracy Defender National Democratic Redistricting Committee (NDRC) 2026 Mental Health Now Endorsed by the Muslim Democratic Caucus of Texas Endorsed by Blue Horizon Texas "She’s focused on improving and adding funding for public schools, addressing affordability issues and expanding Medicaid while also reining in health care costs." Dallas Morning News Endorsed by Mid-Cities Stonewall Democrats Kevin Burge, Candidate for Congressional District 24 Husband.
+Father.
+Proud Veteran.
+Fighting for a better future in the 24th District of Texas!
+Endorsed by Tarrant County Young Democrats Endorsed By Himalayan Democratic Club "The retired executive for various nonprofit healthcare groups offers better appeal on education and economic issues..." The Fort Worth Star-Telegram Endorsed by Texas Rep.
+Salman Bhojani House District 92 Euless, TX Endorsed by Commissioner Alisa Simmons Tarrant County Commissioner, Precinct 2 Endorsed by Randy Campbell School Board Trustee Endorsed by Aracely Chavez Community Activist "With a dedication to progress, integrity, and equality, Brennan advocates for public education, affordable health care, tax revenue diversification, economic growth, gun safety, and a sustainable environment.
+She stands for courageous leadership, community-focused solutions, and fiscal responsibility. " The Center for Freethought Equality PAC Why I'm Running to be Your State Rep “Over my dead body” was my first reaction when I realized HD98 might not have a real choice for state representative in Austin.
 I was raised to believe leadership means showing up, doing what’s right, standing up for kids and working families, and finding practical solutions that protect our future.
 You can count on me to fight for : 1.
 Strong public schools where children can learn from experienced teachers using proven, unbiased curriculum.
@@ -64,15 +73,6 @@ In summary, why should you vote for me?
 Because I’m a pragmatic idealist and optimist who believes we can build a better Texas where our children and communities prosper, where we respect and embrace our differences, and where HD98 looks toward the future—not the past.
 I am grateful for the incredible support my campaign has gained from the people of Grapevine, Euless, Southlake, Keller, Colleyville, and Westlake, and I ask for your vote on Nov.
 3 or during early voting.
-Endorsements Matter Community Leaders Trust Cate's Leadership Planned Parenthood Texas Votes PAC Annie's List Our Vision At Annie’s List, our vision is to achieve equity for women by changing the face of power in Texas.
-To do this, we recruit, train, support, and elect progressive women who are dedicated to advancing the self-determination, health, safety, and financial security of Texas women and their families.
-Endorsed Democracy Defender National Democratic Redistricting Committee (NDRC) 2026 Mental Health Now Moms Demand Action Gun Sense Candidate Endorsed by Mid-Cities Stonewall Democrats Endorsed by the Muslim Democratic Caucus of Texas Endorsed By Himalayan Democratic Club Endorsed by Blue Horizon Texas "She’s focused on improving and adding funding for public schools, addressing affordability issues and expanding Medicaid while also reining in health care costs." Dallas Morning News Endorsed by Tarrant County Young Democrats "The retired executive for various nonprofit healthcare groups offers better appeal on education and economic issues..." The Fort Worth Star-Telegram Endorsed by Commissioner Alisa Simmons Tarrant County Commissioner, Precinct 2 Endorsed by Randy Campbell School Board Trustee Endorsed by Aracely Chavez Community Activist "With a dedication to progress, integrity, and equality, Brennan advocates for public education, affordable health care, tax revenue diversification, economic growth, gun safety, and a sustainable environment.
-She stands for courageous leadership, community-focused solutions, and fiscal responsibility. " The Center for Freethought Equality PAC Endorsed by Texas Rep.
-Salman Bhojani House District 92 Euless, TX Kevin Burge, Candidate for Congressional District 24 Husband.
-Father.
-Proud Veteran.
-Fighting for a better future in the 24th District of Texas!
-Asian American Democrats of Texas AADT is the statewide organization dedicated to amplifying the voices of Asian Texans in the political process.On behalf of the Asian American Democrats of Texas (AADT), the only officially recognized Asian American and Pacific Islander (AAPI) caucus of the Texas Democratic Party, we are proud to endorse Cate Brennan for State Representative, District 98.
 Join Cate's Movement Today Support Cate Brennan's vision for a better Texas in HD98 by volunteering and donating.
 Together, we can make impactful changes for our community in North Texas.
 Get Involved

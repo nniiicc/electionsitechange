@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Public Safety Safe communities require both strong emergency response and strong prevention.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Public Safety Safe communities require both strong emergency response and strong prevention.
 Public safety starts with making sure local police, fire departments, EMS, schools, and community organizations have the tools and support they need to respond when something goes wrong.
 But strong public safety is also about preventing problems before they become emergencies.
 That means addressing substance use, mental health needs, domestic violence, housing instability, and other challenges that can put people at greater risk.

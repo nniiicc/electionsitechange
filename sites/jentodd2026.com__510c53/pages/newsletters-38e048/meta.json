@@ -1,9 +1,10 @@
 {
  "description": "Get a weekly insider's view of campaign activities! Every week, Jennifer and Team Todd send an email with a message from Jennifer and updates on where Jennifer will be around the district, volunteer opportunities, and more.",
  "final_url": "https://www.jentodd2026.us/newsletters",
- "fingerprint": "99594c515c750b0d9688496729c6204b53de00a8",
+ "fingerprint": "0e5c149507935a0bc2dce5fa50421e3823a6734c",
  "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
+ "rendered": false,
  "title": "Jennifer Todd's weekly newsletter",
  "years_mentioned": [
   "2000",

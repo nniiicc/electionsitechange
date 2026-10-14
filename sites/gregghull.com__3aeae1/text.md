@@ -37,7 +37,20 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/12/2026 @ 9:57 pm Breakfast at Barelas this morning—a New Mexico political tradition!
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/13/2026 @ 2:00 pm Help me get this message out, please share!
+More money for groceries.
+More money for the meals around your family’s table.
+More room to breathe.
+That’s what my Four Steps to Zer...
+Posted: 10/13/2026 @ 12:43 am MY VOTE.
+MY WHY.
+New Mexicans for Gregg Hull.
+Behind every vote is a reason.
+A family we want to protect.
+A community we love.
+A future we want our children to have.
+For her, it’...
+Posted: 10/12/2026 @ 9:57 pm Breakfast at Barelas this morning—a New Mexico political tradition!
 Enjoyed a good meal and the chance to talk with fellow New Mexicans about what’s on their minds.
 Then it was ba...
 Posted: 10/12/2026 @ 5:52 pm Working my way through New Mexico to earn your vote… in person and on the debate stage.
@@ -55,9 +68,7 @@ Sofia is a fourth grader struggling with reading. ...
 Posted: 10/10/2026 @ 12:25 am Las Cruces, let’s PACK the rally tomorrow!
 I want to meet you, hear what’s on your mind, and answer your questions.
 Bring your family, invite your neighbors, and come join us at R...
-Posted: 10/09/2026 @ 6:31 pm Behind every first responder is a family who hopes they’ll make it home.
-It was an honor to stand in support of our first responders and the families of those who made the ultimat...
-Posted: 10/09/2026 @ 12:41 pm Let's get to work.
+Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.

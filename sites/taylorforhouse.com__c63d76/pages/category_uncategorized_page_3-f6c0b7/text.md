@@ -1,4 +1,5 @@
-Home About Issues Press Get Involved DONATE Category: Uncategorized UAW Endorsement Posted : Jul 3, 2024 in : Uncategorized by : admin Rory was also endorsed by the UAW from the West Central Iowa Area CAP council!
+Home About Issues Press Get Involved DONATE Category: Uncategorized July 4th Parades Posted : Jul 5, 2024 in : Uncategorized by : admin Thanks to all who helped with the Carlisle and Norwalk Parades!
+UAW Endorsement Posted : Jul 3, 2024 in : Uncategorized by : admin Rory was also endorsed by the UAW from the West Central Iowa Area CAP council!
 ISEA Recommendation Posted : Jun 28, 2024 in : Uncategorized by : admin Rory has received recommendation from the Iowa State Education Association (ISEA).
 “On behalf of the Iowa State Education Association (ISEA) representing education professionalsacross the state, we are pleased to recommend Rory Taylor for the Iowa House,” said ISEAPresident Mike Beranek.
 “We believe Rory Taylor will do what is best for all of Iowa’s studentsregardless of… Meet & Greet Posted : May 29, 2024 in : Uncategorized by : admin Join us for our next Meet & Greet!
@@ -21,16 +22,13 @@ Posted : Apr 25, 2024 in : Uncategorized by : admin Happy National Volunteer Wee
 A big thank you to all the amazing volunteers who have helped with the campaign thus far!
 We are grateful for all the support and dedication!
 We would not be where we are without you! -Want to get involved?
-Click on the link below to get started!
-Greenfield Plaza House Meeting Posted : Apr 22, 2024 in : Uncategorized by : admin Thank you Joyce for hosting our house meeting this past Thursday.
-It was a great to gather together and engage in meaningful discussions! ← Previous 1 2 3 4 5 Next → Search Search Recent Posts National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 Nations 250th Birthday!
-July 12, 2026 Recent comments admin on Yard Signs!
+Click on the link below to get started! ← Previous 1 2 3 4 5 Next → Search Search Recent Posts Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 Yard Signs!
+August 26, 2026 Recent comments Amie on Yard Signs!
+October 13, 2026 Kirsten Piatt on Yard Signs!
+September 28, 2026 admin on Yard Signs!
 September 21, 2026 Amanda Sengbusch on Yard Signs!
 September 5, 2026 Tyler & Daniel Pierce on Get your signs!
-October 12, 2024 Mark & Haley Hanrahan on Get your signs!
-September 24, 2024 Sue van vleet on Campaign Kickoff October 21, 2023 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
+October 12, 2024 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
 Rory believes that the true measure of a leader is in service to his community- which is why he is running for Iowa House.
-Contact Info info@taylorforhouse.com Campaign Updates National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
+Contact Info info@taylorforhouse.com Campaign Updates Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
 All Rights Reserved Scroll To Top

@@ -12,4 +12,4 @@ I am honored to be recipient of the Wisconsin Dermatology Society’s Legislativ
 Friend of Family Medicine Award Presented by the Wisconsin Academy of Family Physicians for going above and beyond to promote effective healthcare policy and support family medicine in Wisconsin.
 Wisconsin Conservation Voters 100% Score I received a 100% score in the 2025-2026 legislative session voting to protect Wisconsin’s air, water, land, and democracy.
 Sierra Club Environmental Champion The Sierra Club Environmental Champion distinction is awarded to election officials who receive 100% on Sierra Club’s legislative scorecard.
-I am honored to receive this distinction for my work protecting the environment in the state legislature.  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy
+I am honored to receive this distinction for my work protecting the environment in the state legislature.  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy

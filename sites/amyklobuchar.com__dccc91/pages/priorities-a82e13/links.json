@@ -17,6 +17,14 @@
 },
 {
 "text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=5"
+},
+{
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=50"
+},
+{
+"text": "$#",
 "href": "https://www.amyklobuchar.com/donate?amount=500"
 },
 {
@@ -48,6 +56,10 @@
 "href": "https://www.amyklobuchar.com/facts/"
 },
 {
+"text": "Home",
+"href": "https://www.amyklobuchar.com/"
+},
+{
 "text": "Instagram",
 "href": "https://instagram.com/amyklobuchar"
 },
@@ -74,6 +86,10 @@
 {
 "text": "Newsroom",
 "href": "https://www.amyklobuchar.com/newsroom"
+},
+{
+"text": "Other",
+"href": "https://www.amyklobuchar.com/donate?amount=other"
 },
 {
 "text": "Prepare Minnesota’s Workforce for the Future",
@@ -116,8 +132,8 @@
 "href": "https://www.amyklobuchar.com/priorities/support-conservation-and-outdoor-recreation/"
 },
 {
-"text": "Read Amy Klobuchar’s plan to take on crime and ensure public safety.",
-"href": "https://www.amyklobuchar.com/priorities/take-on-crime-and-ensure-public-safety/"
+"text": "Read Amy Klobuchar’s plan to take on crime and support public safety.",
+"href": "https://www.amyklobuchar.com/priorities/take-on-crime-and-support-public-safety/"
 },
 {
 "text": "Store",
@@ -132,8 +148,8 @@
 "href": "https://www.amyklobuchar.com/priorities#support-conservation-and-outdoor-recreation"
 },
 {
-"text": "Take on Crime and Ensure Public Safety",
-"href": "https://www.amyklobuchar.com/priorities#take-on-crime-and-ensure-public-safety"
+"text": "Take on Crime and Support Public Safety",
+"href": "https://www.amyklobuchar.com/priorities#take-on-crime-and-support-public-safety"
 },
 {
 "text": "X (Twitter)",

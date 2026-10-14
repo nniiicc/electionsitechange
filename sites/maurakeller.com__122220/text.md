@@ -51,13 +51,12 @@ Read more → October 30, 2026 Nov 1 November 1, 2026 Canvass with the Maura Kel
 Come canvassing in Fayetteville this Sunday.
 Read more → November 1, 2026 Nov 3 November 3, 2026 Election Day November 3, 2026 Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
-Read more → November 3, 2026 NEWs All News News October 11, 2026 Brian Jack Takes Money From Pro AI PACs And Local Data Center Developers October 11, 2026 Pro Data Center PACs are supporting Brian Jack’s re-election campaign.
+Read more → November 3, 2026 NEWs All News News October 13, 2026 The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll October 13, 2026 Maura Keller and Brian Jack are only 5 Points apart according to new poll.
+Read more on thecitizen.com Read more → October 13, 2026 October 11, 2026 Brian Jack Takes Money From Pro AI PACs And Local Data Center Developers October 11, 2026 Pro Data Center PACs are supporting Brian Jack’s re-election campaign.
 He’s passed tax breaks for big tech companies and rural Data Center development.
 Read more → October 11, 2026 October 9, 2026 Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller October 9, 2026 Maura Keller and Brian Jack are now within the margin of error according to new poll released by VoteNexus.
 Read more → October 9, 2026 September 2, 2026 Press Release: Maura Keller Raises $200,000, Hosts Reddit AMA, Joins Rally with Mayor Keisha Lance Bottoms September 2, 2026 Maura Keller shows her merit by becoming the first Democrat ever to raise $# in Georgia’s 3rd Congressional District.
 She achieved this with contributions from over 2,500 individual donors.
-Read more → September 2, 2026 July 8, 2026 Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000 July 8, 2026 Maura Keller shows her merit by becoming the first Democrat ever to raise $# in Georgia’s 3rd Congressional District.
-She achieved this with contributions from over 2,000 individual donors.
-Read more → July 8, 2026 Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Read more → September 2, 2026 Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

@@ -27,7 +27,8 @@ Healthcare Fighting for affordable healthcare and lowering prescription drug cos
 Housing Addressing the housing affordability crisis so working families can stay in their communities.
 Veterans Honoring those who served by ensuring they receive the benefits, healthcare, and support they've earned.
 View All Issues Community Support Endorsements from across South Jersey Leaders, educators, and advocates across the district are standing with Zack.
-View all endorsements In The News Campaign News View All News Press October 2, 2026 Zack Mullock Takes On Jeff Van Drew in South Jersey's Congressional Race The Philadelphia Inquirer looks at Cape May Mayor Zack Mullock's challenge to Rep.
+View all endorsements In The News Campaign News View All News Press October 13, 2026 Why Mullock Is the Better Choice for the 2nd District A letter to the editor in the Press of Atlantic City makes the case for Zack Mullock in this important NJ-2 election.
+Press of Atlantic City Press October 2, 2026 Zack Mullock Takes On Jeff Van Drew in South Jersey's Congressional Race The Philadelphia Inquirer looks at Cape May Mayor Zack Mullock's challenge to Rep.
 Jeff Van Drew in NJ-2.
 The Philadelphia Inquirer Press October 2026 Election 2026: New Jersey's 2nd Congressional District Voter Guide WHYY's voter guide to the NJ-2 race between Zack Mullock and Rep.
 Jeff Van Drew.

@@ -1,13 +1,12 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Billings Town Hall IBEW Local 532, 5200 Midland Rd, Billings, MT 59101, USA RSVP here !
-Join Seth for a Town Hall in Billings on Monday, October 12th at the International Brotherhood of Electrical Workers Show more Phonebank for Seth Bodnar – Tuesdays & Thursdays Multiple Times Sign up here !
-Join us every Tuesday and Thursday from 4–6pm Mountain Time to… Show more Snacks with Seth at UM UM Campus by the Grizzly Bear Statue Join Seth for snacks and conversation at UM by the Grizzly Statue.
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Snacks with Seth at UM UM Campus by the Grizzly Bear Statue Join Seth for snacks and conversation at UM by the Grizzly Statue.
 Grab a snack, chat with Seth, and ask questions about the issues that matter to you!
 Missoula Fundraiser Missoula Children's Theatre, 200 N Adams St, Missoula, MT 59802, USA RSVP here !
 Contribute here !
 Show more Donuts with Seth! - Blackfeet Community College Blackfeet Community College, Student Commons Join Seth for donuts and conversation in the Blackfeet Community College Student Commons Grab a donut, chat with Seth, and ask questions about the issues that matter to you!
 Blackfeet Community Feed Browning Stick Game Arbor, Browning, MT 59417, USA Join us for a Blackfeet Community Feed!
 All are welcome for hot dogs, drinks, and conversation!
-Thursdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP Show more Stanford, MT Meet and Greet with Chili and Cider Stanford City Hall 102 Central Ave.
+Phonebank for Seth Bodnar – Tuesdays & Thursdays Multiple Times Sign up here !
+Join us every Tuesday and Thursday from 4–6pm Mountain Time to… Show more Thursdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP Show more Stanford, MT Meet and Greet with Chili and Cider Stanford City Hall 102 Central Ave.
 Stanford MT 59479 RSPV here !
 Join Seth Bodnar for a meet and greet in Stanford on Thursday, October 15, 6:15-7:00 PM!
 Ha… Show more Great Falls Town Hall Great Falls Public Library 301 2nd Ave N, Great Falls, MT 59401 RSVP here Join Seth Bodnar for a Great Falls Town Hall on Friday, October 16, 4:30-5:45 PM!
@@ -22,10 +21,9 @@ Gather with friends … Show more Hamilton Meet and Greet 1436 S 1st St, Hamilto
 Join Seth for a reception in Hamilton on Sunday, October 18, at 5:00 PM!
 Gather with friends who s… Show more Meet the Candidates: U.S.
 Senate Debate Hosted by City Club Missoula University Center Ballroom, 32 Campus Dr, Missoula, MT 59812, USA Hurry and register here: https://cityclubmissoula.com/ Doors open at 5:30pm and debate starts at 6:15pm.
-Butte Town Hall Montana Technological University Library Auditorium Join Seth Bodnar for a Butte Town Hall on Tuesday, October 20, 5:30-7:00pm!
-Hear from Seth and ask questions about the issues that matter to you!
-Friends, neighbors, and family members are welcome!
-Maternal Health Candidates Forum Eagle Seeker Community Center, 1125 Broadwater Ave, Billings, MT 59102, USA Doors open at 4:30pm.
+Butte Town Hall Montana Technological University Library Auditorium RSVP here!
+Join Seth Bodnar for a Butte Town Hall on Tuesday, October 20, 5:30-7:00pm!
+Hear from Seth and ask questions … Show more Maternal Health Candidates Forum Eagle Seeker Community Center, 1125 Broadwater Ave, Billings, MT 59102, USA Doors open at 4:30pm.
 This forum will bring together community members, healthcare providers, tribal health advocates, doulas, and families from across Montana to hear candidate positions and solution… Show more Bobcats Gameday Tailgate - Bozeman MSU Tailgate spot #57/#58 RSVP here !
 Swing by our Bobcat Tailgate to meet fellow Seth supporters!
 Join us for so… Show more Knock Doors with Team Bodnar! - Kalispell Kalispell meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!

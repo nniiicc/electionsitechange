@@ -20,5 +20,5 @@ Pete Karas is a lifelong Wisconsinite, born and raised in Racine, and resides in
 He accepts no corporate money.
 Contact: vote@petekaras.com PeteKaras.com X: @petekaras | Facebook: @pete.karas.9 | Instagram: @petekaras_wi_sos | TikTok: @votepetekaras Pete Karas is the Green Party candidate for Wisconsin Secretary of State.
 His campaign accepts no corporate money.
-Media contact: vote@petekaras.com | PeteKaras.com Paid for by Pete for Wisconsin Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Media contact: vote@petekaras.com | PeteKaras.com Paid for by Pete for Wisconsin Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

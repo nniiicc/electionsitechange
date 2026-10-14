@@ -1,4 +1,4 @@
-Home About Newsletter Get involved Issues Contribute Home About Newsletter Get involved Issues Contribute Nelly Burdette Contribute for Rhode Island State Senate - District 17 Lincoln - North Smithfield - North Providence ★ Listen ★ Show Up ★ Deliver Meet Nelly Dr.
+Home About Newsletter Get involved Issues How to vote Contribute Home About Newsletter Get involved Issues How to vote Contribute Nelly Burdette Contribute for Rhode Island State Senate - District 17 Lincoln - North Smithfield - North Providence ★ Listen ★ Show Up ★ Deliver Meet Nelly Dr.
 Nelly Burdette is a psychologist and first-generation immigrant bringing a front-line perspective to public service.
 Not a career politician, she has spent the last two decades listening and helping people navigating healthcare, housing, and economic challenges.
 She’s running to strengthen communities and support small businesses.

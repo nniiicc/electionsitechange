@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Mele 10 Articles Contact Get the kit Donate 10 A practical act of citizenship Take the Mele 10 Challenge.
+Skip to content MELE FOR CONGRESS Open menu Home Vote Meet Gregg Priorities Articles Volunteer Donate 10 A practical act of citizenship Take the Mele 10 Challenge.
 Choose ten people.
 Start a real conversation.
 Help each one register and make a plan to vote.

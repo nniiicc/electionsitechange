@@ -35,12 +35,13 @@ My focus won’t be on policing our personal lives: instead, it’ll be to grow 
 Building Strong Communities I will ensure that Nebraska is a place where our children will want to live when they grow up.
 In addition to creating economic opportunities, we need to ensure our communities are thriving so families want to live here.
 We need strong schools, vibrant community spaces, strong main streets, and continued investments for police officers and firefighters to keep us safe.
-Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) Nebraska, you can vote right now!
+Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) Play When it's your money, you know exactly where every dollar goes.
+As a State Senator, I fought to keep politicians from sneaking tax breaks to their wealthy donors, worked with Republicans to cut spending, and balanced the budget.
+As Governor, I'll make sure government answers to you. ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 161 Shares: 35 Comments: 23 23 Comments Comment on Facebook Nebraska, you can vote right now!
 Together, we can deliver the real relief Nebraskans need and make this government accountable to the people who pay for it.
 Make your voice heard - find your county election office at tinyurl.com/3ek7u799 ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 230 Shares: 21 Comments: 65 65 Comments Comment on Facebook Ben and I are kicking off our Tri-City tour on Tuesday with town halls in Grand Island and Kearney.
-Stop in, bring a neighbor, and tell us what’s on your mind! ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 308 Shares: 50 Comments: 37 37 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 284 Shares: 26 Comments: 67 67 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 Lynne Walz @lynnewalz · 11 Oct 2109371123615810041 Proud to have Senator McCollister’s support in this fight.
 Together, we can get Nebraska back on track and ensure every Nebraskan has a seat at the table.

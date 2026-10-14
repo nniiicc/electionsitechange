@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Volunteer Help Re-Elect Justice Clarissa Silva Campaigns are built one supporter at a time.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Volunteer Help Re-Elect Justice Clarissa Silva Campaigns are built one supporter at a time.
 Justice Silva has spent her career serving South Texas with integrity, fairness, and respect for the law.
 As she seeks re-election to the Thirteenth Court of Appeals, your support can help share that message across the district.
 Whether you volunteer, host a meet-and-greet, request a yard sign, make a contribution, or simply stay informed, every effort helps strengthen our campaign.

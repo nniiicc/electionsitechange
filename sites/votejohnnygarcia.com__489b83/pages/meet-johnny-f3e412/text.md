@@ -1,4 +1,4 @@
-top of page HOME MEET JOHNNY ISSUES MEDIA JOIN THE FIGHT DONATE MEET JOHNNY Born and Raised in San Antonio, Johnny Garcia is a proud graduate of Memorial High School.
+top of page HOME HOGAR (ES) MEET JOHNNY CONOCE A JOHNNY (ES) ISSUES TEMAS (ES) MEDIA JOIN THE FIGHT DONATE MEET JOHNNY Born and Raised in San Antonio, Johnny Garcia is a proud graduate of Memorial High School.
 Raised by a strong mother in a working class household, Johnny knows firsthand the challenges that everyday Texans face.
 From a young age, he understood that if he wanted a better life, he’d have to earn it through hard work, discipline, and service.
 Johnny worked construction while attending St.

@@ -19,6 +19,7 @@ What we need & what we did this week Volunteers Working for a campaign is challe
 Even more so when you are donating your time.
 We need to fill some specialty roles as well as have volunteers to accompany us for events, town halls, and canvassers to phone bank and door knock.
 This is an ALL HANDS ON DECK request!
+Send an email to Maria , our volunteer coordinator, to find out more.
 Senator Cory Booker Senator Cory Booker was in town and met with many Utah Democrats in Salt Lake and in Park City.
 I was fortunate enough to meet with him and share why we are a competitive district that would benefit from national party help!
 Senator Booker shared inspiring stories that touched everyone who attended.
@@ -42,7 +43,7 @@ Fliers, Door Hangers, and Yard Signs We have new fliers, new door hangers, and n
 I had a unique request from a supporter and decided to print a few signs that welcome anyone who might be feeling politically homeless.
 We have “Republicans For” and “Independents For” yard signs in limited quantities.
 If you know anyone who is interested in one, invite them to one of our events above so they can come pick one up.
-You can find all the canvassing events, door knocking, training, and more at the Utah Democrats mobilize page. https://www.mobilize.us/utahdemocrats/ View Original Email Version → Support the Commitment Click an option to get started.
+You can find all the canvassing events, door knocking, training, and more at the Utah Democrats mobilize page. https://www.mobilize.us/utahdemocrats/ View Original Email Version → ← Newer 🪖 FIELD REPORT: Week of Sept 6th Older → 🪖 FIELD REPORT: Week of August 2nd - Utah's fires continue to spread to our vulnerable communities Support the Commitment Click an option to get started.
 If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
 Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
 Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.

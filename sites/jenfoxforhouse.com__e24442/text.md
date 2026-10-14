@@ -13,8 +13,12 @@ No experience needed.
 You'll get a short walkthrough, a partner if you want one, and a list of houses.
 Share Multiple Dates Thu, Oct 15 Door Knock, Thursdays 5pm / Spiral Brewery, Hastings RSVP Oct 15, 2026, 5:00 PM – 7:00 PM Spiral Brewery, Hastings A two-hour evening knock starting from Spiral Brewery.
 Sign up through the field team's form and they'll get you a turf packet and a partner.
-Share Multiple Dates Sat, Oct 17 Door Knock, Saturdays 11am / Park High School front parking lot, Cottage Grove RSVP Oct 17, 2026, 11:00 AM – 1:00 PM Park High School front parking lot, Cottage Grove A two-hour late-morning knock starting from the front parking lot of Park High School (8040 80th St S, Cottage Grove).
-Sign up through the field team's form and they'll get you a turf packet and a partner.
+Share Sat, Oct 17 GOTV Kick-off with Angie Craig, Sen.
+Seeberger and Jen Fox / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 1:00 PM Hastings (address sent when you sign up) Kick off Get Out the Vote with Rep.
+Angie Craig, Sen.
+Judy Seeberger and Jen Fox, then knock doors in Hastings.
+Open to first-time and experienced canvassers; training and materials provided.
+The address is sent when you sign up.
 Share Load More ELECTION DAY IS NOVEMBER 3 Early voting is open now, in person or by mail.
 More early voting sites open Friday, October 16.
 Minnesota also registers voters at the polls on Election Day, so no one is turned away.

@@ -1,9 +1,10 @@
 {
  "description": "The campaign website for Jen Bloomquist for Minnesota House District 31B.",
  "final_url": "https://www.jenformnhouse.com/about",
- "fingerprint": "0981eedbf624ce099157a039ff9fe650b571d2af",
+ "fingerprint": "b24a3e0b95efd7822d2c97837a1c22934d9f83f5",
  "format": 3,
  "paid_for_by": "paid for by the Jen for MN House committee, PO box 125, Cedar, MN 55011",
+ "rendered": false,
  "title": "About — Jen for MN House",
  "years_mentioned": [
   "2005",

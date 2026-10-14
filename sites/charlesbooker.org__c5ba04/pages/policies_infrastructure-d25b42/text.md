@@ -11,7 +11,7 @@ Finish the job on rural broadband so every home, farm and small business can get
 Upgrade drinking water and wastewater systems so no Kentucky family has to boil its water.
 Strengthen flood and disaster resilience in Eastern and Western Kentucky communities hit repeatedly by storms.
 Ensure these projects are built by Kentucky workers earning good union wages.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

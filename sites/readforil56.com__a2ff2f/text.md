@@ -21,6 +21,8 @@ Rhys will fight to protect and strengthen them.
 Read the full position papers → Read the Record Decades of fiscal stewardship, not political ambition. 🎓 Certified Public Accountant Spent his career as a CPA reading every line of a budget. 💼 Pension-Fund Controller Served as Treasurer & Controller of a major pension fund, managing other people's money responsibly. 🏪 Library Board Service Fiscal oversight of a public tax levy on the Des Plaines Public Library board. ♟ Chess Leadership Volunteer leader with the Illinois Chess Association — strategy, patience, discipline.
 October 12, 2026 Endorsed by the Chicago Tribune “brings valuable financial experience to his challenge” “He supports pension reform, property tax relief and stronger oversight of government misconduct, and is opposed to new taxes.
 Good.” Chicago Tribune Editorial Board, “Editorial: Rhys Read for Illinois 56th House District.” Read the full editorial.
+Daily Herald, October 6, 2026 In the news “The biggest fiscal issue we have is the $140 billion unfunded pension liability which will bankrupt the state.” “We can no longer have these unsustainable pensions where some people are getting over half a million dollars a year.” At the League of Women Voters forum for the 56th District, Rhys set out where he stands on state finances and immigration.
+Read the Daily Herald’s coverage.
 On the Trail Upcoming Events Come meet Rhys across Illinois House District 56 and beyond.
 Details are added as they are confirmed.
 Sep 24 Campaign Event Thursday, September 24.

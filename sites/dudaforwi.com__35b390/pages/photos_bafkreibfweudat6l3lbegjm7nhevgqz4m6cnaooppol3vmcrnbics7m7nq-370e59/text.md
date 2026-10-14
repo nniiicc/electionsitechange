@@ -8,8 +8,7 @@ Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENT
 Real Accountability.
 Education & Families: Rein in property taxes & eradicate burdens to the elderly & families Commit tax dollars & shared revenue to public schools for reading & math excellence Expand childcare ; treat early education as an opportunity : guarantee Wisconsin's future competitive edge !
 Healthcare & Freedom: No politicians in the doctor's office & never criminalize saving a woman's life Defend constitutional rights & due process for everyone, no exceptions Stop sending Wisconsin's tax dollars to other states and expand BadgerCare to lower premiums & save local hospitals Economy & Environment: Attract high-skill tech ; drive local innovation & high-paying jobs Monitor & protect water , soil , & power grid from data centers Protect air quality and drinking water from PFAS ; hold polluters accountable Scan to Connect VoteAdamDuda.com DONATE SENATE DISTRICT 11 Paid for by Duda for State Senate Common Sense.
-Real Accountability. • /flyer • Open the flyer Campaign events OCT 13 TUE Happy Hour Tuesday, October 13, 5:30 PM 2894 On Main , 2894 Main St, East Troy Google Maps Apple Maps $30 in advance, $35 at the door.
-Preregister, $30 OCT 22 THU Meet the Candidates Thursday, October 22, 5 to 7 PM East Troy Brewery , 2905 Main St, East Troy Google Maps Apple Maps With Maria Elena Bisabarros, candidate for Assembly District 33.
+Real Accountability. • /flyer • Open the flyer Campaign events OCT 22 THU Meet the Candidates Thursday, October 22, 5 to 7 PM East Troy Brewery , 2905 Main St, East Troy Google Maps Apple Maps With Maria Elena Bisabarros, candidate for Assembly District 33.
 More candidates to be announced.
 Why I Am Running I was nine when my parents came to America with few resources to begin a new life.
 Nine was a wonderful age to learn and grow into American citizenship.

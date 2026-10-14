@@ -1,4 +1,4 @@
-top of page Home About Get Involved Issues Contact More Use tab to navigate through the menu items.
+top of page Skip to Main Content Home About Get Involved Issues Contact More Use tab to navigate through the menu items.
 Principled - Constitutional - Conservative Meet Lisa Dear Friends and Supporters I am honored to be running for State Representative here in Legislative District 27.
 I have raised my family of six children in this area and am grateful for the life we have made here.
 However, there is much work yet to be done to keep Arizona improving, like encouraging economic growth, protecting our borders and neighborhoods, improving our schools, and preserving our freedoms.

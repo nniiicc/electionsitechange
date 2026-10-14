@@ -1,4 +1,4 @@
-Meet Andrew Issues News Contribute Volunteer Voter Information From the Oregon Secretary of State: General Election – November 3, 2026 Oregon will hold a statewide general election on November 3, 2026 .
+Meet Andrew Issues Endorsements News Contribute Voter Information From the Oregon Secretary of State: General Election – November 3, 2026 Oregon will hold a statewide general election on November 3, 2026 .
 Make a plan to vote!
 Use the information on this page to make sure you are ready to vote in Oregon’s upcoming statewide general election.
 Key Dates Voter registration deadline : October 13 Counties begin mailing ballots to active voters in Oregon : October 14 Last recommended day to return ballots by mail : October 27 Last day to return ballots using a drop box : November 3 at 8 p.m.
@@ -15,4 +15,4 @@ View our official Ballot Drop Box Locator to find drop box hours.
 The Ballot Drop Box Locator will become available approximately # days before Election Day.
 Ballots that are mailed must be postmarked by Election Day.
 Contact your local county elections office if you have questions about your ballot.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information District Info (HD 20) Events Photos Contact Privacy Policy Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

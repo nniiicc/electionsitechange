@@ -1,4 +1,4 @@
-0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Here’s My Game Plan Improve Healthcare A healthy society is fundamental to our economy and our democracy.
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Register to Vote Get Involved Here’s My Game Plan Improve Healthcare A healthy society is fundamental to our economy and our democracy.
 Here in the United States, we pay more per person for our healthcare system than any other country.
 We pay twice as much as other wealthy countries.
 We are also the only developed country in the world that does not guarantee its citizens universal healthcare .
@@ -76,7 +76,7 @@ Texas has added more renewable capacity in the last two years than New York has 
 This should not be a partisan issue – South Dakota creates 80% of its energy from renewables.
 Renewable energy is greener, cheaper, and better for our national security.
 Read more about my efforts to lower utility costs, support farmers, improve healthcare, and more in this i nterview with the Mountain Eagle .
-Read more about my support for transitioning from fossil fuels to clean, local energy in my op-ed in the Mountain Eagle.
+Read more about my support for transitioning from fossil fuels to clean, local energy in my op-ed in the Mountain Eagle .
 Housing Safe, adequate, affordable housing is fundamental to our individual and community wellbeing.
 On the Delhi village board, I have worked hard to advance housing projects, update zoning, and collaborate with anyone who wants to address this issue.
 We need more housing of all types, especially in cities and villages where many people want to live and where municipal water and sewer systems allow greater density.

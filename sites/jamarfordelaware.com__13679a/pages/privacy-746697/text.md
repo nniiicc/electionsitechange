@@ -1,4 +1,4 @@
-Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Fundraiser Tuesday, October 13 · 6–8 pm · Cantwell’s Tavern , · Odessa RSVP Legal Privacy Policy Effective date: June 14, 2026 · Jamar Money for Delaware 1.
+Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Legal Privacy Policy Effective date: June 14, 2026 · Jamar Money for Delaware 1.
 Who we are This Privacy Policy applies to the official campaign website of Jamar Money for Delaware (“the Campaign,” “we,” “us,” or “our”), located at jamarforde.com .
 The Campaign is a political committee organized under Delaware law for the purpose of electing Jamar Money to the Delaware House of Representatives, 9th District .
 2.

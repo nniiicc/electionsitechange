@@ -10,6 +10,6 @@ STAY ALERT: If you are close, be ready to go, stay informed.
 STAY AWAY: If you are outside the danger zone please stay away from arterial roads and evacuation areas, more people in the area juste make things more dangerous.
 Thank you local leaders and emergency responders and volunteers.
 Stay safe everyone.
-Julia Payne Tags: BLOG POST Recent Posts See All UPCOMING: Julia at Inland Empire Nurses Association Legislative Dinner on October 14 at 5 PM UPCOMING: Julia's Radio Interview with Spokane Public Radio and League of Women Voters on October 13, 2026 at 6 PM Julia at Indigenous Peoples Day Celebration on October 12, 2026 Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
+Julia Payne Tags: BLOG POST Recent Posts See All UPCOMING: Julia at The Adult Family Home Council Candidate Forum on October 28 at 11:30 AM UPCOMING: Last Fright Before Election Night on October 24 at 4 PM UPCOMING: Julia's Towhall on October 19 at 6 PM Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
 All Rights Reserved.
 Paid for by Friends of Julia, PO Box 9056, Spokane, WA 99209 bottom of page

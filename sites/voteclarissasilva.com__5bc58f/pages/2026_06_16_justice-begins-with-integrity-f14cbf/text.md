@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Justice Begins with Integrity June 16, 2026 Trust in the courts begins with trust in the judiciary.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Justice Begins with Integrity June 16, 2026 Trust in the courts begins with trust in the judiciary.
 Judges are asked to make decisions that can affect lives, families, businesses, and communities.
 That responsibility requires more than knowledge of the law.
 It requires character, discipline, humility, and integrity.

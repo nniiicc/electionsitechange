@@ -9,10 +9,10 @@ Lawn signs must only be displayed on residential property by the property owner 
 If you received a lawn sign by mistake, or if your sign is broken or lost, please let us know , and we’ll fix the problem immediately.
 Request Your Sign Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Where you want the lawn sign displayed.
+Name * First Last Email Timestamp lawn Email * Phone Where you want the lawn sign displayed.
 Certain corner properties may host two lawn signs.
 Street Address * City * Columbia Heights New Brighton St.
-Anthony ZIP * are ZIP Phone Partnering Campaigns The candidates below have similar progressive values and are running as a slate.
+Anthony ZIP * Partnering Campaigns The candidates below have similar progressive values and are running as a slate.
 Save time by requesting all of your lawn signs together!
 Select any other lawn signs you are willing to host Mary Kunesh (DFL endorsed) – District 39 Minnesota Senate Rachel James – Columbia Heights Mayor Brie LaPlante – Columbia Heights City Council Tom Kaiser – Columbia Heights City Council Laura Palmer – Columbia Heights School Board Cristin Craig – Columbia Heights School Board Jessica Medearis – Columbia Heights School Board Send Request FAQ Press Kit Privacy Policy Join the Campaign Team Contact Authorized and paid for by Vote Amada. © # VoteAmada.com.
 All Rights Reserved.

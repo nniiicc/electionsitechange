@@ -1,7 +1,4 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Garden Grove Garden Grove Sports & Recreation Center 13641 Deodara Dr.
-Garden Grove, CA 92844 Join Team Swift for a day of canvassing to get the vote out for Dr.
-Swift!
-RSVP Team Swift Canvass in Garden Grove Haster Basin Recreational Park 12952 Lampson Ave.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Garden Grove Haster Basin Recreational Park 12952 Lampson Ave.
 Garden Grove, CA 92840 Join Team Swift for a day of canvassing to get the vote out for Dr.
 Swift!
 RSVP Phone Bank @ VADC Field Office 9741 Bolsa Ave.

@@ -6,7 +6,7 @@ Wednesday, Oct 7, 5:00-8:00pm Vergennes American Legion, 100 Armory Lane SAVE TH
 Peter Parish Hall, Vergennes.
 Tues, Oct 20th - ANWSD Addison-3 Candidate Forum, 7:00-8:45, Ferrisburgh Town Hall.
 Mon, Oct 26th - Champlain Valley Farmer Coalition Candidate Meet & Greet, 6-8pm, UVM Extension, 23 Pond Ln, Middlebury.
-North for VT House Next Next Don’t Read the Addison Independent?
+North for VT House Previous Previous Tone Deaf Next Next Don’t Read the Addison Independent?
 Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.

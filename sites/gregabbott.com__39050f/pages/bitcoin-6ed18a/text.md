@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Hello, Bitcoin Community!
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Hello, Bitcoin Community!
 Texas law allows political campaigns to accept contributions of currency or other assets.
 Because state and federal law do not currently recognize Bitcoin as currency, your contribution to Texans for Greg Abbott of Bitcoin will be listed as an in-kind contribution to the campaign.
 In order to comply with State Law, we must attribute your Bitcoin donation to you and thus collect the following pieces of information.

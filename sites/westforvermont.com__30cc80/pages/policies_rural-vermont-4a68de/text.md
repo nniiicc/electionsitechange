@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Rural Vermont Rural Vermont should be a place where people can build a future, not just remember a past.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Rural Vermont Rural Vermont should be a place where people can build a future, not just remember a past.
 Our small towns are one of Vermont’s greatest strengths.
 They give us strong communities, local identity, beautiful working landscapes, and a quality of life that people value deeply.
 But living in rural Vermont also comes with challenges that state policy doesn’t always account for.

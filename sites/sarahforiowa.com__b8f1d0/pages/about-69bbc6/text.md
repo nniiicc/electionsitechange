@@ -1,4 +1,4 @@
-Skip to content Donate to Support Sarah Trone Garriott for Iowa Donate to Join Team Sarah If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount About Issues Endorsements Store Media In the News Campaign Videos About Issues Endorsements Store Media In the News Campaign Videos Facebook X-twitter Instagram Youtube Tiktok Get Involved Get Involved Donate Donate Donate Donate FOR IOWA's 3rd District Sarah Trone Garriott Minister.
+Skip to content Donate to Support Sarah Trone Garriott for Iowa Donate to Join Team Sarah If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount About Issues Endorsements Store Media In the News Campaign Videos Vote About Issues Endorsements Store Media In the News Campaign Videos Vote Facebook X-twitter Instagram Youtube Tiktok Get Involved Get Involved Donate Donate Donate Donate FOR IOWA's 3rd District Sarah Trone Garriott Minister.
 Mother.
 Leader.
 Sarah Trone Garriott has always been called to serve her community, as a minister, a mom, a nonprofit leader, and a State Senator.
@@ -34,5 +34,5 @@ Text HELP for more information.
 Text STOP to stop receiving messages.
 Privacy Policy.
 Facebook X-twitter Instagram Youtube Tiktok Home About On the Issues Endorsements News Store Get Involved Get Involved Donate Donate If donating by mail, make checks payable to: Sarah for Iowa | P.O.
-Box 621 Des Moines, IA 50303 Contact Press Inquiry Privacy Policy Accessibility Powered by Apollo Paid for by Sarah for Iowa Powered by Apollo About Issues Endorsements Store Media In the News Campaign Videos Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Donate Now If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# Other Amount...
+Box 621 Des Moines, IA 50303 Contact Press Inquiry Privacy Policy Accessibility Powered by Apollo Paid for by Sarah for Iowa Powered by Apollo About Issues Endorsements Store Media In the News Campaign Videos Vote Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Donate Now If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# Other Amount...
 Other Amount...

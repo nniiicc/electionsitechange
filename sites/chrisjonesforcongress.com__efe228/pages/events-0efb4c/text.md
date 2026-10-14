@@ -2,26 +2,9 @@ Skip to content About Chris Meet Chris Endorsements In the Community Vote Regist
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List Month Day #ago Now Now - 10/15/2026 October 15 Select date.
-October 2026 Tue 13 Volunteer at our LR Office!
+October 2026 Wed 14 Volunteer at our LR Office!
 Week of October 12th October 12 @ 9:00 am - October 16 @ 6:00 pm Chris Jones for Congress LR Office 921 W Markham St, Little Rock, AR, United States Sign up to volunteer at the LR Campaign HQ.
 We have button making, phone calls, text banking, post card writing, yard sign delivery and pick up help, and more!
-Tue 13 Virtual Phone and Text Bank Training with Team Jones!
-October 13 @ 12:00 pm - 12:30 pm Help Team Jones make calls and texts to voters and supporters!
-This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
-Trainings are Monday-Friday at 12 pm and 6 pm.
-If you would like more training or practice sessions, let us know!
-Tue 13 In-Person Phone and Text Bank Training October 13 @ 3:00 pm - 4:00 pm Chris Jones for Congress LR Office 921 W Markham St, Little Rock, AR, United States Come get trained on how to phone and text bank at our Little Rock Office!
-We will assist you in setting up your account and go over how to make calls and texts to future voters and supporters.
-Tue 13 Canvassing with Team Jones!
-October 13 @ 5:30 pm - 7:30 pm Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States Join Team Jones as we knock on doors in Pulaski County!
-Canvassing begins with a brief training at our Little Rock office, followed by hitting the road to talk with voters about Chris Jones.
-We highly recommend bringing a friend with you!
-Bring your phone fully charged, and wear comfortable walking shoes!
-We will be […] Tue 13 Virtual Phone and Text Bank Training with Team Jones!
-October 13 @ 6:00 pm - 7:00 pm Help Team Jones make calls and texts to voters and supporters!
-This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
-Trainings are Monday-Friday at 12 pm and 6 pm.
-If you would like more training or practice sessions, let us know!
 Wed 14 Searcy: Door Knocking for Chris Jones October 14 @ 9:00 am - 12:00 pm Yancey Park 950 Skyline Dr, Searcy, AR, United States Join Team Jones for door knocking in Searcy!
 Bring water, a charged phone, and wear comfortable walking shoes.
 Holden Jones, one of our great volunteers will be your main point of contact - 501-380-5871 Meet up at Yancey Park in Searcy!
@@ -42,6 +25,21 @@ Trainings are Monday-Friday at 12 pm and 6 pm.
 If you would like more training or practice sessions, let us know!
 Thu 15 Virtual Phone and Text Bank Training with Team Jones!
 October 15 @ 12:00 pm - 12:30 pm Help Team Jones make calls and texts to voters and supporters!
+This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
+Trainings are Monday-Friday at 12 pm and 6 pm.
+If you would like more training or practice sessions, let us know!
+Thu 15 In-Person Phone and Text Bank Training October 15 @ 3:00 pm - 4:00 pm Chris Jones for Congress LR Office 921 W Markham St, Little Rock, AR, United States Come get trained on how to phone and text bank at our Little Rock Office!
+We will assist you in setting up your account and go over how to make calls and texts to future voters and supporters.
+Thu 15 Volunteer at Saline County Ghost!Town Community Event October 15 @ 4:00 pm - 8:00 pm Downtown Benton - Courthouse 200 N Main St, Benton, AR, United States Help Team Jones staff our booth at Ghost!Town Community Event in Downtown Benton.
+We will pass out candy, literature, and talk to attendees about the campaign!
+4pm shift will help with set-up and 6 pm shift will help with take down.
+Thu 15 Canvassing with Team Jones!
+October 15 @ 5:30 pm - 7:30 pm Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States Join Team Jones as we knock on doors in Pulaski County!
+Canvassing begins with a brief training at our Little Rock office, followed by hitting the road to talk with voters about Chris Jones.
+We highly recommend bringing a friend with you!
+Bring your phone fully charged, and wear comfortable walking shoes!
+We will be […] Thu 15 Virtual Phone and Text Bank Training with Team Jones!
+October 15 @ 6:00 pm - 7:00 pm Help Team Jones make calls and texts to voters and supporters!
 This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
 Trainings are Monday-Friday at 12 pm and 6 pm.
 If you would like more training or practice sessions, let us know!

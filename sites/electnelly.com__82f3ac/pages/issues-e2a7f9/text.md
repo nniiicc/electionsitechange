@@ -1,4 +1,4 @@
-Home About Newsletter Get involved Issues Contribute Home About Newsletter Get involved Issues Contribute Our Focus Committed to improving lives in Rhode Senate District 17.
+Home About Newsletter Get involved Issues How to vote Contribute Home About Newsletter Get involved Issues How to vote Contribute Our Focus Committed to improving lives in Rhode Senate District 17.
 Healthy Aging in Rhode Island Rhode Island has one of the highest proportions of older adults in the country.
 Citation: Communities must adapt so people can age with dignity, independence, and connection.
 That means strengthening healthcare access, housing options, and community support for older residents.

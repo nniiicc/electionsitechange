@@ -36,6 +36,10 @@
 "href": "https://www.bradstockforcongress.com/issues"
 },
 {
+"text": "Make a Plan to Vote",
+"href": "https://www.bradstockforcongress.com/voter-information"
+},
+{
 "text": "Meet Alan",
 "href": "https://www.bradstockforcongress.com/about"
 },
@@ -70,6 +74,10 @@
 {
 "text": "Universal Healthcare Making healthcare affordable and accessible for every American by lowering costs and ending medical debt.",
 "href": "https://www.bradstockforcongress.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bradstockforcongress.com/get-involved"
 },
 {
 "text": "Vote",
@@ -146,5 +154,9 @@
 {
 "text": "info@bradstockforcongress.com",
 "href": "mailto:info@bradstockforcongress.com"
+},
+{
+"text": "vote.pa.gov",
+"href": "https://www.vote.pa.gov"
 }
 ]

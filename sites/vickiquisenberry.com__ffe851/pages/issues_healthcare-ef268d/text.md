@@ -1,3 +1,11 @@
-Meet Vicki Issues Volunteer Contribute Home ❭ Issues ❭ Healthcare Healthcare Page Under Construction More information coming soon as Vicki meets with her Healthcare Policy Development Panel .
-Want to join in the discussion?
-Go to the Volunteer page to sign up. « Previous: Education Next: The Economy » Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com - Political Websites Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Meet Vicki Issues Volunteer Contribute Home ❭ Issues ❭ Healthcare Healthcare Let's chat about Medicaid Medicaid tutorial: Medicaid funds do not go directly to recipients (When they talk about fraud, it's rarely the recipients) Medicaid was established in 1965 to provide healthcare assistance to low-income families, pregnant women, children, care givers, seniors and those with different abilities Medicaid is funded through federal (#%) and state (#%) governments Expanded Medicaid is 90% federal and 10% state Over 70% of Kentucky Medicaid recipients work but do not earn a family sustainable wage, requiring Medicaid & SNAP New eligibility, work and reporting requirements put unnecessary strain on >90% of Medicaid recipients and their families We can do better, Kentucky!
+More information: Kentucky Lantern Let's Discuss Maternal Health Care Kentucky ranks 46th nationally for maternal healthcare access and outcomes. ( Kentucky Department for Public Health ) Between 82% and 90% of deaths of Kentucky mothers are preventable.
+(Kentucky.gov; Kentucky Cabinet for Health & Family Services ) Up to 50% of Kentucky child-bearing age women live in maternity care desserts. ( ACLU ) 76 of Kentucky's 120 counties have NO OB/GYNs ( ACLU ) I've met with the Maternal Health Council and OB/GYN service professionals providing maternal health care.
+Post partum depression is on the rise.
+Kentucky ranks 40th in post partum depression ( America's Health Rankings ) Roughly half of all births in Kentucky are covered by Medicaid.
+Kentucky has one of the most restrictive abortion bans in the country.
+Abortion is banned in Kentucky.
+There are no exceptions for rape, incest or age of the impregnated person.
+There are no exceptions for devastating fetal diagnosis, forcing women and families to travel long distances for reproductive health care services when they most need family and friends around them for support.
+Because of restrictive reproductive healthcare laws, rising liability insurance costs and Medicaid cuts to services, maternal medical practices struggle to attract physicians and other reproductive healthcare professionals to Kentucky.
+We can do better, Kentucky! « Previous: Education Next: The Economy » Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com - Political Websites Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

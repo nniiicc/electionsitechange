@@ -1,0 +1,11 @@
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Back to All Events Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
+254 counties.
+500,000 Texans.
+We're in the final stretch of the most important election Texas has seen in years, and one of the most powerful ways to win it isn't another ad.
+It's people reaching the people they already know.
+RSVP HERE That's one of the ways Texas Together is organizing to win in November, and it's where you come in.
+We're recruiting volunteers in all 254 counties, each one reaching their friends, family, and coworkers to make sure they vote and volunteer in these final weeks.
+Join our GOTV Reach Friend Bank kickoff call on [Monday, Oct 12, 6pm] to get plugged in.
+We'll share our plan to mobilize voters in all 254 counties through the power of our personal networks using the Reach app, and how to plug in to reach your people, make sure they have a plan to vote and volunteer and help elect James Talarico, Gina Hinojosa, Vikki Goodwin, and Democrats up and down the ballot.
+Previous Previous October 11 Reception — McKinney Next Next October 13 Legalize it!
+Rally — San Antonio Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

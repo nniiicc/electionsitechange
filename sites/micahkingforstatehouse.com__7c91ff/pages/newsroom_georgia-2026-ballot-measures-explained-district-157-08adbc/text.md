@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Ballot Measures #Elections #Property Taxes #Agriculture #Public Safety #District 157 Georgia 2026 Ballot Measures Explained: What Amendments 1, 2, and 3 Mean for District 157 October 5, 2026 11 min read By Micah King Table of Contents • 2026 General Election: Key Dates & Deadlines • Amendment 1: Increasing the Agricultural & Timber Conservation Property Tax Cap – 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Ballot Measures #Elections #Property Taxes #Agriculture #Public Safety #District 157 Georgia 2026 Ballot Measures Explained: What Amendments 1, 2, and 3 Mean for District 157 October 5, 2026 11 min read By Micah King Table of Contents • 2026 General Election: Key Dates & Deadlines • Amendment 1: Increasing the Agricultural & Timber Conservation Property Tax Cap – 1.
 What It Does – 2.
 What Your Vote Means – 3.
 Why Supporters Favor It – 4.

@@ -1,0 +1,5 @@
+0 Skip to Content Resources Contact Blog News About Eric Volunteer Donate today!
+Open Menu Close Menu Resources Contact Blog News About Eric Volunteer Donate today!
+Open Menu Close Menu Resources Contact Blog News About Eric Volunteer Donate today!
+Douglas Burns focuses on Armstrong’s campaign Feb 18 Written By Angela Griner Read The Iowa Mercury’s article, “Affordability, cross-state competitiveness central in Carter Lake candidate's Statehouse run” by Douglas Burns here.
+An excerpt: “Armstrong sees up close what works for Omaha and western Iowa, what doesn’t, and how Iowa House District 20, which includes Carter Lake and Council Bluffs in Iowa, can better leverage its proximity to Omaha, a midwestern city that’s experienced strong growth, especially near Carter Lake with a major airport project and riverfront development in the Old Market.” Angela Griner Previous Previous Eric Armstrong discusses priorities at campaign launch event in Council Bluffs Next Next Press Release: Official Kickoff Event

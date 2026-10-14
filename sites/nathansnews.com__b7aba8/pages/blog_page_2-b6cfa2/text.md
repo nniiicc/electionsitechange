@@ -1,4 +1,6 @@
-Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate Nathan’s News Nathan’s News August 16, 2026 See you at the Parade!
+Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate Nathan’s News Nathan’s News August 24, 2026 Reminder: 21st Annual Irmo Community Prayer Breakfast (video) For more information about this year’s Prayer Breakfast, click here.
+Be sure to call or email Desiree to reserve your seat (FREE, as always – thanks to our generous sponsors).
+Watch August 16, 2026 See you at the Parade!
 Chapin Labor Day Events Labor Day 2026 Parade Join us in celebrating community, history, and patriotism at our 2026 Parade!
 This year’s theme, “Stars, Stripes & Service: Celebrating 250 Years,” honors the spirit and […] Read More August 14, 2026 Eye-sore in Irmo will be removed soon! (video) This is why I love hearing from y’all!
 Seems like each month when I send out my monthly COMMUNITY UDPATE EMAIL, I get the most feedback – and I love […] Watch August 13, 2026 State Budget finally passes!
@@ -15,10 +17,9 @@ For years, […] Watch July 27, 2026 Council votes on contentious sale From Cola
 Can’t believe it’s been TWENTY ONE years that I’ve hosted this breakfast and am glad to continue what I commonly refer to as “the unofficial kickoff to the Okra Strut” […] Read More July 23, 2026 Voting Locations for Special US Senate – Republican Primary PLEASE SHARE THIS WITH YOUR FRIENDS AND NEIGHBORS IN OUR COMMUNITY AND PLEASE ALSO CHECK YOUR SAMPLE BALLOT BEFORE YOU HEAD TO VOTE.
 Note: Sample ballot not available as of […] Read More July 23, 2026 SC budget deal would raise teacher pay and expand senior property tax break From WLTX After weeks of deadlock, negotiators cut a late-night compromise: a $50,500 starting teacher salary, a bigger break for homeowners 65+, and earmarks cut.
 COLUMBIA, S.C. — South Carolina […] Read More July 23, 2026 Chapin Mayor rejects council’s 4-0 vote to resign From WLTX ‘Absolutely not’: Chapin mayor rejects council’s 4-0 call to resign The vote is symbolic and doesn’t remove him.
-Mitchell says a record number of voters elected him and […] Read More July 22, 2026 Flock cameras – all the buzz around the Town of Irmo From WISTV Irmo Town Council approves contract to add more Flock cameras despite opposition IRMO, S.C.
-(WIS) – Irmo Town Council voted Tuesday night to expand its network of Flock […] Read More Posts pagination Previous 1 2 3 … 135 Next Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Mitchell says a record number of voters elected him and […] Read More Posts pagination Previous 1 2 3 … 135 Next Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

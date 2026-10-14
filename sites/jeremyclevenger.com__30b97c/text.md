@@ -11,5 +11,5 @@ JOIN JEREMY SUPPORT JEREMY!
 JClevenger4MO@gmail.com Follow on Facebook Photos CONTACT First name * Last name * Email * Phone Long answer * By submitting this form, you consent to receive texts from Committee to Elect Jeremy Clevenger.
 Message/data rates may apply.
 Text STOP to optout.
-View Terms of Use. * Submit PAID FOR BY COMMITTEE TO ELECT JEREMY CLEVENGER, SHELLY MILFORD, TREASURER DOWNLOAD MY FULL RESUME © # by John Roberts.
+View Terms of Use. * Submit PAID FOR BY COMMITTEE TO ELECT JEREMY CLEVENGER , SHELLY MILFORD, TREASURER DOWNLOAD MY FULL RESUME © # by John Roberts.
 Powered and secured by Wix Follow me on social netwroks bottom of page

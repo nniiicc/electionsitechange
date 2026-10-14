@@ -7,22 +7,22 @@ However, this new position would give me additional responsibilities and opportu
 Read Full Article → The Globe, Georgia Gwinnett College November 2015 Our Very Own Prestigious Society of Students Aizaz Shaikh, a junior and business management major, is profiled as a member of the Four Pillar Society — a student leadership program serving the GGC Foundation and Alumni Association.
 The article highlights his journey from enlisting in the Air Force to achieving a 4.0 GPA and building networks for a future in politics.
 Read Full Article → Photo Gallery Moments from the campaign trail and the community.
-Earning every vote — one neighbor at a time.
+Proudly representing Gwinnett under the Gold Dome.
+Honoring the rich heritage of District 7.
 Real conversations.
 Real solutions.
-Building bridges at the Georgia General Assembly.
-Leadership starts with listening.
 Putting in the work at the State Capitol.
-Showing up where decisions get made — City Hall.
-Standing with proven leaders at the gala.
-Honoring the rich heritage of District 7.
-Listening to the families of District 7.
-Proudly representing Gwinnett under the Gold Dome.
-Meeting neighbors, one handshake at a time.
 Rooted in community.
 Ready to serve.
 Honored to stand with Senator Ed Harbison on the Senate floor.
+Showing up where decisions get made — City Hall.
+Earning every vote — one neighbor at a time.
 Bringing District 7 together.
+Leadership starts with listening.
+Building bridges at the Georgia General Assembly.
+Meeting neighbors, one handshake at a time.
+Standing with proven leaders at the gala.
+Listening to the families of District 7.
 Previous slide Next slide Pause slideshow Follow the Campaign Facebook Follow us → X (Twitter) Follow us → Instagram Follow us → YouTube Follow us → TikTok Follow us → Aizaz Shaikh for State Senate Paid for by Aizaz 4 Senate, Inc.
 Home About Issues Get Involved Sign Up Privacy Policy Terms & Conditions © # Aizaz 4 Senate, Inc.
 All rights reserved.

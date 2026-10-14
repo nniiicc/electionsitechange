@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Volunteer For Betsy Your support is always welcome Volunteer For Betsy Your support is always welcome A Campaign Powered By People Betsy's campaign has always been powered by working people, friends, and volunteers like you.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Volunteer For Betsy Your support is always welcome Volunteer For Betsy Your support is always welcome A Campaign Powered By People Betsy's campaign has always been powered by working people, friends, and volunteers like you.
 We're collectively working to build community, provide mutual aid, and take care of our most vulnerable neighbors on the ground and in Lansing.
 Having people like Betsy in positions of power to legislate real change is more important now than ever.
 Any way you can help is always welcome.

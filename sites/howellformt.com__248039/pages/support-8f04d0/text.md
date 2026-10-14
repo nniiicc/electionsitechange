@@ -1,3 +1,3 @@
-0 Skip to Content Home Policy Endorsements Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Policy Endorsements Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Policy Endorsements Support Contact Donate SUPPORT SIGN UP TO JOIN TEAM HOWELL!
-WE NEED VOLUNTEERS FOR DOOR KNOCKING, PHONE BANKS, AND MORE!
+0 Skip to Content Home Policy Endorsements Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Policy Endorsements Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Policy Endorsements Support Contact Donate JOIN TEAM HOWELL SIGN UP TO JOIN TEAM HOWELL!
+WE NEED VOLUNTEERS FOR DOOR KNOCKING, PHONE BANKS, SIGN DELIVERY, AND MORE!
 DONATE DONATIONS CAN BE MADE BY MAILING A CHECK TO: SJ HOWELL PO BOX 8623 MISSOULA, MT 59807 CHECKS PAYABLE TO: SJ HOWELL FOR HD 100 OR BY CLICKING THE LINK BELOW DONATE Made with Squarespace PAID FOR BY SJ HOWELL FOR HD 100 PO BOX 8623, MISSOULA, MT 59807 SJ HOWELL, TREASURER DEMOCRAT CONTACT ME sjhowell4mt@gmail.com

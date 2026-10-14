@@ -1,0 +1,8 @@
+Skip to content Lisa Kinney Running For You!
+Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
+Donate Close Lisa Kinney Running For You!
+Meet Lisa News Events Get in Touch FAQ R.E.A.L.
+Donate Donate Governor Mike Sullivan Endorses Lisa Written in About Me , Media Releases , News and posted on October 13, 2026 Former Wyoming Governor Mike Sullivan announced on Tuesday, October 6, that he is endorsing Democratic nominee Lisa Kinney for the US House.
+Lisa, a former state senator, attorney, financial advisor, and accomplished author, is facing Republican Chuck Gray, Libertarian Shawn Johnson, and Constitution Party nominee Jeff Haggit in the November 3 rd general election.
+Sullivan noted, “I think it’s important that Wyoming have somebody who is dedicated to public service, who works well with people and has proven their leadership like Lisa has…” Kinney responded, “I always had a great working relationship with Mike and I am honored that he endorsed me.” Lisa’s bipartisan, cooperative approach to problem solving has resulted in endorsements from many of her colleagues on both sides of the political aisle.
+She believes that her experience and desire to serve the people of Wyoming makes her the right choice to represent them in Washington. ← Wind River Reservation More posts Governor Mike Sullivan Endorses Lisa Posted on October 13, 2026 Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

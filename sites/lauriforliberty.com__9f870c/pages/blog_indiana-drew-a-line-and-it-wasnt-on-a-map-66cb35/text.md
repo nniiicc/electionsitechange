@@ -1,5 +1,5 @@
 0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Indiana Drew a Line, and It Wasn’t on a Map.
-Dec 11 Written By Lauri Shillings Today, the voices of Hoosier voters prevailed over big government interference from D.C.
+Dec 11 Written by Lauri Shillings Today, the voices of Hoosier voters prevailed over big government interference from D.C.
 I am incredibly proud of the 31 Indiana State Senators who rejected Trump’s plea to gerrymander our state’s congressional districts.
 This vote was not about party loyalty or political advantage.
 It was about whether Indiana would allow outside pressure to override community integrity and the will of voters.

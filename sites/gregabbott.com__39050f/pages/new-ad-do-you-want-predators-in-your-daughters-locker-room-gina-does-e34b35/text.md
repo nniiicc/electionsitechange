@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store NEW AD: DO YOU WANT PREDATORS IN YOUR DAUGHTER’S LOCKER ROOM?
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store NEW AD: DO YOU WANT PREDATORS IN YOUR DAUGHTER’S LOCKER ROOM?
 GINA DOES.
 Oct 4, 2026 AUSTIN – Texans for Greg Abbott released this week a new TV and digital ad exposing Gina Hinojosa’s radical gender ideology, including her support for taxpayer dollars funding the sex change of impressionable young kids.
 Hinojosa has proven time and again she is “ in lock step ” with the radical beliefs of socialist James Talarico.

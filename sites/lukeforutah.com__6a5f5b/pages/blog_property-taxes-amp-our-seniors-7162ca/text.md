@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Property Taxes & Our Seniors Apr 6 Written By S Let's talk Property taxes.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Property Taxes & Our Seniors Apr 6 Written By S Let's talk Property taxes.
 I believe I have a record to run on, and that matters.
 It’s one thing to say the right things, it’s another to make decisions and actually do something.
 One of the biggest issues we’re dealing with is the cost of living, especially for those on fixed incomes.

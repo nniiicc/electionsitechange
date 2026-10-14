@@ -19,9 +19,9 @@ Meet Michael More about Michael How to Vote Early voting is October 19th through
 Place your early vote at the Mat-Su Borough Building at 350 E Dahlia Ave in downtown Palmer, Monday through Friday 8am to 5pm.
 Election Day is November 3rd!
 Polling places will be open 7am through 8pm.
-Rank Bowles First! learn more here Endorsements Valley Republican Women of Alaska Major Mike Mixon (ret) Stand for Health Freedom Eric and Shan Johnson, Northwoods Lodge Pastor Scott Phillips Father Randy Hillman (opinion of Father Hillman, not the Anglican Churches of Alaska) Donna Anthony Mike Coons Sally Pollen District 29 Republicans Letter of Support Bryan Cherry Dr.
+Rank Bowles First! learn more here Endorsements Valley Republican Women of Alaska Seth Gruber Major Mike Mixon (ret) Stand for Health Freedom Eric and Shan Johnson, Northwoods Lodge White Rose Action Pastor Scott Phillips Father Randy Hillman (opinion of Father Hillman, not the Anglican Churches of Alaska) Donna Anthony Mike Coons Sally Pollen District 29 Republicans Letter of Support Bryan Cherry Dr.
 Cheri M.
-Ruiz Carol Carman Stay Up to Date.
+Ruiz Carol Carman Alaska Right to Life Stay Up to Date.
 Sign up with your email and phone number to receive news and updates about Michael’s campaign.
 By submitting this form and signing up for texts, you consent to receive campaign updates, event reminders, and fundraising solicitations from Michael Bowles for Alaska at the number provided.
 Donations will be solicited.

@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: I Believe in American Exceptionalism.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: I Believe in American Exceptionalism.
 Here's why.
 Thomas West Sep 5, 2025 3 min read Updated: Apr 1 I graduated from high school in 2000.
 Like many young people, I thought about serving my country, but “Don’t Ask, Don’t Tell," the policy that banned openly queer people from serving, closed that door.

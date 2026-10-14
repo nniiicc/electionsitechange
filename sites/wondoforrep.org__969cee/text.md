@@ -34,17 +34,16 @@ Because of her steady hand and listening skills, the town and unions agreed on s
 Lora is a single parent with one kid still in the Greenfield public high school.
 She works for the Peace Development Fund by day, fundraising for dozens of progressive grassroots organizations locally and nationally.
 She is ready to scale her work with progressive groups and the city of Greenfield to serve all towns in the 1st Franklin district and boost the Western Mass team to have a louder voice at the State House.
-Lora Listens, Leads, and Gets It Done Latest from the Campaign Join FCCPR for a follow-up conversation about the nine ballot questions Massachusetts voters will decide on this November!
+Lora Listens, Leads, and Gets It Done Latest from the Campaign What a great weekend enjoying fall festivities across Franklin County! 🍂🍎 We spent Sunday talking with voters in Shelburne Falls, where we were treated to a performance by the Morris dancers, before heading over to the Ashfield Fall Festival!
+The dreary weather certainly didn’t dampen the spirits of festivalgoers!
+I especially appreciated the opportunity to catch up with Ashfield Fire Chief Kyle Walker about much-needed improvements to the town’s fire station.
+And of course, no Ashfield Fall Festival would be complete without some delicious cheddar cheese and apple pie!
+Join FCCPR for a follow-up conversation about the nine ballot questions Massachusetts voters will decide on this November!
 It's a space to come together to better understand the content and wording of each question, ask questions, and learn from one another.
 This free, community-focused session is about understanding what’s on the ballot, not telling people how to vote.
 LAVA, 324 Main Street, Greenfield October 16 at 6 PM Everyone is welcome!
 Please share with your friends, family, and community networks, and join us for an evening of thoughtful conversation ahead of Election Day.
-The Hampshire-Franklin Commission on the Status of Women is seeking Regional Commissioner applicants!
-Regional Commissioners are volunteers who work to advance the status of women and girls across Hampshire and Franklin Counties.
-Commissioners engage with local communities through public events, hearings, and outreach while advocating for policies and legislative priorities that support women and girls.
-The Commission is looking for people in Hampshire and Franklin Counties who are passionate about public service and uplifting women and girls, creating a more equitable commonwealth.
-Apply to become a Regional Commissioner and help amplify the voices of women and girls across Western Massachusetts!
-The link to apply is: https://masscsw.org/apply-to-a-regional-commission/ The link to the HFCSW Web Page for more information is: https://masscsw.org/.../regional.../hampshire-franklin/ Endorse/Lawn Signs I want to hear from you!
+Endorse/Lawn Signs I want to hear from you!
 My priorities start and end with you.
 Tell me what’s working, what’s not, and how I can help.
 Whether you’re concerned about your child’s school or simply need help filling out a complicated form let me know.

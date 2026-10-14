@@ -1,4 +1,4 @@
-top of page Donate Join the Team Home Meet Ian Priorities Endorsements Merch News Baltutis for NC House Tees Help us flip NC State House District 63!
+top of page Donate Join the Team Home Early Voting Schedule Meet Ian Priorities Endorsements Merch News Baltutis for NC House Tees Help us flip NC State House District 63!
 Every T-shirt sold helps us get our message out to voters.
 T-shirts are $30 each (includes sales tax), are made right here in Alamance County by TS Designs, come in unisex adult sizes (S-XXXL), and are printed on a black or white, sustainably produced 100% cotton.
 You can pick them up in Burlington, NC or have them shipped to you for an additional $10.

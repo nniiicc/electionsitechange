@@ -69,5 +69,5 @@ Our kids deserve better.
 Host Zach Lahn Invite Zach Lahn to Your Event or Area Zach looks forward to continuing to make stops throughout the State of Iowa.
 If you'd like Zach to make an appearance in your area or have an event to invite him to, please fill out the form here.
 Thank you!
-Event Request Form Name (Required) Event Date (Required) Headcount (Required) Email (Required) Phone Event Details (Required) “This is home.
+Event Request Form Name (Required) Event Date (Required) Headcount (Required) Email (Required) Phone Event Details (Required) Send Message “This is home.
 And it’s worth fighting for.” Donate to Zach's campaign Main Pages Home About Contact Events Merchandise Press Releases Support Zach Get Merchandise Make a Donation Pledge to Vote for Zach © Copyright # Lahn for Governor Privacy Policy Terms & Conditions PAID FOR BY LAHN FOR GOVERNOR

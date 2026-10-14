@@ -6,7 +6,7 @@ Fiona’s approach to the series is simple: statewide leaders need to understand
 That means listening to local residents, educators, business owners and civic leaders and seeing the challenges firsthand.
 Watch the 58 Counties.
 1 California. series on YouTube.
-Previous Next Share the Post: Related Posts San Francisco Examiner Profiles Fiona Ma’s Business-Friendly Vision for California The San Francisco Examiner profiles Fiona Ma’s approach to business growth, higher education, housing and economic development.
-Read More Spectrum News Interviews Fiona Ma on Her Vision for Lieutenant Governor Fiona Ma joins Spectrum News’ Inside the Issues to discuss her campaign and vision for California Lieutenant Governor.
+Previous Next Share the Post: Related Posts 58 Counties: Fiona Ma Highlights Kern County’s Agriculture, Energy and Community Spirit Fiona Ma’s 58 Counties series spotlights Kern County’s ranching heritage, small businesses and evolving energy economy.
+Read More San Francisco Examiner Profiles Fiona Ma’s Business-Friendly Vision for California The San Francisco Examiner profiles Fiona Ma’s approach to business growth, higher education, housing and economic development.
 Read More Paid for by Fiona Ma for Lieutenant Governor 2026 • FPPC # 1457360 Contact Us | Privacy Policy Please contact Fiona directly at: Fiona@FionaMa.com .
 Correspondence can be sent to Fiona at 1032 Irving Street, #908, San Francisco, CA 94122 For official State Treasurer’s Office business correspondence, please send to the following address: 901 P Street, Sacramento, CA 95814 Scroll to Top About Fiona My Story Why I Am Running About Fiona Awards Agriculture Tours Recycling Tours Endorsements Endorsements Endorse Fiona Media Videos Photos News Newsletter Press Releases Tell Fiona What Matters Donate Instagram Facebook Youtube X-twitter Support Fiona Ma for Lieutenant Governor $100 $250 $500 $1,000 $2,500 $5,000 $9,800 Other

@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #District 157 #Community #Elections #Rural Georgia #Public Service The Lineage of Georgia House District 157: Honoring Our Heritage and the Sacred Trust of Public Service October 2, 2026 8 min read By Micah King Table of Contents • The Four Leaders Who Held District 157 – 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #District 157 #Community #Elections #Rural Georgia #Public Service The Lineage of Georgia House District 157: Honoring Our Heritage and the Sacred Trust of Public Service October 2, 2026 8 min read By Micah King Table of Contents • The Four Leaders Who Held District 157 – 1.
 Ray Holland (1993 - 2003): The Foundational Era – 2.
 Jon G.
 Burns (2005 - 2013): From District 157 to the Speaker’s Gavel – 3.

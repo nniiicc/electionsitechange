@@ -1,17 +1,44 @@
 Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Platform Events Volunteer Endorsements Contact District 43 Store Donate Join Us Meet Taylor Get out and meet Taylor at one of these events or schedule a virtual one-on-one meeting through the contact info at the bottom of the page!
-Social Media Live w/Guest TBD Virtual on Social Media Come join us weekly on Monday's at 7pm to discuss various questions and answer yours!
-Shelby County Democratic Party - October Meeting Shelby County Services Building 1123 County Services Drive Pelham, AL 35124 Join me at the monthly meeting of the Shelby County Democratic Party!
-I'd love to meet you, hear your thoughts, and talk about my vision for the future of Alabama.
-Oak Mountain State Park Harvest Festival Oak Mountain State Park 200 Terrace Drive Pelham, AL 35124 Come meet me and celebrate fall at the 2026 Oak Mountain State Park Harvest Festival!
-In addition to meeting your future representative, there will be hay rides, bounce houses, shopping with vendors and artists, food trucks, guided hikes, crafts, scavenger hunt, is pet friendly, and more!
-You can also enjoy programming from the park interpreters and the Alabama Wildlife Center!
-2026 General Election Voter Registration Deadline Alabama This is the LAST DAY to register to vote in the 2026 General Election, so please register if you have not so you can send me to Montgomery to fight for you!
+Shelby County Democratic Party - October Meeting Shelby County Services Building 1123 County Services Drive Pelham, AL 35124 Come hear me and a few other candidates discuss the 4 Constitutional amendments that will be on the ballot November 3rd!
+Virtual Panel Discussion TikTok Join me and other candidates for an online panel hosted by Sarah DeArmond and Zachary Mallory!
+Canvassing with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.
+We are powered by people, and canvassing is the most effective way to reach voters.
+During this event, volunteers will go door-to-door to introduce residents to Taylor Cook, share his vision for District 43, and make sure voters know what’s at stake in this election.
+Whether this is your first time canvassing or you’ve volunteered before, we will provide a brief training before we begin.
+You’ll receive a list of homes to visit, talking points, and everything you need to feel comfortable speaking with voters.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP No Kings: Vote Early Birmingham Railroad Park 1600 1st Ave S Birmingham, AL 35233 Oak Mountain State Park Harvest Festival Oak Mountain State Park 200 Terrace Drive Pelham, AL 35124 Lit Dropping with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
+We are powered by people, and lit dropping is the most efficient physical way to reach voters.
+Whether this is your first time lit dropping or you’ve volunteered before, we will provide a brief training before we begin.
+We'll coordinate which homes to go to and provide everything you need to make it a smooth experience.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP 2026 General Election Voter Registration Deadline Alabama This is the LAST DAY to register to vote in the 2026 General Election, so please register if you have not so you can send me to Montgomery to fight for you!
 Please check your voter registration before this date as the current Secretary of State has been purging voter rolls and there have been numerous instances of active voters being removed.
 Social Media Live w/Guest TBD Virtual on Social Media Come join us weekly on Monday's at 7pm to discuss various questions and answer yours!
-Hoover Democrats - October Meeting The Tributary Center 3196 Highway 280 Birmingham, AL 35243 Join me at the monthly meeting of the Hoover Democrats as we talk about education!
-I'd love to meet you, hear your thoughts, and discuss my vision for the future of Alabama.
-Social Media Live w/Guest TBD Virtual on Social Media Come join us weekly on Monday's at 7pm to discuss various questions and answer yours!
-Election Day!
+Hoover Democrats - October Meeting The Tributary Center 3196 Highway 280 Birmingham, AL 35243 Canvassing with Taylor TBD Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.
+We are powered by people, and canvassing is the most effective way to reach voters.
+During this event, volunteers will go door-to-door to introduce residents to Taylor Cook, share his vision for District 43, and make sure voters know what’s at stake in this election.
+Whether this is your first time canvassing or you’ve volunteered before, we will provide a brief training before we begin.
+You’ll receive a list of homes to visit, talking points, and everything you need to feel comfortable speaking with voters.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP Lit Dropping with Taylor TBD Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
+We are powered by people, and lit dropping is the most efficient physical way to reach voters.
+Whether this is your first time lit dropping or you’ve volunteered before, we will provide a brief training before we begin.
+We'll coordinate which homes to go to and provide everything you need to make it a smooth experience.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP Social Media Live w/Guest TBD Virtual on Social Media Come join us weekly on Monday's at 7pm to discuss various questions and answer yours!
+Canvassing with Taylor TBD Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.
+We are powered by people, and canvassing is the most effective way to reach voters.
+During this event, volunteers will go door-to-door to introduce residents to Taylor Cook, share his vision for District 43, and make sure voters know what’s at stake in this election.
+Whether this is your first time canvassing or you’ve volunteered before, we will provide a brief training before we begin.
+You’ll receive a list of homes to visit, talking points, and everything you need to feel comfortable speaking with voters.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP Lit Dropping with Taylor TBD Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
+We are powered by people, and lit dropping is the most efficient physical way to reach voters.
+Whether this is your first time lit dropping or you’ve volunteered before, we will provide a brief training before we begin.
+We'll coordinate which homes to go to and provide everything you need to make it a smooth experience.
+Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
+RSVP Election Day!
 Your Polling Place The Midterm Election is here!
 Get out to your polling place, vote Taylor Cook for State House District 43, and make your voice heard!
 My goal is to be the most honest, transparent, and accessible member of the Alabama State Legislature.

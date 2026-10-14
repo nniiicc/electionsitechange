@@ -1,9 +1,18 @@
 Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE JOIN US AT AN EVENT NEAR YOU UPCOMING CAMPAIGN EVENTS To find more coordinated campaign organizing and volunteer events on the ground, click here.
-Ogunquit and Cape Neddick for Troy!
+Defeat Susan Collins Rally with Sen.
+Elizabeth Warren and Greater Portland Indivisible Deering Oaks Park Portland, ME, 04101 Join Troy Jackson, Sen.
+Elizabeth Warren, at Greater Portland Indivisible's Defeat Collins Rally on Saturday to remind everyone that the power belongs to the people, not just the wealthy and the power… Show more RSVP Town Hall with Troy Jackson, Sen.
+Elizabeth Warren, and Tiffany Muller (End Citizens United) This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Kennebunk, ME, 04043 Join U.S.
+Senate candidate Troy Jackson in Kennebunk for a town hall as part of his Solidarity Forever Tour across Maine.
+Troy is a fifth-generation logger who has spent his life fighting for working… Show more RSVP Ogunquit and Cape Neddick for Troy!
 This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Cape Neddick, ME, 03902 In less than 30 days, we are going to have the opportunity to change the course of our communities and the country.
-If you're concerned about our right to choose, to afford a home, to have healthcare,… Show more RSVP Oxford County Women for Troy Potluck and Bonfire This event’s address is private.
+If you're concerned about our right to choose, to afford a home, to have healthcare,… Show more RSVP For the People: A Rally for the Working Class with Special Guest Appearance by the Dropkick Murphys The Foundry 30 Upper Falls Rd, Biddeford, ME, 04005 THE WORKING CLASS HAS A VOICE.
+AND IT'S GETTING LOUDER.
+The labor movement has always been a rebellion — built by working people who refused to bow down, back off, or let the powerful call the shots.… Show more RSVP Oxford County Women for Troy Potluck and Bonfire This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, South Paris, ME, 04281 In less than 30 days, we have the opportunity to change our communities and the country.
 Join Women for Troy to help elect Troy Jackson and other Democrats in Oxford County.

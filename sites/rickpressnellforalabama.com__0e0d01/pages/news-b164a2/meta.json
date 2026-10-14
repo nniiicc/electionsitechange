@@ -1,9 +1,12 @@
 {
  "description": "Rick Pressnell in the News",
  "final_url": "https://www.rickpressnellforalabama.com/news",
- "fingerprint": "19b3ea2f1a9cb6202505f5abd81d24ee0c8d8543",
+ "fingerprint": "485b2d937bfff6d079819ce67a236320c4bee217",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

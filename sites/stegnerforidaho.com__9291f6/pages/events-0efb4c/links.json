@@ -105,10 +105,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=6421+main+street+bonners+ferry%2C+idaho%2C+83805+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=702+east+front+avenue+coeur+d%27alene%2C+idaho%2C+83814+united+states"
 },
 {
@@ -134,6 +130,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=grangeville++sandpoint%2C+idaho%2C+83864+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=main+street+moscow%2C+idaho%2C+83843+united+states"
 },
 {
 "text": "0",
@@ -281,10 +281,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Bonners+Ferry&dates=20261021T170000Z%2F20261021T190000Z&location=6421+Main+Street%2C+Bonners+Ferry%2C+Idaho%2C+83805%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Grangeville&dates=20261019T170000Z%2F20261019T180000Z&location=108+Grangeville+Truck+Route%2C+Grangeville%2C+Idaho%2C+83530%2C+United+States"
 },
 {
@@ -305,11 +301,19 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=University+of+Idaho+Homecoming+Parade&dates=20261024T140000Z%2F20261024T150000Z&location=Main+Street%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Are+Idaho+Inc.+Meet+%26amp%3B+Greet&dates=20260927T170000Z%2F20260927T190000Z&location=619+Irving+Street%2C+Caldwell%2C+Idaho%2C+83605%2C+United+States"
 },
 {
 "text": "Home",
 "href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "Hosted by the Silver Valley Chamber",
+"href": "https://shoshonenewspress.com/news/2026/oct/13/chamber-news-press-to-host-nonpartisan-forum/"
 },
 {
 "text": "ICS",
@@ -397,10 +401,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville?format=ical"
 },
 {
@@ -442,6 +442,10 @@
 {
 "text": "ICS",
 "href": "https://www.stegnerforidaho.com/events/twin-falls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/university-of-idaho-homecoming-parade?format=ical"
 },
 {
 "text": "ICS",
@@ -544,10 +548,6 @@
 "href": "https://www.stegnerforidaho.com/events/meet-greet"
 },
 {
-"text": "Meet & Greet in Bonners Ferry",
-"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
-},
-{
 "text": "Meet & Greet in Grangeville",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
 },
@@ -582,6 +582,10 @@
 {
 "text": "Terms & conditions",
 "href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "University of Idaho Homecoming Parade",
+"href": "https://www.stegnerforidaho.com/events/university-of-idaho-homecoming-parade"
 },
 {
 "text": "View Event →",
@@ -673,10 +677,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
-},
-{
-"text": "View Event →",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
 },
 {
@@ -714,6 +714,10 @@
 {
 "text": "View Event →",
 "href": "https://www.stegnerforidaho.com/events/twin-falls-92326"
+},
+{
+"text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/university-of-idaho-homecoming-parade"
 },
 {
 "text": "View Event →",
@@ -836,10 +840,6 @@
 "href": "https://www.stegnerforidaho.com/events/twin-falls"
 },
 {
-"text": "[image: Meet & Greet in Bonners Ferry]",
-"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
-},
-{
 "text": "[image: Meet & Greet in Grangeville]",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
 },
@@ -862,6 +862,10 @@
 {
 "text": "[image: Speed representing poster]",
 "href": "https://indivisibletwinfalls.org/trainings-and-events-in-twin-falls/"
+},
+{
+"text": "[image: University of Idaho Homecoming Parade]",
+"href": "https://www.stegnerforidaho.com/events/university-of-idaho-homecoming-parade"
 },
 {
 "text": "[image: We Are Idaho Inc. Meet &amp; Greet]",

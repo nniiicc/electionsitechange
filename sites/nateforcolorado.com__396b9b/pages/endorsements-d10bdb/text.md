@@ -47,4 +47,4 @@ Working towards creating an environment that encourages an abundance of construc
 Colorado Placement and Referral Alliance (CoPRA) CoPRA is the Colorado chapter of the National Placement & Referral Alliance (NPRA).
 It brings together senior placement agencies, senior living communities, and industry partners to improve how families find assisted living, memory care, and other senior‑care options.
 As our state ages and particular in Highlands Ranch as we age in place, I'm honored to have the support of CoPRA to ensure our senior community and their families get the care and placement they need and can age with decency and respect and make the best decisions about their living arrangements.
-Download Footage See Nate with Constituents Photo Gallery Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein Copyright © # Nate for Colorado - All Rights Reserved.
+Download Footage See Nate with Constituents Photo Gallery Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein NATE@NATEFORCOLORADO.COM Copyright © # Nate for Colorado - All Rights Reserved.

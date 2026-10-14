@@ -1,4 +1,8 @@
-0 Skip to Content Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Open Menu Close Menu Open Menu Close Menu Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Thoughts on the previous weeks events and conversations 9/21/2026 If you choose not to vote, they don’t even have to try to cheat.
+0 Skip to Content Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Open Menu Close Menu Open Menu Close Menu Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Thoughts on the previous weeks events and conversations 10/13/2026 I have never placed too much value in the debate process.
+It has always seemed superficial to me, more about appearance than substance.
+I want candidates that are thoughtful, not showmen.
+That said, I know that others do want debates, so I participated in the October 7th Apple Valley Chamber of Commerce Candidate Forum.
+Video can be found on the Apple Valley youtube channel at: https://youtu.be/vPBRQ_FV-6Q?si=iChpvMi4JMI1L7NR 9/21/2026 If you choose not to vote, they don’t even have to try to cheat.
 They have already won.
 It only takes a few minutes each year.
 While most attention focuses on the big races, our state capitol is as evenly divided as it can get.

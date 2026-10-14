@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voter Guide #Ballotpedia #Election Research #District 157 Your Ultimate Research Guide for the 2026 District 157 Ballot March 24, 2026 3 min read By Micah King Campaign Table of Contents – Why You Should Use Ballotpedia – Radical Transparency: Micah King’s Commitment – Your Next Steps We are approaching one of the most critical elections in recent history for Southeast Georgia.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voter Guide #Ballotpedia #Election Research #District 157 Your Ultimate Research Guide for the 2026 District 157 Ballot March 24, 2026 3 min read By Micah King Campaign Table of Contents – Why You Should Use Ballotpedia – Radical Transparency: Micah King’s Commitment – Your Next Steps We are approaching one of the most critical elections in recent history for Southeast Georgia.
 If you live in Tattnall, Jeff Davis, Appling, or Evans County, you are about to be flooded with glossy mailers, 30-second television commercials, and targeted social media ads.
 Millions of dollars will be spent by special interest groups and Atlanta politicians trying to tell you who to vote for.
 Our advice?

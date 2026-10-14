@@ -14,5 +14,5 @@ Karas said the contrast underscores why voters are increasingly skeptical of the
 “For decades, voters have been told they have no alternative,” Karas added.
 “This race proves that’s wrong.
 Wisconsin deserves a political system that works for the people, not the parties—and this campaign is showing that change is not only possible, it’s already underway.” Karas pledged to continue building a people-powered campaign focused on transparency, voter empowerment, and opening Wisconsin’s democracy to new voices.
-For more information about Pete Karas and his campaign for Wisconsin Secretary of State, visit www.petekaras.com Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+For more information about Pete Karas and his campaign for Wisconsin Secretary of State, visit www.petekaras.com Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

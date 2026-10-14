@@ -1,3 +1,3 @@
-Meet Andrew Issues News Contribute Volunteer Events More events coming soon!
+Meet Andrew Issues Endorsements News Contribute Events More events coming soon!
 #ago This Week This Month ‹ Previous Tue Dec 1 2026 - Thu Dec 31 2026 Next › No events in this range Try a different date range, or check back soon for new events.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu
+Voter Information District Info (HD 20) Events Photos Contact Privacy Policy Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

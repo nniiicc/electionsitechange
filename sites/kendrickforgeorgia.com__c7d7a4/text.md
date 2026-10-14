@@ -1,10 +1,7 @@
 top of page DONATE VOLUNTEER DONATE VOLUNTEER ABOUT CALENDAR PLATFORM SUBSCRIBE CONTACT MEET THE TEAM MEET THE TEAM My name is Dar'shun Kendrick, and I am running for Re-Election to support YOU and the over 60,000 residents of House District 95.
 For over 16 years, I have fought tirelessly to represent all those who deserve to have their voices heard, and the fight is not over yet. ​ If you'd like to have YOUR voice heard, I'd love to speak with you.
 If you are a constituent of mine, I would like to hear from you. ​ Book time with me below.
-Discuss the Campaign with Dar'shun Book time to speak (constituents) Register HERE Communications Director/In Office Constituent Services We're Hiring for the 2027 Session!
-We are hiring for the 2027 Session!
-All positions are paid.
-To learn more about the positions and how to apply, please click on the button for the specific role. ​ For any questions please reach out to Kristen Rafuse (Chief of Staff) at chief@kendrickforgeorgia.com Legislative Aide In District Constituent Services Sign Up Here!
+Discuss the Campaign with Dar'shun Book time to speak (constituents) Register HERE Sign Up Here!
 Will you Answer This Call to Serve Your Community?
 Step 2: Get More Info + Apply (if interested) Step 1: Download map to see if your precinct needs a Member Laws That Have Become Effective July 1st, 2026 *Prepared by Legislative Counsel, GA House of Representatives Download Report Here My Endorsements My 2025-2026 Legislative Agenda I AM HIRING The office of State Representative Dar’shun Kendrick is looking for a 2026 Legislative Aide!
 Drafting weekly email blasts to constituents​ Helping organize events in the District and under the gold dome.

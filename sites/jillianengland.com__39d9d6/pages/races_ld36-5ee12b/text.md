@@ -1,4 +1,6 @@
-# days until Election Day, Tuesday, November 3, 2026 Ballots mail October 14 · Vote Jillian England → Jillian England Home About Issues Races Notes Vote Donate Contact Bio Endorsements ← Race landscape LD 36 State Senate – A Real Choice on November 3 This is a two-candidate general election for Washington State Senate in Legislative District 36 (Northwest Seattle: Ballard, Magnolia, Queen Anne, Phinney Ridge, and surrounding neighborhoods).
+# days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
+Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
+Races Notes Vote Donate Contact Bio Endorsements ← Race landscape LD 36 State Senate – A Real Choice on November 3 This is a two-candidate general election for Washington State Senate in Legislative District 36 (Northwest Seattle: Ballard, Magnolia, Queen Anne, Phinney Ridge, and surrounding neighborhoods).
 Election Day is Tuesday, November 3, 2026 .
 Summary of public roles and campaign themes.
 Not a prediction.
@@ -42,6 +44,6 @@ Box 30064, Seattle, WA 98113.
 Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

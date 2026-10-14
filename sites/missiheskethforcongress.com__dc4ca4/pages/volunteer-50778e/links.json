@@ -8,10 +8,6 @@
 "href": "https://www.missiformo.com/endorsements"
 },
 {
-"text": "Events",
-"href": "https://www.missiformo.com/events"
-},
-{
 "text": "Merch",
 "href": "https://www.missiformo.com/missi-merchandise"
 },
@@ -38,6 +34,10 @@
 {
 "text": "Top 5 Issues",
 "href": "https://www.missiformo.com/top-5-issues"
+},
+{
+"text": "Tour",
+"href": "https://www.missiformo.com/events"
 },
 {
 "text": "Volunteer",

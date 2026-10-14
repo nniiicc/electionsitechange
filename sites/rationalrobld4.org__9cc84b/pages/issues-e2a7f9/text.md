@@ -43,4 +43,11 @@ He explained he also accepted the right of any person to declare identity and ge
 As soon as I said I will vote “no” on I-638, I lost his vote.
 Faithful to my commitment to respect and represent all I asked, “Why?” “Well, what happened to Riley Gaines is a disgrace.” Who?
 “If you’re that uninformed, you better look into it.” ------------------ I did.
-And was shocked by a manufactured history and the money poured into weaponizing emotion to drive votes. https://www.youtube.com/watch? v=iKUl8lkuGOc&t=3498s for the readers, https://www.motherjones.com/ politics/2025/11/riley-gaines- anti-trans-lia-thomas-ncaa- trump/ Rob Tupper Candidate for WA State House, District 4, Position 2 Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu
+And was shocked by a manufactured history and the money poured into weaponizing emotion to drive votes. https://www.youtube.com/watch? v=iKUl8lkuGOc&t=3498s for the readers, https://www.motherjones.com/ politics/2025/11/riley-gaines- anti-trans-lia-thomas-ncaa- trump/ “Boys ruining girls’ sports” is a strawman initiative funded by the multimillionaire Brian Hewood.
+Why?
+It draws attention from something much more important to him - households with income exceeding a million dollars a year.
+Mr.
+Hewood’s earnest hope is you will also repeal the ‘ tax burden ’ on those earning more than $80,000 dollars PER month!
+I will vote ‘no’ on I-638 because it oversteps personal boundaries by requiring of all girls participating in interscholastic sports by requiring; (a) examination of reproductive anatomy, or (b) genetic makeup, or (c) testing of testosterone levels in order to prove biological sex (see p53, section 3 of the WA voter’s guide).
+Washington doesn’t need a law to vilify a handful of teens.
+Rob Tupper Candidate for WA State House, District 4, Position 2 Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

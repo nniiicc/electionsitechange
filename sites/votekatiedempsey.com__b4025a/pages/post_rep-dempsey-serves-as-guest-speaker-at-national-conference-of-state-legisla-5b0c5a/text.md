@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rep.
+Donate All Posts From Katie News Search Rep.
 Dempsey Serves as Guest Speaker at National Conference of State Legislature’s 2019 Legislative Katie Dempsey Aug 7, 2019 2 min read Updated: Mar 17, 2022 ATLANTA – State Representative Katie Dempsey (R-Rome) served as a guest speaker and panelist during a session at the National Conference of State Legislature’s (NCSL) 2019 Legislative Summit on Tuesday, August 6, 2019, in Nashville, Tennessee.
 The session, entitled “The Lawmaker’s Role in Tackling the Data Conundrum,” explored the ways state legislatures are addressing the issue of “big data.” “My colleagues and I have spent the last few years studying the need for transparency and open access to data in our state government,” said Rep.
 Dempsey.

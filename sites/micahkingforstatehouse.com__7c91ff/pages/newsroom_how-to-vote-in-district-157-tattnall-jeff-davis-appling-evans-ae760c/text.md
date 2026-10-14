@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voting Guide #Tattnall County #Jeff Davis County #Appling County #Evans County #District 157 How to Vote in Georgia House District 157: Tattnall, Jeff Davis, Appling & Evans County Guide (2026 General Election) April 28, 2026 4 min read By Micah King Campaign Team Table of Contents • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voting Guide #Tattnall County #Jeff Davis County #Appling County #Evans County #District 157 How to Vote in Georgia House District 157: Tattnall, Jeff Davis, Appling & Evans County Guide (2026 General Election) April 28, 2026 4 min read By Micah King Campaign Team Table of Contents • 1.
 Key Election Dates & Deadlines • 2.
 Who Is Running for Georgia House District 157? • 3.
 County-by-County Polling & Election Resources – Tattnall County (Glennville, Reidsville, Collins, Cobbtown) – Jeff Davis County (Hazlehurst, Denton) – Appling County (Baxley, Surrency, Graham) – Evans County (Claxton, Bellville, Hagan, Daisy) • 4.

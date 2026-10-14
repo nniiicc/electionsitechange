@@ -1,10 +1,10 @@
-About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CONTACT Back Issues Legislative Achievements About Endorsements Events Priorities Issues Legislative Achievements In the News Volunteer Yard Signs DONATE CONTACT Colorado House District 25 Scroll Newsletter Block This newsletter signup form needs a storage option.
+About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CONTACT Back Issues Legislative Achievements About Endorsements Events Priorities Issues Legislative Achievements In the News Volunteer Yard Signs DONATE CONTACT Colorado House District 25 Scroll Representative Tammy Story for Colorado House District 25!
+Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay in touch!
 Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up We respect your privacy.
 Thank you!
-Representative Tammy Story for CO House District 25!
 Donate here Meet Tammy A trusted education advocate, Tammy has been fighting for Colorado’s students, parents, and teachers for more than two decades.
 Now as a State Representative, she is an even stronger community champion – investing in our schools, attracting good-paying jobs to Colorado, fixing our crumbling roads, and protecting our Colorado way of life.
 Learn more Investing In Our Future Tammy uses her experience advocating for public education to ensure our schools are fully funded, reduce excessive testing and raise teacher pay so we attract the best and brightest teachers to our schools.

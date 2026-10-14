@@ -2,13 +2,16 @@ top of page Home Blog About Contact Donate News More Use tab to navigate through
 CLARK FOR WV Principled.
 Proven.
 Local.
+Endorsed by Senator Shelley Moore Capito.
+Truly appreciate U.S.
+Senator Shelley Moore Capito's endorsement.
+We share the same work in supporting our agricultural industry, economic development and cutting the red tape in government.
 Proud to receive the WV Citizens Defense League Endorsement.
 Proud to receive the endorsement of the West Virginia Citizens Defense League.
 I remain a leading advocate in the West Virginia legislature, protecting our 2A rights!
 West Virginia Citizens Defense League Endorsed by Education WV!
 Thank you to Education WV for their endorsement!
 Education is the cornerstone of our future and I am proud to be a leading advocate for all educators in our state.
-Endorsed by the NRA!
 Subscribe Form Join Thanks for subscribing!
 IN THE PRESS Motorsport Responsibility Act March 11, 2022 Part of the job as a Delegate is to help local businesses with issues that they have and build relationships with other Legislators and key stakeholders holders to find solutions.
 Summit Point Raceway brought this issue to our attention.

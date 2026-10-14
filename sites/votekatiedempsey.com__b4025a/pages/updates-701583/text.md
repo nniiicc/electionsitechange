@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-Search Coosa Valley News: Rep.
+Donate Search Coosa Valley News: Rep.
 Dempsey Attends Elder Abuse Symposium as Honored Guest Collaboration between law enforcement and the private sector are helping investigators get results and prosecute elder abuse cases by...
 Katie Dempsey May 19, 2022 3 min read Rome News Tribune: Q&A with Katie Dempsey About 60% of Floyd County voters are in state House District 13.
 It covers all of Rome, the Silver Creek community and points east....

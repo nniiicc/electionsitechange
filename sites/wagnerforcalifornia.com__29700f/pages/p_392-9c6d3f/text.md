@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Lack of Oversight from Secretary of State to Cost California Taxpayers Millions of Dollars IRVINE, CA -- Today, Republican Secretary of State candidate Don Wagner reacted to news of an error in the California Voter Guide issued by Secretary of State Shirley Weber that will cost California taxpayers millions of dollars.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Lack of Oversight from Secretary of State to Cost California Taxpayers Millions of Dollars IRVINE, CA -- Today, Republican Secretary of State candidate Don Wagner reacted to news of an error in the California Voter Guide issued by Secretary of State Shirley Weber that will cost California taxpayers millions of dollars.
 The inaccurate guide was mailed to over 23 million voters.
 Weber’s office is now forced to mail voters a postcard correcting her error.
 “California’s voters deserve accurate information from their Secretary of State.

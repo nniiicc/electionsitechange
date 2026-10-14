@@ -1,4 +1,4 @@
-Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Fundraiser Tuesday, October 13 · 6–8 pm · Cantwell’s Tavern , · Odessa RSVP Meet the candidate Jamar Money Husband.
+Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Meet the candidate Jamar Money Husband.
 Father.
 Educator.
 Mentor.

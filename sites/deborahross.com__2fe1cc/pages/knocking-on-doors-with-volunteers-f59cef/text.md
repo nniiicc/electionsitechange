@@ -1,0 +1,2 @@
+Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Updates » Knocking on Doors with Volunteers Knocking on Doors with Volunteers October 10, 2026 Voting Fired up to be with so many amazing volunteers knocking doors this morning to help keep Haseeb Fatmi for North Carolina in the State Senate and elect Evonne Hopkins to the State House.
+Prev Older Hegseth is Unfit to Serve Newer Tornadoes in Central NC Next Close Previous Next

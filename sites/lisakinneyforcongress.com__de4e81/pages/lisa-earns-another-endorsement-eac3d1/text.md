@@ -60,4 +60,4 @@ Most Wyoming Republicans already said no to Chuck Gray and his Freedom Caucus co
 This November, let’s finish the job.
 Don’t reward Chuck.
 Vote for Lisa Kinney.
-Your Republican friends won’t even need to know. ← WTE Election Guide Wyoming PBS Debates → More posts Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Wyoming PBS Debates Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Your Republican friends won’t even need to know. ← WTE Election Guide Wyoming PBS Debates → More posts Governor Mike Sullivan Endorses Lisa Posted on October 13, 2026 Wind River Reservation Posted on October 12, 2026 Platte County Democrats Posted on October 12, 2026 Join the Niobrara County Democrats Posted on October 12, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

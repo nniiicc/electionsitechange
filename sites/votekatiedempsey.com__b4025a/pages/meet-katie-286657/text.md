@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-BIOGRAPHY Katie Dempsey was elected in November 2006 to represent Georgia House District 13, which includes the city of Rome and additional precincts in Floyd County.
+Donate BIOGRAPHY Katie Dempsey was elected in November 2006 to represent Georgia House District 13, which includes the city of Rome and additional precincts in Floyd County.
 Over the last eight years, Katie has taken on a number of leadership roles, including currently serving as Chairman of the Appropriations Human Resources Sub-Committee, as well as Co-Chairman of the House & Senate Joint Study Committee on Violence Against Healthcare Workers.
 Katie also serves on the Rules Committee, the Economic Development & Tourism Committee; the Energy, Utilities & Telecommunications Committee; the Health and Human Services Committee and the Higher Education Committee.
 In 2011, Katie served as Chief Deputy Whip of the House. ​ In addition to her House leadership positions, Katie serves by appointment of the Speaker of the House on the Coosa North Georgia Water Planning Council, the Department of Behavioral Health & Developmental Disabilities Coordinating Council, and the Recreational Authorities Overview Committee.

@@ -29,7 +29,7 @@ I've fought regulators who tried to strangle it," Deaton said.
 "But there is a bright line between building tools that serve people and building machines designed to pass as people.
 If it's AI, it has to say so.
 That's not anti-technology.
-That's basic honesty, and it should be the law." ### < Older Post JOHN DEATON will fight for what is right.
+That's basic honesty, and it should be the law." ### < Older Post Newer Post > JOHN DEATON will fight for what is right.
 Stay Connected Last Name Email Address Zip Code Thank you for signing up.
 We will continue to stay connected and share with you the latest from our campaign.
 Oops, there was an error sending your message.

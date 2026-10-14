@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate March 8, 2022 Guest User Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 March 8th is International Women’s Day - a day to recognize the social, economic, cultural and political achievements of women throughout the world.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate March 8, 2022 Guest User Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 March 8th is International Women’s Day - a day to recognize the social, economic, cultural and political achievements of women throughout the world.
 In celebration of this important day, Representative Ricks introduced a Tribute in the House of Representatives and shared remarks.
 She also welcomed women from throughout the state for a special event at the Capitol.
 Attendees attended the House of Representatives Session, toured the Capitol, and met with legislators.

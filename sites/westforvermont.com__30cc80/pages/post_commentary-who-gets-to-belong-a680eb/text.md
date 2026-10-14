@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Who gets to belong here?
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Who gets to belong here?
 Thomas West Aug 14, 2025 4 min read Updated: Apr 1 Every conversation about affordable housing in Manchester comes down to one question: Who is this community for?
 The people who need housing here aren’t strangers.
 They’re the clerks in our hardware store, the lift operators on the mountain, the small business owners, the tradespeople, and the retirees who’ve built their lives here but now face being priced out of the place they call home.

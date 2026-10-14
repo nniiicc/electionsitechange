@@ -28,7 +28,7 @@ He voted to expand the Educational Improvement Tax Credit (EITC) program, helpin
 He supported Education Options Tax Credits to further expand school choice and increase opportunities for Pennsylvania families.
 He voted for record level funding for all schools in Carbon County.
 Data Center Oversight Doyle voted for legislation creating a pause in the zoning consideration of data center proposals, giving municipalities additional time to review their impact on communities and infrastructure.
-He is also sponsoring legislation that would allow municipalities to impose an 18-month moratorium on new high-impact data center applications, ensuring local officials have the time and authority to determine whether proposed projects are appropriate for their communities.
+He is also sponsoring legislation that would allow municipalities to impose an 180-day moratorium on new high-impact data center applications, ensuring local officials have the time and authority to determine whether proposed projects are appropriate for their communities.
 Police & First Responders Doyle has championed legislation supporting Pennsylvania’s police, firefighters, and EMS personnel.
 He sponsored legislation increasing penalties for the unlawful delivery of fentanyl, helping protect police officers and other first responders from dangerous exposure.
 He co-sponsored legislation providing incentives for volunteer firefighters and EMS personnel and legislation strengthening support for emergency responders.

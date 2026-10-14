@@ -1,4 +1,5 @@
-About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Event Details « All Events Sunday phone bank October 11 @ 2:00 pm – 4:00 pm Help Jill make calls and reach voters across the district.
+About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Event Details « All Events This event has passed.
+Sunday phone bank October 11 @ 2:00 pm – 4:00 pm Help Jill make calls and reach voters across the district.
 No experience necessary.
 We will train you and provide support.
 This is a virtual event.

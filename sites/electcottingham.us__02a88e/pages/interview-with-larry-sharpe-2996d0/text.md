@@ -19,8 +19,6 @@ Who are your opponents?
 What are your policies, positions, and principles?
 What does victory look like to you?
 Watch the episode now , and please consider liking, commenting, and sharing!
-Leave a Reply Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
 Interview with Larry Sharpe!
 Independence Party Nominates Andrew Cottingham as Candidate!

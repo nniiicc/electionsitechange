@@ -18,21 +18,14 @@ Parental Rights Advocate to stop government and school interference with parenta
 This is a key issue in the political campaign led by Nate Marsh for the Highlands Ranch community.
 Support Nate for House District 43 Your support and contributions will empower Nate Marsh's political campaign to ensure that Colorado House District 43, which includes Highlands Ranch, remains safe and affordable.
 Mail checks to- Nate For Colorado PO Box 324 Fort Lupton, CO 80621 Contribute Contact Us Let Nate Know What is Important to You!
-First Name* Last Name* Email* Phone By providing your phone number and checking this box you are consenting to receive marketing contact Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-I grew up in Montana before moving to Highlands Ranch in middle school.
-I earned my Political Science degree from TCU in Texas and later obtained a law degree from the University of Maryland.
-During my time in law school, I worked at the Baltimore City State's Attorney Office, where I focused on prosecuting economic crimes.
-After returning to Colorado, I managed cases that ranged from DUIs to first degree murder, with a specialization in prosecuting sexual offenses against children.
-Since 2021, I have been part of the Family Violence Unit in Douglas County, where I prosecute domestic violence cases and advocate to end violence against women.
-My dedication to this cause earned me recognition as the Colorado District Attorney Council Faculty Member of the year for my training and advocacy efforts.
-Currently, I serve as a Senior Deputy District Attorney, standing with survivors and fighting against policies that favor abusers.
-As I prepare for my political campaign for Colorado House District 43 (HD43), I remain committed to making a difference in the lives of those affected by violence, and I will continue to advocate for change as Nate Marsh in this important race.
-By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Nate For Colorado.
+First Name* Last Name* Email* Phone By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Nate For Colorado.
 Message frequency varies.
 Message and data rates may apply.
 Text HELP for help.
 Text STOP to unsubscribe.
 Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated, we don't sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
+By providing your phone number and checking this box, you are consenting to receive marketing.
+Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Click here to view our privacy policy.
-Connect With Nate Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein Copyright © # Nate for Colorado - All Rights Reserved.
+Connect With Nate Privacy Policy Paid for by Nate for Colorado Registered Agent Marge Klein NATE@NATEFORCOLORADO.COM Copyright © # Nate for Colorado - All Rights Reserved.

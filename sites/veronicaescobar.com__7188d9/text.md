@@ -15,7 +15,7 @@ Rep.
 Veronica Escobar is attempting to do something that hasn’t been done for decades – sponsor bipartisan immigration reform legislation through a bitterly divided Congress.
 Keep Reading 'It Is Our Job To Fix It!': Veronica Escobar Blasts Tim Burchett Over Response To Nashville Shooting During a press conference this week, Rep.
 Veronica Escobar (D-TX) spoke against gun violence and slammed Rep.
-Tim Burchett’s response to the Nashville shooting Keep Reading PHOTOS: Campaign for Veronica Escobar- June 28, 2023 – Later, Later in El Paso, Texas Campaign for Veronica Escobar- June 28, 2023 – Later, Later in El Paso, Texas Photo by www.jonflemingphotography.com From teacher, to commissioner, to county judge, to Congresswoman: Meet Veronica and her decades-long fight for progress in El Paso.
+Tim Burchett’s response to the Nashville shooting Keep Reading PHOTOS: Campaign for Veronica Escobar- June 28, 2023 – Later, Later in El Paso, Texas Photo by www.jonflemingphotography.com Campaign for Veronica Escobar- June 28, 2023 – Later, Later in El Paso, Texas From teacher, to commissioner, to county judge, to Congresswoman: Meet Veronica and her decades-long fight for progress in El Paso.
 Meet Veronica REGISTER TO VOTE HERE CHECK YOUR REGISTRATION Join Sign up for Veronica’s personal newsletter.
 Organize Help us connect with our community by volunteering.
 Donate Make a difference by helping fund our campaign.

@@ -1,9 +1,9 @@
-Skip navigation menu Home Meet Caitlin Issues News Volunteer Yard Signs DONATE Army Veteran.
+Skip navigation menu Home Meet Caitlin Issues News Volunteer DONATE Army Veteran.
 Mom.
 Service over self.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your mobile number, you agree to the terms & privacy policy for recurring campaign messages from Caitlin Rourk For Congress to the phone number you provide.
 Message and data rates may apply.
-Home Meet Caitlin Issues News Volunteer Yard Signs DONATE Army Veteran.
+Home Meet Caitlin Issues News Volunteer DONATE Army Veteran.
 Mom.
 Service over self.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your mobile number, you agree to the terms & privacy policy for recurring campaign messages from Caitlin Rourk For Congress to the phone number you provide.

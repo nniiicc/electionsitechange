@@ -1,6 +1,6 @@
 top of page About Support Us News Contact Donate More...
 Use tab to navigate through the menu items.
-DONATE All Posts Search New York's 'voice for small business' names O’Mara 2026 ‘Guardian of Small Business’ omaranysenate #ago 2 min read I take great pride in being a strong and steady voice in the state Legislature for our small, independent business owners.
+DONATE All Posts Search New York's 'voice for small business' names O’Mara 2026 ‘Guardian of Small Business’ omaranysenate Oct 6 2 min read I take great pride in being a strong and steady voice in the state Legislature for our small, independent business owners.
 Small business is the economic lifeline for thousands of local workers.
 Elmira, N.Y., October 5— New York’s leading voice for small and independent businesses, the National Federation of Independent Business of New York State (NFIB/NY), has named State Senator Tom O’Mara (R,C-Big Flats) an NFIB/NY 2026 “Guardian of Small Business.” NFIB/NY represents 11,000 small and independent businesses regionally and statewide.
 According to the group, the Guardian Award “is the most prestigious honor that the National Federation of Independent Business (NFIB) bestows on legislators in recognition of their efforts to support pro-small business policies and their stalwart advocacy in Albany on behalf of small and independently owned companies.” O’Mara is one of only five state senators receiving the Guardian Award in 2026.

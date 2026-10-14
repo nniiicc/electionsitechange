@@ -1,8 +1,4 @@
-About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate Your Page Header Title Join Now Jun 09, 2026 0 min read Other Platform Policies: Let's get into the nitty-gritty.
+About Policies Volunteer Donate About Policies Volunteer Donate Your Page Header Title Join Now Jun 09, 2026 0 min read Other Platform Policies: Let's get into the nitty-gritty.
 Click here for the main platform.
 Artificial Intelligence (AI) Donald Trump and huge swathes of the political right in this country are directly supported by (and therefore under the control of) ultra-wealthy technocrats who want nothing more than to endlessly de-regulate AI, the largest venture capital market on the planet.
 Washington must fight back, and we are actually in a unique position to do so: Washington is a geographic epicenter for the entire global tech industry.

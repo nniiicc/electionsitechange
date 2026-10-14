@@ -2,7 +2,16 @@ Home About Becky Contact Issues News Volunteer Donate Endorsements FAQ Endorseme
 Sheriff Tony Harris Endorses Rep Becky Cash for protecting public safety Becky Cash For Indiana We’re shining a light on the lawmakers who secured wins for Hoosier families during the 2026 General Assembly.
 Our Legislative Conservation Champions series celebrates leaders like Rep.
 Becky Cash for her work on clean air, safe water and affordable energy.
-(ICV does not endorse candidates, but they recognize them as Champions for the work they do on environmental issues.) Indiana Conservation Voters Indiana Ironworkers PAC Based upon our organization’s observations, we are pleased to inform you that you are rated by our organization as well qualified to hold the office you seek.
+(ICV does not endorse candidates, but they recognize them as Champions for the work they do on environmental issues.) Indiana Conservation Voters Indiana Ironworkers PAC On behalf of the Hendricks County Professional Firefighters PAC, and in collaboration with the Professional Firefighters Union of Indiana (PFFUI), I am proud to endorse your re-election campaign for House District 25.
+Your dedication to our community is evident in your advocacy for health, education, and overall well-being.
+Your work in supporting children with special needs and their families highlights your compassionate leadership.
+Your balanced approach to improving public education and supporting school choice ensures that every child receives the best opportunities.
+Additionally, your involvement with numerous charitable organizations reflects your genuine commitment to service.
+We appreciate your holistic approach to healthcare and your support for families exploring various medical options, aligning with our values of safety and well-being.
+We believe your re-election will continue the progress and uphold the values that our members appreciate in District 25.
+We are proud to support you and look forward to seeing your continued positive impact on our community.
+Thank you for your dedication and leadership.
+Sincerely, David Brock President, Local 4406 Hendricks County Professional Firefighters PAC Hendricks County Professional Firefighters PAC Based upon our organization’s observations, we are pleased to inform you that you are rated by our organization as well qualified to hold the office you seek.
 I am also pleased to award you our endorsement in the forthcoming general election.
 Throughout your current term as Indiana HD 25 representative, you have been a great asset to public safety.
 Throughout your current term, you have supported many of the issues facing our firefighters, EMT’s and Paramedics.

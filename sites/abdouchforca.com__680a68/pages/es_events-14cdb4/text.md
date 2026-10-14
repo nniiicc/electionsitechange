@@ -1,7 +1,8 @@
 Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Eventos de Campaña Acompañe a Greg Abdouch en su Recorrido Manténgase informado sobre asambleas comunitarias, mítines, charlas de café y foros públicos.
 Encuentre un evento en el Distrito 45 de la Asamblea de California y haga escuchar su voz.
 Próximo Calendario Manténgase al día con los últimos eventos y asambleas de la campaña.
-Reciba Alertas de Eventos OCT 15 Verdimont DNA Meeting jueves, 15 de octubre de 2026 • 6:00 p.m. - 9:00 p.m.
+Reciba Alertas de Eventos OCT 15 DNA meeting jueves, 15 de octubre de 2026 • 11:45 a.m. - 1:30 p.m.
+The Mexico Cafe India Clay Oven Cómo llegar OCT 15 Verdimont DNA Meeting jueves, 15 de octubre de 2026 • 6:00 p.m. - 9:00 p.m.
 1725 Northpark Blvd Cómo llegar OCT 16 Golf Tournament- Ballots, Birdies and BBQ viernes, 16 de octubre de 2026 • 7:00 a.m. - 4:00 p.m.
 Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Cómo llegar Detalles e Inscripción al Evento OCT 17 IE Live Marketnite Fall Festival sábado, 17 de octubre de 2026 • 10:00 a.m. - 3:00 p.m.
 2450 Blake St Cómo llegar Detalles e Inscripción al Evento OCT 17 Coptober - Redlands sábado, 17 de octubre de 2026 • 10:00 a.m. - 1:00 p.m.

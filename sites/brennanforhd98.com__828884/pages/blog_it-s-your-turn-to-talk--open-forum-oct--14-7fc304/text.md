@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 It's Your Turn to Talk: Open Forum Oct.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 It's Your Turn to Talk: Open Forum Oct.
 14 Oct 11, 2026 · By Cate B CB IT'S YOUR TURN TO TALK!
 Join us for an Open Forum on data centers, affordability, taxes, education, civil rights and more.
 Our candidates will answer your questions and listen to your concerns.

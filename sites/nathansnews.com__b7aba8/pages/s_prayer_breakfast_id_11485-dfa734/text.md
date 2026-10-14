@@ -12,9 +12,9 @@ First time at East Lake Community Church!
 For information past Prayer Breakfasts, […] Posted on September 2, 2020 REMINDER: 15th Annual Irmo Community Prayer Breakfast While the Okra Strut has been cancelled this year, Representative Huggins and I decided to continue this annual event for the community.
 Social distancing guidelines will be in place.
 Hope […] Posted on August 4, 2020 15th Annual Irmo Community Prayer Breakfast Once again, Representative Huggins and I are pleased to host the event we decided years ago would serve as the “unofficial kickoff to the Okra Strut”.
-We hope our sponsors […] Posts navigation Older posts Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+We hope our sponsors […] Posts navigation Older posts Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

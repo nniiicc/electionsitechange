@@ -1,4 +1,4 @@
-0 Skip to Content About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate USA Today Publishes Story About Ivan’s Run Media Coverage May 21 Written By Bruce Palmer Thanks to Cy Neff for writing a great story about Ivan’s candidacy.
+0 Skip to Content About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate USA Today Publishes Story About Ivan’s Run Media Coverage May 21 Written by Bruce Palmer Thanks to Cy Neff for writing a great story about Ivan’s candidacy.
 Here are some of Ivan’s words from the story: "I worked for the United States Forest Service in the Shoshone National Forest.
 And I was the only Indian there," the 64-year-old said.
 "I'm the only Indian, and it's named after us." "My ancestors were here before the State of Wyoming was even here.

@@ -1,9 +1,10 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/",
- "fingerprint": "b5b516059d25b5754640709793f7119988ac8e65",
+ "fingerprint": "7fd257608af411172e1d6aa9d20517e5656b1e51",
  "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
+ "rendered": false,
  "title": "Ned Lamont for Governor",
  "years_mentioned": [
   "2026"

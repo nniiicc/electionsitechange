@@ -1,4 +1,6 @@
-0 Skip to Content Home About About Cecelia About HD 4 Legislation 2026 2025 Endorsements Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home About About Cecelia About HD 4 Legislation 2026 2025 Endorsements Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: About Back About Cecelia About HD 4 Folder: Legislation Back 2026 2025 Endorsements Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE About House District Four House District 4 is made up of North and West Denver, between Federal and Sheridan and 52nd Ave in the North and Kentucky Ave in the South.
+0 Skip to Content Home About About Cecelia About HD 4 Issues Endorsements Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home About About Cecelia About HD 4 Issues Endorsements Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: About Back About Cecelia About HD 4 Issues Endorsements Folder: Legislation Back 2026 2025 Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE About House District Four What is House District 4?
+Colorado State House District 4 is one of Colorado’s 65 state legislative districts, represented in the Colorado House of Representatives at the State Capitol.
+House District 4 is made up of North and West Denver , between Federal and Sheridan and 52nd Ave in the North and Kentucky Ave in the South.
 Our district is made up of vibrant, historical neighborhoods like Berkeley, Sloan’s Lake and Regis in the North and Villa Park, Sun Valley, Barnum and Westwood on the West side.
 Home to diverse communities, amazing and unique food and drink, and extensive outdoor recreation, House District 4 showcases the historical charm, natural beauty and diversity of Denver.
 Check out our HD4 interactive map!
@@ -6,8 +8,6 @@ Welcome to the HD4 Interactive Community Map, your guide to discovering, support
 Browse local restaurants, cafés, breweries, parks, community spaces, and small businesses that help make House District 4 such a vibrant place to live, work, and visit.
 This map is designed to help residents connect with the people, places, and resources that strengthen our community.
 We encourage you to explore new neighborhoods, support local businesses, and discover all that HD4 has to offer.
-Coming soon, we'll also be featuring some of the outstanding local businesses and community gems that have been highlighted in Cecelia’s newsletter.
-Stay tuned for a curated collection of places that showcase the best of House District 4 and make our district a great place to call home.
 Planning to vote?
 Look for the red pinpoints on the map, which identify official voting centers and ballot drop-off locations available to HD4 residents during elections.
 Whether you're voting in person or returning your ballot, these markers make it easy to find a convenient location near you.

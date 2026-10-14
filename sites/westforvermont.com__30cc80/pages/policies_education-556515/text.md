@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Education Every Vermont child deserves a great education, no matter their ZIP code.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Education Every Vermont child deserves a great education, no matter their ZIP code.
 Our schools are at the heart of our communities, but families are also telling us clearly that the way we pay for education isn’t sustainable.
 We need to improve affordability without weakening our schools or forcing every community into the same model.
 That means protecting what works and changing what doesn’t.

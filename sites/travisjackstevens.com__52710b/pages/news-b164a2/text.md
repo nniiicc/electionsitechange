@@ -3,7 +3,7 @@ Senate.
 His name won't be on the ballot — write it in on November 3, 2026.
 How to Vote → News & Updates — Travis Jack Stevens for U.S.
 Senate Travis Jack Stevens for U.S.
-Senate News & Updates Campaign dispatches, policy positions, and updates from the trail across all 44 Delaware towns 0 posts No posts yet This blog is ready to go!
+Senate News & Updates Campaign dispatches, policy positions, and updates from the trail across all 44 Delaware towns # Delaware # write-in # November 3 # Travis Jack Stevens # Iran # accountability # Hormuz # forever war 0 posts No posts yet This blog is ready to go!
 Posts will appear here once they're created.
 Daily Letters from the Trail Get the Truth in Your Inbox Every Morning Every day at 9 AM, Travis writes directly to supporters — no spin, no Super PAC talking points.
 Just honest dispatches on healthcare, war, energy prices, and what's actually happening in Washington.

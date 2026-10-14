@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Data Centers #Utilities #District 157 #Energy Policy #Tattnall County The Complete Guide to Data Centers in Georgia: Directory, Grid Economics, and Hydrology September 14, 2026 9 min read By Micah King An aerial view of Meta's Stanton Springs Data Center on Wednesday, Sept.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Data Centers #Utilities #District 157 #Energy Policy #Tattnall County The Complete Guide to Data Centers in Georgia: Directory, Grid Economics, and Hydrology September 14, 2026 9 min read By Micah King An aerial view of Meta's Stanton Springs Data Center on Wednesday, Sept.
 3, 2025, in Newton County, Ga.
 (Photo: Katie Tucker / The Telegraph) Table of Contents • Comprehensive Directory of Georgia Data Center Campuses • Power Grid Economics and the Ratepayer Burden – 1.
 The Load Forecasting Escalation – 2.

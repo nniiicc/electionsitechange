@@ -4,9 +4,9 @@ We will gather to remember the nearly 3,000 innocent lives lost, honor the firef
 During our ceremony, we will remember the significant moments of that morning, toll the bell in remembrance, and lower our Nation’s flag to half-staff.
 Friday, September 11, 2026 ⏰ 8:30 a.m. 📍 Chapin American Legion Post 193 230 Amicks Ferry Road, Chapin, SC We invite our entire community to stand with us as we remember those we lost and honor those who answered our Nation’s call.
 Twenty-five years later, our promise remains the same: 🇺🇸 WE WILL NEVER FORGET.
-Chapin American Legion Post 193 Veterans Strengthening America Share Post navigation Dominion Energy to begin Lake Murray draw down this fall Chapin Labor Day Parade (video) Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Chapin American Legion Post 193 Veterans Strengthening America Share Post navigation Dominion Energy to begin Lake Murray draw down this fall Chapin Labor Day Parade (video) Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

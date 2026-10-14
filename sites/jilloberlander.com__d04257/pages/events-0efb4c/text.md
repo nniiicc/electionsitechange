@@ -1,28 +1,18 @@
-About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 8 events found.
+About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 6 events found.
 Events Views Navigation Event Views Navigation List List #ago Upcoming Upcoming Select date.
-October 2026 Sun 11 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
+October 2026 Wed 14 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
 Join us!
 No experience necessary.
 We will train you and pair you up.
 Questions?
 Reach out to Jack@JillOberlander.com.
 Sign up to door knock here.
-Pick the times and locations that work for […] Sun 11 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
+Pick the times and locations that work for […] Wed 14 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
 Join our virtual phone bank: weekdays 4-6 pm.
 No experience necessary.
 We will train you and provide support.
 Sign up here.
 Pick the dates and times that work for you.
-Questions?
-Reach out to Jack@JillOberlander.com.
-Sun 11 Door knock in Stamford October 11 @ 1:00 pm – 4:00 pm Knock doors in Stamford with Mayor Caroline Simmons and CT Senate Democrats.
-Meet in Scalzi Park, 97 Bridge Street in Stamford.
-Reach out to Jack for more details.
-Sun 11 Sunday phone bank October 11 @ 2:00 pm – 4:00 pm Help Jill make calls and reach voters across the district.
-No experience necessary.
-We will train you and provide support.
-This is a virtual event.
-Sign up here.
 Questions?
 Reach out to Jack@JillOberlander.com.
 Sat 17 Door knocking in Greenwich October 17 @ 4:00 pm – 6:00 pm Come help us reach voters.

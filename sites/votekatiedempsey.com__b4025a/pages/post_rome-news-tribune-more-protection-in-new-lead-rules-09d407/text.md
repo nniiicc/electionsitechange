@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rome News-Tribune: More Protection in New Lead Rules Katie Dempsey May 11, 2022 2 min read By Olivia Morley Legislation signed into law this past week provides stricter guidelines for detecting lead poisoning in young children in Georgia.
+Donate All Posts From Katie News Search Rome News-Tribune: More Protection in New Lead Rules Katie Dempsey May 11, 2022 2 min read By Olivia Morley Legislation signed into law this past week provides stricter guidelines for detecting lead poisoning in young children in Georgia.
 During this past session, state Rep.
 Katie Dempsey, R-Rome, sponsored a bill that lowered the allowable lead poisoning levels in children from 20 deciliters to 3.5 deciliters.
 The level is now consistent with guidance from the Centers for Disease Control and Prevention.

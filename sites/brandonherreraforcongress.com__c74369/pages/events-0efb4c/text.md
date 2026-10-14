@@ -9,7 +9,12 @@ More Info Town Hall 21 Oct Maverick County Town Hall – Maverick County Lake Pa
 Hear Brandon’s message and bring your questions!
 More Info Town Hall 22 Oct Maverick County Town Hall – Mi Ranchito 12:00 PM - 1:00 PM CST Join Brandon Herrera for a town hall at Mi Ranchito in Eagle Pass.
 Hear Brandon’s message and bring your questions!
-More Info Town Hall 24 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST Join Brandon Herrera, Texas Congressional District 23 Republican Nominee, for a Sign Wave + Sign Pickup at Black Rifle Coffee in San Antonio, TX.
+More Info Town Hall 23 Oct Trunk or Treat 5:00 PM - 7:00 PM CST Join Brandon Herrera for Congress at Buck and Doe’s for a FREE family fun event!
+Enjoy candy, games, food, prizes, and more.
+Decorate your vehicle, wear your best costume, and help create a fun Halloween for local families.
+Enter your decorated vehicle at brandonherreraforcongress.com/trunkortreat.
+The deadline to register is October 21.
+More Info Other 24 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST Join Brandon Herrera, Texas Congressional District 23 Republican Nominee, for a Sign Wave + Sign Pickup at Black Rifle Coffee in San Antonio, TX.
 Every Saturday, 10–11 AM.
 Grab a yard sign, meet the team, and help wave signs.
 More Info Volunteer Event 24 Oct Bexar County Town Hall – Mission Ridge Range & Academy 2:00 PM - 3:00 PM CST Join Brandon Herrera for a town hall at Mission Ridge Range & Academy in San Antonio.

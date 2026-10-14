@@ -146,4 +146,4 @@ Federal funding to control these threats is unreliable at best.
 Michigan needs to protect itself, and work with the other Great Lakes states and provinces to control invasive plants and animals.
 Work across party lines to evaluate PA233 (renewable energy storage and siting) and improve transparency in the permitting process.
 We need more transparency and space on this issue.
-Ask Chris A Question Chris Kleinjans for Michigan Senate District 31 Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422
+Ask Chris A Question Chris Kleinjans for Michigan Senate District 31 Facebook Instagram YouTube TikTok Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422

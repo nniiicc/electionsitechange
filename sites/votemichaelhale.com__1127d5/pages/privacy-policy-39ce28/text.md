@@ -29,7 +29,7 @@ Security This Site takes reasonable measures to help protect information about y
 Your Choices Cookies Updates and Other Communications You may opt out of receiving updates from SITE by specifically opting out at the time you provide your contact information.
 You may also opt out of receiving text messages, updates and newsletters from SITE by following the instructions in those emails or text messages.
 If you opt out, we may still send you other types of emails, such as those about your use of the Site or transactions.
-Contact Us If you have any questions about this Privacy Policy, please contact us using the contact page.
+Contact Us If you have any questions about this Privacy Policy, please contact us at 615.464.0518 or email contact@votemichaelhale.com.
 Follow Michael Hale Sign Up For Updates newsletter Name: Email: Thank you for contacting us.
 We will get back to you as soon as possible.
 Oops, there was an error sending your message.

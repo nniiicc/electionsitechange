@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Terms & Conditions Last Updated: June 17, 2025 PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Terms & Conditions Last Updated: June 17, 2025 PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
 BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
 These Terms of Service ( “Terms” ) apply to your access to and use of the websites, mobile sites, Team JB Updates, and other online offerings (collectively, the “Site” ) provided by JB for Governor (the “Campaign,” “we,” or “us” ) that link to these Terms.
@@ -103,4 +103,4 @@ By submitting your mobile phone number you are agreeing to receive periodic text
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Judicial Watch: Fighting for Election Integrity July 21, 2026 In the fight for election integrity, Judicial Watch continues to notch voter-friendly victories across the country.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Judicial Watch: Fighting for Election Integrity July 21, 2026 In the fight for election integrity, Judicial Watch continues to notch voter-friendly victories across the country.
 In California, Judicial Watch sued the state for failing to maintain accurate voter rolls—a requirement of the National Voter Registration Act.
 The law requires the removal of most inactive voter registrations after two general elections.
 The numbers are astonishing.

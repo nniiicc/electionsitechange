@@ -12,6 +12,12 @@ I know what it’s like to stretch a paycheck, to sit at the kitchen table runni
 That’s not a campaign story I rehearsed.
 That’s Tuesday.
 And it’s the same life most families across Illinois’ 2nd District are living.
+A number of years ago, my wife and I were driving when the news came on and got me worked up.
+She looked at me and said, “Instead of complaining about it, why don’t you do something about it?” I just looked at her.
+I’m nobody.
+We don’t have money.
+Who am I?
+How am I going to make a difference?
 I never planned to run for Congress.
 I’m a trucker, not a politician.
 I always figured somebody more qualified would step up and fight for us.

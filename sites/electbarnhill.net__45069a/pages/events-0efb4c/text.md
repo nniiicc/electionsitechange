@@ -77,13 +77,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 12, 2026 I'll be in Reno from 10/12 to 10/20!
-October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
-Cost $37–$42.
-Location: Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436.
-Check sparksrepublicanwomen.com for tickets/RSVP.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 13, 2026 7:00 pm - 10:00 pm See more details October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
+See more details 26 27 28 29 30 31 October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
 Weekly Constitution education series hosted in connection with Washoe County Republicans.
 See more details I'll be in Reno from 10/12 to 10/20!
 October 14, 2026 7:00 pm - 10:00 pm See more details October 15, 2026 I'll be in Reno from 10/12 to 10/20!
@@ -209,13 +203,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 12, 2026 I'll be in Reno from 10/12 to 10/20!
-October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
-Cost $37–$42.
-Location: Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436.
-Check sparksrepublicanwomen.com for tickets/RSVP.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 13, 2026 7:00 pm - 10:00 pm See more details October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
+See more details 26 27 28 29 30 31 October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
 Weekly Constitution education series hosted in connection with Washoe County Republicans.
 See more details I'll be in Reno from 10/12 to 10/20!
 October 14, 2026 7:00 pm - 10:00 pm See more details October 15, 2026 I'll be in Reno from 10/12 to 10/20!
@@ -264,6 +252,6 @@ Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
 See more details footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

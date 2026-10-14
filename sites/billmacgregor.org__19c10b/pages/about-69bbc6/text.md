@@ -6,5 +6,6 @@ Bill’s grandfather was a Brookline Fire Fighter and heroically died in the lin
 Bill's brother is a Brookline Fire Lieutenant and a member of Brookline Firefighters Association Local 950.
 His late Uncle Thomas “Harry” was a Brookline Police Officer.
 Bill spent a decade in the private sector before going to City Hall and serving as Chief of Staff to City Councilor Matt O’Malley, working closely with residents, community-based organizations, and local charities to solve problems and improve the quality of life in our neighborhoods.
-Bill has played an integral role in most major community issues impacting the Parkway in the past ten years, from helping to Save the Irish Social Club to providing funding for Millennium Park. info@billmacgregor.org Click here to sign up for Rep.
+Bill has played an integral role in most major community issues impacting the Parkway in the past ten years, from helping to Save the Irish Social Club to providing funding for Millennium Park.
+Click here to sign up for Rep.
 MacGregor's Newsletter! info@billmacgregor.org Paid for by the Committee to Elect Bill MacGregor

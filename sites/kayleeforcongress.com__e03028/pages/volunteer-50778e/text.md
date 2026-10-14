@@ -1,4 +1,4 @@
-0 Skip to Content Platform About About Kaylee District 1 Volunteer Events Videos Merch English Donate Open Menu Close Menu English Donate Platform About About Kaylee District 1 Volunteer Events Videos Merch Open Menu Close Menu Platform Folder: About Back About Kaylee District 1 Volunteer Events Videos Merch English Back Donate Volunteer with Kaylee This campaign isn’t about one person.
+0 Skip to Content Platform About About Kaylee District 1 Volunteer Events Videos GOTV Merch English Donate Open Menu Close Menu English Donate Platform About About Kaylee District 1 Volunteer Events Videos GOTV Merch Open Menu Close Menu Platform Folder: About Back About Kaylee District 1 Volunteer Events Videos GOTV Merch English Back Donate Volunteer with Kaylee This campaign isn’t about one person.
 It’s about all of us, and I truly cannot do this alone. ﻿ If you’ve ever felt that tug to step up, to be part of something bigger, this is your invitation.
 Volunteering is more than knocking doors or making calls.
 It’s building community.

@@ -1,4 +1,6 @@
-Campbell for Congress Home The Reality Who Am I The Plan Get Involved Campbell for Congress Home The Reality Who Am I The Plan Get Involved It's our Country, take a stand, break-up Starting January 3rd, 2027, the congressional office of the 1st District will be accessible to all Tennesseans.
+Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved It's our Country, take a stand, break-up Starting January 3rd, 2027, the congressional office of the 1st District will be accessible to all Tennesseans.
 It is more than needing our constituents, I want your engagement in the political process.
 By now, you should have recognized there is something missing from this appeal that you cannot avoid on a partisan candidate's site.
 There is no donate button.

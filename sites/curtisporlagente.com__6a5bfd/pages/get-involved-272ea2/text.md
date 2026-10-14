@@ -1,4 +1,4 @@
-0 Skip to Content En Español Press Releases Financial Disclosures About Do this together Open Menu Close Menu En Español Press Releases Financial Disclosures About Do this together Open Menu Close Menu En Español Folder: Press Releases Back Financial Disclosures About Do this together The seat at the table is already yours.
+0 Skip to Content En Español Press Releases Proposed Legislation Financial Disclosures About Do this together Open Menu Close Menu En Español Press Releases Proposed Legislation Financial Disclosures About Do this together Open Menu Close Menu En Español Folder: Press Releases Back Proposed Legislation Financial Disclosures About Do this together The seat at the table is already yours.
 Let's do this together!
 Por La Gente.
 For the People.

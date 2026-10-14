@@ -1,5 +1,5 @@
 Skip to content Meet Jeff Why I'm Running Issues Events Volunteer Contribute × Meet Jeff Why I'm Running Issues Events Volunteer Contribute Read Jeff's statement on the loss of Pierre Damas Bel and our Haitian community.
-Read the statement → Every community deserves a voice.
+Read the statement → Endorsed by Ohio Federation of Teachers Ohio Assoc. of Public School Employees Equality Ohio Ohio Pride PAC College Democrats of Ohio Ohio Democratic Party Every community deserves a voice.
 Sign up to join Jeff Givan's campaign to represent Allen and Northern Auglaize counties in the Ohio statehouse.
 JOIN THE CAMPAIGN FIRST NAME * EMAIL ADDRESS * ZIP CODE * SIGN UP Sign up for email updates from the Jeff Givan for Ohio campaign.
 We respect your privacy and will never sell or share your information.

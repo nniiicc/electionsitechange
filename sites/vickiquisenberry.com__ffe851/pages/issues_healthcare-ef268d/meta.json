@@ -1,9 +1,12 @@
 {
  "description": "Healthcare",
  "final_url": "https://vickiquisenberry.com/issues/healthcare",
- "fingerprint": "af173bd9bb2d528b5ef94816603207fb41875842",
+ "fingerprint": "0a537f9c7791c97c2d63dd95b6d10ab45341b04d",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Healthcare",
- "years_mentioned": []
+ "years_mentioned": [
+  "1965"
+ ]
 }

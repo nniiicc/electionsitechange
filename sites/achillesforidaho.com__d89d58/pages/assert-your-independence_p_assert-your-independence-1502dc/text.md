@@ -24,7 +24,7 @@ Contributions may not be made from the funds of corporations, labor organization
 Federal law limits contributions from individuals to $3,500 per election.
 By completing this purchase, you confirm this contribution is made from your personal funds.
 Paid for by Todd Achilles for Idaho.
-Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
-Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Saturday l 12pm - 4pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Monday - Friday l 11am - 6pm Saturday | 9am - 3pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Saturday l 11am - 2pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
 Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
 The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

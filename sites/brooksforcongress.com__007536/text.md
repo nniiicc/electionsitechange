@@ -2,7 +2,7 @@ Support Bob Brooks for Congress!
 Help us unite the Lehigh Valley and put out the dumpster fire in Washington.
 Make a donation today!
 Click an amount to get started.
-If you've saved your payment information with ActBlue Express, your donation will go through immediately. $5 $10 $25 $50 $100 Other Continue to Site Meet Bob Meet Platform Platform Endorsements Endorsements News News Voter Info Voter Info Volunteer Volunteer Donate Donate Meet Bob Platform Endorsements News Voter Info Volunteer Donate Washington, D.C. is on fire.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $5 $10 $25 $50 $100 Other Continue to Site En español Meet Bob Meet Platform Platform Endorsements Endorsements News News Voter Info Voter Info Volunteer Volunteer Donate Donate Meet Bob Platform Endorsements News Voter Info Volunteer Donate Washington, D.C. is on fire.
 Working people keep getting burned.
 Bob Brooks is a firefighter running for Congress to put the fire out and make Washington work for us.
 Bob has had a lot of jobs – bartender, landscaper, baseball coach, Teamster.

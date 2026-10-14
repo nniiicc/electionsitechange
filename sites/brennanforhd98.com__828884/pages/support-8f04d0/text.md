@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Donate: Invest in a Better Texas Running a competitive campaign in HD 98 requires financial resources, and your contribution helps us purchase yard signs, door hangers, text messages and even gas money.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Donate: Invest in a Better Texas Running a competitive campaign in HD 98 requires financial resources, and your contribution helps us purchase yard signs, door hangers, text messages and even gas money.
 Cate Brennan is committed to a people-powered campaign that puts families first—not corporate special interests.
 Your donation helps: Protect public schools from privatization and demand accountability Defend personal freedoms and civil rights Fight for affordable healthcare, housing, and childcare Promote transparency, fair elections, and ethical government Every contribution matters, whether it’s $10 or $250.
 Together, we can build a campaign that reflects our true Texas values of respect, diversity and personal freedoms.

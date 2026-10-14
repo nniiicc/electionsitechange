@@ -4,4 +4,5 @@ The proposal comes as residents of this district are already paying skyrocketing
 Tom strongly opposes Valley Link, and he is not waiting until he is in office to fight Valley Link.
 Over the past few months, Tom has been in the fight alongside residents and community groups, raising awareness and donations for efforts to Block Valley Link.
 Tom is prepared to use his office in Congress to help communities defeat this project.
-Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

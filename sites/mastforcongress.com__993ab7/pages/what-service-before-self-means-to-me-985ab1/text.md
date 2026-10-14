@@ -17,10 +17,9 @@ I was given another chance at life sixteen years ago.
 I intend to use every day of it fighting for the country I love and the community I am honored to serve.
 Help us finish the mission.
 Stand with me today and donate to defend Florida’s future.
-Related Posts: 56 Days.
+Related Posts: Seven Days.
 One Mission.
-September 7, 2026 TikTok BANNED.
-Let’s Talk About It… April 22, 2024 Our Freedom Of Speech January 19, 2021 8 Months Until Election Day March 9, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+August 9, 2026 Twenty Days To Win The Primary July 27, 2026 Exposed: Biden’s Shadow Diplomats February 25, 2021 Biden Keeps Claiming Credit For Trump’s Accomplishments August 8, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

@@ -1,5 +1,9 @@
 [
 {
+"text": "About",
+"href": "https://votezangari.com/about/"
+},
+{
 "text": "CLICK HERE TO DONATE",
 "href": "https://secure.actblue.com/donate/john-zangari-1"
 },
@@ -14,6 +18,10 @@
 {
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/john-zangari-1"
+},
+{
+"text": "Get Connected",
+"href": "https://votezangari.com/get-connected/"
 },
 {
 "text": "Home",
@@ -34,6 +42,14 @@
 {
 "text": "Volunteer Signup",
 "href": "https://votezangari.com/volunteer-signup/"
+},
+{
+"text": "Vote!",
+"href": "https://votezangari.com/vote/"
+},
+{
+"text": "Why John?",
+"href": "https://votezangari.com/why-john/"
 },
 {
 "text": "[email protected]",

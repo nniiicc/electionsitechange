@@ -4,13 +4,7 @@ Fires Resources Approachable to ALL.
 Accountable to YOU.
 I'm Julia Payne and I'm running as a Democrat for Washington State Representative Position 2 in Legislative District 6. ​ Let's have conversations, not arguments.
 I believe our elected officials should be approachable and accountable, so together we can make the tough conversations a little easier.
-Join the Newsletter Approachable to ALL.
-Accountable to YOU.
-I'm Julia Payne and I'm running as a Democrat for Washington State Representative Position 2 in Legislative District 6. ​ Let's have conversations, not arguments.
-I believe our elected officials should be approachable and accountable, so together we can make the tough conversations a little easier.
-Join the Newsletter Blog & Events UPCOMING: Julia at Inland Empire Nurses Association Legislative Dinner on October 14 at 5 PM Julia will be at the Inland Empire Nurses Association Legislative Dinner on October 14, 2026 #ago UPCOMING: Julia's Radio Interview with Spokane Public Radio and League of Women Voters on October 13, 2026 at 6 PM Julia will be at the Indigenous Peoples Day Celebration on October 12, 2026 #ago Julia at Indigenous Peoples Day Celebration on October 12, 2026 Julia will be at the Indigenous Peoples Day Celebration on October 12, 2026 #ago Julia at Trans-Forum on October 11, 2026 Julia will be speaking at the Trans-Forum on October 11, 2026 at 5 PM at St.
-John's Cathedral 127 E 12th Ave.
-#ago Hello Spokane.
+Join the Newsletter Blog & Events See All Blog Posts & Events UPCOMING: Julia at The Adult Family Home Council Candidate Forum on October 28 at 11:30 AM Julia at The Adult Family Home Council Candidate Forum on October 28, 2026 #ago UPCOMING: Last Fright Before Election Night on October 24 at 4 PM Last Fright Before Election Night on October 24, 2026 #ago UPCOMING: Julia's Towhall on October 19 at 6 PM Julia will be at a Townhall on October 19, 2026 #ago UPCOMING: Julia's Spooky Fundraiser on October 17 at 6 PM Julia's Spooky Fundraiser on October 17 at 6 PM #ago Hello Spokane.
 Wow, the last 13 days have been surreal.
 From marching in the Hillyard Hijinks parade to evacuating our home and then being so incredibly blessed to come home and find our place intact.
 I know there are so many that didn't have that happy ending, and please know that we are all here and wanting to help those who have lost things, big or small, your loss is valid and we want to help.

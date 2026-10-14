@@ -14,7 +14,7 @@ He works with pro-freedom groups both in the Second Amendment community and othe
 Brandon is a very strong constitutionalist who believes one of the keys to individual Liberty is limiting federal power as much as possible, and returning that power to the states to decide issues for themselves.
 Proudly Endorsed By President Donald J.
 Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Proudly Endorsed By President Donald J.
-Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Top Issues in TX-23 Live Results 1 Second Amendment 87 2 Border Security 81 3 Cost of Living (food, necessities, auto insurance) 76 4 Economy 60 5 Socialism 57 Texas's 23rd Congressional District Live in TX-23?
+Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Top Issues in TX-23 Live Results 1 Second Amendment 88 2 Border Security 82 3 Cost of Living (food, necessities, auto insurance) 77 4 Economy 61 5 Socialism 58 Texas's 23rd Congressional District Live in TX-23?
 We're Listening.
 Whether you've made it to a town hall or not, your voice belongs in this campaign.
 Tell us what matters most to you — and see what your neighbors are already saying.

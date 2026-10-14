@@ -18,7 +18,7 @@ During the 2026 General Session, she sponsored legislation dealing with road fun
 Utah Legislature.
 She has also served on Senate committees alongside Republican and Democratic legislators.
 A public record residents can see for themselves.
-View Emily's Record Emily Buss for Utah Senate District 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
+View Emily's Record FOLLOW EMILY ON INSTAGRAM @EMILYBUSSFORUTAH Emily Buss for Utah Senate District 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to receive news and updates.
 Email Address Sign Up Thank you!

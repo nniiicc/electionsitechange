@@ -1,5 +1,7 @@
 Jeremy 4 TN About Platform Events Voting Info Count Me In Subscribe Donate Independent for TN House District 23 Jeremy Bromwell A local farmer and small business owner running to listen first and bring people together across party lines to make life better for all of us in District 23.
-Early voting: Oct 14-29 Review hours and locations Check your registration and ID requirements at sos.tn.gov/elections Where would you like to start?
+Early voting: Oct 14-29 Review hours and locations Check your registration and ID requirements at sos.tn.gov/elections Why Unite for Progress To me, being your state representative means representing everyone in District 23, whether or not they agree with me.
+When we work together, we accomplish a whole lot more.
+Where would you like to start?
 Get to know Jeremy Where he came from and why he chose District 23.
 Why Jeremy's running Learn what he stands for, issue by issue.
 Already decided?

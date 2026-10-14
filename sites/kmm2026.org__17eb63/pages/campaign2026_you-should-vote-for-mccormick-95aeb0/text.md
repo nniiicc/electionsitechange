@@ -1,9 +1,10 @@
-A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Campaign-2026 You Should Vote For McCormick Details ( updated 8/4/26 ) It is risky for a candidate to express opinions on the issues.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Campaign-2026 You Should Vote For McCormick Details ( updated 10/12/26 ) See my interview on East Texas Today (KLTV/KTRE).
+It is risky for a candidate to express opinions on the issues.
 People have their own opinions and the Lieutenant Governor is not a dictator who issues decrees.
 My commitment is to serve the public interest and you should know my thinking on issues.
 Even if you disagree with positions I have expressed, you should still vote for me, Kevin McCormick for Lieutenant Governor.
 Our state government has been given over to special interests by the establishment parties and I want to restore the public interest as the priority.
-Understand that electoral politics is a gradual process and do not allow your vote to be taken for granted.
+A Lieutenant Governor who gives priority to the public interest will help you, even if you don't like everything he or she does.
 Have a strategy Think of voting as a strategic choice.
 We are told in the media to "vote your concience" or vote for one party to prevent the other party from being elected, that a vote for third-party candidates is a "wasted" vote.
 The first past the post electoral system favors establishment parties — whoever gets the most votes wins the election.
@@ -13,17 +14,19 @@ In the current electoral system, it takes only 3% of the vote for a third party 
 Far from a wasted vote, the third-party vote may actually change the direction and agenda of public policy.
 Regarding elections, it is said that doxa defeats episteme — confident ignorance defeats humble expertise (the Trump administration is our example of doxa).
 It is also said that the Overton Window —the range of acceptable ideas— is defined by campaign and media propaganda shaping public conciousness.
-By making the public interest a measurable priority this voting strategy can be very productive in our electoral system.
-The establishment parties do not really care about public opinion, but the do care deeply about public actions.
+By making the public interest a measurable priority voting for a Green Party candidate can be very productive in our electoral system.
+The establishment parties do not really need to care about public opinion, but they do care deeply about public actions.
 In other words: they don't believe what you say, but they believe what you do.
-My campaign is centered on the principal of serving the public interest using the measure of health —healthy people, healthy society, and healthy environment— so that state government policies can be evaluated by whether they support or degrade our health.
-I have not forgotten about the economy because I believe that making Texas a desirable place to live is the best way to maintain a strong economy.
-Voting for Kevin McCormick for Lieutenant Governor is a step outside the electoral corral and a statement that health matters and the voters have a measure to apply to government policies.
+That is why voting for me can have an impact on government policy.
+Voters will have demonstrated that they can and will vote outside the establishment party corral.
 There is also the idea of "winning" the election.
 The voters never win with the establishment parties .
 Voting for an establishment party means that you will not win.
 Voting for an establishment party is simply choosing which flavor of ruling class policies is the least bad; a negative vote.
 Voting for third party candidates is the way to say you are in favor of change in policies; a positive vote.
+My campaign is centered on the principal of serving the public interest using the measure of health —healthy people, healthy society, and healthy environment— so that state government policies can be evaluated by whether they support or degrade our health.
+I have not forgotten about the economy because I believe that making Texas a desirable place to live is the best way to maintain a strong economy.
+Voting for Kevin McCormick for Lieutenant Governor is a step outside the electoral corral and a statement that health matters and the voters have a measure to apply to government policies.
 The real issues are not on TV The most important political issues are about resources and money; not about identities or partisan rivalries.
 The media constantly reports on establishment party candidates while ignoring other voices.
 The media emphasizes identities and partisan rivalry, while neglecting or mis-reporting issues of resources and money.
@@ -43,8 +46,7 @@ Voting for me says you want improvements on these issues and a change in governm
 Whatever your opinion may be, the more votes for Kevin McCormick for Lieutenant Governor the more likely it becomes that the Texas state government will increase the priority of serving the public.
 Regards Next article: Help the Campaign Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
 Trusted by Texans.
-On the issues: A Q&A with U.S.
-Senate candidates James Talarico, Ken Paxton and Ted Brown Some Texas colleges get OK for new Workforce Pell that pays for job training U.S.
-Right to Know RSS Pursuing truth and transparency for public health Drug company gifts, meals, and payments to doctors lead to worse prescribing, review of 93 studies finds FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight Green Social Thought RSS Produce less.
+In competitive North Texas Senate race, GOP candidate sheds her “ultra MAGA” label Despite tough talk from Abbott and Paxton, Texas penalties for data center violations are light U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Drug company gifts, meals, and payments to doctors lead to worse prescribing, review of 93 studies finds Hormone-disrupting chemical mixtures linked to excess childhood weight Green Social Thought RSS Produce less.
 Distribute it fairly.
-Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS RESOURCE GUIDE: Tips to help households save energy and stay warm this winter Data center moratorium now Texas Farm Bureau RSS USDA announces 2027 Dairy Margin Coverage enrollment Beef checkoff, GO TEXAN expand market opportunities GLO, Texas A&M, TFB partner to support next generation of farmers
+Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS FedEx makes record-setting electric vehicle investment RESOURCE GUIDE: Tips to help households save energy and stay warm this winter Texas Farm Bureau RSS Collegiate Farm Bureau officers strengthen leadership skills at retreat USDA farm program payments total record $13.8 billion USDA announces 2027 Dairy Margin Coverage enrollment

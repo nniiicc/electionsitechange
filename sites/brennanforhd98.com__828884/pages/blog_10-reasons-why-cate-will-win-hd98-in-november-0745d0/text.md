@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 10 Reasons why Cate will win HD98 in November CB Jun 09, 2026 · By Cate B Much has changed in House District 98 since 2022.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 10 Reasons why Cate will win HD98 in November CB Jun 09, 2026 · By Cate B Much has changed in House District 98 since 2022.
 Here are the top 10 reasons why Cate Brennan will win in November 2026.
 But we really need your help.
 Cate's opponent spent $1.3 MILLION in the primary to beat his opponent (who spent an astounding $2 million).

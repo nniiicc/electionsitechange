@@ -1,6 +1,7 @@
 Skip to content Issues Our District Meet Saif Events Blog Contact Donate Join the Campaign Meet Us in District 9A Meet Dr.
 Rehman face to face, ask hard questions, and hear what an independent voice in Annapolis would actually do.
-Register to vote by October 13, 2026 Early voting October 22–29, 2026 Election Day Tuesday, November 3, 2026 Can't make an event?
+Not registered yet?
+Same-day registration Early voting October 22–29, 2026 Election Day Tuesday, November 3, 2026 Can't make an event?
 Join the campaign for updates.
 Fall events are being scheduled now New dates are coming soon Fall meet-and-greets and neighborhood canvasses are being scheduled.
 Join the campaign to hear when a date near you is published, or volunteer to host one.

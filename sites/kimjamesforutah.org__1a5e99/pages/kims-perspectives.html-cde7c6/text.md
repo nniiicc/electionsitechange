@@ -6,7 +6,7 @@ In recent times, we've seen the majority in Utah's Legislature lean more toward 
 Political leaders aren't elected to increase power or wealth for themselves or a select group of friends.
 They are elected to make sure that all the state's residents have access to the essentials of a decent life.
 As a follower of Jesus, Kim believes that good government must be like the Good Samaritan who took time and sacrificed resources to care for someone who was suffering.
-HAVING A WIDE VIEW Over four decades of serving congregations and communities and 65 years of life, Kim has seen a lot that has stretched her understanding of individuals and society.
+HAVING A WIDE VIEW Over four decades of serving congregations and communities and 66 years of life, Kim has seen a lot that has stretched her understanding of individuals and society.
 Her experience ranges from big cities to small towns, from agriculture to academia, from poverty to prosperity, from the happiness of 70th wedding anniversaries to the grief of divorce and death, from the celebrations of graduations and newborn babies to the agony of mental illness in families, from the horrors of homelessness to the joy of new homes.
 Because we are not all cut from the same cookie cutter, Kim believes that government should be flexible.
 All the state's residents deserve dignity, respect, and positive opportunities.
@@ -39,6 +39,9 @@ Let's stop and think!
 The MIDA Board that gave approval for the Stratos Project is an unaccountable and monstrously powerful entity created by the Utah Legislature.
 MIDA must be reined in.
 Utah needs a government that respects the will of the people.
+PUBLIC LANDS Many of us have chosen to live along the Wasatch Front and in the mountain benches and valleys because we love access to Public Lands--whether that be the Bonneville Shoreline Trail, Pineview & Causey Reservoirs, or the Mighty Five National Parks further south.
+We like our active outdoor lifestyle of hiking, skiing, camping, cycling, hunting, and fishing.
+We enjoy and need our connection to nature, and we don't want our opportunities to be taken away from us.
 HEALTHCARE Kim cares deeply about the affordability of healthcare for all Utahns.
 She was actively involved in 2018, when Utah's voters passed the proposition to accept federal dollars to expand Medicaid for more Utahns.
 While Utah's Republican leaders at that time resisted the expansion with all kinds of dire warnings, none of their fears have come true.

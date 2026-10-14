@@ -2,7 +2,8 @@ Home | About | Why | Mission Get Involved | News | Donate Donate Witta for Congr
 I'm running to restore integrity, transparency, and compassion to public service - and to return power to the voters of District 6.
 In His Own Words Straight From the Doorstep No consultants, no script.
 Hover to watch, click for sound.
-I Believe in America 85% from Outside District 6 Congressman and Rent / HOA Congressman Detached from the District Congressman Detached — Alternate Version Congressman with 100 Headlines, 0 on Rent Congressman with No Deductible — Short I Answer Only to You Invest in Young People This Is What I Stand For I'm Not a Politician Why a practicing oncologist decided to run as an independent.
+A Doctor, Not a Politician The Power Is in Your Hand Who Funds Jason Crow?
+CAP PAC and Jason Crow I Believe in America 85% from Outside District 6 Congressman and Rent / HOA Congressman Detached from the District Congressman Detached — Alternate Version Congressman with 100 Headlines, 0 on Rent Congressman with No Deductible — Short I Answer Only to You Invest in Young People This Is What I Stand For I'm Not a Politician Why a practicing oncologist decided to run as an independent.
 Three Thousand Signatures How neighbors across District 6 put this campaign on the November ballot.
 Trust What it means to answer only to the voters.
 Unity Democrat, Republican, independent - the same rising costs.

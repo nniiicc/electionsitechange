@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Environment & Climate Protecting Vermont means protecting both the place we love and the people who live here.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Environment & Climate Protecting Vermont means protecting both the place we love and the people who live here.
 Our forests, farms, rivers, mountains, and working landscapes are central to who we are.
 They support our economy, our communities, and the character of Vermont itself.
 Climate change is already affecting Vermont through stronger storms, flooding, infrastructure damage, and rising costs.

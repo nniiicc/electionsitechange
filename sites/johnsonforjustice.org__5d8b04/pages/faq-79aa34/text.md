@@ -27,7 +27,7 @@ Part 1 / Part 2 Judicial Elections vs.
 Appointments.
 Part 1 / Part 2 What is a law clerk?
 Part 1 / Part 2 How does the Supreme Court decide cases?
-Part 1 / Part 2 What is a court opinion?
+Part 1 / Part 2 / Video What is a court opinion?
 Part 1 / Part 2 What happens at oral argument?
 Part 1 / Part 2 The Color Ink Defense.
 Part 1 / Part 2 / Video Why so many courts?
@@ -44,6 +44,7 @@ When should a prior court decision be overturned?
 Do you go to church?
 What in your career prepared you best for the Supreme Court?
 Will there be a debate to help voters decide between the candidates?
+Am I less partisan than the incumbent, or just more subtle?
 Press Coverage and More Resources I’ve been interviewed several times throughout the campaign.
 I hope that this third-party coverage of the election helps you decide how to cast your vote.
 North Dakota Monitor, April 7: Watford City attorney to challenge Tufte for North Dakota Supreme Court seat Plain Talk ND, May 1: Video Interview KFGO, May 10: News and Views KFYR, May 14: Dakota Mornings with Michael Bell North Dakota Monitor, September 21: North Dakota Supreme Court races are nonpartisan, but Republicans play a big role Ballotpedia League of Women Voters, Vote411 What does “nonpartisan” mean?

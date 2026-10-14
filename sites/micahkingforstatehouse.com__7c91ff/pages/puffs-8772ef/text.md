@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight FUNDRAISER EVENT Puffs N Stuff & Politics Good snacks.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight FUNDRAISER EVENT Puffs N Stuff & Politics Good snacks.
 Good people.
 Good cause.
 Order Micah's Favorite 🍿 Each bag contributes $5.00 to the campaign Read the Story 🍿 Each bag contributes $5.00 directly to the campaign Founder, Destiny's Puffs & Stuff " “What started as a Christmas party snack became a business that took me to Super Bowl 57.

@@ -2,7 +2,7 @@ top of page hello@dowlingforassembly.com (920) 268-4734‬ Home WI Assembly Dist
 Rachael Dowling Writer Candidate for WI State Assembly, District 53 Follow More actions Profile Profile Join date: May 21, 2026 Posts (11) Oct 13, 2026 ∙ 8 min I Homeschool My Children | That Doesn't Mean I Don't Support Public Schools We all want our children to have opportunities to learn, grow, discover their strengths, and prepare for adulthood.
 We might organize our schedules differently or choose different educational environments, but that doesn't mean our goals are all that different.
 We just might take different paths to get there.
-0 0 Oct 4, 2026 ∙ 4 min There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Companies aren't just looking at inflation statistics.
+2 0 Oct 4, 2026 ∙ 4 min There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Companies aren't just looking at inflation statistics.
 They're watching what people actually do when the money runs out.
 Buy less.
 Wait longer.
@@ -14,7 +14,7 @@ You don't need to be an energy expert.
 You are the person paying the bill.
 That matters.
 Public comments for the WPS rate case are open through October 5, 2026.
-53 0 Sep 23, 2026 ∙ 4 min Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
+58 0 Sep 23, 2026 ∙ 4 min Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
 So Why Madison?
 I want District 53 to have someone there who approaches those problems the same way I've approached them here at home.
 Not by deciding what the answer is before asking the question.

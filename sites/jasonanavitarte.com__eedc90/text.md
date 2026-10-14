@@ -27,7 +27,7 @@ Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
 Go Jackets! 🐝 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Greg Bluestein @bluestein · 23h 2109647786719199394 “The number one responsibility of the governor is to make sure that our citizens are safe,” Gov.
+Anavitarte Retweeted ; Greg Bluestein @bluestein · 12 Oct 2109647786719199394 “The number one responsibility of the governor is to make sure that our citizens are safe,” Gov.
 Kemp says.
 “And this election, to me, is a clear contrast about who will do that, who will get in the trenches, who will stand shoulder to shoulder with local law enforcement and Twitter feed image.
 Twitter feed image.

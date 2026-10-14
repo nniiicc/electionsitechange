@@ -25,5 +25,5 @@ This race is one of the few statewide elections in the country where a third-par
 It is a rare opportunity for voters to safely send a message that they are ready to challenge the two-party monopoly and build something better.
 Pete’s campaign is organized, growing, and powered by everyday people who want to take politics out of the hands of the few and return it to the many.
 Vote Pete Karas for Secretary of State and help move Wisconsin toward a future where elections are fair, choices are real, and democracy works for everyone — not just the parties at the top.
-Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

@@ -3,6 +3,16 @@ Content will be updated when available.
 Please visit regularly as we take the ideas shared in the Primary using information gathered going door to door , reading and investigating to create solutions for our community.
 WROC-8 WROC-8 hosted a debate performing a vital public service so people can see who we are and what we support.
 Thank you WROC-8!!
+Three candidates.
+Only one who is discussing solutions, not kicking the ball down the road.
+We can make the changes to energy and healthcare that will directly enable us to improve education, food and housing.
+We have always only lacked the leadership.
+I am ready to do this with you.
+Please have a look at the information I have provided and join us at one of our Town Hall events.
+Thats right.
+A candidate holding Town Hall events.
+Sharing, listening, learning together.
+Thats how we get this done.
 Public Energy Join me, Carl Fitzsimmons, as the vision for a better future for our district takes shape.
 Born and raised in Sodus, living in Webster I understand the challenges faced by many in our community and am committed to fighting for fair wages, affordable healthcare, and a stronger economy.
 I am inspired by leaders the leaders who have come before me, from Abraham Lincoln to Dr.

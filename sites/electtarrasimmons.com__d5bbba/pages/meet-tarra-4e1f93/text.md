@@ -35,7 +35,18 @@ Why is Tarra's past important to her work?
 Tarra has experienced many of the systems she now works to change.
 Her connection to the experiences in the real lives of constituents empowers her work from healthcare and addiction treatment to incarceration, reentry, housing, and employment barriers.
 Her legislative work includes reforms addressing legal financial obligations, addiction treatment, behavioral healthcare, and reentry that deliver for families across Kitsap County and beyond.
-A Campaign that listens Your voice matters Whether you have a question, want to share an issue affecting your community, or want to let her know what matters most to you, she wants to hear from you. contact tarra Stay Connected to the Movement Tarra’s work has always been powered by people who believe in showing up, speaking up, and building a better Washington together.
+What is the status of tarra's ethics appeal?
+On August 14, 2026, the Washington State Legislative Ethics Board dismissed three allegations in the original complaint and found three violations, imposing a total of $15,000 in penalties, plus the state’s legal fees.
+The Board also affirmed Tarra’s compliance regarding the use of campaign funds.
+While it’s appreciated that the major allegations were dismissed, there’s disagreement with the remaining findings and an appeal was filed with Thurston County Superior Court on September 25, 2026.
+What happens next in the appeal process?
+The appeal will proceed through Thurston County Superior Court.
+The court will review the issues presented through that process.
+Tarra continues to respect the legal process while remaining focused on representing the people of the 23rd Legislative District.
+Why is Tarra appealing the ethics decision?
+“As a citizen -lawmaker, I am committed to seeking and adhering to all ethics guidelines in my conduct as a state representative.
+While I am pleased that the decision by the Ethics Board affirmed that I was in compliance regarding my use of campaign funds and dismissed three allegations in the original complaint, I am disappointed that key evidence and witness testimony was not acknowledged in their other findings.
+That’s why I appealed this decision to Thurston County Superior Court and continue to focus on fighting for the priorities of my constituents in reducing barriers to health care, promoting community safety, and combating the skyrocketing cost of living in our communities.” A Campaign that listens Your voice matters Whether you have a question, want to share an issue affecting your community, or want to let her know what matters most to you, she wants to hear from you. contact tarra Stay Connected to the Movement Tarra’s work has always been powered by people who believe in showing up, speaking up, and building a better Washington together.
 Follow along, get campaign updates, and stay connected to the people and ideas moving this work forward.
 Facebook Instagram Youtube Envelope REQUEST A YARD SIGN Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 Read our Privacy Policy and SMS Terms Home Tarra Endorsements Events Volunteer Contact Donate Land Acknowledgement Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
 The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.

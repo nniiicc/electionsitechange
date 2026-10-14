@@ -1,5 +1,4 @@
-Thank you District 34 for Turning Out!
-We won the Primary with 52.99%!!
+Early Voting Starts October 19 at 675 7th Ave Suite 200!
 Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Account sign in Sign in to your account to access your profile, history, and any private pages you've been granted access to.
 Sign in Reset password Not a member?
 Create account.

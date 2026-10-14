@@ -2,10 +2,7 @@ Skip to content Home About Alexi’s Priorities News In the News Contact Volunte
 “Alexi Giannoulias understands the importance of a strong public education system, spanning from pre-K to higher education, and is committed to supporting Illinois educators,” said Dan Montgomery, president of the organization and its more than 100,000 members.
 “The office of the secretary of state oversees libraries and how young people learn to drive.
 These are critical issues of importance to our membership,” Montgomery said in a statement.
-Keep Reading Related Posts Cook County Democrats endorse Alexi Giannoulias in secretary of state race The Cook County Democratic Party threw its support behind former Illinois Treasurer Alexi Giannoulias in the race to succeed outgoing Secretary of State Jesse White Keep Reading → Alexi Giannoulias backed by retiring U.S.
-Rep.
-Bobby Rush and supporters of Ald.
-Pat Dowell in bid for secretary of state SPRINGFIELD — Days after announcing he will step down from his congressional seat, veteran U.S.
-Rep.
-Bobby Rush announced Friday he will endorse Alexi Giannoulias Keep Reading → Giannoulias Receives Support from Key Suburban Lawmakers Villivalam, Hernandez, Pierog joins other Democrats from Aurora and Kane County in endorsing Giannoulias’ SOS bid Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Keep Reading Related Posts Campaign Ramping Up Politico’s Illinois Playbook reported today that our campaign for Secretary of State is ramping up with donations from a broad-based coalition that believes in our Keep Reading → Our View: Secretary of State’s Skip the Line program promises a real improvement in customer service.
+One of the reasons Democrat Jesse White held onto the Secretary of State’s office for so long is because of his outsize personality and likability.
+Keep Reading → Secretary of State Giannoulias Charges Coinbase in Groundbreaking Suit Illinois is among 10 states initiating legal actions against crypto exchange for violating securities laws Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

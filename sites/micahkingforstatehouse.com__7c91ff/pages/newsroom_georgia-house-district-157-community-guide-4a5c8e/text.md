@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Tattnall County #District 157 #Community #Rural Georgia Who Lives in Georgia House District 157?
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Tattnall County #District 157 #Community #Rural Georgia Who Lives in Georgia House District 157?
 A County-by-County Breakdown July 1, 2026 5 min read By Micah King Table of Contents • Tattnall County: The Heart of the District • Jeff Davis County: Where Family Farms Still Thrive • Appling County: Southern Georgia’s Quiet Strength • Evans County: Deep Roots, Strong Community • Candler County: Small Town, Big Heart • The District as a Whole Georgia House District 157 is one of the most geographically sprawling and culturally rich districts in Southeast Georgia.
 It stretches from the piney woods and farm roads of Jeff Davis County in the west, through the agricultural heart of Tattnall County, and east into Evans and Candler Counties.
 These are communities that share deep rural roots, a strong faith tradition, and a belief that hard work still means something.

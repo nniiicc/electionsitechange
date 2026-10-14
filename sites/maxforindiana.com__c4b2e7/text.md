@@ -1,4 +1,4 @@
-Register by Oct 5 · Early Voting Oct 6 · Election Day Nov 3 · Register to Vote / Check Status MAX ENGLING About Platform Endorse Yard Sign Request Volunteer Contact Donate Republican Nominee for Indiana Secretary of State MAX ENGLING For Indiana A new generation of Conservative leadership for the Hoosier State.
+Early Voting Oct 6 · Election Day Nov 3 · Find My Polling Place MAX ENGLING About Platform Endorse Media Yard Sign Request Volunteer Contact Donate Republican Nominee for Indiana Secretary of State MAX ENGLING For Indiana A new generation of Conservative leadership for the Hoosier State.
 Secure elections, honest business, and a government that works for you — not against you.
 Join the Campaign See the Platform Meet Max A Hoosier.
 A Father.
@@ -36,7 +36,7 @@ Election Integrity ensuring only U.S. citizens vote in Indiana elections - prote
 Transparency Portal a direct channel for citizens to report potential election issues themselves.
 Stop Business-filing Fraud Screen business filings to push back on shell companies that register identical LLCs to defraud customers, avoid regulation, and employ dangerous truck drivers on Indiana roads.
 Cut Red Tape slash onerous regulations on small businesses and streamline business services.
-Make Your Voice Heard Indiana General Election — Tuesday, November 3 Register to Vote By October 5 Early Voting Begins October 6 Election Day November 3 Register to Vote / Check Your Status Stand With Max Endorse Max Engling Add your name below and join a growing coalition of Hoosiers fighting for secure elections and a stronger Indiana.
+Make Your Voice Heard Indiana General Election — Tuesday, November 3 Early Voting Begins October 6 Election Day November 3 Find My Polling Place Stand With Max Endorse Max Engling Add your name below and join a growing coalition of Hoosiers fighting for secure elections and a stronger Indiana.
 Full Name * County * Title (optional) Email * Phone * Yes, I want to receive text message updates from Max for Indiana.
 Endorse Max By submitting, you agree to be listed as a public endorser of the campaign.
 By providing your mobile number you consent to receive texts from 360 Touch.
@@ -45,4 +45,4 @@ Message frequency may vary.
 Reply stop to end, help for help.
 You may receive informational messages, reoccurring marketing messages, and on-demand reply messages.
 Please visit our privacy policy and Terms & Conditions for more information.
-About Platform Endorse Volunteer Contact Privacy Terms Paid for by Max for Indiana Website Designed by Argo Strategy
+About Platform Endorse Media Volunteer Contact Privacy Terms Paid for by Max for Indiana Website Designed by Argo Strategy

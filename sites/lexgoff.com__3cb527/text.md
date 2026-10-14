@@ -1,6 +1,8 @@
 top of page Home About Lex Social Media Platform News Yard Signs Voter Education Donate LEX GOFF Currently - delivering yard signs!
 If you ordered a sign, it will be brought directly to your yard and installed!
-October 3, 2026 1:00 - Sumner Center to hear Dan Glickman and Katy Tyndall speak ​ ​ Order a yard sign or donate: ​ Register to Vote HAPPENING NOW Yard Sign Never voted before?
+October 24th, 2026 - FREE tacos with Lex!
+Swing by Bottoms Up 4:00-8:00pm 424 S.
+Washington, Wellington ​ Order a yard sign or donate: ​ Register to Vote HAPPENING NOW Yard Sign Never voted before?
 Not sure about your voter status?
 Check below!
 Donate Meet Lex Born and raised in Sumner County, Lex is a fourth generation Kansan, deeply integrated and invested in the region.

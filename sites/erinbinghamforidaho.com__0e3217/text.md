@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Erin Bingham For Idaho Menu About Erin Why I'm Running Contact Donate Expand Search Republican • Appointed by Governor Brad Little Erin Bingham For Idaho House • Currently Serving in the Idaho Legislature • Bonneville County District 32 Learn About Erin Get Involved Substack Articles YouTube Channel VOTE ERIN BINGHAM on Tuesday, May 19th Keep Idaho, Idaho.
+Skip to main content Skip to footer Erin Bingham For Idaho Menu About Erin Why I'm Running Contact Donate Expand Search Republican • Appointed by Governor Brad Little Erin Bingham For Idaho House • Currently Serving in the Idaho Legislature • Bonneville County District 32 Learn About Erin Get Involved Substack Articles YouTube Channel VOTE ERIN BINGHAM on Tuesday, November 3rd Keep Idaho, Idaho.
 Erin Bingham a small business owner, and your representative in the Idaho Legislature.
 She knows what it means to work for everything you have, and she's working to keep Bonneville County place where that work pays off.
 DONATE Fiscally Responsible As an Accountant and small business owner, Erin brings real-world financial accountability to the Legislature.

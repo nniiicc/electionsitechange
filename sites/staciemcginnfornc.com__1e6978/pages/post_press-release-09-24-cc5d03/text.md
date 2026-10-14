@@ -6,6 +6,6 @@ Woodson played a prominent role in the scheme as a Platinum Sales Manager, spoke
 At FHTM, Woodson sold vulnerable people a bill of goods and lined her pockets.
 Now, instead of taking responsibility, she absurdly claims she was ‘targeted’ by FHTM because she was a survivor of domestic abuse.
 Every voter needs to know the truth about Woodson Bradley: She lacks the character and experience to lead as a state senator in Raleigh.” You can read more about this in Andrew Dunn's Longleaf Politics and WFAE .
-WATCH "DON'T TRUST WOODSON BRADLEY" HERE Recent Posts See All WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT Stacie McGinn Slams Woodson Bradley for Missing Final Vote on “Iryna’s Law” in Second Digital Ad Stacie McGinn Highlights Education in her First Digital Ad ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
+WATCH "DON'T TRUST WOODSON BRADLEY" HERE Recent Posts See All Stacie McGinn Launched Newest Ad "The Only Choice" on Local TV WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT Stacie McGinn Slams Woodson Bradley for Missing Final Vote on “Iryna’s Law” in Second Digital Ad ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
 Like, follow, and share.
 PAID FOR BY STACIE MCGINN FOR NC SENATE bottom of page

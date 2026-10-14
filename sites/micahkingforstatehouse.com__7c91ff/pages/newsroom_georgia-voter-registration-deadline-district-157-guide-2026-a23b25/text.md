@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voter Registration #Elections #Appling County #Evans County #Jeff Davis County #Tattnall County #District 157 # Days Left: The 3-Minute Georgia Voter Registration & Status Audit for District 157 September 29, 2026 # min read By Micah King Table of Contents • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Voter Registration #Elections #Appling County #Evans County #Jeff Davis County #Tattnall County #District 157 # Days Left: The 3-Minute Georgia Voter Registration & Status Audit for District 157 September 29, 2026 # min read By Micah King Table of Contents • 1.
 The 3-Minute Registration & Status Audit • 2.
 Deciphering the “Inactive” Voter Myth – How List Maintenance Works (O.C.G.A. § 21-2-234 & § 21-2-235) – What to Do If You Are Inactive – The Rural Address Trap: P.O.
 Boxes vs.

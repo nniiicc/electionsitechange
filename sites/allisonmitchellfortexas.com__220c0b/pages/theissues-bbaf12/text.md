@@ -2,7 +2,7 @@
 She’s committed to standing up for working families, fully funding public schools, and delivering real results for House District 108.
 Allison believes every Texan deserves to live with dignity, safety, and equal opportunity.
 She’s focused on solving real problems and standing up for what matters: strong public schools , affordable healthcare , safe communities , and economic opportunity for all.
-Fully Funding Public Schools A proud public-school parent, Allison supports fully funding our public schools and keeping public taxpayer dollars in public school classrooms.
+Pledge to vote today Fully Funding Public Schools A proud public-school parent, Allison supports fully funding our public schools and keeping public taxpayer dollars in public school classrooms.
 She will hold voucher programs accountable and protect neighborhood schools from more funding cuts that could lead to larger class sizes and increased school closures in the district.
 She believes public taxpayer dollars should support public schools, not private schools and religious charter schools that are not held to the same accountability standards as our outstanding public schools.
 Property Tax Relief As a homeowner, Allison knows Texans need real property tax relief.

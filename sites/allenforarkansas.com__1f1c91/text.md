@@ -1,5 +1,5 @@
-top of page Home About Me Volunteer Events Vote More Use tab to navigate through the menu items.
-DONATE SUBSCRIBE A BRIGHTER FUTURE FOR ARKANSAS ( 479 ) 685- VOTE JOIN US!
+top of page Home About Me Volunteer Events Make a Plan to Vote Vote Blog More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Make a Plan to Vote A BRIGHTER FUTURE FOR ARKANSAS ( 479 ) 685- VOTE Make a Plan to Vote JOIN US!
 Take Part in Something Great DONATE Request a Yard Sign SUBSCRIBE "Together, we can make a real difference" My name is Jacob Allen, and I’m running to represent you in our state legislature.
 For eleven years, Bentonville has been the place my family proudly calls home, and we are grateful to be part of a community that values connection, hard work, and growth.
 Like many of you, I love being present in my kids' lives, and I've spent more evenings at Memorial Park coaching softball than I can begin to count.

@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate The community supports Joe Mayes for Texas House District 106!
 About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate The community supports Joe Mayes for Texas House District 106!
-Organizations VoteVets Texas AFL-CIO COPE Mothers Against Greg Abbott Texas Progressive Caucus National Democratic Redistricting Committee Young Democrats of Denton County Equality Texas Action National Association of Social Workers Texas Chapter (NASW-TX) TPACE (Texas Political Action for Candidate Election) Elected Officials Rep.
+Organizations VoteVets Texas AFL-CIO COPE Mothers Against Greg Abbott Texas Progressive Caucus National Democratic Redistricting Committee Young Democrats of Denton County Equality Texas Action National Association of Social Workers Texas Chapter (NASW-TX) TPACE (Texas Political Action for Candidate Election) Denton Together Elected Officials Rep.
 Gene Wu HD137 Chair, Texas House Democratic Caucus Eric H.
 Holder 82nd US Attorney General Testimonials "By electing these pro-democracy candidates [like Joe Mayes], up and down the ballot this year, Texans can prevent the threat of even more partisan and racial gerrymanders in the future.
 I’m proud to support these impressive candidates, who will fiercely advocate for every Texan’s rightful representation.

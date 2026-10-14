@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Guest User January 25, 2022 Rep.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Guest User January 25, 2022 Rep.
 Naquetta Ricks delivers remarks highlighting voting rights in honor of MLK Day Guest User January 25, 2022 Last year, Representative Ricks gave her first speech on the floor of the House of Representatives in honor of the the life and legacy of Dr.
 Martin Luther King Jr.
 This year, on January 14th, she delivered remarks in honor of Dr.

@@ -31,6 +31,5 @@ Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
 Yes, I'd like to make a difference by volunteering: Knock on Doors Make Calls Write Postcards Host an Event Post a Yard Sign Social Media Other Name * First Last City or Township Phone Number Email * Comments and Other Ways You'd Like To Help: Submit Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
 Rory believes that the true measure of a leader is in service to his community- which is why he is running for Iowa House.
-Contact Info info@taylorforhouse.com Campaign Updates National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
+Contact Info info@taylorforhouse.com Campaign Updates Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
 All Rights Reserved Scroll To Top

@@ -1,0 +1,11 @@
+0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll Oct 13 Written By Maura Keller By Ellie White-Stevens Only five percentage points separate Democratic congressional candidate Maura Keller and Republican incumbent Brian Jack in a new poll of likely voters in Georgia’s 3rd Congressional District, a considerably smaller margin than Jack’s victory over Keller in 2024.
+The survey, conducted October 2–7 by VoteNexus, found Jack receiving 50% of the vote, Keller receiving 45%, and 5% of respondents undecided.
+The five-point difference falls within the survey’s reported margin of error of ±5.6 percentage points.
+Read the Full Article on TheCitizen.com We recently sat down with Ellie White-Stevens of The Citizen to go over our platform and the state of the campaign.
+Read that and our recent poll breakdown on The Citizen!
+If you want to help support the campaign, make sure to leave a like and share this article around to spread our good news.
+Maura Keller Maura Keller stands for service, dedication, and progress.
+Born in South Weymouth, Massachusetts, and residing in Fayetteville, Georgia for 28 years, Maura's life has been a testament to the power of hard work and helping others.
+Next Next Brian Jack Takes Money From Pro AI PACs And Local Data Center Developers Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

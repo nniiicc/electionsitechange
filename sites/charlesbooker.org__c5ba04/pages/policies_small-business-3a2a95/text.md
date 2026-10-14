@@ -11,7 +11,7 @@ Expand access to affordable capital through SBA lending and community lenders, w
 Cut red tape and simplify federal paperwork for employers with fewer than 50 workers.
 Make it easier for small employers to offer health coverage through a public option.
 Stand up to corporate consolidation and junk fees that let giant chains undercut local businesses.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

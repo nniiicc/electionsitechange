@@ -1,7 +1,7 @@
 Chris Knoll Minnesota State Senate District 21 Home About Issues News Volunteer Donate Chris Knoll for Senate Chris Knoll is the CEO of Minnewaska Community Health Services and a licensed Department of Human Services provider with firsthand experience navigating state government systems.
 Stay Informed Sign up for campaign updates, event announcements, and ways to get involved across District 21.
 Email address Stay Updated By signing up, you agree to receive email updates from Knoll for Senate.
-Navigation About Chris The Issues Campaign Info Volunteer Connect © # Paid for by Knoll for Senate Committee.
+Navigation About Chris The Issues Campaign Info Volunteer Campaign Disclosures Connect © # Paid for by Knoll for Senate Committee.
 All rights reserved.
 Campaign Update Knoll Wins GOP Endorsement in Senate District 21 2026-03-30 · 2 min read · Chris Knoll has earned the Republican endorsement in Senate District 21, giving the campaign strong momentum heading into the general election.
 Knoll Wins GOP Endorsement in Senate District 21 Chris Knoll has earned the Republican endorsement in Minnesota Senate District 21, an important milestone for a campaign built on accountability, public safety, fiscal responsibility, and strong support for local families, farmers, and small businesses.

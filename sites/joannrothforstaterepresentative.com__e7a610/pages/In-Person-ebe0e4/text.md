@@ -1,4 +1,16 @@
-About Jo Ann Issues In Person On Video Donate In Person - Events Harbor Freight awards $2 million in cash prizes for 25 high school skilled trades teachers every year.
+About Jo Ann Issues In Person On Video Donate In Person - Events We had a wonderful evening at last night’s Martinis & Weenies fundraiser for the Museum of Ellinwood’s "Our Roof.
+Our History." campaign.
+Great food, good conversation, and time spent with people who care about fixing the leaky museum roof in order to preserve our community’s history.
+A big thank-you to everyone who came out to support the museum, and especially to the Historical Society members and Board volunteers who helped set up, prepare food, and clean up.
+These events take a lot of willing hands, and we’re grateful for every one of them.
+Together, we raised approximately $#!
+Combined with our $# grant from the Golden Belt Community Foundation, we're now at roughly $# toward protecting the museum and the history it holds.
+Thank you for being part of this effort.
+We have more work ahead, and we're grateful to be getting started with such wonderful support.
+If you’d like to contribute to the "Our Roof.
+Our History." campaign, donations can be mailed to the Ellinwood Community Historical Society 104 N Main St, Ellinwood, KS 67526.
+Please make checks payable to the Ellinwood Community Historical Society.
+Harbor Freight awards $2 million in cash prizes for 25 high school skilled trades teachers every year.
 The prizes are designed to shine a light on excellent skilled trades education and build a network of exceptional trades teachers.
 I was asked to be part of a believable cover story so that Adam Hewson would think the high school assembly was for a civic event and be surprised when the $75,000 grant prize was announced.
 Along with the two legislators from the area, I sent Kent in my place due to a scheduling conflict.

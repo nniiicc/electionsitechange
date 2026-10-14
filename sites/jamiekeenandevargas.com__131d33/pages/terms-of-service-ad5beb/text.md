@@ -1,8 +1,4 @@
-About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate About Policies Volunteer Town Hall (Oct.
-6th)!
-Donate Your Page Header Title Join Now Jun 10, 2026 0 min read Terms of Service You agree to receive informational messages and donation asks from Team Jamie Keenan-deVargas.
+About Policies Volunteer Donate About Policies Volunteer Donate Your Page Header Title Join Now Jun 10, 2026 0 min read Terms of Service You agree to receive informational messages and donation asks from Team Jamie Keenan-deVargas.
 Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP.

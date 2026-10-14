@@ -42,6 +42,7 @@ Darya Farivar State Rep.
 Joe Fitzgibbon State Rep.
 Zach Hall State Rep.
 Natasha Hill State Rep.
+Debra Lekanoff State Rep.
 Nicole Macri State Rep, Sharlett Mena State Rep.
 Timm Ormsby State Rep.
 Lillian Ortiz-Self State Rep.
@@ -49,6 +50,7 @@ Lisa Parshley State Rep. & Sno.
 Co.
 Councilmember Strom Peterson State Rep.
 Gerry Pollett State Rep.
+Alex Ramel State Rep.
 Julia Reed State Rep.
 Adison Richards State Rep.
 Shaun Scott State Rep.

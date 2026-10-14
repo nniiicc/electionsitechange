@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Hey, I’m Luke.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Hey, I’m Luke.
 I am running to be your voice in the Utah House I was born and raised in Wasatch County and grew up in the Heber Valley.
 I was raised by a village.
 Neighbors, teachers, coaches, and church leaders.

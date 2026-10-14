@@ -1,0 +1,3 @@
+Meet Andrew Issues Endorsements News Contribute Home ❭ Issues ❭ Homelessness Homelessness I will stop rewarding failure.
+Providers that demonstrate they can move people from the street to treatment, stability and lasting housing deserve our support.
+Organizations that repeatedly consume taxpayer dollars without producing measurable results should not receive an automatic renewal. « Previous: Education Next: Public Safety » Voter Information District Info (HD 20) Events Photos Contact Privacy Policy Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

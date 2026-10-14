@@ -2,4 +2,4 @@
 In the June primary election, Wicks received 81% of the vote to Rendón’s 10%.
 Borgar Solnordal, the race’s third Republican competitor, received 9% of the vote and did not advance to the November general election. ‘My number one priority, the reason why I’m campaigning, remains Medicare for all in California,’ Rendón told Bay Area News Group. ‘It’s just way overdue.
 It’s way past time to get it passed.’” Read the full article here: https://www.mercurynews.com/2026/09/23/wicks-rendon-november-election-2026/ .
-Sabina Ali Next Next Mark Rendón Receives Unanimous Endorsement from the Oakland Education Association Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026
+Sabina Ali Previous Previous A Statement from Boona Cheema on Why She Supports Mark Rendón for Assembly Next Next Mark Rendón Receives Unanimous Endorsement from the Oakland Education Association Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

@@ -79,6 +79,6 @@ The campaign’s fact pages: alaniformt.com/truth and alaniformt.com/rumors .
 11 press conference: NBC Montana More Jobs, Less Government spending: FEC, C00693838 ; the primary ads: Montana Free Press, May 26 The campaign’s May 21 release on dark money: PDF “Intended to boost Reilly Neill” and the dark-money network: Inside Elections, Aug.
 7 Progressive Vet PAC spending: FEC, C00948521 ; its treasurer now supports Bodnar: MTPR, Sept.
 24 “I absolutely think we should” codify Roe: NonStop Local interview, June 23 (41:30) NOW PAC endorsement: Daily Montanan, Sept.
-18 Montanans for Choice Take Action 2026 voter guide (13 of 13) ERA Coalition, Elect Equality guide The Planned Parenthood Action Fund calls: alaniformt.com/truth The full coaching episode (27:13): YouTube, Dec.
+18 Montanans for Choice Take Action 2026 voter guide, at-a-glance (13 of 13; full guide ) ERA Coalition, Elect Equality guide The Planned Parenthood Action Fund calls: alaniformt.com/truth The full coaching episode (27:13): YouTube, Dec.
 2025 Every rumor and attack on Alani this campaign, answered with sources: alaniformt.com/rumors DSCC transfers to the Montana Democratic Party: FEC receipts Bankhead asks Bodnar to leave the race: Daily Montanan, June 15 Bodnar’s campaign on her church: sethformontana.com, Sept.
 18 Every claim, answered → Press kit

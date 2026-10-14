@@ -5,7 +5,7 @@ He and his family are very active in their local church.
 When Mark and Barbara are not cheering on their grandchildren at basketball games, you’ll find them enjoying square dancing in the community.
 Mark, an owner of a small business which specializes in financial planning and insurance solutions, has multiple business locations throughout Tennessee.
 He is also a member of Gideon, Wilson County Chamber of Commerce, Wilson County Lion’s Club, DeKalb County Chamber of Commerce, Cannon County Chamber of Commerce, Private Pilot and the Rotary.
-Mark’s biblical values and family focus, along with his vast knowledge of economic issues, make him the ideal Senator for the 56th district.
+Mark’s biblical values and family focus, along with his vast knowledge of economic issues, make him the ideal Senator for the 17th district.
 Jobs We believe in creating an environment where businesses grow and hardworking Americans have access to stable, good-paying jobs.
 Transportation We support investing in safe, efficient infrastructure that keeps our communities connected and our economy moving.
 Traditional Values We stand for faith, family, personal responsibility, and the principles that have long been the foundation of a strong America.

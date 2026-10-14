@@ -18,5 +18,5 @@ When corporate interests are involved, the two-party system almost always finds 
 “Too often, headline-friendly policies hide the fact that the underlying system never changes.” Karas, running as a third-party candidate under the Wisconsin Green Party, said the initiative reflects his broader campaign message.
 “This is exactly why independent voices are needed,” he said.
 “When both parties repeatedly deliver the same outcomes of public cost and private gain, it’s time to challenge the system itself.
-The ‘Badger Grift and Spend’ Award is about calling that out, loudly and clearly.” Media Contact: Pete Karas Campaign www.petekaras.com 262-498-5021 Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+The ‘Badger Grift and Spend’ Award is about calling that out, loudly and clearly.” Media Contact: Pete Karas Campaign www.petekaras.com 262-498-5021 Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

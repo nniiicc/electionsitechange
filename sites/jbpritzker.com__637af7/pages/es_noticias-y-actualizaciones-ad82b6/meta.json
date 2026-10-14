@@ -1,13 +1,14 @@
 {
- "description": "{post_title} {post_date: M j, Y}",
+ "description": "{post_title} {post_date}",
  "final_url": "https://jbpritzker.com/es/noticias-y-actualizaciones/",
- "fingerprint": "35f22e3875dfe01d4123f115e1cbae75d7313e74",
+ "fingerprint": "93b3def83ea92d30fd18aff3b43497ca263d2025",
  "format": 3,
  "paid_for_by": "",
  "rendered": false,
  "title": "Noticias y actualizaciones - JB for Governor",
  "years_mentioned": [
   "2020",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

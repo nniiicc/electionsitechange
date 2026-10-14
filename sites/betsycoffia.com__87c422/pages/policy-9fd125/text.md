@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved A Better Michigan Starts With Better Policy.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved A Better Michigan Starts With Better Policy.
 We Need Policy Focused on We The People, not Corporations.
 Healthcare For All A human right not a luxury Healthcare is a human right not a luxury good like a yacht or a sports car.
 We need to join every other developed nation in providing healthcare and ensuring health care is enshrined as a human right.

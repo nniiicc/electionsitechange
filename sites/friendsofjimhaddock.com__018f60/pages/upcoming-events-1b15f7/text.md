@@ -3,19 +3,19 @@ Return to shop DONATE DONATE Upcoming Events Used for the like, share, comment, 
 Monday October 12th from 5:00 to 7:00 pm at Arcaro and Genell on 443 South Main St. in Old Forge Pa.
 The event is sponsored by The Lackawanna County Democratic Committee for District 118th.
 We hope to see you this Monday! ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 56 Shares: 11 Comments: 6 6 Comments Comment on Facebook Can I bring my wife and girlfriend?
-Lots of luck 💙 Good luck View more comments Honored to receive the Fraternal Order of Police Lodge #36 endorsement.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 58 Shares: 11 Comments: 6 6 Comments Comment on Facebook Can't make the meeting but we're with you, Sir.👍🏽 Good stuff You have my vote.
+View more comments Honored to receive the Fraternal Order of Police Lodge #36 endorsement.
 I have supported the law enforcement community since my time as Mayor of Avoca and continue that work as your State Representative.
 Action speaks louder words!
 I am proud to have help provide over two million dollars in grant funding for local police departments throughout the 118th District.
 This includes funding of thirteen police vehicles.
 I thank the members of Wyoming Valley Lodge #36 for recognizing my work on their behalf. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 91 Shares: 12 Comments: 9 9 Comments Comment on Facebook You have our Votes!!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 92 Shares: 12 Comments: 9 9 Comments Comment on Facebook You have our Votes!!
 Congratulations Congrats Jim View more comments Door to door is a great way to hear what is on the mind of my constituents.
 The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
 We now have hit doors in all nineteen towns in the 118th district.
 Now we start our second pass to even more doors.🚪 ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 217 Shares: 11 Comments: 31 31 Comments Comment on Facebook My vote is on you Jimmy 🙏.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 220 Shares: 11 Comments: 31 31 Comments Comment on Facebook My vote is on you Jimmy 🙏.
 Mine too Jim Your sign is already in my yard!
 Good luck, Jim.
 View more comments Agriculture is Pennsylvania’s biggest industry.

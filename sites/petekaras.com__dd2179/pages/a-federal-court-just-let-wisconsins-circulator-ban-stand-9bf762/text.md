@@ -27,5 +27,5 @@ That shouldn't be a controversial position." With the June 1 deadline closing in
 After June 1, the damage is done — you can't un-lose those signatures.
 If there's going to be relief, it has to come now." ABOUT PETE KARAS: Pete Karas is the 2026 Wisconsin Green Party candidate for Secretary of State, a Muskego resident, former Racine City Alderman, and former small business owner..
 His campaign is focused on ballot access reform, ranked-choice voting, and building a real alternative to two-party dominance in Wisconsin.
-Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

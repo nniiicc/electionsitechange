@@ -48,6 +48,7 @@ She has also worked to reduce the sales tax on groceries, recognizing the import
 For Dawn, tax reform is about fairness, freedom, and ensuring Tennessee families keep more of what they earn.
 Home About Issues Stay Connected Receive updates from Dawn White and join the team fighting for the conservative principles that make Tennessee strong.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Donations may be solicited.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

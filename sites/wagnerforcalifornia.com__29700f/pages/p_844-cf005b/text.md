@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Counting votes quickly and accurately are not mutually exclusive.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Counting votes quickly and accurately are not mutually exclusive.
 Here’s how California can do it By Don Wagner August 25, 2026 California is the home of the artificial intelligence boom, smartphones and some of the most valuable technology companies on earth.
 We have built systems that process billions of transactions in a second, sequence a human genome overnight and operate self-driving cars.
 Yet it wasn’t until July 10 that the state finally certified the results of its June 2 primary election.

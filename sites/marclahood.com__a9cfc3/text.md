@@ -6,66 +6,66 @@ Marc LaHood promised to deliver conservative results for HD 121 and Texas, and t
 Below you will find a comprehensive breakdown of the issues that conservative Republicans care about and how Rep.
 Marc LaHood was there every step of the way to get these priorities across the finish line.
 Read More Marc's Latest Posts Used for the like, share, comment, and reaction icons Rep.
+Marc LaHood #ago I had a great time yesterday helping prepare for the The 100 Club of San Antonio ’s Annual Spaghetti Dinner! 🍝 The 100 Club does incredible work supporting our first responders and their families by taking care of the brave men and women who protect our communities every day!
+You can support this great cause today and tomorrow by stopping by the Christopher Columbus Society at 201 Piazza Italia, San Antonio, TX 78207 for some delicious, homemade spaghetti.
+The proceeds go to supporting these families. ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 98 Shares: 4 Comments: 2 2 Comments Comment on Facebook Rep.
+Marc LaHood #ago My opponent, Democrat Zack Dunn, worked in private equity on Wall Street and brags about working on deals exceeding $10 billion.
+While Texans struggle to afford homes, Wall Street investors are buying them up.
+I believe the American Dream should be something our kids can own—not something they’re forced to rent.
+We can’t afford Wall Street Zack.
+#HD121 ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Angry reaction Reactions: 4 Shares: 0 Comments: 1 1 Comments Comment on Facebook Rep.
+Marc LaHood #ago Texas has a proud military tradition, and keeping it strong means making sure we're ready for any challenge that arises.
+With my House Republican colleagues, I've worked to invest in the Texas State Guard, upgrade military facilities and better protect our critical infrastructure and supply chains.
+The threats facing our state may evolve, but our responsibility to keep Texas safe and prepared does not.
+#txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 17 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
+Marc LaHood #ago Military service builds skills that last a lifetime.
+With my Republican House colleagues, I've worked to help service members and veterans take those skills further through tuition assistance, support for military students and a smoother path into civilian careers.
+Texas should be a place where those who serve have every opportunity to succeed during their service and long after it ends.
+#HD121 #txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 8 Shares: 0 Comments: 2 2 Comments Comment on Facebook Rep.
+Marc LaHood #ago Military service comes with sacrifice, and Texas is working to make sure it also comes with support.
+I've made it a priority to deliver stronger mental health resources, better access to benefits and state services, and meaningful property tax relief for veterans and military families.
+I'll keep working with my Republican colleagues to make Texas an even better place for veterans to call home.
+#txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 5 Shares: 0 Comments: 1 1 Comments Comment on Facebook Rep.
 Marc LaHood #ago Texas families deserve the freedom and security to thrive.
 I've voted to protect life, support families through life's ups and downs and make Texas a place where parents can lead and children can grow up safe.
 That work continues as we fight for policies that strengthen families and defend the values that Texans hold dear.
 #txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 11 Shares: 1 Comments: 4 4 Comments Comment on Facebook Rep.
-Marc LaHood #ago Nothing is more important than giving our kids a safe place to grow up and our families the chance to flourish.
-That's what my work in the Texas House is centered on: standing with Texas parents and keeping our kids safe at home, at school and online.
-We've made real progress, and I'm proud to keep fighting for Texas families.
-#txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 6 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
-Marc LaHood #ago Google’s new initiative to help 25,000 veterans, transitioning service members, and military spouses pursue careers in the skilled trades is a great example of connecting military experience with real economic opportunity.
-We should continue opening pathways for veterans to turn their military skills into successful civilian careers. ...
-See More See Less Google partners with veterans groups to help 25,000 enter skilled trades careers amid worker shortage www.foxbusiness.com Google revealed to FOX Business an initiative addressing the workforce shortage in skilled trades by training veterans for roles like electrician and pipefitter.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 4 Shares: 0 Comments: 0 0 Comments Comment on Facebook Rep.
-Marc LaHood #ago Kids deserve the chance to simply be kids—to learn, explore, ask questions and grow into their own person.
-I believe we should protect childhood from political agendas and harmful ideological pressures and give parents the space to raise their families.
-Our children deserve the freedom to grow up, think for themselves and build a future of their own.
-I'll keep fighting for their right to do just that.
-#txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 7 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
-Marc LaHood #ago I enjoyed speaking at the Oakwell Farms candidate meet and greet.
-My message is simple: support and vote for Republicans up and down the ballot this November.
-We’re united behind our shared values and ready to deliver a strong Republican victory.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 12 Shares: 1 Comments: 4 4 Comments Comment on Facebook Used for the like, share, comment, and reaction icons Rep.
+Marc LaHood #ago I had a great time yesterday helping prepare for the The 100 Club of San Antonio ’s Annual Spaghetti Dinner! 🍝 The 100 Club does incredible work supporting our first responders and their families by taking care of the brave men and women who protect our communities every day!
+You can support this great cause today and tomorrow by stopping by the Christopher Columbus Society at 201 Piazza Italia, San Antonio, TX 78207 for some delicious, homemade spaghetti.
+The proceeds go to supporting these families. ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 98 Shares: 4 Comments: 2 2 Comments Comment on Facebook Rep.
+Marc LaHood #ago My opponent, Democrat Zack Dunn, worked in private equity on Wall Street and brags about working on deals exceeding $10 billion.
+While Texans struggle to afford homes, Wall Street investors are buying them up.
+I believe the American Dream should be something our kids can own—not something they’re forced to rent.
+We can’t afford Wall Street Zack.
 #HD121 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 19 Shares: 0 Comments: 2 2 Comments Comment on Facebook Rep.
-Marc LaHood #ago Nothing beats a strong grassroots team!
-Proud of all the volunteers who hit the doors today and continue putting in the work, one neighborhood at a time.
-Your dedication and commitment are what make this campaign strong.
-#HD121 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 38 Shares: 2 Comments: 2 2 Comments Comment on Facebook Used for the like, share, comment, and reaction icons Rep.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Angry reaction Reactions: 4 Shares: 0 Comments: 1 1 Comments Comment on Facebook Rep.
+Marc LaHood #ago Texas has a proud military tradition, and keeping it strong means making sure we're ready for any challenge that arises.
+With my House Republican colleagues, I've worked to invest in the Texas State Guard, upgrade military facilities and better protect our critical infrastructure and supply chains.
+The threats facing our state may evolve, but our responsibility to keep Texas safe and prepared does not.
+#txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 17 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
+Marc LaHood #ago Military service builds skills that last a lifetime.
+With my Republican House colleagues, I've worked to help service members and veterans take those skills further through tuition assistance, support for military students and a smoother path into civilian careers.
+Texas should be a place where those who serve have every opportunity to succeed during their service and long after it ends.
+#HD121 #txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 8 Shares: 0 Comments: 2 2 Comments Comment on Facebook Rep.
+Marc LaHood #ago Military service comes with sacrifice, and Texas is working to make sure it also comes with support.
+I've made it a priority to deliver stronger mental health resources, better access to benefits and state services, and meaningful property tax relief for veterans and military families.
+I'll keep working with my Republican colleagues to make Texas an even better place for veterans to call home.
+#txlege ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 5 Shares: 0 Comments: 1 1 Comments Comment on Facebook Rep.
 Marc LaHood #ago Texas families deserve the freedom and security to thrive.
 I've voted to protect life, support families through life's ups and downs and make Texas a place where parents can lead and children can grow up safe.
 That work continues as we fight for policies that strengthen families and defend the values that Texans hold dear.
 #txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 11 Shares: 1 Comments: 4 4 Comments Comment on Facebook Rep.
-Marc LaHood #ago Nothing is more important than giving our kids a safe place to grow up and our families the chance to flourish.
-That's what my work in the Texas House is centered on: standing with Texas parents and keeping our kids safe at home, at school and online.
-We've made real progress, and I'm proud to keep fighting for Texas families.
-#txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 6 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
-Marc LaHood #ago Google’s new initiative to help 25,000 veterans, transitioning service members, and military spouses pursue careers in the skilled trades is a great example of connecting military experience with real economic opportunity.
-We should continue opening pathways for veterans to turn their military skills into successful civilian careers. ...
-See More See Less Google partners with veterans groups to help 25,000 enter skilled trades careers amid worker shortage www.foxbusiness.com Google revealed to FOX Business an initiative addressing the workforce shortage in skilled trades by training veterans for roles like electrician and pipefitter.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 4 Shares: 0 Comments: 0 0 Comments Comment on Facebook Rep.
-Marc LaHood #ago Kids deserve the chance to simply be kids—to learn, explore, ask questions and grow into their own person.
-I believe we should protect childhood from political agendas and harmful ideological pressures and give parents the space to raise their families.
-Our children deserve the freedom to grow up, think for themselves and build a future of their own.
-I'll keep fighting for their right to do just that.
-#txlege ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 7 Shares: 1 Comments: 1 1 Comments Comment on Facebook Rep.
-Marc LaHood #ago I enjoyed speaking at the Oakwell Farms candidate meet and greet.
-My message is simple: support and vote for Republicans up and down the ballot this November.
-We’re united behind our shared values and ready to deliver a strong Republican victory.
-#HD121 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 19 Shares: 0 Comments: 2 2 Comments Comment on Facebook Rep.
-Marc LaHood #ago Nothing beats a strong grassroots team!
-Proud of all the volunteers who hit the doors today and continue putting in the work, one neighborhood at a time.
-Your dedication and commitment are what make this campaign strong.
-#HD121 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 38 Shares: 2 Comments: 2 2 Comments Comment on Facebook About Marc Marc LaHood was born and raised in San Antonio, Texas.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 12 Shares: 1 Comments: 4 4 Comments Comment on Facebook About Marc Marc LaHood was born and raised in San Antonio, Texas.
 He graduated from Texas Military Institute, Trinity University, and Saint Mary’s University Law School in 2007.
 He primarily practices state and federal criminal defense and has represented clients across the great state of Texas.
 In 2015, Marc met his future wife, Erica, and eldest daughter, Emily.

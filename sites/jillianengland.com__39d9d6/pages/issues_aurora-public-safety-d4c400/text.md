@@ -1,4 +1,6 @@
-# days until Election Day, Tuesday, November 3, 2026 Ballots mail October 14 · Vote Jillian England → Jillian England Home About Issues Races Notes Vote Donate Contact Bio Endorsements Fix the Aurora Corridor Not one intersection — the corridor, the camps in between, and nodes like 12th & Jackson A path out— of addiction. of homelessness. of hopelessness.
+# days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
+Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
+Races Notes Vote Donate Contact Bio Endorsements Fix the Aurora Corridor Not one intersection — the corridor, the camps in between, and nodes like 12th & Jackson A path out— of addiction. of homelessness. of hopelessness.
 Government’s only legitimate role is protecting people from aggression.
 Soft words are how we keep walking past Aurora — and past every other open-air market like it.
 Accountability with a path — a roof with rules, treatment that is not optional, and markets that are shut — is how we stop funding the funeral.
@@ -36,6 +38,6 @@ Vote for an EXIT.
 Together, we can make Washington golden. — Jillian England Candidate for Washington State Senate, Legislative District 36 Donate Now to Fund the Exit Related: The Compounding Crisis → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

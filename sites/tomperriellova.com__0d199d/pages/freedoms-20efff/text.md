@@ -11,4 +11,5 @@ Right now those freedoms are under threat.
 People are being investigated, punished, and hounded for who they are or what they believe.
 Tom has seen up close what this looks like—overseas in war zones and at home in August 2017, when armed hate groups marched on Charlottesville.
 Tom was there in the streets that day and he will always defend our Constitution and our neighbors.
-Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

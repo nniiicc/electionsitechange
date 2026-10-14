@@ -18,7 +18,7 @@ The conversations I had at these meet-and-greets reinforced something important:
 They want policymakers to understand the challenges they face and to recognize the contributions they have made to our communities.
 That conversation needs to happen, and I am committed to bringing their voices to the table.
 Our seniors deserve the opportunity to age with dignity, stability, and fairness in the communities they helped build.
-Share this post: Sign up for blog updates!
+Share this post: Categories All Posts Announcements News What I'm Hearing Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 I’M LISTENING:WHAT I’M HEARING FROM DELAWARE VOTERS Aug 12, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

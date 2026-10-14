@@ -15,11 +15,17 @@ They deserve the truth.
 The record shows a pattern of insider politics, misplaced priorities, and support for more government control over Texans’ schools, healthcare, and daily lives.
 These are not rumors.
 These are receipts.
-A Conflict Voters Should See Clearly Paul Dyson sponsored and voted for a $1 billion private-school voucher program while serving as Vice-Chair of Allen Academy’s Board of Trustees.
+A Conflict Voters Should See Clearly Paul Dyson sponsored and voted for a $1 billion private-school Click to read the full analysis: What's on Paul Dyson's Resume & What's Not: The Conflict, The Omissions & The Fine Print voucher program while serving as Vice-Chair of Allen Academy’s Board of Trustees.
 Allen Academy is participating in that same voucher program.
 Voters deserve to ask a simple question: Why was Paul Dyson helping create a taxpayer-funded program that benefits an institution he helped govern?
 At the very least, it raises serious questions about judgment, transparency, and whose interests came first.
-SB 2 — Education savings account program (private-school vouchers) Allen Academy Board of Trustees Allen Academy participation in the voucher program More Government Control, Not Less Paul Dyson talks about freedom.
+SB 2 — Education savings account program (private-school vouchers) Allen Academy Board of Trustees Allen Academy participation in the voucher program The Price of the "Team" Endorsement Click to read: The Receipts: Who Really Owns the Seat in District 14?
+In Texas politics, "voting the team" isn't a choice—it's a transaction.
+The records show a clear pipeline: billionaire donors invest in candidates, and in return, those candidates deliver specific votes** In 2024, the "price of admission" for the most powerful endorsements in the party was a vote for private school vouchers.
+Rep.
+Dyson didn't just vote for them; he sponsored the bill.
+He traded the stability of our public education system for a stamp of approval from the national establishment.
+More Government Control, Not Less Paul Dyson talks about freedom.
 But his record shows support for more government control.
 He voted to put the Ten Commandments in public school classrooms .
 Sponsored by Sen.

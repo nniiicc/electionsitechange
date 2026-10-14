@@ -14,20 +14,12 @@ For more than 75 years Tennessee has managed its budget without a state property
 Your home is yours.
 No government should ever be able to take it from you through excessive taxation.
 Click Here to Sign the Petition ⁸ Tennessee Amendment 2 (SJR 1): Ballotpedia. ballotpedia.org ⁹ Tennessee Property Tax Freeze Program: Tennessee Comptroller’s Office. comptroller.tn.gov Safer Streets for Our Families Our neighborhoods deserve to feel safe.
-In 2024, the Hermitage Precinct which covers Old Hickory, Hermitage and Donelson was consistently among the worst precincts in Davidson County for violent crime, property crime and homicides, with violent crime rising 4.4% while most other precincts saw declines.
+In 2024, the Hermitage Precinct, which covers Old Hickory, Hermitage and Donelson, was consistently among the worst precincts in Davidson County for violent crime, property crime and homicides, with violent crime rising 4.4% while most other precincts saw declines.
 Families in District 60 should not have to accept this as normal.
-Our own Police Chief has said that license plate readers would help solve crimes and catch criminals faster and the data backs him up.
-Neighboring Mt.
-Juliet saw burglaries drop 56% and vehicle theft drop 27% after introducing them.
-Yet Nashville’s mayor has refused to fund them despite Metro Council already approving their rollout.
-Every county surrounding Davidson County has them.
-We don’t.
-And while the mayor stalls, over 80% of Nashville residents surveyed say they support the use of license plate readers for public safety.
-Eva Angelina Romero fully supports giving our police the tools they need, including license plate readers.
-Eva will support Metro Police by advocating for expanded access to proven public safety technology and available law enforcement data.
-She will push for state legislation ensuring that local officials cannot prevent police departments from connecting to available public safety data feeds and technology they determine are necessary to protect their communities.
-Her goal is to make sure officers have access to the tools and information they need to help keep families and neighborhoods safe. ³ Metro Nashville Police Department Crime Statistics, Hermitage Precinct 2024. nashville.gov/departments/police/news-and-reports/crime-statistics ⁴ Mt.
-Juliet LPR crime reduction data: NewsChannel 5 WTVF, September 2025. newschannel5.com / WKRN News 2, December 2025. wkrn.com ⁵ Nashville LPR public support: National League of Cities, November 2023. nlc.org Better Roads Now The families of Old Hickory, Hermitage, and Donelson know what it means to sit in traffic.
+Eva Angelina Romero believes Metro Police should have access to the technology, information and resources they need to solve crimes faster, apprehend offenders and keep our neighborhoods safer.
+She will support Metro Police and enhance technology for public safety by advocating for expanded access to proven law-enforcement tools and available public safety data.
+Eva will push for state legislation ensuring that local officials cannot stand in the way of police departments accessing available technology and data they determine are necessary to protect their communities.
+Her goal is simple: make sure officers have the tools they need to do their jobs effectively and keep families and neighborhoods safe. ³ Metro Nashville Police Department Crime Statistics, Hermitage Precinct 2024. nashville.gov/departments/ police/news-and-reports/crime- statistics Better Roads Now The families of Old Hickory, Hermitage, and Donelson know what it means to sit in traffic.
 Congestion at critical intersections like Bell Road and Elm Hill Pike, and Lebanon Road and Old Hickory Boulevard, has become a daily frustration and relief has been nowhere in sight.
 While our current representative is consumed by divisive national debates that will never be resolved at the state level, the essential needs of our neighborhood go ignored and our community has no visibility in state government.
 The result is our community is not getting the investment we deserve.

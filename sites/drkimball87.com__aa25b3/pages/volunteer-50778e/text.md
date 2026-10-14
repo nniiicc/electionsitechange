@@ -14,7 +14,8 @@ Join the Team Community ✳︎ Leadership ✳︎ Affordability ✳︎ Public Hea
 Kimball today for North Haven’s tomorrow.
 If you're interested in volunteering for Dr.
 Kimball for District 87 , please fill out this form, and a member of our community will get back to you.
+If you would like to receive a free yard sign or car magnet, you may do so by filling out the form via the button below.
 Thank you for believing in this mission.
-Stay in the Loop Contact & Press Inquiries : hello@drkimball87.com © # Paid for by Dr.
+Request a Yard Sign or Car Magnet Stay in the Loop Contact & Press Inquiries : hello@drkimball87.com © # Paid for by Dr.
 Kimball for District 87, Arlen Stabbe, Treasurer.
 Approved by Kathleen Kimball.

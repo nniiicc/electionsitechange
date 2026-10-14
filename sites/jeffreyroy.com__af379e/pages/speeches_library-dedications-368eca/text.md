@@ -59,7 +59,7 @@ Rabaioli.
 For Mr.
 Colace, the biography of John Adams – the man who reminded us to always carry books with us because “you’re never alone with a poet in your pocket.” Thank you for the contributions you have made, please treasure this honor, and enjoy these words.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
-Leave a Reply Cancel reply Comment Name Email Website Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
 Rep.
 Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
 Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?

@@ -25,8 +25,8 @@ He and his wife, Connie, live in Overland Park and have two adult children and s
 The mission continues!
 Kansas House of Representatives District 8 Downloadable Map Contact Chris Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Volunteer Email Name Name * First Last Email * Phone Number Volunteer to Help Chris Win!
-Display a yard sign Deliver yard signs Endorse Chris Distribute flyers door to door Host a neighborhood meet and greet with Chris Comment or Message Submit Join Chris's Campaign!
+Name * First Last Email * Phone Number Volunteer to Help Chris Win!
+Display a yard sign Deliver yard signs Endorse Chris Distribute flyers door to door Host a neighborhood meet and greet with Chris Volunteer Comment Number Comment or Message Submit Join Chris's Campaign!
 Donate Today.
 Contact Chris 8909 W.
 148th Terr., Overland Park, KS 66221 croftforkansas@gmail.com (913) 674-9589 Chris Croft was in the U.S.

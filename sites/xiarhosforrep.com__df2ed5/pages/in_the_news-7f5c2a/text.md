@@ -69,7 +69,54 @@ FOREVER FOURTEEN.
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 13th HAPPY 251st BIRTHDAY, U.S.
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 14th GOOD MORNING, HAPPY WEDNESDAY IN THE FIGHTIN’ FIFTH!
+It’s going to be a beautiful Cape Cod day!
+A reminder that this Sunday, October 18th, is the FIRST EVER K9 5K in Bourne, starting and ending at Bourne High School.
+At 9 AM, before the race, we’ll have a special ceremony honoring the K9s of the Commonwealth, with beautiful awards being presented, including one for K9 Nero.
+This ceremony is OPEN TO THE PUBLIC!
+The K9 5K will help support retired police and military K9s and the new K9 PTSD Center planned for Bourne.
+If you can, please join us Sunday morning for the ceremony and stay for the 5K run or walk.
+Let’s do everything we can to honor and take care of these four-legged heroes!
+God bless.
+Have a fantastic day! 🇺🇸😊🐕🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #K9 #NerosLaw #DakotasLaw CapeCod #Bourne #Massachusetts #MaPoli K9 PTSD Center Healing Dakota Nero Our K9 Hero Yarmouth Police Foundation K9 Flexx and Retired/Police K9 Mr.
+Warner. ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th REMEMBERING MY FRIEND SEAN Today, I attended the service for my friend Sean Andrew Whelahan at Nickerson-Bourne Funeral Home in Sandwich.
+It was a difficult day, but also a chance to celebrate a life that meant so much to so many people.
+Sean was a devoted husband to Tara, a loving father to Kian and Rylee, a successful business owner of 6A Tours and Kian ’n Rylee’s, and a true friend.
+He had a great sense of humor and a special gift for bringing people together.
+Sean could walk into a room full of strangers and leave with a room full of friends.
+He was also a father figure and mentor to many.
+What makes this loss especially difficult is that I last communicated with Sean just two weeks ago.
+He was planning to bring a van full of WW II veterans from Mashpee to Logan Airport at 4 a.m. so they could take a Hero Flight to Washington, D.C., to visit the World War II Memorial.
+He was also going to pick them up at 11 p.m. and bring them home.
+All of it as a volunteer, giving his time to honor those who served our country.
+THAT WAS SEAN.
+Always thinking about others, always willing to help, and always showing up for those who needed him.
+Sean cared deeply about our veterans and their families.
+I’m proud that the US Marine Corporal Nicholas G.
+Xiarhos Memorial Fund was one of the organizations close to his heart.
+My heart goes out to Tara, Kian, Rylee, and all of Sean’s family and friends.
+He touched so many lives, and he will be missed by all who knew him.
+Rest in peace, my friend.
+Thank you for your friendship, your kindness, and everything you did for others.
+God bless you, Sean.
+We’ll take it from here. 🇺🇸❤️😔🙏🏻🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Sandwich #CapeCod #Massachusetts #MaPoli 6A Tours and Transport Nickerson-Bourne Funeral Home ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th CONGRATULATIONS, GUY!
+Thank you, Cape Cod Veterinary Specialists!
+This morning was extra special in the Fightin’ Fifth as I got to surprise my longtime friend, constituent, and fellow Big Nick’s Rider, Guy Cosgrove, a Midmark Veterinary Planning and Design Specialist, with a Massachusetts House of Representatives citation recognizing his 38 years of helping build and improve veterinary offices and hospitals all across America.
+We met at the beautiful new addition to Cape Cod Veterinary Specialists in Buzzards Bay, right underneath the Bourne Bridge.
+This 24/7 animal hospital is doubling in size to care for even more sick and injured animals.
+This is the hospital that saved K9 Nero and hosts the annual canine blood drive every April 12th in memory of fallen Yarmouth Police Department K9 Sergeant Sean M.
+Gannon and in honor of his dedicated partner, K9 Nero.
+I’ll never forget what they’ve done for Nero and my own pets when they needed help.
+It was great to see this expansion firsthand and hear about what’s coming next.
+Congratulations, Guy!
+And thank you to Dr.
+Louisa Rahilly and her entire dedicated team at Cape Cod Veterinary Specialists for everything you do for our four-legged family members.
+Proud to see this great project happening right here in the Fightin’ Fifth!
+Lots more GOOD to come! 🇺🇸😊🐕🐈👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #CommonSenseLeadership #CCVS #Animals #K9Nero #Bourne #CapeCod #Massachusetts #MaPoli Cape Cod Veterinary Specialists Midmark Veterinary Yarmouth Police Dept.
+Nero Our K9 Hero Bourne Police Department Yarmouth Police Foundation ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th HAPPY 251st BIRTHDAY, U.S.
 NAVY!
 A big shout-out to the best naval force in the world and all the past, present, and future sailors who serve our great country!
 For 251 years, the U.S.
@@ -78,7 +125,7 @@ We are grateful for all those who have served, those serving today, and the next
 To all the parents and family members of our sailors, be proud!
 Make sure you reach out today and wish them a Happy Birthday!
 God bless our sailors and the United States Navy!
-ANCHORS AWEIGH! 🇺🇸❤️🎂⚓️🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #USNavy #CapeCod #Massachusetts #MaPoli U.S.
+ANCHORS AWEIGH! 🇺🇸❤️🎂⚓️🫡 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ServiceBeforeSelf #USNavy #CapeCod #Massachusetts #MaPoli U.S.
 Navy ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th GOOD MORNING AND HAPPY TUESDAY!
 GREAT NEWS!
@@ -91,41 +138,8 @@ A great way to show love and respect for our four-legged heroes!
 JOIN US THIS SUNDAY at 9 AM at Bourne High School for the first-ever K9 PTSD 5K Road Race!
 There’s still time to order your plate, too!
 Have a TERRIFIC TUESDAY!
-God bless! 🇺🇸😊🐕🐾👏🏻👏🏻👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #BackTheBlue #K9 #NerosLaw #DakotasLaw #CapeCod #Massachusetts #MaPoli K9 PTSD Center Healing Dakota Yarmouth Police Dept.
+God bless! 🇺🇸😊🐕🐾👏🏻👏🏻👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #CommonSenseLeadership #ProudAmerican #BackTheBlue #K9 #NerosLaw #DakotasLaw #CapeCod #Massachusetts #MaPoli K9 PTSD Center Healing Dakota Yarmouth Police Dept.
 Denise Morency Gannon John Cavanaugh State Representative Justin Thurber Steven Howitt for State Representative Senator Kelly Dooner Carlos Gonzalez State Representative ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 12th LOOK WHO’S GROWING BIGGER AND MORE HANDSOME EVERY DAY!
-Zohaib Malik-Mohammed, who we affectionately nicknamed Little Z, and his family spent Columbus Day weekend up in New Hampshire enjoying the beautiful White Mountains.
-What a great way to end the weekend with this picture of our little buddy!
-Tomorrow, he’s back to school at Oak Ridge School, where this nine-year-old fourth grader continues to grow and thrive.
-It’s truly amazing when you think about how far this young man has come.
-Four years ago, Little Z was rescued from drowning at Snake Pond thanks to the incredible citizens and first responders who stepped up, along with the doctors and nurses who helped save his life.
-We welcomed him home after 12 weeks in Boston-area hospitals with our Big Nick’s Ride motorcycles, police cruisers, and fire trucks, and we’ve been cheering him on ever since.
-His family has stayed strong, his teachers are angels, and Little Z is an angel among us right here in the Fightin’ Fifth District.
-He’s strong, kind, handsome, and an inspiration to all of us.
-THANK YOU to every single person who played a part in saving this young man’s life and helping him continue to grow, thrive, and enjoy being a kid.
-We love you, Little Z!
-Keep smiling, keep growing, and keep being YOU! 🇺🇸❤️🙏🏻😊👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #LittleZ #Sandwich #FirstResponders #CapeCod #SuperHero #CapeCodMiracle #Massachusetts #MaPoli Town of Sandwich, MA Sandwich Police Department Sandwich Fire Department Falmouth Hospital Oak Ridge School Boston Children’s Hospital Boston MedFlight Big Nick's Ride for the Fallen ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 12th PROUD AND HONORED!
-Massachusetts State Police I’m proud to have the endorsement and support of the State Police Association of Massachusetts, representing the men, women, and K9s in blue who serve and protect our Commonwealth.
-This means a lot to me personally.
-Serving and protecting others has been my life and the life of my family.
-As a retired police officer and law enforcement family, I will always stand with those who put their lives on the line for others.
-Thank you to the State Police Association of Massachusetts for your support and confidence.
-God bless, and stay safe, Troopers! 🇺🇸💙🫡 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #BackTheBlue #SPAM #CapeCod #Massachusetts #MaPoli State Police Association of Massachusetts ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 12th GOOD MORNING EVERYONE!
-Happy Columbus Day!
-I hope you all have a great day.
-The weather will get better!
-If you get a chance, please check out this special War Dog Monument at Hathaway Pond in the Town of Barnstable.
-It’s a beautiful spot with a dog park and pond, right here in the center of Cape Cod.
-Thanks to my good friend Steve Luciani of Coachlight Carpets, and Kim Maki of Maki Monuments who made this monument happen.
-I was honored to be there for the dedication and stopped by for a visit the other day.
-It’s a wonderful tribute to the brave canines who have served alongside our military in different wars.
-Our four-legged heroes deserve to be remembered and honored, too.
-And speaking of our love for dogs, don’t forget the FIRST EVER K9 5K on Sunday, October 18, at 9 AM at Bourne High School!
-Come out and support a great cause.
-Have a wonderful day, everyone.
-God bless 🇺🇸😊🐕👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #ColumbusDay #K9 #Barnstable #CapeCod #Massachusetts #MaPoli Town of Barnstable Barnstable Dog Parks Coachlight Carpets K9 PTSD Center Cape & Islands Police K-9 Relief Fund Kim Maki-Smith ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.

@@ -40,9 +40,7 @@ As a candidate, I’m not interested in partisan games.
 I’m interested in building an election system that actually works for the people – one that’s fair, verifiable, and truly reflects the will of the people.” – Alejandro Cabrera (IP Candidate for Lt.
 Governor) Disclaimer: These campaigns and organizations are ones I personally support.
 Links are provided for informational purposes only.
-Inclusion does not imply endorsement by my campaign committee or solicitation of contributions Leave a Reply Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
-Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
+Inclusion does not imply endorsement by my campaign committee or solicitation of contributions Search Here Search Latest News Official 2026 Campaign Statement First Campaign Video “How to Run for Office.” Tax Day Message!
 Interview with Larry Sharpe!
 Independence Party Nominates Andrew Cottingham as Candidate!
 Archives September 2026 April 2026 March 2026 Social Media X Instagram Facebook LinkedIn Andrew Cottingham for Illinois State Representative For a more equal and free Illinois .

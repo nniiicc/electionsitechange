@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Workforce Development #Economy #Local Business #District 157 #Community Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home October 1, 2026 9 min read By Micah King Table of Contents • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Workforce Development #Economy #Local Business #District 157 #Community Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home October 1, 2026 9 min read By Micah King Table of Contents • 1.
 The Rural “Digital Desert” and the $750 Indeed Tollbooth • 2.
 Real Purchasing Power: Why $55,000 in District 157 Beats $72,000 in Atlanta • 3.
 High-Wage Technical Careers Anchoring Our Region • 4.

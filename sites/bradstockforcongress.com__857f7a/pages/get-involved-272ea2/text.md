@@ -10,8 +10,7 @@ Start Calling → Join the Phone Bank on Zoom Call alongside the team.
 Live Sundays 4–7 PM, Tuesdays 5–7 PM, and Thursdays 4–7 PM.
 Join on Zoom → Be a Poll Greeter Welcome voters at the polls on Election Day and be the friendly face of the campaign.
 Sign Up → Request a Yard Sign Show your support on your lawn or at your business.
-Request a Sign → Host a Sign or Event Offer a high-traffic spot, or open your home for a meet-and-greet.
-Get in Touch → Remind a Friend to Vote Make sure the people you know have a plan for November 3.
+Request a Sign → Remind a Friend to Vote Make sure the people you know have a plan for November 3.
 Send a Reminder → Spread the Word Follow the campaign and share Alan’s message online.
 Follow Along → Canvassing Upcoming Canvasses Face to face conversations at the door are the most effective thing a volunteer can do.
 Grab a spot below and knock with the team.

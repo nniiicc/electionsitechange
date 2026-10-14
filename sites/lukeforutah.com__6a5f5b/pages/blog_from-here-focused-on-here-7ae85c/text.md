@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate From here.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Protect Open Spaces Voter Info Updates Contact Donate From here.
 Focused on here.
 Mar 30 Written By S Happy Spring and spring break to Wasatch schools!
 I’ve really enjoyed the conversations I’ve had with many of you already and am looking forward to continuing those this week.

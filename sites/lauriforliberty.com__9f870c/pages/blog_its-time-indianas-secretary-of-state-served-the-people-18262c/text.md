@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate It’s Time Indiana’s Secretary of State Served the People Apr 13 Written By Danny Lundy I grew up in rural Montgomery County.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate It’s Time Indiana’s Secretary of State Served the People Apr 13 Written by Danny Lundy I grew up in rural Montgomery County.
 I know the Hoosier work ethic.
 When something needs to get done, we don’t hesitate.
 We step up and see it through.

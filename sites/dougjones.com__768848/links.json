@@ -28,6 +28,10 @@
 "href": "https://www.dougjones.com/contact"
 },
 {
+"text": "Check Your Status",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/djfounder"
 },
@@ -38,6 +42,10 @@
 {
 "text": "Priorities",
 "href": "https://www.dougjones.com/priorities"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
 },
 {
 "text": "Volunteer Today",

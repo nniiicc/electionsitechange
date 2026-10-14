@@ -28,10 +28,7 @@ Button to bring down childcare costs for working families.
 This is what pro-family policy looks like.
 #txlege pic.twitter.com/840rQiXjdd — James Talarico (@jamestalarico) May 19, 2023 I was born to a single mom who worked long hours at a hotel.
 Just days after giving birth to me, the hotel forced her to go back to work.
-Today she joined me as I filed legislation to enact paid family leave for all Texans. pic.twitter.com/9t5k0aRo2N — James Talarico (@jamestalarico) February 14, 2023 Leaders like Cesar Chavez built strong unions and a strong middle class.
-But corporations bribed politicians to weaken unions with “right-to-work” laws.
-On this Cesar Chavez Day, I’m introducing legislation to repeal “right-to-work” and let workers organize in Texas.
-#txlege pic.twitter.com/D91nbZ1Ug8 — James Talarico (@jamestalarico) March 31, 2023 My Priorities in the U.S.
+Today she joined me as I filed legislation to enact paid family leave for all Texans. pic.twitter.com/9t5k0aRo2N — James Talarico (@jamestalarico) February 14, 2023 My Priorities in the U.S.
 Senate This is not a comprehensive list!
 If you have policy ideas you want to see from your next U.S.
 Senator, please reach out HERE .

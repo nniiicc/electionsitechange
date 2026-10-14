@@ -4,7 +4,8 @@ Issue 6 opened with a thank-you to everyone who filled Hastings City Hall for th
 It then covered the October 13 deadline to pre-register to vote, this week's door knocks (Wednesday, October 7 at 5 and Reverse Trick or Treating on Sunday, October 11 at 2), and where to vote early in Dakota and Washington counties.
 Read Issue 6 as it was emailed New issues go out most weeks.
 Subscribe here .
-Recent Posts See All 41B Weekly, Issue 2: Ballots go out in 10 days Sent Tuesday, September 8, 2026.
+Recent Posts See All 41B Weekly, Issue 7: Three weeks to go Sent Monday, October 12, 2026.
+Issue 7 covered the October 13 pre-registration deadline, this week's door knocks from Spiral Brewery and Park High School, the ask to wear a Jen Fox shirt, and early vo 41B Weekly, Issue 2: Ballots go out in 10 days Sent Tuesday, September 8, 2026.
 Issue 2 covered the Operating Engineers Local 49 endorsement, the three dates that decide this seat (absentee ballots September 18, early in-person voting October 16, It's my birthday!
 Here is my ask.
 Hi neighbor, Today is my birthday.

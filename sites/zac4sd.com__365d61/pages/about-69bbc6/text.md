@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Zac Strong Families.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Zac Strong Families.
 Strong South Dakota.
 I'm Zac Martin.
 Father, businessman, community advocate, and Juris Doctor.
@@ -64,13 +63,12 @@ Let's go.
 Read the platform Get involved District 32 The heart of Rapid City.
 South Dakota House District 32 covers downtown Rapid City and North Rapid.
 It is the historic core of the city, the part of town where the work gets done and where the families I am running to serve live, work, and raise their kids.
-District 32 covers downtown Rapid City and North Rapid.
-The official district boundary map will be embedded here.
-Source: South Dakota Legislative Research Council.
-Coming in next pass.
-South Dakota House District 32.
-Republican primary 2026.
-Downtown & North Rapid The historic core of the city, plus the working neighborhoods on the north side.
+South Dakota House District 32 Shaded area is the district.
+Red lines are precincts.
+Source: Pennington County GIS for the South Dakota Secretary of State, Elections and Voting (December 2023).
+Not a representation of voting boundaries down to specific address details.
+Check your exact district by address at the state's Voter Information Portal.
+Check my address Full map (PDF) Downtown & North Rapid The historic core of the city, plus the working neighborhoods on the north side.
 This is District 32.
 It is who I am running to serve.
 Property Tax Crisis Homeowners are being taxed out of houses they have lived in for decades.
@@ -78,18 +76,15 @@ Young families are priced out.
 SB96 and SB245 are the starting point, not the end of the conversation.
 Ellsworth Next Door Ellsworth AFB is not in District 32, but its growth shapes our whole region.
 The B-21 mission is one of the biggest economic stories in South Dakota, and we have a stake in getting it right.
-Join the campaign We win District 32 the old fashioned way .
-Door by door.
+Join the team Vote Zac Martin Door by door.
 Neighbor by neighbor.
 Yard sign by yard sign.
-Every conversation, every donation, every shift counts.
-This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
-Donate Volunteer Yard Sign Zac .
-Martin SD House 32 Strong Families.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes to win District 32.
+(605) 600-3281 · zac@zac4sd.com Donate Volunteer Yard sign Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

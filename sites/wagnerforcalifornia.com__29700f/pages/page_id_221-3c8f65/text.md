@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus DON WAGNER A life committed to Family, Service, Leadership Born in Pittsburgh, Donald P.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus DON WAGNER A life committed to Family, Service, Leadership Born in Pittsburgh, Donald P.
 Wagner moved to California at age 12.
 He met his wife, Megan, in high school.
 Both attended UCLA, where Don earned his BA, followed by a Juris Doctor from the University of California College of the Law, San Francisco.

@@ -12,4 +12,4 @@ Your voice is the most powerful tool we have.
 Let's get out there, meet our neighbors, and share our vision for the future!
 Go to this Mobilize link to find out where our rally point is and to let us know you’re coming": https://www.mobilize.us/mobilize/event/1049457/ Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
-Previous Previous October 16 Legvold for Minnesota--phone banking in Northfield Next Next November 3 General Election Day Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Previous Previous October 17 Get Out The Vote Doorknock in Northfield Next Next October 24 Day of 100 Volunteers in SD58: Phone Banking for Get Out the Vote Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

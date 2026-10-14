@@ -19,5 +19,5 @@ Real people signed those papers because they want a choice that isn't a Democrat
 I'm going to fight for every one of those signatures — and I'm going to be on that ballot in November." Karas is running on a platform of government transparency, expanded public records access, ranked-choice voting, and breaking down the barriers that keep independent and third-party candidates off the ballot.
 He notes the particular absurdity of the moment: a candidate being sued off the ballot for advocating better ballot access.
 "They just made my point for me," he said.
-Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

@@ -22,5 +22,10 @@ Learn More 6 Support for Small Business Cutting red tape and lowering taxes so s
 Join the Team Grassroots volunteers will decide this election.
 Join us today.
 First name Last name Email Phone How Would You Like to Help?
-Display a Yard Sign Knock Doors Call Voters Volunteer Volunteer at Events Help with Literature Drops Help on Election Day GET INVOLVED Follow Nicky Woods on Facebook HOME MEET NICKY ISSUES GET INVOLVED More Use tab to navigate through the menu items.
-Paid for by Friends of Nicky Woods bottom of page
+Display a Yard Sign Knock Doors Call Voters Volunteer Volunteer at Events Help with Literature Drops Help on Election Day By providing your telephone number and checking this box, you consent to receive calls and text messages from Friends of Nicky Woods.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+Privacy Policy: https://www.nickyforstaterep.com/privacy-policy GET INVOLVED Follow Nicky Woods on Facebook HOME MEET NICKY ISSUES GET INVOLVED More Use tab to navigate through the menu items.
+PRIVACY POLICY Paid for by Friends of Nicky Woods bottom of page

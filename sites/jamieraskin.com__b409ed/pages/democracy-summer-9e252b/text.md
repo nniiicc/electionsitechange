@@ -29,8 +29,9 @@ William J.
 Barber II, Prof.
 Laurence Tribe, Bob Bauer, Senator Elizabeth Warren, Rep.
 Alexandria Ocasio-Cortez, Greg Moore, Rob Richie, Cindy Terrell and many more.
-2026 Program Details 6 Weeks 15-# Hours/week 4-# Hours/week – virtual seminars, discussions and workshops 10-# Hours/week – in-person organizing with your campaign Eligibility All high school, college students, and others in that age group Application Page Please click below to see a list of our partner campaigns and apply today.
-Apply Here From our partners "Democracy Summer educates the next generation of political leaders and provides a vehicle for the participants to put their skills to work in their community.
+2027 Program Details 7 Weeks 15-# Hours/week 4-# Hours/week – virtual seminars, discussions and workshops 10-# Hours/week – in-person organizing with your campaign Eligibility All high school, college students, and others in that age group Application Page Applications for 2027 will open in early spring 2027.
+Please click below to fill out the interest form and we will notify you when applications open.
+2027 Interest Form From our partners "Democracy Summer educates the next generation of political leaders and provides a vehicle for the participants to put their skills to work in their community.
 Our previous NJ-11 Fellows canvassed, organized community outreach programs, helped reach young voters on social media, and conducted valuable research.
 I am proud to have been an inaugural partner campaign and look forward to welcoming the next class of Democracy Fellows to join my team this summer.
 Thank you to Rep.
@@ -39,13 +40,13 @@ Mikie Sherrill 2021 and 2022 Democracy Summer Partner "The Democracy Summer Fell
 It was an honor to have the fellows present for my campaign office opening with Speaker Nancy Pelosi so she could hear their stories and passion.
 I highly recommend that other progressive campaigns take advantage of this excellent resource." Rep.
 Mike Levin 2021 and 2022 Democracy Summer Partner How can I get involved?
-We have planned an exciting program for Democracy Summer 2026!
-For six weeks during the summer, Fellows will commit to participating in at least 4-5 hours a week of virtual seminars, discussions and workshops, and an additional 10-15 hours a week of in-person organizing with their local Democratic Congressperson or candidate.
+We have planned an exciting program for Democracy Summer 2027!
+For seven weeks during the summer, Fellows will commit to participating in at least 4-5 hours a week of virtual seminars, discussions and workshops, and an additional 10-15 hours a week of in-person organizing with their local Democratic Congressperson or candidate.
 Most Fellows end up choosing to spend a lot more time than this in campaign activities but these are the minimal expectations.
 Applicants will be selected both by the national Democracy Summer team and then by your local Democratic Congressperson or Congressional nominee.
-Applications for Democracy Summer 2026 are now open!
-Please click below to see a list of our partner campaigns and apply today.
-Apply Here Make sure also to stay up to date with Democracy Summer by following us @NatlDemSummer on Twitter and Instagram !
+Applications for Democracy Summer 2027 will open in early spring 2027.
+Please click below to fill out the interest form and we will notify you when applications open.
+2027 Interest Form Make sure also to stay up to date with Democracy Summer by following us @NatlDemSummer on Twitter and Instagram !
 For questions about the program, please contact our National Director, Madeline Kracov at DemocracySummer@JamieRaskin.com "I really enjoyed being able to have opportunities to participate in both national programming and local practicums.
 Both of them gave us opportunities to hear from extraordinary speakers and learn about important topics related to preserving our democracy such as voting rights.
 This is an experience I will carry for a very long time." Michael, 2021 Fellow “This experience was totally life-changing.

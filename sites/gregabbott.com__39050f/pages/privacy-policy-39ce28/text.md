@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Privacy Policy Thank you for interacting with Texans for Greg Abbott (“Company”, “we”, “us”, or “our”).
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Privacy Policy Thank you for interacting with Texans for Greg Abbott (“Company”, “we”, “us”, or “our”).
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [email protected] .
 When you visit our website gregabbott.com, and use our services, you trust us with your personal information.

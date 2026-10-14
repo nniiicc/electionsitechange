@@ -58,9 +58,9 @@ A Walk Through Bethlehem She volunteers at the Lakehills Community Center, where
 All are welcome.
 On the trail From the Texas Democratic Convention in Corpus Christi to block walks in Bandera and Kerr counties, Kathryn is meeting voters across all 16 counties.
 Upcoming events Come meet Kathryn Oct 17 Saturday No Kings: Vote Early rally & block walk in Hondo Rally 11am–1pm at the H-E-B, 609 19th St, Hondo, then join Kathryn for a block walk from 1–3pm, meeting at the same H-E-B.
-RSVP on Mobilize Oct 24 Saturday Castroville: Kathryn speaks & block walk Kathryn speaks in Castroville, plus a block walk around town.
-Times and location coming soon.
-Missed the October 8 debate in Brady?
+RSVP for the rally · Sign up to knock doors Oct 24 Saturday Castroville: Kathryn speaks & block walk Kathryn speaks at the Medina County Democratic Party monthly meeting, 11:30am–1pm at the St.
+Louis Braden Keller Community Center, 1410 Amelia St, Castroville, followed by a block walk.
+RSVP on Mobilize Missed the October 8 debate in Brady?
 Watch the recording on the Citizens for Change 325 Facebook page .
 More events are being added.
 Check back, or follow Kathryn Hartmann for HD 53 on Facebook .

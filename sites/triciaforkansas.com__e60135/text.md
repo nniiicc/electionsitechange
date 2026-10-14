@@ -9,10 +9,10 @@ Tricia has also volunteered extensively in 4-H, church, community, and universit
 We Need Fresh Perspectives and Independent Solutions Representing You!
 Tricia will roll up her sleeves and make things better for the people of Olathe and Overland Park: Cap Skyrocketing Property Taxes Fully Fund Our Schools and Emphasize Student Achievement Keep Our Neighborhoods Safe with Tougher Penalties for Repeat Offenders Focus on Bringing Down Housing and Utility Costs Reform Topeka with Term Limits and a New State Auditor Get in Touch with Tricia Sinclair Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Help Email Volunteer Email * Phone Number Volunteer to Help Tricia Win!
+Name * First Last Email * Email to Name Phone Number Volunteer to Help Tricia Win!
 Get email updates Take a yard sign Deliver and place yard signs Walk with Tricia and put flyers on doors Host a meet-and-greet with Tricia in your neighborhood Submit Get in Touch with Tricia Sinclair Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Help Tricia Phone Email * Phone Number Volunteer to Help Tricia Win!
+Phone Tricia Number Name * First Last Email * Phone Number Volunteer to Help Tricia Win!
 Get email updates Take a yard sign Deliver and place yard signs Walk with Tricia and put flyers on doors Host a meet-and-greet with Tricia in your neighborhood Submit Support Tricia Sinclair Today!
 Support Tricia Sinclair Today!
 Paid for by Tricia Sinclair for Kansas House, Caden Kaberline, Treasurer Search

@@ -1,4 +1,4 @@
-0 Skip to Content Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate We Can Disagree Better Aug 12 Written By Michelle Schreiner A few days ago, I came across an anonymous political survey about my race for Georgia House District 45.
+0 Skip to Content Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate We Can Disagree Better Aug 12 Written by Michelle Schreiner A few days ago, I came across an anonymous political survey about my race for Georgia House District 45.
 Reading a political poll about yourself is a strange experience.
 Some of it was familiar: my background, my work, policy positions I’ve taken.
 And then I met a fictional version of myself.

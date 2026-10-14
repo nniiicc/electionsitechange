@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Get involved This campaign runs on grassroots fuel.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Get involved This campaign runs on grassroots fuel.
 Donate.
 Volunteer.
 Take a yard sign.
@@ -28,12 +27,11 @@ Name Email Phone (optional) ZIP Anything else? (optional) Offer to host The Brie
 A short, useful weekly note: where the campaign is, what's coming up, and a quick read on the bills moving in Pierre.
 Name Email Get the Briefing Prefer to read on Substack?
 Subscribe there instead.
-Zac .
-Martin SD House 32 Strong Families.
+Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

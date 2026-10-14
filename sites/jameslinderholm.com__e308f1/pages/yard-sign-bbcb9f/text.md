@@ -10,7 +10,7 @@ Your phone and email are so we can reach you about delivery.
 Only campaign staff see this information, and we never sell or share it.
 Privacy policy .
 In a hurry?
-Regular signs are also available at the Madison County Democratic Party headquarters, 224 Church Street.
+Regular signs are also available for pickup at 224 Church Street in Huntsville.
 Call 256-472-1048 first to make sure someone's there.
-LINDERHOLM James Linderholm · Democrat for Alabama House District 20 Get involved Volunteer Donate on ActBlue (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
+LINDERHOLM James Linderholm · Alabama House District 20 Get involved Volunteer Donate (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
 Box 4764, Huntsville, AL 35815.

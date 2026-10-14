@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Data Centers #Utilities #Tattnall County They've Made It to Our Back Door: What AI Data Centers Mean for District 157 July 24, 2026 8 min read By Micah King Table of Contents • Understanding the Scale of What’s Coming to Southeast Georgia – Why This Is Not Just Effingham County’s Problem • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Data Centers #Utilities #Tattnall County They've Made It to Our Back Door: What AI Data Centers Mean for District 157 July 24, 2026 8 min read By Micah King Table of Contents • Understanding the Scale of What’s Coming to Southeast Georgia – Why This Is Not Just Effingham County’s Problem • 1.
 Local Municipal Action (City & County Level) – What Effingham County’s Fight Can Teach Us • 2.
 Engaging Legislative Leadership • 3.
 Household & Community Readiness • Why This Fight Is About Local Control, Not Opposition to Progress They’ve made it to our back door.

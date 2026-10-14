@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rep.
+Donate All Posts From Katie News Search Rep.
 Dempsey Named Georgia Psychiatric Physicians Association’s Legislator of the Year Katie Dempsey Apr 30, 2019 2 min read Updated: Mar 17, 2022 ATLANTA – State Representative Katie Dempsey (R-Rome) was recently named the Legislator of the Year by the Georgia Psychiatric Physicians Association (GPPA).
 Rep.
 Dempsey was presented the award during the annual GPPA meeting.

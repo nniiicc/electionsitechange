@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Sign Up For Campaign Updates!
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Sign Up For Campaign Updates!
 Opt In For Text Messages Opt In For Emails Submit By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Wagner for Secretary of State at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

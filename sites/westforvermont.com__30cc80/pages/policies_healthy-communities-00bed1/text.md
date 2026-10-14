@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Healthy Communities Strong communities don’t just respond to crises.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Healthy Communities Strong communities don’t just respond to crises.
 They help prevent them.
 Every Vermonter should be able to get the care they need without worrying that cost, distance, or a shortage of providers will stand in the way.
 That starts with strong access to primary care, mental health care, and substance-use treatment.

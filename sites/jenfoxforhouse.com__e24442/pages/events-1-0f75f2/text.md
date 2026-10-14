@@ -5,15 +5,23 @@ No experience needed.
 You'll get a short walkthrough, a partner if you want one, and a list of houses.
 Share Multiple Dates Thu, Oct 15 Door Knock, Thursdays 5pm / Spiral Brewery, Hastings RSVP Oct 15, 2026, 5:00 PM – 7:00 PM Spiral Brewery, Hastings A two-hour evening knock starting from Spiral Brewery.
 Sign up through the field team's form and they'll get you a turf packet and a partner.
-Share Multiple Dates Sat, Oct 17 Door Knock, Saturdays 11am / Park High School front parking lot, Cottage Grove RSVP Oct 17, 2026, 11:00 AM – 1:00 PM Park High School front parking lot, Cottage Grove A two-hour late-morning knock starting from the front parking lot of Park High School (8040 80th St S, Cottage Grove).
-Sign up through the field team's form and they'll get you a turf packet and a partner.
-Share Multiple Dates Sun, Oct 18 Door Knock, Sundays 2pm / Park High School front parking lot, Cottage Grove RSVP Oct 18, 2026, 2:00 PM – 5:00 PM Park High School front parking lot, Cottage Grove Every Sunday afternoon we knock doors in 41B, starting from the front parking lot of Park High School (8040 80th St S, Cottage Grove).
-No experience needed.
-You'll get a short walkthrough, a partner if you want one, and a list of a few dozen houses.
-Come for as much of the afternoon as you can.
-Share Sun, Nov 01 Get Out the Vote Door Knock / Park High School front parking lot, Cottage Grove RSVP Nov 01, 2026, 2:00 PM – 4:00 PM Park High School front parking lot, Cottage Grove Two days before Election Day.
-This one is about reminding people who already support Jen when and where to vote.
-Short conversations, long lists, and the most important two hours of the campaign.
-We meet in the front parking lot of Park High School (8040 80th St S, Cottage Grove).
+Share Sat, Oct 17 GOTV Kick-off with Angie Craig, Sen.
+Seeberger and Jen Fox / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 1:00 PM Hastings (address sent when you sign up) Kick off Get Out the Vote with Rep.
+Angie Craig, Sen.
+Judy Seeberger and Jen Fox, then knock doors in Hastings.
+Open to first-time and experienced canvassers; training and materials provided.
+The address is sent when you sign up.
+Share Multiple Dates Sat, Oct 17 GOTV Canvass, Weekends / Campaign office, 1303 S Frontage Rd, Hastings RSVP Oct 17, 2026, 10:00 AM – 7:00 PM Campaign office, 1303 S Frontage Rd, Hastings Get Out the Vote shifts at 10am, 12pm, 3pm and 5pm, launching from the campaign office at 1303 S Frontage Rd, Hastings.
+Pick a shift when you sign up.
+No experience needed: there's a short training and all materials are provided.
+Share Wed, Oct 21 DFL Leader Knock with Zack Stephenson / Spiral Brewery, Hastings RSVP Oct 21, 2026, 4:00 PM Spiral Brewery, Hastings Knock doors with DFL House Leader Zack Stephenson and Jen Fox.
+This one launches from Spiral Brewery in Hastings, not the campaign office.
+Share Multiple Dates Fri, Oct 23 GOTV Canvass, Weekdays / Campaign office, 1303 S Frontage Rd, Hastings RSVP Oct 23, 2026, 12:00 PM – 7:00 PM Campaign office, 1303 S Frontage Rd, Hastings Get Out the Vote shifts at 12pm, 3pm and 5pm, launching from the campaign office at 1303 S Frontage Rd, Hastings.
+Pick a shift when you sign up.
+No experience needed: there's a short training and all materials are provided.
+Share Sun, Oct 25 Planned Parenthood Action Fund x Jen Fox Canvass / Campaign office, # S Frontage Rd, Hastings RSVP Oct 25, 2026, 12:00 PM Campaign office, # S Frontage Rd, Hastings Canvass with Planned Parenthood Action Fund and Jen Fox.
+Sign up for the 12pm shift.
+Share Sat, Oct 31 GOTV Canvass, Halloween / Campaign office, 1303 S Frontage Rd, Hastings RSVP Oct 31, 2026, 12:00 PM – 5:00 PM Campaign office, # S Frontage Rd, Hastings Halloween has two Get Out the Vote shifts, 12pm and 3pm, launching from the campaign office at # S Frontage Rd, Hastings.
+Pick a shift when you sign up.
 Share GET INVOLVED Your support changes the game!
 DONATE YARD SIGNS VOLUNTEER SUBSCRIBE Home About Me Events Donate Newsletter Gallery Prepared and paid for by the Jen Fox for House Committee PO Box 492, Hastings MN 55033 PO Box 492 Hastings, MN 55033 jenfoxforhouse@gmail.com bottom of page

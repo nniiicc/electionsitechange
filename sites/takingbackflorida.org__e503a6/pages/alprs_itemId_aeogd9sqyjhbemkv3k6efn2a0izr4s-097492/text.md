@@ -2,13 +2,13 @@
 ALPRs are fundamentally different from standard traffic enforcement cameras .
 These cameras track not only your license plate, but your vehicle make, model, defects, bumper stickers, and the driver.
 Sold for tracking vehicles and helping law enforcement catch criminals more effectively, these cameras not only track the details of your vehicle, but also people and their details such as skin color and clothing.
-They monitor everyone who passes them and logs them into a private company's database, accessible without a warrant, by law enforcement officials everywhere in the country, even outside state jurisdictions.
+They monitor everyone who passes them and log them into a private company's database, accessible without a warrant, by law enforcement officials everywhere in the country, even outside state jurisdictions.
 Data from these in Florida are shared with ICE via our Florida’s Fish and Wildlife Conservation Commission, who has a history of working with law enforcement officers (LEOs) on warrantless searches using Driver And Vehicle Information Database (DAVID) to track citizens who speak up against corruption at town halls, along with their friends and family.
 View fullsize A Flock camera setup, image courtesy of deflock.org.
 View fullsize A Motorola ALPR, image courtesy of deflock.org.
 View fullsize A Leonardo ALPR, image courtesy of deflock.org.
-As endless funding pours into companies like Flock, Axon, Motorola, and Leonardo, the last one which is developing technologies like SignalTrace to increase ALPR surveillance.
-SignalTrace tracks your mobile device's Bluetooth and Wi-Fi serials, along with RFIDs and even pet chip IDs.
+Endless funding pours into companies like Flock, Axon, Motorola, and Leonardo, and the last one is developing technologies like SignalTrace to increase ALPR surveillance further.
+SignalTrace tracks you and any passengers’ mobile devices’ Bluetooth and Wi-Fi serials, along with RFIDs and even pet chip IDs.
 This is saved into the same database with all the information provided from the ALPRs which helps LEOs track who you ride with, who you may be related to, or even what type of devices you have.
 Increasingly, more and more LEOs are being caught using this technology not just in FL alone, to track their exes and stalk them (see LOVEINT ).
 The data is also used to track women who leave states seeking abortion procedures , immigrants , and protestors .

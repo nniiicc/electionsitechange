@@ -60,5 +60,5 @@ Reply “STOP” to opt out.
 Reply “HELP” for assistance.
 Mobile opt-in data will not be shared with 3rd parties.
 See our Privacy Policy and Terms here.
-“This is home.
+Submit “This is home.
 And it’s worth fighting for.” Donate to Zach's campaign Main Pages Home About Contact Events Merchandise Press Releases Support Zach Get Merchandise Make a Donation Pledge to Vote for Zach © Copyright # Lahn for Governor Privacy Policy Terms & Conditions PAID FOR BY LAHN FOR GOVERNOR

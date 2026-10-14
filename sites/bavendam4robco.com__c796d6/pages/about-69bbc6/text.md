@@ -20,5 +20,5 @@ She has helped organize events across Robertson County, from ICE Out protests to
 Now, Tamara is running for the Tennessee House to continue that work.
 She'll fight for every family, every neighborhood, and every community in Robertson County.
 Tamara is ready to be a State Representative who puts people first.
-View More Have any questions?
+View More Yard Sign Have any questions?
 Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

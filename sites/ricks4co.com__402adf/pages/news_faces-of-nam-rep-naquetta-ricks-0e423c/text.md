@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate October 25, 2021 Morgan Anker Faces of the New American Majority: Rep.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate October 25, 2021 Morgan Anker Faces of the New American Majority: Rep.
 Naquetta Ricks Morgan Anker October 25, 2021 Faces of the New American Majority: Rep.
 Naquetta Ricks Morgan Anker October 25, 2021 This week, Emerge launched Faces of NAM (#SayNAM) featuring Emerge alumnae across the country.
 Colorado State Rep.

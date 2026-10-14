@@ -1,4 +1,4 @@
-Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Fundraiser Tuesday, October 13 · 6–8 pm · Cantwell’s Tavern , · Odessa RSVP Legal Terms of Service Effective date: June 14, 2026 · Jamar Money for Delaware 1.
+Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Legal Terms of Service Effective date: June 14, 2026 · Jamar Money for Delaware 1.
 Acceptance of terms By accessing or using jamarforde.com (the “Site”), you agree to be bound by these Terms of Service (“Terms”).
 If you do not agree, please do not use the Site.
 These Terms apply to all visitors, supporters, and others who access the Site.

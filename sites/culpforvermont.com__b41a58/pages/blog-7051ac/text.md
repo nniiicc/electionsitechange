@@ -1,4 +1,8 @@
-top of page ​ About Priorities Press Neighbors for Susan All Posts All Posts Hypocrisy 101 Independent candidate Susan Culp is hands-down the best qualified candidate in the Orange-Caledonia race.
+top of page ​ About Priorities Press Neighbors for Susan All Posts All Posts Why we support Susan Culp for the Vermont House M.
+Robin Barone and Sydney Lea Newbury, Vt.
+Voters in the Orange Caledonia district have a unique choice in candidates to represent them in the Vermont House of Representatives this year.
+It’s great to have options, but in our view, there is a clear choice — Susan Culp.
+#ago 2 min read Hypocrisy 101 Independent candidate Susan Culp is hands-down the best qualified candidate in the Orange-Caledonia race.
 If you know her work, you already know that.
 Even those that support her opponents of both parties agree.
 Susan’s demonstrated ability, tenacity and focus — traits she has applied to issues in Newbury, will scale well to represent the district.

@@ -45,7 +45,7 @@ Providing high-quality, accessible training and supporting the mental health of 
 Protect consumers from the constant barrage of scams and fraud.
 As a Senior Staff Attorney with the Kansas Securities Commission, Chris has prosecuted perpetrators of fraud and scams, recovering money for Kansans and putting the bad guys behind bars.
 Read more Protect consumers from the constant barrage of scams and fraud As a Senior Staff Attorney with the Kansas Securities Commission, Chris has prosecuted perpetrators of fraud and scams, recovering money for Kansans and putting the bad guys behind bars.
-In the first six months of 2026, Kansans had more than $40 million stolen from them through fraud.
+In the first six months of 2026, Kansans had more than $30 million stolen from them through fraud.
 The vast majority of these scams are imposter scams – bad actors impersonating someone you know, the government, or another trusted entity.
 And the development of artificial intelligence is making it harder to identify these scams.
 As Chris travels across Kansas, he has heard time and again from local law enforcement and community members that Kansans are losing thousands of dollars to online scams.

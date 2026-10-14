@@ -42,5 +42,5 @@ Government belongs to us.
 We reclaim it when we show up.
 Your ballot is in the mail.
 Please fill it out, sign the envelope, and send it back.
-Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Contact Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Updates Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
 Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

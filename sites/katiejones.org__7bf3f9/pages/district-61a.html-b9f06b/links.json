@@ -1,7 +1,11 @@
 [
 {
-"text": "Ballot Tracker Tool",
-"href": "https://mnvotes.sos.mn.gov/abstatus/index"
+"text": "Check out your sample ballot",
+"href": "https://myballotmn.sos.mn.gov/"
+},
+{
+"text": "Check that you are registered to vote at your current address",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/check-your-registration/"
 },
 {
 "text": "Climate Action Plan",
@@ -36,14 +40,6 @@
 "href": "https://www.katiejones.org/endorsements.html"
 },
 {
-"text": "Get more info",
-"href": "https://vote.minneapolismn.gov/voters/vote-by-mail/#d.en.91668"
-},
-{
-"text": "Hennepin County Government Center at Skyway Level 300 6th St. S",
-"href": "https://maps.app.goo.gl/vmh7Mq8sxu1rfoZNA"
-},
-{
 "text": "Housing",
 "href": "https://www.katiejones.org/housing.html"
 },
@@ -52,24 +48,28 @@
 "href": "https://www.katiejones.org/justice.html"
 },
 {
-"text": "Learn more about voter registration",
-"href": "https://vote.minneapolismn.gov/voters/register/"
-},
-{
-"text": "Learn more here",
-"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/#:~:text=00%20p.m.-,Hennepin%20County%20Elections,-Hennepin%20County%20Government"
+"text": "Learn what to bring if you’ll need to register at your polling place",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
 },
 {
 "text": "Meet Katie",
 "href": "https://www.katiejones.org/meet-katie.html"
 },
 {
-"text": "Minneapolis Elections & Voter Services at 980 E Hennepin Ave",
-"href": "https://maps.app.goo.gl/4BZmXjKmC4UHcx5DA"
-},
-{
 "text": "Privacy Policy",
 "href": "https://katiejones.org/privacy-policy"
+},
+{
+"text": "Request An Absentee Ballot",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-by-mail-in-us/"
+},
+{
+"text": "Request An Absentee Ballot",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/"
+},
+{
+"text": "Return Your Absentee Ballot",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/return-your-ballot/"
 },
 {
 "text": "Safety",
@@ -82,6 +82,18 @@
 {
 "text": "Sustainability >",
 "href": "https://www.katiejones.org/sustainability.html"
+},
+{
+"text": "Track Your Absentee Ballot",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/track-your-ballot/"
+},
+{
+"text": "Verify your polling place location",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Vote Early, In Person",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person/"
 },
 {
 "text": "Yard Signs",

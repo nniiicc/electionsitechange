@@ -1,4 +1,4 @@
-Skip to main content Skip to footer DONATE The Candidate The Issues Get In Contact Endorsements Join mark In his fight for a better Pennsylvania Join mark In his fight for a better Pennsylvania Volunteer We need people like you to help Mark get elected.
+Skip to main content Skip to footer Opens in a new tab DONATE The Candidate The Issues Get In Contact Endorsements Join mark In his fight for a better Pennsylvania Join mark In his fight for a better Pennsylvania Volunteer We need people like you to help Mark get elected.
 Join the campaign.
 Name Phone Email Zipcode How can you help?
 Select all that apply.

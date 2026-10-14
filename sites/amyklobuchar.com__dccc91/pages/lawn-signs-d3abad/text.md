@@ -1,4 +1,10 @@
-Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Ensure Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Get a Lawn Sign Show your support for Amy Klobuchar and help us build momentum in every corner of Minnesota.
+Donate today.
+Every dollar counts.
+I’m running for governor to take on the powerful and get things done for every Minnesotan.
+This is a home-grown campaign, born in a moment like no other.
+Will you chip in today?
+Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Continue to Site Donate Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Support Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Menu Close Home Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Get a Lawn Sign Show your support for Amy Klobuchar and help us build momentum in every corner of Minnesota.
 Together, let’s make sure Minnesota knows Team Amy is everywhere.
 A lawn sign is a simple but powerful way to let your neighbors know you’re part of Team Amy.
 Sign up to reserve your free sign—we’ll make it easy by offering local pickup opportunities.

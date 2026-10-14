@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Gov.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Gov.
 Phil Scott is Wrong on Universal School Meals Thomas West Mar 3, 2025 2 min read At a time when working families are stretched thinner than ever, this program provides stability.
 I know the stigma firsthand.
 I remember having to enter a PIN on the days I was hungry enough to ask for food in high school.

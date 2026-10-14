@@ -1,9 +1,10 @@
 {
  "description": "Join Danica at an event!",
  "final_url": "https://www.electdanica.com/events1",
- "fingerprint": "384ba51964168a8401caa15a9a4318f607841dc4",
+ "fingerprint": "ce3ae8fccdd50d7d7c787068cb9655bbe00c15a2",
  "format": 3,
  "paid_for_by": "PAID FOR BY ELECT DANICA 14419 GREENWOOD AVE N",
+ "rendered": false,
  "title": "Events | Elect Danica Noble",
  "years_mentioned": [
   "2026"

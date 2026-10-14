@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rep.
+Donate All Posts From Katie News Search Rep.
 Dempsey to Participate in Georgia Council on Substance Abuse’s Virtual Recovery Town Hall on Ad Katie Dempsey Sep 16, 2020 2 min read Updated: Mar 17, 2022 ATLANTA – State Representative Katie Dempsey (R-Rome) will participate in a virtual recovery town hall meeting, sponsored by the Georgia Council on Substance Abuse, Thursday, September 17, 2020, from 6 – 7 p.m.
 To join this Zoom meeting, please click here .
 The meeting ID is 695 949 293.

@@ -1,4 +1,4 @@
-top of page SIGN UP FOR UPDATES!
+top of page Skip to Main Content SIGN UP FOR UPDATES!
 HOME MEET MITCH ENDORSEMENTS ACCOMPLISHMENTS GET INVOLVED More Use tab to navigate through the menu items.
 EMAIL ME DONATE ACCOMPLISHMENTS and PRIORITIES Mitch Rosenwald - A Champion in Tallahassee for House District 98 ​ 2026 Bills Passed *HB 933 [Children’s Initiatives] - Signed by the Governor The Florida Children’s Initiatives is a statewide initiative modeled after the nationally recognized Harlem Children’s Zone in New York, created to address the disparities faced by children in disadvantaged communities.
 Currently, there are five active children’s initiatives located in the counties of Duval, Orange, Hillsborough and Miami-Dade.

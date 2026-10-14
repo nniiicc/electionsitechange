@@ -5,7 +5,7 @@ First Name (Required) Last Name (Required) Email (Required) Phone Number (Requir
 Message and data rates may apply.
 Reply STOP to opt out.
 View our Terms & Conditions and Privacy Policy here .
-We depend on you Stand with Tom.
+Sign Up We depend on you Stand with Tom.
 Stand with Arkansas.
 Your support helps Tom share our message and grow the team supporting it.
 Chip in any amount today. $4.49 $15 $50 Other Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.

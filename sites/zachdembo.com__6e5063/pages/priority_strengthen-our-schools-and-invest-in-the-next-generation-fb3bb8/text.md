@@ -26,4 +26,4 @@ NAVY.
 USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE.
 Copyright # Zach Dembo for Congress.
 All rights reserved.
-Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer X-twitter Threads Instagram DONATE ONLINE Close Menu
+Bio Priorities Endorsements Press Releases Anti-Corruption Plan Volunteer Bio Priorities Endorsements Press Releases Anti-Corruption Plan Volunteer X-twitter Threads Instagram DONATE ONLINE Close Menu

@@ -9,7 +9,7 @@ This puts Speaker Johnson on pace for the largest cycle transfer ever to the NRC
 Speaker Johnson has also distributed $21.5 million to incumbents and $7 million to challengers.
 Beyond the Speaker’s record-setting direct fundraising efforts, Speaker Johnson has now raised an additional $23.6 million for House Republicans through digital, mail, and Member events this cycle.
 These efforts have helped Republicans maintain a historic fundraising advantage throughout the 2026 midterm election cycle.
-Greg Steele Next Next Speaker Johnson Discusses Midterms, Kicks off 22-State Campaign Swing Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Greg Steele Previous Previous Speaker Johnson Rallies Across South Texas Next Next Speaker Johnson Discusses Midterms, Kicks off 22-State Campaign Swing Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
 Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.

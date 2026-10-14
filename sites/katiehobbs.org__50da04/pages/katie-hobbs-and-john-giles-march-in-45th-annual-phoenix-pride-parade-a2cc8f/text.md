@@ -4,9 +4,9 @@ Katie Hobbs and her running mate, former Mesa Mayor John Giles, marched in the 4
 Katie Hobbs.
 “Today is a chance to celebrate how far we’ve come, honor the courage of those who fought for equality, and recommit ourselves to making Arizona a welcoming place for everyone.” Katie has marched in the Phoenix Pride Parade many times over the years, including as grand marshal in 2024.
 As governor, she has fought to end discrimination and make Arizona a state of equality and opportunity for everyone.
-Next Post Elect Katie Hobbs Campaign Announces Nearly $# Million Raised PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
+Next Post ROUNDUP: Katie Hobbs Launches Seniors for Katie Coalition, Emphasizing Her Record of Delivering Affordable Healthcare and Housing for Seniors CASA GRANDE - Last week, Gov.
+Katie Hobbs and Mayor John Giles launched Seniors for Katie, a coalition consisting of senior leaders and community members working to re-elect her.
+Hobbs marked the launch in Casa Grande, alongside President of the Arizona Alliance for Retired Americans, Linda Somo, and Executive...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

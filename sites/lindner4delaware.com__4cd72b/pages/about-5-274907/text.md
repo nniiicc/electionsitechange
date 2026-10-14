@@ -36,5 +36,5 @@ They are not settled, and they are not guaranteed.
 Delawareans deserve a representative who understands what is at stake and will work to protect these fundamental rights for every resident.
 Vote for a representative who will stand with you on the issues that matter to our community!
 When it is time to vote, vote for Lindner4Delaware. ​ Together, we can and will make a difference. ​ SUBSCRIBE TO OUR NEWSLETTER Get the latest updates SUBSCRIBE Thanks for submitting!
-Home About Me Priorities News & Media Get Involved Donate Contact Voting Privacy Policy Gregg Lindner - DELAWARE DISTRICT 4 - DEMOCRAT © # Paid for by Lindner4Delaware Powered and secured by Wix ​ Lindner4Delaware P.O.
+Home Gregg's Message News & Media Endorsements Events Donate Family Get Involved Voting Contact Privacy Policy Gregg Lindner - DELAWARE DISTRICT 4 - DEMOCRAT © # Paid for by Lindner4Delaware Powered and secured by Wix ​ Lindner4Delaware P.O.
 Box #246 Millsboro, Delaware 19966 ​ Lindner4Delaware@gmail.com T: +1 302 259 8337 ​ bottom of page

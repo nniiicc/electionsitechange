@@ -1,3 +1,3 @@
 Skip to content SheperekForColorado Main_Menu Why I’m Running The Issues Legislative Philosophy Crazy Bills About Mike Donate Contact blog Search Search Hey, if you listen to 630AM KHOW in Denver, listen for my Radio ad…. by michael sheperek October 8, 2026 Michael Sheperek on Free State Colorado…. by michael sheperek October 7, 2026 Ever see the first season of Landman?
 Michael Sheperek hosts an AI created video with a politically incorrect discussion of wind turbines… the politicians won’t like this… by michael sheperek August 11, 2026 Michael_Sheperek@icloud.com P.O.
-Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 12, 2026 4:56 am Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein
+Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 13, 2026 4:57 am Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein

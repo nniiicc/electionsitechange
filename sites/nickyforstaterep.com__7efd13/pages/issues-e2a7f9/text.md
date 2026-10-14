@@ -13,4 +13,4 @@ Nicky supports limiting executive overreach, increasing transparency, and restor
 Supporting Small Business Small businesses are the backbone of Pennsylvania’s economy.
 Nicky will fight for fewer regulations, lower taxes, affordable energy, and a business climate where employers can hire, grow, and stay right here in Lancaster County.
 HOME MEET NICKY ISSUES GET INVOLVED More Use tab to navigate through the menu items.
-Paid for by Friends of Nicky Woods bottom of page
+PRIVACY POLICY Paid for by Friends of Nicky Woods bottom of page

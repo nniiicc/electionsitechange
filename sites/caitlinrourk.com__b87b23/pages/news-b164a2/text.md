@@ -1,4 +1,4 @@
-Skip navigation menu Home Meet Caitlin Issues News Volunteer Yard Signs DONATE Home Meet Caitlin Issues News Volunteer Yard Signs DONATE news & press Keep Up with Team Rourk Editorial Endorsement: Rourk aims to serve U.S.
+Skip navigation menu Home Meet Caitlin Issues News Volunteer DONATE Home Meet Caitlin Issues News Volunteer DONATE news & press Keep Up with Team Rourk Editorial Endorsement: Rourk aims to serve U.S.
 House 10 from the 'radical middle' Austin-American Statesman In an age of extreme political polarization, pulling back to the center is almost an act of rebellion.
 Caitlin Rourk, the Democratic candidate for U.S.
 House District 10, places herself squarely in the “radical middle,” convinced that voters on both sides of the aisle share common ground on issues ranging from pocketbook concerns to government transparency.

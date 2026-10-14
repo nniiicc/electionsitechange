@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Privacy Policy Effective September 18, 2026 We make every effort to ensure the privacy and security of information that you share with us online.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Privacy Policy Effective September 18, 2026 We make every effort to ensure the privacy and security of information that you share with us online.
 This Privacy Policy explains how information about you is collected, used and disclosed by Committee to Elect Betsy Coffia.
 This Privacy Policy applies to information we collect when you use our website and other online services that link to this Privacy Policy (collectively, the “Site”) or when you otherwise interact with us.
 We may change this Privacy Policy from time to time.

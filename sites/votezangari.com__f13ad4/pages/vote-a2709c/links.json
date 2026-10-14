@@ -1,5 +1,9 @@
 [
 {
+"text": "About",
+"href": "https://votezangari.com/about/"
+},
+{
 "text": "Check Your Registration Here",
 "href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
 },
@@ -14,6 +18,10 @@
 {
 "text": "Find Your Polling Place Here",
 "href": "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+},
+{
+"text": "Get Connected",
+"href": "https://votezangari.com/get-connected/"
 },
 {
 "text": "Home",
@@ -38,6 +46,14 @@
 {
 "text": "Volunteer Signup",
 "href": "https://votezangari.com/volunteer-signup/"
+},
+{
+"text": "Vote!",
+"href": "https://votezangari.com/vote/"
+},
+{
+"text": "Why John?",
+"href": "https://votezangari.com/why-john/"
 },
 {
 "text": "[email protected]",

@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rome News Tribune: Q&A with Katie Dempsey Katie Dempsey May 14, 2022 3 min read About 60% of Floyd County voters are in state House District 13.
+Donate All Posts From Katie News Search Rome News Tribune: Q&A with Katie Dempsey Katie Dempsey May 14, 2022 3 min read About 60% of Floyd County voters are in state House District 13.
 It covers all of Rome, the Silver Creek community and points east.
 Republicans Brad Barnes and Luke Martin are challenging incumbent Katie Dempsey.
 There are no Democrats seeking the seat so the winner of the May 24 primary will be unopposed in November.

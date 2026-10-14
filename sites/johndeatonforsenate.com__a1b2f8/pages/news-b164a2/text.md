@@ -1,4 +1,20 @@
-Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP John Deaton Puts People Over Politics in Debate Against Sen.
+Ed Markey By Mark Steffan • October 13, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
+Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
+Ed Markey, stating: "Massachusetts families deserved answers tonight.
+After 53 years in office, Ed Markey still doesn’t have them.
+"I didn't hear a single substantial answer from Senator Markey about how he would deliver results in the next six years when he's failed to deliver those results for more than 50 years already.
+"I spent the debate talking about the real issues driving people out of this state: the highest electricity rates in the continental United States, housing that working families can no longer afford, and a cost of living that keeps getting worse.
+Senator Markey spent it defending a record that has failed to deliver results.
+"He’s had half a century.
+Massachusetts is still unaffordable for too many.
+That’s not progress.
+That’s a career politician who has lost touch with the people he claims to represent.
+"I’m not a career politician.
+I’m a Marine, a trial lawyer, a cancer survivor, and a father who lived paycheck to paycheck.
+I’ve put forward real solutions: including the Clean Hands Act to ban stock and crypto trading by members of Congress and impose a lifetime lobbying ban — because Washington needs accountability, not more of the same.
+"Massachusetts deserves better than 53 years of no results.
+I’m ready to deliver them." ### Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
 Senate in Massachusetts, today called on Congress to pass a national AI standard with enforceable consumer protections.
 The call follows this week's announcement of an AI video model that its maker says nearly half of test subjects mistook for a real person.
 AI company Tavus unveiled the model, called Griffin, on October 1.
@@ -268,19 +284,7 @@ If he doesn't, the empty podium tells voters everything they need to know.
 Massachusetts media works for the voters, not for Ed Markey's travel schedule.
 Do your job.
 Call the debates.
-And if he runs, put that empty podium on every screen in this Commonwealth." ### Deaton: Massachusetts Needs Solutions, Not Slogans By Vincent Errichetti • September 18, 2026 FOR IMMEDIATE RELEASE September 17, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com In two new interviews, John Deaton says he would break up insurance and pharmaceutical companies to bring down costs for consumers.
-BOSTON - Republican U.S.
-Senate candidate John Deaton today contrasted his agenda with Sen.
-Ed Markey's half-century in Washington, saying Massachusetts families need results on health care and immigration, not recycled talking points.
-Deaton said he would work to break up vertically integrated insurers and pharmacy benefit managers, increase competition and transparency, and drive down health-care costs.
-On immigration, he said he would pursue real reform with a workable path forward rather than slogans that go nowhere.
-Deaton reiterated these points on On the Record on WCVB TV-5 and @Issue Sitdown with Matt Prichard on NBC 10 Boston.
-Interviews linked below.
-"Unlike Markey's 50-year record, I'm running on solutions, not slogans," Deaton said.
-"People in this state are paying too much for care and getting too little from Washington.
-That doesn't change because you put a slogan on a sign." "I'll take on the middlemen who inflate prices, open the books, and fight for a system that actually works for patients," Deaton said.
-"And I'll treat immigration like a problem to solve, not a line for a rally.
-Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+And if he runs, put that empty podium on every screen in this Commonwealth." ### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.
 General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.

@@ -2,7 +2,7 @@ top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Iss
 By September 2001, I had been in the Navy for 15 years.
 During that time, we had had the first Gulf War, and a good number of smaller military actions around the world, but we could be forgiven for thinking that the world was getting more peaceful.
 George Bush had run on Compassionate Conservatism, the Soviet Union was no more, and China was still a rising...
-5 0 Aug 5, 2026 ∙ 2 min Meeting Hampton Roads What a stretch.
+6 0 Aug 5, 2026 ∙ 2 min Meeting Hampton Roads What a stretch.
 For the last 5+ weeks, I've been fully engaged in meeting the Virginia Elections requirement to have 1000 validated, registered voters from your district sign a petition to allow someone to be placed on the ballot.
 I hadn't done anything like that before, and I live in a pretty dense part of town, so I figured it wouldn't be a big deal.
 Another lesson learned for the new guy.

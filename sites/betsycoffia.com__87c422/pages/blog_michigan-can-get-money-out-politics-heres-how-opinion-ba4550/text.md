@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Michigan can get money out of politics ― here’s how | Opinion Sixteen billion dollars.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Michigan can get money out of politics ― here’s how | Opinion Sixteen billion dollars.
 That’s how much was spent nationwide in the 2024 presidential election.
 The 2024 Michigan House elections alone spent $67 million.
 It begs the question: how much is our vote worth?

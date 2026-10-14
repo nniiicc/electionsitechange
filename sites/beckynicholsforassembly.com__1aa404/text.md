@@ -1,4 +1,4 @@
-top of page About Issues Get Involved Endorsements Open site navigation Back to site Make a Donation Make A Donation A Proven Leader Who Works for All Wisconsinites Join Us I'm Becky Nichols - Candidate for WI Assembly District 53 Menasha has been my home for over 20 years.
+top of page About Issues Get Involved Volunteer Volunteer Endorsements Open site navigation Back to site Make a Donation Make A Donation A Proven Leader Who Works for All Wisconsinites Join Us I'm Becky Nichols - Candidate for WI Assembly District 53 Menasha has been my home for over 20 years.
 Growing up, my parents taught me the value of hard work and what it means to be part of a community.
 I carried these lessons with me as a public school teacher, a city council member, and as a mom.
 Having served 12 years on Menasha City Council, I’ve sat at countless kitchen tables and listened to your stories – your victories, your struggles, and your hopes.
@@ -24,4 +24,4 @@ Let's Do This Together - Join Us!
 First name * Last name * Email * Phone How would you like to help?
 Yard sign Volunteer Host an event Other What are your priority issues?
 Let's Talk Email: info@beckynicholsforassembly.com Phone: 920-215-0186 ​ Becky Nichols for Assembly P.O.
-Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Endorsements bottom of page
+Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Volunteer Endorsements bottom of page

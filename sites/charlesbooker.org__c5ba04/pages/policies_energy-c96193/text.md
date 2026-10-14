@@ -11,7 +11,7 @@ I will: Protect the pensions, health care and black lung benefits that coal mine
 Fully fund abandoned mine land cleanup that puts Kentuckians to work restoring our land and water.
 Support an all-of-the-above energy strategy that keeps Kentucky plants running, keeps power affordable and creates new energy jobs here at home.
 Make sure new energy projects are built with union labor at prevailing wages, and that any worker affected by a plant closure gets real retraining and job placement.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

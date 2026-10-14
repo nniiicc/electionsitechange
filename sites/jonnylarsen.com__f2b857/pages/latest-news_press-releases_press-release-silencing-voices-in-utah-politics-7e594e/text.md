@@ -13,7 +13,7 @@ Anyone with information about the suspect is urged to contact the Sandy City Pol
 Larsen, a Democrat, is running for the Congressional Seat in District 4; District 4 covers parts of Salt Lake and Utah counties, and all of Juab, Millard, Sanpete and Sevier counties.
 Howells, a Democrat, is running for Utah House District 39, representing the areas of West Jordan, Sandy, and Murray.
 To see video and photos of the damage done visit this FaceBook post for more: https://www.facebook.com/share/p/19aTJrYb3W/ Howells For Utah Drew Howells howells4utah.com Jonny Larsen is a United States Marine combat veteran running for Congress in Utah’s 4th District.
-View Original Email Version → Support the Commitment Click an option to get started.
+View Original Email Version → ← Newer FOR IMMEDIATE PRESS RELEASE: Internal Survey Results Older → September 11, 2026 Remembrance Press Release Support the Commitment Click an option to get started.
 If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
 Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
 Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.

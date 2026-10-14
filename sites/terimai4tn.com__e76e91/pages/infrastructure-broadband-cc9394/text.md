@@ -1,5 +1,5 @@
 Skip to content Teri Mai for Tennessee House District 92 Toggle menu visibility.
-Home Contact Us Donate Privacy Policy Infrastructure & Broadband Posted 8 months ago by Teri Mai Safe roads, reliable bridges, and high‑speed internet access are essential components of modern infrastructure.
+Home Contact Us Donate Privacy Policy Infrastructure & Broadband Posted 9 months ago by Teri Mai Safe roads, reliable bridges, and high‑speed internet access are essential components of modern infrastructure.
 In many rural areas, aging road systems and inconsistent broadband coverage create barriers to education, healthcare, and economic development.
 Residents in District 92 depend on strong infrastructure for commuting, emergency services, business operations, and remote learning.
 Gaps in broadband access affect everything from telehealth appointments to homework completion.

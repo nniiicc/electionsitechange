@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Cate's Policy Priorities .
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Cate's Policy Priorities .
 Affordability in Housing and Energy Costs Everyone deserves safe, affordable housing, yet many Texas families struggle to buy their first home.
 In HD98, the average home costs more than $600,000 and housing supply is tight.
 Renters increasingly spend 40 percent of household income on rent.

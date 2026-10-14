@@ -1,4 +1,6 @@
-Campbell for Congress Home The Reality Who Am I The Plan Get Involved Campbell for Congress Home The Reality Who Am I The Plan Get Involved Thanks for visiting.
+Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Thanks for visiting.
 The fact that you chose to see something other than the two party offerings empowers all of us that can't align with either party any longer.
 Who are you supporting when you vote for me?
 Many years ago, I was given some sage advice; order your duties to God, to Family and to Country.

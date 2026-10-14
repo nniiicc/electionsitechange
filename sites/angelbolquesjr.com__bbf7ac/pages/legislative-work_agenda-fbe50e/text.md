@@ -156,6 +156,17 @@ John legislative complex is ever relocated, any successor conference room shall 
 Additionally, the Act amends Act No.
 8951 by extending the deadline for the expenditure of previously appropriated funds for the development of the St.
 Croix Equestrian Training Facility , allowing the project additional time to move forward and ensuring the appropriation remains available for its intended purpose.
+Act No.
+9167: An act appropriating the sum of $500,000 from the St.
+John Capital Improvements Fund to the Virgin Islands Department of Public Works, to mill, resurface, and pave the Rudolph A.
+Thomas, Jr.
+Road and Contant Point Road, on St.
+John Act No.
+9162 ( Bill No.
+36-0303) : To update and modernize the child passenger safety requirements applicable to rental vehicles by aligning Section 424 with the current child restraint system requirements established under Section 466 of Title 20.
+This ensures consistency in the law, improves child safety standards, and reflects current federal safety regulations. - This bill amends Title 20 of the Virgin Islands Code to strengthen child passenger safety requirements for rental vehicles.
+It requires rental car companies to provide drivers with clear information on child safety laws, including a written acknowledgment of receipt, and mandates that this information be readily available in every vehicle.
+By ensuring that both residents and visitors are properly informed of child safety requirements, this measure promotes safer driving practices, increases compliance with existing laws, and helps protect children traveling in rental vehicles throughout the Virgin Islands.
 Bills currently in the pipeline or being vetted for consideration include: Bill No.
 35-0037 : Amending Title 3 Virgin Islands Code to Allow for Insurance Coverage for Auxiliary Police Officers - By providing insurance coverage for auxiliary police officers, this bill supports the men and women who help keep our neighborhoods safe.
 It ensures they have the protection they deserve, which in turn enhances public safety and shows that we value the contributions of all those who serve our community.
@@ -284,10 +295,6 @@ BR25-0853: This bill modernizes the property tax assessment system in the Virgin
 Instead of relying on fluctuating comparable sales, the new system evaluates properties based on objective factors such as size, structure, condition, and amenities, creating a more consistent and transparent approach to property valuation.
 The measure is designed to promote fairness and protect homeowners, particularly in communities impacted by rising property values and gentrification, by reducing sudden and disproportionate tax increases.
 It also establishes a phased reassessment process, prioritizes relief for lower-valued and owner-occupied homes, and requires public input and regular updates to the assessment system.By creating a more equitable and predictable property tax framework, this bill strengthens public trust, improves compliance, and supports long-term housing stability for residents across the Virgin Islands.
-Bill No.
-36-0303: This bill amends Title 20 of the Virgin Islands Code to strengthen child passenger safety requirements for rental vehicles.
-It requires rental car companies to provide drivers with clear information on child safety laws, including a written acknowledgment of receipt, and mandates that this information be readily available in every vehicle.
-By ensuring that both residents and visitors are properly informed of child safety requirements, this measure promotes safer driving practices, increases compliance with existing laws, and helps protect children traveling in rental vehicles throughout the Virgin Islands.
 Bill No.
 36-0295: An act amending Act No.
 8951 to extend the disbursement dates of the funds appropriated from the Community Facilities Trust Account to the Department of Sports, Parks, and Recreation, for the construction of an equestrian training facility in Estate Body Slob, St.

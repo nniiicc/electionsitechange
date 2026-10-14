@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE The Role of the Thirteenth Court of Appeals May 16, 2026 Many voters hear about judicial races but may not always know what an appellate court does.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE The Role of the Thirteenth Court of Appeals May 16, 2026 Many voters hear about judicial races but may not always know what an appellate court does.
 The Thirteenth Court of Appeals plays an important role in Texas by reviewing decisions from lower courts and helping ensure that the law is applied correctly and consistently.
 Unlike trial courts, appellate courts do not hear witnesses or retry cases.
 Instead, appellate justices review the record from the lower court, study the legal arguments presented by the parties, and determine whether the law was properly applied.

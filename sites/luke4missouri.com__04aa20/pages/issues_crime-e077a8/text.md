@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Crime I participated in a ride along with the Saint Joseph Police Department last night.
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: Crime I participated in a ride along with the Saint Joseph Police Department last night.
 I wanted to see what our police officers do every day and learn more about the process and the challenges they face.
 It was very informative and would recommend anyone that is interested to reach out to them and schedule a time to do this yourself.
 I will always be a supporter of the police.

@@ -8,10 +8,6 @@
 "href": "https://secure.actblue.com/donate/betsyfor103"
 },
 {
-"text": "Events",
-"href": "https://www.betsycoffia.com/events"
-},
-{
 "text": "FEC website",
 "href": "http://www.fec.gov/"
 },
@@ -32,6 +28,10 @@
 "href": "https://www.betsycoffia.com/home"
 },
 {
+"text": "Local Events",
+"href": "https://www.betsycoffia.com/events"
+},
+{
 "text": "Policy",
 "href": "https://www.betsycoffia.com/policy"
 },
@@ -42,6 +42,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.betsycoffia.com/privacy-policy"
+},
+{
+"text": "Take MI Power Back",
+"href": "https://www.betsycoffia.com/takemipowerback"
 },
 {
 "text": "[email protected]",

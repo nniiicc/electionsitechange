@@ -20,9 +20,11 @@ Once enacted, this will provide affordable healthcare for over 500,000 working N
 The plan provides a path for a 70 percent reduction in carbon emissions for 2030, and carbon neutrality by 2050.
 This was a bipartisan effort to put North Carolina on the path to a cleaner future. ✓ Re-Open Schools Safely Following the COVID-19 pandemic, state and local officials struggled with creating a plan to get students back in the classroom, while maintaining safety protocols.
 Senator Blue’s bill to reopen schools safely passed with bipartisan support, getting students and families back into the classroom.
-The Latest from Facebook NC Senator Dan Blue, Jr #ago Dan Blue Works Hard for Working Families in Wake County.
+The Latest from Facebook NC Senator Dan Blue, Jr #ago We had an engaging discussion at the Knightdale Mayor’s Academy.
+Thank you to all who attended and supported this opportunity to learn more about civic engagement and government operations. ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) NC Senator Dan Blue, Jr #ago Dan Blue Works Hard for Working Families in Wake County.
 Early Voting starts this week and runs from October 15th-31st.
 There are 18 early voting locations throughout Wake County.
 Find all locations and hours here: www.wake.gov/departments-government/board-elections/election-information/2026-general-election VOTE DAN BLUE FOR NC SENATE DISTRICT 14. ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) NC Senator Dan Blue, Jr #ago Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Join the Team Notice: JavaScript is required for this content.
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Join the Team Notice: JavaScript is required for this content.
 Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

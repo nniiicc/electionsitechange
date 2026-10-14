@@ -26,4 +26,10 @@ Intervention Secure the $30 million for intervention allocated in the Governor�
 Provide grants for organizations focused on intervention to provide trauma-informed services.
 When we build from shared ground, we can move Tennessee forward - together.
 Chip in to Support David Weatherspoon Donate David Weatherspoon for TN District 31 Connect with the campaign!
-Email * First name * Last name * Phone * Yes, subscribe me to your campaign updates. * Subscribe DavidWeatherspoonForTNSenate@gmail.com Free yard sign request Paid for by David Weatherspoon for TN Senate ​ © # by David Weatherspoon for TN Senate bottom of page
+Email * First name * Last name * Phone * Yes, subscribe me to your campaign updates.
+Subscribe *By providing your phone number and checking this box, you agree to receive SMS messages from David Weatherspoon for TN Senate regarding campaign activities.
+Message frequency varies.
+Message and data rates may apply.
+Reply STOP to unsubscribe or HELP for assistance.
+See our Privacy Policy and Terms of Service for more information.
+DavidWeatherspoonForTNSenate@gmail.com Free yard sign request Paid for by David Weatherspoon for TN Senate ​ © # by David Weatherspoon for TN Senate | Privacy Policy bottom of page

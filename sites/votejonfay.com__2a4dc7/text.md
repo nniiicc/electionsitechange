@@ -1,6 +1,6 @@
 Home Privacy Policy Menu Menu Donate Link to Facebook Link to X Link to Instagram Link to LinkedIn Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Checkboxes Email Layout Phone Number Email Address * Checkboxes By providing your telephone number and checking this box, you consent to receive calls and text messages.
+First Name * Last Name * Name Phone Layout Phone Number Email Address * Checkboxes By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

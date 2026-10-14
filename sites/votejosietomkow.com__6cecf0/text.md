@@ -1,6 +1,6 @@
 SPECIAL ELECTION Tuesday, March 24th MAKE A PLAN TO VOTE Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Layout Last First Name * Last Name * Email Address * Phone Number Disclaimer * By providing your telephone number and checking this box, you consent to receive calls and text messages.
+First Name * Last Name * Email Address * Phone Number Number Name Last Disclaimer * By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

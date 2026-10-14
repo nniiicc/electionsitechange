@@ -1,4 +1,10 @@
-top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE LATEST NEWS JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S.
+top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE LATEST NEWS Media Advisory: John Sununu to be Joined by U.S.
+Chamber of Commerce Fresh off his defeat of left-wing, career politician Chris Pappas at the Mount Washington Valley Economic Council debate in North Conway, John Sununu will be joined by representatives of the U.S.
+Chamber of Commerce for a special announcement tomorrow, Wednesday, October 14.
+What: Announcement with U.S.
+Chamber of Commerce Date: Wednesday, October 14 Time: 11:30 AM.
+Where: Gemini Electric, 8 Priscilla Lane, Ste.
+1, Auburn, NH 03032 # Sununu Senator – Press Team #ago JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S.
 SENATE Will be an independent leader focused on affordability, accountability, and getting things done the New Hampshire way John Sununu tonight won the Republican nomination for U.S.
 Senate, advancing to the general election after a primary campaign centered on affordability, independent leadership, and putting New Hampshire first.
 “As Senator, I’ll have just one job: stand up for the people of New Hampshire every single day,” John Sununu said.
@@ -12,8 +18,4 @@ When the New York times reported on Platner’s mistreatment of women, use of ra
 Even after reports of multiple sexual assaults became public, Pappas's silence continued.
 Pappas ONLY spoke out an hour AFTER the Maine Democratic Party formally called on Platner to step down Sununu Senator – Press Team Jul 8 Chris Pappas Keeps Catering to the Far Left - Pappas Runs for Cover as Maggie Goodlander & Centrist Democrats Reject Socialism - On the heels of victories by progressive insurgents in New York and Colorado and a new poll showing Karishma Manzur surging in New Hampshire’s Democratic U.S.
 Senate primary, Chris Pappas is showing new signs that he is more concerned about pandering to the Far Left wing of the Democratic Party than being an independent voice for New Hampshire.
-The recent University of New Hampshire Survey Ce Sununu Senator – Press Team Jul 6 Senator Sununu Commends Supreme Court Ruling Protecting Girls’ Sports Chris Pappas Would Let Men in Women’s Sports John Sununu issued the following statement today following the Supreme Court ruling that protects Girls’ Sports.
-The Supreme Court ruled today that states can ban transgender athletes from participating in girls' and women's sports.
-“Title IX was designed to ensure opportunity for women and girls to compete in all levels of sports.
-Protecting those opportunities is common sense, and today’s Court ruling did just that.
-Sadly, Chri Sununu Senator – Press Team Jun 30 MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page
+The recent University of New Hampshire Survey Ce Sununu Senator – Press Team Jul 6 MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page

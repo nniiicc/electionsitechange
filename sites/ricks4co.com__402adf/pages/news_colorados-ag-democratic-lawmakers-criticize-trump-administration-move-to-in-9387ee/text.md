@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Morgan Anker November 20, 2025 Colorado’s AG, Democratic lawmakers criticize Trump administration move to include medical debt in people’s credit reports Morgan Anker November 20, 2025 A Colorado law finds itself at odds with the Trump administration, this time over whether medical debt should be included in people’s credit reports.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Morgan Anker November 20, 2025 Colorado’s AG, Democratic lawmakers criticize Trump administration move to include medical debt in people’s credit reports Morgan Anker November 20, 2025 A Colorado law finds itself at odds with the Trump administration, this time over whether medical debt should be included in people’s credit reports.
 The Consumer Financial Protection Bureau said recently that the Biden administration was wrong to remove information about medical debt from credit reports and rescinded a rule that was put in place days before Trump was inaugurated.
 It argued that the rule risked fracturing the national credit reporting system by allowing each state to create its own standards.
 The guidance to include medical information in credit reports was signed by the bureau’s director, Russell T.

@@ -1,5 +1,7 @@
 Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Women & Families Women & Families Search Search Explore by Topic Endorsements Events Local News Priorities Voting I’m Fighting to Lower Costs for You October 5, 2026 I’ve dedicated my career to delivering for Wake County and North Carolina.
 I’m taking on Donald Trump and fighting to lower costs so government works for us not the billionaires and big corporations.
+Read More » Lillian’s List Event October 5, 2026 Honored to be with so many incredible women supporting Lillian’s List yesterday.
+Their work recruiting, training, and electing Democratic, pro-choice women is essential.
 Read More » Participating in Local Candidate Forum September 25, 2026 Glad to participate in last night’s candidate forum hosted by the Alpha Theta Omega Chapter of Alpha Kappa Alpha Sorority, Inc.
 Thank you for having me and for your commitment to an informed electorate!
 Read More » Trump and Republicans’ Impact on Inflation and Interest Rates Affecting Us All September 24, 2026 “A monthslong surge of inflation set off by the Iran war has driven up costs nationwide for gasoline, groceries and other products, squeezing many household budgets.
@@ -17,5 +19,4 @@ Combined with rising living costs, it’s a “perfect storm,” said Rappl.
 That compares to 1 in 9 individuals in 2021.
 Rising food prices have also forced consumers to stretch their budgets or make Read More » Endorsed by GIFFORDS July 27, 2026 I’m proud to have the support of GIFFORDS in my campaign for reelection.
 I’ll never stop fighting to reduce senseless gun violence, protect our communities, and keep families safe.
-Read More » Trump’s Big Ugly Law July 23, 2026 Trump’s Big Ugly Law has now taken food assistance away from 4 million people across the country, including 1.5 million children, all so the wealthy and well-connected can receive billions in tax handouts.
-“More than 4 million people nationwide were dropped from the federal food assistance program known as SNAP Read More » « Newer Page 1 Page 2 Page 3 … Page 17 Older »
+Read More » « Newer Page 1 Page 2 Page 3 … Page 17 Older »

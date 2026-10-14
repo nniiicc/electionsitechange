@@ -1,5 +1,5 @@
-top of page Home About Me Volunteer Events Vote More Use tab to navigate through the menu items.
-DONATE SUBSCRIBE Hope in Action - It Starts Here District 10 is at a moment where hope can become momentum towards real change — but only if we act together .
+top of page Home About Me Volunteer Events Make a Plan to Vote Vote Blog More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Make a Plan to Vote Hope in Action - It Starts Here District 10 is at a moment where hope can become momentum towards real change — but only if we act together .
 This campaign is people first, not ego - it is neighbors collectively stepping toward a better future and helping one another get there. ​ Every person has something meaningful to offer.
 Maybe it’s an hour volunteering at an event, a talent you’re willing to share, showing up at events, or simply spreading the word to friends and family.
 Whatever you bring, it matters.

@@ -1,4 +1,4 @@
-Scott Huffman for NC Home Why I'm Running Issues Two Americas Contact Donate Volunteer Why I'm Running.
+Scott Huffman for NC 76 Home Why I'm Running Issues Two Americas Contact Donate Volunteer Why I'm Running.
 I know what it means to fight.
 Right now I'm fighting advanced prostate cancer.
 I'm still running, I'm going to beat cancer, and I'll fight just as hard for the people of Rowan County.

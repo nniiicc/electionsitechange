@@ -12,7 +12,7 @@ Pass term limits and end the insider sweetheart deals.
 Invest in core functions like schools and roads and say no to ever-expanding government.
 Get in Touch with Alex Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Phone Alex Name * First Last Email * Phone Number Volunteer to Help Alex Win!
+Name * First Last Email * Phone Number Email Alex Number Volunteer to Help Alex Win!
 Get email updates Take a yard sign Deliver and place yard signs Walk with Alex and put flyers on doors Host a meet-and-greet with Alex in your neighborhood Submit Support Alex Bergman Today! © # Alex Bergman for Kansas House of Representatives.
 All rights reserved.
 Paid for by Bergman for Kansas House, Jeffery Sweeten, Treasurer Search

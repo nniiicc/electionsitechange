@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Why Judicial Experience Matters Judicial experience matters on the Texas Thirteenth Court of Appeals.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Why Judicial Experience Matters Judicial experience matters on the Texas Thirteenth Court of Appeals.
 Learn why Justice Clarissa Silva’s legal background, appellate service, and record of more than 550 opinions matter for South Texas voters.
 Justice Begins with Integrity Trust in the courts begins with trust in the judiciary.
 Learn why integrity, character, and professionalism matter in Justice Clarissa Silva’s service on the bench.

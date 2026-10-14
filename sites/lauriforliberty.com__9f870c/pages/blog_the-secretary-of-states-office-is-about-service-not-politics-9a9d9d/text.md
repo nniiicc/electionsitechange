@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate The Secretary of State’s Office is about Service, not Politics May 18 Written By Danny Lundy Running a business in Indiana should be hard for the right reasons.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate The Secretary of State’s Office is about Service, not Politics May 18 Written by Danny Lundy Running a business in Indiana should be hard for the right reasons.
 It should be hard because you are taking a risk.
 Because you are building something new.
 Because you are competing, growing, and solving real problems in your community.

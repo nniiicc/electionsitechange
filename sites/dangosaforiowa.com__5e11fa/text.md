@@ -7,4 +7,4 @@ I am determined to fight like hell for our state and our Iowa values.” IOWA HO
 JOIN TEAM GOSA HERE!
 DONATE SUBSCRIBE VOLUNTEER FOLLOW DAN ON SOCIAL MEDIA © # Dan Gosa.
 All Rights Reserved.
-Website Design by Server: Mirror1-A
+Website Design by Server: Mirror1-P

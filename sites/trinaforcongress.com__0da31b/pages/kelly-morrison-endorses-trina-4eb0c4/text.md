@@ -1,0 +1,16 @@
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Rep.
+Kelly Morrison Endorses Trina Swanson For Congress Minnesota congresswoman joins growing coalition supporting Swanson Hermantown, MN (October 13, 2026)— Trina Swanson’s campaign for Congress today announced the endorsement of U.S.
+Representative Kelly Morrison, adding to a growing coalition of elected officials, labor unions, advocacy organizations, and community leaders supporting her campaign.
+“Trina Swanson is dedicated to standing up for Northern Minnesotans and the future of our state.
+That’s why I’m proud to endorse her campaign to represent Minnesota’s 8th District,” said Congresswoman Kelly Morrison, Minnesota’s Third District.
+“Trina is a proven public servant who will fight to bring down healthcare costs, protect our rural hospitals and emergency services, and make life more affordable for all Minnesotans.” U.S.
+Representative for Minnesota’s 3rd Congressional District, Morrison has focused her work on reproductive health, veterans’ care, prescription drug affordability, and mental health.
+“I’m deeply grateful to have Congresswoman Morrison’s support,” said Swanson.
+“As a physician and public servant, she understands the challenges families face and the importance of making quality healthcare more affordable and accessible.
+I’m proud to have her endorsement as I work to stand up for working families and build a future where everyone in our district can thrive.” Trina Swanson’s campaign for Congress has already received support from the National Farmers Union PAC, Minnesota State Council of Machinists, U.S.
+Senator Tina Smith, Congresswoman Betty McCollum, EMILYs List, the Minnesota AFL-CIO, Feminist Majority, Immigrants’ List, the Committee to Protect Health Care, the DFL and its Senior, Rural, and Veteran’s Caucuses, the Minnesota Association of Professional Employees, Save the Boundary Waters Action Fund, Women Winning, We Are Rising and Resisting Indivisible group, Iron Range Indivisible, Bemidji Indivisible, Duluth Indivisible, Education Minnesota, and community and union leaders across the region.
+Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

@@ -1,5 +1,5 @@
 Aizaz Shaikh Home About Issues Media Get Involved Find Your Voting Location Contribute Aizaz 4 Senate, Inc.
-Terms & Conditions Last updated: October 13, 2026 These Terms & Conditions ("Terms") govern your use of the Aizaz 4 Senate, Inc. website and our text messaging program.
+Terms & Conditions Last updated: October 14, 2026 These Terms & Conditions ("Terms") govern your use of the Aizaz 4 Senate, Inc. website and our text messaging program.
 By using our site or opting in to receive text messages, you agree to these Terms.
 SMS / Text Messaging Program Program (Brand): Aizaz 4 Senate, Inc. — Aizaz Shaikh for Georgia State Senate District 7.
 By providing your mobile number and checking the consent box on our sign-up form, you agree to receive recurring campaign-related text messages from Aizaz 4 Senate, Inc., including campaign updates, event invitations, get-out-the-vote reminders, donation asks, and other informational messages.

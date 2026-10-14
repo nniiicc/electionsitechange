@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Savannah #Black Business Expo #Small Business #Economic Growth Powering Small Enterprise: Micah King Visits the 2026 Greater Savannah Black Business Expo August 6, 2026 2 min read By Micah King When Saturday, August 1, 2026 Where Savannah, Chatham County, GA Table of Contents • Connecting Policy to Profit A thriving economy starts from the ground up, driven by the passion, innovation, and hard work of local entrepreneurs.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Savannah #Black Business Expo #Small Business #Economic Growth Powering Small Enterprise: Micah King Visits the 2026 Greater Savannah Black Business Expo August 6, 2026 2 min read By Micah King When Saturday, August 1, 2026 Where Savannah, Chatham County, GA Table of Contents • Connecting Policy to Profit A thriving economy starts from the ground up, driven by the passion, innovation, and hard work of local entrepreneurs.
 This past weekend, I saw that spirit in full force at the 2026 Greater Savannah Black Business Expo.
 Hosted by the Greater Savannah Black Chamber of Commerce , this event was an incredible showcase of Black-owned enterprises and local economic power.
 You can check out more photos and a great write-up of the event at Connect Savannah .

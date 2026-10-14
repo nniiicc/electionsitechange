@@ -1,4 +1,4 @@
-Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook Let’s Move NH Forward District 18: Dublin, Jaffrey, and Rindge Affordability Our Public Schools Opportunity Why Vote for Me?
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook Let’s Move NH Forward District 18: Dublin, Jaffrey, and Rindge Affordability Our Public Schools Opportunity Why Vote for Me?
 As your State Representative: I will focus on reducing the Cost of Living and Making NH Affordable.
 I commit to increasing state support for Public Education.
 I will be a strong supporter of building Housing You Can Afford.

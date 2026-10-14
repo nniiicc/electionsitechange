@@ -9,7 +9,7 @@
 },
 {
 "text": "Day",
-"href": "https://oscarlongoria.com/events/today/"
+"href": "http://oscarlongoria.com/events/today/"
 },
 {
 "text": "Donate",
@@ -25,11 +25,11 @@
 },
 {
 "text": "Export .ics file",
-"href": "https://oscarlongoria.com/events/month/?ical=1"
+"href": "http://oscarlongoria.com/events/month/?ical=1"
 },
 {
 "text": "Export Outlook .ics file",
-"href": "https://oscarlongoria.com/events/month/?outlook-ical=1"
+"href": "http://oscarlongoria.com/events/month/?outlook-ical=1"
 },
 {
 "text": "Google Calendar",
@@ -41,11 +41,11 @@
 },
 {
 "text": "List",
-"href": "https://oscarlongoria.com/events/list/"
+"href": "http://oscarlongoria.com/events/list/"
 },
 {
 "text": "Month",
-"href": "https://oscarlongoria.com/events/month/"
+"href": "http://oscarlongoria.com/events/month/"
 },
 {
 "text": "News",
@@ -53,7 +53,7 @@
 },
 {
 "text": "Nov",
-"href": "https://oscarlongoria.com/events/month/2026-11/"
+"href": "http://oscarlongoria.com/events/month/2026-11/"
 },
 {
 "text": "Outlook 365",
@@ -69,7 +69,7 @@
 },
 {
 "text": "Sep",
-"href": "https://oscarlongoria.com/events/month/2026-09/"
+"href": "http://oscarlongoria.com/events/month/2026-09/"
 },
 {
 "text": "Social Media Feed",
@@ -77,7 +77,7 @@
 },
 {
 "text": "This Month",
-"href": "https://oscarlongoria.com/events/month/"
+"href": "http://oscarlongoria.com/events/month/"
 },
 {
 "text": "[image: Oscar Longoria State Representative]",
@@ -105,11 +105,11 @@
 },
 {
 "text": "[tooltip: Next month]",
-"href": "https://oscarlongoria.com/events/month/2026-11/"
+"href": "http://oscarlongoria.com/events/month/2026-11/"
 },
 {
 "text": "[tooltip: Previous month]",
-"href": "https://oscarlongoria.com/events/month/2026-09/"
+"href": "http://oscarlongoria.com/events/month/2026-09/"
 },
 {
 "text": "iCalendar",

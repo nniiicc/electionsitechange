@@ -1,4 +1,4 @@
-Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook Allen Davis on Energy Policy Energy costs are a kitchen-table issue for families in Dublin, Jaffrey, and Rindge.
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook Allen Davis on Energy Policy for Rural Cheshire County Energy costs are a kitchen-table issue for families in Dublin, Jaffrey, and Rindge.
 New Hampshire already has some of the highest electricity rates in the country, and those costs fall hardest on working families, seniors on fixed incomes, and rural households that depend on oil and electricity for heat.
 Lowering Electricity and Utility Costs Allen Davis believes reducing electricity and utility costs for New Hampshire households must be a top priority in Concord.
 He supports state policies that increase competition among energy suppliers, expand access to community power programs, and prevent utility costs from being passed along to ratepayers without accountability.

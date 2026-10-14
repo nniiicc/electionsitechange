@@ -24,10 +24,6 @@
 "href": "https://citizensforhochgesang.org/store"
 },
 {
-"text": "Check Registration",
-"href": "https://indianavoters.in.gov/"
-},
-{
 "text": "Contact Us",
 "href": "mailto:campaign@citizensforhochgesang.org"
 },
@@ -70,6 +66,10 @@
 {
 "text": "Facebook",
 "href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://indianavoters.in.gov/"
 },
 {
 "text": "Gibson",
@@ -165,15 +165,15 @@
 },
 {
 "text": "Read post",
-"href": "https://citizensforhochgesang.org/news/ferdinand-democratic-headquarters-sep-2026"
+"href": "https://citizensforhochgesang.org/news/inside-the-box"
 },
 {
 "text": "Read post",
-"href": "https://citizensforhochgesang.org/news/indiana-coal-ash-permit-proposal-sep-2026"
+"href": "https://citizensforhochgesang.org/news/inside-the-box-data-centers"
 },
 {
 "text": "Read post",
-"href": "https://citizensforhochgesang.org/news/petersburg-prides-creek-housing-sep-2026"
+"href": "https://citizensforhochgesang.org/news/inside-the-box-mid-states-corridor"
 },
 {
 "text": "Read the full story",
@@ -241,11 +241,15 @@
 },
 {
 "text": "[image]",
-"href": "https://citizensforhochgesang.org/news/ferdinand-democratic-headquarters-sep-2026"
+"href": "https://citizensforhochgesang.org/news/inside-the-box"
 },
 {
-"text": "📍Bottomland Forest Ecology Hike near WinslowOct 3, 2026, 10:00 AMPatoka River National Wildlife Refuge property east of Winslow, IN (38.391798, -87.174402)View event →",
-"href": "https://citizensforhochgesang.org/events/details#patoka-bottomland-forest-hike-oct-2026"
+"text": "[image]",
+"href": "https://citizensforhochgesang.org/news/inside-the-box-data-centers"
+},
+{
+"text": "[image]",
+"href": "https://citizensforhochgesang.org/news/inside-the-box-mid-states-corridor"
 },
 {
 "text": "📍EPA public hearing: Indiana coal-ash permit proposalNov 12, 2026, 2:00 PMOnline and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, INView event →",

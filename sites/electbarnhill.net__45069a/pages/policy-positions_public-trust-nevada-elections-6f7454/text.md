@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Public Trust Starts With Elections Done Right electbarnhill Oct 08, 2026 0 Comments Public trust in an election shouldn’t depend on which county you live in, which candidate you supported, or how closely you follow election policy.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Public Trust Starts With Elections Done Right electbarnhill Oct 08, 2026 0 2 Comments Public trust in an election shouldn’t depend on which county you live in, which candidate you supported, or how closely you follow election policy.
 It should come from something simpler: clear rules, fair treatment for every lawful voter, careful ballot handling, and a process the public can see.
 That kind of trust isn’t built with slogans.
 It’s built through administration, and administration is the Secretary of State’s job.
@@ -46,10 +46,10 @@ Is your candidate for Nevada Secretary of State fighting this hard to protect yo
 If not, it’s time to take a closer look.
 Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 1 thought on “Public Trust Starts With Elections Done Right” Pingback: Election Transparency in Nevada: Show Voters the Work | Barnhill Post navigation Previous Previous post: The Court Asked Who Has a Stake in My Lawsuit.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 2 thoughts on “Public Trust Starts With Elections Done Right” Pingback: Election Transparency in Nevada: Show Voters the Work | Barnhill Pingback: How Nevada Polling Works: What a Poll Can and Can't Tell You | Barnhill Post navigation Previous Previous post: The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 Next Next post: Election Technology Nevada Voters Can Actually Check footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

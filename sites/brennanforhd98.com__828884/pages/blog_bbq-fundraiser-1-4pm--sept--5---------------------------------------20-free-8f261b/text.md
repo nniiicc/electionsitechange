@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 BBQ Fundraiser 1-4pm, Sept.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 BBQ Fundraiser 1-4pm, Sept.
 5; 20 free waterpark passes Aug 21, 2026 · By Cate B CB secure.actblue.com/donate/hd98bbq/#list_form_content Please join the Cate for HD98 team to celebrate Labor Day and the fall campaign kickoff.
 We'll provide the BBQ and soft drinks.
 We have 20 free tickets (first come, first served) to the Dove Park sprayground and pool.

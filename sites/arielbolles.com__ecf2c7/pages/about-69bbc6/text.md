@@ -15,4 +15,4 @@ In my free time I’m with my family, organizing in my community, knitting, gard
 Explore my priorities for Addison-3.
 Have questions or ideas for our district?
 Contact Ariel Back to Top Paid for by Ariel Bolles for Vermont P.O.
-Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign
+Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign Privacy policy

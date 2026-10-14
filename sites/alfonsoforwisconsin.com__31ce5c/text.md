@@ -5,18 +5,25 @@ Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
 Privacy Policy ➔ Δ For Liberty For Opportunity For a Brighter Future Michael Alfonso will fight for the people of Wisconsin’s 7th District, protect our way of life, and always put America First.
 He’ll never back down to the Radical Left and will always uphold the values that built our state and nation — faith, community, and hard work.
-Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress is with Republican Party of Wood County, WI.
-#ago I had an awesome time at the Wood County Patriot Dinner!
-Wood County is full of hardworking patriots who love Wisconsin.
-Grateful for the warm welcome.
-Let’s go win for Republicans in November! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha angry 75 Shares: 4 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress #ago Christopher Columbus risked his life and fortune on uncharted seas to expand Christendom and Western Civilization.
-He is a hero who paved the way for the creation of the greatest and most prosperous nation in the history of the world — the United States of America.🇺🇸 ...
-See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha wow angry 352 Shares: 18 Comments: 210 210 Comments Comment on Facebook Alfonso for Congress is with Evita Duffy Alfonso .
-#ago Baby Rosita’s first Packers game!
-One game in, and she’s already our little good luck charm.
-Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha wow angry 1919 Shares: 10 Comments: 100 100 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
+Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress #ago Had a great stop at Louie's Finer Meats in Cumberland.
+Louie's is a family business and one of the best-known names in Wisconsin sausage and smoked meats.
+Places like this are the backbone of our small towns.
+They create local jobs, support local farmers, and keep Wisconsin traditions alive.
+Thanks for having me! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 101 Shares: 1 Comments: 39 39 Comments Comment on Facebook Alfonso for Congress is with Wisconsin Right to Life.
+#ago I am incredibly honored to have earned the endorsement of Wisconsin Right to Life.
+I have always been pro-life.
+But becoming the father of a newborn daughter has deepened my sense of responsibility to stand up for those who cannot yet speak for themselves.
+In Congress, I will never waver in my commitment to protecting the unborn and defending the God-given dignity of every human life. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 252 Shares: 23 Comments: 30 30 Comments Comment on Facebook Alfonso for Congress #ago Thank you, Representative Calvin Callahan , for blocking efforts to subvert our elections in Wisconsin.
+Unlike my Democrat opponent, Fred Clark, I support voter ID and I will always protect the sanctity of every Wisconsin vote.
+I stepped into this lawsuit to defend Wisconsin law and stop a last-minute attempt to let voters who already returned an absentee ballot cast another ballot at the polls.
+The court granted my motion to intervene and denied the request to change the rules before Election Day.
+I’ll stay in this fight until it’s finished.
+One person.
+One ballot.
+Read more here: tinyurl.com/2hu85s7x ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes haha 20 Shares: 0 Comments: 3 3 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
 One game in, and she’s already our little good luck charm.
 Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 Twitter feed image.
 Twitter feed image.

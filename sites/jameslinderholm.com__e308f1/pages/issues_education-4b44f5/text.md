@@ -39,11 +39,10 @@ I will work to restore this money to education, where it belongs.
 Training our workforce Finally, we must ensure we have the necessary programs in place to train our workforce for the jobs we want to attract.
 The proper education is key for business recruitment, and is going to be increasingly important in a world where AI is being actively deployed to reduce employment opportunities.
 But we must ensure these programs truly benefit our students and that we are not using education money to actually lower employment wages or restrict promotion opportunities once in the workforce.
-James Linderholm More issues The Economy Healthcare Infrastructure Education Public Safety Volunteer for Linderholm Help elect James Linderholm Volunteer Most shifts are two hours: a weekday canvass or an evening phone bank from home.
+James Linderholm More issues Education Healthcare Infrastructure Volunteer for Linderholm Help elect James Linderholm Volunteer Most canvass shifts run 90 minutes to two hours on weekday mornings and afternoons.
 You'll get trained and paired with someone who's done it before.
 Bring a friend if you can.
 Sign up to volunteer Donate Donations pay for door hangers, yard signs and printing.
-ActBlue handles the payment.
-Donate on ActBlue (opens in a new tab) LINDERHOLM James Linderholm · Democrat for Alabama House District 20 Get involved Volunteer Donate on ActBlue (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
+Donate (opens in a new tab) LINDERHOLM James Linderholm · Alabama House District 20 Get involved Volunteer Donate (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
 Box 4764, Huntsville, AL 35815.
 Volunteer Donate (opens in a new tab)

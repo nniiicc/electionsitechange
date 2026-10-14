@@ -14,5 +14,5 @@ If he makes the ballot, his anger puts every reform-minded Republican in this st
 "When a Green and a Republican can agree on something in an election year, you know it's basic decency." Karas and Manske called on Schroeder to remove the post and on candidates of every party to denounce it.
 Pete Karas is the Wisconsin Green Party candidate for Secretary of State and a former Racine City Alderman.
 Andy Manske is a Republican candidate for Governor and a medical service technician from Franklin.
-Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Join the Movement Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

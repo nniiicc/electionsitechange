@@ -1,0 +1,8 @@
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Trunk or Treat October 23rd, 2026, 5:00 PM - 7:00 PM CST Date: Friday, October 23rd, 2026 Time: 5:00 PM - 7:00 PM CST Type: Other Address: 24250 US-281, San Antonio, TX Open in Google Maps • Open in Apple Maps Join Brandon Herrera for Congress at Buck and Doe’s for a FREE family fun event!
+Enjoy candy, games, food, prizes, and more.
+Decorate your vehicle, wear your best costume, and help create a fun Halloween for local families.
+Enter your decorated vehicle at brandonherreraforcongress.com/trunkortreat .
+The deadline to register is October 21.
+Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

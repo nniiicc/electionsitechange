@@ -23,7 +23,11 @@ PDF 2-page handout A Bank of Vermont Read Ben’s proposal for a public-interest
 View PDF Download PDF 2-page handout A Vermont Conservation Corps Explore Ben’s idea for strengthening Vermont’s workforce, communities, and environment.
 View PDF Download PDF 2-page handout Responsible Business Investment Learn how Vermont can pursue responsible economic growth with measurable public benefits.
 View PDF Download PDF 7-page policy paper Vermont Recovery & Opportunity Centers Explore a regional pathway from crisis to housing, recovery, skills, work, and community.
-View PDF Download Watch Ben YouTube Vermont’s Future: Jobs, Affordability & Opportunity An informal recording from Ben’s patio in Burlington, where he discusses building Vermont’s future through jobs, affordability, and opportunity.
+View PDF Download Watch Ben YouTube Campaign conversations, candidate forums, and policy discussions from Ben and the community.
+Video 01 Vermont’s Future: Jobs, Affordability & Opportunity An informal recording from Ben’s patio in Burlington, where he discusses building Vermont’s future through jobs, affordability, and opportunity.
+Watch on YouTube ↗ Video 02 Elections: UVM VPIRG Club — State Representative Chittenden-15 District Forum The University of Vermont’s VPIRG club hosts a forum for State Representative candidates in the Chittenden-15 district.
+Watch on YouTube ↗ Video 03 Building Bright Futures: Chittenden Regional Council’s Early Childhood Candidate Forum in Burlington Watch Ben and the other local candidates share their policy ideas about early childhood programs at the Building Bright Futures Chittenden Regional Candidate Forum.
+Watch on YouTube ↗ Video 04 Elections: State Representative Chittenden-15 Candidate Forum — September 8, 2026 Hear Ben discuss his vision for a more affordable, sustainable, and inclusive Vermont at the Chittenden-15 Candidate Forum.
 Watch on YouTube ↗ My priorities I believe Vermont can and will lead the way forward.
 Make Vermont Affordable + Vermont has become increasingly difficult to afford for seniors, working families, and young adults.
 We need serious action on housing, property tax relief, childcare affordability, and wage growth.

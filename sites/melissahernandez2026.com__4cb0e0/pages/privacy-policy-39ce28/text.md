@@ -21,6 +21,17 @@ Message frequency may vary.
 Message and data rates may apply.
 You may opt out of receiving text messages at any time by replying STOP to any message.
 For help, reply HELP or contact us at info@melissahernandez2026.com.
+SMS Messaging and Mobile Information Privacy Melissa Hernandez for Congress respects your privacy and is committed to protecting your personal information.
+No Sharing or Selling of Mobile Information No mobile information will be sold or shared with third parties or affiliates for marketing or promotional purposes.
+Text messaging originator opt-in data and consent will not be shared with any third parties or affiliates for their own marketing or promotional purposes.
+We may share information with trusted service providers solely as necessary to administer and deliver our campaign text messaging services.
+These providers are not authorized to use the information for their independent marketing purposes.
+Voluntary Consent Participation in our SMS messaging program is entirely voluntary.
+Providing a mobile phone number does not automatically enroll you in our text messaging program.
+You must affirmatively consent to receive campaign text messages.
+Opt-Out Rights You may withdraw your consent at any time by replying STOP to a campaign text message.
+For assistance, reply HELP.
+Information Security We take reasonable measures to protect personal information collected through our website and campaign communications.
 Network And Information Security We employ a variety of physical, electronic, and procedural safeguards to guard your personal information.
 For example, we use commercially reasonable tools and techniques to protect against unauthorized access to our systems.
 Also, we restrict access to personal information about you to those employees who need to know that information to provide services to you.

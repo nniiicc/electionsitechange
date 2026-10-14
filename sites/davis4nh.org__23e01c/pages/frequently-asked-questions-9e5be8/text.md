@@ -1,4 +1,4 @@
-Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook Frequently Asked Questions What will Allen Davis do about the rising cost of living?
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook Frequently Asked Questions What will Allen Davis do about the rising cost of living?
 The cost of living is rising for food, gas, fuel, health care, housing, electricity, and childcare.
 As your State Representative, I will fight to bring down these and other expenses wherever possible.
 Does Allen Davis support state-funded public education?

@@ -2,7 +2,7 @@ Meet Alexis Conoce a Alexis Priorities Prioridades Record Logros Latest News Úl
 Making Your Voice Impactful in Tallahassee.
 Compartiendo Tus Valores.
 Llevando Tu Voz a Tallahassee.
-Donate Now Donar Ahora Get Involved Participa Elect Alexis 2026 Elija a Alexis 2026 Effective, Miami born & bred leader fighting for the future of affordability.
+Donate Now Donar Ahora Get Involved Participa Sound Sonido Elect Alexis 2026 Elija a Alexis 2026 Effective, Miami born & bred leader fighting for the future of affordability.
 Florida's foremost advocate for the public education system, low-cost childcare, and parental choice.
 A voice of moral clarity and moral courage that champions the freedoms that built Miami-Dade.
 Elect Senator Calatayud in 2026.

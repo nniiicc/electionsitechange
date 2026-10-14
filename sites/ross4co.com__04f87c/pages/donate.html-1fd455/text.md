@@ -1,7 +1,7 @@
 About Issues Events Volunteer Contact Donate Donate Support the campaign.
-Grassroots Funding Help me reach $60,000 in the next 60 days.
-Ballots mail to every HD23 voter in mid-October, by October 19.
-Whatever we raise between now and then pays for the print, digital, and door-to-door work that actually reaches people before they vote, not after.
+Grassroots Funding Help us finish the final stretch.
+Ballots mail to every HD23 voter by October 19.
+Your contribution goes directly toward the remaining campaign mailers that reach voters while they're deciding, and our election night watch party.
 This campaign is powered by individual donors: neighbors in HD23 and Coloradans who believe a state House seat should answer to people, not corporate checkbooks.
 I'm building this with your input and support. $25 $50 $100 $250 $450 Contribute Any Amount You will be taken to a secure contribution page.
 Contributions are not tax-deductible.

@@ -9,8 +9,7 @@ Muwakkil As a regional leader of the nation's oldest civil rights organization, 
 Muwakkil oversees local initiatives focused on racial justice, voting access, and educational equity in Lee County, Florida.
 The role involves mobilizing community members and advocating against systemic policies that disproportionately harm minority populations.
 Jetson Grimes Jetson Grimes is a lifelong Sarasota resident, entrepreneur, and community visionary who has operated a local salon for more than 40 years.
-He founded the Greater Newtown Redevelopment Corporation and curates a historical gallery dedicated to preserving the history of Sarasota's oldest Black neighborhood. democratic hispanic caucus of fl This organization works to unite, educate, and empower Hispanic and Latino communities throughout the state of Florida.
-It actively supports Democratic candidates, builds local county chapters, and advocates for legislation that reflects the cultural and socioeconomic needs of Hispanic families.
+He founded the Greater Newtown Redevelopment Corporation and curates a historical gallery dedicated to preserving the history of Sarasota's oldest Black neighborhood.
 Florida Democratic Agricultural Caucus This caucus represents the intersection of rural economies, farming communities, and progressive agricultural policy within the state.
 It focuses on promoting sustainable farming methods, securing resources for farmworkers, and ensuring food security throughout Florida.
 National Security Leaders for America This organization is composed of veteran security professionals dedicated to defending democratic institutions, the rule of law, and global strategic alliances.

@@ -1,4 +1,10 @@
-Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Ensure Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Our Priorities Make Government Accountable and Root out Fraud We need a government that can carry its weight and match your drive and ambition.
+Donate today.
+Every dollar counts.
+I’m running for governor to take on the powerful and get things done for every Minnesotan.
+This is a home-grown campaign, born in a moment like no other.
+Will you chip in today?
+Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Continue to Site Donate Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Support Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Menu Close Home Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Our Priorities Make Government Accountable and Root out Fraud We need a government that can carry its weight and match your drive and ambition.
 Download the Plan Full Video URL Background MP4 Popup Poster Watch in a new tab “We need a government that can carry its weight and match your drive and ambition.
 “A government that solves problems, not causes them.
 A government that guards taxpayer dollars instead of allowing them to be misspent or stolen.

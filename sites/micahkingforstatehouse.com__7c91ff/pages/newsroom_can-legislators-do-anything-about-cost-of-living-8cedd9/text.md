@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Affordability #Policy #Taxes #Utilities #District 157 Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Affordability #Policy #Taxes #Utilities #District 157 Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
 September 22, 2026 11 min read By Micah King Table of Contents • The Economic Baseline in District 157 • Property Taxes: HB 581, Rollback Rates, and Assessment Mechanics – Standard Homestead Exemptions and HB 581 – Rollback Millage Rates and Procedural Transparency – What legislators can do • Groceries: The Regressive Local Sales Tax Trap – The State Exemption vs.
 The Local Stack – The GATE Exemption Balance – What legislators can do • Utility Bills: PSC Oversight, Plant Vogtle, and Rural EMCs – Recent Regulatory Dockets Impacting Bills – What legislators can do • Price Controls vs.
 Free Market Reality – The Price Gouging Statute • Healthcare and Housing Affordability • The Bottom Line: Exact Levers I Will Pull Every time families across Tattnall, Evans, Appling, and Jeff Davis counties check out at the grocery store, open their monthly electric bill, or receive their county property tax assessment, they feel the squeeze.

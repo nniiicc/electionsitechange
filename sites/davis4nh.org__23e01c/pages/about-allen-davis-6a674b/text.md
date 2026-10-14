@@ -1,4 +1,4 @@
-Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook About Allen Davis I am a Dublin resident who has been in the Monadnock region for more than 20 years with my longtime partner, Felicity, who grew up in Dublin.
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook About Allen Davis I am a Dublin resident who has been in the Monadnock region for more than 20 years with my longtime partner, Felicity, who grew up in Dublin.
 Our rescue dog, Paisley, hails from Texas.
 I love New Hampshire for its people, mountains, lakes and natural beauty and am an active hiker, bicyclist, cross-country skier, and tennis player.
 My passion and reason for running for office is to make life better and more affordable for the residents of Dublin, Jaffrey and Rindge.

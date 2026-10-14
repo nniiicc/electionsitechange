@@ -1,6 +1,6 @@
 top of page CHIP IN TO HELP SEND DAVID BROCK SMITH TO SENATE!
 HOME MEET DAVID ISSUES ENDORSEMENTS JOIN NEWS DONATE Senator David Brock Smith to Participate in Live KTVZ Town Hall After Senator Merkley Refuses Debate Senator David Brock Smith Continues Commitment to Transparency, Accountability, and Direct Engagement with Oregon Voters PORT ORFORD, OR – Oregon Republican nominee for the United States Senate, Senator David Brock Smith, will participate in a live 30-minute town hall hosted by KTVZ this evening at 6:00 p.m., providing Oregonians with an opportunity to hear directly from a candidate willing to answer questions and discuss the critical issues facing the state.
-The town hall fo David Brock Smith #ago Senator David Brock Smith Accepts October 6th U.S.
+The town hall fo David Brock Smith Oct 6 Senator David Brock Smith Accepts October 6th U.S.
 Senate Debate Invitation Hosted by KTVZ in Bend Calls on Senator Jeff Merkley to join him on stage and address the issues facing Oregon voters.
 PORT ORFORD, OR – Oregon’s Republican nominee for the United States Senate, Senator David Brock Smith, announced today that he has formally accepted KTVZ’s invitation to participate in the October 6th U.S.
 Senate Debate in Bend.

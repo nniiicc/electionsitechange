@@ -19,7 +19,20 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago 🗳️ Ballots will be mailed out starting this week! 📬 Now is the time to start doing your research on the candidates that you'll see on your bal The Salt Lake Tribune ibune is printing the results of the candidate surveys that were completed for all races across the state.
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
+In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
+I'm this job, YOU are my boss.
+I'd love to hear what I can do to better serve our District.
+HB181: Offender Employment Amendments This bill created an online portal that connected individuals that are currently incarcerated and about to be released with jobs that they are eligible for, even with a criminal record.
+This portal is housed and maintained under the Department of Workforce Services.
+We know that stable employment is the first step to securing housing, paying back court fees, catching up on child support.
+We want to make sure that our neighbors starting over again have all the tools they need to continue their upwards trajectory.
+You can read the full bill here: share.google/1BB2UOcCqokgpK9zi ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Another great Trunk or Treat at Cougar Harmons!!
+Thank you to everyone that braved the rain to come and show us your cute costumes!!
+What a great way to kickoff Halloween festivities in the community.
+Thank you Kearns Community Committee and Harmons for hosting this fun event! 🎃👻🕷️🦇 ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago 🗳️ Ballots will be mailed out starting this week! 📬 Now is the time to start doing your research on the candidates that you'll see on your bal The Salt Lake Tribune ibune is printing the results of the candidate surveys that were completed for all races across the state.
 You can check them all out online, but here is the one for HD37: www.sltrib.com/news/politics/2026/10/12/ashlee-matthews-faces-casey-sexton/ *There are a few corrections that will be updated tomorrow If you haven't already, register to vote/check your voter registration here: share.google/Qul4XZUzhsaP7YZIT ...
 See More See Less Utah House District 37: Ashlee Matthews faces off against Casey Saxton www.sltrib.com In the 2026 race for Utah’s House District 37, Ashlee Matthews is taking on Casey Saxton.
 Read The Salt Lake Tribune’s voter guide here.
@@ -28,13 +41,7 @@ My lived experience as a working mom of three boys, a state employee, and a memb
 Visit ashleeforutah.com and vote for Ashlee Matthews November #ashleeforutah l #electmoremoms c #HD37 m #unityincommunity n #westsidebestside debestside ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Childcare is an issue that I've worked on every session since being elected, and I'm proud that I've been able to provide support for our kids, our parents, and providers with several pieces of legislation since then.
 I'm committed to continuing my work in this space to keep our kids in safe, healthy learning spaces and give parents a peace of mind and a little extra breathing room. ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago The last weekend before ballots drop and we're out and about meeting with neighbors and dropping off signs!!
-Thank you to everyone that joined us today to help us connect with neighbors in HD37! 💚💛 P.S.
-I still have a couple signs in the back of my car that I would be happy to swing by to those that want to host!
-Send me a message! 😎 ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Looking forward to seeing you and your family on Monday! ...
-See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.
 Success!

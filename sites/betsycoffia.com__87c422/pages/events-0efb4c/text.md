@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Have Fun, Grow Community More than ever, we need to build community and support our neighbors.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Have Fun, Grow Community More than ever, we need to build community and support our neighbors.
 Join us in doing so.
 Have Fun, Grow Community.
 More than ever, we need to build community and support our neighbors.
@@ -15,6 +15,9 @@ This is a free event for the community with music, dancing, pumpkin carving, kar
 Snacks, dinner, non-alcoholic beverages, and one pumpkin per family will be provided.
 The Fall Fun Fest is open to community members of all ages!
 Please spread the word and invite your friends, family, and neighbors to join!
+Schedule of Events: - 4:30pm: arrival - 5:00pm: Dances performed by Grupo Folklorico Xochiquetzal and powwow dancing from members of the Grand Traverse Band of Ottawa and Chippewa Indians - 6:15pm: Taco bar (free dinner provided for all guests) - 6:45pm-9:00pm: Pumpkin carving, dancing and karaoke Our goal is to spread some joy and feed our neighbors.
+We will have resources available for voting registration and early voting, though this is a non-political event for all.
+We hope you can join us!
 The Fall Fun Fest will take place on Saturday, October 24th from 4:30PM to 9:00PM at the Gilbert Lodge at Twin Lakes Park (6800 N Long Lake Rd, Traverse City, MI 49685).
 Gilbert Lodge is the blue building located at the end of the Twin Lakes Park road at the bottom of the hill.
 FALL FUN FEST RSVP End Of Summer Movie Night Popcorn.

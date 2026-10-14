@@ -1,0 +1,4 @@
+Donate Home Meet Nancy Priorities Endorsements Events News ▾ News & Press Newsletters Volunteer Contact Us Donate Campaign Update – October 8, 2026 Read Nancy’s October 8 newsletter for campaign news, community highlights, upcoming events, and ways to get involved. ← Back to All Newsletters ← Previous September 30, 2026 📚 All Newsletters Stay Connected Stay in the Loop Get campaign updates, event invitations, volunteer opportunities,and important election news delivered directly to your inbox. " Sign Up for Campaign Updates → Join Nancy’s campaign community and stay informed.
+NANCY MANNION FOR CONGRESS Citizens for Nancy Mannion PO Box 4217 Lancaster PA 17604 info@nancymannion.com Home Meet Nancy Events Donate Facebook Instagram Contact Us Sitemap Stay in the loop Get campaign updates, event invitations, and important election news.
+Sign Up → Paid for by Citizens for Nancy Mannion. © # Nancy Mannion for Congress.
+All Rights Reserved.

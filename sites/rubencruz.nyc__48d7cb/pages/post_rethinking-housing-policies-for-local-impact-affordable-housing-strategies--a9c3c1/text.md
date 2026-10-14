@@ -66,8 +66,8 @@ Let’s build a future where affordable housing is a reality, not a dream.
 Where every resident has a safe, stable place to call home.
 Where our local economy is strong because our people are supported.
 The time to act is now.
-Together, we can make it happen. www.rubencruz.nyc Recent Posts See All Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
+Together, we can make it happen. www.rubencruz.nyc Recent Posts See All Enhancing Community Animal Care: Strengthening Policies in Queens Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
 It molds the minds of tomorrow’s leaders, workers, and citizens.
 Yet, our local schools face challenges that demand urgent action.
-I believe it’s time to transform local e CruzNYC Community Efforts: Building Stronger Communities Together Animal Welfare in Queens: Policies Shaping Our Community The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+I believe it’s time to transform local e CruzNYC Community Efforts: Building Stronger Communities Together The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 The Foundation BBQ The Blueprint Events Get Involved Contact Paid for by Friends of Ruben Cruz ESSENTIAL LINKS - Click Below Unemployment Insurance Free Meals Domestic Violence Assistance Elder Abuse Office of Victiim Services NYC Well Apply for SNAP CITYMEALS for Seniors Food Bank Check Your DEED MTA Maps Home Energy Assistance Program Property Tax Benefits A S P C A Services Hotline Community Board 5 Community Board 8 Community Board 9 Community Board 10 bottom of page

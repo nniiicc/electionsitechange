@@ -1,5 +1,5 @@
 0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A U.S.
-National Debt Crisis Is Coming - The Wall Street Journal Sep 25 Written By Guest User Our politicians are ignoring the problem.
+National Debt Crisis Is Coming - The Wall Street Journal Sep 25 Written by Guest User Our politicians are ignoring the problem.
 William A.
 Galston at the Wall Street Journal warns of the dangers of our increasing national debt and the failure of politicians to address it: https://www.wsj.com/opinion/a-u-s-national-debt-crisis-is-coming-policy-politics-6e189256?st=AGRV6D My campaign has been about discussing the real problems that we face as a country: the spiraling national debt, the coming insolvency of Social Security and Medicare, and the failure of our welfare system to end poverty.
 My common-sense solution is to phase out our welfare and entitlement programs and use this money to create a universal basic income of $16,000 per year for everyone 21 years and older.

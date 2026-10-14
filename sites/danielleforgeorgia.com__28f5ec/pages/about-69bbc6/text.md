@@ -18,7 +18,7 @@ She believes good leaders should tell the truth, make hard choices with care, an
 Her vision for District 44 is simple: every family should have a chance to succeed, every voice should be heard, and state government should be built on trust, faith, service, and accountability.
 Danielle Bell is running to rebuild trust, get results, and help move Georgia forward—together.
 Her Story Here is a look at Danielle’s life and the experiences that shaped who she is today.
-Childhood Danielle Bell grew up on a family farm in Batesville, Indiana.
+Childhood Danielle Bell grew up on a family farm in Greensburg, Indiana.
 Her parents were a small business owner and a waitress.
 They taught Danielle the value of hard work, faith, kindness, and helping others.
 While she was in high school, Danielle worked at a daycare to earn money.

@@ -80,6 +80,10 @@
 "href": "https://maurakeller.com/news"
 },
 {
+"text": "Older Posts",
+"href": "https://maurakeller.com/news?offset=1711371600757"
+},
+{
 "text": "Political Action",
 "href": "https://maurakeller.com/news/category/Political+Action"
 },
@@ -128,10 +132,6 @@
 "href": "https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary"
 },
 {
-"text": "Press Release: Maura Keller for Congress Campaign",
-"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
-},
-{
 "text": "Press Release: Maura Keller to Celebrate Election Night in Fayetteville",
 "href": "https://maurakeller.com/news/maura-keller-election-night-party"
 },
@@ -158,6 +158,10 @@
 {
 "text": "Read More",
 "href": "https://maurakeller.com/news/feminist-majority-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "Read More",
@@ -205,10 +209,6 @@
 },
 {
 "text": "Read More",
-"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
-},
-{
-"text": "Read More",
 "href": "https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary"
 },
 {
@@ -234,6 +234,10 @@
 {
 "text": "Speaking Event",
 "href": "https://maurakeller.com/news/category/Speaking+Event"
+},
+{
+"text": "The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll",
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "The Feminist Majority Endorses Maura Keller",
@@ -312,16 +316,16 @@
 "href": "https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary"
 },
 {
-"text": "[image: Press Release: Maura Keller for Congress Campaign]",
-"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
-},
-{
 "text": "[image: Press Release: Maura Keller to Celebrate Election Night in Fayetteville]",
 "href": "https://maurakeller.com/news/maura-keller-election-night-party"
 },
 {
 "text": "[image: Press Release: Maura Keller to Speak at Rally in Carrollton, GA, Marking 2 Years Since Dobbs]",
 "href": "https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary"
+},
+{
+"text": "[image: The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll]",
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "[image: The Feminist Majority Endorses Maura Keller]",

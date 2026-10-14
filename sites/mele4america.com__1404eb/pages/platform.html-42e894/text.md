@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Articles Contact Volunteer Donate Common sense.
+Skip to content MELE FOR CONGRESS Open menu Home Vote Meet Gregg Priorities Articles Volunteer Donate Common sense.
 Clear priorities.
 A platform built for the people who live with the consequences.
 Gregg Mele believes every federal decision should pass a simple test: Does it make New Jersey families safer, freer, and better able to build a future?

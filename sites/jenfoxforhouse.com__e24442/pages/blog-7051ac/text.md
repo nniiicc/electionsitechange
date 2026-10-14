@@ -1,5 +1,6 @@
 top of page Meet Jen Issues Endorsements Events Get Involved Vote Gallery More Use tab to navigate through the menu items.
-DONATE All Articles All Articles 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
+DONATE All Articles All Articles 41B Weekly, Issue 7: Three weeks to go Sent Monday, October 12, 2026.
+Issue 7 covered the October 13 pre-registration deadline, this week's door knocks from Spiral Brewery and Park High School, the ask to wear a Jen Fox shirt, and early voting opening at Hastings City Hall on October 16. jenfoxforhouse #ago 1 min read 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
 Issue 6 opened with a thank-you to everyone who filled Hastings City Hall for the September 30 candidate forum.
 It then covered the October 13 deadline to pre-register to vote, this week's door knocks (Wednesday, October 7 at 5 and Reverse Trick or Treating on Sunday, October 11 at 2), and where to vote early in Dakota and Washington counties.
 Read Issue 6 as it was emailed New issues go out most weeks.

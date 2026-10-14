@@ -1,8 +1,9 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Vote for someone who believes in people, works to help others, and puts your issues and concerns first, not special interests, personal gain, or the president.
-Now is the time for change.
-Vote for someone who believes in people, works to help others, and puts your issues and concerns first, not special interests, personal gain, or the president.
-You deserve a representative who answers to you and fights for you.
-Vote Kuhn for Congress More Conversations Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County is always a good day.
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations ♫ ﻿Vote Now ♬ The Foxy Affect ♪♪ It’s time to vote for change.
+Vote Heidi Kuhn for Tennessee’s 8th Congressional District.
+More Conversations Sep 21, 2026 - Want to help us WIN?
+We need your assistance (and would welcome it).
+Sep 21, 2026 - Time to check your Tennessee Voter Registration!
+Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County is always a good day.
 Sep 19, 2026 - Thank you, Main Street Festival (Decaturville) Attendees!
 Sep 19, 2026 - Thank you, Shelby County Democratic Women!
 Sep 19, 2026 - Thank you, Cooper-Young Festival Attendees!
@@ -34,8 +35,6 @@ We need change.
 We need a voice.
 Sep 2, 2026 - Thank you, Bar 33 Attendees!
 Sep 1, 2026 - ICE’s tactics of profiling, intimidation, and creating fear in our communities are not making us safer.
-Aug 30, 2026 - It’s time for change, Heidi Kuhn for Congress.
-Aug 30, 2026 - The TNDP Three Star Dinner was a tremendous success with about 1000 attendees!
 Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

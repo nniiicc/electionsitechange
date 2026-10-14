@@ -1,5 +1,5 @@
 Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Platform Events Volunteer Endorsements Contact District 43 Store Donate ENDORSEMENTS Community Leaders Elizabeth Anderson CEO OF LUNARLAB, 2024 DEMOCRATIC NOMINEE FOR U.S.
-HOUSE OF REPRESENTATIVES, AL-06 Tabitha Isner FORMER VICE-CHAIR OF THE ALABAMA DEMOCRATIC PARTY, 2018 DEMOCRATIC NOMINEE FOR U.S.
+HOUSE OF REPRESENTATIVES, AL-06 Prince Cleveland 2022 DEMOCRATIC NOMINEE For ALABAMA State House District 43 Tabitha Isner FORMER VICE-CHAIR OF THE ALABAMA DEMOCRATIC PARTY, 2018 DEMOCRATIC NOMINEE FOR U.S.
 HOUSE OF REPRESENTATIVES, AL-02 Mandie Ledkins DEMOCRATIC NOMINEE FOR ALABAMA State Senate District 14 Alan Thomas DEMOCRATIC NOMINEE For ALABAMA State House District 50 David Morgan DEMOCRATIC NOMINEE For ALABAMA State House District 41 Donald Mottern DEMOCRATIC NOMINEE For ALABAMA State Senate District 11 ORGANIZATIONS Alabama AFL-CIO Central Alabama Labor Federation Center for Freethought Equality Alabama Cannabis Coalition Alabama Democratic County Chairs Assoc.
 Shelby County Democratic Party Progressive Voters Network DESIGNATIONS AND PLEDGES Mental Health Now Candidate Moms Demand Action Gun Sense Candidate U.S.
 Term Limits Pledge Signee Want to endorse Taylor Cook?

@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=9a72a8b313 RSVP: Sen.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=e348dcc060 RSVP: Sen.
 Paul Bailey’s 5th Annual Cowboy Cookout Home RSVP: Sen.
 Paul Bailey’s 5th Annual Cowboy Cookout You’re invited to Senator Paul Bailey’s 5th Annual Cowboy Cookout!
 September 19, 2026 | 5:00-8:00 pm | Duck Pond Manor Join Senator Paul Bailey for a memorable Cowboy Cookout on Saturday, September 19, 2026, from 5:00 p.m. to 8:00 p.m. at the scenic Duck Pond Manor in Sparta, TN .

@@ -13,7 +13,7 @@ Many Idaho landlords are using algorithms to illegally raise rents.
 3/24/24 Defending Small Business 4/04/25 Education - HJR1 2/19/25 Albertsons-Kroger merger is bad for Idaho and needs to be stopped.
 9/19/24 Speaking out against Anti-Camping Legislation (S1141aa) 3/25/25 RS32450 -Firefighters Collective Bargaining 2/25/25 My closing comments against H98, an anti-teachers union bill from out-of-state dark money groups.
 2/10/25 My floor debate against HJM1, a memorial to end marriage equality in Idaho, 1/27/25 Arguing against H520 restrictions on healthcare for trans Idahoans.
-2/21/24 Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
-Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+2/21/24 Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Saturday l 12pm - 4pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Monday - Friday l 11am - 6pm Saturday | 9am - 3pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Saturday l 11am - 2pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
 Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
 The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

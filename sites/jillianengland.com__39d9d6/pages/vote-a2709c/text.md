@@ -1,4 +1,6 @@
-# days until Election Day, Tuesday, November 3, 2026 Ballots mail October 14 · Vote Jillian England → Jillian England Home About Issues Races Notes Vote Donate Contact Bio Endorsements Primary certified · General election November 3, 2026 They Raised Seattle's Taxes, your taxes.
+# days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
+Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
+Races Notes Vote Donate Contact Bio Endorsements Primary certified · General election November 3, 2026 They Raised Seattle's Taxes, your taxes.
 You Lost Your Local Businesses and Restaurants Property taxes.
 Gas taxes.
 Climate fees.
@@ -30,7 +32,8 @@ Under Washington’s top-two system, both Noel Frame and Jillian England advance
 Our primary total finished at 5,876 votes — real votes for a different direction on energy, taxes, public safety, and the cost of living.
 General election: Tuesday, November 3, 2026.
 Washington is vote-by-mail.
-King County mails ballots Wednesday, October 14 .
+King County mailed ballots on Wednesday, October 14.
+Your ballot is on its way or already in your mailbox.
 When yours arrives: Thu, Oct 15: Official drop boxes open.
 Mon, Oct 26: Last day to register or update your registration online or by mail (in person at a vote center through 8 p.m. on Election Day).
 Tue, Nov 3: Ballots due by 8 p.m. at a drop box, or postmarked by Nov 3 if mailed.
@@ -44,6 +47,6 @@ Box 30064, Seattle, WA 98113.
 Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

@@ -5,4 +5,5 @@ On AI, some of the most powerful tech companies in the world are trying to use t
 Tom has fought to protect rural communities, even when it cost him politically.
 He believes that every county deserves access to quality health care, and that farming and forestry remain vital to the Virginia economy.
 He will fight to reverse the shuttering of rural health clinics caused by John McGuire and this Congress and to end the trade wars and war in Iran that have sent fuel, food, and fertilizer prices off the rails.
-Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

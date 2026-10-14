@@ -1,4 +1,4 @@
-Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet More Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Volunteer at local food pantry Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Volunteer at local food pantry About Brooklynne Mosley Rising Together For Lawrence Brooklynne Mosley is an East Lawrence resident who works at GPS Impact as a Vice President of Mobilization and Advocacy.
+Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet More Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Donate Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Donate About Brooklynne Mosley Rising Together For Lawrence Brooklynne Mosley is an East Lawrence resident who works at GPS Impact as a Vice President of Mobilization and Advocacy.
 She volunteers and serves on local, regional, and statewide boards in her free time.
 Brooklynne is originally from Kansas City and lived in Waldo until she was 9-years-old.
 She is the oldest child and grew up with a large extended maternal family.
@@ -17,4 +17,4 @@ The state's inability to expand Medicaid has left the most vulnerable Kansans wi
 Policies that leave behind the most vulnerable amongst us burn through a community.
 Like #ago, Lawrence can choose to stay in the char and ashes or rise together.
 I am Brooklynne and I look forward to serving this community as your next State Representative in the 46th District.
-Paid for by Brooklynne Mosley for Kansas| Treasurer Erika Fincham Powered by Donate to Douglas County United Food Pantry Response Fund Check Here
+Paid for by Brooklynne Mosley for Kansas| Treasurer Erika Fincham Powered by Douglas County Elections Check Here

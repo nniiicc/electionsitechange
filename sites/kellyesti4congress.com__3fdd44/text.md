@@ -15,7 +15,7 @@ Unsubscribe at any time by replying STOP.
 Text START to opt in.
 Text HELP for help.
 Terms of Service and Privacy Policy apply.
-Submit Donate Online or Mail your donation to: Dr Kelly Esti for Congress, INC, PO Box 82056, Hapeville, GA 30354 SHOP MERCH!
+Submit Donate Online or Mail your donation to: Dr Kelly Esti for Congress, INC, PO Box 82056, Hapeville, GA 30354 FOLLOW ON FACEBOOK!
 Policy Priorities Policy Priorities Policy Priorities Policy Priorities Policy Priorities Military / Veterans Education Utilities Healthcare Infrastructure Worker's Rights Civil Rights & Personal Freedoms Education is a PUBLIC GOOD In Georgia’s 8th District, we have about 769,000 residents, and education shapes opportunities at every stage of life.
 With a median household income of $60,479 and 7.25% of households speaking a non‑English language at home, our communities depend on learning spaces that are flexible, affordable, and welcoming to everyone—students, working adults, and families working to build better futures. ​ My own education journey has shown me how powerful learning can be.
 From my early school years in the South to earning my PhD, I’ve experienced firsthand how access to strong schools, supportive teachers, and affordable education programs can open doors.

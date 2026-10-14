@@ -36,5 +36,5 @@ Evaluate programs based on measurable results and real outcomes. ★ ★ ★ Sup
 Volunteer About Chris Chris Knoll for Senate Chris Knoll is the CEO of Minnewaska Community Health Services and a licensed Department of Human Services provider with firsthand experience navigating state government systems.
 Stay Informed Sign up for campaign updates, event announcements, and ways to get involved across District 21.
 Email address Stay Updated By signing up, you agree to receive email updates from Knoll for Senate.
-Navigation About Chris The Issues Campaign Info Volunteer Connect © # Paid for by Knoll for Senate Committee.
+Navigation About Chris The Issues Campaign Info Volunteer Campaign Disclosures Connect © # Paid for by Knoll for Senate Committee.
 All rights reserved.

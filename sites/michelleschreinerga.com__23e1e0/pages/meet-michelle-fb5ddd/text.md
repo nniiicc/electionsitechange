@@ -37,7 +37,7 @@ Mike and I chose East Cobb as the place where we wanted to raise our children.
 Like so many parents, I think about the community they will inherit.
 Will our public schools remain strong?
 Can young families afford to live here?
-Can seniors afford to stay in the homes and neighborhoods they love?
+Can older residents afford to stay in the homes and neighborhoods they love?
 Will growth be managed responsibly?
 Can people get the healthcare they need?
 And will our government still be capable of solving problems rather than simply arguing about them?

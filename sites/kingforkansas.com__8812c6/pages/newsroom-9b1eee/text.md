@@ -1,4 +1,9 @@
-Toggle navigation Latest News Meet Mike Volunteer Endorsements Contact Contribute Latest News Newsroom Facebook Posts King For Kansas #ago City of Walton profile – Art Mural.
+Toggle navigation Latest News Meet Mike Volunteer Endorsements Contact Contribute Latest News Newsroom Facebook Posts King For Kansas #ago 🧯🚒🔥Fire Prevention Month in Kansas!
+I am thankful for the hundreds of volunteer and paid firefighters and rescue workers who staff our stations around the clock here in House District 74.
+Additionally, there are over 13,000 volunteers across more than 250 member departments statewide, keeping our communities safe.
+The City of Sedgwick, Kansas recently dedicated new Station 31 that will serve the community for many years, while also helping train our future rescue teams.
+Our local tax dollars support these incredibly important community assets.
+Kansas Fire Marshal Kansas State Fire Fighters Association City of Sedgwick Fire/EMS Kansas Forest Service #FirePreventionMonth … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago City of Walton profile – Art Mural.
 I recently noticed Sean Heaton painting a mural on a newly renovated building in Walton.
 What a gifted artist he is!
 Once completed, the mural will depict historic scenes from Walton on the building’s exterior and it will be the first mural in town.
@@ -16,11 +21,6 @@ Kansas Pharmacists Association … See More See Less Photo View on Facebook (ope
 Located in an historic 1884 bank building, Southside Creamery & Deli serves up 20+ favors of ice cream, deli sandwiches, and fresh baked cookies and other baked goods.
 It is well worth the short drive.
 While you’re in Peabody, check out their other Main Street shops, too.
-City of Peabody, Kansas Kansas Tourism … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago Halstead Market – A Hometown Grocery and Bakery This has been a staple business on Main Street for over 50 years!
-Owner, Russ Friesen, has been delivering daily fresh bread baked, hand-cut steaks, authentic German sausage, organic produce, and a wide selection of greeting cards paired with knowledgeable staff consistently to the community.
-I grilled the jalapeño cheese sausage this weekend and we will be going back for more!
-With a wide selection of coffee, fresh rolls, and a separate seating area, visitors can enjoy time with friends while shopping local.
-Russ, thanks for showing me your store and for your faithfulness to the community.
-Halstead Market City of Halstead, Kansas Halstead Chamber of Commerce #supportlocal … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Meet Mike King Fourth-Generation Kansan Seeking Re-Election in District 74 Mike King is a fourth-generation Kansan who still lives on the family farm just outside of Hesston.
+City of Peabody, Kansas Kansas Tourism … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Meet Mike King Fourth-Generation Kansan Seeking Re-Election in District 74 Mike King is a fourth-generation Kansan who still lives on the family farm just outside of Hesston.
 Nearly a century ago, his grandfather moved from farming and carpentry into full-time construction across the state — planting a seed that Mike has carried forward ever since.
 That passion for… Meet Mike Newsroom E-Mail Updates Volunteer Contact Contribute PAID FOR BY MIKE KING FOR STATE REPRESENTATIVE LUALAN WILLEMS, TREASURER

@@ -1,15 +1,21 @@
-Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · Press Releases Governor Katie Hobbs Announces Senior Campaign Team For 2026 Re-Election Bid April 21, 2025 PHOENIX - Today, Arizona Gov.
+Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · Press Releases Gov.
+Katie Hobbs’ Strong Record of Protecting Reproductive Freedom Earns Her EMILYs List Endorsement July 23, 2025 PHOENIX - Today, Gov.
+Katie Hobbs is proud to announce that she has earned the endorsement of EMILYs List, the nation’s largest resource for electing women in politics, because of her strong record of protecting reproductive freedom.
+“Gov.
+Katie Hobbs has proven time and again that she is...
+Read More Campaign Updates · Press Releases Elect Katie Hobbs Campaign Raises Over $1.3 Million in Q2 July 21, 2025 PHOENIX - Today, Gov.
+Katie Hobbs announced that her campaign, Elect Katie Hobbs, has raised over $# million in the second quarter alone.
+Following this historic quarter, the campaign now has $# million in cash on hand.
+Just this year, the campaign has been powered by...
+Read More Campaign Updates · Press Releases Gov.
+Katie Hobbs Earns the Endorsement of Arizona AFL-CIO July 16, 2025 PHOENIX - Today, Gov.
+Katie Hobbs is proud to announce the first endorsement of her campaign: the Arizona AFL-CIO, which represents over 185,000 union members and over 200 union affiliates in Arizona, because of her strong record of championing working families and creating good-paying jobs.
+“Gov.
+Hobbs has...
+Read More Campaign Updates · Press Releases Governor Katie Hobbs Announces Senior Campaign Team For 2026 Re-Election Bid April 21, 2025 PHOENIX - Today, Arizona Gov.
 Katie Hobbs announced her senior campaign team for the 2026 gubernatorial election, building on strong early momentum, record-breaking fundraising, and critical grassroots support across Arizona.
 “As governor, I’m proud of my work delivering real solutions for hardworking Arizona families – cutting everyday costs,...
-Read More Campaign Updates · Press Releases Elect Katie Hobbs Campaign Raises $1.1 Million In Q1, Building Momentum Ahead Of 2026 April 17, 2025 PHOENIX - Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised over $1.1 million in the first quarter and has over $4 million cash-on-hand ending the quarter.
-In just the last three months, the campaign earned the support of over ten thousand donors,...
-Read More Campaign Updates · Press Releases March 2025 State of the Race March 6, 2025 Arizona’s 2026 gubernatorial race is set to be one of the most competitive statewide races in the country this election cycle, with Cook Political Report labeling it a “Toss Up” in their first ratings of the year.
-In...
-Read More Campaign Updates · Press Releases Elect Katie Hobbs Campaign Announces Nearly $# Million Raised January 7, 2025 PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
-Read More 1 … 33 34 35 First name SIGN UP!
+Read More 1 … 33 34 35 36 First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.
 No consent required to buy.

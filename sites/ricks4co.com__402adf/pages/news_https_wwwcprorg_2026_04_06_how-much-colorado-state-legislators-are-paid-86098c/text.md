@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Morgan Anker April 7, 2026 How much are Colorado’s state legislators paid?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Morgan Anker April 7, 2026 How much are Colorado’s state legislators paid?
 Morgan Anker April 7, 2026 An ER nurse, a funeral home director, a firearms instructor, a physical therapist, a flower shop owner and plenty of attorneys.
 These are just some of the professions Colorado lawmakers return to when they’re not under the gold dome for the annual four-month-long legislative session.
 Colorado, like most states, has a part-time legislature that meets between the months of January and May.

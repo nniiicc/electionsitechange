@@ -1,0 +1,11 @@
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: 100% Trump Most of the republicans running in the primaries are trying to prove who is the most loyal to Donald Trump.
+I hope this strategy is much less popular than they think.
+Agreeing 100% with anyone, especially Donald Trump, and having no criticism of them is not defendable.
+I am not for 100% of any politician or party.
+I encourage everyone to think critically about each individual issue and make up their own mind.
+When someone is 100% for anything then there is no room for discussion.
+We need less partisanship, more compromise and the ability to have nuanced conversations about issues.
+If you are 100% Donald Trump then you are 100% for: - The Iran War, billions of dollars spent, deaths of American troops and innocent Iranians, high gas prices and worsened inflation - Profiting billions off of public office for him, his family and friends - ICE killing Americans in the street, denying thousands due process and imprisoning them in inhumane conditions, there needs to be immigration laws, but they need to be fair, allow a path to citizenship and be enforced without infringing on people’s rights. - Tariffs costing Americans money and driving inflation - Cuts to the Department of Education and other important government institutions - Destroying relationships with allies across the world - Covering up the Epstein Files - And so much more I am still optimistic and my hope is that we as a country can learn from this and come back stronger and with more safe guards in place for the future.
+He has shown that the American system is much more vulnerable than we believed and that it needs to be reformed and strengthened.
+“Such things have disappeared perhaps because men do not trust themselves anymore, and when that happens there is nothing left except perhaps to find some strong sure man, even though he may be wrong, and to dangle from his coattails.” - John Steinbeck, East of Eden Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

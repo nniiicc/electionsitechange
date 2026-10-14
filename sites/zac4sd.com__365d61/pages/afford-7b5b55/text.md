@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate An affordability and opportunity agenda for District 32 Afford to Live Here Everybody pays in.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate An affordability and opportunity agenda for District 32 Afford to Live Here Everybody pays in.
 Everybody should get something back.
 Four planks, one argument.
 Sales tax and property tax.
@@ -37,7 +36,9 @@ Dedicate the difference to relief rather than to new programs.
 Ask 4 Pass-through transparency Require that the property tax component of a rental unit be disclosed to the tenant.
 If relief flows to rental property, the tenant should be able to see it.
 Transparency is what makes relief traceable instead of theoretical.
-Ask 5 Index the senior and disabled thresholds So people stop aging out of eligibility because a dollar figure was written years ago and never adjusted while their actual buying power fell.
+Ask 5 Freeze It at 60, and index the thresholds When a homeowner turns 60, the property tax bill on the home they live in stops going up.
+Income under $65,000 single or $80,000 couple, home value under $514,500, and every one of those limits indexed to inflation so people stop aging out of eligibility while their buying power falls.
+The state makes counties and schools whole, so the freeze is not shifted onto renters.
 Ask 6 Build the supply that actually lowers rent Property tax abatement for new workforce housing and fewer permitting barriers for infill in downtown and North Rapid.
 A rebate helps a family this year.
 Supply is what lowers rent structurally.
@@ -200,18 +201,15 @@ Is that not the answer?
 We chose the expensive option already.
 Roughly 737 million dollars on two facilities.
 If we are going to spend like that, we should at least stop refilling the beds with people who missed an appointment.
-Join the campaign We win District 32 the old fashioned way .
-Door by door.
+Join the team Vote Zac Martin Door by door.
 Neighbor by neighbor.
 Yard sign by yard sign.
-Every conversation, every donation, every shift counts.
-This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
-Donate Volunteer Yard Sign Zac .
-Martin SD House 32 Strong Families.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes to win District 32.
+(605) 600-3281 · zac@zac4sd.com Donate Volunteer Yard sign Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

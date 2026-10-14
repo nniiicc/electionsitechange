@@ -1,5 +1,5 @@
 Home About News Endorsements Issues Donate Contact Privacy policy Donate Home About News Endorsements Issues Donate Contact Privacy policy Donate A Better Representative For You!
-Working together to build stronger neighborhoods, better opportunities, and a future that serves everyone.
+Your Future isn’t decided for you - It’s built by the choices we make!
 Support the Campaign Washington's General Election is November 3, 2026 Meet Michaela Kelso Michaela Kelso is a disabled, retired US Army Veteran running for State Representative in Washington's 6th Legislative District.
 Her main priorities for the Legislature are healthcare, housing, and education.
 Learn More “We need to support each other.

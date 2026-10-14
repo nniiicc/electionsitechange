@@ -1,4 +1,4 @@
-Skip to main content Skip to footer DONATE The Candidate The Issues Get In Contact Endorsements Meet Mark Pinsley Democrat for PA Senate Meet Mark Pinsley Democrat for PA Senate Mark Pinsley is a U.S.
+Skip to main content Skip to footer Opens in a new tab DONATE The Candidate The Issues Get In Contact Endorsements Meet Mark Pinsley Democrat for PA Senate Meet Mark Pinsley Democrat for PA Senate Mark Pinsley is a U.S.
 Army veteran, public servant, and Lehigh County Controller who believes government should be on the side of the people who work hard, raise families, and keep our communities running.
 For too long, Pennsylvania families have been asked to do more with less.
 Prices keep rising.

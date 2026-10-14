@@ -1,5 +1,6 @@
-0 Skip to Content HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Open Menu Close Menu HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Open Menu Close Menu HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Upcoming Events with Lisa field CANDY-CUTERIE BOARD NIGHT Join Us on OCTOBER 13, 2026 5:30-7:30 pm SWEET TREATS & POPS GALORE 134 MAIN STREET, NORTH EASTON, MA COST: $45 FOR SUPPLIES LET‘S SUPPORT OUR LOCAL BUSINESSES! ice cream meet & greet with state rep.
-Lisa field Join Us on OCTOBER 14, 2026 6:00 pm Mimi’s ice cream 235 whittenton ST, TaunTON, MA PAST EVENTS PIZZA & POSTCARDS!
+0 Skip to Content HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Open Menu Close Menu HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Open Menu Close Menu HOME MEET LISA ENDORSEMENTS EVENTS PRIORITIES CONTACT DONATE Upcoming Events with Lisa field ice cream meet & greet with state rep.
+Lisa field Join Us on OCTOBER 14, 2026 6:00 pm Mimi’s ice cream 235 whittenton ST, TaunTON, MA PAST EVENTS CANDY-CUTERIE BOARD NIGHT Join Us on OCTOBER 13, 2026 5:30-7:30 pm SWEET TREATS & POPS GALORE 134 MAIN STREET, NORTH EASTON, MA COST: $45 FOR SUPPLIES LET‘S SUPPORT OUR LOCAL BUSINESSES!
+PIZZA & POSTCARDS!
 WHEN: October 5th TIME: 6:30 PM WHERE: HOMEPLATE 1094 bay street, taunton, MA rsvp: 508-272-5797 THE POWER OF THE PAUSE COME ON OUT on OCTOBER 2, 2026 6:30-8:30 pm avalon community bldg 60 60 Robert Dr, south EASTON, MA COST: $# donation for lisa Join Dr.
 Regina Terry-Green for some time to unwind.
 Experience the calming sounds and virations of crystal bowls, chimes, ocean drums, and rain sticks during this relaxing sound bath.

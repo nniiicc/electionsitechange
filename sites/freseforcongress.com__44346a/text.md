@@ -88,7 +88,7 @@ You can ask us to delete your information at any time by emailing [email protect
 Paid for by Frese For Congress.
 Text Message Terms Frese For Congress Text Messages.
 Frese For Congress, the campaign committee of Jeff Frese for Congress in California's 10th District, sends text messages about the campaign and the November 3, 2026 election, including voting reminders and candidate information.
-How you join: you may receive texts if you provided your phone number on your California voter registration, which the state makes available to candidates for election purposes, or if you text JOIN to (925) 592-1404.
+How you join: sign up with the form at freseforcongress.com/#texts , checking the consent box, or text JOIN to (925) 592-1404.
 Message frequency varies, at most one message per week.
 Message and data rates may apply.
 Reply STOP to any message to opt out at any time; you will receive one confirmation and no further messages.
@@ -97,18 +97,17 @@ Carriers are not liable for delayed or undelivered messages.
 Your information is never sold or shared for marketing.
 See our Privacy Policy at freseforcongress.com/#privacy .
 Paid for by Frese For Congress.
-Texts From Jeff Get campaign updates by text.
+Opt-in form , as it appears at freseforcongress.com/#texts : Texts From Jeff Yes, text me campaign updates from Frese For Congress at this number.
+Msg frequency varies, max 1 per week.
+Msg & data rates may apply.
+Reply STOP to opt out, HELP for help.
+Consent is not required to support the campaign.
+Terms · Privacy Policy Sign me up for texts Get campaign updates by text.
 Text JOIN to (925) 592-1404.
 By texting JOIN you agree to receive campaign text messages from Frese For Congress.
 Message frequency varies.
 Message and data rates may apply.
 Reply STOP to opt out, HELP for help.
-Got a text from Jeff and wondering why?
-California voters may give a phone number on their voter registration.
-The registration form tells voters that "voter information may be provided to a candidate for office ... for election ... purposes" (Elections Code section 2157.2), and the state provides it to candidates for exactly that use (section 2194).
-That is the only way we get numbers.
-Every text is sent by a person, one at a time.
-Reply STOP and you will never hear from us by text again.
 Terms: freseforcongress.com/#terms .
 Privacy: freseforcongress.com/#privacy .
 Paid for by Frese For Congress.

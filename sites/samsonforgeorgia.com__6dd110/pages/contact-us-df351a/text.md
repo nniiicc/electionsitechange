@@ -1,4 +1,4 @@
-ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Full Name Email Did you mean?
+ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Full Name Email Did you mean?
 May we follow up with you regarding this campaign and our other efforts via email?
 May we follow up with you regarding this campaign and our other efforts via email?
 Yes No Message Phone Number (optional) May we follow up with you regarding this campaign and our other efforts via text?

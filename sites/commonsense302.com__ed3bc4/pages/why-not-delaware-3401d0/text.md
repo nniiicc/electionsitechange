@@ -16,7 +16,7 @@ Learn More ➤ Florida requires students under 14 to close their social media ac
 Why Not Delaware?
 Learn More ➤ North Carolina requires local Law Enforcement to cooperate fully with ICE and other Federal Law Enforcement!
 Why Not Delaware?
-Learn More ➤ Missouri has enacted "The Second Amendment Preservation Act", which asserts the State’s commitment to protecting citizens' right to bear arms!
+Learn More ➤ Missouri has enacted "The Second Amendment Preservation Act", which asserts the State’s commitment to protecting the right of the law-abiding to bear arms!
 Why Not Delaware?
 Learn More ➤ Washington State has passed the Growth Management Act to prevent further sprawl!
 Why Not Delaware?

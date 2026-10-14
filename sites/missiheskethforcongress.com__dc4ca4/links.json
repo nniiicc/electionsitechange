@@ -40,10 +40,6 @@
 "href": "https://www.missiformo.com/endorsements"
 },
 {
-"text": "Events",
-"href": "https://www.missiformo.com/events"
-},
-{
 "text": "Farms not Data Centers",
 "href": "https://www.missiformo.com/support-our-farmers-and-natural-resources"
 },
@@ -78,6 +74,10 @@
 {
 "text": "Top 5 Issues",
 "href": "https://www.missiformo.com/top-5-issues"
+},
+{
+"text": "Tour",
+"href": "https://www.missiformo.com/events"
 },
 {
 "text": "Volunteer",

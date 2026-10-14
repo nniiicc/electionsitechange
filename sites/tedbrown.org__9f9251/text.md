@@ -290,7 +290,10 @@ C00857623.
 Political contributions are not tax-deductible.
 Maximum contribution is $3,300 per person.
 Volunteer Help spread the message of liberty across Texas Email the Campaign Sign Up Spread the Word Share Ted Brown's message on social media Tweets by TedBrownLiberty Visit Ted Brown's Facebook page Share Tweet Invite Ted to Speak Invite Ted to speak at your next event here .
-Media Coverage Interviews, news coverage, and media appearances News Coverage Politico The third-party candidates who could play spoiler next month October 6, 2026 Politico’s Weekly Score looks at the third-party candidates, including Ted Brown in Texas, who could swing close races in November.
+Media Coverage Interviews, news coverage, and media appearances News Coverage The Texas Tribune On the issues: A Q&A with U.S.
+Senate candidates James Talarico, Ken Paxton and Ted Brown October 13, 2026 The Texas Tribune asks all three U.S.
+Senate candidates where they stand on the Iran war, the border wall, cannabis, data centers, tariffs, the gas tax and more.
+Politico The third-party candidates who could play spoiler next month October 6, 2026 Politico’s Weekly Score looks at the third-party candidates, including Ted Brown in Texas, who could swing close races in November.
 FOX 7 Austin (video interview) Third candidate for US Senate October 5, 2026 FOX 7 Austin’s chief political reporter talks with Ted Brown, the third candidate on the ballot in Texas’ U.S.
 Senate race.
 Houston Chronicle (op-ed by Ted Brown) Loathe Paxton but can’t stand Democrats?

@@ -7,4 +7,5 @@ No young family should have to decide whether to have children based on access t
 Too many young children, particularly the economically disadvantaged, are falling behind in school and in life.
 Our country, our businesses, and our families will realize extraordinary returns on such an investment.
 State proficiency scores in reading, math, and core subjects will rise, regardless of a child’s race or economic background, young parents can go to work, young adults can build a career, local businesses can recruit and retain quality employees, and the economy can continue to grow.
-Why You Can Trust Tom Tom's Action Plan Sources Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Why You Can Trust Tom Tom's Action Plan Sources Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

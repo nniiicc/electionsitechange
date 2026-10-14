@@ -1,5 +1,6 @@
 0 Skip to Content Values & Legislation Values Legislation Directory About About James Endorsements Team D29 Get Involved Media Photos Videos Merch Store English Donate Open Menu Close Menu Values & Legislation Values Legislation Directory About About James Endorsements Team D29 Get Involved Media Photos Videos Merch Store English Donate Open Menu Close Menu Folder: Values & Legislation Back Values Legislation Directory Folder: About Back About James Endorsements Team D29 Get Involved Folder: Media Back Photos Videos Merch Store English Back Donate Volunteer with James Ruchti Grassroots Action Upcoming Campaign Events Get Out The Vote Pocatello GOTV Door Knock Join James and local volunteers on the doors to talk with voters across District 29.
 RSVP on Mobilize → Election Night Election Night Party Join James, local candidates, and the Bannock County Dems to watch election results roll in!
+RSVP on Mobilize → Canvass Doors Before Dark Connect with District 29 voters during afternoon door-knocking shifts before the sun sets.
 RSVP on Mobilize → Loading… Loading… Other ways to help my campaign: Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up with your email address to receive news and updates.

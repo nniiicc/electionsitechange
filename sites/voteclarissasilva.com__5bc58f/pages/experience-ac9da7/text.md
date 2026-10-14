@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Judicial Experience Experience You Can Trust on the Texas Thirteenth Court of Appeals Appellate court decisions shape how the law is interpreted and applied.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Judicial Experience Experience You Can Trust on the Texas Thirteenth Court of Appeals Appellate court decisions shape how the law is interpreted and applied.
 That responsibility requires experience, careful analysis, and sound judgment.
 Justice Clarissa Silva brings more than eighteen years of legal and judicial experience to every case she reviews.
 2007 Graduated from Thurgood Marshall School of Law at Texas Southern University and began a career dedicated to public service.

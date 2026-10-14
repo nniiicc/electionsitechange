@@ -17,7 +17,7 @@ Would you give a toddler the car keys?
 The legislature can and should keep guns out of the hands of those who cannot use them responsibly, the same as we take away the license of a serial drunk driver.
 The needed change in mindset and culture, though, needs to come from the bottom up.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Our Schools → Is Anyone Listening?
-Leave a Reply Cancel reply Comment Name Email Website Δ Create a free website or blog at WordPress.com.
+Leave a Reply Cancel reply Comment Name Email Website Δ Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

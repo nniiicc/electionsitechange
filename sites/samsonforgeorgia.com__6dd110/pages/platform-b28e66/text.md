@@ -1,4 +1,4 @@
-ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE We Deserve a Better Georgia, and a Better World!
+ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE We Deserve a Better Georgia, and a Better World!
 The status quo isn't working for our district or our neighborhoods.
 We need a government that invests in everyday working-class people, not billionaires and corporations.
 Affordable Housing Everyone deserves a safe and affordable home , but rising rents and property taxes are crushing working families and breaking up our neighborhoods.

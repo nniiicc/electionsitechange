@@ -2,7 +2,9 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate News, Updates and Policy Thoughts Three out of four Republicans said no to Chuck Gray.
+Donate Donate News, Updates and Policy Thoughts Governor Mike Sullivan Endorses Lisa Posted on October 13, 2026 Former Wyoming Governor Mike Sullivan announced on Tuesday, October 6, that he is endorsing Democratic nominee Lisa Kinney for the US House.
+Lisa, a former state senator, attorney, financial advisor, and accomplished author, is facing Republican Chuck Gray, Libertarian Shawn Johnson, and Constitution Party nominee Jeff Haggit in the November 3rd general election.
+Sullivan noted,… Read more… Three out of four Republicans said no to Chuck Gray.
 Say it again in November.
 Posted on October 10, 2026 Three out of four Republicans said no to Chuck Gray!
 Read more… WTE Election Guide Posted on October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
@@ -13,5 +15,4 @@ A clip of the Albany County Public Library’s move from the historic Carnegie L
 Read more… Why Can’t Drones be Built in Wyo?
 Posted on September 10, 2026 Kinney proposes exploring federal partnerships to make Wyoming a center for American drone research, testing and manufacturing WYOMING — Lisa Kinney today called for exploring a Wyoming economic-development and national-security initiative aimed at making the state a center for American unmanned-aircraft research, testing and manufacturing.
 “Instead of asking only what industries want to come to… Read more… Big Horn Basin Tour Dates Posted on September 9, 2026 Join Lisa Kinney and Jim Byrd as they make stops through the Big Horn Basin for meet & greet opportunities!
-Read more… People Ask and Lisa Answers Posted on September 7, 2026 Lisa has provided answers to frequently asked questions when she travels the state.
 Read more… 1 2 3 Next Page → Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

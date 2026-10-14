@@ -18,6 +18,7 @@ Representative Drew Stokesbary is really working hard to make this happen.
 City of Puyallup and the Puyallup/Sumner Chamber of Commerce are voicing their support, and the Sound Transit Board highlighted the importance of this project to their efforts to improve access to and from the station.
 When it comes to Olympia in the final week(s) of the session, you never know what happens, but as you’re sitting on idle on Traffic Avenue, cross your fingers for action in Olympia to relieve the congestion.
 If you’d like to send a message of support for this effort, we’ll collect them and send them on to our legislators.
-In the News budget legislature transportation More For You Stokesbary launches campaign for 31st District state Representative In the News Rep.
-Stokesbary introduces bipartisan bill to provide property tax relief In the News Early Endorsement from Stand for Children Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget legislature transportation More For You TNT Endorses: Keep Rep.
+Stokesbary Endorsements TNT: Who can best represent voters in WA’s 31st Legislative District?
+The choice is clear (2022) Endorsements Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

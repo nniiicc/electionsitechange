@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Serving South Texas March 16, 2026 Justice Clarissa Silva’s story begins in Harlingen, Texas, where she was born and raised.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Serving South Texas March 16, 2026 Justice Clarissa Silva’s story begins in Harlingen, Texas, where she was born and raised.
 Her roots in South Texas shaped the values that continue to guide her today: faith, family, hard work, humility, and service to others.
 Growing up, Justice Silva’s family taught her the importance of helping people without expecting anything in return.
 That lesson became a foundation for her career in law and public service.

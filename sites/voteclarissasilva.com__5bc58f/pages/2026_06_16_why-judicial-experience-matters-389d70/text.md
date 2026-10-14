@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Why Judicial Experience Matters June 16, 2026 When voters consider a judicial race, one of the most important questions is simple: does the candidate have the experience needed to make careful, fair, and legally sound decisions?
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Why Judicial Experience Matters June 16, 2026 When voters consider a judicial race, one of the most important questions is simple: does the candidate have the experience needed to make careful, fair, and legally sound decisions?
 For appellate courts, experience matters.
 The Texas Thirteenth Court of Appeals reviews decisions from lower courts in both civil and criminal cases.
 These cases can involve complex legal questions, detailed records, and issues that affect families, businesses, victims, defendants, and communities across South Texas.

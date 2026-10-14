@@ -1,4 +1,6 @@
-# days until Election Day, Tuesday, November 3, 2026 Ballots mail October 14 · Vote Jillian England → Jillian England Home About Issues Races Notes Vote Donate Contact Bio Endorsements Notes from the Campaign Fresh observations, arguments, and updates — added regularly.
+# days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
+Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
+Races Notes Vote Donate Contact Bio Endorsements Notes from the Campaign Fresh observations, arguments, and updates — added regularly.
 This is how we keep the ideas alive and growing instead of letting the site sink into entropy.
 New notes appear here and are featured on the home page.
 Filter by topic All topics Clear Public safety Taxes & cost of living Energy & prosperity Homelessness & addiction Elections & ballot integrity Family & parental rights Principles & liberty Health systems Showing all 31 notes.
@@ -486,6 +488,6 @@ Check back often.
 Read the full position statement Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

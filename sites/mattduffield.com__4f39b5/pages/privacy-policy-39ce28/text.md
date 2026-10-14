@@ -1,4 +1,4 @@
-Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Facebook Youtube Effective Date: January 28, 2025 MattDuffield.com (“we,” “us,” or “our”) is committed to protecting your privacy.
+Home Meet Matt My Agenda House District 53 Tour the Capitol Gallery Videos Contact X Facebook Youtube Effective Date: January 28, 2025 MattDuffield.com (“we,” “us,” or “our”) is committed to protecting your privacy.
 This Privacy Policy explains how we collect, use, and safeguard your personal information when you visit our website.
 We operate out of Arkansas, USA .
 1.
@@ -11,4 +11,4 @@ We take reasonable measures to protect your data from unauthorized access.
 Your Rights & Contact Information You have the right to request access to or deletion of your personal data.
 For any privacy-related inquiries, please contact us at: 📧 Email: info@mattduffield.com By using this website, you agree to this Privacy Policy.
 We may update it periodically, so please check back for changes.
-Paid for by Matt Duffield for State Representative Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Youtube Facebook Envelope Privacy Policy Copyright @ # | Mattduffield.com | All Rights Reserved.
+Paid for by Matt Duffield for State Representative Home Meet Matt My Agenda House District 53 Tour the Capitol Gallery Videos Contact X Youtube Facebook Envelope Privacy Policy Copyright @ # | Mattduffield.com | All Rights Reserved.

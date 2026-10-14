@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Low Voter Turnout Is a Policy Failure Feb 4 Written By Lauri Shillings Low voter turnout is a policy failure, not a failure of citizenship.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Low Voter Turnout Is a Policy Failure Feb 4 Written by Lauri Shillings Low voter turnout is a policy failure, not a failure of citizenship.
 Indiana consistently ranks near the bottom nationally when it comes to voter participation.
 This is often attributed to voter apathy, but turnout should instead be treated as a measurable indicator of whether election policy is working—or failing—the people it is meant to serve.
 The Secretary of State has an administrative responsibility to educate voters and to provide a transparent, accountable election process that people can trust.

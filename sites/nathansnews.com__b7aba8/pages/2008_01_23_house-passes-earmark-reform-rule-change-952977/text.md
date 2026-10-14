@@ -5,9 +5,9 @@ This move should go a long way in helping to reduce wasteful spending in our sta
 This separate document will be made available to the public throughout the budget process.
 House Rules Committee Chairman Brian White said, “This rule change sheds light on our budget process and shows the House’s commitment to ending this practice of hidden spending in our state’s budget.” Under this rule, anonymous spending earmarks from the Senate will take a two-thirds vote from the House to be considered in the final state budget.
 Legislation containing the same language as the rule change has also been introduced and is supported by the House Republican Caucus for passage by both bodies of the legislature.
-# # # Post navigation Statehouse Report – January 24 Congratulations, Senator John McCain Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+# # # Post navigation Statehouse Report – January 24 Congratulations, Senator John McCain Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

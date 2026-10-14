@@ -1,0 +1,6 @@
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook Allen Davis for NH State House Cheshire County District 18: Endorsements & Testimonials “I am honored to be endorsed by the New Hampshire Sierra Club .
+“All of the endorsed candidates share concern for the New Hampshire environment, support actions on climate solutions that benefit all residents and a vision to lower pollution thus protecting public health and wildlife.” (October 7, 2026 NH Sierra Club press release).
+If you elect me to be your State Representative for District 18 (Dublin, Jaffrey, and Rindge), I will support legislation that keeps the Granite State wild and beautiful for future generations.” © # Davis4NH.org.
+Allen Davis for NH State Representative Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

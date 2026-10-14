@@ -15,7 +15,15 @@ Spread the Word Remind a Friend to Vote We win when we show up together.
 Send a quick reminder so the people you care about have a plan for November 3, 2026.
 Text Email Share Voter Info & Deadlines Join the Campaign Get Involved This campaign is powered by neighbors.
 Request a yard sign, volunteer, or chip in to bring competency back to Congress.
-Ways to Help Donate Contributions can be mailed to: Bradstock for Congress P.O.
+Ways to Help Donate × Election Day is Tuesday, November 3 Make Your Plan to Vote Bringing competency back to Congress starts with showing up.
+Take two minutes now so nothing gets in the way on Election Day.
+# days until Election Day Register by Oct.
+19 11:59 p.m. online Mail ballot by Oct.
+27 5 p.m. to your county Election Day Nov.
+3 Polls open 7 a.m. to 8 p.m.
+Make a Plan to Vote Volunteer Deadlines from vote.pa.gov .
+Mail ballots must be received by 8 p.m. on Election Day.
+Contributions can be mailed to: Bradstock for Congress P.O.
 Box 4063 Washington, PA 15301 info@bradstockforcongress.com Alan Bradstock is a United States veteran.
 Use of rank, title, and photographs in uniform does not imply endorsement by the Department of Defense or the Department of the Army.
 Home About Issues Vote Town Halls Reach Get Involved Donate Home About Issues Vote Town Halls Reach Get Involved Donate Combat veteran.

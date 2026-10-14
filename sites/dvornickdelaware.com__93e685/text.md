@@ -1,11 +1,17 @@
 top of page • Serving Sussex. • Protecting Communities. • Spending Wisely.
 About Platform Contact Vote!
-DONATE VOLUNTEER GET YARD SIGNS Don't let one party control YOUR decisions and money in Dover ​ “There is no such things as a moderate tax,” said Gene Dvornick in answer to a candidate forum question about introducing a sales tax in Delaware." “ I do not oppose affordable housing.
-I opposed rushed through legislation ,” he said about legislation that fast-tracked laws giving up local control over state rights.
-Gene Dvornick is exactly the type of leader the people of Eastern Sussex County and the 20th District deserve as their voice and vote in Legislative Hall.
-Gene is smart, thoughtful and responsive.
-His experience as a problem-solver finding common ground in order to achieve meaningful results, will benefit seniors, families and those of us who are concerned about the lack of state resources and support coming to the Cape Region.
-A vote for Gene Dvornick for State Representative is a vote for common sense and good governance for all local residents. ​ Learn more Bob Ricker, Baker's Hardware “As a town elected official, I watched Gene deal with sensitive employee and citizen issues with compassion but with straight-forward honesty and fairness while holding true to his responsibility as Town Manager.
+DONATE VOLUNTEER GET YARD SIGNS Don't let one party control YOUR decisions and money in Dover. ​ “There is no such things as a moderate tax,” said Gene Dvornick in answer to a candidate forum question about introducing a sales tax in Delaware. ​ “I do not oppose affordable housing.
+I oppose rushed through legislation," he said about the Housing for Every Delawarean Act (SB 23). ​ "Ensure fair share of realty transfer tax that leaves RD 20 returns here," Gene said when asked about his priority for services to keep pace with unprecedented growth. ​ Gene Dvornick is exactly the type of leader the people of a growing 20th District deserve as their voice and vote in Legislative Hall.
+He will bring balance to Dover. ​ 40-year volunteer firefighter.
+Current Milton Chief.
+20-year Georgetown Town Manager.
+Former Milton Town Council Member.
+Gene is well connected, experienced and responsive.
+He navigates residents' complaints daily and has for decades.
+He brings private and public experience to solve problems and find common ground to achieve demonstrated results.
+His leaderhip will benefit seniors, families and those of us who are concerned about the lack of state resources and support coming to the Cape Region.
+A vote for Gene Dvornick for State Representative is a vote for balanced and good governance for all local residents.
+Your Community First, Common Sense Candidate ​ ​ ​ Learn more Bob Ricker, Baker's Hardware “As a town elected official, I watched Gene deal with sensitive employee and citizen issues with compassion but with straight-forward honesty and fairness while holding true to his responsibility as Town Manager.
 He is the epitome of a Gentleman and a shining example of a public servant.
 That’s why I support him for the 20th Representative Seat” Around Delaware Around Delaware February 2025 - Food Bank Drive During tough economic times, food drives help Sussex residents fill food gaps in between paychecks.
 In February 2025, Dvornick (center, back) volunteered with other local leaders to support a Food Bank Drive. press to zoom May 2025 - Local Government Day Dvornick (top, far right back) works with local legislators the May 2025 Local Government Day at Legislative Hall in Dover. press to zoom April 2025 - Sussex County Association of Towns Dvornick presents legislation and topics that affect local government officials to keep them informed at the SCAT (Sussex County Association of Towns) Legislative Breakfast in April 2025.

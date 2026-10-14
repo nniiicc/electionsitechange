@@ -1,4 +1,5 @@
-Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact « All Events Boone County Democratic Party Town Hall October 13 @ 6:00 pm - 8:00 pm CDT Free « Day of Action and BBQ Bash in Raymore Jordan Herrera Speaking at Grassroots for the Generations » Join Jordan Herrera in Columbia Jordan Herrera is headed to Columbia.
+Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact « All Events This event has passed.
+Boone County Democratic Party Town Hall October 13 @ 6:00 pm - 8:00 pm CDT Free « Day of Action and BBQ Bash in Raymore Jordan Herrera Speaking at Grassroots for the Generations » Join Jordan Herrera in Columbia Jordan Herrera is headed to Columbia.
 The Boone County Democratic Party is hosting a town hall with Jordan on Tuesday, October 13, from 6:00 to 8:00 PM at the ARC, 1701 W.
 Ash St.
 Bring your questions.

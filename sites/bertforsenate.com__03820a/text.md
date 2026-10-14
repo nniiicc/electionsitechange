@@ -1,6 +1,10 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Bert Mizusawa For U.S.
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events Bert Mizusawa For U.S.
 Senate A proven leader protecting Virginia's values and securing America's future.
 See Where I Stand Join the Campaign Fighting for Virginia Decades of service.
 A clear vision for Virginia families.
@@ -11,7 +15,19 @@ Michael Tran Conversation with Michael Tran.
 The Staunton Debate hosted by The Family Foundation Debate hosted by The Family Foundation.
 See all media MEET US ON THE TRAIL Find rallies, meet-and-greets, and volunteer opportunities near you across the Commonwealth.
 We look forward to seeing you there!
-View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 13 Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.
+View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 13 Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation and piled on trillions in debt.
+On your watch, Virginia became the world's data center capital, and those facilities are now driving up electricity rates for families across the state.
+Housing remains out of reach for too many Virginians.
+Promises aren’t results.
+Your time is up.
+This November, you’re fired.
+Bert Mizusawa @GenBert2026 · Oct 13 Happy Birthday to the United States Navy!
+For 251 years, and through numerous wars and conflicts to this day, America’s Sailors have defended us and braved numerous challenges to keep our vital sea routes open and secure.
+To every Sailor, past and present, and their families and survivors who supported their service and sacrifice: thank you for the steadfast and intrepid support of our great maritime nation.
+Fair winds and following seas.
+Bert Mizusawa @GenBert2026 · Oct 13 Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.
 Yet the report behind that figure won’t release its full methodology until 2027.
 The USDA’s data puts Virginia’s household food insecurity rate at about 13%, a very different picture.
 These statistics deserve scrutiny, not political spin.
@@ -20,12 +36,6 @@ Virginians deserve transparency and facts. https://restoration-news.com/warner-s
 Only # days remain before Election Day.
 The Senate majority is on the ballot, common sense is on the ballot, and we need to make the right choice this November.
 Vote Bert Mizusawa.
-Bert Mizusawa @GenBert2026 · Oct 12 Rural Virginians deserve the same high standard of care as the rest of Virginia!
-I support strengthening rural hospitals and protecting access to care close to home.
-My opponent voted against legislation that included $50 billion for rural health care.
-Bert Mizusawa @GenBert2026 · Oct 12 Mark Warner keeps mentioning Trump over and over in his posts on X, revealing a clear obsession.
-Meanwhile, he refuses to even say my name or debate me so voters can judge our records side by side.
-Virginia deserves a senator focused on the real choice in this race, not endless attacks on someone else.
 Get Involved Candidate for U.S.
 Senate, Virginia.
 Fighting for Virginia's families, veterans, and future.

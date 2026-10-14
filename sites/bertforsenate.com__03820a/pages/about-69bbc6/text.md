@@ -1,6 +1,10 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events About Meet Bert Mizusawa Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the DoW.
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events About Meet Bert Mizusawa Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the DoW.
 Biography Bert Mizusawa is a retired Major General of the United States Army, a former senior executive in the federal government, and a nationally respected leader in law, national security, and public service.
 His career spans more than four decades across military command, legislative oversight, executive leadership, and private legal practice, serving at the highest levels of government while remaining grounded in the responsibilities of leadership and service.
 Throughout his career, Mizusawa has operated at the intersection of law, security, and governance.

@@ -23,4 +23,4 @@ Worse, workers are being replaced by AI on a massive scale, posing a real econom
 AI must be responsibly monitored by the state and federal government to ensure that it benefits people first, not big corporations.
 As your legislator, I will work to ensure that AI’s risks to children, workers, and our environment are minimized.
 I also support an immediate data center moratorium, putting the brakes on data center development until our electrical grid and water infrastructure are ready to handle increased usage.
-Paid for by Iva Williams
+Paid for by Elect Iva Williams

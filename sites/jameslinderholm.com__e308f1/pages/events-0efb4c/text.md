@@ -1,22 +1,22 @@
-Skip to main content James LINDERHOLM (home) Menu About Issues Events Vote Yard Sign Donate Volunteer Events Volunteer shifts and events Every shift starts with a short training, and no one goes out alone.
-Coming up Oct 31 Final weekend canvass Sat, Oct 31 & Sun, Nov 1 Shifts both days.
-It's the last weekend before Election Day, so we'll need the most help.
-Nov 3 Election Day poll greeters Tue, Nov 3 · 7 AM–7 PM Stand outside an HD20 polling place and remind voters to find Linderholm on the ballot.
-Two-hour slots; we'll show you where to stand.
-We post new dates every week.
-Sign up and we'll text you when the next shift is scheduled.
-Every week Doors Weekday door-knocking Monday–Friday · 10 AM–12 PM & 4–6 PM Two-hour shifts in pairs.
-There's a 30-minute training at the start, and on your first shift you go out with someone experienced.
-Phones Phone bank (from home) Mon, Tue & Thu · 6–8 PM Call voters from home.
-We give you the script and the call list, and someone's on hand for questions.
-Training New volunteer training (online) Wednesdays A 30-minute video call covering doors, phones and what to say.
-We'll send the link when you sign up.
-For everyone's safety we don't post meetup addresses.
-Sign up and we'll text you where to meet.
-Sign up for a shift Help elect James Linderholm Donate Donations pay for door hangers, yard signs and printing.
-ActBlue handles the payment.
-Donate on ActBlue (opens in a new tab) Get a yard sign We'll drop one off at your house.
+Skip to main content James LINDERHOLM (home) Menu About Issues Events Vote Yard Sign Donate Volunteer Events This week with Team Linderholm A new volunteer week is posted every week, with each canvass and appearance listed below.
+Coming up Oct 13 Afternoon canvass in Jones Valley Tue, Oct 13 · 4–5:30 PM Oct 14 Morning canvass in South Huntsville Wed, Oct 14 · 10 AM–noon Oct 15 Morning canvass on Monte Sano Thu, Oct 15 · 10 AM–noon Oct 15 Afternoon canvass Thu, Oct 15 · 4–5:30 PM Neighborhood to be announced.
+Oct 16 Morning canvass Fri, Oct 16 · 10 AM–noon Neighborhood to be announced.
+Oct 17 McGucken Park cleanup Sat, Oct 17 Sign up and we'll send the time and check-in details.
+Oct 18 Meet-and-greet with James Linderholm Sun, Oct 18 At a supporter's home.
+Sign up and we'll send the details.
+Nov 3 Election Day Tue, Nov 3 · Polls open 7 AM–7 PM Look for Linderholm on your ballot.
+New dates are posted every week.
+Sign up and we'll send you the next one.
+The week ahead This week Team Linderholm Volunteer Week: Oct 12–18 Knock doors, plant signs, and clean up South Huntsville.
+This week Team Linderholm Volunteer Week: Oct 19–25 Knock doors and plant signs.
+This week Team Linderholm Volunteer Week: Oct 27–Nov 3 The final push to Election Day.
+New to this?
+Every canvass starts with a short training, and no one goes out alone.
+Meetup spots are posted in our private Team Linderholm Facebook group.
+Sign up and we'll send you the link, or text you the details if you're not on Facebook.
+Sign up for a shift See these events on Facebook (opens in a new tab) Help elect James Linderholm Donate Donations pay for door hangers, yard signs and printing.
+Donate (opens in a new tab) Get a yard sign We'll drop one off at your house.
 Large signs go to busy roads, and our crew installs those.
-Request a yard sign LINDERHOLM James Linderholm · Democrat for Alabama House District 20 Get involved Volunteer Donate on ActBlue (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
+Request a yard sign LINDERHOLM James Linderholm · Alabama House District 20 Get involved Volunteer Donate (opens in a new tab) Get a yard sign Events Learn more About James Linderholm Issues How to vote Register to vote (official site) (opens in a new tab) Privacy policy Follow Paid for by Linderholm for District 20, P.O.
 Box 4764, Huntsville, AL 35815.
 Volunteer Donate (opens in a new tab)

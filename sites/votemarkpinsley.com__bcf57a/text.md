@@ -1,4 +1,4 @@
-Skip to main content Skip to footer DONATE The Candidate The Issues Get In Contact Endorsements MARK PINSLEY For the PEOPLE.
+Skip to main content Skip to footer Opens in a new tab DONATE The Candidate The Issues Get In Contact Endorsements MARK PINSLEY For the PEOPLE.
 Not the POWERFUL.
 See Mark's plans for lowering costs MARK PINSLEY For the PEOPLE.
 Not the POWERFUL.

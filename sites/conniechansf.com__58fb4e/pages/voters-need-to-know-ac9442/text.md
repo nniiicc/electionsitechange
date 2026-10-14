@@ -1,5 +1,5 @@
-Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate What Voters need to know Updated 10/3/26 Voters in CA-11, particularly Democratic and Decline to State women, Latino, and API voters district wide, need to read, see and see-on-the-go that Scott Wiener is bankrolled by Big Tech and AI corporations.
-More than $500,000 in AI industry money is supporting his campaign, and he let AI corporations weaken his AI laws.
+Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate What Voters need to know Updated 10/13/26 Voters in CA-11, particularly Democratic and Decline to State women, Latino, and API voters district wide, need to read, see and see-on-the-go that Scott Wiener is bankrolled by Big Tech and AI corporations.
+More than $3.5 million in AI industry money is supporting his campaign, and he let AI corporations weaken his AI laws.
 He supports massive data centers and attacked Connie Chan with a chatbot.
 We can't trust a politician bankrolled by AI to write the rules.
 Meanwhile, Connie Chan puts San Francisco families first.

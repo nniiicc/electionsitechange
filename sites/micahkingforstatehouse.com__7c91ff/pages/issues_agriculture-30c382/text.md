@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Agriculture and Farm Policy in Georgia House District 157 How rural hospital cuts, rising utility costs, and property tax pressure threaten family farms in District 157, and Micah King's plan to protect Southeast Georgia agriculture.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Agriculture and Farm Policy in Georgia House District 157 How rural hospital cuts, rising utility costs, and property tax pressure threaten family farms in District 157, and Micah King's plan to protect Southeast Georgia agriculture.
 Standing Up for the Family Farms That Built This District Drive any farm road in Tattnall, Jeff Davis, Appling, or Evans County in early spring and you will smell it before you see it: sweet onions coming out of the ground, headed for a packing shed, then a Publix produce aisle five hours north.
 That smell is not a novelty crop or a tourist attraction.
 It is the backbone of a regional economy that stretches from the sandy loam fields around Glennville to the poultry houses of Hazlehurst to the timber tracts that cover much of Appling County.

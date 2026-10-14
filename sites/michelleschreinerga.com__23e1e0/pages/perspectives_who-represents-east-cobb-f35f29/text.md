@@ -1,5 +1,5 @@
 0 Skip to Content Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Who Represents East Cobb?
-Jul 12 Written By Michelle Schreiner Georgia House District 45 Before and After Redistricting Our neighborhoods stayed the same.
+Jul 12 Written by Michelle Schreiner Georgia House District 45 Before and After Redistricting Our neighborhoods stayed the same.
 The district boundaries did not.
 These maps show Georgia House District 45 before and after the 2020 Census redistricting.
 The updated map took effect for the 2024 election cycle.

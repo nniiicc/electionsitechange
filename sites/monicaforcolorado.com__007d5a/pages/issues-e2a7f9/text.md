@@ -1,6 +1,59 @@
 0 Skip to Content About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Issues What I’m Fighting For When all of our neighbors, especially the most vulnerable among us, have the resources and support they need to thrive, we create more resilient communities where opportunity and growth flourish.
 As your representative, I’ll fight for policies that make our home affordable and allow our families to not just survive but thrive.
 I am an experienced advocate who delivers results for our community, because families in our community can not afford big ideas without follow through.
+2026 Midterm Ballot Initiatives Voting is one of the most empowering things you can do.
+This year, it's deeply important to vote down the ballot for Democratic candidates that protect our elections, for ballot items that fund Colorado public services, and against attacks on our civil rights.
+Vote YES Replaces Colorado’s flat income tax with a graduated rate from 3.7% to 8.4%.
+If you earn less than $500,000 a year, you would pay less.
+Higher earners would pay more, and that money would go to K-12 schools, healthcare, and early childcare.
+Amendment 87.
+Establish Graduated Income Tax.
+Replaces Colorado’s flat income tax with a graduated rate from 3.7% to 8.4%.
+If you earn less than $500,000 a year, you would pay less.
+Higher earners would pay more, and that money would go to K-12 schools, healthcare, and early childcare.
+Changes the unfair TABOR cap to let Colorado keep tax revenue it's already collected and put that into K-12 schools.
+That means better teacher pay, books and classroom materials without any new taxe$.
+Proposition NN.
+TABOR Revenue Cap Increase for K-12 Education.
+Changes the unfair TABOR cap to let Colorado keep tax revenue it's already collected and put that into K-12 schools.
+That means better teacher pay, books and classroom materials without any new taxe$.
+Vote NO Proposition 134.
+Sex Requirement for School Sports.
+Creates barriers for kindergarten - college students to play on sports teams that match their gender identity.
+This targets transgender youth who already face societal barriers and opens the door to invasive physical inspections of girls.
+Sports improve kids' mental health and grades and every student deserves a place on the team.
+Vote No.
+Medical decisions, even rare ones, should only be determined by patients, their families and their medical providers, not the state.
+Vote No $ impact.
+Proposition 135.
+Prohibits Surgeries for Treatment.
+Medical decisions, even rare ones, should only be determined by patients, their families and their medical providers, not the state.
+Vote No $ impact.
+Vote NO - Advance Colorado Initiatives ---- Monica VanBuskirk recommends a NO vote on all ballot issues created by Advance Colorado.
+They hope to trick people into voting for corporate interests.
+Don't let them.
+More info from investigative journalists here: https://www.whoisadvancecolorado.org/ ---- Amendment 81 - Law Enforcement Reporting to Federal Authorities Requires local law enforcement to notify the Dept of Homeland Security (ICE!) about individuals' immigration status about anyone charged and encourages racial profiling.
+Amendment 82 - Right to Purchase and Sell Natural Gas Permanently alters our state constitution.
+Nothing in current law blocks this, so it solves no problem but makes future energy decisions harder to change.
+Vote no.
+Amendment 83 - Right to Hunt and Fish Alters the state constitutional right for hunting and fishing with ‘traditional methods’ without useful definitions.
+Vague language will likely end up in court and could limit efforts to protect public lands and wildlife.
+Vote no.
+Amendment 84 - Require Voter Identification Colorado already has the gold standard for voting in elections.
+This would create administrative burden and suppress votes.
+Vote no.
+Amendment 85 - Require Plain Language.
+Strips fiscal detail from ballot measure descriptions, and incentivizes inequitable tax policies.
+Vote no.
+Amendment 86 - Require Commission and Supreme Court Approval Districts are already redrawn every 10 years following the census.
+This would allow redistricting off-cycle which is often done to serve unfair partisan goals.
+Vote no.
+Proposition 132 - Penalties for Fentanyl Sale.
+Increases penalties for fentanyl-related crimes, which are not shown to reduce drug addiction, but they do increase prison costs.
+Vote no.
+Proposition 136 - Establish 4.4% Cap.
+This is the opposite of Amendment 87 and is unfair to lower income households.
+Vote no.
 Issues Affordability For Homeowners and Renters: Too many Coloradans are struggling to afford their homes because out of state investors are pricing out families.
 I’ll fight for policies that expand affordable housing options, protect renters from predatory practices, and help families stay in their homes.
 For Childcare: Parents shouldn’t have to risk their jobs or paying their bills because childcare costs are out of reach.

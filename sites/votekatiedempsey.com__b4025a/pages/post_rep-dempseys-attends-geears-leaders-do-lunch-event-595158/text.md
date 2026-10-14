@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rep.
+Donate All Posts From Katie News Search Rep.
 Dempsey Attends GEEARS Leaders Do Lunch Event Katie Dempsey Apr 13, 2022 3 min read Updated: May 18, 2022 An afternoon with Dr.
 Mona Hanna-Attisha, Representative Katie Dempsey, and other early childhood champions.
 In 2015, pediatrician Mona Hanna-Attisha exposed Flint, Michigan’s water crisis to the world.
@@ -29,4 +29,6 @@ Mona, both in her comments to the GEEARS community and her book, What the Eyes D
 Crusading for children, she acknowledged, means constantly battling factors like systemic racism, public health disinvestment, anti-science sentiment, misinformation, and more.
 And yet, she urged all Leadership Matters attendees to persist, listing a few other “P-words” she uses to keep her own spirits up.
 “Find your passion . . . find your people,” she instructed.
-And when you face resistance, she added with a glint behind her angular eyeglasses, “Be pleasantly persistent.” https://geears.org/news/leaders-do-lunch/ Paid for by Friends of Katie Dempsey bottom of page
+And when you face resistance, she added with a glint behind her angular eyeglasses, “Be pleasantly persistent.” https://geears.org/news/leaders-do-lunch/ Recent Posts See All Coosa Valley News: Rep.
+Dempsey Attends Elder Abuse Symposium as Honored Guest Collaboration between law enforcement and the private sector are helping investigators get results and prosecute elder abuse cases by...
+Rome News Tribune: Q&A with Katie Dempsey Rome News-Tribune: More Protection in New Lead Rules Paid for by Friends of Katie Dempsey bottom of page

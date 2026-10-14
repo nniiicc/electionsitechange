@@ -19,7 +19,10 @@ Practical does not mean unprincipled.
 Government has a clear duty to protect life, uphold equal justice, keep communities safe, and respect the families and taxpayers it serves.
 Why James Is Running Messages from James I’m running to represent you.
 Hear why I’ll listen, work across differences, and put this community first.
-Choose a video 2 videos ▶ Latest video A new message from James Selected · 0:33 ▶ Introduction I’m running to represent you Select video Your browser does not support embedded video.
+Choose a video 3 videos ▶ Latest video A new message from James Selected · 0:32 ▶ Previous message A message from James Select video · 0:33 ▶ Introduction I’m running to represent you Select video Your browser does not support embedded video.
+Use the video link below.
+A new message from James Julius.
+Open this video on its own page Your browser does not support embedded video.
 Use the video link below.
 A new message from James Julius.
 Open this video on its own page Your browser does not support embedded video.
@@ -32,7 +35,7 @@ And that’s the kind of representative that I intend to be.
 And remember, your vote matters.
 Vote for the candidate, not just the party.
 My name is James Julius, and I’m running for State Representative.
-Previous Video 1 of 2 Next Ask Me Anything Your questions.
+Previous Video 1 of 3 Next Ask Me Anything Your questions.
 My answers.
 Your questions, answered in my latest videos.
 Browse the carousel below—new posts appear as I add them on TikTok.

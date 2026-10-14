@@ -19,7 +19,7 @@ Keeping Politicians Out of Your Medical Decisions In 2022, Kentuckians from ever
 I will respect that decision.
 Choices about pregnancy, contraception, IVF and miscarriage care belong to women, their families and their doctors, not Washington.
 I will protect access to contraception and IVF, and make sure every woman facing a pregnancy complication gets the emergency care she needs.
-People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
+Read the full post People Over Politics More from Charles Booker's platform Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Elect Charles Booker for U.S.

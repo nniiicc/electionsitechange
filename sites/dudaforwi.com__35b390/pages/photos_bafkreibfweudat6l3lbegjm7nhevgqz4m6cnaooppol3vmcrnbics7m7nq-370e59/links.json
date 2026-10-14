@@ -33,10 +33,6 @@
 },
 {
 "text": "Apple Maps",
-"href": "https://maps.apple.com/place?address=2894+Main+St%2C+East+Troy%2C+WI&name=2894+On+Main"
-},
-{
-"text": "Apple Maps",
 "href": "https://maps.apple.com/place?address=2905+Main+St%2C+East+Troy%2C+WI&name=East+Troy+Brewery"
 },
 {
@@ -93,10 +89,6 @@
 },
 {
 "text": "Google Maps",
-"href": "https://www.google.com/maps/search/?api=1&query=2894+On+Main%2C+2894+Main+St%2C+East+Troy%2C+WI"
-},
-{
-"text": "Google Maps",
 "href": "https://www.google.com/maps/search/?api=1&query=East+Troy+Brewery%2C+2905+Main+St%2C+East+Troy%2C+WI"
 },
 {
@@ -126,10 +118,6 @@
 {
 "text": "Legislative Bill Viewer •/bill/2023-reg-ab302• Open Legislative Bill Viewer",
 "href": "https://www.dudaforwi.com/bill/2023-reg-ab302"
-},
-{
-"text": "Preregister, $30",
-"href": "https://www.dudaforwi.com/donate?amount=30"
 },
 {
 "text": "Privacy",

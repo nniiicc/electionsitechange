@@ -1,10 +1,12 @@
 {
- "description": "{post_title} {post_date: M j, Y}",
+ "description": "{post_title} {post_date}",
  "final_url": "https://jbpritzker.com/news-updates/page/3/",
- "fingerprint": "f38ed1fc432d96a45b5f7b3f1eee2cdd68d876a6",
+ "fingerprint": "9d3389e6fe7e0a48bd4dc75c295cd4534f6780e5",
  "format": 3,
  "paid_for_by": "Paid for by JB for Governor español 中文 Polski español 中文 Polski",
  "rendered": false,
- "title": "News & Updates - Page 3 of 20 - JB for Governor",
- "years_mentioned": []
+ "title": "News & Updates - Page 3 of 22 - JB for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

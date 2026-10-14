@@ -10,6 +10,6 @@ I am committed to securing the necessary funding and implementing effective stra
 Investing in mass transit and high-speed rail As our state grows, we are rapidly running out of space for roadways.
 Increased funding for a statewide mass transit system, whether through buses, light rail, or high-speed rail, is essential.
 I support expanding our transportation infrastructure to improve connectivity, reduce congestion, and enhance the quality of life for all Floridians.
-Our vision: Making Florida affordable again If elected, my ultimate goal is to make Florida affordable for working families once again.
+Endorsements Our vision: Making Florida affordable again If elected, my ultimate goal is to make Florida affordable for working families once again.
 By addressing these critical issues head-on, we can build a future where every resident of District 74 can thrive.
 Join us in this mission to create a stronger, more sustainable Florida for everyone. https://secure.actblue.com/donate/ryan-neill-74 Paid By Ryan Neill, Democrat, For State Representative District 74 © # Elect Ryan Neill Powered by Webador

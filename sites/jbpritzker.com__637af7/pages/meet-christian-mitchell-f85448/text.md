@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet Christian Watch Video I’ve spent my life fighting for Illinoisans as a State Representative and Deputy Governor.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Meet Christian Watch Video I’ve spent my life fighting for Illinoisans as a State Representative and Deputy Governor.
 Now, I’m running for Lieutenant Governor to keep Illinois moving forward.
 I was born and raised by a single mother who taught me the values of hard work and standing up for what’s right.
 After being elected as a State Representative, I fought for a fairer and more equitable Illinois by standing up for a woman’s right to choose, opposing right to work laws, and fighting for a new education funding system to ensure every child has access to quality schools.
@@ -13,4 +13,4 @@ By submitting your mobile phone number you are agreeing to receive periodic text
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

@@ -1,12 +1,10 @@
 {
  "description": "A video message from Julia, and a short list of fire resources and information.",
  "final_url": "https://www.juliaforoffice.com/post/fire-information-resources",
- "fingerprint": "ec8c016f33d31486df3ae2ea450cfff17831c8db",
+ "fingerprint": "a7293c92842dc5936f30406518e05eb184f62824",
  "format": 3,
  "paid_for_by": "Paid for by Friends of Julia, PO Box 9056, Spokane, WA 99209 bottom of page",
  "rendered": false,
  "title": "Fire Information & Resources",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

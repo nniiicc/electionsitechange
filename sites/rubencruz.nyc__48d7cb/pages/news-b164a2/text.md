@@ -1,5 +1,9 @@
 top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
-CruzNYC CAMPAIGN NEWS The Latest Updates All Articles Search Rethinking Housing Policies for Local Impact: Affordable Housing Strategies That Work Housing is more than just shelter.
+CruzNYC CAMPAIGN NEWS The Latest Updates All Articles Search Enhancing Community Animal Care: Strengthening Policies in Queens Animal welfare is not just a topic for debate; it’s a call to action.
+In Queens, the need to improve how we care for our animals is urgent.
+I believe that by enhancing community animal care, we can create a safer, healthier environment for pets, wildlife, and residents alike.
+This is not just about laws; it’s about compassion, responsibility, and community pride.
+Why Community Animal Care Matters in Queens Queens is a vibrant, diverse borough with a rich mix of people and pet #ago 3 min read Rethinking Housing Policies for Local Impact: Affordable Housing Strategies That Work Housing is more than just shelter.
 It’s the foundation of our communities, the backbone of local economies, and the key to stability for families and small businesses alike.
 Yet, too many residents in New York State Assembly District 38 face skyrocketing rents, limited options, and policies that don’t serve their needs.
 It’s time to rethink housing policies with a sharp focus on affordable housing strategies that create real, lasting local impact.
@@ -22,9 +26,5 @@ We’re not waiting for change to happen.
 We’re making it happen.
 Together.
 Why Community Efforts Matter More Than Ever We live in a time when challenges hit close to home.
-Affordability is slipping a Sep 28 3 min read Animal Welfare in Queens: Policies Shaping Our Community When I think about Queens, I see a vibrant, diverse community where every voice matters.
-But what about the voices of those who cannot speak for themselves—our animals?
-Animal welfare in Queens is not just a side issue; it’s a critical part of building a compassionate, thriving neighborhood.
-I’m here to break down how animal welfare policies are shaping Queens and why they should matter to you.
-Why Animal Welfare in Queens Demands Our Attention Animal welfare in Queens is mor Sep 28 3 min read The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Affordability is slipping a Sep 28 3 min read The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 The Foundation BBQ The Blueprint Events Get Involved Contact Paid for by Friends of Ruben Cruz ESSENTIAL LINKS - Click Below Unemployment Insurance Free Meals Domestic Violence Assistance Elder Abuse Office of Victiim Services NYC Well Apply for SNAP CITYMEALS for Seniors Food Bank Check Your DEED MTA Maps Home Energy Assistance Program Property Tax Benefits A S P C A Services Hotline Community Board 5 Community Board 8 Community Board 9 Community Board 10 bottom of page

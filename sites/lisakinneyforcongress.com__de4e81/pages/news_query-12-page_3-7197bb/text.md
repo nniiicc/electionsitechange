@@ -2,7 +2,8 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate News, Updates and Policy Thoughts Another Call for Public Lands Posted on July 23, 2026 Forty eight percent of Wyoming is federal public land.
+Donate Donate News, Updates and Policy Thoughts Mental Healthcare is Healthcare Posted on August 2, 2026 My brother Wayne suffered immensely but was so incredibly kind.
+Read more… Another Call for Public Lands Posted on July 23, 2026 Forty eight percent of Wyoming is federal public land.
 We need to protect it at all costs!
 Read more… History Cannot be Re-Written Posted on July 11, 2026 Lisa is criticizing the removal of signage at Grand Teton National Park that described 19th-century explorer Gustavus Doane’s role in a massacre of Native Americans, calling the move an attempt to rewrite state history Read more… Forest Service Rule Changes Posted on July 6, 2026 The Forest Service has proposed a rule change that will eliminate public input!
 Read more… Fireside Chat: Data Centers Posted on June 26, 2026 Panel discussion on Data Centers.

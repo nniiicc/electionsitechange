@@ -1,7 +1,7 @@
 [
 {
 "text": "Already requested? Download it",
-"href": "https://www.mele4america.com/assets/mele-10-challenge-kit.pdf"
+"href": "https://gregg-mele-fighter.paulfornj.chatgpt.site/assets/mele-10-challenge-kit.pdf"
 },
 {
 "text": "Articles",
@@ -16,10 +16,6 @@
 "href": "https://secure.winred.com/gregg-mele-for-america/donate-today"
 },
 {
-"text": "Get the kit",
-"href": "https://www.mele4america.com/index.html?interest=mele10#volunteer-form"
-},
-{
 "text": "Home",
 "href": "https://www.mele4america.com/index.html"
 },
@@ -28,11 +24,15 @@
 "href": "https://www.mele4america.com/index.html"
 },
 {
-"text": "Mele 10",
-"href": "https://www.mele4america.com/challenge.html"
+"text": "Meet Gregg",
+"href": "https://www.mele4america.com/index.html#meet"
 },
 {
 "text": "Platform",
+"href": "https://www.mele4america.com/platform.html"
+},
+{
+"text": "Priorities",
 "href": "https://www.mele4america.com/platform.html"
 },
 {
@@ -50,5 +50,9 @@
 {
 "text": "Volunteer",
 "href": "https://www.mele4america.com/index.html#volunteer-form"
+},
+{
+"text": "Vote",
+"href": "https://www.mele4america.com/vote.html"
 }
 ]

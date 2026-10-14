@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Thomas West is running for State Representative to make that promise real — with homes people can actually afford, strong local schools, lower costs, and communities where every family has a fair shot at staying and thriving.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Thomas West is running for State Representative to make that promise real — with homes people can actually afford, strong local schools, lower costs, and communities where every family has a fair shot at staying and thriving.
 DONATE GET INVOLVED Vermont should be the best place to raise a family, build a good life, and enjoy it.
 WHY THIS CAMPAIGN?
 Vermont is one of the most extraordinary places in America, but too many families are wondering whether they can afford to build their future here.

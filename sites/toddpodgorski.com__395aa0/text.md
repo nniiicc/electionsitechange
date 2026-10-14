@@ -1,3 +1,4 @@
+Check out Todd's Town Square TV Profile Here!
 Putting Minnesota Families First Practical leadership.
 Accountable government.
 A stronger future for District 53 Learn More About Todd: East Metro Voter's Guide Profile Donate Now!
@@ -18,7 +19,7 @@ He believes Minnesota deserves leaders who understand real life, listen to their
 Paid for by Podgorski for Senate P.O.
 Box 202 South St.
 Paul, MN 55075 Learn More About Todd Podgorski Commitment to Family Commitment to Public Safety and Our Shared Values Commitment to Our Communities Todd believes strong families are the foundation of strong communities.
-As a husband of 29 years and father of three, he understands the everyday challenges families face, from rising costs to ensuring safe neighborhoods and good schools.
+As a husband of 30 years and father of three, he understands the everyday challenges families face, from rising costs to ensuring safe neighborhoods and good schools.
 His approach to leadership always starts with putting families first.
 Commitment to Our Communities Commitment to Public Safety and Our Shared Values Commitment to Our Communities Through his service on the South St.
 Paul City Council and School Board, Todd has worked to strengthen the community he calls home.
@@ -56,7 +57,7 @@ Paul City Council Member Ed Iago, Former West St.
 Paul City Council Members Neil Garlock, Former Mendota Heights Mayor Joe Leko, Dakota County Sheriff Ryan Duffy, Former South St.
 Paul School Board Member Bill Arend, Former South St.
 Paul School Board Member Tim Leslie, Retired Dakota County Sheriff Shelly Forester, Former South St.
-Paul School Board Member MMPOA (Minnesota Police and Peace Officers Association) Paid for by Podgorski for Senate P.O.
+Paul School Board Member MPPOA (Minnesota Police and Peace Officers Association) Paid for by Podgorski for Senate P.O.
 Box 202 South St.
 Paul, MN 55075 Todd Podgorski: Committed to Service Paid for by Podgorski for Senate P.O.
 Box 202 South St.

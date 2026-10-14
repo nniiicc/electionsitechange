@@ -15,8 +15,9 @@ I started Grow and Flow, a small regenerative farm and a yoga/movement studio in
 I've always cared about breaking cycles and helping others on their journey.
 In early 2025, I finished a training program and earned certification in Trauma-Sensitive Yoga with the Center for Trauma & Embodiment.
 I noticed a real gap in mental health services here for people who want alternatives to traditional talk therapy, survivors of trauma, and those with chronic PTSD, so I decided to help fill that need.
-I'm someone who takes action, which is why I'm on the November ballot.
 I don't wait for someone else to do what needs to be done, especially when I know others are ready for change too.
+I don't like what's in our food, so I started a farm.
+I didn't like the choices I was going to have on the ballot when the petition deadline came in March, so I got my signatures, and now I'm on the ballot to give you a choice in November.
 This is my home.
 I chose to be here, and I'm invested in this place.
 Building a business, working with your neighbors, and putting down roots shows how much I care about our community.

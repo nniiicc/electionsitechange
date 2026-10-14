@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved State Representative Betsy Coffia.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved State Representative Betsy Coffia.
 State Representative Betsy Coffia.
 Representing Michigan's 103rd District Always Working Hard For Us Betsy Coffia is a dedicated public servant with deep roots in northern Michigan.
 Betsy grew up in a working class family in rural Kalkaska County, and has spent nearly her entire life in northern Michigan including the last 20 years in Traverse City.

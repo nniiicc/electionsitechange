@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Rep.
+Donate All Posts From Katie News Search Rep.
 Dempsey Named a 2019 Champion of Recovery by Georgia Council on Substance Abuse Katie Dempsey Jun 18, 2019 2 min read Updated: Mar 17, 2022 ATLANTA – State Representative Katie Dempsey (R-Rome) was recently named a 2019 Champion of Recovery and friend of the Georgia Recovery Community by the Georgia Council on Substance Abuse (GCSA).
 Rep.
 Dempsey received this award at an event to launch The Georgia Recovers Project, where she also served as a speaker for the event.

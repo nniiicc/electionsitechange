@@ -8,7 +8,7 @@ Money #.#% of his $# raised from OUTSIDE the district's four counties ($#).
 Votes 200 of 208 contested bills in our public vote database cast with his party.
 8 breaks.
 Alignment When a lobby group tied to his top donors declared for or against a bill, his vote matched the group's position #% of the time.
-Method Roll calls from legis.iowa.gov through 2026-10-05.
+Method Roll calls from legis.iowa.gov through 2026-10-12.
 Every dollar from IECDB filings through 2026-07-14, the newest filing date in the state's bulk export (the state last updated that export 2026-10-10; we check it nightly).
 Cash contributions only; his 15 reported in-kind gifts ($15,183) are noted separately in Exhibit F, never added into the cash totals.
 Contents follow as Exhibits A–E.

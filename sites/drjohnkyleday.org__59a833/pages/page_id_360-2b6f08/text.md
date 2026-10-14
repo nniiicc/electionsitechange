@@ -1,4 +1,4 @@
-Skip to content Republican Primary March 3 Home About Services Gallery Contact Your privacy is important to us.
+Skip to content Kyle Day Arkansas District 94 State Representative Home About Services Updates / News Gallery Contact Your privacy is important to us.
 This Privacy Policy outlines the types of information we collect, how we use it, and the safeguards we have in place to protect your personal data when you interact with our website (www.drjohnkyleday.org).
 By using our website, you consent to the practices described in this policy.
 1.
@@ -29,7 +29,5 @@ We encourage you to review this policy periodically.
 Contact Us If you have any questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us at johnkyleday@gmail.com.
 By using our website, you agree to the terms outlined in this Privacy Policy.
 Join the Campaign Whether you can volunteer, share your voice, or make a donation—every bit helps us move Arkansas forward.
-DONATE NOW Sign up privacy policy Terms of Use Follow Facebook Instagram X LinkedIn Republican Primary March 3 Contact Send a Message Home About Services Gallery Contact Built By WordPress.com © # Dr.
-John Kyle Day.
-All Rights Reserved.
-Paid for by Kyle Day for State Rep.
+DONATE NOW Sign up Privacy Policy Terms of Use Follow Facebook Instagram X LinkedIn Kyle Day Arkansas District 94 State Representative Contact Send a Message Home About Services Updates / News Gallery Contact Built By WordPress.com © # Dr.
+John Kyle Day | All Rights Reserved | Designed By www.DesignsByAJ.com |Paid for by Kyle Day for State Rep.

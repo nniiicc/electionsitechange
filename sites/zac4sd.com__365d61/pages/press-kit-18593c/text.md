@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Press Press and Media Kit Reporters and editors are welcome to use the materials on this page.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Press Press and Media Kit Reporters and editors are welcome to use the materials on this page.
 For interviews, high-resolution assets, or anything else you need, contact zac@zac4sd.com .
 The basics Candidate Zac Martin Office South Dakota House of Representatives, District 32 Party Republican Election Day November 3, 2026 Committee Zac Martin for South Dakota Website zac4sd.com Email zac@zac4sd.com Phone (605) 600-3281 Bio tag Father.
 Businessman.
@@ -32,12 +31,11 @@ Headshot and assets Download the current headshot: headshot.jpg .
 A 300 dpi print-resolution headshot is available on request at zac@zac4sd.com .
 For more on Zac and where he stands, reporters can read the full platform and the candidate contrast on The Choice .
 Paid for by Zac Martin for South Dakota.
-Zac .
-Martin SD House 32 Strong Families.
+Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

@@ -20,6 +20,7 @@ Local control drives innovation, empowered parents are engaged parents, and deci
 Expectations matter: mediocrity is not equity, every student can learn, and academic rigor—not ideology—leads to success.
 To attract and keep great teachers, we should recognize excellence and reward it accordingly.
 Make a donation.
+Donation Block Set up a payment processor to start receiving donations.
 Donate A contribution of any amount, up to the maximum accumulated total contributions of $1,000/person or $2,000/couple for 2026, will help John reach more people.
 Your generous contribution is greatly appreciated!
 Prepared and paid for by Burkel For House - 24932 270th Ave - Badger, MN - 56714 john@burkelforhouse.com 218-689-0395 Privacy Policy

@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Tattnall County #Policy #Affordability #Public Safety #Families The Issues That Matter Most in Georgia House District 157 May 1, 2026 6 min read By Micah King Table of Contents • The Cost of Living Is Squeezing Our Families • Our Emergency Services Are Being Stretched Too Thin • Agriculture Is the Backbone of This District • Rural Healthcare Access Is a Crisis in Slow Motion • Education and Workforce Development • Responsive, Accountable Government • Why I Am Running Georgia House District 157 is full of hardworking families, farmers, small business owners, veterans, and faith communities.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Tattnall County #Policy #Affordability #Public Safety #Families The Issues That Matter Most in Georgia House District 157 May 1, 2026 6 min read By Micah King Table of Contents • The Cost of Living Is Squeezing Our Families • Our Emergency Services Are Being Stretched Too Thin • Agriculture Is the Backbone of This District • Rural Healthcare Access Is a Crisis in Slow Motion • Education and Workforce Development • Responsive, Accountable Government • Why I Am Running Georgia House District 157 is full of hardworking families, farmers, small business owners, veterans, and faith communities.
 They deserve a representative who fights for them, not for party leadership, lobbyists, or the status quo in Atlanta.
 I am running for State Representative because the people of Tattnall County, Glennville, Reidsville, and the surrounding communities have been patient long enough.
 The issues facing our district are real, they are urgent, and they deserve more than campaign slogans.

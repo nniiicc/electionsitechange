@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Pillar B · Economy Taxes, Spending, and Budget “ Government should live within the means of the people it serves. ” Protect South Dakota's no-income-tax foundation.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Pillar B · Economy Taxes, Spending, and Budget “ Government should live within the means of the people it serves. ” Protect South Dakota's no-income-tax foundation.
 Aggressive property tax relief.
 Stop the headcount-and-spending growth that's quietly inflating Pierre.
 Where I stand No state income tax.
@@ -8,9 +7,12 @@ Real property tax relief.
 Support SB 96 (2025), the county-option mechanism that does not raise the statewide sales tax base.
 Reform SB 245 (2025) so property tax relief does not depend on a sales tax increase.
 Stand with the families and small businesses who would pay that hike.
+Freeze It at 60: when a homeowner turns 60, the property tax bill on the home they live in stops going up.
+Income under $65,000 single or $80,000 couple, home value under $514,500, all indexed to inflation.
+The state makes counties and schools whole, paid for by capping spending growth to population plus inflation.
 Oppose appropriation growth like HB 1326 (2026), which passed the House 50-17 and the Senate 25-9.
 No corporate carveouts that pick winners and losers.
-SB 96 (2025) Reform SB 245 (2025) Oppose HB 1326 (2026) Pushback, answered The hard questions, answered straight.
+SB 96 (2025) Reform SB 245 (2025) Freeze It at 60 (2027) Oppose HB 1326 (2026) Pushback, answered The hard questions, answered straight.
 These are the real objections this position gets, with the same answers Zac gives in person.
 No talking points.
 No dodges. “ Property tax cuts mean schools lose funding.
@@ -36,19 +38,19 @@ First, structural reform that caps the growth of assessed valuations.
 Second, shifting some school funding off of local property tax and onto the state.
 Third, long-term spending discipline.
 No single bill fixes this.
-A sustained plan does.
-Pillar A Life & Family All 15 pillars Pillar C Election Integrity Join the campaign We win District 32 the old fashioned way .
-Door by door.
+A sustained plan does. “ Freezing seniors' property taxes at 60 just pushes the bill onto young families and renters. ” Not under my plan.
+The state makes counties and schools whole for the frozen amount and pays for it by capping state spending growth to population plus inflation.
+Without that backfill the levy would shift onto younger families and renters, which is exactly what the plan is built to prevent.
+The income limits and the home value cap keep it aimed at ordinary households, not the wealthy.
+Pillar A Life & Family All 15 pillars Pillar C Election Integrity Join the team Vote Zac Martin Door by door.
 Neighbor by neighbor.
 Yard sign by yard sign.
-Every conversation, every donation, every shift counts.
-This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
-Donate Volunteer Yard Sign Zac .
-Martin SD House 32 Strong Families.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes to win District 32.
+(605) 600-3281 · zac@zac4sd.com Donate Volunteer Yard sign Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

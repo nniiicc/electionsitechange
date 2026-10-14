@@ -1,4 +1,9 @@
-Meet Jesse Issues News Volunteer Contribute News Latest updates from the campaign: 5 Oct Monday, 6:41 AM · 2026 The ‘Affordability’ Democrats?
+Meet Jesse Issues News Volunteer Contribute News Latest updates from the campaign: 13 Oct Tuesday, 10:38 AM · 2026 Democrats Have No School Choice Excuse If Illinois political leadership passes on this credit, the students who would benefit the most will be left behind.
+"The main benefit of the program is that it gives families more money to choose the best school, public or private.
+That might lead to more competition among schools and more student flourishing." Read more 13 Oct Tuesday, 10:31 AM · 2026 The IFI Voter Guide helps voters cut through campaign rhetoric; Order Guides for Your Church.
+The IFI Voter Guide helps voters cut through campaign rhetoric by examining candidates’ voting records, questionnaire responses, public statements, and endorsements.
+This nonpartisan resource equips Christians to make informed decisions and is intended for distribution in churches.
+Read more 5 Oct Monday, 6:41 AM · 2026 The ‘Affordability’ Democrats?
 You Have to Be Kidding "From healthcare to housing to energy, their policies have made life more expensive." Read more 3 Oct Saturday, 3:38 AM · 2026 Look Which States Are Getting Rich from Movers- Hint: NOT ILLINOIS People leave their home states due to local policies, not national.
 Bad local-state policies = people fleeing.
 Read more 1 Oct Thursday, 6:02 AM · 2026 Have You Seen the Dems Attack Ad Against Me?

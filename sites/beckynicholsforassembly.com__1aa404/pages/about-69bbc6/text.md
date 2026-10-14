@@ -1,4 +1,4 @@
-top of page About Issues Get Involved Endorsements Open site navigation Back to site Make a Donation Make A Donation WISCONSIN ROOTS ​ I'm Rebecca “Becky” Nichols and I grew up in rural Chilton, Wisconsin, where early life centered on hard work, responsibility, and contributing to the well-being of others.
+top of page About Issues Get Involved Volunteer Volunteer Endorsements Open site navigation Back to site Make a Donation Make A Donation WISCONSIN ROOTS ​ I'm Rebecca “Becky” Nichols and I grew up in rural Chilton, Wisconsin, where early life centered on hard work, responsibility, and contributing to the well-being of others.
 From a young age, I learned the realities faced by working families—balancing long hours, caring for loved ones, and managing unexpected expenses.
 These experiences shaped a practical, grounded understanding of community needs and the importance of reliable public services that support everyday life without placing unnecessary strain on residents or taxpayers.
 I worked a variety of physically demanding and service-oriented jobs while pursuing higher education, including assembling small engines on a factory floor, waiting tables, and working as a custodian.
@@ -20,4 +20,4 @@ Join Our Campaign Our grassroots is focused on bringing commonsense solutions ba
 When we work together, we can accomplish great things for our state.
 That's why we invite you to be a part of this campaign.
 Sign Up Email: info@beckynicholsforassembly.com Phone: 920-215-0186 ​ Becky Nichols for Assembly P.O.
-Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Endorsements bottom of page
+Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Volunteer Endorsements bottom of page

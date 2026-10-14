@@ -1,4 +1,4 @@
-About Schedule Issues In the News Contact DONATE Leadership you can trust.
+About Schedule Issues In the News Contact DONATE Working together for Minnesota.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.
@@ -23,7 +23,8 @@ DONATE TODAY Schedule Upcoming events and opportunities to meet the campaign.
 Iron Trail Motors Meet & Greet October 15 • 5:00 pm - 7:00 pm • Iron Trail Motors Event Center, 919 6th St S, Virginia, MN 55792, USA Aaron Kania will be attending the candidate Meet & Greet @ Iron Trail Motors October 15th.
 Sincere thank you to Laurentian Chamber of Commerce for hosting.
 Mesabi...
-Event Details Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.
+Event Details Grand Portage Meet and Greet October 16 • 4:00 pm - 6:00 pm • Old Log Building, 58 Upper Road, Grand Portage, MN 55605 International Falls Door Knock October 18 • 12:00 pm - 6:00 pm Meet at Smokey Bear Park at 12:00 and 3:00 pm On Line Sign-Up: Event Details Silver Bay Door Knock October 19 • 2:00 pm - 6:30 pm • Silver Bay Public Library, 9 Davis Dr, Silver Bay, MN 55614, USA Meet at the Silver Bay Public Library Parking lot for a Silver Bay Door Knock!
+Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.
 Contact Us Have a question, an idea, or want to connect with the campaign?
 We’d love to hear from you.
 Whether it’s an event invite, a yard sign request, or a local concern, reach out anytime.

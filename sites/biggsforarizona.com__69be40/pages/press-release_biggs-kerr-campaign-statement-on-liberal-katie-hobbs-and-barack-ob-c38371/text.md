@@ -1,0 +1,7 @@
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store Biggs/Kerr Campaign Statement on Liberal Katie Hobbs and Barack Obama Video October 13, 2026 Press Release Hobbs rolls out liberal elitist twice rejected by Arizonans to bail out campaign GILBERT, AZ— The Biggs/Kerr for Arizona campaign released the following statement regarding liberal Democrat Katie Hobbs hitting the “panic” button and rolling out an endorsement from Barack Obama, who was twice rejected by Arizona voters: “ Barack Obama lying about Katie Hobbs’s record on rising utility costs and border security is the perfect reminder for Arizonans of how liberal Hobbs is and the elitists supporting her campaign.
+Andy Biggs and Sine Kerr will happily take the support of Arizona leaders like Governors Jan Brewer and Doug Ducey, who fought to secure our border, keep Arizonans safe, lower taxes, and actually won our state multiple times instead of a liberal who was repeatedly rejected by Arizonans. “ Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

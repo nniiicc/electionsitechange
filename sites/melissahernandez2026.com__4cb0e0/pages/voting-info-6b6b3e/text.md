@@ -1,6 +1,6 @@
 Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follow us!
 Donate Follow us!
-Menu Voting Info Make Your Plan to Vote Voting Info Everything you need to vote in the August 18, 2026 special election for Congress in California's 14th District.
+Menu Voting Info Make Your Plan to Vote Voting Info Everything you need to vote in the November 3rd, 2026 general election for Congress in California's 14th District.
 Register to Vote Track Your Ballot Vote Early Find Your Polling Place Tell a Friend to Vote Everything You Need To Vote Voting Resources If you or anyone you know needs help voting, please get in touch!
 Register to Vote The deadline to register online or by mail for the August 18 special election is Monday, August 3, 2026 .
 Register or update your registration in minutes at registertovote.ca.gov .

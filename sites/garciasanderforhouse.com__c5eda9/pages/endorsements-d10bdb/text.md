@@ -1,4 +1,4 @@
-Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Contact Endorsements My Bills Endorsements I’m honored to have received the following endorsements: Senator Barbara Kirkmeyer: Lori Garcia Sander is the right choice for HD-65.
+Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Endorsements Contact My Bills Endorsements I’m honored to have received the following endorsements: Senator Barbara Kirkmeyer: Lori Garcia Sander is the right choice for HD-65.
 During her lifetime in northern Colorado, she’s spent 25 years in education in both Larimer and Weld Counties.
 With her experience she will bring forth solutions and a strong voice for conservative education policy.
 Right Choice – Strong Voice!

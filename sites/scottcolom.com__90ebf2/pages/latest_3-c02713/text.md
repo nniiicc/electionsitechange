@@ -1,4 +1,6 @@
-Skip to content The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates March 10, 2026 Press Release VICTORY: District Attorney Scott Colom Wins Democratic Senate Primary, Advances to Face Cindy Hyde-Smith in November: “We’re Going in a New Direction” Columbus, MS — District Attorney and Democratic U.S.
+Skip to content The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates March 23, 2026 Press Release Sixteen Years After Passage of Affordable Care Act, Cindy Hyde-Smith Has Made Mississippi’s Health Care Crisis Worse Columbus, MS — Sixteen years ago today, the Affordable Care Act (ACA) gave millions of Mississippians access to health coverage they'd never had.
+Today, that progress is being dismantled — and Senator Cindy Hyde-Smith has had her hand on the wrecking ball since she arrived in Washington....
+Read More March 10, 2026 Press Release VICTORY: District Attorney Scott Colom Wins Democratic Senate Primary, Advances to Face Cindy Hyde-Smith in November: “We’re Going in a New Direction” Columbus, MS — District Attorney and Democratic U.S.
 Senate candidate Scott Colom won the Mississippi Democratic primary tonight, securing his place on the November ballot against incumbent Republican Senator Cindy Hyde-Smith.
 Colom, a seventh-generation Mississippian and District Attorney with a 94% conviction record, won an overwhelming majority of the vote, powered by a broad coalition of Mississippians across the state....
 Read More March 9, 2026 Press Release ICYMI: Hyde-Smith Billed Nearly $10,000 in Vegas Hotel Stays to Her Campaign — and Voted to Block Legislation That Would Have Made Her Explain Them Columbus, MS — With one day until Mississippi voters head to the polls, a new report from the Mississippi Free Press adds a devastating layer to weeks of damning coverage of Senator Cindy Hyde-Smith’s campaign finances: the same senator who billed her campaign account nearly $10,000 at the MGM Grand Las Vegas also voted to block the very transparency and anti-corruption laws that...
@@ -33,10 +35,6 @@ Read More October 16, 2025 Press Release District Attorney Scott Colom Meets Wit
 FOR IMMEDIATE RELEASE October 16, 2025 Columbus, MS – U.S.
 Senate Candidate and District Attorney Scott Colom held a listening session with a group of farmers to hear firsthand how the tariffs are hurting their livelihoods.
 The farmers in attendance were soybean farmers who […] ...
-Read More October 6, 2025 Press Release District Attorney Scott Colom Spends Weekend Traveling the State, Talking to Mississippians FOR IMMEDIATE RELEASE October 6, 2025 Scott attended events in Oktibbeha, Lowndes, and Rankin Counties this weekend.
-Columbus, MS – Over the weekend, U.S.
-Senate Candidate and District Attorney Scott Colom traveled across Mississippi, talking to voters on key issues, such as rising costs in healthcare and bringing good jobs back to Mississippi for young people.
-Colom […] ...
 Read More Page 1 Page 2 Page 3 Page 4 Let's Go!
 Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
 Txt HELP for help, STOP to end.

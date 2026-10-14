@@ -6,9 +6,9 @@ His staff ran a great campaign and turned out the vote.
 Senator McCain and Governor Huckabee captured all delegate votes from our state and now the contest heads to Florida for a January 29th showdown .
 After that, it’s Super Tuesday (February 5) and on to the convention.
 We had over 4,000 voters in House District 71 get out and support the candidate of their choice yesterday and I’m proud to see it takes more than a cold rain and sleet to keep us away from our civic responsibility.
-Post navigation House passes Earmark Reform rule change A New Year Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Post navigation House passes Earmark Reform rule change A New Year Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

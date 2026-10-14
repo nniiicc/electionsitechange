@@ -147,6 +147,7 @@ We may also disclose your personal information to third parties hired by us to c
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. ‍ Contact Us ‍ Please contact us if you have questions about our Privacy Policy at: [Contact Email] Home About Issues Stay Connected Receive updates from Dawn White and join the team fighting for the conservative principles that make Tennessee strong.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Donations may be solicited.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

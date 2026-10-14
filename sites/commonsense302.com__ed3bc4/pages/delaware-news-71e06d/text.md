@@ -4,7 +4,11 @@ Vote Absentee!
 When To Vote!
 Need A Ride To The Polls?
 Campaign News Delaware News Press Kit Volunteers Needed!
-Contact Mark Delaware News Used for the like, share, comment, and reaction icons The University of Delaware can't afford to host political debates this year, but they can afford this.
+Contact Mark Delaware News Used for the like, share, comment, and reaction icons Dover City Council has unanimously approved an 18-month moratorium on new data center development, the first such moratorium in Delaware.
+The pause will give city officials time to study the potential effects of large data centers on electricity demand, infrastructure, the environment and residents, and determine how they should be regulated going forward.
+#Delaware #datacenter ...
+See More See Less In a first for Delaware, Dover passes moratorium on data center development spotlightdelaware.org The Dover City Council on Monday unanimously approved a moratorium on the construction of data centers in Delaware’s capital city. .
+Wednesday October 14th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email The University of Delaware can't afford to host political debates this year, but they can afford this.
 After all, you're the one who's ultimately paying for it. www.nbcphiladelphia.com/news/local/justice-dept-files-lawsuit-against-university-of-del-over-tuit...
 #immigration #Delaware #elections ...
 See More See Less Justice Dept. files lawsuit against University of Del. over tuition policy www.nbcphiladelphia.com The Department of Justice has expanded its legal challenge to in-state tuition for undocumented students, now targeting the University of Delaware.
@@ -51,10 +55,7 @@ Saturday May 30th, 2026 View on Facebook · Share Share on Facebook Share on Twi
 “For some homeowners, particularly those on fixed incomes, higher property tax bills following reassessments may also be adding to existing financial pressures.” #Delaware #PoliticalNews #costofliving #economy ...
 See More See Less Why Delaware keeps ranking highest for home foreclosures www.delawareonline.com Delaware had the highest percentage of foreclosures per housing units in April, but the state has topped the list before.
 What are the reasons?
-Thursday May 28th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email When government says ‘streamlining,’ taxpayers should read the fine print. spotlightdelaware.org/2026/05/21/bill-to-address-reassessment-school-tax-rate-increases-passes-ou...
-#politicsnews #delaware #taxes #EducationReform ...
-See More See Less New bill would give Delaware schools right to small annual tax hikes without referendum spotlightdelaware.org A bill attempting to address Delawareans’ concerns about school district tax increases passed out of committee on Wednesday.
-Saturday May 23rd, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email © # Friends of Mark Pugh for Senate All Rights Reserved Paid for by Friends of Mark Pugh for Senate Chip In Today!
+Thursday May 28th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email © # Friends of Mark Pugh for Senate All Rights Reserved Paid for by Friends of Mark Pugh for Senate Chip In Today!
 About Mark Common Sense 302 ★ 11‑Point Plan Why Not Delaware?
 Vote Absentee!
 When To Vote!

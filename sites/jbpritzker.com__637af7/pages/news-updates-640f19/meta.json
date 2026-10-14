@@ -1,10 +1,12 @@
 {
- "description": "{post_title} {post_date: M j, Y}",
+ "description": "{post_title} {post_date}",
  "final_url": "https://jbpritzker.com/news-updates/",
- "fingerprint": "e44024e50dcf2852a73bcec15af21d21ac0534d1",
+ "fingerprint": "4c83554e47f83136054bf36b7cc93d95e02d2ed9",
  "format": 3,
  "paid_for_by": "Paid for by JB for Governor español 中文 Polski español 中文 Polski",
  "rendered": false,
  "title": "News & Updates - JB for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

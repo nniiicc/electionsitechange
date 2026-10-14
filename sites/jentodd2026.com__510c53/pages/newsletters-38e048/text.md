@@ -1,5 +1,65 @@
 Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
 Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
+October 13, Tuesdays with Team Todd What are your Town Hall Questions?
+What's New : DIY Town Hall - Send your questions!
+Phone Banks are now on Sunday , Monday , and Wednesday !
+Volunteer Meeting Tomorrow - So much to discuss and update!
+Did you get your yard sign?
+Let's get the signs out!
+And don't forget the Merch Store !
+I’m a nurse and a mom, and since January 2025 , I’ve been showing up, listening, and answering hard questions from the people of IL-15.
+Mary Miller has never held an official, open, in-person public town hall since first being elected to Congress in 2020.
+You deserve answers from the person elected to represent you.
+3-Weeks!
+Instead, constituents have organized their own events to ask questions she wouldn’t answer in person, from Quincy and Jacksonville to Mahomet.
+With Election Day just three weeks away, I want to make sure every corner of our district has a chance to be heard.
+IL-15 covers 35 counties and nearly 17,000 square miles, about one-third of Illinois geographically.
+We can’t all gather in one room, so we’re bringing the town hall to you.
+We’re launching a DIY Town Hall on social media, and I want your question to be part of it.
+Just hit reply to this email and tell me: What’s the one question you most want answered?
+It could be about grocery bills, healthcare, family farms, good-paying jobs, data centers, decisions in Washington, or anything affecting your family or community.
+If you’re comfortable with us sharing your question and a response, tell us how you’d like to be identified: Your full name Your first name and town or county Your county only, with no name We’ll respect your privacy preference.
+I believe representation means showing up, listening, and giving people straight answers.
+You deserve to know where I stand before you vote.
+Hit REPLY to this email and ask the question you wish Mary Miller would answer.
+I want to hear from you.
+Jennifer Todd PS: Phone banking with the auto-dialer is fast and fun!
+Join us for a Monday session and more!
+And to help us keep paying for these phone banks, please consider a contribution today.
+GOTV!
+Volunteer Meeting - TOMORROW !
+WEEKLY Wednesday Volunteer Zooms at Noon 📅 October 13 🕛 12 pm 💻 via Zoom Sign up, and we will send you a calendar invite with the Zoom link!
+RSVP and save to your calendar.
+Reminders will go out approximately 30 minutes before.
+Join us on Wednesdays!
+Want to get involved?
+Does your county still have signs?
+Help get them out by putting one in your yard!
+Your Democratic County Party has signs!
+(Scott and Schuyler County residents can reach out to the campaign.
+You can also reach out if you need contact information for your County Party.) Shop the Merch Store and have it sent directly to your home!
+PHONE BANK Sign up to call voters across IL-15 from wherever you are.
+Training provided.
+Sundays: Hosted by Indivisible, scroll down to "Upcoming Events with Jennifer" to find the Sunday (s) you want to phone bank and sign up!
+Contact us at Jennifer@JenTodd2026.us for a list and call at your convenience !
+To join us for a Sunday or Monday Session: Mondays 7:00 - 8:30 PM Wednesdays CANVASS To stay up to date on all our canvassing days of action, go to the website for updates ; they happen almost daily!
+Prefer to canvass at your convenience?
+No problem, just let us know, and we'll get you set up!
+I want to canvass!
+Jennifer Todd Merch Store- order #ago to make sure you get it before Election Day!
+Support Jennifer with your signs, hats, coffee mugs, and more sent straight to your door.
+Jennifer Merch Delived to your Door!
+Upcoming Events with Jennifer OCTOBER October 17 Canvass in Springfield - Reply Now!
+308 E Monroe St, Springfield Shifts starting at 10:00 AM October 17 Champaign Pride Fest Parade Downtown Urbana 1:00pm-5:00pm (More details soon!) October 18 Canvass in Madison County - Reply Now!
+39 Executive Plaza Ct, Maryville Shifts starting at 10:00 AM October 18 Indivisible IL Phone Bank - Join us!
+Via Zoom 4:00 - 6:00 PM October 24 EIU Homecoming Parade Lincoln Avenue & 7th St, Charleston 7:30am-12:00pm October 25 Indivisible IL Phone Bank - RSVP Now!
+Zoom 4:00 - 6:00 PM October 29 Canvass in Springfield - Reply Now!
+308 E Monroe St, Springfield Shifts starting at 10:00 AM October 30 Canvass in Madison County - Reply Now!
+39 Executive Plaza Ct, Maryville Shifts starting at 10:00 AM NOVEMBER November 1 Indivisible IL Phone Bank - Reply Now!
+Via Zoom 4:00-6:00 PM For more events, check out our Events Page!
+Donate Help Us Reach Every Corner of Our Community We know Jennifer’s message resonates, but we need your help.
+Follow Jennifer via the links below, and share our latest post.
+When you engage, you’re not just 'liking' a photo; you’re helping us bypass the big-money gatekeepers.
 October 6, Tuesdays with Team Todd What's New : GOTV Canvasses Phone Banks are happening!
 Scroll down for all the scoop!
 Volunteer Meeting Tomorrow - So much to discuss and update!

@@ -10,7 +10,7 @@ SIGN UP TO VOLUNTEER Ready to get involved?
 Fill out the form below, and we’ll be in touch.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Number you'd Name * First Last Email * Email Confirm Email Mobile Number Volunteer Interests Door-to-door outreach Petitioning Phone & text outreach Events & community outreach Host a meet & greet Behind-the-scenes support SMS Opt-In Anything else you'd like to share?
+Name * First Last Email * Email Confirm Email Volunteer like Email Mobile Number Volunteer Interests Door-to-door outreach Petitioning Phone & text outreach Events & community outreach Host a meet & greet Behind-the-scenes support SMS Opt-In Anything else you'd like to share?
 Submit PUTTING DISTRICT 130 FIRST.
 Standing with Wayne County and Webster families.
 Building a campaign rooted in respect and real solutions.

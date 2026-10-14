@@ -2,9 +2,9 @@ Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s N
 Because the people of South Carolina spoke up and supported their right to know our votes, a three-year push finally became law!
 While then-Representative Haley, I and a handful of others worked inside the chambers, y’all worked outside and contacted your officials.
 Today was truly about People, Not Politics!
-Below is video of today’s press conference: Post navigation House Takes Furlough Historic bill-signing for SC government Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Below is video of today’s press conference: Post navigation House Takes Furlough Historic bill-signing for SC government Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

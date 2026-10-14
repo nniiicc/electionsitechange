@@ -14,6 +14,7 @@
 "alt:RCV.jpg|FairVote Minnesota",
 "alt:SBWAF.jpg|Save the Boundary Waters Action Fund",
 "alt:SC.jpg|Sierra Club",
+"alt:afscme.jpg|AFCSME",
 "alt:cfmn.png|Committee to Protect Health Care - Care for MN Candidate",
 "alt:dflec.jpg|DFL Environmental Caucus",
 "alt:fbwan.jpeg|Friends of the Boundary Waters",
@@ -23,6 +24,8 @@
 "alt:mydfl.png|Minnesota Young DFL",
 "alt:nurses.jpg|Minnesota Nurses Association",
 "alt:pp.jpg|Planned Parenthood",
+"alt:seiu.png|SEIU",
+"alt:stonewall.jpg|Stonewall DFL",
 "embed://calendar.google.com/calendar/embed",
 "img:Aaron.jpg",
 "img:Aaron2.jpg",
@@ -39,6 +42,7 @@
 "img:RCV.jpg",
 "img:SBWAF.jpg",
 "img:SC.jpg",
+"img:afscme.jpg",
 "img:cfmn.png",
 "img:dflec.jpg",
 "img:fbwan.jpeg",
@@ -47,5 +51,7 @@
 "img:logo.jpg",
 "img:mydfl.png",
 "img:nurses.jpg",
-"img:pp.jpg"
+"img:pp.jpg",
+"img:seiu.png",
+"img:stonewall.jpg"
 ]

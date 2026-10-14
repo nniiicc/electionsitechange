@@ -13,7 +13,7 @@ Education.
 Support for public, private and alternative pathways, with curricula spanning vocational training, arts and sciences.
 Immigration and the border.
 A fair, effective immigration system that honors the dignity of all who seek a life here, stronger inter-agency cooperation on criminal threats, and reform of the cashless bail system.
-Read the full platform FOR THE PEOPLE, BY THE PEOPLE This campaign is carried by neighbors across the 6th Distr Donate Request a sign Get in touch VOTE JOSEPH CHOU FOR NEW YORK'S 6TH CONGRESSIONAL DISTRICT Get in touch: Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Read the full platform FOR THE PEOPLE, BY THE PEOPLE A campaign carried by neighbors across the 6th District Donate Request a sign Get in touch VOTE JOSEPH CHOU FOR NEW YORK'S 6TH CONGRESSIONAL DISTRICT Get in touch: Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 FOR THE PEOPLE, BY THE PEOPLE.
 JOSEPH CHOU City : Queens, NYC + 1 718-298-9898 COPYRIGHT © # JOSEPH FOR NY.
 ALL RIGHTS RESERVED.

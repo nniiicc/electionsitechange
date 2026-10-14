@@ -1,4 +1,6 @@
-Campbell for Congress Home The Reality Who Am I The Plan Get Involved Campbell for Congress Home The Reality Who Am I The Plan Get Involved Hello East Tennessee!
+Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Hello East Tennessee!
 I am Chris Campbell and it is time to think differently about how we CAN make a difference.
 This is an independent campaign to restore faith in our governance and give the working class a chance for economic relief.
 For brevity's sake, if you are happy with the status quo, then this campaign will not appeal to you.

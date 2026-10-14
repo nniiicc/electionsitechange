@@ -2,17 +2,7 @@
 Let Michael know if you’d like him to drop by to speak or LISTEN by clicking the Host an Event button at the bottom of this page.
 You can also meet him at one of the planned events on the calendar below!
 We look forward to connecting with you!
-Sun, Oct 11 ~ Madera ~ Canvass Tour Launch Rally Madera ~ Canvass Tour Launch Rally Sunday, October 11 · 1:00 – 3:30pm 650 Liberty Ln, Madera, CA 93637, USA THE FINAL TOUR!
-Join us at Lincoln Elementary School on our GOTV Caravan Canvass tour!
-We encourage people to join the caravan at any of the stops that day, each stop will include a short Rally, about 1-2 hours of canvassing, then getting back on the road to go to the next town.
-You are encouraged to follow in your car or continue canvassing in your original area, we will provide car paints for decorating if you'd like to continue the tour.
-You do not need to join for the full day, but we encourage you to join as long as you can.
-Sun, Oct 11 ~ Madera ~ Canvass Tour Launch Rally Madera ~ Canvass Tour Launch Rally Sunday, October 11·4:00 – 6:30pm 113 Riverwalk Blvd S, Madera, CA 93636, USA THE FINAL TOUR!
-Join us Dutch Bros Coffee on our GOTV Caravan Canvass tour!
-We encourage people to join the caravan at any of the stops that day, each stop will include a short Rally, about 1-2 hours of canvassing, then getting back on the road to go to the next town.
-You are encouraged to follow in your car or continue canvassing in your original area, we will provide car paints for decorating if you'd like to continue the tour.
-You do not need to join for the full day, but we encourage you to join as long as you can.
-Mon, Oct 12 ~ Modesto Canvass Launch Canvass Launch Monday, October 12 · 8:30 – 10:30am Freedom Park, 3500 Sharon Ave, Modesto, CA 95355, USA Tue, Oct 13 ~ Modesto Junior College Campus Meeting Modesto Junior College Campus Meeting Tuesday, October 13 · 4:00 – 5:15pm Wed, Oct 14 ~ Stanislaus State Tabling in Turlock Stanislaus State Tabling Wednesday, October 14 · 9:00am – 2:00pm California State University, Stanislaus, 1 University Cir, Turlock, CA 95382, USA Join us for Warrior Wednesdays at Stanislaus State University.
+Tue, Oct 13 ~ Modesto Junior College Campus Meeting Modesto Junior College Campus Meeting Tuesday, October 13 · 4:00 – 5:15pm Wed, Oct 14 ~ Stanislaus State Tabling in Turlock Stanislaus State Tabling Wednesday, October 14 · 9:00am – 2:00pm California State University, Stanislaus, 1 University Cir, Turlock, CA 95382, USA Join us for Warrior Wednesdays at Stanislaus State University.
 Meet candidates Michael Masuda and Jaron Brandon, register to vote, ask questions and get answers!
 Wed, Oct 14 ~ GOTV ~ Phone Bank for Masuda!
 GOTV ~ Phone Bank for Masuda!

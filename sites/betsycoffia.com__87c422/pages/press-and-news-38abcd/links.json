@@ -20,10 +20,6 @@
 "href": "https://www.betsycoffia.com/blog-category/events"
 },
 {
-"text": "Events",
-"href": "https://www.betsycoffia.com/events"
-},
-{
 "text": "Galiant Solutions Inc.",
 "href": "https://www.galiantsolutions.com"
 },
@@ -46,6 +42,10 @@
 {
 "text": "Legislation",
 "href": "https://www.betsycoffia.com/blog-category/legislation"
+},
+{
+"text": "Local Events",
+"href": "https://www.betsycoffia.com/events"
 },
 {
 "text": "Manage existing",
@@ -94,6 +94,10 @@
 {
 "text": "Special Interest",
 "href": "https://www.betsycoffia.com/blog-category/special-interest"
+},
+{
+"text": "Take MI Power Back",
+"href": "https://www.betsycoffia.com/takemipowerback"
 },
 {
 "text": "[email protected]",

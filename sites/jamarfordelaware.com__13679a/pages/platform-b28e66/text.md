@@ -1,4 +1,4 @@
-Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate Fundraiser Tuesday, October 13 · 6–8 pm · Cantwell’s Tavern , · Odessa RSVP The platform Stronger schools.
+Skip to content Money for Delaware 9th District · Republican Platform Meet Jamar Get Involved Donate Menu Platform Meet Jamar Get Involved Donate The platform Stronger schools.
 A lower cost of living.
 A balanced Dover.
 Three priorities for the 9th District , in Jamar ’s own words.

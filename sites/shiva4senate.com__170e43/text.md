@@ -5,7 +5,11 @@ He started 7 successful high-tech companies providing thousands of jobs in MA.
 His life has been about solving very tough problems by identifying the root cause, bringing together people to innovate real solutions.
 Now, he wants to serve America, beyond "Left" and "Right" to deliver solutions we need and deserve.
 Most importantly, Dr.SHIVA is ONE of US - not another lawyer or lobbyist or politician.
-More About Dr.SHIVA Campaign Events 15 October Truth Freedom Health® Open House/Orientation – Thursday, October 15, 2026 at 11 AM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 11:00 am – 12:00 pm ( EST ) 11:00 am Truth Freedom Health® Open House/Orientation – Thursday, October 15, 2026 at 8 PM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 8:00 pm – 9:00 pm ( EST ) 8:00 pm More Events Get Involved Join the Daily Callathon Take part in Dr.SHIVA’s daily callathon — make calls from anywhere in the world, completely free.
+More About Dr.SHIVA Campaign Events 15 October Truth Freedom Health® Open House/Orientation – Thursday, October 15, 2026 at 11 AM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 11:00 am – 12:00 pm ( EST ) 11:00 am Truth Freedom Health® Open House/Orientation – Thursday, October 15, 2026 at 8 PM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 8:00 pm – 9:00 pm ( EST ) 8:00 pm 17 October SHIVA 4 SENATE Flyer Distribution – Saturday, October 17, 2026 – 9 am to 5 pm EST Join SHIVA 4 SENATE to distribute flyers on Saturday, October 17, 2026 from 9:00 am to 5:00 pm EST.
+Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign.
+9:00 am – 5:00 pm ( EST ) 9:00 am 18 October SHIVA 4 SENATE Flyer Distribution – Sunday, October 18, 2026 – 10 am to 3 pm EST Join SHIVA 4 SENATE to distribute flyers on Sunday, October 18, 2026 from 10:00 am to 3:00 pm EST.
+Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign.
+10:00 am – 3:00 pm ( EST ) 10:00 am More Events Get Involved Join the Daily Callathon Take part in Dr.SHIVA’s daily callathon — make calls from anywhere in the world, completely free.
 Open to everyone, no experience needed.
 Sign up and a campaign team member will reach out to get you started.
 Count Me In Hand Out Flyers Help spread the word in your community.

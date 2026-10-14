@@ -78,73 +78,79 @@ The claim She may have sat “in the same pews” as a Republican strategist.
 The record There’s no evidence they ever attended at the same time, let alone met.
 McLean Bible Church draws more than 10,000 people a week across several campuses and services. [29] The claim Planned Parenthood’s PAC endorsed her opponent, so she can’t be pro-choice.
 And she refused their survey.
-The record Her record is on camera: asked whether Congress should codify Roe, she said, “I absolutely think we should,” [33] and NOW PAC endorsed her. [34] Planned Parenthood Action Fund had already decided to back her opponent before it ever talked to the campaign, and its board member’s calls before the August 10 deadline were about getting her out of the race.
-No survey was ever sent. [36] [37] At a forum she said she’d answered it.
+The record Her record is on camera: asked whether Congress should codify Roe, she said, “I absolutely think we should,” [33] and NOW PAC and the National Women’s Political Caucus endorsed her. [34] [36] Planned Parenthood Action Fund had already decided to back her opponent before it ever talked to the campaign, and its board member’s calls before the August 10 deadline were about getting her out of the race.
+No survey was ever sent. [37] [38] At a forum she said she’d answered it.
 The ones she had answered were Montanans for Choice Take Action’s and NOW PAC’s, which endorsed her. [34] Montanans for Choice endorses no federal candidates, and it publishes her answers in full: a yes on all 13 of its reproductive-freedom positions.
-Kurt Alme didn’t respond. [38] The campaign has apologized for the mix-up.
+Kurt Alme didn’t respond. [39] She also answered the ERA Coalition’s Equal Rights Amendment survey, and its Elect Equality guide lists her as a supporter.
+Bodnar never responded; the guide lists him as “unknown.” [40] The campaign has apologized for the mix-up.
 The money Notice who’s pushing the dark-money line.
-Seth Bodnar’s own super PAC runs on a dark-money chain. [39] [40] Alani takes zero corporate PAC money and backs the ballot measure to end dark money in Montana. [41] [42] The claim She “accepted millions in dark money.” The record A candidate can’t accept independent expenditures.
-By law they’re made without the candidate’s involvement, and she has no say over them. [43] A super PAC spent about $2.3 million for her in the primary and then left the state. [44] [45] Her own campaign takes $0 in corporate PAC money. [41] The claim She never spoke out about the dark money spent in the primary.
+Seth Bodnar’s own super PAC runs on a dark-money chain. [41] [42] Alani takes zero corporate PAC money and backs the ballot measure to end dark money in Montana. [43] [44] The claim She “accepted millions in dark money.” The record A candidate can’t accept independent expenditures.
+By law they’re made without the candidate’s involvement, and she has no say over them. [45] A super PAC spent about $2.3 million for her in the primary and then left the state. [46] [47] Her own campaign takes $0 in corporate PAC money. [43] The claim She never spoke out about the dark money spent in the primary.
 The record She did, before the primary.
-On May 21 her campaign issued a press release saying dark money “should be illegal, regardless as to whether it comes from the left or the right,” that the campaign does “not take any dark money, AIPAC, or corporate PAC money,” and that it had “done everything in its legal power to disavow dark money.” [46] The next day she posted the release and told voters on Facebook, “We have no control over the Super PACs pouring dark money into this race,” and “If the print at the bottom of any ad doesn’t say, ‘Paid for by Friends of Alani Bankhead,’ it’s not from this campaign.” [47] [48] On May 30 she wrote that she had “categorically denounced all dark money and all the ads.” [49] Who was behind the pro-Alani spending wasn’t public then.
-Montana Free Press was still calling it a “mystery PAC” in July. [45] Save and share this graphic The claim A billionaire’s dark money bought her the primary.
-The record Montana Democrats chose her in an open primary, 43.6 percent to 33.0 percent. [50] The money behind the pro-Alani primary spending traces back to the same source now funding her independent opponent’s super PAC. [39] [40] [51] The claim She coordinated with the outside PACs.
-The record Independent expenditures are uncoordinated by law, [43] and no one has produced a single message, meeting or date that says otherwise.
+On May 21 her campaign issued a press release saying dark money “should be illegal, regardless as to whether it comes from the left or the right,” that the campaign does “not take any dark money, AIPAC, or corporate PAC money,” and that it had “done everything in its legal power to disavow dark money.” [48] The next day she posted the release and told voters on Facebook, “We have no control over the Super PACs pouring dark money into this race,” and “If the print at the bottom of any ad doesn’t say, ‘Paid for by Friends of Alani Bankhead,’ it’s not from this campaign.” [49] [50] On May 30 she wrote that she had “categorically denounced all dark money and all the ads.” [51] Who was behind the pro-Alani spending wasn’t public then.
+Montana Free Press was still calling it a “mystery PAC” in July. [47] Save and share this graphic The claim A billionaire’s dark money bought her the primary.
+The record Montana Democrats chose her in an open primary, 43.6 percent to 33.0 percent. [52] The money behind the pro-Alani primary spending traces back to the same source now funding her independent opponent’s super PAC. [41] [42] [53] The claim She coordinated with the outside PACs.
+The record Independent expenditures are uncoordinated by law, [45] and no one has produced a single message, meeting or date that says otherwise.
 There’s nothing to produce, because it didn’t happen.
 The claim Texts say a “secretive Wall Street dark-money PAC” is bankrolling her.
-The record Those texts came from a Republican-aligned PAC that itself spent about $900,000 “supporting” her in the last two weeks of the primary while spending against her independent opponent. [52] [51] Republicans want the vote split.
-Her campaign takes $0 in corporate PAC money. [41] The claim Republicans recruited her to split the vote.
+The record Those texts came from a Republican-aligned PAC that itself spent about $900,000 “supporting” her in the last two weeks of the primary while spending against her independent opponent. [54] [53] Republicans want the vote split.
+Her campaign takes $0 in corporate PAC money. [43] The claim Republicans recruited her to split the vote.
 The record If anyone had recruited her, she’d have had their money.
-Her campaign raised $# through June 30, a shoestring by Senate standards. [41] The Republican-aligned spending in the primary was done to her, not with her, and the Washington Post predicted it on July 30. [53] Follow the money yourself: the filings, side by side ; Inside Elections, “Untangling the Democratic Dark Money Web” (Aug.
+Her campaign raised $# through June 30, a shoestring by Senate standards. [43] The Republican-aligned spending in the primary was done to her, not with her, and the Washington Post predicted it on July 30. [55] Follow the money yourself: the filings, side by side ; Inside Elections, “Untangling the Democratic Dark Money Web” (Aug.
 7); and Fear and Loathing: Closer to the Edge, “The Dark-Money Machine Behind Seth Bodnar” (Sept.
 12).
 “Plant,” “spoiler” and “not a real Democrat” The only Montanans who have voted in this race chose her.
-Calling her a plant, a spoiler or a fake Democrat doesn’t change a single vote cast in the primary. [50] The claim She’s not a real Democrat.
-The record She’s the Democratic nominee, chosen by Montana Democrats in an open primary. [50] The party’s executive director and staff stood with her at an Aug.
-11 press conference. [54] The claim She came out of nowhere.
+Calling her a plant, a spoiler or a fake Democrat doesn’t change a single vote cast in the primary. [52] The claim She’s not a real Democrat.
+The record She’s the Democratic nominee, chosen by Montana Democrats in an open primary. [52] The party’s executive director and staff stood with her at an Aug.
+11 press conference. [56] The claim She came out of nowhere.
 She’s unvetted.
-The record Montana primary voters vetted her, [50] and her record isn’t self-reported: DD-214s, general-signed citations, a retired Hawaii prosecutor’s letter, Hawaii Attorney General releases. [4] [5] [6] [14] Her coaching and investigative work was public years before the campaign, from 2020 podcast interviews to her 2023 book. [12] [55] It’s all at alaniformt.com/service .
+The record Montana primary voters vetted her, [52] and her record isn’t self-reported: DD-214s, general-signed citations, a retired Hawaii prosecutor’s letter, Hawaii Attorney General releases. [4] [5] [6] [14] Her coaching and investigative work was public years before the campaign, from 2020 podcast interviews to her 2023 book. [12] [57] It’s all at alaniformt.com/service .
 The claim She’s a Democratic plant who will drop out for the independent.
 The record She didn’t drop out.
-The withdrawal deadline passed with her on the ballot, and she’s running through November 3. [56] The claim She’s a spoiler with no path.
+The withdrawal deadline passed with her on the ballot, and she’s running through November 3. [58] The claim She’s a spoiler with no path.
 The record Montana voters decide who has a path.
-The only Montanans who have voted in this race so far, in the primary, chose her. [50] “I am in this race to win it, and I am staying through November 3.” [56] The claim She’s staying in the race just to help Republicans.
-The record That quote is spliced together from her words and a reporter’s paraphrase. [53] [36] Her actual reason: she won the primary, and a split vote is the independent’s problem to solve.
+The only Montanans who have voted in this race so far, in the primary, chose her. [52] “I am in this race to win it, and I am staying through November 3.” [58] The claim She’s staying in the race just to help Republicans.
+The record That quote is spliced together from her words and a reporter’s paraphrase. [55] [37] Her actual reason: she won the primary, and a split vote is the independent’s problem to solve.
 See the splice on /truth .
 The claim She’ll work with Trump.
 The record Her test is what’s good for Montana.
-She’s on record against the war in Iran (“I am completely opposed to this war”) and against the tariffs raising Montanans’ costs. [57] Every position is here .
+She’s on record against the war in Iran (“I am completely opposed to this war”) and against the tariffs raising Montanans’ costs. [59] Every position is here .
 The party chair’s op-ed On Oct.
-12 the Montana Democratic Party’s chair, Shannon O’Brien, resigned and endorsed the independent in an MS NOW opinion piece. [58] These are the claims it made about Alani, and the record on each.
+12 the Montana Democratic Party’s chair, Shannon O’Brien, resigned and endorsed the independent in an MS NOW opinion piece. [60] These are the claims it made about Alani, and the record on each.
 The campaign’s full response, with every source linked, is at alaniformt.com/pr-2026-10-12 .
 The claim She refuses to listen and won’t take advice.
-The record The one thing she refused was the demand to withdraw.
-Seventeen Democratic legislators signed a July 9 letter urging one of the two candidates to step aside, [59] and 22 signed an Aug.
-7 letter naming her. [60] A former party chair wrote that there was “not a viable path,” [61] and the national Senate committee told Semafor she had no path to victory. [62] Days before the deadline she said her family, including her underage daughter, had been put on a target list to pressure her out, and her opponent said he had heard groups were encouraging people to contact candidates’ families. [63] She stayed on the ballot and kept campaigning: “I am in this race to win it, and I am staying through November 3.” [56] The claim The party chair stayed neutral until she resigned.
-The record Before the withdrawal deadline, O’Brien requested a legal opinion from the Elias Law Group on whether the party could be forced to name a replacement if Alani withdrew.
+The record O’Brien wrote that Alani “has refused advice from experienced business and political leaders around the state.” [60] The piece doesn’t say what that advice was.
+The advice, on the public record and behind closed doors, was to quit.
+The only thing she refused was the demand to withdraw: a July 9 letter from 17 Democratic legislators urging one of the two candidates out, [61] an Aug.
+7 letter from 22 naming her, [62] a former party chair’s open letter saying there was “not a viable path,” [63] and the national Senate committee telling Semafor she had no path to victory. [64] A leaked “How to Help” document urged people to contact her family. [65] [66] [67] She spoke at the Montana Democratic Party’s state convention, [68] stayed on the ballot through the withdrawal deadline, and kept campaigning with county Democrats across the state.
+“I am in this race to win it, and I am staying through November 3.” [58] The claim The party chair stayed neutral until she resigned.
+The record On July 30 O’Brien convened the party’s executive board to discuss leaving the Democratic line empty. [69] Before the withdrawal deadline, she requested a legal opinion from the Elias Law Group on whether the party could be forced to name a replacement if Alani withdrew.
 Board members had not voted to seek it.
 “This was Shannon getting legal analysis,” the party’s own spokesperson said.
-She shared the “private and confidential” document with county party leaders, and some board members suggested reviewing her performance as chair. [64] Days later the party’s executive director stood with Alani and said, “What happened to Alani Bankhead, myself, my staff, our executive board was unacceptable.” [54] The claim Republicans wanted her on the ballot.
+She shared the “private and confidential” document with county party leaders, and some board members suggested reviewing her performance as chair. [70] Days later the party’s executive director stood with Alani and said, “What happened to Alani Bankhead, myself, my staff, our executive board was unacceptable.” [56] The claim Republicans wanted her on the ballot.
 The record More Jobs, Less Government, a super PAC aligned with Sen.
 Steve Daines, spent $901,179 “supporting” her in the last two weeks of the primary while spending $962,124 against the independent.
-The same PAC spent $12.9 million against Jon Tester in 2024. [52] She never asked for any of it, and on May 21 her campaign put out a release saying dark money “should be illegal, regardless as to whether it comes from the left or the right.” [46] More on the Republican spending .
+The same PAC spent $12.9 million against Jon Tester in 2024. [54] She never asked for any of it, and her campaign’s May 21 release called on Kurt Alme to tell Sen.
+Daines to “stop the dark money influx via More Jobs, Less Government and any other PAC.” [48] More on the Republican spending .
 The claim There are real questions about her commitment to abortion rights.
 The record She’s pro-choice.
-She supports the Women’s Health Protection Act and a constitutional amendment protecting abortion rights, and she opposes any federal abortion ban. [32] NOW PAC endorsed her, [34] and she answered yes to all 13 of Montanans for Choice’s questions. [38] More in Faith & choice .
+She supports the Women’s Health Protection Act and a constitutional amendment protecting abortion rights, and she opposes any federal abortion ban. [32] NOW PAC and the National Women’s Political Caucus endorsed her, [34] [36] and she answered yes to all 13 of Montanans for Choice’s questions. [39] She also answered the ERA Coalition’s Equal Rights Amendment survey, and its Elect Equality guide lists her as a supporter.
+Bodnar never responded; the guide lists him as “unknown.” [40] More in Faith & choice .
 The claim Her views on people in poverty.
-The record The line comes from a December 2025 money-mindset coaching episode that opens with clients who earned over $300,000 a year and were still broke. [65] The full answer is here , and her plan for working families is at alaniformt.com/positions .
+The record The line comes from a December 2025 money-mindset coaching episode that opens with clients who earned over $300,000 a year and were still broke. [71] The full answer is here , and her plan for working families is at alaniformt.com/positions .
 The claim She’s almost brand new to Montana.
 The record She grew up an Army and embassy kid, then served 21 years in the Air Force.
 Every home before Montana was chosen by the military.
 Montana is the first place she chose.
+She has lived in Montana almost five years.
 More here .
 The claim She has no momentum or resources.
 The record Through Aug.
-31, the Democratic Senatorial Campaign Committee had sent $0 to the Montana Democratic Party this cycle, compared with $2.8 million over the same stretch in 2024. [66] The national party starved its own nominee, then cited the starvation.
+31, the Democratic Senatorial Campaign Committee had sent $0 to the Montana Democratic Party this cycle, compared with $2.8 million over the same stretch in 2024. [72] The national party starved its own nominee, then cited the starvation.
 The claim She came out of the gate mudslinging at the independent for no reason.
 The record The reason was public.
 Two weeks after winning the primary, she asked him to leave the race.
-She pointed to the gender-discrimination lawsuit from his time as University of Montana president, which settled for $350,000, and argued the Democratic Party has to have a candidate on the ballot, so he should be the one to step aside. [67] It’s the same argument party insiders then spent four months making to her.
+She pointed to the gender-discrimination lawsuit from his time as University of Montana president, which settled for $350,000, and argued the Democratic Party has to have a candidate on the ballot, so he should be the one to step aside. [73] It’s the same argument party insiders then spent four months making to her.
 Read the campaign’s full Oct.
 12 response to Shannon O’Brien, with every source: alaniformt.com/pr-2026-10-12 .
 Everything else Every one of these started the same way: a clip, a screenshot or a secondhand post, passed along until it sounded like a fact.
@@ -155,14 +161,15 @@ It was one of more than a dozen agencies on Operation Keiki Shield, catching peo
 Her immigration plan is here .
 The claim She loves the IDF and Mossad, so she sympathizes with crimes in Gaza.
 The record As a federal agent she worked with foreign partner agencies; that’s the job.
-Her position: stop underwriting the suffering in Gaza, condition and block arms transfers, and enforce the Leahy Law. [68] The claim She said poor people chose to be poor.
-The record It’s from a December 2025 coaching episode about a client household earning $300,000 a year that was still broke. [65] Her point was about mindset with money, and it wasn’t about Montanans struggling to get by.
+Her position: stop underwriting the suffering in Gaza, condition and block arms transfers, and enforce the Leahy Law. [74] The claim She said poor people chose to be poor.
+The record It’s from a December 2025 coaching episode about a client household earning $300,000 a year that was still broke. [71] Her point was about mindset with money, and it wasn’t about Montanans struggling to get by.
 Her plan for working families is on her positions page . [28] The claim She’s only lived in Montana three years.
 The record She grew up an Army and embassy kid, then served 21 years in the Air Force. [21] [4] Every home before Montana was picked by the military.
 Montana is the first place she chose.
+She has lived in Montana almost five years.
 The claim She has a “secret” Facebook account.
 The record It’s a privacy alias.
-After years of undercover work against child predators, she kept her real name off social media. [69] The record they can’t argue with 21 years in the U.S.
+After years of undercover work against child predators, she kept her real name off social media. [75] The record they can’t argue with 21 years in the U.S.
 Air Force.
 Retired as a lieutenant colonel on October 1, 2025.
 Special agent, Air Force Office of Special Investigations.
@@ -218,12 +225,14 @@ Daily Montanan, “Planned Parenthood endorses independent in Montana Senate rac
 18, 2026 (NOW PAC endorsement).
 U.S.
 Senate, Electronic Financial Disclosures , Alani Bankhead, candidate report filed May 27, 2026.
+National Women’s Political Caucus, “Endorsed Candidates” (Alani Bankhead, Montana).
 Alani Bankhead for Senate, “The mailers” , alaniformt.com/truth.
 NonStop Local, “Bankhead at odds with Planned Parenthood over endorsement,” original, archived Sept.
 26, 2026 , and rewrite, archived Sept.
 28, 2026 .
-Montanans for Choice Take Action, 2026 Voter Guide , U.S.
-Senate questionnaire and at-a-glance comparison (Kyle Austin, Alani Bankhead and Seth Bodnar responded; Kurt Alme did not).
+Montanans for Choice Take Action, 2026 Voter Guide at-a-glance (U.S.
+Senate, page 1; full guide ) (Kyle Austin, Alani Bankhead and Seth Bodnar responded; Kurt Alme did not).
+ERA Coalition, Elect Equality guide (Bankhead: supporter, survey; Bodnar: unknown).
 Jacob Rubashkin, Inside Elections, “Untangling the Democratic Dark Money Web Funding Independent Candidates” , Aug.
 7, 2026.
 Fear and Loathing: Closer to the Edge, “The Dark-Money Machine Behind Seth Bodnar” , Sept.
@@ -260,6 +269,13 @@ Burgess Everett, Semafor, “DSCC shuns Democratic candidate in Montana” , Jul
 John Riley, NonStop Local, “Bankhead says family targeted, including underage daughter, as U.S.
 Senate withdrawal deadline approaches” , Aug.
 10, 2026.
+Breitbart, “Report: Establishment Democrats Pressure Alani Bankhead’s Family to Push Her Out of Montana Senate Race” , Aug.
+9, 2026.
+The Daily Wire, “Inside Dem Dark Money Campaign To Harass Their Own Female Nominee Until She Quits” , Aug.
+10, 2026.
+Daily Montanan, “Financial backer of Democratic Senate nominee backs out of Montana” , July 7, 2026 (photo: Bankhead speaking at the 2026 Montana Democratic Party Convention, June 20, Billings).
+The Atlantic, Montana Democrats and the Senate race , Aug.
+5, 2026.
 Tom Lutey, Montana Free Press, “Democratic Party weighs legal options in turbulent Senate race” , Aug.
 3, 2026.
 Alani Bankhead, coaching podcast episode , December 2025 (27:13 to 27:27).

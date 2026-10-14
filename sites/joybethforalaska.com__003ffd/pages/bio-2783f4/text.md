@@ -1,5 +1,4 @@
-Thank you District 34 for Turning Out!
-We won the Primary with 52.99%!!
+Early Voting Starts October 19 at 675 7th Ave Suite 200!
 Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Connect Joy Beth Cottle for State House District 34 Serving The Fairbanks Community For 25 Years Joy Beth Cottle was born in Nome and raised in a farming community in Delta Junction before attending UAF on academic and British Petroleum scholarships in 1999.
 She earned a Bachelor of Science in Biology, Associates in Municipal Fire Science, and an Associates in Emergency Medical Services from the University of Alaska Fairbanks throughout her career.
 In 2003, she became the first female firefighter ever hired at Fairbanks Fire Department.

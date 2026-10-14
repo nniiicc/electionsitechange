@@ -7,7 +7,7 @@ A nonpartisan voter-education event, in partnership with the UTA Center for Afri
 A candidate listing does not imply NAACP endorsement or confirmed participation.
 More Info Directions Calendar Participation information: co.political.action@arlingtonnaacp.org View full flyer Freedom Events Join the Movement Join us at town halls, rallies, canvasses, and community gatherings across Texas.
 Find an event near you and help build freedom.
-Happening Now Tomorrow Arlington NAACP Candidate Forum — Federal and State Candidates 7:00 PM - 9:00 PM CDT Science and Engineering Innovation and Research Building, University of Texas at Arlington (UTA) Arlington NAACP Candidate Forum Series, Forum 1: Federal and State Candidates.
+Happening Now #ago Arlington NAACP Candidate Forum — Federal and State Candidates 7:00 PM - 9:00 PM CDT Science and Engineering Innovation and Research Building, University of Texas at Arlington (UTA) Arlington NAACP Candidate Forum Series, Forum 1: Federal and State Candidates.
 Wednesday, October 14, 2026, 7–9 p.m. at UTA's Science and Engineering Innovation and Research Building, presented in partnership with the UTA Center for African American Studies.
 Dione Sims is listed among invited candidates for U.S.
 House District 25; candidate participation is being confirmed.

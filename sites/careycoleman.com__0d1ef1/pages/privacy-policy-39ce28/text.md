@@ -57,6 +57,6 @@ These rights include: The right to know what personal information is collected, 
 13.
 Contact Us If you have questions or comments about this Privacy Policy, please contact us through the contact information provided on our website.
 Paid for by Carey Coleman for Congress P.O.
-Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+Box 560222 Macedonia, OH 44056 Facebook-f Instagram X-twitter Youtube Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
 All rights reserved.
 Terms of Service Privacy Policy Terms of Service Privacy Policy

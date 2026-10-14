@@ -430,8 +430,6 @@ Vermont is thirsty for her n we need to put this in the thick head short cut .
 We don’t have time .
 Corinth Dani Grover Farmer Because we need a progressive shift in vermont Cornwall Michael Palmer Mary Richards educator authentic. competent, speaks out against fascism & building state coalitions to push back against the regime Craftsbury Alan Turnbull Retired, US National Park Service I like Amanda's way of asking "what kind of growth do Vermonters want?" and then working together toward that kind of growth.
 We need our state to invest in ways that support the well-being of all Vermonters and our communities.
-Cuttingsville Scott Garren Retired from a long career in computers.
-We need a leader who will fight against the MAGA corruption that is raising prices and endangering our freedom.
 Danby Eric Hangen nonprofit I've voted for Phil Scott in the past but am changing my vote this election.
 I like Amanda's focus on housing affordability and on preserving community schools.
 In Danby our kids now have to ride up to an hour on the bus to go to elementary school - that's not something little kids should have to do.
@@ -976,6 +974,8 @@ Ryan Glasgo CPA I’m endorsing Amanda based on her experience in economics and 
 For me that means someone who cares deeply about the work we do, helping people (and creatures) and problem solving everyday.
 Someone who knows that we don’t all fit into the mold expected, someone who wants to find new solutions to old and new challenges we face.
 Amanda cares about Vermont communities and our ability to invest locally for future generations and so do I!
+Shrewsbury Scott Garren Retired from a long career in computers.
+We need a leader who will fight against the MAGA corruption that is raising prices and endangering our freedom.
 South Burlington Earl Aguila Noam Sandino Almeleh Retired attorney Amanda has the knowledge, skills and commitment to make Vermont government work better for all Vermonters.
 John Boyer Health & Wellness Confidence in her ability to build new knowledge that will benefit Vermont.
 Elissa Galvez Shai Jones Lawrence Kupferman Retired Good positions, multi cultural support.
@@ -1148,6 +1148,8 @@ He seems more interested in being moderate than making meaningful change for ind
 I want someone who will bring new ideas and fight for change.
 Westminster Ann E Smith Retired We need a progressive liberal people centric leader in Vermont Westmore Pam Kennedy Educator, community organizer, evolving human We need leadership that listens to communities and individuals and acts on their behalf for the quality of life all citizens of Vermont deserve.
 Weybridge Fran and Spencer Putnam Retired (both) We believe in the values that Amanda is advancing and want to do what we can to help her replace Phil Scott at governor of Vermont.
+Wheelock Michael Reddy Construction/Contractor Amanda's values are far more in harmony with mine than Phil Scott's.
+Cutting taxes might help the rich, but it doesn't help the poor--especially when coupled with cuts to social services.
 White River Junction Rachel Burcham James Coleman Pearl Keene retired Social justice, healthcare, education reform Krystal Badillo Regan Whiting Daniel Brett Home Inspector/Builder Because I believe she is the best fit for the challenges facing our state and has a depth of knowledge and experience that is exactly what we need to achieve a better future.
 Susan Vigne teacher I love her vision for community.
 I love that she is grounded in Vermont values, and trained as an economist.

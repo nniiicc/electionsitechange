@@ -22,4 +22,4 @@ While this legislation represents an important first step, there is still more w
 The details of implementing and enforcing these policies must be carefully developed in collaboration with municipalities, law enforcement, industry stakeholders, and the public.
 As micromobility technology continues to evolve, so too must our approach to regulating it.
 I look forward to working with my colleagues in the Senate to advance this legislation and continue building a transportation system that is safe and reliable for our communities.
-James Arciero Next Next State Representative Arciero and the Massachusetts House Pass Micromobility Safety Framework included in Economic Development Bill Paid for by the Committee to Elect Jim Arciero
+James Arciero Previous Previous Littleton awarded $9.8M for King Street Commons infrastructure project Next Next State Representative Arciero and the Massachusetts House Pass Micromobility Safety Framework included in Economic Development Bill Paid for by the Committee to Elect Jim Arciero

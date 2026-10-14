@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Savannah #Georgia Democrats #Rural Council #District 157 Uniting for Rural Georgia: Micah King at the 2026 Georgia Democrats State Convention August 4, 2026 2 min read By Micah King When Saturday, August 1, 2026 Where Savannah Convention Center, Savannah, GA Table of Contents • Elevating Rural Voices • Connecting with State Leaders This past weekend, over 1,000 Georgia Democrats convened in Savannah to strategize for the pivotal November 2026 elections.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Savannah #Georgia Democrats #Rural Council #District 157 Uniting for Rural Georgia: Micah King at the 2026 Georgia Democrats State Convention August 4, 2026 2 min read By Micah King When Saturday, August 1, 2026 Where Savannah Convention Center, Savannah, GA Table of Contents • Elevating Rural Voices • Connecting with State Leaders This past weekend, over 1,000 Georgia Democrats convened in Savannah to strategize for the pivotal November 2026 elections.
 The energy at the Savannah Convention Center was palpable as advocates, candidates, and voters from every corner of the state united around a shared vision for Georgia’s future.
 You can read more about the convention’s broader impact in this WABE report and on the official Georgia Democrats 2026 Convention page .
 For our campaign in House District 157, this convention was a crucial opportunity to ensure that the voices of Southeast Georgia—specifically Tattnall, Appling, Jeff Davis, and Evans counties—were heard loud and clear.

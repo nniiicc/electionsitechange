@@ -1,8 +1,7 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Events & Blog It's Your Turn to Talk: Open Forum Oct.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Events & Blog Video: Stop Data Centers It's Your Turn to Talk: Open Forum Oct.
 14 BBQ Fundraiser 1-4pm, Sept.
 5; ...
 10 Reasons why Cate will win HD98 in November 5:30-8:30pm, April 15-Campaign Kickoff & 50K Challenge House District 98 Candidate Forum – Grapevine February 24...
-Grapevine Wave Fundraiser for Vikki Goodwin, Katie O'Brie...
 1 2 Next Cate Brennan for HD98 [email protected] 214.435.2068 Mail: 2150 W.
 Northwest Hwy, Ste.
 114, PMB #1053, Grapevine, TX 76051 Pol.

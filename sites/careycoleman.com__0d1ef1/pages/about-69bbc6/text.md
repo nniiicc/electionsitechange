@@ -15,6 +15,6 @@ Carey lives in Northeast Ohio and remains deeply involved in local civic life, c
 He and his family are proud to call this region home and are committed to preserving the values that make it a great place to live, work, and raise a family.
 Carey Coleman is running for Congress to put Ohio first, bring common sense back to Washington, and ensure the next generation inherits a stronger, freer, and more prosperous America.
 Paid for by Carey Coleman for Congress P.O.
-Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+Box 560222 Macedonia, OH 44056 Facebook-f Instagram X-twitter Youtube Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
 All rights reserved.
 Terms of Service Privacy Policy Terms of Service Privacy Policy

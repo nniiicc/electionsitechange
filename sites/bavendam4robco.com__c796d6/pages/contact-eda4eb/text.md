@@ -9,5 +9,5 @@ Msg & data rates may apply.
 Msg frequency varies.
 Text HELP for more information.
 Unsubscribe at any time by replying STOP.” Your information, including your SMS opt-in data and consent, will not be shared with third parties for marketing or promotional purposes.
-Submit Have any questions?
+Submit Yard Sign Have any questions?
 Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

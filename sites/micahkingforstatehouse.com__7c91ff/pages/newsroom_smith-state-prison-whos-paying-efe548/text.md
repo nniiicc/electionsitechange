@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Tattnall County #Public Safety #Stewardship Smith State Prison: Who's Really Paying for the Crime?
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Policy #Tattnall County #Public Safety #Stewardship Smith State Prison: Who's Really Paying for the Crime?
 July 9, 2026 4 min read By Micah King Table of Contents • A Strain on Emergency Medical Services • The Safety of Our Community • The Financial Burden on Local Taxpayers • Supporting Our First Responders • A Conversation Worth Having When most people hear the words Smith State Prison , they think about what happens behind the prison walls.
 They think about inmate violence, contraband, gang activity, or state corrections policy.
 But for the people who call Tattnall County home, the impact extends far beyond the prison gates.

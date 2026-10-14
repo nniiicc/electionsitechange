@@ -2,12 +2,11 @@ Skip to content Brad Hochgesang for State Senate Donate Join Us Indiana State Se
 Small business owner.
 Your neighbor.
 Running to bring data-driven, constituent-first representation to southwest Indiana.
-Donate Volunteer Property taxes: relief without gutting schools & EMS Data centers: pay your own way or build somewhere else Infrastructure: fix the roads we already drive Housing families can afford Jobs & small business: keeping young people here Accountability: Your Community, Your Say Jasper, Indiana Donate now Explore priorities 6 issues, 2 campaign facts Priorities Property taxes: relief without gutting schools & EMS Data centers: pay your own way or build somewhere else Infrastructure: fix the roads we already drive Housing families can afford Jobs & small business: keeping young people here Accountability: Your Community, Your Say Campaign facts 2 Professional Polls commissioned 20+ years as a software engineer Collapse priorities 2 Professional Polls commissioned 20+ years as a software engineer Upcoming events 1 of 2 All events → 📍 Bottomland Forest Ecology Hike near Winslow Oct 3, 2026, 10:00 AM Patoka River National Wildlife Refuge property east of Winslow, IN (38.391798, -87.174402) View event → 📍 EPA public hearing: Indiana coal-ash permit proposal Nov 12, 2026, 2:00 PM Online and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, IN View event → Recent news Latest updates Read the latest campaign posts and issue-focused announcements.
-News All news Events All events Media Media & videos Sep 20, 2026 Dubois Democrats announce Ferdinand headquarters The county party announced a headquarters at 1245 Main Street in Ferdinand for meetings, candidate events, and volunteer activities.
-Read post Sep 20, 2026 Indiana coal-ash permit proposal enters public review EPA has proposed approval of Indiana’s partial coal-ash permit program.
-A November 12 hearing will accept in-person and online testimony.
-Read post Sep 20, 2026 Petersburg apartment proposal would add 64 homes Prides Creek Apartments is planned for North Buchta Drive in Petersburg.
-The announcement does not yet specify rents or a completion date.
+Donate Volunteer Property taxes: relief without gutting schools & EMS Data centers: pay your own way or build somewhere else Infrastructure: fix the roads we already drive Housing families can afford Jobs & small business: keeping young people here Accountability: Your Community, Your Say Jasper, Indiana Donate now Explore priorities 6 issues, 2 campaign facts Priorities Property taxes: relief without gutting schools & EMS Data centers: pay your own way or build somewhere else Infrastructure: fix the roads we already drive Housing families can afford Jobs & small business: keeping young people here Accountability: Your Community, Your Say Campaign facts 2 Professional Polls commissioned 20+ years as a software engineer Collapse priorities 2 Professional Polls commissioned 20+ years as a software engineer Upcoming events All events → 📍 EPA public hearing: Indiana coal-ash permit proposal Nov 12, 2026, 2:00 PM Online and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, IN View event → Recent news Latest updates Read the latest campaign posts and issue-focused announcements.
+News All news Events All events Media Media & videos Oct 15, 2026 Inside the Box, Episode 2: The Mid-States Corridor — “Yes or No?” Episode 2 follows the money, land, votes, and public record behind southern Indiana’s proposed Mid-States Corridor.
+Read post Sep 28, 2026 Inside the Box, Episode 1: Who Knew About These Data Center Deals?
+Episode 1 investigates secret data-center deals, local NDAs, utility demands, tax breaks, and who gets a voice in Indiana communities.
+Read post Sep 28, 2026 Inside the Box: The Issues That Shape Indiana Senate District 48 Watch Brad Hochgesang’s sourced video series on data centers, the Mid-States Corridor, and decisions affecting southern Indiana.
 Read post Our district Six counties, one district Crawford Dubois Gibson Perry Pike Spencer Select a county to see its page and towns.
 Click a county to zoom in.
 Crawford County English · Marengo · Milltown · Leavenworth · Alton · Taswell · Eckerty Dubois County Jasper · Huntingburg · Ferdinand · Holland · Ireland · Birdseye · St.
@@ -55,9 +54,10 @@ Read the full story Recent media Watch and share ★ 84K+ views Watch: Making th
 74% of Indiana.
 88% say redirect the money to the 400 canceled road projects.
 Brad makes the case to the county council — the campaign’s most-watched video.
-Watch Browse media General Election Registration Deadline General Election Day General Election Registration Deadline # # # # Days : # # # # Hours : # # # # Minutes : # # # # Seconds You must be registered by October 5 to vote in the November 3 general election.
-It takes # minutes online — check your registration now.
-Check Registration Brad Hochgesang Do the homework.
+Watch Browse media General Election Day # # # # Days : # # # # Hours : # # # # Minutes : # # # # Seconds Polls are open from 6 AM to 6 PM local time.
+Bring your photo ID.
+If you're in line by 6 PM, you WILL get to vote.
+Find Your Polling Place Brad Hochgesang Do the homework.
 Ask the people.
 Fight for their answer.
 I intend to prove it.

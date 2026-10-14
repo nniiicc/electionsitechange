@@ -25,4 +25,4 @@ Let’s get to work.
 Priorities Campaign updates Find out what I’ve been up to lately on my Campaign updates page .
 View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Have questions or ideas for our district?
 Contact Ariel Back to Top Paid for by Ariel Bolles for Vermont P.O.
-Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign
+Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign Privacy policy

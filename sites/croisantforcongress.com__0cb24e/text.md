@@ -24,7 +24,8 @@ T-Shirts, signs, and more!
 Show your support for John Croisant with official campaign merchandise.
 Every purchase helps us reach more voters across Oklahoma's First District.
 SUPPORT JOHN!
-Tue, Oct 13 South Tulsa | Meet & Greet / The Brotherton Residence RSVP Oct 13, 2026, 4:30 PM – 6:00 PM The Brotherton Residence, 8709 S 69th E Ave Tulsa, OK 74133 Join John Croisant in South Tulsa at The Brotherton Residence to hear about his vision for the future of Oklahoma's First District as Congressman!
+4 days to the event Sat, Oct 17 Downtown Tulsa | TCDP Pride Booth / East 6th Street & South Frankfort Avenue RSVP Oct 17, 2026, 10:00 AM – 10:00 PM East 6th Street & South Frankfort Avenue, E 6th St & S Frankfort Ave, Tulsa, OK 74120, USA Join John Croisant and the Tulsa County Democratic Party at Downtown Tulsa Pride Festival.
+Work the booth and inform potential voters about the upcoming election and the John Croisant campaign.
 ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
 POLLS ARE OPEN 7 AM - 7 PM.
 EARLY VOTING: October 28 - 30 from 8 am - 6 pm OR October 31 from 8 am - 2 pm CHECK YOUR VOTER REGISTRATION ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.

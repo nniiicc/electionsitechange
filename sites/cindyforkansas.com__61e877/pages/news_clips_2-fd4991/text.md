@@ -1,4 +1,11 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News Community Voice • August 10, 2026 Holscher, Ohaebosim Advance to November as Kansas Governor’s Race Takes Shape Holscher selected Wichita attorney K.C.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News The Downballot • August 20, 2026 LISTEN: How a Kansas Democrat won an upset by running against data centers We talk to state Sen.
+Cindy Holscher, the Democratic nominee for governor of Kansas, about her race.
+She tells us how she got into politics during former Gov.
+Sam Brownback’s disastrous time in office and how Democrats have strengthened in Kansas during the Trump era.
+We also discuss her call for a data center moratorium in the state, why it’s become such a big issue for voters, and how to support economic growth while ensuring everyday people aren’t left out of the benefits.
+Kansas City Star • August 19, 2026 Who has the edge in rare Kansas governor race with only 2 candidates in November?
+“In the Legislature, Cindy Holscher has worked across the aisle to solve problems, including ending the failed Brownback experiment, taking on special interests, and standing up for victims of sexual assault,” Osen said.
+“She’s laser-focused on lowering the cost of living, and she’s running a campaign that will appeal to all Kansans regardless of party label.” Community Voice • August 10, 2026 Holscher, Ohaebosim Advance to November as Kansas Governor’s Race Takes Shape Holscher selected Wichita attorney K.C.
 Ohaebosim as her running mate.
 If elected, Ohaebosim would become the first African American elected to statewide executive office in Kansas since Edward P.
 McCabe, who was elected state auditor in 1882 and remains the only Black Kansan to have won statewide executive office.

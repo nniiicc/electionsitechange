@@ -6,4 +6,4 @@ To opt-out, check this box Your Address Street Address Address Line 2 City ZIP C
 Please let us know what's on your mind.
 Have a question for us?
 Ask away.
-Your Comments/Questions (Required) Submit Chris Kleinjans for Michigan Senate District 31 Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422
+Your Comments/Questions (Required) Submit Chris Kleinjans for Michigan Senate District 31 Facebook Instagram YouTube TikTok Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422

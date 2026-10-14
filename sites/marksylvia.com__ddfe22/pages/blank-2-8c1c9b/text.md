@@ -3,7 +3,7 @@ News in the 10th Events Join Team Sylvia More Use tab to navigate through the me
 UPCOMING EVENTS Multiple Dates Virtual: Let's Make Calls for State Rep.
 Mark D.
 Sylvia!
-Tue, Oct 13 Zoom https://www.mobilize.us/marksylvia/event/1040955/ RSVP Multiple Dates Fairhaven: Let's knock doors to Re-Elect Rep.
+Thu, Oct 15 Zoom https://www.mobilize.us/marksylvia/event/1040955/ RSVP Multiple Dates Fairhaven: Let's knock doors to Re-Elect Rep.
 Mark D.
 Sylvia in the 10th Bristol!
 Sat, Oct 17 Fairhaven https://www.mobilize.us/marksylvia/event/1062111/ RSVP Multiple Dates Marion: Let's knock doors to Re-Elect Rep.

@@ -46,7 +46,7 @@ Have an idea?
 We want to hear from you.
 No one has a monopoly on good ideas, and real leadership comes from listening, working together toward a common purpose, and leading with humility and integrity.
 This campaign will be stronger when your voice is part of it.
-INDEPENDENT FOR A BETTER MAINE Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Click here for my full health care plan INDEPENDENT FOR A BETTER MAINE Contact Bennett for Governor info@BennettForGovernor.com P.O.
 Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
 This is your movement.
 We can’t do it without your help.

@@ -16,6 +16,6 @@ Someone who will take your concerns seriously, fight for practical solutions, an
 Not party politics.
 Not talking points.
 Just a neighbor asking for the chance to serve — and a promise to bring it home.
-MORE ABOUT STEVE STEVE'S PRIORITIES WATER Nitrate Pollution Protect Natural Resources Boundary Waters REGIONAL ECONOMIC GROWTH Job Pay & Availability Small Businesses Military Accreditation MAKE FARMING VIABLE AGAIN Salability of Farm Products Farm Insurance & Subsidies Farm Workers RURAL HEALTHCARE Medical Accessibility Rising Cost of Services Training Incentives FIND MY POLLING LOCATION Subscribe Upcoming Events Absentee & Early Voting -- Election Day Fri, Sep 18 See Details For Information More info RSVP Deadline - Advance Voter Registration - General Election Tue, Oct 13 See Details For Information More info RSVP Election Day!
+MORE ABOUT STEVE STEVE'S PRIORITIES WATER Nitrate Pollution Protect Natural Resources Boundary Waters REGIONAL ECONOMIC GROWTH Job Pay & Availability Small Businesses Military Accreditation MAKE FARMING VIABLE AGAIN Salability of Farm Products Farm Insurance & Subsidies Farm Workers RURAL HEALTHCARE Medical Accessibility Rising Cost of Services Training Incentives FIND MY POLLING LOCATION Subscribe Upcoming Events Absentee & Early Voting -- Election Day Fri, Sep 18 See Details For Information More info RSVP Election Day!
 Tue, Nov 03 View Details To Find Your Election Office More info RSVP Steve Holm - FOR MN HOUSE - Prepared and paid for by the Holm For House Committee | PO Box 334, St.
 Charles, MN 55972 bottom of page

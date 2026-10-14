@@ -1,4 +1,10 @@
-Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Ensure Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Support Conservation and Outdoor Recreation Download the Plan “Like most Minnesotans, I grew up in a family that values the outdoors.
+Donate today.
+Every dollar counts.
+I’m running for governor to take on the powerful and get things done for every Minnesotan.
+This is a home-grown campaign, born in a moment like no other.
+Will you chip in today?
+Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Continue to Site Donate Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Support Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Menu Close Home Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Support Conservation and Outdoor Recreation Download the Plan “Like most Minnesotans, I grew up in a family that values the outdoors.
 “Hunting, fishing, and outdoor recreation are a big part of Minnesota’s heritage but they must also be our future.
 As Governor I’ll protect our land, water, and wildlife habitats so the next generations can continue to enjoy them.” Amy Klobuchar is committed to preserving Minnesota’s natural resources and protecting the environment.
 Klobuchar grew up in a family that valued the outdoors, with a grandfather who was an avid hunter, a dad who was a mountain climber, bicyclist, and winter sports enthusiast, and a mom who loved to fish and hike.

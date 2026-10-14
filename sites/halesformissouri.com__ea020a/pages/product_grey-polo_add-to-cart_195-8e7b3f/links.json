@@ -4,6 +4,10 @@
 "href": "https://halesformissouri.com/about-jeff/"
 },
 {
+"text": "Add to cart",
+"href": "https://halesformissouri.com/product/grey-polo/?product_added_to_cart=195&quantity=1&add-to-cart=195"
+},
+{
 "text": "Cancel reply",
 "href": "https://halesformissouri.com/product/grey-polo/?product_added_to_cart=195&quantity=1#respond"
 },
@@ -30,6 +34,10 @@
 {
 "text": "Green Blouse $90.00",
 "href": "https://halesformissouri.com/product/green-blouse/"
+},
+{
+"text": "Green Necklace $299.00 Original price was: $299.00.$199.00Current price is: $199.00.",
+"href": "https://halesformissouri.com/product/green-necklace/"
 },
 {
 "text": "Home",
@@ -60,6 +68,10 @@
 "href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
+"text": "Sale! [image: Green Necklace]",
+"href": "https://halesformissouri.com/product/green-necklace/"
+},
+{
 "text": "Select options",
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
@@ -68,16 +80,8 @@
 "href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
-"text": "Select options",
-"href": "https://halesformissouri.com/product/support-the-party/"
-},
-{
 "text": "Shop",
 "href": "https://halesformissouri.com/shop/"
-},
-{
-"text": "Support the Party $5.00",
-"href": "https://halesformissouri.com/product/support-the-party/"
 },
 {
 "text": "Terms and Conditions",
@@ -110,9 +114,5 @@
 {
 "text": "[image: Product with Sizes]",
 "href": "https://halesformissouri.com/product/product-with-sizes/"
-},
-{
-"text": "[image: Support the Party]",
-"href": "https://halesformissouri.com/product/support-the-party/"
 }
 ]

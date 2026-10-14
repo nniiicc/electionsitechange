@@ -18,7 +18,7 @@ Three years ago, on October 7th, 2023, more Jews were killed in an attack that t
 As @Loriaschott has made clear, the case and settlement we reached by taking on Meta was historic.
 It won't b...
 Our campaign is now highlighting the importance of this work in our ad, Future, making the critical point that...
-The Latest UPDATES View All News NEW: President Obama Supports Phil Weiser for Governor Press Release Oct 12, 2026 Phil’s Remarks: Domestic Violence Awareness Month Press Conference on 10/6 Weiser Words Oct 09, 2026 Big Tech’s Accountability and Oversight Moment Weiser Words Oct 07, 2026 Standing Up for Colorado $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+The Latest UPDATES View All News ENDORSEMENT: Colorado Fraternal Order of Police Endorses Phil Weiser for Governor Press Release Oct 13, 2026 NEW: President Obama Supports Phil Weiser for Governor Press Release Oct 12, 2026 Phil’s Remarks: Domestic Violence Awareness Month Press Conference on 10/6 Weiser Words Oct 09, 2026 Standing Up for Colorado $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 SIGN UP to JOIN TEAM Phil Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from Phil Weiser for Governor.
 Message and data rates may apply.

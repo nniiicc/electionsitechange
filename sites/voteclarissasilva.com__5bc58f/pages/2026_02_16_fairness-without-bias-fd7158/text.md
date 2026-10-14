@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Fairness Without Bias February 16, 2026 Fairness in the courtroom is not a slogan.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Fairness Without Bias February 16, 2026 Fairness in the courtroom is not a slogan.
 It is a responsibility.
 For judges, fairness means approaching every case with an open mind, reviewing the facts and the law carefully, and making decisions without bias, favoritism, or political influence.
 It means applying the law equally no matter who appears before the court.

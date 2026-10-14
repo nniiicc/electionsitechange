@@ -1,11 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.donhouse.info/news",
- "fingerprint": "7b62c4d91490db2b9b05b0b189ea222612089b3d",
+ "fingerprint": "a0a02ca17c5fd62f1ca6f42069236f3937ea3130",
  "format": 3,
- "paid_for_by": "sponsored by Citizens for Belknap County and the NH League of Women Voters",
+ "paid_for_by": "Paid for by Citizens for Don House, Don House, Fiscal agent © # by Don House",
+ "rendered": false,
  "title": "News | Mysite",
  "years_mentioned": [
+  "2020",
   "2026"
  ]
 }

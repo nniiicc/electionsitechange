@@ -31,8 +31,9 @@ That is how I served in the Army, and it is how I fight for the Treasure Coast a
 I will keep standing up for our water, our veterans, our families, and our country, but I cannot do it alone.
 Sixty-nine days is enough time to organize, persuade, volunteer, and win.
 It is also short enough that we cannot waste a single one.
-Related Posts: Democrats Want To Appoint A Speech Czar March 2, 2021 Army Corps Cover Up EXPOSED!
-January 14, 2022 One Week To Register July 14, 2026 6 months of Taliban control has led to this… February 15, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Honoring the Battle After the Battlefield June 8, 2026 $2 Billion Secured To Accelerate Everglades Restoration April 17, 2026 I lost two legs serving in Afghanistan.
+Veterans need you today.
+August 15, 2022 INFORMATION FOR FLORIDA VOTERS July 19, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

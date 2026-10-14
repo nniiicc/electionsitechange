@@ -10,5 +10,5 @@ She understands that leadership is about showing up for your community and stand
 Government is supposed to work for the people not the other way aroun.
 That's why I'm proud to stand with Tamara" Aftyn behn full endorser List Darden Copeland, Democratic Congressional Nominee for TN-7 Vincent Dixie, State Representative Saletta Holloway, Fmr.
 Nashville City Councilwomen Joshua Sales, Teacher and Fmr.
-Congressional Candidate Aftyn Behn, State Representative and Social Worker The Tennessee Report, Progressive Youth-Led Political Organization Tennessee AFL-CIO, Labor Union IBEW Local 429, Labor Union Have any questions?
+Congressional Candidate Aftyn Behn, State Representative and Social Worker The Tennessee Report, Progressive Youth-Led Political Organization Tennessee AFL-CIO, Labor Union IBEW Local 429, Labor Union Yard Sign Have any questions?
 Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

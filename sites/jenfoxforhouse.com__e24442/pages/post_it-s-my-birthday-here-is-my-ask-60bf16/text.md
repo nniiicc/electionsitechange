@@ -40,7 +40,8 @@ And if this reached you secondhand and you want these directly, sign up here .
 Thank you for being on this list.
 And thank you for whatever you can do today, whether that is an hour on Wednesday or a donation this afternoon.
 Both of them move this the same direction.
-See you at a door, Jen Prepared and paid for by the Jen Fox for House Committee, PO Box 492, Hastings MN 55033 Recent Posts See All 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
+See you at a door, Jen Prepared and paid for by the Jen Fox for House Committee, PO Box 492, Hastings MN 55033 Recent Posts See All 41B Weekly, Issue 7: Three weeks to go Sent Monday, October 12, 2026.
+Issue 7 covered the October 13 pre-registration deadline, this week's door knocks from Spiral Brewery and Park High School, the ask to wear a Jen Fox shirt, and early vo 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
 Issue 6 opened with a thank-you to everyone who filled Hastings City Hall for the September 30 candidate forum.
 It then covered the October 13 deadline to pre-register to 41B Weekly, Issue 2: Ballots go out in 10 days Sent Tuesday, September 8, 2026.
 Issue 2 covered the Operating Engineers Local 49 endorsement, the three dates that decide this seat (absentee ballots September 18, early in-person voting October 16, GET INVOLVED Your support changes the game!

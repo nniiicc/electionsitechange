@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Agriculture #Policy Standing Strong with Georgia's Agriculture & Farmers May 2, 2026 5 min read By Micah King Table of Contents • The Generational Pressure on Family Farms • My Commitments to District 157 Growers – 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Articles #Agriculture #Policy Standing Strong with Georgia's Agriculture & Farmers May 2, 2026 5 min read By Micah King Table of Contents • The Generational Pressure on Family Farms • My Commitments to District 157 Growers – 1.
 Permanent Tax Relief on Agricultural Inputs – 2.
 Defending Our Water Rights – 3.
 Fostering the Next Generation of Farmers – 4.

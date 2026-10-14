@@ -1,4 +1,4 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Grapevine Wave Fundraiser for Vikki Goodwin, Katie O'Brien Duzan and Cate Brennan.
+Home Voter Info Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Grapevine Wave Fundraiser for Vikki Goodwin, Katie O'Brien Duzan and Cate Brennan.
 Feb 18, 2026 · By Cate B CB Join your fellow DFW Democrats and meet our candidates as we usher in the early voting period for the March 3rd Primary.
 February 18, 2026, 7 p.m. – 9 p.m. https://secure.actblue.com/donate/grapevinewave26 Cate Brennan for HD98 [email protected] 214.435.2068 Mail: 2150 W.
 Northwest Hwy, Ste.

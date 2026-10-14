@@ -1,4 +1,4 @@
-Skip to main content Home About Policy Events Press & News Get Involved Re-elect State Representative Betsy Coffia.
+Skip to main content Home About Policy Events Local Events Take MI Power Back Press & News Get Involved Re-elect State Representative Betsy Coffia.
 Help Betsy Keep Fighting In Lansing Donate Re-elect State Representative Betsy Coffia.
 Help Betsy Keep Up The Fight In Lansing Donate A Better Future Starts With Community Together we have the power to elect leaders who will put people and community first, not private profit.
 "I have the audacity to believe that peoples everywhere can have three meals a day for their bodies, education and culture for their minds, and dignity, equality and freedom for their spirits.

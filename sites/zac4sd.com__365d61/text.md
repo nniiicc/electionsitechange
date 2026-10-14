@@ -1,13 +1,38 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate For South Dakota House District 32 Strong Families.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Zac Martin For South Dakota · House District 32 Father · Businessman · Community Advocate Strong Families.
 Strong South Dakota.
-Father.
-Businessman.
-Community Advocate.
-I'm running to serve the heart of Rapid City because the families of District 32 deserve a representative who actually listens, reads every bill, and shows up.
+I'm running to serve the heart of Rapid City because the families of District 32 deserve a representative who reads every bill, listens to neighbors, and shows up.
 Eight years here.
-Two years already fighting to pass legislation that protects South Dakota families.
-Donate to the campaign Read the platform Election Day Nov 3, 2026 District SD House 32 Pillars 15 Zac Martin SD House 32 The case for change Pierre has drifted.
+Two sessions already in Pierre fighting for legislation that protects South Dakota families.
+Donate to the campaign Read the plan Election Day Nov 3, 2026 Your ballot Two House votes Amendments Yes on I J K L Zac Martin The Plan Three fights for District 32 families 1 Real Property Tax Relief “ Government should live within the means of the people it serves. ” No state income tax.
+Period.
+Real property tax relief without raising the statewide sales tax to pay for it.
+Cap general fund growth to population plus inflation.
+Stop Pierre's spending and headcount creep.
+A renter's rebate.
+42% of District 32 rents, and renters pay property tax in every rent check.
+The affordability agenda 2 Tough on Violent Crime.
+Smart on the Rest. “ Lower recidivism.
+People come back as neighbors. ” Stand with law enforcement and AG Jackley on violent crime, child exploitation, and trafficking.
+Break the revolving door: sentencing reform so non-violent offenders return stronger, not repeat.
+Expand drug courts, mental health diversion, and reentry programs that actually cut recidivism. $737M On two new prisons while recidivism stays high $93.26 Per inmate, per day, paid by you Public safety 3 Education Reform “ Parents decide.
+Teachers teach.
+Bureaucracy stays aside. ” Curriculum transparency, required by law, not by request.
+Cap administrator pay.
+Pay teachers what they're worth.
+Funding follows the student.
+True school choice for every family.
+No taxpayer-funded lobbying by school districts.
+Not one.
+Education The four amendments on your ballot Zac is voting YES on I, J, K and L.
+What each one does, why, the other side's best argument, and how District 32's current lawmakers voted to put them in front of you.
+Read the ballot guide I Yes Medicaid expansion stays only while Washington keeps its 90 percent promise.
+J Yes Only United States citizens vote in South Dakota elections.
+Say it plainly.
+K Yes Put forgotten money in a permanent trust.
+Spend the interest, never the principal.
+L Yes Changing the constitution should take 60 percent.
+Changing a law still takes a majority.
+The case for change Pierre has drifted.
 South Dakota families pay the bill.
 The 2026 session passed a general appropriations bill 50 to 17 in the House and 25 to 9 in the Senate.
 The 2025 session expanded the state employee rolls again.
@@ -124,18 +149,15 @@ Cameras in courtrooms.
 Real consequences for false allegations.
 A capstone bill that anchors due process in family court.
 01 A New Start at Equality Act 02 Time Taken, Time Back Act 03 Three Strikes Custody Interference Act 04 Justice Delayed is Justice Denied Act 05 Cameras in Courtrooms Act ...plus 6 more bills, including the capstone Family Rights and Due Process Act.
-Read all 11 bills Join the campaign We win District 32 the old fashioned way .
-Door by door.
+Read all 11 bills Join the team Vote Zac Martin Door by door.
 Neighbor by neighbor.
 Yard sign by yard sign.
-Every conversation, every donation, every shift counts.
-This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
-Donate Volunteer Yard Sign Zac .
-Martin SD House 32 Strong Families.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes to win District 32.
+(605) 600-3281 · zac@zac4sd.com Donate Volunteer Yard sign Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

@@ -1,5 +1,4 @@
-Skip to content Zac .
-Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Pillar F · Foundations Immigration and Border Security “ A nation without borders is not a nation. ” Full state-federal cooperation.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Pillar F · Foundations Immigration and Border Security “ A nation without borders is not a nation. ” Full state-federal cooperation.
 Mandatory E-Verify.
 English proficiency for CDLs.
 End public benefits for those not lawfully present.
@@ -32,18 +31,15 @@ The people who came the right way deserve a labor market that is not rigged agai
 An eighty thousand pound rig on I-90 in a Black Hills winter is not the place to discover that a driver cannot read a closure sign, follow a detour, or understand a trooper at a roadside stop.
 A driver from any background can meet the standard.
 South Dakota should confirm it before handing over the license rather than after the crash.
-Pillar E Protecting Children All 15 pillars Pillar G Property Rights Join the campaign We win District 32 the old fashioned way .
-Door by door.
+Pillar E Protecting Children All 15 pillars Pillar G Property Rights Join the team Vote Zac Martin Door by door.
 Neighbor by neighbor.
 Yard sign by yard sign.
-Every conversation, every donation, every shift counts.
-This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
-Donate Volunteer Yard Sign Zac .
-Martin SD House 32 Strong Families.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes to win District 32.
+(605) 600-3281 · zac@zac4sd.com Donate Volunteer Yard sign Zac Martin For South Dakota Strong Families.
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
-Paid for by Zac Martin for South Dakota.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
+Paid for by Zac Martin for South Dakota.

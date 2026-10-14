@@ -2,7 +2,7 @@ Support Bob Brooks for Congress!
 Help us unite the Lehigh Valley and put out the dumpster fire in Washington.
 Make a donation today!
 Click an amount to get started.
-If you've saved your payment information with ActBlue Express, your donation will go through immediately. $5 $10 $25 $50 $100 Other Continue to Site Meet Bob Meet Platform Platform Endorsements Endorsements News News Voter Info Voter Info Volunteer Volunteer Donate Donate Meet Bob Platform Endorsements News Voter Info Volunteer Donate Bob's Policy Platform Put the fire out in Washington Washington’s a dumpster fire, and working people are the ones getting burned.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $5 $10 $25 $50 $100 Other Continue to Site En español Meet Bob Meet Platform Platform Endorsements Endorsements News News Voter Info Voter Info Volunteer Volunteer Donate Donate Meet Bob Platform Endorsements News Voter Info Volunteer Donate Bob's Policy Platform Put the fire out in Washington Washington’s a dumpster fire, and working people are the ones getting burned.
 Billionaires and big corporations run the show while the rest of us are left to scrape by.
 I’ve lived a working-class life.
 There was a time when a blue-collar job could make you a decent living.

@@ -1,4 +1,4 @@
-Meet Carrie Events Issues News Volunteer Contribute Events #ago This Week This Month ‹ Previous Tue Oct 13 2026 - Wed Oct 13 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Coffee with Carrie at Vibe Coffee 118 N Lincoln Boulevard, Hodgenville, KY, 42748 Grab a cup and pull up a chair!
+Meet Carrie Events Issues News Volunteer Contribute Events #ago This Week This Month ‹ Previous Wed Oct 14 2026 - Thu Oct 14 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Coffee with Carrie at Vibe Coffee 118 N Lincoln Boulevard, Hodgenville, KY, 42748 Grab a cup and pull up a chair!
 Carrie is hitting the road for a series of Coffee with Carrie stops at coffee shops across the district.
 It's a low key chance to meet her, share what's on your mind, and talk about what's happening in your community.
 No agenda, no speeches, just neighbors talking with neighbors over coffee.

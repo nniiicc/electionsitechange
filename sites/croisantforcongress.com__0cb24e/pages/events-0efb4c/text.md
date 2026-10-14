@@ -1,4 +1,5 @@
-top of page DONATE HOME ABOUT ISSUES STORE GET INVOLVED EVENTS UPCOMING EVENTS South Tulsa | Meet & Greet Tue, Oct 13 The Brotherton Residence Join John Croisant in South Tulsa at The Brotherton Residence to hear about his vision for the future of Oklahoma's First District as Congressman!
+top of page DONATE HOME ABOUT ISSUES STORE GET INVOLVED EVENTS UPCOMING EVENTS 4 days to the event Downtown Tulsa | TCDP Pride Booth Sat, Oct 17 East 6th Street & South Frankfort Avenue Join John Croisant and the Tulsa County Democratic Party at Downtown Tulsa Pride Festival.
+Work the booth and inform potential voters about the upcoming election and the John Croisant campaign.
 DETAILS Want John to speak at your event?
 REQUEST JOHN Home About Issues Get Involved Privacy Terms & Conditions Social Media FEC Finance Tel.
 918-807-6375 Campaign HQ Office: 1776 S.

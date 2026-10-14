@@ -31,7 +31,4 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Mike Fitzpatrick State Central Member 4th District "In the more than ten years I have known Peter Lumaj, he has not only remained a consistent and principled conservative, but has always been there to support fellow Republicans year after year.
-Whether it was a candidate for statewide office or a local candidate in a small town, Peter has provided both his time and his financial support to fellow Republicans.
-In 2026 Connecticut Republicans will need a unified team of principled leaders to win and then more importantly the talent to make real change once in office.
-For both of those challenges, Peter Lumaj is the ideal candidate for the Secretary of the State this election." View all endorsements →
+ENDORSED BY Selim Noujaim Former State Representative (Waterbury) "Honestly, dedication, expertise, and know-how are traits that Peter Lumaj will bring along to the office of Connecticut’s Secretary of the State." View all endorsements →

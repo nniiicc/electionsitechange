@@ -15,5 +15,5 @@ If this office has almost no power, a party label on it is just decoration.
 Making it nonpartisan is honesty in ballot design." Karas's campaign has centered on the argument that the Secretary of State's office is the weakest elected office of its kind in the country, making it the lowest-risk place for frustrated voters to cast a protest vote against the two-party system.
 Contact: vote@petekaras.com PeteKaras.com X: @petekaras | Facebook: @pete.karas.9 | Instagram: @petekaras_wi_sos | TikTok: @votepetekaras Pete Karas is the Green Party candidate for Wisconsin Secretary of State.
 His campaign accepts no corporate money.
-Media contact: vote@petekaras.com | PeteKaras.com Paid for by Pete for Wisconsin Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Media contact: vote@petekaras.com | PeteKaras.com Paid for by Pete for Wisconsin Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

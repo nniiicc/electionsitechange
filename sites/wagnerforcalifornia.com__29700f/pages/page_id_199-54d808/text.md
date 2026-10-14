@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus On The Radio In The News Two good ideas from Republicans dead on arrival in Democratic Legislature READ MORE Counting votes quickly and accurately are not mutually exclusive.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus On The Radio In The News Two good ideas from Republicans dead on arrival in Democratic Legislature READ MORE Counting votes quickly and accurately are not mutually exclusive.
 Here’s how California can do it READ MORE Should California’s secretary of state be nonpartisan?
 GOP lawmakers make push READ MORE 1 2 3 … 6 Sign Up For Campaign Updates!
 Opt In For Text Messages Opt In For Emails Submit By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Wagner for Secretary of State at the number provided, including messages sent by autodialer.

@@ -43,5 +43,10 @@ Cooley Law School, Lansing Earned a Juris Doctor from one of Michigan's own law 
 Undergraduate Degree University of South Florida Completed undergraduate studies before returning to Michigan to pursue a career in law and public service.
 Get Involved Join the Campaign for Justice in Michigan Michigan's Supreme Court shapes the future of our state.
 Join Judge Morse-Bills in the fight to uphold constitutional principles, protect individual rights, and restore integrity to our highest court.
-Team@MorseBillsForJustice.com Paid for by Judge Casandra Morse-Bills for Michigan Supreme Court PO Box 163 Allegan, MI 49010-0163 © # Morse-Bills for Justice.
+First name Last name Email ZIP code (optional) Mobile phone (optional) By providing your mobile number and checking this box, you agree to receive text messages from Judge Casandra Morse-Bills for Michigan Supreme Court.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out or HELP for help.
+See our Privacy Policy .
+Leave this field empty Sign Up Team@MorseBillsForJustice.com Paid for by Judge Casandra Morse-Bills for Michigan Supreme Court PO Box 163 Allegan, MI 49010-0163 Privacy Policy © # Morse-Bills for Justice.
 All rights reserved.

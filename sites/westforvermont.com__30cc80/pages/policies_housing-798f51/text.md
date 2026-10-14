@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Housing Housing won’t solve every challenge Vermont faces, but it has to be part of almost every solution.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Housing Housing won’t solve every challenge Vermont faces, but it has to be part of almost every solution.
 Vermont simply doesn’t have enough homes that people can afford at different stages of life.
 That affects young people trying to stay here, families looking for room to grow, older Vermonters who want to downsize, and employers trying to find workers.
 We need more homes of different sizes and types, particularly in places where existing infrastructure can support growth.

@@ -20,16 +20,28 @@
 "href": "https://brandon4congress.com/events/today/"
 },
 {
-"text": "Delaware County Meeting",
-"href": "https://brandon4congress.com/event/delaware-county-meeting/"
-},
-{
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/oklahoma-for-brandon-1"
 },
 {
 "text": "Endorsements",
 "href": "https://brandon4congress.com/endoresments/"
+},
+{
+"text": "Export .ics file",
+"href": "https://brandon4congress.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://brandon4congress.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fbrandon4congress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Humpday exchange TikTok live",
+"href": "https://brandon4congress.com/event/humpday-exchange-tiktok-live/"
 },
 {
 "text": "Input From The Voters |",
@@ -44,6 +56,14 @@
 "href": "https://brandon4congress.com/brandon-wade/"
 },
 {
+"text": "Meet and Greet in Tishomingo",
+"href": "https://brandon4congress.com/event/meet-and-greet-in-tishomingo/"
+},
+{
+"text": "Meet the candidates event in Grove",
+"href": "https://brandon4congress.com/event/meet-the-candidates-event-in-grove/"
+},
+{
 "text": "Menu Close",
 "href": "https://brandon4congress.com/#mobile-menu-toggle"
 },
@@ -52,8 +72,8 @@
 "href": "https://brandon4congress.com/events/month/"
 },
 {
-"text": "Muskogee County Democratic Meeting",
-"href": "https://brandon4congress.com/event/muskogee-county-democratic-meeting/"
+"text": "Muskogee County Democrats Cookout",
+"href": "https://brandon4congress.com/event/muskogee-county-democrats-cookout/"
 },
 {
 "text": "News |",
@@ -62,6 +82,14 @@
 {
 "text": "OK CD2 Issues",
 "href": "https://brandon4congress.com/ok-cd2-issues/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fbrandon4congress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Brandon+Wade+for+Congress+Events+%E2%80%93+Brandon+Wade+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fbrandon4congress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Brandon+Wade+for+Congress+Events+%E2%80%93+Brandon+Wade+for+Congress"
 },
 {
 "text": "Past Events |",
@@ -80,12 +108,12 @@
 "href": "https://brandon4congress.com/press-release/"
 },
 {
-"text": "What is your STORY",
-"href": "https://brandon4congress.com/input-from-voters/"
+"text": "Previous Events",
+"href": "https://brandon4congress.com/events/list/?eventDisplay=past"
 },
 {
-"text": "Women’s Equality Day",
-"href": "https://brandon4congress.com/event/womens-equality-day/"
+"text": "What is your STORY",
+"href": "https://brandon4congress.com/input-from-voters/"
 },
 {
 "text": "[image: Brandon Wade for Congress]",
@@ -114,5 +142,9 @@
 {
 "text": "[tooltip: Previous Events]",
 "href": "https://brandon4congress.com/events/list/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://brandon4congress.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

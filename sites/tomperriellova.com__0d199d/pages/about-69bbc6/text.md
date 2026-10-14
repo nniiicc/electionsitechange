@@ -19,4 +19,5 @@ The son of Linda and Vito Perriello, Tom still lives outside Charlottesville.
 He is an Eagle Scout from Troop 114 and a graduate of Yale College and Yale Law School.
 His parents and his parish taught him to live a life of service, to treat compassion as a verb, and to understand that love of neighbor does not stop at the end of your street.
 Tom has 7 godchildren and is the proud uncle of 10 nieces and nephews.
-Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

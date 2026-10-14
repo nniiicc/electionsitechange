@@ -2,7 +2,11 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate Category: About Me Friends Endorse Lisa for Congress Three Republican legislators who served with Lisa Kinney have endorsed her for a seat in the U.S.
+Donate Donate Category: About Me Governor Mike Sullivan Endorses Lisa Former Wyoming Governor Mike Sullivan announced on Tuesday, October 6, that he is endorsing Democratic nominee Lisa Kinney for the US House.
+Lisa, a former state senator, attorney, financial advisor, and accomplished author, is facing Republican Chuck Gray, Libertarian Shawn Johnson, and Constitution Party nominee Jeff Haggit in the November 3 rd general election.
+Sullivan noted, “I think it’s important that Wyoming have somebody who is dedicated to public service, who works well with people and has proven their leadership like Lisa has…” Kinney responded, “I always had a great working relationship with Mike and I am honored that he endorsed me.” Lisa’s bipartisan, cooperative approach to problem solving has resulted in endorsements from many of her colleagues on both sides of the political aisle.
+She believes that her experience and desire to serve the people of Wyoming makes her the right choice to represent them in Washington.
+October 13, 2026 Friends Endorse Lisa for Congress Three Republican legislators who served with Lisa Kinney have endorsed her for a seat in the U.S.
 House of Representatives.
 Former Senator Rex Arney of Sheridan County, Representatives Tom Jones of Park County, and Patti MacMillan of Albany County all served with Kinney when she was a State Senator from Albany County.
 Kinney noted that, “I am honored to be endorsed by these three brilliant, hard-working and inspiring former legislators.

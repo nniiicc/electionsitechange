@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-Search Rep.
+Donate Search Rep.
 Dempsey Serves as Guest Speaker at National Conference of State Legislature’s 2019 Legislative ATLANTA – State Representative Katie Dempsey (R-Rome) served as a guest speaker and panelist during a session at the National Conference...
 Katie Dempsey Aug 7, 2019 2 min read Rep.
 Dempsey Named a 2019 Champion of Recovery by Georgia Council on Substance Abuse ATLANTA – State Representative Katie Dempsey (R-Rome) was recently named a 2019 Champion of Recovery and friend of the Georgia Recovery...

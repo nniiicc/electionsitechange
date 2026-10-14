@@ -1,5 +1,4 @@
-Thank you District 34 for Turning Out!
-We won the Primary with 52.99%!!
+Early Voting Starts October 19 at 675 7th Ave Suite 200!
 Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Events Please check back regularly for events.
 If you can't make it due to other obligations , but want to support the campaign: Contribute Now!
 Conversation and Coffee with Cottle Stop by Alaska Coffee Roasting Co at 4001 Geist Rd on October 25th from 10-11 and share your concerns, talk to the candidate, and caffeinate!

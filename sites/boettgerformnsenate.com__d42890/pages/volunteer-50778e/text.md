@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Volunteer Contact Donate About Endorsements Volunteer Contact Donate Sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from the Andrea Boettger Senate Committee.
+Skip navigation menu About Endorsements Volunteer Positions Contact Donate About Endorsements Volunteer Positions Contact Donate Sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from the Andrea Boettger Senate Committee.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

@@ -1,4 +1,4 @@
-Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet More Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Volunteer at local food pantry Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Volunteer at local food pantry Rising Together With People Centered Policies For All Kansans Wages : Ensuring fair wages is not just an economic issue but a moral imperative.
+Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet More Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Donate Home Meet Brooklynne Platform Get Involved Donate Register To Vote Kansas Legislature SNAP Fact Sheet Donate Rising Together With People Centered Policies For All Kansans Wages : Ensuring fair wages is not just an economic issue but a moral imperative.
 Kansas must prioritize policies that promote a living wage, empower workers, and reduce income inequality.
 By supporting fair compensation practices, we can strengthen our workforce, boost productivity, and enhance the overall well-being of Kansans.
 Reproductive Rights: Every person deserves the right to make their own healthcare decisions, including those related to reproductive health.
@@ -37,4 +37,4 @@ By expanding access to nutrition assistance programs, meal delivery services, an
 Cost of Living: The rising cost of living presents significant challenges for Kansas seniors, particularly those on fixed incomes.
 Kansas must explore policies to address affordability issues, including measures to reduce utility costs, prescription drug expenses, and other essential living expenses.
 By easing the financial burden on seniors, we can improve their quality of life and ensure that they can age with dignity and security.
-Paid for by Brooklynne Mosley for Kansas| Treasurer Erika Fincham Powered by Donate to Douglas County United Food Pantry Response Fund Check Here
+Paid for by Brooklynne Mosley for Kansas| Treasurer Erika Fincham Powered by Douglas County Elections Check Here

@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Education Every child deserves the right to a free and high quality public education regardless of economic status.
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: Education Every child deserves the right to a free and high quality public education regardless of economic status.
 Public education is the backbone of society and the school is the centerpiece of a community and should be funded as well as we can.
 Stop giving public money to private schools and make public schools better.
 Update the curriculum for the new world of technology.

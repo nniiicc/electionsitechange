@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight District 157 Campaign Get Involved Whether you want to stay informed, knock doors, or show up on Election Day, there’s a way for you to help out.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight District 157 Campaign Get Involved Whether you want to stay informed, knock doors, or show up on Election Day, there’s a way for you to help out.
 Stay Informed Get campaign updates, event invites, and news about what Micah is doing for District 157 sent right to your email.
 Volunteer Knock doors, make calls, help at events, or just spread the word.
 We'll reach out to find a way to help that works for you.

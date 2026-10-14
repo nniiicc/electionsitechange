@@ -1,4 +1,4 @@
-ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Pledge to Support Mathewos Samson!
+ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Pledge to Support Mathewos Samson!
 Pledge to Support Mathewos Samson!
 Share Mathewos Samson is a community organizer, democratic socialist, and lifelong Atlantan running for State House to make Georgia work for working families — not just the billionaires.
 He was born in Atlanta's historic Old Fourth Ward neighborhood and raised by a family of immigrants who taught him to fight for his community and stand up against injustice.

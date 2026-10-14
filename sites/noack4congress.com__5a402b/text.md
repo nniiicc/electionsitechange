@@ -24,7 +24,9 @@ Every single day, behind the wheel, paying the same bills you pay.
 That’s why I’m running.
 Not for a title.
 Because someone from this district needs to go to Washington and fight like our families depend on it — because they do.
-Read Mike’s Full Story What Mike Will Fight For Not talking points.
+Read Mike’s Full Story 3:06 In the News October 6, 2026 Mike on CBS News Chicago Those diesel prices are what’s going to drive the economy.
+And with those diesel prices going up, that means that our prices in the grocery stores are going to be going up, too.
+Mike Noack, in his interview with CBS News Chicago More Campaign News What Mike Will Fight For Not talking points.
 Not poll-tested promises.
 These are the real problems IL-2 families face — and Mike has real plans to fix them.
 Healthcare That Actually Works The system is broken and insurance companies are getting rich while your family goes without.

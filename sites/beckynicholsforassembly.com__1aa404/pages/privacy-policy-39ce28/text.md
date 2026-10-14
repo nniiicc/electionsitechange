@@ -1,4 +1,4 @@
-top of page About Issues Get Involved Endorsements Open site navigation Back to site Make a Donation Privacy Policy A LEGAL DISCLAIMER We understand the importance of protecting your personal information.
+top of page About Issues Get Involved Volunteer Volunteer Endorsements Open site navigation Back to site Make a Donation Privacy Policy A LEGAL DISCLAIMER We understand the importance of protecting your personal information.
 This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website.
 By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy. ​ Collection of Personal Information When you visit our website, we may collect certain personal information from you, including your name, email address, phone number, and other contact information.
 We may also collect other information about your usage of our website, such as your IP address, browser type, and operating system.
@@ -12,4 +12,4 @@ However, no security measures are perfect, and we cannot guarantee the security 
 If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete the information as soon as possible. ​ Changes to this Privacy Policy We may update this Privacy Policy from time to time by posting a new version on our website.
 We encourage you to review this Privacy Policy periodically.
 Email: info@beckynicholsforassembly.com Phone: 920-215-0186 ​ Becky Nichols for Assembly P.O.
-Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Endorsements bottom of page
+Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Volunteer Endorsements bottom of page

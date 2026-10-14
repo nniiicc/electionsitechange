@@ -14,7 +14,26 @@ Together, we can address the pressing issues facing our district and ensure a pr
 Rep.
 Gabe Evans of Fort Lupton in the toss-up district, which spans from the northeastern Denver suburbs along U.S.
 85 into Greeley.
-Press Releases ICYMI: Front Page of the Denver Post: Millions to Lose Plans October 12, 2026 · Read the full release THORNTON, CO – On Saturday, the Denver Post included a front-page article about the dire state of health care in Colorado. “ Millions to Lose Plans ” outlines how the Big Beautiful Bill not only cuts Affordable Care Act credits and Medicaid, it makes insurance costs go up for everyone.
+Press Releases Manny Rutinel Releases New TV Ads: “The Pump” and “The Truth” October 13, 2026 · Read the full release Rutinel highlights Evans’ support of Trump’s Iran War that has raised gas prices, work to prevent the release of the Epstein Files THORNTON, CO – This week, Manny Rutinel for Congress released two new TV ads, “ The Pump ” and “ The Truth .” “The Pump” is a $350,000 initial buy and “The Truth” is a $400,000 initial buy.
+Both ads will run on Denver TV and streaming across Colorado’s Eighth District.
+In “ The Pump ,” which premieres today, Rutinel highlights how Gabe Evans raised Coloradans’ gas prices by voting #% of the time with Donald Trump for the forever war in Iran and his corrupt, chaotic tariffs.
+WATCH “THE PUMP” Transcript For families like yours and mine, single moms, people working two, three jobs, every dollar at the pump matters.
+But Gabe Evans voted seven times for Trump's war, sending gas prices soaring, just like he voted for Trump's tariffs and Medicaid cuts to give billionaires tax breaks.
+Evans votes 100% with Trump and our families pay for it.
+I'm Manny Rutinel.
+I'll fight to lower your costs.
+I approve this message because no family should have to choose between gas and groceries.
+In “ The Truth ,” which premiered last Friday, Adams County District Attorney Brian S.
+Mason calls out Gabe Evans’ vote to cover up the Epstein Files while highlighting Rutinel’s work cracking down on child exploitation and strengthening reporting of child abuse .
+WATCH “THE TRUTH” Transcript I'm the Adams County District Attorney and I've been a prosecutor for 20 years.
+I want you to know the truth.
+Gabe Evans voted with Trump to cover up the Epstein files after he knew 14 year-old girls were sexually assaulted.
+It's disgraceful.
+Manny Rutinel passed laws to crack down on child exploitation, strengthen reporting of child abuse, and protect kids in foster care.
+Gabe Evans protected child predators.
+Manny Rutinel is protecting our kids.
+I'm Manny Rutinel and I approve this message.
+ICYMI: Front Page of the Denver Post: Millions to Lose Plans October 12, 2026 · Read the full release THORNTON, CO – On Saturday, the Denver Post included a front-page article about the dire state of health care in Colorado. “ Millions to Lose Plans ” outlines how the Big Beautiful Bill not only cuts Affordable Care Act credits and Medicaid, it makes insurance costs go up for everyone.
 In case you missed it: As the article outlines, "insurers close options viewed as unprofitable, cutting back choices.” “Millions of people with private Medicare coverage are being forced to change their insurance for 2027 and will pay higher prices for prescriptions and medical care, prompting some experts to warn that more older Americans will face greater financial hardship.” “Major insurers, like UnitedHealth, Centene and state Blue Cross plans, have shuttered plans that they viewed as unprofitable in certain markets, leaving some people with fewer choices of policies, and even more limited choices of doctors in 2027.” Gabe Evans voted for the largest Medicaid cuts in American history that could shut down three rural hospitals in CD-8 and put 200,000 Coloradans at risk of losing their health care.
 Now millions of Americans who use private insurance are now at risk of losing the care they need to survive due to corporate greed fueled by Evans and Donald Trump.
 “Gabe Evans’ continued support of Donald Trump’s reckless health care cuts not only put folks who rely on critical programs like Medicaid or the Affordable Care Act at risk of losing their insurance, but also people who opted to keep their current private plan,” said Alex Terr, spokesperson for Manny for Colorado .

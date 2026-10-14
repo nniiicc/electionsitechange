@@ -6,7 +6,11 @@ Idaho families built this and it’s worth fighting for.
 Congress exists to promote the general welfare – not for a select few, but for all.
 It’s time to do the job the Constitution requires.
 DONATE JOIN US We want to hear from you!
-Connect with us on social media: ABOUT ELLIE GILBREATH I am a lawyer, a mediator, and a problem-solver.
+Connect with us on social media: The time to act is now!
+Stop AI data centers that do not benefit our communities.
+End unconstitutional surveillance.
+No to taking in the country’s nuclear waste.
+ABOUT ELLIE GILBREATH I am a lawyer, a mediator, and a problem-solver.
 I graduated from one of the nation’s top law schools, and when I was sworn in as an attorney, I took an oath to uphold the Constitution of the United States.
 That oath matters to me.
 For more than twenty years, I have worked with businesses, civic leaders, nonprofits, schools, and communities navigating conflict, complexity, and high-stakes decisions.

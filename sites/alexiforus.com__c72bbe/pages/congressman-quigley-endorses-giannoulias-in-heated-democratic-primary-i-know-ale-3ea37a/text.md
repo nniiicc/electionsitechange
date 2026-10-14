@@ -36,11 +36,9 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Ban the ban, not the book?
-Giannoulias caps return with string of legislative wins, including anti-censorship law Illinois Secretary of State Alexi Giannoulias told the Sun-Times he was “blown away” after reading about book bans across the country.
-“To me, this is a slippery slope, and it goes against what education is about,” he said.
-Keep Reading → Secretary of State Giannoulias visits Peoria Illinois Secretary of State Alexi Giannoulias highlighted his plans to modernize his office in Peoria on Thursday.
-Keep Reading → Alexi Giannoulias: Illinois Secretary of State candidate answers Tribune Editorial Board questionnaire To inform voters and to help the Chicago Tribune Editorial Board make endorsements, the board posed a series of questions to the candidates running for Illinois Secretary of State.
-See how other the other candidate answered here.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
+J.B.
+Pritzker’s desk.
+Keep Reading → Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → Secretary Giannoulias & Rep.
+Ford Seek to Protect Motorists and Police by Decriminalizing Rearview Mirror Air Fresheners Illinois is one of a few states that bans items hanging from a vehicle’s rearview mirror Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

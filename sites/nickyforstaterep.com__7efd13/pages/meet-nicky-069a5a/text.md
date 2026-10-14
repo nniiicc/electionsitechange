@@ -9,4 +9,4 @@ PROVEN RESULTS As your elected Clerk of Courts, Nicky has delivered real results
 CONSERVATIVE VALUES Nicky’s leadership is rooted in the same values that built our community:​ • Faith, family, and personal responsibility • Respect for the Constitution and the rule of law • Standing with law enforcement and first responders • Protecting hardworking taxpayers from government overreach​​​​​ ​ HARRISBURG PRIORITIES Now, Nicky is ready to take that same boots-on-the-ground leadership to Harrisburg to fight for: ​ • Lower taxes and responsible spending • Safe neighborhoods and strong support for law enforcement • Parental rights and strong local schools • Protecting our freedoms — without apology ​ ​ Because in Lancaster County, we don’t just talk about conservative values.
 WE LIVE THEM.
 HOME MEET NICKY ISSUES GET INVOLVED More Use tab to navigate through the menu items.
-Paid for by Friends of Nicky Woods bottom of page
+PRIVACY POLICY Paid for by Friends of Nicky Woods bottom of page

@@ -1,0 +1,3 @@
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE News Get the latest news from the campaign trail.
+X-twitter Facebook Instagram Press Release Deadly Consequences: 18 Murdered by Criminals Roy Cooper Set Free RALEIGH – Today, the New York Post exposed a bombshell failure in Roy Cooper’s leadership.
+Nearly 50% of the inmates handpicked for Roy Cooper’s COVID-era Read More » May 6, 2026 Page 1 Page 2 Page 3 Page 4 Page 5 X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

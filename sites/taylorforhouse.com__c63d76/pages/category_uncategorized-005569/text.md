@@ -1,4 +1,6 @@
-Home About Issues Press Get Involved DONATE Category: Uncategorized National Farm Safety & Health Week Posted : Sep 21, 2026 in : Uncategorized by : admin It’s National Farm Safety & Health Week, and harvest season is here!
+Home About Issues Press Get Involved DONATE Category: Uncategorized Come Meet Rory Taylor Posted : Oct 13, 2026 in : Uncategorized by : admin Come meet Rory Taylor, candidate for Iowa House District 22, on Sunday, October 18, at 5:30 PM at the Legacy Clubhouse in Norwalk!
+This is a great opportunity to get to know Rory, ask questions, share your concerns, and talk about the issues that matter most to our community.
+Your voice matters, and we hope… National Farm Safety & Health Week Posted : Sep 21, 2026 in : Uncategorized by : admin It’s National Farm Safety & Health Week, and harvest season is here!
 As our Iowa farmers are working long hours, let’s all do our part to keep them safe.
 Slow down around farm equipment, stay alert on rural roads, and check in on the farmers and ag workers in our communities!
 Yard Signs!
@@ -22,15 +24,13 @@ Incredible young man, please take a look.
 He would be one incredible Representative for the 1st District!!
 Warren County Democrats Fall Dinner Posted : Oct 28, 2025 in : Uncategorized by : admin I had a great time speaking at the Warren County Democrats Fall Dinner last Thursday, October 23rd!
 I had the opportunity to keep the conversation going on some big issues — like how tariffs are hurting our small farmers, the true backbone of our state.
-We also talked about the need to bring healthcare access… NO KINGS Rally Posted : Oct 20, 2025 in : Uncategorized by : admin It was great getting to attend the NO KINGS rally in Indianola and Des Moines this weekend!
-1 2 3 … 5 Next → Search Search Recent Posts National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 Nations 250th Birthday!
-July 12, 2026 Recent comments admin on Yard Signs!
+We also talked about the need to bring healthcare access… 1 2 3 … 5 Next → Search Search Recent Posts Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 Yard Signs!
+August 26, 2026 Recent comments Amie on Yard Signs!
+October 13, 2026 Kirsten Piatt on Yard Signs!
+September 28, 2026 admin on Yard Signs!
 September 21, 2026 Amanda Sengbusch on Yard Signs!
 September 5, 2026 Tyler & Daniel Pierce on Get your signs!
-October 12, 2024 Mark & Haley Hanrahan on Get your signs!
-September 24, 2024 Sue van vleet on Campaign Kickoff October 21, 2023 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
+October 12, 2024 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
 Rory believes that the true measure of a leader is in service to his community- which is why he is running for Iowa House.
-Contact Info info@taylorforhouse.com Campaign Updates National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
+Contact Info info@taylorforhouse.com Campaign Updates Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
 All Rights Reserved Scroll To Top

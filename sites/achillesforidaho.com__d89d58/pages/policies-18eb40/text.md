@@ -120,7 +120,7 @@ I will support agricultural research, innovation, and science-based regulation t
 I will fight for fair trade, strong markets for Idaho products, and trade policies that protect Idaho producers from unfair foreign competition.
 I will push federal agencies to eliminate unnecessary paperwork, delays, and duplication so producers spend less time navigating government and more time running their operations.
 I will support voluntary conservation programs that protect Idaho's working farms and ranches while respecting private property rights.
-Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
-Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Saturday l 12pm - 4pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Monday - Friday l 11am - 6pm Saturday | 9am - 3pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Saturday l 11am - 2pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
 Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
 The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

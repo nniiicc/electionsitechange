@@ -12,8 +12,7 @@ Because I’m going to be a Senator for every Texan. @jamestalarico There’s al
 But that didn’t stop a huge crowd from showing up for @JamesTalarico . pic.twitter.com/hL4phHF25x — Team Talarico (@TeamTalaricoHQ) November 20, 2025 Amarillo is one of the reddest towns in Texas.
 But I showed up because our campaign is not writing off any community.
 It was standing room only. pic.twitter.com/biiJVpAvIa — James Talarico (@jamestalarico) November 6, 2025 Huge crowd for @jamestalarico in deep red San Angelo, TX!
-This county hasn’t voted for a Democrat since LBJ, but they showed up for Talarico. pic.twitter.com/ThAK6fztrk — Team Talarico (@TeamTalaricoHQ) October 13, 2025 Standing room only at @JamesTalarico ’s rally in deep red Longview, Texas tonight.
-I’ve lived in the area for my whole life… I’ve never seen a crowd like this. pic.twitter.com/5lf7m37eHN — Mason Reid (@Masonreid54) September 18, 2025 Great crowd for @jamestalarico in the small town of Hillsboro, TX!
+This county hasn’t voted for a Democrat since LBJ, but they showed up for Talarico. pic.twitter.com/ThAK6fztrk — Team Talarico (@TeamTalaricoHQ) October 13, 2025 Great crowd for @jamestalarico in the small town of Hillsboro, TX!
 The organizers said it was the biggest crowd they’ve ever seen at a political event in deep-red Hillsboro.
 This is how we win Texas. pic.twitter.com/89YawurAAF — Antonio Esparza (@AntonioAEsparza) August 24, 2025 My Priorities in the U.S.
 Senate This is not a comprehensive list!

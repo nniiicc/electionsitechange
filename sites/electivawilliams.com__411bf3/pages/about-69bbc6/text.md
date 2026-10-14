@@ -10,4 +10,4 @@ Iva has been a resident of Sandy since 2018.
 She and her husband Ben have two daughters, two dogs, and the occasional foster puppy or two (or three).
 They spend their winters skiing and summers hiking and camping.
 She also loves to travel, whether it’s near or far.
-Paid for by Iva Williams
+Paid for by Elect Iva Williams

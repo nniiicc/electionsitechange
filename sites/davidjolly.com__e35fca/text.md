@@ -21,29 +21,30 @@ Every community, from Milton and Molino to Key West.
 David and Gwen have been in every community across the state, from Milton and Molino on the Alabama border to Key West and everywhere in between, because they believe every voice in Florida deserves to be heard.
 Below you can see some of those stops, and hear from some of the friends we have met along the way.
 Tap a stop for the photos from that day, or a voice to hear it.
-The campaign, live From the Trail Latest stop Oct 2, 2026 Meaningful time in Broward County yesterday meeting with Haitian American leaders, business owners, and educators.
-My dad was dedicated to supporting this community.
-I’m honored to carry that torch forward.
-Thank you to Rep.
-Marie Woodson and for the warm welcome from all there.
-Oct 1, 2026 2 photos Great to join members of the Haitian American community in Broward County once again, alongside my friends Rep.
-Marie Woodson and Mayor Samson Borg...
-Close Oct 1, 2026 Great to join members of the Haitian American community in Broward County once again, alongside my friends Rep.
-Marie Woodson and Mayor Samson Borgelin.
-The Haitian community is an integral part of our state's fabric.
-Together, we'll build a better Florida for everyone.
-Open this stop on its own Oct 1, 2026 4 photos Delighted to stand beside Bishop Marvin C.
-Zanders, II and join the AME conference at Mount Hermon AME Church in Fort Lauderdale.
-Thank you for ha...
-Close Oct 1, 2026 Delighted to stand beside Bishop Marvin C.
-Zanders, II and join the AME conference at Mount Hermon AME Church in Fort Lauderdale.
-Thank you for having us!
-Open this stop on its own Sep 27, 2026 2 photos Great to be with the Broward County Democrats today, and thank you to the Senior Caucus for hosting and always showing up.
-Close Sep 27, 2026 Great to be with the Broward County Democrats today, and thank you to the Senior Caucus for hosting and always showing up.
-Open this stop on its own Sep 27, 2026 2 photos Beautiful morning at Friendship Missionary Baptist Church in West Palm.
-Thank you for your grace and kindness.
-Close Sep 27, 2026 Beautiful morning at Friendship Missionary Baptist Church in West Palm.
-Thank you for your grace and kindness.
+The campaign, live From the Trail Latest stop Oct 12, 2026 A jam-packed house last night in Jefferson County!
+The room was filled with excitement, enthusiasm, and hope for Florida’s future.
+Thank you to everyone who came out! 😊 Oct 12, 2026 4 photos Congressman Clyburn joined us this afternoon to meet with FSU and FAMU student leaders.
+Thank you for helping build a brighter future for Florida.
+Close Oct 12, 2026 Congressman Clyburn joined us this afternoon to meet with FSU and FAMU student leaders.
+Thank you for helping build a brighter future for Florida.
+Open this stop on its own Oct 12, 2026 4 photos Proud to spend the afternoon in Tallahassee with Gwen, Laura, Jim Clyburn, Al Lawson, and everyone who joined us for lunch and our press conference...
+Close Oct 12, 2026 Proud to spend the afternoon in Tallahassee with Gwen, Laura, Jim Clyburn, Al Lawson, and everyone who joined us for lunch and our press conference.
+We’re working for a Florida where a paycheck covers the bills, a good education opens doors, and families can see a future here.
+Thank you for being part of it.
+Watch the full press conference on our YouTube channel under the “Live” tab.
+Open this stop on its own Oct 12, 2026 3 photos Gadsden County, thank you for a seat at the breakfast table and a chance to earn your trust.
+Grateful to have Jim Clyburn alongside us this morning...
+Close Oct 12, 2026 Gadsden County, thank you for a seat at the breakfast table and a chance to earn your trust.
+Grateful to have Jim Clyburn alongside us this morning.
+Showing up matters.
+Listening matters.
+And I intend to keep doing both long after Election Day.
+Open this stop on its own Oct 11, 2026 5 photos A special service this morning at the historic Bethel Baptist Missionary Church in Tallahassee, where we joined Rev.
+Al Sharpton to honor our frien...
+Close Oct 11, 2026 A special service this morning at the historic Bethel Baptist Missionary Church in Tallahassee, where we joined Rev.
+Al Sharpton to honor our friend, Pastor R.B.
+Homes Jr., on his 40th anniversary with the church.
+A heartfelt thanks to the congregation for their warm and gracious welcome.
 Open this stop on its own See more from the trail Meet David A fifth-generation Floridian.
 A person of deep faith, David Jolly believes everyone deserves a shot at work, wages, and wealth, and that their rights should be protected and their dignity celebrated, regardless of the color of their skin, where they were born, who they love, or who they worship.
 David is a former Member of Congress, attorney, and nationally recognized television analyst who launched his bid for Governor in June of 2025.

@@ -1,4 +1,6 @@
-Campbell for Congress Home The Reality Who Am I The Plan Get Involved Campbell for Congress Home The Reality Who Am I The Plan Get Involved The Reality Americans, by and large agree, their trust in Congress is at an all time low.
+Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved Campbell for Congress Home Let's Fix...
+The Reality Who Am I The Plan Get Involved The Reality Americans, by and large agree, their trust in Congress is at an all time low.
 Recent polls indicate only 15% of us believe they are acting in our best interest.
 For an electorate that is split essentially 50/50, this is more than a single party issue.
 Politicians have made ruling and remaining in power more important than the daily struggles of the majority of Americans.

@@ -2,13 +2,14 @@ Skip to content Skraba MN HOUSE Meet Roger : Priorities : Endorsements : Support
 Paul.
 Northern Minnesota’s voice, grounded in local values and long-standing relationships, is heard every day.
 I am honored to continue serving you in the House of Representatives and welcome your feedback.
-Skraba for House skrabaforhouse 2026-09-26T18:07:45-05:00 Serving You in District 3A As your State Representative, I’m here to listen, work hard, and keep your community’s priorities front and center in St.
+Skraba for House skrabaforhouse 2026-10-13T18:49:47-05:00 Serving You in District 3A As your State Representative, I’m here to listen, work hard, and keep your community’s priorities front and center in St.
 Paul.
-Meet Roger J.
+See what I’ve helped deliver Meet Roger J.
 Skraba I’m Roger J.
 Skraba, and I serve as your Minnesota State Representative for District 3A , representing Koochiching, St.
 Louis, Lake, and Cook counties.
 As your representative, I focus on listening to our communities and standing up for the values that matter here in Northern Minnesota.
+Here are the projects I’ve helped secure for our communities.
 My public service includes time as Mayor of Ely, three terms on the Ely City Council, and years of service to our region.
 I’ve also worked as a wilderness guide and carpenter, and served nine years in the U.S.
 Army.
@@ -20,7 +21,7 @@ I’m honored to continue serving District 3A in the Minnesota House of Represen
 Working for District 3A The priorities of Northern Minnesota are heard and respected at the Capitol, reflecting our values, our communities, and our unique way of life.
 I focus on the issues I hear about most from people across District 3A.
 I am honored to continue serving you in the House of Representatives.
-Supporting local representation on the Iron Range. $# $# $# $# $# Other * Clicking a button will direct you to WinRed , a secure platform to complete donations.
+See what I’ve helped deliver Supporting local representation on the Iron Range. $# $# $# $# $# Other * Clicking a button will direct you to WinRed , a secure platform to complete donations.
 If you prefer to donate by check, please make payable to “Skraba for House” and mail to: Skraba for House, P.
 O.
 Box 152, Ely, MN 55731 Supporting local representation on the Iron Range. $# $# $# $# $# Other * Clicking a button will direct you to WinRed , a secure platform to complete donations.
@@ -31,6 +32,7 @@ Skraba I’m Roger J.
 Skraba, and I serve as your Minnesota State Representative for District 3A , representing Koochiching, St.
 Louis, Lake, and Cook counties.
 As your representative, I focus on listening to our communities and standing up for the values that matter here in Northern Minnesota.
+Here are the projects I’ve helped secure for our communities.
 My public service includes time as Mayor of Ely, three terms on the Ely City Council, and years of service to our region.
 I’ve also worked as a wilderness guide and carpenter, and served nine years in the U.S.
 Army.

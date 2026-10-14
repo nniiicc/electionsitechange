@@ -1,4 +1,4 @@
-top of page Donate Join the Team Home Meet Ian Priorities Endorsements Merch News Ian Baltutis Democratic Candidate for NC House 63 Ian Baltutis is a Master City Planner and entrepreneur with over a decade of public service to Alamance County.
+top of page Donate Join the Team Home Early Voting Schedule Meet Ian Priorities Endorsements Merch News Ian Baltutis Democratic Candidate for NC House 63 Ian Baltutis is a Master City Planner and entrepreneur with over a decade of public service to Alamance County.
 From 2015 to 2021, Ian served as Burlington's youngest-ever mayor for three terms.
 He led downtown revitalization, expanded parks, and launched the LINK Transit regional bus system.
 After his time as mayor, he earned a Master's in City and Regional Planning from UNC-Chapel Hill so he could bring real technical expertise to the toughest budget, housing, and infrastructure challenges.

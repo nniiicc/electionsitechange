@@ -1,5 +1,5 @@
 0 Skip to Content Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Data Centers: Who Pays for the Tax Breaks?
-Jun 16 Written By Michelle Schreiner An aerial view of Doug Fergus in his backyard in Fayetteville, Georgia, where a new power line was installed to meet the increased demands of electricity.
+Jun 16 Written by Michelle Schreiner An aerial view of Doug Fergus in his backyard in Fayetteville, Georgia, where a new power line was installed to meet the increased demands of electricity.
 Credit: Ang Li, Mark Boyer, Arthur Thompson and Rafaela Balster from the New York Times.
 This post is Part 2 of a series exploring data centers, artificial intelligence, and Georgia's future.
 In Part 1 , I examined the questions Georgia should answer before approving additional large-scale data center development, including impacts on energy demand, water resources, infrastructure, and local communities.

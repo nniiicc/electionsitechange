@@ -9,6 +9,6 @@ Known for his honest commentary and common-sense leadership on WNIR, Carey under
 He is running for Congress to restore fiscal discipline, secure our borders, defend constitutional freedoms, support law enforcement, and ensure parents have a strong voice in their children’s education.
 Carey believes leadership means listening, telling the truth, and delivering results, not empty promises, and is committed to putting Ohio first and bringing accountability back to Washington.
 Paid for by Carey Coleman for Congress P.O.
-Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+Box 560222 Macedonia, OH 44056 Facebook-f Instagram X-twitter Youtube Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
 All rights reserved.
 Terms of Service Privacy Policy Terms of Service Privacy Policy

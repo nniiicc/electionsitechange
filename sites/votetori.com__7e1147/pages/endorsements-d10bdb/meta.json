@@ -1,9 +1,10 @@
 {
  "description": "votetori.com's campaign",
  "final_url": "https://www.votetori.com/endorsements",
- "fingerprint": "06cb88fa42045a4ac9bc4bc9842ad2331cd316f5",
+ "fingerprint": "08823467fa4528683659f335beabe326b3b953c8",
  "format": 3,
  "paid_for_by": "Paid for by Tori Schafer for Missouri",
+ "rendered": false,
  "title": "Endorsements — votetori.com",
  "years_mentioned": []
 }

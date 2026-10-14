@@ -1,6 +1,10 @@
 Skip to content Mike Noack for Congress About Mike Contact District Resources Get Involved Issues Mike Noack for Congress News News Bonfield, Illinois — IL-2 michaeln@noack4congress.com Noack for Congress Illinois’ 2nd District Home About Mike Issues Get Involved District Resources News Contact Donate Home › News Campaign News & Updates The latest from the trail — policy, events, and the fight for IL-2 Stay in the Loop Through November The general election is November 3.
 Get campaign news, event invites, and policy announcements delivered straight to your inbox — so you’re never the last to know.
-Get Updates Campaign Update February 15, 2026 It’s Official: Mike Noack Files to Challenge the Status Quo in IL-2 The paperwork is signed, the fight is on.
+Get Updates 3:06 In the News October 6, 2026 CBS News Chicago Covers the Race for IL-2 Rep.
+Robin Kelly is stepping down, and the 2nd District seat is open this November.
+CBS News Chicago talked with both candidates on the ballot about the very different approaches they would bring to Washington.
+Video: CBS News Chicago.
+Watch on YouTube Campaign Update February 15, 2026 It’s Official: Mike Noack Files to Challenge the Status Quo in IL-2 The paperwork is signed, the fight is on.
 Bonfield native Mike Noack filed for the Republican primary in Illinois’ 2nd Congressional District — bringing a working-class voice to a race dominated by career politicians who forgot who they work for.
 Policy February 10, 2026 Your Property Tax Bill Is Too High.
 Here’s Mike’s Plan to Fix It.

@@ -1,10 +1,8 @@
 top of page Home Meet Pat Record of Results Endorsements Events News Chat With Pat Pat Fahy for State Senate DONATE Request a Lawn Sign!
-Senator Patricia Fahy Writer Follow More actions Profile Profile Join date: Nov 10, 2025 Posts (41) Oct 8, 2026 ∙ 1 min Fahy, McDonald Introduce Legislation to Cut the Red Tape and Streamline the Human Service Provider Background Check Process Today, Senator Patricia Fahy (D—Albany) and Assemblymember John T.
+Senator Patricia Fahy Writer Follow More actions Profile Profile Join date: Nov 10, 2025 Posts (42) Oct 13, 2026 ∙ 1 min Senator Fahy Announces $10,000 Grant for Postage Stamp Ping Pong Senator Patricia Fahy announced that $10,000 in operating funds were secured through her office for Postage Stamp Ping Pong Inc., a 501c3 not for profit charitable organization in Albany devoted to serving the community through the joy of chess and ping pong at 48 Central Avenue.
+0 0 Oct 8, 2026 ∙ 1 min Fahy, McDonald Introduce Legislation to Cut the Red Tape and Streamline the Human Service Provider Background Check Process Today, Senator Patricia Fahy (D—Albany) and Assemblymember John T.
 McDonald III, RPh (D—Cohoes) were joined by Bill Gettman from Northern Rivers and human services providers to highlight Fahy/McDonald legislation (S10320/A11424), a bill that seeks to streamline the background check process for human services providers.
 1 0 Oct 5, 2026 ∙ 1 min Albany Times Union: More than 80% of NY's home-schooled students are chronically absent More than 80% of students who transitioned to home schooling in New York have been chronically absent in recent years.
 It highlights a breakdown in a system that was further exposed in the case involving four Mechanicville children who were pulled out of school two years ago and later murdered by their mother and maternal grandmother.
-14 0 Oct 5, 2026 ∙ 1 min Senator Fahy Announces $50,000 Grant for Rotterdam-Carman Little League for Updated Turf and New Batting Cages Senator Patricia Fahy announced that $50,000 in capital funds were secured through her office for Rotterdam-Carman Little League (RC Little League).
-Formerly Rotterdam and Carman Little Leagues, the groups merged in 2014 to form RC Little League.
-Carman Little League dates back decades in the Capital Region and had a famous Little League World Series run in 1977.
-1 0 Load More Friends of Patricia Fahy 2026, P.O.
+15 0 Load More Friends of Patricia Fahy 2026, P.O.
 Box 8282, Albany, NY 12208 pat@patriciafahy.com ​ ​Accessibility Statement © # by Friends of Patricia Fahy 2026. bottom of page

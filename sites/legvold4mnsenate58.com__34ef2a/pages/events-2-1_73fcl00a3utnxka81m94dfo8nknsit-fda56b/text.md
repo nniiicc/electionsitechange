@@ -5,6 +5,4 @@ Just bring a laptop or tablet and a charged smartphone!
 Did we mention pizza?
 Fortify yourself with a slice while you work!
 Previous Previous October 16 Legvold for Minnesota - Farmington Door Knock with CD2 Congresswoman Angie Craig!
-Next Next October 17 Legvold for Minnesota - Rosemount Door Knock with Senator Erin Maye Quade and Rep.
-Huot!
-Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Next Next October 17 Get Out The Vote Doorknock in Northfield Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

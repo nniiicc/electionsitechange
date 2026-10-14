@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Morgan Anker February 4, 2026 Ricks, Camacho Bill to Create Jobs and New Small Businesses Passes Committee Morgan Anker February 4, 2026 DENVER, CO - The House Business Affairs and Labor Committee today passed legislation to expand eligibility for the successful CLIMBER (Colorado Loans to Increase Mainstreet Business Economic Recovery) program to better equip small businesses for success, create more good-paying jobs, and support local economies.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Morgan Anker February 4, 2026 Ricks, Camacho Bill to Create Jobs and New Small Businesses Passes Committee Morgan Anker February 4, 2026 DENVER, CO - The House Business Affairs and Labor Committee today passed legislation to expand eligibility for the successful CLIMBER (Colorado Loans to Increase Mainstreet Business Economic Recovery) program to better equip small businesses for success, create more good-paying jobs, and support local economies.
 HB26-1003 passed by a vote of 10-3.
 “Colorado Democrats believe in fostering an economy where small businesses and hardworking people can thrive, and our bill would help equip small businesses with the resources to create more good-paying jobs and flourish in their communities,” said Rep.
 Naquetta Ricks, D-Aurora.

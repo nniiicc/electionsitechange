@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus Don Wagner On Petition Fraud: I Will Make Sure It Is Prosecuted To The Fullest Extent Of The Law Orange County, CA -- Earlier this week a shocking scandal caught the eyes of political insiders across the spectrum when a video surfaced of a group of individuals paying $5 per signature to people on the streets to qualify petitions.
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus Don Wagner On Petition Fraud: I Will Make Sure It Is Prosecuted To The Fullest Extent Of The Law Orange County, CA -- Earlier this week a shocking scandal caught the eyes of political insiders across the spectrum when a video surfaced of a group of individuals paying $5 per signature to people on the streets to qualify petitions.
 Worse yet, the video appeared to show the organizers telling individuals to use other voter names when signing.
 You can watch the story HERE .
 In response Orange County Supervisor Don Wagner made the following statement: “It is no wonder voters are losing faith in our elections.

@@ -15,6 +15,6 @@ Limited government is good government.
 I will be a tireless advocate for you.
 I pledge to communicate openly, honestly, and frequently because you deserve a Senator who listens to you, shares your beliefs, and voices your concerns.
 I hope I can earn your support.
-Jill Tell me what issue(s) matter most to you and your family Please fill out this contact form and I will get back to you as soon as I can!
+Jill Delivering Results by Holding Corporations Accountable View Her Legislative Impact Tell me what issue(s) matter most to you and your family Please fill out this contact form and I will get back to you as soon as I can!
 Feel free to give me a call at (385) 244-0170 .
 Site Information Copyright # All Rights Reserved Privacy Policy Stay Connected With Jill Paid for by the Jill Koford Campaign

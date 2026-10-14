@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Volunteer Contact Donate About Endorsements Volunteer Contact Donate reach out We’ll respond asap!
+Skip navigation menu About Endorsements Volunteer Positions Contact Donate About Endorsements Volunteer Positions Contact Donate reach out We’ll respond asap!
 On the sidebar options, make sure to set up where form submissions go - the simplest is email, but your form can also be linked to various other services.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Send us a message!
 Send us a message!

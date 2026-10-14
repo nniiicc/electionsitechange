@@ -27,17 +27,18 @@ To those who want mass removal, I’d ask: what is your actual, physically achie
 Separately, I believe our overall legal immigration quotas are too low, and I support increasing them.
 But that must happen through legislation, debated openly in Congress, with the American people persuaded on the merits, not through executive workarounds.
 Sidestepping that debate is part of what has fueled a broader backlash against legal immigration itself.
-Why this Should Concern Every American, not Just the Undocumented Following passage of the 2026 budget reconciliation bill, ICE received roughly $45 billion for new detention capacity, on top of billions more for enforcement, making it the largest-funded federal law enforcement agency in the country.
-Internal planning documents describe $38.3 billion in warehouse conversions, including eight “mega-centers” holding up to 10,000 people each, plus sixteen regional processing sites.
-Detention capacity has grown from under 40,000 people at the start of this administration to roughly 70,000 today, with a stated goal of adding another 100,000 beds by the end of November 2026.
+Why this Should Concern Every American, not Just the Undocumented Following passage of the One Big Beautiful Bill Act in July 2025, ICE received roughly $45 billion for new detention capacity, on top of billions more for enforcement, making it the largest-funded federal law enforcement agency in the country.
+Internal planning documents describe a $38.3 billion plan to buy and convert warehouses, including eight “mega-centers” holding up to 10,000 people each, plus sixteen regional processing sites.
+The number of people in ICE detention has grown from under 40,000 at the start of this administration to a peak of roughly 70,000 earlier this year, with a stated goal of holding about 100,000 people at a time.
 Large-scale detention infrastructure, once built, doesn’t disappear when the original justification for it fades, and it doesn’t limit itself to the population it was built for.
 American history has examples of exactly this: the same government machinery used to intern Japanese Americans during World War II wasn’t purpose-built for that; it was adapted from existing authority and infrastructure.
 That’s not a partisan claim about any single president.
 It’s a pattern in how unchecked government capacity tends to get used over time.
 This ICE detention infrastructure could be used against anti-war protesters or draft resisters in a future conflict.
-This is not just theoretical, given the current trend of events there is a serious possibility President Trump will send ground troops to invade Iran and that likely would require reinstituting the draft.
+This is not just theoretical.
+Given the current trend of events, there is a serious possibility President Trump will send ground troops to invade Iran, and that would likely require reinstituting the draft.
 If you are an advocate for the Second Amendment, aren’t you concerned about the risk this ICE detention infrastructure poses to lawful gun owners in the event of a crisis in which a president invokes emergency powers?
-A government on track to reach 170,000 detention beds will have built a tool that will outlast the political moment that created it.
+A government on track to detain 100,000 people at a time will have built a tool that will outlast the political moment that created it.
 Join the campaign for a fresh voice for Virginia’s 10th Whatever your experience level, we would love to hear from you if you are interested in joining the campaign.
 Please fill out this form.
 Name * Email * Phone number Interested in Phone banking Digital Canvassing Social media Fundraising Operations Communications Other I agree to receive text messages By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.

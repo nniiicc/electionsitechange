@@ -11,7 +11,8 @@ Donate!
 Watch Now lower taxes, LOWER HOUSEHOLD COSTS, HOLD EVERSOURCE ACCOUNTABLE An Independent Voice for All of Us Jack Perry built a small business from a pickup truck, created local jobs, and knows what it means to make payroll.
 He is running to lower the costs that hit home, hold Eversource accountable for high electricity bills, and put our communities ahead of party politics.
 MEET JACK JOIN TEAM PERRY CHALLENGE ACCEPTED statement Jack Perry Ready to Debate Sampson’s Record View More Support Our Campaign We’re grateful for your donations!
-Your contributions help us reach more voters. $ 5 $ 25 $ 50 $ 100 $ 1000 Other $ 5 $ 25 $ 50 $ 100 $ 1000 Other donate by mail Perry 2026 If you wish to donate by mail, please print and complete this contribution form and mail it with your donation to: Perry 2026, 1614 Meriden Avenue, Southington, CT 06489 For the People Who Built this District I started my first business at 18 with a pickup truck and a plan I wrote in high school.
+Your contributions help us reach more voters. $ 5 $ 25 $ 50 $ 100 $ 1000 Other $ 5 $ 25 $ 50 $ 100 $ 1000 Other donate by mail Perry 2026 If you wish to donate by mail, please print and complete this contribution form and mail it with your donation to: Perry 2026, 1614 Meriden Avenue, Southington, CT 06489 Thank you!
+For the People Who Built this District I started my first business at 18 with a pickup truck and a plan I wrote in high school.
 I built it from nothing, hired 50 people, and put their health insurance ahead of buying new equipment.
 I served on the Southington Town Council for the same reason I'm running now: to fight for the people I live next to.
 Your electric bill keeps climbing while Eversource posts record profits.

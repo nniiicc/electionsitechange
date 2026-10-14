@@ -1,4 +1,4 @@
-top of page Home The Issues Events Volunteer Donate The Issues 1/12 Bring Back Manufacturing Preserving Our Lands And Family Farms Reward Hard Work Freedom From Medical Tyranny Bring Back Manufacturing!
+top of page Home The Issues Events Volunteer Donate The Issues 1/13 Bring Back Manufacturing Preserving Our Lands And Family Farms Reward Hard Work Freedom From Medical Tyranny Bring Back Manufacturing!
 We will unleash American ingenuity to bring jobs home.
 By investing in next-gen biofuels and regenerative materials, expanding trade schools, and building skilled workers up, we can create supply chains that start and end in the USA.
 This allows expansion into other fields such as building cheaper farm equipment and renewable energy.

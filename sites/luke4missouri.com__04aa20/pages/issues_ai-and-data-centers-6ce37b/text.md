@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: AI and Data Centers This issue is more important than my campaign and affects everyone, so please read, share or talk to other people about this.
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: AI and Data Centers This issue is more important than my campaign and affects everyone, so please read, share or talk to other people about this.
 I want to get the word out to everyone, I think this is an issue both parties can agree on.
 For those that don’t know what a data center is it is a large building with thousands of computer chips running constantly mostly to train AI.
 There are currently 4,000 data centers in the country and 2,700 more planned to open.

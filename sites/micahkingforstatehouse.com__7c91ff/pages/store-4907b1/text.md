@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Official Store Every purchase is an investment in our movement.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Official Store Every purchase is an investment in our movement.
 When you grab official gear, you're directly funding our fight to lower costs and bring real economic improvement to District 157.
 Shop the Collection Supporters at the Glennville Sweet Onion Parade — Read the story → Funds the Campaign 100% of all proceeds go directly to funding our fight for District 157.
 Quality & Sustainable Made with responsibly sourced cotton and low-impact dyes.

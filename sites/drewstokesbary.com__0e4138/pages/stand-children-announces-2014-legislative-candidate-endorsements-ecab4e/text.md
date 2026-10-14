@@ -10,7 +10,5 @@ Education champions must ensure the legislature is making wise investment decisi
 Protect local control of school funding.
 In a time when education dollars are scarce, the legislature turned down control of more than $40 million last year because they refused to include student test scores as only one factor among many in teacher evaluations – a policy that a vast majority of Washington voters support.
 Read more at stand.org .
-Endorsements More For You Unanimous endorsement from State Patrol Troopers Association Endorsements Tacoma News Tribune profiles Rep.
-Stokesbary’s efforts to relieve Sumner traffic In the News The Times recommends: Rep.
-Drew Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You Rep.-elect Stokesbary named to House committees In the News Auburn’s Stokesbary elected to state House In the News Third major police group backs Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

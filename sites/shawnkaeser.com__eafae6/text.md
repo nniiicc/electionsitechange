@@ -4,7 +4,7 @@ Vote for a Voice that Counts!
 Shawn Kaeser for District 11 A Teacher for a Change Our community deserves a voice when decisions are made at the Statehouse about our schools, our property taxes, and our future.
 Currently, we have no seat at the table .
 Shawn Kaeser is running to change that.
-As a trusted Dublin teacher for 31 years and a father of 9, Shawn has the deep roots and the practical experience to deliver real tax relief, stronger schools, and the affordability our families need.
+As a trusted Dublin teacher for 32 years and a father of 9, Shawn has the deep roots and the practical experience to deliver real tax relief, stronger schools, and the affordability our families need.
 Don’t let our community be irrelevant in Ohio government.
 Dublin and Hilliard should be helping lead the conversation.
 The Issues The issues affecting Ohio families are the same ones Shawn lives every day.

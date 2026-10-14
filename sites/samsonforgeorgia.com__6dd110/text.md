@@ -1,4 +1,4 @@
-ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Get Notifications ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Housing, Healthcare & an Economy for ALL Mathewos Samson is a community organizer, Democratic Socialist, and lifelong Atlantan running for State House District 58 to make Georgia work for working families — not just the billionaires.
+ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Get Notifications ABOUT VOTE ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE Housing, Healthcare & an Economy for ALL Mathewos Samson is a community organizer, Democratic Socialist, and lifelong Atlantan running for State House District 58 to make Georgia work for working families — not just the billionaires.
 Vote Mathewos on November 3rd!
 Leave this field blank Submit By providing your phone number, you agree to receive text messages from Samson For Georgia.
 Message and data rates may apply.
@@ -35,7 +35,9 @@ Are you in House District 58?
 Our district includes Westview, Harris Chiles, Ashview Heights, Atlanta University Center, Castleberry Hill, Vine City, Downtown, Old Fourth Ward, Inman Park, Poncey-Highland, Cascade Heights, Southwest Atlanta, Laurens Valley, Campbellton Rd., Adams Park, Venetian Hills, parts of Ben Hill, Oakland City, Bush Mountain, and the West End.
 Volunteer With the Campaign We need your help to reach every possible voter before election day!
 Let's Do This Donate We are a people-powered campaign, which means we refuse corporate PAC money.
-We’re relying on grassroots supporters like you ! $30 $60 $120 $250 $500 Other Support Our Campaign We refuse corporate PAC money, which means we’re relying on grassroots supporters like you! $10 $25 $50 Other English Get Notifications Reach Mathewos: info@samsonforgeorgia.com or 404-254-2424 Contact Us Paid for by Samson for Georgia Made in Solidarity Tech Stay Connected Get instant updates delivered to your device.
+We’re relying on grassroots supporters like you ! $30 $60 $120 $250 $500 Other We refuse corporate PAC money, which means we’re relying on grassroots supporters like you!
+Our next campaign finance deadline is October 20th.
+Donate today to keep the campaign running! $10 $25 $50 Other English Get Notifications Reach Mathewos: info@samsonforgeorgia.com or 404-254-2424 Contact Us Paid for by Samson for Georgia Made in Solidarity Tech Stay Connected Get instant updates delivered to your device.
 One More Step!
 Your browser will ask for permission.
 Tap Allow to finish signing up.

@@ -1,4 +1,8 @@
-Skip to content The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates September 23, 2025 Press Release District Attorney Scott Colom Joins MeidasTouch to Talk About Mississippi’s U.S.
+Skip to content The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates October 6, 2025 Press Release District Attorney Scott Colom Spends Weekend Traveling the State, Talking to Mississippians FOR IMMEDIATE RELEASE October 6, 2025 Scott attended events in Oktibbeha, Lowndes, and Rankin Counties this weekend.
+Columbus, MS – Over the weekend, U.S.
+Senate Candidate and District Attorney Scott Colom traveled across Mississippi, talking to voters on key issues, such as rising costs in healthcare and bringing good jobs back to Mississippi for young people.
+Colom […] ...
+Read More September 23, 2025 Press Release District Attorney Scott Colom Joins MeidasTouch to Talk About Mississippi’s U.S.
 Senate Race FOR IMMEDIATE RELEASE September 23, 2025 Scott talked about fighting for the working families of Mississippi while calling out the hypocrisy of Senator Cindy Hyde-Smith.
 Columbus, MS – U.S.
 Senate Candidate and District Attorney Scott Colom joined MediaTouch with host Ben Meisalas to talk about his United States Senate run.

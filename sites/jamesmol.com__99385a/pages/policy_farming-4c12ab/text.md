@@ -1,7 +1,8 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
 James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / Farming PLATFORM | PILLAR TWO Farming viability Preserving land and keeping farms in business are not the same thing.
-What I Will Do Download the one-pager (PDF) In one Minute Connecticut has roughly 400,000 acres of working farmland left, and the pace of preservation is slowing.
+What I Will Do Download the one-pager (PDF) Congressman Joe Courtney joined James Mol at his farm in West Suffield to talk about the future of farming in our district: protecting farmland, helping the next generation of farmers get started, and keeping farms viable as working businesses.
+In one Minute Connecticut has roughly 400,000 acres of working farmland left, and the pace of preservation is slowing.
 The barrier for the next generation of farmers is not interest.
 It is price: land sells at development value, and a young farmer cannot outbid a developer. ​ Hartford has done real work here.
 The 2025 farm bill raised the municipal farm property tax exemption from $100,000 to $250,000 and created a 20 percent investment tax credit.

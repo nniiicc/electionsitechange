@@ -24,9 +24,9 @@ In addition, the top item on our agenda – illegal immigration reforms – move
 It is a sweeping package of reforms that requires law enforcement to determine the legal status of any person arrested for committing a crime, prohibits sanctuary cities, prohibits college admission and scholarships for illegal aliens, and prohibits paying public benefits and public employment for illegal aliens.
 The bill also makes it a felony to possess false identification papers, but provides safeguards for businesses that unknowingly hire illegal immigrants that use falsified Social Security or other documents.
 This debate should occur next Wednesday and will probably be the first legislation that receives lengthy discussion from both sides of the aisle.
-Post navigation 2008 CONSTITUENT SURVEY House passes Earmark Reform rule change Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Post navigation 2008 CONSTITUENT SURVEY House passes Earmark Reform rule change Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

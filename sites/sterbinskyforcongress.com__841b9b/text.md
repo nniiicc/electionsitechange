@@ -1,6 +1,7 @@
 top of page Menu Close Policy Volunteer Endorsers Contact Privacy Policy Policy Volunteer Endorsers Contact Privacy Policy DONATE NOW Dani's ONE OF US Why Sterbinsky?
 Dani is the Democratic nominee for the U.S.
-House of Representatives in Arizona’s 9th Congressional District, bringing principled, pragmatic, and trustworthy leadership to western Arizona.
+House of Representatives in Arizona’s 9th Congressional District.
+She brings principled, pragmatic, and trustworthy leadership to western Arizona.
 Dani’s Mission (and Solution): Focus on People First - Never DC Politics Raise the Standard and Lower the Temperature Deliver Real Results for AZ ​ A Navy veteran, working mom, and Arizona neighbor running to bring service-first, results-driven leadership to AZ-09.
 "We deserve a representative who sees us, who listens to us, and who works as hard as we do." ​ - Dani Sterbinsky ​ Meet Dani ​ Dani is one of us—a working mom, U.S.
 Navy veteran, and trusted neighbor.
@@ -20,8 +21,8 @@ Join Dani’s people-powered campaign today.
 And please vote Sterbinsky for Congress!
 What's Important?
 We the People ​ "We the People" is how the Constitution starts and it's still the whole idea. ​ The government is supposed to work for us, because it is us.
-We have more power than Washington wants us to believe.
-Dani believes that decisions get made by the people who show up, so this campaign is about encouraging our neighbors to show up.
+We truly have more power than Washington wants us to believe.
+Dani knows that decisions get made by the people who show up, so this campaign is about encouraging our neighbors to show up.
 Use your voice and your vote because this is your district. ​ Politicians in Washington are out of touch with the people it's supposed to serve. ​ Dani isn't and her pledge is simple: do the work, show up, own the results, and answer to you.​ ​ Your voice counts — the people who show up make the decisions Own it together — this is our government, our district, our future to build Bring people together — real solutions come from neighbors working together We the People Amendment – overturning Citizens United, ending corporate personhood, and declare that money is not speech ​ ​ Outcome: A representative who sees you, listens to you, and works as hard as you do.
 Affordability The basics are getting harder to afford, and most families in this district feel it. ​ A roof, decent work, care when you're sick, and a fair shot for your kids; those are the basics of a dignified life, and right now too many of them are slipping out of reach.
 Costs are up and paychecks haven't kept pace. ​ Dani will work to: ​ Keep families housed — help first-time buyers with down-payment support, provide rental assistance Bring down childcare costs — work toward affordable, quality childcare so no parent has to choose between a paycheck and caring for their kids Lower health care costs — lower prescriptions cost, cut waste and middlemen, and offer a public option so families have affordable coverage Make work pay — support small businesses and gig workers, raise the federal minimum wage, and back local jobs that pay fairly Take on monopolies and price-fixing — break up corporate consolidation and crack down on algorithmic price fixing ​ Outcome: Fewer families one bad month away from falling behind.

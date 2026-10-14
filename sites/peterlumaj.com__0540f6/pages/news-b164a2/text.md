@@ -33,4 +33,4 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Jeff Caggiano Former Mayor of Bristol "The Secretary of the State interacts with a wide range of individuals, including voters, businesses, other government officials, and the public, requiring strong communication and interpersonal skills, which Peter has been able to demonstrate in his business and political experience." View all endorsements →
+ENDORSED BY Selim Noujaim Former State Representative (Waterbury) "Honestly, dedication, expertise, and know-how are traits that Peter Lumaj will bring along to the office of Connecticut’s Secretary of the State." View all endorsements →

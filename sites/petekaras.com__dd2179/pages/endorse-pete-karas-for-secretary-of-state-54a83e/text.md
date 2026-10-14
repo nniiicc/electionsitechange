@@ -18,5 +18,5 @@ I would like to receive emails updating you on Pete's Campaign!
 Required field!
 By checking this box you agree that your written statement and/or photo may be shared publicly in print and digital formats. * Required field!
 I Agree Endorse Pete Karas for Secretary of State!
-Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

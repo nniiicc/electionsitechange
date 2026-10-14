@@ -20,7 +20,7 @@ Supporting Our Veterans IL-12 is home to thousands of veterans who deserve timel
 Learn Julie's Priorities GET INVOLVED Volunteer, donate, or follow Julie's events, appearances, and town halls around IL 12.
 Get Involved ‹ › Fundraiser Town Hall Other Sun Mon Tue Wed Thu Fri Sat Loading events...
 Unable to load events.
-Please try again. × 📅 📍 ‹ › Proud Endorsements Organizations Standing with Julie AFL-CIO Illinois AFSCME Illinois Democrats Abroad Veterans & Military Families Caucus Sierra Club (National) Illinois Veterans for Change College Democrats of EIU Gun Sense Voter Citizens Action Illinois Courage Candidate Progressive Democrats of America Downstate Illinois Laborers' District Council Illinois Federation of Teachers Home About Julie Priorities Get Involved Store Donate Bluesky Streamline Icon: https://streamlinehq.com P.O.
+Please try again. × 📅 📍 ‹ › Proud Endorsements Organizations Standing with Julie AFL-CIO Illinois AFSCME Illinois Democrats Abroad Veterans & Military Families Caucus Sierra Club (National) Illinois Veterans for Change College Democrats of EIU Gun Sense Voter Citizens Action Illinois Courage Candidate Progressive Democrats of America Downstate Illinois Laborers' District Council Illinois Federation of Teachers Alliance for Retired Americans ﻿ Home About Julie Priorities Get Involved Store Donate Bluesky Streamline Icon: https://streamlinehq.com P.O.
 Box 34, O'Fallon, IL 62269 PAID FOR BY JULIE FORTIER FOR CONGRESS © # Julie Fortier for Congress.
 All rights reserved.
 This campaign is grassroots & volunteer-driven.

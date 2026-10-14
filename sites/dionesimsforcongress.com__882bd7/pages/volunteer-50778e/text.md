@@ -2,7 +2,13 @@ Meet Dione Issues Key Moments Opal's Legacy Endorsements Volunteer Media Is This
 Get Involved Donate Now Breaking News Former Vice President Kamala D.
 Harris Endorses Dione Sims for Congress Read the official announcement Volunteer With Us Every volunteer makes a difference.
 Join our team and help bring change to TX-25.
-Complete the Volunteer Intake Form Show your support Yard signs are here — ready for pickup!
+Complete the Volunteer Intake Form Volunteers needed Walk the Block with Dione Sims Join Dione Sims to meet our neighbors, share our vision, and get out the vote.
+Give a morning.
+Make a difference.
+Bring a friend!
+Saturday, October 17, 2026 at 9:30 a.m.
+6573 Winifred Dr., Fort Worth, TX 76133 Questions?
+Call 817-381-2262 Register to walk the block View flyer (PDF) Download flyer Show your support Yard signs are here — ready for pickup!
 Pick up your Dione Sims for Congress yard sign at our campaign headquarters in Arlington.
 Every sign displayed helps spread the word across TX-25.
 306 E Randol Mill Road, Arlington, TX 76011 Come by to grab yours, see the office, and connect with other volunteers.

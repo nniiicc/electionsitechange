@@ -1,5 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Category: Announcements Oct 12 0 Comment What Election Observer Rights Mean for Nevada Voters Election observer rights help Nevada voters see how ballots are handled, counted, and reviewed while protecting voter privacy and orderly polling places.
-Oct 08 electbarnhill Comments 2 The Court Asked Who Has a Stake in My Lawsuit.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Category: Announcements Oct 08 electbarnhill Comments 2 The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 Every federal lawsuit in Nevada comes with a short form most people never read: the Certificate of Interested Parties.
 Its job is simple.
@@ -19,14 +18,16 @@ Aguilar — and why Sep 04 electbarnhill Comments 8 The Lawsuit Is Filed: Barnhi
 Aguilar Brad Lee Barnhill has filed a federal NVRA lawsuit against Secretary of State Francisco Aguilar, asking a court to order the audit Nevada wouldn't.
 Aug 23 electbarnhill Comments 8 Who Will Protect Your Vote?
 Nevada’s voter rolls have a problem the Secretary of State’s office already knows about and has refused to investigate.
-Using the same public data Nevada’s Secretary of State makes Posts pagination Page 1 Page 2 Next page More Commentary What Nevada Secretary of State Candidates Owe Voters (October 2, 2026) Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada (September 26, 2026) How to Check Nevada Voter Registration Status (September 22, 2026) Question 7 Nevada Voter ID: What Comes Next (September 22, 2026) Stop Voting Against Someone.
+Using the same public data Nevada’s Secretary of State makes Jun 16 electbarnhill Comments 2 Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?
+Dear Nevada Voter, Nevadans deserve a Secretary of State who puts election integrity, transparency, and practical service to citizens first—without the influence of party machines or special interests.
+Among Posts pagination Page 1 Page 2 Next page More Commentary How Nevada Polling Works and What It Can Tell Us (October 13, 2026) What Election Observer Rights Mean for Nevada Voters (October 12, 2026) What Nevada Secretary of State Candidates Owe Voters (October 2, 2026) Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada (September 26, 2026) How to Check Nevada Voter Registration Status (September 22, 2026) Question 7 Nevada Voter ID: What Comes Next (September 22, 2026) Stop Voting Against Someone.
 Vote For Someone.
 (September 18, 2026) You’re Not Undecided.
 You’re Unrepresented.
 (September 16, 2026) Voter ID Is Coming.
 Let’s Talk About Making It Actually Work For People.
-(September 12, 2026) What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature (September 12, 2026) The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning (August 17, 2026) Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands (August 16, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+(September 12, 2026) What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature (September 12, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

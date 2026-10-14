@@ -1,35 +1,37 @@
 Ballots Mail · Oct 13, 2026 Election Day · Tue, Nov 3 Register to Vote ↗ 🌐 English ▾ HOME ABOUT POLICIES NEWSROOM Media coverage Interviews, articles and video Press releases Statements from the campaign Data Room Polling and the numbers behind the race EVENTS ENDORSEMENTS CONTACT Volunteer DONATE HOME ABOUT POLICIES NEWSROOM Media coverage Press releases Data Room EVENTS ENDORSEMENTS CONTACT Request a Yard Sign Volunteer Newsroom Featured Media Interviews, coverage, and statements from across the campaign.
-Media coverage ↓ Press releases ↓ Data Room → Live debate Watch the CD2 debate Tuesday, October 13 · 6:00–8:00 PM MT Hosted by the Utah Debate Commission Watch on YouTube ↗ Press Release Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District Peter Crosby leading Blake Moore by 2.9 points in internal polling conducted this week across Northern Utah.
+Media coverage ↓ Press releases ↓ Data Room → Press Release Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District Peter Crosby leading Blake Moore by 2.9 points in internal polling conducted this week across Northern Utah.
 The first time Crosby has led in the race to represent the new seat.
-Sep 27, 2026 Article Peter Crosby narrows gap with Blake Moore in Utah’s new Congressional district, unaffiliated voters show strong support Democrat Peter Crosby trails Republican Representative Blake Moore by 1.7 percentage points in an internal poll conducted for the Utah CD2 race.
+Sep 27, 2026 Video Utah 2nd Congressional District 2026 General Election Debate The Utah Debate Commission’s debate for Utah’s 2nd Congressional District, moderated by Heidi Hatch at Utah State University — the only publicly moderated debate of the race.
+Watch the full broadcast.
+Watch on YouTube ↗ Utah Debate Commission • Oct 13, 2026 Article Peter Crosby narrows gap with Blake Moore in Utah’s new Congressional district, unaffiliated voters show strong support Democrat Peter Crosby trails Republican Representative Blake Moore by 1.7 percentage points in an internal poll conducted for the Utah CD2 race.
 The survey found Crosby leading among unaffiliated voters, while more than 26% of respondents remained unsure of their choice.
 Money Control • Sep 17, 2026 Article Recent partisan polling suggests that 2nd Congressional District race may be a dead heat If recent polling is accurate, Democratic congressional candidate Peter Crosby’s race against incumbent U.S.
 Rep.
 Blake Moore in the newly redrawn 2nd District of Utah is now a dead heat.
 Cache Valley Daily • Sep 15, 2026 Op-Ed No more debt double-talk, Utah deserves real fiscal honesty We need a representative who will be honest with us and with themselves about how to best tackle our national debt crisis.
-Deseret News • Sep 01, 2026 Article Two Utah candidates, two different answers on federal spending priorities Republican incumbent Blake Moore and Democratic challenger Peter Crosby agree on some issues, like water.
-But they split on others.
-UPR • Aug 12, 2026 Op-Ed Faith and Politics Today, in 2026, I find myself in a position I would not have expected as a young man: not only a Congressional candidate, but a Congressional candidate with the Democratic party.
+Deseret News • Sep 01, 2026 Op-Ed Faith and Politics Today, in 2026, I find myself in a position I would not have expected as a young man: not only a Congressional candidate, but a Congressional candidate with the Democratic party.
 Substack • Jul 12, 2026 In the news Media Coverage Article Congressional candidate pledges to spend no more than six years in Washington, D.C.
 Democratic candidate Peter Crosby hasn’t been elected to Congress yet, but is already confident enough to set term limits for himself.
 Cache Valley Daily • Sep 23, 2026 Article Democratic candidate criticizes Israel for involving U.S. in misguided war with Iran Cache Valley Daily • Aug 26, 2026 Article Democratic congressional candidate Peter Crosby schedules local town hall on Aug.
 26 The candidate invites local residents to join that gathering to learn more about his grass-roots campaign against three-term GOP incumbent Rep.
 Blake Moore in the newly redrawn 2nd Congressional District.
-Cache Valley Daily • Aug 21, 2026 Article Moore, Crosby, other candidates speak in Nibley Candidates from local, state and federal races gathered Wednesday evening at Virgil Gibbons Heritage Park in Nibley for a community picnic designed to encourage conversation between voters and those seeking public office.
+Cache Valley Daily • Aug 21, 2026 Article Two Utah candidates, two different answers on federal spending priorities Republican incumbent Blake Moore and Democratic challenger Peter Crosby agree on some issues, like water.
+But they split on others.
+UPR • Aug 12, 2026 Article Moore, Crosby, other candidates speak in Nibley Candidates from local, state and federal races gathered Wednesday evening at Virgil Gibbons Heritage Park in Nibley for a community picnic designed to encourage conversation between voters and those seeking public office.
 HJNews • Jul 31, 2026 Article Crosby Views the Race as Winnable A Cache Valley Daily profile on why Peter Crosby sees his challenge to three-term Rep.
 Blake Moore as winnable, pointing to Moore's slipping primary numbers and Northern Utah's growing competitiveness.
 Cache Valley Daily • Jul 01, 2026 Video Interview - Your Vote Your Health In this in-depth interview, Peter Crosby shares his journey from a conservative military family background in rural Utah to running for Congress as a Democrat.
 He discusses systemic issues in government, healthcare reform, rural health challenges, and the importance of grassroots political engagement.
-YouTube • Jun 13, 2026 Article Cache Valley Daily Campaign Spotlight Democratic congressional candidate Peter Crosby to host forum at Logan Library.
+Watch on YouTube ↗ YouTube • Jun 13, 2026 Article Cache Valley Daily Campaign Spotlight Democratic congressional candidate Peter Crosby to host forum at Logan Library.
 Cache Valley Daily • Jun 05, 2026 Video Virtual Town Hall with Peter Discussion about data centers, the influence of money in our current governmental system, briefly touch on DOGE, USAID, corporation accountability, AI, participating in our own government, & women's health.
-YouTube • May 19, 2026 Article Amid public outcry over Box Elder ‘hyperscale’ data center, GOP candidates stay silent Neither U.S.
+Watch on YouTube ↗ YouTube • May 19, 2026 Article Amid public outcry over Box Elder ‘hyperscale’ data center, GOP candidates stay silent Neither U.S.
 Rep.
 Blake Moore nor state Rep.
 Karianne Lisonbee has weighed in.
 Democrat Peter Crosby said he is worried about the lack of public input.
 The Salt Lake Tribune • Apr 29, 2026 Article Peter Crosby Launches Early Campaign The Ogdenite • Mar 12, 2026 Op-Ed The Ties that Bind I believe there are ties that bind us as Americans, truths we hold onto stronger than our culture, our geography, our language.
 Substack • Jan 19, 2026 Video Interview - Our Vote Counts Our Vote Counts and I sat for a virtual interview and town hall, where we talked about a wide range of issues facing our district and the nation.
-YouTube • Dec 16, 2025 From the campaign Press Releases Official statements and announcements from the campaign, and releases issued by organizations endorsing it.
+Watch on YouTube ↗ YouTube • Dec 16, 2025 From the campaign Press Releases Official statements and announcements from the campaign, and releases issued by organizations endorsing it.
 Press Release Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District Peter Crosby leading Blake Moore by 2.9 points in internal polling conducted this week across Northern Utah.
 The first time Crosby has led in the race to represent the new seat.
 Providence, UT • Sep 27, 2026 Press Release Northern Utah on track to flip a 2nd Congressional seat this November A traditionally safe conservative district is now statistically tied, with Blake Moore leading by 1.7 points in latest Peter Crosby for Congress Campaign internal polling.

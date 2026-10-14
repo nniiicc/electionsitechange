@@ -1,4 +1,4 @@
-0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Declaration Jul 4 Written By David Pan If the truths of the Declaration of Independence were self-evident, why were they such a big deal?
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Declaration Jul 4 Written by David Pan If the truths of the Declaration of Independence were self-evident, why were they such a big deal?
 In fact, they were not self-evident.
 The Declaration “held” them to be self-evident, meaning that it was declaring them to be so.
 But unlike the move to declare independence, the declaration that “all men are created equal” was not a willful decision.

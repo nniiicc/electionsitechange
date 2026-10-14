@@ -71,7 +71,7 @@ I would encourage anyone who has questions concerning either of these proposed m
 There, you can find the full text of each bill as well as a plethora of other information concerning the legislative process.
 Stay Informed Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Checkboxes Layout Phone Email * Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Scott Sharp for State Representative, 100th District at the number provided.
+Name * First Last Email * Phone * Layout Name Email Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Scott Sharp for State Representative, 100th District at the number provided.
 Donations may be solicited.
 Msg & data rates may apply.
 Msg frequency varies.

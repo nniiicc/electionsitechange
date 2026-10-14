@@ -1,4 +1,4 @@
-Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Meet Clarissa A Lifetime of Service.
+Early Voting Oct 19–30 Election Day Nov 3 Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Meet Clarissa A Lifetime of Service.
 A Record of Integrity.
 Justice Clarissa Silva was born and raised in Harlingen, Texas, where she learned the values of faith, hard work, and service to others.
 Growing up, her family taught her the importance of helping people without expecting anything in return—an outlook that continues to guide her public service today.

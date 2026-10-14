@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Gov.
+Donate All Posts From Katie News Search Gov.
 Deal Signs Bills Championed by Rep.
 Dempsey into Law Katie Dempsey May 9, 2018 3 min read Updated: Mar 17, 2022 ATLANTA – State Representative Katie Dempsey (R-Rome) today announced that Governor Nathan Deal recently signed several key pieces of legislation she sponsored during the 2018 legislative session of the Georgia General Assembly, including House Bills 740, 831, 906, 920 and Senate Bill 427.
 “I’m thrilled to announce that Gov.

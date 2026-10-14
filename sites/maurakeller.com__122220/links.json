@@ -136,10 +136,6 @@
 "href": "https://secure.actblue.com/donate/mkellerwebsite?amount=other"
 },
 {
-"text": "Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000",
-"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
-},
-{
 "text": "Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller",
 "href": "https://maurakeller.com/news/maura-keller-poll-release"
 },
@@ -193,7 +189,7 @@
 },
 {
 "text": "Read more →",
-"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "Read more →",
@@ -226,6 +222,10 @@
 {
 "text": "Texting Tuesdays with Maura Keller",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-20"
+},
+{
+"text": "The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll",
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "Volunteer",
@@ -264,10 +264,6 @@
 "href": "https://maurakeller.com/events/candidate-forum"
 },
 {
-"text": "[image: Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000]",
-"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
-},
-{
 "text": "[image: Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller]",
 "href": "https://maurakeller.com/news/maura-keller-poll-release"
 },
@@ -286,6 +282,10 @@
 {
 "text": "[image: Texting Tuesdays with Maura Keller] Oct 20",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-20"
+},
+{
+"text": "[image: The Citizen: Only Five Points Separate Maura Keller and Brian Jack in New Congressional Poll]",
+"href": "https://maurakeller.com/news/keller-jack-new-poll"
 },
 {
 "text": "[no text]",

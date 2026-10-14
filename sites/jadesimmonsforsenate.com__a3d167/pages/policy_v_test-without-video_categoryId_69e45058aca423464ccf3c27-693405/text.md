@@ -9,7 +9,7 @@ In the future, stimulus packages will prioritize truly fledgling businesses and 
 We'll look to offer greater tax relief for small businesses and contractors as today's tax code disproportionately favors major corporations who can afford to pay their fair share.
 I would consider the creation of special tax abatements for small businesses who employ 10 people and provide a service unique and beneficial to the community they are in.
 For more on my Pro-Business, Pro-Opportunity stances, take a look at our fuller Thrivability vision.
-Previous The Thurgood Marshall Plan You Might Also Like Thrivability: Beyond Affordability to Economic Possibility Women’s Empowerment & A Fresh Take on Life and Choice A New Era in Education Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Statement of Belief: Honor God, Serve People STAY UPDATED Let’s Build the Future Together.
+Previous The Thurgood Marshall Plan You Might Also Like Humane Immigration Reform and Border Security Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Women’s Empowerment & A Fresh Take on Life and Choice Independence from Party Control Statement of Belief: Honor God, Serve People STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

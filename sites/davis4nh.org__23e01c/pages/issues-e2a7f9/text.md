@@ -1,4 +1,4 @@
-Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook The Issues Cost of Living The cost of living is rising for food, gas, oil, health care, housing, electricity, and childcare.
+Skip to content Home The Issues About Allen Davis Energy Policy FAQs Endorsements Volunteer/Donate Facebook The Issues Cost of Living The cost of living is rising for food, gas, oil, health care, housing, electricity, and childcare.
 As your State Representative, I will fight to bring down these expenses wherever possible.
 Public Education and School Funding As a former educator, I support a better education for NH children.
 I am strongly opposed to all efforts to divert public funding to parents whose children attend private or religious schools, or are home schooled.

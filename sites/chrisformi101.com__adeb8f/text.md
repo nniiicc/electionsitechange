@@ -1,4 +1,4 @@
-Christopher Crain Home About Policies Contact & Donate Meet Chris View Policies Breif Biography Overview Christopher Crain is a long-term Wexford County resident whose family has deep roots in the community dating back to the 19th century.
+Christopher Crain Home About Policies Contact & Donate Meet Chris View Policies Brief Biography Overview Christopher Crain is a long-term Wexford County resident whose family has deep roots in the community dating back to the 19th century.
 A U.S.
 Army veteran, entrepreneur, former college instructor, and community advocate, he has dedicated his life to promoting equality, human rights, and responsible public policy.
 Drawing on experiences in military service, academia, and local government, Christopher works to address social inequality and strengthen communities through grassroots advocacy, housing initiatives, and public service.

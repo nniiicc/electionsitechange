@@ -4,7 +4,11 @@ I'm proud to support her and the community-driven leadership she will bring to H
 We share a commitment to equity, strong public schools, and ensuring every community has a voice in shaping Colorado’s future.
 I’m confident she will be a strong advocate for her district at the Capitol." Colorado House District 29 Representative Lori Goldstein "As the Board President for the Summit County School District, Consuelo Redhorse is a steadfast, vocal leader and role model for equity.
 Consuelo is an activist and advocate for all kids, staff, and community at the local, state, and federal levels, a true supporter of public education, the cornerstone of Democracy.
-She is the right person to represent Colorado House District 13." 2nd Congressional District Representative Joe Neguse House Assistant Democratic Leader ​ "Now is the moment our public servants need to stand up against corruption and lift the voices of all Coloradans.
+She is the right person to represent Colorado House District 13." Colorado State Board of Education Lisa Escárcega ​I'm proud to endorse Consuelo Redhorse for Colorado State House District 13.
+Consuelo's community involvement and school board leadership stand out.
+As Summit County School Board President, she's shown that she has the administrative know-how for getting things done, paired with a heart for community and relationship building.
+I'm especially encouraged by her focus on mental health support alongside her strong drive for equity in education.
+2nd Congressional District Representative Joe Neguse House Assistant Democratic Leader ​ "Now is the moment our public servants need to stand up against corruption and lift the voices of all Coloradans.
 I stand with Consuelo Redhorse because she supports working class Coloradans on issues like economic opportunity, quality education, and protecting public lands; and she’s an experienced leader that gets things done." 6th Congressional District Representative Jason Crow "Coloradans are working harder than ever, just to get by.
 We have to lower costs, take on corruption, and make government work for working people again.
 I know that Consuelo Redhorse will help do that.

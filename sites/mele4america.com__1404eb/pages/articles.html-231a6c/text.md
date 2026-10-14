@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Articles Contact Volunteer Donate Campaign briefs & updates Facts, stakes, and a clear point of view.
+Skip to content MELE FOR CONGRESS Open menu Home Vote Meet Gregg Priorities Articles Volunteer Donate Campaign briefs & updates Facts, stakes, and a clear point of view.
 Short, readable campaign briefs on the choices facing New Jersey voters—and the principles Gregg will take to Congress.
 Browse all articles Israel & humanitarianism Follow the money Gregg’s standard The full briefing room Choose an issue.
 Read the record.

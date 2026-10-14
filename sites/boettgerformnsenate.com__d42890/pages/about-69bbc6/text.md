@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Volunteer Contact Donate About Me About Endorsements Volunteer Contact Donate About Me My name is Andrea Boettger, and I am honored to be your Senate Candidate for District 15.
+Skip navigation menu About Endorsements Volunteer Positions Contact Donate About Me About Endorsements Volunteer Positions Contact Donate About Me My name is Andrea Boettger, and I am honored to be your Senate Candidate for District 15.
 A sense of community, a good quality of life, and fiscal responsibility with your taxpayer dollars are all very important to me.
 As New Ulm City Council President , I represent the citizens of New Ulm in a non-partisan role focused on advancing economic development and maintaining and improving public safety and infrastructure.
 As an elected leader, I take seriously the importance of balancing the needs of the city with the budget available.

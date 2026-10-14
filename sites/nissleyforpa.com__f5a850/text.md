@@ -4,7 +4,7 @@ Lets help to restore Pennsylvania's legislature to its principled, trustworthy, 
 Get Involved Meet Dave Republican Candidate for Southern Lancaster County Dave has lived and served in Lancaster County his entire life.
 His involvement in the community and commitment to God’s calling have led him to pursue serving you as State Representative.
 Join Dave as he fights to restore true representation of the people, serving you, not the Harrisburg establishment.
-Learn More About Dave Vote for Dave Nissley May 19th This campaign has been and is energizing.
+Learn More About Dave Vote for Dave Nissley Nov 3rd This campaign has been and is energizing.
 I have met with Township supervisors, School teachers, Board members, and Superintendents.
 Spent time in dairy barns, at kitchen tables hearing your stories, seeing your daily life and some of you shared your personal struggles.
 Business leaders, volunteers, pastors and elected officials have given their time and resources to share a vision of America.

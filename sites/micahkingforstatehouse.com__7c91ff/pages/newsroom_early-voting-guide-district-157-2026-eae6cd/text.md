@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Early Voting #Elections #District 157 #Tattnall County #Jeff Davis County #Appling County #Evans County District 157 Early Voting Guide: Polling Locations, Hours & Rules across Appling, Evans, Jeff Davis, and Tattnall Counties (2026) October 9, 2026 9 min read By Micah King Table of Contents • Start Here: Quick Election Reference – Quick Links to Sections • 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #Early Voting #Elections #District 157 #Tattnall County #Jeff Davis County #Appling County #Evans County District 157 Early Voting Guide: Polling Locations, Hours & Rules across Appling, Evans, Jeff Davis, and Tattnall Counties (2026) October 9, 2026 9 min read By Micah King Table of Contents • Start Here: Quick Election Reference – Quick Links to Sections • 1.
 Early Voting vs.
 Election Day • 2.
 Weekend Advance Voting Dates and Hours • 3.

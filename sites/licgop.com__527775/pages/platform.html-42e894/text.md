@@ -89,6 +89,22 @@ Why don't we care about these victims of genocide?
 Why is Grace Meng the top Asian American official in NYS funded by AIPAC at more than her next 40 donors combined?
 Why is AIPAC controlling Asian Ameircan activism and electeds?
 I will break Asian American activism free of this oppressive force.
+End Citizens United I've worked with both WolfPac and Move to Amend .
+WolfPAC unfortunately is too wrapped up with bringing in celebrities to their annual holiday event, and the leadership literally strangles grassroots activists who go too far to promote this goal.
+They're lack of focus and priorities are reflected in their results: They went from 5 states signed up down to 4 despite being the oldest organization to fight Citizens United.
+On the other hand Convention of States has 20 out of the 34 states who have already passed the resolution to call for a constitutional convention necessary to create an amendment.
+Like too many progressive organizations WOLFPAC is feel good, accomplish little and has become a comfortable place for the leadership to use donations from well meaning people to travel, self promote, and party with celebrities.
+Good sounding goals with no follow through is in many ways more damaging then doing nothing at all as a culture of corruption and stagnation takes root and chokes off those who would actually work to really achieve those goals.
+Move to Amend has broader support, however to call a constitutional convention you need to go through the states.
+Move to Amend approaches federal candidates rather then statewide candidates.
+Furthermore the founder Kaitlin Belknapp was working with Nick Brana and then quietly left despite numerous attempts from myself and others to whistleblow on theft and sexual abuse going rampant at the People's Party.
+She quietly left the organization and deleted her involvement with the organization.
+If they cannot hold their own organizations accountable can activism in their hands be trusted?
+I say the answer to this is NO.
+Independent of these organizations, Hawaii at a state level has been successful in passing a resolution to fight Citizens United and I am in touch with grassroots organizers in Hawaii.
+Many progressive organizations are working to gatekeep this issue, but grassroots organizers across party lines seek an end to this onerous and corrupting influence.
+I have worked and tracked this issue beyond most other candidates, but the progressive media is suppressing this so they can keep making money off of accomplishing nothing.
+It's disgusting.
 Stop Deed theft What happens when someone old dies and they had no will?
 There is a whole machinery in place to execute the taking of everything they have, including their property.
 One of the most unfortunate consequences of this is deed theft.

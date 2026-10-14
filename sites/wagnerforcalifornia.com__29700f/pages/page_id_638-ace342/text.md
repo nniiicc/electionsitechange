@@ -1,4 +1,4 @@
-About SOS Roles Endorsements News Volunteer Gallery About SOS Roles Endorsements News Volunteer Gallery DONATE Prospectus WHAT DOES THE SOS DO?
+About SOS Roles News Volunteer Gallery About SOS Roles News Volunteer Gallery DONATE Prospectus WHAT DOES THE SOS DO?
 Serves as the state's Chief Elections Officer Oversees all federal and state elections, certifies candidates for the ballot, tracks and certifies ballot initiatives, maintains the statewide voter registration database, and oversees ballot tracking programs.
 Manages the state's Political Reform programs Mandates the public disclosure of campaign finances and lobbyist financial information under the Political Reform Act of 1974.
 Administers Major Business Programs The office's largest division; it handles the registration of business entities (like corporations and LLCs) and manages state trademarks and service marks.

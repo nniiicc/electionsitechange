@@ -4,9 +4,9 @@ Request A Yard Sign MEET JESSICA REAL CONVERSATIONS.
 A STRONGER RHODE ISLAND.
 GET TO KNOW JESSICA I’m Jessica Gomes, and I’m running for State Representative.
 Before I ask for your vote in November, I want you to hear directly from me.
-Enable sound Why I Spoke Up at the State House Enable sound RHODE ISLAND SHOULD WORK FOR SMALL BUSINESS Why our policies should make it easier to build and grow here.
-Enable sound WHY THE MIDDLE GETS IGNORED Why I believe most of us have more in common than we’re being shown.
-Enable sound YOUR VOTE MATTERS MORE THAN YOU THINK Change starts when enough people choose to participate.
+Active el sonido Why I Spoke Up at the State House Active el sonido RHODE ISLAND SHOULD WORK FOR SMALL BUSINESS Why our policies should make it easier to build and grow here.
+Active el sonido WHY THE MIDDLE GETS IGNORED Why I believe most of us have more in common than we’re being shown.
+Active el sonido YOUR VOTE MATTERS MORE THAN YOU THINK Change starts when enough people choose to participate.
 Watch the full episode here A MESSAGE FROM JESSICA Dear Neighbor, My name is Jessica Gomes, and I am running for State Representative in District 18 in Cranston.
 I grew up in Providence, right on the Cranston line, in the Reservoir Triangle.
 I went to Reservoir Avenue Elementary School, Gilbert Stuart Middle School, and graduated from Classical High School.

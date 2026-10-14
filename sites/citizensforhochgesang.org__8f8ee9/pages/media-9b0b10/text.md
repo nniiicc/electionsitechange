@@ -63,6 +63,8 @@ Open media Facebook ★ 84K+ views Watch: Making the Case to the Dubois County C
 88% say redirect the money to the 400 canceled road projects.
 Brad makes the case to the county council — the campaign’s most-watched video.
 Open media Press / News WFIE: Update Monday Night on Mid-States Corridor Project Published Feb 23, 2026 WFIE 14 News covers the Monday-night Mid-States Corridor update as the county council weighs withdrawal from the RDA.
+Open media Facebook Mid-States Corridor poll results — archival preview Published Feb 22, 2026 The campaign’s original preview ahead of its poll-results release, preserved as an archive item.
+Source and thumbnail: the campaign Facebook Reel.
 Open media Facebook Important versus support — survey discussion Published Feb 18, 2026 A second archived Reel discussing the wording of a Mid-States Corridor text survey.
 Source and thumbnail: the campaign Facebook post.
 Open media Facebook Mid-States Corridor survey — short commentary Published Feb 17, 2026 Brad discusses best practices for surveys.
@@ -89,4 +91,5 @@ Open media Press / News WFYI: Bill Would Dissolve Cannelton Schools, Convert The
 Open media Facebook ★ 10K views Watch: Why I Started Showing Up A couple years ago, Brad and his wife bought what they thought was their forever home.
 Within a month, they learned it was in the path of a billion-dollar highway.
 The story of why this campaign exists.
-Open media Latest campaign updates Sep 20, 2026 Dubois Democrats announce Ferdinand headquarters Sep 20, 2026 Indiana coal-ash permit proposal enters public review Sep 20, 2026 Petersburg apartment proposal would add 64 homes Sep 20, 2026 Project ASPIREE expands education support into Pike County Upcoming public events Bottomland Forest Ecology Hike near Winslow Patoka River National Wildlife Refuge property east of Winslow, IN (38.391798, -87.174402) EPA public hearing: Indiana coal-ash permit proposal Online and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, IN
+Open media Latest campaign updates Oct 15, 2026 Inside the Box, Episode 2: The Mid-States Corridor — “Yes or No?” Sep 28, 2026 Inside the Box, Episode 1: Who Knew About These Data Center Deals?
+Sep 28, 2026 Inside the Box: The Issues That Shape Indiana Senate District 48 Sep 20, 2026 Dubois Democrats announce Ferdinand headquarters Upcoming public events EPA public hearing: Indiana coal-ash permit proposal Online and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, IN

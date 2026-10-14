@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Wealth Inequality Jeff Bezos, Elon Musk, Michael Bloomberg, George Soros and others paid ZERO federal income tax in recent years.
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: Wealth Inequality Jeff Bezos, Elon Musk, Michael Bloomberg, George Soros and others paid ZERO federal income tax in recent years.
 They do this legally by being paid in stocks and then borrowing money at a low interest rate against those stocks.
 They have unlimited money, but no income, so no income tax.
 These loopholes need to be closed.

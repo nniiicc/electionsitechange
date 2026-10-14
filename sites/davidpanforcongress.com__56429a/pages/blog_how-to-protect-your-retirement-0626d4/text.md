@@ -1,4 +1,4 @@
-0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate How to Protect Your Retirement Apr 18 Written By Jesse Whitfield Preview: Everyone knows that Social Security is headed for insolvency.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate How to Protect Your Retirement Apr 18 Written by Jesse Whitfield Preview: Everyone knows that Social Security is headed for insolvency.
 We owe it to our seniors and workers today to do better.
 The Social Security Administration projects (https://www.ssa.gov/oact/TRSUM/index.html) that, if nothing is done, benefits across the board will have to be cut by 20% by 2034.
 Yet, even this unsustainable system fails at covering everyone.

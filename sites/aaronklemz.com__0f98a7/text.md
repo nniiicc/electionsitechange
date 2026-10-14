@@ -1,4 +1,4 @@
-Meet Aaron Priorities Endorsements Events Contact Donate MINNESOTA HOUSE DISTRICT 39A • FRIDLEY • SPRING LAKE PARK • COLUMBIA HEIGHTS • HILLTOP A FRESH VOICE FOR OUR COMMUNITY.
+Meet Aaron Priorities Endorsements Events Contact Donate MINNESOTA DISTRICT 39A • FRIDLEY • SPRING LAKE PARK • COLUMBIA HEIGHTS • HILLTOP A FRESH VOICE FOR OUR COMMUNITY.
 Educator, environmental advocate, and community volunteer fighting for clean water, strong schools, and working families.
 Join the Campaign Read Aaron's Story Biography Rooted in Service Aaron and his spouse Jennifer Tuder have lived in Fridley and Columbia Heights for nearly 20 years, and have deep roots in the community.
 Aaron is an educator, environmental advocate, and active volunteer in the community.
@@ -46,7 +46,7 @@ Costs are skyrocketing, and federal inaction is making it worse.
 Minnesota has public insurance options like MinnesotaCare and a strong marketplace in MnSure, and if elected, access, cost, and quality of health care would be a top priority for me.
 This includes pushing for the Minnesota Health Plan, a single, statewide plan that would cover all Minnesotans for all their medical needs.
 It also means protecting access to abortion, reproductive health care and gender-affirming care for everybody.
-Coalition Endorsements Minnesota DFL Friends of the Boundary Waters Action Network Sierra Club Conservation Minnesota Inter Faculty Organization Clean Water Action Save the Boundary Waters Action Fund DFL Environmental Caucus Minnesota Association of Professional Employees Moms Demand Action Gun Sense Candidate MN350 Action FairVote Minnesota Democracy Champion Planned Parenthood Jane Fonda Climate PAC MN Professional Firefighters Association Minnesota Nurses Association Education Minnesota Committee to Protect Health Care Care for MN Candidate Gender Justice Action Humane World Action Fund Minnesota Young DFL Movement Ready to Make a Difference?
+Coalition Endorsements Minnesota DFL Friends of the Boundary Waters Action Network Sierra Club Conservation Minnesota Inter Faculty Organization Clean Water Action Save the Boundary Waters Action Fund DFL Environmental Caucus Minnesota Association of Professional Employees Moms Demand Action Gun Sense Candidate MN350 Action FairVote Minnesota Democracy Champion Planned Parenthood Jane Fonda Climate PAC MN Professional Firefighters Association Minnesota Nurses Association Education Minnesota Committee to Protect Health Care Care for MN Candidate Gender Justice Action Humane World Action Fund Minnesota Young DFL AFCSME Council 5 SEIU Minnesota State Council Stonewall DFL Movement Ready to Make a Difference?
 Sign up to volunteer, request a lawn sign, or simply stay updated on the race.
 How would you like to help?
 Door Knock Phone Bank Host a Yard Sign Count Me In Schedule Campaign Events Prepared and Paid for by the Klemz for House Committee, PO Box 32053, Fridley, MN 55432 Email Us Facebook X Instagram TikTok YouTube

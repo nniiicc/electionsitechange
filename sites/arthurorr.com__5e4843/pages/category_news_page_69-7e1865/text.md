@@ -1,4 +1,7 @@
-Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Teacher Pay Raise for FY2020 Budget Supported by Senator Orr Written on February 11, 2019 .
+Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Senator Orr’s bill increasing unemployment compensation payments passes legislature Written on May 21, 2019 .
+May 15, 2019 Source: www.decaturdaily.com Sen.
+Arthur Orr once again pushing for payday lending reform Written on February 12, 2019 .
+Source: WHNT Read Article Teacher Pay Raise for FY2020 Budget Supported by Senator Orr Written on February 11, 2019 .
 Source: AL.com Read article Senator Orr Voices Concerns Over Flood of Asylum Seekers Being Placed in Certain Communities and Adverse Impacts Written on February 8, 2019 .
 Source: Decatur Daily Read article Senator Orr Continues Attempt to Get State Out of Retail Liquor Business Written on February 7, 2019 .
 Source: Yellowhammer News Read article AL.com Opinion Writer Supports Senator Orr’s Bill of Getting State Out of Retail Liquor Business Written on February 7, 2019 .

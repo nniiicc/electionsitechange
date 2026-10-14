@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 In June, the Department of the Interior proposed major changes to the Bureau of Land Management’s federal onshore leasing program that would drastically reduce bonding amounts and other fees for the oil and gas industry, gut public process and have far-reaching impacts on our public lands, wildlife and communities.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 In June, the Department of the Interior proposed major changes to the Bureau of Land Management’s federal onshore leasing program that would drastically reduce bonding amounts and other fees for the oil and gas industry, gut public process and have far-reaching impacts on our public lands, wildlife and communities.
 If the rule is finalized, what we’ll have left is a system that blatantly favors extraction as leasing activity ramps up to levels we haven’t seen in over a decade.
 The public comment period on this proposal ends Aug.
 24, and we urge Coloradans to weigh in before then.

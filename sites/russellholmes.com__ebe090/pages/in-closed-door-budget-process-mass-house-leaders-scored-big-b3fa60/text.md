@@ -88,17 +88,18 @@ House Minority Leader Brad Jones — whose $275,000 in earmarks led all members 
 Late last year, the few Republican members of the House repeatedly blocked a spending bill with money for the emergency shelter system by using parliamentary maneuvering, ultimately forcing dozens of Democrats to attend an informal session to push it through.
 At the time, Mariano released statements accusing House Republicans of “obstructionism.” “I’ve been in the building long enough to know it’s a cause and effect,” Jones said, “even if it’s not stated.” Mariano’s office did not comment on the treatment of GOP budget amendments.
 Share this Post navigation PREVIOUS Previous post: Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Related Post Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
-“It is imperative Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
+Related Post ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:23 am Rep.
 Russell Holmes is ready to start screaming again over police reform bill.
 Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
-The state must do something, Read More Read More “I Work for You.” You're my neighbors.
+The state must do something, Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+January 25, 2024 January 25, 2024 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

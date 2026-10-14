@@ -1,4 +1,4 @@
-Donate Meet Ray Priorities Events News Get Involved Volunteer Media Kit Courage, Integrity, Service.
+Donate About Ray Meet Ray Endorsements Priorities Events News Get Involved Volunteer Media Kit Courage, Integrity, Service.
 Dave Mengle Photography Ray Bilger for PA-15 Born in Bellefonte , Ray grew up in Pleasant Gap, a small town in rural Centre County.
 His father was a factory worker, machinist and veteran, who loved road trips, and his mother raised three children and was a talented cake decorator.
 Ray was brought up with strong working-class values of self-reliance and looking out for others, values that were honed in Boy Scouts, at Bellefonte high school, and in military service, entering the Air Force as an Airborne Cryptologic Linguist in August 1986.
@@ -20,6 +20,6 @@ Donate Our District The 15th District of Pennsylvania is the largest in the stat
 The district’s boundaries were redrawn in 2018 according to a ruling by the Pennsylvania Supreme Court.
 But one thing hasn’t changed: the area’s representative, Glenn Thompson, who has clung to the office since 2008.
 Read about Ray’s priorities for the future of our district!
-Endorsements PA Separatist Meet Ray Priorities Events News Get Involved Volunteer Media Kit info@bilgerforcongress.com Mail and checks: Ray Bilger for Congress P.O.
+About Ray Meet Ray Endorsements Priorities Events News Get Involved Volunteer Media Kit info@bilgerforcongress.com Mail and checks: Ray Bilger for Congress P.O.
 Box 441 Lemont, PA, 16851 ©# Ray Bilger for Congress Map adapted from Wikipedia under a CC BY-SA 4.0 license.
 Featured photography by Dave Mengle

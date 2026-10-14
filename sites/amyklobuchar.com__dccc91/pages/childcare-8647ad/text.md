@@ -1,4 +1,10 @@
-Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Ensure Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Make Child Care More Affordable and Available Download the Plan “Child care is essential for kids who need it to prepare for school, parents who can’t take a job if there is no one to watch their kids, and Minnesota’s economy.
+Donate today.
+Every dollar counts.
+I’m running for governor to take on the powerful and get things done for every Minnesotan.
+This is a home-grown campaign, born in a moment like no other.
+Will you chip in today?
+Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Continue to Site Donate Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Take on Crime and Support Public Safety Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Menu Close Home Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Make Child Care More Affordable and Available Download the Plan “Child care is essential for kids who need it to prepare for school, parents who can’t take a job if there is no one to watch their kids, and Minnesota’s economy.
 “For too many Minnesota families, child care is not affordable or not available.
 It can cost as much as a mortgage, and even when families can make the math make sense, they are often stuck for months on waiting lists.
 As Governor, I will expand access to the quality, affordable child care that Minnesota families need.” Minnesota families deserve child care that is safe, affordable, and high-quality.

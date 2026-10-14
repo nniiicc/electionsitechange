@@ -4,7 +4,9 @@ Work across party lines to produce practical results for Arizona families.
 Veterans & Military Families Strong transition support to civilian careers Accessible healthcare and mental health services Stability for military families Energy & Water Security Responsible resource management Long-term water protection for Arizona neighborhoods Support local energy jobs across Arizona by investing in a diverse energy mix—including traditional energy and renewable sources—while keeping energy reliable and affordable.
 Supporting Seniors Fixed-income protections Affordable healthcare and housing Inflation relief Eliminate the Social Security tax cap Immigration Reform Modernize the legal process to reduce chaos and expedite the legal immigration process Strengthen border security and enforce the law responsibly Protect families, workers, and communities with solutions that are humane and practical Term Limits & Accountability Public service as a duty, not a career Support for term limits to restore accountability Dani’s pledge is to (3) two-year House terms and two (2) six-year Senate terms and no longer limit.
 Getting Money Out of Politics Full transparency in campaign finance Limits on the influence of big money Public financing options like Arizona’s Clean Elections model Repeal Citizens United FAQs 1.
-What political party are you affiliated with? 'm running as a Democrat, and I'm proud to have earned the endorsement of the Forward Party.
+What political party are you affiliated with?
+I'm running as a Democrat.
+I'm proud to have earned the endorsement of the Forward Party.
 I don't believe either major party has all the answers, and I'm not afraid to disagree with my own.
 I believe we need more independent thinking, practical solutions, and leaders willing to work together.
 My responsibility is to the people of Arizona's 9th District, not a political party.
@@ -65,6 +67,10 @@ Water security is critical to Arizona's future.
 I support investing in water infrastructure and augmentation, reducing water loss, expanding recycling and reuse, and protecting Tribal water rights.
 We also need fair Colorado River agreements that account for the needs of agricultural producers, cities, and rural areas.
 Water policy should be based on long-term planning, measurable conservation, and shared responsibility across all seven basin states.
+11.
+Do you take money from AIPAC?
+No.
+This campaign is funded by everyday Arizonans and Americans who want practical solutions to the issues affecting our daily lives.
 Media Press Kit Want more information or to volunteer?
 First name * Last name * Email * Phone * Are you in the District?
 Multi choice I would like to help knock doors I want a yard sign I would like to host a house party for Dani Message Submit Privacy Policy Terms & Conditions Accessibility Statement Info@SterbinskyforCongress.com Sterbinsky for Congress P.O.

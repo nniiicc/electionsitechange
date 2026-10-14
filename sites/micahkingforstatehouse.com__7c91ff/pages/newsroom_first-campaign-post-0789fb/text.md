@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch In The News #Campaign #Announcement Micah King Announces Campaign for Georgia House District 157 April 27, 2026 5 min read By Micah King Table of Contents • Why I am Running for State House • Key Priorities of Our Campaign – 1.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch In The News #Campaign #Announcement Micah King Announces Campaign for Georgia House District 157 April 27, 2026 5 min read By Micah King Table of Contents • Why I am Running for State House • Key Priorities of Our Campaign – 1.
 Supporting Our Farmers and Agricultural Economy – 2.
 Economic Autonomy, Infrastructure, and Jobs – 3.
 Veteran Advocacy and Rural Healthcare • The Road Ahead I am Micah King, and I am officially announcing my candidacy to represent Georgia House District 157 in the upcoming 2026 election.

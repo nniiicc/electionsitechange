@@ -2,6 +2,7 @@ Home About Issues Boro-Bash Tickets Dawn White for State Senate Faith.
 Family.
 Community.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Donations may be solicited.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.
@@ -25,6 +26,7 @@ As a former teacher, Dawn prioritizes giving parents more choice in their childr
 Her priorities are clear: protect our communities, empower parents, stand with conservative leadership, and keep Tennessee moving forward.
 Learn More Home About Issues Stay Connected Receive updates from Dawn White and join the team fighting for the conservative principles that make Tennessee strong.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with messages and notifications from Friends of Dawn White.
+Donations may be solicited.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

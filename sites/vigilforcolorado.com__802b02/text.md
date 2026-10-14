@@ -8,7 +8,8 @@ Protecting Our Civil Rights I am pro-choice, pro-LGBTQ+ rights, and will always 
 Every citizen's right to vote should be cherished, and governments are accountable to the people -- not to lobbyists and wealthy donors.
 Building a Sustainable Future Colorado is on the front lines of the climate crisis, and we should continue to lead the way in a just and equitable transition to all-renewable energy.
 Coloradans deserve more transportation choices and a clean, healthy environent.
-More on the issues Take the constituent priorities survey The District HD16 is located in central Colorado Springs and contains historic and diverse neighborhoods like Knob Hill, the Old North End, Patty Jewett, Mid Shooks Run, and Cragmor.
+More on the issues Take the constituent priorities survey Request a free yard sign and we'll deliver it to your home!
+REQUEST A YARD SIGN The District HD16 is located in central Colorado Springs and contains historic and diverse neighborhoods like Knob Hill, the Old North End, Patty Jewett, Mid Shooks Run, and Cragmor.
 The district is home to the University of Colorado at Colorado Springs, and cherished natural spaces like Palmer Park and Pulpit Rock Open Space.
 Find your district information here .
 Visit my LinkTree for the most current updates, including event registrations, recent news, and opportunities for engagement. ​ Tracer Committee ID: 20205038163 Get social!

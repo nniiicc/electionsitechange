@@ -182,7 +182,8 @@ He grew up in LaGrange, Georgia and lives in GA-7 with his wife and their two ch
 Learn more at KozyckiForCongress.com.
 Note to editors: High-resolution candidate photo available upon request.
 Tony Kozycki is available for on-camera and print interviews.
-News Coverage Atlanta Journal Constitution | October 8, 2026 Frustrated with politics?
+News Coverage Atlanta Journal Constitution | October 12, 2026 Voices Spotlight: Do candidate debates matter anymore?
+Read Article Fulton Neighbor | October 12, 2026 Ossoff returns home to the district that started it all Read Article Atlanta Journal Constitution | October 8, 2026 Frustrated with politics?
 Voters should demand answers from candidates.
 Read Article Georgia Politics | October 6, 2026 Podcast: CD7 Candidate Tony Kozycki Responds to Rep.
 McCormick Interview Read Article Forsyth County News | October 6, 2026 Democrat Tony Kozycki brings 7th District debate tour to Forsyth County.

@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Rigged System If you are born rich then you have such an enormous advantage over someone born in destitution.
+Skip navigation menu Home About Issues Gallery Donate Home About Issues Gallery Donate Time For Change Education AI and Data Centers Dear Republicans Dear Democrats Role of Government Crime Rigged System Wealth Inequality 100% Trump The Promise: Rigged System If you are born rich then you have such an enormous advantage over someone born in destitution.
 If you live in extreme poverty you are hungry, tired, sick and just trying to survive.
 When your most basic needs are not met you don’t have the time or energy to concentrate on improving your life.
 That is why we need to ensure all citizens have their basic needs met.

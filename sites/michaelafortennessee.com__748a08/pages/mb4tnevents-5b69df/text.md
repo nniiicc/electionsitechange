@@ -1,13 +1,8 @@
 Skip navigation menu Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Join Us Upcoming Events Meet Michaela Barnett and ask your questions about her background, platform, and plans to deliver for TN-02.
 Looking for volunteer opportunities?
 Find them here .
-East Knoxville Town Hall Austin East High School, Aux Auditorium 2800 Martin Luther King Jr Ave Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
-On Tuesday, October 13, Michaela Barnett is showing up to answer them.
-Join us at the Austin-East High School in the Auxiliary Auditorium for a town hall where you can ask Michaela directly about healthcare, infrastructure, affordability, and what real representation looks like for TN-02.
-RSVPs are encouraged, but not required to attend.
-Everyone is welcome!
-RSVP MB4TN GOTV RALLY West Hills Park 7624 Sheffield Dr, Knoxville, TN 37909 Join us for a GOTV Rally on Friday, October 17th at West Hills Park (11am–2pm).
-We'll be set up in the pavilion!
+MB4TN GOTV RALLY West Hills Park 400 North Winston Road Join us for a GOTV Rally on Friday, October 17th at West Hills Park (11am–2pm).
+We'll be set up in the gazebo on the YMCA side.
 We've got a full morning planned with postcard writing stations, tabling from local campaigns, and a speaker program featuring candidates from across the ballot.
 Then, at 12:30 we're all heading out to canvass, so come ready to knock some doors!
 RSVP Brunch Fundraiser at Kaizen!

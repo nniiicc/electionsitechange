@@ -1,4 +1,5 @@
 [
+"alt://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/blob-6c0ad29.png/:/rs=h:200,cg:true,m/qt=q:95|Todd Podgorski for State Senate",
 "alt://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/minnesota-state-capitol-1.jpg/:/|Picture of the St. Paul capitol buil",
 "alt://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:365|Candidate Todd Podgorski standing with his family on large rock outside in front of a body of water",
 "alt://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:365|Candidate Todd Podgorski standing with other members of the South St. Paul City Council in Council c",
@@ -18,6 +19,9 @@
 "alt:|Todd voting to support students at the recent school bond referendum",
 "embed://img1.wsimg.com/blobby/go/5d11cf7e-8097-44d4-934f-950e367356cb/video/ICE_Community_Meeting_30MB_v2.mp4",
 "embed://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/thumbnails/thumbnail-045bb846-6768-455c-a6ae-a25c25265a70.png",
+"img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/blob-6c0ad29.png/:/rs=h:200,cg:true,m/qt=q:95",
+"img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/blob-6c0ad29.png/:/rs=w:1002",
+"img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/blob-6c0ad29.png/:/rs=w:568",
 "img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/minnesota-state-capitol-1.jpg/:/",
 "img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/minnesota-state-capitol-1.jpg/:/rs=w:1023",
 "img://img1.wsimg.com/isteam/ip/5d11cf7e-8097-44d4-934f-950e367356cb/minnesota-state-capitol-1.jpg/:/rs=w:451",
@@ -30,7 +34,11 @@
 "img://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:451",
 "img://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:600",
 "img:cg:true",
+"img:h:200",
+"img:h:200/qt=q:95",
 "img:h:301",
+"img:h:353",
+"img:h:353/qt=q:95",
 "img:h:365",
 "img:h:388",
 "img:h:400",
@@ -40,5 +48,7 @@
 "img:h:682",
 "img:h:800",
 "img:i:true/qt=q:1/ll=n:true",
-"img:m"
+"img:m",
+"img:m/cr=w:1002",
+"img:m/cr=w:568"
 ]

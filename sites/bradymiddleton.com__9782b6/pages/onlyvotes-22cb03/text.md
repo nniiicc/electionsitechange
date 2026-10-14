@@ -1,7 +1,7 @@
 Meet Brady Platform Events Vote Get Involved Donate WEST MICHIGAN: IT’S TIME TO VOTE!
 Election Day in Michigan is almost here, and it’s time to make your voice heard.
 Make a plan to vote!
-Request my Absentee Ballot GENERAL ELECTION TIMELINE 10/5/26 Optional Early Voting Begins 10/13/26 #ago 10/19/26 Deadline to Register to Vote by Mail or Online 10/20/26 City of Grand Rapids Early Voting Starts 10/24/26 Early Voting Starts (Check with your local clerk to see if your community partakes in optional # Day of Early Voting) 11/1/26 Early Voting Ends 11/2/26 Mail-In Ballot Request Deadline 11/3/26 Election Day!
+Request my Absentee Ballot GENERAL ELECTION TIMELINE 10/5/26 Optional Early Voting Begins 10/14/26 #ago 10/19/26 Deadline to Register to Vote by Mail or Online 10/20/26 City of Grand Rapids Early Voting Starts 10/24/26 Early Voting Starts (Check with your local clerk to see if your community partakes in optional # Day of Early Voting) 11/1/26 Early Voting Ends 11/2/26 Mail-In Ballot Request Deadline 11/3/26 Election Day!
 Review the critical election deadlines to ensure you’re prepared to vote!
 My Voting Options # Days # Hours # Minutes # Seconds ARE YOU REGISTERED TO VOTE?
 Don’t wait — register to vote or update your registration before it’s too late!

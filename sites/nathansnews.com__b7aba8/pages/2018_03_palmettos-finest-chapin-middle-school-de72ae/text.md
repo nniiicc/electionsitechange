@@ -18,9 +18,9 @@ Presenting the awards to the five winners were Brenda Byrd (Chairman of the Palm
 David Mathis (President, SC Association of School Administrators), The Honorable Molly Spearman (SC Superintendent of Education) and Judi Gatson (Emcee and Anchor of WIS-TV).
 “The Palmetto’s Finest award winners are models of innovation throughout our state,” said SCASA’s Executive Director Beth Phibbs.
 “They set the standard of excellence by creating an outstanding school culture which includes setting high expectations and providing opportunities for personalized learning.” Post navigation The Weekly Rewind – March 23rd Thank you for the early support!
-Primary June 12th Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Primary June 12th Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

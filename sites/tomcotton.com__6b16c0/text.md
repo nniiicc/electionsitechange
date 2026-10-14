@@ -36,7 +36,7 @@ First Name (Required) Last Name (Required) Email (Required) Phone Number (Requir
 Message and data rates may apply.
 Reply STOP to opt out.
 View our Terms & Conditions and Privacy Policy here .
-Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.
+Sign Up Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.
 If you need help from his official Senate office, please click here .
 Paid for by Cotton for Senate.
 Senator Cotton was honorably discharged from the U.S.

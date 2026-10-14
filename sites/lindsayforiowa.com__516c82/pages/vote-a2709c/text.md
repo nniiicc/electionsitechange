@@ -7,8 +7,7 @@ You must vote with your absentee ballot at the auditor's office.
 Some counties have satellite absentee voting stations to provide in-person absentee voting at places other than the auditor's office.
 You must mark the absentee ballot at the auditor's office or the satellite station and leave it with the officials.
 You cannot take the ballot home with you.
-To find out whether a satellite station is planned for an election, contact your county auditor or iwillvote.com .
-Voting on Election Day Polls are open from 7:00 am to 8:00 pm on Election Day.
+To find out whether a satellite station is planned for an election, contact your county auditor or iwillvote.com/IA Voting on Election Day Polls are open from 7:00 am to 8:00 pm on Election Day.
 If you are in line before 8PM, you can stay in line & vote.
 Registering to Vote on Election Day You may register and vote on the same day during early voting and on election day.
 You must go to the correct polling place for your current address on election day.

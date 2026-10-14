@@ -1,29 +1,13 @@
 Skip navigation menu About Issues Events Endorsements Get involved Donate now » Upcoming events About Issues Events Endorsements Get involved Donate now » Upcoming events Join the WisDems Call Crew!
 Virtual Event Join us in 2026 to help keep Wisconsin blue and elect Democrats up and down the ballot!
-Sign up for upcoming events and phone banks below: Direct Voter Contact Phone Banks: https://www.mobilize.us/… Show more RSVP Request a yard sign for David Crowley from Fitchburg Progress Virtual Event Fitchburg Progress will (eventually, please have patience) have a limited number yard signs for David Crowley and other candidates as available, and we will be distributing them to Fitchburg voters. … Show more RSVP Knockin' with Knoke Multiple Times 901 4th St 101, Hudson, WI, 54016 Join Kevin Knoke for an afternoon of talking with neighbors and making a real difference, one conversation at a time!
-Whether you've canvassed before or it's your first time, we'll make sure you have … Show more RSVP ADCC GOTV with John Kroll, Vinnie Miresse, Gillian Battino, Yee Leng Xiong and friends!
-Marathon Co.
-Dems 900 Grand Ave, Schofield, WI, 54476 Join your assembly candidate John Kroll and friends in knocking doors!
-We’re meeting on Oct.
-13th at 11 a.m. in the Marathon Co.
-Dems Office.
-No experience is necessary, we'll get you trained and rea… Show more RSVP WisDems Canvass in Bay View!
+Sign up for upcoming events and phone banks below: Direct Voter Contact Phone Banks: https://www.mobilize.us/… Show more RSVP Request a yard sign for David Crowley from Fitchburg Progress Virtual Event Fitchburg Progress will (eventually, please have patience) have a limited number yard signs for David Crowley and other candidates as available, and we will be distributing them to Fitchburg voters. … Show more RSVP Canvass to Re-Elect Lee Snodgrass Multiple Times Democratic Party of Outagamie County 516 W College Ave, Appleton, WI, 54911 Canvass with Re-Elect Lee Snodgrass Campaign For the first time in over 15 years, Democrats have the opportunity to be in the majority in the state legislature.
+However, that can’t happen unless we w… Show more RSVP Knockin' with Knoke Multiple Times 901 4th St 101, Hudson, WI, 54016 Join Kevin Knoke for an afternoon of talking with neighbors and making a real difference, one conversation at a time!
+Whether you've canvassed before or it's your first time, we'll make sure you have … Show more RSVP WisDems Canvass in Bay View!
 Multiple Times 2999 S Delaware Ave, Milwaukee, WI, 53207 Join us to talk to voters in Bay View about our Fall Elections!
-RSVP Sheboygan County Canvassing Multiple Times 816 Erie Ave, Sheboygan, WI, 53081 Knock doors to support democrats on the ballot this November!
-RSVP Weekday Afternoon Canvasses in Oregon!
-Multiple Times Oregon Area Progressives 185 W Netherwood Rd, Oregon, WI, 53575 Are your weekends full?
-Canvass on Tuesday or Thursday afternoons.
-Talk with voters about our candidates, what they represent, and what’s at stake for Wisconsin in the November election.
-We’ll train… Show more RSVP Canvass with the Madtown Os to win in November!
-Multiple Times 3809 Mineral Point Rd, Madison, WI, 53705 The clock is already ticking towards the November 3rd election!
-Join the Os to knock doors for future WI Governor David Crowley, AG Josh Kaul, Yee Leng Xiong for Treasurer, Rep.
-Mark Pocan, your state… Show more RSVP Knock Doors with the Winnebago Dems in Oshkosh!
-Multiple Times 480 N Main St, Oshkosh, WI, 54901 Folks, it's go time.
-We need to win in November, and that starts with neighbors talking to neighbors in their own communities.
-Our Oshkosh team will be canvassing every Saturday and we'd love to hav… Show more RSVP Canvass to Re-Elect Lee Snodgrass Multiple Times Democratic Party of Outagamie County 516 W College Ave, Appleton, WI, 54911 Canvass with Re-Elect Lee Snodgrass Campaign For the first time in over 15 years, Democrats have the opportunity to be in the majority in the state legislature.
-However, that can’t happen unless we w… Show more RSVP Knock Doors with the Dunn County Dems!
+RSVP Knock Doors with the Dunn County Dems!
 Multiple Times Dunn County Democratic Party 1315 N Broadway St, Menomonie, WI, 54751 Help the Dunn County Democrats ensure the Chippewa Valley gets a blue wave in 2026 and elects David Crowley!
-Wisconsin Democrats are fighting for a democratic trifecta: Dem Governor and Democratic maj… Show more RSVP Canvass with the Eau Claire Democrats!
+Wisconsin Democrats are fighting for a democratic trifecta: Dem Governor and Democratic maj… Show more RSVP Sheboygan County Canvassing Multiple Times 816 Erie Ave, Sheboygan, WI, 53081 Knock doors to support democrats on the ballot this November!
+RSVP Canvass with the Eau Claire Democrats!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Eau Claire, WI, 54701 Please Note: The EC Staging Location has moved, effective Saturday 9/12.
@@ -51,7 +35,11 @@ We'll work in teams to tackle shorter, more digesti… Show more RSVP Get Out th
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Grafton, WI, 53024 Help get voters to the polls for the November 3rd election in Grafton and Cedarburg!
-RSVP Canvass with Ben Brist Multiple Times DIA Café 6601 Northway, Greendale, WI, 53129 Join Ben Brist and friends in knocking doors.
+RSVP Weekday Afternoon Canvasses in Oregon!
+Multiple Times Oregon Area Progressives 185 W Netherwood Rd, Oregon, WI, 53575 Are your weekends full?
+Canvass on Tuesday or Thursday afternoons.
+Talk with voters about our candidates, what they represent, and what’s at stake for Wisconsin in the November election.
+We’ll train… Show more RSVP Canvass with Ben Brist Multiple Times DIA Café 6601 Northway, Greendale, WI, 53129 Join Ben Brist and friends in knocking doors.
 We’re going to launch from DIA Cafe and return there for a bit of socializing afterward.
 The road to the Democratic trifecta runs through District 61, an… Show more RSVP Canvass Launch with your State Representative Vinnie Miresse!
 Multiple Times Portage Co.
@@ -85,7 +73,10 @@ Now that the spring elections are behind us, it's really important that we do ev
 That starts with neighbors talking to neighbors i… Show more RSVP Canvass with Marathon County Dems!
 Multiple Times Marathon County Democratic Party 900 Grand Ave Suite 2, Schofield, WI, 54476 Folks, it's go time.
 Now that the spring elections are behind us, it's really important that we do everything we can to guarantee success in November.
-That starts with neighbors talking to neighbors i… Show more RSVP Fall Can't Afford to Wait till 2028 Canvass with MSAT!
+That starts with neighbors talking to neighbors i… Show more RSVP Canvass with the Madtown Os to win in November!
+Multiple Times 3809 Mineral Point Rd, Madison, WI, 53705 The clock is already ticking towards the November 3rd election!
+Join the Os to knock doors for future WI Governor David Crowley, AG Josh Kaul, Yee Leng Xiong for Treasurer, Rep.
+Mark Pocan, your state… Show more RSVP Fall Can't Afford to Wait till 2028 Canvass with MSAT!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Madison, WI, 53719 Join us for our Can’t Afford to Wait til 2028 Voter Turnout Weekends!
@@ -94,7 +85,10 @@ The work we do now makes a WI win in November for Governor, Atto… Show more RS
 Sign up for more details This event’s address is private.
 Sign up for more details, Onalaska, WI, 54650 Ready to make a difference this summer?
 Join your neighbors and fellow Democrats as we get out into our communities to listen, engage, and build momentum for the months ahead.
-Whether you're a seasone… Show more RSVP Knock Doors to Get Out the Vote in Douglas County!
+Whether you're a seasone… Show more RSVP Knock Doors with the Winnebago Dems in Oshkosh!
+Multiple Times 480 N Main St, Oshkosh, WI, 54901 Folks, it's go time.
+We need to win in November, and that starts with neighbors talking to neighbors in their own communities.
+Our Oshkosh team will be canvassing every Saturday and we'd love to hav… Show more RSVP Knock Doors to Get Out the Vote in Douglas County!
 Multiple Times Douglas County Democratic Party 1109 Tower Ave, Superior, WI, 54880 In Douglas County, there are thousands of untapped voters.
 We need your help to reach them!
 Volunteer with us GET OUT THE VOTE and help build Democracy in your neighborhood!

@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 13th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements State is doing what it can to address homelessness One story after another in the Mail Tribune describes the many ways that homelessness affects all of us — teachers, cops, social workers, park employees, shopkeepers, bus drivers, ODOT workers, newspaper reporters, family members and residents — in heart-rending and often frustrating experiences.
+Skip to content Wed.
+Oct 14th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements State is doing what it can to address homelessness One story after another in the Mail Tribune describes the many ways that homelessness affects all of us — teachers, cops, social workers, park employees, shopkeepers, bus drivers, ODOT workers, newspaper reporters, family members and residents — in heart-rending and often frustrating experiences.
 The homeless adults that we encounter on sidewalks in in parks are just the tip of the iceberg.
 The 5 percent of children in our schools who are without stable homes are less visible.
 It is hard to understand how we could let this happen at a moment when employment is peaking and economists tell us we are well off.

@@ -1,5 +1,25 @@
 [
 {
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=5"
+},
+{
+"text": "$#",
+"href": "https://www.amyklobuchar.com/donate?amount=50"
+},
+{
 "text": "Careers",
 "href": "https://www.amyklobuchar.com/careers"
 },
@@ -40,6 +60,10 @@
 "href": "https://www.amyklobuchar.com/facts/"
 },
 {
+"text": "Home",
+"href": "https://www.amyklobuchar.com/"
+},
+{
 "text": "Instagram",
 "href": "https://instagram.com/amyklobuchar"
 },
@@ -66,6 +90,10 @@
 {
 "text": "Newsroom",
 "href": "https://www.amyklobuchar.com/newsroom"
+},
+{
+"text": "Other",
+"href": "https://www.amyklobuchar.com/donate?amount=other"
 },
 {
 "text": "Prepare Minnesota’s Workforce for the Future",
@@ -100,8 +128,8 @@
 "href": "https://www.amyklobuchar.com/priorities#support-conservation-and-outdoor-recreation"
 },
 {
-"text": "Take on Crime and Ensure Public Safety",
-"href": "https://www.amyklobuchar.com/priorities#take-on-crime-and-ensure-public-safety"
+"text": "Take on Crime and Support Public Safety",
+"href": "https://www.amyklobuchar.com/priorities#take-on-crime-and-support-public-safety"
 },
 {
 "text": "Track your ballot",

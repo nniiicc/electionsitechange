@@ -1,6 +1,10 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Mark Warner used a 51% childhood food insecurity claim to advance a political narrative about the White House ballroom.… See upcoming events Privacy Policy Effective Date: January 16, 2026 Bert for Senate 2026 values your privacy and is committed to protecting your personal information.
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Senator, you’ve had 17 years.
+Costs are higher, not lower.
+You voted for massive spending packages that drove inflation… See upcoming events Privacy Policy Effective Date: January 16, 2026 Bert for Senate 2026 values your privacy and is committed to protecting your personal information.
 This Privacy Policy outlines how we collect, use, and safeguard your data, particularly regarding our SMS (text message) communications, in compliance with 10DLC regulations.
 1.
 Information We Collect We may collect the following personal information from you when you engage with our website or services: Personal Information: Name, email address, phone number, and mailing address.

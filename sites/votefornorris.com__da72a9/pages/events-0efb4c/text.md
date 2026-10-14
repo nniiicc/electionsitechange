@@ -1,14 +1,54 @@
 0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Check out our upcoming events!
-Oct 21 October 21 Phone Banking for Matt (Virtual) Wednesday, October 21, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
+Oct 17 Door Knock for Matt Norris Saturday, October 17, 2026 10:00 AM 12:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll launch at 10 am from the Lino Lakes DFL Action Center.
+View Event → Oct 18 Door Knock for Matt Norris with House DFL Floor Leader Jamie Long Sunday, October 18, 2026 4:00 PM 6:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris with House DFL Floor Leader Jamie Long!
+Register here so we know you’re coming.
+We’ll launch at 4 pm from the Lino Lakes DFL Action Center.
+View Event → Oct 21 Door Knock for Matt Norris Wednesday, October 21, 2026 4:00 PM 6:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll meet by the big red barn at the Lexington Athletic Complex in Blaine.
+View Event → Oct 21 October 21 Phone Banking for Matt (Virtual) Wednesday, October 21, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
 You must have your own computer and phone to complete this volunteer opportunity!
 This opportunity is 100% virtual.
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
+View Event → Oct 24 Joint Norris/Ford/Chapin Door Knock in District 32B Saturday, October 24, 2026 12:00 PM 2:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to help get out the vote for Matt Norris, State Senate Candidate Chris Ford, and U.S.
+House Candidate Doug Chapin!
+Register here so we know you’re coming.
+We’ll launch at 12 pm from the Lino Lakes DFL Action Center.
+View Event → Oct 25 Door Knock for Matt Norris Sunday, October 25, 2026 10:00 AM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am, 12 pm, 3 pm, and 5 pm.
+View Event → Oct 26 Door Knock for Matt Norris Monday, October 26, 2026 12:00 PM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 12 pm, 3 pm, and 5 pm.
+View Event → Oct 27 Door Knock for Matt Norris Tuesday, October 27, 2026 12:00 PM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 12 pm, 3 pm, and 5 pm.
+View Event → Oct 28 Door Knock for Matt Norris Wednesday, October 28, 2026 12:00 PM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 12 pm, 3 pm, and 5 pm.
 View Event → Oct 28 October 28 Phone Banking for Matt (Virtual) Wednesday, October 28, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
 You must have your own computer and phone to complete this volunteer opportunity!
 This opportunity is 100% virtual.
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
+View Event → Oct 29 Door Knock for Matt Norris Thursday, October 29, 2026 12:00 PM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 12 pm, 3 pm, and 5 pm.
+View Event → Oct 30 Door Knock for Matt Norris Friday, October 30, 2026 12:00 PM 5:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 12 pm and 3 pm.
+View Event → Oct 31 Door Knock for Matt Norris Saturday, October 31, 2026 10:00 AM 5:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am, 12 pm, and 3 pm.
+View Event → Nov 1 Door Knock for Matt Norris Sunday, November 1, 2026 10:00 AM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am, 12 pm, 3 pm, and 5 pm.
+View Event → Nov 2 Door Knock for Matt Norris Monday, November 2, 2026 10:00 AM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Register here so we know you’re coming.
+We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am, 12 pm, 3 pm, and 5 pm.
 View Event → Sep 19 Door Knock for Matt Norris Saturday, September 19, 2026 10:00 AM 2:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 We have two shifts this Saturday—one starts at 10 am and the other one starts at 12 pm.
 Register here so we know you’re coming.
@@ -153,7 +193,6 @@ Volunteers will meet for a brief training before heading out to knock on doors i
 Bring your best walking shoes and enthusiasm!
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
-View Event → Click on an event link and to register.
-Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+View Event → Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
 P.O.
 Box 490868, Blaine, MN 55449

@@ -1,10 +1,10 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Tattnall County County Seat: Reidsville & Glennville 22,842 Population 1801 Est.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Tattnall County County Seat: Reidsville & Glennville 22,842 Population 1801 Est.
 Community Profile Key details for Tattnall County "Sweet onion farming, timber, Smith State Prison EMS burden" Key Communities Reidsville Glennville Collins Manassas Cobbtown Take Action Represent Tattnall County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Tattnall County, join our grassroots movement today.
-Volunteer Here Donate Tattnall County Forecast Live Data #ago Clear sky 79° 63° Tue, Oct 13 Clear sky 82° 62° Wed, Oct 14 Partly cloudy 86° 65° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Tattnall County Forecast Live Data #ago Partly cloudy 81° 60° Wed, Oct 14 Fog 83° 61° Thu, Oct 15 Clear sky 86° 66° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

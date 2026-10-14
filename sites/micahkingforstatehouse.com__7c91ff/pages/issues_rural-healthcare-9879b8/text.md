@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Rural Healthcare in Georgia District 157 How Medicaid cuts, maternity deserts, and hospital budget shortfalls are hitting Southeast Georgia, and Micah King's plan to protect rural healthcare access.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to All Issues Rural Healthcare in Georgia District 157 How Medicaid cuts, maternity deserts, and hospital budget shortfalls are hitting Southeast Georgia, and Micah King's plan to protect rural healthcare access.
 The Fight to Keep Hospitals Open If you live in Tattnall, Jeff Davis, Appling, or Evans County and you have ever had to decide whether a chest pain or a pregnancy complication was worth a forty-five minute drive to Savannah or Vidalia, you already understand this issue better than most policymakers in Atlanta ever will.
 Rural healthcare in Southeast Georgia is not an abstract budget line.
 It is the difference between getting care in time and not getting it at all.

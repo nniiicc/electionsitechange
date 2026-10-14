@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-KATIE DEMPSEY FOR STATE HOUSE Strong, Conservative Leadership for North Georgia Meet Katie Get In Touch Home: Welcome My top priority is to protect the hard-earned dollars of every constituent to ensure that Georgia families can afford the necessities of life without sacrificing our future.
+Donate KATIE DEMPSEY FOR STATE HOUSE Strong, Conservative Leadership for North Georgia Meet Katie Get In Touch Home: Welcome My top priority is to protect the hard-earned dollars of every constituent to ensure that Georgia families can afford the necessities of life without sacrificing our future.
 Together, we will build a stronger, more resilient Georgia economy that works for everyone.
 It would be my honor to earn your vote and continue working for you to keep our Georgia prosperous and strong. - Kate Dempsey, State Representative for Georgia House District 13 Quote CONTACT I'd love to hear from you!
 Send me an email using the form below. ​ You can also use this form to request a yard sign.

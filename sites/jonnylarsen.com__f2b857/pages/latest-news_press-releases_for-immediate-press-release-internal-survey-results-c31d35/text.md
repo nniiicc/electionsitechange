@@ -9,7 +9,7 @@ Kennedy.
 "People of every party want something new.
 Once voters learned who I am, where I come from, and that I served my country honorably as a United States Marine, many more of them were ready to vote for me.
 They want someone who has lived what they are living and a representative who shows up and listens to their concerns." Full released survey results can be found here: https://JonnyLarsen.com/sept-2026-survey-results Jonny Larsen is a United States Marine combat veteran running for Congress in Utah’s 4th District.
-View Original Email Version → Support the Commitment Click an option to get started.
+View Original Email Version → Older → PRESS RELEASE: Silencing Voices In Utah Politics Support the Commitment Click an option to get started.
 If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
 Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
 Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.

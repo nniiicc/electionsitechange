@@ -1,5 +1,5 @@
 top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items. clambton13 clambton13 Admin 0 Followers 0 Following Follow More actions Profile Profile Join date: Oct 23, 2025 Posts (4) Jul 29, 2026 ∙ 2 min Retirement Should Not Mean Being Priced Out Chris Lambton outlines practical ways to help Cape Cod seniors age in place, reduce costs, access benefits, and receive stronger constituent services.
-59 0 May 24, 2026 ∙ 3 min Protecting Our Water is Personal Chris Lambton believes protecting the Cape’s waters is essential to the region’s health, economy, and future.
+60 0 May 24, 2026 ∙ 3 min Protecting Our Water is Personal Chris Lambton believes protecting the Cape’s waters is essential to the region’s health, economy, and future.
 From wastewater planning and coastal resiliency to pond health, fishery protection, and Cape Cod Bay, Chris brings local experience and a lifelong connection to and expertise on the water to his environmental priorities.
 137 0 Apr 3, 2026 ∙ 2 min Workers and the Functioning of Our Towns I’m hearing the same concerns across Brewster, Dennis, and Yarmouth.
 It is ridiculously hard for towns to attract, hire, and retain the people.

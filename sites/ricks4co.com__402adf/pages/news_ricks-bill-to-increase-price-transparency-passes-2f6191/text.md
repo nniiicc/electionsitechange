@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Kwon Atlas March 25, 2024 Ricks Bill to Increase Price Transparency Passes Kwon Atlas March 25, 2024 DENVER, CO - The House passed a bill sponsored by Representative Naquetta Ricks that would require companies to post the full price of a product, good, or service, including any mandatory fees, to improve price transparency for Colorado consumers.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Kwon Atlas March 25, 2024 Ricks Bill to Increase Price Transparency Passes Kwon Atlas March 25, 2024 DENVER, CO - The House passed a bill sponsored by Representative Naquetta Ricks that would require companies to post the full price of a product, good, or service, including any mandatory fees, to improve price transparency for Colorado consumers.
 The bill passed by a vote of 45-18.
 “Service fees can add hundreds of dollars to your bill, raising prices by 20 percent and misleading Coloradans about the true cost of goods and services,” said Rep.
 Naquetta Ricks, D-Aurora.

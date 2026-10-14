@@ -1,4 +1,5 @@
-Home About Issues Press Get Involved DONATE Category: Uncategorized Candidacy for House District 22 Posted : Sep 29, 2025 in : Uncategorized by : admin On August 17th, I announced my candidacy for Iowa House District 22, emphasizing the need for a representative committed to all Iowans rather than special interests.
+Home About Issues Press Get Involved DONATE Category: Uncategorized NO KINGS Rally Posted : Oct 20, 2025 in : Uncategorized by : admin It was great getting to attend the NO KINGS rally in Indianola and Des Moines this weekend!
+Candidacy for House District 22 Posted : Sep 29, 2025 in : Uncategorized by : admin On August 17th, I announced my candidacy for Iowa House District 22, emphasizing the need for a representative committed to all Iowans rather than special interests.
 I am dedicated to working hard for my constituents and sincerely seek their support in this endeavor.
 Let’s unite for this common goal.
 GOTV Posted : Nov 4, 2024 in : Uncategorized by : admin Volunteers for Rory tagged 500 doors today with GOTV candidate literature in Norwalk precincts.
@@ -17,15 +18,13 @@ Need a yard sign?
 Reach out and we will get one delivered!
 Fair Season!
 Posted : Aug 16, 2024 in : Uncategorized by : admin Rory had a great time volunteering this moth at the Democratic booth for both the Iowa State Fair and Warren County Fair!
-New Virginia Parade Posted : Jul 17, 2024 in : Uncategorized by : admin Thank you to the crew that walked in the New Virginia Old Settlers parade!
-July 4th Parades Posted : Jul 5, 2024 in : Uncategorized by : admin Thanks to all who helped with the Carlisle and Norwalk Parades! ← Previous 1 2 3 4 5 Next → Search Search Recent Posts National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 Nations 250th Birthday!
-July 12, 2026 Recent comments admin on Yard Signs!
+New Virginia Parade Posted : Jul 17, 2024 in : Uncategorized by : admin Thank you to the crew that walked in the New Virginia Old Settlers parade! ← Previous 1 2 3 4 5 Next → Search Search Recent Posts Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 Yard Signs!
+August 26, 2026 Recent comments Amie on Yard Signs!
+October 13, 2026 Kirsten Piatt on Yard Signs!
+September 28, 2026 admin on Yard Signs!
 September 21, 2026 Amanda Sengbusch on Yard Signs!
 September 5, 2026 Tyler & Daniel Pierce on Get your signs!
-October 12, 2024 Mark & Haley Hanrahan on Get your signs!
-September 24, 2024 Sue van vleet on Campaign Kickoff October 21, 2023 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
+October 12, 2024 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
 Rory believes that the true measure of a leader is in service to his community- which is why he is running for Iowa House.
-Contact Info info@taylorforhouse.com Campaign Updates National Farm Safety & Health Week September 21, 2026 Yard Signs!
-August 26, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
+Contact Info info@taylorforhouse.com Campaign Updates Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .
 All Rights Reserved Scroll To Top

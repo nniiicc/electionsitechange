@@ -19,7 +19,23 @@ Thank you!
 Andrew Love John Deaton for U.S.
 Senate Campaign Political Director andrew@johndeatonforsenate.com Oops, there was an error sending your message.
 Please try again later.
-Watch Watch Watch Watch Watch Watch Watch Watch Watch LATEST NEWS Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
+Watch Watch Watch Watch Watch Watch Watch Watch Watch LATEST NEWS John Deaton Puts People Over Politics in Debate Against Sen.
+Ed Markey By Mark Steffan • October 13, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
+Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
+Ed Markey, stating: "Massachusetts families deserved answers tonight.
+After 53 years in office, Ed Markey still doesn’t have them.
+"I didn't hear a single substantial answer from Senator Markey about how he would deliver results in the next six years when he's failed to deliver those results for more than 50 years already.
+"I spent the debate talking about the real issues driving people out of this state: the highest electricity rates in the continental United States, housing that working families can no longer afford, and a cost of living that keeps getting worse.
+Senator Markey spent it defending a record that has failed to deliver results.
+"He’s had half a century.
+Massachusetts is still unaffordable for too many.
+That’s not progress.
+That’s a career politician who has lost touch with the people he claims to represent.
+"I’m not a career politician.
+I’m a Marine, a trial lawyer, a cancer survivor, and a father who lived paycheck to paycheck.
+I’ve put forward real solutions: including the Clean Hands Act to ban stock and crypto trading by members of Congress and impose a lifetime lobbying ban — because Washington needs accountability, not more of the same.
+"Massachusetts deserves better than 53 years of no results.
+I’m ready to deliver them." ### Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
 Senate in Massachusetts, today called on Congress to pass a national AI standard with enforceable consumer protections.
 The call follows this week's announcement of an AI video model that its maker says nearly half of test subjects mistook for a real person.
 AI company Tavus unveiled the model, called Griffin, on October 1.
@@ -185,29 +201,7 @@ Interviews linked below.
 "People in this state are paying too much for care and getting too little from Washington.
 That doesn't change because you put a slogan on a sign." "I'll take on the middlemen who inflate prices, open the books, and fight for a system that actually works for patients," Deaton said.
 "And I'll treat immigration like a problem to solve, not a line for a rally.
-Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### John Deaton Statement on U.S.
-Senates Failure to Advance Clarity Act By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 10, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com West ern Massachusetts deserves a debate in its own backyard, not another cycle of being ignored SPRINGFIELD, Mass. — Republican U.S.
-Senate nominee John Deaton today accepted the debate invitation from 22News in Springfield and announced he has agreed to all four televised general-election debate requests from Massachusetts stations: WWLP-22News (Springfield / Western Massachusetts) Boston 25 WCVB TV-5 October 14th WBZ TV-4 October 13th “Yes.
-All four.
-Immediately,” Deaton said.
-“Every one of these invitations should be honored, especially Western Massachusetts.
-If Senator Markey wants to pick Boston stages and skip Springfield, that is his choice.
-It will not be mine.” Four issues for Western Mass that can’t be ignored The $2 billion Springfield courthouse scandal: a $2 billion state contract awarded amid conflict-of-interest allegations and Boston political connections.
-The cyberattack on Springfield Public Schools: schools shut down, nurses locked out of student medical records, more than 23,000 students sent home.
-The LaMar Cook scandal: Gov.
-Healey’s former Western Mass aide arrested after authorities said 18 pounds of cocaine were headed to the Springfield state office building where he worked.
-Data center proposals in Holyoke and Westfield: power bills, water, land use, and who pays, decided too often after Boston has already moved on.
-Canadian hydropower and the region’s energy future.
-NECEC is sending about a fifth of Massachusetts’s power from Hydro-Québec through Western Mass, with uneven flows and reliability still unresolved.
-Western Mass sits at the center of the energy transition and eats the costs and the risk while Boston takes the credit for “clean energy.” We need all-of-the-above: hydro, solar, wind, nuclear, and real grid investment, and a senator who will fight for the Valley on it, not fly in for the ribbon-cutting.
-Deaton said incumbent politicians treat the Valley as an afterthought every election cycle, campaigning on Beacon Hill and in Boston studios while assuming Pioneer Valley families will catch whatever spills over from eastern media.
-“People in Springfield, Holyoke, Chicopee, Pittsfield, and across the Valley often cannot even tune in to Boston television the way Boston takes for granted,” Deaton said.
-“They don’t get the coverage.
-They don’t get the candidate in their backyard.
-They feel ignored because they are ignored.” “A Senate debate in Western Massachusetts is the minimum,” Deaton said.
-“It is not optional.
-Show up in Springfield and answer for it.” The Deaton campaign is appreciative of the 22News team for also offering a separate press room so any member of the press from across the Commonwealth can watch the debate and interview the candidates immediately following the event.
-### 1 (current) 2 3 ...
+Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### 1 (current) 2 3 ...
 6 let's shake up washington ﻿ Chip in Today to Retire Ed Markey $50 $100 $250 $500 $1,000 $2,500 OTHER CRYPTO WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.

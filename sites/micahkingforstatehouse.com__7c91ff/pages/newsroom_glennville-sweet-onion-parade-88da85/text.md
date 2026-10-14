@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Glennville #Agriculture #Community Glennville Celebrates 50th Annual Sweet Onion Festival & Parade May 17, 2026 2 min read By Micah King When Saturday, May 9, 2026 at 10:00 AM Where Downtown Glennville, Tattnall County, GA Table of Contents • Stewardship Over Complacency • Key Commitments for Our Agricultural Heritage: Last Saturday, May 9th, I had the honor of joining thousands of our Tattnall County neighbors in downtown Glennville for the historic 50th Annual Glennville Sweet Onion Festival and Parade .
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Glennville #Agriculture #Community Glennville Celebrates 50th Annual Sweet Onion Festival & Parade May 17, 2026 2 min read By Micah King When Saturday, May 9, 2026 at 10:00 AM Where Downtown Glennville, Tattnall County, GA Table of Contents • Stewardship Over Complacency • Key Commitments for Our Agricultural Heritage: Last Saturday, May 9th, I had the honor of joining thousands of our Tattnall County neighbors in downtown Glennville for the historic 50th Annual Glennville Sweet Onion Festival and Parade .
 For five decades, this festival has celebrated a crop, and the hard work behind it.
 Tattnall County produces some of the most celebrated sweet onions in the world, and that success is built on the shoulders of multi-generational farming families, local laborers, and agricultural stewards who work our soil every day.
 Being on the parade route, shaking hands, and hearing your stories reminded me of exactly why I launched this campaign.

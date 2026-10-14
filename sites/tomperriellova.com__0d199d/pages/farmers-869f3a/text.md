@@ -12,4 +12,5 @@ Tom fought to curb the power of insurance companies and private equity to squeez
 Recent changes from HR1 removed over $1 trillion from rural health systems, and raised premiums by 50-75% on Virginia families.
 Rural hospitals and clinics are closing, and insurance companies keep raising premiums while denying care.
 McGuire voted for the Medicaid cuts in the One Big Beautiful Bill Act.
-Tom will: • Fight to keep rural hospitals open • Go after insurance company abuses • M ake coverage affordable for farm families who don't get insurance through an employer Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.
+Tom will: • Fight to keep rural hospitals open • Go after insurance company abuses • M ake coverage affordable for farm families who don't get insurance through an employer Privacy Policy Terms & Conditions Media Kit P.O.
+Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

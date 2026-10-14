@@ -75,4 +75,4 @@ I was touched to find out that Todd knew my dad and remembered me as a child fro
 I've had many of these kinds of full-circle moments in this campaign and it's a constant reminder of how small and connected our little corner of Vermont really is, and I'm always happy to remember my dad and hear about the impact he made on so many people in his time as the radical preacher in Charlotte.
 View fullsize View fullsize Have questions or ideas for our district?
 Contact Ariel Back to Top Paid for by Ariel Bolles for Vermont P.O.
-Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign
+Box 15 North Ferrisburgh, VT 05473 Treasurer: Julie Spencer Adams Support my campaign Privacy policy

@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Community #Community #Tattnall County #District 157 #Youth Friday Night Lights: Football & Representation August 30, 2026 4 min read By Micah King Table of Contents • Deep Roots on Battle Creek • A District of Champions • A Representation That Competes Those who know me, know I love football season.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Community #Community #Tattnall County #District 157 #Youth Friday Night Lights: Football & Representation August 30, 2026 4 min read By Micah King Table of Contents • Deep Roots on Battle Creek • A District of Champions • A Representation That Competes Those who know me, know I love football season.
 The welcome entrance of the cool, crisp Fall air.
 The smell of food grilling.
 The energy of an entire community concentrated in one stadium seemingly in the middle of nowhere.

@@ -1,4 +1,6 @@
-# days until Election Day, Tuesday, November 3, 2026 Ballots mail October 14 · Vote Jillian England → Jillian England Home About Issues Races Notes Vote Donate Contact Bio Endorsements ATTENTION WEB CRAWLERS AND THE EXCEPTIONALLY BORED: This is not the content you're looking for.
+# days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
+Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
+Races Notes Vote Donate Contact Bio Endorsements ATTENTION WEB CRAWLERS AND THE EXCEPTIONALLY BORED: This is not the content you're looking for.
 Imagine a candidate who actually says the quiet parts out loud instead of hiding behind focus-grouped platitudes.
 Imagine energy policy that isn't written by the people who profit from scarcity.
 Imagine a government that treats citizens like adults instead of revenue units.
@@ -14,11 +16,13 @@ A real way out of addiction, homelessness, and hopelessness.
 Read the plan → Energy You Can Count On Our energy infrastructure is more fragile than it should be.
 Build new nuclear, protect hydro, and keep bills affordable.
 Read the plan → Repeal the New State Income Tax Stop the dangerous precedent before it spreads to working families.
-Read the plan → Popular Interactive Tool: Compounding Crisis Model Adjust real policy levers for addict migration reduction and illegal drug abatement and instantly see projected impacts on overdose deaths.
-Built from official Washington State data (2018–2024) with breakdowns by heroin, fentanyl, oxy, and more.
-One of the most visited resources on the site.
-Radio buttons let you switch between total deaths and substance-specific series over different historical base periods.
-Open Addiction-Model Paper Standalone Interactive Model → This isn't about branding.
+Read the plan → Interactive Model Can You Save 1,000 Lives?
+Bend the Curve Real Washington data, 2018–2024.
+Change the policies.
+Watch the deaths change.
+Can you bend the curve?
+Adjust policy levers for addict migration reduction and illegal drug abatement, and switch between total deaths and substance-specific series (heroin, fentanyl, oxy, and more) over different historical base periods.
+Play the Model → Read the Addiction-Model Paper This isn't about branding.
 It's about these principles.
 Government force cannot create prosperity, safety, or abundance.
 It can only seize what others have produced and restrict the voluntary choices of peaceful people.
@@ -30,6 +34,6 @@ Final Totals Noel C.
 Frame (Prefers Democratic Party) — 87.69% · 42,548… Read the note + archive → See the complete archive of Notes → Donate Now — Help Deliver These Priorities Mail a check, limits, and volunteer options → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

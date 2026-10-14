@@ -1,5 +1,5 @@
 top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
-All Posts From Katie News Search Coosa Valley News: Rep.
+Donate All Posts From Katie News Search Coosa Valley News: Rep.
 Dempsey Attends Elder Abuse Symposium as Honored Guest Katie Dempsey May 19, 2022 3 min read Collaboration between law enforcement and the private sector are helping investigators get results and prosecute elder abuse cases by more sophisticated means.
 These methods are growing more necessary as scammers become sophisticated and savvy in their approaches to our older generations.
 These partnerships were on display Wednesday at the Rome Civic Center as local legislators and law enforcement met with senior citizen advocates for a symposium hosted by the Northwest Georgia Area Agency on Aging.

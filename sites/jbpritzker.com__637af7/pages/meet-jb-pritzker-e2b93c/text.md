@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Fighting for Illinois families and putting people first has been the work of my life.
+Skip to main content Skip to footer Opens in a new tab Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Español Meet JB Fighting for Illinois families and putting people first has been the work of my life.
 I came to the governorship as an outsider with a track record of creating good-paying jobs and a dedication to making people’s lives better.
 I was lucky to come from a family that had served in the military and become successful business builders.
 And despite losing both my parents at a young age, I wanted to follow in their footsteps in service to our nation.
@@ -33,4 +33,4 @@ By submitting your mobile phone number you are agreeing to receive periodic text
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Make a Plan to Vote Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

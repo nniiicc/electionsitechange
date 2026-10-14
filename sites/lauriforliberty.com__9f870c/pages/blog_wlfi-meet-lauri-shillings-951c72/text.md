@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate WLFI: Meet Lauri Shillings Aug 21 Written By Danny Lundy Meet the Secretary of State Candidate: Lauri Shillings WEST LAFAYETTE, Ind.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate WLFI: Meet Lauri Shillings Aug 21 Written by Danny Lundy Meet the Secretary of State Candidate: Lauri Shillings WEST LAFAYETTE, Ind.
 (WLFI) - Lauri Shillings continues to launch her political career as she runs for Indiana Secretary of State.
 This is her second campaign after running for Congress in 2024.
 Shillings received her degree in Nonprofit Leadership from the University of Indianapolis, where she currently works as the Creative Director for the marketing team.

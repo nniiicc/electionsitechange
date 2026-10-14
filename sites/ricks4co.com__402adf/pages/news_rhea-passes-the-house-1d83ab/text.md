@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Guest User March 14, 2022 RHEA passes the House!
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Guest User March 14, 2022 RHEA passes the House!
 Guest User March 14, 2022 HB22-1279 , the Reproductive Health Equity Act, sponsored by Representative Froelich, House Majority Leader Esgar, and Senator Gonzales passed through both the House Health & Insurance Committee and 2nd Reading in the House last week.
 Today, it passed its 3rd and final reading in the House of Representatives.
 This bill would establish that: ● Every individual has the fundamental right to choose or refuse contraception. ● Every individual who becomes pregnant has a fundamental right to choose to continue a pregnancy and give birth or to have an abortion. ● A fertilized egg, embryo, or fetus does not have independent rights under the laws of the state.

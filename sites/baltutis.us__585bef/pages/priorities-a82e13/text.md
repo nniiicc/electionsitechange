@@ -1,4 +1,4 @@
-top of page Donate Join the Team Home Meet Ian Priorities Endorsements Merch News Ian's Priorities Families in Alamance County are hurting right now.
+top of page Donate Join the Team Home Early Voting Schedule Meet Ian Priorities Endorsements Merch News Ian's Priorities Families in Alamance County are hurting right now.
 We need a leader ready to take action and ease financial pain on day one.
 Ian's focus has always been on helping people and communities thrive.
 Ian is running for NC House District 63 to amplify your voice, to protect our hometowns from state overreach, and to ensure our tax dollars make life easier for working families.

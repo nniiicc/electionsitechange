@@ -1,4 +1,4 @@
-top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Good Government & Democracy Government should be open, understandable, and accountable to the people it serves.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety Hunter + West DONATE Good Government & Democracy Government should be open, understandable, and accountable to the people it serves.
 Vermonters should be able to trust that public institutions are acting openly, responsibly, and with respect for the people they serve.
 That means clear public processes, strong ethics rules, meaningful local input, and better accountability for how public money is spent.
 It also means making government easier to navigate.

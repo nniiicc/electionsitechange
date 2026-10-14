@@ -3,7 +3,7 @@ Midterm General Election: Early Voting Dates: Monday, October 19 - Monday, Novem
 Early Voting Locations: Pulaski County Regional Building 501 W.
 Markham St, Little Rock, AR 72201 Weekdays: 8:00 a.m. to 6:00 p.m.
 Monday, October 19 - Saturday, October 31 Saturdays: 10:00 a.m. to 4:00 p.m.
-Monday, March 2nd: 8:00 a.m. to 5:00 p.m.
+Monday, November 2: 8:00 a.m. to 5:00 p.m.
 William F.
 Laman Library 2801 Orange St, North Little Rock Weekdays: 8:00 a.m. to 6:00 p.m.
 Monday, October 19 - Saturday, October 31 Saturdays: 10:00 a.m. to 4:00 p.m.
@@ -19,5 +19,5 @@ North Little Rock 22 Levy Church of Christ 5124 Camp Robinson Rd.
 North Little Rock 23* North Little Rock First UMC 6701 JFK Blvd.
 North Little Rock 24 North View Missionary 6801 JFK Blvd.
 North Little Rock 25 Sylvan Hills First Baptist Church 9008 Hwy 107 Sherwood 26/27 Central Baptist Church 5200 Fairway Ave.
-North Little Rock 28 First Baptist Church of Sherwood 701 Country Club Sherwood 33 Christian Assembly of God 10601 Hwy 107 Sherwood *New Polling Location (since 2024 General) CHECK VOTER REGISTRATION For more information, visit the Pulaski County Clerk Website Get in touch ABHolladay@gmail.com (501) 626-6969‬ P.O.
+North Little Rock 28 First Baptist Church of Sherwood 701 Country Club Sherwood 33/135 Christian Assembly of God 10601 Hwy 107 Sherwood *New Polling Location (since 2024 General) CHECK VOTER REGISTRATION For more information, visit the Pulaski County Clerk Website Get in touch ABHolladay@gmail.com (501) 626-6969‬ P.O.
 Box 94433 North Little Rock, AR 72190 PAID FOR BY THE COMMITTEE TO ELECT ALEX HOLLADAY

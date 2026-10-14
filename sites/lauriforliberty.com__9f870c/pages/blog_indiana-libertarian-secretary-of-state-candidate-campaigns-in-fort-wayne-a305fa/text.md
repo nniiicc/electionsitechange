@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate WPTA: Indiana Libertarian secretary of state candidate campaigns in Fort Wayne Aug 1 Written By Danny Lundy FORT WAYNE, Ind.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate WPTA: Indiana Libertarian secretary of state candidate campaigns in Fort Wayne Aug 1 Written by Danny Lundy FORT WAYNE, Ind.
 (WPTA) - Indiana’s Libertarian Secretary of State nominee was in Fort Wayne on Saturday.
 From 2 to 6 p.m., Lauri Shillings joined the Libertarian Party of Allen County at their booth at Fort Wayne Pride.
 Shillings was nominated at the Libertarian Party’s state convention held in Fort Wayne earlier this year and returns to the city as part of her statewide campaign.

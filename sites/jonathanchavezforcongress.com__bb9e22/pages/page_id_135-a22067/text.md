@@ -1,4 +1,4 @@
-Skip to content Mon – Fri 9:00 -17:00 jchavez@chavezforcongress.com Twitter Instagram WhatsApp Log in Jonathan Chavez for Congress Home Meet Jonathan Donate Issues Get Involved Events Contact News Donate Issues 2026 Comprehensive Congressional Plan Download 2026 Chavez Healthcare Policy PDF Download Economy & Taxes: Lower the tax burden on working families.
+Skip to content Mon – Fri 9:00 -17:00 jchavez@chavezforcongress.com Twitter Instagram WhatsApp Log in Jonathan Chavez for Congress Home Meet Jonathan Donate Issues Get Involved Events Contact News Donate Issues 2026 Comprehensive Congressional Plan Download Updated.GA13_Healthcare_Platform_Chavez-3 Download Economy & Taxes: Lower the tax burden on working families.
 Incentivize small business growth and suburban job creation.
 Smart deregulation that protects consumers while unleashing innovation.
 Explore fair tax options that keep Georgia competitive.

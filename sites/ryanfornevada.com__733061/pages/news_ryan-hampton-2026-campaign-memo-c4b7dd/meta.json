@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ryanfornevada.com/news/ryan-hampton-2026-campaign-memo",
- "fingerprint": "675f8e1947265e6157f85b8fd58c1c00b279d46a",
+ "fingerprint": "3e964562c6324ca56038842a20801ef89924d233",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Ryan Hampton 2026 Campaign Memo",
  "years_mentioned": [
   "2026"

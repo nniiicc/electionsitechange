@@ -36,6 +36,12 @@ Maine makes it easy to vote early or by mail—request your absentee ballot toda
 Request an Absentee Ballot Official voting information provided by the Maine Secretary of State.
 Stand With Janet This is a grassroots campaign, and we need your help to win.
 Sign up to get updates, volunteer, or request a yard sign.
-Join Campaign Every Dollar Counts Help us bring common-sense leadership to Augusta.
-Your contribution powers our voter outreach, mailers, and campaign events across Lewiston. $25 $50 $100 $250 Donate Now For Maine State Representative Facebook Twitter Instagram Paid for by Janet Beaudoin for State Representative © # Janet Beaudoin Campaign.
+Yes, I would like to receive text messages from Janet Beaudoin for State Representative By signing up, you consent to receive campaign updates, volunteer and event opportunities, GOTV reminders, and polling text messages from Janet Beaudoin for State Representative at the number provided.
+Donations may be solicited.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms at https://www.beaudoinforme.com/privacy Join Campaign Every Dollar Counts Help us bring common-sense leadership to Augusta.
+Your contribution powers our voter outreach, mailers, and campaign events across Lewiston. $25 $50 $100 $250 Donate Now For Maine State Representative Facebook Twitter Instagram Paid for by Janet Beaudoin for State Representative Privacy Policy & Terms © # Janet Beaudoin Campaign.
 All rights reserved.

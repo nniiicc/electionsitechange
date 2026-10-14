@@ -1,5 +1,5 @@
 0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Should parents be able to choose the best schools for their children?
-May 15 Written By Guest User Providing equal opportunities for everyone, regardless of background We all want great schools for our children.
+May 15 Written by Guest User Providing equal opportunities for everyone, regardless of background We all want great schools for our children.
 But many of the schools in our district have ratings of one or two on a ten-point scale.
 In these schools a majority of the children are not performing at grade level in reading or in math.
 This is unacceptable.

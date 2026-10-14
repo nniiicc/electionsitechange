@@ -2,18 +2,19 @@
 View Event → Oct 15 Meet & Greet in Blackfoot Thursday, October 15, 2026 5:30 PM 6:30 PM Tommy Vaughn's Grill (map) Google Calendar ICS Come meet John and learn about his campaign for Governor.
 View Event → Oct 19 Meet & Greet in Grangeville Monday, October 19, 2026 1:00 PM 2:00 PM Grangeville Senior Center (map) Google Calendar ICS Come meet Grangeville born and raised independent candidate for Governor, John Stegner!
 Ask questions, get answers, learn why independent is the way to go this November 3.
-View Event → Oct 20 Shoshone County Bipartisan Candidate Forum Tuesday, October 20, 2026 5:00 PM 6:00 PM Shoshone Golf Club (map) Google Calendar ICS Hosted by the Silver Valley Chamber, this forum will provide an opportunity for candidates to introduce themselves, share their platforms on issues that are important to our community, and answer questions from local residents and members of the Silver Valley.
+View Event → Oct 20 Shoshone County Bipartisan Candidate Forum Tuesday, October 20, 2026 5:00 PM 6:00 PM Shoshone Golf Club (map) Google Calendar ICS Hosted by the Silver Valley Chamber , this forum will provide an opportunity for candidates to introduce themselves, share their platforms on issues that are important to our community, and answer questions from local residents and members of the Silver Valley.
 We believe it is important to give our community the chance to hear directly from those seeking to represent us.
 We hope you will join us for this informative evening and take part in meaningful dialogue regarding the future of our community.
 We hope to see everyone there!
 For any questions or concerns please contact becca@silvervalleychamber.com Learn more here .
-View Event → Oct 21 Meet & Greet in Bonners Ferry Wednesday, October 21, 2026 1:00 PM 3:00 PM Chic-N-Chop (map) Google Calendar ICS Come meet John, ask questions, and learn why independent is the way to go this November.
 View Event → Oct 23 Citizens' Forum in Moscow Friday, October 23, 2026 4:00 PM 5:30 PM Kenworthy Theater (map) Google Calendar ICS Indivisible Moscow and its partners present Idaho’s congressional and statewide candidates at a citizens’ forum scheduled at Moscow’s historic Kenworthy Theater on Friday, October 23.
 The doors will open at 3:30, and the program will run from 4-5:30pm.
 This forum will provide voters the opportunity to meet candidates (including John) for the following offices: U.S.
 Senate U.S.
 House (Dist 1) Idaho Governor Idaho Attorney General Idaho Lieutenant Governor Idaho Superintendent of Public Instruction This forum coincides with the University of Idaho Homecoming weekend, but does not conflict with any Homecoming events to enable people living in and visiting Moscow to attend the forum.
 Join us for short presentations by the candidates and Q&A.
+View Event → Oct 24 University of Idaho Homecoming Parade Saturday, October 24, 2026 10:00 AM 11:00 AM Main Street Moscow, Idaho, 83843 United States (map) Google Calendar ICS Join John and friends at the U of I Homecoming Parade!
+If you would like to walk with us in the parade, email us at info@stegnerforidaho.com.
 View Event → Oct 12 Garden Valley Candidate Forum Monday, October 12, 2026 6:00 PM 7:00 PM River Canyon Retreat Gymnasium (map) Google Calendar ICS Come hear candidates speak, ask questions, and share the issues that impact you.
 Brought to you by Garden Valley Women Forward.
 View Event → Oct 6 2026 Gubernatorial Candidate Forum Tuesday, October 6, 2026 7:00 PM 8:30 PM South Junior High (map) Google Calendar ICS The League of Women Voters of Idaho and the local American Association of University Women (AAUW) will host a gubernatorial candidate forum on Tuesday, October 6, from 7:00 to 8:30 p.m. in the auditorium of South Junior High School, 3101 W.

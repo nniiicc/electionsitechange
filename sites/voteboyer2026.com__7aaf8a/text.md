@@ -1,6 +1,4 @@
-Home Meet Arthur Boyer On the Issues News Volunteer Contribute We stand for families; we stand for dignity; we stand for justice.
-We stand with more than TPS holders .
-We are going to vote them out!
+Home Meet Arthur Boyer On the Issues News Volunteer Contribute We are going to vote them out!
 Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
 Request a Yard Sign Click Here to Request a Sign Need Voting Information?
 Register & Find Your Polling Location Primary Date: Aug 18, 2026 Click Here for Information Dr.

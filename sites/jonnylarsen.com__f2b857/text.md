@@ -1,5 +1,7 @@
 You need to enable JavaScript to run this app.
-STORE About Jonny The Commitment Take Action Latest News Contribute About Jonny The Commitment Take Action Latest News Contribute STORE ES The Commitment Starts Here As a Marine, every mission depended on the team.
+STORE About Jonny The Commitment Take Action Latest News Contribute About Jonny The Commitment Take Action Latest News Contribute STORE ES Do you want a Blue Dog or a lap dog to this administration?
+Vote Jonny Larsen, a Blue Dog Democrat.
+The Commitment Starts Here As a Marine, every mission depended on the team.
 This campaign is no different.
 I cannot do this without you.
 Signed up before and haven't heard from us?
@@ -12,5 +14,7 @@ Utah deserves someone who will listen, someone who has not just heard about your
 I need you 🫵!
 Our district is 22,067 square miles.
 Chip in to help me get our message out before the clock runs out!
-Watch our debate on YouTube #ago Mail-in Ballots Sent Oct 13th, 2026 # Days Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026 Support the Commitment Click an option to get started.
-If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail
+“Do you want a Blue Dog, or a lap dog to this administration?” As headlined in Utah News Dispatch Send a Blue Dog to Congress Watch the Debate # Days Left To Return Your Ballot Nov 3rd, 2026 Do not mail it back.
+Use a drop box by 8 p.m.
+Nov 3rd.
+# Days Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026

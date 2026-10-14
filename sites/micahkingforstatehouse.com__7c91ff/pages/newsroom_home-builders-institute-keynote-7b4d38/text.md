@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Fort Stewart #Veterans #Workforce Development #Economy Keynote Speaker at the Home Builders Institute Graduation at Fort Stewart August 11, 2026 2 min read By Micah King When Tuesday, August 11, 2026 Where Fort Stewart, GA Table of Contents – What is the Home Builders Institute (HBI) Program? – Building Georgia’s Future It was an incredible honor to serve as the keynote speaker for the most recent graduating class of the Home Builders Institute (HBI) at Fort Stewart.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Events #Fort Stewart #Veterans #Workforce Development #Economy Keynote Speaker at the Home Builders Institute Graduation at Fort Stewart August 11, 2026 2 min read By Micah King When Tuesday, August 11, 2026 Where Fort Stewart, GA Table of Contents – What is the Home Builders Institute (HBI) Program? – Building Georgia’s Future It was an incredible honor to serve as the keynote speaker for the most recent graduating class of the Home Builders Institute (HBI) at Fort Stewart.
 As a former Army Transition Counselor, I know firsthand how challenging the shift from military to civilian life can be.
 For many service members, the most pressing question as they approach their separation date is simply, “What comes next?” Programs like the HBI answer that question directly, providing a tangible, high-demand career path before these soldiers even take off the uniform for the final time.
 What is the Home Builders Institute (HBI) Program?

@@ -1,22 +1,22 @@
 Home Platform Volunteer Endorsements Contact Donate Policy for Me What can Dave do for you?
 Here you can see how Dave's positions really affect you, based on your work, interests, and needs.
 Shop by Category No items found.
-Cost Conscious "Tennesseeans are dealing with a cost of living crisis.
+Competitive Elections "In the governor's race, the two major parties vet their candidates and whittle each field to one nominee in a primary.
+Everyone else is placed onto one independent ballot requiring only 25 signatures before being sent straight to the November general election.
+In 2026, this meant 13 of 15 names on the ballot were independents.
+Year after year, that crowd becomes the excuse to keep independents out of debates and to dismiss even strong ones as spoilers.
+My plan sets one bar for everyone (2,500 signatures), gives independents a primary of their own, and brings ranked ballots to the governor’s race in 2034 so no one is a spoiler." Click to see policies → Cost Conscious "Tennesseeans are dealing with a cost of living crisis.
 I hear it from voters regularly, especially folks who have been here for long enough to notice the change.
 Every policy in this collection takes tangible steps to reduce costs in Tennessee, either directly for your every day purchases or for the state in a way that reduces cost for all." Click to see policies → Country Life "I live in the city now but I grew up going to 'the country school', exploring miles of wooded forests, and riding my bike down to the creek for fun.
 I understand that life in the country is different, and so are the needs of the community.
 The country is not for dumping sites or datacenters, it's for people.
 I'll invest the same energy into your community as I do into the big cities, and treat rural counties with the respect they deserve.
-With your partnership we can make healthcare accessible, cut down commutes, feed Tennessee, and steward our land for generations to come." Click to see policies → Data Center Protection Act "Tennessee needs to prepare to put our people and our common resources before data centers.
+With your partnership we can make healthcare accessible, cut down commutes, feed Tennessee, and steward our land for generations to come." Click to see policies → Data Centers "Tennessee needs to prepare to put our people and our common resources before data centers.
 My plan calls for a moratorium for 24 months, long enough to establish a division for Environmental Justice (EJ) and rules it can enforce.
 The EJ Division can deny permits that push communities beyond safe limits and empowers individuals and communities to negotiate benefit agreements and sue over environmental injustices.
 Rules would create scalable standards that can’t be gamed, mutual grid stability prioritizing communities in emergencies and matching demand with renewable energy, and banning or regulating AI systems regarding surveillance, companions, price setting, decision making, and synthetic content." Click to see policies → Farmers "Farmers have a harder job than ever, and a more important role than ever.
 Not only do ya'll feed Tennessee, you have a chance to help us save our natural world and stabilize our climate.
-These policy positions are designed to make your job easier by giving you more revenue, more freedom on your farm, support services, and paid opportunities to restore our land." Click to see policies → Governorship Maturation Act "In the governor's race, the two major parties vet their candidates and whittle each field to one nominee in a primary.
-Everyone else is dumped onto one independent ballot requiring only 25 signatures and an eligibility claim that no one checks, then sent straight to the November general election.
-In 2026, this meant 13 of 15 names on the ballot were independents.
-Year after year, that crowd becomes the excuse to keep independents out of debates and to dismiss even strong ones as spoilers.
-My plan sets one bar for everyone (2,500 signatures), gives independents a primary of their own, and brings ranked ballots to the governor’s race in 2034 so no one is a spoiler." Click to see policies → Mental Health "Mental health needs to be a public health priority in Tennessee if we want to end the opioid crisis, reduce crime, and solve homelessness.
+These policy positions are designed to make your job easier by giving you more revenue, more freedom on your farm, support services, and paid opportunities to restore our land." Click to see policies → Mental Health "Mental health needs to be a public health priority in Tennessee if we want to end the opioid crisis, reduce crime, and solve homelessness.
 Farmers, first responders, and veterans also currently lack the care they need to do the jobs we depend on them to do.
 It's time we invested seriously in our mental wellbeing to make sure our towns and workers never find themselves alone in a crisis." Click to see policies → Nature Lovers "Tennessee is one of the most biodiverse states in the country, and even has some of the most biodiverse ecology in the world.
 Our land is lush and beautiful, and we need to keep it that way.

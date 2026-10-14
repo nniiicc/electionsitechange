@@ -7,13 +7,15 @@ I'd like to see more affordable housing, childcare, and healthcare.
 Medical decisions should be made by patients consulting with medical professionals and not by legislators.
 Teachers should decide how best to teach subjects and not be restricted by legislation.
 As your state representative my views on all major issues facing the state will be listed on this site.
-NEWS Vote for Bill and the two Dons The following letter to the editor was published in the Sept 29, 2026 edition of the Laconia Daily Sun.
-It suggests voters in Belmont, Sanbornton, and Tilton should vote for Don House, Don Giguere, and Bill Lawrence on November 3, 2026.
-Sep 29 1 min read Don House participates in Sept 2 Candidate Forum All candidates for Belmont County District 4 and 8 were invited to a candidate forum on September 2, 2026 at the Belmont High School in Belmont, NH.
-Candidates were asked questions submitted by voters that attended the forum.
-The forum was sponsored by Citizens for Belknap County and the NH League of Women Voters.
-Three democrat and three republican candidates were invited to attend but only the democrats showed up.
-Sep 15 1 min read FOLLOW Don ON SOCIAL MEDIA Subscribe START CHANGING Support Our Cause DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+NEWS National Education Association-NH endorses Don House In October, the National Education Association published their 2026 legislative scorecard and voter guide.
+Don House and Don Giguere were the only two candidates representing Belmont, Tilton, and Sanbornton that were endorsed by the NEA.
+If you value education, you should vote for a candidate that shares that view.
+Here is the list of NEA-NH endorsed candidates as well as the scorecard of how current Belknap County candidates voted on educational issues.
+Voting Record for #ago 1 min read Don supports democracy Many of the current Belknap County elected state representatives have voted against democracy.
+Don believes in fair elections.
+New Hampshire ranks last among New England states for democracy-promoting state election laws and policies, according to an independent analysis.
+The current administration in NH has made it more difficult for people to vote in elections without any evidence of election fraud.
+See the below chart regarding whether the state representatives you vot #ago 1 min read FOLLOW Don ON SOCIAL MEDIA Subscribe START CHANGING Support Our Cause DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Don House FOR NH State Rep ​ ​ Paid for by Citizens for Don House, Don House, Fiscal agent © # by Don House.
 Proudly created with Wix.com 51 Sun Lake Drive Belmont, NH 03220 House4BST@gmail.com Home Why Me?
 About News Election issues Events Get Involved Contact bottom of page

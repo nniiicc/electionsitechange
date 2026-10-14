@@ -1,7 +1,7 @@
-Skip to Content 💼 New District 157 Community Opportunity Board is live.
-30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
-New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight DISTRICT 157 DISTRICT 157 They're pricing rural families out of our own backyards.
+Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
+Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
+Vote Early Early voting is open today across HD-157!
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight DISTRICT 157 DISTRICT 157 They're pricing rural families out of our own backyards.
 From skyrocketing property taxes to crushing input costs at the fertilizer bin, Southeast Georgia families are paying the price for Atlanta's complacency.
 Micah King is the proven local leader with the financial experience to stop the squeeze on House District 157.
 Join the Fight for 157 See How We Win Micah King is | Micah King is a Husband & Father of Six Micah King is an Accredited Financial Counselor Micah King is a Youth & Young Adult Minister Micah King is a former City Councilman Micah King is a former Army Transition Counselor Next Campaign Milestone: Every vote, request, and deadline counts.

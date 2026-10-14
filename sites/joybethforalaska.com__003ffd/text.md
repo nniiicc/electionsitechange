@@ -1,5 +1,4 @@
-Thank you District 34 for Turning Out!
-We won the Primary with 52.99%!!
+Early Voting Starts October 19 at 675 7th Ave Suite 200!
 Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account 907-388-6280 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Donate Email My goals Affordable Energy Affordable Energy Affordable Energy Many Alaskans in the Interior are spending an enormous percentage of their income on utility costs.
 This contributes to outmigration and adds to the overall hardship of the cold winters.
 Households with children or animals requiring heating systems are further impacted with additional electricity demands.

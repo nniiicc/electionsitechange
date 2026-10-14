@@ -19,5 +19,5 @@ Strengthens democracy With more choices comes more accountability, and a healthi
 The Bottom Line The Wisconsin Secretary of State is about how government functions , not partisan control.
 It’s a race where voters can choose independence and reform, with minimal downside and real impact .
 Pete Karas is passionate about becoming your Wisconsin Secretary of State.
-Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Paid for by Pete for Wisconsin | vote@petekaras.com | PO Box 485, Muskego, WI 53150 Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes View Details Quantity - + Sold Out

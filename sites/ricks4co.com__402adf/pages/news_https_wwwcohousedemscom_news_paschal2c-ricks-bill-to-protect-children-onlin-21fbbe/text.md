@@ -1,8 +1,8 @@
 Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Ballot Drop Box Information!
-Donate Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 DENVER, CO – The House today passed bipartisan legislation to establish a framework for age attestation on digital platforms.
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Election Information!
+Where to Drop Off Your Ballot Donate Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 DENVER, CO – The House today passed bipartisan legislation to establish a framework for age attestation on digital platforms.
 SB26-051, sponsored by Representatives Amy Paschal and Naquetta Ricks, passed by a vote of 40-23.
 “In an era where children are given phone access at a young age, it is crucial that we strengthen online protections to keep children safe,” said Rep.
 Amy Paschal, D-Colorado Springs.

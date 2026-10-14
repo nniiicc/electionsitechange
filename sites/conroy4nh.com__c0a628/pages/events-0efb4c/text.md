@@ -1,7 +1,4 @@
-Skip navigation menu Home About Priorities Videos Testimonials Events Get Involved Contact Donate Home About Priorities Videos Testimonials Events Get Involved Contact Donate Join Us Campaign Events I'd love to talk with you and learn about your concerns Goffstown Democrats Speed Dating Mountain Base Brewery 553 Mast Rd.
-Suite 111 Goffstown, NH 03045 Meet the Democratic candidates for State House and State Senate.
-Grab a beer and lets talk.
-Goffstown Pumpkin Regatta Goffstown Village Don't miss this wonderful annual event!
+Skip navigation menu Home About Priorities Videos Testimonials Events Get Involved Contact Donate Home About Priorities Videos Testimonials Events Get Involved Contact Donate Join Us Campaign Events I'd love to talk with you and learn about your concerns Goffstown Pumpkin Regatta Goffstown Village Don't miss this wonderful annual event!
 Meet the Candidates!
 Weare Middle School Gym 16 East Rd Weare, NH 03281 Come to the Middle School and meet the Democratic candidates!
 Election Day!
