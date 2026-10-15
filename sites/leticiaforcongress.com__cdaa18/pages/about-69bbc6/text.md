@@ -1,4 +1,4 @@
-Skip navigation menu About Priorities News Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez About Priorities News Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez Leticia's Story Leticia Gutierrez has spent her life in service to her family, her faith, and her community.
+Skip navigation menu About Priorities Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez About Priorities Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez Leticia's Story Leticia Gutierrez has spent her life in service to her family, her faith, and her community.
 For 45 years, she has called this district home.
 It's where she went to school, raised her children, and built a career connecting working families with the leaders who make decisions about their lives.
 Her values were forged early.

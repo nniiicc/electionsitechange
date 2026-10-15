@@ -1,5 +1,5 @@
-Skip navigation menu Home About Priorities Endorsements Yard Signs!
-Events Volunteer Contact Donate Home About Priorities Endorsements Yard Signs!
+Skip navigation menu Home About Priorities Endorsements News Yard Signs!
+Events Volunteer Contact Donate Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate reach out We’ll respond asap!
 A member of Team Sugar will reach out to you!
 If you are a member of the press, please let us know which publication you represent in your message.

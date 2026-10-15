@@ -1,7 +1,7 @@
-Skip navigation menu Home About Priorities Endorsements Yard Signs!
+Skip navigation menu Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate Vote for Sugar: Smart Policy.
 Sweet Results.
-Meet Michael Sugar Home About Priorities Endorsements Yard Signs!
+Meet Michael Sugar Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate Vote for Sugar: Smart Policy.
 Sweet Results.
 Meet Michael Sugar Rooted in Service and Community Michael grew up hearing his grandparents' stories about helping others , working hard , and standing up for what’s right .

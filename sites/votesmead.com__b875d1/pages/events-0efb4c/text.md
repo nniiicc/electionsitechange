@@ -2,7 +2,7 @@ Skip to main content Meet Josh The Platform Events Media Get Involved Store Dona
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List Month Day #ago Upcoming Upcoming Select date.
-October 2026 Wed 14 Ongoing: Phone Bank for Josh April 1 @ 8:00 am - November 3 @ 5:00 pm Join us Sunday, Monday, and Wednesday afternoons to let your neighbors know why you support Josh Smead for Congress.
+October 2026 Thu 15 Ongoing: Phone Bank for Josh April 1 @ 8:00 am - November 3 @ 5:00 pm Join us Sunday, Monday, and Wednesday afternoons to let your neighbors know why you support Josh Smead for Congress.
 Bring your phone, a pair of headphones, and your laptop, and from the comfort of your own home, you can help Josh reach voters across all 33 counties!
 Never phone banked before?
 That's okay!

@@ -1,5 +1,10 @@
 top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
-NEWS All Posts Search Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk press2950 #ago 0 min read Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+NEWS All Posts Search Nikki Gronli sits down for an interview with Brian Allen https://www.kotatv.com/video/2026/09/29/nikki-gronli-sits-down-with-dakota-news-now/ press2950 #ago 1 min read Jackley, Gronli make case for open house seat ARTICLE: https://www.keloland.com/keloland-com-original/jackley-gronli-make-case-for-open-house-seat/ press2950 #ago 1 min read U.S.
+House Democratic Party Candidate sets economic priorities focused on affordability Read the article from South Dakota Public Broadcasting: https://www.sdpb.org/elections/2026-10-01/u-s-house-democratic-party-candidate-sets-economic-priorities-focused-on-affordability press2950 #ago 1 min read Fact brief from South Dakota News Watch: Jackley, Gronli debate Read the article: https://www.sdnewswatch.org/south-dakota-fact-brief-us-house-debate-jackley-gronli/ press2950 #ago 1 min read Political Pulse: Nikki Gronli on running for U.S.
+House as a Democrat https://www.kotatv.com/2026/10/09/political-pulse-nikki-gronli-running-us-house-democrat/ press2950 #ago 1 min read The Big, Epic Road Trip: 1,400 Miles of Listening to South Dakota Last week, I traveled more than 1,400 miles across South Dakota, starting at my home near Dell Rapids and winding through communities from De Smet and Clark to Herreid and Lemmon, Hot Springs, Martin, and Wanblee.
+Jenny Sampson, Sioux Falls resident and campaign volunteer, joined me for five days on the road.
+We met with farmers, ranchers, educators, healthcare professionals, small business owners, retirees, and people from all walks of life.
+We visited coffee shops, a hospit press2950 #ago 2 min read Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk press2950 #ago 0 min read Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
 As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care and early learning opportunities.
 Parents shouldn't have to choose between going to work and making sure their children are well cared for.
 For too many South Dakota families, finding affordable, reliable child care is a daily challenge.
@@ -38,22 +43,5 @@ This on-the-ground observation is backed by data.
 The majority of our rural counties are already designated by the South Dakota Department of Health as Health Professional nikkigronli Jul 21 4 min read Freedom isn't Free: Patriotism Requires Participation Like so many South Dakotans, I spent the Fourth of July honoring our country’s history.
 My Independence Day, however, wasn’t limited to one community, but four — Dakota Dunes, Kranzburg, Watertown, and the Lake Traverse Reservation.
 Photos from Kranzburg, Watertown, and Agency Village.
-It was wonderful to join friends, old and new, as well as families, lots of children, and veterans across these communities in celebrating our nation’s independence and reflecting on the values nikkigronli Jul 8 3 min read FOR Immediate RELEASE This past Thursday, the U.S.
-Supreme Court made a reckless decision by siding with Bayer-Monsanto, making it harder for Americans to hold the company accountable in state courts.
-Elected and appointed officials have a duty to protect the people they serve.
-That's why it was deeply disappointing to see my opponent, Marty Jackley, use his office to sign an amicus brief supporting Bayer-Monsanto and its Roundup weed killer instead of standing with the people of South Dakota.
-Our nikkigronli Jun 30 1 min read When Disaster Strikes, South Dakotans Come Together Just last week, I was in Highmore celebrating Old Settler Days.
-I had planned to use this week’s News from the Road to reflect on the thoughtful conversations I had there about the future of public education.
-Then everything changed.
-On Monday, June 29, straight-line winds devastated the Highmore community.
-Gusts reaching 131 mph ripped roofs from homes, flattened farm buildings, and crushed grain bins like tin cans.
-According to various local news sources, these may have bee nikkigronli Jun 30 2 min read Show Up.
-Listen.
-Do the Work.
-An Important Weekend on the Pine Ridge Indian Reservation On Saturday, June 13, I attended a candidate forum at Thunder Valley Community Development Corporation in the Porcupine community on the Pine Ridge Reservation.
-Thunder Valley is an Indigenous-led nonprofit organization that addresses a wide range of issues on the reservation.
-I was excited to join other federal, state, and tribal candidates for an afternoon of introductions, conversation, and listening.
-Community memb nikkigronli Jun 18 3 min read Nikki Sits Down With Dan Santella from Keloland Nikki Sat down with Keloand to talk about her policy and priorities.
-She also talks about what she is seeing as she travels across the state. https://www.keloland.com/news/local-news/social-security-healthcare-top-of-mind-for-gronli/ nikkigronli Jun 16 1 min read Nikki Speaks After The Primary Here is Dakota News Now article including Nikki speaking after the June 2nd primary. https://www.dakotanewsnow.com/2026/06/04/candidates-spared-primaries-feel-equipped-thanks-early-starts/ nikkigronli Jun 16 1 min read Nikki Joins KFGO To Speak About Tariffs, Rural Healthcare And More Listen to South Dakota Congressional candidate Nikki Gronli talk about her views on tariffs impacting the United States, Rural Healthcare in South Dakota, and more.
-Listen here: https://omny.fm/shows/news-views-with-joel-heitkamp/sd-congressional-candidate-nikki-gronli-speaks-to-tariffs-rural-healthcare-and-more-with-jamie-selzler nikkigronli May 18 1 min read Contact Us Nikki G for SD P.O.
+It was wonderful to join friends, old and new, as well as families, lots of children, and veterans across these communities in celebrating our nation’s independence and reflecting on the values nikkigronli Jul 8 3 min read Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

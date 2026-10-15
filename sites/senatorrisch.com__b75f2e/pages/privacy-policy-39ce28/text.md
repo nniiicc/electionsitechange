@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Security The servers that house SenatorRisch.com are maintained in a manner that safeguards the information in our databases effectively.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Security The servers that house SenatorRisch.com are maintained in a manner that safeguards the information in our databases effectively.
 Contributions In particular, when you contribute online at SenatorRisch.com, the transaction is processed using encrypted code on a secure donation site, on a secure and dedicated web server.
 The personal information that is requested is the same that we would request for donating through the mail.
 We do not retain records of contributors’ credit card numbers.

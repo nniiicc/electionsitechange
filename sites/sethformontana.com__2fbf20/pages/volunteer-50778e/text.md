@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate We do this together!
+Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate We do this together!
 Volunteer Today!
 This is a campaign for ALL MONTANANS.
 We're building a movement for people of all political beliefs and parties.

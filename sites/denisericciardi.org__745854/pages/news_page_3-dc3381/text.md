@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Ricciardi Visits New Boston Aug 27, 2026 Senator Ricciardi regularly visits all the 13 towns in her district to listen about their needs and struggles.
 This was in New Boston.
 Senator Ricciardi, Select Board Discusses Challenges Facing Greenfield Aug 27, 2026 State Sen.

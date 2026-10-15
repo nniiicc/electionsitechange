@@ -36,13 +36,6 @@ Come and participate with a Civic Virtue Event.
 Use the "Helps for You tab" to find book ideas, article links, and more.
 Please share this site.
 Thank you!
-If you would like to host a sign in your yard or at your business, please fill out this form .
-Signs will be removed by Saturday, November 7.
-If you have even a little bit of time and would be willing to hang up some door hangers, just in your neighborhood, please fill out this form. and I will contact you.
-Thank you for your help.
-Together we can make a positive difference!
-People and Principles First!
-Civic Virtue Works!
 Civic Virtue: A Simple Definition Civic Virtue is the willingness of an individual to sacrifice, without expectation of personal gain, for the benefit of the community.
 It is motivated by a love that, at its core, is about the true care and concern for others.
 It involves reaching out and working with others for the benefit of the society we share.

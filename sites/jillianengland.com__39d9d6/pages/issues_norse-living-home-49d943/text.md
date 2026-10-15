@@ -1,6 +1,6 @@
 # days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
 Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
-Races Notes Vote Donate Contact Bio Endorsements Norse Home: Preserving Affordable Senior Housing Protecting a Community Legacy from Downsizing Housing problems are created by government zoning, subsidies, and regulations that distort the market.
+Races Notes Substack Vote Donate Contact Bio Endorsements Norse Home: Preserving Affordable Senior Housing Protecting a Community Legacy from Downsizing Housing problems are created by government zoning, subsidies, and regulations that distort the market.
 More government force will not fix what government force caused.
 Fellow Washingtonians, Norse Home (5311 Phinney Ave N, Phinney Ridge, Seattle) is a historic senior living facility originally developed with community donations from the Norwegian-American community.
 For roughly 70 years it provided assisted living, independent living, and retirement housing for approximately 130 residents, many at moderate-income levels.
@@ -34,6 +34,6 @@ Practical collaboration beats ideological standoffs.
 Together, we can make Washington golden. — Jillian England Candidate for Washington State Senate, Legislative District 36 Donate Now to Protect Senior Housing Next Issue: Energy Abundance & Affordable Power → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 15, 2026 · Site version: dea59a3 This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

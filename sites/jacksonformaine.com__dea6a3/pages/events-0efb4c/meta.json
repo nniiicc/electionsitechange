@@ -1,10 +1,12 @@
 {
  "description": "Troy is a 5th-generation logger from Allagash, labor champion, and former Maine Senate President — the 2026 Democratic nominee running to unseat Susan Collins.",
  "final_url": "https://www.jacksonformaine.com/events",
- "fingerprint": "b9c94fc18e6892203684036a3ffb07f3a6fa68ec",
+ "fingerprint": "2c13726d086f68eb0ca2fc1f01a201ba782a4918",
  "format": 3,
  "paid_for_by": "Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app",
  "rendered": false,
  "title": "Events — Troy Jackson for Maine",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from J Paul Brown House District 59 Residents, As a lifelong farmer and rancher in Southwest Colorado and someone who has proudly served as the Representative for House District 59, I know the importance of strong, principled leadership for our communities.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from J Paul Brown House District 59 Residents, As a lifelong farmer and rancher in Southwest Colorado and someone who has proudly served as the Representative for House District 59, I know the importance of strong, principled leadership for our communities.
 I have known Naomi Riess for many years, and I can say with confidence that she is exactly the kind of leader we need.
 Naomi has always stood by agriculture and our rural way of life.
 I personally witnessed her dedication when she helped the La Plata County Farm Bureau resolve challenges that some of our members were facing with the State Land Board regarding state land leases.

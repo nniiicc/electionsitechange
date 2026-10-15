@@ -1,9 +1,10 @@
 {
  "description": "Find polling locations and voting times in HD60 for the March 5 Republican primary. HD60 consists of Parker, Palo Pinto and Stephens counties.",
  "final_url": "https://mikeolcott.com/vote/",
- "fingerprint": "41015d926745b9dec060c42e4bcd34e936e20ea3",
+ "fingerprint": "43f0d3e617711a01722bff416ad489083e629cc2",
  "format": 3,
  "paid_for_by": "paid for by Mike Olcott Campaign",
+ "rendered": false,
  "title": "Vote - Mike Olcott for Texas House",
  "years_mentioned": [
   "2022",

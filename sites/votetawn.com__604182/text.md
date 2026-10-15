@@ -1,4 +1,4 @@
-Running for YOU About Issues Events Vote Endorsements Get Involved Endorse Donate T Running for YOU About Issues Events Vote Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
+Running for YOU About Issues Hear Tawn Events Vote Endorsements Get Involved Endorse Donate T Running for YOU About Issues Hear Tawn Events Vote Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
 Lifelong Michigander.
 Common-sense conservative leadership for Washtenaw and Jackson Counties.
 JOIN THE CAMPAIGN Running for YOU | 137.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
@@ -31,7 +31,11 @@ On the route Leg 6 · Election Integrity → Tompkins · Proof of citizenship & 
 Decisions about zoning, schools, and community life should be made by neighbors — not by bureaucrats in Lansing.
 How she’ll do it She will push to return those decisions to cities and townships, and she is already showing up in every community so Lansing hears from the people who live there.
 On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Read the full platform on Leg 15 or see the whole route .
-Upcoming Events Come meet Tawn and show your support!
+Hear Tawn Two short looks at where she stands — in her own words.
+WEMU · WASHTENAW UNITED Michigan Senate candidate Tawn Beliger Tawn sat down with Decky Alexander on WEMU’s Washtenaw United about the 14th District race and what she wants to do in Lansing.
+Watch the interview → 40 DAYS FOR LIFE · ANN ARBOR Faith in life On September 27, Tawn spoke at the Seven Sundays Interfaith Jericho March.
+She shared why she is pro-life and why Lansing still has work to do after viability.
+Watch her remarks → Upcoming Events Come meet Tawn and show your support!
 ONGOING Tawn Running for YOU Tawn is running in every city, township, and village in Senate District 14.
 Latest: Norvell and Columbia Townships, 10 miles on October 10.
 3.75 in Norvell, 6.25 in Columbia.

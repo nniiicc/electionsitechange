@@ -12,4 +12,4 @@ Above all, I am a man of faith who believes deeply in our Constitution and the e
 I look forward to serving our community by representing you in Hartford.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

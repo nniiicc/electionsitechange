@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Lori Garcia-Sander Rep.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Lori Garcia-Sander Rep.
 Lori Garcia-Sander As a former public-school teacher and principal who now serves in the Colorado House of Representatives, I recognize the importance of practical experience, strong community roots, and leadership grounded in service.
 That is why I am proud to endorse Naomi Riess for Colorado House District 59.
 Naomi and I share a commitment to putting Colorado families and communities first, strengthening our schools, protecting parents’ rights, supporting agriculture and small businesses, defending private property rights, and keeping our communities safe.

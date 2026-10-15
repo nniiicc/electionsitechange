@@ -1,4 +1,4 @@
-top of page Home Meet Priorities News Newsletters Events Help Donate Week 34: The campaign is now in the Spending Money phase Kathy Guyton #ago 2 min read Dear Colorado Voter, With 4 weeks left, I am now spending the money that you all have so generously donated.
+top of page Home Meet Priorities News Newsletters Events Help Donate Week 34: The campaign is now in the Spending Money phase Kathy Guyton Oct 7 2 min read Dear Colorado Voter, With 4 weeks left, I am now spending the money that you all have so generously donated.
 A billboard on I-25.
 New campaign literature so I can succinctly introduce myself.
 Online advertising.

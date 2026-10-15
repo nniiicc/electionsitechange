@@ -5,5 +5,7 @@ Stokesbary is running for an open seat in the 31st legislative district.
 “I look forward to working with them to keep our roads and communities safe, and to give them the tools they need to continue performing their job with distinction.” WSPTA negotiates and administers a collective bargaining agreement with the State of Washington.
 The union represents commissioned employees of the Washington State Patrol below the rank of Lieutenant, including Troopers, Detectives, and Sergeants.
 Learn more at www.wspta.org .
-Endorsements More For You Stokesbary wins AWC “City Champion Award” Awards Tacoma News Tribune picks Stokesbary Endorsements Improving the Traffic Avenue bridge above Highway 410 In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You Rep.
+Drew Stokesbary hosts town hall Saturday In the News Bills sponsored by Rep.
+Stokesbary signed into law In the News Drew Stokesbary receives NRA endorsement Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

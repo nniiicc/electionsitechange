@@ -12,7 +12,7 @@ Visit the event page or the campaign’s facebook page to secure your tickets, t
 Over the summer, Eggler has been showing up at local meetings, volunteering, and spending time listening to concerns raised by residents throughout the 76th District.
 Opening the new office is also a meaningful step up in campaign operations as fall approaches.
 Event details and volunteer information are available on the campaign’s events page: Website: https://saraegglerforpa76district.com/events/ .
-Follow us on Facebook: @SaraEgglerforPA76 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a Reply Cancel reply Comment Name Email Website Δ Sara is rooted in community and focused on results.
+Follow us on Facebook: @SaraEgglerforPA76 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Sara is rooted in community and focused on results.
 Newsletter Weekly Thoughts on Personal Development VISIT US 120 E.
 Walnut St., Unit 3 Lock Haven, PA 17745 Vote “Eggler” to Fund Our Future Facebook Instagram YouTube GET IN TOUCH michaelrmaddenpa@gmail.com (814) 264-4905 Designed with WordPress Loading Comments...
 Write a Comment...

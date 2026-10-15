@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT She's the Experienced Candidate Meet Naomi Riess Naomi Riess has called Durango home for more than three decades.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT She's the Experienced Candidate Meet Naomi Riess Naomi Riess has called Durango home for more than three decades.
 As a small-business owner, land-use consultant, farmer, mother, and longtime community volunteer, she has built her life around helping people navigate challenges, protect property rights, enjoy life, and strengthen the communities and families of Southwest Colorado.
 Naomi raised her family in Durango, where all three of her children graduated from Durango High School.
 Throughout those years, she was deeply involved in several local schools and youth programs, volunteering in the schools, serving as President of the Durango Early Learning Center Board, participating on the Durango 9-R District Accountability Advisory Committee, leading parent groups, coaching youth soccer, leading 4-H programs, and chairing the Durango High School After Prom Party.

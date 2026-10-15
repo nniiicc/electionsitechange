@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Rural Hospital Policy Local solutions.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Rural Hospital Policy Local solutions.
 State partnership.
 Rural healthcare that stays rural. ← Back to All Issues Vic Meyers Colorado House District 47 Candidate Core Idea Rural Colorado cannot afford to lose its hospitals.
 Spanish Peaks Regional Health Center in Walsenburg provides an important model worth examining.

@@ -2,6 +2,6 @@
 Amanda is honored to be a guest at the celebration of 40 years of service at the Bethel Missionary Baptist Church by the Reverend RB and Gloria Price Holmes.
 Special guest Rev.
 Al Sharpton will speak at the 10am service.
-Previous Previous October 10 Havana Mainstreet 26th Annual PumpkinFest Next Next October 12 Breakfast Event with Rep.
+Previous Previous October 9 Franklin Needs PINK OUT Benefit Next Next October 12 Breakfast Event with Rep.
 Clyburn and David Jolly TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

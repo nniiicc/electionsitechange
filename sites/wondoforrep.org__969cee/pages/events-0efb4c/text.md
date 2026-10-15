@@ -1,15 +1,15 @@
-Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Oct 14 1st Franklin State Rep Candidate Forum Wednesday, October 14, 2026 6:30 PM 11:00 PM GCTV studio (map) Google Calendar ICS Come listen to Lora at the 1st Franklin State Rep.
-Candidate Forum at the GCTV Studio starting at 6:30 PM!
-Send your questions for the candidates to lwvfranklincounty@gmail.com by 12:00 PM on October 12th.
-See you there!
-View Event → Oct 22 Unity Reception Thursday, October 22, 2026 5:30 PM 7:30 PM Google Calendar ICS Join us for a Unity Reception in support of Lora Wondolowski for State Representative!
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Oct 22 Unity Reception Thursday, October 22, 2026 5:30 PM 7:30 PM Google Calendar ICS Join us for a Unity Reception in support of Lora Wondolowski for State Representative!
 With election day approaching, Democrats, community leaders, supporters, and friends from across the 1st Franklin District and Western Massachusetts are coming together in South Deerfield to support Lora and her campaign for State Representative.
 Co-hosted by: Governor Maura Healey, Lt.
 Governor Kim Driscoll, Congressman Jim McGovern, Senator Jo Comerford, Senator Paul Mark, Rep.
 Homar Gomez, Rep.
 Lindsay Sabadosa, Rep.
 Aaron Saunders, Rep.
-Susannah Whipps, Mayor Ginny DeSorgher, Bob Armstrong, Tara Brewster, Chia Collins & Michael Cohen, Jessica Corwin & Philip Silva, Marina Goldman, Tim Hilchey, Mike McKusker, and Patty Perry Learn more View Event → Sep 1 Election Night Party Tuesday, September 1, 2026 7:00 PM 8:00 PM Cocina Lupita (map) Google Calendar ICS Join us at Cocina Lupita for Lora’s Election Night Party celebration!
+Susannah Whipps, Mayor Ginny DeSorgher, Bob Armstrong, Tara Brewster, Chia Collins & Michael Cohen, Jessica Corwin & Philip Silva, Marina Goldman, Tim Hilchey, Mike McKusker, and Patty Perry Learn more View Event → Oct 14 1st Franklin State Rep Candidate Forum Wednesday, October 14, 2026 6:30 PM 11:00 PM GCTV studio (map) Google Calendar ICS Come listen to Lora at the 1st Franklin State Rep.
+Candidate Forum at the GCTV Studio starting at 6:30 PM!
+Send your questions for the candidates to lwvfranklincounty@gmail.com by 12:00 PM on October 12th.
+See you there!
+View Event → Sep 1 Election Night Party Tuesday, September 1, 2026 7:00 PM 8:00 PM Cocina Lupita (map) Google Calendar ICS Join us at Cocina Lupita for Lora’s Election Night Party celebration!
 View Event → Aug 22 Greenfield Harvest Supper Saturday, August 22, 2026 4:00 PM 6:00 PM Greenfield Common (map) Google Calendar ICS Meet Lora at her table at the Greenfield Town Common to celebrate the summer harvest.
 Local farmers, producers, and chefs donate ingredients, time, and talent to create a chef-prepared meal featuring food from more than 50 local farms and producers across the Pioneer Valley.
 View Event → Aug 20 League of Women Voters Forum Thursday, August 20, 2026 7:00 PM 8:00 PM Greenfield Community Dining Commons (map) Google Calendar ICS 1st Franklin State Rep Primary Candidate Forum Join us for the 1st Franklin State Rep Primary Candidate Forum to hear directly from candidates for the 1st Franklin District.

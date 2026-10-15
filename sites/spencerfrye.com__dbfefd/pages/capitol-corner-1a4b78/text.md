@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Capitol Corner A collection of policy papers written by Frye Fellows.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Capitol Corner A collection of policy papers written by Frye Fellows.
 October 12, 2026 Capitol Corner How Can We Protect Minors At Work Fellow Bianca Orfila-Molinet wrote Sexual violence against minors occurs at an extraordinarily high rate in the United States.
 Child sexual abuse refers to the involvement of a child, d… October 2, 2026 Capitol Corner Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage Fellow Madison Lowe wrote High blood pressure.
 Diabetes.

@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands electbarnhill Aug 16, 2026 0 2 Comments Nevada’s largest voting bloc isn’t a party.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands electbarnhill Aug 16, 2026 0 4 Comments Nevada’s largest voting bloc isn’t a party.
 As of this month, 815,596 Nevadans — 38.61% of all registered voters — are registered nonpartisan, outnumbering both Democrats and Republicans.
 Add in the Independent American Party and Libertarian rolls, and independents aren’t a niche in this state.
 We’re the plurality.
@@ -43,10 +43,13 @@ If you’re tired of transplants treating Nevada offices as stepping stones, an 
 The Common Thread Whether it’s who controls your voter data or who represents a district they just moved into, the pattern is the same: Nevadans are increasingly done choosing between two parties that don’t reflect where most of us actually stand.
 We’re the plurality now.
 It’s time our representation caught up.
-I am Brad Lee Barnhill, Independent American Party candidate for Nevada Secretary of State.
-I am #YourIndependentVoice for Nevada Secretary of State.
-Share: Categories: Commentary 2 thoughts on “Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands” Pingback: Vote for Independent Nevada Candidates, Not the Lesser Evil Pingback: Why Donate to a Nevada Independent Candidate? | Brad Barnhill Post navigation Previous Previous post: The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning Next Next post: Results, Not Noise: My 20/20 Plan for Nevada Secretary of State footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary 4 thoughts on “Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands” Pingback: Vote for Independent Nevada Candidates, Not the Lesser Evil Pingback: Why Donate to a Nevada Independent Candidate? | Brad Barnhill Pingback: A Nevada Election Cybersecurity Plan for Voters | Barnhill Pingback: Election Transparency in Nevada: Show Voters the Work | Barnhill Post navigation Previous Previous post: The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning Next Next post: Results, Not Noise: My 20/20 Plan for Nevada Secretary of State footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -18,7 +18,7 @@ Election Day · November 3, 2026 The Movement Is Near!
 The date is approaching fast.
 Join us in the fight to win this Race.
 Don't miss out!
-19 Days 15 Hours 56 Minutes 14 Seconds Contact Join Our Community Effort!
+18 Days 16 Hours 05 Minutes 19 Seconds Contact Join Our Community Effort!
 Name Email * What can our campaign help our city do better?
 Tell us more about how you'd like to get involved.
 Attachment Send By providing and submitting your information, you are consenting to receive polling/voting text messages (e.g., election reminders, opinion polls) and public service announcement text messages (e.g. legislative updates, member updates, and voter education) at the number provided, including messages sent by auto dialer.

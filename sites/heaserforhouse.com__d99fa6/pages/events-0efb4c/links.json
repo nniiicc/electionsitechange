@@ -28,10 +28,6 @@
 "href": "https://www.heaserforhouse.com/about"
 },
 {
-"text": "Champlin Door Knock",
-"href": "https://www.heaserforhouse.com/events/champlin-door-knock-1"
-},
-{
 "text": "Connect",
 "href": "https://www.heaserforhouse.com/connect"
 },
@@ -76,6 +72,10 @@
 "href": "https://www.heaserforhouse.com/events"
 },
 {
+"text": "Get Out the Vote Door Knock",
+"href": "https://www.heaserforhouse.com/events/get-out-the-vote-door-knock"
+},
+{
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=34A+-+Heaser+Doorknock&dates=20260930T220000Z%2F20261001T010000Z"
 },
@@ -94,10 +94,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=50+Days+Out%21+Heaser+for+House+Door+Knock&dates=20260913T190000Z%2F20260913T220000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Champlin+Door+Knock&dates=20260822T160000Z%2F20260822T190000Z"
 },
 {
 "text": "Google Calendar",
@@ -122,6 +118,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day%21+Time+to+Vote%21&dates=20261103T140000Z%2F20261104T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+Out+the+Vote+Door+Knock&dates=20261024T150000Z%2F20261104T010000Z"
 },
 {
 "text": "Google Calendar",
@@ -181,6 +181,18 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Heaser+for+House+Door+Knock&dates=20261017T150000Z%2F20261019T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Heaser+for+House+Door+Knock&dates=20261021T220000Z%2F20261022T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Heaser+for+House+Door+Knock&dates=20261022T220000Z%2F20261023T010000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rogers+Door+Knock&dates=20260827T220000Z%2F20260828T010000Z"
 },
 {
@@ -225,7 +237,15 @@
 },
 {
 "text": "Heaser for House Door Knock",
+"href": "https://www.heaserforhouse.com/events/2t4pjl3esckc2syng2sap2zxsyr4mf"
+},
+{
+"text": "Heaser for House Door Knock",
 "href": "https://www.heaserforhouse.com/events/5u34a1r2jeh0iriexyicuygno8mhx5"
+},
+{
+"text": "Heaser for House Door Knock",
+"href": "https://www.heaserforhouse.com/events/ayakfojsrb4nwoegid404e2actlb8v"
 },
 {
 "text": "Heaser for House Door Knock",
@@ -257,6 +277,10 @@
 },
 {
 "text": "Heaser for House Door Knock",
+"href": "https://www.heaserforhouse.com/events/ossu40jv8r0wmnflfwmh23vjhc6rhi"
+},
+{
+"text": "Heaser for House Door Knock",
 "href": "https://www.heaserforhouse.com/events/zksjb2tnp4xsdt78w39rxx3fx2dxr9"
 },
 {
@@ -266,6 +290,10 @@
 {
 "text": "Home",
 "href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.heaserforhouse.com/events/2t4pjl3esckc2syng2sap2zxsyr4mf?format=ical"
 },
 {
 "text": "ICS",
@@ -297,7 +325,7 @@
 },
 {
 "text": "ICS",
-"href": "https://www.heaserforhouse.com/events/champlin-door-knock-1?format=ical"
+"href": "https://www.heaserforhouse.com/events/ayakfojsrb4nwoegid404e2actlb8v?format=ical"
 },
 {
 "text": "ICS",
@@ -318,6 +346,10 @@
 {
 "text": "ICS",
 "href": "https://www.heaserforhouse.com/events/election-day-time-to-vote?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.heaserforhouse.com/events/get-out-the-vote-door-knock?format=ical"
 },
 {
 "text": "ICS",
@@ -366,6 +398,10 @@
 {
 "text": "ICS",
 "href": "https://www.heaserforhouse.com/events/ldpbk6szl574f7d9yr9ld2y4z8lrnw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.heaserforhouse.com/events/ossu40jv8r0wmnflfwmh23vjhc6rhi?format=ical"
 },
 {
 "text": "ICS",
@@ -433,6 +469,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.heaserforhouse.com/events/2t4pjl3esckc2syng2sap2zxsyr4mf"
+},
+{
+"text": "View Event →",
 "href": "https://www.heaserforhouse.com/events/34a-heaser-doorknock"
 },
 {
@@ -461,7 +501,7 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.heaserforhouse.com/events/champlin-door-knock-1"
+"href": "https://www.heaserforhouse.com/events/ayakfojsrb4nwoegid404e2actlb8v"
 },
 {
 "text": "View Event →",
@@ -482,6 +522,10 @@
 {
 "text": "View Event →",
 "href": "https://www.heaserforhouse.com/events/election-day-time-to-vote"
+},
+{
+"text": "View Event →",
+"href": "https://www.heaserforhouse.com/events/get-out-the-vote-door-knock"
 },
 {
 "text": "View Event →",
@@ -530,6 +574,10 @@
 {
 "text": "View Event →",
 "href": "https://www.heaserforhouse.com/events/ldpbk6szl574f7d9yr9ld2y4z8lrnw"
+},
+{
+"text": "View Event →",
+"href": "https://www.heaserforhouse.com/events/ossu40jv8r0wmnflfwmh23vjhc6rhi"
 },
 {
 "text": "View Event →",
@@ -584,10 +632,6 @@
 "href": "https://www.heaserforhouse.com/events/50-days-out-heaser-for-house-door-knock-1"
 },
 {
-"text": "[image: Champlin Door Knock]",
-"href": "https://www.heaserforhouse.com/events/champlin-door-knock-1"
-},
-{
 "text": "[image: DFL Caucus Leader &amp; House Rep. Zack Stephenson Knock for Heaser]",
 "href": "https://www.heaserforhouse.com/events/389p3hn7gt1lakut5nswfjzb8ku6wr"
 },
@@ -612,6 +656,10 @@
 "href": "https://www.heaserforhouse.com/events/election-day-time-to-vote"
 },
 {
+"text": "[image: Get Out the Vote Door Knock]",
+"href": "https://www.heaserforhouse.com/events/get-out-the-vote-door-knock"
+},
+{
 "text": "[image: Heaser & Childcare For All Doorknock]",
 "href": "https://www.heaserforhouse.com/events/heaser-childcare-for-all-doorknock"
 },
@@ -629,7 +677,15 @@
 },
 {
 "text": "[image: Heaser for House Door Knock]",
+"href": "https://www.heaserforhouse.com/events/2t4pjl3esckc2syng2sap2zxsyr4mf"
+},
+{
+"text": "[image: Heaser for House Door Knock]",
 "href": "https://www.heaserforhouse.com/events/5u34a1r2jeh0iriexyicuygno8mhx5"
+},
+{
+"text": "[image: Heaser for House Door Knock]",
+"href": "https://www.heaserforhouse.com/events/ayakfojsrb4nwoegid404e2actlb8v"
 },
 {
 "text": "[image: Heaser for House Door Knock]",
@@ -658,6 +714,10 @@
 {
 "text": "[image: Heaser for House Door Knock]",
 "href": "https://www.heaserforhouse.com/events/k55mh9pwmy4pfyk64lekx3bbc74nrz"
+},
+{
+"text": "[image: Heaser for House Door Knock]",
+"href": "https://www.heaserforhouse.com/events/ossu40jv8r0wmnflfwmh23vjhc6rhi"
 },
 {
 "text": "[image: Heaser for House Door Knock]",

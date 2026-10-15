@@ -1,10 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Senator, you’ve had 17 years.
-Costs are higher, not lower.
-You voted for massive spending packages that drove inflation… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Senator, you’ve had 17 years.
-Costs are higher, not lower.
-You voted for massive spending packages that drove inflation… See upcoming events Bert Mizusawa For U.S.
+Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
+Before we headed home, we were awe… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
+Before we headed home, we were awe… See upcoming events Bert Mizusawa For U.S.
 Senate A proven leader protecting Virginia's values and securing America's future.
 See Where I Stand Join the Campaign Fighting for Virginia Decades of service.
 A clear vision for Virginia families.
@@ -15,7 +13,10 @@ Michael Tran Conversation with Michael Tran.
 The Staunton Debate hosted by The Family Foundation Debate hosted by The Family Foundation.
 See all media MEET US ON THE TRAIL Find rallies, meet-and-greets, and volunteer opportunities near you across the Commonwealth.
 We look forward to seeing you there!
-View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 13 Senator, you’ve had 17 years.
+View Events Join the Movement Follow us on Bert Mizusawa @GenBert2026 · Oct 14 After midnight last night, Amy and I completed my fourth media interview of the day.
+Before we headed home, we were awed by this stunning view of our mission's objective.
+We look forward to representing You, the People!
+Bert Mizusawa @GenBert2026 · Oct 13 Senator, you’ve had 17 years.
 Costs are higher, not lower.
 You voted for massive spending packages that drove inflation and piled on trillions in debt.
 On your watch, Virginia became the world's data center capital, and those facilities are now driving up electricity rates for families across the state.
@@ -32,11 +33,7 @@ Yet the report behind that figure won’t release its full methodology until 202
 The USDA’s data puts Virginia’s household food insecurity rate at about 13%, a very different picture.
 These statistics deserve scrutiny, not political spin.
 Fighting childhood hunger should be about feeding hungry children, not using them as political talking points.
-Virginians deserve transparency and facts. https://restoration-news.com/warner-s-childhood-hunger-hoax-exposed Bert Mizusawa @GenBert2026 · Oct 12 Every day brings a new opportunity to vote, and the deadline is rapidly approaching.
-Only # days remain before Election Day.
-The Senate majority is on the ballot, common sense is on the ballot, and we need to make the right choice this November.
-Vote Bert Mizusawa.
-Get Involved Candidate for U.S.
+Virginians deserve transparency and facts. https://restoration-news.com/warner-s-childhood-hunger-hoax-exposed Get Involved Candidate for U.S.
 Senate, Virginia.
 Fighting for Virginia's families, veterans, and future.
 Paid for by Bert for Senate 2026 Quick Links Home About Issues Contact Contact info@bertforsenate.com Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the DoW. © # Bert for Senate 2026.

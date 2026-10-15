@@ -1,4 +1,5 @@
-Home About Platform Endorsements VOLUNTEER Platform Ethan's Platform Our corner of Connecticut is consistently left behind by leaders who are not concerned with our interests.
+Early voting starts Oct 19 — make your plan!
+Home About Platform Endorsements Vote VOLUNTEER Platform Ethan's Platform Our corner of Connecticut is consistently left behind by leaders who are not concerned with our interests.
 There is more to this state than the Gold Coast or its largest cities—policies that work for those regions simply don't work here.
 We need a Senator who will fight the "one size fits all" approach and push for policies that work for our community.
 This campaign is about more than defeating Jeff Gordon.

@@ -20,12 +20,6 @@ You can submit your question or ideas through the Priorities page or reach out d
 No matter which option you choose, your message will be received by the team and directed to the right place.
 How can I invite tarra to an event?
 Whether you’d like to invite Tarra to speak, attend an event, or join your community for another occasion, you can Invite Tarra here or check her availability and share the details of your event using the link on the Events page.
-How can I share an issue affecting my community with tarra?
-You can share an issue affecting your community through the Priorities page or directly through any Contact form.
-Your experiences help Tarra understand what’s happening in the communities she represents.
-How can I request help navigating a state agency?
-Tarra’s legislative office can help constituents navigate state agencies and connect with the right resources.
-You can reach out through directly through any Contact form or email her legislative assistant, Zach Ellis, Zach.Ellis@leg.wa.gov , for constituent assistance.
 Does Tarra have a criminal record?
 Tarra’s criminal record was vacated by a Kitsap County Superior Court judge in September 2023 under Washington’s New Hope Act, which expanded eligibility to vacate certain convictions.
 Her 2013 convictions were set aside and the underlying cases dismissed under Washington law.

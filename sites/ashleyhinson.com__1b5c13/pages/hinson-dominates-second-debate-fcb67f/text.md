@@ -1,0 +1,7 @@
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute News & Updates Hinson Dominates Second Debate Oct 13, 2026 | Press Release Back to Updates Des Moines, IA – Tonight, Hinson Campaign Communications Director Billy Fuerst issued the following statement after Ashley Hinson won the WHO TV debate against Liberal Josh Turek: “The contrast between common sense and crazy was on full display tonight, and it’s clear that Josh Turek is just too liberal for Iowa.
+He voted to give taxpayer-funded benefits to illegal immigrants, to let kids secretly change their genders, and to let fake meat be labeled as real.
+He should never represent Iowa in the U.S.
+Senate – he’s too liberal for Iowa.
+In the Senate, Ashley will be a bipartisan fighter for Iowa, and work with anyone to make life more affordable, take on Big Pharma and Big Health Insurance companies, and deliver for our farmers, veterans, and rural Iowa.” – Billy Fuerst, Campaign Communications Director Earlier today, Hinson also earned the endorsement of the National Border Patrol Council for her work to ensure border patrol agents have the resources and support they need to keep the border secure, deport dangerous criminals, and stop the flow of deadly drugs into the United States.
+### Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

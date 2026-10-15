@@ -1,4 +1,4 @@
-0 Skip to Content Meet Courtney Priorities Endorsements Get Involved Donate Open Menu Close Menu Meet Courtney Priorities Endorsements Get Involved Donate Open Menu Close Menu Meet Courtney Priorities Endorsements Get Involved Donate A Compassionate Leader.
+0 Skip to Content Meet Courtney Priorities Endorsements Voters' Pamphlet Statement Get Involved Donate Open Menu Close Menu Meet Courtney Priorities Endorsements Voters' Pamphlet Statement Get Involved Donate Open Menu Close Menu Meet Courtney Priorities Endorsements Voters' Pamphlet Statement Get Involved Donate A Compassionate Leader.
 A Voice For Our Communities.
 Donate Volunteer Get in Contact As an educator and parent, I’m focused on our future.
 I’ve served our communities as your State Representative and State Senator, consistently listening to your voices and working diligently to invest in quality education , make childcare and housing more affordable, expand mental health care and addiction treatment , improve community safety , strengthen consumer protections, and protect access to reproductive healthcare .

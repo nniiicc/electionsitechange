@@ -7,10 +7,10 @@ Show up everyday and do not wait for permission to help.
 Just do it.
 #Kalihi​ #Kalihipride​ #Ourcommunityfirst​ #VoteYbanez4Kalihi​ Previous YBANEZ - Saturday, 7/25/2026 Next YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-You Might Also Like "Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ - Mahalo Gov.
+You Might Also Like A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
-YBANEZ 4 KALIHI - Support Local!
+Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing YBANEZ - Walk & Talk 7/29/2026 Door to Door at Kuhio Park Terrace in Kalihi!
 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.

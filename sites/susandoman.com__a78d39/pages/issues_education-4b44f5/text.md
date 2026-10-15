@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Education Strong schools, strong community—supporting teachers, students, and lifelong learning.
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Education Strong schools, strong community—supporting teachers, students, and lifelong learning.
 What I believe Strong schools attract families in their peak earning years A strong community depends on strong public schools.
 Our district is fortunate to have excellent schools, and we must protect that quality while pushing for continual improvement.
 Every child—no matter their ZIP code—deserves a safe classroom, great teachers, and the opportunity to learn and thrive.

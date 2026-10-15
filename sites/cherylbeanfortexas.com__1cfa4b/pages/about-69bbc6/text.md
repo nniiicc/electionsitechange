@@ -1,4 +1,4 @@
-Home About Issues News FUND THE FIGHT → Home About Issues News "I grew up IN Tarrant County — it’s where I went to school, built a business, and raised my family, and now it’s where most of my grandkids are growing up.
+Home About Issues FUND THE FIGHT → Home About Issues "I grew up IN Tarrant County — it’s where I went to school, built a business, and raised my family, and now it’s where most of my grandkids are growing up.
 I learned to stand firm in my faith and to stand up for the people around me.
 Everything I’ve built, I built the right way — not the easy way" - Cheryl Bean Meet Cheryl Bean Cheryl Bean broke the glass ceiling on merit — in a time when many sought the easy way up.
 I'm a self-made Texan, and I've never fit neatly into anyone's box.

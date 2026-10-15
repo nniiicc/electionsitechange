@@ -1,4 +1,6 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate Cindy in the News From the campaign Press All press releases → Press Release • October 9, 2026 Missouri-Kansas-Nebraska Conference of Teamsters Endorses Cindy Holscher for Governor Today, the Missouri-Kansas-Nebraska Conference of Teamsters endorsed Cindy Holscher for governor, adding to the growing coalition behind her campaign.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate Cindy in the News From the campaign Press All press releases → Press Release • October 14, 2026 Cindy Holscher Launches New Television Ad Vowing to Clean Up Ty Masterson’s Messes “Muck” spotlights Holscher’s farm roots and her pledge to fight the corruption driving up costs, while making clear that Masterson’s plan belongs in manure Press Release • October 14, 2026 100 Kansas Republicans Are Now Backing Cindy Holscher for Governor Today, the Cindy Holscher for Governor campaign announced that 80 additional current and former Republicans from across Kansas have endorsed Senator Cindy Holscher and joined “Republicans for Cindy,” bringing the coalition to 100 members.
+They joined the 20 current and former Republican elected officials who launched the coalition, many of whom served alongside both Holscher and Masterson in the legislature.
+Press Release • October 9, 2026 Missouri-Kansas-Nebraska Conference of Teamsters Endorses Cindy Holscher for Governor Today, the Missouri-Kansas-Nebraska Conference of Teamsters endorsed Cindy Holscher for governor, adding to the growing coalition behind her campaign.
 The Teamsters represent more than 6,000 working men and women across Kansas, in areas as diverse as freight distribution, car-haul, heavy highway construction, wholesale and retail food distribution, small parcel and package delivery, brewery and soda manufacturing, railroad and maintenance of way workers, school bus drivers, and many of Kansas’ transportation industries.
 Press Release • September 30, 2026 Cindy Holscher Launches New Television Ad Highlighting Need for Firm Guardrails on Data Centers Today, Democratic nominee for governor Cindy Holscher launched her newest television ad, “Sunflowers,” highlighting the need for firm guardrails around new data center development in Kansas.
 The ad will air statewide on broadcast, cable, and digital platforms starting today.
@@ -8,19 +10,16 @@ Press Release • September 23, 2026 Holscher Campaign Launches “Republicans F
 Many served alongside both Holscher and Masterson and saw firsthand how she worked across party lines to deliver for Kansas families.
 Throughout her time in the legislature, Holscher has brought Republicans, Independents, and Democrats together around practical and pragmatic solutions.
 That record began in her first term in the Kansas House, when she co-founded a bipartisan coalition that ended the Brownback tax experiment and restored stability to the state budget.
-Press Release • September 22, 2026 Holscher Launches Statewide “Common Sense and Lower Costs Tour” Today, Senator Cindy Holscher announced the launch of her statewide Common Sense and Lower Costs Tour, kicking off Saturday, September 26, in Marysville.
-Over the next two weeks, Senator Cindy Holscher will travel the state, with at least 16 stops planned, to hear directly from Kansans and share her plan to lower costs for working families.
-The tour spends its first week in eastern Kansas before heading west for week two.
-Press Release • September 18, 2026 Masterson Confirms: No More Debates Republican nominee for governor Ty Masterson is refusing to debate Senator Holscher again.
-His spokesperson confirmed to the Kansas Reflector that Masterson has “no plans to accept any further debates.” Masterson’s retreat comes less than a week after the two faced off at the Kansas State Fair, where Holscher hammered him over his 20-year record in the legislature and six years running the Senate.
-Watch Video All videos → Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
+Watch Video All videos → Cindy Holscher will clean up the Muck in Kansas as Governor October 14, 2026 Cindy grew up on a farm and is used to cleaning up messes.
+She ran for office to clean up the muck created by Sam Brownback and Ty Masterson.
+Cindy Holscher is running for governor to clean up the corruption - from Brownback, to property taxes, to data centers.
+Ty Masterson's rich backers get huge tax cuts, and he get's a million dollar no-show job - and we pay the price.
+Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
 Cindy Holscher Will Hit Pause on Data Centers in Kansas as Governor September 30, 2026 Cindy knows that Kansas farms and fields of sunflowers are under attack.
 Big Tech wants to build data centers all over the state.
 Cindy will hit pause on data centers until responsible guardrails are in place to protect our communities and our budgets.
 Let's build a future that grows strong.
 Cindy Holscher - Protecting our Farmers from Data Centers September 29, 2026 Cindy Holscher visits the Marples at their family owned and operated farm that is under threat from data center development.
-Cindy Holscher Will Fight For Working Kansans September 9, 2026 Cindy grew up on a farm.
-As governor, she'll fight for working people all across Kansas.
 In the news News Clips All news clips → KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
 That also includes recreational marijuana legalization and a focus on cutting property taxes.
 “Those are all things supported by at least 65 percent of the population of Kansas,” she said.

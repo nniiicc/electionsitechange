@@ -28,16 +28,16 @@ Remind your family.
 Text a friend.
 Knock a door.
 Talk to the people who want clean water, safer roads, lower costs, and leaders who keep their word.
-Related Posts: Tell The Senate: Pass Trump’s One Big, Beautiful Bill!
-May 22, 2025 Promises Kept: The Medal of Sacrifice is Now Law June 1, 2026 Biden left them dead and abandoned August 4, 2022 61 Days To Defend Florida’s Future September 1, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Petition: Stop Entertaining Foreign Oil April 11, 2022 [WATCH] GOP Convention Speech: Make America Strong Once Again!
+July 19, 2024 Army Corps Cover Up EXPOSED!
+January 14, 2022 Tell The Senate: Pass Trump’s One Big, Beautiful Bill!
+May 22, 2025 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
-One Mission.
-Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

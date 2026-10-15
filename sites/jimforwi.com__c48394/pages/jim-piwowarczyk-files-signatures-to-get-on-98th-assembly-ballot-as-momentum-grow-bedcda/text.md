@@ -18,7 +18,7 @@ Jim Piwowarczyk turning in the signatures.
 “I will work very hard to make sure voters’ concerns are represented and heard.” You can learn more about Piwowarczyk’s campaign here.
 Paid for by Jim for Wisconsin.
 Post navigation Previous post: Prev Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly May 16, 2024 Next post: Next Washington Co.
-Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 You May Also Like Posted July 31, 2024 in News DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 You May Also Like Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY Posted April 30, 2024 in ticker , Endorsements , News Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

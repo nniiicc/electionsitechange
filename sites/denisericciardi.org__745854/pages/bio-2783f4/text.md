@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page MEET DENISE If there is one word to describe Denise Ricciardi, it is tenacious.
 Before moving to New Hampshire, Denise grew up in a diverse suburb of Philadelphia.
 Her father was a hardworking, middle class engineer who had put himself through college with help from the GI Bill.

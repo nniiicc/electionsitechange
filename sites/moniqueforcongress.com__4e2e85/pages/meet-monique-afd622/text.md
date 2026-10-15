@@ -1,4 +1,4 @@
-About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop Meet Monique Colonel.
+About Meet Monique Endorsements News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique Endorsements News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop Meet Monique Colonel.
 Advocate.
 Mother.
 Monique is running for Congress in OR-04 because she knows we need a fighter in Washington who will roll up her sleeves and deliver results for Oregonians.

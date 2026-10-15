@@ -1,0 +1,11 @@
+NOVEMBER 3, 2026, GENERAL ELECTION Polling Locations and Dates and Times LOCATIONS OF ELECTION DAY POLLING SITES Election Day 7:00 - 7:00 PALO PINTO METHODIST CHURCH 419 OAK ST, PALO PINTO MEETING ROOM PK VOL.
+FIRE DEPT.
+358 NORTH FM 2353, GRAFORD MEETING ROOM STRAWN CITY HALL 118 HOUSLEY St, Strawn MEETING ROOM GORDON COMMUNITY CTR 201 HOUSTON ST., GORDON MEETING HALL GRAFORD ISD 400 WEST DIVISION BOARD ROOM FIRST BAPTIST CHURCH SANTO 135 W.
+PALO PINTO, SANTO CHURCH HALL FOX HOLLOW- WESTLAKE CHAPEL 701 HWY 1148, GRAHAM, MEETING ROOM BOYCE DITTO PUBLIC LIBRARY 2300 S.E.
+MLK JR STREET, MINERAL WELLS MEETING ROOM FAIRVIEW BAPTIST CHURCH 1062 FAIRVIEW RD, MINERAL WELLS MEETING ROOM PALO PINTO COUNTY ANNEX 100 S.E.
+6TH AVE, MINERAL WELLS COURT ROOM LOBBY MINERAL WELLS SENIOR CENTER 102 NW 6TH AVE., MINERAL WELLS MEETING ROOM EARLY VOTING by personal appearance will be conducted each weekday: VOTACIÓN temprana en persona se llevará a cabo cada día de la semana: EARLY VOTING SITES and HOURS PRINCIPAL sitio de votación temprana y horas Main Early Voting Location Branch Early Voting Location Palo Pinto County Annex Court Room Lobby 100 S.E.
+6th Ave.
+Mineral Wells, TX 76067 Palo Pinto Methodist Church Sunday School Building 419 Oak St.
+Palo Pinto, Texas 76484 Monday- October/Octubre 19 Tuesday- October/Octubre 20 Wednesday- October/Octubre 21 Thursday- October/Octubre 22 Friday- October/Octubre 23 Saturday – October/Octubre 24 8:00 am - 5:00 pm 8:00 am - 5:00 pm 8:00 am – 5:00 pm 8:00 am – 5:00 pm 8:00 am – 5:00 pm 7:00 am – 7::00 pm Sunday- October/Octubre 25 Monday- October/Octubre 26 Tuesday- October/Octubre 27 Wednesday- October/Octubre 28 Thursday- October/Octubre 29 Friday- October/Octubre 30 Applications for ballots by mail must be received no later than the close of business on October 23, 2026 Applications for ballot by mail shall be mailed to: Solicitudes de votes por correo deberán recibirse no más tarde Del cierre de actividades el 23 de octubre de 2026 Solicitudes de voto por correo se le enviará a: Palo Pinto Elections Department Early Voting Clerk Mailing Address 100 S.E.
+6th Ave.
+Suite 205 Mineral Wells, TX 76067 9:00 am - 3:00 pm 7:00 am - 7:00 pm 7:00 am – 7:00 pm 7:00 am – 7:00 pm 7:00 am – 7:00 pm 7:00 am – 7:00 pm

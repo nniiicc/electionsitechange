@@ -24,4 +24,4 @@ That means tracking treatment engagement and completion, employment, movement in
 Read More Public Safety Keeping people safe is one of government's most fundamental responsibilities.
 I support strong law enforcement, effective prosecution of violent and repeat offenders, adequate resources for first responders, and practical policies that prevent avoidable tragedies.
 That includes rail safety .
-Read More Voter Information District Info (HD 20) Events Photos Contact Privacy Policy Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu
+Read More Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

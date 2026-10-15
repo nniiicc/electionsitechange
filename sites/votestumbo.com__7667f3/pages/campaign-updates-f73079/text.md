@@ -1,6 +1,10 @@
 Countdown loading...
 Home About David Endorsements Campaign Updates Media Join the Fight On The Road Latest updates and highlights from the campaign trail across South Carolina, where we’ve been, who we’ve met, and what we’re hearing from communities across the state.
-October 12, 2026 Loved stopping by the Charleston GOP meeting tonight and joining in o...
+October 14, 2026 This morning, I had the privilege of attending the Lexington County H...
+This morning, I had the privilege of attending the Lexington County Heroes Breakfast.
+Thank you to all of our first responders for your dedication to keeping our communities safe!
+Thank you to Representatives Chris Wooten and Micah Caskey for organizing such a great event!
+LINK October 12, 2026 Loved stopping by the Charleston GOP meeting tonight and joining in o...
 Loved stopping by the Charleston GOP meeting tonight and joining in on writing handwritten letters to voters!
 Just # days until Election Day on November 3rd!
 It’s all about getting out the vote!
@@ -45,8 +49,5 @@ Great football, even better company, and memories we’ll always cherish.
 The special halftime tribute honoring our military made the day even more memorable.
 We are forever grateful for the brave men and women who have served and continue to serve our country.
 Go Gamecocks!
-LINK September 13, 2026 Always good to be home with our Greenwood County people in the Town o...
-Always good to be home with our Greenwood County people in the Town of Hodges for the annual Lights on Main event this weekend, as we honored our first responder and military heroes in reflection of 25 years since the 9/11 attacks on our country.
-Special thanks to our state’s Adjutant General, my friend Major General Robin Stilwell, who made the trip to join us as the keynote speaker.
 LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
 Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

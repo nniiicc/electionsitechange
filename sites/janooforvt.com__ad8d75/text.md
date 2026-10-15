@@ -33,7 +33,12 @@ They build resilience from the ground up.
 And here in Vermont, that’s exactly what this moment asks of us.
 Because despite what we have been told for too long, together, we have everything we need.
 See upcoming events → Upcoming Events Campaign Stops Meet Amanda Volunteer Opportunities Canvassing Volunteer Opportunities See more events → Media Follow on Instagram Download our campaign zine!
-How to fold a zine → Press Coverage Pro-Phil Scott super PAC launches ad blitz targeting Amanda Janoo A Stronger Vermont, an independent-expenditure committee bankrolled by the Republican Governors Association, spent nearly $175,000 late last week on online and television advertisements criticizing Scott’s Democratic opponent, Amanda Janoo. ...
+How to fold a zine → Press Coverage Can Amanda Janoo Pull Off an Upset in the Race for Governor? [Each town hall] also introduces a core tenet of Janoo’s political philosophy: Policy makers should build upon the strengths, resources and ideas that already exist within communities rather than focusing on what they lack.
+Or, as Janoo often says, “Together, we have everything we need.” It’s an oversimplified statement, as any campaign tagline is.
+But Janoo’s message is clearly resonating with voters.
+Since she announced her candidacy for governor in March, the 39-year-old economist has traversed the state to share her vision for Vermont with citizens of all stripes.
+Thousands have shown up — at coffee shops and senior centers, barns and auditoriums — to hear her ideas about universal primary care, bottom-up decision-making, and why the state needs to fight back against corporate and private-equity ownership of Vermont’s housing stock, which disadvantages everyday people.
+Read more Pro-Phil Scott super PAC launches ad blitz targeting Amanda Janoo A Stronger Vermont, an independent-expenditure committee bankrolled by the Republican Governors Association, spent nearly $175,000 late last week on online and television advertisements criticizing Scott’s Democratic opponent, Amanda Janoo. ...
 “Super PACs and national committees are only spending on behalf of candidates if they’re worried about it, and they think their money is going to do something,” [Democratic campaign strategist Natalie] Silver said Monday.
 “She has a very strong ground game.
 She has hundreds if not over a thousand active volunteers … and so my message to the Janoo campaign would be to keep it up, and to keep doing that work, because clearly your opponent is scared,” Silver said.

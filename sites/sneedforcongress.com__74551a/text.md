@@ -13,10 +13,10 @@ Join us to canvass and knock doors to raise awareness for Andrew Sneed!
 Multiple Dates Sat, Oct 10 Knock and Roll for Sneed! / Andrew Sneed for Congress HQ Count Me In!
 Oct 10, 2026, 8:45 AM – Jan 02, 2027, 1:00 PM Andrew Sneed for Congress HQ, 303 Williams Ave SW, Huntsville, AL 35801, USA Be part of the fight for change and decency in North Alabama.
 Join us to canvass and knock doors to raise awareness for Andrew Sneed!
-Multiple Dates 4 days to the event Sat, Oct 17 Knock and Roll for Sneed! / Andrew Sneed for Congress HQ Count Me In!
+Multiple Dates 3 days to the event Sat, Oct 17 Knock and Roll for Sneed! / Andrew Sneed for Congress HQ Count Me In!
 Oct 17, 2026, 8:45 AM – Jan 09, 2027, 1:00 PM Andrew Sneed for Congress HQ, 303 Williams Ave SW, Huntsville, AL 35801, USA Be part of the fight for change and decency in North Alabama.
 Join us to canvass and knock doors to raise awareness for Andrew Sneed!
-Multiple Dates 11 days to the event Sat, Oct 24 Knock and Roll for Sneed! / Andrew Sneed for Congress HQ Count Me In!
+Multiple Dates 10 days to the event Sat, Oct 24 Knock and Roll for Sneed! / Andrew Sneed for Congress HQ Count Me In!
 Oct 24, 2026, 8:45 AM – Jan 16, 2027, 1:00 PM Andrew Sneed for Congress HQ, 303 Williams Ave SW, Huntsville, AL 35801, USA Be part of the fight for change and decency in North Alabama.
 Join us to canvass and knock doors to raise awareness for Andrew Sneed!
 See All Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

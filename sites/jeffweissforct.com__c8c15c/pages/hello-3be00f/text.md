@@ -7,4 +7,4 @@ We can change that, but we have to act now.
 Video Layout Test 01 → Stay Connected Get updates from Jeff’s campaign.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

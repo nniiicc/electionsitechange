@@ -15,7 +15,7 @@ That is how I lead and how I show up for the people I represent.
 Perseverance I do not walk away when things get hard.
 From the Navy to nursing to small business ownership, I have learned to keep grinding when the easy option is to quit.
 The same mindset has carried me through Ironman triathlons and ultra-endurance races, where you only finish by taking one more step when everything in you is tired.
-I believe good leadership means staying in the fight, working the problem, and not giving up on people or on communities Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+I believe good leadership means staying in the fight, working the problem, and not giving up on people or on communities Sign up for updates Media Contact Terms and Conditions Paid for by Elect Ben Christly (D) 304 S.E.
 Hearthwood Blvd.
 P.O.
 Box 87872, Vancouver, WA 98684

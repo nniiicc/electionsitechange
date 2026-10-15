@@ -5,6 +5,6 @@ When the leadership of our Department of Defense openly subverts the rule of law
 This is not a partisan issue; it is a constitutional crisis.
 I fully support the effort to hold Secretary Hegseth accountable.
 The Central Valley and the Sierra deserve a representative who will always stand up for the Constitution, demand transparency, and protect our separation of powers.
-If elected, I will vote to uphold these principles without hesitation." Wyatt Nordvik Next Next Your Budget Isn't Broken.
+If elected, I will vote to uphold these principles without hesitation." Wyatt Nordvik Previous Previous Masuda For Congress Statement on Helicopter Crash in Yosemite Next Next Your Budget Isn't Broken.
 Washington's Choices Are.
 Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

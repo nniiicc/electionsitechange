@@ -1,6 +1,5 @@
-Home NEWS!!
-Meet Scott Events Issues Events / Community Town Hall in Mt.
-Vernon Community Town Hall in Mt.
+Home Meet Scott Issues Events / Candidate Forum & Community Town Hall in Mt.
+Vernon Candidate Forum & Community Town Hall in Mt.
 Vernon Time Thursday, Oct 15, 2026 6:00 PM – 8:00 PM Location 405 W.
 Chestnut Street, Mt.
 Vernon, OH, 43050 Map About this event Your candidates for U.S.
@@ -12,8 +11,6 @@ Vernon at the ReStore/Habitat for Humanity meeting room This event is free and o
 If you are unable to attend but would like to submit a question or share your thoughts, please email info@ScottGrundForOhio.com We look forward to a productive, community-driven conversation.
 Map 405 W.
 Chestnut Street Mt.
-Vernon, OH 43050 Directions → Add to calendar NEWS!!
-Photos Contact Volunteer Yard Signs Voter Information Visit my Substack publication © #.
+Vernon, OH 43050 Directions → Add to calendar Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home NEWS!!
-Meet Scott Events Issues Volunteer Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

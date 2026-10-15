@@ -1,12 +1,6 @@
-Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 7 · Draft Your Property.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to the Issues Library Issues That Hit Home · Article 7 Your Property.
 Your Community.
 Who Should Decide?
-30-second overview From the published campaign article A farmer should have a meaningful choice about how to use their land.
-A neighbor should have a meaningful say when a large project may affect drainage, roads, or the view from their home.
-A township should have more than a ceremonial role in decisions that will shape it for decades.
-Local context and documented position The original explanation below contains the campaign’s position and local context.
-Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records www.michigan.gov — official document or government source. joemoss.com — candidate campaign source.
 By Meegan Zickus A farmer should have a meaningful choice about how to use their land.
 A neighbor should have a meaningful say when a large project may affect drainage, roads, or the view from their home.
 A township should have more than a ceremonial role in decisions that will shape it for decades.
@@ -48,6 +42,6 @@ A project of this size should proceed only after a transparent review shows how 
 Michigan needs reliable, affordable energy.
 Ottawa County needs property rights and local representation that hold up when the decision is difficult.
 The farmer, the neighbor, and the township all deserve a real voice.
-My plan is to write that balance into the rules. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading What is Michigan Public Act 233?
-Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+My plan is to write that balance into the rules. ← Back to the Issues Library More from Meegan’s Top 10 priorities Sources for this article www.michigan.gov joemoss.com Related reading What is Michigan Public Act 233?
+Browse the Issues Library · Compare candidate positions Sources & corrections Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
 All rights reserved.

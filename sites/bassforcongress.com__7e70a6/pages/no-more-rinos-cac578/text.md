@@ -143,14 +143,13 @@ Or they can vote for a job creator, a business owner, a true conservative, and a
 The choice is clear.
 Vote Bass for Congress — August 11th Republican Primary.
 Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
-Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular CCX Media Community News October 13, 2026 WCCO Questions and Answers October 13, 2026 Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Kelly Morrison Supports Ban On Semi-Automatic Weapons October 15, 2026 CCX Media Community News October 13, 2026 WCCO Questions and Answers October 13, 2026 Voter ID October 2, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
 Email Address Phone # Name subscribe Categories Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Make Minnesota Affordable Again Next 180 Visa Types, One Broken System: Next On Key Related Posts CCX Media Community News Why I Am Going on CCX Media: The Difference Between Me and Kelly Morrison Oct 13, 2026 · Voters in Minnesota’s 3rd District deserve a WCCO Questions and Answers My Answers on Taxes, Health Care, Immigration, Jobs, and Fraud Oct 12, 2026 · Minnesotans deserve straight answers, so here are mine to five questions Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
-Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
-In December 2023 she was supposed to perform Let's work together to tackle the fraud!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Make Minnesota Affordable Again Next 180 Visa Types, One Broken System: Next On Key Related Posts Kelly Morrison Supports Ban On Semi-Automatic Weapons Where I Stand on the Second Amendment I grew up in the Boy Scouts, and that’s where I was first taught gun safety.
+I’ve been CCX Media Community News Why I Am Going on CCX Media: The Difference Between Me and Kelly Morrison Oct 13, 2026 · Voters in Minnesota’s 3rd District deserve a WCCO Questions and Answers My Answers on Taxes, Health Care, Immigration, Jobs, and Fraud Oct 12, 2026 · Minnesotans deserve straight answers, so here are mine to five questions Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!

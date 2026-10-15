@@ -1,8 +1,4 @@
-Skip to main content Opens in a new tab Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Language: English English Español 中文 हिन्दी Donate Language: English English Español 中文 हिन्दी Donate Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Donate EN | ES | 中文 | हिन्दी Get Involved Upcoming Events What's Happening This Week Wed, Oct 14 10:00 AM Phonebank for Dr.
-Hamawy!
-Virtual 6:00 PM Phonebank for Dr.
-Hamawy!
-Virtual Thu, Oct 15 5:00 PM Canvass in South River!
+Skip to main content Opens in a new tab Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Language: English English Español 中文 हिन्दी Donate Language: English English Español 中文 हिन्दी Donate Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Donate EN | ES | 中文 | हिन्दी Get Involved Upcoming Events What's Happening This Week Thu, Oct 15 5:00 PM Canvass in South River!
 Leonardine Park · South River, NJ 6:00 PM Phonebank for Dr.
 Hamawy!
 Virtual Fri, Oct 16 5:30 PM Canvass in Trenton!
@@ -18,19 +14,9 @@ Hamawy!
 Virtual Mon, Oct 19 No events Tue, Oct 20 5:00 PM Canvass in Princeton!
 Hamawy HQ! · Princeton, NJ 6:00 PM Phonebank for Dr.
 Hamawy!
-Virtual 6:00 PM UNION COUNTY LISTENING TOUR All Events Oct 14 Wednesday Phonebank for Dr.
+Virtual 6:00 PM UNION COUNTY LISTENING TOUR Wed, Oct 21 6:00 PM Phonebank for Dr.
 Hamawy!
-10:00 AM – 12:00 PM EDT Virtual Can't make it to a canvass?
-Come to a phonebank!
-We'll be calling voters using an automated dialer, so all you have to do is talk!
-Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
-Never phonebanked before?
-No problem!
-We'll walk you through the dialer system and practice speaking to voters over the phone.
-Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts.
-More dates: Wed, Oct 14, 6:00 PM · Thu, Oct 15, 6:00 PM · Fri, Oct 16, 6:00 PM · Sun, Oct 18, 6:00 PM and 8 more RSVP : Phonebank for Dr.
-Hamawy!
-Oct 15 Thursday Canvass in South River!
+Virtual All Events Oct 15 Thursday Canvass in South River!
 5:00 – 7:00 PM EDT Leonardine Park · South River, NJ Come help Team Hamawy!
 Join as we knock doors and talk to South River about Dr.
 Hamawy's campaign for Congress.
@@ -40,7 +26,19 @@ Together, let's send a Representative to Congress who'll fight for healthcare, n
 Never canvassed before?
 Don't worry!
 We begin all canvass launches with a training, and we'll pair you up with an experienced volunteer!
-More dates: Thu, Oct 22, 5:00 PM RSVP : Canvass in South River!
+More dates: Thu, Oct 22, 5:00 PM · Thu, Oct 29, 5:00 PM RSVP : Canvass in South River!
+Oct 15 Thursday Phonebank for Dr.
+Hamawy!
+6:00 – 8:00 PM EDT Virtual Can't make it to a canvass?
+Come to a phonebank!
+We'll be calling voters using an automated dialer, so all you have to do is talk!
+Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
+Never phonebanked before?
+No problem!
+We'll walk you through the dialer system and practice speaking to voters over the phone.
+Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts.
+More dates: Fri, Oct 16, 6:00 PM · Sun, Oct 18, 6:00 PM · Tue, Oct 20, 6:00 PM · Wed, Oct 21, 6:00 PM and 7 more RSVP : Phonebank for Dr.
+Hamawy!
 Oct 16 Friday Canvass in Trenton!
 5:30 – 7:30 PM EDT Trenton, NJ Come help Team Hamawy!
 Join as we knock doors and talk to Trenton about Dr.

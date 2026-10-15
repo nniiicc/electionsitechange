@@ -56,79 +56,64 @@ If you have any questions, please email my office at Steven.Xiarhos@mahouse.gov 
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 13th REMEMBERING MY FRIEND SEAN Today, I attended the service for my friend Sean Andrew Whelahan at Nickerson-Bourne Funeral Home in Sandwich.
-It was a difficult day, but also a chance to celebrate a life that meant so much to so many people.
-Sean was a devoted husband to Tara, a loving father to Kian and Rylee, a successful business owner of 6A Tours and Kian ’n Rylee’s, and a true friend.
-He had a great sense of humor and a special gift for bringing people together.
-Sean could walk into a room full of strangers and leave with a room full of friends.
-He was also a father figure and mentor to many.
-What makes this loss especially difficult is that I last communicated with Sean just two weeks ago.
-He was planning to bring a van full of WW II veterans from Mashpee to Logan Airport at 4 a.m. so they could take a Hero Flight to Washington, D.C., to visit the World War II Memorial.
-He was also going to pick them up at 11 p.m. and bring them home.
-All of it as a volunteer, giving his time to honor those who served our country.
-THAT WAS SEAN.
-Always thinking about others, always willing to help, and always showing up for those who needed him.
-Sean cared deeply about our veterans and their families.
-I’m proud that the US Marine Corporal Nicholas G.
-Xiarhos Memorial Fund was one of the organizations close to his heart.
-My heart goes out to Tara, Kian, Rylee, and all of Sean’s family and friends.
-He touched so many lives, and he will be missed by all who knew him.
-Rest in peace, my friend.
-Thank you for your friendship, your kindness, and everything you did for others.
-God bless you, Sean.
-We’ll take it from here. 🇺🇸❤️😔🙏🏻🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Sandwich #CapeCod #Massachusetts #MaPoli 6A Tours and Transport Nickerson-Bourne Funeral Home ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th CONGRATULATIONS, GUY!
-Thank you, Cape Cod Veterinary Specialists!
-This morning was extra special in the Fightin’ Fifth as I got to surprise my longtime friend, constituent, and fellow Big Nick’s Rider, Guy Cosgrove, a Midmark Veterinary Planning and Design Specialist, with a Massachusetts House of Representatives citation recognizing his 38 years of helping build and improve veterinary offices and hospitals all across America.
-We met at the beautiful new addition to Cape Cod Veterinary Specialists in Buzzards Bay, right underneath the Bourne Bridge.
-This 24/7 animal hospital is doubling in size to care for even more sick and injured animals.
-This is the hospital that saved K9 Nero and hosts the annual canine blood drive every April 12th in memory of fallen Yarmouth Police Department K9 Sergeant Sean M.
-Gannon and in honor of his dedicated partner, K9 Nero.
-I’ll never forget what they’ve done for Nero and my own pets when they needed help.
-It was great to see this expansion firsthand and hear about what’s coming next.
-Congratulations, Guy!
-And thank you to Dr.
-Louisa Rahilly and her entire dedicated team at Cape Cod Veterinary Specialists for everything you do for our four-legged family members.
-Proud to see this great project happening right here in the Fightin’ Fifth!
-Lots more GOOD to come! 🇺🇸😊🐕🐈👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #CommonSenseLeadership #CCVS #Animals #K9Nero #Bourne #CapeCod #Massachusetts #MaPoli Cape Cod Veterinary Specialists Midmark Veterinary Yarmouth Police Dept.
-Nero Our K9 Hero Bourne Police Department Yarmouth Police Foundation ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th HAPPY 251st BIRTHDAY, U.S.
-NAVY!
-A big shout-out to the best naval force in the world and all the past, present, and future sailors who serve our great country!
-For 251 years, the U.S.
-Navy has defended our nation, protected our freedom, and kept America strong.
-We are grateful for all those who have served, those serving today, and the next generation who will carry on that proud tradition.
-To all the parents and family members of our sailors, be proud!
-Make sure you reach out today and wish them a Happy Birthday!
-God bless our sailors and the United States Navy!
-ANCHORS AWEIGH! 🇺🇸❤️🎂⚓️🫡 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ServiceBeforeSelf #USNavy #CapeCod #Massachusetts #MaPoli U.S.
-Navy ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 13th GOOD MORNING AND HAPPY TUESDAY!
-GREAT NEWS!
-The K9 license plates are arriving and hitting the road!
-My good friend Joe just got his, and it looks great!
-Every plate features SG for Sean Gannon and a picture of Nero, our hero, who is still alive and doing well!
-OVER 5,000 PLATES HAVE BEEN ORDERED!
-The proceeds help care for our retired police and military K9s across the Commonwealth and support Dakota’s Law and Nero’s Law.
-A great way to show love and respect for our four-legged heroes!
-JOIN US THIS SUNDAY at 9 AM at Bourne High School for the first-ever K9 PTSD 5K Road Race!
-There’s still time to order your plate, too!
-Have a TERRIFIC TUESDAY!
-God bless! 🇺🇸😊🐕🐾👏🏻👏🏻👏🏻 #RepX #Fightin5th #ServiceBeforeSelf #CommonSenseLeadership #ProudAmerican #BackTheBlue #K9 #NerosLaw #DakotasLaw #CapeCod #Massachusetts #MaPoli K9 PTSD Center Healing Dakota Yarmouth Police Dept.
-Denise Morency Gannon John Cavanaugh State Representative Justin Thurber Steven Howitt for State Representative Senator Kelly Dooner Carlos Gonzalez State Representative ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 12th LOOK WHO’S GROWING BIGGER AND MORE HANDSOME EVERY DAY!
-Zohaib Malik-Mohammed, who we affectionately nicknamed Little Z, and his family spent Columbus Day weekend up in New Hampshire enjoying the beautiful White Mountains.
-What a great way to end the weekend with this picture of our little buddy!
-Tomorrow, he’s back to school at Oak Ridge School, where this nine-year-old fourth grader continues to grow and thrive.
-It’s truly amazing when you think about how far this young man has come.
-Four years ago, Little Z was rescued from drowning at Snake Pond thanks to the incredible citizens and first responders who stepped up, along with the doctors and nurses who helped save his life.
-We welcomed him home after 12 weeks in Boston-area hospitals with our Big Nick’s Ride motorcycles, police cruisers, and fire trucks, and we’ve been cheering him on ever since.
-His family has stayed strong, his teachers are angels, and Little Z is an angel among us right here in the Fightin’ Fifth District.
-He’s strong, kind, handsome, and an inspiration to all of us.
-THANK YOU to every single person who played a part in saving this young man’s life and helping him continue to grow, thrive, and enjoy being a kid.
-We love you, Little Z!
-Keep smiling, keep growing, and keep being YOU! 🇺🇸❤️🙏🏻😊👏🏻 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ServiceBeforeSelf #LittleZ #Sandwich #FirstResponders #CapeCod #SuperHero #CapeCodMiracle #Massachusetts #MaPoli Town of Sandwich, MA Sandwich Police Department Sandwich Fire Department Falmouth Hospital Oak Ridge School Boston Children’s Hospital Boston MedFlight Big Nick's Ride for the Fallen ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 15th GO KNIGHTS!
+Tonight is the Sandwich Community Homecoming Event!
+Join everyone from 7 to 9 PM at Sandwich Middle High School for a community bonfire, music, games, and food trucks.
+Thank you to Sandwich Public Schools and the Blue Knights Gridiron Committee for bringing the community together.
+It’s a great night to support the students, the schools, and our Blue Knights!
+It’s FREE and open to everyone.
+Hope to see you there!
+LET’S GO KNIGHTS! 🇺🇸💙🏈👏🏻 #RepX #Fightin5th #CommonSenseLeadership #ProudAmerican #ServiceBeforeSelf #Sandwich #CapeCod #Massachusetts #MaPoli Sandwich Public Schools Sandwich Middle High School Sandwich Middle High School PTSA Group Blue Knights Gridiron ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 15th GOOD MORNING, HAPPY THANKFUL THURSDAY IN THE FIGHTIN’ FIFTH!
+Today, I’m thankful for the brave men and women in law enforcement who put their lives on the line every day to protect others.
+Yesterday, at our beautiful People’s House in Boston, 18 police officers were honored with the 2026 Trooper George L.
+Hanna Memorial Awards for Extraordinary Bravery, the Commonwealth’s highest law enforcement honor.
+These awards honor the memory of Massachusetts State Police Trooper George L.
+Hanna, who was killed in the line of duty in 1983.
+His family was there yesterday, as they are every year, to help keep his memory and legacy alive.
+I also want to thank Governor Healey and her office, Public Safety Commissioner Kwan, and the Executive Office of Public Safety for recognizing these heroes and helping keep Trooper Hanna’s memory and legacy alive.
+These awards are an important reminder of the courage, sacrifice, and service of the men and women who protect us every day.
+As a former police officer, the father of a police officer, and the father-in-law of a police officer, this is very personal to me.
+I know the sacrifices our law enforcement families make and the courage it takes to wear the badge.
+Today, and every day, I’m thankful for the brave men, women, and canines in law enforcement here in Massachusetts and across our great nation.
+CONGRATULATIONS to all 18 recipients.
+Thank you for your courage, your service, and for answering the call when others need you most!
+2026 TROOPER GEORGE L.
+HANNA MEMORIAL AWARD RECIPIENTS MEDAL OF HONOR • Officer Aurise Miedico, Burlington Police Department • Officer José R.
+Valenzuela, Boston Police Department • Officer Gerard Colpoys, Boston Police Department • Officer Steven Negron, Holyoke Police Department MEDAL OF VALOR • Detective Daniel Wall, Jr., Everett Police Department FALL RIVER POLICE DEPARTMENT • Sgt.
+Shane Galus • Sgt.
+Adam Talbot • Officer Mohammed Adelakun • Officer Collin Almeida • Officer Brandon Andrade • Officer Logan Arruda • Officer Taylor Carreiro • Officer Tre’Quan Gardner • Officer Nicholas Kennedy • Officer Jeffrey Louis • Officer Jimmie J.
+Page • Officer Christopher Silvia • Officer Jacob Swenson God bless and protect our first responders. 🇺🇸💙🐕🙏🏻🫡👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #BackTheBlue #CapeCod #Massachusetts #MaPoli Burlington Police Department Boston Police Department (Official) Holyoke Police Department Everett MA Police City of Fall River Police Department Executive Office of Public Safety and Security ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 14th WHAT A DAY AT MMA!
+Marinakis Hall Dedication Day I was so proud to be at our very own Massachusetts Maritime Academy today for the dedication of the beautiful new Marinakis Hall, a building where cadets will train, learn, and prepare to lead for generations to come.
+I was honored to provide a few remarks about how special this school is, its incredible history, and the deep connection between Greece and America.
+I even had the opportunity to speak briefly about my son, Nicholas, and remind everyone that life is precious.
+What a beautiful day celebrating an incredible $5 million donation from the Marinakis family, who traveled all the way from Greece with three van loads of family and friends to be here for this special occasion.
+As a proud Greek American and state representative of the Great Fightin’ Fifth, this day meant so much to me.
+The Greek American tradition of service, sacrifice, fighting for what we believe in, and giving back is something I hold close to my heart.
+We must never forget the price of freedom and the sacrifices made by so many that allow us to gather, learn, and build a better future.
+One of my special moments today was pinning Chairman Evangelos Marinakis with a pin featuring the Commonwealth of Massachusetts flag and the American flag, the same special pin we proudly wear in the People’s House.
+Now he will wear it on his journey back to Greece, a small token of our appreciation and a lasting connection between our Commonwealth and his family.
+Thank you to the Marinakis family, Admiral Francis X.
+McDonald, and the entire Massachusetts Maritime Academy team for making this day possible.
+We are so fortunate to have this world-renowned institution right here in our district and in the Commonwealth.
+WAY TO GO, MMA!
+GO BUCS! 🇺🇸🇬🇷😊⚓👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #GiveBack #Greece #USA #MMA #Bourne #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Bob Coughlin State Representative Hannah Kane Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp The Nicholas G.
+Xiarhos Memorial Fund ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
+October 14th WHAT A VIEW AT MASS MARITIME!
+A look inside the beautiful new Marinakis Hall and the incredible views from up top of our Massachusetts Maritime Academy campus, the Cape Cod Canal, Buzzards Bay, and beyond on this gorgeous Cape Cod day!
+This state-of-the-art training facility will help educate and prepare future generations of cadets for years and generations to come.
+So proud to have this outstanding institution right here in the Fightin’ Fifth!
+GO BUCS! 🇺🇸🇬🇷😊👏🏻👏🏻👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Bourne #MMA #GoBUCS #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp The Nicholas G.
+Xiarhos Memorial Fund ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
+October 14th GRAND OPENING AT MASS MARITIME!
+Proud to be at the grand opening of beautiful Marinakis Hall at our own Massachusetts Maritime Academy on General Taylor’s Point in Buzzards Bay!
+This incredible, multi-million-dollar training facility is another example of why Mass Maritime is one of the jewels of the Commonwealth and our nation.
+Proud to represent this outstanding institution in the Fightin’ Fifth!
+GO BUCS! 🇺🇸🇬🇷😊👏🏻👏🏻👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Bourne #MMA #GoBUCS #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.
 Nothing within this site is intended to communicate or imply the support or endorsement of any person or entity unless such an endorsement is stated explicitly.

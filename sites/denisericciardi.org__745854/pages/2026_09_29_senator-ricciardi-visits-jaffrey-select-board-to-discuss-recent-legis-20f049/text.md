@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Senator Ricciardi Visits Jaffrey Select Board to Discuss Recent Legislation, Town Concerns Sep 29, 2026 State Sen.
 Denise Ricciardi attended Wednesday’s Jaffrey Select Board meeting to highlight recent legislative efforts and hear local concerns regarding school funding and infrastructure backlogs.
 Ricciardi, a Bedford Republican representing District 9 — which includes Jaffrey, Greenfield, Lyndeborough, Sharon, and Temple — chairs the Senate Transportation Committee and serves as vice chair of the Commerce Committee.

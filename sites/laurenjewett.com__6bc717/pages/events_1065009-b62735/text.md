@@ -1,0 +1,8 @@
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-The People's Table-ACADIANA Available times Thursday, Oct 22, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Where Lafayette · LA About this event # 🍽️ THE PEOPLE'S TABLE ## An Evening of Food, Politics & Purpose 💙 Pull up a chair!
+Join **Chef Jewel Robinson** for an evening of food, politics, and purpose benefiting **Jamie Davis for U.S.
+Senate**, with featured speaker **Nick Albares**, Policy Director for the campaign.
+Good food, good company, and a real conversation about Louisiana's future. --- 🗓️ **Thursday, October 22** ⏰ **6:00 – 9:00 PM** 📍 **106 Samantha Dr, Lafayette, LA 70503** --- ## 🎒 Good to Know - 🎟️ Tickets: https://secure.actblue.com/donate/peoplestable - 🌟 Host committee spots available at $250 and up.
+Contact Ashley to join - 🌐 Learn more at https://jamieforlouisiana.com --- ## 📞 Questions?
+Contact Ashley! 👤 **Ashley Hebert** 📧 [email protected] *Contributions are not tax-deductible.* RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

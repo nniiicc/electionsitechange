@@ -2,7 +2,12 @@ Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar 
 Big Tech must be held accountable for the data centers it builds in our communities.
 That means protecting our air and water, requiring independent testing and transparency, and ensuring families aren’t stuck paying higher utility bills.
 I support innovation that creates jobs and invests in our communities with safeguards that put people first.
-More Conversations Oct 13, 2026 - ♫ ﻿Vote Now ♬ The Foxy Affect ♪♪ It’s time to vote for change.
+More Conversations Oct 15, 2026 - Thank you Chris McCoy and the Memphis Flyer!
+Oct 14, 2026 - ‼️Politicians never want to answer the tough questions, Kuhn for Congress is changing that!
+Oct 14, 2026 - Guess what today is?
+(Aside from Hump Day, of course…) It’s the start of EARLY VOTING!
+Get out and vote!
+Oct 13, 2026 - ♫ ﻿Vote Now ♬ The Foxy Affect ♪♪ It’s time to vote for change.
 Vote Heidi Kuhn for Tennessee’s 8th Congressional District.
 Oct 13, 2026 - Early voting in Tennessee starts TOMORROW (Oct 14th)!
 Vote Kuhn for Congress (District 8) Oct 12, 2026 - Vote for someone who believes in people, works to help others, and puts your issues and concerns first, not special interests, personal gain, or the president.
@@ -38,8 +43,6 @@ Sep 27, 2026 - I will fight for you no matter your party affiliation.
 Sep 26, 2026 - Thank you, Jackson Pride Festival attendees!
 Sep 26, 2026 - Thank you, Covington Heritage festival attendees and Tipton County Democratic Party (especially Matt Payne)!
 Sep 26, 2026 - Every child deserves the opportunity to soar Sep 25, 2026 - We have to support teachers with more than words.
-Sep 24, 2026 - Budgeting doesn’t solve what Washington won’t fix.
-Sep 22, 2026 - Thank you, Baker Brothers BBQ “Sauce, Smoke & Support” Attendees!
-Sep 22, 2026 - We will not sacrifice anything for Data Centers Next Footer Left section [email protected] ‍ P.O.
+Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

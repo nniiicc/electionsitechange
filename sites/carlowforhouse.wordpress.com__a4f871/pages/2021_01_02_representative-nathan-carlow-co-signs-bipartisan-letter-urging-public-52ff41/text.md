@@ -4,6 +4,6 @@ Carlow said in a statement.
 “Many Mainers remain unemployed due to the far-reaching effects of the COVID-19 virus, and in these circumstances, no person who can’t afford these services should lose access to them.” The letter further requests that the moratorium be in place for at least 120 days, and also encourages the Commission to halt disconnection notices.
 ### Supplements (2): download-pdf-version-1 Download pucdisconnectionmoratoriumletter Download Posted by communicationsdirector January 2, 2021 January 2, 2021 Posted in General Post navigation Previous Post Previous post: Rep.
 Carlow Introduces PUC Reform Bill Next Post Next post: Rep.
-Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Leave a Reply Cancel reply Comment Name Email Website Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
 Log in now.
 Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

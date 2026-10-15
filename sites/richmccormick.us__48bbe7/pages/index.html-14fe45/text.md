@@ -8,12 +8,12 @@ Rich McCormick Join The Team Email address Phone number (optional) Join Yes, I a
 By checking the box and providing your phone number, you agree to receive SMS messages from Friends of McCormick.
 Donations may be solicited.
 Message frequency may vary.
-Standard Message and Data Rates may apply.
+Message and data rates may apply.
 Reply STOP to opt out.
 Reply HELP for help.
 We will not share mobile information with third parties for promotional or marketing purposes.
 Consent is not a condition of purchase.
-See our Privacy Policy and Terms and Conditions .
+See our SMS program details and dedicated opt-in form , SMS Privacy Policy , and SMS Terms and Conditions .
 About Service before self.
 Dr.
 Rich McCormick has spent his life running toward the fights that matter.
@@ -85,7 +85,7 @@ Rich McCormick qualifies for reelection for District 7 The Forsyth County News r
 Read the Full Story Volunteer Volunteer with Team McCormick Help reach voters, support local events, and keep Georgia's 7th District moving forward.
 Volunteer Press Media and campaign contact Press Contact For interviews, media credentials, and campaign assets, reach the press team directly.
 Logos, photos, and contact details are in the press kit. rich@richmccormick.us 470-930-6511 Visit the Press Kit Dr.
-Rich McCormick for Congress About The Journey Priorities News Volunteer Gear Press Privacy Terms Paid for by Friends of McCormick To contribute by mail, please send a personal check made payable to "Friends of McCormick" to: P.O.
+Rich McCormick for Congress About The Journey Priorities News Volunteer Gear Press Text Updates Privacy Terms Paid for by Friends of McCormick To contribute by mail, please send a personal check made payable to "Friends of McCormick" to: P.O.
 Box 3043, Cumming, GA 30040 FEC #: C00706747 Contact #: 470-930-6511 Email: rich@richmccormick.us Facebook / X All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 The use of Rich's military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, U.S.
 Navy, or the Department of Defense.

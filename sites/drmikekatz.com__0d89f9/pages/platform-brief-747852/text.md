@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Reference Platform Brief A one-page executive summary of Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → Reference Platform Brief A one-page executive summary of Dr.
 Katz’s platform — distilled for staff, press, and distribution.
 The full platform lives at drmikekatz.com/platform .
 Download Brief PDF Dr.

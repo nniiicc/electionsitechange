@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Charles Booker for U.S.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Charles Booker for U.S.
 Senate Meet Charles.
 A Kentuckian, born and raised Charles Booker is now divorced, a father of two daughters, and a lifelong Kentuckian.
 He grew up in West Louisville in a family that worked hard and still came up short, where the electricity got cut off, where dinner sometimes meant deciding who ate, and where the insulin his family needed had to be rationed to make it last.

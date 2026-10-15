@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Request Signs 1.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → Request Signs 1.
 Your Contact & Delivery Info Full Name * Email * Phone Street Address * City * ZIP * I agree to receive text messages ⓘ What am I agreeing to?
 By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide.

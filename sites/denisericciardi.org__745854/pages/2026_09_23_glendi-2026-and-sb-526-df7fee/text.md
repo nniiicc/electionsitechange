@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Glendi 2026 and SB 526 Sep 23, 2026 Every year, Glendi brings together people in Manchester and from across our state to celebrate our vibrant Greek community and to enjoy delicious food.
 Fitting that we celebrated establishing a New Hampshire-Greece Trade Council at the opening of this beloved festival today!
 SB 526 is a law establishing the New Hampshire-Greece Trade Council.

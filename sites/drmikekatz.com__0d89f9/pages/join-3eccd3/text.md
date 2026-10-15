@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Stay Connected Join the Campaign Get campaign updates directly from Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → Stay Connected Join the Campaign Get campaign updates directly from Dr.
 Katz — and help us win in November.
 Don’t fill this out: Website Your URL Fax First Name * Last Name * Email * Mobile Phone (optional) Send me email updates from the campaign I also agree to receive text messages ⓘ What am I agreeing to?
 By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.

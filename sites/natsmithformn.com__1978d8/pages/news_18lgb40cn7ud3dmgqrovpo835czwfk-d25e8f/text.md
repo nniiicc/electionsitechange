@@ -73,4 +73,4 @@ That’s the conviction, tenacity, and resolve I’ll bring to the State Senate.
 Nat Smith is an attorney and candidate for Minnesota State Senate District 33 who has spent more than a decade working with whistleblowers to expose fraud and protect taxpayer dollars.
 He lives in Stillwater with his wife and daughter.
 Learn more about his campaign at natsmithformn.com .
-Nat Smith Previous Previous Nat Smith Pledges to Continue Fighting Fraud in First Digital Ad Next Next Nat Smith Outraises Republican Incumbent Karin Housley in 2026 Contact the Campaign Email us Follow us PREPARED AND PAID FOR BY NAT SMITH FOR MN STATE SENATE COMMITTEE PO Box 116, Stillwater, MN 55082 Photo Gallery | Privacy Policy
+Nat Smith Previous Previous Nat Smith Pledges to Continue Fighting Fraud and lower costs in First Digital Ad Next Next Nat Smith Outraises Republican Incumbent Karin Housley in 2026 Contact the Campaign Email us Follow us PREPARED AND PAID FOR BY NAT SMITH FOR MN STATE SENATE COMMITTEE PO Box 116, Stillwater, MN 55082 Photo Gallery | Privacy Policy

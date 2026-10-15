@@ -1,4 +1,5 @@
-Home About Platform Endorsements VOLUNTEER Meet the Candidate About Ethan Ethan Werstler is a candidate for State Senator of the 35th District, which includes Ashford, Chaplin, Coventry, Eastford, Ellington, Hampton, Stafford, Thompson, Tolland, Union, Vernon, Willington, and Woodstock.
+Early voting starts Oct 19 — make your plan!
+Home About Platform Endorsements Vote VOLUNTEER Meet the Candidate About Ethan Ethan Werstler is a candidate for State Senator of the 35th District, which includes Ashford, Chaplin, Coventry, Eastford, Ellington, Hampton, Stafford, Thompson, Tolland, Union, Vernon, Willington, and Woodstock.
 Ethan is a third-generation Woodstock resident and has lived in town his whole life.
 An alumnus of Woodstock Academy, Ethan earned a bachelor's degree in Political Science and Communications from the University of Connecticut.
 Ethan is a former associate at a premier government relations firm in Hartford, where he developed a deep understanding of the state legislature.

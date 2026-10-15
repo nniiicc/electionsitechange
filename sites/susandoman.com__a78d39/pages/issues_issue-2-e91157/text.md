@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Affordability Peace of mind for Kentucky families—health care, child care, and good jobs close to home.
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Affordability Peace of mind for Kentucky families—health care, child care, and good jobs close to home.
 What I believe Reliable child care and health care help parents focus at work Kentucky families should be able to stay healthy and keep working without constant worry about medical bills or child care.
 Affordable, reliable health care and child care are essentials—key to strong families and a strong workforce.
 Opportunity should be close to home.

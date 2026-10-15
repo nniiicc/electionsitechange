@@ -37,6 +37,6 @@ I know what care costs because I’ve seen the invoices.
 In Austin, I’ll fight to bring those costs down for EVERY family in District 132.
 This is more than a campaign; it is a movement aimed at reclaiming our voice within the government, and the time for listening is now.
 I invite you to connect with me directly through the form below.
-Email Address Full Name Phone Number Message 2 + 10 = Send Message Political advertisement paid for by Sara McGee.
+Email Address Full Name Phone Number Message 14 + 11 = Send Message Political advertisement paid for by Sara McGee.
 Copyright #.
 Follow Follow Follow Web site design provided by Complete Computing Services .

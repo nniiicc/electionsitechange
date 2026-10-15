@@ -41,8 +41,8 @@ Hobbs acknowledged during her remarks that she expects another close election af
 “We cannot take a single vote for granted,” Hobbs said.
 The Casa Grande event came as early voting was getting underway ahead of the Nov.
 3 general election.
-Next Post In New Digital Video, President Barack Obama Announces His Support for Katie Hobbs PHOENIX - Today, the 44th President of the United States, Barack Obama, announced his support of Gov.
-Katie Hobbs for re-election, citing her proven record of bringing people together to deliver results for Arizonans, including cutting taxes for veterans, small businesses, and working families, eliminating taxes on...
+Next Post Katie Hobbs and John Giles Host KidsCare Roundtable, Spotlighting Her Record of Delivering Affordable Healthcare TUCSON - Today, Gov.
+Katie Hobbs and her running mate, former Mesa Mayor John Giles, sat down with pediatricians, medical professionals, school nurses, and healthcare advocates for a roundtable discussion on the...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

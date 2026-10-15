@@ -1,4 +1,4 @@
-Skip navigation menu About Priorities News Endorsements Events Volunteer Donate About Priorities News Endorsements Events Volunteer Donate EVERYDAY AFFORDABILITY MAKING GOVERNMENT WORK FOR YOU KEEPING THE LIGHTS ON AND THE WATER RUNNING EVERYDAY AFFORDABILITY With rising costs of everyday necessities like groceries, families are having to make hard decisions about big investments like healthcare and housing.
+Skip navigation menu About Priorities Endorsements Events Volunteer Donate About Priorities Endorsements Events Volunteer Donate EVERYDAY AFFORDABILITY MAKING GOVERNMENT WORK FOR YOU KEEPING THE LIGHTS ON AND THE WATER RUNNING EVERYDAY AFFORDABILITY With rising costs of everyday necessities like groceries, families are having to make hard decisions about big investments like healthcare and housing.
 I am ready to bring bread back to the table for you and your family.
 MAKING GOVERNMENT WORK FOR YOU My degree from the University of St.
 Thomas is in Finance and Economics.

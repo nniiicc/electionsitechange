@@ -1,7 +1,8 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Blog Home >> Blog Blog Oct 13 electbarnhill 0 Comment How Nevada Polling Works and What It Can Tell Us A Nevada poll can show a close race in the morning and a different result on Election Day.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Blog Home >> Blog Blog Oct 14 electbarnhill 0 Comment I’ll Hold My Office to the Same Standard I Held Theirs For most of this campaign, I’ve asked the Secretary of State’s office a simple question: show me the rule you’re following, and show me you followed it.
+When the Oct 13 electbarnhill 0 Comment How Nevada Polling Works and What It Can Tell Us A Nevada poll can show a close race in the morning and a different result on Election Day.
 That is not necessarily a contradiction.
 Understanding how Nevada polling works Oct 12 0 Comment What Election Observer Rights Mean for Nevada Voters Election observer rights help Nevada voters see how ballots are handled, counted, and reviewed while protecting voter privacy and orderly polling places.
-Oct 09 electbarnhill Comment 1 Election Transparency in Nevada Means Showing the Work A Nevada voter shouldn’t need to be an elections lawyer, a computer expert, or a party insider to understand how a ballot is handled.
+Oct 09 electbarnhill Comments 2 Election Transparency in Nevada Means Showing the Work A Nevada voter shouldn’t need to be an elections lawyer, a computer expert, or a party insider to understand how a ballot is handled.
 Confidence doesn’t come from asking Oct 08 electbarnhill Comments 2 The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 Every federal lawsuit in Nevada comes with a short form most people never read: the Certificate of Interested Parties.
@@ -14,10 +15,8 @@ Today I mailed the Court a request for a ruling and a Oct 05 electbarnhill Comme
 Without electronic filing access, they didn't reach the public docket until October 5.
 The Court still hasn't ruled on Oct 03 electbarnhill Comments 2 How Nevada Election Audits Build Voter Confidence Nevada election audits compare reported results with paper records and explain any difference plainly.
 Here is what a clear, public audit standard looks like.
-Oct 02 electbarnhill 0 Comment What Nevada Secretary of State Candidates Owe Voters Nevada Secretary of State candidates owe voters clear plans on paper records, voter rolls, voter ID, and cybersecurity.
-Here is what to ask before you vote.
 1 2 3 … 7 Next » footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

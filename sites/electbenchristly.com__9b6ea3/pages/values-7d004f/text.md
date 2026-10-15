@@ -31,7 +31,7 @@ I am tired of the “us versus them” mindset that keeps people apart and probl
 We get better results when we work together and stay focused on the people we serve.
 I believe in showing up, listening, and doing the hard work it takes to deliver real results for working families, retirees, small business owners, and the next generation.
 Thank you and I would be honored to earn your support.
-Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+Sign up for updates Media Contact Terms and Conditions Paid for by Elect Ben Christly (D) 304 S.E.
 Hearthwood Blvd.
 P.O.
 Box 87872, Vancouver, WA 98684

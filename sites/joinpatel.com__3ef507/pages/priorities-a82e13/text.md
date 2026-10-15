@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action “Our district deserves leadership that is responsive and grounded in service.” TOGETHER WE CAN BUILD SOMETHING GREATER The greatest outcomes aren’t achieved alone—they’re built side by side as a community.
+0 Skip to Content About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action “Our district deserves leadership that is responsive and grounded in service.” TOGETHER WE CAN BUILD SOMETHING GREATER The greatest outcomes aren’t achieved alone—they’re built side by side as a community.
 By bringing people together, finding common ground and focusing on practical solutions, we can address the challenges facing West Maui and create new opportunities for our families and future generations.
 Connect with Sne “ I trust Sne Patel to work hard for us in the State House.
 Please vote for Sne Patel! ” — George (Kapule) Paoa Jr.

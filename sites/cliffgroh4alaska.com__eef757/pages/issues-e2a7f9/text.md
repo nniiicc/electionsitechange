@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Press Get Involved Donate Today Open Menu Close Menu About Issues Press Get Involved Donate Today Open Menu Close Menu About Issues Press Get Involved Donate Today Issues Protect Public Schools It’s time the state makes a serious investment in public education.
+0 Skip to Content About Issues Endorsements Press Get Involved Donate Today Open Menu Close Menu About Issues Endorsements Press Get Involved Donate Today Open Menu Close Menu About Issues Endorsements Press Get Involved Donate Today Issues Protect Public Schools It’s time the state makes a serious investment in public education.
 I support increasing and inflation-proofing the Base Student Allocation.
 We also need to overhaul our teacher retirement system to recruit and retain talented educators.
 Provide Safe Roads Roads should work for everybody, and House District 18 has far too many dangerous roads.
@@ -12,8 +12,8 @@ I was a prosecutor for the State of Alaska and prosecuted many cases involving v
 Reduce Homelessness Homelessness is a big and multi-pronged problem that demands a multi-pronged solution.
 We need to increase housing options.
 We need to increase shelter capacity, expand treatment opportunities for addiction and mental health, make sure that we enforce the laws quickly and fairly, and work with community leaders to address this issue in partnership with the Municipality.
-Support Veterans I’m proud to support our veterans.
-While in office, I passed into law the Military and Veteran Help Center and spearheaded the 2024 effort to raise the pay for Veteran Service Officers.
+Support Veterans and Military Families I’m proud to support our veterans.
+While in office, I passed into law the Military Family Help Center and spearheaded the 2024 effort to raise the pay for Veteran Service Officers.
 I support improving voting access for veterans and fully funding and staffing the Alaska Department of Military and Veterans Affairs.
 In 2025, I got a commendation from the Department of Defense for my work supporting veterans in Alaska!
 Build Revenue Alaska is facing a tough fiscal situation.

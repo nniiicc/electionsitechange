@@ -1,4 +1,4 @@
-Skip navigation menu About Priorities News Endorsements Events Volunteer Donate Endorsements About Priorities News Endorsements Events Volunteer Donate Endorsements Individual Endorsements U.S.
+Skip navigation menu About Priorities Endorsements Events Volunteer Donate Endorsements About Priorities Endorsements Events Volunteer Donate Endorsements Individual Endorsements U.S.
 Representative, Texas's 7 th Congressional District, Lizzie Fletcher U.S.
 Representative, Texas's 9 th Congressional District, Al Green U.S.
 Representative, Texas's 18 th Congressional District, Christian D.

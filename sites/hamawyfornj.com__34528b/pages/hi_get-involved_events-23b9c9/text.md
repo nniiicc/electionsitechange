@@ -1,6 +1,4 @@
-मुख्य सामग्री पर जाएँ नए टैब में खुलता है प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर भाषा: हिन्दी English Español 中文 हिन्दी दान करें भाषा: हिन्दी English Español 中文 हिन्दी दान करें प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर दान करें EN | ES | 中文 | हिन्दी भाग लें आगामी कार्यक्रम इस सप्ताह क्या हो रहा है बुध, 14 अक्टू॰ 10:00 am Phonebank for Dr.
-Hamawy! ऑनलाइन 6:00 pm Phonebank for Dr.
-Hamawy! ऑनलाइन गुरु, 15 अक्टू॰ 5:00 pm Canvass in South River!
+मुख्य सामग्री पर जाएँ नए टैब में खुलता है प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर भाषा: हिन्दी English Español 中文 हिन्दी दान करें भाषा: हिन्दी English Español 中文 हिन्दी दान करें प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर दान करें EN | ES | 中文 | हिन्दी भाग लें आगामी कार्यक्रम इस सप्ताह क्या हो रहा है गुरु, 15 अक्टू॰ 5:00 pm Canvass in South River!
 Leonardine Park · South River, NJ 6:00 pm Phonebank for Dr.
 Hamawy! ऑनलाइन शुक्र, 16 अक्टू॰ 5:30 pm Canvass in Trenton!
 Trenton, NJ 6:00 pm Phonebank for Dr.
@@ -12,17 +10,8 @@ Hamawy!
 129 E 4th St · Plainfield, NJ 6:00 pm Phonebank for Dr.
 Hamawy! ऑनलाइन सोम, 19 अक्टू॰ कोई कार्यक्रम नहीं मंगल, 20 अक्टू॰ 5:00 pm Canvass in Princeton!
 Hamawy HQ! · Princeton, NJ 6:00 pm Phonebank for Dr.
-Hamawy! ऑनलाइन 6:00 pm UNION COUNTY LISTENING TOUR सभी कार्यक्रम अक्टू॰ 14 बुधवार Phonebank for Dr.
-Hamawy!
-10:00 am – 12:00 pm GMT-4 ऑनलाइन Can't make it to a canvass?
-Come to a phonebank!
-We'll be calling voters using an automated dialer, so all you have to do is talk!
-Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
-Never phonebanked before?
-No problem!
-We'll walk you through the dialer system and practice speaking to voters over the phone.
-Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts. अन्य तिथियाँ: बुध, 14 अक्टू॰, 6:00 pm · गुरु, 15 अक्टू॰, 6:00 pm · शुक्र, 16 अक्टू॰, 6:00 pm · रवि, 18 अक्टू॰, 6:00 pm और 8 अन्य शामिल हों : Phonebank for Dr.
-Hamawy! अक्टू॰ 15 गुरुवार Canvass in South River!
+Hamawy! ऑनलाइन 6:00 pm UNION COUNTY LISTENING TOUR बुध, 21 अक्टू॰ 6:00 pm Phonebank for Dr.
+Hamawy! ऑनलाइन सभी कार्यक्रम अक्टू॰ 15 गुरुवार Canvass in South River!
 5:00–7:00 pm GMT-4 Leonardine Park · South River, NJ Come help Team Hamawy!
 Join as we knock doors and talk to South River about Dr.
 Hamawy's campaign for Congress.
@@ -31,7 +20,17 @@ Hamawy's campaign is powered by people like you.
 Together, let's send a Representative to Congress who'll fight for healthcare, not bombs, to unrig our economy, and hold Trump accountable.
 Never canvassed before?
 Don't worry!
-We begin all canvass launches with a training, and we'll pair you up with an experienced volunteer! अन्य तिथियाँ: गुरु, 22 अक्टू॰, 5:00 pm शामिल हों : Canvass in South River! अक्टू॰ 16 शुक्रवार Canvass in Trenton!
+We begin all canvass launches with a training, and we'll pair you up with an experienced volunteer! अन्य तिथियाँ: गुरु, 22 अक्टू॰, 5:00 pm · गुरु, 29 अक्टू॰, 5:00 pm शामिल हों : Canvass in South River! अक्टू॰ 15 गुरुवार Phonebank for Dr.
+Hamawy!
+6:00–8:00 pm GMT-4 ऑनलाइन Can't make it to a canvass?
+Come to a phonebank!
+We'll be calling voters using an automated dialer, so all you have to do is talk!
+Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
+Never phonebanked before?
+No problem!
+We'll walk you through the dialer system and practice speaking to voters over the phone.
+Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts. अन्य तिथियाँ: शुक्र, 16 अक्टू॰, 6:00 pm · रवि, 18 अक्टू॰, 6:00 pm · मंगल, 20 अक्टू॰, 6:00 pm · बुध, 21 अक्टू॰, 6:00 pm और 7 अन्य शामिल हों : Phonebank for Dr.
+Hamawy! अक्टू॰ 16 शुक्रवार Canvass in Trenton!
 5:30–7:30 pm GMT-4 Trenton, NJ Come help Team Hamawy!
 Join as we knock doors and talk to Trenton about Dr.
 Hamawy's campaign for Congress.

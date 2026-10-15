@@ -2,5 +2,6 @@
 Amanda will be attending the FAMU vs.
 Arkansas-Pine Bluff homecoming game.
 Go Rattlers!
-Previous Previous October 24 King Tree Parade Next Next October 27 Congressional Candidate Debate Hosted by NEBA Tallahassee TO SEND A CHECK: P.O.
+Previous Previous October 24 King Tree Parade Next Next October 27 NEBA Candidate Forum: U.S.
+House - Florida's 2nd Congressional District TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

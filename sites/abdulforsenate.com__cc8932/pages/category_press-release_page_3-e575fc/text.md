@@ -1,6 +1,6 @@
 Donate now!
 Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
-Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive The Northern Midwest Regional Council of Carpenters Endorses Dr.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive ONE MONTH OUT—Abdul For Senate Campaign On The State Of The Race Press Release October 5, 2026 ABDUL CAMPAIGN MANAGER SAYS GOP “HAS NEVER GONE UP AGAINST CANDIDATE LIKE ABDUL” WHO “BEAT THE ODDS BEFORE, AND HE WILL DO IT AGAIN.” CAMPAIGN HAS MOMENTUM AND MOVEMENT TO OVERCOME BILLIONAIRE MAGA DARK MONEY MACHINE … The Northern Midwest Regional Council of Carpenters Endorses Dr.
 Abdul El-Sayed for U.S.
 Senate Press Release October 2, 2026 The North Midwest Regional Council of Carpenters Represents more than 36,000 workers across the midwest MICHIGAN – Today, the Northern Midwest Regional Council of Carpenters (NMRCC) announced its endorsement of Dr.
 Abdul El-Sayed for U.S.
@@ -17,9 +17,7 @@ No more bad trade deals.
 No dumb tariffs.
 Stop the wars.
 Invest here.
-Build things in Michigan again.” MICHIGAN – Today, the … ICYMI: “Abdul El-Sayed Courts MAHA Voters” With Policy Agenda To Build A Healthier America Press Release September 29, 2026 MICHIGAN – Today, Dr.
-Abdul El-Sayed announced a new policy agenda to take on corporate polluters and champion food and water safety.
-As MAHA voters sour on the Trump administration for failing to address their key … « Previous 1 2 3 4 5 … 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Build things in Michigan again.” MICHIGAN – Today, the … « Previous 1 2 3 4 5 … 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

@@ -1,4 +1,4 @@
-DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael's Plan for North Carolina Enact the Trump Agenda in the U.S.
+DONATE find your voting location Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael's Plan for North Carolina Enact the Trump Agenda in the U.S.
 Senate I am committed to advancing President Trump’s America First agenda as the next U.S.
 Senator from North Carolina.
 In order to do this, Republicans must hold North Carolina’s Senate seat to preserve the Republican Senate majority in 2026.

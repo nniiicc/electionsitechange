@@ -1,6 +1,8 @@
 Thanks for your interest in our AMERICA FIRST movement.
 Will you please take a moment to join our team?
-Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Blog 1 2 … 8 9 Next » October 7, 2026 • Brian Mast Safe Roads Are Not Optional Three people left home on August 12, 2025, and never made it back.
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Blog 1 2 … 8 9 Next » October 14, 2026 • Brian Mast Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Protecting Florida’s waterways isn’t just a legislative priority for me—it’s personal.
+From our local small businesses and coastal estuaries to the rivers where our kids swim, fish, and grow up, clean water is the lifeblood of our community.
+Read More October 7, 2026 • Brian Mast Safe Roads Are Not Optional Three people left home on August 12, 2025, and never made it back.
 On Florida’s Turnpike, minutes from my home, a commercial tractor-trailer driver used an “Official Use Only” access point to make an illegal U-turn.
 Read More September 28, 2026 • Brian Mast Clean Water Results You Can Measure For the Treasure Coast, clean water is not an abstract issue.
 It is our economy, our way of life, and the promise that our children will inherit the Florida we know and love.
@@ -33,16 +35,11 @@ Read More August 3, 2026 • Brian Mast # Days To Vote In fifteen days, voters a
 That means the next two weeks matter.
 Every conversation matters.
 Every neighbor who knows the deadline matters.
-Read More July 27, 2026 • Brian Mast Twenty Days To Win The Primary In twenty days, Florida voters will decide who is ready to keep fighting for the future of our community.
-That is not a far-off political date.
-It is the next mission in front of us.
 Read More 1 2 … 8 9 Next » Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
-One Mission.
-Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

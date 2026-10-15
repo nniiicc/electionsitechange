@@ -7,7 +7,8 @@ Terms and Compensation This is a full-time, salaried, benefits-eligible position
 The role requires on-call availability on weekends and evenings.
 The starting salary is $82,000.
 Employment will begin upon the Member's swearing-in in January 2027.
-How to Apply Interested applicants should submit a resume and cover letter in PDF form to jobs@clairevaldezforcongress.com with the subject line "Scheduler Application: [First Name] [Last Name]." Please include the email and phone number for two professional references.
+How to Apply Interested applicants should apply here.
+Please include the email and phone number for two professional references.
 Applications will be reviewed on a rolling basis.
-The office of Congressmember Claire Valdez is an Equal Opportunity employer and does not discriminate on the basis of race, ethnicity, national origin, religion, socioeconomic status, sex, sexual orientation, gender identity and expression, age, disability, marital status, parental status, or veteran status.
+The office of Representative Claire Valdez is an Equal Opportunity employer and does not discriminate on the basis of race, ethnicity, national origin, religion, socioeconomic status, sex, sexual orientation, gender identity and expression, age, disability, marital status, parental status, or veteran status.
 Candidates from marginalized communities are encouraged to apply.

@@ -1,4 +1,4 @@
-About Doug Priorities Endorsements Get Involved Merchandise Donate Doug Lloyd for Attorney General 30+ years of proven experience.
+Follow Doug About Doug Priorities Endorsements Get Involved Merchandise Donate Doug Lloyd for Attorney General 30+ years of proven experience.
 Trusted leadership for Michigan.
 Why I'm Running Donate Today 30+ Years as Prosecutor.
 Proven Experience.
@@ -20,5 +20,5 @@ Volunteer Donate Doug Lloyd Republican Candidate for Michigan Attorney General.
 30+ years as prosecutor.
 Proven experience.
 Trusted leadership.
-Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
+Follow Doug Facebook X Instagram TikTok LinkedIn YouTube Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
 All rights reserved.

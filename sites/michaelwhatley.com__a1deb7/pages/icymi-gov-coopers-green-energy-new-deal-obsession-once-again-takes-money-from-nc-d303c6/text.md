@@ -1,4 +1,4 @@
-DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE ICYMI – Gov.
+DONATE find your voting location Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE ICYMI – Gov.
 Cooper’s Green-Energy-New-Deal Obsession Once Again Takes Money from NC Taxpayers as Billion-Dollar Electric Vehicle Deal Crumbles August 5, 2026 RALEIGH – This week, a national news outlet confirmed that Roy Cooper’s billion dollar electric vehicle manufacturing plan is in shambles.
 Chatham County Commissioners terminated an Electric Vehicle (EV) agreement that failed to meet performance obligations and project deadlines.
 Cooper gave VinFast, a Vietnamese-based EV manufacturer, over $1 billion of taxpayer money all for no jobs to support his failed Green New Deal agenda.

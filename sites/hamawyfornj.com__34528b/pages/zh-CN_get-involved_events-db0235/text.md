@@ -1,6 +1,4 @@
-跳到主要内容 在新标签页中打开 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 语言: 中文 English Español 中文 हिन्दी 捐款 语言: 中文 English Español 中文 हिन्दी 捐款 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 捐款 EN | ES | 中文 | हिन्दी 参与其中 即将举行的 活动 本周活动 10月14日周三 10:00 Phonebank for Dr.
-Hamawy! 线上 18:00 Phonebank for Dr.
-Hamawy! 线上 10月15日周四 17:00 Canvass in South River!
+跳到主要内容 在新标签页中打开 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 语言: 中文 English Español 中文 हिन्दी 捐款 语言: 中文 English Español 中文 हिन्दी 捐款 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 捐款 EN | ES | 中文 | हिन्दी 参与其中 即将举行的 活动 本周活动 10月15日周四 17:00 Canvass in South River!
 Leonardine Park · South River, NJ 18:00 Phonebank for Dr.
 Hamawy! 线上 10月16日周五 17:30 Canvass in Trenton!
 Trenton, NJ 18:00 Phonebank for Dr.
@@ -12,18 +10,8 @@ Hamawy!
 129 E 4th St · Plainfield, NJ 18:00 Phonebank for Dr.
 Hamawy! 线上 10月19日周一 暂无活动 10月20日周二 17:00 Canvass in Princeton!
 Hamawy HQ! · Princeton, NJ 18:00 Phonebank for Dr.
-Hamawy! 线上 18:00 UNION COUNTY LISTENING TOUR 全部活动 10月 14日 星期三 Phonebank for Dr.
-Hamawy!
-GMT-4 10:00–12:00 线上 Can't make it to a canvass?
-Come to a phonebank!
-We'll be calling voters using an automated dialer, so all you have to do is talk!
-Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
-Never phonebanked before?
-No problem!
-We'll walk you through the dialer system and practice speaking to voters over the phone.
-Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts. 其他日期： 10月14日周三 18:00 · 10月15日周四 18:00 · 10月16日周五 18:00 · 10月18日周日 18:00 另有 8 场 报名参加 : Phonebank for Dr.
-Hamawy!
-10月 15日 星期四 Canvass in South River!
+Hamawy! 线上 18:00 UNION COUNTY LISTENING TOUR 10月21日周三 18:00 Phonebank for Dr.
+Hamawy! 线上 全部活动 10月 15日 星期四 Canvass in South River!
 GMT-4 17:00–19:00 Leonardine Park · South River, NJ Come help Team Hamawy!
 Join as we knock doors and talk to South River about Dr.
 Hamawy's campaign for Congress.
@@ -32,7 +20,18 @@ Hamawy's campaign is powered by people like you.
 Together, let's send a Representative to Congress who'll fight for healthcare, not bombs, to unrig our economy, and hold Trump accountable.
 Never canvassed before?
 Don't worry!
-We begin all canvass launches with a training, and we'll pair you up with an experienced volunteer! 其他日期： 10月22日周四 17:00 报名参加 : Canvass in South River!
+We begin all canvass launches with a training, and we'll pair you up with an experienced volunteer! 其他日期： 10月22日周四 17:00 · 10月29日周四 17:00 报名参加 : Canvass in South River!
+10月 15日 星期四 Phonebank for Dr.
+Hamawy!
+GMT-4 18:00–20:00 线上 Can't make it to a canvass?
+Come to a phonebank!
+We'll be calling voters using an automated dialer, so all you have to do is talk!
+Phonebanking will be critical to reminding voters to turn in their mail-in ballots and make it to the polls.
+Never phonebanked before?
+No problem!
+We'll walk you through the dialer system and practice speaking to voters over the phone.
+Phonebank events will be virtual - you'll receive a link to our Zoom meeting room the day before the event starts. 其他日期： 10月16日周五 18:00 · 10月18日周日 18:00 · 10月20日周二 18:00 · 10月21日周三 18:00 另有 7 场 报名参加 : Phonebank for Dr.
+Hamawy!
 10月 16日 星期五 Canvass in Trenton!
 GMT-4 17:30–19:30 Trenton, NJ Come help Team Hamawy!
 Join as we knock doors and talk to Trenton about Dr.

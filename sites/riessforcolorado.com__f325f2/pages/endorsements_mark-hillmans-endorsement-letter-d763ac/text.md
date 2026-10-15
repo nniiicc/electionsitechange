@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Mark Hillman Former Colorado State Treasurer Mark Hillman endorses Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Mark Hillman Former Colorado State Treasurer Mark Hillman endorses Naomi Riess for Colorado House District 59.
 Naomi Riess understands something that too many people at the State Capitol seem to forget: government decisions have real consequences for the people who have to live with them.
 For more than three decades, Naomi has worked with farmers, ranchers, property owners, small businesses and local governments throughout Southwest Colorado.
 As a land-use consultant, small-business owner and farmer, she has seen firsthand what happens when regulations written somewhere else collide with the realities of rural communities.

@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Public Education and the Strength of Democratic Communities Investing in our schools, our teachers, and our students ← Back to All Issues Vic Meyers Colorado House District 47 Candidate 🏫 I.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Public Education and the Strength of Democratic Communities Investing in our schools, our teachers, and our students ← Back to All Issues Vic Meyers Colorado House District 47 Candidate 🏫 I.
 Three Core Principles 1.
 Public Education Is a Right Education as a fundamental democratic right Equal access regardless of income, geography, or background Public education as civic infrastructure 2.
 Public Funds Belong in Public Schools Public funds should not be used for private schools Opposition to vouchers and privatization policies Education as a public good, not a marketplace Transparency and accountability for publicly funded education 3.

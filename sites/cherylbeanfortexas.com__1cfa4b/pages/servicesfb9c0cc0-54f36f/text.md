@@ -1,4 +1,4 @@
-Home About Issues News FUND THE FIGHT → Home About Issues News Cheryl Bean’s Blueprint for Texas From rising property taxes to the cost of groceries, Texas families are facing real challenges — and they deserve a champion who has lived those struggles and fought her way through.
+Home About Issues FUND THE FIGHT → Home About Issues Cheryl Bean’s Blueprint for Texas From rising property taxes to the cost of groceries, Texas families are facing real challenges — and they deserve a champion who has lived those struggles and fought her way through.
 Cheryl Bean built everything she has the right way, not the easy way.
 Her blueprint for Texas is rooted in conservative values and built for action: lowering costs for families, protecting Texas jobs, keeping our kids safe, and making sure Texas stays strong for generations to come.
 Making Texas Affordable Texans work hard, and they deserve to keep more of what they earn.

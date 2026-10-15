@@ -1,5 +1,5 @@
-Skip navigation menu Home About Priorities Endorsements Yard Signs!
-Events Volunteer Contact Donate Home About Priorities Endorsements Yard Signs!
+Skip navigation menu Home About Priorities Endorsements News Yard Signs!
+Events Volunteer Contact Donate Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate Join Us Campaign Events From canvassing to phone banking, there's always a way to get involved!
 Volunteer for Michael Sugar Virtual Event Interested in helping elect Michael Sugar to Salem?
 Every volunteer makes a real impact.

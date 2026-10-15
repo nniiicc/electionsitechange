@@ -20,12 +20,24 @@
 "href": "https://secure.actblue.com/donate/natefornebraska"
 },
 {
+"text": "Check if you're registered to vote",
+"href": "https://www.votercheck.necvr.ne.gov/VoterView"
+},
+{
 "text": "Contact",
 "href": "https://www.natefornebraska.com/contact"
 },
 {
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "Early voting information",
+"href": "https://www.votedouglascounty-ne.gov/early_voting.aspx"
+},
+{
+"text": "Make a Plan to Vote",
+"href": "https://www.natefornebraska.com/vote"
 },
 {
 "text": "Meet Nate",
@@ -44,6 +56,14 @@
 "href": "https://designedtorun.com"
 },
 {
+"text": "Register to vote",
+"href": "https://www.votercheck.necvr.ne.gov/voterview/registrant/newregistrant"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26ByMailApplication.pdf"
+},
+{
 "text": "Volunteer",
 "href": "https://www.natefornebraska.com/volunteer"
 },
@@ -53,6 +73,10 @@
 },
 {
 "text": "[image: Nate Ostdiek for Nebraska Legislature]",
+"href": "https://www.natefornebraska.com/"
+},
+{
+"text": "[image: Nate for Nebraska logo]",
 "href": "https://www.natefornebraska.com/"
 },
 {

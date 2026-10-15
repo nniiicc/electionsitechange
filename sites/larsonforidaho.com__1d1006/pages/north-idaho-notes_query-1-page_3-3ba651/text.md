@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson North Idaho Notes The Larson Ledger № 2: Why Lower Taxes Mean Higher Costs August 18, 2026 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube North Idaho Notes The Larson Ledger № 2: Why Lower Taxes Mean Higher Costs August 18, 2026 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
 Now they want to eliminate the property tax too.
 The Larson Ledger № 1: August 12, 2026 Property owners in Idaho can be subject to outrageous rate hikes by monopolistic sewer companies.
 The IFF killed a good bill to fix that.

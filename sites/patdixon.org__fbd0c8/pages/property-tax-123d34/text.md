@@ -34,7 +34,8 @@ I will also respect local control and the ability for political subdivisions of 
 Beware of those who make popular promises with no detail.
 Honesty is the best policy.
 Bookmark .
-AI The Abbott Report 2 Comments Pingback: The Abbott Ad Nya Dutkowsky September 9, 2026 at 18:16 Pat, there is a group on Facebook called Eliminate Property Tax that has a bill to eliminate property taxes backed by research.
+AI The Abbott Report 3 Comments Pingback: The Abbott Ad Nya Dutkowsky September 9, 2026 at 18:16 Pat, there is a group on Facebook called Eliminate Property Tax that has a bill to eliminate property taxes backed by research.
 Please reach out to the founder, Russell Bennett to inform yourself on how property taxes can and should be eliminated.
+Reply H C October 14, 2026 at 13:28 I don’t have to convince you that there is no political party that wants lower taxes MORE than the Libertarian Party.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

@@ -1,9 +1,10 @@
 {
  "description": "Cindy, is a nurse practitioner who specializes in mental health. Cindy also serves on the Warrick County Council. She has over 30 years of medical, business, and administrative experience",
  "final_url": "https://votecindyledbetter.com/about-me/",
- "fingerprint": "5491d386df094e9633b58b628e57457a61fadadd",
+ "fingerprint": "30458fb886af43ff4961c128c92afa3d4c0ddce9",
  "format": 3,
  "paid_for_by": "Paid for by Ledbetter for State Representative Blog at WordPress",
+ "rendered": false,
  "title": "Meet Cindy",
  "years_mentioned": [
   "1999",
@@ -22,6 +23,7 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

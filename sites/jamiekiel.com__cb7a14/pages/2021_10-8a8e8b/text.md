@@ -1,6 +1,6 @@
-Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=fa58c3f5e6 News New law eases restrictions on local food makers Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=0baad5de67 News New law eases restrictions on local food makers Rep.
 Jamie Kiel, R-Russellvile, sponsored a separate bill to increase the goods allowed under “cottage foods.” Those expanded goods, including dry baking mixes and coffees, are in Orr’s legislation.
 Items can’t require temperature control or include meats.
 The law says sellers have to take a Continue Reading State of Schools updates on education issues Alabama Rep.

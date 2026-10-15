@@ -1,4 +1,20 @@
-0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 9 - Mark Holds Successful Town Hall in Holdrege On October 9th I held a town hall in Holdrege, Nebraska.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 12 - Our First Ad Knocks it Out of the Park.
+Please share!
+On October 12th we release our first ad.
+You can view it here: https://youtu.be/DtcqbmT097k?si=wGDDVEpvbemTltsh We can’t afford TV ads.
+PLEASE post this link on social media and forward the link to every third district voter you know.
+Thanks!
+October 10 - Mark Wins Democratic Support at Hastings Town Hall On October 10th I held a town hall in Hastings that was attended by several prominent Democrats.
+One asked about my concerns with the Democratic party, and I responded with two main points.
+First, as someone who lives in a rural area, I don’t think people in New York and San Francisco should dictate gun policy in Nebraska.
+Second, I felt there were too many in the Democratic party who would rather be right than win an election.
+They took MARK FOR NEBRASKA yard signs when the they left.
+I really enjoyed meeting them and others who attended.
+October 10 - Mark attends Banned Book Protest in Grand Island On October 10th I attended a banned book protest in Grand Island.
+As a veteran who swore to uphold the Constitution, and as an author, the idea of book bans repulses me.
+I don’t need the government telling me what to read..
+When I swear to uphold the Constitution, I won’t just pay lip service to it like Adrian Smith who remains silent while our freedoms are under assault.
+October 9 - Mark Holds Successful Town Hall in Holdrege On October 9th I held a town hall in Holdrege, Nebraska.
 About twenty people attended, and after I answered their questions, many left with yard signs and renewed hope.
 They liked what they heard and appreciated my honesty.
 Because the weather was hotter than we had planned, I am grateful for the facility’s willingness to allow Solomon to come inside during our town hall.

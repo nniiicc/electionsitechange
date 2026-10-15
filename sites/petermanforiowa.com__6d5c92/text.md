@@ -22,7 +22,7 @@ I’ve listened to their concerns and seen how hard they work to protect the vot
 They deserve a partner they can trust.
 I’m not running to be a partisan warrior.
 I’m running to do the work, to serve with integrity, and to help rebuild trust in the system we all depend on.
-Learn More → Join Us!
+Learn More → Watch Our Ad Always Protect Our Personal Information Join Us!
 Upcoming Events Ryan Peterman in Story County RSVP » Ryan Peterman Boone County Town Hall RSVP » Ryan Peterman Jasper County Town Hall RSVP » See More → Chip in for a Stronger Iowa Ryan Peterman served as a Naval Aviator, a Senate Defense Fellow, and a mentor at the U.S.
 Naval Academy.
 Now he’s home in Iowa, running for Secretary of State to protect our elections with integrity and steadiness.

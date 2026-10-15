@@ -1,4 +1,6 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE Mainer by birth.
+Skip navigation menu Early voting is underway through October 29.
+Election Day is November 3.
+GET VOTING INFO About Troy Endorsements Priorities News Events Volunteer Vote DONATE About Troy Endorsements Priorities News Events Volunteer Vote DONATE Mainer by birth.
 Logger by trade.
 Senator for the people.
 Troy Jackson grew up in Aroostook County, a poor kid in a town full of poor kids.

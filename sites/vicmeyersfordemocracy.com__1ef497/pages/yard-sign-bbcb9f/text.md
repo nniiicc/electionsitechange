@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Plant a Sign.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Plant a Sign.
 Grow a Movement.
 A yard sign looks small.
 But in HD47, it tells every neighbor who drives by: working people are done being ignored.

@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson North Idaho Notes Financial Accountability Doesn’t Mean Just Saying No October 11, 2026 Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube North Idaho Notes Financial Accountability Doesn’t Mean Just Saying No October 11, 2026 Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of 7/31, no funds had been released for rural healthcare improvements, only nearly half a million for administration.
 All funds must… Citizenship asks something of us September 17, 2026 Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.

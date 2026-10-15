@@ -1,4 +1,4 @@
-Skip navigation menu About Priorities News Endorsements Events Volunteer Donate Privacy Policy About Priorities News Endorsements Events Volunteer Donate Privacy Policy Privacy Policy At Leticia Gutierrez for Congress, accessible from leticiaforcongress.com , one of our main priorities is the privacy of our visitors.
+Skip navigation menu About Priorities Endorsements Events Volunteer Donate Privacy Policy About Priorities Endorsements Events Volunteer Donate Privacy Policy Privacy Policy At Leticia Gutierrez for Congress, accessible from leticiaforcongress.com , one of our main priorities is the privacy of our visitors.
 This Privacy Policy document contains types of information that is collected and recorded by Leticia Gutierrez for Congress and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collected in Leticia Gutierrez for Congress.

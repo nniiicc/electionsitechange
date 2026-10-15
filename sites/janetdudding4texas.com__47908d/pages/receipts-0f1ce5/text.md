@@ -21,10 +21,14 @@ Voters deserve to ask a simple question: Why was Paul Dyson helping create a tax
 At the very least, it raises serious questions about judgment, transparency, and whose interests came first.
 SB 2 — Education savings account program (private-school vouchers) Allen Academy Board of Trustees Allen Academy participation in the voucher program The Price of the "Team" Endorsement Click to read: The Receipts: Who Really Owns the Seat in District 14?
 In Texas politics, "voting the team" isn't a choice—it's a transaction.
-The records show a clear pipeline: billionaire donors invest in candidates, and in return, those candidates deliver specific votes** In 2024, the "price of admission" for the most powerful endorsements in the party was a vote for private school vouchers.
+The records show a clear pipeline : billionaire donors invest in candidates, and in return, those candidates deliver specific votes.
+In 2024, the "price of admission" for the most powerful endorsements in the party was a vote for private school vouchers.
 Rep.
 Dyson didn't just vote for them; he sponsored the bill.
 He traded the stability of our public education system for a stamp of approval from the national establishment.
+The influence hasn't stopped.
+From Jeff Yass, the Pennsylvania billionaire who gambled on vouchers with Donald Trump's assistance to rout and replace the Raney Republicans, to Elon Musk and Texans for Lawsuit Reform, District 14 is being treated as a billionaire's acquisition.
+While millions flow into the coffers of the "Team," the local cost is borne by us: higher prices, eroded public services, and a representative who answers to "the Team" in Austin rather than the families in Bryan and College Station.
 More Government Control, Not Less Paul Dyson talks about freedom.
 But his record shows support for more government control.
 He voted to put the Ten Commandments in public school classrooms .
@@ -54,7 +58,14 @@ SB 3 — Banning THC in Texas He voted to require Texas sheriffs, including our 
 Sponsored by Sen.
 Charles Schwertner.
 SB 8 — Forces Texas sheriffs to help ICE enforce federal immigration law He voted for an anti-red-flag bill , prohibiting tools intended to help prevent dangerous situations before tragedy happens.
-SB 1362 — Extreme risk protective orders Academic Freedom at Texas A&M Texas A&M has helped shape this community, and many of us have built our lives here because of it.
+SB 1362 — Extreme risk protective orders "The Record is Clear" It is difficult to determine what Paul Dyson actually stands for.
+His public presence is inconsistent—his website remains stuck in 2024 and is riddled with errors .
+But while his digital presence is neglected, his campaign mailers are polished, telling you he is 'tough on traffickers.
+Click here to dive deeper with "The Live Oak Paradox: Vouchers, Traffickers, and "The Team" in District 14 In reality, the "Team" protects its own The record is indeed clear , but not in the way he wants you to believe: In our backyard: While he campaigns on "toughness," the most infamous child-trafficking facilitator in modern history, Ghislaine Maxwell, was moved into a low-security camp on the very land that served as the genesis of the private school Dyson chairs.
+In the AG's office: This is the "Team" mentality in action.
+While Dyson touts trafficking laws, the Attorney General's office attempted to broker a "sweetheart deal" for a predator who abused a young boy—seeking a sentence of just one single day in prison.
+When the "toughness" is only for the cameras, and the protection is only for the connected, the record isn't clear—it's a performance.
+Academic Freedom at Texas A&M Texas A&M has helped shape this community, and many of us have built our lives here because of it.
 That’s why what’s happening on campus matters so much to me.
 Aggie values should mean belonging, respect, and the freedom to learn and teach without fear.
 But today, too many faculty and students are feeling erased instead of welcomed.

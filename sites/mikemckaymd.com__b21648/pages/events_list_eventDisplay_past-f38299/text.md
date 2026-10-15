@@ -4,7 +4,7 @@ Mike McKay has voted on Senate Scholarship Program Information on how to apply O
 Mike McKay Volunteer Meet Mike Georges Creek Flood Response Sponsored Legislation Voting Record Senate Scholarship Program Office Contact News & Updates Events Volunteer Donate 12 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 10/11/2023 October 11, 2023 - 10/14/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 10/11/2023 October 11, 2023 - 10/15/2026 Now Select date.
 October 2023 Wed 11 Join State Senator Mike McKay For A Scenic Trip Through Western Maryland October 11, 2023 @ 6:00 pm - 8:00 pm Western Maryland Scenic Railroad 13 Canal St, Cumberland, MD, United States You’re Invited!
 Climb Aboard A Steam Train Through Scenic Western Maryland While Enjoying Scotch And Cigars!
 Deluxe Coach & Cash Bar- $100 Per Ticket Premium Experience (Cigar Included)- $175 Per Ticket Western Maryland Scenic Railroad 13 Canal St, Cumberland, MD 21502 October 11th | 7:00-9:30pm Check-In 5:00-5:30pm To Purchase Tickets, Click Here.
@@ -29,7 +29,7 @@ I’m grateful to be joined by my colleagues Delegate […] June 2026 Tue 9 Sena
 Please arrive at the Historic Western Maryland Railway Station at 6:30 PM for boarding.
 The train departs at 7:00 PM.
 Tickets $100 — Deluxe Coach & Cash […] $100 – $175 September 2026 Fri 11 8th Annual Mike McKay Golf Tournament September 11 @ 10:00 am - 3:00 pm Rocky Gap Casino Resort 16701 Lakeview Road NE, Flintstone, MD, United States Register & Buy Tickets →Grab your foursome and play a round for Western Maryland.
-Senator Mike McKay's 8th Annual Golf Tournament tees off with a 10am shotgun start on Friday, September 11 at Rocky Gap in Flintstone.Play: $425 per 4-person team, or $125 per individual golfer.Sponsor the day: Red Level $500, White Level $750, Blue […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Menu Home Legislation Meet Mike Privacy Policy Links Volunteer Events Office Contact Get in touch Citizens to Elect Mike McKay 407 Washington Street Cumberland, Maryland 21502 *By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Mike McKay for State Senate.
+Senator Mike McKay's 8th Annual Golf Tournament tees off with a 10am shotgun start on Friday, […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Menu Home Legislation Meet Mike Privacy Policy Links Volunteer Events Office Contact Get in touch Citizens to Elect Mike McKay 407 Washington Street Cumberland, Maryland 21502 *By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Mike McKay for State Senate.
 Message and data rates may apply.
 Text “STOP” to opt-out.
 Terms & conditions/privacy policy apply.

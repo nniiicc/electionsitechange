@@ -13,13 +13,12 @@ Last November, Senator Marshall and the Senate unanimously passed the Epstein Fi
 Fact Roger Marshall is a fifth-generation Kansan and farm kid who was born in El Dorado and spent 25 years serving as a physician in rural Great Bend.
 He is registered to vote at his home in Stafford County, land the Marshall family has held for decades.
 Kansas is home and always has been.
-5th generation Kansan, born in El Dorado, registered to vote in Stafford County 05 Healthcare Medical debt Lie Adam Hamilton claims Senator Marshall sued patients and had them arrested over medical debt.
-Fact Under Kansas law, no one can be arrested for medical debt, proving this to be a blatant lie.
+5th generation Kansan, born in El Dorado, registered to vote in Stafford County 05 Healthcare Medical debt Lie Adam Hamilton claims Senator Marshall charged exorbitant interest rates, sued patients and had them arrested over medical debt.
+Fact The Kansas Bill of Rights states, “No person shall be imprisoned for debt, except in cases of fraud,” proving this to be a blatant lie.
 For 25 years in Great Bend, Dr.
-Marshall treated every patient regardless of ability to pay, routinely writing off unpaid balances for families who couldn't pay.
+Marshall treated every patient regardless of ability to pay, providing over $15 million in uncompensated care and routinely writing off unpaid balances for families who couldn't pay.
 It is ridiculous to suggest that Dr.
-Marshall ever arrested patients.
-0 arrests no one can be arrested for medical debt under Kansas law 06 Healthcare The $50 payment Lie Adam Hamilton claims a pregnant patient was arrested for missing a single $50 payment.
+Marshall ever arrested patients. $15M uncompensated care provided over 25 years treating patients in Great Bend regardless of ability to pay 06 Healthcare The $50 payment Lie Adam Hamilton claims a pregnant patient was arrested for missing a single $50 payment.
 Fact This claim leaves out a very important fact: Kansans cannot be arrested for medical debt.
 Court records show the woman had failed to appear in court 16 times in the previous 3 years and was arrested for that failure, not for a missed payment on her balance of $3,500.
 16 missed court dates in 3 years, per court records.

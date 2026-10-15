@@ -1,10 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Senator, you’ve had 17 years.
-Costs are higher, not lower.
-You voted for massive spending packages that drove inflation… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Senator, you’ve had 17 years.
-Costs are higher, not lower.
-You voted for massive spending packages that drove inflation… See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
+Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
+Before we headed home, we were awe… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
+Before we headed home, we were awe… See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
 Use of Website and Services 2.
 10DLC Compliance 3.
 Privacy and Data Use 4.

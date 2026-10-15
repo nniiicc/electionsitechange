@@ -1,21 +1,5 @@
 [
 {
-"text": "312-603-0906",
-"href": "tel:+13126030906"
-},
-{
-"text": "312-603-0944",
-"href": "tel:+13126030944"
-},
-{
-"text": "630-232-3400",
-"href": "tel:+16302323400"
-},
-{
-"text": "630-407-5500",
-"href": "tel:+16304075500"
-},
-{
 "text": "About",
 "href": "https://www.votemaura.com/about-maura"
 },
@@ -32,16 +16,20 @@
 "href": "https://www.votemaura.com/contact"
 },
 {
-"text": "Cook County",
-"href": "https://electionnight.cookcountyclerkil.gov/"
+"text": "Cook County Election Information",
+"href": "https://www.cookcountyclerk.com/agency/elections"
 },
 {
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/gomauraweb22"
 },
 {
-"text": "DuPage County",
-"href": "https://www.dupageresults.gov/IL/DuPage/122435/web.345435/#/summary"
+"text": "DuPage County Election Information",
+"href": "https://www.dupageco.org/election/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemaura.com/endorsements"
 },
 {
 "text": "Events",
@@ -56,7 +44,7 @@
 "href": "https://www.votemaura.com/illinois-district-49"
 },
 {
-"text": "Illinois State Board of Elections website",
+"text": "Illinois State Board of Elections",
 "href": "https://www.elections.il.gov/"
 },
 {
@@ -68,8 +56,20 @@
 "href": "https://www.votemaura.com/issues"
 },
 {
-"text": "Kane County",
-"href": "https://electionresults.kanecountyil.gov/2024-11-05/Contests/"
+"text": "Kane County Election Information",
+"href": "https://www.kanecountyclerk.org/Elections"
+},
+{
+"text": "Learn more",
+"href": "https://www.votemaura.com/vote-early"
+},
+{
+"text": "Learn more",
+"href": "https://www.votemaura.com/vote-on-election-day"
+},
+{
+"text": "Learn more",
+"href": "https://www.votemaura.com/votebymail"
 },
 {
 "text": "Maura's Story",
@@ -80,24 +80,8 @@
 "href": "https://www.votemaura.com/mediaresources"
 },
 {
-"text": "North Carolina Republicans were cited for election fraud",
-"href": "https://www.reuters.com/article/us-usa-election-north-carolina-idUSKCN1QG2FS"
-},
-{
 "text": "Privacy Policy",
 "href": "https://www.votemaura.com/privacy-policy"
-},
-{
-"text": "TRACK YOUR COOK BALLOT",
-"href": "https://www.cookcountyclerk.com/service/your-voter-information#edit-mail-ballot"
-},
-{
-"text": "TRACK YOUR DUPAGE BALLOT",
-"href": "https://dupage.ballottrax.net/voter/"
-},
-{
-"text": "TRACK YOUR KANE BALLOT",
-"href": "https://votekane.ballottrax.net/voter/"
 },
 {
 "text": "Twitter",
@@ -110,10 +94,6 @@
 {
 "text": "Vote",
 "href": "https://www.votemaura.com/vote"
-},
-{
-"text": "Vote by Mail info at ISBE",
-"href": "https://elections.il.gov/electionoperations/votingbymail.aspx"
 },
 {
 "text": "Yard Signs",
@@ -148,18 +128,6 @@
 "href": "https://youtube.com/channel/UCljpDnTO-R3_SKcP893U-8g"
 },
 {
-"text": "clerk.kanecountyil.gov/Elections",
-"href": "https://clerk.kanecountyil.gov/Elections"
-},
-{
-"text": "cookcountyclerk.com",
-"href": "https://cookcountyclerk.com/agency/elections"
-},
-{
-"text": "dupagecounty.gov",
-"href": "https://www.dupagecounty.gov/election/"
-},
-{
 "text": "email",
 "href": "mailto:hello@VoteMaura.com"
 },
@@ -168,8 +136,16 @@
 "href": "mailto:hello@votemaura.com"
 },
 {
-"text": "mail.voting@cookcountyil.gov",
-"href": "mailto:mail.voting@cookcountyil.gov?subject=Vote+by+Mail+Question"
+"text": "https://ilhousedems.com/redistricting/",
+"href": "https://ilhousedems.com/redistricting/"
+},
+{
+"text": "https://votemaura.tiny.us/ILElectedOfficials",
+"href": "https://votemaura.tiny.us/ILElectedOfficials"
+},
+{
+"text": "map",
+"href": "https://www.google.com/maps/d/u/1/viewer?ll=39.79510521942542%2C-89.50414500000001&mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&z=6"
 },
 {
 "text": "volunteer registration",

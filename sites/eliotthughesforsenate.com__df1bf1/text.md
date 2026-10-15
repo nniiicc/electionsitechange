@@ -1,36 +1,31 @@
- Volunteer  Home Volunteer Eliott Hughes REPUBLICAN for STATE SENATE  East Hartford  East Windsor  Ellington  South Windsor Volunteer Why I Am Running I’m running as the Republican candidate for the 3rd Senatorial District in Connecticut because too many families are struggling just to keep up.
-For years, we’ve heard that Connecticut is becoming too expensive.
-Today, many people aren’t just worried about rising costs—they’re worried about paying their bills.
-Taxes, fees, and everyday expenses continue to rise faster than our paychecks, leaving families feeling squeezed and unheard.
-Like many residents, I've watched government decisions impact our communities while citizens' concerns are too often ignored.
-Parents deserve a voice in their children's education—and that freedom is increasingly under attack.
-Families have long had the ability to choose what is best for their children, whether that means public schools, private schools, or homeschooling.
-That choice should always belong to parents, not the government.
-Government should serve you—not the other way around.
-In a recent legislative session, a majority of the people who signed up to speak were not even permitted to be heard.
-Despite overwhelming testimony against the bill, the Senator in my district and many others ignored the voices of the people and pushed it through anyway.
-Parents deserve educational freedom.
-Taxpayers deserve accountability.
-And every resident deserves elected officials who will listen before they legislate.
-I'm not running to point fingers or play political games.
-I'm running to bring common-sense leadership, transparency, and integrity back to government.
-I will fight to make Connecticut more affordable, protect individual freedoms, defend parental rights in education, support local businesses, and ensure that the voices of East Hartford, East Windsor, Ellington, and South Windsor are heard at the Capitol.
-If you’re tired of politicians shifting blame instead of solving problems, I invite you to join me on November 3rd, 2026, at the voting polls.
-Together, we can restore trust in government and build a stronger future for our communities.
-Meet Eliott Eliott Hughes is a servant leader, problem solver, and advocate for the people of Connecticut—and that's exactly the kind of leadership our state needs today .
+Home Volunteer English Connecticut’s 3rd Senate District East Hartford East Windsor South Windsor Ellington Volunteer Why I Am Running ↓ Campaign Message WHY I AM RUNNING I’m running in the Republican primary for the 3th Senate District in Connecticut because too many families are struggling to keep up.
+For years, we have heard Connecticut is becoming too expensive, taxes keep climbing, and our communities need leaders who listen.
+I will work for affordability, strong public schools and parental choice, local control, economic opportunity, and accountable limited government.
+I believe state government should be transparent, responsive to the people it serves, and focused on practical results.
+Decisions made at the Capitol should reflect the real priorities of our towns.
+By prioritizing fiscal discipline, protecting taxpayers, and ensuring every parent has a meaningful voice, we can build a stronger, more prosperous future for our families and local businesses.
+Explore Priorities ↓ Policy Priorities THOUGHTFUL, DISCIPLINED DECISIONS Policies should reflect the needs, values, and concerns of the people they serve.
+The campaign will pursue thoughtful, disciplined decisions centered on the fundamentals of our communities.
+01 Make our state more affordable Reduce income and property tax burdens, rein in state spending, and protect household budgets from rising everyday costs.
+02 Raise the quality of education and expand parental choice Support strong public schools, empower families with educational options, and uphold parental rights in every classroom.
+03 Strengthen communities while respecting local control Respect municipal decision-making, defend local zoning and community leadership, and invest in essential local infrastructure.
+04 Reinvigorate our business base and expand opportunity Promote a predictable, pro-growth regulatory environment that sparks private investment, fosters good jobs, and supports small businesses.
+05 Demand accountable, limited government Protect personal liberty and privacy, eliminate administrative waste, increase legislative transparency, and ensure government remains strictly accountable to citizens.
+About Eliott Meet eliot t Eliott Hughes is a servant leader, problem solver, and advocate for the people of Connecticut—and that's exactly the kind of leadership our state needs today .
 For nearly 30 years, he has built a career as an engineer, executive, and leader, helping organizations solve complex challenges, develop future leaders, and deliver meaningful results.
 Throughout his professional journey with organizations including Northrop Grumman, Hartford HealthCare, and Aetna/CVS Health, Eliott has earned a reputation for bringing together diverse perspectives, building strong teams, and turning innovative ideas into practical solutions.
 What sets him apart is not simply his experience, but the way he leads—with a servant's heart, an empathetic ear, and a commitment to understanding the needs of others.
 Whether mentoring emerging leaders, improving business operations, or addressing difficult organizational challenges, Eliott believes leadership begins with listening, serving, and putting people first.
 Grounded in integrity, accountability, and a desire to leave every organization and community stronger than he found it, he is committed to bringing that same approach to serving the people of Connecticut.
-Meet The Hughes Family For Eliott, Connecticut is more than a place to live—it is home.
-He and his wife, Keilani, have been married for nearly 25 years and have built their life together in South Windsor, where they have raised their three children.
-As a family, they have invested their time, energy, and hearts into the communities that make Senate District 3 such a special place to call home.
-For more than a decade, they have faithfully attended Emmanuel Baptist Church in Newington, where faith, service, and community have remained central to their family's values.
-Whether camping under the stars, hiking Connecticut's trails, or enjoying outdoor adventures across the state, the Hughes family embraces the natural beauty and traditions that define our region.
-They are active leaders and volunteers in their local American Heritage Girls and Trail Life USA troops, helping young people develop character, leadership, and a spirit of service.
-They also cherish the simple joys that make small-town life meaningful—picking strawberries, purchasing fresh eggs, and milk from local dairy farms, supporting neighborhood butchers and local bakeries.
-These experiences keep Eliott connected to the people, families, farms, and small businesses that form the backbone of Senate District 3 and inspire his commitment to protecting and strengthening the communities he calls home.
+Family & Community MEET THE HUGHES FAMILY Strong communities begin with strong families.
+Our towns thrive when parents are empowered, children have access to exceptional education, and local neighborhoods remain safe, welcoming places to build a life.
+Every child in Connecticut deserves the opportunity to flourish.
+By supporting local schools, youth programs, and community-led initiatives, we invest directly in the leaders and innovators of tomorrow.
+Active civic engagement and community collaboration form the foundation of resilient towns.
+Our campaign believes in bringing neighbors together to solve local challenges through mutual respect and shared purpose.
+Preserving our community character means honoring local heritage while creating practical pathways for the next generation to stay, work, and raise their own families right here in Connecticut.
+VOLUNTEER Your time, energy, and talents can make a real difference in Connecticut’s 3th Senate District.
+Join our community-driven campaign today.
 Volunteer  eliotthughesforsenate@gmail.com  (860) 992-8581  106 Sweet Meadow Drive South Windsor, CT 06074 Follow Us On: Follow Paid for by Eliott Hughes For Senate, Richard M Balboni Jr, Treasurer, Approved by Eliott Hughes Loading Comments...
 Write a Comment...
-Email (Required) Name (Required) Website English Español ( Spanish )
+Email (Required) Name (Required) Website English

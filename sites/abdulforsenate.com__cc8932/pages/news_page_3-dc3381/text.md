@@ -5,7 +5,8 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-Sierra Club’s Michigan Chapter Endorses Dr.
+Fox Report Finds Michiganders Uniquely At-Risk Amidst the Escalating Rogers-Trump Trade War Press Release October 5, 2026 “How you see [the trade war] as a Michigan consumer is higher prices.” MICHIGAN – A new report from Fox highlighted the disastrous consequences of Trump’s tariff war—which Mike Rogers enthusiastically supports—on working Michiganders.
+As the … Sierra Club’s Michigan Chapter Endorses Dr.
 Abdul El-Sayed for U.S.
 Senate Press Release October 5, 2026 Endorsement adds to growing coalition of environmental protection organizations backing Abdul MICHIGAN – Today, the Michigan Chapter of the Sierra Club announced its endorsement of Dr.
 Abdul El-Sayed for U.S.
@@ -21,8 +22,7 @@ As a self-declared “champion” … NEW AD: “500” Events Across Michigan P
 Too many places left behind, a rigged economy, and corrupt politicians.
 MICHIGAN – Today, the Abdul for … Abdul El-Sayed Worked Alongside Law Enforcement to Keep Our Communities Safe—Mike Rogers Has Voted To Cut Law Enforcement Funding Press Release September 30, 2026 Michigan Independent: Mike Rogers Repeatedly Voted Against Funding Public Safety MICHIGAN – The following is a statement from Abdul for Senate campaign spokesperson Cole Wozniak: “Mike Rogers can’t stop lying to distract from his record of … NEW: LiUNA Michigan Endorses Abdul El-Sayed For US Senate Press Release September 30, 2026 LiUNA Michigan’s Endorsement Adds To The Growing Coalition Of Labor Groups Backing Dr.
 Abdul El-Sayed’s Campaign MICHIGAN – Today, the Michigan Laborers’ International Union of North America (LiUNA) announced its endorsement of Dr.
-Abdul El-Sayed for … Mike Rogers Is Not Running A Serious Campaign Press Release September 30, 2026 New Poll Shows Abdul Beating Mike Rogers By 7, Fox News Has Started Airing Fan Cam Edits Of “Abdul The Alpha” And Focus Groups Show Abdul Overperforming With Trump 2024 Voters Meanwhile, Mike Rogers Is Publishing … Independent Focus Groups Show Abdul Overperforming With Trump Voters Press Release September 30, 2026 While Rogers Sinks in the Polls, Abdul Gains Momentum From Unlikely Supporters Michigan Trump Voter: “Mike Rogers might be a Donald Trump yes-man… what are they really standing for?
-Like, what are their goals and accomplishments … « Previous 1 2 3 4 5 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Abdul El-Sayed for … Mike Rogers Is Not Running A Serious Campaign Press Release September 30, 2026 New Poll Shows Abdul Beating Mike Rogers By 7, Fox News Has Started Airing Fan Cam Edits Of “Abdul The Alpha” And Focus Groups Show Abdul Overperforming With Trump 2024 Voters Meanwhile, Mike Rogers Is Publishing … « Previous 1 2 3 4 5 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

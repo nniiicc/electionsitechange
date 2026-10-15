@@ -12,4 +12,4 @@ Joseph Chou is running to represent the 6th District Joseph Chou came to America
 He has spent more than thirty years serving customers in these neighborhoods, and he is running for Congress to represent the district where he built his business.
 COPYRIGHT © # JOSEPH FOR NY.
 ALL RIGHTS RESERVED.
-PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Privacy Policy
+PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Voting | Contact Congressman Privacy Policy

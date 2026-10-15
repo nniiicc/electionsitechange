@@ -1,7 +1,11 @@
 Skip to main content Aaron Jones for State Representative Campaign Calendar Events Join Aaron and the campaign around District 88.
 Check back for new volunteer opportunities, community conversations, and campaign stops.
-Upcoming Events Wednesday, October 14, 2026, 7:00 PM Woodmore Local Schools Candidate Forum Woodmore High School, 633 Fremont Street, Elmore, OH, 43416 Woodmore Local Schools candidate forum at Woodmore High School.
-Past Events Tuesday, October 6, 2026, 6:00 PM Sandusky County Chamber of Commerce Candidate Forum Vanguard Tech Center, 1306 Cedar Street, Fremont, OH, 43420 Sandusky County Chamber of Commerce candidate forum at Vanguard Tech Center.
+Upcoming Events Sunday, November 1, 2026, 1:00 PM - 5:00 PM Last Day of Early Voting Seneca County Board of Elections, 71 S Washington Street, Suite 1101, Tiffin, OH, 44883 In-person early voting ends Sunday, November 1, from 1:00 p.m. to 5:00 p.m. at the Seneca County Board of Elections.
+Sunday, November 1, 2026, 1:00 PM - 5:00 PM Last Day of Early Voting Sandusky County Board of Elections, 2020 Countryside Drive, Fremont, OH, 43420 In-person early voting ends Sunday, November 1, from 1:00 p.m. to 5:00 p.m. at the Sandusky County Board of Elections.
+Tuesday, November 3, 2026, 6:30 AM - 7:30 PM Election Day Your polling place Polls are open Tuesday, November 3, from 6:30 a.m. to 7:30 p.m. at your assigned polling place.
+Past Events Wednesday, October 14, 2026, 7:00 PM Woodmore Local Schools Candidate Forum Woodmore Elementary/Middle School, 800 W.
+Main Street, Woodville, OH, 43469 Woodmore Local Schools candidate forum at Woodmore Elementary/Middle School.
+Tuesday, October 6, 2026, 6:00 PM Sandusky County Chamber of Commerce Candidate Forum Vanguard Tech Center, 1306 Cedar Street, Fremont, OH, 43420 Sandusky County Chamber of Commerce candidate forum at Vanguard Tech Center.
 Tuesday, September 29, 2026, 6:00 PM NAACP Sandusky County Branch Candidate Forum Birchard Public Library, 423 Croghan Street, Fremont, OH, 43420 NAACP Sandusky County Branch candidate forum at Birchard Public Library.
 Thursday, September 24, 2026, 11:45 AM Kiwanis Candidate Forum Fremont Elks Lodge No.
 169, 436 Croghan Street, Fremont, OH, 43420 Fremont Kiwanis candidate forum at the Fremont Elks Lodge.

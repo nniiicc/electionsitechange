@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate MONTANA COALITION What is the Montana Coalition?
+Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate MONTANA COALITION What is the Montana Coalition?
 The Montana Coalition is a group of leaders, organizations, and everyday citizens from across Montana and the country who support Seth Bodnar’s Independent campaign for U.S.
 Senate.
 This coalition, including Republicans, Democrats, Independents, and Libertarians , doesn’t agree on everything.

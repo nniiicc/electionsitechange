@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact EDUCATION Education in Assembly District 39 is in trouble.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction EDUCATION Education in Assembly District 39 is in trouble.
 The Douglas County School District dealt with an unprecedented $5 million deficit this year, while Lyon County had to address a $1.68 million reduction in revenue.
 Both districts managed to avoid drastic cuts directly affecting students and teachers, but other services and infrastructure were impacted.
 School districts throughout the state, especially other rural districts, find themselves in the same situation.
@@ -15,4 +15,4 @@ Parents are also choosing private schools, charter schools, or are home-schoolin
 We need to understand why and explore ways the public schools can make themselves the better choice. ​ We need to commit to adequate funding for public schools. ​ The PCFP formula is irrelevant without proper financial support.
 We cannot stand pat with our low national rankings for funding, teacher-student ratio, and educational outcome and expect things to get better all by themselves. ​ Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

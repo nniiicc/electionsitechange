@@ -14,8 +14,10 @@ She’s passed bipartisan tax cuts every single year she’s been in office to h
 OBAMA : Katie completely eliminated taxes on rent, tips, and overtime, and she worked to reduce utility bills and cut red tape to lower the cost of housing.
 OBAMA : Katie’s also taken action to make Arizona safer, toughening border security and getting eighteen million fentanyl pills off the streets.
 OBAMA : Katie Hobbs is the best choice to keep Arizona moving forward, so join me in supporting Katie for governor.
-Next Post Katie Hobbs and John Giles Host KidsCare Roundtable, Spotlighting Her Record of Delivering Affordable Healthcare TUCSON - Today, Gov.
-Katie Hobbs and her running mate, former Mesa Mayor John Giles, sat down with pediatricians, medical professionals, school nurses, and healthcare advocates for a roundtable discussion on the...
+Next Post “Las Ganas de Superar”: New Spanish-Language Ads Highlight Gov.
+Hobbs’ Record of Cutting Costs for Arizona’s Working Families PHOENIX - Today, Gov.
+Katie Hobbs’ campaign and the Navajo County Democratic Committee released a new Spanish-language ad, “Las Ganas de Superar,” on television and radio, highlighting her record of delivering for Arizona’s working families so they can get ahead.
+The ad celebrates the work ethic and determination of...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

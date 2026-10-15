@@ -54,11 +54,7 @@ We'll be calling voters in District 22 to earn their votes for the November 3rd 
 Each phone bank will begin with a training o… Show more RSVP Phonebank for Randy Villegas!
 Multiple Times Virtual Event Join the Villegas for Congress team for our Sunday phonebanks.
 We'll be calling voters in District 22 to earn their votes for the November 3rd election.
-Each phone bank will begin with a training on … Show more RSVP Delano Town Hall! ¡Reunión en Delano!
-This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Delano, CA, 93215 Join us for a town hall in Delano! ¡Acompáñenos en una reunión en Delano!
-RSVP Reproductive Freedom For All Roundtable This event’s address is private.
+Each phone bank will begin with a training on … Show more RSVP Reproductive Freedom For All Roundtable This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Bakersfield, CA, 93301 Roundtable with our friends with Reproductive Freedom for All RSVP Become a Great Canvasser: CA-22 / Villegas for Congress Edition Multiple Times Virtual Event You don’t have to be an expert—or have the perfect speech—to be a great canvasser.
 The key is knowing how to listen, connect, and make the most of each conversation.

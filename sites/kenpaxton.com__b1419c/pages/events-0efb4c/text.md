@@ -1,0 +1,5 @@
+HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE → HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE EVENTS EVENTS Media RSVP for All Events MEDIA RSVP Upcoming Events ROCKWALL: Come and Take It Tour w/ AG Ken Paxton Saturday, October 17 Rockwall, TX VIEW EVENT KILLEEN: Come and Take It Tour with AG Ken Paxton Saturday, October 17 Killeen, TX VIEW EVENT SAN ANTONIO: Come and Take It Tour with AG Ken Paxton Sunday, October 18 San Antonio , TX VIEW EVENT ALLEN: Come and Take It Tour with AG Ken Paxton Monday, October 19 Allen, TX VIEW EVENT More Tour Stops Coming Soon! join our cause Changing the world and winning big victories Contact Us Name: Email: Phone Zip I'll Volunteer To: Knock On Doors Make Phone Calls Display A Yard Sign Other Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+110 N Akard Street, PMB# 40 , Dallas, Texas 75201 Paid for by Ken Paxton For Senate MEDIA: ElectKenPaxton@gmail.com Media Kit Privacy Policy / Terms of Use

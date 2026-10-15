@@ -14,5 +14,5 @@ November 3, 2026 Election Day: polls open 6:30 a.m. to 7:30 p.m.
 Absentee ballots must be received by your county board of elections by 7:30 p.m.
 Official Ohio Voting Information All registration, absentee ballot requests, and polling location searches are handled through the official Ohio Secretary of State website.
 Visit Ohio Voter Information Center Stand with Allison Russo for Ohio $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-Stand with team Allison Email Address Zip Phone Number Get updates Home Meet Allison Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
+Stand with team Allison Email Address Zip Phone Number Get updates Home Need to Know Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately.

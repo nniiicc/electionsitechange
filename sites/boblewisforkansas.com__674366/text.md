@@ -25,4 +25,5 @@ As a lawyer, Bob fights for crime victims in civil and criminal restitution proc
 Bob previously worked as an Assistant United States Attorney, where he prosecuted immigration fraudsters, major drug traffickers, and violent gangsters.
 Bob is heavily involved in the Garden City community.
 He is a board member of the Garden City Family YMCA and a Finney County Republican Precinct Committeeman, representing Garden City’s Fourth Ward.
+Notice: JavaScript is required for this content.
 Paid For by Bob Lewis for Kansas; James Dawson, Treasurer

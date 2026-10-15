@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Oklahoma lawmaker starts push to include school supplies in Tax-Free Weekend OKLAHOMA CITY — Tax-Free Weekend is almost here in Oklahoma, but one item parents are about to head to the store to get isn’t covered: school supplies.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Oklahoma lawmaker starts push to include school supplies in Tax-Free Weekend OKLAHOMA CITY — Tax-Free Weekend is almost here in Oklahoma, but one item parents are about to head to the store to get isn’t covered: school supplies.
 Oklahoma’s Tax-Free Weekend, which is Aug.
 1-3, only covers clothing or footwear under $100.
 School supplies, clothes and footwear meant for “athletic activity or protective use” aren’t covered by the sales tax weekend.

@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Platform Where Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → Platform Where Dr.
 Katz Stands The full platform — from border security and voter integrity to cost of living, healthcare, and the issues that matter most for Delaware families.
 Download Platform PDF Short Version — Platform Brief → Guiding Principles How I Evaluate Legislation Every piece of legislation should be judged by the same standards.
 I will ask: Does it protect earned benefits and constitutional rights?

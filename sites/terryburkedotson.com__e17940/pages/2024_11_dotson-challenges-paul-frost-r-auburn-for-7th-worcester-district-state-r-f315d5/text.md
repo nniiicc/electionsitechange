@@ -1,4 +1,4 @@
-TerryBurkeDotson.com Terry Burke Dotson running for State Representative Dotson challenges Paul Frost (R-Auburn) for 7th Worcester District state representative seat November 1, 2024 / terryburkedotson.com October 3, 2024 My opponent, Paul Frost, boasts a 100% voting attendance record.
+TerryBurkeDotson.com Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District Dotson challenges Paul Frost (R-Auburn) for 7th Worcester District state representative seat November 1, 2024 / terryburkedotson.com October 3, 2024 My opponent, Paul Frost, boasts a 100% voting attendance record.
 This means he shows up about 25 times a year for roll call to cast about 10 votes!
 Frost voted for sex change operations for minors without parental consent.
 I have a 100% attendance record serving 33 years with honor in the military reserve through deployment at Bagram AFB in Afghanistan, in the Army National Guard, Air Force Reserve, Navy Reserve, and Marine Corps.
@@ -12,4 +12,4 @@ I support: Law and order Detainment of those arrested until court hearing Full p
 Want to help me?
 D O SOMETHING!
 Ask 10 people to vote for me.
-Terry Burke Dotson Millbury terryburkedotson.com / « Frost voted for sex change operations for minors without parental consent Pages About Contact News Photos Video Terry Burke Dotson running for State Representative © Terry Burke Dotson
+Terry Burke Dotson Millbury terryburkedotson.com / « Frost voted for sex change operations for minors without parental consent Terry Burke DOTSON Announces Candidacy for State Representative for 7th Worcester District » Pages About Contact News Photos Video Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District © Terry Burke Dotson

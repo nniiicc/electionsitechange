@@ -1,17 +1,25 @@
 Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Platform About Damon Endorsements Contact Us Tell me about You!
 Register to Vote Video Donate Press Releases More Home Platform About Damon Endorsements Contact Us Tell me about You!
 Register to Vote Video Donate Press Releases Signed in as: filler@godaddy.com Home Platform About Damon Endorsements Contact Us Tell me about You!
-Register to Vote Video Donate Press Releases Account My Account Sign out Sign In My Account Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Stand with Damon for NJ1 Donate Now Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Stand with Damon for NJ1 Donate Now Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Cherry hill fundraiser Come join us for the Fall Fundraiser & Columbus Day Celebration.
-Monday, October 12 · 6:00–8:00 PM · American Legion, 1532 Martin Avenue, Cherry Hill, NJ Benefits congressional candidate Damon Galdo and the New Cherry Hill Republican Party.
-Dinner, beer, and wine are included.
-RSVP today.
-Seats are limited, and the date is approaching quickly.
-Reserve your seat by calling (609) 313-4110 or click the button below.
-Buy tickets here Where's Damon Join Damon on the Trail — See Where He Will Be Next Meet Damon in Your Own Community — Join Him in an Upcoming Event 10/10/2026 — Saturday Berlin Fall Festival 12 PM - 6 PM Berlin Park, 2-134 E 2nd St, Berlin, IL 62670 Event Details 10/10/2026 — Saturday Berlin Fall Festival Berlin’s Fall Festival brings together families, vendors, and local performers for a full day of autumn fun.
-Damon will appear for this key...
-Event Details 12 PM - 6 PM Berlin Park, 2-134 E 2nd St, Berlin, IL 62670 10/12/2026 Cherry Hill Fundraiser 6 PM - 8 PM Cherry Hill American Legion 1532 Martin Avenue, Cherry Hill, NJ 08002 Event Details 10/12/2026 Cherry Hill Fundraiser Join us October 12th at the American Legion in Cherry Hill for a critical fundraiser supporting Damon Galdo’s run for Congress.
-Every dolla...
-Event Details 6 PM - 8 PM Cherry Hill American Legion 1532 Martin Avenue, Cherry Hill, NJ 08002 Stand With Damon Damon Galdo is running to represent New Jersey’s First Congressional District with strong leadership, accountability, and a commitment to the people of South Jersey.
+Register to Vote Video Donate Press Releases Account My Account Sign out Sign In My Account Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Stand with Damon for NJ1 Donate Now Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Vote Damon Galdo for NJ1 Stand with Damon for NJ1 Donate Now Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Meet Damon at the Bellmawr Fall Festival Saturday, October 17, 2026 1:00 PM – 7:00 PM Bellmawr Recreation Center 125 S.
+Bell Road Bellmawr, NJ 08031 Join Damon Galdo at Bellmawr’s free, family-friendly Fall Festival.
+Enjoy a car show, live music, food trucks, a beer garden, craft vendors, amusement rides, and fireworks to close out the evening.
+Damon will be on site meeting neighbors, answering questions, and talking about the issues that matter to South Jersey families: affordability, accountability, public safety, and putting American citizens first.
+Find Damon, introduce yourself, and let’s build the change South Jersey needs.
+Bring the family, enjoy the festival, and connect with your next congressman face-to-face.
+Meet Damon at the Cherry Hill Harvest Festival Sunday, October 18, 2026 12:00 PM – 4:00 PM Croft Farm 100 Bortons Mill Road Cherry Hill, NJ 08034 Join Damon Galdo at one of Cherry Hill’s favorite fall traditions.
+The Harvest Festival is free, rain or shine, and packed with family fun — local vendors and crafters, food trucks, live music, a petting zoo, pony rides, pumpkins, and more.
+Damon will be on site meeting neighbors, answering questions, and talking about the issues that matter to South Jersey families: affordability, accountability, public safety, and putting American citizens first.
+Come say hello, grab a picture, and stand with Damon.
+Bring the family, enjoy the festival, and meet your next congressman in person.
+Where's Damon Join Damon on the Trail — See Where He Will Be Next Meet Damon in Your Own Community — Join Him in an Upcoming Event 10/17/2026 — Saturday Bellmawr Harvest Festival 1 PM - 7 PM Bellmawr Recreation Center, 125 S.
+Bell Road, Bellmawr, NJ 08031 Event Details 10/17/2026 — Saturday Bellmawr Harvest Festival Meet Damon at the Bellmawr Fall Festival Join Damon Galdo at Bellmawr’s free, family-friendly Fall Festival.
+Enjoy a car show, live music, f...
+Event Details 1 PM - 7 PM Bellmawr Recreation Center, 125 S.
+Bell Road, Bellmawr, NJ 08031 10/18/2026 Cherry Hill Harvest Festival 12 PM - 4 PM Croft Farm 100 Bortons Mill Road Cherry Hill, NJ 08034 Event Details 10/18/2026 Cherry Hill Harvest Festival Come Meet Damon at the Cherry Hill Harvest Festival Cherry Hill’s popular Harvest Festival returns with more than 100 artists, crafters, and...
+Event Details 12 PM - 4 PM Croft Farm 100 Bortons Mill Road Cherry Hill, NJ 08034 10/27/2026 Pre-Election Interview on New Jersey Statehouse Watch 7:30 pm - 8 pm Online event streaming at NJStatehouseWatch.com Event Details 10/27/2026 Pre-Election Interview on New Jersey Statehouse Watch Final Pre-Election Interview on New Jersey Statehouse Watch October 27 ,,, the last podcast before Election Day.
+Damon Galdo and Senate candi...
+Event Details 7:30 pm - 8 pm Online event streaming at NJStatehouseWatch.com Stand With Damon Damon Galdo is running to represent New Jersey’s First Congressional District with strong leadership, accountability, and a commitment to the people of South Jersey.
 Why I’m Running I am running for Congress because life in New Jersey has become unaffordable and unfair for the very people who work hard, play by the rules, and keep this state running.
 Middle-class adults are struggling to stay afloat.
 Young people cannot afford to buy a home.

@@ -19,4 +19,4 @@ Early Voting starts October 19 through November 1st.
 Mark DeCaprio endorsed by CT Realtors I’m honored to receive the endorsement of Connecticut REALTORS®.
 Read More Stay Connected SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

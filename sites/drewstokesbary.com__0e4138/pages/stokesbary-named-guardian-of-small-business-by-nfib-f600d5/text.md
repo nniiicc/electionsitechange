@@ -4,6 +4,5 @@ NFIB is “the voice of small business, advocating on behalf of America’s smal
 Here’s what NFIB’s Washington State Director had to say: Ask every member of the Washington State Legislature if he or she is a friend of small business, and you will get 147 yesses.
 Watch them when it comes time to prove it, and you’ll find 44 whose actions matched their words.
 I’m proud that my voting record on small business issues indeed matches my rhetoric!
-Awards More For You National Federation of Independent Business endorses Drew Stokesbary Endorsements Rep.
-Stokesbary’s first bill passes in state House In the News Saving Washington’s Charter Schools In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards More For You The Seattle Times Endorses Stokesbary for Reelection Endorsements The News Tribune profiles House Position 1 race In the News Stokesbary sponsors Auburn student as page In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

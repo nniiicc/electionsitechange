@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Virtual Town Hall Join us for "Sundays with Sandra" - A Virtual Town Hall on 8/9/26 at 7PM Team Sandra Aug 3 Sundays with Sandra - Join us for a Virtual Town Hall on July 26, 2026 Team Sandra Jul 22 (Virtual) Town Hall with Candidate for Congress, Sandra Van Scotter, CA-20 Team Sandra Jul 13 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer Virtual Town Hall Join us for "Sundays with Sandra" - A Virtual Town Hall on 8/9/26 at 7PM Team Sandra Aug 3 Sundays with Sandra - Join us for a Virtual Town Hall on July 26, 2026 Team Sandra Jul 22 (Virtual) Town Hall with Candidate for Congress, Sandra Van Scotter, CA-20 Team Sandra Jul 13 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.
 A grassroots candidate can only win with grassroots support.

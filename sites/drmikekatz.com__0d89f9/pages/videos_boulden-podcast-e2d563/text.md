@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → ← All Videos Interview Be Bold with Boulden — Get to Know the Candidate October 1, 2026 · #h #m · Be Bold with Boulden A wide-ranging conversation with host Boulden on the issues driving Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → ← All Videos Interview Be Bold with Boulden — Get to Know the Candidate October 1, 2026 · #h #m · Be Bold with Boulden A wide-ranging conversation with host Boulden on the issues driving Dr.
 Mike Katz's campaign for U.S.
 Senate: Delaware's affordability crisis, healthcare costs, government accountability, and why he's building a coalition of Republicans, Independents, and disenchanted Democrats to defeat Chris Coons on November 3.
 Prefer audio?

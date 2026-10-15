@@ -25,10 +25,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1460+commerce+drive+laramie%2C+wyoming%2C+82070+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=156+mountain+view+drive+evanston%2C+wyoming%2C+82930+united+states"
 },
 {
@@ -128,10 +124,6 @@
 "href": "https://www.barlowforwyo.com/events/asuw-meet-greet"
 },
 {
-"text": "Aurum Standards Group Tour",
-"href": "https://www.barlowforwyo.com/events/aurum-standards-group-tour"
-},
-{
 "text": "Black Mesa Advanced Fission Tour",
 "href": "https://www.barlowforwyo.com/events/black-mesa-advanced-fission-tour"
 },
@@ -182,10 +174,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ASUW+Meet+%26+Greet+&dates=20260918T180000Z%2F20260918T200000Z&location=1000+East+University+Avenue%2C+Laramie%2C+Wyoming%2C+82071%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Aurum+Standards+Group+Tour+&dates=20260917T174500Z%2F20260917T190000Z&location=1460+Commerce+Drive%2C+Laramie%2C+Wyoming%2C+82070%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -310,10 +298,6 @@
 {
 "text": "ICS",
 "href": "https://www.barlowforwyo.com/events/asuw-meet-greet?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.barlowforwyo.com/events/aurum-standards-group-tour?format=ical"
 },
 {
 "text": "ICS",
@@ -517,10 +501,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.barlowforwyo.com/events/aurum-standards-group-tour"
-},
-{
-"text": "View Event →",
 "href": "https://www.barlowforwyo.com/events/black-mesa-advanced-fission-tour"
 },
 {
@@ -662,10 +642,6 @@
 {
 "text": "[no text]",
 "href": "https://www.barlowforwyo.com/events/asuw-meet-greet"
-},
-{
-"text": "[no text]",
-"href": "https://www.barlowforwyo.com/events/aurum-standards-group-tour"
 },
 {
 "text": "[no text]",

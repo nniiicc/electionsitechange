@@ -4,10 +4,8 @@ Standard messaging rates may apply.
 Home About Priorities Endorsements Contact Volunteer Donate Vote on September 1 in the Democratic Primary, and on November 3, 2026 in the General Election.
 Choose HOPE First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Sign up for updates and the campaign newsletter!
 Standard messaging rates may apply.
-Announcement Internship Opportunity Join our Team!
-Interested in politics, public service, or getting involved in your community?
-Team Murray is now accepting applications for our Fall/Winter Internship Program.
-Apply Now!
+ANNOUNCEMENT Debate 18th Essex District State Representative Debate Tuesday, October 20 | 7:00 PM Memorial Hall Library, Andover, MA Join me as I debate my opponent on the issues that matter most to our communities.
+This is an important opportunity to hear directly from both candidates about our respective priorities, policy positions, and visions for the future of the 18th Essex District.
 I'm running because I believe my neighbors deserve a strong voice on Beacon Hill.
 “Our state government has an ethical duty to meet the moment with fire.
 It must uplift the working class, protect the rights of immigrants, and actively resist all efforts to undermine the Commonwealth's autonomy." Read full statement Read below for some of our top priorities Clean Energy and Environment Affordability Healthcare Education Equity and Accessibility Show Your Support with a Yard Sign!

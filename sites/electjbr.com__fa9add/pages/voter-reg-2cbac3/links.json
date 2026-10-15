@@ -20,16 +20,16 @@
 "href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
 },
 {
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjbr"
+},
+{
 "text": "DONATE NOW",
 "href": "https://secure.actblue.com/donate/electjbr"
 },
 {
 "text": "District",
 "href": "https://www.electjbr.com/district"
-},
-{
-"text": "Donate",
-"href": "https://secure.actblue.com/donate/electjbr"
 },
 {
 "text": "EARLY VOTER INFORMATION",
@@ -54,6 +54,10 @@
 {
 "text": "Health Care, Rights & Freedoms",
 "href": "https://www.electjbr.com/health-care-rights-freedoms"
+},
+{
+"text": "Hear from Jessica",
+"href": "https://www.electjbr.com/hear-from-jessica"
 },
 {
 "text": "Home",

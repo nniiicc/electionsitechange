@@ -14,7 +14,16 @@ Together, we can address the pressing issues facing our district and ensure a pr
 Rep.
 Gabe Evans of Fort Lupton in the toss-up district, which spans from the northeastern Denver suburbs along U.S.
 85 into Greeley.
-Press Releases Manny Rutinel Releases New TV Ads: “The Pump” and “The Truth” October 13, 2026 · Read the full release Rutinel highlights Evans’ support of Trump’s Iran War that has raised gas prices, work to prevent the release of the Epstein Files THORNTON, CO – This week, Manny Rutinel for Congress released two new TV ads, “ The Pump ” and “ The Truth .” “The Pump” is a $350,000 initial buy and “The Truth” is a $400,000 initial buy.
+Press Releases ICYMI: Gabe Evans Spends Exorbitant Amount of Taxpayer Money for Hotels and Dining October 14, 2026 · Read the full release Evans Spent the Most Taxpayer Dollars Out of Entire CO Congressional Delegation THORNTON, CO – While Coloradans are struggling to make ends meet, Gabe Evans uses his constituents’ hard earned money to wine and dine out in DC.
+A new article by Colorado Public Radio reports that from January 1, 2025 to June 30, 2026, Evans spent $43,471 from his Members’ Representational Allowance (MRA), a taxpayer funded resource that can be used to “expense housing, whether it be hotels or rent, as well as meals and incidentals without providing receipts.” During that time period, Evans expensed the most out of the entire Colorado Congressional Delegation.
+In case you missed it: “According to House data that was released during the time period covering January 1, 2025 to June 30, 2026, Republican Rep.
+Gabe Evans expensed the most of the Colorado delegation.
+Evans spent $43,471, with $31,421 going towards housing from January 2025 to May 2026.
+An additional $12,050 went towards meals and incidentals during that same time period.” While Evans squeezed out every dime out of his constituents to fund his time in the least effective Congress ever , he made life unaffordable in CD-8.
+Gas and diesel prices are climbing with no end in sight because he continues to vote for the reckless war in Iran and his 100% voting record for Donald Trump’s corrupt, chaotic tariffs have made everything from housing to groceries expensive.
+“Gabe Evans talks a lot about how Coloradans need to be more fiscally responsible," said Alex Terr, spokesperson for Manny for Colorado .
+“But he is totally fine with spending his constituents' money on his lifestyle.
+It’s time to elect Manny Rutinel who will work for Colorado’s working families, not bankrupt them for his own gain.” Manny Rutinel Releases New TV Ads: “The Pump” and “The Truth” October 13, 2026 · Read the full release Rutinel highlights Evans’ support of Trump’s Iran War that has raised gas prices, work to prevent the release of the Epstein Files THORNTON, CO – This week, Manny Rutinel for Congress released two new TV ads, “ The Pump ” and “ The Truth .” “The Pump” is a $350,000 initial buy and “The Truth” is a $400,000 initial buy.
 Both ads will run on Denver TV and streaming across Colorado’s Eighth District.
 In “ The Pump ,” which premieres today, Rutinel highlights how Gabe Evans raised Coloradans’ gas prices by voting #% of the time with Donald Trump for the forever war in Iran and his corrupt, chaotic tariffs.
 WATCH “THE PUMP” Transcript For families like yours and mine, single moms, people working two, three jobs, every dollar at the pump matters.

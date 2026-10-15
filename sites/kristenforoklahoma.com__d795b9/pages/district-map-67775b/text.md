@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute District Map Get the Latest from Kristen Email Zip Phone Consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Kristen for Oklahoma 2026 at the number provided.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute District Map Get the Latest from Kristen Email Zip Phone Consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Kristen for Oklahoma 2026 at the number provided.
 Message frequency varies.
 Msg & data rates may apply.
 Reply HELP for assistance.

@@ -4,9 +4,10 @@ How to join.
 You opt in by checking the SMS box on a campaign web form or by texting Carol to (650)714-3860 .
 Consent is not required to sign up, volunteer or donate.
 Frequency.
-Message frequency varies, up to 2 messages per month, and may increase near Election Day (November 3, 2026).
+Message frequency varies, up to 8 messages per month, as we near Election Day (November 3, 2026).
 Cost.
 Message and data rates may apply according to your mobile plan.
+Carriers aren't liable for delayed or undelivered messages.
 Opting out.
 Reply STOP, END, CANCEL, UNSUBSCRIBE or QUIT at any time.
 You will receive one confirmation and no further messages.

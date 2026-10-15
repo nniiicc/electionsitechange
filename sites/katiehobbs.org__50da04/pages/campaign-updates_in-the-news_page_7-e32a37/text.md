@@ -1,4 +1,4 @@
-Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Campaign Updates In the News In the News Press Releases In the News Press Releases Campaign Updates · In the News AP News: Democratic Arizona Gov.
+Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Campaign Updates In the News In the News Press Releases In the News Press Releases Campaign Updates · In the News Fox 10 Phoenix: Arizona governor announces reelection campaign October 8, 2025 Read More Campaign Updates · In the News AP News: Democratic Arizona Gov.
 Hobbs launches reelection bid as her party aims to build power nationally October 8, 2025 Read More 1 … 5 6 7 First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

@@ -1,4 +1,4 @@
-BRIAN SCOPA Meet Brian Issues IL-84 Get Involved Donate ☰ Where Brian stands Mission priorities.
+BRIAN SCOPA Meet Brian Issues IL-84 Endorsements Get Involved Donate ☰ Where Brian stands Mission priorities.
 Brian is a Navy Commander dad who will bring discipline, transparency, and real school options to Aurora, Naperville, Oswego, and Montgomery families.
 Parents in Charge Parents, not bureaucrats, decide what's best for their kids.
 Springfield politicians think they know better than Illinois parents what's best for their kids.
@@ -14,7 +14,7 @@ Cops are demoralized.
 Springfield protects criminals instead of communities.
 Fentanyl and cartel trafficking routes run through Illinois, with an inadequate response.
 Brian's Plan: Revise the SAFE-T Act: end soft-on-crime policies that put criminals back on the street Mandatory minimums: tough penalties for repeat violent offenders Support school safety: fund SROs and active-shooter preparedness (Brian is ALICE-certified) Audit big contracts: sunshine laws for grants, NGOs, and all state spending Help Brian bring discipline back to Springfield.
-Support Brian → BRIAN SCOPA Illinois State Representative, District 84 · IL-84 · the 84th District Home Meet Brian Issues IL-84 Email the Campaign Privacy Policy Terms © Friends of Brian Scopa.
+Support Brian → BRIAN SCOPA Illinois State Representative, District 84 · IL-84 · the 84th District Home Meet Brian Issues IL-84 Endorsements Email the Campaign Privacy Policy Terms © Friends of Brian Scopa.
 All rights reserved.
 Paid for by Friends of Brian Scopa.
 2863 W 95th Street, Suite 123-502, Naperville, IL 60564.

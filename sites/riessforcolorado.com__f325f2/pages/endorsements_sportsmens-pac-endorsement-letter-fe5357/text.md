@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Sportsmen’s PAC Sportsmen’s PAC endorses Naomi Riess for Colorado House District 59 The Sportsmen’s PAC is proud to stand with 20 candidates across Colorado, Florida, New Mexico and Nevada who are committed to protecting our hunting heritage and defending the freedoms sportsmen depend on.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Sportsmen’s PAC Sportsmen’s PAC endorses Naomi Riess for Colorado House District 59 The Sportsmen’s PAC is proud to stand with 20 candidates across Colorado, Florida, New Mexico and Nevada who are committed to protecting our hunting heritage and defending the freedoms sportsmen depend on.
 Sportsmen’s PAC isn’t sitting on the sidelines.
 We’re building a nationwide network of leaders who will fight for hunters, anglers, conservation, public access and our Second Amendment rights.
 These candidates have earned our endorsement.

@@ -8,7 +8,14 @@ Air Force) Fleet Post Office (U.S.
 Navy and U.S.
 Marine Corps) Zip Your email Phone Comments I acknowledge that I agree to the Terms and Conditions and have read the Privacy Policy .
 I would like to receive updates from you by email.
-I agree to receive automated messages. *If you no longer wish to receive text messages, you may opt-out at any time by replying "STOP".
+By checking the box, you are opting in to receive marketing alerts, updates, and news messages via SMS from Glenn Lancaster.
+Donations will be solicited.
+Additional text and data rates may apply.
+Text STOP to opt-out.
+Text HELP for assistance.
+Message Frequency may vary/month.
+See our Privacy Policy HERE .
+See Terms of Use HERE .
 MAKE A DONATION Help us fund the effort.
 Your contributions are what make all this possible.
 Every donation helps, so don’t wait!

@@ -4,6 +4,6 @@ Carlow said that his “appointment to this committee will allow me to proactive
 Rep.
 Carlow was pleased by this appointment and is looking forward to working on a bipartisan basis with colleagues on the EUTC.
 Posted by communicationsdirector December 13, 2020 December 13, 2020 Posted in General Post navigation Previous Post Previous post: “Carlow, Durrell go head to head for Buxton House seat” Next Post Next post: Rep.
-Carlow Introduces PUC Reform Bill Leave a Reply Cancel reply Comment Name Email Website Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Carlow Introduces PUC Reform Bill Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
 Log in now.
 Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

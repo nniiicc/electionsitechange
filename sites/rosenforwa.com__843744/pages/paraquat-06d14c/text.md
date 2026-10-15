@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Pesticide Accountability Paraquat: Banned by 70 Countries.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Pesticide Accountability Paraquat: Banned by 70 Countries.
 Still Used Here.
 Paraquat is one of the most toxic weed killers still in use.
 The EPA's own warning says one sip can kill — and there's no antidote.

@@ -41,6 +41,7 @@ I spent 20 years as a systems analyst and 20 years as a Nevada litigation parale
 A policy is only as good as the procedure behind it, the training that supports it, and the public record that shows whether it worked.
 Public trust isn’t restored by telling citizens to stop asking questions.
 It’s strengthened when government answers them with clear rules, honest records, and careful audits, one well-run election at a time.
+I’ve also written down the standard I’m asking you to hold my own office to: I’ll Hold My Office to the Same Standard I Held Theirs .
 I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
 Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
 If not, it’s time to take a closer look.
@@ -50,6 +51,6 @@ That’s the job, and I intend to do it. — Brad Lee Barnhill Independent Ameri
 The Honest Answer Is You.
 Next Next post: Election Technology Nevada Voters Can Actually Check footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

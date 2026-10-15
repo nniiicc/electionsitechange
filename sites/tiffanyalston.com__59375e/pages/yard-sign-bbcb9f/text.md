@@ -1,6 +1,6 @@
 top of page DEMOCRAT FOR SENATE HOME ABOUT TIFFANY ISSUES For The People WOMEN FOR TIFFANY WOMEN FOR TIFFANY Events GET INVOLVED Volunteer Sign Up Yard Sign Request Volunteer Sign Up Yard Sign Request Menu Close DONATE ALSTON FOR SENATE YARD SIGN REQUEST Show your neighborhood you support a proven leader delivering result for Prince George's County.
 Request your official Tiffany Alston for State Senate yard sign and let's make sure every block knows!
-First name * Last name * Email * Phone * Address * Would you like to sign up to volunteer? * Yes No Submit CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy Copyright © # Tiffany Alston - All Rights Reserved.
+First name * Last name * Email * Phone * Address * Would you like to sign up to volunteer? * Yes No Submit CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy View Terms and Conditions Copyright © # Tiffany Alston - All Rights Reserved.
 By Authority of Friends of Tiffany Alston, Samuel Mensah, Treasurer.
 JOIN THE MOVEMENT!
 The Maryland Senate currently has only one woman representing our region and with her departure, that voice disappears.

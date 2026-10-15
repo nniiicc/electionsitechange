@@ -1,10 +1,22 @@
-Skip to content Facebook Twitter Pinterest Instagram LinkedIn Home Endorsements About Biography Issues Ohio’s 8th Congressional District Voting in 2026 Blog Events Contact Contact Share Your Opinion Donate Order a Yard Sign Volunteer 1 event found.
-Events Events Search and Views Navigation Search Enter Keyword.
+Skip to content Facebook Twitter Pinterest Instagram LinkedIn Home Endorsements About Biography Issues Ohio’s 8th Congressional District Voting in 2026 Blog Events Contact Contact Share Your Opinion Donate Order a Yard Sign Volunteer 0 events found.
+There are no upcoming events.
+There are no upcoming events.
+Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List Month Day #ago Upcoming Upcoming Select date.
-October 2026 Wed 14 October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Columbia Township Community Center 6904 Murray Avenue, Cincinnati, OH, United States Dr.
+Latest Past Events Oct 14 2026 October 14 @ 6:00 pm - 8:00 pm October Wooster Corridor Democrats Meeting Columbia Township Community Center 6904 Murray Avenue, Cincinnati Dr.
 Vanessa Enoch will be speaking at the October meeting of Wooster Corridor Democrats members, in eastern Cincinnati.
-Topics will include her priorities for Ohio’s 8th Congressional District, including protecting Social Security and Medicare, lowering healthcare and prescription drug costs, strengthening veterans’ services, creating jobs, expanding affordable housing, investing in American manufacturing, and holding government… Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
+Topics will include her priorities for Ohio’s 8th Congressional District, including protecting Social Security and Medicare, lowering healthcare and prescription drug costs, strengthening veterans’ services, creating jobs, expanding affordable housing, investing in American manufacturing, and holding government… Oct 11 2026 October 11 @ 3:00 pm - 4:30 pm October Meet & Greet with Dr.
+Vanessa Enoch @ Major Minor Books and Such Major Minor Books and Such 6718 Montgomery Rd., Cincinnati Come meet Dr.
+Enoch in the intimate setting of this lovely bookstore.
+You'll hear about her priorities for Ohio’s 8th Congressional District, including protecting Social Security and Medicare, lowering healthcare and prescription drug costs, strengthening veterans’ services, creating jobs, expanding affordable housing, investing in American manufacturing, and holding government accountable.
+Major Minor Books and Such… Sep 20 2026 September 20 @ 7:00 pm - 9:00 pm September Meet & Greet with Dr.
+Vanessa Enoch @ Major Minor Books and Such Major Minor Books and Such 6718 Montgomery Rd., Cincinnati Another chance to meet Dr.
+Enoch, and to learn more about her philosophy and positions.
+Also learn how to contribute to her campaign for the 8th District U.S.
+Congressional race.
+Major Minor Books and Such is located in the Silverton/Kennedy Heights neighborhood, on Montgomery Rd., between Kennedy Ave. and Plainfield Rd.
+Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
 House of Representatives, Ohio's 8th District (OH-08) Contact P.O.
 Box 1362 West Chester, OH 45071 (513) 486-4829 dr.enoch@enochforcongress.com Get the Latest Name Please enter your name.
 Email Address Please enter a valid email address.
@@ -17,7 +29,7 @@ Contribute Be a part of the movement and participate in building a better future
 Join this historical campaign and stand up for the values that make our country great.
 Make a difference.
 The Campaign is paid for by the Committee to Elect Enoch.
-Donate Volunteer Upcoming Events October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
+Donate Volunteer Upcoming Events Doc Enoch on Twitter Twitter feed is not available at the moment.
 Home Upcoming Events Blog Shop Contact Facebook Twitter Pinterest Instagram LinkedIn ©# Enoch for Congress.
 All Rights Reserved.
 Volunteer Portal Scroll To Top

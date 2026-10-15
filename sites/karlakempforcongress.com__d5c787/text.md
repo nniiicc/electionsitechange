@@ -9,7 +9,7 @@ I wanted to touch base with you and talk to you about some big challenges and ch
 I have accepted the challenge flip District 18 blue and get our state under control and back to working for the PEOPLE, not the corporations.
 Let’s work together to turn Florida BLUE!
 Biography & Career Donate Thank you for your support If you can, every little bit helps.
-Donate with ActBlue Campaign Events NEXT EVENT STARTS IN: 13 October 5:00 pm District 59 Monthly Meeting Acropol Family Restaurant 1170 Starkey Rd Largo, FL 33771 Doors open at 5, Dinner and Mingle 14 October 6:00 pm Reddington Shores Commission Town of Redington Shores 17425 Gulf Blvd REdington Shores, FL 33708 15 October 9:00 AM Habitat for Humanity Groundbreaking 4000 58th Avenue North Saint Petersburg, FL 33714 15 October 6:00 pm Pinellas NOW and Voter Action (bring your cellphone!) 6085 Park Blvd Pinellas Park, FL 33781 Event: fb://event/1648353080140812 We meet at King of Peace Metropolitan Community Church (formerly Good Samaritan), 6085 Park Blvd, Pinellas Park, FL 33781.
+Donate with ActBlue Campaign Events NEXT EVENT STARTS IN: 14 October 6:00 pm Reddington Shores Commission Town of Redington Shores 17425 Gulf Blvd REdington Shores, FL 33708 15 October 9:00 AM Habitat for Humanity Groundbreaking 4000 58th Avenue North Saint Petersburg, FL 33714 15 October 6:00 pm Pinellas NOW and Voter Action (bring your cellphone!) 6085 Park Blvd Pinellas Park, FL 33781 Event: fb://event/1648353080140812 We meet at King of Peace Metropolitan Community Church (formerly Good Samaritan), 6085 Park Blvd, Pinellas Park, FL 33781.
 Arrive at 6 pm for mixing and mingling with NOW members.
 Meeting starts at 6:30 pm.
 Learn how to help voter turnout in the all-important November election!

@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Risch wins Republican primary for U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Risch wins Republican primary for U.S.
 Senate U.S.
 Sen.
 Jim Risch defeated his challengers with nearly 67% of the vote, or 156,199 ballots cast in his favor, according to results as of 10:30 a.m.

@@ -3,7 +3,8 @@ For reporters and editors.
 Boilerplate, photo, and contact below.
 In the News El Paso's fight, on the national stage.
 From the Texas House floor to TIME, CNN, and HuffPost — coverage of the fight for fair maps and the wins Vince delivered for El Paso.
-Campaign · Sep 2026 · Announcement Named co-chair of Texas Together One of three co-chairs of the Texas Democratic Party's 2026 Coordinated Campaign — and the only one from West Texas or along the border.
+Education · Oct 2026 · Press release Challenging the state investigation of El Paso ISD Perez's letter to the Comptroller: by the State's own measures, 79 districts that spend a larger share on administration than EPISD were not chosen.
+Read the release → Campaign · Sep 2026 · Announcement Named co-chair of Texas Together One of three co-chairs of the Texas Democratic Party's 2026 Coordinated Campaign — and the only one from West Texas or along the border.
 Read the release → Instagram · Aug 2026 · El Paso Welcoming Gina Hinojosa back to El Paso Vince joins the Democratic nominee for Governor at the El Paso firefighters' hall — “we are energized, organized and coming for them at the polls.” See the post → Texas Legislative Progressive Caucus · Jul 2026 · Hearing El Paso People's Hearing Vince hosts the second stop of the TLPC's 2026 People's Hearings — testimony from El Pasoans on immigration detention and school funding, taken in the format of a legislative committee hearing.
 Watch the hearing → KTSM 9 · Jul 2026 Texas Legislative Progressive Caucus to hold People's Hearing in El Paso KTSM previews the hearing and what the Caucus is doing differently from the Capitol's invitation-only interim schedule.
 Read the story → Texas Democratic Party · Jun 2026 · Speech On the main stage at the 2026 Texas Democratic Convention The only El Paso state representative — and only member from the Texas–Mexico border — to address the convention's general session.
@@ -21,7 +22,8 @@ Read the story → KTSM 9 · Apr 2026 Rep.
 Vince Perez on the Voting Rights Act and El Paso's future After the Supreme Court weakened the Voting Rights Act, Vince lays out what it means for El Paso's representation.
 Read & watch → KTSM 9 · Jun 2025 Governor signs Perez bill making it simpler for foreign doctors to practice in Texas A win for the border: Vince's joint-authored bill helps ease the physician shortage.
 Read the story → KFOX 14 · 2025 UTEP law school proposal advances as Texas House passes pivotal bill Vince's bill to bring a public law school to El Paso clears the Texas House.
-Read the story → 2026 Releases Sep 9, 2026 State Rep.
+Read the story → 2026 Releases Oct 12, 2026 Rep.
+Perez Challenges State Investigation of El Paso ISD Sep 9, 2026 State Rep.
 Vince Perez Named Co-Chair of ‘Texas Together,’ the 2026 Texas Democratic Coordinated Campaign 89th Session Releases (2025) Aug 22, 2025 Rep.
 Vince Perez Delivers Floor Remarks Opposing HB 4, Texas House Redistricting Proposal Aug 8, 2025 Rep.
 Vince Perez and Four Texas Dems Land in California to Meet with Governor Newsom, Top State & Federal Leaders Aug 4, 2025 Statement from State Representative Vince Perez in Response to Warrant for Arrest Aug 3, 2025 Statement by State Rep.

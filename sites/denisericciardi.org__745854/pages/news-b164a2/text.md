@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Sen.
 Ricciardi Airs Proposals Aimed at Reducing Property Taxes Oct 12, 2026 by Sentinel Staff Oct 9, 2026 N.H.
 Sen.

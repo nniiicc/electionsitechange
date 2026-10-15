@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Privacy Policy Terms and Conditions Friends of Dr.
 Edgeworth respects your privacy and is committed to protecting your personal information.
 When you opt in to receive SMS/text messages from Reformation Strategies, we may collect your mobile phone number and any information you voluntarily provide through our website or forms. ​ ​ How We Use Your Information We use your information to send text messages related to: Campaign information Event reminders Volunteer opportunities Important campaign updates Other information you have requested to receive ​ No Sale or Sharing of Data Your personal information, including your mobile phone number, will never be sold, rented, or shared with third parties for marketing purposes.

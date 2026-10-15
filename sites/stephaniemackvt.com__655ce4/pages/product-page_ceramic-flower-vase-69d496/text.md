@@ -1,4 +1,4 @@
-top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Mack for House T-Shirt $30.00 Price Size * Small Medium Large X-Large XX-Large Quantity * Add to Cart Buy Now Buy a t-shirt to help support my campaign.
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Videos Merch Events Donate Mack for House T-Shirt $30.00 Price Size * Small Medium Large X-Large XX-Large Quantity * Add to Cart Buy Now Buy a t-shirt to help support my campaign.
 Then please wear it aroung to show your support.
 Thank you in advance.
 Product Info I'm a great place to add more information about your product, such as sizing , material , care , and cleaning instructions .

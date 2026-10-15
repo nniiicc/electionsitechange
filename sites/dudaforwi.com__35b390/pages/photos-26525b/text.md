@@ -1,4 +1,4 @@
-REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message SHARE Steve Doelder SHARE Sen.
+REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
 Brienne Brown SHARE Rep.
 Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
@@ -16,7 +16,8 @@ It was great to meet John Steinbrink and Peter Barca.
 #packers‼️ #PackersNation • Oct 6, 2026 · 1 of 3 on Bluesky • I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
 #packers‼️ #PackersNation • Oct 6, 2026 · 2 of 3 on Bluesky • I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
 #packers‼️ #PackersNation • Oct 6, 2026 · 3 of 3 on Bluesky • From the trail Everything else, newest first.
-If you are in the East Troy area on October 13, 2026, please join me at 2894 On Main. • Oct 8, 2026 on Bluesky • We still have signs of various size available.
+Meet John Perryman and myself at the Green Grocer in Williams Bay from 5pm-7pm this Friday October 16th!
+We want to hear what matters most to you! • Oct 14, 2026 on Bluesky • If you are in the East Troy area on October 13, 2026, please join me at 2894 On Main. • Oct 8, 2026 on Bluesky • We still have signs of various size available.
 Let me know if you want one ! • Oct 6, 2026 on Bluesky • It was great to meet Mark Pocan and hear him speak on a panel with Mitchell Berman for Congress , Bob Wirch and Ben DeSmidt on Veterans health benefits.
 Thank you all for your contributions and advocacy for our veterans. • Oct 6, 2026 on Bluesky • @bermanforcongress.bsky.social • Oct 4, 2026 on Bluesky • This is lowest gas price I can find today and this is unacceptable.
 A vote for me is a vote for lower cost-of-living .
@@ -28,4 +29,4 @@ Brienne Brown SHARE Rep.
 Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
 Brienne Brown SHARE Rep.
-Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS endorsements REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 election deadlines Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message $ Give Give in multiples of 11 $11 $22 $33 $55 $77 Paid for by Duda for State Senate District Map Flyer Campaign Photos Privacy PO BOX 191, East Troy, WI 53120 campaign@dudaforwi.com +1 (262) 393-3832 +1 (262) 393-3832 opens in a new tab
+Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENTS endorsements REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29 election deadlines Campaign Newsroom Campaign Events Why I Am Running Endorsements Campaign Photos Interactive Data Tools District Map Legislative Bill Viewer Issues & Platform Connect Call (262) 393-3832 Email the Campaign Add to Contacts Get Involved Volunteer Request a Yard Sign Host an Event Endorse Adam Request Contact Send a Message $ Give Give in multiples of 11 $11 $22 $33 $55 $77 Paid for by Duda for State Senate District Map Flyer Campaign Photos Privacy PO BOX 191, East Troy, WI 53120 campaign@dudaforwi.com +1 (262) 393-3832 +1 (262) 393-3832 opens in a new tab

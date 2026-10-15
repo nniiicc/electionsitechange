@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Risch Continues Strong Lead Against Opponents in New Statewide Scientifically Sound Poll PEAK INSIGHTS TO: Interested Parties FROM: Erik Iverson, President, Peak Insights RE: U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Risch Continues Strong Lead Against Opponents in New Statewide Scientifically Sound Poll PEAK INSIGHTS TO: Interested Parties FROM: Erik Iverson, President, Peak Insights RE: U.S.
 Senator Jim Risch Maintains Wide Lead, Even After Roth Dropped Out to Help Achilles With 81 days left until the election, a recent statewide survey of likely 2026 general election voters (N=500 live calls; MoE +/-4%; Aug.
 11-13, 2026) shows U.S.
 Senator Jim Risch leading by 34 points over his next closest competitor, Todd Achilles.

@@ -1,4 +1,4 @@
-top of page Ralph Groves For Congress DONATE Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
+top of page Ralph Groves For Congress Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
 POSITION PAPERS Gun Ownership in the Context of America’s Social Problems By: Ralph Groves* 15 October 2019, Revised: 24 January 2020 INTRODUCTION The increase of mass shootings in the USA during 2019 compared to 2018 has prompted Americans to examine causes for “gun violence” – as it is popularly called, including by presidential candidates.
 In addition, such violence prompts calls for more restrictions on gun ownership, such as the January 2020 measures in Virginia and a rally in Richmond against restrictions .
 In turn, a manifestation of a severe cultural divide on this issue is found in West Virginia’s invitation to some Virginian counties to secede from Virginia to join West Virginia.

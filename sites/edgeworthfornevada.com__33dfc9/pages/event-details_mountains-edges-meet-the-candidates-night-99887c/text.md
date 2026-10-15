@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Mountain's Edge's Meet the Candidates Night Thu, Oct 15 | 8015 Blue Diamond Rd we will be at the Mountain's Edge's Meet the candidate night.
 Come find our table !
 RSVP Time & Location Oct 15, 2026, 6:00 PM – 8:00 PM 8015 Blue Diamond Rd, 8015 Blue Diamond Rd, Las Vegas, NV 89178, USA About the event we will be at the Mountain's Edge's Meet the candidate night.

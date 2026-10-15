@@ -10,7 +10,7 @@ Mitchell Los Angeles County Supervisor Hilda Solis Los Angeles County Supervisor
 Learn More ABOUT SADE Sade pronounces her name Sha-day (like the singer).
 She is an educator and organizer committed to uplifting the communities of South Los Angeles.
 Learn More About Sade Connect with #TeamSade.
-We’d love to hear your thoughts and suggestions. Δ PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
+We’d love to hear your thoughts and suggestions. Δ SUBMIT PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
 FPPC ID #1458935.
 777 S.
 FIGUEROA ST., SUITE 4050, LOS ANGELES, CA 90017, 323-920-4416

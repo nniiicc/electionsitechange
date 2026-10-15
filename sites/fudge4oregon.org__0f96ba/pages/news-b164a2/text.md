@@ -25,4 +25,4 @@ Read more 25 Apr Saturday, 9:16 PM · 2026 Your Vote Counts - Candidate Intervie
 Recorded interviews are available on YouTube, AppleTV, Roku, and VOD.
 Read more 20 Apr Monday, 6:04 PM · 2026 Who are the candidates for Oregon House District 20?
 Who are the HD20 candidates?
-Read more 15 Mar Sunday, 6:27 PM · 2026 Statesman Journal (Reposted) Three challenging longtime lawmaker… Read more Voter Information District Info (HD 20) Events Photos Contact Privacy Policy Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu
+Read more 15 Mar Sunday, 6:27 PM · 2026 Statesman Journal (Reposted) Three challenging longtime lawmaker… Read more Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

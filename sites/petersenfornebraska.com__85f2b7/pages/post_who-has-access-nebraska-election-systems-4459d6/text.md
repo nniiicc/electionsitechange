@@ -2,7 +2,7 @@ top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting
 Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
 Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE Who Has Access to Nebraska's Election Systems?
-#ago 1 min read A recent federal court fight raises a question Nebraska should answer for itself: Who is permitted to access our election infrastructure?
+Oct 7 1 min read A recent federal court fight raises a question Nebraska should answer for itself: Who is permitted to access our election infrastructure?
 The Department of Homeland Security recently attempted to attach election-security requirements to certain federal homeland-security grants.
 Among the broader conditions were requirements concerning voter-list verification, hand-marked paper ballots , and manual audits.
 A federal judge ruled that FEMA exceeded its authority by attaching those election conditions to the counterterrorism grants.

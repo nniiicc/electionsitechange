@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson North Idaho Notes The Larson Ledger № 3: How Property Tax Elimination Costs You More September 13, 2026 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube North Idaho Notes The Larson Ledger № 3: How Property Tax Elimination Costs You More September 13, 2026 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
 Now they want to eliminate the property tax too.
 The North Idaho Political Paradox September 7, 2026 Are we becoming the mirror image of the liberal states?
 During my business career, I discovered that strongly-held beliefs often drive behavior that leads to the opposite outcomes of what was intended.

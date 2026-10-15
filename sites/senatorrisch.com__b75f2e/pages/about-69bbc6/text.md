@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Meet Jim Risch Get To Know Jim Jim Risch is currently serving his third term as a U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Meet Jim Risch Get To Know Jim Jim Risch is currently serving his third term as a U.S.
 Senator for Idaho.
 As one of the Senate’s most conservative members, he has led the charge to protect Second Amendment rights, oppose wasteful federal spending, and defend Idahoans’ way of life.
 Public Service After receiving his law degree from the University of Idaho, Jim began his career in public service as a prosecuting attorney in Boise.

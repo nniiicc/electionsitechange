@@ -1,9 +1,10 @@
 {
  "description": "Explore los podcasts, apariciones en radio, comunicados de prensa, entrevistas y cobertura de medios de Greg Abdouch para el Distrito 45 de la Asamblea del Estado de California.",
  "final_url": "https://www.abdouchforca.com/es/media",
- "fingerprint": "647dc83ba4e11a2aadb08647612deaa694e6b7ab",
+ "fingerprint": "5f65a536bcff89c22482b871ef77bb81cbd62402",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Medios y Prensa | Greg Abdouch para la Asamblea Estatal",
  "years_mentioned": [
   "2026"

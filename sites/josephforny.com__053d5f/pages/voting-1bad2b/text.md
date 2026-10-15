@@ -22,4 +22,4 @@ Please do not add specific dates to this page.
 Every section is written so that it stays accurate without them.
 COPYRIGHT © # JOSEPH FOR NY.
 ALL RIGHTS RESERVED.
-PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Privacy Policy
+PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Voting | Contact Congressman Privacy Policy

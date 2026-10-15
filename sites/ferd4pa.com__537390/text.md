@@ -23,7 +23,7 @@ It's time to reintroduce common sense and practicality back into politics.
 Let's work together to find the obvious solutions to problems that we all face on both sides of the aisle.
 Endorsements Trust and integrity matter these days.
 The following organizations have endorsed Jeremy.
-Allegheny County Democratic Committee Young Democrats of Allegheny County 3.14 Action Clean Water Action National Democratic Redistricting Committee Conservation Voters Of Pennsylvania Sierra Club Of Pennsylvania SEIU Pennsylvania State Council Political Action Committee For Education (PSEA-PACE) Pennsylvania AFL-CIO Freedom From Religion Foundation Action Fund UAW Region 9 I sincerely appreciate your support.
+Allegheny County Democratic Committee Young Democrats of Allegheny County 3.14 Action Clean Water Action National Democratic Redistricting Committee Conservation Voters Of Pennsylvania Sierra Club Of Pennsylvania SEIU Pennsylvania State Council Political Action Committee For Education (PSEA-PACE) Pennsylvania AFL-CIO Freedom From Religion Foundation Action Fund UAW Region 9 Clean Air Action I sincerely appreciate your support.
 This grassroots campaign is completely funded and fueled by people like you.
 Please consider pitching in to keep the momentum going.
 DONATE Reach Out Connect with Jeremy For questions, concerns, or to learn more about our campaign initiatives, please fill out the form below.

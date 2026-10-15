@@ -1,4 +1,9 @@
-Skip to content Home News & Updates Contact Us Why Does Everything Cost So Much?
+Skip to content Home News & Updates Contact Us Four Years Is Long Enough to Ask – What Changed?
+151 / Mike Four Years Is Long Enough to Ask What Changed By Michael Mason Four years is a long time in Hartford.
+It is long enough to introduce legislation, build relationships, fight for your district and demonstrate what kind of representative you are.
+So, I think it is fair to ask: What did you actually change?
+Not Four Years Is Long Enough to Ask – What Changed?
+Read More » Why Does Everything Cost So Much?
 151 / Mike Why does everything cost so much?
 That may be the most important economic question Connecticut families are asking this election season.
 It is not just groceries.

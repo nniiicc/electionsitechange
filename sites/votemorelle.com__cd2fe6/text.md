@@ -11,4 +11,8 @@ FIXING HEALTH CARE Expanding access to healthcare and lowering costs remains one
 In Congress, Joe has helped lead efforts to end surprise medical billing, lower the cost of prescription drugs, and maintain critical protections for people with preexisting conditions.
 And Joe will continue to fight back against Republican efforts dismantle the Affordable Care Act.
 LEARN MORE FIGHTING FOR US FIGHTING FOR OUR VALUES CONTACT THE CAMPAIGN PHONE: (585) 204-0046 EMAIL: info@votemorelle.com ADDRESS: 1150 University Ave., Bldg.
-5 Rochester, NY 14607 CONTACT Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page
+5 Rochester, NY 14607 CONTACT Absentee Ballot Assistance Are you still waiting for your ballot?
+That's OK!
+We're here to help.
+If you've requested an absentee ballot but haven't received it, let us know.
+Our team will follow up and help connect you with the right people. ​ ​ Get Help with my Ballot Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

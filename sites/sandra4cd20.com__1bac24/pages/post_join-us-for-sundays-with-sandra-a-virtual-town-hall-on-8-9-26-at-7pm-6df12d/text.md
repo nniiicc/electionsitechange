@@ -1,6 +1,7 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Search Join us for "Sundays with Sandra" - A Virtual Town Hall on 8/9/26 at 7PM Team Sandra Aug 3 0 min read Register Here Tags: Community Virtual Town Hall Sundays with Sandra Events Virtual Town Hall Sundays with Sandra Recent Posts See All First Day of Canvassing in Lemoore 9/11/26 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
-Meet & Greet with Congressional Candidate Sandra Van Scotter Thursday, August 20 at 6PM DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer Search Join us for "Sundays with Sandra" - A Virtual Town Hall on 8/9/26 at 7PM Team Sandra Aug 3 0 min read Register Here Tags: Community Virtual Town Hall Sundays with Sandra Events Virtual Town Hall Sundays with Sandra Recent Posts See All # Days to Go!
+First Day of Canvassing in Lemoore 9/11/26 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
+DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.
 A grassroots candidate can only win with grassroots support.

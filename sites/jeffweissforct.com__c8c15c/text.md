@@ -12,4 +12,4 @@ I hope to earn your vote this November.
 See the Issues Cheshire Hamden Wallingford Featured Issue Contain Runaway Property Taxes Connecticut has the 3rd-highest effective property tax rate in the nation.
 Read Jeff’s Position Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

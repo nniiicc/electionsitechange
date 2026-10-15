@@ -1,15 +1,19 @@
-top of page Home Meet Anne News Contact Photos Get Involved All Posts Letter to the Day-Don MacKenzie Anne Santoro is running for state Representative in the 37th District representing East Lyme, Montville and Salem.
-Anne is a graduate of Stanford University and UConn School of Law.
-She is an attorney that has practiced municipal and business law along with an exemplary public service record serving East Lyme as our Deputy First Selectman, the Board of Finance, Chairperson of the ARPA Subcommittee and more.
-She and her husband Fred (local pediatrician) have been residents in #ago Letter to the Day-John Birmingham In our current political environment, there are many challenges.
-To be a legislator today you have to have common sense, be knowledgeable, have ethics and be calm under stress.
-The candidate for the 37th House District, Anne Santoro, has all of these characteristics.
-Anne has served East Lyme as an elected official and community member with distinction, and she will do the same for the 37th District.
-I know this because I have served with her.
-Anne has been quoted as saying, #ago The Lee Elci Show 9.11.26 https://rumble.com/embed/v7d5wne/?pub=4&start=28430 Sep 28 A Letter to the Editor-Dave Schmitt To the Editor: I have observed Anne Santoro as a public official in East Lyme and gotten to know her as an active member of our community.
-Anne will be a very effective legislator for the 37th District and Connecticut.
-She has the knowledge, experience, and work ethic to address the failed policies that have damaged our state’s finances and economy.
-From her service as Deputy First Selectman and member of the Board of Finance, and from her work as a municipal and business att Sep 28 Stay Connected, Hear from Anne on the Campaign Trail Email * Yes, subscribe me to your newsletter.
+top of page Home Meet Anne News Contact Photos Get Involved All Posts Debate Recap by CT Examiner SALEM — In a civil, policy-focused debate at Gardner Lake Firehouse Wednesday night, nearly 100 local residents and politicos from across the region watched and sometimes cheered loudly as State Rep.
+Nick Menapace and his challenger Anne Santoro took questions on electric rates, state budgets, Flock cameras and immigration.
+The debate was moderated by CT Examiner Editor-in-Chief Gregory Stroud.
+The biggest surprise of the debate may have been what wasn’t said or mentioned by #ago Santoro Challenges Menapace for 37th District House Seat Republican Anne Santoro is challenging Democratic incumbent Nick Menapace for the 37th District state representative seat, which includes East Lyme, Salem and Montville.
+If reelected, this will be Menapace's second term.
+He currently teaches part time at New London Adult Education.
+He has also served on the East Lyme Planning Commission since 2023.
+Santoro has a background as an attorney and previously served on the town’s Board of Finance from 2017 to 2021.
+She also was the #ago Letter to The Day-Marshall Collins East Lyme and Salem voters should hold Rep.
+Nick Menapace accountable for receiving bipartisan condemnation for abusive and inappropriate actions at the Capitol.
+Menapace was humiliated by his own Democratic Speaker of the House for internet comments he posted, falsely accusing Rep.
+Greg Howard of harassment.
+Menapace slammed Howard on the internet, not in debate for supporting an amendment opposing Menapace’s position.
+Menapace ranted that Howard harasses people because he i #ago Letter to The Day-William Weber I am supporting Anne Santoro for the 37th House District because it’s refreshing to have a candidate who is both an experienced, knowledgeable professional and also a genuinely principled individual.
+In a political landscape dominated by party scripts and recycled talking points, Anne stands on her own.
+During my time as chairman of the East Lyme Finance Committee, Anne served alongside me and frequently offered thoughtful counterpoints to my positions, just as she did as Dep #ago Stay Connected, Hear from Anne on the Campaign Trail Email * Yes, subscribe me to your newsletter.
 Submit Paid for by Anne Santoro for the 37th.
 Daniel Ruppenicker, Treasurer.
 Approved by Anne Santoro bottom of page

@@ -1,11 +1,10 @@
-Home NEWS!!
-Meet Scott Events Issues Affordable Housing & Childcare Affordable rents & homes Availability of Quality/Safe/Affordable Childcare Recent studies have shown that in order to afford a two bedroom apartment rent, an individual needs to earn approximately $24.50/hour in a full time job.
-Additionally, nationwide, the average age of first time home buyers is age 41!
-To add fuel to the fire, childcare costs have gone through the roof.
-No wonder the younger generation just can't get ahead.
-The current Federal government administration has made so many cuts to agencies that have worked hard to help solve these issues in order to pay for extremely large tax cuts for the top 1% (Billionaires) that State and Local governments have been left holding the bag.
-Ohio's Republican controlled branches of government (for the past 30 years) has followed the lead of Washington and has stayed focused on enriching the wealthy donors and large corporations leaving no room to help the bottom 99% of its citizens. « Previous: Healthcare NEWS!!
-Photos Contact Volunteer Yard Signs Voter Information Visit my Substack publication © #.
+Home Meet Scott Issues Affordable Housing & Childcare Housing & Rents Affordable housing and rents have been an issue across the country for several years.
+I believe there needs to be a comprehensive plan that doesn’t place a “Band-Aid” on the problem but takes into consideration a list of barriers to be adjusted or eliminated to be successful.
+Some these barriers and help ideas include: Local or regional zoning that is outdated or too restricted Outside developers out bidding local organizations on available property No rent controls in place in economic challenged areas Government assistance for first time homebuyers and under paid renters (currently an hourly wage of $24+ is needed to afford a 3-bedroom apartment) Government assistance on providing improvements & repairs to housing that can be available for an affordable price or rent.
+Childcare I feel universal childcare needs to be put into place in this State.
+The current system is broken.
+Overall monitoring, standards implementation, accountability, daycare worker’s employment protections and pay, etc. must be put on a high priority to improve by the legislature.
+There are several States that have successfully implemented universal childcare.
+Ohio needs to learn from those successes. « Previous: Get big money out of politics / stop corruption in State government Next: Education » Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home NEWS!!
-Meet Scott Events Issues Volunteer Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

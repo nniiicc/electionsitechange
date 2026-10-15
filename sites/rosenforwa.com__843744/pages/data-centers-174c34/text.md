@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Data Centers Big Tech takes the power.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Data Centers Big Tech takes the power.
 You get the bill.
 A plan to protect Washington's power, water, and taxpayers.
 Data centers are booming across Washington — and the deal we've made with them is a raw one.

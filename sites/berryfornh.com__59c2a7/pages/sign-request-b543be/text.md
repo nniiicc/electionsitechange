@@ -1,7 +1,8 @@
 Ross Berry State Representative Home About Issues Full Bio Why the Chicken?
-Yard Signs Contact Donate Back to Home Request a Republican Yard Sign Available for homes and properties in Weare and Goffstown, New Hampshire.
+Yard Signs Contact Donate Back to Home Request a Republican Yard Sign Signs for Weare and Goffstown, plus property tax cap and Kelly Ayotte signs anywhere in New Hampshire.
 Website Tell me where to deliver Fields marked with an asterisk are required.
-First name * Last name * Your town * Weare , NH Goffstown , NH Yard signs are available for Weare and Goffstown only.
+First name * Last name * Your town * Weare, NH Goffstown, NH Another NH town Outside Weare and Goffstown?
+Pick Another NH town for a property tax cap or Kelly Ayotte sign.
 Street address * ZIP code * Contact details Both fields are optional.
 How I use your contact information Email and phone are optional, but they help me contact you if I have trouble delivering your sign.
 Your email will never be shared, sold, rented, traded, or given to anyone.

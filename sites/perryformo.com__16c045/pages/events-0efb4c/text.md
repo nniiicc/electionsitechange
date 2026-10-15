@@ -1,3 +1,3 @@
 Volunteer Contribute Contact Issues Events More events coming soon!
-#ago This Week This Month ‹ Previous Wed Oct 14 2026 - Thu Oct 14 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Thu Oct 15 2026 - Fri Oct 15 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Yard Signs Events Contact Committee to Elect Melissa Perry Powered by CampaignPartner.com - Political Websites Volunteer Contribute Contact Issues Close Menu

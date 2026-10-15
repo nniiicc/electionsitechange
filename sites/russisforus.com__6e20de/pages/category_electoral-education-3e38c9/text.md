@@ -6,7 +6,7 @@ For nearly 3 weeks I have been looking for a descent… Electoral Education Infl
 However, the average rate of … Electoral Education God?
 April 9, 2024 0 Comments Why was "God" put into the fabric of America?
 Our founding fathers were not only 'of good heart', but they they were wise.
-They had… Posts pagination Page 1 Page 2 > Table of Contents Recent Posts Uncategorized Andrea Salinas Congressional Record October 1, 2026 Uncategorized, Civic Participation, Electoral Education, Government Policy, Political Analysis Willamette Week 9/29/26 September 29, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+They had… Posts pagination Page 1 Page 2 > Table of Contents Recent Posts Uncategorized Money Wins October 9, 2026 Uncategorized Andrea Salinas Congressional Record October 1, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.
 Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.

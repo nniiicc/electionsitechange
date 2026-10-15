@@ -1,5 +1,5 @@
-Skip navigation menu About Priorities News Endorsements Events Volunteer Donate Volunteer Sign up below to join this movement.
-About Priorities News Endorsements Events Volunteer Donate Volunteer Sign up below to join this movement.
+Skip navigation menu About Priorities Endorsements Events Volunteer Donate Volunteer Sign up below to join this movement.
+About Priorities Endorsements Events Volunteer Donate Volunteer Sign up below to join this movement.
 Sign up to Join the team.
 Join the fight.
 It was the tireless work of our volunteers that led to our victory in March.

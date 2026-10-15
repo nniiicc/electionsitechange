@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Recent Press Releases Oct 9, 2026 Here are the official press releases for these issues: Senator Denise Ricciardi (R-Bedford) filed legislation (LSR 2027-0272) to increase the share of the Meals and Rooms Tax to help keep our communities strong and give local taxpayers more relief.
 Senator Denise Ricciardi (R-Bedford) released the following statement to commemorate Children’s Environmental Health Day, today, Thursday, October 8, 2026.
 Senator Denise Ricciardi (R-Bedford) released the following statement after being named Legislator of the Year by the New England Water Works Association (NEWWA) for championing public policy that ensures safe drinking water for communities across the state.

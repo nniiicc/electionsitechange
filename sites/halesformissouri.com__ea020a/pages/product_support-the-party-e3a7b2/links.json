@@ -32,10 +32,6 @@
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
 {
-"text": "Grey Polo $65.00",
-"href": "https://halesformissouri.com/product/grey-polo/"
-},
-{
 "text": "Home",
 "href": "https://halesformissouri.com"
 },
@@ -64,16 +60,20 @@
 "href": "https://halesformissouri.com/privacy/"
 },
 {
+"text": "Product with Sizes $70.00",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
+},
+{
 "text": "Select options",
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/grey-polo/"
+"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/navy-blue-shirt/"
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "Shop",
@@ -96,16 +96,16 @@
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
 {
-"text": "[image: Grey Polo]",
-"href": "https://halesformissouri.com/product/grey-polo/"
-},
-{
 "text": "[image: Hales for Missouri]",
 "href": "https://halesformissouri.com/"
 },
 {
 "text": "[image: Navy Blue Shirt]",
 "href": "https://halesformissouri.com/product/navy-blue-shirt/"
+},
+{
+"text": "[image: Product with Sizes]",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "[image: Support the Party]",

@@ -2,5 +2,6 @@
 Spooktacular time is here!
 Join Team AMG for this FREE event at the Adderley Amphitheater at Cascades Park for trick-or-treating, costumes, games, food, and a ghoulishly good concert!
 Trick-or-treating starts at 6pm, music starts at 7:30pm.
-Previous Previous October 27 Congressional Candidate Debate Hosted by NEBA Tallahassee Next Next October 31 45th Annual Sunland Fall Festival & Parade TO SEND A CHECK: P.O.
+Previous Previous October 27 NEBA Candidate Forum: U.S.
+House - Florida's 2nd Congressional District Next Next October 31 45th Annual Sunland Fall Festival & Parade TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

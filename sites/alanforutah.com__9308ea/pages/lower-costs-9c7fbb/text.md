@@ -6,7 +6,7 @@ Make sure projects account for the roads, water, power, and public services they
 That is about $7.63 a month.
 Individual bills vary.
 Two $900M caps Separate maximums for the Fairpark stadium contribution and Salt Lake City's downtown sports-and-entertainment district.
-East Bay proposal February 2026 planning documents describe the proposed data center and its estimated power and water needs.
+7–0 on East Bay Provo City Council vote turning down a proposed data center in March 2026, after neighbors raised concerns about water, location and costs.
 What this means for your household Put family budgets first.
 Before the state approves a big incentive, changes the tax code, or sends a cost to local government, we should ask four questions: Who pays?
 Who benefits?
@@ -40,7 +40,7 @@ They do not mean the Legislature wrote a $1.8 billion check or that the full amo
 03 Explain major budget and tax votes in plain language.
 Check the sources Read the public records These are the reports and records behind the claims on this page.
 01 Utah County Auditor Adopted 2025 budget and estimated residential impact ↗ 02 Utah Public Notice Website Original Utah County Truth in Taxation notice ↗ 03 Legislative Auditor General Property-tax accountability and transparency audit ↗ 04 Utah Legislature H.B.
-562 Fairpark stadium-contribution cap ↗ 05 Salt Lake City Council District approval and $900 million maximum ↗ 06 Water & growth plan East Bay and Stratos examples, estimates, and source documents → The two $900 million figures are separate caps with different financing structures.
+562 Fairpark stadium-contribution cap ↗ 05 Salt Lake City Council District approval and $900 million maximum ↗ 06 Water & growth plan What happened at East Bay, the Stratos project, and source documents → The two $900 million figures are separate caps with different financing structures.
 They are not a $1.8 billion state-budget appropriation.
 Evidence last verified August 2026.
 Put affordability first Help take this plan to every doorstep in HD61.

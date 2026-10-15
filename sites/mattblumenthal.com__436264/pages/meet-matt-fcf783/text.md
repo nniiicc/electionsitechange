@@ -20,6 +20,6 @@ He previously served as a supervisor at the Peter Gruber Rule of Law Clinic at Y
 He serves on the Board of Directors for the Boys & Girls Club of Stamford and is a member of the Springdale post of the Veterans of Foreign Wars.
 SIGN UP!
 HOME MEET MATT GET INVOLVED VOTE More Use tab to navigate through the menu items.
-FOLLOW MATT: DONATE Paid for by Matt Blumenthal for CT • Eric B.
+FOLLOW MATT: VOTE Paid for by Matt Blumenthal for CT • Eric B.
 Morson, Treasurer • Approved by Matt Blumenthal Military information or images do not imply the endorsement of the U.S.
 Marine Corps or the Department of Defense. bottom of page

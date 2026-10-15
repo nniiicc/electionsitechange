@@ -1,10 +1,11 @@
 {
- "description": "",
+ "description": "Make your plan to vote for Patty García. Early voting, vote by mail and Election Day info for Chicago, suburban Cook and DuPage, plus a district lookup.",
  "final_url": "https://pattyforillinois.com/vote",
- "fingerprint": "1be1204eb8d874ee815d7a0a8dbdd067ff7345c0",
+ "fingerprint": "6175eca31b7f206777a5814624b1e03e0fe6dbe5",
  "format": 3,
  "paid_for_by": "Paid for by Patty Garcia for Congress",
- "title": "VOTE — Patty Garcia for Congress",
+ "rendered": false,
+ "title": "How to Vote in IL-04: Early, Mail & Nov 3 — Patty Garcia for Congress",
  "years_mentioned": [
   "2026"
  ]

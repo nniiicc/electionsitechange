@@ -20,7 +20,7 @@ Neither did Tiffany.
 She has spent her career pushing through barriers that were never supposed to move and she's not done yet.
 Join us for the Breaking Barriers Dinner on May 20th and make your investment in principled, pro-business leadership for the Maryland State Senate.
 Our community needs to know that those in power are using it to improve their lives for the better.
-VIP Reception guests will enjoy exclusive, intimate access to Maryland State Comptroller Brooke Lierman RSVP TODAY > VOLUNTEER WITH THE CAMPAIGN SIGN UP TODAY > ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy Copyright © # Tiffany Alston - All Rights Reserved.
+VIP Reception guests will enjoy exclusive, intimate access to Maryland State Comptroller Brooke Lierman RSVP TODAY > VOLUNTEER WITH THE CAMPAIGN SIGN UP TODAY > ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy View Terms and Conditions Copyright © # Tiffany Alston - All Rights Reserved.
 By Authority of Friends of Tiffany Alston, Samuel Mensah, Treasurer.
 JOIN THE MOVEMENT!
 The Maryland Senate currently has only one woman representing our region and with her departure, that voice disappears.

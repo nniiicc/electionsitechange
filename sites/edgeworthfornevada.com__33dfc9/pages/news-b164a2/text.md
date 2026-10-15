@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 NEWSLETTERS!
 October Bringing Our Community Together One of the things I have been most focused on is making sure people in our district have opportunities to meet me, ask questions, and get to know the person behind the name on the ballot.
 September was filled with some incredible events!

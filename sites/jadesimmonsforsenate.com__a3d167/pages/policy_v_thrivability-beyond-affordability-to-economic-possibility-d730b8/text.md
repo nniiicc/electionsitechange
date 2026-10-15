@@ -42,7 +42,7 @@ If the answer is no, then we’re not even close to being done.
 We shouldn’t even be asking for your vote.
 Economic policy shouldn’t be about making politicians look good.
 It should be about making your life not just affordable, but thrivable.
-Next A New Era in Education You Might Also Like Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Statement of Belief: Honor God, Serve People Healthcare That Works for People, Not Bureaucracies TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE The Thurgood Marshall Plan STAY UPDATED Let’s Build the Future Together.
+Next A New Era in Education You Might Also Like Statement of Belief: Honor God, Serve People Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Independence from Party Control Humane Immigration Reform and Border Security Women’s Empowerment & A Fresh Take on Life and Choice STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

@@ -5,7 +5,7 @@ Online advertising.
 (Check out your favorite Colorado town at https://www.ourconnectedcommunities.com/CO .) More in-state travel.
 Possibly a movie screening of the 2012 Chilean film “No” – maybe on my birthday.
 The best birthday present would be 1.5 million Coloradans voting for me!
-Plea Kathy Guyton #ago 2 min read Week 33: The Politics of Endorsements and Voter Guides By now, Colorado’s big Blue Book on ballot measures has arrived in voters’ mailboxes.
+Plea Kathy Guyton Oct 7 2 min read Week 33: The Politics of Endorsements and Voter Guides By now, Colorado’s big Blue Book on ballot measures has arrived in voters’ mailboxes.
 Various other voter guides cover candidates and/or may include endorsements.
 Celeste Landry Sep 29 2 min read Week 32: Election Integrity Is Election Security AND So Much More Election integrity – one of my priority issues – may seem synonymous with election security.
 Yet, election integrity is so much more.

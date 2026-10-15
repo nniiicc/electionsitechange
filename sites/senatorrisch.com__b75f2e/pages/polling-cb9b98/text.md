@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Risch Dominates Opponents in New Statewide Scientifically Sound Poll BOISE, ID – A new poll of Idaho voters shows incumbent U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Risch Dominates Opponents in New Statewide Scientifically Sound Poll BOISE, ID – A new poll of Idaho voters shows incumbent U.S.
 Senator Jim Risch holding a commanding, 40-point lead in his re-election race.
 The results, asking a simple ballot question, reveal an unbiased and clear picture.
 If the election for U.S.

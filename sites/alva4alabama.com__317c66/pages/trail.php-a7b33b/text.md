@@ -2,7 +2,11 @@ ALVA LAMBERT for Alabama House District 74 Home Why I'm Running Issues Trail Vol
 Hosted by Nim Frazer and Todd Strange.
 Come meet Alva and talk about the future of District 74.
 Contributions may be made online or mailed to Alva Lambert Campaign, PO Box 4629, Montgomery, AL 36103.
-From the Trail October 2026 Supporting the Arts at MAX Credit Union’s Burger Bash With the MAX Credit Union team in Downtown Montgomery.
+From the Trail October 2026 Two Neighborhood Associations, One Tuesday Night Bellehurst Neighborhood Association.
+Vaughn Meadows Neighborhood Association.
+Vaughn Meadows, later the same evening.
+Tuesday night I was with the Bellehurst Neighborhood Association and then the Vaughn Meadows Neighborhood Association.
+Thank you to both for making room on the agenda, and to everyone who came out on a weeknight. — Alva October 2026 Supporting the Arts at MAX Credit Union’s Burger Bash With the MAX Credit Union team in Downtown Montgomery.
 Great night downtown with the MAX Credit Union team.
 Thanks to everyone who came out to support the arts in Montgomery. — Alva September 2026 A Birthday Well Spent Proud to spend my birthday with the dedicated residents of the Carol Villa Neighborhood Association and the Fox Hollow Neighborhood Association.
 Carol Villa, Tuesday evening.

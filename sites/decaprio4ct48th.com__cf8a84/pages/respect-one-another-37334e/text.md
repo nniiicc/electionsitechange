@@ -5,4 +5,4 @@ It's valuable to understand different perspectives, and if disagreement arises, 
 Through open discussion and dialogue, persuading others to consider alternative viewpoints is possible.
 Back to Values SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

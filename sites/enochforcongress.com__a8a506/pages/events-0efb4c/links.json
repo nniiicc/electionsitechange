@@ -36,20 +36,8 @@
 "href": "https://enochforcongress.com/events/"
 },
 {
-"text": "Export .ics file",
-"href": "https://enochforcongress.com/events/list/?ical=1"
-},
-{
-"text": "Export Outlook .ics file",
-"href": "https://enochforcongress.com/events/list/?outlook-ical=1"
-},
-{
 "text": "Facebook",
 "href": "https://www.facebook.com/1DocEnoch/"
-},
-{
-"text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Home",
@@ -76,6 +64,10 @@
 "href": "https://enochforcongress.com/events/month/"
 },
 {
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
 "text": "October Wooster Corridor Democrats Meeting",
 "href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
 },
@@ -88,20 +80,12 @@
 "href": "https://enochforcongress.com/product/free-yard-sign/"
 },
 {
-"text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress"
-},
-{
-"text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress"
-},
-{
 "text": "Pinterest",
 "href": "https://www.pinterest.com/EnochforCongress/"
 },
 {
-"text": "Previous Events",
-"href": "https://enochforcongress.com/events/list/?eventDisplay=past"
+"text": "September Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/september-meet-greet-at-major-minor-books-such/"
 },
 {
 "text": "Share Your Opinion",
@@ -136,6 +120,18 @@
 "href": "https://enochforcongress.com/voting-in-2026/"
 },
 {
+"text": "[image: Dr. Vanessa Enoch speaking to a community group]",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "[image: Dr. Vanessa Enoch speaking to supporters]",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "[image: Dr. Vanessa Enoch speaking with supporters]",
+"href": "https://enochforcongress.com/event/september-meet-greet-at-major-minor-books-such/"
+},
+{
 "text": "[image: Vanessa Enoch for Congress]",
 "href": "https://enochforcongress.com/"
 },
@@ -146,9 +142,5 @@
 {
 "text": "dr.enoch@enochforcongress.com",
 "href": "mailto:dr.enoch@enochforcongress.com"
-},
-{
-"text": "iCalendar",
-"href": "webcal://enochforcongress.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

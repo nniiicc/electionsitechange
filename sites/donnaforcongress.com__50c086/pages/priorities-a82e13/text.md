@@ -43,4 +43,4 @@ Lewis Veterans & Military Families As chair of the Cook County Veterans Committe
 In Congress, I’ll protect benefits, strengthen the Veterans Administration and ensure every veteran receives the care and respect they’ve earned.
 Protecting Seniors I’ll defend Social Security and expand Medicare and Medicaid so every senior can retire with dignity.
 I’ll also strengthen protections against elder abuse and ensure our aging population receives the dignified treatment they deserve.
-Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress
+Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

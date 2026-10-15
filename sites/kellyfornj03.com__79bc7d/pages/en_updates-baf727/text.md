@@ -2,7 +2,8 @@ Skip to content Ryan Michael Kelly For Congress • NJ-03 About Issues Updates G
 No hype.
 Just progress.
 Sasquatch video series Voting reminders and a dancing bonus.
-Explore the series → All Community Statements Videos Campaign Showing 8 of 34 updates Sasquatch Has a Voter Registration Reminder October 10, 2026 A Halloween surprise with a serious reminder: New Jersey’s voter registration deadline for the November 3 general election is October 13.
+Explore the series → All Community Statements Videos Campaign Showing 8 of 35 updates A 2008 NYPD Disciplinary Decision: Records and Open Questions October 15, 2026 Original documents, the published correction, and a request for clarification about the identity and later disposition.
+Read the records and context → Sasquatch Has a Voter Registration Reminder October 10, 2026 A Halloween surprise with a serious reminder: New Jersey’s voter registration deadline for the November 3 general election is October 13.
 Watch the short video and find the official registration link.
 Watch the Sasquatch video → My Response to the NJ-03 League of Women Voters Forum October 10, 2026 Ryan Michael Kelly responds to issues raised at the October 5 forum, including AI, data centers, electricity costs, immigration and human rights.
 Watch his independently recorded response and the complete League forum.
@@ -28,12 +29,7 @@ I spent nearly 13 years working in DHS's Office for Civil Rights and Civil Liber
 I support restoring CRCL and strengthening civil-rights and civil-liberties oversight so these offices have the resources they need to do their work effectively.
 I also support stronger statutory protections for independent oversight functions so they are much harder for any administration to simply dismantle.
 Government works better when there are institutions empowered to ask hard questions, protect rights, investigate concerns, and hold agencies accountable.
-Direct link: Watch on YouTube Update: Southern Burlington County NAACP Candidate Forum September 21, 2026 Ryan Michael Kelly will not participate in tonight’s Southern Burlington County NAACP candidate forum.
-The campaign apologizes for the late change, especially to anyone who planned to attend to hear from Ryan.
-Ryan remains available to the Southern Burlington County NAACP, its members, and the community to answer questions directly.
-Additional opportunities for NJ-03 residents to meet with Ryan and ask questions will be announced.
-A fuller update will follow.
-Load more updates Paid for by Ryan Michael Kelly for Congress .
+Direct link: Watch on YouTube Load more updates Paid for by Ryan Michael Kelly for Congress .
 Ryan Michael Kelly, Treasurer.
 PO Box 68, Hightstown, NJ 08520 Contact: info@KellyForNJ03.com © 2026 Ryan Michael Kelly for Congress Privacy Accessibility Media Transparency Endorsements Volunteer YouTube Instagram Facebook X Share this campaign Share the Connect page or let someone scan the QR code.
 Share Copy Link Show QR Code

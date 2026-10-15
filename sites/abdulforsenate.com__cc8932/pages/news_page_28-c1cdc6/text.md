@@ -5,7 +5,9 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
+Abdul Blasts Mike Rogers’ call for a federal invasion of Detroit: “Go back to Florida, Mike.” Press Release September 4, 2025 ANN ARBOR, MI – Tonight, U.S.
+Senate Candidate Dr.
+Abdul El-Sayed released the following statement in response to candidate Mike Rogers’ call for a federal invasion of Detroit: “Serving the City of Detroit as its health … El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
 Senate candidate boosts local organizers’ efforts to cancel medical debt in Michigan’s GOP-held CD1 ANN ARBOR, MI – In a bold break from political convention, Dr.
 Abdul El-Sayed announced today that his campaign raised over … Peace Action Backs Abdul El-Sayed for Michigan’s Open U.S.
 Senate Seat Press Release July 30, 2025 Nation’s largest grassroots peace organization says “Abdul’s voice is a rare necessity” ANN ARBOR, MICHIGAN – Today, U.S.

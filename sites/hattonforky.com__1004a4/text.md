@@ -3,12 +3,12 @@ A Leader for House District 67.
 Support Terry for State Rep Donate Today “House District - 67 is looking for a leader that we can trust, and someone who will be our voice in Frankfort.
 We want someone who understands our community and the real-world problems that our district faces.
 We deserve a leader who will work for the people, not one political party.” Vote Terry Hatton on Tuesday, November 3, 2026!
-Learn more Stay In Touch Help Team Hatton By submitting this form and signing up for texts, you consent to receive political marketing text messages from Terry Hatton for State Representative.
-Msg &amp; data rates may apply.
-Msg frequency varies.
-Opt-out by replying STOP.
-Reply HELP for help.
-Privacy Policy [LINK] &amp; Terms &amp; Conditions [LINK].
-Mobile and opt-in data will not be shared with third parties.
+Learn more Stay In Touch Help Team Hatton By entering your phone number and checking the box, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages from Terry Hatton to the phone number you provide.
+Message frequency may vary.
+Msg & data rates may apply.
+Reply HELP for help or STOP to opt out at any time.
+SMS information is not rented, sold, or shared.
+View Terms & Conditions and Privacy Policy .
 PAID FOR BY TERRY HATTON FOR STATE REPRESENTATIVE © # Hatton for State Representative.
 All Rights Reserved.

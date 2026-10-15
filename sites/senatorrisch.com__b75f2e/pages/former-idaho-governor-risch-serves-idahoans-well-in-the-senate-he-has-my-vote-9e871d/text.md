@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu FORMER IDAHO GOVERNOR: “RISCH SERVES IDAHOANS WELL IN THE SENATE.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu FORMER IDAHO GOVERNOR: “RISCH SERVES IDAHOANS WELL IN THE SENATE.
 HE HAS MY VOTE.” Sen.
 Jim Risch and I have traveled much of the same road in Idaho politics and public service.
 We each served in the Legislature, as lieutenant governor, governor and in the U.S.

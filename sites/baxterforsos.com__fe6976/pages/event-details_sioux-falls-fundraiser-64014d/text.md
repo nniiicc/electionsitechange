@@ -1,4 +1,4 @@
-top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE Sioux Falls Fundraiser Thu, Sep 17 | South Dakota Military Heritage Alliance, Join Heather at the Hotel Alex Johnson for a campaign fundraiser!
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions DONATE Sioux Falls Fundraiser Thu, Sep 17 | South Dakota Military Heritage Alliance, Join Heather at the Hotel Alex Johnson for a campaign fundraiser!
 Hosted by: Rep.
 Tony Kayser Rep.
 Aaron Alyward Rep.
@@ -6,5 +6,5 @@ Tesa Schwans Comfort King Senator Sue Peterson John Kunnari Fishbach Famil Assma
 Hosted by: Rep.
 Tony Kayser Rep.
 Aaron Alyward Rep.
-Tesa Schwans Comfort King Senator Sue Peterson Show More Share this event HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+Tesa Schwans Comfort King Senator Sue Peterson Show More Share this event HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

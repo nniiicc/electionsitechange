@@ -1,4 +1,4 @@
-0 Skip to Content Wesley Haffenden for Indiana Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union Open Menu Close Menu Wesley Haffenden for Indiana Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union Open Menu Close Menu Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union No Distractions.
+0 Skip to Content Wesley Haffenden for Indiana Donate Home About Platform Volunteer Quarry Statements Endorsements Form a Union Register to Vote Open Menu Close Menu Wesley Haffenden for Indiana Donate Home About Platform Volunteer Quarry Statements Endorsements Form a Union Register to Vote Open Menu Close Menu Donate Home About Platform Volunteer Quarry Statements Endorsements Form a Union Register to Vote No Distractions.
 No Division.
 Let’s Get to Work.
 Our current leaders are experts at distraction and division while doing nothing to make life better for working Hoosiers .

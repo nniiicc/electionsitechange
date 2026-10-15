@@ -1,7 +1,7 @@
 [
 {
-"text": "Domain Registration",
-"href": "https://www.bluehost.com/domains?channelid=P99C100S1N0B3003A151D115E0000V112"
+"text": "Dedicated Hosting",
+"href": "https://www.bluehost.com/dedicated-hosting?channelid=P99C100S1N0B3003A151D115E0000V112"
 },
 {
 "text": "Login to WordPress",
@@ -10,5 +10,17 @@
 {
 "text": "Powered by Bluehost",
 "href": "https://www.bluehost.com/wordpress?channelid=P99C100S1N0B3003A151D115E0000V112"
+},
+{
+"text": "Shared Hosting",
+"href": "https://www.bluehost.com/shared-hosting?channelid=P99C100S1N0B3003A151D115E0000V112"
+},
+{
+"text": "VPS Hosting",
+"href": "https://www.bluehost.com/vps-hosting?channelid=P99C100S1N0B3003A151D115E0000V112"
+},
+{
+"text": "WordPress Hosting",
+"href": "https://www.bluehost.com/wordpress-hosting?channelid=P99C100S1N0B3003A151D115E0000V112"
 }
 ]

@@ -1,4 +1,4 @@
-Platform Donate Get Involved Platform Donate Get Involved Our Platform PLATFORM Fighting for you.
+Platform Free Yard Sign Donate Get Involved Platform Free Yard Sign Donate Get Involved Our Platform PLATFORM Fighting for you.
 As your next state representative, Arshia will fight for the people, protect our planet, and advocate for peace.
 Affordability Freeze The Rent Texans continue to suffer at the helm of inflated housing costs.
 For too long bad landlords have squeezed tenants for higher rents.

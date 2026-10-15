@@ -1,6 +1,9 @@
 Donate now!
 Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
-Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive “He Knows My Name Is Abdul.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive Mike Rogers To (FINALLY) Debate Dr.
+Abdul El-Sayed Press Release October 8, 2026 MICHIGAN – Today, after spending weeks dodging debate after debate, Mike Rogers will finally appear for a debate with Dr.
+Abdul El-Sayed in Grand Rapids.
+“Tonight on the debate stage, the contrast between Mike Rogers and … “He Knows My Name Is Abdul.
 He Says It Every Day”: Dr.
 Abdul El-Sayed Responds To Trump’s Remarks Press Release October 8, 2026 MICHIGAN – Ahead of tonight’s U.S.
 Senate debate, Dr.
@@ -24,7 +27,7 @@ Abdul El-Sayed for U.S.
 Senate Press Release October 5, 2026 Endorsement adds to growing coalition of environmental protection organizations backing Abdul MICHIGAN – Today, the Michigan Chapter of the Sierra Club announced its endorsement of Dr.
 Abdul El-Sayed for U.S.
 Senate.
-The Michigan chapter of the … ONE MONTH OUT—Abdul For Senate Campaign On The State Of The Race Press Release October 5, 2026 ABDUL CAMPAIGN MANAGER SAYS GOP “HAS NEVER GONE UP AGAINST CANDIDATE LIKE ABDUL” WHO “BEAT THE ODDS BEFORE, AND HE WILL DO IT AGAIN.” CAMPAIGN HAS MOMENTUM AND MOVEMENT TO OVERCOME BILLIONAIRE MAGA DARK MONEY MACHINE … « Previous 1 2 3 4 … 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+The Michigan chapter of the … « Previous 1 2 3 4 … 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

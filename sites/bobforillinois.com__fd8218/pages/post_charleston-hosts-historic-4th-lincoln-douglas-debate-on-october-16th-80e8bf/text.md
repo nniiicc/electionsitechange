@@ -1,4 +1,4 @@
-top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search All Posts safe t act Search Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th #ago 3 min read by Team Fioretti Charleston, Illinois, will host Bob Fioretti's fourth event in a seven-debate series modeled on one of the state’s best-known political traditions when candidates and community members gather.
+top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search All Posts safe t act Search Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th Oct 8 3 min read by Team Fioretti Charleston, Illinois, will host Bob Fioretti's fourth event in a seven-debate series modeled on one of the state’s best-known political traditions when candidates and community members gather.
 Join us on Friday, Oct.
 16, from 1:30 to 3:30 p.m. at the Lincoln-Douglas Debate Museum Auditorium.
 The event is part of Bob Fioretti's planned series scheduled during the same historic time frame as the Lincoln-Douglas debates of 1858.
@@ -35,7 +35,8 @@ Bob Fioretti believes this overall effort as a way to promote civility, public a
 Event information for attendees The fourth debate will be held: Lincoln-Douglas Debate Museum Auditorium Charleston, Illinois Friday, Oct.
 16 1:30 to 3:30 p.m.
 For more information, contact KAT@BobforIllinois.com or 773-828-9696.
-Recent Posts See All 3 Weeks Left: Help Bob Fioretti Cross the Finish Line Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Recent Posts See All Join Us for Our Road to Victory Final Event before Election Day!
+3 Weeks Left: Help Bob Fioretti Cross the Finish Line Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

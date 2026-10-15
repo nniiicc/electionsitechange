@@ -99,6 +99,8 @@ The office belongs to the people of Nevada.
 As voters consider their choices, they should look for calm judgment, documented plans, and a willingness to be measured by results.
 A well-run election is not a partisan prize.
 It is a public promise kept for every Nevada voter.
+Candidates owe voters a standard they can be measured against after the election, too.
+Here’s mine: I’ll Hold My Office to the Same Standard I Held Theirs .
 I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
 Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
 If not, it’s time to take a closer look.
@@ -106,6 +108,6 @@ Get to know me · Join the campaign · Donate · See all policy positions I’m 
 I’m asking you to hold the office accountable for solving real problems.
 That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Post navigation Previous Previous post: How Nevada Election Audits Build Voter Confidence Next Next post: Secure Ballot Counting in Nevada Starts Here footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -17,14 +17,18 @@ Detalles abajo.
 3 NOV · 8 P.M.
 Día de la elección Su boleta debe estar en un buzón, en un centro de votación o recibida por la oficina electoral del condado antes de las 8 p.m.
 Si ya es la última semana, no la mande por correo: use un buzón.
-También en su boleta Cómo votaré sobre las enmiendas.
+En la guía electoral de The Salt Lake Tribune El Tribune preguntó.
+Yo respondí.
+The Salt Lake Tribune les preguntó a los candidatos del Distrito 61 de la Cámara cuál es su posición.
+Esto es lo que respondí.
+GOBIERNO LIMPIO “La gente está cansada de apenas salir adelante mientras los políticos se dan la gran vida.” Lo que haré No aceptar dinero de grandes PAC ni de corporaciones Publicar cada reunión con cabilderos en internet Poner límites a las contribuciones de campaña Compromisos de gobierno limpio → COSTO DE VIDA “Mis tres hermanos se fueron de Utah porque no podían pagar una vivienda, y no quiero que se vayan más familias.” Lo que haré Reformar la zonificación para construir más casas para primeros compradores Exigir aprobación estatal para los grandes aumentos de seguros Reducir el impuesto sobre los comestibles y luego trabajar para eliminarlo Plan de asequibilidad → AGUA Y EL GRAN LAGO SALADO “Nuestro lago debe estar aquí para que lo disfruten las generaciones futuras.” Lo que haré Ayudar a los agricultores a cambiar a sistemas de riego más eficientes Exigir que los centros de datos revelen su consumo de agua y energía Proteger el derecho de los residentes a un referéndum Plan de agua y crecimiento → También en su boleta Cómo votaré sobre las enmiendas.
 Este año, todas las boletas de Utah incluyen dos cambios propuestos a la constitución estatal.
 Esta es mi posición.
 ENMIENDA A · VOTARÉ EN CONTRA Hace más difícil encontrar la información La Enmienda A dejaría de publicar las enmiendas propuestas en periódicos de todo el estado y las pondría en sitios web del estado.
 Quiero que siga siendo fácil para todos ver lo que están votando.
 ENMIENDA B · VOTARÉ EN CONTRA No cambiar las reglas del juego a los votantes Exigiría el 60% de los votos para las iniciativas ciudadanas que creen o aumenten un impuesto.
 Cuando la propia Legislatura aumenta impuestos, solo necesita una mayoría simple.
-Por qué votaré en contra de ambas → Nuevo este año No confíe en el matasellos.
+Por qué votaré en contra de ambas → Lea la guía electoral completa en sltrib.com (en inglés) ↗ Nuevo este año No confíe en el matasellos.
 Utah cambió la ley.
 Las boletas por correo solo cuentan si la oficina electoral del condado las recibe antes de las 8 p.m. el día de la elección.
 Las que llegan después no se cuentan, aunque se hayan enviado a tiempo.

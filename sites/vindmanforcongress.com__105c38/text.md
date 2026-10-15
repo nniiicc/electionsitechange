@@ -13,17 +13,21 @@ Iraq War Veteran.
 Eugene Vindman is a father, husband, immigrant, and veteran running to serve the communities of Virginia in the Halls of Congress.
 Eugene dedicated his life to serving America, the country that gave his family so much.
 Meet Eugene Meet Eugene Stand with Vindman FOR CONGRESS $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-Recent News and Press UPDATES Eugene’s Vision for Virginia ISSUES Volunteer with Team Vindman Take Action Cindy and I had a great time with the Stafford Democrats this weekend!
+Recent News and Press UPDATES Eugene’s Vision for Virginia ISSUES Volunteer with Team Vindman Take Action The latest inflation report doesn't lie.
+Prices surged in September, with inflation climbing to 3.7%.
+American...
+Happy 251st birthday to the @USNavy !
+For more than two centuries, our sailors have answered the call to serve,...
+Cindy and I had a great time with the @Stafford_Dems this weekend!
+With Election Day around the corner, it's g...
+Cindy and I had a great time with the Stafford Democrats this weekend!
 With Election Day around the corner, it...
 Always great to be in Stafford!
 Enjoyed catching up with folks and greeting voters.
-Go vote, Virginia! 🇺🇸 Today, we kicked off our Closing Arguments Tour in Culpeper with an incredible group of volunteers ready to kn...
-Politicians should not be making women's health care decisions for them.
-I will always stand up for abortion r...
-Politicians should not be making women's health care decisions for them.
-I will always stand up for abortion r...
-It was great to have Congresswoman Jasmine Crockett in VA-07 getting folks ready to turn out and vote this Nov...
-DONATE NOW AND STAND WITH EUGENE VINDMAN $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Go vote, Virginia! 🇺🇸 http...
+Always great to be in Stafford!
+Enjoyed catching up with folks and greeting voters.
+Go vote, Virginia! 🇺🇸 DONATE NOW AND STAND WITH EUGENE VINDMAN $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 JOIN THE TEAM Email Address Zip Code Phone .
 By submitting your mobile phone number you are agreeing to receive periodic text messages from Vindman for Congress.
 Messages include donation asks.

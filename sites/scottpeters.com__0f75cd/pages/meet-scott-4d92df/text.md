@@ -1,40 +1,68 @@
-Meet Scott About Scott Accomplishments Awards Issues Jobs & the Economy Health Care Medicare & Social Security Veterans Energy & the Environment Education Equal Rights Immigration Keeping Americans Safe Biden Administration Fix Congress Endorsements Supporters Elected Officials Organizations AAPI Community News TV Ads Photo Gallery Hi-Resolution Photos Press Inquiries Get Involved Donate Meet Scott Issues Endorsements News Scott Peters for Congress About Scott Peters A Proven Leader Scott Peters is a proven leader with a track record of working with everyone to achieve common sense solutions and get things done.
-Since becoming a member the U.S.
-House of Representatives in 2013, his priorities have been to fix a broken Congress, create high-quality jobs, keep America safe, keep our promises to our veterans, make college more affordable for middle-class families, ensure every American has clean air and water, and enact comprehensive immigration reform.
-Scott has a solid reputation as someone who is willing to reach across the aisle and achieve bipartisan solutions to tough problems.
-While many in Washington seem more interested in political gamesmanship and blaming others for the problems we face, Scott has forged a different path.
-He’s introduced multiple bills to make college more affordable, become a nationally recognized leader in the fight to reduce gun violence, has been a strong voice for our nation’s military, become a global leader on climate action, and has repeatedly stood up to attempts to take away a woman’s right to make her own healthcare decisions.
-Standing Up for What’s Right Scott learned the importance of standing up for what’s right from his father, a now-retired Lutheran minister, who worked for housing desegregation and improved race relations after riots ravaged Detroit in the 1960s.
-He’s taken those values to Congress – standing up for Voting Rights, full LGBT equality, and for protecting Dreamers and immigrants.
-He was recognized as one of the most articulate voices on the House Judiciary committee arguing against Republicans who tried to defund Planned Parenthood and allow employers to deny coverage for basic women’s health care, like birth control.
-He’s also been a staunch and outspoken advocate for getting the vast sums of special interest money out of politics, limiting the influence of secret SuperPACs and returning government to We The People.
-Scott has been endorsed by End Citizen’s United and the US Campaign .
-Read more about Scott’s work to reform government.
-Making College More Affordable As the son of a minister and a secretary who needed student loans and work-study programs to get through college, Scott has worked to expand educational opportunities by helping to pass a law to lower student loan interest rates and by ensuring his bipartisan bill to provide tax breaks to employers who help their employees pay off their debt became law.
-Greater Economic Opportunity for All In Congress, Scott Peters has been a leading voice for more investment in San Diego’s science, engineering, biotechnology, and research to create the high-wage jobs of the future.
-Scott has advocated for record high increases in funding for basic scientific research through the National Institutes of Health, which funds research at many San Diego labs and universities, and he voted to extend tax credits that incentivize private sector investment in wind and solar energy to support San Diego’s renewable energy industry.
-Scott also forced a delay of the medical device excise tax that would hurt San Diego innovators, and led Democrats and Republicans to secure almost $450 million for the San Diego border crossing that regional business leaders called San Diego’s top priority for job creation.
-The improved crossing will strengthen border security and create thousands of jobs by improving the flow of trade and commerce.
-The San Diego Regional Chamber of Commerce and Downtown San Diego Partnership , who advocate for job creation and supporting San Diego’s innovation economy, have endorsed Scott.
-Read more about Scott’s work to grow our economy.
-His Background Before being elected to Congress, Scott served as chair of the San Diego Unified Port District – a major economic engine that produces tens of thousands of high-skill, high-wage jobs for San Diegans.
-The Port manages the state tidelands in and around San Diego Bay, which produces billions of dollars in direct economic impact to the region and supports middle class jobs for more than 40,000 San Diegans.
-Scott served at the Port after completing two terms on the San Diego City Council, where he was San Diego’s first City Council President, elected to the role three years in a row by his colleagues.
-While at the City, Scott pursued greater accountability and efficiency in government.
-He led the creation of a new council/mayor form of government with an independent budget review function; created an independent audit function; hired the City’s first independent budget analyst; completed over $2 billion in downtown redevelopment including a new major league ballpark that generated more than 19,000 jobs; delivered an 80% reduction in sewer spills and beach closure days; set new standards for energy and water conservation in new development; and completed major district infrastructure, including Highway 56.
-Prior to entering public service, Scott had a 16-year legal career in private practice, specializing in environmental law.
-He worked as an associate at large law firms, as a Deputy County Counsel for the County of San Diego, and had his own small law firm.
-Scott has also worked extensively as a leader to grow our economy, improve education, and protect the environment, including service as a member of the boards of the San Diego Regional Economic Development Corporation, CleanTECH San Diego, the UCSD Chancellor’s Community Advisory Board, and as Chair of the Climate Initiative at The San Diego Foundation.
-Scott earned his undergraduate degree from Duke University and worked as an economist for the United States Environmental Protection Agency before attending New York University School of Law.
-He and his wife of 34 years, Lynn, are 30+ year residents of the now 50th District.
-They live in La Jolla and have a grown daughter and son.
-Scott Peters for CA 50 Get Involved Sign up to our newsletter and stay up to date with the campaign.
-Address PO Box 22074 San Diego, CA 92192 Phone (858) 848-7515 Email [email protected] ©# Scott Peters for Congress Contact Privacy Policy Paid for by Scott Peters for Congress Get Updates Get Updates Get Involved Get Involved Donate Now Donate Now Share Share Tweet Email California District 52 Is Scott your Representative in Congress?
-Type in your address to find out.
-You are in District 52!
-For more ways to help, please check out the link below: Get Involved Not in this district!
-According to our data, you are not in District 52!
-Please verify this information at the CA Dems website!
-CA Dems Go!
-The data here is provided by 3rd-party services.
-For best results, please visit CA Dems
+Ballots are in the mail.
+Vote by 8 p.m.
+Tuesday, Nov.
+3.
+Make your plan to vote → FOR CONGRESS · CA-50 Meet Scott Accomplishments Priorities Endorsements News Get Involved Donate Meet Scott Peters Environmental lawyer.
+San Diego's first City Council President.
+Port Chair.
+U.S.
+Congressman.
+Scott Peters has spent decades fixing things for San Diego, not fighting over them.
+CA-50 He's always believed government should work for people, not politics.
+Scott learned early that making a difference means standing up for what you believe in, then doing the hard work to make it happen.
+Download Scott's Headshot Where It Started Raised on public service.
+His father, a Lutheran minister, worked on housing desegregation and race relations in Detroit during the turbulent 1960s.
+His mother worked as a secretary and got through college on student loans and work-study.
+Those experiences shaped Scott's belief that opportunity should be open to everyone, and that public service is about improving people's lives.
+After Duke University, he worked as an economist at the U.S.
+Environmental Protection Agency, then earned his law degree at NYU.
+He came to San Diego more than #ago and spent 16 years practicing environmental law, including as a Deputy County Counsel for San Diego County and running his own small firm.
+City Council & the Port Getting San Diego moving.
+Before Washington, Scott spent eight years on the San Diego City Council representing La Jolla and other northern neighborhoods in the city of San Diego, and his colleagues made him the city's first Council President three years running.
+His focus sounds simple but often isn't: making government work better. $2B+ in downtown redevelopment, including Petco Park 19,000+ jobs generated by the new ballpark district 80% fewer San Diego sewer spills and beach closure days 1st independent budget analyst in city history He also changed how City Hall works.
+He helped give San Diego a strong mayor and a City Council that holds the budget accountable, brought in independent auditors to follow the money, hired the city's first Independent Budget Analyst, and made sure new buildings save energy and water.
+You can still see it from the car window.
+Before Congress, Scott's record wasn't a list of bills.
+It was roads, schools, parks and beaches San Diegans use every day.
+Highway 56 Fifteen years overdue when Scott took it on.
+He pushed it to the finish line in 2004, connecting thousands of families to their jobs.
+Canyon Crest Academy Torrey Pines High was packed past 3,000 students.
+Scott got City Hall moving so Carmel Valley's second high school opened on time.
+TransNet Helped build and pass the extension that put $14 billion into San Diego roads and transit.
+It won by about 3,000 votes countywide.
+Family-friendly beaches After the Mission Beach riot, Scott banned drinking on city beaches, then won the vote to make it permanent.
+Smoke-free sand Teamed up with Surfrider and the Lung Association to ban smoking in city parks and on the beach.
+Fewer butts in the sand.
+24 parks Twelve brand-new parks plus major upgrades across his council district, including the Nobel park and library in University City.
+The SuperLoop University City's job center had no transit at all.
+Scott helped create the SuperLoop, and demand was so strong it expanded.
+Peñasquitos Skate Park Ended a six-year neighborhood fight by getting Caltrans to hand over surplus land.
+Teens got a skate park, and Hilltop Park stayed quiet.
+At the Port Growing San Diego's economy As Chair of the San Diego Unified Port District, Scott oversaw the state tidelands in and around San Diego Bay, which generate billions in economic impact and support middle-class jobs for more than 40,000 San Diegans.
+When the Port started spending more than it took in, he cut $26 million in costs without a single layoff.
+In the Community Leading beyond the job title Scott has served on the boards of the San Diego Regional Economic Development Corporation, CleanTECH San Diego, and the UCSD Chancellor's Community Advisory Board, and chaired the Climate Initiative at The San Diego Foundation.
+In Congress Same approach, bigger stage.
+In 2013, Scott brought that same approach to Congress, and built a reputation for working across party lines when it gets results for San Diego.
+His plan became the blueprint for letting Medicare negotiate drug prices.
+His law gave every Purple Heart recipient full GI Bill benefits.
+And this year, his housing law made it cheaper to build homes people can afford.
+Most of his two dozen-plus laws had a Republican partner.
+Some of it is personal.
+The guy who worked his way through college on student loans wrote the law that lets employers help pay off their workers' student debt, tax-free.
+Scott has never believed the right letter next to your name is enough.
+The job is to listen, find common ground when you can, stand your ground when you have to, and get something done.
+See everything he's gotten done → Looking Ahead Why he’s running again.
+San Diego families are being squeezed by the cost of living.
+Housing is out of reach for too many people.
+Sewage from Mexico still closes our beaches in the South Bay.
+And the climate is changing faster than Washington is.
+San Diego needs someone who knows how to get people in a room, work through the hard stuff and come out with results.
+Someone who cares less about whose idea it was, and more about whether it works.
+Scott and Lynn, his wife of 40 years, live in La Jolla and have called the 50th District home for more than three decades.
+They have a grown daughter and son and recently welcomed a new grandchild.
+Join the team Knock doors, make calls, put up a yard sign.
+From here to Nov.
+3, every hour counts.
+Volunteer → Fuel the finish Every dollar goes straight to reaching voters before Nov.
+3.
+Donate on ActBlue → Scott Peters for Congress PO Box 22074, San Diego, CA 92192 (858) 848-7515 · info@scottpeters.com Meet Scott Priorities Endorsements News Join the Team Press Inquiries Facebook Instagram X / Twitter YouTube Paid for by Scott Peters for Congress © # Scott Peters for Congress · Privacy Policy Union-made website by members of IATSE via Union Built Digital

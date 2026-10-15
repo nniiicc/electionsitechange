@@ -4,7 +4,8 @@ If you've saved your information with ActBlue Express, your donation will go thr
 Learn More Learn More ISSUE Cost of Living In his first term, Governor Josh Green delivered the biggest tax cut for the middle class in Hawaii state history.
 ISSUE Affordable Housing Governor Green is also bringing down housing costs for everyone in Hawaii.
 ISSUE Homelessness Since 2022, Josh has made the largest investment in reducing homelessness in Hawaii state history.
-Latest News Stay updated with the campaign by following us on Facebook , Twitter , and Instagram , or check out our recent News .
-Governor Josh Green explains how kauhale are reducing homelessness, bringing hope, and saving taxpayers over $100 million in Hawaii.
-#TrustedCaringLea...
-#ago A Housed and Healthy Hawai’i: Charting a “Housing is Healthcare” Model for Preventing and Addressing Homelessness #ago Take Action Volunteer Volunteer Donate Donate Home Meet Josh Issues News Store Donate Facebook X-twitter Instagram Youtube Contact Us: [email protected] Contact Us Accessibility Privacy Policy PAID FOR BY JOSH GREEN FOR HAWAII, PO BOX 88 HONOLULU HI 96810 Powered by Apollo Home Meet Josh Issues News Store Home Meet Josh Issues News Store Volunteer Volunteer Donate Donate Facebook-f Twitter Instagram Youtube Support Josh Today! $ 50 $ 50 $ 500 $ 500 $ 2,000 $ 2,000 $ 100 $ 100 $ 1,000 $ 1,000 CHIP IN CHIP IN CONTINUE TO WEBSITE CONTINUE TO WEBSITE
+Latest News Stay updated with the campaign by following us on Facebook , X , and Instagram , or check out our recent News .
+Mahalo to HGEA for proudly endorsing Governor Josh Green for re-election this year!
+Please make your voice heard and vote by November 3rd.
+#HGEA #Vote...
+#ago A Housed and Healthy Hawai’i: Charting a “Housing is Healthcare” Model for Preventing and Addressing Homelessness #ago Take Action Volunteer Volunteer Donate Donate Home Meet Josh Issues News Store Donate Facebook X-twitter Instagram Youtube Contact Us: [email protected] Contact Us Accessibility Privacy Policy PAID FOR BY JOSH GREEN FOR HAWAII PO BOX 88 HONOLULU HI 96810 Powered by Apollo Home Meet Josh Issues News Store Home Meet Josh Issues News Store Volunteer Volunteer Donate Donate Facebook-f Twitter Instagram Youtube Support Josh Today! $ 50 $ 50 $ 500 $ 500 $ 2,000 $ 2,000 $ 100 $ 100 $ 1,000 $ 1,000 CHIP IN CHIP IN CONTINUE TO WEBSITE CONTINUE TO WEBSITE

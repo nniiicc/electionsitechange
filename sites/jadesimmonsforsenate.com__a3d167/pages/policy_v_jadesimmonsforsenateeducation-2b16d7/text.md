@@ -66,7 +66,7 @@ A New Standard for Education Opportunity should not be limited by background, zi
 A strong education system should help the struggling student gain traction, the overlooked student regain confidence, and the exceptional student reach extraordinary heights.
 As your Senator, I will fight for an education system that works for every student, every worker, and every family by building the coalitions and helping pass the laws needed to make that vision real.
 This is how we restore education: not by lowering expectations or managing decline, but by unlocking potential, restoring possibility, and building a culture of excellence for all.
-Previous Thrivability: Beyond Affordability to Economic Possibility Next Independence from Party Control You Might Also Like Healthcare That Works for People, Not Bureaucracies Statement of Belief: Honor God, Serve People TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Humane Immigration Reform and Border Security Independence from Party Control STAY UPDATED Let’s Build the Future Together.
+Previous Thrivability: Beyond Affordability to Economic Possibility Next Independence from Party Control You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice Healthcare That Works for People, Not Bureaucracies Statement of Belief: Honor God, Serve People Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

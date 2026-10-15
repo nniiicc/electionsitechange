@@ -18,6 +18,6 @@ Senate in Colorado.
 He served as an officer on a U.S.
 Navy attack submarine, built a successful engineering and technical services company, created hundreds of American jobs with his business, and is running to bring fiscal seriousness and independent problem-solving to Washington.
 ### Categories: Press Release Post navigation Previous post Colorado Center Party Endorses Bob Chew Candidate for U.S.
-Senate in Colorado Search for: Categories Endorsements Press Release For inquiries, email: [email protected] Military images and information do not imply endorsement by the U.S.
+Senate in Colorado Post navigation Next post The Center Party Proudly Endorses Bob Chew for United States Senate in Colorado Search for: Categories Endorsements Press Release For inquiries, email: [email protected] Military images and information do not imply endorsement by the U.S.
 Department of Defense or any service branch.
 PAID FOR BY BOB CHEW FOR SENATE

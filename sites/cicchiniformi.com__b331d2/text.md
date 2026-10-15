@@ -4,7 +4,7 @@ Use tab to navigate through the menu items.
 JOIN ME PARTY'S OVER.
 TIME FOR INDEPENDENCE.
 Committed to putting the people of Michigan above party politics.
-GET INVOLVED ELECTION DAY: NOVEMBER 3, 2026 MICHIGAN STATE SENATE DISTRICT 9 TROY, ROCHESTER, ROCHESTER HILLS, UTICA, AND PARTS OF STERLING HEIGHTS, SHELBY TOWNSHIP, AND OAKLAND TOWNSHIP A portion of my response regarding data centers at the District 9 Candidates Forum hosted by the League of Women Voters of Troy on October 8, 2026.
+GET INVOLVED ELECTION DAY: NOVEMBER 3, 2026 MICHIGAN STATE SENATE DISTRICT 9 TROY, ROCHESTER, ROCHESTER HILLS, UTICA, AND PARTS OF STERLING HEIGHTS, SHELBY TOWNSHIP, AND OAKLAND TOWNSHIP VOTE FOR PHILIPPE CICCHINI A portion of my response regarding data centers at the District 9 Candidates Forum hosted by the League of Women Voters of Troy on October 8, 2026.
 Other issues relevant to Michigan voters discussed at the forum included education, healthcare, federal overreach, and protecting vulnerable individuals from electronic fraud.
 For the full discussion on YouTube, click here .
 (V ideo starts at 4:15 mark.) WHY I'M RUNNING My background and call to serve READ MORE WHERE I STAND My approach to the issues READ MORE LET'S DO THIS TOGETHER Volunteer | Donate | Merch READ MORE 45% of Americans identify as Independent.

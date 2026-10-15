@@ -4,7 +4,7 @@ There has never been a better a time to participate in our democratic process.
 Join Team Cinde and help send this Ph.D. to D.C.!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Phone Comment Message Name First Last Email Phone Number How can you help?
+How Email or Name First Last Email Phone Number How can you help?
 Host a party with your friends, neighbors and Cinde as a special guest Join our canvassing team and knock on doors in your community Make phone calls to voters in the Sixth District Analyze voter data Write postcards to get out the vote Pass out yard signs Donate stamps Comment or Message Submit Thank you for visiting!
 This website is paid for by C.
 Wirth for Congress Facebook Instagram TikTok Threads Quick Links Meet Dr.

@@ -1,4 +1,6 @@
-Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Jobs Scheduler Location: Washington, D.C.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Jobs Please view open positions for Claire's presumptive congressional office below.
+If you do not see a position that interests you, you are welcome to submit your resume to our resume bank here .
+Scheduler Location: Washington, D.C.
 Claire Valdez, Democratic nominee for NY-7 and presumptive incoming Congressperson, is seeking a Scheduler for her congressional office.
 The Scheduler is responsible for managing the Member’s calendar and binder, including incoming requests, travel, and advance.
 This is a high-trust role that liaises daily with the Member and reports to the Chief of Staff.

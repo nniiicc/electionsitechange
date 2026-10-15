@@ -4,7 +4,7 @@ First Name Last Name Email Address I'M ALL IN Thank you!
 Bring Common Sense to Government Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 First Name Last Name Email Address I'M ALL IN Thank you!
-Vote Bob Donovan For State Assembly District 84 CONTACT CONTRIBUTE REQUEST A YARD SIGN Meet Bob Donovan Hello, I'm Bob Donovan.
+Vote Bob Donovan For State Assembly District 61 CONTACT CONTRIBUTE REQUEST A YARD SIGN Meet Bob Donovan Hello, I'm Bob Donovan.
 I'm running to be your next state assemblyman for the 61st district.
 As a Milwaukee native, I grew up loving and cherishing this wonderful state we all share.
 My grandfather was one of the longest-serving police officers on the MPD Force, and my daughter is a lieutenant of that same institution with so many other brave souls.

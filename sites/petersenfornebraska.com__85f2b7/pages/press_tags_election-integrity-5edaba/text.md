@@ -3,7 +3,7 @@ Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
 Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE All Posts Updates Press Releases In The News Videos Endorsements Who Has Access to Nebraska's Election Systems?
 Recent federal election-security developments raise an important question for Nebraska: who has privileged access to our election systems, voter data and infrastructure—and how is that access controlled and documented?
-Updates Scott Petersen #ago 1 min read What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
+Updates Scott Petersen Oct 7 1 min read What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
 Scott Petersen examines what Nebraska can learn from its neighboring state while protecting due process for eligible voters.
 Updates Scott Petersen Oct 5 1 min read Protecting Nebraska’s Most Vulnerable Voters: Their Vote.
 Their Choice.

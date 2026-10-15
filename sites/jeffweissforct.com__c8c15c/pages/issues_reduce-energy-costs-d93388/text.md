@@ -10,4 +10,4 @@ The current power purchase agreement with Dominion Energy for Millstone has lock
 Future agreements should be negotiated transparently and grounded in market realities, not political considerations.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

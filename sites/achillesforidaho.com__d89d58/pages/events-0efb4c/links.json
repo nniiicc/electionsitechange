@@ -45,10 +45,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=2001+west+boise+avenue+boise%2C+idaho%2C+83706+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=20494+north+main+street+carey%2C+idaho%2C+83320+united+states"
 },
 {
@@ -234,10 +230,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow+&dates=20260919T170000Z%2F20260920T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet++-+MYS+Cafe+%40+The+Verve&dates=20260909T000000Z%2F20260909T020000Z&location=2001+West+Boise+Avenue%2C+Boise%2C+Idaho%2C+83706%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -437,10 +429,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette?format=ical"
 },
 {
@@ -574,10 +562,6 @@
 {
 "text": "Meet & Greet - Garden City",
 "href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2"
-},
-{
-"text": "Meet & Greet - MYS Cafe @ The Verve",
-"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
 },
 {
 "text": "Meet Todd - Candidate Forum - Caldwell",
@@ -765,10 +749,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
-},
-{
-"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
 },
 {
@@ -942,10 +922,6 @@
 {
 "text": "[image: Meet & Greet - Garden City]",
 "href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2"
-},
-{
-"text": "[image: Meet & Greet - MYS Cafe @ The Verve]",
-"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
 },
 {
 "text": "[image: Meet Todd - Candidate Forum - Caldwell]",

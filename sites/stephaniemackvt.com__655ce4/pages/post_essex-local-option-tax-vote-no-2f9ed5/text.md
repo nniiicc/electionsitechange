@@ -1,4 +1,4 @@
-top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Government Accountability Search Why I’m Voting No on the Essex Local Option Tax Stephanie Mack Oct 5 5 min read Essex voters are being asked to consider three questions concerning a 1% local option tax (LOT).
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Videos Merch Events Donate All Posts Campaign Updates Government Accountability Search Why I’m Voting No on the Essex Local Option Tax Stephanie Mack Oct 5 5 min read Essex voters are being asked to consider three questions concerning a 1% local option tax (LOT).
 Before we add another tax, I believe we need to ask a basic question that has not received enough attention: Who will actually pay it?
 Lowering the tax burden is one of the priorities I have identified in my campaign for the Vermont House.
 That means looking carefully at every proposal that asks Vermont families to pay more, especially at a time when property taxes, housing, energy, food and other everyday expenses are already putting tremendous pressure on household budgets.

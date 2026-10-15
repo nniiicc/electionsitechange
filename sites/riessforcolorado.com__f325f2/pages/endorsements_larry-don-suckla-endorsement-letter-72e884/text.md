@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Larry Don Suckla Endorsement Image of Larry Don Suckla I am proud to endorse Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Larry Don Suckla Endorsement Image of Larry Don Suckla I am proud to endorse Naomi Riess for Colorado House District 59.
 As a current State Representative, I have seen firsthand the challenges facing rural Colorado and the importance of electing leaders who understand our communities and are prepared to effectively represent them at the Capitol.
 Naomi Riess brings the experience, judgment, and work ethic needed to be an effective advocate for Southwest Colorado.
 Naomi understands that strong communities depend on a healthy economy, thriving small businesses, a vibrant agricultural industry, and responsible development of our natural resources.

@@ -72,7 +72,7 @@ I'm not a politician.
 I built a national snack brand from my own kitchen, sold it, and have run consumer companies since.
 I've made payroll and answered to customers, not donors.
 I don't need this as a job.
-Endorsed by: Steve Hilton · Contra Costa Republican Party · Alameda County Republican Party · Carl DeMaio's Reform California · Howard Jarvis Taxpayers Association PAC · BAJC-Action (Bay Area Jewish Coalition) Subscribe Questions?
+Endorsed by: Steve Hilton · Contra Costa Republican Party · Alameda County Republican Party · Carl DeMaio's Reform California · Howard Jarvis Taxpayers Association PAC · BAJC-Action (Bay Area Jewish Coalition) · CRPA PAC Subscribe Questions?
 Email: [email protected] · Call/text: (925) 222-5416 Support the Campaign Grassroots support powers this campaign.
 Donate today to help bring new leadership to Congress.
 Donate Questions?
@@ -83,7 +83,11 @@ Text messages: if you give us your number or text us, you may receive campaign t
 Message frequency varies.
 Message and data rates may apply.
 Reply STOP to any message to opt out, or HELP for help.
-Voter outreach texts go to registered voters using publicly available voter file data as permitted by California law.
+Text messaging opt-in data, consent and related collected personal information will not be shared with or sold to any third parties, unless required by law.
+No mobile information will be shared by us with third parties or affiliates for marketing or promotional purposes.
+Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Carriers are not liable for delayed or undelivered messages.
+If you have questions about this Privacy Policy or how your information is used, contact Frese For Congress at freseforcongress.com, [email protected] , or (925) 222-5416.
 You can ask us to delete your information at any time by emailing [email protected] .
 Paid for by Frese For Congress.
 Text Message Terms Frese For Congress Text Messages.

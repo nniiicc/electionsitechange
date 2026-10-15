@@ -1,5 +1,5 @@
 Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse th May 16, 2017 Meet Cindy 228 × 180 Like Loading...
-Next Image Leave a Reply Cancel reply Comment Name Email Website Δ Cindy Ledbetter P.O.
+Next Image Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

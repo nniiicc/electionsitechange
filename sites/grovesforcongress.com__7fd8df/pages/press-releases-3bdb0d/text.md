@@ -1,5 +1,22 @@
-top of page Ralph Groves For Congress DONATE Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
-RECENT PRESS RELEASES ​ ​ For Immediate Release to Media of Communities West of Orlando 17 November 2025 Contact: 407-554-2120 Copy of Letter to Secretary of State Marco Rubio Concerning Ukraine-Russia War Candidate Groves, the 2026 Libertarian candidate for U.S.
+top of page Ralph Groves For Congress Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
+RECENT PRESS RELEASES ​ ​ Office of Libertarian Congressional Candidate Ralph Groves For Immediate Release 20 July 2026 Contact: GrovesForCongress@Proton.me ​ Ralph Groves is the official, qualified, 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District, which includes the communities west of Orlando.
+As a Libertarian, Ralph Groves is against committing our military outside the United States in armed conflict except for immediate defense of our country.
+Accordingly, Candidate Groves favors the recent House of Representatives resolution that requires President Trump to seek congressional authorization before further military actions in Iran.
+(The resolution passed by a 215-208 vote.
+Three previous attempts failed to garner enough votes.) Candidate Groves has consistently maintained that the 1973 War Powers Act is a valid Federal Law.
+It requires that a president should stop deploying military force after 60 days unless Congress explicitly authorizes further military action.
+The war against Iran reached its 60 day limit on 1 May.
+Military actions against Iran have been illegal since then (including U.S. air strikes on 26 and 27 June and presently in July, and, earlier, the U.S. naval blockade of Iranian ports that commenced on 13 April and continued beyond 1 May) because Congress did not authorize such actions.
+(Note: a naval blockade is an act of war.) If hostilities against Iran continue, and Iran continues to retaliate against U.S. bases in Kuwait, Bahrain, and Jordan -- where U.S. servicemen have been killed -- the Middle East could become further destabilized.
+Candidate Groves is concerned that the Florida National Guard might then be mobilized to deploy to the Middle East.
+He prefers that the Florida National Guard should stay home.
+Candidate Groves lived in Iran, 1977-1979, while working for a multi-national consortium in support of the late Shah, who was pro-American.
+As an Army Major, he served in the Iraq War, 2008-2009.
+One of his sons is presently a Special Missions Aviator in the U.S.
+Air Force.
+Candidate Groves sent this press release to Florida Congressmen Daniel Webster (CD 11), Maxwell Frost (CD 10), and Darren Soto (CD 9) to prompt them to hold President Trump accountable to the War Powers Act.
+Disclaimer: Candidate Groves exercises his right to protected free speech, which is legal.
+He conforms to most Libertarian policies, including avoidance of foreign military interventions, but he is not a spokesman for the Libertarian Party of Florida. ​ ​ For Immediate Release to Media of Communities West of Orlando 17 November 2025 Contact: 407-554-2120 Copy of Letter to Secretary of State Marco Rubio Concerning Ukraine-Russia War Candidate Groves, the 2026 Libertarian candidate for U.S.
 Congress in the 11th Congressional District, which includes the communities west of Orlando, suggests to Secretary of State Marco Rubio that the first step toward a cease-fire between Russia and Ukraine should be via a multinational task force in a demilitarized zone.
 With U.S. coordination, a multinational task force should be arranged among European non-NATO countries, e.g.
 Ireland, Austria, Cyprus, and Malta, as well as possibly South Africa, Israel, and Armenia, each assigned to a specific sector of a demilitarized zone.

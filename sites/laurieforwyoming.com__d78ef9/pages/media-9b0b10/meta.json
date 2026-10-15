@@ -1,10 +1,13 @@
 {
- "description": "",
+ "description": "Read news, legislative updates, endorsements, and announcements from Laurie Bratten’s 2026 re-election campaign for Wyoming House District 51.",
  "final_url": "https://www.reelectlauriebratten.com/media",
- "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
+ "fingerprint": "626583e61883600cad045350e2dc4c26a4b03588",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "PAID FOR BY THE COMMITTEE TO ELECT LAURIE BRATTEN 1004 BIG GOOSE RD",
  "rendered": false,
- "title": "",
- "years_mentioned": []
+ "title": "MEDIA | Re-Elect Laurie for Wyoming",
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

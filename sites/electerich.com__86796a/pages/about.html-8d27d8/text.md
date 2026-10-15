@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact About Erich Obermayr My 77 years have given me a deep understanding and appreciation for the challenges and triumphs of everyday life: putting food on the table, making the rent or house payment, and guiding the children to a bright, successful future.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction About Erich Obermayr My 77 years have given me a deep understanding and appreciation for the challenges and triumphs of everyday life: putting food on the table, making the rent or house payment, and guiding the children to a bright, successful future.
 In my time, I have been a dishwasher, factory laborer, janitor, and construction worker, to name a few.
 I found a trade at age 16 as a field archaeologist, which led to a career in cultural resource management, studying and writing about Nevada history and archaeology.
 I ran a small business producing interpretive signs, books, and pamphlets which shared the results of these studies with the public.
@@ -29,4 +29,4 @@ I know what it is like to earn a comfortable professional living, and I’ve als
 I know that progress toward a better job is the key to a better life, and I will fight to make sure your state government stands with you as you make that journey.
 Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

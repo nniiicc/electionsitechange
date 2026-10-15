@@ -18,6 +18,6 @@ South Dakota Attorney General Marty Jackley, who is also campaigning for the sta
 “We need to level the playing field.
 President Trump is working to level that.” However, Jackley firmly broke ranks with the administration regarding the foreign beef deal, highlighting his successful record as Attorney General in challenging big meat packers to protect local labeling.
 “As somebody that owns a farm and a ranch and is the Attorney General of South Dakota, I don’t support that,” Jackley said of the import plan.
-“I’ve taken a strong position for South Dakota in being part of the Product of the U.S.A. lawsuit.” Recent Posts See All Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
-As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling Contact Us Nikki G for SD P.O.
+“I’ve taken a strong position for South Dakota in being part of the Product of the U.S.A. lawsuit.” Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
+House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

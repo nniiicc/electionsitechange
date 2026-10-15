@@ -4,7 +4,7 @@ Gene Wu Every Sunday evening, Rep.
 Gene Wu goes live on Zoom for the AAPI town hall series: an important conversation on the ongoing threats of anti-Asian policies, lessons from past fights against discriminatory alien land laws, what is at stake for AAPI communities, and how to take action.
 Bring your questions — there is open Q&A every week.
 Sign up once and your personal join link works for every Sunday in the series.
-RSVP Pick your dates — come to as many as you like Count me in for all 2 dates Sun, Oct 18 · 7:00 PM – 8:00 PM 272 left Sun, Oct 25 · 7:00 PM – 8:00 PM 273 left Send me campaign updates by email (and text if I added my number).
+RSVP Pick your dates — come to as many as you like Count me in for all 2 dates Sun, Oct 18 · 7:00 PM – 8:00 PM 271 left Sun, Oct 25 · 7:00 PM – 8:00 PM 273 left Send me campaign updates by email (and text if I added my number).
 Count me in Can't make this one?
 See all events → New here?
 Meet Gene → Volunteer → Stay in the loop Get the next event first.

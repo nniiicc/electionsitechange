@@ -8,11 +8,8 @@ This page will be updated frequently with canvassing opportunities both in Distr
 Check back for more!
 Questions?
 Email us at info@votesaira.com .
-Last Update: Sept 30, 2026 Canvass from Regional Democratic Party Campaign Offices Canvass in Decatur Launch address will be provided upon sign up.
-Sign up for Weekdays and Weekends Canvass in EastlandHeights/Gresham Park Launch address will be provided upon sign up.
-Sign up here for weekays and weekends.
-South DeKalb Campaign Office 4746 Flat Shoals Parkway, Decatur 30034 Sign up for Weekdays Sign up for Weekends Clayton Co: Jonesboro Campaign Office Launch address will be provided upon sign up.
-Sign up for Weekdays and Weekends Last updated September 30, 2026 Saira Draper Candidate for Georgia State Senate, District 44.
+Canvass with Saira in Senate District 44 Join us weekdays and weekends from now until election day!
+Weekends: Saturday 10am and 1pm, Sundays 1pm Sign up here Weekday afternoons in Decatur Sign up here Phone banking Help get out the vote with Georgia Democrats Weekends sign up here Weekdays: sign up here Other ways to help Get out the Vote Wave signs at early vote locations with DeKalb Dems to encourage voters to remind 3 friends to vote Sign up here Last updated October 14, 2026 Saira Draper Candidate for Georgia State Senate, District 44.
 Fighting for voting rights, equity, and opportunity.
 Campaign Endorsements Meet Saira District 44 Get Help Take Action Vote Early Donate Stay Connected Get a Yard Sign Volunteer Contact info@votesaira.com Stay Updated Get campaign updates delivered to your inbox.
 Subscribe English English Español Tiếng Việt Paid for by Friends of Saira Draper, Inc.

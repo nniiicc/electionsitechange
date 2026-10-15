@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Terms of Service & Privacy Policy We understand the importance of protecting your personal information.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction Terms of Service & Privacy Policy We understand the importance of protecting your personal information.
 This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website.
 By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 Collection of Personal Information When you visit our website, we may collect certain personal information from you, including your name, email address, phone number, and other contact information.
@@ -22,4 +22,4 @@ Changes to this Privacy Policy We may update this Privacy Policy from time to ti
 We encourage you to review this Privacy Policy periodically.
 Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

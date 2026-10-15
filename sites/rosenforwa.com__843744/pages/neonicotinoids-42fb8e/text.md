@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Pesticide Accountability Neonicotinoids: Protecting Pollinators and the Food Web Neonicotinoids — "neonics" — are the most widely used insecticides in the world.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Pesticide Accountability Neonicotinoids: Protecting Pollinators and the Food Web Neonicotinoids — "neonics" — are the most widely used insecticides in the world.
 They've also become a major concern for pollinators and the ecosystems that depend on insects.
 Washington left agriculture out.
 It's time to finish the job.

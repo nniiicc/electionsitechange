@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
 Team Sandra Sep 6 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.

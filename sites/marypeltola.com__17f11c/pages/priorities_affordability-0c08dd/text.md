@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer All priorities Taking Action on Affordability for Alaskans “Alaskans are being crushed by skyrocketing costs – but I will stand up to anyone to put Alaska first and fight for lower costs.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer All priorities Taking Action on Affordability for Alaskans “Alaskans are being crushed by skyrocketing costs – but I will stand up to anyone to put Alaska first and fight for lower costs.
 Alaskans know life is harder here — but there’s only so many times you can sacrifice groceries or skip a doctor’s visit before you start to loathe the DC politicians who keep making things worse.
 It shouldn’t be this hard to get by in Alaska, and when I’m in the U.S.
 Senate, I’m going to fight to make life affordable for hardworking Alaska families.” As Lower 48 special interests keep getting richer and richer, life in Alaska keeps getting more expensive.
@@ -51,4 +51,5 @@ Read the plan Fighting for Alaska Fisheries Fighting for Alaska Fisheries Mary h
 Read the plan Making Energy Affordable for Alaskans Making Energy Affordable for Alaskans Energy prices for Alaskans are out of control, and we need solutions from every angle.
 Read the plan Keeping our Promise to Alaska Veterans and Servicemembers Keeping our Promise to Alaska Veterans and Servicemembers Mary is a military mom who has always stood by Alaska servicemembers, military families, and veterans.
 Read the plan Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

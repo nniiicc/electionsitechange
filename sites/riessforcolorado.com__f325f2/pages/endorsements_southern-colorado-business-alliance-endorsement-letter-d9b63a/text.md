@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Southern Colorado Business Alliance On behalf of the Southern Colorado Business Alliance, congratulations.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Southern Colorado Business Alliance On behalf of the Southern Colorado Business Alliance, congratulations.
 You have earned our endorsement in the 2026 election for Colorado House District 59.
 That is a short sentence, and the work behind it was not.
 This is the Alliance’s first endorsement cycle, and we set out to do it properly.

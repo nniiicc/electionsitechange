@@ -1,0 +1,16 @@
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Hinson Peed 9/17/26 Hinson Peed 9/17/26 DETROIT REGIONAL CHAMBER PAC ENDORSES MIKE ROGERS FOR U.S.
+SENATE “The Detroit Regional Chamber is right: the house is on fire.” Read More Hinson Peed 9/17/26 Hinson Peed 9/17/26 MIKE ROGERS ON FOX BUSINESS: WE DON’T WANT THIS SOCIALISM NONSENSE IN OUR STATE “This guy is anything but pro-American.” Read More Hinson Peed 9/16/26 Hinson Peed 9/16/26 MIKE ROGERS: ABDUL EL-SAYED IS PATHETIC “As an old FBI agent, I used to see a lot of conmen.
+This guy is a conman.” Read More Hinson Peed 9/16/26 Hinson Peed 9/16/26 THE DETROIT NEWS ENDORSES MIKE ROGERS FOR U.S.
+SENATE Detroit News: “Mike Rogers is the prototype of a United States Senator.” Read More Alyssa Brouillet 9/15/26 Alyssa Brouillet 9/15/26 FACT CHECK: CONMAN ABDUL EL-SAYED CAUGHT RED-HANDED IN FOX2 DEBATE We’re back with another round of Fact vs Fiction.
+Read More Alyssa Brouillet 9/15/26 Alyssa Brouillet 9/15/26 MICHIGANDERS DESERVE ANSWERS.
+WILL ROOP ASK THE PRESSING QUESTIONS?
+It’s time they get answers.
+Read More Alyssa Brouillet 9/15/26 Alyssa Brouillet 9/15/26 RETURN THE MONEY, ABDUL Mike Rogers calls on Abdul El-Sayed to return money from designated terrorist organizations.
+Read More Hinson Peed 9/15/26 Hinson Peed 9/15/26 TEAM ROGERS REFUSES FOX 2 DEBATE DUE TO MODERATOR BIAS “Michiganders deserve to see their candidates engage in a healthy, fair debate — not one compromised by media bias .” Read More Alyssa Brouillet 9/14/26 Alyssa Brouillet 9/14/26 AD: MIKE ROGERS WILL TAKE ON BIG PHARMA, MAKE HEALTHCARE MORE AFFORDABLE “I’ll take on Big Pharma.” Read More Alyssa Brouillet 9/13/26 Alyssa Brouillet 9/13/26 ROGERS TALKS BUILDING, UNLOCKING HOMEOWNERSHIP IN DOWNTOWN DETROIT DETROIT MOM: I’ve never voted before because I never really felt like anybody was fighting for people in my neighborhood.
+Mike Rogers is showing me that he will.
+Read More Hinson Peed 9/11/26 Hinson Peed 9/11/26 ROGERS: TODAY IS A DAY WE CAN NEVER FORGET “Amid the darkness and tragedy of that day, the heroism of those men and women epitomized what it means to be an American.” Read More Alyssa Brouillet 9/10/26 Alyssa Brouillet 9/10/26 A BATTLE FOR THE SOUL OF OUR COUNTRY Mike Rogers takes the stage at the Republican National Convention Read More Newer Posts Older Posts CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

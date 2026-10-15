@@ -29,7 +29,7 @@ Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in
 Get Involved Join the Fight for Florida Donate Support Byron Every dollar fuels the fight to protect the Florida dream and the future of our great state. $25 $50 $100 $250 $500 $1,000 $3,000 Other Volunteer Join the Movement This campaign is built on people.
 There's a place in it for you.
 Get Involved Stay Informed Get Updates Be the first to know about events, endorsements, and campaign news.
-Sign Up About Meet Byron Meet Bryan Ávila Endorsements News Issues Issues Overview Affordability Healthcare Economy Education Space and Tech Infrastructure Law and Order Healthy Florida Backing the Blue Environment Transparency and Accountability Coalitions Faith Leaders Veterans Latinos Businesswomen Lawyers Parents & Teachers X FB IG YT Donate By providing your phone number, you agree to receive recurring text messages from Byron Donalds for Governor.
+Sign Up About Meet Byron Meet Bryan Ávila Endorsements News Issues Issues Overview Affordability Healthcare Economy Education Space and Tech Infrastructure Law and Order Healthy Florida Backing the Blue Environment Transparency and Accountability Coalitions Faith Leaders Veterans Latinos Businesswomen Lawyers Parents & Teachers Black Floridians X FB IG YT Donate By providing your phone number, you agree to receive recurring text messages from Byron Donalds for Governor.
 Msg & data rates may apply.
 Reply STOP to opt out.
 Paid by Byron Donalds, Republican, for Governor.

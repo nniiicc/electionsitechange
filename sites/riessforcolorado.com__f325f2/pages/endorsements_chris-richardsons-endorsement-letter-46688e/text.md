@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Chris Richardson Endorsement Image of Rep Chris Richardson I am proud to endorse Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Chris Richardson Endorsement Image of Rep Chris Richardson I am proud to endorse Naomi Riess for Colorado House District 59.
 After having the opportunity to visit with Naomi, I came away encouraged by her understanding of the challenges facing Colorado families, small businesses, property owners, and local communities.
 Naomi is thoughtful, grounded, and committed to the kind of public service that puts citizens first.
 Throughout my own service, first in the United States Army, then in local government, on the school board, as an Elbert County Commissioner, and now as a State Representative, I have learned that good government starts with listening.

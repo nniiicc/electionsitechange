@@ -1,4 +1,4 @@
-0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Free Markets or Government Control?
+0 Skip to Content Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Back Donate Free Markets or Government Control?
 Jul 30 Written by Guest User Creating an economy for the good of everyone and not just a few By now, the value of free markets has been demonstrated worldwide.
 Even the Chinese Communist Party uses them.
 Rather than having government officials set prices, a free market allows individuals to set prices based on their own judgments.

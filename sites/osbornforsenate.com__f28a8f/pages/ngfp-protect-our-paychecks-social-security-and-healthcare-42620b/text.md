@@ -1,4 +1,4 @@
-0 Skip to Content Home 93 County Tour Meet Dan Plans Store Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Store Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Store Volunteer DAN OSBORN’S NEBRASKA GROWTH & FAIRNESS PLAN PROTECT OUR PAYCHECKS, SOCIAL SECURITY, AND HEALTHCARE Nebraskans are hurting from a thousand little cuts to their paychecks.
+0 Skip to Content Home 93 County Tour Meet Dan Plans Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Volunteer DAN OSBORN’S NEBRASKA GROWTH & FAIRNESS PLAN PROTECT OUR PAYCHECKS, SOCIAL SECURITY, AND HEALTHCARE Nebraskans are hurting from a thousand little cuts to their paychecks.
 I will take on the corporations and their chosen political lapdogs to restore economic liberty and fairness for the working Americans who make this country run.
 Elders should be able to age gracefully.
 No one should go bankrupt from medical debt.

@@ -1,10 +1,10 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Colorado House District 59 Riess For Colorado Too many decisions affecting rural Colorado are being made by people who don't live here and don't understand how we actually live.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Colorado House District 59 Riess For Colorado Too many decisions affecting rural Colorado are being made by people who don't live here and don't understand how we actually live.
 Naomi Riess has lived in Southwest Colorado for over 35 years, raising her family here and serving in business and volunteer leadership positions.
 Guided by integrity and a strong sense of responsibility, she works to support the people and places that make our region special.
 Naomi believes healthy communities are built on economic growth, family well-being, individual empowerment, and common-sense regulation.
 She is committed to strengthening rural families, farms, ranches, and small businesses — ensuring Southwest Colorado remains strong and prosperous for the generations to come.
 Colorado House District 59 Riess For Colorado Join My Campaign For info and updates I'd like to connect with Naomi!
-Campaign Events Your Voter Status Volunteering Donation Vote Naomi Riess for Colorado State House https://www.youtube.com/watch?v=cHgymcMc8Ag Western Colorado Candidate Debates Livestream Check out the debate! https://www.youtube.com/watch?v=f_4_6zjazMA Rooted in Community.
+Compare the Candidates Your Voter Status Volunteering Donation Vote Naomi Riess for Colorado State House https://www.youtube.com/watch?v=cHgymcMc8Ag Hear Directly From Naomi Riess Rooted in Community.
 Focused on Common Sense Solutions for Southwest Colorado.
 Naomi Riess has been a proud resident of Southwest Colorado for more than 35 years, raising her family here and serving in business and volunteer roles with integrity and principle.
 She believes healthy communities are built with economic vitality, family well-being, individual empowerment, initiative and responsibility, flourishing local agriculture, and common sense regulations.
@@ -55,7 +55,6 @@ Education Education must prepare our children for success while respecting famil
 Naomi will champion higher standards and stronger accountability in schools, while supporting charter schools and skilled workforce training that equip young people to earn and build a future here at home.
 She will defend parental rights to direct their children’s education and protect Title IX.
 At the same time, she will ensure students in need have access to essential support so that every child can learn, grow, and succeed.
-Would you like to contribute to the movement?
-DONATE NOW Would you like to contribute to the movement?
+Compare the Candidates KNOW THE VOTES Would you like to contribute to the movement?
 DONATE NOW Join My Campaign For info and updates I'd like to connect with Naomi!
 Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

@@ -1,5 +1,40 @@
-top of page Ralph Groves For Congress DONATE Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
-RALPH GROVES' LETTERS Letter to Secretary of State Marco Rubio 29 June 2025 To: Secretary of State Marco Rubio Dear Mr.
+top of page Ralph Groves For Congress Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
+RALPH GROVES' LETTERS Letter to President Donald Trump 2015 Donahue Drive Ocoee, Florida 34761 18 March 2026 President Donald J.
+Trump The White House 1600 Pennsylvania Avenue NW Washington, D.C.
+20500 Subject: Potential Regime Change in Iran Dear Mr.
+President: Greetings.
+Sir, I am Ralph Groves, the 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District of Florida.
+As a former U.S.
+Army Intelligence officer, a former DIA analyst of Iran, and a former resident of Iran during the late Shah's reign, I hereby share with you a summary of my analysis of Iran pertaining to potential regime change.
+External pressure on Iran due to the current war will augment the authority of the regime as Iranians are nationalistic and will defend their national sovereignty.
+For the proximate future, the regime, composed of the clerical class (the Ulama) – with its thousands of clerics and hundreds of Ayatollahs – along with the Islamic Revolutionary Guard Corps (IRGC), will likely remain embedded in all of Iran’s social and political strata.
+Their authority is respected by society at large, and will remain so even if any Supreme Leader, with the rank of Ayatollah, at the apex of national authority, is replaced by another leader from the Ulama.
+Broadly, the deeplyentrenched regime will endure.
+Eventually, external pressure may prompt leadership change at the apex of national authority but not the kind of change the United States may prefer.
+A military officer, probably from the IRGC, with impeccable nationalistic credentials (a Napoleon type figure) coupled with fervent Shi'ite piety, may come to the fore.
+His ascendancy to national leadership will have to be approved by the Assembly of Experts.
+The historical precedent was the ascendancy of Reza Shah Pahlavi, a former Army officer, who became Shah in 1925, as approved by the Majlis(Parliament) that deposed the former Ahmad Shah Qajar.
+(Reza Shah Pahlavi was the father of the late Shah, Mohammad Reza Pahlavi, who reigned until the 1979 Islamic Revolution when he was overthrown.) A Napoleon type figure would have to be scrupulously deferential to the Ulama as he would recall that the oppositionist Ulama (starting with the efforts by Ayatollah Seyyed Burujerdi in 1959) struggled for 20 years to overthrow the late Shah and could overthrow him, too.
+It is unlikely that Iranians will embrace the exiled “Crown Prince” Reza Pahlavi, son of the late Shah, in a leadership role because the erstwhile ruling Pahlavi family was very unpopular.
+The Pahlavis' unpopularity was due to the common view that they were not sufficiently nationalistic and that they were irreligious.
+The “Crown Prince” is a Westernized figure and has called for a secular Iran, but these factors indicate that he is out of touch with Iranian history and culture – especially that most Iranians are religious and expect leaders to have divine favor to be legitimate.
+Therefore, Reza Pahlavi will lack broad popular support just like his overthrown father suffered.
+The United States should not play an overt role in Iran’s regime and leadership as it would undermine the regime’s nationalistic credentials.
+A precedent exists: Iranians regarded the late Shah as a Western puppet commencing from the 1953 overthrow of his then Prime Minister Mohammad Mossadegh, which was orchestrated by American and British intelligence services.
+This resulted in growing opposition against the Shah and increased anti-Western sentiments.
+Likewise, the current war will amplify anti-Western sentiments for many decades .
+Thank you, Mr.
+President, for considering this communication.
+Very Respectfully, Dr.
+Ralph Groves MAJ, U.S.
+Army (Ret.), Iraq War Veteran Former DIA Analyst, Pentagon Libertarian Candidate for Congress 11th Congressional District, Florida cc: Vice President J.D.
+Vance Secretary of State Marco Rubio Director of National Intelligence Tulsi Gabbard Addendum: Ralph Groves knows the Middle East and Southwest Asia.
+He visited Israel, lived in Iran, and served in Armenia and Iraq as an Army officer.
+In addition, he majored in Middle East Studies while he was a college student.
+Prior to retirement, he served in the Pentagon as an Iran analyst.
+In retirement, he wrote two books on Iran.
+His experiences and education support his conformity to the Libertarian principle of a non-interventionist foreign policy. ​ One of Ralph Groves’ books is marketed via The Great British Bookshop and Amazon: Iran’s Shi’ite Clerics’ Opposition to the Shah, 1959-1979 https://www.thegreatbritishbookshop.co.uk/products/iran-s-shi-ite-clerics-opposition-to-the-shah-1959-1979 One of Ralph Groves’ previous books, co-authored with one of his sons, Justin Groves, is likewise marketed via The Great British Bookshop and Amazon: Soviet Raison d’état and Relations with Iran’s Communist Parties, 1920-1979 https://www.thegreatbritishbookshop.co.uk/products/soviet-raison-detat-and-relations-with-irans-communist-parties-1920-1979 His forthcoming book (not yet published): The Demystification of Islamism.
+Letter to Secretary of State Marco Rubio 29 June 2025 To: Secretary of State Marco Rubio Dear Mr.
 Secretary: I am Ralph Groves, the 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District of Florida.
 As a former DIA analyst of Iran, and a former resident of Iran during the late Shah's reign, I hereby share with you some of my knowledge of Iran pertaining to potential regime change.
 Iran is susceptible to regime change principally because the theocratic Islamic Republic is an innovative type of government that is without precedent in Iran's history.

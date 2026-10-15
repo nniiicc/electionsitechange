@@ -1,4 +1,5 @@
-VOTE - November 3rd 2026 Early Voting Begins October 22, 2026 Home About Ayanna Volunteer Blog More Home About Ayanna Volunteer Blog Home About Ayanna Volunteer Blog My Blog All Posts Announcements News What I'm Hearing October 5, 2026 | News I’m pro-worker and pro-opportunity.
+VOTE - November 3rd 2026 Early Voting Begins October 22, 2026 Home About Ayanna Volunteer Blog More Home About Ayanna Volunteer Blog Home About Ayanna Volunteer Blog My Blog All Posts Announcements News Official Statement What I'm Hearing October 14, 2026 | News, Official Statement Regarding Comments from School Board Member Elena Brenner Throughout my years of working with community organizations and supporting minority and underserved populations, I have witnessed firsthand the damage that discriminatory rhetoric can cause to families and entire communi...
+Continue Reading October 5, 2026 | News I’m pro-worker and pro-opportunity.
 I believe every Delaware worker deserves a fair shot.
 Continue Reading September 28, 2026 | News, What I'm Hearing Delaware’s Healthcare Challenges Go Beyond the Cost of Care As I continue talking with healthcare professionals, residents, families and people throughout Delaware, one thing is becoming increasingly clear: our healthcare challenges are not just about the cost of care.
 They are a...

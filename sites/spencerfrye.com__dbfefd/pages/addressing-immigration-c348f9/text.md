@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Addressing Immigration Posted April 3, 2024 By Halimata Bah Capitol Corner Immigration has been a long-standing controversial issue throughout American history, let alone the world.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Addressing Immigration Posted April 3, 2024 By Halimata Bah Capitol Corner Immigration has been a long-standing controversial issue throughout American history, let alone the world.
 A touchy subject in the House and the Senate, the U.S. has not had too many bills and laws regarding immigration.
 One particular bill created massive change for the future of immigrants, especially during its time, the Immigration Reform and Control Act of 1986.
 It sought to preserve jobs for American citizens and aliens who are authorized to work in the United States.

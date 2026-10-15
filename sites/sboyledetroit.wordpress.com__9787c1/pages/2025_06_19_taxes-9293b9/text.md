@@ -25,7 +25,7 @@ Save what exists and transform it.
 At present Detroit’s jobs with most growth around them are demolition, development / construction, and private security.
 But is this even true?
 Many of these employers are from outside the city of Detroit, creating a satellite office (or shell company) within Detroit for hiring, payroll, and tax purposes.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

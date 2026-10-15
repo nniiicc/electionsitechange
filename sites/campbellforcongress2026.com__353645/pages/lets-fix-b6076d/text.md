@@ -16,4 +16,17 @@ If a company rewards their workforce in a more equitable measure, their multipli
 This will benefit small businesses while causing boards of directors to rethink the value of their executive teams compared to their most vulnerable employees.
 All forms of compensation, not just wages, will be used to determine the disparity.
 Once the program is funded, then the coefficients will be adjusted downward keep from establishing a surplus with tax payers money.
-Tax Code Coming Wednesday 14Oct2026 Health Care Coming Thursday 15Oct2026 Manufacturing Coming Friday 16Oct2026 Campbell for Congress Campbell for Congress 2026 info@campbellforcongress2026.com Campbell for Congress 2026 - Authorized and paid for by Chris Campbell
+Tax Code Compensation is income and it should be taxed.
+For the vast majority of Americans, their entire compensation is taxed at the same rate with few ways to lower their taxable income.
+For a much, much smaller minority, their income is taxed at higher rate, but there are multiple avenues to avoid taxes on their intentionally unrealized wealth.
+One of the most intriguing options to avoid taxable income is through borrowing against assets such as stocks with interest rates much lower than the tax rate on capital gains.
+And then on the same assets, when they pass away, the heirs receive a step up in basis which resets the value of the assets negating any capital gains that have been realized and would have been taxed.
+It is time to close these avenues and redefine what is constituted as income.
+If it is considered compensation, then it is income.
+No more compensation packages that have less than 20% of total compensation as ordinary income with the remainder in unrealized wealth options.
+This leaves 80% of income untaxed.
+I don't know of an American that would find this burdensome.
+Employers offering compensation packages with less than 67% ordinary income and more than 33% other income will have an additional tax burden on their earnings.
+Publicly traded companies, not for profits and private government contractors that overly bias their compensation to reward executives at the expense of their lowest earners will also realize an additional burden in their taxes.
+This is about getting compensation taxed equitably and eliminating billions of dollars in earnings that is never recognized as income.
+Health Care Coming Thursday 15Oct2026 Manufacturing Coming Friday 16Oct2026 Campbell for Congress Campbell for Congress 2026 info@campbellforcongress2026.com Campbell for Congress 2026 - Authorized and paid for by Chris Campbell

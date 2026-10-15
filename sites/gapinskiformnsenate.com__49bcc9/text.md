@@ -8,14 +8,35 @@ An effective conservative who delivers for rural communities and stands up to th
 Paul, Jared knows how to stand up for our values.
 Where Do I Vote ?
 Donate Your browser does not support the video tag.
-Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
+Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
+I spent nearly 20 years serving with the Sauk Rapids Fire Department as a firefighter and captain, and it was great to be back catching up with old friends and fellow firefighters!
+We couldn’t have asked for better weather, and the turnout was incredible!
+From the free pumpkins and vehicle extrication demonstrations to the kids getting to climb inside the fire trucks and explore all the equipment, there was something for everyone to enjoy.
+Having spent so many years in the fire service, I know firsthand the time, dedication, and sacrifice that go into protecting our communities.
+It’s wonderful to see so many families come out to support these men and women and learn more about what they do.
+A huge thank you to the Sauk Rapids Fire Department and everyone who helped put on another fantastic open house.
+I’m proud to have been part of this department and will always appreciate the people who continue to serve our community! 🇺🇸🚒 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #FirstResponders #SaukRapidsMN #Community #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 43 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago A little friendly competition and some great chili sounds like a perfect Sunday afternoon!
+I’m looking forward to joining Tanja Goering as a guest judge for the Watkins Lions Club’s First Annual Chili Cook-Off!
+Come on out to The Store Saloon in St.
+Nick this Sunday, October 18th, from 1–3 PM for some delicious chili, good company, and community fun!
+Hope to see you there! 🌶️🇺🇸 THIS SUNDAY! 🌶️ Get ready for the First Annual Chili Cook-Off at the Store Saloon!
+Whether you're a chili recipe master or you just love to eat the stuff, come on out this Sunday starting at 1 for Sunday Funday with Mike, Rose and us.
+There's loads of fun things going on all day.
+(See comments below for chili cook-off rules!) 📍 The Vikes don't play, but other games will be shown starting at noon. 📍 Chili sampling begins at 1pm. 📍 Judging will be complete at 3pm - we need your help with this! 📍 Speaking of judging, we will have some sweet guest judges joining us - Tanja Goering for MN and Jared Gapinski For MN Senate 13! 📍 Starting at 3pm, the Lions will be slinging meat raffle meat plus we'll be running horse races for BIG CASH and $5 tip boards for $25 and $90 prizes every round.
+To sign up to participate in the Chili Cook-Off, please text Jenny at 320-223-3602.
+Entry fee is $10.
+And honestly, if you have not yet become a massive fan of the hand-crafted cocktails that Mike and Rose have made famous, one sip and you'll be HOOKED.
+Old Fashioneds, Bee's Knees and more, handcrafted right in front of you.
+We'll see you Sunday. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 14 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
 #ago This past Thursday, I had the opportunity to speak at another important forum.
 This event was hosted by the Minnesota Transportation Alliance.
 It was a great opportunity to answer questions and have meaningful conversations about transportation funding at both the local and state levels.
 The discussion covered several important topics, including where transportation funding comes from, what factors impact road and infrastructure projects, wetland replacement challenges, and more.
 It’s always valuable to hear directly from county engineers and MnDOT representatives who work with these issues firsthand.
 Thank you to the Minnesota Transportation Alliance for hosting and to everyone who participated in the conversation! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 37 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 38 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
 We also need to make sure the people who truly need a hand up are the ones receiving it.
 My work as a Benton County Commissioner has given me an in-depth look at the outdated technology used at the state level to administer these programs.
 These antiquated systems not only create unnecessary work and delays for employees entering data, but they also lack the checks and balances needed to help prevent fraud.
@@ -34,37 +55,4 @@ We’re incredibly thankful for the men and women who show up every day to serve
 Their hard work, dedication, and commitment often happen behind the scenes, but they make a real difference in the lives of the people they serve.
 Thank you to all of our Benton County employees for everything you do.
 We appreciate you and the important role you play in making our county a great place to live, work, and raise a family! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 57 Shares: 2 Comments: 3 3 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago We need to take a serious look at ALL programs at the state level.
-Minnesotans who need help are looking for a hand up, not a handout.
-At the same time, we need to dig deeper into funded and unfunded mandates pushed down to local governments.
-Those mandates have real consequences for taxpayers when local levies are set each year.
-Under the DFL-led trifecta, Minnesota has seen an $18 billion surplus disappear, billions lost to fraud, the cost of government increase by 40%, and now we face a substantial upcoming deficit.
-Whether you’re red, blue, or independent, Minnesotans simply cannot afford more of the same.
-We need to tighten the purse strings.
-We need to cut wasteful spending.
-We need to get serious about taxes.
-And we need to recognize that while people sometimes need a hand up, taxpayers deserve accountability for where their hard-earned dollars are going.
-Government may not be a business, but it still has a responsibility to operate within its means.
-If a local business continually spent beyond what it could sustain, ignored inefficiencies, and failed to properly account for its money, eventually there would be serious consequences.
-State government should be held to a high standard of fiscal responsibility as well.
-This doesn’t have to be complicated.
-We need to bring some common sense and accountability back to state government.
-If money were no object, we could fund everything.
-Unfortunately, that isn’t reality.
-It’s time for a serious conversation about our priorities, our spending, and what Minnesota taxpayers can actually afford. www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #BloatedGovernment #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 31 Shares: 2 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Lisa Demuth.
-#ago Last week, I had the opportunity to participate in the Association of Minnesota Counties (AMC) Fall Policy Conference in Bemidji.
-As a Benton County Commissioner and Chair of AMC’s Public Safety Policy Committee, I spend a great deal of time working on issues that affect counties across Minnesota.
-The Fall Policy Conference brings county officials together for important conversations and presentations on policies that affect Minnesotans, their communities, and their wallets.
-I was also grateful to AMC for asking me to participate in a panel on legislative engagement.
-Counties work with legislators on a regular basis, often navigating challenging policy discussions while explaining how decisions made in St.
-Paul affect the people and communities we serve.
-The panel was a great opportunity to share some of what I’ve learned through that work and hear perspectives from county leaders across Minnesota.
-We also had the opportunity to hear from gubernatorial candidate Lisa Demuth .
-She has real vision on addressing these topics and restoring MN.
-Thank you to her, and I look forward to serving with her in St Paul, helping change the trajectory of the state of MInnesota.
-Conferences like this are valuable because they bring local leaders together to have serious conversations about the issues we deal with every day—from public safety and county services to state mandates, funding, and the relationship between counties and the Legislature.
-I appreciate AMC and everyone who took part in this year’s conference.
-I’m grateful for the opportunity to represent Benton County in these statewide discussions and to continue learning from county leaders throughout Minnesota. www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes 22 Shares: 2 Comments: 2 2 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 57 Shares: 2 Comments: 3 3 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy

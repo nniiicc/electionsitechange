@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer All press In the News · July 5, 2026 Washington rewards failure.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer All press In the News · July 5, 2026 Washington rewards failure.
 It’s time to send career politicians home By Mary Peltola · Fox News Share Copy link Washington, D.C., is broken.
 I don’t think that’s a controversial statement anymore.
 Eighty-three percent of Americans support term limits on Congress — and even more Alaskans do — and approval of Congress sits at around 12%.
@@ -52,4 +52,5 @@ Working people across this country can’t afford more of the same.
 We need a system that works for them, not career politicians and the shady special interests who keep them in their seats.
 Red or blue, we all benefit from a Congress that has a deadline.
 Originally published by Fox News Read it at Fox News More from the Campaign All press PHOTOS: Mary Peltola Holds Meet and Greet in Naknek Press Release · October 5, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in Naknek Read the release PHOTOS: Mary Peltola Holds Meet and Greet in King Cove Press Release · October 4, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in King Cove Read the release PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham Press Release · October 3, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham Read the release Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

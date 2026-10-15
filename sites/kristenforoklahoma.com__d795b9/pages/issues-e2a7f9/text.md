@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Priorities Education As a mom of three children who attend Oklahoma public schools, ensuring our children receive the best education possible is personal to Kristen.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Priorities Education As a mom of three children who attend Oklahoma public schools, ensuring our children receive the best education possible is personal to Kristen.
 She knows we must continue to support our students, educators, and classrooms to see our state succeed.
 We must also empower parents with any and all resources that ensure their child’s educational needs are met.
 A graduate of the University of Oklahoma and a business owner in the commercial construction industry, Kristen also understands our state’s need to support higher education, including our trade and technical schools.

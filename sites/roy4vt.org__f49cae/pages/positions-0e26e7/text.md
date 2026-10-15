@@ -1,17 +1,24 @@
 Search this site Embedded Files Skip to main content Skip to navigation Bruce Roy for VT Senate Home About Bruce Positions Endorsements Contact Donate Bruce Roy for VT Senate Home About Bruce Positions Endorsements Contact Donate More Home About Bruce Positions Endorsements Contact Donate Positions Follow Bruce Roy on Facebook , LinkedIn , Youtube BRUCE ROY FOR VERMONT - FOCUS ON VERMONT and CHITTENDEN COUNTY Unaffordable Cost Of Living & Unchecked Taxation on Vermonters Common Sense & Balance in the Legislature Vermonters are pushed to the limits on the ability to provide basic needs to their families.
 Tax increases from Montpelier have become the first response to solving problems.
 Vermonters are suffering the consequences.
-Education Property taxes are disastrously up 40% across the state over the last five years.
+Education Property taxes are disastrously up 50% across the state over the last six years.
 Using surplus General Funds have temporarily and artificially “slowed” the taxpayer pain.
 We must incentivize reduced spending and engage a common sense, equitable foundation formula.
 Changes must be permanent and swift to the Education Funding system.
 “It could have been worse” is not an acceptable definition of success.
+I support $134 Million in immediate residential homestead property tax relief .
+The proposal would move the Education Property Tax Credit to the General Fund, reducing homestead property taxes by up to 20% while continuing to protect Vermonters who qualify for income-based property-tax Vermont now has the highest healthcare costs and healthcare insurance premiums in the nation.
+I support more competition in our healthcare system.
+Vermont needs more choices when it comes to healthcare coverage.
+I support increasing the number of health insurers in Vermont and giving insurers greater flexibility to offer coverage options that meet the needs of individuals, families and employers.
 The Global Warming Solutions Act, the Affordable Heat Act, the Clean Heat Standard /Carbon Tax, The Superfund Act and the Renewable Energy Standard were all passed by supermajority veto override over Governor Scott’s common sense concerns These laws have unachievable mandates, a huge expense burden on our utilities costs, and little to no effect on lowering carbon emissions.
 They must be repealed and replaced with responsible legislation toward a measured and practical shift to renewable energy and a lasting and flourishing Vermont.
 Vermonters currently pay in the top 10 highest electric rates of the 50 states, despite our electricity source being almost entirely Carbon Free and/or Renewable.
 We add less than 0.1% to USA’s carbon emissions.
 There exists a reasonable argument that Vermont is actually “carbon neutral”.
-Vermonters' Tax Burden is the 3rd highest in the USA, only behind New York and Hawaii (and before the education property tax increase!) Vermont’s Economic Outlook rating is 49 lowest of all states The Vermont State Budget is now $9.3B ($1B more than NH which has twice the population of VT).
+Vermonters' Tax Burden is the 3rd highest in the USA, only behind New York and Hawaii.
+I support $250 million in income-tax relief in 2027, with relief targeted toward low- and middle-income Vermonters, Social Security recipients and retired military recipients.
+Vermonters must be able to keep more of what they earn Vermont’s Economic Outlook rating is 49 lowest of all states The Vermont State Budget is now $9.4B ($1B more than NH which has twice the population of VT).
 New Hampshire is not perfect but with no income tax, no sales tax, and as of this year a lower property tax rate, they are doing something right.
 There is a lesson to be learned from our neighbor and yes, our competitor.
 We can no longer abide payroll taxes, increased DMV fees, cloud taxes, and proposed increased property taxes on private second properties owned by Vermonters.

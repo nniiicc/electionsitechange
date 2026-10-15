@@ -1,11 +1,11 @@
-Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Bring Costs Down.
+Skip navigation menu About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Bring Costs Down.
 Clean Up Washington.
 Take Congress Back.
 Email Email Phone Phone ZIP Code ZIP Code Submit I agree to receive periodic text messages from Marni von Wilpert For Congress.
 Message and data rates may apply.
 Messaging frequency varies.
 Text STOP to stop receiving messages.
-About Endorsements Issues Volunteer Store News Media Donate Bring Costs Down.
+About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Bring Costs Down.
 Clean Up Washington.
 Take Congress Back.
 Email Email Phone Phone ZIP Code ZIP Code Submit I agree to receive periodic text messages from Marni von Wilpert For Congress.

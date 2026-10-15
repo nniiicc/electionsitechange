@@ -5,5 +5,5 @@ Because of your support, we have officially won the Democratic primary for South
 I am deeply honored by the trust you've placed in me, and I'm grateful to every volunteer, supporter, donor, and voter who helped make this moment possible.
 This victory is about more than one campaign—it's about a shared belief that District 122 deserves leadership that listens, shows up, and works tirelessly for...
 27 0 Mar 28, 2026 ∙ 1 min Korey Williams files to run for SC House District 122 Korey committed early, because it's just that important.
-21 0 803.398.1423 KoreyforSC122@gmail.com South Carolina, USA Privacy Policy Accessibility Statement Terms & Conditions © # by Korey for SC 122.
+22 0 803.398.1423 KoreyforSC122@gmail.com South Carolina, USA Privacy Policy Accessibility Statement Terms & Conditions © # by Korey for SC 122.
 Powered and secured by Wix bottom of page

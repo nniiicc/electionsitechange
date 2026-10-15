@@ -64,7 +64,22 @@ Unfortunately, over the years, this area of regulation has become more complicat
 However, there are no requirements that any of the Commissioners have any type of expertise.
 Most do not have any, except on the job experience.
 I am working on a bi-partisan bill that will completely reshape the PSC, including certain requirements to be a commissioner and to have the commission appointed by a Board made up of elected officials and Montanans.
-Donate Here Endorsed by Brian Gallik's Endorsement Voters in House District 60, Four Corners to West Yellowstone, might think Alanah Griffith, a lawyer, has little to do with small businesses.
+Donate Here Endorsed by Beyond Party Endorsement On behalf of Beyond Party – Montana First, I am pleased to let you know that our Board of Directors has voted to endorse your candidacy for the Montana Legislature.
+As a new organization, Beyond Party has taken great care to approach endorsements thoughtfully and selectively.
+This election cycle, we focused our attention on races where the outcome is likely to be particularly close or especially consequential to the future of our communities and our state.
+Our endorsement process is grounded in our mission to support leaders who are committed to strengthening democracy, improving civic discourse, and putting the public interest ahead of partisan division.
+After careful review and discussion, we believe you demonstrate the qualities that align with our mission and values, as well as the leadership, integrity, and commitment to democratic principles that Montana needs.
+We are proud to add our support to your campaign.
+We have shared our endorsement with our members and supporters in our latest newsletter, which is attached.
+We will continue to promote our endorsed candidates through social media and other communications between now and Election Day.
+We want our support to be helpful and aligned with your campaign’s needs.
+If there is anything you’d like us to know about messaging, timing, or how we share our endorsement, we would be glad to hear from you.
+Please feel free to share this endorsement with your supporters.
+You will also find our logo attached for your use.
+If there are additional ways we can help amplify your campaign, we would be happy to discuss them.
+Thank you for your willingness to serve and for your commitment to strengthening Montana.
+Congratulations, and best wishes for a successful campaign.
+Sincerely, Katie Vaughan Brian Gallik's Endorsement Voters in House District 60, Four Corners to West Yellowstone, might think Alanah Griffith, a lawyer, has little to do with small businesses.
 Not so.
 In her years as an attorney in the district she’s worked with and helped many small businesses throughout Gallatin County.
 She knows small businesses are the backbone of the economy.
@@ -75,11 +90,6 @@ Electing representatives who work to pull people together to find commonsense so
 Griffith has done that her entire career.
 I am confident she will continue to do the same in Helena as the representative for HD60.
 Help me elect Alanah Griffith in November.
-Jim and Diane Cashell's Endorsement House District 60 needs a representative from Gallatin County that reflects Montana.
-Alanah Griffith is that Candidate.
-A product of local schools, a family that understands community, loyalty and Montana.
-Alanah knows the value of relationships and compromise in government.
-Alanah will provide the Leadership and representation that Montana Needs.
 Dorothy Bradley's Endorsement I hope you will support Alanah Griffith, Democrat for the Montana House, in HD 60.
 I’ve known Alanah since she was a law clerk for Judge Mark Guenther in the early 2000s, and I was the court administrator.
 Alanah is smart, studious, energetic, and has a heart of gold.
@@ -96,4 +106,9 @@ Many of her clients, from individuals to homeowner associations, are in HD 60.
 She knows the people who live there, many of them personally.
 She knows their concerns, their challenges, needs and worries.
 She can represent the citizens of the district in the way that a representative should.
+Jim and Diane Cashell's Endorsement House District 60 needs a representative from Gallatin County that reflects Montana.
+Alanah Griffith is that Candidate.
+A product of local schools, a family that understands community, loyalty and Montana.
+Alanah knows the value of relationships and compromise in government.
+Alanah will provide the Leadership and representation that Montana Needs.
 Designed by Elegant Themes | Powered by WordPress

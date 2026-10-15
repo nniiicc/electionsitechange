@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Senator Thompson secures $2M PREP grant for Piedmont Sen.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Senator Thompson secures $2M PREP grant for Piedmont Sen.
 Kristen Thompson, R-Edmond, announced that the Oklahoma Water Resources Board approved a $2 million Progressing Rural Economic Prosperity (PREP) grant to support the Piedmont Municipal Authority’s water system upgrades.
 The grant, combined with an $809,080 OWRB Financial Assistance Program loan, will fund a $2.81 million project to design and construct approximately 9,200 feet of new 16-inch waterline and related infrastructure .
 “Reliable water is basic infrastructure for families and job creators,” Thompson said.

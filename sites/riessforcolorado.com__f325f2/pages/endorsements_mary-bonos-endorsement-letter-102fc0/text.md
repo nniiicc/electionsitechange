@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Mary Bono Former U.S.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Mary Bono Former U.S.
 Congresswoman Mary Bono endorses Naomi Riess for Colorado House District 59.
 I am proud to endorse Naomi Riess for Colorado House District 59.
 During my nearly 15 years in Congress, I learned that effective leadership begins with listening, doing your homework and understanding how public policy affects people’s everyday lives.

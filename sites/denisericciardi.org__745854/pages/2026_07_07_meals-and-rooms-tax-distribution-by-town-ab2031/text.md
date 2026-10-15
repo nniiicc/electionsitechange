@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Meals and Rooms Tax Distribution by Town Jul 7, 2026 Great news for District 9!
 Since the passage of my SB 99 Rooms & Meals Tax legislation, our communities have seen an additional $2.84 million in Rooms & Meals revenue—doubling local distributions from $2.85 million in FY20 to $5.69 million in FY26.
 This is exactly why I fought for this legislation: to ensure the communities that help drive New Hampshire’s economy receive a greater share of the revenue they generate.

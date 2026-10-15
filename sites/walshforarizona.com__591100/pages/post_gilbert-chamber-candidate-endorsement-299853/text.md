@@ -1,5 +1,7 @@
 top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
-All Articles Press Announcement Search Gilbert Chamber Candidate Endorsement Jun 1 2 min read Updated: Jul 31 Dear Candidates, On behalf of the Gilbert Chamber of Commerce, thank you for your participation in our 2026 candidate engagement and endorsement process.
+All Articles Press Announcement Search Gilbert Chamber Candidate Endorsement Jun 1 # min read Updated: #ago Link to all Gilbert Chamber Endorsements: gilbertaz.com Gilbert Chamber of Commerce Serving the Gilbert, AZ business community since 1978.
+Find local business directories, professional development resources, and advocacy initiatives at gilbertaz.com.
+Dear Candidates, On behalf of the Gilbert Chamber of Commerce, thank you for your participation in our 2026 candidate engagement and endorsement process.
 We appreciate the time, effort, and thoughtfulness each of you invested in completing interviews, sharing your perspectives, and engaging with Gilbert's business community.
 The Chamber's endorsement process is designed to help business leaders and stakeholders better understand the candidates seeking to serve our community.
 Through candidate interviews and member-driven evaluations, we aim to identify candidates whose positions, priorities, and leadership most closely align with the Chamber's mission to advance a strong, vibrant, and competitive business environment.
@@ -10,8 +12,7 @@ We encourage all candidates to remain engaged with the Chamber and the business 
 We welcome opportunities to continue conversations, share business perspectives, and work collaboratively on issues that impact Gilbert's future.
 Thank you again for your willingness to serve our community.
 We wish each of you the very best in your campaign and look forward to future opportunities to work together.
-Instagram Announcement Sincerely, Recent Posts See All Stephanie Walsh endorsed by the Forward Party!
-Watch Stephanie at the Arizona Clean Elections Debate Check out: The Independent News: Why Stephanie Walsh is the state senator LD 14 deserves Why Stephanie Walsh is the state senator LD 14 deserves ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Instagram Announcement Sincerely, Recent Posts See All Arizonans deserve more than family name Gilbert Sun News: Both Gilbert senate seats up for grabs as early voting begins Stephanie Walsh is endorsed by Arizona Save Our Schools ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

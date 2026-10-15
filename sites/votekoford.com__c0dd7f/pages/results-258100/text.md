@@ -19,11 +19,12 @@ Ensuring Fair Land Appeals: Removes city councils from judging building disputes
 Lowering Overhead for Homebuyers: Reins in excessive city development requirements to directly lower final home prices.
 Lowering Housing Costs for Utah Families.
 Jill Koford is leading the effort to hold data centers and high-volume industrial water users accountable, protecting Utah’s natural resources and safeguarding the Great Salt Lake for future generations.
-Holding Data Centers & Industrial Users Accountable: Championed legislation targeting high-volume water consumption and establishing strict oversight, reporting, and management standards.
-2026 HB76: Demands transparency from large data centers by requiring strict reporting on high-volume water use.
-2025 HB446: Strengthens sovereign land leases to regulate mineral extraction and prevent excessive water depletion.
-2026 HB348: Tightens dedicated water right protections and closes regulatory gaps.
-2026 HB410: Establishes targeted programs to fund water leasing and preserve lake levels.
+Holding Data Centers & Industrial Users Accountable: Championed legislation targeting high-volume water and power consumption, establishing strict oversight, transparency, and grid protections to safeguard Utah residents.
+2026 HB76 (Sponsored): Demands transparency from large data centers by requiring strict reporting on high-volume water use.
+2025 SB132 (Voted “Yes”): Protects Utah families from rising energy bills by requiring data centers and large energy users to pay for their own power through special utility contracts, third-party generators, or off-grid systems, preventing service costs from being passed on to residents.
+2025 HB446 (Sponsored): Strengthens sovereign land leases to regulate mineral extraction and prevent excessive water depletion.
+2026 HB348 (Sponsored): Tightens dedicated water right protections and closes regulatory gaps.
+2026 HB410 (Sponsored): Establishes targeted programs to fund water leasing and preserve lake levels.
 Optimizing Lake Ecosystem Management: Supported HB1001 during the special session to enhance berm management, arguably the single most effective tool available to manage salinity and safeguard the Great Salt Lake ecosystem.
-Leading by Example in Public Conservation: Voted for 2026 SB252 , requiring state and local government facilities to conserve outdoor water use and lead the way in water efficiency.
+Leading by Example in Public Conservation: Served as floor sponsor on 2026 SB252 , requiring state and local government facilities to conserve outdoor water use and lead the way in water efficiency.
 Holding Data Centers Accountable Site Information Copyright # All Rights Reserved Privacy Policy Stay Connected With Jill Paid for by the Jill Koford Campaign

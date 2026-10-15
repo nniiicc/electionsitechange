@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from John Ranson John Ranson To the residents of House District 59, I am pleased to offer my full endorsement of Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from John Ranson John Ranson To the residents of House District 59, I am pleased to offer my full endorsement of Naomi Riess for Colorado House District 59.
 Over the past several months, I’ve had the opportunity to meet Naomi, learn about her priorities, and understand the depth of her commitment to Southwest Colorado.
 It became clear very quickly that Naomi has the integrity, work ethic, and common-sense leadership that our region needs at the State Capitol.
 Naomi has lived in Southwest Colorado for more than 35 years.

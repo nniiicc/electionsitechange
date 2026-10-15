@@ -22,5 +22,5 @@ They have two daughters, Maddy who is a graphic designer in Austin, Texas and Cl
 “Freedom is never more than one generation away from extinction.
 We didn’t pass it to our children in the bloodstream.
 It must be fought for, protected, and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children’s children what it was once like in the United States where men were free.” ― President Ronald Reagan (The 40th U.S.
-President of the United States) SUPPORT CLAY TODAY Join the fight to uphold the Biblical Principles, Constitutional Guidelines and Limited Government in Oklahoma by becoming a member of our growing team Full Name * Phone Email * City City OkforClay@gmail.com Authorized and Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay.
+President of the United States) SUPPORT CLAY TODAY Join the fight to uphold the Biblical Principles, Constitutional Guidelines and Limited Government in Oklahoma by becoming a member of our growing team Full Name * Phone Email * City City Join The Team OkforClay@gmail.com Authorized and Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay.
 All rights reserved. | Sitemap | Privacy Policy Meet Clay Core Principles Core Issues Contact Clay Donate

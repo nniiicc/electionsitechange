@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact What do you want to tell susan?
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact What do you want to tell susan?
 Thanks for your input!
 Susan Doman P.O.
 Box 326 Brandenburg KY 40108 (270) 828-5367 SusanDomanForKY@gmail.com First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Send us a message!

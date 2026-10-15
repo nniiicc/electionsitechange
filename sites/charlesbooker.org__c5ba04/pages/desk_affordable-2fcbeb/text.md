@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Blog Posts AFFORDABILITY: Making Life More Affordable Every time we go to the gas station or grocery store, we feel it.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Blog Posts AFFORDABILITY: Making Life More Affordable Every time we go to the gas station or grocery store, we feel it.
 Gas keeps rising.
 The cost of living is through the roof.
 A paycheck that used to cover gas and keep food on the table is stretched thin.

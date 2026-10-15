@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet First Day of Canvassing in Lemoore 9/11/26 Team Sandra Sep 7 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer First Day of Canvassing in Lemoore 9/11/26 Team Sandra Sep 7 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.
 A grassroots candidate can only win with grassroots support.

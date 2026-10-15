@@ -25,7 +25,7 @@ When a census worker doesn’t find you home they will leave a Notice of Visit.
 This gives you a temporary 2-day Census ID to use in filling out the interview ONLINE or by telephone 📞 844-330-2020.
 Phone support is Sunday through Saturday 7:00am to 2:00am Eastern Time.
 If you are in the 40% that don’t have internet access please MAKE THE PHONE CALL.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

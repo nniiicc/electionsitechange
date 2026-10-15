@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Clark Craig Clark Craig My Endorsement of Naomi Riess for HD59, Clark Craig Friends and neighbors, Last November, I had the honor of running for House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Clark Craig Clark Craig My Endorsement of Naomi Riess for HD59, Clark Craig Friends and neighbors, Last November, I had the honor of running for House District 59.
 While the outcome was not what we had hoped for, the closeness of the race proved that our message and values truly resonate in Southwest Colorado.
 I remain deeply grateful for your support—your votes, donations, encouragement, and countless hours of hard work made that effort possible.
 After much reflection, I want to share with you directly that I will not be running again in 2026.

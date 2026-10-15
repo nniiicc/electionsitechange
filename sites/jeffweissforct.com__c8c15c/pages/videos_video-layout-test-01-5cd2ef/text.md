@@ -2,4 +2,4 @@ Menu About Jeff Issues Videos Subscribe ← All Videos Video of the Week Video L
 I’m Jeff Weiss Stay Connected Get updates from Jeff’s campaign.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

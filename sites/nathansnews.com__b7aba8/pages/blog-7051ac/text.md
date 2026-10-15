@@ -1,4 +1,4 @@
-Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate Nathan’s News Nathan’s News October 6, 2026 Campaign Update – 4 weeks til Election Day Spent some time again this afternoon personally delivering yard signs to supporters in the community!
+Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate Nathan’s News Nathan’s News October 14, 2026 Campaign Update – more yard signs and ballot info Watch October 6, 2026 Campaign Update – 4 weeks til Election Day Spent some time again this afternoon personally delivering yard signs to supporters in the community!
 EARLY VOTING starts in less than 2 weeks: October 19th Richland County voters can vote […] Watch September 28, 2026 Campaign signs are going up!
 Let me know where to deliver yours!
 I waited until this week to start delivering my yard signs and look forward to visiting with you at your doorstep.
@@ -12,11 +12,9 @@ I’ve been walking the route (and Okra Strut Parade in Irmo) many years!
 Unless I’m out of town, […] Watch September 1, 2026 Asking for your support and vote this November!
 I’m asking for your vote to continue serving the Irmo-Chapin community in the South Carolina State House.
 For years, I’ve had the honor of serving you and your family in […] Read More September 1, 2026 Update: Broad River Road Widening (video) It’s been a long time coming (and we still have more to go) but at least we are seeing progress.
-Here’s my last update earlier this year along with links […] Watch August 24, 2026 Reminder: 21st Annual Irmo Community Prayer Breakfast (video) For more information about this year’s Prayer Breakfast, click here.
-Be sure to call or email Desiree to reserve your seat (FREE, as always – thanks to our generous sponsors).
-Watch Posts pagination 1 2 … 135 Next Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Here’s my last update earlier this year along with links […] Watch Posts pagination 1 2 … 135 Next Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

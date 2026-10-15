@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → ← All Videos Message Demand Debate September 30, 2026 · 36s 🚨 DELAWARE VOTERS: DEMAND THE DEBATE! 🗳️ Delaware voters deserve to see their U.S.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → ← All Videos Message Demand Debate September 30, 2026 · 36s 🚨 DELAWARE VOTERS: DEMAND THE DEBATE! 🗳️ Delaware voters deserve to see their U.S.
 Senate candidates side by side, answering the same tough questions.
 WDEL offered to host a Katz-Coons debate to air on WDEL and NBC CoastTV.
 I accepted.

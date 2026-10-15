@@ -46,4 +46,4 @@ Msg&Data Rates May Apply.
 Messaging may include requests for donation, election reminders, opinion polls, and public service announcements.
 Reply “STOP” to cancel.
 Reply “HELP” for help.
-See our Privacy Policy | Terms and Conditions Submit Donate Today $7 $28 $117 $343 $2401 $3500 Other
+See our Privacy Policy | Terms and Conditions Submit

@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage Posted October 2, 2026 By Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage Posted October 2, 2026 By Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
 Diabetes.
 Infections.
 Preterm labor.

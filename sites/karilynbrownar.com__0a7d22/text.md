@@ -1,4 +1,4 @@
-Re-Elect Karilyn Brown Donate Re-Elect Karilyn Brown Donate Vote For The Right Choice For District 67 Re-Elect Karilyn Brown for State Rep DONATE Getting Things Done for House District 67 As your State Representative, Karilyn Brown has been: An advocate for military families and veterans A champion for fair and transparent elections Building safer communities Fighting inflation and lowering taxes A champion for students and teachers Meet Karilyn Brown Rep.
+Re-Elect Karilyn Brown Contact Donate Re-Elect Karilyn Brown Contact Donate Vote For The Right Choice For District 67 Re-Elect Karilyn Brown for State Rep DONATE Getting Things Done for House District 67 As your State Representative, Karilyn Brown has been: An advocate for military families and veterans A champion for fair and transparent elections Building safer communities Fighting inflation and lowering taxes A champion for students and teachers Meet Karilyn Brown Rep.
 Karilyn Brown is serving her 6th term in the Arkansas House.
 She represents District 67 which includes portions of Pulaski County.
 Prior to being elected to the Arkansas House, Rep.

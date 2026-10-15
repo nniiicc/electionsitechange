@@ -31,17 +31,14 @@ That is how I served in the Army, and it is how I fight for the Treasure Coast a
 I will keep standing up for our water, our veterans, our families, and our country, but I cannot do it alone.
 Sixty-nine days is enough time to organize, persuade, volunteer, and win.
 It is also short enough that we cannot waste a single one.
-Related Posts: Honoring the Battle After the Battlefield June 8, 2026 $2 Billion Secured To Accelerate Everglades Restoration April 17, 2026 I lost two legs serving in Afghanistan.
-Veterans need you today.
-August 15, 2022 INFORMATION FOR FLORIDA VOTERS July 19, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: I won’t back down in my support for Israel.
+Here’s why… May 30, 2024 8 Months Until Election Day March 9, 2022 Our Water, Our Fight: An Update On Clean Water In Our Community April 1, 2026 Mast Launches Campaign In FL-21 April 25, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
-One Mission.
-Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

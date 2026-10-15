@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Vigo County Canvassing - Phonebanking is also an option.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Back to All Events Vigo County Canvassing - Phonebanking is also an option.
 Saturday, April 25, 2026 12:00 PM 1:00 PM Vigo County Democratic Headquarters 2629 S 3rd St Suite B (map) Google Calendar ICS Let's talk to our neighbors about Mary Allen!
 We will meet at the campaign office and then go out to canvass in Vigo County.
 Phonebanking opportunities will be available this day as well.

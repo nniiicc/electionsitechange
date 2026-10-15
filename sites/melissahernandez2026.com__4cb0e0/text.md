@@ -9,7 +9,7 @@ As Mayor, she kept Dublin financially strong without raising taxes, built housin
 Now she's running for Congress to bring that same results-driven leadership to Washington.
 Read Melissa's Story Proudly Endorsed By Melissa is backed by the leaders our communities trust — members of Congress, state and local leaders, firefighters, and law enforcement across the Tri-Valley and East Bay.
 Zoe Lofgren U.S.
-Representative Sam Liccardo U.S.
+Representative Adam Gray U.S.
 Representative Sherry Hu Mayor of Dublin Mark Salinas Mayor of Hayward Alameda County Deputy Sheriffs Association Alameda County Firefighters Association See All Endorsements Help Us Win Support Our Campaign Melissa is taking on the fight to lower costs, build more housing, and deliver for East Bay families — but she can't do it alone.
 Chip in today to help send a proven problem-solver to Congress.
 If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.

@@ -16,11 +16,11 @@ Specifically, I’ve helped pass legislation to strengthen protections for whist
 Sadly, the policies proposed by Democrats in Washington, D.C. seem designed to achieve the exact opposite: more power for them, their special interest allies and their political operatives.
 Recently, they’ve sought to manipulate the federal election system to funnel taxpayer dollars into their own campaigns, turn Washington, D.C. into a state, raise taxes, spend trillions of dollars we don’t have and force their radical social agenda on all of us.
 I strongly oppose their embrace of socialist policies, and I’ll do everything in my power to stop it from happening!
-Sign Up Here To Learn More About My Fight To Drain The Swamp Related Blog Posts: What Service Before Self Means To Me September 16, 2026 56 Days.
+Sign Up Here To Learn More About My Fight To Drain The Swamp Related Blog Posts: Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves October 14, 2026 What Service Before Self Means To Me September 16, 2026 56 Days.
 One Mission.
 September 7, 2026 61 Days To Defend Florida’s Future September 1, 2026 69 Days to Defend Florida’s Future August 24, 2026 Seven Days.
 One Mission.
-August 9, 2026 # Days To Vote August 3, 2026 Twenty Days To Win The Primary July 27, 2026 One Week To Register July 14, 2026 12 Days to Register and a Primary We Cannot Sleepwalk Into July 6, 2026 Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+August 9, 2026 # Days To Vote August 3, 2026 Twenty Days To Win The Primary July 27, 2026 One Week To Register July 14, 2026 Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

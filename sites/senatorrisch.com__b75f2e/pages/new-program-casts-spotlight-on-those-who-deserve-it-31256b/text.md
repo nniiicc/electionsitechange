@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu New program casts ‘Spotlight’ on those who deserve it Coeur d’Alene Press We like it.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu New program casts ‘Spotlight’ on those who deserve it Coeur d’Alene Press We like it.
 On the 136th anniversary of Idaho statehood, Sen.
 Jim Risch announced a new initiative that deserves support from citizens across the Gem State.
 The Idaho Service Spotlight, a biweekly recognition program honoring individuals whose courage, leadership, and sacrifice strengthen their communities, reflects the best of Idaho’s traditions and values.

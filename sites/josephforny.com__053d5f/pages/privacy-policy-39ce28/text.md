@@ -29,4 +29,4 @@ Continued use of the Website after changes are posted constitutes acceptance of 
 Contact Us If you have questions regarding this Privacy Policy or how your information is handled, please contact us through the contact form available on JosephForNY.com.
 COPYRIGHT © # JOSEPH FOR NY.
 ALL RIGHTS RESERVED.
-PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Privacy Policy
+PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Voting | Contact Congressman Privacy Policy

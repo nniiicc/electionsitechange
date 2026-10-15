@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Kathryn Larson Independent for Idaho Independent means I’m accountable to you .
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube Kathryn Larson Independent for Idaho Independent means I’m accountable to you .
 I answer to the people who live and work in District 1.
 Independent The Idaho Independent Train is on a whistlestop, listening tour.
 Coming to a location near you.

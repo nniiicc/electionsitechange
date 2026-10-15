@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Financial Responsibility & Accountability Washington doesn't have a revenue problem.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Financial Responsibility & Accountability Washington doesn't have a revenue problem.
 It has a spending and accountability problem.
 The money is here.
 What is missing is the discipline to manage it, protect it, and prove to taxpayers that every dollar is being spent wisely.

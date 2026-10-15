@@ -11,7 +11,7 @@ We’re incredibly grateful for every person who has supported this campaign.
 With gratitude, Lexxa LaPointe Campaign Manager Lauren Cole for Indiana House District 37 P.S.
 If you’re not sure which way you’d like to help, just reply to this email and let us know.
 We’ll find a way to plug you in!
-CHIP IN TO HELP FUND THE FINAL TWO MAILERS Recent Posts See All A FREE way to support us!
+CHIP IN TO HELP FUND THE FINAL TWO MAILERS Recent Posts See All Where Lauren Stands: Endorsements, Campaign Updates & How You Can Help A FREE way to support us!
 Celebrate Lauren's Birthday This Sunday!
 Come celebrate Lauren Cole's 29th birthday with a fun, kid-friendly morning of bubbles, snacks, conversation, and community!
-314 Action Official Endorsement BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page
+BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

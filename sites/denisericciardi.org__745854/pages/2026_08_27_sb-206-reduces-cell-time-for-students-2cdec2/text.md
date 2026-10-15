@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page SB 206 Reduces Cell Time for Students Aug 27, 2026 Last year, we passed a law ( SB 206 ) to get cell phones out of the classroom, and the results show our efforts are paying off.
 Teachers say students are more focused and less distracted.
 I’m so happy to see my bill producing such positive results!

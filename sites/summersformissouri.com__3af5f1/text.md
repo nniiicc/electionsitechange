@@ -10,11 +10,7 @@ It’s not your fault; you have been victimized by a broken system, and I KNOW w
 We have to do better.
 My job as your Representative is to help keep you safe.
 That’s why I’m running for Missouri State Representative to represent YOU in District 94, because I know what pain is like, and I want to protect the people of my community.
-I will do so, grounded in our shared beliefs Healthy Communities - Educated Population Responsible Government Our New shop New!!
-We now have our merchandize shop up and running.
-Please come check out what we have to offer like hats, shirts and signs.
-All profits go to support the campaign!
-Go Shopping  Cathy's Core Values Service A lifetime dedicated to serving others, from motherhood to church and community.
+I will do so, grounded in our shared beliefs Healthy Communities - Educated Population Responsible Government Cathy's Core Values Service A lifetime dedicated to serving others, from motherhood to church and community.
 Integrity Honest, transparent leadership that puts people before politics.
 Healthy Communities Building stronger neighborhoods through collaboration and mutal support.
 Accountability Taking responsibility and delivering results for constituents.

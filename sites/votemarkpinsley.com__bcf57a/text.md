@@ -2,9 +2,13 @@ Skip to main content Skip to footer Opens in a new tab DONATE The Candidate The 
 Not the POWERFUL.
 See Mark's plans for lowering costs MARK PINSLEY For the PEOPLE.
 Not the POWERFUL.
-See Mark's plans for lowering costs Mark is working for Pennsylvanians Data Centers Pay Their Own Way Raise the Wage Cut Property Taxes Healthcare Everyone Can Afford Fully Fund Our Schools Data centers have gone too far.
+See Mark's plans for lowering costs Mark is working for Pennsylvanians Data Centers Pay Their Own Way Make AI Pay Its Way Raise the Wage Cut Property Taxes Healthcare Everyone Can Afford Fully Fund Our Schools Data centers have gone too far.
 Corporations are building massive data centers across Pennsylvania that increase energy costs, strain the grid, and threaten our communities.
 That's why I support a moratorium on data centers to give the State Legislature time to pass laws to require data centers to pay for grid upgrades, force public hearings before electricity rates go up, and make regulators answer to Pennsylvania families instead of utility shareholders.
+Learn More Technology should make work easier, not leave Pennsylvania workers behind while big companies pocket the savings.
+I’ll fight to hold corporations accountable when they replace workers with AI or automation by requiring them to help fund retraining, job placement, and health coverage.
+Workers deserve stronger layoff notice and severance protections, transparency when AI eliminates jobs, and the right to human review when automated systems make decisions affecting their jobs, benefits, or health care.
+Progress shouldn’t come at the expense of working families, and companies that profit from replacing workers shouldn’t leave taxpayers to pick up the bill.
 Learn More Our minimum wage has been frozen at $7.25 for 17 years.
 Every state that borders us has a higher minimum wage.
 That's a disgrace.
@@ -50,7 +54,8 @@ Army veteran, public servant, and Lehigh County Controller who has spent his car
 He is running for State Senate because life should cost less, families should own more, and government should work for the people who pay the bills not corporations, billionaires, and political insiders.
 As Controller, Mark has fought to lower prescription drug costs, protect taxpayer dollars, and shine a light on government failures that too often hurt families.
 In Harrisburg, he will fight to lower the cost of living for Pennsylvania families, from healthcare, prescription drugs, utility bills, housing, and everyday expenses and ensure data centers and major corporations are held accountable to the people of Pennsylvania.
-Learn More About Mark Mark is endorsed by: Josh Shapiro Governor of Pennsylvania Bernie Sanders Senator (I-VT) Ro Khanna CA Congressman Steve Santarsiero State Senator Josh Siegel Lehigh County Executive Daniel A.
-Buglio Lehigh County Coroner Sarah Fevig Lehigh County Commissioner Jon Irons Lehigh County Commissioner April Riddick Lehigh County Commissioner Tommy Johns South Whitehall Township Commissioner Stephen Nathan Alternate Member, Zoning Hearing Board for Perkasie Borough Alan Jennings Former Executive Director, Community Action Lehigh Valley Paid for by Friends of Mark Pinsley.
+Learn More About Mark Mark is endorsed by: Josh Shapiro Governor of Pennsylvania Bernie Sanders Senator (I-VT) Ro Khanna CA Congressman Steve Santarsiero State Senator Mike Schlossberg State Representative Josh Siegel Lehigh County Executive Daniel A.
+Buglio Lehigh County Coroner Sarah Fevig Lehigh County Commissioner Jon Irons Former Lehigh County Commissioner April Riddick Lehigh County Commissioner Bradley Merkl-Gump Pennridge School Board Member Tommy Johns South Whitehall Township Commissioner Stephen Nathan Alternate Member, Zoning Hearing Board for Perkasie Borough Alan Jennings Former Exec.
+Director, Community Action Lehigh Valley Paid for by Friends of Mark Pinsley.
 Military service and photographs in uniform do not imply endorsement by the Department of Defense or Department of the Army .
 The Candidate The issues get involved donate contact Privacy policy Terms and Conditions Copyright # Friends of Mark Pinsley 1855 Valley Forge Road Allentown PA

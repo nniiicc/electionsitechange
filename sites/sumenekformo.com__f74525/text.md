@@ -12,7 +12,7 @@ Add your contact info to get updates on Meredith’s campaign for the 95th Distr
 By signing up, you agree to receive recurring automated campaign messages from Meredith Sumenek for MO Campaign Fund at the phone number or email address provided.
 Message and data rates may apply.
 Text STOP to opt out or HELP for help.
-JOIN US power meredith’s campaign with a donation A VIDEO MESSAGE FROM MEREDITH OUR DISTRICT HAS BEEN WITHOUT REPRESENTATION SINCE JANUARY, 2025.
+JOIN US power meredith’s campaign with a donation VIDEO MESSAGEs FROM MEREDITH More Videos OUR DISTRICT HAS BEEN WITHOUT REPRESENTATION SINCE JANUARY, 2025.
 LEARN MORE where is DISTRICT 95?
 Missouri State House District 95 is located South of Highway 270, in the southernmost part of South St.
 Louis County, in the area of Mehlville and Oakville.

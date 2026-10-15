@@ -1,10 +1,6 @@
-Home From the Trail Meet Cathy Contact My Vision Donate Faith.
-Integrity.
-Leadership That Delivers.
-Grounded in Christian values, committed to serving North Carolina with honesty, accountability, and purpose.
-Donate Volunteer for her Reviving Small Town North Carolina.
-Growing up in Elm City, Cathy knows firsthand the strength and pride of small communities.
-She is committed to attracting business, supporting local entrepreneurs, and restoring economic vitality across District 8.
-With a focus on tax relief and responsible leadership, she will fight to ensure families and businesses can succeed.
-Campaign Trail Highlights Connecting with voters and communities across the district.
-Campaign Pictures Home About Contact How you can help Copyright © # | Paid for by the Commitee to Elect Cathy Thorne Bynum Customize Reject All Accept All Powered by
+JavaScript is required.
+Please enable JavaScript in your browser settings to complete human verification.
+You will be redirected to cathythornebynum.com in 10 seconds CONFIRMING YOU ARE HUMAN Your IP address is 34.57.81.199 Please complete the security check before continuing...
+We could not verify you are human.
+Looks like you are a Bot HUMAN VERIFICATION FAILED!
+You are here because the url you are trying to access is protected by cPGuard.

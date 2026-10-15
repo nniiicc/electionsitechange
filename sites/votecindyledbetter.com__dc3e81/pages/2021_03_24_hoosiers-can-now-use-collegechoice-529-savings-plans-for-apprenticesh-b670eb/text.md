@@ -7,7 +7,7 @@ The qualified apprenticeship programs must be certified by the Secretary of Labo
 This comes at a time when Indiana is working to skill up its workforce and fill thousands of unfilled, high-paying positions across the state.
 Many of these positions require an applicant to undergo apprenticeship training.
 For more information about how to sign up for a CollegeChoice 529 Savings Plan, visit in.gov/tos/iesa Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev Supporting Hoosier entrepreneurs Next WNIN Lawmakers 2021 Session Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev Supporting Hoosier entrepreneurs Next WNIN Lawmakers 2021 Session Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

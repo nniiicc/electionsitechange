@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Better Alternative: Self-Grown Plants Posted March 20, 2019 By Lauren Stewart Capitol Corner In wake of current controversy, the topic of medical marijuana has made its way to the state of Georgia.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate A Better Alternative: Self-Grown Plants Posted March 20, 2019 By Lauren Stewart Capitol Corner In wake of current controversy, the topic of medical marijuana has made its way to the state of Georgia.
 We have already seen some previous legislation begin to take effect in Georgia.
 The city of Atlanta has decriminalized possession of marijuana under a certain amount.
 Moreover, the state of Georgia has legalized medical marijuana or cannabis oil use for those individuals that have a medical condition that would be improved from the use of THC oil.

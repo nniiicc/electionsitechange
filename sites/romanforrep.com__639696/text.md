@@ -1,4 +1,4 @@
-top of page Meet Roman Priorities Affordability Education Innovation Affordability Education Innovation Endorsements Campaign Updates Donate Menu Close It's Time for Something New.
+top of page Meet Roman Priorities Housing Energy Healthcare Artificial Intelligence Data Centers Housing Energy Healthcare Artificial Intelligence Data Centers Endorsements Campaign Updates Donate Menu Close It's Time for Something New.
 The world is changing faster than our politics.
 Artificial intelligence is reshaping work and society, the cost of living is out of control, and Michigan is losing the industries and people that will define the decades ahead.
 We need more than vague talking points, broad promises, and a wishlist of priorities.
@@ -90,8 +90,7 @@ Roads: Enact longer-lasting road standards, more competition in state contractin
 Building Our Future.
 We can't compete by reacting to change after it happens.
 Roman will advocate to modernize infrastructure, rebuild strategic industries, and set smart rules for emerging technologies before they reshape our communities.
-Artificial Intelligence Create a Select Committee on Artificial Intelligence to give the Legislature sustained expertise and oversight as the technology develops.
-Surveillance Pricing: Stop corporations from using AI to gouge your family by charging higher prices based on personal data.
+Artificial Intelligence Create a Select Committee on Artificial Intelligence to give the Legislature sustained expertise and oversight as the technology develops. ( For more details, click here. ) Surveillance Pricing: Stop corporations from using AI to gouge your family by charging higher prices based on personal data.
 Protect Children: Establish stronger safeguards around AI products used by minors.
 Safeguard Personal Data: Give Michiganders greater control over how companies collect and use personal information.
 Create a Select Committee on Artificial Intelligence to give the Legislature sustained expertise and oversight as the technology develops.
@@ -99,7 +98,7 @@ Surveillance Pricing: Stop corporations from using AI to gouge your family by ch
 Protect Children: Establish stronger safeguards around AI products used by minors.
 Safeguard Personal Data: Give Michiganders greater control over how companies collect and use personal information.
 Infrastructure Build infrastructure that improves daily life and supports future growth.
-Roads: Enact longer-lasting road standards, more competition in state contracting for construction, and better coordination of projects so we stop paying for patchwork repairs over and over again.​ ​ Data Centers: Require data centers to build out their own energy capacity, use closed-loop cooling systems, and implement measures to mitigate noise.​ ​ Water Infrastructure: Increase oversight of major water systems, requiring long-term asset management, preventative maintenance, emergency redundancy, and transparent plans to replace critical infrastructure before it fails.
+Roads: Enact longer-lasting road standards, more competition in state contracting for construction, and better coordination of projects so we stop paying for patchwork repairs over and over again.​ ​ Data Centers: Require data centers to build out their own energy capacity, use closed-loop cooling systems, and implement measures to mitigate noise.​ ( For more details, click here. ) ​ Water Infrastructure: Increase oversight of major water systems, requiring long-term asset management, preventative maintenance, emergency redundancy, and transparent plans to replace critical infrastructure before it fails.
 Roman supports creating a Select Committee on Artificial Intelligence to give the Legislature sustained expertise and oversight as the technology develops.
 Surveillance Pricing: Stop corporations from using AI to gouge your family by charging higher prices based on personal data.
 Protect Children: Establish stronger safeguards around AI products used by minors.
@@ -120,4 +119,4 @@ Unsubscribe at any time by replying STOP. https://romanforrep.com/privacy-policy
 Submit Paid for by Friends of Roman Gaskey · P.O.
 Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Paid for by Friends of Roman Gaskey · P.O.
 Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Paid for by Friends of Roman Gaskey · P.O.
-Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Meet Roman Priorities Affordability Education Innovation Endorsements Campaign Updates Donate bottom of page
+Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Meet Roman Priorities Housing Energy Healthcare Artificial Intelligence Data Centers Endorsements Campaign Updates Donate bottom of page

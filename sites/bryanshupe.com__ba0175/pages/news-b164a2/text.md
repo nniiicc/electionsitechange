@@ -1,6 +1,12 @@
 36 th District Home About Priorities News Voting Get Involved Donate The Latest News & Updates Follow Bryan's latest conversations, local updates, and community posts straight from his social channels.
 Feed refreshes every 8 hours Follow Bryan Mr.
-302 BryanShupeDE · 10/13/2026 Higher taxes.
+302 BryanShupeDE · 10/15/2026 The Cape Gazette asked my opponent and me three questions about our local community ahead of the November 3rd election....
+The Cape Gazette asked my opponent and me three questions about our local community ahead of the November 3rd election.
+I was the only candidate to respond to Cape Gazette reporter Melissa Steele.
+Here are my answers below. https://www.capegazette.com/…/district-36-incumbent-…/3 View on Facebook BryanShupeDE · 10/14/2026 Join us for a family-friendly evening of **worship, prayer, food, music, games, and fun for all ages!** In partnership w...
+Join us for a family-friendly evening of **worship, prayer, food, music, games, and fun for all ages!** In partnership with **The Dwelling Place** and **Trinity Tabernacle**, we’re excited to bring you: 🎶 Four worship bands 🙌 Four powerful messages from special guest speakers View on Facebook BryanShupeDE · 10/14/2026 LOCAL CONTROL & PROPERTY RIGHTS HB 297 — HOLDING DEVELOPERS ACCOUNTABLE Sponsored legislation requiring developers to pr...
+LOCAL CONTROL & PROPERTY RIGHTS HB 297 — HOLDING DEVELOPERS ACCOUNTABLE Sponsored legislation requiring developers to provide financial security to help ensure required subdivision road improvements are completed.
+SS 2 FOR SB 23 — LOCAL LAND-USE AUTHORITY Opposed legislation conc View on Facebook BryanShupeDE · 10/13/2026 Higher taxes.
 Higher electric bills.
 More development.
 Your vote can change all that!
@@ -46,22 +52,8 @@ Every Delaware child deserves the opportunity to learn, the support to succeed, 
 Children deserve stronger schools.
 Every Delaware child deserves the opportunity to learn, the support to succeed, and a safe school.
 Parents deserve clear information about how their children’s schools are performing.
-Here’s how I’ve worked to turn those priorities into action: View on Facebook BryanShupeDE · 10/11/2026 Thank you CoastLife TV for visiting our small business the Farmacy Market!🥕🌱 How local is “local”?
-At Farmacy Market,...
-Thank you CoastLife TV for visiting our small business the Farmacy Market! 🥕🌱 How local is “local”?
-At Farmacy Market, more than 60% of what you’ll find comes from within 100 miles!
-We’re heading inside Farmacy Market in Milford to meet co-owners Patrick Helmick and Sherry Shup View on Facebook BryanShupeDE · 10/11/2026 SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every De...
-SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every Delawarean.” The majority party keeps using language that sounds compassionate while leaving the consequences out of the headline.
-Who would disagree that every D View on Facebook BryanShupeDE · 10/11/2026 You work overtime.
-Dover spends overtime.
-It’s time to change that.
-Delaware families deserve to keep more of their payc...
-You work overtime.
-Dover spends overtime.
-It’s time to change that.
-Delaware families deserve to keep more of their paychecks—and a state government that spends responsibly.
-Here’s what I’m fighting for: Tax relief for extra work — HB 126 I sponsored legislation to eliminate Dela View on Facebook Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 19 Days 20 Hours 18 Minutes 09 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Here’s how I’ve worked to turn those priorities into action: View on Facebook Together, We Will Save Delaware.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 18 Days 20 Hours 16 Minutes 04 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

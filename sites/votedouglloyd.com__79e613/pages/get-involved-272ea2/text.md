@@ -1,4 +1,4 @@
-About Doug Priorities Endorsements Get Involved Merchandise Donate Join Doug's Team I would be honored to have you join the growing list of those supporting my campaign to elect me as your Michigan Attorney General.
+Follow Doug About Doug Priorities Endorsements Get Involved Merchandise Donate Join Doug's Team I would be honored to have you join the growing list of those supporting my campaign to elect me as your Michigan Attorney General.
 Your support can come in many different forms; from volunteering your time, placing a sign in your yard, to contributing financially.
 However you choose to help, know that I greatly appreciate your support!
 Campaign Events Want to have Doug at an event?
@@ -22,5 +22,5 @@ Donate To mail a check, please send to: Doug Lloyd for MI Attorney General PO Bo
 30+ years as prosecutor.
 Proven experience.
 Trusted leadership.
-Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
+Follow Doug Facebook X Instagram TikTok LinkedIn YouTube Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
 All rights reserved.

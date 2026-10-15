@@ -1,9 +1,9 @@
-Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Issues & Priorities And Fred's plan to tackle them 2026-2028 🌾Strengthen Agriculture 🌾 Agriculture - South Dakota agriculture is under pressure.
+Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Issues & Priorities And Fred's plan to tackle them 2026-2028 👮Safe Communities Safe communities require strong law enforcement.
+I'll continue to back the blue, work to get drugs out of our communities, and fix our broken prison system.
+Read More 🌾Strengthen Agriculture 🌾 Agriculture - South Dakota agriculture is under pressure.
 I'll defend family farms and protect landowners' rights from eminent domain abuse, and make sure local voices matter when big projects come knocking on your door.
 Read More 💰Lower Taxes 💰Taxes - Property taxes in South Dakota are rising faster than family incomes.
 I'll fight to cap runaway growth and protect seniors, farmers, and homeowners.
-Read More 👮Safe Communities Safe communities require strong law enforcement.
-I'll continue to back the blue, work to get drugs out of our communities, and fix our broken prison system.
 Read More 🏛️ Strong Schools Every parent wants their kids safe in school and prepared for life.
 I'll fight for policies that protect classrooms, raise academic standards, and keep parents at the center of education.
 Read More 🚑Rural Healthcare No one should have to drive hours just to see a doctor.

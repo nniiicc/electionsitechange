@@ -2,9 +2,9 @@ Saltar al contenido principal ¿Se mudó?
 Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar ← Todas las propuestas Propuesta 02 Agua y Crecimiento Responsable Los nuevos empleos e inversiones son bienvenidos.
 Las familias no deben quedarse con los costos ocultos del desarrollo privado.
 Mi compromiso Exigir que los grandes proyectos demuestren cómo afectarán las tarifas de servicios públicos, la confiabilidad de la red, el agua, las vías, el ruido y la calidad del aire.
-5–50 MW La estimación del solicitante en febrero de 2026, con expansión según la capacidad disponible de Provo Power.
-7K–12K gal/día Estimación de la primera fase del solicitante en febrero de 2026 para enfriamiento y uso doméstico.
-Febrero de 2026 Estas cifras describen la propuesta en ese momento, no el estado actual de permisos ni el uso de recursos medido.
+7–0 Votación del Concejo Municipal de Provo que rechazó el centro de datos de East Bay en marzo de 2026.
+50 MW El límite efectivo para cualquier nuevo centro de datos en Provo, según las reglas que aprobó el concejo en abril de 2026.
+7K–12K gal/día La propia estimación de agua de East Bay para su primera fase, antes de cualquier expansión.
 Qué significa esto para su hogar El buen crecimiento no debe elevar silenciosamente sus costos.
 Antes de que un proyecto importante avance, los residentes deben saber cómo podría afectar las tarifas de servicios, la confiabilidad de la luz, el agua, el tráfico y el ruido.
 También deben saber quién pagará por la nueva capacidad.
@@ -16,13 +16,22 @@ También deben saber quién pagará por la nueva capacidad.
 Su factura de servicios no debería estar cubriendo la de ellos.
 06 · GRAN LAGO SALADO Ayudar a los agricultores a ahorrar agua Ayudar a los agricultores, que viven aquí y también dependen de esta agua, a cambiar a sistemas de riego más eficientes.
 Nuestro lago debe estar aquí para que lo disfruten las generaciones futuras.
-Un ejemplo local La propuesta de East Bay En febrero de 2026, documentos de planificación describieron una propuesta de centro de datos de 66,000 pies cuadrados en 1507 S.
-180 E. en Provo.
-El solicitante proyectó una demanda eléctrica de 5 a 50 megavatios, con expansión sujeta a la capacidad disponible de Provo Power.
-Su estimación de agua para la primera fase fue de 7,000 a 12,000 galones diarios para refrigeración y uso doméstico.
-Estas eran estimaciones de la propuesta en ese momento.
-No son mediciones de una instalación en funcionamiento, y los planes posteriores pueden diferir.
-01 Publicar la demanda esperada de electricidad y agua en términos comprensibles para los ciudadanos.
+Un ejemplo local Lo que pasó en East Bay En febrero de 2026, un desarrollador le pidió a Provo cambiar la zonificación de parte del antiguo campus de Novell, en 1507 S.
+180 E., para construir un centro de datos.
+Según sus propias estimaciones, podría usar de 5 a 50 megavatios de energía y de 7,000 a 12,000 galones de agua al día en su primera fase.
+La comisión de planificación recomendó aprobarlo.
+Entonces los vecinos alzaron la voz.
+Preguntaron por qué lo pondrían junto a una escuela y dos hoteles, si su plan de agua realmente funcionaría y qué tan poco aportaría a la economía local una vez construido.
+Los concejales también se preocuparon por las tarifas de luz y las emisiones.
+El 10 de marzo, el Concejo Municipal votó 7–0 para rechazarlo.
+Dijeron que querían terminar el plan económico de la ciudad antes de tomar una decisión a largo plazo.
+En abril, el concejo fue más allá.
+Votó 5–1 para impedir que los centros de datos construyan sus propias plantas de energía, lo que limita cualquier centro nuevo a 50 megavatios o menos.
+También exigió sistemas de enfriamiento que no evaporen agua.
+Los líderes de Provo escucharon porque los residentes se presentaron.
+No todas las comunidades tienen esa oportunidad.
+Utah County está escribiendo ahora mismo reglas para centros de datos en zonas rurales, y la gente allí merece la misma oportunidad de opinar.
+Lo que impulsaré a nivel estatal 01 Publicar la demanda esperada de electricidad y agua en términos comprensibles para los ciudadanos.
 02 Identificar quién paga por la nueva generación de energía, líneas de transmisión y mejoras a la red.
 03 Hacer obligatorias y vinculantes las promesas sobre eficiencia, enfriamiento, ruido y protección de tarifas.
 Un ejemplo estatal El proyecto Stratos Stratos es un enorme proyecto de centro de datos en el condado de Box Elder, justo al norte del Gran Lago Salado.
@@ -38,9 +47,9 @@ Decisiones como esta deberían estar, en última instancia, en manos del pueblo.
 02 Exigir que los centros de datos revelen su consumo de agua y energía y paguen una tarifa adicional por sus servicios.
 03 Proteger el Gran Lago Salado ayudando a los agricultores a cambiar a sistemas de riego más eficientes.
 Consulte la evidencia Lea el material de origen Los documentos de planificación y los análisis técnicos deben ser públicos antes de tomar cualquier decisión.
-01 Ciudad de Provo Solicitudes actuales del Distrito Central y estado de proyectos ↗ 02 Comisión de Planificación de Provo Paquete informativo de febrero de 2026 y proyecciones del solicitante ↗ 03 Comisión de Planificación de Provo Acta de la reunión del 11 de febrero de 2026 y condiciones ↗ 04 Concejo Municipal de Provo Acta del 10 de marzo de 2026 y rechazo 7–0 a la zonificación especial ↗ 05 Deseret News Stratos: aprobaciones estatales y del condado, superficie y apelación del referéndum (junio de 2026, en inglés) ↗ 06 Daily Herald Retiran la solicitud de agua de Stratos tras unas 3,900 protestas (mayo de 2026, en inglés) ↗ Nota de fuente: Este ejemplo utiliza documentos de planificación de febrero de 2026.
-No reporta el estado actual de permisos del proyecto.
-La estimación de agua combina enfriamiento y uso doméstico; las cifras mostradas no cuantifican emisiones de generadores.
+01 Ciudad de Provo Solicitudes actuales del Distrito Central y estado de proyectos ↗ 02 Comisión de Planificación de Provo Paquete informativo de febrero de 2026 y proyecciones del solicitante ↗ 03 Comisión de Planificación de Provo Acta de la reunión del 11 de febrero de 2026 y condiciones ↗ 04 Concejo Municipal de Provo Acta del 10 de marzo de 2026 y rechazo 7–0 a la zonificación especial ↗ 05 Daily Herald El Concejo de Provo rechaza la rezonificación de East Bay (marzo de 2026, en inglés) ↗ 06 Daily Herald Votación 5–1 del concejo para restringir grandes centros de datos (abril de 2026, en inglés) ↗ 07 Citizen Portal Borrador de reglas de Utah County para centros de datos en zonas rurales (septiembre de 2026, en inglés) ↗ 08 Deseret News Stratos: aprobaciones estatales y del condado, superficie y apelación del referéndum (junio de 2026, en inglés) ↗ 09 Daily Herald Retiran la solicitud de agua de Stratos tras unas 3,900 protestas (mayo de 2026, en inglés) ↗ Nota de fuente: Las cifras de energía y agua de East Bay son estimaciones del desarrollador de febrero de 2026, no mediciones de una instalación en funcionamiento.
+La estimación de agua combina enfriamiento y uso doméstico.
+El límite de 50 MW viene del cambio de reglas de abril de 2026: la agencia de energía de Provo exige que los centros de datos de más de 50 MW generen su propia energía, y la ciudad ya no lo permite.
 Los detalles sobre Stratos provienen de noticias de mayo y junio de 2026; el estado del proyecto puede haber cambiado desde entonces.
 Planificar el crecimiento con responsabilidad Ayude a que el costo para las familias sea parte de cada decisión de desarrollo.
 Unirse a la Campaña Siguiente: Escuelas y Oportunidades Locales → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 Pagado por Alan Jimenez.

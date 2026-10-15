@@ -11,5 +11,5 @@ A native New Yorker posted an explicit grievance describing this progressive pol
 Consequently, many working-class families end up trapped at or below the poverty line because it pays better to stay there than the effort required to climb out of it.
 In other words, affordable healthcare, housing, free groceries, and childcare benefits those with no plans to exit poverty the most.
 My vision for North Carolinians is real affordability, not generational government dependence.
-My policy positions, listed here, are grounded in common sense and classical economic principles that address what I see as a leading cause of the affordability crisis, both locally and nationally: government-sponsored poverty. ← Previous Post support@electlatishagrady.com P.O.
+My policy positions, listed here, are grounded in common sense and classical economic principles that address what I see as a leading cause of the affordability crisis, both locally and nationally: government-sponsored poverty. ← Previous Post Next Post → support@electlatishagrady.com P.O.
 Box 4371 Wilmington, NC 28406 Terms & Conditions Privacy Policy DONATE VOLUNTEER REQUEST A YARD SIGN Copyright © # Paid for by Committee to Elect Latisha Grady Powered by Christ Instagram Facebook

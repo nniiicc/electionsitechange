@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate where does seth bODNAR stand?
+Skip navigation menu make your plan to vote VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate where does seth bODNAR stand?
 SETH ON THE ISSUES As Montana's Independent Voice in the U.S.
 Senate, Seth Bodnar will fight to lower costs, end corruption, expand opportunity, and answer only to Montanans, not to Party Bosses or Big Corporations.
 End the Costly and Unauthorized War in Iran Stop Reckless Tariffs Driving Up Prices Lower Health Care, Housing, and Energy Costs End Corruption in Washington D.C.

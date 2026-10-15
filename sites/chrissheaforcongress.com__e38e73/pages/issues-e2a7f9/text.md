@@ -1,4 +1,4 @@
-Skip to content Home Meet Chris Join the Team Issues Store Donate Issues Chris Shea is running for Congress on a simple idea: trust must be earned through service, integrity, and results.
+Skip to content Home Meet Chris Join the Team Vote Issues Store Donate Issues Chris Shea is running for Congress on a simple idea: trust must be earned through service, integrity, and results.
 For 35 years, he has served his country and community as a Navy SEAL, Pentagon leader, firefighter, paramedic, and advocate for veterans and first responders.
 He has been trusted on the battlefield and as a firefighter, now he is asking to be trusted again.
 Chris is running to protect American families, cut wasteful spending in Washington, lower the cost of living, reduce red tape, support law enforcement, and advance pro-worker, pro-business policies that put Connecticut citizens first.

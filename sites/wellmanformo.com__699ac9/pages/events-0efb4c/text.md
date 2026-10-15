@@ -12,7 +12,10 @@ Got a question for Fred?
 Ask him yourself.
 Join Fred Wellman for a Reddit AMA on Sunday, October 18 from 2–3 PM.
 Ask Fred anything about the campaign, the issues facing MO-02, his background, or what he’ll fight for in Congress.
-Date: Sunday, October 18th Time: 3:00 PM - 4:00 PM Join Virtually at www.reddit.com/r/StLouis Join here COUNTDOWN TO VICTORY RALLY Come out for the Countdown to Victory Rally with Fred Wellman and special guests as we kick off the final week before Election Day.
+Date: Sunday, October 18th Time: 3:00 PM - 4:00 PM Join Virtually at www.reddit.com/r/StLouis Join here Volunteer at the Polls on Early Voting Day Join Team Wellman on Tuesday, October 20, as no-excuse early voting kicks off in Missouri!
+Help us connect with voters at polling locations across the district.
+We’ll provide campaign literature, instructions, and guidance on Missouri’s electioneering laws to ensure volunteers are prepared and compliant.
+Date: Tuesday, October 20th Time: Shifts from 8AM-5PM Join here COUNTDOWN TO VICTORY RALLY Come out for the Countdown to Victory Rally with Fred Wellman and special guests as we kick off the final week before Election Day.
 Join us at the Kirkwood Performing Arts Center for a high-energy night with supporters from across the district as we rally together, build momentum, and get ready to finish this campaign strong.
 Registration is required and space is limited.
 Date: Tuesday, October 27th Time: 7PM Kirkwood Performing Arts Center 210 E Monroe Ave, Kirkwood, MO 63122 rsvp Support our campaign online here : Donate To contribute by mail, please include your occupation and employer (we can’t accept the donation without it!) and make checks payable to: Wellman for Missouri 15455 Manchester Road, P.O.

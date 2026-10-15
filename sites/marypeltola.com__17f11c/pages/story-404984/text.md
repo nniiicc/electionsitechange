@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer My Story 1 / 7 I’m Mary Peltola I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer My Story 1 / 7 I’m Mary Peltola I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
 I grew up on the Kuskokwim, fishing salmon with my father.
 Buzzy and I raised our seven kids here and spent long summer days at fish camp.
 Fishing with family is where Alaskans learn life’s lessons.
@@ -36,4 +36,5 @@ I need you all to see what I’ve seen and to join me in fixing this broken syst
 No one from the Lower 48 is coming to save us, but I know this in my bones: there is no group of people more ready to save ourselves than Alaskans.
 Ted Stevens often said, “To hell with politics, put Alaska first.” It’s about time Alaskans teach the rest of the country what Alaska first and, really, America first looks like.
 Support the Campaign Donate Events Get Involved Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

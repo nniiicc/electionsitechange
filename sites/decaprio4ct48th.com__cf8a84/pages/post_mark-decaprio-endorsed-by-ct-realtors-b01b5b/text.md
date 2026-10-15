@@ -4,4 +4,4 @@ Thank you for your support and for recognizing my commitment to the families, ho
 I’ll continue working to keep Connecticut affordable, strengthen our communities, and protect the quality of life that makes our towns such great places to call home.
 Letter from CT Realtors Recent Posts See All Mark DeCaprio Endorsed by Fraternal Order of Police Mark DeCaprio Endorsed by the Independent Party Republican State Representative Mark DeCaprio Announces Re-Election Bid in 48th District SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

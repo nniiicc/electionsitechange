@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate Kristy Janigo Receives 2024 Steven A.
+Skip to content Home About City Council Record Priorities Endorsements News Volunteer DONATE DONATE Home About City Council Record Priorities Endorsements News Volunteer Events on Mobilize Donate Kristy Janigo Receives 2024 Steven A.
 Pihlaja Justice Partner Award Maple Grove— The Fourth Judicial District recognized Kristy Janigo with the Steven A.
 Pihlaja Award on June 9 in the treatment courtroom, with a reception and remarks from Chief Judge Kerry W.
 Meyer and Judge Sarah S.
@@ -23,5 +23,5 @@ Janigo is also a Maple Grove City Councilmember.
 She concluded her year as the 10th District American Legion Commander earlier this month.
 Previous Kristy Janigo Honored at Minnesota United Halftime Show Next Kristy Janigo Receives MACVSO President’s Award and Bill’s Wish Spotlight A Soldier Award View Press Photos Categories News Press Release Share Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Share on LinkedIn (Opens in new window) LinkedIn Share on X (Opens in new window) X Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
 Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About City Council Record Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
 Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

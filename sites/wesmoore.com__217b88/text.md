@@ -21,7 +21,8 @@ Volunteer with Moore-Miller!
 Follow us on Instagram Watch Our Latest Videos THE LATEST FROM THE CAMPAIGN NEWS AND PRESS NEWS AND PRESS I signed an Executive Order to provide emergency relief to our farmers.
 Diesel prices in Maryland are at an all-time hi...
 #ago We’re being sued by the Trump administration.
-I’ll keep you updated. https://t.co/KBPN2kuRi5 #ago Moore-Miller For Maryland Rolls Out Real Results Dashboard #ago Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
+I’ll keep you updated. https://t.co/KBPN2kuRi5 #ago Gov.
+Wes Moore Launches New Ad Highlighting Bipartisan Support And Results #ago Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
 TAKE ACTION By providing your phone number and opting-in, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

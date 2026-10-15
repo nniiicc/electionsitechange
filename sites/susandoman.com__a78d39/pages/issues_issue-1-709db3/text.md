@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Accountability Transparent decisions, public input, and fair deals for Meade County and Radcliff.
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Accountability Transparent decisions, public input, and fair deals for Meade County and Radcliff.
 What happened with the data center Without exception, any proposed project for District 27 demands transparency In October 2025, a rushed attempt to rezone agricultural land for a data center was placed on a noon Monday agenda with minimal notice.
 As a member of the Meade County Planning and Zoning Commission, I learned about the subject only days before—and first saw details on Facebook.
 That’s not how major land-use decisions should be made.

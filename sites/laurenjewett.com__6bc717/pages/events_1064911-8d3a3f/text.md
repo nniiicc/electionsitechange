@@ -1,0 +1,8 @@
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-Community Day-ST.
+JOHN PARISH Available times Saturday, Oct 17, 11AM - 3PM — sign up on Mobilize (opens in a new tab) Where LaPlace · LA About this event # 🏍️ COMMUNITY DAY WITH TEAM JAMIE!
+## LaPlace GOTV Rally · Cars, Bikes, Music & Neighbors 💙 St.
+John Parish, come out and celebrate with **Team Jamie Davis for U.S.
+Senate!** We're taking over the parking lot at our LaPlace office for an afternoon of community, with motorcycle, Corvette, and Slingshot clubs, local vendors, music, and food. 🎶 It's also a Get Out the Vote push.
+Grab a yard sign, sign up for a canvass or phonebank shift, and help us reach every voter before November 3. **No experience needed!** 🙌 --- 🗓️ **Saturday, October 17** ⏰ **11:00 AM – 3:00 PM** 📍 **Team Jamie LaPlace Office (parking lot)** 425 W Airline Hwy, LaPlace, LA --- ## 🎒 Good to Know - 🚪 Sign up to canvass or phonebank on the spot - 🍔 Food and drinks on site - 👨‍👩‍👧 Family-friendly, so bring the kids and a neighbor RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

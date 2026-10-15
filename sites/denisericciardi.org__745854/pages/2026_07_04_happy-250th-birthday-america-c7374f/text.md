@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Happy 250th Birthday, America!
 Jul 4, 2026 Happy 250th Birthday, America! 🇺🇸 Today we celebrate 250 years of the United States of America—a nation founded on the enduring ideals of liberty, self-government, and opportunity.
 As we honor this historic milestone, we remember the courage and sacrifice of those who fought for our independence, the generations who built and defended our country, and the countless Americans who continue to strengthen our communities through service, hard work, and civic engagement.

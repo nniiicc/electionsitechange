@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Addressing Mandatory Minimums, Non-Violent Drug Offenses Posted November 26, 2023 By Meera Srinivasan Capitol Corner America has a prison problem.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Addressing Mandatory Minimums, Non-Violent Drug Offenses Posted November 26, 2023 By Meera Srinivasan Capitol Corner America has a prison problem.
 As of 2020, nearly one out of every 100 Americans were incarcerated [ 1 ].
 Nearly 63% of those incarcerated are serving sentences equal to or longer than ten years [ 2 ].
 The issue of mass incarceration in America is due to many complex and intertwined factors and policies, with one such policy being mandatory minimum sentencing laws.

@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Rodney Cox Rodney Cox endorses Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Rodney Cox Rodney Cox endorses Naomi Riess for Colorado House District 59.
 I am pleased to endorse Naomi Riess for Colorado House District 59.
 As a fifth-generation Montezuma County resident and longtime small-business owner, I care deeply about making sure the people who represent us understand rural Colorado.
 Naomi does.

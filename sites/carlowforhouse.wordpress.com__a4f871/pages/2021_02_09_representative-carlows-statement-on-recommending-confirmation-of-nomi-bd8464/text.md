@@ -4,6 +4,6 @@ Committee unanimously voted to recommend each of the Governor’s nominations to
 “I found that each of the nominees were highly qualified and demonstrated fervent commitment to promoting a cleaner and more sustainable energy infrastructure in Maine,” he said.
 The Maine Senate must vote on above nominations within 35-days after the nomination was sent to the Legislature by the Governor.
 ### Posted by communicationsdirector February 9, 2021 February 9, 2021 Posted in General Post navigation Previous Post Previous post: Rep.
-Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Next Post Next post: ICYMI: 52 lawmakers call on state to ease restrictions to allow more Maine schools to reopen full time Leave a Reply Cancel reply Comment Name Email Website Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Next Post Next post: ICYMI: 52 lawmakers call on state to ease restrictions to allow more Maine schools to reopen full time Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
 Log in now.
 Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

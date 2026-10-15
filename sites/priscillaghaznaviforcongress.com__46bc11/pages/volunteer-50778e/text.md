@@ -9,7 +9,7 @@ Help us reach someone we haven’t met yet.
 Every action moves the conversation in our communities a little further forward.* *Every conversation gives another person the chance to get informed, ask questions, compare options, and make a choice.
 You don’t have to do it all.
 Just do something.
-VOLUNTEER: OUR COMMUNITY, YOUR VOICE, YOUR PART, YOUR CHOICE Not sure what you can do?
+NY CD - 7 Help Build Our Future™ Volunteer and or Donate VOLUNTEER: OUR COMMUNITY, YOUR VOICE, YOUR PART, YOUR CHOICE Not sure what you can do?
 Reach out anyway.
 We can figure it out together.
 First Name* Last Name* Email* ZIP Code* Phone Number Do you speak any of other languages? (list any and all languages) Do you drive? (not required to volunteer) Sign me up!

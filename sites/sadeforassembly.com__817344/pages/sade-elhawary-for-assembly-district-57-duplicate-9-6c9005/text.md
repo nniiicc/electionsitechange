@@ -9,7 +9,7 @@ En cambio, reuniré a personas comunes de todos los ámbitos de la vida para con
 Mitchell Los Angeles County Supervisor Hilda Solis Los Angeles County Supervisor Isaac Bryan Assemblymember SOBRE SADE Sade pronuncia su nombre Sha-day (como la cantante).
 Es educadora y organizadora comprometida con el desarrollo de las comunidades del sur de Los Ángeles.
 Aprende más sobre Sade Connect with #TeamSade.
-We’d love to hear your thoughts and suggestions. Δ Get updates from Team Sade!
+We’d love to hear your thoughts and suggestions. Δ SUBMIT Get updates from Team Sade!
 Full Name Email Tel Submit By providing your cell phone number, you agree to receive text messages from Sade Elhawary for Assembly 2024 (text messaging rates may apply per your provider).
 PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
 FPPC ID #1458935.

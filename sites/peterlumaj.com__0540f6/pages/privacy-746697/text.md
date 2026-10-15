@@ -1,4 +1,4 @@
-Skip to main content Home About News Resources Get Involved Open menu Privacy Policy Last updated: October 14, 2026 Information We Collect Peter Lumaj | Secretary of the State ("we," "our," or "us") collects information you provide directly to us, such as when you create an account, make a donation, sign up for our newsletter, volunteer, or contact us.
+Skip to main content Home About News Resources Get Involved Open menu Privacy Policy Last updated: October 15, 2026 Information We Collect Peter Lumaj | Secretary of the State ("we," "our," or "us") collects information you provide directly to us, such as when you create an account, make a donation, sign up for our newsletter, volunteer, or contact us.
 The types of information we may collect include: Name, email address, postal address, and phone number Payment information for donations Demographic information Any other information you choose to provide How We Use Your Information We may use the information we collect to: Process donations and maintain records as required by law Send you campaign updates, newsletters, and other communications Coordinate volunteer activities Respond to your comments, questions, and requests Analyze and improve our campaign operations Information Sharing and Disclosure We may share your information in the following circumstances: As required by federal and state campaign finance laws With service providers who assist us in our operations To protect our rights, property, or safety With your consent or at your direction Data Security We take reasonable measures to protect your personal information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
 Your Choices You may opt out of receiving promotional communications from us by following the instructions in those communications or by contacting us directly.
 Contact Us If you have any questions about this Privacy Policy, please contact us at: Peter Lumaj | Secretary of the State Email: privacy@peterlumaj.com Changes to This Policy We may update this Privacy Policy from time to time.
@@ -29,8 +29,7 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Alan Colombie Harwinton RTC Chairman "I’m proud to endorse Peter Lumaj for Secretary of the State of Connecticut.
-Peter understands that election integrity is not partisan, it’s about trust between the government and the people.
-Having fled to America from a communist regime, where elections were meaningless, he knows firsthand why secure, transparent, and accountable elections matter.
-He will ensure every lawful vote counts while strengthening safeguards to restore public confidence in our system.
-Peter represents principled leadership that protects the process, not a political party, and I encourage Republicans, independents, and all voters who care about election integrity to support him this fall." View all endorsements →
+ENDORSED BY Joe Kilduff Former Mayor of Plymouth "I am proud to endorse my good friend Peter Lumaj for Secretary of the State.
+Peter has long been a tireless advocate for bringing strong, conservative principles to our state government.
+His dedication to election integrity, transparency, and efficient public service is exactly what Connecticut needs.
+I have no doubt that, as our next Secretary of the State, Peter will work every day to safeguard our democratic process and serve the people of Connecticut with honor and conviction" View all endorsements →

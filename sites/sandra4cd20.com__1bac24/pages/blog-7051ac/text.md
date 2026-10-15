@@ -1,5 +1,6 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet All Posts Ballot Drop Boxes Are Open 24/7 andrealopez09 Oct 3 First Day of Canvassing in Lemoore 9/11/26 Team Sandra Sep 7 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer All Posts # Days to Go!
+Team Sandra #ago Ballot Drop Boxes Are Open 24/7 Team Sandra Oct 3 First Day of Canvassing in Lemoore 9/11/26 Team Sandra Sep 7 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
 Team Sandra Sep 6 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.

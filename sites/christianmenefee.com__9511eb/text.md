@@ -11,8 +11,8 @@ Menefee Christian Menefee was raised in Texas’s 18th Congressional District by
 Now, he’s running for Congress because working people deserve a government that has their back.
 Read More Read More WHERE CHRISTIAN STANDS On the Issues ISSUE Criminal Justice Reform Read More ISSUE Protecting Our Veterans Read More ISSUE Fixing Our Broken Immigration System Read More ISSUE Ending Gun Violence and Saving Lives Read More ISSUE Expanding Pathways to Good Jobs Read More ISSUE Standing Up for Workers Read More ISSUE Innovation and Emerging Technology Read More ISSUE Fighting for Equality Read More ISSUE Fighting for Clean Air & Water Read More ISSUE Reinvesting in Our Neighborhoods Read More View All Issues View All Issues CHIP IN Donate to Stand with Christian More than ever, we need leaders who will stand up to Republican overreach.
 Since January, Christian has held Trump accountable in the courtroom for his unlawful and unconstitutional actions. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-LATEST UPDATES Houston Chronicle Endorsement: Vote Christian Menefee for Houston’s 18th Congressional District Press Release Nov 15, 2025 Early voting starts in ONE WEEK. 🗳️ Make a plan to vote, and spread the word.
-Text your family, hit up y...
+LATEST UPDATES Houston Chronicle Endorsement: Vote Christian Menefee for Houston’s 18th Congressional District Press Release Nov 15, 2025 It’s the honor of a lifetime to serve the people of the 18th.
+I’m proud to have the @HoustonChron’s e...
 #ago Get Involved with Team Menefee Today!
 Take Action Take Action CHIP IN $18 FOR A stronger TX-18 $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Results for Texas Email Address Zip Code Phone Number (Optional) .

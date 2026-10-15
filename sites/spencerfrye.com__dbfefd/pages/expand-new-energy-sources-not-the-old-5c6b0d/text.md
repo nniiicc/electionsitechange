@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Expand New Energy Sources, Not the Old.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Expand New Energy Sources, Not the Old.
 Posted April 17, 2026 By Anna-Jewel Taylor Capitol Corner , Uncategorized Tagged Environment In December, Georgia Power proposed an expansion that would create an additional 10,000 megawatts of energy generation to the grid of Georgia .
 This initiative was proposed because Georgia Power estimated that 80% of future demand will come from data centers.
 To accomplish Georgia Power’s goal, the Public Service Commission (PSC) approved building five new methane gas-burning units in the state at Plants Bowen, McIntosh and Wansley.

@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Charles Booker for U.S.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Charles Booker for U.S.
 Senate Supporting Young Kentuckians.
 All policies Charles Booker for U.S.
 Senate, Kentucky Every young Kentuckian should have the opportunity to make a living doing what they love, starting a small business, and buying a first home that they can afford in Kentucky.

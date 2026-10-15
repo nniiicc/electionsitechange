@@ -1,4 +1,4 @@
-top of page HOME HOME_Sept_16_26 MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
+top of page HOME MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
 Log In DONATE Meet Jewel Kelly A results‑first neighbor—Air Force veteran and small‑business owner—who uses one clear test for every bill: Legal.
 Safe.
 Fair.
@@ -11,7 +11,7 @@ That training—combined with leadership responsibilities in the military and ha
 In 2018, after losing my bonus daughter to suicide, we started A Fighting Chance Foundation to fight stigma and teach Mental Health First Aid.
 These experiences are why I’m focused on results you can feel: lower costs, better care, safer streets, and honest schools.
 REGISTER TO VOTE!
-HOME HOME_Sept_16_26 MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
+HOME MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: Jewel Kelly was a Captain in the U.S.
 Air Force.
 Use of his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Air Force or Department of Defense. ​ ​ Paid for by Citizens To Elect Jewel Kelly, Don Crozier, Treasurer. bottom of page

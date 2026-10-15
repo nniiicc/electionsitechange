@@ -4,6 +4,6 @@ And the annual Granite Grok’s “RINO Report” where the higher percentage eq
 Those that vote against the caucus more frequently, get a higher score.
 My score for this last year was 1.9%!
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Related scorecard Post navigation Previous Post Interview – The Granite Discourse (ep 34) Next Post 2026 Endorsements Leave a Reply Cancel reply Comment Name Email Website Δ State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Related scorecard Post navigation Previous Post Interview – The Granite Discourse (ep 34) Next Post 2026 Endorsements Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
 Log in now.
 Tom Mannion for New Hampshire Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

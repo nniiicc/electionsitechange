@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate The Fight Against Forever Chemicals is Far From Over Posted March 24, 2026 By Samir Handa Capitol Corner Tagged Environment Polyfluoroalkyl substances (more commonly known as PFAS) are in our drinking water, our soil, and our rivers.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate The Fight Against Forever Chemicals is Far From Over Posted March 24, 2026 By Samir Handa Capitol Corner Tagged Environment Polyfluoroalkyl substances (more commonly known as PFAS) are in our drinking water, our soil, and our rivers.
 Georgia is no stranger to PFAS.
 For nearly a century, just about every manufacturing process imaginable has used these chemicals.
 So why should Georgians care now?

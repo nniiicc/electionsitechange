@@ -1,4 +1,4 @@
-Skip to content Mary Shannon Lindstrom Facebook Instagram Community Support On The Issues About Me Home https://www.facebook.com/LindstromForScarborough/ Instagram Home On The Issues Community Support About Me Give About Me Mary Shannon Lindstrom lives in Scarborough with her husband, Jason.
+Skip to content Mary Shannon Lindstrom Facebook Instagram LinkedIn Community Support On The Issues About Me Home https://www.facebook.com/LindstromForScarborough/ Instagram Home On The Issues Community Support About Me Give About Me Mary Shannon Lindstrom lives in Scarborough with her husband, Jason.
 Together they have four boys.
 Rooted in the values of family and service, she is an active volunteer with Scarborough Community Services and Maine Medical Center.
 Mary Shannon’s commitment to community extends into her professional and civic leadership.

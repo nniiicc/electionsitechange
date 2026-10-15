@@ -5,6 +5,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1980+brookside+drive+edgewood%2C+maryland%2C+21040+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=2403+belair+road+fallston%2C+md%2C+21047+united+states"
 },
 {
@@ -65,6 +69,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Housing+Forum&dates=20261014T213000Z%2F20261014T230000Z&location=1980+Brookside+Drive%2C+Edgewood%2C+Maryland%2C+21040%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Interview+with+Kimberly+Klacik&dates=20260724T150000Z%2F20260724T160000Z"
 },
 {
@@ -84,12 +92,20 @@
 "href": "https://www.ejhfordistrict34a.com/events/harford-lincoln-reagan-dinner-featuring-rep-kat-cammack"
 },
 {
+"text": "Housing Forum",
+"href": "https://www.ejhfordistrict34a.com/events/housing-forum"
+},
+{
 "text": "ICS",
 "href": "https://www.ejhfordistrict34a.com/events/burgers-with-bob?format=ical"
 },
 {
 "text": "ICS",
 "href": "https://www.ejhfordistrict34a.com/events/harford-lincoln-reagan-dinner-featuring-rep-kat-cammack?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ejhfordistrict34a.com/events/housing-forum?format=ical"
 },
 {
 "text": "ICS",
@@ -153,6 +169,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.ejhfordistrict34a.com/events/housing-forum"
+},
+{
+"text": "View Event →",
 "href": "https://www.ejhfordistrict34a.com/events/interview-with-kimberly-klacik"
 },
 {
@@ -178,6 +198,10 @@
 {
 "text": "[image: Harford Lincoln Reagan Dinner Featuring Rep. Kat Cammack]",
 "href": "https://www.ejhfordistrict34a.com/events/harford-lincoln-reagan-dinner-featuring-rep-kat-cammack"
+},
+{
+"text": "[image: Housing Forum]",
+"href": "https://www.ejhfordistrict34a.com/events/housing-forum"
 },
 {
 "text": "[image: Interview with Kimberly Klacik]",

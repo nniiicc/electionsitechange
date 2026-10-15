@@ -1,4 +1,5 @@
 top of page Stacey Hagen for MO House District 111 Donate Request a Yard Sign Home Ballot Guides About Info Support Contact Events More Use tab to navigate through the menu items.
+This site paid for by The Committee to Elect Stacey Hagen, David Hagen, Treasurer.
 Stacey Hagen Missouri is in critical condition.​​ I'm here to shock the system.
 Hello, I'm Stacey Hagen.
 I'm asking for your vote for State Representative in MO House District 111 because we deserve better than we're getting from our Missouri lawmakers.

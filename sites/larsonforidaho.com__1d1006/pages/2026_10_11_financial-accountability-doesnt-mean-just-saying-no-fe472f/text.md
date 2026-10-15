@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Financial Accountability Doesn’t Mean Just Saying No October 11, 2026 kathrynlarsonforidaho Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube Financial Accountability Doesn’t Mean Just Saying No October 11, 2026 kathrynlarsonforidaho Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of 7/31, no funds had been released for rural healthcare improvements, only nearly half a million for administration.
 All funds must be obligated by 10/30/26 or they go to other states.
 States were to start reporting on progress by August.
@@ -41,7 +41,7 @@ The scorecard hurts us more than it helps us.
 Where is the accountability?
 We need legislative representation that is not beholden to scorecards that won’t disclose their donors.
 We need legislative representation that answers only to the people who live here.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of… › Read more : Financial Accountability Doesn’t Mean Just Saying No September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.

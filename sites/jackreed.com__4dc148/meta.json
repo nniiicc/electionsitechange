@@ -1,9 +1,12 @@
 {
  "description": "For U.S. Senate",
  "final_url": "https://jackreed.com/",
- "fingerprint": "ab030e58b21b32b45785e9eaf46b0f3fe07c7805",
+ "fingerprint": "c0e764bdd1d18ad0ea90592d2d9ef63bd752c34d",
  "format": 3,
  "paid_for_by": "Authorized by The Reed Committee PO Box 8628 Cranston, RI 02920 Privacy Policy",
+ "rendered": false,
  "title": "Jack Reed",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

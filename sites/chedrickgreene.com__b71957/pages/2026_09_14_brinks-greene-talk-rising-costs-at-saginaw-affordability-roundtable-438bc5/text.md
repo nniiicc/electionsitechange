@@ -20,8 +20,8 @@ A statewide proposal on the Nov.
 “It really is important that we have people in the governor’s office and in the legislature who are really focused on that.” Early voting in Midland County begins Oct.
 24 at the Greater Midland Community Center and at Coleman City Hall.
 To see your sample ballot, polling place and local clerk, and to see if you are registered to vote, go to https://mvic.sos.state.mi.us/Voter/Index .
-MDN ARTICLE VOTER INFO Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Search Search Connect Facebook Instagram X Mail Latest PostS Small Business Association of Michigan PAC Endorses Chedrick Greene October 5, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation October 4, 2026 Sen.
-Greene Votes on Bipartisan Bills to Strengthen Aging Dams, Protect Communities October 2, 2026 Michigan Fraternal Order of Police Endorses Chedrick Greene for State Senate September 24, 2026 Detroit Regional Chamber Endorses Chedrick Greene for State Senate September 17, 2026 Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.
+MDN ARTICLE VOTER INFO Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Search Search Connect Facebook Instagram X Mail Latest PostS Greene Launches First TV and Radio Ads of Re-Election Campaign October 13, 2026 Small Business Association of Michigan PAC Endorses Chedrick Greene October 5, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation October 4, 2026 Sen.
+Greene Votes on Bipartisan Bills to Strengthen Aging Dams, Protect Communities October 2, 2026 Michigan Fraternal Order of Police Endorses Chedrick Greene for State Senate September 24, 2026 Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.
 Box 3442 Saginaw, MI 48605 Marine.
 Fire Captain.
 Democrat for MI-SD-35.

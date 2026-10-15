@@ -38,7 +38,7 @@ Email me or call me at 208-589-1100.
 If you do not wish to read, you can listen here: https://rodfurniss.com/wp-content/uploads/2018/04/Rod-Furniss-Clips_REV.mp3 https://rodfurniss.com/wp-content/uploads/2018/04/Rod-Furniss-Desire-to-Serve.mp3 https://rodfurniss.com/wp-content/uploads/2018/04/Rod-Furniss-6th-Generation.mp3 BE A PART OF MY CAMPAIGN EFFORT!
 Please help spread the word to vote Furniss for State Representative District 31!
 Be part of my campaign to make this a success!
-VOLUNTEER NOW Donate Contact Me Url First Name * Last Name * Email Address * Comments / Questions * Join Rod I sincerely invite you to join my campaign as a volunteer!
+VOLUNTEER NOW Donate Contact Me Name First Name * Last Name * Email Address * Comments / Questions * Join Rod I sincerely invite you to join my campaign as a volunteer!
 By lending your time and energy to support my message, you will help elect a strong conservative voice to represent District 31.
 Any help you can give is greatly appreciated.
 Join Now!

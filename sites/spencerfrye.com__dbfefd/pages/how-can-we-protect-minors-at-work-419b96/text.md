@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate How Can We Protect Minors At Work Posted October 12, 2026 By Bianca Orfila-Molinet Capitol Corner Sexual violence against minors occurs at an extraordinarily high rate in the United States.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate How Can We Protect Minors At Work Posted October 12, 2026 By Bianca Orfila-Molinet Capitol Corner Sexual violence against minors occurs at an extraordinarily high rate in the United States.
 Child sexual abuse refers to the involvement of a child, defined as a person less than 18 years old, in sexual activity that violates the laws or social taboos of society.
 Approximately one in four girls and one in twenty boys in the United States experience child sexual abuse in their lifetime.
 This issue is both nationwide and state-relevant.

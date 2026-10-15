@@ -36,6 +36,10 @@
 "href": "https://maps.apple.com/place?address=2905+Main+St%2C+East+Troy%2C+WI&name=East+Troy+Brewery"
 },
 {
+"text": "Apple Maps",
+"href": "https://maps.apple.com/place?address=77+N+Walworth+Ave%2C+Williams+Bay%2C+WI&name=Green+Grocer"
+},
+{
 "text": "Call (262) 393-3832",
 "href": "tel:+12623933832"
 },
@@ -92,6 +96,10 @@
 "href": "https://www.google.com/maps/search/?api=1&query=East+Troy+Brewery%2C+2905+Main+St%2C+East+Troy%2C+WI"
 },
 {
+"text": "Google Maps",
+"href": "https://www.google.com/maps/search/?api=1&query=Green+Grocer%2C+77+N+Walworth+Ave%2C+Williams+Bay%2C+WI"
+},
+{
 "text": "Host an Event",
 "href": "https://www.dudaforwi.com/host-event"
 },
@@ -122,10 +130,6 @@
 {
 "text": "Privacy",
 "href": "https://www.dudaforwi.com/privacy"
-},
-{
-"text": "REGISTER TO VOTE BY OCT 14 FOR NOV 3 GENERAL",
-"href": "https://www.dudaforwi.com/register"
 },
 {
 "text": "REQUEST YOUR ABSENTEE BALLOT BY 5 PM THU, OCT 29",
@@ -164,12 +168,12 @@
 "href": "https://www.dudaforwi.com/"
 },
 {
-"text": "[image] •Oct 6• Open photo",
-"href": "https://www.dudaforwi.com/photos/bafkreicj2dcpu7eerwdksyfud4ewvvven4wj6ox5b26n6rp6ged6vdvwj4"
+"text": "[image] •Oct 14• Open photo",
+"href": "https://www.dudaforwi.com/photos/bafkreie6c6hrmmb6mt6gdjjsnz2eldz7oowjblaeg2wo4hkre5hxei7cuq"
 },
 {
 "text": "[image] •Oct 6• Open photo",
-"href": "https://www.dudaforwi.com/photos/bafkreifc772lodwscty3hwsxisv5dcgrq47jw6lzehn3phdgrihl22ibuu"
+"href": "https://www.dudaforwi.com/photos/bafkreicj2dcpu7eerwdksyfud4ewvvven4wj6ox5b26n6rp6ged6vdvwj4"
 },
 {
 "text": "[image] •Oct 6• Open photo",

@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Blog Posts CORRUPTION & DEMOCRACY: Fighting Corruption & Draining the Swamp Mitch McConnell was elected when I was two weeks old.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Blog Posts CORRUPTION & DEMOCRACY: Fighting Corruption & Draining the Swamp Mitch McConnell was elected when I was two weeks old.
 He used to deliver for Kentucky, supporting the projects and programs that brought jobs and funding to our Commonwealth.
 But somewhere along the way, things changed.
 Mitch McConnell became the type of swamp creature Donald Trump pledged to drain away from Washington.

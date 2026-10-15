@@ -1,4 +1,4 @@
-TerryBurkeDotson.com Terry Burke Dotson running for State Representative Video Zoom Virtual Meeting with Oxford Residents for Diversity and Equity Virtual Voter Education Night October 17, 2020 Introductions: Representative Paul Frost vs.
+TerryBurkeDotson.com Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District Video Zoom Virtual Meeting with Oxford Residents for Diversity and Equity Virtual Voter Education Night October 17, 2020 Introductions: Representative Paul Frost vs.
 Terry Burke Dotson Question 1: Do you support the Massachusetts Senate police reform bill abolishing qualified immunity for police officer’s?
 Where do you stand on the issue of police reform?
 Representative Paul Frost vs.
@@ -10,4 +10,4 @@ Do you see this as a pressing issue in Massachusetts and how do you plan on resp
 Representative Paul Frost vs.
 Terry Burke Dotson City of Millbury, MA pass resolution support reinstating Glass-Steagall.
 HR 129.
-Pages About Contact News Photos Video Terry Burke Dotson running for State Representative © Terry Burke Dotson
+Pages About Contact News Photos Video Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District © Terry Burke Dotson

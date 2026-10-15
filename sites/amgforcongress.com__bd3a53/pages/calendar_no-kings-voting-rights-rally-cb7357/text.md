@@ -4,5 +4,5 @@ Sponsored by Indivisible Tallahassee, Tallahassee League of Women Voters, FL ACL
 Indivisible, Tallahassee ALERT, and others.
 Our Voice, Our Vote is a non-partisan voting rights rally, bringing the community together to make a plan to vote early, ensuring every eligible voter understands their voting rights and has the opportunity to make their voice heard.
 No Kings events are committed to nonviolence.
-Previous Previous October 17 Blountstown Goat & Pioneer Day Next Next October 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest TO SEND A CHECK: P.O.
+Previous Previous October 17 Blountstown Goat & Pioneer Day Next Next October 17 Havana Mainstreet 26th Annual PumpkinFest TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

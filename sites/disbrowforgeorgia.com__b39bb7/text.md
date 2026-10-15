@@ -44,19 +44,15 @@ The job is to represent you.
 You guys can keep right on surfing.
 Go on.
 Get out of here!) Check Your Registration & Make Your Voting Plan Issues These are the issues I'll be focused on when I take office.
-(This list could change of course.) Healthcare Hospitals are closing across the region, and more and more Georgians can't afford health insurance.
+(This list could change of course.) Medicaid Expansion Hospitals are closing across the region, and more and more Georgians can't afford health insurance.
 There's absolutely no reason, other than spite, that we shouldn't accept the Federal Funds to expand Medicaid in the State.
 This will be one of my top priorities when I take office, along with reforming the Georgia Pathways program to actually work for Georgia families.
-Economic Development "Economic Development" is more than just industry and retail.
-It also means things that enrich our lives like public spaces, the arts and properly funded schools.
-NW Georgia has lagged behind in ALL these areas for too long.
-We need economic policies that support families first, while still helping local businesses grow in a responsible manner.
-Affordability Gas prices are up.
-Groceries are up.
-Child Care is up.
-EVERYTHING is up, except for wages.
-While a lot of this stems from poor-decisions at the Federal level, there are things we can do in State Government to ease the pain.
-I'll work on finding new ways to "insulate" Georgia's economy from these Federal problems and bring prices down for all Georgians.
+Flock Cameras Flock Cameras (and other License Plate Readers) are a serious overreach by government and a massive violation of our civil rights.
+If elected I'll work to create new laws to shore up our privacy rights and eventually ban or restrict the use of these systems here in Georgia.
+Data Centers A sad fact of modern life is that we all depend on data, and therefore we depend on these data centers.
+But, that does NOT mean that they should be allowed to destroy our communities while enriching the companies that build them and giving back nothing in return.
+If elected, I'll vote to create a state-wide moratorium on new Data Center development and then work to establish standards that these facilities must adhere to.
+A good starting point is this draft document created by the Walker County Commission on Data Centers.
 Gerrymandering I think we all realize that the current District setup (at both the State and Federal levels) is absolutely insane, with the party in power constantly looking to stifle the will of the folks on the other side.
 One of my top goals will be to redistrict myself out of a job in 2030.
 Districts should be created in a non-partisan manner (like Iowa or Michigan ) rather than having the state carved up like a Thanksgiving Turkey by a bunch of power-hungry millionaires that have no real interest in representing the people.

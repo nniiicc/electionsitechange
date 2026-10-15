@@ -16,4 +16,4 @@ Donna Miller is running for Congress to fight back against those in Washington w
 As a Congresswoman, Donna will work tirelessly to build a future we can all afford .
 Support Donna Miller $10 $25 $50 $100 Custom Amount $250 If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Our Campaign Sign up for campaign updates and opportunities.
-Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress
+Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

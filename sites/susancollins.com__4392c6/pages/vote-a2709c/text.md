@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Home About Track Record News Vote Store Get Involved Donate Get Involved Donate Make Your Plan To Vote Important Dates October 13th Deadline to Register to Vote Online or By Mail October 29th Mail In Ballot Application Deadline at 5pm Early In-Person Voting Ends November 3rd Election Day FIND YOUR POLLING LOCATION register to vote Choose how you'll vote Three Ways to Vote in Maine Pick the option that fits best.
+Skip to main content Skip to footer Opens in a new tab Home About Track Record News Vote Store Get Involved Donate Get Involved Donate Make Your Plan To Vote Important Dates October 29th Mail In Ballot Application Deadline at 5pm Early In-Person Voting Ends November 3rd Election Day FIND YOUR POLLING LOCATION register to vote Choose how you'll vote Three Ways to Vote in Maine Pick the option that fits best.
 In Person on Election Day Tuesday, November 3 Go to your assigned polling place.
 Not sure where it is?
 Look it up here.

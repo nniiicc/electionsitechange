@@ -12,4 +12,4 @@ Together we have enjoyed raising our two children, Sara and Brian.
 I have had the privilege of serving on the board of the United Way of Northern Nevada, the Sparks Citizens Advisory Committee, the Sparks Charter Committee, and serving in the Nevada Assembly representing District 31 and Senate District 13.
 Representing Senate District 1 3 and Assembly District 31 have been the privilege of my life, and I’m not done yet.
 I look forward to building on my record to improve our schools, increase access to affordable healthcare, and to lower everyday costs for Nevada’s families .
-CONTACT (775) 722-6534 skipd@sbcglobal.net Follow Follow MEET SKIP GOALS NEWS Donate PAID FOR AND AUTHORIZED BY DALY FOR SENATE DISTRICT 13 • 2180 4TH STREET, SPARKS, NV 89431 POWERED BY NERD POWER MEDIA Automated page speed optimizations for fast site performance
+CONTACT (775) 722-6534 skipd@sbcglobal.net Follow Follow MEET SKIP GOALS NEWS Donate PAID FOR AND AUTHORIZED BY DALY FOR SENATE DISTRICT 13 • 2180 4TH STREET, SPARKS, NV 89431 POWERED BY NERD POWER MEDIA

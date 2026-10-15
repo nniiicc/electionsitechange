@@ -3,10 +3,13 @@ Protecting the Integrity of Voting Systems Serving as a precinct election offici
 I have seen first-hand the sanctity with which our boards of elections execute free and fair elections.
 It can be a source of pride for all of us.
 However, when we empower elected officials and not citizens to draw the state’s electoral maps, politicians are essentially choosing their voters.
+The Ohio Supreme Court ruled five times that state legislative maps—drawn by politicians in power—are unconstitutional.
+Gerrymandering isn’t in anyone’s best interest other than the people who want to stay in power.
+Manipulating voting maps to serve a political party rather than serving the voters is undemocratic.
 Partial voting districts are not a true representation of an area, leading the voters who live there to become disenfranchised—as if their vote and their voice doesn’t matter.
 For example, this district I want to represent—District 31—includes five counties that span northeast to southeast Ohio, including part of Appalachia.
 It slices two of the counties into different districts and excludes contiguous, neighboring counties.
-As your next State Senator, I will prioritize impartial, citizen-led voting districts.
+As your next State Senator, I will prioritize impartial, citizen-drawn voting districts.
 Fair & Accountable Taxation For the past 30 years, the elected majority in the Ohio Statehouse has favored a “business-friendly” tax policy—incentives, loopholes and abatements for corporations, as well as tax breaks for the wealthiest among us.
 This policy has resulted in Ohio losing out on billions of tax revenue annually, causing the share of everyday Ohioans’ taxes to increase and our communities scrambling to find funding.
 When the state’s share of paying for local government services and infrastructure is low, the burden falls on local municipalities and citizens to cover the costs.
@@ -25,24 +28,31 @@ Strengthening & Investing in Public Schools Strong public schools are the founda
 Equal access to schools that inspire a love of learning while developing the strategic thinking and social skills needed to become good neighbors and citizens is crucial to a thriving democratic society.
 However, many districts are financially struggling, impacting their ability to provide high-quality education to our students in a safe environment.
 That’s not fair to our kids or educators.
-Ohio ranks 42nd in the nation for school funding.
-And while state leaders tell us they’ve never spent more on education, when you adjust for inflation, the increased number of specialized education needs being identified and an increase in state mandates on public schools, Ohio’s per-pupil spending is below average at best.
+Ohio ranks 42nd in the nation for school funding support.
+And while state leaders tell us they’ve never spent more on education, when you adjust for inflation, the increased number of specialized education needs being identified and an increase in state mandates on public schools, Ohio’s per-pupil spending is not nearly enough.
 And that is before factoring in the money reallocated to private school vouchers and the money the state keeps when a student open-enrolls in a different district.
 In 2021 with bipartisan support, the statehouse passed the Fair School Funding Plan.
 It was a 6-year plan which based state-level school funding on the true cost of educating each student and the district’s ability to cover those costs.
-However, the current state budget is not fully funding schools per the plan—they should have provided $3 billion total for last year and this coming year combined.
-The statehouse budget fell incredibly short, just $250 million and leaving districts across the state severely underfunded.
+However, the current state budget is not fully funding schools per the plan—the last statehouse budget was $2.75 billion less than expected, leaving districts across the state severely underfunded.
 Additionally, other sources of funding for public education are being shortchanged, most notably from corporations building pipelines through our communities who promised money to local districts and haven’t followed through.
 And last year’s House Bill 335 dealt yet another blow to school funding by eliminating inside (unvoted) millage to go to public schools, increasing the need for voted levies.
 As your next State Senator, I will prioritize adequately funding the true cost of educating each student in our district, and I will hold corporations accountable for the taxes they owe.
-Affordable, High-Quality Health Care, Dependent Care & Housing The state of our economy is a lot more nuanced than what the S&P and DOW tell us each day.
+Affordable, High-Quality Healthcare, Dependent Care & Housing The state of our economy is a lot more nuanced than what the S&P and DOW tell us each day.
 How everyday people are doing in their everyday lives is a much better indicator of whether an economy is working for the majority.
 Can they afford the basics—food, utilities, healthcare, housing, dependent care, transportation?
 Can they find gainful employment without even one of those basics?
 Because no matter what the stock market or unemployment numbers tell us, the economy suffers when people don’t have their basic needs met.
-HEALTH CARE People all across our district are having to make incredibly difficult decisions about where to allocate their limited budgets—often forgoing preventative or early-intervention health care, including critical medications.
-Cuts and increased restrictions for Medicaid, SNAP benefits, and insurance through the ACA are forcing people to make difficult decisions about their health care and reducing the number of people with insurance coverage.
-In fact, an analysis from the Health Policy Institute of Ohio found that Ohio public health is one of the worst funded in the country—ranking 13th lowest.
+HEALTHCARE Recent cuts and increased restrictions for Medicaid and insurance coverage through the ACA has led to more than 207,000 Ohioans losing health coverage.
+But just because Ohioans lose coverage, their health needs don’t go away.
+When uninsured patients can no longer wait to address their health needs and head to ERs, those uninsured patients are unlikely to have the resources to pay for costly ER bills.
+That is uncompensated care.
+Uncompensated care leads to healthcare providers trying to make up for losses by cutting services, closing facilities, or increasing billing in other areas, which affects commercial insurance plans.
+The cost of our insurance premiums goes up when the number of uninsured Ohioans goes up.
+In fact, ACA Marketplace premiums are expected to rise another 15% in 2027, which is on top of this year’s increases.
+Rising healthcare costs are not only straining Ohio patients and providers, but also Ohio employers.
+The average employer contribution to a health care plan for employees has risen 30% in the last decade.
+Currently, Ohio is ranked 35th in the nation for healthcare access.
+We need to do better, especially for underserved rural areas like those in our district.
 As your next State Senator, I will prioritize access to quality, affordable health care, including mental health care.
 HOUSING High mortgage rates, home prices and rental costs are making it difficult for people to find housing security, especially first-time home buyers and those from multi-generational poverty.
 As your next State Senator, I will prioritize statewide initiatives that increase availability and affordability of housing.

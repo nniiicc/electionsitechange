@@ -53,8 +53,8 @@ It is whether we can grow in a way that strengthens our communities, expands opp
 I believe we can.
 By investing in our families, supporting local businesses, strengthening our schools, improving infrastructure, and creating opportunities for everyone to succeed, we can build a future that works for all of District 9.
 That is the future I am committed to helping build.
-Share this post: Categories All Posts Announcements News What I'm Hearing Sign up for blog updates!
+Share this post: Categories All Posts Announcements News Official Statement What I'm Hearing Sign up for blog updates!
 Join my email list to receive updates and information.
-Sign up Recent Posts I’m pro-worker and pro-opportunity.
-Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
+Sign up Recent Posts Regarding Comments from School Board Member Elena Brenner Oct 14, 2026 I’m pro-worker and pro-opportunity.
+Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
 Terms and Conditions Privacy Policy

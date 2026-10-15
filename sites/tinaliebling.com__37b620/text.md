@@ -1,4 +1,4 @@
-Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Re-Elect Tina Liebling, Your State Representative Life is getting tougher and scarier for most people.
+Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Audio Transcript - Healthcare Ad Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Audio Transcript - Healthcare Ad Re-Elect Tina Liebling, Your State Representative Life is getting tougher and scarier for most people.
 Tariffs, trade wars, and the illegal war in Iran are making prices for gas, food, and housing go up.
 At the same time, corporate consolidation, greed, and waste are raising the price of health care.
 Most peoples raises don’t keep up—if they get a raise at all.

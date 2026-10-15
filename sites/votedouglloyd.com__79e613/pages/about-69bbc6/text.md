@@ -1,4 +1,4 @@
-About Doug Priorities Endorsements Get Involved Merchandise Donate About Doug Lloyd Eaton County Prosecuting Attorney | 30+ Years of Public Service A Letter from Doug In the spring of 2013, I was honored to be appointed Eaton County Prosecuting Attorney by Circuit Court Judges Janice K.
+Follow Doug About Doug Priorities Endorsements Get Involved Merchandise Donate About Doug Lloyd Eaton County Prosecuting Attorney | 30+ Years of Public Service A Letter from Doug In the spring of 2013, I was honored to be appointed Eaton County Prosecuting Attorney by Circuit Court Judges Janice K.
 Cunningham and Jeffrey L.
 Sauter.
 That appointment began a decade long journey of service, accountability, and justice, one that I have proudly continued by winning four consecutive elections, including the county's first contested prosecutor's race since 1972.
@@ -71,5 +71,5 @@ Get Involved Donate Today Doug Lloyd Republican Candidate for Michigan Attorney 
 30+ years as prosecutor.
 Proven experience.
 Trusted leadership.
-Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
+Follow Doug Facebook X Instagram TikTok LinkedIn YouTube Quick Links About Doug Priorities Endorsements Get Involved Merchandise Contact Doug Lloyd for MI Attorney General PO Box 80536 Lansing, MI 48908-0536 Paid for by Doug Lloyd for MI Attorney General PO Box 80536, Lansing, MI 48908-0536 © # Doug Lloyd for Michigan Attorney General.
 All rights reserved.

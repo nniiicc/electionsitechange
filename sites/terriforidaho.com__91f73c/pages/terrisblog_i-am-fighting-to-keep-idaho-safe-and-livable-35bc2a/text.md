@@ -30,4 +30,4 @@ And, not for nothing, if you look back over 250 years, just shutting up and lett
 It isn’t what made America a super power.
 In fact, “domestic opposition” is why our nation exists in the first place.
 That freedom is how we will compete with autocracies like China and Russia.
-Donate Elle Casner Next Next Let’s Blame Brad Little for Record High Gas Prices TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701
+Donate Elle Casner Previous Previous On the Road Across Idaho: The Final Campaign Push Next Next Let’s Blame Brad Little for Record High Gas Prices TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

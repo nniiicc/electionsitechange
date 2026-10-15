@@ -4,8 +4,7 @@ We moved several times as my parents worked to provide stability and opportunity
 Through every challenge, one thing remained constant: their unwavering commitment to family. ​ I am deeply grateful for the sacrifices my parents made to raise all five of their sons through difficult and uncertain seasons of life.
 They taught me responsibility, discipline, faith, self-sacrifice, and perseverance—not through words alone, but through their example. ​ Much of my childhood was spent working alongside my family in small businesses.
 Those experiences gave me a lasting respect for working families, small business owners, and the dignity that comes from earning everything through hard work and persistence.
-They also taught me that strong families and strong communities are the foundation of a healthy society.
-My experiences led me to ask deeper questions about human nature, society, and the institutions that shape our lives.
+They also taught me that strong families and strong communities are the foundation of a healthy society. ​ My experiences led me to ask deeper questions about human nature, society, and the institutions that shape our lives.
 I eventually earned a bachelor's degree in neuroscience, which strengthened my appreciation for critical thinking and the complexity of human behavior.
 Beyond my formal education, I have spent years independently studying the Constitution, the Declaration of Independence, the Federalist Papers, and the writings of America's Founders. ​ Like many Americans, I am still paying off student loans while covering the rising costs of rent, transportation, insurance, and everyday life.
 I know what it means to work hard and still feel like you are falling behind.

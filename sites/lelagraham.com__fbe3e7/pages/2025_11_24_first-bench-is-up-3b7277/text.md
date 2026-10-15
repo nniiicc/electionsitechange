@@ -8,7 +8,7 @@ It is on our main route for the walk and talks around HD-21.
 We have plans to put many more up around the district, if you would like to help us please donate here .
 Anything helps us get our name and message out towards victory in November 2026.
 Onward!
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Posted in Uncategorized Leave a Reply Cancel reply Comment Name Email Website Δ ← Happy National Recovery Month and Challenge.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Posted in Uncategorized Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ ← Happy National Recovery Month and Challenge.
 Join Team Graham! → Paid for by Lela Graham for HD 21, Democrat, 1500 5th St NW #9 Great Falls, MT 59404 C.
 Joan Graham, Treasurer Use of the military rank, job titles and photographs in uniform does not imply endorsement for the Department of the Army or Department of Defense.
 Loading Comments...

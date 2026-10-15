@@ -1,4 +1,4 @@
-top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE GET INVOLVED Here's an opportunity to do something that will impact our state.
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions DONATE GET INVOLVED Here's an opportunity to do something that will impact our state.
 Help Heather make a difference.
 There are many ways to volunteer, from walking door to door to hosting fundraising events.
 Let us know how you can help: BECOME A VOLUNTEER Join Heather Baxter’s campaign as a volunteer and help bring truth, transparency, and trust to South Dakota’s Secretary of State office!
@@ -11,5 +11,5 @@ Message and data rates may apply.
 Reply HELP for help or STOP to cancel.
 Consent is not a condition of participation or purchase.
 View our Terms & Conditions and Privacy Policy .
-Submit HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+Submit HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

@@ -23,6 +23,6 @@ Immigration Reform Nathan supports an Ellis Island-style immigration policy that
 He supports eliminating the militarization of border security and immigration enforcement, believing that force should not be used against individuals who are not violent.
 Abolish ICE and replacing it with nothing.
 Join the Team Challenge the establishment and help empower the People.
-Join Nathan to dismantle federal overreach, fight for the liberties for all!
+Join Nathan to dismantle federal overreach and fight for the liberties for all!
 Sign up as a volunteer now to drive our revolution.
-Volunteer © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page
+Volunteer Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page

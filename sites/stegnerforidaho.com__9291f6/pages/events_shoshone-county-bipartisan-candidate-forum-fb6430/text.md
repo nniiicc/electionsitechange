@@ -3,4 +3,4 @@ We believe it is important to give our community the chance to hear directly fro
 We hope you will join us for this informative evening and take part in meaningful dialogue regarding the future of our community.
 We hope to see everyone there!
 For any questions or concerns please contact becca@silvervalleychamber.com Learn more here .
-Previous Previous October 19 Meet & Greet in Grangeville Next Next October 23 Citizens' Forum in Moscow Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701
+Previous Previous October 19 Meet & Greet in Grangeville Next Next October 21 Meet & Greet in Bonners Ferry Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

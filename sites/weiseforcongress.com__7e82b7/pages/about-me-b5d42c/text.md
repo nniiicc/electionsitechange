@@ -13,4 +13,5 @@ Libertarianism is a political philosophy founded on the belief that individuals 
 Libertarians emphasize personal responsibility, individual liberty, and limited government, trusting people and communities to make decisions for themselves rather than relying on government mandates.
 In practice, libertarians seek to maximize freedom in both personal and economic matters.
 They support free speech, privacy, property rights, free markets, and equal treatment under the law, while advocating for a government focused on protecting individual rights rather than controlling personal choices.
-At its core, libertarianism is guided by a simple idea: a freer society is a more prosperous, innovative, and just society. © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page
+At its core, libertarianism is guided by a simple idea: a freer society is a more prosperous, innovative, and just society.
+Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page

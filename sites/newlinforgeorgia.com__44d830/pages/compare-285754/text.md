@@ -423,6 +423,9 @@ SB 498 (2024) Did not pass → Create the Interagency Council on Homelessness.
 SB 43 (2024) Did not pass Senate votes See the bill Count a public safety officer's death by suicide, in certain cases, as a line-of-duty death under the Georgia State Indemnification Fund.
 The candidate questionnaires → My answers and Sen.
 Jackson's to the Decaturish Q&A, Ballotpedia, GEEARS and IAC for Action questionnaires, question by question.
+Her 2026 GEEARS answer is her 2024 answer, word for word.
+Kim doesn't care.
+She expects your vote and takes it for granted.
 See the answers → Catholic teaching and her record → Her votes and recorded words, next to what the U.S. bishops and the Georgia Catholic Conference teach, with my position on each.
 A comparison for the House Representative for District 101, Scott Holcomb, is also included.
 See the comparison → And what did she actually get passed? → Five bills in five years became law.

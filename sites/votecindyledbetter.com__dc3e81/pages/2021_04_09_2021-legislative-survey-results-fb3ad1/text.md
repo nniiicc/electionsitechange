@@ -2,7 +2,7 @@ Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cin
 Out of 34,251 voters in the 2020 general election 1015 completed the survey for a total of 0.03 %.
 I ask that everyone keep an eye out for next years survey, I am here to work for you and I want to hear your voice.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev WNIN Lawmakers 2021 Session Next 2022/2023 STATE BUDGET Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev WNIN Lawmakers 2021 Session Next 2022/2023 STATE BUDGET Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

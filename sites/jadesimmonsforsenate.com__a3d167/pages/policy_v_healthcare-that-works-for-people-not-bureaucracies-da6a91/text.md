@@ -47,7 +47,7 @@ Putting a maximum wait-time guarantee on healthcare, between referral to service
 It’s the healthcare we deserve.
 The future is wholeness, health, wellness, and fair care.
 Texas, we have it in us to do better for us.
-Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like The Thurgood Marshall Plan Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Thrivability: Beyond Affordability to Economic Possibility Humane Immigration Reform and Border Security STAY UPDATED Let’s Build the Future Together.
+Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like Independence from Party Control TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE A New Era in Education A Breakthrough Brief: Thrivability for Small Business Statement of Belief: Honor God, Serve People STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

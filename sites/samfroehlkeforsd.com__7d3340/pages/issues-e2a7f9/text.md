@@ -9,9 +9,6 @@ The people of South Dakota need the option to receive the care that they can aff
 This is not a right.
 But it is a want and need, and it is a want and need that we can fill.
 Read More Property tax reform We need to roll back property tax assessments to the last sale price adjusted for inflation, not current market value.
-I support a cap of 40% of property taxes going to the school district, and a floor of at least 3-5% going to local fire and EMS.
-As much as we may want the greatest, largest educational system money can buy, we just don't always get what we want.
-Our needs come first.
 Read More Local control of schools Regardless of our own personal beliefs and preferences, the minutiae of school organization and operation should remain in the control of local voters.
 But local control requires local responsibility, and our school districts need to pay their own bills.
 Read More Supporting local fire and EMS As some of our most essential services, the counties should be required to fully maintain and equip their fire and ambulance services.

@@ -25,7 +25,10 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Chicago will be location for state’s first electric-powered mobile DMV, Illinois Secretary of State says Illinois Secretary of State Alexi Giannoulias has announced a new mobile unit that will bring the Department of Motor Vehicle’s services to you.
-According to Keep Reading → Statement from Secretary Alexi Giannoulias on Governor Pritzker’s Budget Address I applaud Governor Pritzker for laying out a budget plan that is committed to serving all Illinoisans – especially children, vulnerable populations and the hard-working men and women of organized labor.
-Keep Reading → Democrat Secretary of State Candidate Alexi Giannoulias Earns New Suburban and Labor Endorsements New Trier, Schaumburg Democrats and Six Unions Pledge Support for Former State Treasurer Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Did You Know?
+When people think of the Secretary of State’s office, they naturally think of driver’s licenses.
+But the Secretary of State plays a variety of critical Keep Reading → Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
+J.B.
+Pritzker’s desk.
+Keep Reading → Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

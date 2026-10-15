@@ -5,7 +5,8 @@ Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to Opt-out.
 Text HELP for support or e-mail: info@johnarthur.com .
-For more info visit: MEET JOHN John Arthur won overwhelming support in HD41 when he ran for Utah State School Board in 2024!
+For more info visit: MEET JOHN IT'S TIME TO VOTE!
+Election Day is November 3 You can: ​ Mail your ballot back (postmark by October 29th) Return your ballot to a drop box near you by 8 PM on Election Day ( find locations here ) Vote in person early or on Election Day (find locations here) John Arthur won overwhelming support in HD41 when he ran for Utah State School Board in 2024!
 WATCH this campaign video to learn more: REPRESENTING HD41 After a career spent empowering students, supporting working families, and advocating for public workers, John Arthur is bringing his dedication and service to the Utah Legislature.
 He knows that the most effective leadership starts with listening, understanding the needs of the community, and turning those priorities into practical policies. ​ In the House of Representatives, John Arthur is championing legislation that addresses affordability and livability for residents of House District 41.
 Rising housing costs, limited childcare options, and unfunded education mandates are putting unnecessary pressure on our community.

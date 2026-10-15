@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action I believe the greatest outcomes are created by working together.
+0 Skip to Content About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action I believe the greatest outcomes are created by working together.
 About Sne Patel Aloha, I’m Sne Patel, your candidate for State House of Representatives District 14 - West Maui, serving Lahaina, Maʻalaea, Waiheʻe and Waiehu.
 As a husband and father, small business leader and community volunteer, I know how important it is to have a vibrant community—one that offers opportunity, supports our families and creates a strong quality of life.
 A community where our ʻohana can live, work and thrive for generations to come.

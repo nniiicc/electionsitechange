@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Meet Kristen Thompson Kristen Thompson is a conservative leader in the Oklahoma State Senate, representing District 22.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Meet Kristen Thompson Kristen Thompson is a conservative leader in the Oklahoma State Senate, representing District 22.
 Since her election in 2022, she has brought private-sector experience and community-first values to the Capitol.
 A fourth-generation Oklahoman and University of Oklahoma graduate, Senator Thompson and her husband have built successful businesses in construction and hospitality, creating hundreds of quality jobs for Oklahoma families.
 Senator Thompson delivers results.

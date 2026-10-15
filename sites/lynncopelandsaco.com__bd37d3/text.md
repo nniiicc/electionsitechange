@@ -1,4 +1,4 @@
-REP LYNN HOLLAND COPELAND Home Meet Lynn Accomplishments Issues Endorsements Contact Putting Saco First State Representative Lynn Holland Copeland District 130 Rep.
+REP LYNN HOLLAND COPELAND Home Meet Lynn Profile Accomplishments Issues Endorsements Contact Putting Saco First State Representative Lynn Holland Copeland District 130 Rep.
 Lynn Holland Copeland is serving her third term and looking forward to her fourth term representing Saco in the Maine House of Representatives.
 Copeland was working by day in a law firm and as a Representative in the Maine House simultaneously but has now retired which allows her full-time focus to be in the State House.
 Rep.
@@ -18,4 +18,4 @@ Feel free to reach out to her by emailing [email protected] .
 Sign up for updates * Indicates required field Email * Subscribe to Newsletter Reach out anytime!
 I'm here to help.
 EMAIL: [email protected] ​ PHONE: 207-712-6776 (cell) Paid for & Authorized by Lynn Copeland for State House P.O.
-Box 287, Saco ME 04072 Home Meet Lynn Accomplishments Issues Endorsements Contact
+Box 287, Saco ME 04072 Home Meet Lynn Profile Accomplishments Issues Endorsements Contact

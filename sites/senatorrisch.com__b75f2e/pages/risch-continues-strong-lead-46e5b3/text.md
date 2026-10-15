@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Risch Continues Strong Lead Against Opponents BOISE, ID – A new statewide poll shows U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Risch Continues Strong Lead Against Opponents BOISE, ID – A new statewide poll shows U.S.
 Senator Jim Risch maintaining a commanding lead in his reelection campaign, with a 34-point advantage over his nearest opponent less than # days before Election Day.
 The survey of 500 likely Idaho general election voters, conducted August 11–13 by Peak Insights, found Risch leading the four-way race with 52% support.
 Todd Achilles, a Democrat former state legislator now running under an “Independent” label, trailed with only 18%.

@@ -23,7 +23,7 @@ NO bait-and-switch policies.
 Better Schools Workforce Pipeline: I support parental choice, academics over activism, and reforming the middle and high school experience to include a framework that replaces school-to-prison pipelines with school-to-apprenticeship pipelines.
 Connecting students to the workforce as early as middle school.
 Creating quicker pathways out of poverty into the new digital economy.
-Campaign Blog The Truth About Affordable “For All” & Affordability July 28, 2026 | by Latisha Grady Read More → Birthright Citizenship & The Respect Due Black Americans July 12, 2026 | by Latisha Grady Read More → School Choice Isn’t the Enemy of Public Schools.
+Campaign Blog WECT Legislative Forum Questions, Candidate Grady’s Answers in Writing October 14, 2026 | by Latisha Grady Read More → The Truth About Affordable “For All” & Affordability July 28, 2026 | by Latisha Grady Read More → Birthright Citizenship & The Respect Due Black Americans July 12, 2026 | by Latisha Grady Read More → School Choice Isn’t the Enemy of Public Schools.
 Complacency Is.
-July 7, 2026 | by Latisha Grady Read More → My Plan for District 18: Safer Streets, Lower Costs, Better Schools May 7, 2026 | by Latisha Grady Read More → YN Stories: YNs to YP’s –Young Patriot Marines May 3, 2026 | by Latisha Grady Read More → Don’t California Our Carolina April 5, 2026 | by Latisha Grady Read More → support@electlatishagrady.com P.O.
+July 7, 2026 | by Latisha Grady Read More → My Plan for District 18: Safer Streets, Lower Costs, Better Schools May 7, 2026 | by Latisha Grady Read More → YN Stories: YNs to YP’s –Young Patriot Marines May 3, 2026 | by Latisha Grady Read More → support@electlatishagrady.com P.O.
 Box 4371 Wilmington, NC 28406 Terms & Conditions Privacy Policy DONATE VOLUNTEER REQUEST A YARD SIGN Copyright © # Paid for by Committee to Elect Latisha Grady Powered by Christ Instagram Facebook

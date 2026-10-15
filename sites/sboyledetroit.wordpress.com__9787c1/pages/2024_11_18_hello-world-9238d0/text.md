@@ -26,7 +26,7 @@ The 4 pillars of the Green Party of US 1 are: Peace Ecology Social Justice Democ
 You may have heard me speak before Detroit City Council, Mayoral Community meeting, DDOT Virtual Community meeting, or Detroit Neighborhoods meeting.
 Here’s a list of elected offices that I’ve sought: 2024 County Commissioner, District 5 of Wayne County Michigan (Green Party) 2022 Detroit Board of Police Commissioners, District 3 (write-in, nonpartisan) 2020 State Representative, District 3 of Michigan (Green Party) 2014 US Representative, District 14 of Michigan (Green Party) Qualities for Success One of the qualities I find in successful management is the will and action to remove obstacles for those encountering them.
 Sometimes there’s a negotiation or longer process to get around an obstacle, often it’s not typically well known or accessible.
-The Four Pillars of the Green Party of the United States ↩︎ Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+The Four Pillars of the Green Party of the United States ↩︎ Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

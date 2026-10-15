@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate The Spencer Frye Fellowship The Spencer Frye Fellowship offers approximately 30 UGA students each year the opportunity to actively see their impact in state politics, grow as young professionals, and make a few friends along the way.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate The Spencer Frye Fellowship The Spencer Frye Fellowship offers approximately 30 UGA students each year the opportunity to actively see their impact in state politics, grow as young professionals, and make a few friends along the way.
 Since 2011 Our History In 2011, we recruited students from the Athens area to campaign for our election to the Georgia House of Representatives.
 Their commitment was truly inspiring, and many desired to continue their work as the agenda turned to passing impactful legislation.
 Shortly after, the Spencer Frye Fellowship was born.

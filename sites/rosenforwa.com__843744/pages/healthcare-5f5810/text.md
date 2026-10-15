@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Healthcare Cut the middleman.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Healthcare Cut the middleman.
 Pay less.
 Cover everyone.
 A universal healthcare plan for Washington.

@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Daryl Crites Daryl Crites I have known and worked with Naomi Riess since the 1990s.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Daryl Crites Daryl Crites I have known and worked with Naomi Riess since the 1990s.
 We first worked together on a subdivision project, where I handled the surveying and Naomi handled the land-use approvals.
 Since then, we have worked together on many projects throughout La Plata County.
 Land and development work can get complicated quickly.

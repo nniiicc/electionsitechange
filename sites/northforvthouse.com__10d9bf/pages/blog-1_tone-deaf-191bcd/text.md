@@ -9,7 +9,7 @@ Our Education System is one of the worst performing and most expensive in the na
 And yet, in a July 8 interview on WCAX about the current Speaker of the Vermont House -- a leader of the majority party and the one who controls the entire policy discussion agenda -- when asked if she subscribed to the belief that Vermont has an affordability crisis, the response was, “Surprisingly, not really.
 She doesn’t buy that part of the theory.” This, when more than 80% of Vermonters think that the state is unaffordable to live in.
 Seriously!?
-And, during an interview on WVMT , Laurie Houghton, the self-proclaimed next Speaker of the House, was asked what she planned to do about it.
+And, during an interview on WVMT , Lori Houghton, the self-proclaimed next Speaker of the House, was asked what she planned to do about it.
 She said, “There’s a real need for us to continue bringing in experts and Vermonters who are doing the hard work and make sure they have an opportunity to be heard in testimony.
 I think that’s where we would go.” Nothing substantive.
 No plan.

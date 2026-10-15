@@ -24,5 +24,8 @@ MAKE AMERICA HEALTHY AGAIN As a mom, former college athlete, and girls’ youth 
 Long before it became a national movement, she believed America should focus more on preventing illness, not simply treating it.
 In Congress, Jenny will fight chronic disease, put children’s health first, improve the quality and transparency of our food, bring greater transparency to healthcare costs, and hold federal health agencies and special interests accountable.
 Making America healthy again starts with common sense: healthier children, healthier families, and a greater focus on prevention.
+WHEN YOU SERVE OUR COUNTRY, JENNY HAS YOUR SIX As the daughter and granddaughter of veterans, Jenny has tremendous respect for those who serve our nation and their families.
+Jenny believes veterans shouldn't have to fight a second battle against bureacracy to receive the healthcare, benefits, and opportunities they've earned.
+That is why Jenny has created "I've Got Your 6," a six-point commitment to improve veterans’ healthcare, benefits, employment opportunities, housing, and transition to civilian life while cutting bureaucratic red tape and demanding greater accountability for serving Lowcountry veterans and their families.
 Jenny Costa Honeycutt Media Gallery PAID FOR BY JENNY FOR CONGRESS.
 Post Office Box 13823, Charleston, SC 29422 Privacy Policy Share by:

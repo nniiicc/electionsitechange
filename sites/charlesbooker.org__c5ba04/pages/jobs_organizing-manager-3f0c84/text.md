@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Field Organizing Manager Louisville, KY | In person Apply for this job Build and run the campaign's distributed organizing program: volunteer recruitment and voter contact across text, phones, and digital engagement.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Field Organizing Manager Louisville, KY | In person Apply for this job Build and run the campaign's distributed organizing program: volunteer recruitment and voter contact across text, phones, and digital engagement.
 Compensation $4,000 per month Schedule Full-time, at-will employment through November 30, 2026.
 Start date ASAP, based in Kentucky with in-person work out of the campaign office.
 Role overview Booker for the Commonwealth is the campaign to elect Charles Booker to the United States Senate from Kentucky.

@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Citizenship asks something of us September 17, 2026 Larson for Idaho Today is Constitution and Citizenship Day.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube Citizenship asks something of us September 17, 2026 Larson for Idaho Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.
 It asks us to pay attention and understand where our experience can contribute to making our communities better.
@@ -45,7 +45,7 @@ We are creating a cottage industry of litigation.
 I hear repeated calls to “take back” federal public lands without an honest accounting of what state ownership could mean for public access, hunting, fishing, wildfire protection, and the risk of future land sales.
 And I see legislators judged by party loyalty and private scorecards instead of by whether their decisions protect their constituents and serve Idaho well.
 I am running as an independent because I take my responsibility as a citizen seriously—and because I believe representation should be an act of citizenship, not an act of party obedience.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of… › Read more : Financial Accountability Doesn’t Mean Just Saying No September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.

@@ -1,10 +1,12 @@
 {
  "description": "Find town halls, campaign stops, and community events across Montana as Seth Bodnar fights for an independent Senate seat in 2026.",
  "final_url": "https://www.sethformontana.com/events",
- "fingerprint": "d20971ad3bd47e362286214e6eb8b82205391e2e",
+ "fingerprint": "1bf40b732b088f5cea62711f796d7d88d739acd7",
  "format": 3,
  "paid_for_by": "Paid for by Seth Bodnar for Montana You need to enable JavaScript to run this app",
  "rendered": false,
  "title": "Events — Seth for Montana",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005"
+ ]
 }

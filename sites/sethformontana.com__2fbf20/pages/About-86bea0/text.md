@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Meet Seth Bodnar About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Meet Seth Bodnar I’m not a politician.
+Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Meet Seth Bodnar About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Meet Seth Bodnar I’m not a politician.
 I didn’t grow up in a wealthy or connected family.
 I was raised by two public school teachers.
 They poured their hearts and souls into their students and showed me what public service is really about.

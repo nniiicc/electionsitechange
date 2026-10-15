@@ -1,4 +1,4 @@
-Platform Donate Get Involved Platform Donate Get Involved Arshia is running for Texas State Representative in Central Austin's HD 49 to make the lives of everyday Texans more dignified.
+Platform Free Yard Sign Donate Get Involved Platform Free Yard Sign Donate Get Involved Arshia is running for Texas State Representative in Central Austin's HD 49 to make the lives of everyday Texans more dignified.
 Leave this field blank Submit By providing your phone number, you agree to receive text messages from Arshia for Texas, via Solidarity Tech .
 Message and data rates may apply.
 Message frequency varies.

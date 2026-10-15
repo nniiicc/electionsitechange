@@ -1,7 +1,4 @@
-Home Meet Brady Endorsements Delivering Results Contact Home Meet Brady Endorsements Delivering Results Contact Before You Vote, Compare the Records Campaigns make promises.
-Records tell the truth.
-Compare the candidates on taxes, spending, public safety, education, and the issues that matter most to Utah County families.
-Compare the Candidates → Endorsed by the Utah County Republican Party Recognized as a Friend of the Taxpayer Watch Brady’s Message Brady Brammer is delivering conservative results for Northern Utah County.
+Home Meet Brady Endorsements Delivering Results Contact Home Meet Brady Endorsements Delivering Results Contact Endorsed by the Utah County Republican Party Recognized as a Friend of the Taxpayer Watch Brady’s Message Brady Brammer is delivering conservative results for Northern Utah County.
 Re-elect Brady Brammer Proven Republican Leadership That Delivers Brady Brammer delivers for Northern Utah County.
 Republican leader.
 Attorney.

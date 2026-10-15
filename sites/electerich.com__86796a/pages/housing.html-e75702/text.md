@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact HOUSING If you’re looking for an affordable place in Assembly District 39 to rent or buy, I wouldn’t blame you if you thought the whole world was against you.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction HOUSING If you’re looking for an affordable place in Assembly District 39 to rent or buy, I wouldn’t blame you if you thought the whole world was against you.
 Want to rent in Lyon or Douglas County?
 Be ready to pay at least $1,400 a month for a one-bedroom apartment.
 Two-bedrooms or more will cost from $1,700 up to $2,200.
@@ -72,4 +72,4 @@ Support incentives to counties and cities to change planning and zoning that pla
 And I won’t hesitate to insure proper funding for programs that help families in need, seniors and others on fixed incomes, and those experiencing homelessness to find and keep decent, affordable housing.
 Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

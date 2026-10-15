@@ -7,7 +7,7 @@ Send a firefighter to the House Read More » WW’s May 2020 Endorsements for Or
 Margaret Doherty (D-Tigard) is stepping down after a decade representing this swath of hilly suburbs southwest of Portland.
 The pick to replace her is an easy one: Dacia Grayber is a firefighter and paramedic with Tualatin Valley Fire & Rescue… WW’s May 2020 Endorsements for Oregon Legislature Read More » A Union Guide to Oregon’s May 19 Primary Election Elections & Endorsements / Dacia Grayber Oregon ballots can be confusing and crowded.
 This guide lists only candidates who have opponents on the ballot, and only those who have at least one union endorsing them… A Union Guide to Oregon’s May 19 Primary Election Read More » Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
-Number Postal Phone Name * First Last Email * Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+Name * First Last Email * Phone Number Checkboxes Name Phone Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
 You can unsubscribe anytime.
 COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
 All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.

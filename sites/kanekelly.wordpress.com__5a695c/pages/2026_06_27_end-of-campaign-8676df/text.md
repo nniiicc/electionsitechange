@@ -10,6 +10,6 @@ Particularly those who will stand up and be an active voice against the billiona
 MAKE AMERICA SANE AGAIN.
 Take it to the voting booth and let your voice be peacefully heard.
 Vote.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Create a free website or blog at WordPress.com.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Create a free website or blog at WordPress.com.
 Comment Reblog Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

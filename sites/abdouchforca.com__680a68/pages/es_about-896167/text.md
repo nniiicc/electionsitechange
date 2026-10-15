@@ -1,4 +1,4 @@
-Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Conozca al Candidato Conozca a Greg Abdouch Una voz para la gente.
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Guía Electoral Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Conozca al Candidato Conozca a Greg Abdouch Una voz para la gente.
 Un luchador por California.
 Desde deportista estudiante y pequeño empresario hasta defensor local de los padres, la vida de Greg está definida por la fe, la familia, el trabajo duro y el servicio comunitario.
 Biografía del Candidato Criado con los valores del Inland Empire Greg Abdouch ha llamado hogar al condado de San Bernardino por más de 45 años.
@@ -35,5 +35,5 @@ Greg da un paso al frente para liderar porque cree que el Distrito 45 merece un 
 Pero no puede hacerlo solo.
 Esta campaña es un movimiento impulsado por los vecinos del Inland Empire que se se niegan a quedarse al margen.
 Juntos, podemos restaurar el futuro de California. ÚNASE AL EQUIPO Hacer una contribución ← Volver al Inicio Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
-Navegación Inicio Biografía Apoyos Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Navegación Inicio Biografía Apoyos Guía Electoral Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
 Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

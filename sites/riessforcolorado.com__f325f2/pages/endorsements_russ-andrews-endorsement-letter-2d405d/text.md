@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Russ Andrews Russ Andrews, Colorado GOP Secretary and candidate for House District 57, endorses Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Russ Andrews Russ Andrews, Colorado GOP Secretary and candidate for House District 57, endorses Naomi Riess for Colorado House District 59.
 I have had the opportunity to get to know Naomi Riess through her work in Southwest Colorado and through her campaign for House District 59.
 Having run for Congress myself, and now serving as Colorado GOP Secretary and as a candidate for House District 57, I understand the commitment, preparation, and persistence it takes to step forward and serve.
 Naomi brings a strong combination of professional experience, community involvement, and a deep understanding of the people and issues that shape rural Colorado.

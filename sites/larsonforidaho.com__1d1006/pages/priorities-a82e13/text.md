@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Priorities The cost of living hits working families , young people , and fixed-income seniors the hardest Eliminate Idaho’s sales tax on groceries and basic necessities Lower property taxes for the people who live here by tying the Homeowner’s Exemption to median home values, so it keeps pace with rising prices.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube Priorities The cost of living hits working families , young people , and fixed-income seniors the hardest Eliminate Idaho’s sales tax on groceries and basic necessities Lower property taxes for the people who live here by tying the Homeowner’s Exemption to median home values, so it keeps pace with rising prices.
 Get serious about workforce housing.
 Give communities flexible tax incentives for employers, builders, and homeowners who create housing local workers can afford.
 Explore community land trusts that keep homes and working farmland affordable for future generations.

@@ -17,4 +17,4 @@ Manny Rutinel passed laws to crack down on child exploitation, strengthen report
 Gabe Evans protected child predators.
 Manny Rutinel is protecting our kids.
 I'm Manny Rutinel and I approve this message.
-Elliot Gross Next Next ICYMI: Front Page of the Denver Post: Millions to Lose Plans Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.
+Elliot Gross Previous Previous ICYMI: Gabe Evans Spends Exorbitant Amount of Taxpayer Money for Hotels and Dining Next Next ICYMI: Front Page of the Denver Post: Millions to Lose Plans Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

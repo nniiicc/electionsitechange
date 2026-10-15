@@ -16,12 +16,20 @@
 "href": "https://www.tatianaforwa.org/gallery"
 },
 {
+"text": "Español (Spanish)",
+"href": "https://www.kingcounty.gov/depts/elections/spanish.aspx"
+},
+{
 "text": "Events",
 "href": "https://www.tatianaforwa.org/events"
 },
 {
 "text": "Get Involved",
 "href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "KING COUNTY ELECTIONS",
+"href": "https://kingcounty.gov/en/dept/elections"
 },
 {
 "text": "Language Access",
@@ -32,8 +40,16 @@
 "href": "https://www.tatianaforwa.org/our-platform"
 },
 {
+"text": "Soomaali (Somali)",
+"href": "https://www.kingcounty.gov/depts/elections/somali.aspx"
+},
+{
 "text": "The Job",
 "href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "Tiếng Việt (Vietnamese)",
+"href": "https://www.kingcounty.gov/depts/elections/vietnamese.aspx"
 },
 {
 "text": "[image: English 1.png]",
@@ -90,5 +106,13 @@
 {
 "text": "hello@tatianaforwa.org",
 "href": "mailto:hello@tatianaforwa.org"
+},
+{
+"text": "中文 (Chinese)",
+"href": "https://www.kingcounty.gov/depts/elections/chinese.aspx"
+},
+{
+"text": "🌐 (pick your language)",
+"href": "https://kingcounty.gov/en/dept/elections"
 }
 ]

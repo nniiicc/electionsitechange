@@ -1,6 +1,6 @@
 0 Skip to Content Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE On the Issues Supporting Small Businesses As a small business owner, Heidi knows firsthand the cost of running a business in Maryland.
 She’s advocated against excessive taxes on small businesses, and supports cutting red tape, and making it easier for businesses to start, grow, and stay in Maryland.
-High Quality Education As a special education parent, Heidi knows the playing field is NOT level for all students.
+Quality Public Education for All As a special education parent, Heidi knows the playing field is NOT level for all students.
 Heidi supports quality education for every learner.
 She will fight for policies that offer real support for teachers, rather than those that undermine them, and support access to services that meet kids where they are — especially our most vulnerable learners, threatened by federal cuts to the IDEA Act.
 Affordability Crisis Heidi supports practical solutions to make Marylanders' lives more affordable, including lowering taxes on working families.

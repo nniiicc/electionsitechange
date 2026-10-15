@@ -2,6 +2,14 @@ Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Who E
 We hope so!
 We need your help.
 Sign up today and join us on Jeff's election campaign.
-Name Email Phone How you can help Jeff's campaign - Check all that apply to your skills Knock on doors Put up a sign in my lawn Organize a meet and greet in my neighborhood Make phone calls Stuff envelopes Help install lawn signs Write/Submit Letters to the Editor Your other skills: Our Privacy Policy applies.
+Name Email Cell Phone Consent information CHECK HERE - By providing your phone number and checking this box, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from Dotseth Volunteer Committee at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Contact Jeff for the Privacy Policy.
+How can you help?
+Door Knocking Parade help Putting signs out Stuffing envelopes Making phone calls Attending gun class Host an event I can help in any way Other Our Privacy Policy applies.
 Note: Please fill out the fields marked with an asterisk.
 Donate Here Online • PayPal • Check Contact Jeff Call me at 218-485-1168 Email me at [email protected] Prepared and Paid for by Dotseth Volunteer Committee PO Box 2 Kettle River Minnesota 55757 Log out | Edit Scroll to top

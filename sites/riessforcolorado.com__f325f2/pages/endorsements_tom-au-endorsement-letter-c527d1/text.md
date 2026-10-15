@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Tom Au Tom Au Friends and Neighbors, I am proud to offer my strong support for Naomi Riess as our next Representative for House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Tom Au Tom Au Friends and Neighbors, I am proud to offer my strong support for Naomi Riess as our next Representative for House District 59.
 I have known and worked with Naomi since the late 1990s.
 As the owner of Pinnacle Surveying Inc., I have worked with her on many development and land-use projects over the years.
 In addition, I currently serve as Mayor of the Town of Bayfield and have been actively involved in local government and community leadership for more than a decade.

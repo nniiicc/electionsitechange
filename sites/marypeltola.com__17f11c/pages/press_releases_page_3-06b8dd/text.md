@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer Mary Peltola for U.S.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer Mary Peltola for U.S.
 Senate Press Releases Statements and announcements from Mary Peltola’s campaign for the U.S.
 Senate.
 All Press Releases In the News [email protected] Press Kit (ZIP, 36 MB) INTERVIEW: Mary Peltola Slams Skyrocketing Prices, DC Corruption and Lays Out Plan to Put Alaska First Press Release August 3, 2026 INTERVIEW: Mary Peltola Slams Skyrocketing Prices, DC Corruption and Lays Out Plan to Put Alaska First Mary sat down with KTUU to discuss her plan to fight for Alaskans.
@@ -18,4 +18,5 @@ Dan Sullivan and a super PAC supporting him… misleadingly claim that Peltola o
 She didn’t.” Read the release Peltola Campaign Rakes in Record-Breaking $7 Million Second Quarter Haul Powered by Grassroots Donations Press Release July 10, 2026 Peltola Campaign Rakes in Record-Breaking $# Million Second Quarter Haul Powered by Grassroots Donations Campaign receives overwhelming grassroots support – #% of donations being $# or less.
 Read the release Mary Peltola in Fox News: We Need Term Limits to Fix the Rigged System in DC Press Release July 6, 2026 Mary Peltola in Fox News: We Need Term Limits to Fix the Rigged System in DC Mary’s op-ed in Fox News: “You can’t fix the cost of living without first fixing the people in charge” Read the release PHOTOS: Mary Peltola Celebrates America’s 250th, Marches in Bethel Independence Day Parade Press Release July 4, 2026 PHOTOS: Mary Peltola Celebrates America’s 250th, Marches in Bethel Independence Day Parade Today, lifelong Alaskan and former fishing boat captain Mary Peltola marched in Bethel’s Independence Day parade alongside family, friends, and fired-up volunteers in celebration of the 250th anniversary of the signing of the Declaration of Independence.
 Read the release Newer 1 2 3 4 5 6 Older Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

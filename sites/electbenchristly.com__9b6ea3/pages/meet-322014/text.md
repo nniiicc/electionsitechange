@@ -16,7 +16,7 @@ He is a devoted dad to three kids, ages 4, 12, and 26.
 Like many families here, they balance work, school, rising costs, and questions about what the future will look like for their kids.
 Around their kitchen table, campaign conversations share space with homework, youth sports, and the daily rush of family life.
 Ben and Cait are proud to call Southwest Washington home and are working to build the kind of community where all families can plan for their future and thrive.
-Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+Sign up for updates Media Contact Terms and Conditions Paid for by Elect Ben Christly (D) 304 S.E.
 Hearthwood Blvd.
 P.O.
 Box 87872, Vancouver, WA 98684

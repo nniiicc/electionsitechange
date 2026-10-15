@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Terms and Conditions About Endorsements Issues Volunteer Store News Media Donate Terms and Conditions Last Updated: 2/18/26 Welcome to Marni von Wilpert for Congress.
+Skip navigation menu About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Terms and Conditions About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Terms and Conditions Last Updated: 2/18/26 Welcome to Marni von Wilpert for Congress.
 By opting in to receive communications from us, including text messages, you agree to the following Terms & Conditions.
 Program Name Marni von Wilpert for Congress Program Description By providing your phone number and opting in, you consent to receive campaign-related text messages from Marni von Wilpert for Congress.
 These messages may include updates, event information, volunteer opportunities, fundraising appeals, voting reminders, and other campaign-related communications.

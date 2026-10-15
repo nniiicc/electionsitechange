@@ -44,6 +44,8 @@ Brady has also said he’ll work to improve the education of risky teenage drive
 Good.
 That’s why this office is more important than many Illinoisans think.
 Read the endorsement in the Chicago Tribune here.
-Related Posts Lurie Children’s Hospital celebrates transplant milestone CHICAGO — Leadership at Lurie Children’s Hospital of Chicago on Friday celebrated a record number of pediatric transplants performed for families over the course of Keep Reading → Secretary of State Giannoulias reveals rejected vanity plates in 2022 Small percentage prohibited for violating the state’s vehicle code Keep Reading → Giannoulias hires first-ever Diversity, Equity and Inclusion (DEI) Officer Fulfilling a campaign promise, Secretary of State Alexi Giannoulias has established the first-ever Diversity, Equity and Inclusion (DEI) Officer position in the Secretary of State’s office.
+Related Posts Giannoulias Earns Illinois Federation of Teachers’ Endorsement for Secretary of State Statewide 100,000+ Member Organization Supports Democrat in 2022 Keep Reading → Alexi Giannoulias: Illinois Secretary of State candidate answers Tribune Editorial Board questionnaire To inform voters and to help the Chicago Tribune Editorial Board make endorsements, the board posed a series of questions to the candidates running for Illinois Secretary of State.
+See how other the other candidate answered here.
+Keep Reading → Congresswoman Jan Schakowsky Endorses Democrat Giannouliasfor Secretary of State Congresswoman Jan Schakowsky endorsed Alexi Giannoulias today for Illinois Secretary of State.
 Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

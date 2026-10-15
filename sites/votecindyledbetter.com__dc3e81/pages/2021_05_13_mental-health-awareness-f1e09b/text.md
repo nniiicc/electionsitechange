@@ -4,7 +4,7 @@ New laws open up communication channels between first responders and mental heal
 Public safety personnel will be able to access patient care information, like an individual’s mental health safety plan.
 This will not only help them better serve our communities, but also get more Hoosiers the care they need.
 To Learn more… https://www.indianahouserepublicans.com/news/press-releases/ledbetter-you-are-not-alone/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev 2022/2023 STATE BUDGET Next Supporting Hoosiers During Public Emergencies Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev 2022/2023 STATE BUDGET Next Supporting Hoosiers During Public Emergencies Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

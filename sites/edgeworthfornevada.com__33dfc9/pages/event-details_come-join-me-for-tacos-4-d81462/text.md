@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Come join me for Tacos!
 Tue, Oct 20 | Mountain's Edge Regional Park Anyone want Free Tacos?
 Come join me for a fun and FREE event on Tuesday, October 20th from 5PM AM – 8PM at Mountain's Edge Regional Park!

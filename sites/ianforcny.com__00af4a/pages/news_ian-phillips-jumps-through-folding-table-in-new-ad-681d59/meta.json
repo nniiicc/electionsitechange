@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/ian-phillips-jumps-through-folding-table-in-new-ad",
- "fingerprint": "b596f7f7f7f6dea398dc2d7a90582ac2e83b3fe4",
+ "fingerprint": "6e75636d61c0a96db0cce069a0c02fe2514b5830",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Ian Phillips jumps through folding table in new ad",
  "years_mentioned": [
   "2024",

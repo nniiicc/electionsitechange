@@ -3453,8 +3453,12 @@ Your first step must be to free your people from the bondage of usury and the sl
 You must take over and assume the control of your nation's currency and credit.
 God demands action and action should not be delayed." — 359 — Previous article: A Program for Monetary Reform Prev Next article: The Role of Money Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
 Trusted by Texans.
-On the issues: A Q&A with U.S.
-Senate candidates James Talarico, Ken Paxton and Ted Brown Some Texas colleges get OK for new Workforce Pell that pays for job training U.S.
-Right to Know RSS Pursuing truth and transparency for public health Drug company gifts, meals, and payments to doctors lead to worse prescribing, review of 93 studies finds FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight Green Social Thought RSS Produce less.
+Trump says the border is secure.
+Texas Gov.
+Greg Abbott keeps declaring an emergency.
+Outspent and unknown, Democrat Vikki Goodwin gives Lt.
+Gov.
+Dan Patrick his toughest race yet U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Drug company gifts, meals, and payments to doctors lead to worse prescribing, review of 93 studies finds Hormone-disrupting chemical mixtures linked to excess childhood weight Green Social Thought RSS Produce less.
 Distribute it fairly.
-Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS RESOURCE GUIDE: Tips to help households save energy and stay warm this winter Data center moratorium now Texas Farm Bureau RSS USDA announces 2027 Dairy Margin Coverage enrollment Beef checkoff, GO TEXAN expand market opportunities GLO, Texas A&M, TFB partner to support next generation of farmers
+Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS Energy efficiency is our secret weapon FedEx makes record-setting electric vehicle investment Texas Farm Bureau RSS USDA releases 2026 cash rents for Texas cropland, pastureland Collegiate Farm Bureau officers strengthen leadership skills at retreat USDA farm program payments total record $13.8 billion

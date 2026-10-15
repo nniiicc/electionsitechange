@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Addressing Police Brutality Posted April 21, 2023 By Jessica Evans Capitol Corner It has happened again.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Addressing Police Brutality Posted April 21, 2023 By Jessica Evans Capitol Corner It has happened again.
 On Friday, January 27th, a disturbing video was released of the violent arrest of Memphis resident Tyre Nichols.
 According to a statement from the Memphis Police Department, twenty days prior to the video’s release Nichols was returning back to his home in Memphis when he was pulled over for reckless driving [ 1 ] .
 Three days later, he died after being severely beaten and pepper-sprayed by five former Memphis Police Officers.

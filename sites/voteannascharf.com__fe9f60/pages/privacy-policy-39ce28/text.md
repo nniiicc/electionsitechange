@@ -87,9 +87,11 @@ If required by applicable law, we will provide additional notice or obtain conse
 We encourage you to review this Privacy Policy periodically.
 15.
 Contact Us If you have questions about this Privacy Policy, want to change your communication preferences, or wish to make a request concerning your personal information, please contact: Friends of Anna Scharf Website: voteannascharf.com Email: contact@voteannascharf.com Get Involved Sign up to get updates from Anna!
-By entering your information, you consent to receive campaign updates, GOTV reminders, informational messages, and solicitations for support from Friends of Anna Scharf.
-Message and data rates may apply.
-Message frequency varies.
-You can unsubscribe at any time by replying STOP or using the unsubscribe link at the bottom of our emails.
-For more, please read our Privacy Policy .
+By signing up for texts, you consent to receive campaign updates, GOTV reminders, informational message text messages from Friends of Anna Scharf at the number provided.
+Donations may be solicited.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms at https://www.voteannascharf.com/privacy-policy .
 Paid for by Friends of Anna Scharf

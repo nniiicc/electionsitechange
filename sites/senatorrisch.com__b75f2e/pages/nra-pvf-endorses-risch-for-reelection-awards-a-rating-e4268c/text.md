@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu NRA PVF ENDORSES RISCH FOR REELECTION, AWARDS A+ RATING BOISE, ID – The National Rifle Association Political Victory Fund announced its endorsement of U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu NRA PVF ENDORSES RISCH FOR REELECTION, AWARDS A+ RATING BOISE, ID – The National Rifle Association Political Victory Fund announced its endorsement of U.S.
 Senator Jim Risch (R-Idaho).
 Senator Risch is the only candidate running for U.S.
 Senator in Idaho to receive an A+ rating from the NRA-PVF.

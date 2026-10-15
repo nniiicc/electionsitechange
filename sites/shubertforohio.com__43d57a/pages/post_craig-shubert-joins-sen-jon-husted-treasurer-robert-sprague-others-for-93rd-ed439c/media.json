@@ -14,7 +14,9 @@
 "img:enc_auto/552779_520161dc09714c0fbd4f81afbbfd25a2~mv2.jpeg",
 "img:enc_auto/552779_7bab1f620d2f4ab18208a292587bb3bc~mv2.jpg",
 "img:enc_auto/552779_fdf5c01ea19444d28923d1cd3a3203a7~mv2.jpeg",
+"img:enc_avif",
 "img:h_1280",
+"img:h_1400",
 "img:h_1440",
 "img:h_1707",
 "img:h_1920",
@@ -24,11 +26,13 @@
 "img:h_427",
 "img:h_480",
 "img:h_640",
+"img:h_700",
 "img:h_720",
 "img:h_853",
 "img:h_960",
 "img:q_80",
 "img:q_85",
 "img:q_90",
+"img:quality_auto/552779_95911474df344af1a0c1a17672ed2fab~mv2.jpg",
 "img:usm_0.66_1.00_0.01"
 ]

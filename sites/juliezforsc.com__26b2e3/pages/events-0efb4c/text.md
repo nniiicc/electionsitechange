@@ -13,12 +13,15 @@ District 71 stretches from Irmo to Ballentine to Chapin, covering Richland Count
 Help us make… Show more RSVP Julie Z for SC: Election Day Greeters Multiple Times House District 71 Irmo, SC, 29063 Join Team Julie Z for SC on Election Day November 3rd and greet voters.
 We are looking for volunteers to cover a voting location to wave signs, greet voters in line, and help us keep track of how ele… Show more RSVP Volunteer TODAY: Help ELECT DEMS Virtual Event There has never been a more critical time to join in the fight to help South Carolina Democrats win!
 Please let us know how you can join our effort.
-RSVP Flip the Future 'In-Person' Phone Bank Multiple Times 805 Calhoun St, Columbia, SC, 29201 Make phone calls with others at the RCDP Office.
-We'll use a phone bank that assists you in dialing the numbers and doesn't show your personal information or phone number.
-Bring your phone and lapto… Show more RSVP Young Democrats of the Central Midlands Monthly Meeting Multiple Times Richland Library, Main 1431 Assembly St, Columbia, SC, 29201 Join the Young Democrats of the Central Midlands covering Richland, Lexington, Fairfield, Orangeburg County areas.
-Our meetings are regularly on the 2nd and 4th Wednesday (recently changed from Thurs… Show more RSVP Build the Bench: Volunteer Action Night Multiple Times RCDP Office 805 Calhoun St, Columbia, SC, 29201 Get ready for the November 3rd Midterm Elections!
+RSVP On the Road to Flip the Future Former Mayor of Chicago Rahm Emanuel: Calhoun County This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Saint Matthews, SC, 29135 Doors will open at 9:00 AM.
+It’s time for Democrats to organize across South Carolina — “County by County: The Path to Power.” Join us in Calhoun County on Thursday, October 15 !
+On the Road with On… Show more RSVP Build the Bench: Volunteer Action Night Multiple Times RCDP Office 805 Calhoun St, Columbia, SC, 29201 Get ready for the November 3rd Midterm Elections!
 Join us on Thursday evenings for action and information packed volunteer sessions.
-Each session is designed to support and empower you as a volunteer… Show more RSVP Team Richland County Canvassing Crew and Doors Team Multiple Times Richland County Democratic Party 805 Calhoun St, Columbia, SC, 29201 Come out and support our SC Democrats running to represent Columbia and surrounding Richland County areas.
+Each session is designed to support and empower you as a volunteer… Show more RSVP Flip the Future 'In-Person' Phone Bank Multiple Times 805 Calhoun St, Columbia, SC, 29201 Make phone calls with others at the RCDP Office.
+We'll use a phone bank that assists you in dialing the numbers and doesn't show your personal information or phone number.
+Bring your phone and lapto… Show more RSVP Team Richland County Canvassing Crew and Doors Team Multiple Times Richland County Democratic Party 805 Calhoun St, Columbia, SC, 29201 Come out and support our SC Democrats running to represent Columbia and surrounding Richland County areas.
 We are knocking on doors to have conversations with our Democratic neighbors about the issues… Show more RSVP March with Julie Z in the SC Pride Parade Main Street Main St, Columbia, SC, 29201 Join us for a Columbia tradition to support the LGTBQ+ community: the SC Pride Parade!
 We'll line up at 6:30 (space to be announced) and start marching around 7.
 Wear your favorite Julie Z gear with … Show more RSVP Veterans Council Meeting Virtual Event Join the Veterans Council for their meetings on August 15th, September 19th, and October 17th at 9:30 am via Zoom.
@@ -27,4 +30,5 @@ We are knocking on doors to have conversations with our Democratic neighbors abo
 Sign up for more details This event’s address is private.
 Sign up for more details, Lexington, SC, 29072 Join the Young Democrats of the Central Midlands covering Richland and Lexington County areas.
 Our meetings are regularly on the second and fourth Wednesdays of each month.
-The Young Democrats are a… Show more RSVP Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.
+The Young Democrats are a… Show more RSVP Young Democrats of the Central Midlands Monthly Meeting Multiple Times Richland Library, Main 1431 Assembly St, Columbia, SC, 29201 Join the Young Democrats of the Central Midlands covering Richland, Lexington, Fairfield, Orangeburg County areas.
+Our meetings are regularly on the 2nd and 4th Wednesday (recently changed from Thurs… Show more RSVP Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.

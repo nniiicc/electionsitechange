@@ -1,7 +1,6 @@
 top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 All Articles Press Announcement Search A tale of two candidates in LD 14: Biggs’ political name versus Walsh’s career experience #ago 1 min read Check out the Capital Times: azcapitoltimes.com A tale of two candidates in LD 14: Biggs’ political name versus Walsh’s career experience | Arizona Capitol Times Legislative District 14 is reliably Republican, making a Democratic upset this November a long shot.
-Recent Posts See All Gilbert Chamber Candidate Endorsement Stephanie Walsh endorsed by the Forward Party!
-Watch Stephanie at the Arizona Clean Elections Debate Check out: ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Recent Posts See All Gilbert Chamber Candidate Endorsement Arizonans deserve more than family name Gilbert Sun News: Both Gilbert senate seats up for grabs as early voting begins ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

@@ -11,4 +11,4 @@ Every town has different infrastructure, and each community should be able to gr
 The citizens of Cheshire, Hamden, and Wallingford deserve to be in charge of their own communities.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

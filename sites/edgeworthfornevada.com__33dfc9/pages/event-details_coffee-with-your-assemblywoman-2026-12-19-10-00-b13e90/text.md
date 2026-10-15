@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Coffee with your Assemblywoman Sat, Dec 19 | Aware Coffee Each and every month Rebecca holds a coffee for her constituents.
 Come out for some great conversation and grab a cup of coffee on Rebecca RSVP Time & Location Dec 19, 2026, 10:00 AM – 12:00 PM Aware Coffee, 9475 S Rainbow Blvd #140, Las Vegas, NV 89139, USA Other dates Sat, Jan 16, 10:00 AM Sat, Feb 20, 10:00 AM Sat, Mar 20, 10:00 AM View all 6 dates RSVP Share this event Let Rebecca know how we can work together in her run for Nevada State Assembly District 35 or sign up for campaign updates below!
 By selecting Sign Up you agree to receive automated text messages related to the campaign.

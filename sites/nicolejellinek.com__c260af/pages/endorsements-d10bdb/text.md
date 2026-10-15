@@ -1,0 +1,2 @@
+0 Skip to Content Home About Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Issues Endorsements Volunteer Contact Donate Election Day: November 3rd Early Voting starts October 14 Donate to Nicole’s Campaign!
+Donate Visit the RI Voter Information Center for info Contact info: jellinek67@gmail.com

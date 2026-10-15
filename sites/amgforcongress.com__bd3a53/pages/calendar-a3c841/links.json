@@ -17,6 +17,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1306+coastal+highway+panacea%2C+florida%2C+32346+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1320+south+monroe+street+tallahassee%2C+florida%2C+32301+united+states"
 },
 {
@@ -121,6 +125,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=51+avenue+c+apalachicola%2C+florida%2C+32320+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=5270+parkview+road+graceville%2C+florida%2C+32440+united+states"
 },
 {
@@ -220,10 +228,6 @@
 "href": "https://www.amgforcongress.com/calendar/capital-tiger-bay-clubs-cd-2-general-election-debate"
 },
 {
-"text": "Congressional Candidate Debate Hosted by NEBA Tallahassee",
-"href": "https://www.amgforcongress.com/calendar/congressional-candidate-forum-hosted-by-neba-tallahassee"
-},
-{
 "text": "DONATE",
 "href": "https://secure.actblue.com/donate/amanda-green-1"
 },
@@ -258,6 +262,10 @@
 {
 "text": "Florida A&M University Voter Fair",
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-florida-am-voter-fair"
+},
+{
+"text": "Franklin County Meet & Greet",
+"href": "https://www.amgforcongress.com/calendar/franklin-county-meet-greet"
 },
 {
 "text": "Franklin Needs PINK OUT Benefit",
@@ -325,10 +333,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Congressional+Candidate+Debate+Hosted+by+NEBA+Tallahassee&dates=20261027T153000Z%2F20261027T170000Z&location=1601+Golf+Terrace+Drive%2C+Tallahassee%2C+Florida%2C+32301%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=EARLY+VOTING+STARTS&dates=20261019T123000Z%2F20261019T230000Z"
 },
 {
@@ -357,6 +361,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Franklin+County+Meet+%26+Greet&dates=20261018T180000Z%2F20261018T193000Z&location=51+Avenue+C%2C+Apalachicola%2C+Florida%2C+32320%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Franklin+Needs+PINK+OUT+Benefit&dates=20261009T220000Z%2F20261010T010000Z&location=240+3rd+Street+East%2C+Eastpoint%2C+Florida%2C+32328%2C+United+States"
 },
 {
@@ -369,7 +377,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Havana+Mainstreet+26th+Annual+PumpkinFest&dates=20261010T140000Z%2F20261010T200000Z&location=101+7th+Avenue+West%2C+Havana%2C+Florida%2C+32333%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Havana+Mainstreet+26th+Annual+PumpkinFest&dates=20261017T140000Z%2F20261017T200000Z&location=101+7th+Avenue+West%2C+Havana%2C+Florida%2C+32333%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -394,6 +402,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+at+Mosey%27s+Downtown&dates=20260927T200000Z%2F20260927T220000Z&location=425+Grace+Avenue%2C+Panama+City%2C+Florida%2C+32401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=NEBA+Candidate+Forum%3A+U.S.+House+-+Florida%27s+2nd+Congressional+District&dates=20261027T153000Z%2F20261027T170000Z&location=1601+Golf+Terrace+Drive%2C+Tallahassee%2C+Florida%2C+32301%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -446,6 +458,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=TEAM+AMG%2FVOLUNTEERS%3A+Postcard+Writing&dates=20261007T210000Z%2F20261007T230000Z&location=36+West+Beach+Drive%2C+Panama+City%2C+Florida%2C+32401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wakulla+Chamber+of+Commerce+Business+After+Hours&dates=20261015T213000Z%2F20261015T233000Z&location=1306+Coastal+Highway%2C+Panacea%2C+Florida%2C+32346%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -549,6 +565,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/franklin-county-meet-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/franklin-needs-pink-out-benefit?format=ical"
 },
 {
@@ -641,6 +661,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/wakulla-chamber-of-commerce-business-after-hours?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/wakulla-county-nonprofit-community-resource-fair?format=ical"
 },
 {
@@ -682,6 +706,10 @@
 {
 "text": "Meet & Greet at Mosey's Downtown",
 "href": "https://www.amgforcongress.com/calendar/meet-greet-at-moseys-downtown"
+},
+{
+"text": "NEBA Candidate Forum: U.S. House - Florida's 2nd Congressional District",
+"href": "https://www.amgforcongress.com/calendar/congressional-candidate-forum-hosted-by-neba-tallahassee"
 },
 {
 "text": "Panacea Community Garden Farmers Market",
@@ -821,6 +849,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.amgforcongress.com/calendar/franklin-county-meet-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/franklin-needs-pink-out-benefit"
 },
 {
@@ -913,6 +945,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.amgforcongress.com/calendar/wakulla-chamber-of-commerce-business-after-hours"
+},
+{
+"text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/wakulla-county-nonprofit-community-resource-fair"
 },
 {
@@ -922,6 +958,10 @@
 {
 "text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/westminster-oaks-forum"
+},
+{
+"text": "Wakulla Chamber of Commerce Business After Hours",
+"href": "https://www.amgforcongress.com/calendar/wakulla-chamber-of-commerce-business-after-hours"
 },
 {
 "text": "Wakulla County Nonprofit & Community Resource Fair",
@@ -988,10 +1028,6 @@
 "href": "https://www.amgforcongress.com/calendar/capital-tiger-bay-clubs-cd-2-general-election-debate"
 },
 {
-"text": "[image: Congressional Candidate Debate Hosted by NEBA Tallahassee]",
-"href": "https://www.amgforcongress.com/calendar/congressional-candidate-forum-hosted-by-neba-tallahassee"
-},
-{
 "text": "[image: EARLY VOTING STARTS]",
 "href": "https://www.amgforcongress.com/calendar/early-voting-starts"
 },
@@ -1018,6 +1054,10 @@
 {
 "text": "[image: Florida A&amp;M University Voter Fair]",
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-florida-am-voter-fair"
+},
+{
+"text": "[image: Franklin County Meet & Greet]",
+"href": "https://www.amgforcongress.com/calendar/franklin-county-meet-greet"
 },
 {
 "text": "[image: Franklin Needs PINK OUT Benefit]",
@@ -1058,6 +1098,10 @@
 {
 "text": "[image: Meet & Greet at Mosey's Downtown]",
 "href": "https://www.amgforcongress.com/calendar/meet-greet-at-moseys-downtown"
+},
+{
+"text": "[image: NEBA Candidate Forum: U.S. House - Florida's 2nd Congressional District]",
+"href": "https://www.amgforcongress.com/calendar/congressional-candidate-forum-hosted-by-neba-tallahassee"
 },
 {
 "text": "[image: Panacea Community Garden Farmers Market]",
@@ -1112,6 +1156,10 @@
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-postcard-writing-1"
 },
 {
+"text": "[image: Wakulla Chamber of Commerce Business After Hours]",
+"href": "https://www.amgforcongress.com/calendar/wakulla-chamber-of-commerce-business-after-hours"
+},
+{
 "text": "[image: Wakulla County Nonprofit & Community Resource Fair]",
 "href": "https://www.amgforcongress.com/calendar/wakulla-county-nonprofit-community-resource-fair"
 },
@@ -1152,8 +1200,8 @@
 "href": "https://flicra.com/"
 },
 {
-"text": "https://www.facebook.com/nebatallahassee",
-"href": "https://www.facebook.com/nebatallahassee"
+"text": "https://nebatallahassee.com/events/#!event/2026/10/27/fl-02",
+"href": "https://nebatallahassee.com/events/#!event/2026/10/27/fl-02"
 },
 {
 "text": "https://www.smokininthepinesbbq.com/",

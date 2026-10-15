@@ -1,4 +1,4 @@
-0 Skip to Content Home 93 County Tour Meet Dan Plans Store Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Store Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Store Volunteer DAN OSBORN’S NEBRASKA GROWTH & FAIRNESS PLAN WORKING PEOPLE DESERVE A SEAT AT THE TABLE IN THE U.S.
+0 Skip to Content Home 93 County Tour Meet Dan Plans Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Volunteer Open Menu Close Menu Home 93 County Tour Meet Dan Plans Volunteer DAN OSBORN’S NEBRASKA GROWTH & FAIRNESS PLAN WORKING PEOPLE DESERVE A SEAT AT THE TABLE IN THE U.S.
 SENATE We created the Nebraska Fairness Plan to reflect the priorities I would carry to Washington on behalf of hard-working Nebraskans.
 It’s not a party’s platform or written by consultants.
 It’s written for the people who punch a clock and wonder why nobody in Washington is fighting for them. drain the swamp We deserve a government that is truly of the people, by the people, and for the people.

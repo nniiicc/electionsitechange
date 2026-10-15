@@ -1,6 +1,6 @@
 # days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
 Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
-Races Notes Vote Donate Contact Bio Endorsements Energy You Can Count On Our energy infrastructure is more fragile than it should be.
+Races Notes Substack Vote Donate Contact Bio Endorsements Energy You Can Count On Our energy infrastructure is more fragile than it should be.
 Abundance beats scarcity.
 Firm power, protected hydro, and new nuclear keep the lights on and the bills payable.
 Fellow Washingtonians, Demand for power is rising — homes, hospitals, and data centers — while reliable plants retire and costly mandates push bills up without making the grid firmer.
@@ -22,6 +22,6 @@ Firm capacity over fragile mandates.
 Bills working families can pay. — Jillian England Candidate for Washington State Senate, Legislative District 36 Donate Now to Build Real Energy Abundance Next Issue: Data Centers — Build Them or Fall Behind → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 15, 2026 · Site version: dea59a3 This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

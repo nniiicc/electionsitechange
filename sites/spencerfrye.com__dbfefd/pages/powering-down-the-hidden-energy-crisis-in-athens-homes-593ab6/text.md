@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Powering Down: The Hidden Energy Crisis in Athens Homes Posted March 27, 2026 By Rebecca McAdam Capitol Corner Tagged Environment Energy insecurity is becoming a serious issue for many families in Athens, Georgia.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Powering Down: The Hidden Energy Crisis in Athens Homes Posted March 27, 2026 By Rebecca McAdam Capitol Corner Tagged Environment Energy insecurity is becoming a serious issue for many families in Athens, Georgia.
 It affects how people live day to day, how they spend their money, and even their health.
 While most people depend on energy (like electricity and heating), not everyone can afford it.
 In Athens, this challenge is growing faster than in many other places.

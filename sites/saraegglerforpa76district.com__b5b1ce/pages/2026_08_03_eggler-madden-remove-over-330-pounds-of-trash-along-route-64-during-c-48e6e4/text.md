@@ -7,7 +7,7 @@ She also maintains an adopted stretch of Route 445 in Walker Township, Centre Co
 “Taking care of our communities starts with showing up and doing the work,” said Eggler.
 “Whether it’s helping families find homes, advocating for our district or cleaning up our roadsides, I believe leadership means rolling up your sleeves and leaving things better than you found them.” Due to the large amount of debris collected, an additional clean-up event is planned for spring 2026 to complete the effort and continue beautifying the corridor.
 Community members interested in learning more or participating in future clean-up events are encouraged to follow the campaign’s Facebook page for updates and announcements.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a Reply Cancel reply Comment Name Email Website Δ Sara is rooted in community and focused on results.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Sara is rooted in community and focused on results.
 Newsletter Weekly Thoughts on Personal Development VISIT US 120 E.
 Walnut St., Unit 3 Lock Haven, PA 17745 Vote “Eggler” to Fund Our Future Facebook Instagram YouTube GET IN TOUCH michaelrmaddenpa@gmail.com (814) 264-4905 Designed with WordPress Loading Comments...
 Write a Comment...

@@ -1,4 +1,4 @@
-DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael Whatley Endorsed by the U.S.
+DONATE find your voting location Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael Whatley Endorsed by the U.S.
 Chamber of Commerce September 30, 2026 RALEIGH – Today, Michael Whatley was endorsed by the U.S.
 Chamber of Commerce.
 The Chamber endorsed Whatley because they know he is the Pro-Job-Creator candidate who will support policies that help create more and better jobs and more and better opportunities for all North Carolinians.

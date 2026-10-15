@@ -1,4 +1,4 @@
-Skip to content Mary Shannon Lindstrom Facebook Instagram Community Support On The Issues About Me Home https://www.facebook.com/LindstromForScarborough/ Instagram Home On The Issues Community Support About Me Give On The Issues Mary Shannon Lindstrom is ready to be your independent voice in Augusta.
+Skip to content Mary Shannon Lindstrom Facebook Instagram LinkedIn Community Support On The Issues About Me Home https://www.facebook.com/LindstromForScarborough/ Instagram Home On The Issues Community Support About Me Give On The Issues Mary Shannon Lindstrom is ready to be your independent voice in Augusta.
 Mary Shannon Lindstrom has built a reputation for bringing people with different perspectives together to solve real problems.
 She believes that durable, effective solutions come from collaboration, listening, and finding common ground.
 Consensus building is at the heart of her leadership, guiding her approach to every challenge and every community conversation.

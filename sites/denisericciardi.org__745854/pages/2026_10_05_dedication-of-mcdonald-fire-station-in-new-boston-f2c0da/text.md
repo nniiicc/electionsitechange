@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Dedication of McDonald Fire Station in New Boston Oct 5, 2026 I was pleased to attend and say a few words about Dan McDonald, retired chief of fire in New Boston, at the dedication ceremony of the new fire station named after him.
 Dan served 42 years with the New Boston Fire Department, including 23 years as chief.
 Dan, who was present, was a wonderful and dedicated public servant and deserved this honor.

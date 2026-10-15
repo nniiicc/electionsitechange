@@ -1,4 +1,4 @@
-Skip to content Home About Endorsements View Endorsements Add Endorsement Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Meet the Candidate Meet Greg Abdouch A Voice for the People.
+Skip to content Home About Endorsements View Endorsements Add Endorsement Voter Guide Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Meet the Candidate Meet Greg Abdouch A Voice for the People.
 A Fighter for California.
 From student-athlete and small business owner to local parent advocate, Greg's life is defined by faith, family, hard work, and community service.
 Candidate Biography Raised on Inland Empire Values Greg Abdouch has called San Bernardino County home for over 45 years.
@@ -37,5 +37,5 @@ But he cannot do this alone.
 This campaign is a grassroots movement of Inland Empire neighbors who refuse to sit on the sidelines.
 Together, we can restore California's future.
 Join the Team Make a Contribution ← Return to Homepage A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.
-Quick Links Home About Endorsements Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
+Quick Links Home About Endorsements Voter Guide Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
 All Rights Reserved. | Privacy Policy | Team Portal Digital Strategy by GoSubmitto

@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Home EVENTS 18 July 2026 La Plata County Lincoln Day Dinner Join Naomi Riess at the La Plata County Lincoln Day Dinner; the premier Republican event in Southwest Colorado, featuring Christian Comedian Brad Stine.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Home EVENTS 18 July 2026 La Plata County Lincoln Day Dinner Join Naomi Riess at the La Plata County Lincoln Day Dinner; the premier Republican event in Southwest Colorado, featuring Christian Comedian Brad Stine.
 Saturday, July 18th.
 For more info visit: https://laplatacountyrepublicans.org See More 8 August 2026 Montezuma County Lincoln Day Dinner Join Naomi Riess at the Montezuma County Lincoln Day Dinner, Saturday August 8th.
 Candidate social hour from 5:00–6:30, dinner at 6:30, and VIP tables available.

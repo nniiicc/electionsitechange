@@ -1,4 +1,4 @@
-Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT HOME_2026 Roxie S 2026-10-08T21:03:00+00:00 DISTRICT 66 PROVEN LEADERSHIP.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT HOME_2026 Roxie S 2026-10-14T18:38:18+00:00 DISTRICT 66 PROVEN LEADERSHIP.
 RE-ELECT SUZANNE NESS FOR IL STATE REPRESENTATIVE REAL RESULTS.
 Working for stronger communities, better schools, and a brighter future for Illinois' 66th District.
 DONATE people_outline VOLUNTEER REQUEST A YARD SIGN McHENRY COUNTY | KANE COUNTY EARLY VOTING SITES McHenry County Early Voting Sites Click Here to View Kane County Early Voting Sites Click Here to View Leadership That Delivers for District 66 Since being elected to represent District 66, Suzanne has worked every day to bring resources home, strengthen local communities, support families and small businesses, and ensure residents have a voice in Springfield.
@@ -35,7 +35,7 @@ Accessibility Notice This website is currently under construction as we work to 
 Our goal is to provide an inclusive experience for all users.
 If you encounter any accessibility barriers or need assistance during this process, please contact us, and we will be happy to help.
 NOTICE: This is the campaign website for Suzanne Ness.
-If you are a constituent seeking services from Representative Ness’ State Office, please visit: www.repsnessil66.com or call her District Office at (224)-484-8620 for assistance.
+If you are a constituent seeking services from Representative Ness' State Office, please visit: www.repsnessil66.com or call her District Office at (224)-484-8620 for assistance.
 Contact Our Team Address: P.O.
 Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.
 SUBSCRIBE!

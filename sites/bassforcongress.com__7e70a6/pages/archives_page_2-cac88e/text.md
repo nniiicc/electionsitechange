@@ -2,7 +2,9 @@ Home Donate Now!
 Morrison vs.
 Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Gun Rights On The Ballot August 3, 2026 No Comments Gun Owners of CD3: Quentin Wittrock Has Already Told You What He Thinks of Your AR-15.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin I Sold Health Insurance For A Living.
+Here’s Why Your Premium Is Broken — And How I’d Fix It.
+August 4, 2026 No Comments I want to start this one differently than my other posts, because this issue isn’t just something I’ve read about or watched happen to other Read More » Gun Rights On The Ballot August 3, 2026 No Comments Gun Owners of CD3: Quentin Wittrock Has Already Told You What He Thinks of Your AR-15.
 Now It’s Time to Vote.
 If you own a Read More » Kelly Morrison’s caught with insider trading June 6, 2026 No Comments Who Is Kelly Morrison Really Working For?
 By now, most people in Minnesota’s Third Congressional District have heard the name Kelly Morrison.

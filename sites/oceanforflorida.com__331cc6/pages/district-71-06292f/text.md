@@ -9,7 +9,7 @@ See his agenda here .
 District 71 is the west side of Manatee County.
 It runs from the Skyway down through Palmetto and Bradenton, out across the water to Anna Maria Island, and down to Cortez.
 It's a lot of water, a lot of history, and a lot of families who have been here for generations.
-Scroll down to see the places in this district and what they mean to Ocean on a personal level. 🌅 ｡°✩ 🏖️ ✩°｡ 🌉 ｡°✩ 🌴 ✩°｡ 🌾 ｡°✩ 🏡 ✩°｡ 🌅 View fullsize The green area is District 71, the part of Manatee County Ocean is running to represent.
+Scroll down to see the places in this district. 🌅 ｡°✩ 🏖️ ✩°｡ 🌉 ｡°✩ 🌴 ✩°｡ 🌾 ｡°✩ 🏡 ✩°｡ 🌅 View fullsize The green area is District 71, the part of Manatee County Ocean is running to represent.
 It covers Bradenton, South Bradenton, Palmetto, Memphis, Palma Sola, Cortez, and Anna Maria Island, including Anna Maria, Holmes Beach, and Bradenton Beach.
 It reaches all the way up to the Skyway at the north tip and stops just above Longboat Key to the south.
 The dashed lines are the district borders.

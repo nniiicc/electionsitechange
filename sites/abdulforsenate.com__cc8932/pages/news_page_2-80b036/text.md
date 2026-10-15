@@ -5,7 +5,7 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-New Focus Group Shows Growing Trump Voter Support For Abdul El-Sayed Press Release October 8, 2026 Abdul Was Supported By Half Of Trump Voters in New MSNOW Focus Group—Just One Said They Were Supporting Mike Rogers MICHIGAN – Yesterday, MS NOW conducted a panel with Michigan Trump voters, asking them who they … Mike Rogers To (FINALLY) Debate Dr.
+BREAKING: MIKE ROGERS INVITES DONALD TRUMP TO MICHIGAN Press Release October 8, 2026 Mike Rogers: “Yeah, I think there’s a lot of people that want to hear from the president MICHIGAN – Today, following an embarrassing debate performance laden with lies, stumbles, and fidgeting, Mike Rogers was asked whether … New Focus Group Shows Growing Trump Voter Support For Abdul El-Sayed Press Release October 8, 2026 Abdul Was Supported By Half Of Trump Voters in New MSNOW Focus Group—Just One Said They Were Supporting Mike Rogers MICHIGAN – Yesterday, MS NOW conducted a panel with Michigan Trump voters, asking them who they … Mike Rogers To (FINALLY) Debate Dr.
 Abdul El-Sayed Press Release October 8, 2026 MICHIGAN – Today, after spending weeks dodging debate after debate, Mike Rogers will finally appear for a debate with Dr.
 Abdul El-Sayed in Grand Rapids.
 “Tonight on the debate stage, the contrast between Mike Rogers and … “He Knows My Name Is Abdul.
@@ -26,8 +26,7 @@ Abdul El-Sayed Is Willing To Talk To Anyone, Anywhere About The Issues Affecting
 Abdul El-Sayed … Dr.
 Abdul El-Sayed and Sen.
 Elissa Slotkin Join MSNOW For Joint Interview Following Town Hall Appearance In Macomb Press Release October 5, 2026 MICHIGAN – On Saturday, following their first joint appearance at a town hall in Macomb County, Dr.
-Abdul El-Sayed and Senator Elissa Slotkin joined MS NOW for an interview on how Democrats have successfully unified to … Fox Report Finds Michiganders Uniquely At-Risk Amidst the Escalating Rogers-Trump Trade War Press Release October 5, 2026 “How you see [the trade war] as a Michigan consumer is higher prices.” MICHIGAN – A new report from Fox highlighted the disastrous consequences of Trump’s tariff war—which Mike Rogers enthusiastically supports—on working Michiganders.
-As the … « Previous 1 2 3 4 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Abdul El-Sayed and Senator Elissa Slotkin joined MS NOW for an interview on how Democrats have successfully unified to … « Previous 1 2 3 4 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

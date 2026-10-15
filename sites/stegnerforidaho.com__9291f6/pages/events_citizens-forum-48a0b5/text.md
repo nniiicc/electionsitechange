@@ -4,4 +4,4 @@ This forum will provide voters the opportunity to meet candidates (including Joh
 Senate U.S.
 House (Dist 1) Idaho Governor Idaho Attorney General Idaho Lieutenant Governor Idaho Superintendent of Public Instruction This forum coincides with the University of Idaho Homecoming weekend, but does not conflict with any Homecoming events to enable people living in and visiting Moscow to attend the forum.
 Join us for short presentations by the candidates and Q&A.
-Previous Previous October 20 Shoshone County Bipartisan Candidate Forum Next Next October 24 University of Idaho Homecoming Parade Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701
+Previous Previous October 22 Meet & Greet in Lewiston Next Next October 24 University of Idaho Homecoming Parade Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

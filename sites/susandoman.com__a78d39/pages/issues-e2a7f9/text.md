@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact These are my priorities: Accountability Affordability Education Smart Growth Accountability WE NEED MORE TRANSPARENCY.
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact These are my priorities: Accountability Affordability Education Smart Growth Accountability WE NEED MORE TRANSPARENCY.
 People deserve to know how their tax dollars are being spent and what decisions are being made in their communities.
 Major growth proposals — like the rejected data center — should never proceed under a shroud of secrecy.
 Also, an elected official should never sign a non-disclosure agreement.

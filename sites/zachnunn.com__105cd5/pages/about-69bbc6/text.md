@@ -11,7 +11,7 @@ COMMUNITY FIRST Zach is a trusted conservative leader helping pioneer Iowa as a 
 The eldest grandson of the family’s century farm, Zach and his family are sixth generation Iowans.
 The son of a teacher and nurse, the family built a life based on faith, working hard for what you earn, and helping others.
 Zach is a grateful husband and devoted father.
-He and his wife, Kelly (also a native Iowan) are raising six children including Addisyn, Olympia, Selwyn, and Canon, along with their newly adopted daughters, Alyia and Jayna.
+He and his wife, Kelly (also a native Iowan) are raising six children including Addisyn, Olympia, Selwyn, and Canon, along with their newly adopted daughters, Aliya and Jayna.
 Zach graduated from Southeast Polk and Drake University.
 He holds advanced degrees in international security from Cambridge University, cybersecurity from Air Command & Staff College, and Strategy and Technology Innovation from Air War College.
 RECORD OF SERVICE As a combat aviator in the United States Air Force, Zach deployed three times to the Middle East after 9/11.

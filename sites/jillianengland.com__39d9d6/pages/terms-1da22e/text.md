@@ -1,6 +1,6 @@
 # days until Election Day, Tuesday, November 3, 2026 Ballot in hand?
 Fill it out · Vote Jillian England → Jillian England Home About Issues Can You Save 1,000 Lives?
-Races Notes Vote Donate Contact Bio Endorsements Terms of Service Effective Date: June 4th, 2026 1.
+Races Notes Substack Vote Donate Contact Bio Endorsements Terms of Service Effective Date: June 4th, 2026 1.
 Acceptance of Terms By accessing or using this website (the "Site"), you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy .
 If you do not agree, please do not use the Site.
 These Terms apply to all visitors, users, and contributors to the Site.
@@ -51,6 +51,6 @@ Contact Us If you have questions about these Terms, please contact: Friends of J
 Box 30064 Seattle, WA 98113 info@jillianengland.com These Terms of Service were last updated on June 5th, 2026 Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 13, 2026 · Site version: 16b4d4a This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 15, 2026 · Site version: dea59a3 This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

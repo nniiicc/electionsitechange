@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/headline-goes-state-assemblyman-john-lemondes-a-no-show-for-local-library-event-here",
- "fingerprint": "5d86f335969a0395b4d08d5390a7283c2ab74a8e",
+ "fingerprint": "d17b55444fd0e24f5b2c9bf0cf03050dd7637e98",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "State Assemblyman John Lemondes a no-show for local library event.",
  "years_mentioned": [
   "2026"

@@ -7,11 +7,14 @@ Lisa stepped forward because every community deserves a real choice and steady r
 She believes democracy works best when voters have options, accountability is real, and leaders show up for the people they serve.
 As a Black woman running in a deeply conservative district, Lisa leads with strength, dignity, and respect for every voter.
 Her campaign is rooted in service—not division—and in listening first, working hard, and putting people before politics.
-Ready to serve Lisa is committed to improving healthcare access, supporting emergency services, protecting every voter’s voice, and helping local families and small businesses thrive.
+Endorsed by Senator Jon Ossoff Supporting Lisa Maria for Georgia House District 112.
+Thank you, Senator Ossoff, for your support as we work to serve the families and communities of District 112.
+Share this post and help us spread the word!
 LISA’S PRIORITIES The work ahead Focused on what matters 01 Healthcare access Supporting dependable, local care for the families who call District 112 home.
 02 Emergency services Making sure first responders have the training, equipment, and support they need.
 03 Economic opportunity Championing local businesses, workforce development, and lasting stability for families.
 Coalition of support Endorsed by Organizations working to strengthen democracy and elect leaders who will serve their communities.
+Senator Jon Ossoff Endorses Lisa Maria for Georgia House District 112.
 NDRC National Democratic Redistricting Committee Democracy Defenders 50 Fighting Fifty PAC Supporting Democratic candidates in Georgia House districts.
 MDA Moms Demand Action Gun Sense Candidate endorsement.
 GA GAWIN List 2026 endorsed candidate.

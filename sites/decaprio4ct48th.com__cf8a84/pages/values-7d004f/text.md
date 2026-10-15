@@ -6,4 +6,4 @@ Read More Personal Liberty Now more than ever, Connecticut needs strong leadersh
 Read More Rule of Law I strongly advocate for upholding the "Rule of Law" and prioritizing public safety in Connecticut.
 Read More Photo Gallery SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

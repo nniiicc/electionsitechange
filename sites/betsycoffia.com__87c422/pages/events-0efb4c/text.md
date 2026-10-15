@@ -10,14 +10,13 @@ Whether you want to draw, paint, make fiber arts, build with Legos, needlepoint,
 For any other projects or creative needs, please bring your own supplies. ​ We are also using this opportunity to share skills with other attendees, so if you would like to give a demonstration of what you're working on, please bring enough materials for 5-20 people and let us know if you're interested when you RSVP!
 Crafting & Skill Share RSVP Fall Fun Fest Pumpkin Carving .
 Dancing .
-Karaoke A Night of Fall Fun Sat, 10/24/2026 - 16:30 Join us for our Fall Fun Fest!
-This is a free event for the community with music, dancing, pumpkin carving, karaoke and performances from Grupo Folklorica Xochiquetzal and the Grand Traverse Band of Ottawa and Chippewa Indians!
-Snacks, dinner, non-alcoholic beverages, and one pumpkin per family will be provided.
-The Fall Fun Fest is open to community members of all ages!
-Please spread the word and invite your friends, family, and neighbors to join!
-Schedule of Events: - 4:30pm: arrival - 5:00pm: Dances performed by Grupo Folklorico Xochiquetzal and powwow dancing from members of the Grand Traverse Band of Ottawa and Chippewa Indians - 6:15pm: Taco bar (free dinner provided for all guests) - 6:45pm-9:00pm: Pumpkin carving, dancing and karaoke Our goal is to spread some joy and feed our neighbors.
+Karaoke A Night of Fall Fun Sat, 10/24/2026 - 16:30 Join us at our Fall Fun Fest!
+This is a free, family-friendly event for the community with music, free food, pumpkin carving and more!
+We highly encourage you to RSVP so we can ensure we have enough food and pumpkins for all of our neighbors.
+Schedule of Events: - 4:30pm: arrival - 5:00pm: Traditional dance by dancers from the Grand Traverse Band of Ottawa and Chippewa Indians and our Hispanic neighbors with Grupo Folklorico Xochiquetzal - 6:15pm: Taco bar (free dinner provided for all guests) - 6:45pm-9:00pm: Pumpkin carving, dancing and karaoke Our goal is to build community by spreading joy and meeting our neighbors.
 We will have resources available for voting registration and early voting, though this is a non-political event for all.
-We hope you can join us!
+We hope you can join us! *The karaoke will be an homage to Dolly Parton, so guests are encouraged to sing their favorite Dolly song.
+Singing Dolly Parton is not required to participate, and all family-friendly songs are allowed. **Please note this is an indoor/outdoor event, so dress accordingly.
 The Fall Fun Fest will take place on Saturday, October 24th from 4:30PM to 9:00PM at the Gilbert Lodge at Twin Lakes Park (6800 N Long Lake Rd, Traverse City, MI 49685).
 Gilbert Lodge is the blue building located at the end of the Twin Lakes Park road at the bottom of the hill.
 FALL FUN FEST RSVP End Of Summer Movie Night Popcorn.

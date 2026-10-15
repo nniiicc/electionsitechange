@@ -1,4 +1,8 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate Watch Video ← Back to News Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate Watch Video ← Back to News Cindy Holscher will clean up the Muck in Kansas as Governor October 14, 2026 Cindy grew up on a farm and is used to cleaning up messes.
+She ran for office to clean up the muck created by Sam Brownback and Ty Masterson.
+Cindy Holscher is running for governor to clean up the corruption - from Brownback, to property taxes, to data centers.
+Ty Masterson's rich backers get huge tax cuts, and he get's a million dollar no-show job - and we pay the price.
+Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
 Cindy Holscher Will Hit Pause on Data Centers in Kansas as Governor September 30, 2026 Cindy knows that Kansas farms and fields of sunflowers are under attack.
 Big Tech wants to build data centers all over the state.
 Cindy will hit pause on data centers until responsible guardrails are in place to protect our communities and our budgets.

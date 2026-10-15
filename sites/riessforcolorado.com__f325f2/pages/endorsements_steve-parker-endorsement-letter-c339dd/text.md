@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Steve Parker Former Colorado Transportation Commissioner Steve Parker endorses Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Steve Parker Former Colorado Transportation Commissioner Steve Parker endorses Naomi Riess for Colorado House District 59.
 SW Colorado has been blessed with strong and effective representation over the years that were focused on preserving and enhancing our unique lifestyles regardless of which political party they were a part of.
 Democrats like Jim Dyer and Barbara McLachlan and Republicans like Mark Larson and Ellen Roberts.
 After I changed my registration to “Unaffiliated,” I continued to vote for the person and not the party.

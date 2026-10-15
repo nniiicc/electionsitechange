@@ -1,3 +1,5 @@
+Get Voting Info Early Voting begins October 28th.
+Election Day is November 3rd.
 Follow Follow Contribute Priorities Meet Megan To Edmond From Megan Volunteer PRIVACY POLICY Privacy Policy Effective Date: September 1, 2026 Friends of Megan Hornbeek Allen 2026 ("we," "us," or "our") respects your privacy.
 This policy explains what information we collect through [website URL] and our text messaging program, and how we use it.
 Information We Collect We may collect information you provide directly, such as your name, email address, mailing address, phone number, and ZIP code, when you fill out a form on our website, sign up to volunteer, or opt in to receive text messages.

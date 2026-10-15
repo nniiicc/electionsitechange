@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Search Is This What You Were Trying to Say, Rep Fong?
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Vote Volunteer Search Is This What You Were Trying to Say, Rep Fong?
 A rebuttal by Candidate for US Congress Congressional District 20, Sandra Van Scotter Sandra Van Scotter Jul 24 4 min read July 24, 2026 What you were supposed to take away, and what actually happened If you read the Bakersfield Californian's July 22 story by John Cox, about the National Defense Authorization Act commonly being called the NDAA, here is what you probably came away with: Congress passed something.
 Kern County got something out of it.
 A supersonic test corridor is coming to Edwards.

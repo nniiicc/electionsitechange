@@ -1,7 +1,7 @@
 Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Loading view.
 Events Events Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation Month List Month Day This Month 10/14/2026 October 2026 Select date.
+Find Events Event Views Navigation Month List Month Day This Month 10/15/2026 October 2026 Select date.
 Calendar of Events M Mon T Tue W Wed T Thu F Fri S Sat S Sun 0 events, 28 0 events, 28 0 events, 29 0 events, 29 0 events, 30 0 events, 30 1 event, 1 1 event, 1 2026-10-01 TEAM LILY – Deerfield Fair TEAM LILY – Deerfield Fair October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair Deerfield Fairgrounds, 34 Stage Road, Deerfield, NH 03037 149th Annual Deerfield Fair.
 Agricultural fair with livestock, midway, entertainment.
 Thursday-Saturday 8am-10pm, Sunday 8am-7pm.

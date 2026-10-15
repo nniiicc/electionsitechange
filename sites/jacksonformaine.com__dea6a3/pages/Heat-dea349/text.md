@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE RESOURCES & SUPPORT HELP WITH HEAT & ENERGY COSTS IN MAINE With the war in Iran driving up energy costs, many Mainers are facing a hard and expensive winter ahead.
+Skip navigation menu About Troy Endorsements Priorities News Events Volunteer Vote DONATE About Troy Endorsements Priorities News Events Volunteer Vote DONATE RESOURCES & SUPPORT HELP WITH HEAT & ENERGY COSTS IN MAINE With the war in Iran driving up energy costs, many Mainers are facing a hard and expensive winter ahead.
 But no one has to face it alone.
 There are free wood banks, assistance programs for overdue bills, help with weatherization, and more.
 If you’re worried about staying warm this winter, here are some resources to help navigate high costs and low temperatures: Locate the cheapest oil near you MaineOil.com lets you filter by fuel type and region to view prices at retailers near you so you can find the cheapest option.

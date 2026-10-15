@@ -9,11 +9,8 @@ This page will be updated frequently with canvassing opportunities both in Distr
 Check back for more!
 Questions?
 Email us at info@votesaira.com .
-Last Update: Sept 30, 2026 Canvass from Regional Democratic Party Campaign Offices Canvass in Decatur Launch address will be provided upon sign up.
-Sign up for Weekdays and Weekends Canvass in EastlandHeights/Gresham Park Launch address will be provided upon sign up.
-Sign up here for weekays and weekends.
-South DeKalb Campaign Office 4746 Flat Shoals Parkway, Decatur 30034 Sign up for Weekdays Sign up for Weekends Clayton Co: Jonesboro Campaign Office Launch address will be provided upon sign up.
-Sign up for Weekdays and Weekends Cập nhật lần cuối 30 tháng 9, 2026 Saira Draper Ứng cử viên Thượng viện Tiểu bang Georgia, Khu vực 44. Đấu tranh cho quyền bầu cử, công bằng và cơ hội.
+Canvass with Saira in Senate District 44 Join us weekdays and weekends from now until election day!
+Weekends: Saturday 10am and 1pm, Sundays 1pm Sign up here Weekday afternoons in Decatur Sign up here Phone banking Help get out the vote with Georgia Democrats Weekends sign up here Weekdays: sign up here Other ways to help Get out the Vote Wave signs at early vote locations with DeKalb Dems to encourage voters to remind 3 friends to vote Sign up here Cập nhật lần cuối 14 tháng 10, 2026 Saira Draper Ứng cử viên Thượng viện Tiểu bang Georgia, Khu vực 44. Đấu tranh cho quyền bầu cử, công bằng và cơ hội.
 Chiến dịch Sự ủng hộ Gặp gỡ Saira Khu vực 44 Cần giúp đỡ?
 Hành động Bỏ phiếu sớm Đóng góp Giữ liên lạc Yêu cầu bảng yard sign Tình nguyện Liên hệ info@votesaira.com Cập nhật tin tức Nhận tin tức chiến dịch trong hộp thư của quý vị. Đăng ký Tiếng Việt English Español Tiếng Việt Được tài trợ bởi Friends of Saira Draper, Inc.
 Các khoản đóng góp không được khấu trừ thuế thu nhập liên bang. Điều khoản dịch vụ · Thông báo về quyền riêng tư · Trợ năng · Không liên lạc Chúng tôi đặt mục tiêu đáp ứng tiêu chuẩn WCAG 2.2 ở cấp độ AA. ✕ Thông tin bỏ phiếu dành cho người khuyết tật Thông tin về các cuộc bầu cử sắp tới Các cuộc bầu cử ngày 3 tháng 11 năm 2026 sẽ có ý nghĩa quyết định đối với tương lai của Georgia.

@@ -4,6 +4,10 @@
 "href": "https://www.jillaireforcolorado.com/accessible-communities"
 },
 {
+"text": "CO Democratic Party Bus Tour",
+"href": "https://www.jillaireforcolorado.com/event-details/co-democratic-party-bus-tour"
+},
+{
 "text": "Campaña de contacto directo bilingüe",
 "href": "https://www.jillaireforcolorado.com/event-details/campana-de-contacto-directo-bilingue"
 },
@@ -117,6 +121,10 @@
 },
 {
 "text": "Learn More & RSVP",
+"href": "https://www.jillaireforcolorado.com/event-details/co-democratic-party-bus-tour"
+},
+{
+"text": "Learn More & RSVP",
 "href": "https://www.jillaireforcolorado.com/event-details/fundraiser-featuring-governor-gretchen-whitmer"
 },
 {
@@ -128,20 +136,12 @@
 "href": "https://www.jillaireforcolorado.com/event-details/meet-greet-fundraiser-with-congressman-neguse"
 },
 {
-"text": "Learn More & RSVP",
-"href": "https://www.jillaireforcolorado.com/event-details/meet-greet-in-erie-3"
-},
-{
 "text": "Media",
 "href": "https://www.jillaireforcolorado.com/media"
 },
 {
 "text": "Meet & Greet Fundraiser with Congressman Neguse",
 "href": "https://www.jillaireforcolorado.com/event-details/meet-greet-fundraiser-with-congressman-neguse"
-},
-{
-"text": "Meet & Greet in Erie",
-"href": "https://www.jillaireforcolorado.com/event-details/meet-greet-in-erie-3"
 },
 {
 "text": "Meet Jillaire",
@@ -201,6 +201,10 @@
 },
 {
 "text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fco-democratic-party-bus-tour%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
 "href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Ffundraiser-featuring-governor-gretchen-whitmer%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
 },
 {
@@ -210,10 +214,6 @@
 {
 "text": "[no text]",
 "href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-fundraiser-with-congressman-neguse%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
-},
-{
-"text": "[no text]",
-"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-in-erie-3%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
 },
 {
 "text": "[no text]",
@@ -249,6 +249,10 @@
 },
 {
 "text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fco-democratic-party-bus-tour%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
 "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Ffundraiser-featuring-governor-gretchen-whitmer%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
 },
 {
@@ -258,10 +262,6 @@
 {
 "text": "[no text]",
 "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-fundraiser-with-congressman-neguse%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
-},
-{
-"text": "[no text]",
-"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-in-erie-3%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
 },
 {
 "text": "[no text]",
@@ -297,6 +297,10 @@
 },
 {
 "text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fco-democratic-party-bus-tour%3Flang%3Den"
+},
+{
+"text": "[no text]",
 "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Ffundraiser-featuring-governor-gretchen-whitmer%3Flang%3Den"
 },
 {
@@ -306,9 +310,5 @@
 {
 "text": "[no text]",
 "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-fundraiser-with-congressman-neguse%3Flang%3Den"
-},
-{
-"text": "[no text]",
-"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jillaireforcolorado.com%2Fevent-details%2Fmeet-greet-in-erie-3%3Flang%3Den"
 }
 ]

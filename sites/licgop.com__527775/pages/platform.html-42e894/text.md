@@ -284,3 +284,6 @@ Chinese people who have left China to become US citizens are now under the rules
 I ask that you do not engage in a politics of resentment.
 I understand that sometimes dissidents can be used to provoke negative propoganda.
 You can encourage messages that counteract their claims but you cannot bully or intimidate US citizens even if they are Chinese Americans.
+Vote NO to all Ballot proposals!
+Some of these issues sound good, but as per usual it's a Democrat hoax.
+Reject ALL of it!

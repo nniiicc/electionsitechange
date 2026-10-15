@@ -6,5 +6,5 @@ Help Out The Campaign!
 Sign Request!
 Let’s Talk Shannon Welsh for House of Delegates- District 70 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Delivery!
-Sign Name Phone Number Address For Your Sign Delivery! * Submit Connect: ✉ shannon@welshforhouse.com ⚲ 1403 Adams Ave Clarksburg WV 26301 Facebook Shannon Welsh for House of Delegates 2026 Paid for by The Committee To Elect Shannon Welsh
+Name Delivery!
+Address Name * First Last Phone Number Address For Your Sign Delivery! * Submit Connect: ✉ shannon@welshforhouse.com ⚲ 1403 Adams Ave Clarksburg WV 26301 Facebook Shannon Welsh for House of Delegates 2026 Paid for by The Committee To Elect Shannon Welsh

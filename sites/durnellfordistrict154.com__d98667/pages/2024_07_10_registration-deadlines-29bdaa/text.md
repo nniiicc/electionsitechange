@@ -10,7 +10,7 @@ Don’t depend on how the media portrays someone; try to dig deeper and find the
 If you are having trouble finding the candidates for the Republican primary races, shoot me a message.
 I have compiled a list and made up a ‘sample ballot’ to share with voters.
 I’ll gladly send you a copy if it’ll help you!
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Previous Post DevTalks Podcast Interview April 2024 Next Post Signage Quote of the week “For too long, we have allowed the left to chip away at the values we hold dear.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Previous Post DevTalks Podcast Interview April 2024 Next Post Signage Quote of the week “For too long, we have allowed the left to chip away at the values we hold dear.
 I have watched the political processes in our state the last few years and feel that we really need a change toward true conservatism before we lose any more ground .” ~ Lisa Durnell Durnell For District 154 Lisa durnell It’s time for good people to step up and fight for Missouri and Howell County.
 Pages About Policy Positions Ways to Help!
 Follow Us Facebook Paid for by Committee to Elect Lisa Durnell – Lalah Gregory, Treasurer Blog at WordPress.com.

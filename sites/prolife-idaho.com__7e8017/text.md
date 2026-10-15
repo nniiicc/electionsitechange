@@ -19,19 +19,19 @@ Trump-Vance are excusing the murder of our babies and accepting LGBT activity an
 The Trumpsters are not going to tell you that socialism is collective theft and that we are a socialist-fascist nation.
 We search for candidates who tell the truth and find almost none.
 The world has inherited a culture that teaches that we have a choice between capitalism and socialism, however there is a better choice of economics that we call, Christian Economics.
-It was practiced by the Christian people in the first century, and maybe the second and third centuries.
+It was practiced by the Christian people in the first century, the second and third centuries.
 See Acts 2:44-45.
 This is the best economic system, but has not been practiced for about 2,000 years.
 The only people who live 'all things common' today are the Hutterian Brethern, the most prosperous farmers in Canada and Northern Plains of the USA.
 Real Christianity will not be restored in our opinion until Christians have the faith and love to restore Acts 2:44-45 economics.
-This could be called an employee owned business with Christian motive, morals, and attitude.
+This would be called an employee owned business with Christian motive, morals, and attitude.
 Reformed governmental policy will not save us.
 We must stop accepting the lies from selfish people who will sell us ideas and products that will harm our eternal attitude (salvation) or kill our earthly bodies.
 In other words, we must repent of selfishness.
 These selfish people are in education, church, economics, food, medicine, entertainment and, of course, government.
 And yes, many profess Christ but fail Christ because of their selfish motives, therefore perverting the Gospel of Jesus Christ.
 These selfish people do not understand the motive and attitude of Jesus Christ and thus are deceived by the Devil to destroy Christianity.
-Speaking truth is interpreted as hate speech to the selfish.
+Speaking truth is interpreted as hate speech by the selfish.
 Speaking truth will become illegal and someday people will be punished for it.
 Speaking truth is punishable now in Europe, Islamic, and Communist nations.
 In the future saying 'abortion is murder' or 'trans is messed up' will land you in prison.
@@ -66,11 +66,11 @@ Our motive for running is to make people accountable for hearing the truth.
 Because we insist on following truth, voters do not want to support us because we will probably lose, and also, peer pressure oriented voters do not want to inform their friends they voted for truthful extremists.
 Also, some voters do not agree with us.
 Peer pressure drives politics and everything else.
-If I become Governor in 2026, by my order, all baby murder facilities will remain closed and no abortifacients will be sold.
+If I become Governor in 2026, by my order, all baby murder facilities will remain closed and no abortifacients will be sold or received into Idaho by mail or other transport.
 This emergency order will remain as long as I am Governor.
 Birth control pills are abortifacients just like 'morning-after' pills.
 Morning-after chemicals are large doses of regular birth control chemicals.
-Also by my order there will be no transgender activity for any age in Idaho.
+Also, by my order there will be no transgender activity for any age in Idaho.
 The determination of crimes are in the jurisdiction of the Legislature, but as Governor I will not allow baby murder or body mutilations and chemical alterations for any age.
 My executive orders would force the Legislature to process these issues.
 Likely, the Legislature would falsely claim these issues are not in their jurisdiction and they would let the State or Federal courts make the decision.
@@ -99,6 +99,8 @@ Governor.
 The Constitution Party could become relevant if 25% of elected conservative Republicans left the GOP as a group and moved to the Constitution Party.
 This, of course, implies that 75% of elected Idaho Republican officials compromise the GOP platform.
 The Republican Party is a 'get-elected' compromising party and should not be trusted.
+The Constitution Party has some self-serving members so we all need repentance.
+The CP should try to become a real Christian party.
 You can vote for us, and some, Constitution Party candidates in the general election without affecting the final outcome.
 Not all Constitution Party candidates follow Christ, the Constitution, or the National Platform.
 The General Election percentages usually are about 65% Republican, 30% Democrat, 5% third party.

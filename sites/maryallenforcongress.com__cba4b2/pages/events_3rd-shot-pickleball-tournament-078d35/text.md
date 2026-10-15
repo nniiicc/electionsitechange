@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Pickleball for All!
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Back to All Events Pickleball for All!
 Saturday, September 12, 2026 1:00 PM 4:00 PM 3rd Shot Pickleball 2800 Kotter Avenue Evansville, Indiana, 47715 United States (map) Google Calendar ICS Join Mary Allen for an afternoon of Pickleball at 3rd Shot Pickleball.
 Event sponsored by Mayor Stephanie Terry so that all players and spectators participate for free.
 Check in is at 12:45 PM.

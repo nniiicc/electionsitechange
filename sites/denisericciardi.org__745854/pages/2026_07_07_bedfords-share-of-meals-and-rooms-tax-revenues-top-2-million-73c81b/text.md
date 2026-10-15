@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Bedford’s Share of Meals and Rooms Tax Revenues Top $2 Million Jul 7, 2026 This July 6, 2026 article in the Union Leader requires a subscription.
 Bedford will be getting double its share of meals and rooms tax revenue as compared to years past, state Sen.
 Denise Ricciardi, R-Bedford, told the Town Council.

@@ -1,0 +1,3 @@
+0 Skip to Content Home Priorities Meet Rebecca Endorsements Contact Videos Donate Open Menu Close Menu Home Priorities Meet Rebecca Endorsements Contact Videos Donate Open Menu Close Menu Home Priorities Meet Rebecca Endorsements Contact Videos Donate 10/15/26 Common-Sense Leadership for Nebraska Meet Rebecca Rens.
+In 30 seconds, hear her vision for reducing property taxes, protecting our communities, and making Nebraska the best place to live and retire.
+Next Fair Property Taxes for Every Homeowner You Might Also Like Fair Property Taxes for Every Homeowner Paid for by: Rebecca for Nebraska 15179 Whitmore Cir Bennington, NE 68007 E-mail Rebecca Privacy Policy

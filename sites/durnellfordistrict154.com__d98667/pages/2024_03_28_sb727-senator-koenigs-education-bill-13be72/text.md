@@ -6,7 +6,7 @@ I would really like to see a bill where the money could ‘follow the child’, 
 This bill does not appear to offer that protection for families who choose homeschool or private school for their children.
 I urge you to go to senate.mo.gov and find the bill so you can read it for yourself.
 I hope everyone has a blessed day!
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Previous Post Hello, My Name is Lisa… Next Post BIG ANNOUNCEMENT!!!
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Previous Post Hello, My Name is Lisa… Next Post BIG ANNOUNCEMENT!!!
 Quote of the week “For too long, we have allowed the left to chip away at the values we hold dear.
 I have watched the political processes in our state the last few years and feel that we really need a change toward true conservatism before we lose any more ground .” ~ Lisa Durnell Durnell For District 154 Lisa durnell It’s time for good people to step up and fight for Missouri and Howell County.
 Pages About Policy Positions Ways to Help!

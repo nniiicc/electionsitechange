@@ -5,11 +5,11 @@ By participating, you agree to the terms & privacy policy for recurring autodial
 No consent required to buy.
 Msg&data rates may apply.
 Join The Team Contribute To The Campaign $10 $20.24 $50 $100 Donate Today Take Action Survey: What Issues Are Most Important To You?
-Petition: Pass the SAVE America Act Stay Up To Date From The Blog Safe Roads Are Not Optional October 7, 2026 • Brian Mast Three people left home on August 12, 2025, and never made it back.
+Petition: Pass the SAVE America Act Stay Up To Date From The Blog Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves October 14, 2026 • Brian Mast Protecting Florida’s waterways isn't just a legislative priority for me—it’s personal.
+From our local small businesses and coastal estuaries to the rivers where our kids swim, fish, and grow up,… Read More Safe Roads Are Not Optional October 7, 2026 • Brian Mast Three people left home on August 12, 2025, and never made it back.
 Read More Clean Water Results You Can Measure September 28, 2026 • Brian Mast For the Treasure Coast, clean water is not an abstract issue.
 It is our economy, our way of life, and the promise that our children will inherit the Florida we… Read More Put Veterans in the Driver’s Seat September 21, 2026 • Brian Mast In uniform, experience is measured by whether you can complete the mission and bring the people beside you home.
-Too often, veterans return to civilian life and are told that… Read More What Service Before Self Means To Me September 16, 2026 • Brian Mast This Saturday is my Alive Day.
-Read More Brian Mast @BrianMastFL Shop Where We Stand White T-Shirt - $28 Where We Stand White Cotton T-Shirt - $34 Limited Edition: Team Mast Salute Hat - $35 Shop All Products Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Too often, veterans return to civilian life and are told that… Read More Brian Mast @BrianMastFL Shop Where We Stand White T-Shirt - $28 Where We Stand White Cotton T-Shirt - $34 Limited Edition: Team Mast Salute Hat - $35 Shop All Products Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

@@ -6,10 +6,9 @@ Lets continue to consider the safety of everyone in our communities!
 #OurCommunityFirst​ #Kalihi​ #Ebikes​ #Hawaii​ #VoteYbanez4Kalihi Previous YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
 Next Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst You Might Also Like YBANEZ - Tropical Cyclone LALA | Friday, August 14th YBANEZ 4 KALIHI - Support Local!
-Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i YBANEZ - Saturday, 7/25/2026 YBANEZ - Mahalo Gov.
-Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-Are you registered to vote?
+#Kalihi #Hawaii #ourcommunityfirst You Might Also Like YBANEZ - Walk & Talk 7/29/2026 Free Food Distribution at Kalihi Kai on October 31st!
+More Details to Follow!
+YBANEZ - Saturday, 7/25/2026 YBANEZ - Walk & Talk | Monday, August 3rd Amanda YBANEZ Talks FISCAL RESPONSIBILITY Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

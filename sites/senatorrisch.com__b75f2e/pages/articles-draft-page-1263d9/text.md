@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Recent News: Sep 21, 2026 CHAMBER OF COMMERCE PAC ENDORSES SENATOR RISCH The U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Recent News: Sep 21, 2026 CHAMBER OF COMMERCE PAC ENDORSES SENATOR RISCH The U.S.
 Chamber of Commerce PAC today announced its endorsement of U.S.
 Senator Jim Risch (R-Idaho).
 Read More Sep 13, 2026 FORMER IDAHO GOVERNOR: “RISCH SERVES IDAHOANS WELL IN THE SENATE.

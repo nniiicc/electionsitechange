@@ -1,4 +1,4 @@
-Home Meet Leila Priorities Supporters Endorsements Community Supporters Volunteer Donate Home Meet Leila Priorities Supporters Endorsements Community Supporters Volunteer Donate PRIORITIES Residents of Melrose, Malden, and Wakefield deserve dedicated, professional, and unwavering elected leaders with a proven record of delivering for their community.
+Home Meet Leila Priorities Supporters Endorsements Community Supporters Donate Home Meet Leila Priorities Supporters Endorsements Community Supporters Donate PRIORITIES Residents of Melrose, Malden, and Wakefield deserve dedicated, professional, and unwavering elected leaders with a proven record of delivering for their community.
 Leila will be that leader: she has spent the past decade serving her community, working with neighbors and local organizations to strengthen Melrose and the surrounding region.
 As a City Councilor for 6 years, and President for her final two years on the Council, she has a deep understanding of the complex issues that affect municipalities.
 With more than 25 years of experience in higher education, government and nonprofits, Leila has shown up and gotten results.

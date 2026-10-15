@@ -17,9 +17,10 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Manny A.
-Santos Former Mayor of Meriden and 2018 candidate for Congress "Peter Lumaj will be an excellent choice for Connecticut Secretary of the State due to his deep commitment to election integrity, legal expertise, and personal resilience.
-As an immigrant who escaped communist Albania, Lumaj brings a profound appreciation for democratic values and the importance of transparent governance.
-His background as an attorney and small business owner equips him with the practical skills needed to modernize business filings and streamline state operations.
-Having previously run one of the closest statewide races in Connecticut history, Peter has demonstrated both broad appeal and a strong understanding of the state’s political landscape.
-His outspoken advocacy for secure elections and accountability makes him the best candidate for safeguarding Connecticut’s democratic processes" View all endorsements →
+ENDORSED BY John Carlson New Haven RTC Chairman "I endorse Peter Lumaj as Secretary of the State for several reasons.
+To begin with, he has the qualifications required to do the job.
+His familiarity with law and running a business will no doubt be a huge boon in running SOTS.
+Secondly, he has the character to ensure the job gets done without bias, and with honesty and integrity.
+As we’ve seen from recent events, not only in BPT, but elsewhere, we need someone who will take the appointment seriously and without fear of political backlash from any party or backers.
+“Fear not”, Peter is the candidate who is not afraid to let everyone know what he stands for and what he won’t stand for.
+Lastly, he is an experienced candidate which will aid him in this run." View all endorsements →

@@ -7,9 +7,9 @@ Washington could learn a lot from Texas which is why Congressman Cloud fulfilled
 Congressman Cloud is a “Texas Congressional Champion” with a 100% voting record from FreedomWorks.
 He has voted repeatedly to push back on the Washington wasteful spending culture.
 Learn more...
-Religious Liberty The Constitution is clear that the free exercise of religion shall not be prohibited.
-Michael stands strong against government attempts to discriminate against people of Read More » Economy and Jobs Small businesses around our communities are major job creators and the fuel of our Texas economy — we need to keep them alive and healthy.
-Read More » Energy and Trade Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.
+Education As the father of three children and the husband of a public-school teacher, Congressman Cloud understands our urgent need to provide a quality education for Read More » Religious Liberty The Constitution is clear that the free exercise of religion shall not be prohibited.
+Michael stands strong against government attempts to discriminate against people of Read More » Agriculture and Property Rights Texans are leaders in agriculture and the best stewards of Texas land.
+As the only Republican Member of Congress on the Agriculture Committee from Texas, Michael considers it a great honor to make sure our food supply is protected, that trade policies are structured to export more American products, and that the industries that Americans depend on everyday flourish.
 Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Paid for by Cloud for Congress All Rights Reserved 2026 .

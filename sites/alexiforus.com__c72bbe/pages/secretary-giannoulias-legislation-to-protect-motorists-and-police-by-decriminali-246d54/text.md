@@ -15,9 +15,8 @@ Law enforcement is overworked and understaffed.
 Springfield must use taxpayers’ resources wisely to catch the violent criminals that make all our communities less safe by repealing laws like the air freshener ban.” “This change is needed because this is a safety issue for law enforcement and the public,” said State Sen.
 Belt, the bill’s chief sponsor in the Senate.
 “No driver in Illinois should fear that they may be stopped or searched for something as minor as having a small item hanging from the rearview mirror.” Illinois is one of a handful of states with laws banning items from hanging from a rearview mirror.
-HB 2389 now heads to the Governor for his consideration. -#- Other Press Releases Statement from Secretary Alexi Giannoulias on Governor Pritzker’s Budget Address I applaud Governor Pritzker for laying out a budget plan that is committed to serving all Illinoisans – especially children, vulnerable populations and the hard-working men and women of organized labor.
-Keep Reading → Secretary of State Offices to Close for Martin Luther King Jr.
-Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
-Day.
-Keep Reading → Giannoulias: Enact Pre-Registration Initiative for Eligible Illinois Teens Secretary of State candidate seeks new voter registration policy to encourage civic engagement Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+HB 2389 now heads to the Governor for his consideration. -#- Other Press Releases Secretary of State Giannoulias Visits Peoria Driver Services Facility Meets with staff to discuss office modernization efforts to empower employees and improve services Keep Reading → Former Democrat Congressman Jerry Costello Endorses Giannoulias for SOS Former U.S.
+Rep.
+Jerry F.
+Costello announced his endorsement today for Democrat Secretary of State candidate Alexi Giannoulias in the 2022 election cycle Keep Reading → Giannoulias Proposal Would Ban “Zooming While Driving” Bill aims to prevent distracted driving and improve safety on Illinois roads Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

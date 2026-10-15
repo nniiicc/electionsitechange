@@ -1,4 +1,4 @@
-DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE North Carolina Fraternal Order of Police Endorses Michael Whatley for US Senate August 12, 2026 WILMINGTON – Today, the North Carolina Fraternal Order of Police endorsed Michael Whatley for US Senate.
+DONATE find your voting location Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE North Carolina Fraternal Order of Police Endorses Michael Whatley for US Senate August 12, 2026 WILMINGTON – Today, the North Carolina Fraternal Order of Police endorsed Michael Whatley for US Senate.
 The FOP noted that over his five decades of running for political office, Governor Cooper has always favored soft-on-crime policies that put civilians and law enforcement officers in danger.
 Whatley praised the FOP and committed to continue his support of law enforcement when elected to the US Senate.
 This is the third major law enforcement group to endorse Whatley.

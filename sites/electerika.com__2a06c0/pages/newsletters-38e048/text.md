@@ -1,7 +1,12 @@
 Skip to main content Fighting for you.
 Join the movement.
 Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Straight from Erika Newsletters The contracts, the votes, the deals, and what they mean for your rent, your energy bill, and your kids' school.
-Aug 25, 2026 $26,000 a year before your kid turns one, what if we have universal childcare?
+Oct 14, 2026 Nine questions.
+Your vote in November.
+Let's break it down!
+Why is your ballot so long this year?
+Here's how these questions got there, and more importantly, who paid to put them there.
+Read Newsletter → Aug 25, 2026 $26,000 a year before your kid turns one, what if we have universal childcare?
 Infant care in Massachusetts costs more than UMass tuition.
 What if we made it universal?
 Read Newsletter → Aug 18, 2026 Your Premiums Are the Highest in the Country.
@@ -66,9 +71,9 @@ You Deserve to Know.
 Read Newsletter → Mar 27, 2026 They Said It Couldn't Be Done, We Did It This Week!
 Read Newsletter → Feb 24, 2026 The MAGA winner take all strategy for AI The Governor's office met with me about the OpenAI contract.
 Meanwhile, bills are moving through state legislatures that would make asking those questions illegal.
-Read Newsletter → Feb 23, 2026 The MAGA winner take all strategy for AI Read Newsletter → Feb 17, 2026 Healey's OpenAI state contract and why it matters to you Read Newsletter → Feb 17, 2026 Healey's OpenAI state contract and why it matters to you Governor Healey signed a three-year AI contract covering all 40,000 state employees.
+Read Newsletter → Feb 23, 2026 The MAGA winner take all strategy for AI Read Newsletter → Feb 17, 2026 Healey's OpenAI state contract and why it matters to you Governor Healey signed a three-year AI contract covering all 40,000 state employees.
 The public has not been allowed to see it.
-Read Newsletter → Dec 23, 2025 Say Shacoby Kenny's name Read Newsletter → Dec 10, 2025 Thank you Senator Pat Jehlen, and the year ahead Read Newsletter → Nov 18, 2025 When it rains, don't touch the water...
+Read Newsletter → Feb 17, 2026 Healey's OpenAI state contract and why it matters to you Read Newsletter → Dec 23, 2025 Say Shacoby Kenny's name Read Newsletter → Dec 10, 2025 Thank you Senator Pat Jehlen, and the year ahead Read Newsletter → Nov 18, 2025 When it rains, don't touch the water...
 Read Newsletter → Oct 30, 2025 Standing up for food security Read Newsletter → Oct 7, 2025 Trump's attack on Massachusetts and what we can do about it Read Newsletter → Jun 30, 2025 Our big wins for transparency and ending real estate broker fees Read Newsletter → Apr 1, 2025 Do not stop speaking about Gaza and fighting for justice for Rümeysa Read Newsletter → Mar 6, 2025 What we can do to protect our immigrant neighbors Read Newsletter → Subscribe Two emails a week.
 The real story, not the press release.
 Join thousands of neighbors who are fighting for a better Massachusetts.

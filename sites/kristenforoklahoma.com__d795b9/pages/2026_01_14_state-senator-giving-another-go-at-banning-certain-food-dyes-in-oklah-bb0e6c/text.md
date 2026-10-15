@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute State senator giving another go at banning certain food dyes in Oklahoma OKLAHOMA CITY, Okla.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute State senator giving another go at banning certain food dyes in Oklahoma OKLAHOMA CITY, Okla.
 (KOKH) — Legislation has been filed in several states to ban certain food dyes, including in Oklahoma.
 State Senator Kristen Thompson (R-Edmond) is the lawmaker behind the effort in the Sooner State.
 “Senate Bill 4 really came from my experience as a mom,” Thompson said.

@@ -1,4 +1,4 @@
-Skip navigation menu JOIN ROY THURSDAYS AT 2PM FOR KAUFMANN KOFFEE HOUR!
+Skip navigation menu JOIN ROY This friday AT 2PM FOR KAUFMANN KOFFEE HOUR!
 CHECK OUT OUR EVENTS PAGE!
 Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Roy Kaufmann.
 Independent-minded, like you.

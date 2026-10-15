@@ -6,9 +6,9 @@
 "alt://static.wixstatic.com/media/51893d_7ebe023030704e8eb41d0a0cc4bf0484~mv2.png|Sandra Van Scotter Logo 2026 (4).png",
 "alt://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png|Instagram",
 "alt://static.wixstatic.com/media/cee410_4f148ef5b567440b9910ee70b4213f9c~mv2.jpg|RSVP is required to help us prepare!",
+"alt:|20 Days to Go!",
 "alt:|Canvass for Sandra Van Scotter in Lemoore",
 "alt:|Rally for Sandra",
-"alt:|Sundays with Sandra Virtual Town Hall 8/9/26",
 "alt:|Writer: Team Sandra",
 "img://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/square/USA.png",
 "img://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/square/USA_2x.png",
@@ -22,7 +22,9 @@
 "img://static.wixstatic.com/media/cee410_4f148ef5b567440b9910ee70b4213f9c~mv2.jpg",
 "img:al_c",
 "img:enc_avif",
+"img:h_1268",
 "img:h_140",
+"img:h_1999",
 "img:h_208",
 "img:h_28",
 "img:h_280",
@@ -37,5 +39,6 @@
 "img:quality_auto/51893d_75ec5924ac1c41cb90b02f85f123c950~mv2.png",
 "img:quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
 "img:quality_auto/Sandra%20Van%20Scotter%20Logo%202026%20%20(4).png",
+"img:quality_auto/cee410_4f148ef5b567440b9910ee70b4213f9c~mv2.jpg",
 "img:usm_0.66_1.00_0.01"
 ]

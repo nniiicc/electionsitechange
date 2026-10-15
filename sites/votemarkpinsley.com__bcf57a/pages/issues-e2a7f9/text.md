@@ -6,6 +6,34 @@ That’s a disgrace.
 I will raise Pennsylvania’s minimum wage to $45,000 ($22/hour), then increase it each year with the cost of living.
 This will demand a gradual change so employers can plan ahead.
 This way, one job will be enough to live a comfortable, dignified life.
+Make AI Pay Its Way I’m not against technology.
+If AI makes your work easier, good for you.
+But that’s not what’s happening at a lot of companies.
+They’re using it to cut people loose, keep the savings, and hand the bill to the rest of us.
+You’ve seen it at the grocery store.
+There used to be four cashiers up front.
+Now there’s one employee watching six self-checkout machines.
+The company’s payroll went down and those workers lost their paychecks.
+When they need unemployment, or Medicaid, or help finding something new, taxpayers cover it.
+The company doesn’t pay a dime of that.
+That’s backward.
+Here’s what I’ll fight for in Harrisburg.
+Big companies that replace Pennsylvania workers with AI or automation should pay into a fund for those workers, based on how many jobs they cut and how much in wages.
+That money goes to the people who got hurt: retraining, job placement, and help paying for health insurance so nobody loses coverage for their kids the same week they lose their job.
+If a company took Pennsylvania tax breaks or grants to create jobs here and then swaps those workers out for machines, it pays the money back.
+Workers deserve a real heads-up.
+Federal law only requires 60 days’ notice for big layoffs, and plenty of layoffs don’t even count.
+I want a stronger Pennsylvania law, with longer notice and severance, so nobody finds out they’re done when their badge stops working at the door.
+When a company cuts jobs because of AI, it should have to say so publicly.
+We deserve to know who’s doing it and how many people it’s hitting.
+And a computer shouldn’t get the final say on your life.
+Not on whether you’re fired, whether your insurance claim gets denied, or whether you get the state benefits you’re counting on.
+You should know when AI made the call, and you should be able to have a real person review it.
+Same goes for companies using software to track every bathroom break or quietly set your pay.
+That needs limits.
+Technology’s always going to change.
+The basic deal shouldn’t.
+If you’re getting rich by replacing working people, you don’t get to stick the bill to them.
 Cut Property Taxes Pennsylvania has no standard process for assessing property values, pushing costs onto counties.
 That means that some houses are paying property taxes based on their values from the 60s!
 In Lehigh County, I found that this broken system meant that rich people living in the largest houses were underpaying property taxes, while low-income residents living in modest homes were overpaying.

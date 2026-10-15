@@ -14,13 +14,12 @@ We need to bring it under control.
 Learn more → Supporting Working Families Working people should be able to support a family, even in tough times.
 Learn more → Cutting Property Taxes Rising taxes shouldn't push people out of their homes.
 Learn more → Putting a Pause on Data Centers Kansas needs to stop approving new data centers until guardrails are in place.
-Learn more → Latest news Featured Press All press releases KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
+Learn more → Latest news Featured Press All press releases Press Release • October 14, 2026 Cindy Holscher Launches New Television Ad Vowing to Clean Up Ty Masterson’s Messes “Muck” spotlights Holscher’s farm roots and her pledge to fight the corruption driving up costs, while making clear that Masterson’s plan belongs in manure Press Release • October 14, 2026 100 Kansas Republicans Are Now Backing Cindy Holscher for Governor Today, the Cindy Holscher for Governor campaign announced that 80 additional current and former Republicans from across Kansas have endorsed Senator Cindy Holscher and joined “Republicans for Cindy,” bringing the coalition to 100 members.
+They joined the 20 current and former Republican elected officials who launched the coalition, many of whom served alongside both Holscher and Masterson in the legislature.
+KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
 That also includes recreational marijuana legalization and a focus on cutting property taxes.
 “Those are all things supported by at least 65 percent of the population of Kansas,” she said.
-“Those are things that I stand with the people on.” Kansas Reflector • October 12, 2026 Cindy Holscher, Ty Masterson gain gubernatorial endorsements from labor, ag interests Holscher, elected to the Legislature nearly a decade ago, has been endorsed by Kelly and former Democratic Govs.
-Kathleen Sebelius and John Carlin.
-Her campaign has been backed by the Kansas AFL-CIO, Kansas National Education Association’s PAC, the American Federation of Teachers, the American Federation of Government Employees, United Auto Workers Local 31, the SEIU Kansas Local 513 and UFCW Local 2.
-KMBC • October 12, 2026 How Democratic Kansas governor candidate Cindy Holscher says she'll tackle the issues Sign up here.
+“Those are things that I stand with the people on.” Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.
 Lynn Rogers, Treasurer.

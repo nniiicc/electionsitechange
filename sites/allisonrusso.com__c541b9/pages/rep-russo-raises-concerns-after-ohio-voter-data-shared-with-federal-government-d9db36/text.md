@@ -13,5 +13,5 @@ Russo warned that the federal government’s growing involvement in state-run el
 “When Ohioans are required to provide private personal information to participate in our democracy, they deserve absolute confidence that their data will be protected,” added Rep.
 Russo .
 “I have grave concerns about how this information could be used or manipulated in ways that undermine the will of American voters.” Stand with Allison Russo for Ohio $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-Stand with team Allison Email Address Zip Phone Number Get updates Home Meet Allison Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
+Stand with team Allison Email Address Zip Phone Number Get updates Home Need to Know Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately.

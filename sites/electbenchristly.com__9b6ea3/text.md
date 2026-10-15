@@ -22,7 +22,7 @@ I tell the truth, keep my word, and listen with respect even when we disagree, b
 LEARN MORE Endorsed by trusted community members and organizations: Skamania County Democrats Klickitat County Democrats State Senator Adrian Cortes State Representative Monica Stonier Vancouver Port Commissioner Don Orange see more endorsements LATEST NEWS On the Campaign Trail News January 19, 2026 BEN CHRISTLY LAUNCHES CAMPAIGN FOR STATE REPRESENTATIVE, 17TH DISTRICT January 19, 2026 Vancouver, WA — Ben Christly, a Navy veteran, flight nurse, small business founder, and father of three, today announced his campaign for State Representative in Washington’s 17th Legislative District, running on a platform centered on affordability, accessible healthcare, strong public schools, and practical leadership that puts people first.
 “Too many people in our communities are working harder than ever and still falling behind,” said Christly.
 “Rising costs are squeezing families, small businesses, and retirees.
-It shouldn’t be this hard to build a stable life, and I’m running to bring real-world experience and common-sense solutions to Olympia.” Read more → January 19, 2026 More News Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+It shouldn’t be this hard to build a stable life, and I’m running to bring real-world experience and common-sense solutions to Olympia.” Read more → January 19, 2026 More News Sign up for updates Media Contact Terms and Conditions Paid for by Elect Ben Christly (D) 304 S.E.
 Hearthwood Blvd.
 P.O.
 Box 87872, Vancouver, WA 98684

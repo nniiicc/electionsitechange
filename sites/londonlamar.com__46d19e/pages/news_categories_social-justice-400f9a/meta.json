@@ -1,10 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.londonlamar.com/news/categories/social-justice",
- "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
+ "fingerprint": "f87d22a621377550078bb6108d972c1ab0156520",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by London Lamar for State Senate Sen",
  "rendered": false,
- "title": "",
- "years_mentioned": []
+ "title": "Social Justice",
+ "years_mentioned": [
+  "2020"
+ ]
 }

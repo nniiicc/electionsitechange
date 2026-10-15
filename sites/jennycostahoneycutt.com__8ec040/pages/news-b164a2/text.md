@@ -1,4 +1,9 @@
-Home About Platform News Support DONATE DONATE Home About Platform News Support DONATE NEWS NEWS Lowcountry Law Enforcement Leaders Endorse Jenny Costa Honeycutt for Congress All six SC-01 sheriffs and leading police organization endorse Costa Honeycutt campaign Thursday, September 24, 2026: With a strong, united show of support, the Lowcountry’s law enforcement leaders announced today their endorsement of Jenny Costa Honeycutt for Congress in South Carolina’s First Congressional District.
+Home About Platform News Support DONATE DONATE Home About Platform News Support DONATE NEWS NEWS Opinion Editorial: Mayor William Cogswell - Why I am Supporting Jenny Costa Honeycutt for Congress Friday, October 2, 2026: (Published in The Charleston Mercury) - Charleston's biggest challenges don't stop at the city limits.
+Flooding, traffic and the cost of housing are local problems, but solving them takes a partner in Washington who understands how the work actually gets done on the ground.
+That is why I am supporting Jenny Costa Honeycutt for Congress.
+The Lowcountry needs someone in Congress who will show up, do the homework and deliver.
+Jenny Costa Honeycutt will do that, and I'm proud to support her.
+READ MORE Lowcountry Law Enforcement Leaders Endorse Jenny Costa Honeycutt for Congress All six SC-01 sheriffs and leading police organization endorse Costa Honeycutt campaign Thursday, September 24, 2026: With a strong, united show of support, the Lowcountry’s law enforcement leaders announced today their endorsement of Jenny Costa Honeycutt for Congress in South Carolina’s First Congressional District.
 READ MORE Opinion Editorial: Jenny Costa Honeycutt: The Clear Choice for Those who Serve and Those They Protect Tuesday, September 22, 2026: (Published in FitsNews ) - I have spent most of my life around men and women who raised their right hand and swore an oath to defend this country.
 I served 33 years in the United States Marine Corps.
 I fought alongside extraordinary Marines in Vietnam and finished my career commanding the Marine Forces Reserve.

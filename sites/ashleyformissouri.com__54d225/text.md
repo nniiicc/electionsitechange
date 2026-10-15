@@ -1,5 +1,5 @@
 About Priorities Voter Resources Get Involved Contact Donate Ashley Aune A voice for you in the northland Missouri State Representative Ashley Aune represents House District 14 in Platte County.
-DONATE NOW join our campaign Working for You in our State Capitol A proud Kansas Citian and fierce public servant, Ashley brings Northland values to Jefferson City—working across the aisle at home and in the legislature to build a stronger, safer, healthier community for everyone.
+DONATE NOW Request a yard sign join our campaign Working for You in our State Capitol A proud Kansas Citian and fierce public servant, Ashley brings Northland values to Jefferson City—working across the aisle at home and in the legislature to build a stronger, safer, healthier community for everyone.
 Learn More Priorities Public Education Northland public schools are part of what make our community great.
 Learn More REPRODUCTIVE FREEDOM You deserve to control your most personal healthcare decisions.
 Learn More Economic Opportunity I believe a thriving Northland economy should work for everyone.

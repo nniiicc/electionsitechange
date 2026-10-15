@@ -1,8 +1,4 @@
-0 Skip to Content Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 14 DFL SD27 Monthly Meeting Wednesday, October 14, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
-Social hour begins at 5:30 pm.
-Meeting begins at 6:30.
-Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
-View Event → Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+0 Skip to Content Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 16 to Nov 2 Early Voting Starts!!
 Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 8:00 PM Google Calendar ICS Do your research!
@@ -31,6 +27,10 @@ Whether you're an experienced volunteer or joining us for the first time, we'd l
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Nov 3 Election Day!
 Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots available for in person and mail voting : Friday, September 18 Start of Early Voting* : Friday, October 16 Last day to vote early in person : Monday, November 2 Ballots must be received by : Tuesday, November 3 View Event → Nov 11 DFL SD27 Monthly Meeting Wednesday, November 11, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
+Social hour begins at 5:30 pm.
+Meeting begins at 6:30.
+Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
+View Event → Oct 14 DFL SD27 Monthly Meeting Wednesday, October 14, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
@@ -178,8 +178,4 @@ View Event → Jul 29 Haven Twp Door Knocking Wednesday, July 29, 2026 5:00 PM 7
 Mobilize Signup 5:00-7:30 PM Neighborhood Door Knocking & Community Outreach Gather at Casey's before heading into the community to meet voters, listen to concerns, and discuss the issues that matter most to local families.
 Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-View Event → Jul 23 Dinner & Drinks with SD27 Candidates Thursday, July 23, 2026 6:00 PM 8:00 PM Google Calendar ICS Join SD27 DFL candidates Brandon Van Dover (Senate 27), Vanessa Davenport (27A), and Charles McConaughay (27B) for dinner and drinks.
-FB Event Page This will be a social event and a chance to get to know your candidates, ask questions, and give feedback on what's important to you, as our potential constituents.
-Food and drinks will be available for purchase at the restaurant.
-Location: Chapala's Mexican Restaurant in Princeton Time: 6:00–8:00 PM Candidates: Charles McConaughay (House 27B) and Brandon Van Dover (Senate 27).
 View Event → Paid for by Davenport for Minnesota House 27A

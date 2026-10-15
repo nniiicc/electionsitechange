@@ -26,4 +26,4 @@ Any changes will be effective immediately upon posting of the revised Privacy Po
 We encourage you to review this page periodically for the latest information on our privacy practices.
 Contact Us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at: decaprio4ct48th@gmail.com ​ ​ ​ SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

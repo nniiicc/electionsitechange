@@ -1,4 +1,4 @@
-top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE Heather Baxter for South Dakota Secretary of State Welcome!
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions DONATE Heather Baxter for South Dakota Secretary of State Welcome!
 I’m Heather Baxter, a dedicated South Dakota Republican running to be your next Secretary of State.
 As a humble state representative for District 34 since November 2024, I've hit the ground running fighting for the issues that matter most to our families and communities.
 My mission is simple, Christ first, others always, while standing to preserve our freedoms and country! ​ Today, we stand at a critical juncture with President Trump ready to champion election integrity alongside South Dakota patriots.
@@ -34,5 +34,5 @@ I will simplify regulations and streamline processes to remove barriers, leverag
 Lead with Truth and Trust I will lead with steadfast dedication to the people of South Dakota, ensuring every decision and action consistently reflects integrity and reliability to build trust and accountability.
 Enhance Government Accessibility I plan to further improve public access to records with modern, user-friendly tools, making government more transparent and responsive to South Dakotans.
 Serve with Proven Dedication I will draw on my legislative experience and community service, I’ll bring fresh energy and bold solutions to make the Secretary of State’s office a model of efficiency and integrity.
-HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

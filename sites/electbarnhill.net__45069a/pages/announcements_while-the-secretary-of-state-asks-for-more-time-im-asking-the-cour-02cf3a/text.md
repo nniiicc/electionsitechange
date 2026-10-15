@@ -27,7 +27,9 @@ I’m not accusing anyone of fraud.
 I’m asking for an audit, a reconciliation, and a real duplicate-detection program — the basic upkeep every voter roll in the country needs.
 Every cycle without reconciliation is a cycle the official list falls short of “accurate and current.” This is why I’m running for Secretary of State — not to make noise, but to get results.
 Results, Not Noise.
-#YourIndependentVoice Barnhill v.
+#YourIndependentVoice If I’m elected, my office won’t ask to put cases on hold indefinitely.
+That’s one of the same-standard commitments I’ve put in writing.
+Barnhill v.
 Aguilar — Case Timeline May 20, 2026 Barnhill submitted a sworn complaint concerning alleged duplicate voter-registration records to the Nevada Secretary of State’s Elections Division and Clark County officials.
 See Who Will Protect Your Vote ?
 June 3–4, 2026 Formal notice was sent under the National Voter Registration Act .
@@ -64,6 +66,6 @@ Aguilar Pingback: Who Has a Stake in Barnhill v.
 Aguilar?
 Nevada Voters | Barnhill Post navigation Previous Previous post: Volunteer for a Nevada Political Campaign Next Next post: Why Donate to a Nevada Independent Candidate? footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

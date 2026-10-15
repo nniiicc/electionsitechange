@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Perry County Canvassing - Phonebanking is also an option.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Back to All Events Perry County Canvassing - Phonebanking is also an option.
 Saturday, May 2, 2026 12:00 PM 3:00 PM Fifth Third Bank Parking Lot 45 IN-66, Tell City, IN 47586 (map) Google Calendar ICS Let's talk to our neighbors about Mary Allen!
 We will meet at 5/3 bank in the meeting room and then go out to canvass in Perry County.
 Phonebanking opportunities will be available this day as well.

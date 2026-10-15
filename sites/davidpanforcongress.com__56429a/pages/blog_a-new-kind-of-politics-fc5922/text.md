@@ -1,4 +1,4 @@
-0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Kind of Politics May 8 Written by Guest User Politics has become about elections where the votes don't matter.
+0 Skip to Content Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Videos Blog Volunteer News Endorsements Internships Contact English Back Donate A New Kind of Politics May 8 Written by Guest User Politics has become about elections where the votes don't matter.
 Let's change that together.
 The typical political strategy has always been about appealing to your own party and getting out the vote.
 Both sides ignore each other.

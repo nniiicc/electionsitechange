@@ -28,14 +28,14 @@ See More See Less This content isn't available right now When this happens, it's
 Saturday July 18th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email It now takes one of the highest incomes in America just to live a middle-class life in Delaware.
 Our families are paying more than ever for housing, insurance, utilities, and taxes.
 Government keeps getting bigger, but life here keeps getting more expensive.
-#Delaware #politicsnews #elections #AffordableLiving ...
+#Delaware #PoliticsNews #elections #AffordableLiving ...
 See More See Less How much do you need to earn to be middle class in Delaware? www.delawareonline.com How much income does it take to be considered middle class in Delaware?
 Here's where the First State ranks nationwide.
 Wednesday July 15th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email The vilification of America's founders because of slavery is a completely decontextualized reading of history.
 Of course it was a moral blight, but it was the cultural norm of the time - and not just here, but worldwide, and had been since the dawn of time.
 The founders weren't perfect, but what they created was a HUGE LEAP FORWARD from everything that had come before - and what they created made possible the moral and social progress that we reap the benefit of today.
 And they did so at great personal peril; that's why we honor them as heroes.
-#Delaware #politicsnews #history #AmericanHistory ...
+#Delaware #PoliticsNews #history #AmericanHistory ...
 See More See Less 250 years since his ride, how does Delaware reckon with Caesar Rodney’s legacy? spotlightdelaware.org As time ticks until the Caesar Rodney statue's return to Delaware, leaders are unsure how to reckon with his legacy as a slaveholder.
 Tuesday July 7th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email This type of legislation makes a farce out of the entire concept of voting.
 Voters should choose their politicians - NOT the other way around.

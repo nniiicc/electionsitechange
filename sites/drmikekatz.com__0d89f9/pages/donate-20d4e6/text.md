@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Support the Campaign Fuel the Fight to Retire Chris Coons Every contribution helps Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → Support the Campaign Fuel the Fight to Retire Chris Coons Every contribution helps Dr.
 Mike Katz reach voters, share his message, and win in November.
 Your support builds the grassroots movement that beats a career politician with sixteen years in Washington.
 Stand with Mike Donate Today $10 $25 $50 $100 $250 $500 $1,000 $2,500 Other Every dollar counts.

@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Better Deal for Georgia From vulture culture to an economy that works for everyone.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate A Better Deal for Georgia From vulture culture to an economy that works for everyone.
 “It costs less our way.” Explore the Platform Download the PDF A Policy Platform by State Representative Spencer Frye | District 122 Who’s gonna pay for it?
 I’ve been hearing that question lately, and I want to answer it straight up.
 Here’s my answer, and I mean it: It costs less our way.

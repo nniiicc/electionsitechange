@@ -1,0 +1,16 @@
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate Standing at NY-22 Wind Farm, Kailee Buller Calls for Repeal of the New York Climate Law Which Has Sent CNY Energy Costs Soaring Apr 29, 2026 Back to Blog AUBURN, NY — In a video released today , congressional candidate Kailee Buller (NY-22) blasted New York’s Climate Law, which is causing Central New York families to face unprecedented utility bills at a time when the state is already having an affordability crisis.
+According to a recent New York State memo , the law is projected to increase energy bills an additional $4,000 per household.
+Buller drew a sharp contrast with her opponent John Mannion, who maintained the Climate Law while in Albany and has continued to defend it as a Congressional Representative.
+At a recent town hall, Mannion doubled down, praising the climate law’s “lofty goals.” Buller said, “Utility bills are out of control in New York because Albany politicians like John Mannion and Kathy Hochul have put their pet projects over our pocketbooks by striping us of energy options which have resulted in higher costs, more reliance on foreign energy sources, and weaker grids.
+Unless we act, the financial strain facing CNY families will only get worse.
+We don’t want bans and mandates, we want reliable energy options and lower costs.
+As your representative I will use common sense, honesty, and call out politicians- regardless of party when they are wrong.” Kailee Buller laid out the following 5 actions to lower costs for consumers and ensure our New York energy supply is controlled by Americans not foreign entities: 1.) Albany politicians must repeal the broken climate law including foreign wind and solar projects that were recently mandated by Albany in Scipio and Venice 2.) Albany politicians must revisit their reckless bans on fracking and natural gas.
+If the state fails to lift these bans, Congress should pass legislation that Buller will support to stop Albany from stripping energy options away from consumers.
+3.) Fast track nuclear expansion at the local, state, and federal levels.
+4.) Reform permitting at the local, state, and federal levels to bring on new energy infrastructure like natural gas pipelines as quickly as possible while protecting people and the environment.
+5.) Full transparency into our current energy suppliers is needed coupled with a long-term plan to invest in key American and New York energy sources through tax incentives.
+Unfortunately, the two leading utility providers in CNY – National Grid and NYSEG have significant interests in foreign governments.
+Foreign corporations and foreign governments should not own American utility companies – this results in higher costs and less reliability for us.
+These actions that are both short and long term measures coupled together will help lower costs for families, strengthen our American energy infrastructure, and support good-paying union jobs.
+Kailee Buller, an Auburn native and working mom of three is focused on driving results and lowering costs to the community she grew up in.
+### Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

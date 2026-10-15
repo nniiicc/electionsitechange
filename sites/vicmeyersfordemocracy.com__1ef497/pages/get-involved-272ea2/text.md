@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Join the Movement Real representation for HD47 starts with you.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Join the Movement Real representation for HD47 starts with you.
 Join the fight for democracy, workers’ rights, education, and strong communities.
 Ways to Get Involved Every action matters.
 Choose how you want to support Vic Meyers for Democracy. 💰 Make a Donation Every dollar fuels grassroots efforts—TV ads, digital outreach, events, and get-out-the-vote campaigns.

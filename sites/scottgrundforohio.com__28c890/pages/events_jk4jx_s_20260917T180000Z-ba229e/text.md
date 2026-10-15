@@ -1,5 +1,4 @@
-Home NEWS!!
-Meet Scott Events Issues Events / Community Town Hall in Mt.
+Home Meet Scott Issues Events / Community Town Hall in Mt.
 Vernon Community Town Hall in Mt.
 Vernon Time Thursday, Sep 17, 2026 6:00 PM – 8:00 PM Location 405 W.
 Chestnut Street, Mt.
@@ -13,8 +12,6 @@ Map 405 W.
 Chestnut Street Mt.
 Vernon, OH 43050 Directions → Add to calendar This event has passed Sign-ups are closed.
 Check the events page for what's coming up next.
-See upcoming events NEWS!!
-Photos Contact Volunteer Yard Signs Voter Information Visit my Substack publication © #.
+See upcoming events Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home NEWS!!
-Meet Scott Events Issues Volunteer Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

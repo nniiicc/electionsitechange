@@ -8,7 +8,10 @@ Put up a yard sign or share on social media.
 Host an Event Host a neighborhood gathering or house party to introduce Glenn to your community and build support.
 Contact the Campaign VOLUNTEER SIGN-UP Join Glenn's team today Already signed up?
 View your confirmation Contact the Campaign REACH OUT TO US Phone (317) 590-7757 Email info@voteglennbill.com Location 6325 Guilford Ave Suite 203 Indianapolis, IN 46220 TOGETHER WE WIN DISTRICT 86 Our District INDIANA HOUSE DISTRICT 86 Northwest Indianapolis & Pike Township — serving approximately 67,900 residents.
-Voter Action Hub Find My Precinct Look up your vote center, precinct, and elected officials on the Marion County Voter Information Portal.
+To activate drag with keyboard, press Alt + Enter.
+Once in keyboard drag state, use the arrow keys to move the marker.
+To complete the drag, press the Enter key.
+To cancel, press Escape. ★ DISTRICT 86 Traders Point Eagle Creek College Park Broad Ripple Crooked Creek Voter Action Hub Find My Precinct Look up your vote center, precinct, and elected officials on the Marion County Voter Information Portal.
 Marion County VIP → Register to Vote New to Indiana or need to update your registration?
 Use the official Indiana Voter Portal.
 Indiana Voter Portal → Early & Absentee Voting Can't make it on Election Day?
@@ -33,4 +36,4 @@ Make Your Voice Heard VOTER ACTION HUB Everything you need to prepare for Electi
 Find My Precinct Look up your vote center, precinct, and elected officials.
 Marion County VIP → Register to Vote Register for the first time or update your Indiana voter registration.
 Indiana Voter Portal → Early & Absentee Voting Find early vote centers and absentee ballot information.
-Early Voting Info → Continue browsing
+Early Voting Info → Continue browsing BESbswy

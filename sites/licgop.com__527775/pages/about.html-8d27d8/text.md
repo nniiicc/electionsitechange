@@ -60,4 +60,4 @@ But the wolves in sheeps clothing spill more blood then the wolves that present 
 The rampant corruption and exploitation that exists right now under the Democrats is a huge problem and unaddressed.
 Under the cloak of moral righteousness they are bleeding taxpayers and the poor to death.
 My activist website is available by clicking on the djelf7 logo below.
-Links to all of my social media platforms Video Social Media Music Gaming Payment platforms Contact: djelf7@djelf7.com
+Compare me against my opponent using the NYC VOTES tool Links to all of my social media platforms Video Social Media Music Gaming Payment platforms Contact: djelf7@djelf7.com

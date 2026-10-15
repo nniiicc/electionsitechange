@@ -2,4 +2,4 @@ Home About District ISSUES Voting DONATION REQUEST A SIGN CONTACT More Home Abou
 Your generous donation will fund our mission.
 Donate Now COPYRIGHT © # JOSEPH FOR NY.
 ALL RIGHTS RESERVED.
-PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Privacy Policy
+PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Voting | Contact Congressman Privacy Policy

@@ -1,3 +1,5 @@
+Get Voting Info Early Voting begins October 28th.
+Election Day is November 3rd.
 Follow Follow Contribute Priorities Meet Megan To Edmond From Megan Volunteer PRIORITIES Your Story Matters.
 The voices I hear in our community are not being heard at the State Capitol.
 That's why I'm running.

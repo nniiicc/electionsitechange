@@ -693,7 +693,7 @@ Fund homeownership assistance, small business grants, and anti-displacement prot
 Federal redlining maps from the 1930s graded Black neighborhoods across Nashville, Memphis, Chattanooga, and Knoxville as hazardous because of the color of the people living in them.
 When Interstate 40 needed a route through Nashville, the original plan ran near wealthy white neighborhoods, so the state moved it north through Jefferson Street, demolishing more than 620 homes and displacing 128 businesses, 80 percent of them Black-owned.
 Federal Reserve researchers have documented that the effects persist today on the same blocks: lower homeownership, lower property values, lower credit scores.
-We'll create a Community Restoration Fund for communities with documented histories of government-caused disinvestment, and the criteria are provable: neighborhoods on the federal redlining maps, communities displaced by highway routing, areas disrupted by urban renewal.
+We'll create a Community Restoration Fund for communities with documented histories of government-caused disinvestment: neighborhoods on the federal redlining maps, communities displaced by highway routing, areas disrupted by urban renewal.
 The fund will pay for down payment assistance and community land trusts so longtime residents build equity, and startup grants for entrepreneurs.
 Anti-displacement protections mean the people who stayed through decades of neglect aren't priced out by the recovery.
 The receipts are in the public record.

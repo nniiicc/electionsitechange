@@ -1,7 +1,7 @@
 Skip to content Store Meet Charles Why I'm Running Policies All policies Making Life More Affordable Growing Kentucky Small Businesses Lowering the Price at the Pump Lowering Energy Costs & Standing with Energy Workers Building Kentucky’s Infrastructure Stopping Data Centers in Kentucky Fighting Corruption & Draining the Swamp in Washington Making Healthcare Affordable for All Kentuckians Supporting Kentucky’s Rural Hospitals Supporting Vulnerable Kentuckians Keeping Kentucky Communities Safe Keep America Strong.
 End Reckless Wars.
 Honor Those Who Serve.
-Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Blog Posts FARMERS & TARIFFS: Supporting Kentucky’s Farmers Kentucky is home to more than 70,000 farms, most of them family farmers.
+Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Press releases Blog Posts Donate Now Donate Open menu Blog Posts FARMERS & TARIFFS: Supporting Kentucky’s Farmers Kentucky is home to more than 70,000 farms, most of them family farmers.
 Over the years, I’ve had the opportunity to meet with farmers, learn from them, and understand the challenges they face.
 Costs have skyrocketed, and pressure on our farmers is mounting.
 More than 17,000 Kentucky farms have shut down in recent years.

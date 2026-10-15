@@ -1,4 +1,4 @@
-0 Skip to Content Home Contact About Maria About Maria Social Media Donate Open Menu Close Menu Home Contact About Maria About Maria Social Media Donate Open Menu Close Menu Home Contact Folder: About Maria Back About Maria Social Media Donate No Donations Needed!
+0 Skip to Content Home Contact About Maria About Maria Social Media Vote Donate Open Menu Close Menu Home Contact About Maria About Maria Social Media Vote Donate Open Menu Close Menu Home Contact Folder: About Maria Back About Maria Social Media Vote Donate No Donations Needed!
 Thanks to everyone who has already donated to my 2026 re-election campaign, I have received enough donations to qualify for public financing under Connecticut’s Citizens’ Election Program.
 That means that I am no longer accepting donations.
 Instead, I am focusing all of my attention on the issues most important to you.

@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page New Boston 4th of July Celebration Jul 7, 2026 I had a wonderful time attending New Boston’s inaugural Fourth of July Parade.
 It was great to see families lining the streets, children waving their flags, veterans being recognized, and so many familiar faces coming together to celebrate our country and the freedoms we all cherish.
 As we continue celebrating America’s 250th birthday, events like this remind us that the strength of our nation has always come from its people and the communities we build together.

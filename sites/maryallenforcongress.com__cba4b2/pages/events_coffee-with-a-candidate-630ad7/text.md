@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Coffee with a Candidate Friday, April 17, 2026 1:00 PM 2:30 PM Impressed Coffee shop 1393 IN-57, Washington, IN 47501 (map) Google Calendar ICS Lets get coffee and talk about the real issues facing the 8th district.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Back to All Events Coffee with a Candidate Friday, April 17, 2026 1:00 PM 2:30 PM Impressed Coffee shop 1393 IN-57, Washington, IN 47501 (map) Google Calendar ICS Lets get coffee and talk about the real issues facing the 8th district.
 Come meet Mary!
 Bring your friends and your questions.
 We would love to see you.

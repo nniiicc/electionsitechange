@@ -38,6 +38,6 @@ Different traditions.
 Different histories.
 Yet people gather together because they believe this country is worth celebrating and worth improving.
 That spirit of civic participation, grounded in gratitude for those who secured our freedoms and determination to protect them for future generations, remains one of the highest forms of patriotism there is.
-Recent Posts See All Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
-As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling Contact Us Nikki G for SD P.O.
+Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
+House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

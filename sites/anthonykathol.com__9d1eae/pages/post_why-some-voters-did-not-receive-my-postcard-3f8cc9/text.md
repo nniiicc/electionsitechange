@@ -1,4 +1,4 @@
-top of page Home About Me Testimonials Blog Donate Contact Why Some Voters Did Not Receive My Postcard Anthony Kathol #ago 2 min read Rated NaN out of 5 stars.
+top of page Home About Me Testimonials Blog Donate Contact Why Some Voters Did Not Receive My Postcard Anthony Kathol Oct 7 2 min read Rated NaN out of 5 stars.
 I have been hearing from voters who received my campaign postcard in the mail this week.
 To those who did not receive one, I am sharing an electronic copy here.
 Unfortunately, several voters I intended to reach did not receive their postcards because their voter-registration records contained outdated Highway Contract Route (HCR) box numbers rather than their current 911 rural addresses.

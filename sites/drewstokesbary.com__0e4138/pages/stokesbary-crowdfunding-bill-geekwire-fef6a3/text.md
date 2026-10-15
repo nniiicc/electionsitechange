@@ -17,6 +17,6 @@ She supported it.
 Stokesbary’s bill would exempt a crowdfunding effort from having to pay a B&O tax.
 It also would exempt a crowdfunding effort from paying a sales tax if it gives a gift to the donor — if the value of the gift is less than 80 percent of the donation, and the gift is not something sold in the fundraiser’s normal course of business.
 You can read the original GeekWire story here .
-In the News business crowdfunding legislature regulations taxes More For You Washington risks budgeting online sales tax revenue In the News Tacoma News Tribune picks Stokesbary Endorsements TNT: Who can best represent voters in WA’s 31st Legislative District?
-The choice is clear (2022) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News business crowdfunding legislature regulations taxes More For You Rep.-elect Stokesbary named to House committees In the News Rep.
+Stokesbary’s first bill passes in state House In the News State Patrol Troopers endorse Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

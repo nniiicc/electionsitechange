@@ -1,7 +1,7 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Request a Yard Sign!
 It's a great way to get our name out into the communities and show your support for a different kind of Wisconsin politics!
-Meet Emily Priorities Stories Events Get a Sign!
+Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Request a Yard Sign!
 It's a great way to get our name out into the communities and show your support for a different kind of Wisconsin politics!
 Get us your info!

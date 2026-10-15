@@ -1,6 +1,6 @@
-Skip to content Home About Endorsements View Endorsements Add Endorsement Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Voter Alert Ballots Are Being Mailed Watch your mailbox and make your voice heard.
-Ballots In Transit BALLOT CA STATE District 45 Voter Alert Ballots Are Being Mailed Watch your mailbox and make your voice heard.
-BALLOT CA STATE District 45 Ballots In Transit Greg Abdouch for California State Assembly • District 45 Greg Abdouch for California State Assembly • District 45 Restoring Common Sense.
+Skip to content Home About Endorsements View Endorsements Add Endorsement Voter Guide Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Voter Alert Ballots Are Being Mailed Watch your mailbox and make your voice heard.
+Voter Guide → BALLOT CA STATE District 45 Voter Alert Ballots Are Being Mailed Watch your mailbox and make your voice heard.
+BALLOT CA STATE District 45 Voter Guide → Greg Abdouch for California State Assembly • District 45 Greg Abdouch for California State Assembly • District 45 Restoring Common Sense.
 Fighting for You.
 Join the Movement for a Better California.
 Sign up to stay informed & support the campaign!
@@ -47,9 +47,11 @@ Support Greg's Campaign One-Time Gift Monthly Sustainer Sacramento status-quo in
 Your immediate contribution fuels our local yard signs, voter materials, and community precinct walks. $ 20 $ 50 $ 100 $ 300 $ 500 Other Helps expand digital voter outreach across the district.
 Contribute $100 Now → Prefer to mail a check?
 Get instructions here Please note that the maximum contribution per election (either primary or general) for individuals, businesses, and PACs is $5,900.
-Community Events Join Greg on the campaign trail Upcoming Events Preview Thu, Oct 15 DNA meeting The Mexico Cafe Details → Thu, Oct 15 Verdimont DNA Meeting 1725 Northpark Blvd Details → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
+2026 Election Resources California Voter Guide Review plain-English breakdowns of statewide ballot propositions and common-sense candidate ratings to help make your voice heard.
+Published independently by Reform California.
+Explore Voter Guide → Reform California's Guide Community Events Join Greg on the campaign trail Upcoming Events Preview Thu, Oct 15 DNA meeting The Mexico Cafe Details → Thu, Oct 15 Verdimont DNA Meeting 1725 Northpark Blvd Details → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
 Together, We Can Make a Difference.
 Stay Informed & Get updates on key issues and campaign events.
 A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.
-Quick Links Home About Endorsements Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
+Quick Links Home About Endorsements Voter Guide Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
 All Rights Reserved. | Privacy Policy | Team Portal Digital Strategy by GoSubmitto

@@ -60,6 +60,6 @@ It is about whether Delaware is building a healthcare system capable of taking c
 And from what I'm hearing, this is a conversation Delaware needs to have now.
 Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
-Sign up Recent Posts I’m pro-worker and pro-opportunity.
-Oct 5, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 I’M LISTENING:WHAT I’M HEARING FROM DELAWARE VOTERS Aug 12, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
+Sign up Recent Posts Regarding Comments from School Board Member Elena Brenner Oct 14, 2026 I’m pro-worker and pro-opportunity.
+Oct 5, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
 Terms and Conditions Privacy Policy

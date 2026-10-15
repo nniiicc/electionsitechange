@@ -1,6 +1,6 @@
 Search this site Embedded Files Skip to main content Skip to navigation Bokash4Indiana Home Legislation Write-in Contact Bokash4Indiana Home Legislation Write-in Contact More Home Legislation Write-in Contact David E.
 Bokash Independent Write-in Candidate for Indiana's Fourth Congressional District Why did I choose to run for Congress?
-After the passage of the so called "Big Beautiful Bill" in 2025, it became obvious that neither the Republicans nor the Democrats were willing to do anything about our nearly $2 Trillion annual Deficits or the $39 Trillion of Government Debt.
+After the passage of the so called "Big Beautiful Bill" in 2025, it became obvious that neither the Republicans nor the Democrats were willing to do anything about our nearly $2 Trillion annual Deficits or the $40 Trillion of Government Debt.
 I hope to reverse this reckless spending before it damages our financial markets and overall economy.
 Legislative Policy Priorities [1] Neutralize Partisan Gridlock [2] Balance the Budget as Quickly as Possible [3] Support Middle Class Living Standards [4] Reduce Government Waste, Fraud and Abuse [5] Obtain Sustainable/Affordable Healthcare [6] Update Social Security & Medicare Funding [7] Defund Foreign Military Interventions Why Vote for an Independent?
 Independents serve only their constituents, not a president, minority/majority leader or national party.

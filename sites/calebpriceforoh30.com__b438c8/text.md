@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Home Issues Media Contact Vote Caleb for State Rep “The right PRICE for you!” DONATE Caleb is ready to work for you!
+0 Skip to Content Privacy Policy Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Privacy Policy Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Privacy Policy Home Issues Media Contact Vote Caleb for State Rep “The right PRICE for you!” DONATE Caleb is ready to work for you!
 As a born and raised Westsider, Caleb knows what it means to put in the work.
 As a fresh voice, Caleb will bring new ideas to Columbus about how to make life for Westsiders better.
 Caleb prioritizes lowering your property taxes, grocery bill, energy bill, as well as making our streets safer by supporting gun violence prevention measures, supporting law enforcement, and funding public schools to keep kids in school and teachers well paid.
@@ -6,13 +6,11 @@ Caleb believes that every Westsider deserves to be heard and represented fairly.
 For far too long, our representatives have forgotten us.
 They have only cared about serving the insiders in Columbus and making wealthy wealthier.
 It’s time for a change!
-ENDORSED BY: Jessica Miranda, Hamilton County Auditor Denise Driehaus, Hamilton County Commissioner Dr.
-Vanessa Enoch, Candidate for Congress OH-08 Ohio Federation of Teachers Jan Michele Lemon Kearney, Vice Mayor of Cincinnati Working Families Party Ohio Congressman Greg Landsman, Ohio’s 1st District Rep.
-Dani Isaacsohn, Ohio House Minority Leader Moms Demand Action Organize for Peace Ohio Pride PAC Cincinnati Federation of Teachers Cincinnati AFL-CIO Labor Council Center for Freethought Equality Ohio Young Democrats JOIN US: Honk and Wave (Cheviot) October 19th 5-6:30pm Corner of Harrison Ave & Glenmore Ave Will you support Caleb in 2026?
+JOIN US: Honk and Wave (Cheviot) October 19th 5-6:30pm Corner of Harrison Ave & Glenmore Ave Will you support Caleb in 2026?
 Explore this page to get the answers you need!
 GET INVOLVED Are you registered to vote?
 STAY INFORMED where do I vote?
-Get a yard sign or t-shirt Paid for by Caleb Price for OH 30 Meet Caleb Caleb was born in Cincinnati and is a proud graduate of Cincinnati Public Schools: Walnut Hills High School (‘20).
+Get a yard sign or t-shirt ENDORSEMENTS & SUPPORTERS Vice Mayor Jan Michele Lemon Kearney Congressman Greg Landsman Auditor Jessica Miranda Commissioner Denise Driehaus Minority Leader Dani Isaacsohn Paid for by Caleb Price for OH 30 Meet Caleb Caleb was born in Cincinnati and is a proud graduate of Cincinnati Public Schools: Walnut Hills High School (‘20).
 He attended St.
 Teresa of Avila Catholic Grade School in Price Hill and grew up playing soccer for Total Futbol Academy (TFA) and Kings Hammer.
 One of Caleb’s favorite memories growing up is spending hot Summer days at Phillips Swim Club and going bowling at Western Bowl!

@@ -89,6 +89,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=524+main+st%2C+lewiston++"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=540+u.s.+93+challis%2C+idaho%2C+83226+united+states"
 },
 {
@@ -281,7 +285,15 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Bonners+Ferry&dates=20261021T170000Z%2F20261021T190000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Grangeville&dates=20261019T170000Z%2F20261019T180000Z&location=108+Grangeville+Truck+Route%2C+Grangeville%2C+Idaho%2C+83530%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Lewiston&dates=20261022T210000Z%2F20261022T223000Z&location=524+Main+St%2C+Lewiston"
 },
 {
 "text": "Google Calendar",
@@ -401,7 +413,15 @@
 },
 {
 "text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-lewiston?format=ical"
 },
 {
 "text": "ICS",
@@ -548,8 +568,16 @@
 "href": "https://www.stegnerforidaho.com/events/meet-greet"
 },
 {
+"text": "Meet & Greet in Bonners Ferry",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
 "text": "Meet & Greet in Grangeville",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
+"text": "Meet & Greet in Lewiston",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-lewiston"
 },
 {
 "text": "Meet & Greet with John",
@@ -677,7 +705,15 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
+"text": "View Event →",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
+"text": "View Event →",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-lewiston"
 },
 {
 "text": "View Event →",
@@ -840,8 +876,16 @@
 "href": "https://www.stegnerforidaho.com/events/twin-falls"
 },
 {
+"text": "[image: Meet & Greet in Bonners Ferry]",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-bonners-ferry"
+},
+{
 "text": "[image: Meet & Greet in Grangeville]",
 "href": "https://www.stegnerforidaho.com/events/meet-greet-in-grangeville"
+},
+{
+"text": "[image: Meet & Greet in Lewiston]",
+"href": "https://www.stegnerforidaho.com/events/meet-greet-in-lewiston"
 },
 {
 "text": "[image: Meet & Greet with John]",
@@ -894,5 +938,9 @@
 {
 "text": "here",
 "href": "https://www.lwvid.org/events/2026-gubernatorial-candidate-forum"
+},
+{
+"text": "info@stegnerforidaho.com",
+"href": "mailto:info@stegnerforidaho.com"
 }
 ]

@@ -1,13 +1,15 @@
 {
  "description": "",
- "final_url": "http://www.terryburkedotson.com/news/",
- "fingerprint": "093ee6da50019091e8eb93ea7ce474bb13b595ba",
+ "final_url": "https://www.terryburkedotson.com/news/",
+ "fingerprint": "f6e6d3cee1d6ef592db33480646e2d77ca42c649",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "TerryBurkeDotson.com",
  "years_mentioned": [
   "2020",
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate When EMS is the Real Emergency Posted February 21, 2026 By Ruhee Merchant Capitol Corner Tagged Healthcare When you call 911, you expect help to be on the way.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate When EMS is the Real Emergency Posted February 21, 2026 By Ruhee Merchant Capitol Corner Tagged Healthcare When you call 911, you expect help to be on the way.
 Fast.
 But in Athens, ambulance services are not operated publicly as in most Georgia counties.
 Instead, they remain under a tight private grip.

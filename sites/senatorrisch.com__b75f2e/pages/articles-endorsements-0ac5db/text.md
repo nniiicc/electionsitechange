@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu Endorsements A+ Rated by the National Rifle Association A+ Rated by the Susan B.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu Endorsements A+ Rated by the National Rifle Association A+ Rated by the Susan B.
 Anthony Pro-Life America National Pro-Life Scorecard Defender of Limited Government Award Nuclear Energy Policy Champion Individual Endorsements ★ Endorsed By ★ President Donald J.
 Trump “Senator Jim Risch is doing a tremendous job representing the incredible people of Idaho…As the Chair of the Senate Foreign Relations Committee, Jim is fighting tirelessly to advance our America First Agenda.” ★ ★ ★ U.S.
 Senator, Idaho Sen.

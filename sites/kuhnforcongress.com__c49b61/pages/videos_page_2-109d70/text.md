@@ -1,6 +1,8 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations ♫ ﻿Vote Now ♬ The Foxy Affect ♪♪ It’s time to vote for change.
-Vote Heidi Kuhn for Tennessee’s 8th Congressional District.
-More Conversations Sep 21, 2026 - Want to help us WIN?
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you Chris McCoy and the Memphis Flyer!
+Thank you Chris McCoy and the Memphis Flyer for the opportunity to speak with you on your podcast about my experience and vision for District 8.
+More Conversations Sep 24, 2026 - Budgeting doesn’t solve what Washington won’t fix.
+Sep 22, 2026 - Thank you, Baker Brothers BBQ “Sauce, Smoke & Support” Attendees!
+Sep 22, 2026 - We will not sacrifice anything for Data Centers Sep 21, 2026 - Want to help us WIN?
 We need your assistance (and would welcome it).
 Sep 21, 2026 - Time to check your Tennessee Voter Registration!
 Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County is always a good day.
@@ -30,11 +32,6 @@ Sep 5, 2026 - Thank you Issac Hays Days and Covington (District 8) attendees!
 Sep 5, 2026 - We cannot wait, change must happen now.
 Sep 4, 2026 - I want the next generation to have the opportunity to soar, just like my daughter, who became a commercial airline pilot.
 Sep 3, 2026 - Thank you, Crockett County Democrats, for coming to the Crockett Mills Community Meet and Greet!
-Sep 3, 2026 - Tennessee’s 8th District deserves better.
-We need change.
-We need a voice.
-Sep 2, 2026 - Thank you, Bar 33 Attendees!
-Sep 1, 2026 - ICE’s tactics of profiling, intimidation, and creating fear in our communities are not making us safer.
 Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

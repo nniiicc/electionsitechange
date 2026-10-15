@@ -1,4 +1,5 @@
 top of page Stacey Hagen for MO House District 111 Donate Request a Yard Sign Home Ballot Guides About Info Support Contact Events More Use tab to navigate through the menu items.
+This site paid for by The Committee to Elect Stacey Hagen, David Hagen, Treasurer.
 Ballot Guides These ballot guides contain information about important issues coming to our ballots in 2026.
 November 3rd Important issues on our ballot this November.
 Jefferson County Democratic Central Committee Voter Guide August 4th Important issues coming to our ballots in August.

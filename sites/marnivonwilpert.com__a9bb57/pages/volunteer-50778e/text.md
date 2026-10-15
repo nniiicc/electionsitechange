@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Volunteer About Endorsements Issues Volunteer Store News Media Donate Volunteer Sign up to Get Involved We can’t win this campaign without you!
+Skip navigation menu About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Volunteer About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Volunteer Sign up to Get Involved We can’t win this campaign without you!
 Team Marni is powered by friends, neighbors, and community members who pitch in however they can — from knocking on doors and making calls to sharing posts and talking with friends.
 Sign up to volunteer today and join the movement to bring real change to CA-48!
 Sign up to volunteer!

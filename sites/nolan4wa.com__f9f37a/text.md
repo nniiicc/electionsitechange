@@ -3,7 +3,7 @@ DONATE Restore Opportunity.
 Return Accountability.
 Reclaim Our Future.
 Alan Nolan for State Rep.
-District 6 Meet Alan Nolan Information about STA Prop 1 and why it should be rejected — Endorsements — Larry Bowman Airway Heights Mayor and City Council Member Bob McCaslin, Jr Former State Representative, 4th Legislative District What the people of Washington want isn’t complicated. ​ ​ We want safe communities.
+District 6 Meet Alan Nolan — Endorsements — Larry Bowman Airway Heights Mayor and City Council Member Bob McCaslin, Jr Former State Representative, 4th Legislative District What the people of Washington want isn’t complicated. ​ ​ We want safe communities.
 We want great schools.
 We want to afford a home and keep more of what we earn.
 We want our children to grow up with the same opportunities we had.

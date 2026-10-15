@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/state-assemblyman-john-lemondes-a-no-show-a-second-time-for-local-library-event",
- "fingerprint": "91040559a4e377d448bbf1b05841fe07d57d5ef9",
+ "fingerprint": "b990ca297e12c99fab52f0cb664578c7cce02aec",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "State Assemblyman John Lemondes a no-show a second time for local library event",
  "years_mentioned": [
   "2026"

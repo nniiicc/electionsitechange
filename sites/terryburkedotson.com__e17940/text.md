@@ -1,7 +1,31 @@
-TerryBurkeDotson.com Terry Burke Dotson running for State Representative Terry Burke Dotson running for State Representative FILED ON: 6/2/2022 HOUSE . . . . . . . . . . . . . . .
-No.4954 House bill No.
-4930, as changed by the committee on Bills in the Third Reading, and as amended and passed to be engrossed, by the House.
-June 29, 2022. “ Gender-affirming health care services”, all supplies, care and services of a medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventative, rehabilitative or supportive nature relating to the treatment of gender dysphoria. “ Legally-protected health care activity”, (i) the exercise and enjoyment, or attempted exercise and enjoyment, by any person of rights to reproductive health care services or gender- affirming health care services secured by the constitution or laws of the commonwealth; (1)(a) Upon recommendation of an application assistant , an adult person, a parent or guardian acting on behalf of a minor , or a guardian acting on behalf of an incapacitated person may apply to the secretary to have an address designated by the secretary serve as the person’s address or the address of the minor or incapacitated person; or (b) Individuals engaged in the provision, facilitation or promotion of legally-protected health care activity may apply to the secretary to have an address designated by the secretary serve as the health care professional’s address ; provided, that in such cases, no recommendation of an application assistant shall be required .
-Terry Burke DOTSON Opposes Sex Changes WITHOUT Parental Consent Gender-affirming “ MINORS ” have Legally-protected “ RIGHTS ” to ALL supplies, care and services related to the treatment of gender dysphoria or dissatisfaction…including those… ” WITHOUT PARENTAL CONSENT ” “ MINORS ” can even be given a “ DIFFERENT ADDRESS ” designated by the secretary.
-I believe in “ PARENTS’ RIGHTS ”…not Commonwealth’s control.
-Pages About Contact News Photos Video Terry Burke Dotson running for State Representative © Terry Burke Dotson
+TerryBurkeDotson.com Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District Millbury, Auburn, Oxford Prec.
+2, 3, 4A, Charlton Prec.
+4, Leicester Prec.
+3 I WROTE and FILED the APPEAL at the Worcester Superior Court to request the DENIAL of the 40B approval by the Millbury Board of Appeals for a developer to build 192 apartments on RICE ROAD.
+During the last 2 years, we have been in court over 7 times…but the Developer has not been able to have our case dismissed.
+The judges have allowed the original case that I wrote, which was based on SAFETY , to continue because our case has MERIT .
+We are scheduled to make another presentation in court on October 21.
+With 100% ATTENDANCE , I served HONORABLY for 33 years in the USANG, USAFR, USNR, and USMC.
+I was awarded the “Air Force Airman of the Quarter” and the “Naval Reserve Sailor of the Quarter”, and with my help, my Air Force Unit was awarded the “Outstanding Unit Citation”.
+I presently serve actively with the Auburn Vietnam Veterans of America, Oxford Memorial Honor Guard, Leicester American Legion, and Millbury’s Veterans of Foreign Wars, American Legion and Veterans’ Council.
+I served Millbury for 18 years on its Planning Board, and wrote and helped to write many of its Zoning and Rules and Regulations bylaws.
+As a Millbury Housing Partnership member, I helped to build 3 AFFORDABLE housing homes for Millbury.
+I know how to do it…and have done it.
+I have offered to guide a new Housing Partnership Committee when the Town reestablishes it.
+I have also served on Millbury’s Electromagnetic Fields (EMF) Committee, Ponds and Lakes Commission, Youth Commission, Master Plan Committee, Water Study Committee, Fair Housing Committee, and have been the Planning Board’s delegate to the CMRPC, Central Mass.
+Regional Planning Commission.
+Over the last 10 years, I have quietly donated materials to be used by organizations to earn money, without the thought of self-promotion or a photo shoot.
+These organizations are in Millbury, Auburn, Oxford, Charlton and Leicester, and include churches, senior centers, historical societies, and scouts.
+I have earned 4 DEGREES …a Masters Degree in Health Education, a Masters Degree in Counselling, a Bachelors Degree in Health and Physical Education with a Concentration in General Science, and an Associates Degree in Health Care Management.
+I have earned the following CERTIFICATIONS : Teacher for grades 1 thru 12 in Massachusetts, Military Field Medic, Military Operating Room Technician, Military Air Transportation Specialist, EMT, and American Heart Association and Red Cross Instructor-Trainor.
+Even though divorced, I was blessed and raised a wonderful daughter.
+She put herself thru medical school and is now a DOCTOR OF PHYSICAL THERAPY at a local hospital.
+I’ve always worked at least 2 jobs.
+I bought, maintain, and OWN MY OWN HOME .
+I carefully plan to pay my mortgage, and increasing real estate taxes, sewer, water, gas, electricity, and home maintenance issues.
+I work FULLTIME at a local public high school HELPING students with learning challenges.
+I am an INDEPENDENT candidate, and I do not beg or accept money from any individuals or organizations.
+If you choose to support me…please “step up to the plate” and DO SOMETHING !
+Get 10 people to the polls to VOTE for me.
+FILL IN THE “DOT” FOR DOTSON !
+Pages About Contact News Photos Video Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District © Terry Burke Dotson

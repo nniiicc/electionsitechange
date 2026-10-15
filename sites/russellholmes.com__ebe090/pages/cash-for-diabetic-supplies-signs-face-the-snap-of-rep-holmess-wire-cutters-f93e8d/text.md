@@ -8,11 +8,10 @@ Russell Holmes (left) and former Boston Police Capt.
 Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
 Seth Daniel photo Share this Post navigation PREVIOUS Previous post: The Interview: State Representative Russell Holmes NEXT Next post: Diversity Dashboard Related Post Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-January 25, 2024 January 25, 2024 | Russell E.
+Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More Rep.
+Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
+One measure, pushed by state Representative Russell Holmes, Read More Read More Rep.
 Holmes rolls to re-election in 6th Suffolk district Rep.
 Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
 Holmes Russell E.

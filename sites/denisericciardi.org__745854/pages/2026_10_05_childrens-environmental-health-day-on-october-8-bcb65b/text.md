@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Childrens Environmental Health Day on October 8 Oct 5, 2026 New Hampshire observes Children’s Environmental Health Day annually on the second Thursday of October (October 8, 2026), established officially by state statute (RSA 4:13-ee) to raise awareness about clean air, clean water, safe food, and healthy environments for kids.
 This is the 8th year of observance.
 Senator Ricciardi was instrumental in getting this bill signed into law in 2018 (see photo below).

@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → U.S.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → U.S.
 Senate 2026 — Delaware Patients Over Politics, People Over Party Dr.
 Mike Katz has spent 30 years in Delaware treating patients, building businesses, and filing real legislation in the State Senate.
 He knows what this state needs because he’s been living it.
@@ -40,10 +40,12 @@ Defending the Second Amendment Reject red-flag confiscation, block federal firea
 Protecting Women's Sports Defend Title IX, preserve women's sports as a competitive category for biological females, and protect athlete safety.
 Read the Full Platform → Stay Connected Get Campaign Updates Join the campaign and hear directly from Dr.
 Katz as we move toward November 3.
-Join the Campaign → Latest From the Campaign September 29, 2026 · Press Release Coons Rejects WDEL Debate Offer; Katz Calls for Accountability and Open Debate WILMINGTON, DE — Senator Chris Coons has rejected WDEL's offer to hold a U.S.
+Join the Campaign → Latest From the Campaign October 14, 2026 · Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Condemns Coons Campaign Manager & Media Silence, Confirms UD Town Hall NEWARK, DE — Dr.
+Mike Katz, Republican nominee for U.S.
+Senate, criticized Senator Chris Coons and his campaign following their reported rejection of a debate j...
+September 29, 2026 · Press Release Coons Rejects WDEL Debate Offer; Katz Calls for Accountability and Open Debate WILMINGTON, DE — Senator Chris Coons has rejected WDEL's offer to hold a U.S.
 Senate debate that would air on both WDEL and NBC's CoastTV.
 After learning of the...
-September 28, 2026 · Press Release University of Delaware Cancels Debates: Katz Calls for Televised Katz-Coons Debate WILMINGTON, DE — According to sources at the University of Delaware, the University has cancelled its traditional biennial general-election debate program for t...
 All Press Releases × Tap to unmute Join the Movement Help Send Dr.
 Katz to DC Every contribution, every door knocked, every yard sign makes a difference.
 Pick the way you can help today. $10 $25 $50 $100 $250 $500 $1,000 $2,500 Other Volunteer Yard Signs Dr.

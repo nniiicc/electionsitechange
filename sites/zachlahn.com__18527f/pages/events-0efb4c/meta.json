@@ -1,10 +1,12 @@
 {
- "description": "Explore upcoming events hosted by Zach Lahn's campaign for Iowa Governor. Attend town halls, rallies, and community engagements to learn about our Iowa First agenda, focused on empowering families, protecting farms, and securing a prosperous future for all Iowans.",
- "final_url": "https://www.zachlahn.com/events/",
- "fingerprint": "4b37744cce5b98873fb253f7e8a59d6c3390bb94",
+ "description": "Explore upcoming events from Zach Lahn's campaign for Iowa governor: town halls, rallies, and stops from his 99-county tour. Attend one near you and hear the Iowa First agenda in person.",
+ "final_url": "https://zachlahn.com/events/",
+ "fingerprint": "ec55f4212ea50c7c11ac93d5e1f447d594fa62cd",
  "format": 3,
- "paid_for_by": "PAID FOR BY LAHN FOR GOVERNOR",
+ "paid_for_by": "Paid for by Lahn for Governor",
  "rendered": false,
  "title": "Upcoming Events | Zach Lahn For Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -22,9 +22,11 @@ Oregon is unique in that we have what is called the Political Tax Credit .
 Most taxpayers are eligible to contribute $50 to a political candidate ($100 if filing jointly) and receive that back as a direct credit on their taxes that tax year.
 So, either you can contribute that $50/$100 to my campaign, or it goes to the Governor—I hope you’ll choose me!
 Contribute Get Involved Sign up to get updates from Anna!
-By entering your information, you consent to receive campaign updates, GOTV reminders, informational messages, and solicitations for support from Friends of Anna Scharf.
-Message and data rates may apply.
-Message frequency varies.
-You can unsubscribe at any time by replying STOP or using the unsubscribe link at the bottom of our emails.
-For more, please read our Privacy Policy .
+By signing up for texts, you consent to receive campaign updates, GOTV reminders, informational message text messages from Friends of Anna Scharf at the number provided.
+Donations may be solicited.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms at https://www.voteannascharf.com/privacy-policy .
 Paid for by Friends of Anna Scharf

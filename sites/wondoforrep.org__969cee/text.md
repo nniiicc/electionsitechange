@@ -34,15 +34,13 @@ Because of her steady hand and listening skills, the town and unions agreed on s
 Lora is a single parent with one kid still in the Greenfield public high school.
 She works for the Peace Development Fund by day, fundraising for dozens of progressive grassroots organizations locally and nationally.
 She is ready to scale her work with progressive groups and the city of Greenfield to serve all towns in the 1st Franklin district and boost the Western Mass team to have a louder voice at the State House.
-Lora Listens, Leads, and Gets It Done Latest from the Campaign What a great weekend enjoying fall festivities across Franklin County! 🍂🍎 We spent Sunday talking with voters in Shelburne Falls, where we were treated to a performance by the Morris dancers, before heading over to the Ashfield Fall Festival!
-The dreary weather certainly didn’t dampen the spirits of festivalgoers!
-I especially appreciated the opportunity to catch up with Ashfield Fire Chief Kyle Walker about much-needed improvements to the town’s fire station.
-And of course, no Ashfield Fall Festival would be complete without some delicious cheddar cheese and apple pie!
-Join FCCPR for a follow-up conversation about the nine ballot questions Massachusetts voters will decide on this November!
-It's a space to come together to better understand the content and wording of each question, ask questions, and learn from one another.
-This free, community-focused session is about understanding what’s on the ballot, not telling people how to vote.
-LAVA, 324 Main Street, Greenfield October 16 at 6 PM Everyone is welcome!
-Please share with your friends, family, and community networks, and join us for an evening of thoughtful conversation ahead of Election Day.
+Lora Listens, Leads, and Gets It Done Latest from the Campaign I just stepped off the forum stage, and I’m feeling more energized than ever!
+Over the next few weeks, I’m looking forward to continuing the conversations I’ve been having with voters across the First Franklin District, listening to your concerns and sharing why I’m ready to lead.
+This election is about more than understanding the challenges facing our communities.
+It’s about having the experience, relationships, and determination to deliver real results.
+I’m ready to get to work on day one, and I’m excited to keep making my case to the voters of the First Franklin District!
+Let’s get to work!
+#TeamWondo is ready for tonight’s forum at GCTV!
 Endorse/Lawn Signs I want to hear from you!
 My priorities start and end with you.
 Tell me what’s working, what’s not, and how I can help.

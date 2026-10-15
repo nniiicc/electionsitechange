@@ -7,7 +7,7 @@ Election Day • 2.
 Weekend Advance Voting Dates and Hours • 3.
 Where to Vote Early in District 157 • 4.
 Absentee Ballots and Drop Boxes – Absentee Application Deadline – Drop Box Regulations – Switching from Absentee to In-Person Voting • 5.
-Accessibility and Voter Assistance – Priority Voting for Seniors and Voters with Disabilities – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
+Accessibility and Voter Assistance – Priority Line Accommodations During Advance Voting – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
 Acceptable Forms of Photo ID – Provisional Ballots • 7.
 What’s on Your Ballot – Georgia House District 157 – Statewide Constitutional Amendments • 8.
 District 157 Community Town Hall (October 17) • Verified Election & Community Resources – Official Government Election Resources – Campaign & Community Resources In-person advance voting for the 2026 General Election begins on Tuesday, October 13, 2026 , and runs through Friday, October 30, 2026 , across Appling, Evans, Jeff Davis, and Tattnall Counties.
@@ -28,7 +28,7 @@ While state law requires counties to open on both Saturdays, exact operating hou
 Check your county listing below or visit the Georgia My Voter Page to confirm local weekend hours.
 3.
 Where to Vote Early in District 157 Each of the four counties in District 157 designates a central elections facility for advance in-person voting.
-Below are the official physical locations and contact details for each county: County Designated Early Voting Facility Physical Address Regular Weekday Hours Office Phone Appling County Board of Elections Office 83 South Oak Street Baxley, GA 31513 9:00 AM - 5:00 PM (912) 367-8113 Evans County Courthouse Annex (Suite 8) 201 Freeman Street Claxton, GA 30417 9:00 AM - 5:00 PM (912) 739-0708 Jeff Davis County Public Safety Facility 15 Public Safety Drive Hazlehurst, GA 31539 9:00 AM - 5:00 PM (912) 375-6635 Tattnall County Central Elections Office 114 W Brazell Street Reidsville, GA 30453 9:00 AM - 5:00 PM (912) 557-6417 Note for Tattnall County voters: Advance early voting is conducted at the Board of Elections central office in Reidsville.
+Below are the official physical locations and contact details for each county: County Designated Early Voting Facility Physical Address & Directions Regular Weekday Hours Office Phone Appling County Board of Elections Office 83 South Oak Street Baxley, GA 31513 9:00 AM - 5:00 PM (912) 367-8113 Evans County Courthouse Annex (Suite 8) 201 Freeman Street Claxton, GA 30417 9:00 AM - 5:00 PM (912) 739-0708 Jeff Davis County Public Safety Facility 15 Public Safety Drive Hazlehurst, GA 31539 9:00 AM - 5:00 PM (912) 375-6635 Tattnall County Central Elections Office 114 W Brazell Street Reidsville, GA 30453 9:00 AM - 5:00 PM (912) 557-6417 Note for Tattnall County voters: Advance early voting is conducted at the Board of Elections central office in Reidsville.
 Glennville voters should plan to travel to Reidsville during the advance window or utilize the Saturday voting dates. [!NOTE] Operating schedules and entrance details are subject to official county determination.
 Official county election notices and the Georgia My Voter Page take precedence over third-party summaries.
 4.
@@ -43,7 +43,8 @@ Surrender the paper ballot to the poll clerk, who will mark it as canceled in th
 If you do not have the paper ballot with you, poll officials will require you to sign an affidavit affirming that the absentee ballot was not used before issuing an in-person ballot.
 5.
 Accessibility and Voter Assistance Georgia election law contains specific accommodations to ensure every eligible citizen can cast a ballot safely, privately, and independently.
-Priority Voting for Seniors and Voters with Disabilities Under O.C.G.A. § 21-2-409.1 , voters who are 75 years of age or older, or who have a physical disability, are entitled to proceed directly to the front of the line to vote between the hours of 9:30 AM and 4:30 PM during advance voting and on Election Day, without waiting in line.
+Priority Line Accommodations During Advance Voting Under Georgia law ( O.C.G.A. § 21-2-385.1 ), electors who are 75 years of age or older, electors who have a physical disability, or electors accompanied by a child two years of age or younger are entitled upon request to poll officials to vote without waiting in line during advance in-person voting.
+(Note: On Election Day, a similar provision under O.C.G.A. § 21-2-409.1 entitles electors aged 75 or older or those with physical disabilities to vote without waiting in line between 9:30 AM and 4:30 PM).
 In-Booth Voter Assistance Under O.C.G.A. § 21-2-409 , any voter who requires assistance due to physical disability or difficulty reading English may receive help from a companion of their choice.
 The law specifies that an assistant may not be the voter’s employer, an agent of the employer, or an officer or agent of the voter’s labor union.
 Accessible Voting Equipment Every advance voting site in District 157 is equipped with Georgia’s certified ballot marking devices (BMDs) configured with accessibility features, including audio-tactile keypads, headphones for audio ballots, high-contrast screen modes, large-text magnification, and compatibility with sip-and-puff devices.
@@ -61,8 +62,8 @@ To have the ballot counted, you must present valid photo identification to your 
 What’s on Your Ballot District 157 voters will see federal, state, and local candidate races on their ballot, along with three proposed state constitutional amendments.
 Georgia House District 157 Voters across Appling, Evans, Jeff Davis, and Tattnall Counties will choose their representative in the Georgia General Assembly between Democratic nominee Micah King and Republican nominee Bradley B.
 Anderson .
-Statewide Constitutional Amendments Your ballot includes three proposed constitutional amendments: Amendment 1 (HR 1081): Increasing the Conservation Use Value Assessment (CUVA) farm and timber property tax cap from 2,000 to 4,000 acres.
-Amendment 2 (HR 1110): Requiring nonpartisan elections for all probate court judges statewide.
+Statewide Constitutional Amendments Your ballot includes three proposed constitutional amendments: Amendment 1 (HR 32): Increasing the Conservation Use Value Assessment (CUVA) farm and timber property tax cap from 2,000 to 4,000 acres.
+Amendment 2 (HR 251): Requiring nonpartisan elections for all probate court judges statewide.
 Amendment 3 (HR 1243): Creating a constitutionally dedicated trust fund for emergency 9-1-1 dispatch operations.
 For a plain-English explanation of what a YES or NO vote means on each proposal, read our Georgia 2026 Ballot Measures Guide .
 You can view your complete personalized sample ballot at the official Georgia My Voter Page (mvp.sos.ga.gov) .
@@ -70,6 +71,7 @@ You can view your complete personalized sample ballot at the official Georgia My
 District 157 Community Town Hall (October 17) On the evening of the first mandatory Saturday advance voting date, our campaign is hosting an open community forum in Glennville: Event: District 157 Community Town Hall & Open Floor Q&A Date & Time: Saturday, October 17, 2026 | Starting at 6:00 PM Location: South Tattnall Middle School Gym (721 E Barnard St, Glennville, GA 30427) Admission: Free and open to all residents of Appling, Evans, Jeff Davis, and Tattnall Counties.
 Format: Open-floor microphone for direct constituent questions on healthcare, farming, cost of living, and rural infrastructure.
 Voters who cast an advance ballot during Saturday voting hours are invited to join their neighbors that evening for direct discussion.
+For driving directions and event details, read our Glennville Town Hall & Saturday Voting Guide .
 Verified Election & Community Resources Official Government Election Resources Georgia My Voter Page (mvp.sos.ga.gov) - Polling place lookup, registration verification, and official sample ballots.
 Georgia Secretary of State Elections Division - Official state election dates, statutory rules, and administrative notices.
 Campaign & Community Resources Georgia 2026 Ballot Measures Explained - Plain-English guide to Amendments 1, 2, and 3.
@@ -84,7 +86,7 @@ Election Day • 2.
 Weekend Advance Voting Dates and Hours • 3.
 Where to Vote Early in District 157 • 4.
 Absentee Ballots and Drop Boxes – Absentee Application Deadline – Drop Box Regulations – Switching from Absentee to In-Person Voting • 5.
-Accessibility and Voter Assistance – Priority Voting for Seniors and Voters with Disabilities – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
+Accessibility and Voter Assistance – Priority Line Accommodations During Advance Voting – In-Booth Voter Assistance – Accessible Voting Equipment • 6.
 Acceptable Forms of Photo ID – Provisional Ballots • 7.
 What’s on Your Ballot – Georgia House District 157 – Statewide Constitutional Amendments • 8.
 District 157 Community Town Hall (October 17) • Verified Election & Community Resources – Official Government Election Resources – Campaign & Community Resources Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
@@ -94,5 +96,5 @@ Read Dispatch → Articles Introducing the District 157 Opportunity Board: Keepi
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.
-Opportunity Board | Get Involved | Contact Us | Privacy Policy | Terms of Service | Sitemap Digital Capital deployed by ♿️ Mercury Media Partners Help Micah protect District 157.
+Opportunity Board | Get Involved | Contact Us | Privacy Policy | Terms of Service | Sitemap Digital Capital deployed by ♿️ Mercury Media Partners District 157 Town Hall: Oct 17 in Glennville 6:00 PM • South Tattnall Middle School Gym Get Details → Help Micah protect District 157.
 Every dollar helps us reach one more neighbor. $25 $50 $100 $250 Fund the Fight Accessibility Options High Contrast Enhance text & color readability Highlight Links Underline all clickable links Pause Motion Stop all moving animations Reset All Settings Digital Stewardship ♿️ by Mercury Media Partners

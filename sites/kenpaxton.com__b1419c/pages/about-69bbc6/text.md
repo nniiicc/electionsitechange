@@ -1,4 +1,4 @@
-HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS MERCH DONATE → HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS MERCH DONATE BUILT FOR THIS FIGHT BUILT FOR THIS FIGHT Ken Paxton is a fearless conservative, a relentless fighter, and a true defender of Texas values.
+HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE → HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE BUILT FOR THIS FIGHT BUILT FOR THIS FIGHT Ken Paxton is a fearless conservative, a relentless fighter, and a true defender of Texas values.
 He’s never bent a knee — not against the Biden administration, not against corporate overreach, and certainly not against the corrupt political establishment that’s tried to silence him time and time again.
 As Texas’ 51st Attorney General, Ken Paxton has been on the front lines of the most important legal fights in the country.
 He’s sued the Biden administration over 100 times, standing up against open borders policies, government overreach, attacks on the Second Amendment, and the far-left’s radical agenda.

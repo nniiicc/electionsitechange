@@ -1,4 +1,4 @@
-REP LYNN HOLLAND COPELAND Home Meet Lynn Accomplishments Issues Endorsements Contact Accomplishments Lynn Holland Copeland is committed to bringing citizens together for the betterment of our economy, environment, and society.
+REP LYNN HOLLAND COPELAND Home Meet Lynn Profile Accomplishments Issues Endorsements Contact Accomplishments Lynn Holland Copeland is committed to bringing citizens together for the betterment of our economy, environment, and society.
 She is deeply committed to the community and is a relatable and conscientious voice for Saco's citizens.
 Copeland's priorities are to generate a larger business/industrial base to create economic growth to offset property taxes, engage the youth and senior citizens in our community to create bonds, build relationships and contribute to a healthy community, and to embrace and protect our natural resources.
 Also, to fight for equal rights for all.
@@ -15,4 +15,4 @@ Click here to download the document.
 Reach out anytime!
 I'm here to help.
 EMAIL: [email protected] ​ PHONE: 207-712-6776 (cell) Paid for & Authorized by Lynn Copeland for State House P.O.
-Box 287, Saco ME 04072 Home Meet Lynn Accomplishments Issues Endorsements Contact
+Box 287, Saco ME 04072 Home Meet Lynn Profile Accomplishments Issues Endorsements Contact

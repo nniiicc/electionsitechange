@@ -1,3 +1,5 @@
+Get Voting Info Early Voting begins October 28th.
+Election Day is November 3rd.
 Follow Follow Contribute Priorities Meet Megan To Edmond From Megan Volunteer MEET MEGAN I'm Megan Hornbeek Allen — small business owner, nonprofit fundraiser, and proud Edmond mom running to represent House District 81.
 A Bishop's Scholar at Oklahoma City University, I earned my BA in Religion before going on to complete two graduate degrees at Boston University — a Master's in Theological Studies and a Master's in Higher Education Administration.
 That academic foundation paired with my determination, and strong work ethic launched a career rooted in community, servant leadership, and getting things done.

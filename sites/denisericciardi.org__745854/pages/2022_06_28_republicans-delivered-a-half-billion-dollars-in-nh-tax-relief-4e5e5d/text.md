@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Republicans Delivered a Half-Billion Dollars in NH Tax Relief Jun 28, 2022 While politicians in Washington have been fueling inflation and driving up prices on everything including gas prices to more than $5 per gallon nationwide, Republicans in New Hampshire have been working hard to put money back into the pockets of Granite State families.
 Our Democratic colleagues argue that we need to increase government revenues with more taxes and fees and higher tax rates.
 If we “make businesses pay their fair share” they argue we can use that extra tax revenue to lower property taxes.

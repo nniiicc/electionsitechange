@@ -1,4 +1,4 @@
-top of page HOME HOME_Sept_16_26 MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
+top of page HOME MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
 Log In DONATE PLATFORM "Legal.
 Safe.
 Fair." — Results for St Charles County Priorities Lower Costs Build more homes, curb junk fees and surprise bills, and speed permits so paychecks go farther.
@@ -17,7 +17,7 @@ Freedom & Fairness Protect the reproductive freedom voters restored and defend f
 I’ll block rollbacks and pass a Reproductive Health Conformity Act to align state statutes with the 2024 constitutional amendment’s viability and life‑and‑health protections, keeping decisions with patients and doctors—not politicians.
 Stand with us—add your name to defend reproductive freedom and fair maps today.
 Get a yard sign.
-HOME HOME_Sept_16_26 MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
+HOME MEET JEWEL Media PLATFORM GET INVOLVED Events More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: Jewel Kelly was a Captain in the U.S.
 Air Force.
 Use of his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Air Force or Department of Defense. ​ ​ Paid for by Citizens To Elect Jewel Kelly, Don Crozier, Treasurer. bottom of page

@@ -1,4 +1,4 @@
-top of page Ralph Groves For Congress DONATE Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
+top of page Ralph Groves For Congress Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
 RALPH'S MISSION Ralph Groves’ Main Positions Vote for RALPH GROVES, the Libertarian Party candidate in Florida’s 11th Congressional District ❖ Pro-life.
 Ralph Groves believes in encouraging a culture of life to protect babies and eliminate human trafficking, especially sexual exploitation.
 A culture of life should encourage women to keep and nurture their babies with help from private and Church-related pro-life agencies.

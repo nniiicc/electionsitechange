@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Sununu Announces Increased Local Aid for Manchester From Meals and Rooms Tax Dec 27, 2021 Thanks to Bedford Sen.
 Denise Ricciardi (R), cities and towns across New Hampshire received a greater share of the state’s Meals and Rooms Tax and the state’s Rentals Tax.
 Sen.

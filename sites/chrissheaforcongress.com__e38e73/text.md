@@ -1,4 +1,4 @@
-Skip to content Home Meet Chris Join the Team Issues Store Donate Lowering Costs.
+Skip to content Home Meet Chris Join the Team Vote Issues Store Donate Lowering Costs.
 Growing Wages.
 Protecting America.
 Donate today! $50 $100 $500 $1000 $2000 $3500 Other Meet Chris Shea Chris Shea is a Watertown native, retired Navy SEAL, firefighter, former small business owner, nonprofit founder, husband, father, and the Republican nominee for Congress in Connecticut’s 5th District.

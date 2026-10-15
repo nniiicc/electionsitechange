@@ -1,11 +1,13 @@
 {
  "description": "Upcoming campaign events, volunteer gatherings, and community stops for Aaron Jones for Ohio.",
  "final_url": "https://www.jonesforohio.com/events",
- "fingerprint": "b2dc5c2ae4fdfb701e6250b34428e2987843878e",
+ "fingerprint": "a1954df4fc48f7ab31d5e4fe753f6a7fc773df08",
  "format": 3,
  "paid_for_by": "PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department",
+ "rendered": false,
  "title": "Events | Aaron Jones for Ohio House District 88",
  "years_mentioned": [
+  "2020",
   "2026"
  ]
 }

@@ -9,7 +9,7 @@ It is showing!
 WIRED identified Lauren and this race in a list of 10 races that are "most worth watching closely" over the next weeks.
 #ago 1 min read Endorsement Alert: Chris Carmichael I'm proud to endorse Lauren Reinhold for the 1st Congressional District of Kansas.
 She gets the job done and has the experience needed at the federal level to represent the Big First.
-Vote for Lauren on November 3rd. https://www.facebook.com/reel/1113125337873852 #ago 1 min read Lauren Reinhold for Kansas 4000 W.
+Vote for Lauren on November 3rd. https://www.facebook.com/reel/1113125337873852 Oct 7 1 min read Lauren Reinhold for Kansas 4000 W.
 6th St.
 Ste B # 241 Lawrence, KS 66049​ (785) 251-0888 info@laurenforkansas.com © # Site designed by the Mosaic Group .
 Site Map: Home Meet Lauren Priorities Get Involved Voter Info Privacy Policy Accessibility Statement Terms and Conditions Paid for by Lauren Reinhold for Kansas Get campaign updates First Name Last name Email Yes, subscribe me to email updates.

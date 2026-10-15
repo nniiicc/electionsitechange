@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Privacy Policy Revised: September 18, 2026 Thank you for interacting with Kristen for Oklahoma 2026 (“we,” “us,” or “our”).
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Privacy Policy Revised: September 18, 2026 Thank you for interacting with Kristen for Oklahoma 2026 (“we,” “us,” or “our”).
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about our policy, or our practices regarding your personal information, please contact us at info@kristenforoklahoma.com.
 When you visit our website https://kristenforoklahoma.com/ and use our services, you trust us with your personal information.

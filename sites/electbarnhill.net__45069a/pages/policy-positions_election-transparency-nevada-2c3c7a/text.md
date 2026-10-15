@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Election Transparency in Nevada Means Showing the Work electbarnhill Oct 09, 2026 0 Comments A Nevada voter shouldn’t need to be an elections lawyer, a computer expert, or a party insider to understand how a ballot is handled.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Election Transparency in Nevada Means Showing the Work electbarnhill Oct 09, 2026 0 2 Comments A Nevada voter shouldn’t need to be an elections lawyer, a computer expert, or a party insider to understand how a ballot is handled.
 Confidence doesn’t come from asking people to take the system on faith.
 It comes from showing the work.
 I try to hold myself to that standard.
@@ -36,14 +36,16 @@ An observer isn’t an adversary.
 A public report isn’t an admission of failure.
 They’re how a government that answers to its citizens shows its work.
 Nevada needs finality after lawful review, and that finality is stronger when every voter can see the checks actually happened.
+Showing the work applies to me, too.
+Here’s the standard I’ll hold my own office to , in writing, before a single vote is cast.
 I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
 Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
 If not, it’s time to take a closer look.
 Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 1 thought on “Election Transparency in Nevada Means Showing the Work” Pingback: What Election Observer Rights Mean for Nevada Voters - Nevadans for Barnhill Post navigation Previous Previous post: What Election Observer Rights Mean for Nevada Voters Next Next post: The Court Asked Who Has a Stake in My Lawsuit.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 2 thoughts on “Election Transparency in Nevada Means Showing the Work” Pingback: What Election Observer Rights Mean for Nevada Voters - Nevadans for Barnhill Pingback: I’ll Hold My Office to the Same Standard I Held Theirs - Nevadans for Barnhill Post navigation Previous Previous post: What Election Observer Rights Mean for Nevada Voters Next Next post: The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You. footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (18) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

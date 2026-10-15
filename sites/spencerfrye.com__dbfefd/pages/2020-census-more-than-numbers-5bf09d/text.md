@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate More Than Numbers: 2020 Census Posted January 28, 2020 By Luke Chandler Capitol Corner It’s that time of the decade.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate More Than Numbers: 2020 Census Posted January 28, 2020 By Luke Chandler Capitol Corner It’s that time of the decade.
 Every ten years, the US Census Bureau sets out to complete a seemingly impossible task – to gather basic demographic data on everyone living in the United States.
 During the last census, in 2010, the effort employed 635,000 people to help collect data [1] .
 That number is expected to be even larger this year, with census canvassing beginning on April 1.

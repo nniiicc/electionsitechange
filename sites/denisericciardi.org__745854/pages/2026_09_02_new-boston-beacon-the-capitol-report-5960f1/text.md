@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page New Boston Beacon – The Capitol Report Sep 2, 2026 by Senator Denise Ricciardi, District 9, New Boston Beacon September 2026 Edition It has been an honor to represent the 13 towns of Senate District 9 for the past six years.
 When I first ran for office, I promised to bring common sense to Concord, work across the aisle to solve problems, and listen.
 I’ve knocked on many doors, and people tell me affordability is key.

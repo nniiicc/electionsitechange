@@ -2,7 +2,7 @@ Skip navigation menu About Issues Endorsements Join Us Donate About Issues Endor
 Ben's campaign for 61st Assembly District is powered by people.
 We are grassroots because at the heart of our mission is understanding what matters most to the good people of this district.
 Volunteer today to help fuel a campaign that’s accountable to you.
-Find our canvasses here: https://mobilize.us/s/k9i7iA Join a phone bank: https://mobilize.us/s/Ad4JMa Attend a Meet & Greet Franklin - https://mobilize.us/s/D3ZJyP Milwaukee - https://mobilize.us/s/y4mE0e First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Ben Brist for Assembly (messages include donation links).
+Join our canvasses here: 10/16 with Adcc Leadership Thursdays Weekends GOTV Phone Bank Attend a Meet & Greet: Hales corners First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Ben Brist for Assembly (messages include donation links).
 Message & data rates may apply.
 Message frequency varies.
 Text HELP for help, Text STOP to Opt Out.

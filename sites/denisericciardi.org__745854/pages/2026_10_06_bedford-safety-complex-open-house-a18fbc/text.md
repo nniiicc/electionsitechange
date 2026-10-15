@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Bedford Safety Complex Open House Oct 6, 2026 I had a great time at Bedford’s annual Safety Complex open house!
 It was a great opportunity to connect with the people who help keep our community safe.
 Thank you to everyone who organized the event, to Chiefs Douidi and Fraitzl, and to all the first responders and public safety professionals for their dedication and service.

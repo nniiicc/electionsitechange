@@ -2,7 +2,7 @@ About Endorsements Priorities Priority issues for Chedrick Greene, Democrat for 
 We need your help talking to family, friends, and neighbors across the district to earn their support and mobilize them to turn out for this unique special election.
 DONATE CITIZENS BEFORE SELF DONATE GET A YARD SIGN Marine Fire Captain Working Families Champion THE TRUSTED AND CLEAR CHOICE Chedrick Greene earned a decisive victory in his May 2026 Michigan Senate special election.
 But to continue fighting for us beyond 2026, Chedrick must win on November 3, 2026 when the full, four-year term is on the ballot.
-Chedrick is endorsed by Michigan labor unions, farmers, and business leaders.
+Chedrick is endorsed by Michigan labor unions and the state’s leading organizations for farmers and businesses.
 He’s also endorsed by the Michigan Fraternal Order of Police, Governor Gretchen Whitmer, Congresswoman Kristen McDonald Rivet , and local leaders from every county in the district .
 Greene’s coalition is the only one that stands up for working and middle class families; fights for us in D.C. and Lansing; and strengthens our mid-Michigan communities.
 MEET CHEDRICK Chedrick Greene is a 30-year, decorated Marine Veteran, recently retired Fire Captain, and proud 31-year union member who loves our country and our Great Lakes Bay community.
@@ -26,10 +26,8 @@ Make sure you are registered and can vote early by mail or in person.
 VoteR INFORMATION Join Team Greene Our campaign is only as strong as the grassroots support that fuels it.
 Chedrick has a winning record and message, but we need donations and boots on the ground to make sure all our neighbors see and hear it.
 JOIN US TODAY!
-Recent News more SD35 NEWS → October 5, 2026 Small Business Association of Michigan PAC Endorses Chedrick Greene Small Business Association of Michigan PAC Endorses Chedrick Greene.
-The Marine veteran and retired fire captain is one of only four Democratic… Continue Reading October 4, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation State Senator Chedrick Greene and Moms Demand Action Executive Director Angela Ferrell-Zabala brought together survivors and advocates in Saginaw to address the… Continue Reading October 2, 2026 Sen.
-Greene Votes on Bipartisan Bills to Strengthen Aging Dams, Protect Communities Sen.
-Chedrick Greene (D-Saginaw) voted to finalize bicameral, bipartisan bills that will improve the management of dams in Michigan and better protect families, homes,… Continue Reading Stay InformeD Get the latest SD35 updates delivered to your inbox .
+Recent News more SD35 NEWS → October 13, 2026 Greene Launches First TV and Radio Ads of Re-Election Campaign The spots highlight Greene’s Senate work to help everyday Michiganders save money, and his leadership as a Marine and Fire Captain SAGINAW,… Continue Reading October 5, 2026 Small Business Association of Michigan PAC Endorses Chedrick Greene Small Business Association of Michigan PAC Endorses Chedrick Greene.
+The Marine veteran and retired fire captain is one of only four Democratic… Continue Reading October 4, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation State Senator Chedrick Greene and Moms Demand Action Executive Director Angela Ferrell-Zabala brought together survivors and advocates in Saginaw to address the… Continue Reading Stay InformeD Get the latest SD35 updates delivered to your inbox .
 Type your email… Send Me Updates Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.
 Box 3442 Saginaw, MI 48605 Marine.
 Fire Captain.

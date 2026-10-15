@@ -1,5 +1,4 @@
 top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
-All Posts Search PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling press2950 Sep 15 0 min read Recent Posts See All Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
-As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
-Instead, we are Contact Us Nikki G for SD P.O.
+All Posts Search PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling press2950 Sep 15 0 min read Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
+House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

@@ -1,4 +1,4 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Let’s fix what isn’t working.
 People across our district are working hard and doing their part, but healthcare, housing, groceries, childcare, energy, and property taxes keep getting more expensive .
 Schools and local services are stretched thin.
@@ -8,7 +8,7 @@ They require a senator who will listen, be honest about the choices in front of 
 You may not agree with me on every issue.
 I don’t expect you to.
 But you should always know where I stand, why I voted the way I did, and how that decision affects the people who live here.
-Meet Emily Priorities Stories Events Get a Sign!
+Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Let’s fix what isn’t working.
 People across our district are working hard and doing their part, but healthcare, housing, groceries, childcare, energy, and property taxes keep getting more expensive .
 Schools and local services are stretched thin.

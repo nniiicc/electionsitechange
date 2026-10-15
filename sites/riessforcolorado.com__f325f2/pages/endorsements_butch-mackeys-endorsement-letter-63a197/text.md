@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Butch Mackey Endorsement Image of Butch Mackey I am pleased to endorse Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Butch Mackey Endorsement Image of Butch Mackey I am pleased to endorse Naomi Riess for Colorado House District 59.
 I have known of Naomi for some time, and during this election cycle I have had the opportunity to meet with her and discuss the challenges facing our schools, families, businesses, and communities in Southwest Colorado.
 Much of our conversation focused on the quality of our schools, the need for fair and responsible education funding, and the importance of allowing local school boards and parents to have a meaningful voice.
 Too often, mandates are handed down from Denver without enough consideration for the needs and costs faced by rural communities.

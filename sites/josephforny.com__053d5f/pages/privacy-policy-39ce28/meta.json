@@ -1,9 +1,10 @@
 {
  "description": "Every title is 50 to 58 characters and every description 139 to 145, so none should truncate.",
  "final_url": "https://josephforny.com/privacy-policy",
- "fingerprint": "730f0a0b525fd9979203136ba80cc04ff80a2ff3",
+ "fingerprint": "70d04d4f8cf83820ebd367fafec4219ab597c39e",
  "format": 3,
- "paid_for_by": "PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Privacy Policy",
+ "paid_for_by": "PAID FOR BY JOSEPH CHOU, COMMITTEE TO ELECT FOR NY6 Voting",
+ "rendered": false,
  "title": "No change needed. The existing title is already descriptive and correctly encoded.",
  "years_mentioned": [
   "2026"

@@ -1,6 +1,8 @@
 Thanks for your interest in our AMERICA FIRST movement.
 Will you please take a moment to join our team?
-Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Category: America First 1 2 … 5 6 Next » September 16, 2026 • Brian Mast What Service Before Self Means To Me This Saturday is my Alive Day.
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Category: America First 1 2 … 5 6 Next » October 14, 2026 • Brian Mast Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Protecting Florida’s waterways isn’t just a legislative priority for me—it’s personal.
+From our local small businesses and coastal estuaries to the rivers where our kids swim, fish, and grow up, clean water is the lifeblood of our community.
+Read More September 16, 2026 • Brian Mast What Service Before Self Means To Me This Saturday is my Alive Day.
 On September 19, 2010, I stepped on an IED while serving in Afghanistan.
 I lost both legs and a finger.
 I nearly lost my life.
@@ -35,16 +37,11 @@ It is a deadline to act on now.
 On August 18, voters across Florida will cast ballots in the Primary Election.
 Read More July 6, 2026 • Brian Mast 12 Days to Register and a Primary We Cannot Sleepwalk Into 12 days from now, Florida’s voter registration and party-change deadline will be here.
 That date matters: July 20 is the last day to register or update your party affiliation before the August 18 Primary Election.
-Read More June 26, 2026 • Brian Mast 250 Years of Freedom This Fourth of July, America marks 250 years since the signing of the Declaration of Independence.
-That is not just another holiday on the calendar.
-It is a reminder that freedom is never accidental.
 Read More Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
-One Mission.
-Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter 1 2 … 5 6 Next » Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter 1 2 … 5 6 Next » Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.

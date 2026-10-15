@@ -20,5 +20,5 @@ Russo aims to clarify what categories of information were provided to the DOJ su
 The request also seeks further clarification on how the DOJ intends to use this data as well as confirmation that this data will be protected.
 Currently, Ohio is only one of twelve states that has complied with the DOJ’s demand for sensitive voter data.
 Stand with Allison Russo for Ohio $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-Stand with team Allison Email Address Zip Phone Number Get updates Home Meet Allison Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
+Stand with team Allison Email Address Zip Phone Number Get updates Home Need to Know Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately.

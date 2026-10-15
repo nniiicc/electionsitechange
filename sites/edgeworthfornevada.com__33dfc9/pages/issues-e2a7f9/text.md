@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 REBECCA ON THE ISSUES Rebecca serves in the Nevada Assembly to be a strong, consistent voice for the people she represents.
 From strengthening healthcare and education to supporting safe communities and economic opportunity, she is committed to fighting for real solutions that reflect the priorities of Nevada families.
 EDUCATION Rebecca is an Assistant Professor and teaches in higher education.

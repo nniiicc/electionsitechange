@@ -6,7 +6,7 @@ Regardless of which party and which special interest group supports a particular
 Any group or agency that receives tax dollars from the state must be held accountable to ensure that funds are not misspent.
 As a full-time legislator, her top priority continues to be staying accessible to the constituents I represent.
 She will continue to do this by walking door to door throughout the community, holding town hall meetings, and through hosting informational events for residents like my annual senior fair, advisory committees and coffee stops. -Website Paid for by Friends for Anna Moeller- Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Related Leave a Reply Cancel reply Comment Name Email Website Δ Post navigation Next Post Next Moving Illinois Forward About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact Blog at WordPress.com.
+Related Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Post navigation Next Post Next Moving Illinois Forward About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Anna Moeller for Illinois Sign me up Have a WordPress.com account?
 Log in now.
 Anna Moeller for Illinois Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

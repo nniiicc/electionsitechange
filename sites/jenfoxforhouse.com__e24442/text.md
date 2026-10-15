@@ -8,11 +8,12 @@ Taking on PFAS contamination, nitrate pollution and aging pipes without putting 
 Closing the loopholes that leave programs exposed, and showing Minnesotans where their tax money goes. ​ LEADERSHIP YOU CAN TRUST.
 Present, responsive, and working for you, not for lobbyists.
 50 ORGANIZATIONS BEHIND JEN Labor, farm, environmental, health care and community groups across Minnesota are behind this campaign, including the Minnesota Farm Bureau, the Minnesota Professional Fire Fighters, Education Minnesota, the Minnesota AFL-CIO, Conservation Minnesota and the Committee to Protect Health Care.
-SEE ALL ENDORSEMENTS Upcoming Events Multiple Dates Wed, Oct 14 Door Knock, Wednesdays 5pm / Spiral Brewery, Hastings RSVP Oct 14, 2026, 5:00 PM – 8:00 PM Spiral Brewery, Hastings An after-work knock starting from Spiral Brewery in Hastings.
-No experience needed.
-You'll get a short walkthrough, a partner if you want one, and a list of houses.
-Share Multiple Dates Thu, Oct 15 Door Knock, Thursdays 5pm / Spiral Brewery, Hastings RSVP Oct 15, 2026, 5:00 PM – 7:00 PM Spiral Brewery, Hastings A two-hour evening knock starting from Spiral Brewery.
-Sign up through the field team's form and they'll get you a turf packet and a partner.
+SEE ALL ENDORSEMENTS Upcoming Events Multiple Dates Thu, Oct 15 Door Knock, Thursdays 5pm / Hastings (address sent when you sign up) RSVP Oct 15, 2026, 5:00 PM – 7:00 PM Hastings (address sent when you sign up) A two-hour evening knock in Hastings.
+Sign up through the field team's form and they'll send the meeting spot, a turf packet and a partner.
+Share Multiple Dates Sat, Oct 17 GOTV Canvass, Weekends / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Get Out the Vote shifts in Hastings at 10am, 12pm, 3pm and 5pm.
+Pick a shift when you sign up.
+The meeting spot comes with your confirmation.
+No experience needed: there's a short training and all materials are provided.
 Share Sat, Oct 17 GOTV Kick-off with Angie Craig, Sen.
 Seeberger and Jen Fox / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 1:00 PM Hastings (address sent when you sign up) Kick off Get Out the Vote with Rep.
 Angie Craig, Sen.

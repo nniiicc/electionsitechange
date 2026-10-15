@@ -14,4 +14,4 @@ He has called for reducing the number of active U.S. military bases abroad, reje
 On immigration enforcement, he supports abolishing ICE and replacing it with nothing.
 Weise invites residents of the district and supporters across the country to join the campaign.
 Volunteers, event attendees, and contributors can learn more and get involved at weiseforcongress.com .
-Social Media Facebook: https://www.facebook.com/weiseforcongress X: https://x.com/Weise4Congress Media Contact support@weiseforcongress.com © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page
+Social Media Facebook: https://www.facebook.com/weiseforcongress X: https://x.com/Weise4Congress Media Contact support@weiseforcongress.com Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page

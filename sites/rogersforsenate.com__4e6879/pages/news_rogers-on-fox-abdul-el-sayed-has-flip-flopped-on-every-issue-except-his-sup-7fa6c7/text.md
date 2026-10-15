@@ -52,7 +52,7 @@ You have an organization — the Iranian terrorist group, the IRGC — who tried
 Britain is saying it was the IRGC that attacked the U.S. air base there.
 To say that there's any comparison between a freely elected democracy — that by the way has Muslims in its Knesset and on its Supreme Court — versus the IRGC who is a theocracy [and] totalitarian regime that has often chanted ‘Death to America.’ If you can't make that simple determination, guess what?
 You should not be in the United States Senate.” Learn more about Conman Abdul’s lies and extremism at StopAbdul.com .
-### Hinson Peed Next Next AD: DEMOCRAT DETROITERS EMPHASIZE SUPPORT FOR MIKE ROGERS CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ROGERS ON FOX: ABDUL EL-SAYED WILL LOOK YOU IN THE EYE AND LIE Next Next AD: DEMOCRAT DETROITERS EMPHASIZE SUPPORT FOR MIKE ROGERS CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

@@ -20,14 +20,18 @@ Details below.
 NOV 3 · 8 P.M.
 Election Day Ballots must be in a drop box, at a vote center, or received by the county clerk by 8 p.m.
 If it's the last week, skip the mail and use a drop box.
-Also on your ballot How I'm voting on the amendments.
+In The Salt Lake Tribune voter guide The Tribune asked.
+I answered.
+The Salt Lake Tribune asked the House District 61 candidates where they stand.
+Here's what I told them.
+CLEAN GOVERNMENT “People are tired of barely getting by while politicians live the big life.” What I'll do Take no money from large PACs or corporations Post every lobbyist meeting online Set limits on campaign contributions Clean-government pledges → AFFORDABILITY “All three of my siblings left Utah because they couldn't afford housing, and I don't want more families to go.” What I'll do Reform zoning to build more starter homes Require state approval for big insurance rate hikes Cut the grocery sales tax, then work toward ending it Affordability plan → WATER & THE GREAT SALT LAKE “Our lake should be here for generations to enjoy.” What I'll do Help farmers switch to more efficient irrigation Make data centers disclose water and energy use Protect residents' right to a referendum Water & growth plan → Also on your ballot How I'm voting on the amendments.
 Every Utah ballot this year includes two proposed changes to the state constitution.
 Here's where I stand.
 AMENDMENT A · I'M VOTING AGAINST It makes ballot info harder to find Amendment A would stop printing proposed amendments in newspapers around the state and post them on state websites instead.
 I want it to stay easy for everyone to see what they’re voting on.
 AMENDMENT B · I'M VOTING AGAINST Don't move the goalposts on voters It would require 60% of the vote for citizen initiatives that create or raise a tax.
 When the Legislature raises taxes itself, it still needs only a simple majority.
-Why I'm voting no on both → New this year Don't count on the postmark.
+Why I'm voting no on both → Read the full voter guide at sltrib.com ↗ New this year Don't count on the postmark.
 Utah changed its law.
 Mailed ballots now count only if the county clerk receives them by 8 p.m. on Election Day.
 Ballots that arrive later are not counted, even if they were mailed on time.

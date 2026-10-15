@@ -4,5 +4,5 @@ COMPAS is comprised of the Seattle Police Officers Guild (the largest police lab
 In their endorsement letter, COMPAS wrote: You are – and have always been – a strong supporter of law enforcement officers and their families.
 I’m incredibly grateful to have the support of the state’s major law enforcement organizations.
 In addition to COMPAS, I’ve been endorsed by WACOPS (representing city and county law enforcement guilds around the state) and the Washington State Patrol Troopers Association (representing WSP troopers).
-Endorsements endorsement public safety union More For You State’s Largest Law Enforcement Group Endorses Stokesbary Endorsements State Patrol Troopers endorse Drew Stokesbary Endorsements Tacoma News Tribune picks Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements endorsement public safety union More For You “Voice of Small Business” backs Stokesbary (2022) Awards Third major police group backs Drew Stokesbary Endorsements Drew Stokesbary receives NRA endorsement Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

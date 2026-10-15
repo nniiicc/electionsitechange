@@ -27,18 +27,26 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Michelle loved having @State Representative Kate Farrar join her today to talk with neighbors about the issues that matter most here in Newtown—and to show what effective representation looks like.
-Michelle already has strong, established relationships with legislators like Kate.
-That matters.
-On Day One as our State Representative, Michelle won’t have to start from scratch—she’ll be ready to build partnerships, get results, and make sure Newtown’s voice is heard in Hartford.
-Thank you, Kate, for listening to our community with Michelle today!
-#MichelleEmbreeKu #KuIsForYou #TeamMichelle #Newtown #CTPolitics #DoorKnocking … See More See Less View Comments Like reaction Love reaction Reactions: 11 Comments: 0 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) We won’t agree on everything—and we don’t have to.
-What matters is listening, finding common ground, and working together to make life better for everyone That’s the leadership our community deserves.
-Vote Michelle Embree Ku Democrat for State Representative, 106th District October 19 through November 1 or November 3!
-#vote #election #leadership #community #Newtown #newtownct #Connecticut #representative Video credit: CT DEMS … See More See Less Play View Comments Like reaction Reactions: 9 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 10: Work Zone Safety Everyone deserves to make it home safely—including the crews fixing our roads.
-Michelle Embree Ku will always put safety first.
-Mitch Bolinsky’s vote tells a different story.
-And, that’s the difference!
-Look it up: PA 24-40 www.cga.ct.gov/2024/VOTE/H/PDF/2024HV-00135-R00HB05330-HV.PDF Vote for Michelle Embree Ku Democrat for State Representative, 106th District Vote early October 19 through November 1 or vote on election day November 3. … See More See Less Play View Comments Like reaction Reactions: 15 Comments: 2 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Proud to have the support of organizations standing up for science, our educators, working families, reproductive freedom, gun safety, and the environment.
+These endorsements reflect the future we’re working toward—strong schools, safe communities, and opportunity for everyone.
+I’m ready to bring those priorities to Hartford and get to work for you.
+Let’s move forward together! 💙 Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
+Vote early October 19–November 1 or on Election Day, November 3.
+#endorsements #leadership #elections #vote #Science #educators #familie #freedom #school … See More See Less View Comments Like reaction Love reaction Reactions: 16 Comments: 2 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The endorsement by CSU-AAUP is meaningful to me.
+I was an adjunct professor, my father was a faculty member at a community college. and I appreciate the need for a united community to negotiate working conditions and support academic freedom.
+#education #Academic #university #college #professor #teachers #librarians #counselor #coach #endorsement Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
+Vote early October 19–November 1 or on Election Day, November 3. … See More See Less View Comments Like reaction Love reaction Reactions: 23 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 11: Affordability &amp; Tax Relief “I’ve never voted to raise your taxes” sounds impressive.
+But because of the way income taxes work, here’s how that claim is not unusual.
+At the state level, revenue grows automatically as prices and incomes rise.
+Connecticut collects more through income tax, sales tax, and investment funds without ever changing a rate.
+The Legislature may not have voted for it, but you’re likely paying more income and sales tax each year.
+Towns are different.
+Costs rise with inflation, but property-tax revenue doesn’t keep pace on its own.
+Every budget has to go through a local process and voter approval.
+Michelle evaluates budgets based on needs and resources, not ideology.
+Some years that means cuts, some years an increase, and some years no increase at all.
+And that’s the difference.
+Vote Michelle Embree Ku, Democrat for State Representative, 106th District. 🗳️ Vote early October 19–November 1 or on Election Day, November 3.
+#TheDifferenceIsClear #MichelleEmbreeKu #CT106 … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 28 Comments: 4 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 4 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

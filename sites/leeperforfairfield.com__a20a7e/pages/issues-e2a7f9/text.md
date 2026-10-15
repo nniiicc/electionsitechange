@@ -1,4 +1,4 @@
-Menu Home About Issues News & LTEs Volunteer Voter Resources Volunteer Education Housing Seniors/Families Public Safety Education My professional career has been committed to improving educational outcomes for all children.
+Menu Home About Issues News & LTEs Volunteer Voter Resources Volunteer Education Housing Seniors/Families Public Safety Cameras Education My professional career has been committed to improving educational outcomes for all children.
 I was a school administrator in an NYC elementary school where I served as the Director of Special Education and managed our data-driven instructional model.
 I then put that on-the-ground experience to work in crafting policy for the CT State Dept. of Education in the Performance Office.
 I led the state's accountability system reform and also managed the state's largest data collection.

@@ -1,4 +1,4 @@
-0 Skip to Content Home About Priorities Endorsements Updates Volunteer DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer DONATE SMS Terms & Conditions SMS Terms & Conditions Text Messaging Program Terms of Service 1.
+0 Skip to Content Home About Priorities Endorsements Updates Volunteer Media DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer Media DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer Media DONATE SMS Terms & Conditions SMS Terms & Conditions Text Messaging Program Terms of Service 1.
 Program Description Elect Zach Hall (“we,” “us,” “our”) operates a text messaging program to communicate with supporters and voters.
 Messages may include voter contact, get-out-the-vote reminders, election information, and volunteer recruitment outreach.
 We do not solicit donations by text.

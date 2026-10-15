@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Firm Response to HB 481 Posted March 25, 2019 By Taylor Nchako Capitol Corner On March 11, Rep.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate A Firm Response to HB 481 Posted March 25, 2019 By Taylor Nchako Capitol Corner On March 11, Rep.
 Dar’shun Kendrick announced her “testicular bill of rights” in response to Georgia’s “heartbeat bill,” HB 481.
 The legislation has five points: 1.
 Require men to get permission from their sex partner before getting prescription for Viagra or any erectile dysfunction medication 2.

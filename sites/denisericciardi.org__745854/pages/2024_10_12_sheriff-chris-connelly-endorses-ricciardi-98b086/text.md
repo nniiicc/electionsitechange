@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Sheriff Chris Connelly Endorses Ricciardi Oct 12, 2024 “Senator Denise Ricciardi has consistently demonstrated strong leadership and unwavering commitment to keeping our communities safe.
 Her proven track record of supporting law enforcement and working to improve public safety is why I fully endorse her for re-election.
 She will always have our back.

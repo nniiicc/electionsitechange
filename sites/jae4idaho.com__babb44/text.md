@@ -1,4 +1,4 @@
-top of page Media Meet Jae Priorities Endorsements Donate & Get Involved DONATE Search For You.
+top of page Media Meet Jae Priorities Endorsements Donate & Get Involved DONATE Search ELECT JAE ETCHART For You.
 For Idaho.
 I’m Jae Etchart, and I’m running to represent District 15 in the Idaho House of Representatives.
 I’ve called Boise home for 46 years, building a career in housing, healthcare, and helping people navigate the challenges of everyday life.

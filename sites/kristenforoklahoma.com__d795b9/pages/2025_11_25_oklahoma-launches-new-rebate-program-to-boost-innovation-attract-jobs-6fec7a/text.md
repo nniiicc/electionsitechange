@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Oklahoma launches new rebate program to boost innovation, attract jobs OKLAHOMA CITY – A new state law aims to make Oklahoma more competitive on the global scale by incentivizing innovation.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Oklahoma launches new rebate program to boost innovation, attract jobs OKLAHOMA CITY – A new state law aims to make Oklahoma more competitive on the global scale by incentivizing innovation.
 The law creates what one state senator calls the long-overdue Research and Development (R&D) Rebate Program.
 “We talk about growing the economy and growing the state a lot.
 But that’s, you know, you can only go so far without that research.

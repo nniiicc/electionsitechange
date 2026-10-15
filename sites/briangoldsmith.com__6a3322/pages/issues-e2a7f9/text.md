@@ -17,6 +17,12 @@ State and local governments own thousands of acres of underutilized land near tr
 Speed up permitting and streamline regulations so that building can start soon after financing is secured rather than languishing for years.
 It shouldn’t cost twice as much per square foot to build multifamily in California as it does in Texas.
 Make it faster and therefore less expensive to build the infrastructure we need to hit our low cost clean energy goals.
+Double funding for California’s critical Homeless Housing Assistance and Prevention program (HAAP) to prevent struggling renters’ slide into homelessness.
+Expand the effective moderate and low-income Housing Voucher program at the state level to compensate for Federal cutbacks.
+Scale up non-profits' acquisition and management of existing affordable housing properties.
+(The program is called “NOAH” to describe Naturally Occurring Affordable Housing.
+Under NOAH, nonprofits raise a mix of local public/private funds to purchase such housing to then preserve its affordability long term, provide supportive services, and perform needed repairs.) Extend the Tenant Protection Act past 2030 to cap rent increases, require “just cause” to evict long term tenants, and provide relocation assistance for no-fault evictions.
+Support and defend the rent control currently in place.
 Continue to modernize CEQA so that our environment is protected but projects that can create jobs and build housing are not stuck in years of reviews.
 Make better use of cheaper, faster modular and manufactured housing.
 Incentivize more affordable housing for seniors and families, rather than just singles.

@@ -1,3 +1,5 @@
+Get Voting Info Early Voting begins October 28th.
+Election Day is November 3rd.
 Follow Follow Contribute Priorities Meet Megan To Edmond From Megan Volunteer TERMS OF SERVICE Terms of Service Effective Date: September 1, 2026 These Terms of Service govern your use of MeganForHouse.com and the text messaging program operated by Friends of Megan Hornbeek Allen 2026.
 By using this website or opting in to text messages, you agree to these terms.
 Text Messaging Program 1.

@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE Privacy Policy & Terms of Service About Troy Endorsements Priorities News Volunteer Events Vote DONATE Privacy Policy & Terms of Service Last Updated 8/4/2026 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip navigation menu About Troy Endorsements Priorities News Events Volunteer Vote DONATE Privacy Policy & Terms of Service About Troy Endorsements Priorities News Events Volunteer Vote DONATE Privacy Policy & Terms of Service Last Updated 8/4/2026 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we've created this policy to explain our privacy practices.
 This applies to https://jacksonformaine.com only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.

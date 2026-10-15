@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/threat-posed-by-harmful-algal-blooms-demands-leaders-who-will-fight-for-our-lakes",
- "fingerprint": "85833a268574b83c9153c9aa328bffd5d322dc42",
+ "fingerprint": "a0fe4799ffa3fc03577ee6461328f7ac1647230e",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Threat Posed by Harmful Algal Blooms Demands Leaders Who Will Fight for Our Lakes",
  "years_mentioned": [
   "2024",

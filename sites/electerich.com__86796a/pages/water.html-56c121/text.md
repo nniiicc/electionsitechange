@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact WATER AND POLITICS DON’T MIX Governor Lombardo recently fired the State Engineer, Adam Sullivan—a move which does not bode well for residential and municipal water users who depend on wells for their supply.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction WATER AND POLITICS DON’T MIX Governor Lombardo recently fired the State Engineer, Adam Sullivan—a move which does not bode well for residential and municipal water users who depend on wells for their supply.
 The State Engineer administers the Division of Water Resources and is responsible for the management and adjudication of the state’s water resources, including issuing new water rights, approving changes in water use, enforcing water law, and resolving conflicts between different users.
 Mr.
 Sullivan’s approach has been described as committed “to making appropriations where there was actually water available, and where there wasn’t going to be conflict with existing rights holders.” Sullivan said his philosophy was to “balance what’s in the public interest for smart growth, making beneficial use of the water resource, but in a way that also protects the resource and protects existing rights.” ​ Mr.
@@ -33,4 +33,4 @@ As a legislator, I will join with my colleagues to make sure the State Engineer 
 It will also be important to properly fund this long-neglected agency and give it the twenty-first century tools necessary to manage Nevada’s single most important resource.
 Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

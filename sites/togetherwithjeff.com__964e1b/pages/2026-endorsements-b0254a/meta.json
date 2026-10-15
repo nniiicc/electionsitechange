@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.togetherwithjeff.com/2026-endorsements",
- "fingerprint": "3d7da7faebc851bbc90a3bbb758569f1bd1cee69",
+ "fingerprint": "84554e2b8535fa0bf9549d9c146a8a728541f017",
  "format": 3,
  "paid_for_by": "Paid for by Together with Jeff",
+ "rendered": false,
  "title": "2026 Endorsements — Together with Jeff Smith",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -9,16 +9,31 @@ In 2009, Mary Ann was elected to the Houston Community College Board of Trustees
 As a trustee, Mary Ann worked hard to move HCC and her community forward by partnering with area employers to ensure the programs reflected the needs of the current workforce and community.
 She worked with area schools and community groups to develop programs to keep students in school and on a path to higher education.
 During her first term in the Texas House, Mary Ann was named Freshman of the Year by the bipartisan Legislative Study Group and continues to work across the aisle to move Texas forward.
-State Representative Mary Ann Perez I am honored to have the endorsement of the TXBIZ PAC!
+State Representative Mary Ann Perez I’m so very grateful to have the endorsement of my dear friend, Dr.
+Adriana Tamez!
+Thank you, Dr.
+Tamez, for your kind words and continued support!
+"I am proud to endorse my longtime friend and champion for education, State Representative Mary Ann ...
+5 Likes Posted: #ago State Representative Mary Ann Perez Endorsed by the Houston Chronicle.
+Election Day is Tuesday, November 3.
+Get out and vote for Mary Ann Perez!
+3 Comments 9 Likes Posted: #ago State Representative Mary Ann Perez I am truly grateful to have the endorsement of Dr.
+Michelle Cantu-Wilson as I run for re-election.
+Thank you for your continued support, Dr.
+Cantu-Wilson!
+#txlege #HD144 #TeamMaryAnn 1 Comments 5 Likes Posted: #ago State Representative Mary Ann Perez Election Day is just # days away, but who’s counting, right?
+Early voting starts next week!
+Visit harrisvotes.com/vote-centers for vote center locations near you.
+#txlege #HD144 #TeamMaryAnn # Comments # Likes Posted: #ago State Representative Mary Ann Perez I am honored to have the endorsement of the TXBIZ PAC!
 I will continue working to advance policies that support Texas businesses, create jobs, and strengthen our state’s economy.
-#txlege #HD144 #TeamMaryAnn 2 Likes Posted: #ago State Representative Mary Ann Perez State Representative Mary Ann Perez State Representative Mary Ann Perez updated their profile picture.
-12 Likes Posted: #ago State Representative Mary Ann Perez It is an honor to have the continued support of Council Member Cynthia Piña as I run for re-election.
+#txlege #HD144 #TeamMaryAnn 5 Likes Posted: #ago State Representative Mary Ann Perez State Representative Mary Ann Perez State Representative Mary Ann Perez updated their profile picture.
+17 Likes Posted: #ago State Representative Mary Ann Perez It is an honor to have the continued support of Council Member Cynthia Piña as I run for re-election.
 Thank you, Council Member Piña, for believing in me!
 #txlege #HD144 #TeamMaryAnn 12 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post A Sunday well spent at the St.
 Augustine Catholic Church Bazaar!
 Good food, music, games, and time catching up with neighbors.
 It was great seeing everyone!
-#txlege #HD144 19 Likes Posted: #ago State Representative Mary Ann Perez Honored to be endorsed by TREPAC!
+#txlege #HD144 21 Likes Posted: #ago State Representative Mary Ann Perez Honored to be endorsed by TREPAC!
 I’m grateful for the support of Texas REALTORS® and their work to support homeownership, protect private property rights, and strengthen our local economy.
 I look forward to continuing to work toward policies that help Texas ...
 16 Likes Posted: #ago State Representative Mary Ann Perez I’m grateful to have the endorsement of Council Member Mauro Barrera as I run for re-election.
@@ -28,15 +43,6 @@ Thank you, Council Member Castillo, for your continued support!
 #txlege #HD144 #TeamMaryAnn 10 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post We celebrated the completion of Project 11 through Galveston Bay.
 Project 11 widened and deepened the nation’s busiest waterway, making navigation safer and more efficient.
 The Houston Ship Channel handles over 18.5% of Texas' GDP and supports over 1.89 million ...
-1 Comments 12 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Greater Houston Partnership’s State of the Port event, where we heard about the Port of Houston’s continued growth and its vital role in our region’s economy.
-#txlege #HD144 7 Likes Posted: #ago State Representative Mary Ann Perez I am grateful to have the support Council Member Willie Rios as I run for re-election.
-Thank you, Council Member Rios!
-#txlege #HD144 #TeamMaryAnn 1 Comments 8 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post On Wednesday, #TeamMaryAnn attended the Marie Flickinger legacy unveiling.
-The building at 10851 Scarsdale Boulevard in Houston will soon be named in Marie’s honor.
-A beautiful tribute to her lasting impact and decades of service to the South Belt community. ...
-6 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of presenting a resolution to Linda Bridges in recognition of her retirement after more than four decades at Frost Bank.
-Congratulations, Linda!
-Wishing you all the best in this next chapter!
-#txlege #HD144 1 Comments 10 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+1 Comments 12 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
 Adv.
 Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

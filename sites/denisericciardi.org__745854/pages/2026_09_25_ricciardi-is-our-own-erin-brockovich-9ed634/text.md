@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Ricciardi is ‘Our Own Erin Brockovich’ Sep 25, 2026 In the posting “TWO STORIES OF LAND” (part 2) Camilla Sanderson talked about Senator Ricciardi’s visit to the town of Temple, which is located in Senatorial District 9.
 In Temple, New Hampshire, on Labor Day, Monday September 7, at four in the afternoon, about 35-40 members of our local community gathered at a nearby pony farm where a neighbor had generously offered to host.
 My husband, Jamie, has been keeping neighbors informed by email as new details emerge about the land clearing next door.

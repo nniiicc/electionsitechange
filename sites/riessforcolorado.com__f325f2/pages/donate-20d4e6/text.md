@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Help Naomi Riess bring House District 59 Together Help RIESS FOR COLORADO bring House District 59 Together Colorado House District 59 spans across Archuleta, La Plata, Montezuma, and San Juan Counties in Southwest Colorado.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Help Naomi Riess bring House District 59 Together Help RIESS FOR COLORADO bring House District 59 Together Colorado House District 59 spans across Archuleta, La Plata, Montezuma, and San Juan Counties in Southwest Colorado.
 Your donation will help Naomi Riess share her message across the entire district.
 Please make checks payable to "Riess for Colorado" and mail them to PO BOX 1045 Durango, CO 81302.
 Online Donations Coming Soon!

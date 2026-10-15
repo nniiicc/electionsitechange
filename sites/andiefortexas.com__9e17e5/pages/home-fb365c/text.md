@@ -18,14 +18,7 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Events Oct 14 Voter Mobilization @ SHSU with Beto Ready to do the work that actually works?
-In 2024, our face-to-face voter registration model achieved a massive 79% voter turnout among the Texans we registered.
-We aren't just hoping for change—we have the blueprint to create it.
-Join us and special guest Beto O'Rourke for the Every Campus Counts tour at SHSU !
-We are showing up to talk to students, spark personal conversations, and build lasting progressive power through relational organizing.
-At this event, we will: Engage directly with existing and potential student voters Connect with voters using Reach , our relational organizing tool, so we can personally stay in touch with them all the way to Election Day All volunteers are welcome!
-There are plenty of vital roles for everyone.
-Read more → Candidate Meet & Greet What: Candidate Meet & Greet - light snacks will be provided.
+RSVP Upcoming Events Events Candidate Meet & Greet What: Candidate Meet & Greet - light snacks will be provided.
 Support a local business and buy drinks from HSF Biergarten!
 When: Friday, October 16, 11 am–1 pm Where: HSF Biergarten, 307 South Park St, Brenham, TX 77833 Who: Andie Ho (HD-12), Erica Gillum (SD-18), Tanya Lloyd (TX-27) Cost: Free - light snacks provided and whatever drinks you purchase Read more → Oct 17 OUToberfest 2026 What: Third annual OUToberfest 2026 , the Brazos Valley Pride Festival!
 Come check out the artisan market, food and drink vendors, local non-profit and community resources, big stage performances and more!

@@ -34,7 +34,7 @@ Name * Phone Email * By providing your mobile phone number/email and checking th
 Message frequency may vary.
 Message and data rates may apply.
 You may unsubscribe at any time by replying STOP, and no further messages will be sent.
-Click to view our privacy policy. * SUBMIT ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy Copyright © # Tiffany Alston - All Rights Reserved.
+Click to view our privacy policy. * SUBMIT ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy View Terms and Conditions Copyright © # Tiffany Alston - All Rights Reserved.
 By Authority of Friends of Tiffany Alston, Samuel Mensah, Treasurer.
 JOIN THE MOVEMENT!
 The Maryland Senate currently has only one woman representing our region and with her departure, that voice disappears.

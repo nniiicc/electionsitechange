@@ -1,4 +1,2 @@
-top of page Donate Get Involved Issues Contact Events Upcoming Campaign Events Join Brian and team across Ohio's 5th Congressional District to discuss practical solutions that transcend partisan politics.
-Mansfield Senior High School's Youth & Government program Candidates Night October 15, 2026 • 6 PM Mansfield Senior High School, Mansfield, Ohio A community-focused event designed to introduce candidates to voters and give members of the community an opportunity to get to know those running for office.
-ADD TO CALENDAR © # Brian Shaver for Congress.
+top of page Donate Get Involved Issues Contact Events Upcoming Campaign Events Join Brian and team across Ohio's 5th Congressional District to discuss practical solutions that transcend partisan politics. © # Brian Shaver for Congress.
 Paid for by Brian Shaver for Congress Committee. bottom of page

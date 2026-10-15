@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Marian Tone Marian A.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Marian Tone Marian A.
 Tone Neighbors of SW Colorado, I have known Naomi Riess for many years through our shared involvement in local community groups.
 Naomi is thoughtful, prepared, and effective.
 She listens carefully, communicates clearly, and understands how decisions made at the Capitol actually affect people living and working in rural Colorado.

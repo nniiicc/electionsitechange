@@ -4,5 +4,5 @@ Amanda and Team AMG will attend the 14th annual PINK OUT , a benefit for Frankli
 George Island.
 This popular annual event benefits Franklin Needs, Inc., a local organization helping Franklin County residents access breast cancer screenings and support.
 100% of Pink Out! proceeds help provide free mammograms, testing through diagnosis, and transportation assistance for treatment.
-Previous Previous October 8 Madison County DEC/NAACP Candidates Forum Next Next October 10 Havana Mainstreet 26th Annual PumpkinFest TO SEND A CHECK: P.O.
+Previous Previous October 8 Madison County DEC/NAACP Candidates Forum Next Next October 11 40th Pastor Anniversary Service TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

@@ -1,5 +1,5 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
-Donate Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
+Donate Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Join Us Join Team Tseffos Lightning could strike in November, but it won't happen without YOU!
 People first.
 Always.

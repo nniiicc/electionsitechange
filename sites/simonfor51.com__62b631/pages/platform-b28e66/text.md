@@ -1,4 +1,4 @@
-top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE Menu Close THRIVING FAMILIES PLATFORM Universal Primary Care Minnesota is ranked among the top states for health services and biomedical technology, yet primary care has become unaffordable for so many families.
+top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO Menu Close THRIVING FAMILIES PLATFORM Universal Primary Care Minnesota is ranked among the top states for health services and biomedical technology, yet primary care has become unaffordable for so many families.
 Meanwhile, we are living on the front end of a healthcare collapse, with unimaginable cuts to Medicaid and MinnesotaCare impacting more and more of our neighbors.
 If elected, I will champion the Minnesota Health Plan and propose a pilot program for Universal Primary Care in cities across Minnesota.
 In a state with incredible doctors and nurses, we can become a North Star for equity of health access.
@@ -30,4 +30,4 @@ Bear witness to ongoing federal abuses to inform future policy, lead the communi
 Follow us on socials to keep up with the most recent campaign updates!
 Paid For By Simon For 51, 30 S 9th St.
 7th Fl.
-Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page
+Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

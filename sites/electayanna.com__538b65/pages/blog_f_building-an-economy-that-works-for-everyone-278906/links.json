@@ -5,7 +5,15 @@
 },
 {
 "text": "All Posts",
+"href": "https://electayanna.com/blog"
+},
+{
+"text": "All Posts",
 "href": "https://electayanna.com/blog?blog=y"
+},
+{
+"text": "Announcements",
+"href": "https://electayanna.com/blog?blogcategory=Announcements"
 },
 {
 "text": "Blog",
@@ -24,12 +32,20 @@
 "href": "https://electayanna.com/blog/f/i%E2%80%99m-pro-worker-and-pro-opportunity"
 },
 {
-"text": "Our Seniors Deserve Fairness, Stability, and a VoiceSep 28, 2026",
-"href": "https://electayanna.com/blog/f/our-seniors-deserve-fairness-stability-and-a-voice"
+"text": "News",
+"href": "https://electayanna.com/blog?blogcategory=News"
+},
+{
+"text": "Official Statement",
+"href": "https://electayanna.com/blog?blogcategory=Official+Statement"
 },
 {
 "text": "Privacy Policy",
 "href": "https://electayanna.com/privacy-policy"
+},
+{
+"text": "Regarding Comments from School Board Member Elena BrennerOct 14, 2026",
+"href": "https://electayanna.com/blog/f/regarding-comments-from-school-board-member-elena-brenner"
 },
 {
 "text": "Terms and Conditions",
@@ -42,6 +58,10 @@
 {
 "text": "Volunteer",
 "href": "https://electayanna.com/volunteer"
+},
+{
+"text": "What I'm Hearing",
+"href": "https://electayanna.com/blog?blogcategory=What+I%27m+Hearing"
 },
 {
 "text": "[image: Elect Ayanna]",

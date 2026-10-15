@@ -8,9 +8,9 @@ Take just one minute to make sure you're registered to vote at your current addr
 Not registered?
 No problem!
 Click here to get registered now.
-Check Your Registration Voting checklist Make a plan to vote early/absentee, or in-person November 5th!
+Check Your Registration Voting checklist Make a plan to vote early/absentee, or in-person November 3rd!
 1 Find or Confirm your Polling Location Confirm your polling location here .
 2 Make a plan Make a plan to get to your polling location on Election Day, and schedule as much time as possible to vote —expect lines during peak hours.
-If you know you'll be unable to vote in-person you may request an absentee ballot here or vote early WITH NO EXCUSE beginning October 22 at the Platte County Board of Elections : 2600 Prairie View Road, Platte City, MO 64079 3 Do your research Research the issues and candidates ahead of time.
+If you know you'll be unable to vote in-person you may request an absentee ballot here or vote early WITH NO EXCUSE beginning October 20 at the Platte County Board of Elections : 2600 Prairie View Road, Platte City, MO 64079 3 Do your research Research the issues and candidates ahead of time.
 Click here to view a sample ballot.
 Contact PO Box 901995 Kansas City, MO 64151 ashley@ashleyformissouri.com 816.200.0659 Email Signup Paid for by Ashley Aune for Missouri, William Aune, Treasurer.

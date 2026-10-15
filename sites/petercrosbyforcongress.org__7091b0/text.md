@@ -19,17 +19,16 @@ Donate Fuel voter outreach and events.
 Volunteer Door knocks, calls, and community events.
 Events Town halls and meetups near you.
 Contact Questions or ideas for the campaign.
-Newsroom Media Coverage Video Utah 2nd Congressional District 2026 General Election Debate The Utah Debate Commission’s debate for Utah’s 2nd Congressional District, moderated by Heidi Hatch at Utah State University — the only publicly moderated debate of the race.
-Watch the full broadcast.
-Watch on YouTube ↗ Utah Debate Commission • Oct 13, 2026 Article Congressional candidate pledges to spend no more than six years in Washington, D.C.
-Democratic candidate Peter Crosby hasn’t been elected to Congress yet, but is already confident enough to set term limits for himself.
-Cache Valley Daily • Sep 23, 2026 Article Peter Crosby narrows gap with Blake Moore in Utah’s new Congressional district, unaffiliated voters show strong support Democrat Peter Crosby trails Republican Representative Blake Moore by 1.7 percentage points in an internal poll conducted for the Utah CD2 race.
-The survey found Crosby leading among unaffiliated voters, while more than 26% of respondents remained unsure of their choice.
-Money Control • Sep 17, 2026 All media coverage → From the campaign Press Releases Press Release Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District Peter Crosby leading Blake Moore by 2.9 points in internal polling conducted this week across Northern Utah.
+Full debate Watch the CD2 debate October 13, 2026 · Utah State University Hosted by the Utah Debate Commission Watch on YouTube ↗ Newsroom Media Coverage Article Democratic candidate Peter Crosby delivers impressive performance in face-to-face debate During a night when 2nd Congressional District candidates traded shots in the face-off sponsored by the Utah Debate Commission at Utah State University, the challenger landed a game-changing haymaker.
+Cache Valley Daily • Oct 14, 2026 Article Rep.
+Blake Moore says he has found ‘a productive lane’ in Congress.
+Challenger Peter Crosby says he lacks courage The two candidates squared off Tuesday night in a debate for Utah’s most competitive congressional district.
+The Salt Lake Tribune • Oct 14, 2026 Video Post Debate Press Conference Peter speaks with the press immediately after the Utah Debate Commission’s CD2 debate at Utah State University.
+Watch on YouTube ↗ YouTube • Oct 14, 2026 All media coverage → From the campaign Press Releases Press Release Peter Crosby Shows Voters He’s Dedicated to Fixing the Issues They Care About Most in Debate for Utah’s 2nd Congressional District Peter Crosby showed he was a professional problem solver in his debate with Blake Moore at Utah State University, covering solutions he’ll champion on issues from the cost of living to preservation of the Great Salt Lake and the inefficiencies of our current Congress.
+Salt Lake City, UT • Oct 14, 2026 Press Release Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District Peter Crosby leading Blake Moore by 2.9 points in internal polling conducted this week across Northern Utah.
 The first time Crosby has led in the race to represent the new seat.
 Providence, UT • Sep 27, 2026 Press Release Northern Utah on track to flip a 2nd Congressional seat this November A traditionally safe conservative district is now statistically tied, with Blake Moore leading by 1.7 points in latest Peter Crosby for Congress Campaign internal polling.
-Providence, UT • Sep 14, 2026 Press Release All 12 of Utah’s Indivisible Groups Endorse Peter Crosby for Congress Utah’s twelve Indivisible chapters announce a unified statewide endorsement in the CD2 race — the first time the state’s chapters have come together behind a single congressional candidate.
-The Indivisible groups of Utah • Sep 09, 2026 View all press releases → Polling in the Data Room → Family, service, and community—values that shape this campaign.
+Providence, UT • Sep 14, 2026 View all press releases → Polling in the Data Room → Family, service, and community—values that shape this campaign.
 Endorsements Data Room Contact Us Request a Yard Sign Sponsor a yard sign ↗ Get Campaign Updates News, events, and ways to help — straight to your inbox.
 Leave this field empty Sign up We’ll never share your email. © # Peter Crosby for Congress.
 All rights reserved.

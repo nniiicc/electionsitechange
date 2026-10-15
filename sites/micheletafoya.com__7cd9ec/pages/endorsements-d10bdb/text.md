@@ -7,7 +7,14 @@ Police Officers Federation of Minneapolis Since 1972, the Police Officers Federa
 With more than 580 members, the Federation is one of the largest non-affiliated law enforcement unions in Minnesota.
 The Federation’s endorsement of Michele Tafoya reflects its confidence in her commitment to public safety and support for the men and women who keep Minneapolis safe.
 Minnesota Farm Bureau The Minnesota Farm Bureau Political Action Committee’s (MFB PAC) endorsement of Michele Tafoya reflects the confidence Minnesota’s agricultural community has in her leadership and her commitment to standing up for farmers and rural communities.
-National Endorsements Winning For Women Winning For Women is dedicated to supporting and advancing the next generation of conservative women leaders.
+Forum Communications Company Editorial Advisory Board The Forum Communications Company (FCC) Editorial Advisory Board is part of Forum Communications, a family-owned media and technology company.
+Forum Communications serves communities across Minnesota, including Bemidji, Detroit Lakes, Park Rapids, Moorhead, Pequot Lakes, Duluth, Cloquet, Perham, Fergus Falls, Wadena, Brainerd, Alexandria, St.
+Cloud, Willmar, Worthington, and Rochester.
+The FCC Editorial Advisory Board’s endorsement of Michele Tafoya shows the board’s confidence in her to represent the interests and concerns of Minnesotans.
+National Endorsements National Federation of Independent Business (NFIB) The National Federation of Independent Business (NFIB) is the voice of small business, representing the interests of independent business owners across the country.
+Through advocacy, research, and resources, NFIB works to protect small business rights and promote policies that support entrepreneurship and economic growth.
+The NFIB’s endorsement of Michele Tafoya highlights the confidence small business owners have in her to champion policies that help small businesses thrive.
+Winning For Women Winning For Women is dedicated to supporting and advancing the next generation of conservative women leaders.
 Their endorsement of Michele Tafoya highlights the strength of her campaign and her commitment to bringing strong conservative women to the U.S.
 Senate.
 United Coalition of Public Safety Founded in 2017, the United Coalition of Public Safety (UCOPS) is a nonprofit social policy and education organization dedicated to building stronger, safer communities.

@@ -1,0 +1,5 @@
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Franklin County Meet & Greet Sunday, October 18, 2026 2:00 PM 3:30 PM Gibson Inn 51 Avenue C Apalachicola, Florida, 32320 United States (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
+Join Amanda for a meet and greet on the front porch of the historic Gibson Inn in Apalachicola!
+Stop by on Sunday, October 18, from 2:00–3:30 PM ET to meet Amanda, hear about her plans to lower costs, cut government waste, and bring accountability back to Washington, and share what matters most to you and your community.
+Previous Previous October 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest Next Next October 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

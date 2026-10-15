@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/new-poll-shows-ian-phillips-and-john-lemondes-in-a-virtual-tie-for-ad-126",
- "fingerprint": "d8b26db877a9fe34fb0f8c94640d17aaaab153eb",
+ "fingerprint": "e05ae7ef1aa99e2a122c0bca608e409d8833cb7a",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "New Poll Shows Ian Phillips and John Lemondes in a Virtual Tie for AD 126",
  "years_mentioned": [
   "2024",

@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → ← All Videos Message Coons Debate October 2, 2026 · 33s Chris Coons!
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects Historic Joint Democrat-Republican Debate — Katz Confirms UD Town Hall Oct 19 → ← All Videos Message Coons Debate October 2, 2026 · 33s Chris Coons!
 We answer to the voters!
 By turning down WDEL’s debate offer, Chris Coons denied Delawareans the opportunity to hear us side by side, ask tough questions, and compare our solutions.
 Voters deserve answers about protecting Social Security, Medicare, and Medicaid—and lowering healthcare, housing, rent, and everyday living costs.

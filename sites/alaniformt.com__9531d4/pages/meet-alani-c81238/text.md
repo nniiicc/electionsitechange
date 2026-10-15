@@ -8,8 +8,10 @@ By the time most kids had a hometown, I’d had a dozen.
 That kind of childhood teaches you fast.
 You learn to walk into a room full of strangers and find what you share.
 You learn that community isn’t something you’re handed — it’s something you build, wherever you land.
-I’ve been building it my whole life.
-02 Chapter Two · Service Twenty-one years in uniform When it was my turn, I raised my right hand.
+I’ve been building it my whole life. “ I’ve been underestimated in every room I ever walked into.
+But the beauty of people underestimating you is they don’t see you coming.
+And that is when the real work gets done.
+Alani, the day she launched her campaign 02 Chapter Two · Service Twenty-one years in uniform When it was my turn, I raised my right hand.
 I served twenty-one years in the United States Air Force and retired as a lieutenant colonel.
 The Air Force handed me responsibility early and never stopped raising the stakes.
 I led people in hard places, answered for life-and-death decisions, and learned that leadership isn’t a title — it’s being accountable to the people who are counting on you.

@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Sen.
 Ricciardi Unveils Plan for Reducing High Property Taxes Sep 30, 2026 By Rick Green Sentinel Staff Sep 29, 2026 Millions of additional dollars from New Hampshire’s meals and rooms tax would go to towns and cities in a legislative proposal aimed at helping reduce high property taxes.
 State Sen.

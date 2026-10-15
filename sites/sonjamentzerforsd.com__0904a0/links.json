@@ -1,11 +1,54 @@
 [
-"http://facebook.com/sonjaforsd",
-"http://instagram.com/sonjaforsd",
-"https://secure.actblue.com/donate/sonja-mentzer",
-"https://sonjamentzerforsd.com/",
-"https://sonjamentzerforsd.com/cart",
-"https://sonjamentzerforsd.com/connect",
-"https://sonjamentzerforsd.com/meetsonja",
-"https://sonjamentzerforsd.com/vision",
-"https://sonjamentzerforsd.com/voter-info"
+{
+"text": "0",
+"href": "https://www.sonjamentzerforsd.com/cart"
+},
+{
+"text": "Connect",
+"href": "https://www.sonjamentzerforsd.com/connect"
+},
+{
+"text": "Learn More",
+"href": "https://www.sonjamentzerforsd.com/meetsonja"
+},
+{
+"text": "MAKE A CONTRIBUTION",
+"href": "https://secure.actblue.com/donate/sonja-mentzer"
+},
+{
+"text": "Meet Sonja",
+"href": "https://www.sonjamentzerforsd.com/meetsonja"
+},
+{
+"text": "Vision for SD",
+"href": "https://www.sonjamentzerforsd.com/vision"
+},
+{
+"text": "Voter Info",
+"href": "https://www.sonjamentzerforsd.com/voter-info"
+},
+{
+"text": "[image: Sonja Mentzer for SD]",
+"href": "https://www.sonjamentzerforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/sonjaforsd"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/sonjaforsd"
+},
+{
+"text": "[no text]",
+"href": "mailto:sonjamentzerforsd@gmail.com"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/donate/sonja-mentzer"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/sonja-mentzer"
+}
 ]

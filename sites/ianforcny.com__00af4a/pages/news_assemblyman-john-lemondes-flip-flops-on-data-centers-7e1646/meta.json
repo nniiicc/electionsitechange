@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/assemblyman-john-lemondes-flip-flops-on-data-centers",
- "fingerprint": "11981c14e0dc8549226f3df7dd47faf49b6433d4",
+ "fingerprint": "b490f41149c418ca153ef1bc21ffc467096f3fa0",
  "format": 3,
  "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Assemblyman John Lemondes Flip-Flops on Data Centers",
  "years_mentioned": [
   "2026"

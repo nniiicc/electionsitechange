@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Southwestern Colorado Livestock Association The Southwestern Colorado Livestock Association endorses Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Southwestern Colorado Livestock Association The Southwestern Colorado Livestock Association endorses Naomi Riess for Colorado House District 59.
 The Board of Directors of Southwestern Colorado Livestock Association is proud to endorse Naomi Riess for Colorado House District 59.
 Over the past year, Naomi has taken the time to visit with members of our association on numerous occasions, listen to the concerns of Southwest Colorado’s agricultural community, and learn more about the challenges facing farmers, ranchers, landowners, and rural businesses.
 Her continued interest has demonstrated a genuine commitment to understanding and representing the people who live and work in rural Colorado.

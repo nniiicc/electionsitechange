@@ -1,6 +1,8 @@
 Skip to content Home Meet Latisha Policies Volunteer D18 Neighborhoods Donate SHOP Home Meet Latisha Policies Volunteer D18 Neighborhoods Donate SHOP So you want to be a lawmaker...
 Platform — District 18 Common Sense Values That Unify People.
 My position on the leading issues impacting District 18, North Carolina, and the nation.
+Note many of my positions are big innovative ideas that will require an iterative legislative brainstorming process with experts and other legislators to address feasibility and blindspots.
+As all legislation begins with brave people pitching new or innovative ideas with collaborative input from others.
 No.
 Position 01 Public safety Safer streets Safer neighborhoods require well-compensated officers, leadership, and accountability.
 People must feel safe at home, at school, and in our local business corridors.
@@ -56,7 +58,7 @@ It expands coverage access to middle-income workers in the gig or service indust
 Encourages innovation while empowering people with real choice and control over their healthcare.
 These solutions offer affordable, flexible, patient-centered healthcare vs. insurance-centered.
 It's movement away from one-size-fits-all plans and makes quality care accessible to all. iv.
-Bottom Line Initiate or support legislation that redsigns and replaces the current healthcare system with a free-market model that put patients (at all income levels) and doctors in control and make insurance companies compete for customers, again.
+Bottom Line Initiate or support legislation that redesigns and replaces the current healthcare system with a free-market model that put patients (at all income levels) and doctors in control and make insurance companies compete for customers, again.
 For the vulnerable and low-income households, reduce the Medicaid bureacracy to incentivize providers to participate in the program to make quality primary and innovative preventative care services available.
 05 Birthright citizenship and immigration reform Birthright citizenship is an American value and one of the rewards of Black American suffering.
 Granting 14th Amendment benefits of Black ancestral sweat equity to illegal (or legal) recent arrivals isn't generosity, it's a disrespecful insult.

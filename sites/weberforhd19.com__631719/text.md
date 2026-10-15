@@ -1,4 +1,4 @@
-October 14, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Working Together for a Positive Change!
+October 15, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Working Together for a Positive Change!
 Donate now!
 Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818, Great Falls, MT 59403.
 Any amount helps.
@@ -72,15 +72,15 @@ Emergency room visits are down and folks are seeking medical care early, catchin
 Medicaid supports over 7,500 Montana jobs, generating $475 million in personal income.
 Since the passage of Medicaid expansion, no rural hospitals in our state have closed.
 Renewing this program is the fiscally responsible decision.
-Latest News and Updates 2025 Legislative Score Card How to Utilize the Scorecards In these scorecards, you will find analysis and information about rural and agricultural issues that were debated and presented in the 2025 Legislature.
+Latest News and Updates Jane Weber Shows You How to Fill Out Your Ballot Jane explains the way to fill out your Montana ballot .
+Read More 2025 Legislative Score Card How to Utilize the Scorecards In these scorecards, you will find analysis and information about rural and agricultural issues that were debated and presented in the 2025 Legislature.
 You will […] Read More Meet Our 100% Champions BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
 They followed Jane’s work in the legislature this session and it matched their mission as an […] Read More Welcome to Bozangeles!
 The greater Bozeman, Montana, region has become ground zero for rampant luxury development that is taking the “public” out of public lands.
 Read in The Nation: https://apple.news/AIdg4hJWXRuepVR1ylPLqxg Read More Early Weeks in the 2025 Legislature After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
 I arrived in Helena with four priorities – lower homeowner […] Read More Endorsed by Montana Conservation Voters Proud to be endorsed by Montana Conservation Voters.
 Visit this link to see who MCV supports throughout the state.
-Please remember to vote, your voice matters! https://mtvoters.org/resources/endorsement-guide/ Read More Jane Weber talks about getting out to vote Reasons to vote for Jane Weber, Democrat.
-Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403, Pam Guschausky – Treasurer Read More More News Endorsements Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
+Please remember to vote, your voice matters! https://mtvoters.org/resources/endorsement-guide/ Read More More News Endorsements Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
 We are honored you requested our endorsement.
 We are happy to inform you that you have now been designated a 2024 Mental Health Now Candidate.
 Thank you again for committing to govern with mental health front of mind.

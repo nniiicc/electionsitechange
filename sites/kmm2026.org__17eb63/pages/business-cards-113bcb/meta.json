@@ -1,14 +1,13 @@
 {
  "description": "Volunteer form to receive business cards to hand out to other people.",
  "final_url": "https://www.kmm2026.org/business-cards",
- "fingerprint": "7a4c1b8fa3ae47ada206e5ad7b502b2bc6e1982f",
+ "fingerprint": "cb94c2e433a9bf8f65f9db183a2d115ec241897b",
  "format": 3,
  "paid_for_by": "",
  "rendered": false,
  "title": "Business Card Campaign",
  "years_mentioned": [
   "2016",
-  "2026",
-  "2027"
+  "2026"
  ]
 }

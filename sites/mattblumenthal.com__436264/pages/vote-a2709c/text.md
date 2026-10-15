@@ -13,10 +13,10 @@ You can also contact your Town Clerk’s office to request an application.
 Stamford: Email townclerk@stamfordct.gov or call (203) 977-5280 ​ Once complete and signed, return the absentee ballot application via one of the three options below: ​ ​ ​ Place it in a drop box at the Government Center parking garage (888 Washington Boulevard) or the Harry Bennett Library next to the outdoor book drop (115 Vine Road).
 Boxes will open on September 30.
 Bring your application to the Town Clerk’s office Monday-Friday from 8:00 am to 3:30 pm and fill out a ballot and vote — you can do it right there and then!
-Starting now, mail your completed and signed application to: ​ Town Clerk – AB Application PO Box 891 Stamford, CT 06904-0891 ​ ​​ ​ Absentee ballots will be available starting October 7 and will be mailed out starting then if a completed application was returned. ​ As soon as it arrives, fill out your ballot and please vote for the endorsed Democrats on Row A .
+Starting now, mail your completed and signed application to: ​ Town Clerk – AB Application PO Box 891 Stamford, CT 06904-0891 ​ ​​ ​ Absentee ballots will be available starting October 2 and will be mailed out starting then if a completed application was returned. ​ As soon as it arrives, fill out your ballot and please vote for the endorsed Democrats on Row A .
 Then, place your ballot in the return envelope (you can place the ballot inside the secrecy sleeve too if you like) and return it via a drop box or mail it back to your Town Clerk’s office.
 Your absentee ballot MUST BE RECEIVED by your Town Clerk no later than 8:00 pm on Election Day, November 3 . ​ ​ You can check on the status of your absentee ballot here.
 HOME MEET MATT GET INVOLVED VOTE More Use tab to navigate through the menu items.
-FOLLOW MATT: DONATE Paid for by Matt Blumenthal for CT • Eric B.
+FOLLOW MATT: VOTE Paid for by Matt Blumenthal for CT • Eric B.
 Morson, Treasurer • Approved by Matt Blumenthal Military information or images do not imply the endorsement of the U.S.
 Marine Corps or the Department of Defense. bottom of page

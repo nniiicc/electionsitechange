@@ -1,4 +1,4 @@
-HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS MERCH DONATE → HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS MERCH DONATE Privacy Policy / Terms of Use This Privacy Policy explains the information that Ken Paxton for Senate (“KPFS,” “we,” or “us”) collects, uses, shares, and discloses with respect to the use of KPFS’s website and mobile application, “Paxton Team” about users.
+HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE → HOME THE FIGHT AT HAND MEET KEN PAXTON JOIN PAXTON'S PATRIOTS EVENTS MERCH DONATE Privacy Policy / Terms of Use This Privacy Policy explains the information that Ken Paxton for Senate (“KPFS,” “we,” or “us”) collects, uses, shares, and discloses with respect to the use of KPFS’s website and mobile application, “Paxton Team” about users.
 KPFS reserves the right to change the provisions of this Policy at any time for any reason.
 Please review this Policy from time to time to make sure that you understand it and any changes.
 This Privacy Policy may change at any time.

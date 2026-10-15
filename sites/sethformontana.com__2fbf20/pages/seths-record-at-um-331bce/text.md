@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Seth's Record at UM About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Seth's Record at UM EIGHT YEARS OF RESULTS As President of the University of Montana, Seth Bodnar grew the university into a position of strength.
+Skip navigation menu Add your announcement here VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Seth's Record at UM About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Seth's Record at UM EIGHT YEARS OF RESULTS As President of the University of Montana, Seth Bodnar grew the university into a position of strength.
 He reversed a decade-long decline and delivered real results for real Montana families.
 For eight years, he led the state’s flagship top-tier research institution and served over 16,000 students across UM’s affiliated campuses.
 During his tenure, he: Turned around a decade of enrollment decline and grew it to a place of health.

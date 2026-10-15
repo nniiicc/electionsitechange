@@ -34,4 +34,5 @@ Foreign Policy The United States has spent trillions of dollars on war, yet Amer
 Prolonged military interventions often come with significant financial costs, place service members in harm's way, and can fuel anti-American sentiment abroad.
 At the same time, the United States maintains a vast network of military bases around the world, costing taxpayers tens of billions of dollars each year.
 Foreign policy should prioritize peace, diplomacy, and national defense rather than nation-building and endless military engagements.
-We should work to end ongoing conflicts, avoid unnecessary future wars, and stop acting as the world police. © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page
+We should work to end ongoing conflicts, avoid unnecessary future wars, and stop acting as the world police.
+Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page

@@ -1,6 +1,5 @@
 Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate Join Us Upcoming Campaign Events W e can't wait to meet you at these Public Events.
 John also welcomes invitations to your club, church, or community event — just click here and provide the details.
-NAACP 7th Congressional District Forum Waccamaw High School 2412 Kings River Rd., Pawleys Island, SC 29585 The Georgetown NAACP Candidate Forum will also be livestreamed.
 Get Out The Vote Rally Myrtle Beach Train Depot 851 Broadway St Myrtle Beach SC 29577 All Aboard!!!
 Join John at our Get Out The Vote Rally in Myrtle Beach.
 Let's celebrate the campaign and prepare for Early Voting.

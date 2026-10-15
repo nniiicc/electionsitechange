@@ -37,7 +37,24 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/13/2026 @ 2:00 pm Help me get this message out, please share!
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/14/2026 @ 9:21 pm # DAYS.
+LET’S MAKE THIS THE ELECTION WE TALK ABOUT FOR YEARS. 🔥 The one where New Mexicans showed up for each other.
+Where we decided our kids deserved better.
+Where we turned “s...
+Posted: 10/14/2026 @ 6:24 pm Join me live tonight!
+I’ll be answering questions and talking with New Mexicans about what matters to their families and what they expect from their next governor.
+Wherever you a...
+Posted: 10/14/2026 @ 2:00 pm MY VOTE.
+MY WHY.
+New Mexicans for Gregg Hull.
+When you love your state, you want to believe its best days are still ahead—and you want leaders you can trust to help get it there. ...
+Posted: 10/14/2026 @ 3:05 am Carlsbad, let’s talk.
+I’ll be in your community tomorrow, and I want to hear what’s on your mind.
+Bring your questions—the tough ones, too.
+Let’s talk about what you need from you...
+Posted: 10/14/2026 @ 12:44 am Spent today in Roswell, talking with folks at our meet and greet before visiting CasaKids.
+Their team stands up for children who have experienced abuse or neglect and supports fam...
+Posted: 10/13/2026 @ 2:00 pm Help me get this message out, please share!
 More money for groceries.
 More money for the meals around your family’s table.
 More room to breathe.
@@ -58,16 +75,6 @@ Showing up matters.
 So does listening, answering tough questions, and hearing directly from...
 Posted: 10/11/2026 @ 10:56 pm We covered a lot of New Mexico over the last 7 days—and every stop gave me another reason to keep pushing forward.
 This week took us to NMOGA, the 100 Club, the debate stage, Dix...
-Posted: 10/11/2026 @ 5:23 pm From a great rally in Las Cruces to a quick stop at White Sands, there’s so much to love about being on the road in New Mexico. 💚 Thank you to everyone who came out, asked questio...
-Posted: 10/11/2026 @ 1:15 am I am honored by this post.
-Posted: 10/10/2026 @ 4:41 pm There’s nothing like a night at The Pit with fellow New Mexicans. 🐺🏀 Last night at Lobo Howl, I got to meet so many people who love this state—and know how to make some noise!
-Tha...
-Posted: 10/10/2026 @ 2:01 pm Every child deserves the opportunity to succeed.
-But for families like Sofia’s, getting the support they need isn’t always easy.
-Sofia is a fourth grader struggling with reading. ...
-Posted: 10/10/2026 @ 12:25 am Las Cruces, let’s PACK the rally tomorrow!
-I want to meet you, hear what’s on your mind, and answer your questions.
-Bring your family, invite your neighbors, and come join us at R...
 Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.

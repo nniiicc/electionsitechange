@@ -18,7 +18,7 @@ This work is personal.
 It always has been.
 I'm a proud member of Sigma Gamma Rho Sorority, Incorporated.
 I live in Bowie with my husband and our young adult child.
-VIEW MY PRIORITIES > Get Involved With My Campaign > JOIN THE MOVEMENT SIGN UP TODAY > ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy Copyright © # Tiffany Alston - All Rights Reserved.
+VIEW MY PRIORITIES > Get Involved With My Campaign > JOIN THE MOVEMENT SIGN UP TODAY > ​ ​ Follow me on Instagram #Alston4Senate24 @tiffanyalston24 Load more CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy View Terms and Conditions Copyright © # Tiffany Alston - All Rights Reserved.
 By Authority of Friends of Tiffany Alston, Samuel Mensah, Treasurer.
 JOIN THE MOVEMENT!
 The Maryland Senate currently has only one woman representing our region and with her departure, that voice disappears.

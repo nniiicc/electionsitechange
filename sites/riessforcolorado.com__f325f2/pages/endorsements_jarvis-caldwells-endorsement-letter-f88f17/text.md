@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Jarvis Caldwell Jarvis Caldwell I am proud to endorse Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Jarvis Caldwell Jarvis Caldwell I am proud to endorse Naomi Riess for Colorado House District 59.
 Naomi brings decades of business, community and leadership experience to this race.
 She understands what it takes to manage budgets, solve problems, work with people and make responsible decisions.
 She also understands the challenges facing families, employers, farmers, ranchers and rural communities across Southwest Colorado.

@@ -29,9 +29,9 @@ Please fill out this form below, and someone from our campaign will be in touch.
 If you would like to volunteer with our campaign, please fill out the volunteer signup form .
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone (optional) ZIP Code * Please enter your ZIP code so we know if you are a CD 38 resident.
+Name * First Last Email Message or Email * Phone (optional) ZIP Code * Please enter your ZIP code so we know if you are a CD 38 resident.
 Messages from residents outside of the district are still welcome!
-Phone or ZIP Comment or Message Submit melissa@melissaforcongress.com 281-381-0219 Paid for by Melissa For Congress Treasurer: Jeff Autor © # All rights reserved Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Comment or Message Submit melissa@melissaforcongress.com 281-381-0219 Paid for by Melissa For Congress Treasurer: Jeff Autor © # All rights reserved Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
 Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) NEWSLETTER Stay informed by subscribing to the Melissa for Congress newsletter.
 Learn about upcoming events, election updates, and stories from the campaign trail!
 You have successfully subscribed to the newsletter There was an error while trying to send your request.

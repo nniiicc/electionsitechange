@@ -3,7 +3,7 @@ After marrying my wife and starting a family, we moved to Dublin, NH and we've b
 Ask me anything, I would love to have a conversation and earn your trust moving forward.
 Join Us in Making a Difference Become part of our movement by volunteering, attending events, or simply staying informed.
 Your voice matters!
-Get Involved ©Copyright.
+Get Involved Lorem ipsum dolor sit amet consetetur sadipscing elitr ©Copyright.
 All rights reserved.
 We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
 Please review the details in the privacy policy and accept the service to view the translations.

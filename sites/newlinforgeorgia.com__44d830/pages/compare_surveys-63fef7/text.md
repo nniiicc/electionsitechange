@@ -434,7 +434,10 @@ Source Sen.
 Kim Jackson Contact Kim Jackson at [email protected] for her position.
 GEEARS, the Georgia Early Education Alliance for Ready Students, publishes every candidate's answer as written at geears.org .
 Sen.
-Jackson's 2026 answer is the same text GEEARS published for her in 2024, including the same typo.
+Jackson's 2026 answer is her 2024 answer, word for word, typo included.
+GEEARS sent the 2024 responses on 10/14/2026 and the two match character for character.
+Kim doesn't care.
+She expects your vote and takes it for granted.
 Georgia is often touted as the best state to do business.
 How would you ensure that it is also the best place to raise young children?
 Jeff Newlin My wife and I raised three children in DeKalb County, and we became grandparents this spring.

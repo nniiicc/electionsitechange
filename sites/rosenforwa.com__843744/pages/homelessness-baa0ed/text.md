@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Homelessness Policy Homelessness: Treatment, Recovery & Accountability Washington's homelessness crisis cannot be solved with a one-size-fits-all approach.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Homelessness Policy Homelessness: Treatment, Recovery & Accountability Washington's homelessness crisis cannot be solved with a one-size-fits-all approach.
 Different problems require different solutions.
 Intervention Enforce the law to connect people with the help they need.
 Treatment Match the response to addiction, mental illness, or temporary hardship.

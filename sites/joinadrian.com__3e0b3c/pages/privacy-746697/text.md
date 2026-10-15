@@ -1,5 +1,5 @@
 Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
-Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Privacy Policy Privacy Policy Adrian Smith for Congress 2026-01-08T11:10:50-06:00 Adrian Smith for Congress values its users’ privacy.
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Privacy Policy and Terms of Service Privacy Policy and Terms of Service Adrian Smith for Congress 2026-10-14T12:22:30-05:00 Privacy Policy Adrian Smith for Congress values its users’ privacy.
 This Privacy Policy (“Policy”) will help you understand how we collect and use personal information from those who visit our website or make use of our online facilities and services, and what we will and will not do with the information we collect.
 Our Policy has been designed and created to ensure those affiliated with Adrian Smith for Congress of our commitment and realization of our obligation not only to meet, but to exceed, most existing privacy standards.
 We reserve the right to make changes to this Policy at any given time.
@@ -35,6 +35,11 @@ Links to Other Websites Our website does contain links to affiliate and other we
 Adrian Smith for Congress does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites.
 Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of every website that collects personally identifiable information.
 This Privacy Policy Agreement applies only and solely to the information collected by our website.
+Third-Party Services Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
+Our website may contain links to third-party websites or services.
+We are not responsible for the privacy practices or content of such third parties.
+We encourage you to review the privacy policies of those third parties when accessing their websites or services.
 Notice to European Union Users Adrian Smith for Congress’s operations are located primarily in the United States.
 If you provide information to us, the information will be transferred out of the European Union (EU) and sent to the United States.
 (The adequacy decision on the EU-US Privacy became operational on August 1, 2016.
@@ -52,5 +57,18 @@ Acceptance of Terms By using this website, you are hereby accepting the terms an
 If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites.
 In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you agree and acceptance of such changes.
 How to Contact Us If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email address.
-Email: committee@joinadrian.com 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
-May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top
+Email: committee@joinadrian.com Terms of Service Mobile Messaging Program Consent Adrian Smith for Congress: Polling/Voting Text Messages: Such as election reminders and opinion polls.
+Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
+Opt-In Methods Completing a sign-up form on our website and checking the text message consent box.
+Providing explicit consent in any other manner as indicated by Adrian Smith for Congress.
+Message Terms Messages may be sent using an autodialer or similar technology.
+Message frequency may vary depending on your interaction with the Program.
+Standard message and data rates may apply.
+Wireless carriers are not liable for delayed or undelivered messages.
+STOP Command To stop receiving messages, text STOP at any time.
+You will receive a confirmation text confirming you have been unsubscribed.
+After this, you will no longer receive messages from the Program unless you opt back in.
+HELP Command For help, text HELP or contact us at committee@joinadrian.com or 308-220-3211.
+You will receive instructions on how to use the service.
+1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved. | Privacy Policy and Terms of Service Facebook Page load link Go to Top

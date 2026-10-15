@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Contact the Vic Meyers Campaign Real representation for HD47 starts with you.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Contact the Vic Meyers Campaign Real representation for HD47 starts with you.
 Contact Us First Name * Last Name * City * State * -- Select State -- Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Email * Phone Number Comments I want to volunteer!
 Send Texts Help Canvas Phone Bank Register Voters I want a yard sign!
 House Business This is a people-driven campaign.

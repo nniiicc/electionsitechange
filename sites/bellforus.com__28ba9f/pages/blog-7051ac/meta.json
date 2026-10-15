@@ -1,9 +1,10 @@
 {
  "description": "See what's going and what news there is.",
  "final_url": "https://www.bellforus.com/blog",
- "fingerprint": "b9340558bf0424acce134eca8da4c90793dcec7d",
+ "fingerprint": "4b96c1673273d347181f7f0738659e5bc98be05b",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Blog | BellForUs",
  "years_mentioned": [
   "2016",

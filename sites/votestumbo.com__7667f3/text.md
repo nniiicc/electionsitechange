@@ -11,7 +11,7 @@ SC's Next Attorney General David Stumbo is The Conservative Prosecutor South Car
 As Attorney General, David will continue the servant leadership he has given as the upstate's top criminal prosecutor, protect victims of crimes, put criminals behind bars, stand firm in defense of the Constitution and the liberties it guarantees, and keep government power in check.
 For our families and our conservative values, vote David Stumbo for Attorney General.
 Campaign Gallery Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
-Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram Campaign Updates - October 12, 2026 Loved stopping by the Charleston GOP meeting tonight and joining in on writing handwritten letters to voters!
-Just # days until Election Day on November 3rd!
-It’s all about getting out the vote!
+Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram Campaign Updates - October 14, 2026 This morning, I had the privilege of attending the Lexington County Heroes Breakfast.
+Thank you to all of our first responders for your dedication to keeping our communities safe!
+Thank you to...
 Read more Campaign Updates

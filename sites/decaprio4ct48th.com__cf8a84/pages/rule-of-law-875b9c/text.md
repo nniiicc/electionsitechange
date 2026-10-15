@@ -4,4 +4,4 @@ I oppose calls to "defund the police" and believe in providing our police, law e
 During my tenure, I served on the Homeland Security Advisory Council, advising the Governor's office and other state leaders, and on the Incident Management Task Force, providing guidance to the Transportation Strategy Board to maintain the safety and accessibility of our roadways for commercial commerce.
 Back to Values SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Know Your Vote He's for The mining companies.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Know Your Vote He's for The mining companies.
 Mary's for the miners.
 Messmer accepted thousands of dollars from corporate mine owners.
 Messmer celebrated DOGE cuts that struck agencies like the Coal Workers' Health Surveillance Program, kneecapping efforts to detect and prevent Black Lung.
@@ -69,8 +69,8 @@ Thousands of workers already suffer from heat-related illnesses annually.
 If the Heat Workforce Standards Act is passed, it would erase any national regulations on worker heat safety.
 Mary supports your right to join a union that fights for better wages and better working conditions.
 She believes that good government ensures baseline worker protections!
-Learn More https://www.govtrack.us/congress/bills/119/hr6213 AFL-CIO statement on Heat Workforce Standards Ac t Messmer AFL-CIO Legislative Scorecard He’s for crypto.
-Mary’s for guardrails that protect the public from crypto scams.
+Learn More https://www.govtrack.us/congress/bills/119/hr6213 AFL-CIO statement on Heat Workforce Standards Ac t Messmer AFL-CIO Legislative Scorecard He protects crypto.
+Mary protects you.
 In the 2024 primary, a crypto PAC (Defend American Jobs) spent $500,000 to elect Messmer.
 Once elected, Messmer opposed HR 3633, a bill that would require oversight of the crypto industry.
 As part of the Evansville City Council, Mary initiated and sponsored an ordinance to regulate crypto currency kiosks to prevent residents being scammed out of tens of thousands of dollars.

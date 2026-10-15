@@ -8,7 +8,7 @@ We're neighbors, and this tool helps us see that.
 Your input will directly guide what we prioritize and fight for in this campaign.
 So please, take a few minutes right now, and share it with your family, neighbors, and friends.
 This is how we build something real.
-Join the Conversation News & Updates Wyatt Nordvik 9/16/26 Wyatt Nordvik 9/16/26 Masuda For Congress Statement on the Impeachment Resolution of Defense Secretary Pete Hegseth Read More Wyatt Nordvik 9/15/26 Wyatt Nordvik 9/15/26 Your Budget Isn't Broken.
+Join the Conversation News & Updates Wyatt Nordvik 10/9/26 Wyatt Nordvik 10/9/26 Masuda Condemns Surge of ICE Operations in California Read More Wyatt Nordvik 10/3/26 Wyatt Nordvik 10/3/26 Joint Statement Regarding Incorrect Information in Calaveras County Voter Information Guides Read More Wyatt Nordvik 9/21/26 Wyatt Nordvik 9/21/26 Masuda For Congress Statement on Helicopter Crash in Yosemite Read More Wyatt Nordvik 9/16/26 Wyatt Nordvik 9/16/26 Masuda For Congress Statement on the Impeachment Resolution of Defense Secretary Pete Hegseth Read More Wyatt Nordvik 9/15/26 Wyatt Nordvik 9/15/26 Your Budget Isn't Broken.
 Washington's Choices Are.
 Read More Wyatt Nordvik 9/10/26 Wyatt Nordvik 9/10/26 Fire Prevention Pays.
 It's Time We Act Like It.

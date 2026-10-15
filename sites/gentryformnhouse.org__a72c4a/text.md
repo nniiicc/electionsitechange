@@ -9,6 +9,13 @@ We've called Elk River home ever since.
 My work history is as varied as the people I've met along the way — auto mechanic, oilfield worker, retail, even pizza delivery.
 For the past decade I've been a truck driver.
 These jobs have taken me across the country and given me something I value deeply: a firsthand view of the humanity in people from all walks of life.
+Back in January I joked about running against Tom Emmer but once I realized there was already a strong candidate running against him, I figured it wasn’t the right time.
+We attended an Indivisible meeting where we heard from Joe Shephard that no one was running against the incumbent in our district, so I decided it was time to throw my hat into the ring.
+I was already angry about the way that both the federal and state governments were being run.
+I needed a constructive outlet for my anger.
+What better way than to go and make working class voices heard.
+For too long our elected officials have sat in their offices and have lost touch with what the needs of what the average Minnesotan are.
+I’m running because things need to change and it’s time for working folk to be heard.
 You have the freedom of choice in this nation.
 You can choose who represents the corporations & their interests.
 Request A Yard Sign!

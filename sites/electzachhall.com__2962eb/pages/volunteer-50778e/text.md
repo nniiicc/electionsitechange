@@ -1,4 +1,4 @@
-0 Skip to Content Home About Priorities Endorsements Updates Volunteer DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer DONATE Join the campaign Elect Zach Hall may contact supporters and voters by text message for purposes of outreach, get-out-the-vote reminders, and volunteer recruitment.
+0 Skip to Content Home About Priorities Endorsements Updates Volunteer Media DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer Media DONATE Open Menu Close Menu Home About Priorities Endorsements Updates Volunteer Media DONATE Join the campaign Elect Zach Hall may contact supporters and voters by text message for purposes of outreach, get-out-the-vote reminders, and volunteer recruitment.
 Message and data rates may apply.
 Message frequency varies.
 Reply STOP to opt out at any time or HELP for help.

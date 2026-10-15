@@ -1,5 +1,5 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
-Donate Privacy Policy Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
+Donate Privacy Policy Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate Privacy Policy Your trust means the world to us.
 Emily Tseffos for Wisconsin (“we,” “our,” “the Campaign”) is committed to protecting your privacy.
 This Privacy Policy explains how we collect, use, and safeguard your information when you interact with our website, email, SMS program, and other campaign activities.

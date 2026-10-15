@@ -1,4 +1,4 @@
-Home About Issues News FUND THE FIGHT → Home About Issues News Cheryl Bean A STRONG FUTURE FOR TEXAS Chip in Today! → About Cheryl Bean BUILT IN TEXAS.
+Home About Issues FUND THE FIGHT → Home About Issues Cheryl Bean A STRONG FUTURE FOR TEXAS Chip in Today! → About Cheryl Bean BUILT IN TEXAS.
 FIGHTING FOR TEXAS.
 From a young newlywed living in a used trailer, to a hi-tech engineer competing in a man’s workspace, to the founder and owner of a successful home-building company, she has fought through adversity and earned every inch of the American dream, the right way, not the easy way.
 A Christian, a mother of four, and a grandmother of twelve, Cheryl is running to fight for the families, workers, and communities of District 94.

@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer All priorities Fighting for Alaska Fisheries “As someone who grew up salmon fishing on the Kuskokwim River with my father, I know firsthand that fish is more than food – it’s central to our Alaska way of life.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer All priorities Fighting for Alaska Fisheries “As someone who grew up salmon fishing on the Kuskokwim River with my father, I know firsthand that fish is more than food – it’s central to our Alaska way of life.
 But that way of life is under attack and the fish that fill our freezers are becoming harder and harder to find thanks to out-of-state factory trawlers.
 We don’t need more studies to tell us what’s happening in front of our eyes; Alaska needs bold action now to restore and protect our fish.
 I will fight for practical, Alaska-first solutions to restore our fisheries, strengthen our communities, and ensure that the next generation can experience the same abundance Alaskans have enjoyed for generations.” Mary has spent her life fighting for Alaska fishermen, fisheries, and the communities they sustain.
@@ -38,4 +38,5 @@ Read the plan Fixing the Rigged System Fixing the Rigged System Mary knows that 
 Read the plan Making Energy Affordable for Alaskans Making Energy Affordable for Alaskans Energy prices for Alaskans are out of control, and we need solutions from every angle.
 Read the plan Keeping our Promise to Alaska Veterans and Servicemembers Keeping our Promise to Alaska Veterans and Servicemembers Mary is a military mom who has always stood by Alaska servicemembers, military families, and veterans.
 Read the plan Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

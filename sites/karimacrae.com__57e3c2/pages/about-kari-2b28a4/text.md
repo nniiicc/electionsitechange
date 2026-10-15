@@ -1,5 +1,5 @@
-top of page DONATE HOME ABOUT EVENTS EMAIL MESSAGE ISSUES More Use tab to navigate through the menu items.
-ABOUT Kari MacRae was born in Massachusetts, started her family with her husband David #ago in Plymouth, MA, and has lived in Bourne since 1999.
+top of page HOME ABOUT EVENTS EMAIL MESSAGE ISSUES More Use tab to navigate through the menu items.
+DONATE ABOUT Kari MacRae was born in Massachusetts, started her family with her husband David #ago in Plymouth, MA, and has lived in Bourne since 1999.
 Kari is a mother to four and grandmother to four courageous boys and two beautiful little girls.
 Kari has spent the past 3 decades working as a financial banking manager, small business owner, and educator.
 Kari graduated from Curry College in Plymouth with a bachelor's degree in Business Administration, with a minor in Communications and Human Resources.

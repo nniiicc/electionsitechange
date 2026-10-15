@@ -25,7 +25,9 @@ Learn More Opportunity Ensuring every Nevadan can find a good job that allows th
 Learn More >> Spending and Debt Confronting reckless spending to protect our economy and secure America’s future.
 Learn More >> Join the Movement for Change Stay updated and support Marty O'Donnell's vision for a stronger community.
 Volunteer Get Updates Email * HP Name Subscribe Stay Updated Paid for by Marty for Congress ©# Marty O'Donnell for Congress.
-All rights reserved Privacy Policy | Terms and Conditions Volunteer with Us Help us build a grassroots movement for Nevada.
+All rights reserved Privacy Policy | Terms and Conditions Make a Plan to Vote!
+Early Vote October 17th - October 30th Election Day November 3rd, 7am-7pm Find Your Polling Place Here Vote Marty O'Donnell for Congress!
+Volunteer with Us Help us build a grassroots movement for Nevada.
 Fill out the form below to get started.
 Volunteer First Name Last Name Email Phone How are you able to help?
 Yard sign Share on social media Hold an event Phone bank Knock on doors Donate to the campaign By providing your phone number and checking the box, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from Marty for Congress.
@@ -35,4 +37,4 @@ Msg&Data Rates May Apply.
 Messaging may include requests for donation, election reminders, opinion polls, and public service announcements.
 Reply “STOP” to cancel.
 Reply “HELP” for help.
-See our Privacy Policy | Terms and Conditions Submit Donate Today $7 $28 $117 $343 $2401 $3500 Other
+See our Privacy Policy | Terms and Conditions Submit

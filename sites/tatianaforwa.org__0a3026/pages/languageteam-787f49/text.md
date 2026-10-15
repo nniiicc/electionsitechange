@@ -6,4 +6,4 @@ Get out the vote for Tati! **All translations completed by a person.
 Not AI.
 Printed in-district.
 Thank you, Saigon Printing!
-Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org
+REGISTER TO VOTE TODAY! —> KING COUNTY ELECTIONS —> 🌐 (pick your language) 中文 (Chinese) ‍ ‍ Soomaali (Somali) ‍ ‍ Tiếng Việt (Vietnamese) Español (Spanish) Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

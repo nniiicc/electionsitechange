@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Restoring Local Value: Producer-Owned Agricultural Processing in Southern Colorado Keeping the Value of Our Agriculture Here at Home ← Back to All Issues 🌾 Executive Summary Southern Colorado produces some of the finest agricultural products in America.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Restoring Local Value: Producer-Owned Agricultural Processing in Southern Colorado Keeping the Value of Our Agriculture Here at Home ← Back to All Issues 🌾 Executive Summary Southern Colorado produces some of the finest agricultural products in America.
 Our ranchers raise cattle.
 Our farmers grow corn, wheat, melons, onions, peppers, beans, and many other crops.
 Yet too much of the economic value created by that work leaves our region before the final product reaches consumers.

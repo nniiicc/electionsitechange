@@ -1,73 +1,60 @@
-Skip to content About Merch Contact Us Donate Events Zach’s Policies Volunteer Donate Iowa's next governor Who is Zach Lahn?
-Zach Lahn is not a politician but another Iowan like you.
-He is a father, farmer, and a businessman.
-He is 6th generation Iowan, his own biggest donor, and does not answer to large corporations or special interest — only to God, his family, and the people of Iowa.
-Pledge Your Support Volunteer For Zach A Legacy of Almost 200 Years 6 Generations of Serving Iowa - Zach's Story Zach’s mission remains rooted in a deep love for his home state - its rich traditions, strong communities, rural values, and connection to the land.
-1862 Hans Schluntz, answered Governor Kirkwood’s Call Zach’s Iowa roots trace back to 1862, when his great-great-great-grandfather, Hans Schluntz, answered Governor Kirkwood’s call by volunteering for Iowa’s Second Cavalry — one of the storied “Hawkeyes on Horseback” during the Civil War.
-1880's The Boy Who Crosses an Ocean - Alone.
-Twenty years later, Friedrich Lahn, left Hamburg, Germany at age 14, traveling alone in the stowage of the S.S.
-Weiland.
-He arrived in New York and made his way to Belle Plaine, Iowa, where he would marry Ordinancy Schluntz.
-Together, they built the Iowa homestead that remained in the Lahn family for 105 years.
-1917 The War to End All Wars The Lahn's legacy of stewardship and service to Iowa continued with Zach’s great-grandfather, Alfred Lahn, who serving as an elected official in Benton County.
-Alfred’s older brother, John, served overseas during World War I with Iowa’s 337th Heavy Field Artillery before returning to Belle Plaine to run the local newspaper.
-1940's An Affinity for the Sky Alfred and Evelyn’s sons Victor and Roger were inspired by aviation and purchased a $700 Taylorcraft and learned to fly off a runway mowed in the family’s bean field.
-That experience sparked lifelong careers in aviation, including service in the U.S.
-Navy flying off aircraft carriers in the Pacific.
-1990's Tradition of Serving Iowans Continues Zach’s father, Jim, carried the family traditions forward, studying agronomy and working as a conservationist while also answering the call to pastoral ministry.
-Zach and his siblings were raised in rural Plymouth County, Iowa and from a young age had a deep love and respect instilled in them for the beauty of God’s creation.
-2005 Closing a 105-year chapter in the Lahn family’s history.
-In 2005, one year after Zach graduated from Sioux City East High School, his great-grandmother Evelyn passed away.
-With her passing, the family’s 105-year farming legacy came to an end when the farm was sold.
-2014 Zach Lahn the Entrepreneur, Educator, and Farmer In 2016, he launched Homeplace Ventures.
-Alongside his business work, Zach launched an innovative non-profit school.
-Nearly a decade after the original homestead was sold, Zach was able to buy back his family property.
-2020's Rebuilding a Community - Now His State.
-In his hometown, he and his family are working to restore their community — including the recent purchase of the historic King Theater and the Chicago Northwestern Train Depot.
-Zach’s mission remains rooted in a deep love for his home state — its rich traditions, strong communities, rural values, and connection to the land.
-Iowa Needs a Future The System is Corrupt.
-Nobody else is talking about it.
-As Iowans, we are facing multiple issues that will decide the fate of our State.
-There has not been an election this important in decades.
-Our education system is faltering, our people being poisoned for profit, and our young people are leaving whilst never coming back.
-And nobody else is talking about it.
-4th Highest in out migration.
-Our kids are leaving and not coming back.
-We are almost last in the nation for out migration of our kids.
-Iowa now has to provide the same level of services to less people. –50% We are bottom half of rankings in education.
-We have fallen from #1 in education to now worse than Mississippi.
-A 50% drop in the rankings in just over a decade.
-#1 Iowa has the fastest rate of new Cancer.
-If you live in the top 10 counties in Iowa for cancer, you have about a 1 and 2 chance of getting cancer.
-Nothing else matters if our people are dying.
-Fight for Iowa "Our people are being pushed aside by greed, corruption, and a rigged system.
-I will fight with everything I have for our future." Dear Fellow Iowan, I am asking you for your trust, and if I’m to do that you should know exactly where I stand and what I’ll fight for — without hesitation and without apology.
-I am a father, a farmer, and a businessman.
-I’m investing in Iowa and I’m my own biggest donor.
-I don’t answer to donors or corporations — only to God, my family, and the people of this state.
-I believe Iowa can be a beacon — the safest, freest, most family-centered state in America.
-That future won’t come from consultants or career politicians.
-It will come from courage rooted in place, history, and duty.
-What drives me is simple: I want to build a future for my kids and grandkids.
-One where they can stay in Iowa, build a family and thrive.
-Over the next months, I will be on the road, listening in church basements, VFW halls, farms, and school gyms — where Iowa’s wisdom lives.
-This is Iowa.
-This is our home.
-And it’s worth fighting for.
-Zach's promise to Iowans As Governor, some of my top priorities: Free Iowa's Farmers.
-We have the best farmland in the world, but the system is rigged so the farmer always comes in last.
-It’s time for a change.
-Make Iowa Healthy Again.
-I believe Big Ag and Big Pharma have treated our farmers and families as numbers, not neighbors.
-We will break up monopolies, defend independent farms, and demand accountability from corporations who harm our people.
-Keep Iowa land in Iowa hands.
-Over 25% of Iowa land is owned by out of state investors and foreign governments.
-I will fight for our birthright to own the ground under our feet.
-Restore our Education System I believe a classroom is not a battleground for ideology — it is a place for truth, discipline, wonder, and learning.
-Anyone who uses their position to push political doctrine will not teach in this state.
-Our kids deserve better.
-Host Zach Lahn Invite Zach Lahn to Your Event or Area Zach looks forward to continuing to make stops throughout the State of Iowa.
-If you'd like Zach to make an appearance in your area or have an event to invite him to, please fill out the form here.
-Thank you!
-Event Request Form Name (Required) Event Date (Required) Headcount (Required) Email (Required) Phone Event Details (Required) Send Message “This is home.
-And it’s worth fighting for.” Donate to Zach's campaign Main Pages Home About Contact Events Merchandise Press Releases Support Zach Get Merchandise Make a Donation Pledge to Vote for Zach © Copyright # Lahn for Governor Privacy Policy Terms & Conditions PAID FOR BY LAHN FOR GOVERNOR
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu About Issues All Issues Cancer Clean Water Affordability Farming Education Keeping Iowa’s Youth Events Debates Merch Donate Find My Polling Location Help Zach Win Iowa Is Home Zach Lahn is a sixth-generation Iowan, husband, father of seven, farmer, businessman, pilot, and Republican candidate for Governor of Iowa.
+But before any of those titles, Zach sees himself as a Christian and a steward of what has been handed down to him.
+For his family, Iowa is not just where they live.
+Zach’s Iowa roots reach back to 1862, when his great-great-great-grandfather Hans Schluntz answered Governor Samuel Kirkwood’s call and joined the Second Iowa Cavalry during the Civil War.
+Another branch of the family arrived in Iowa after Friedrich Lahn crossed the Atlantic from Germany as a teenager and eventually settled near Belle Plaine.
+The family established a farm that remained in Lahn hands for more than a century.
+That farm would eventually shape Zach’s life in ways he did not fully understand when he was young.
+The broader idea behind the policy is that Iowa families should have a better opportunity to own homes, build wealth, and put down roots here.
+Raised to Take Responsibility Zach grew up in western Iowa in a family where faith, conservation, service, and the land were closely connected.
+His father, Jim, studied agronomy, worked for decades in conservation and agriculture, and now serves in pastoral ministry.
+Zach has spoken about growing up alongside his dad in Iowa fields, learning about insects, crops, soil, and the responsibility that comes with caring for land.
+Those early lessons stayed with him.
+They helped form a conviction that still shapes Zach’s politics today: ownership creates responsibility.
+When people own their homes, their farms, their businesses, and the future they are building, communities become stronger.
+And when control moves farther away from the people who actually live there, something important is lost.
+That belief is at the heart of Zach’s Iowa First approach.
+Buying Back the Family Farm In 2005, Zach’s great-grandmother Evelyn passed away, and the family farm, which had remained in the family for 105 years, was sold.
+Zach had just graduated from high school, unable to do anything about it.
+Nearly a decade later, Zach bought the family property back.
+Over the following years, he worked to reassemble the farm parcel by parcel and restore the homestead his family had once lost.
+Today, Zach and his family live on that land near Belle Plaine.
+A Husband.
+A Father.
+Zach and his wife, Annie, are raising seven children together in a blended family rooted in faith and love.
+For Zach, fatherhood means showing up, keeping commitments, and making family a priority.
+Rooted in Faith Zach was raised in a Christian home by a father who combined pastoral ministry with work in agriculture and conservation.
+He continues to speak openly about his Christian faith and has described it as foundational to the culture he wants to preserve and build upon here in Iowa.
+That conviction informs Zach’s pro-life position, which is one of the clearest differences between him and his opponents in this election.
+Zach believes life is a gift from God and should be protected before birth.
+He has committed to standing against any and every attack on Iowa’s Heartbeat Bill, and vocally opposing the radical policies enacted in other states that permit abortion all the way until birth.
+With life as the foundation, Zach also believes our faith propels us to protect life after birth.
+We must actively pursue, loving our neighbors by creating a culture that prioritizes: Healthy children.
+Healthy families.
+Clean water.
+Safe food.
+Strong communities.
+Care for people facing disease.
+Timeless values of Christian faith.
+When Cancer Became Personal Zach grew up in Sioux City, riding through fields with his father, who worked around Iowa agriculture for decades, studying crops, weeds, pests, and insects.
+Years later, his father developed non-Hodgkin lymphoma.
+Zach has repeatedly said that cancer is not a partisan issue.
+Iowa has one of the nation’s highest cancer burdens and has experienced an unusually high rate of new cancer diagnoses.
+Zach has made addressing that problem one of the central issues of his campaign.
+His proposed approach includes independent state safety testing, directing more Iowa-based research toward the state’s cancer problem, incentivizing proven conservation practices to mitigate agricultural runoff, challenging agricultural monopolies, and demanding greater accountability when products may pose risks to Iowans.
+For Zach, “Make Iowa Healthy Again” encompasses what we all want for ourselves, our children, and our neighbors.
+It means asking harder questions about the water Iowans drink, the food they eat, the chemicals used around them, the incentives shaping agriculture, and the long-term health of Iowa children.
+Iowa First Zach knows firsthand that what is worth keeping does not preserve itself.
+His family lost the farm that had been theirs for more than a century.
+Years later, he bought it back and began rebuilding what had been lost.
+That experience shaped the way he thinks about Iowa today: protect what is worth protecting, strengthen it, and leave something better for the next generation.
+That is what Iowa First means to Zach.
+It means putting Iowa families first.
+Iowa farmers first.
+Iowa workers, businesses, communities, and children first.
+It means building on the culture and character generations of Iowans worked to create, while standing against policies that would move our state away from the values that made it strong.
+Iowa First means preserving what we love, strengthening what we have, and making sure Iowa still belongs to Iowans for generations to come.
+The Iowa We Love Will Not Preserve Itself.
+Homepage Links Get Campaign Updates Get Campaign Updates Find an Event Find an Event Help Zach Win Help Zach Win Explore Zach’s Plan Explore Zach’s Plan About Issues Events Debates Merch Help Zach Win Find My Polling Location Donate Stay Updated Follow Zach Website Policies and Disclosures | Voting Information Paid for by Lahn for Governor. © # Lahn for Governor.
+All rights reserved.
+Close Menu About Issues All Issues Cancer Clean Water Affordability Farming Education Keeping Iowa’s Youth Events Debates Merch Donate Find My Polling Location Help Zach Win Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

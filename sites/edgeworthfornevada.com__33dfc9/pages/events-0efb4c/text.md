@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
+top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 COME MEET REBECCA Mountain's Edge's Meet the Candidates Night Thu, Oct 15 8015 Blue Diamond Rd we will be at the Mountain's Edge's Meet the candidate night.
 Come find our table !
 Share RSVP Southern Highlands Fall Festival!

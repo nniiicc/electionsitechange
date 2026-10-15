@@ -29,4 +29,4 @@ Muth, Rep.
 Hill-Evans Propose Property Tax Relief for Recent Veterans Pennsylvania senator calls for removal of managers at state-run Southeastern Veterans’ Center after 47 deaths in one month Sen.
 Muth’s Bill to Increase Minimum Pay for PA National Guard Passes Committee John Boyd beat homelessness.
 Katie Muth took his story to Harrisburg and the debate it sparked went viral.
-State Senator Katie Muth: The Time for Addressing the Climate Crisis Is Running Out Thanks to Katie Muth for being a spine at the table Senate Reestablishes Bipartisan Fire & EMS Caucus Out of gallery PAID FOR BY BE THE CHANGE PA bottom of page
+State Senator Katie Muth: The Time for Addressing the Climate Crisis Is Running Out Thanks to Katie Muth for being a spine at the table Senate Reestablishes Bipartisan Fire & EMS Caucus PAID FOR BY BE THE CHANGE PA bottom of page

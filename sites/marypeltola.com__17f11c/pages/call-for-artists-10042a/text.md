@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer Call for Artists Put on by the Fish, Family, Freedom Fund Previous Entries Voting For The Future, Salt Chuck Art, by Emory Banker Fish Family Freedom by Ashley Jones Fishing Grounds by Lisa Fisher Artwork by Darrah Edgar Salmon Waters by AK Clothing Co Deadline to Submit Artwork: Closed Submissions closed Friday, September 25, 2026.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer Call for Artists Put on by the Fish, Family, Freedom Fund Previous Entries Voting For The Future, Salt Chuck Art, by Emory Banker Fish Family Freedom by Ashley Jones Fishing Grounds by Lisa Fisher Artwork by Darrah Edgar Salmon Waters by AK Clothing Co Deadline to Submit Artwork: Closed Submissions closed Friday, September 25, 2026.
 See the Final Exhibit Artist Exhibition THEME: “Protecting Our Way of Life” What makes Alaska great?
 When you hear “Alaskan way of life,” what specific parts of your daily life come to mind that you feel are at risk?
 What traditions, livelihoods, or community practices do you believe must be protected at all costs?
@@ -104,4 +104,5 @@ Submitted artwork may not be returned to you.
 Who do I contact with questions?
 For questions, please email [email protected] .
 Official Rules (PDF) We can’t wait to see your proposals and celebrate the creativity and cultural richness of Alaska’s artists!
-Paid for by the Fish, Family, Freedom Fund Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Paid for by the Fish, Family, Freedom Fund MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

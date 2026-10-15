@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Watch My New Campaign Video!
+0 Skip to Content Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate FIND YOUR VOTING INFORMATION HERE Watch My New Campaign Video!
 Please consider helping my campaign to ensure your voice continues to be heard in the legislature!
 Volunteer Sign up to receive my emails!
 Newsletter Block This newsletter signup form needs a storage option.

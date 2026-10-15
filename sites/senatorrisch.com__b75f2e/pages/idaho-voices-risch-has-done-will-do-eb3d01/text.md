@@ -1,4 +1,4 @@
-About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu IDAHO VOICES: “RISCH HAS DONE, WILL DO” Idaho’s U.S.
+About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign About Jim Get Involved Endorsements Issues Articles DONATE Request a Yard Sign Menu IDAHO VOICES: “RISCH HAS DONE, WILL DO” Idaho’s U.S.
 Senator Jim Risch will be on the ballot this November for reelection.
 Here are reasons to vote for him: He consistently supports legislation that values liberty, independence, and the success of small business.
 His availability to constituents is outstanding.

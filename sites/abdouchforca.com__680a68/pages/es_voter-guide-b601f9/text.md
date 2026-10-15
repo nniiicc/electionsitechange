@@ -1,0 +1,12 @@
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Guía Electoral Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Guía Electoral de California Evaluaciones claras y de sentido común sobre las iniciativas de ley y candidatos en California.
+Para ayudar a los votantes del Distrito 45 de la Asamblea a tomar decisiones informadas en las urnas, la campaña recomienda esta guía electoral publicada independientemente por Reform California.
+RECURSO ELECTORAL RECOMENDADO Guía Electoral 2026 de Reform California Reform California ofrece análisis en lenguaje sencillo de las iniciativas de ley de California, advertencias sobre títulos engañosos y calificaciones de candidatos para ayudar a los votantes a entender lo que realmente están votando.
+Lo que encontrará en la guía: ✓ Análisis en lenguaje sencillo de las iniciativas de ley estatales ✓ Identificación de lenguaje engañoso e impuestos ocultos en las medidas ✓ Calificaciones completas de candidatos en las contiendas de California Ver la Guía Electoral de Reform California Abre la plataforma oficial de la guía de votantes de Reform California i Atribución del Editor: Publicado independientemente por Reform California.
+Reform California es una organización dedicada a la rendición de cuentas del gobierno, la protección del contribuyente y la transparencia electoral.
+Este recurso externo se proporciona para ayudar a los votantes del Distrito 45 de la Asamblea a evaluar su boleta.
+Recursos Electorales Oficiales de California Enlaces útiles proporcionados por la Secretaría de Estado de California: Verifique el Estado de su Registro Electoral ↗ Confirme que su registro de votante esté actualizado y activo.
+Encuentre su Centro de Votación y Buzones Oficiales ↗ Localice casillas electorales y buzones seguros cerca de usted.
+Guía Oficial de Información para el Votante de California ↗ Consulte el análisis legislativo oficial y los argumentos de la Secretaría de Estado.
+Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
+Navegación Inicio Biografía Apoyos Guía Electoral Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

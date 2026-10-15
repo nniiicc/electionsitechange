@@ -10,5 +10,5 @@ Pro-small business.
 Pro-opportunity.
 Because every Delaware worker deserves a fair shot.” Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
-Sign up Recent Posts Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 I’M LISTENING:WHAT I’M HEARING FROM DELAWARE VOTERS Aug 12, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
+Sign up Recent Posts Regarding Comments from School Board Member Elena Brenner Oct 14, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
 Terms and Conditions Privacy Policy

@@ -1,4 +1,4 @@
-Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Newsletter Block This newsletter signup form needs a storage option.
+Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Audio Transcript - Healthcare Ad Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Audio Transcript - Healthcare Ad Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Keep in touch with Tina Sign up to continue to receive news and updates.
 Email Address Sign Up We respect your privacy, so will not sell or share your information.

@@ -1,9 +1,9 @@
 We can’t do it without your help.
 Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer All press In the News · July 26, 2026 Peltola Campaign Claims Growing Momentum as Alaska Senate Race Reaches 100-Day Mark By Levi Rickert · Native News Online Share Copy link With # days remaining before the November general election, Democratic U.S.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer All press In the News · July 26, 2026 Peltola Campaign Claims Growing Momentum as Alaska Senate Race Reaches 100-Day Mark By Levi Rickert · Native News Online Share Copy link With # days remaining before the November general election, Democratic U.S.
 Senate candidate Mary Peltola’s campaign is touting what it describes as growing grassroots momentum across Alaska as she challenges incumbent Republican Sen.
 Dan Sullivan.
 Campaign officials say Peltola, a lifelong Alaskan, former commercial fishing boat captain, military mother, and former U.S. representative, has built a broad volunteer network centered on lowering costs for families, reforming Washington, D.C., and prioritizing Alaska’s interests.
@@ -21,4 +21,5 @@ Peltola, a member of the Bethel-based Orutsararmiut Native Village, made history
 She is seeking to become the first Alaska Native elected to the U.S.
 Senate.
 Originally published by Native News Online Read it at Native News Online More from the Campaign All press PHOTOS: Mary Peltola Holds Meet and Greet in Naknek Press Release · October 5, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in Naknek Read the release PHOTOS: Mary Peltola Holds Meet and Greet in King Cove Press Release · October 4, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in King Cove Read the release PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham Press Release · October 3, 2026 PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham Read the release Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+Join the Team MA R Y PE L T O L A FOR U .S.
+SEN A TE Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

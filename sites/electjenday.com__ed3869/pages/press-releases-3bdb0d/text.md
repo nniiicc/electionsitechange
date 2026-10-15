@@ -1,5 +1,26 @@
-Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases DONATE Home MEET JENNIFER PLATFORM ENDORSEMENTS DONATE Get Involved Press Releases Official statements and announcements from Jennifer Day for Secretary of State, on protecting a safe, secure and accessible voting experience for every eligible Kansan.
-October 7, 2026 ICYMI: Kansas Republican Secretary of State Candidate Admits to Federal Wage Violations and Owing More Than $93,000 in Back Wages to Employees OVERLAND PARK, KS – In an interview earlier this week, Kansas GOP Secretary of State candidate Pat Proctor admitted to owing over $93,000 in back pay to the employees of his restaurant business.
+Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases What Voters Need to Know DONATE Home MEET JENNIFER PLATFORM ENDORSEMENTS DONATE Get Involved Press Releases What Voters Need to Know Press Releases Official statements and announcements from Jennifer Day for Secretary of State, on protecting a safe, secure and accessible voting experience for every eligible Kansan.
+October 14, 2026 Kansas Secretary of State Candidate Jennifer Day Releases New Ad: “Your Voice” “This ballot is more than just a piece of paper.
+It’s the beginning of better schools and healthcare, the first step to lowering costs and pushing back on corruption.” — Jennifer Day First Ad / New Ad This week, Jennifer Day, Democratic candidate for Kansas Secretary of State , released a new campaign ad titled “Your Voice,” highlighting her commitment to ensuring safe and secure elections.
+The new ad compliments her campaign ad released last week, “This Ballot,” which centers on protecting voting access and connecting the ballot box to the issues that matter to Kansans, including better schools, accessible healthcare, and lower costs.
+Both are part of a nearly half a million dollar statewide ad buy to introduce Day to voters ahead of the November 3 election. ﻿ In the “This Ballot” ad, Day draws on her experience as a small business owner, former legislator, and election worker to explain why she is running for Secretary of State.
+She criticizes her opponent, Pat Proctor, for pushing to eliminate in-person early voting and vote by mail, arguing that his position would restrict Kansans’ ability to participate in elections.
+“This ballot is more than just a piece of paper,” Day says in "This Ballot.
+“It's the beginning of better schools and healthcare.
+The first step to lowering costs and pushing back on corruption.” The ad releases come as recent polling shows a close race for Kansas Secretary of State, with Jennifer Day and Pat Proctor just two points apart.
+The polling shows Day taking a sizable lead once voters hear her message, highlighting the importance of introducing Kansans to her vision for protecting voting access and restoring Kansas values to the Secretary of State’s office.
+Full ad transcript: This Ballot Jennifer Day: “This ballot is more than just a piece of paper.
+It's the beginning of better schools and healthcare.
+The first step to lowering costs and pushing back on corruption.
+In the legislature, Pat Proctor pushed to eliminate early voting altogether in person and by mail.
+He wants to take away your vote.
+I'm Jennifer Day, a small business owner, former legislator, and a proud Johnson County election worker.
+I'm running to be your next Secretary of State because our Kansas values run through the ballot.” Full ad transcript: Your Voice Jennifer Day: “Your vote is your voice and every eligible Kansan deserves to be heard.
+Pat Proctor wants to eliminate early voting altogether in person and by mail.
+I take a different approach.
+For 8 years, I've served as an election worker, protecting every eligible citizen's right to vote.
+I will uphold the law, including ensuring only American citizens are allowed to register and cast a ballot.
+I'm Jennifer Day, and I approve this message.
+Canons deserve elections they can trust.” ### October 7, 2026 ICYMI: Kansas Republican Secretary of State Candidate Admits to Federal Wage Violations and Owing More Than $93,000 in Back Wages to Employees OVERLAND PARK, KS – In an interview earlier this week, Kansas GOP Secretary of State candidate Pat Proctor admitted to owing over $93,000 in back pay to the employees of his restaurant business.
 Reports say that Proctor’s business was responsible for dozens of federal wage violations, costing employees back wages including unpaid minimum wage and overtime.
 “If Pat Proctor can't pay his own employees, how can we trust him to run our elections?
 The fact that Proctor withheld tens of thousands of dollars from dozens of his employees – depriving workers of fair wages – shows he has no regard for the people of Kansas and that he thinks the rules don’t apply to him,” said Jennifer Day, Democratic candidate for Kansas Secretary of State.
@@ -53,4 +74,4 @@ As Secretary of State, Jennifer will fight for every vote because what Kansans c
 Her focus will always be on ensuring every eligible Kansan can participate in elections that are secure, accurate, and worthy of the public's trust.
 Election administration should be guided by the law, facts, and the goal of serving voters, not by partisan politics.
 ### Media Inquiries Members of the press can reach the campaign for interviews, statements and additional information.
-Contact the Campaign (785) 329-1078 info@electjenday.com Jen Day for Kansas PO Box 104 | Mission, KS 66202 Press Kit PAID FOR BY JEN DAY FOR KANSAS STACEY KNOELL, TREASURER Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases Terms of Service Privacy Policy
+Contact the Campaign (785) 329-1078 info@electjenday.com Jen Day for Kansas PO Box 104 | Mission, KS 66202 Press Kit PAID FOR BY JEN DAY FOR KANSAS STACEY KNOELL, TREASURER Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases Terms of Service Privacy Policy What Voters Need to Know

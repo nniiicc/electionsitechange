@@ -2,7 +2,15 @@ Imtiaz Mohammad For Florida House District 103 Meet Why Priorities District News
 Imtiaz Mohammad has spent his career building businesses, supporting working families, and helping neighbors solve practical problems.
 His campaign is rooted in service, accountability, and respect for the people who make District 103 strong.
 With an MBA, experience leading companies, and deep ties across South Florida, Imtiaz understands how policy decisions affect household budgets, small businesses, schools, and public safety.
-MBA Graduate CEO, USA Consultancy Group Publisher, Asian Times USA Leader, Beauty Cafe Salons Why I'm Running Florida families deserve lower costs, safer neighborhoods, and leaders who listen.
+MBA Graduate CEO, USA Consultancy Group Publisher, Asian Times USA Leader, Beauty Cafe Salons Where Imtiaz Stands Click the graphic to view it full-size.
+My Position on Palestine My position is clear: I stand firmly with Palestine 🇵🇸 for Freedom, Justice and HUMANITY !
+What is happening in Gaza is a GENOCIDE.
+I call for an immediate ceasefire, unrestricted humanitarian aid, and demand Palestinian rights, self-determination and statehood.
+There can be no lasting peace without justice and accountability.
+I demand Netanyahu’s immediate arrest and prosecution for war crimes.
+I oppose unconditional U.S. aid to Israel, support an arms embargo to Israel, and oppose investing state or federal taxpayer dollars in Israeli bonds.
+I support requiring AIPAC to register as a foreign entity and banning its political funding in any form.
+FREE PALESTINE 🇵🇸 Imtiaz Mohammad Candidate for Florida State House - District 103 Why I'm Running Florida families deserve lower costs, safer neighborhoods, and leaders who listen.
 Imtiaz is running to bring common-sense leadership to Tallahassee.
 He will fight for taxpayers, defend parents, support law enforcement, and help create an economy where small businesses can grow.
 Protect affordability for homeowners, renters, and seniors.

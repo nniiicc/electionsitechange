@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Meet Mary Mary has called Indiana home for more than 30 years.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Meet Mary Mary has called Indiana home for more than 30 years.
 After leaving for military training, she returned to Evansville to raise her three daughters in the community she loves.
 Today, she and her husband, Greg, live in downtown Evansville, where they enjoy time with their two grandchildren.
 Mary currently serves as an At-Large City Councilor , where she serves as Vice President.

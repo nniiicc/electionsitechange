@@ -14,9 +14,11 @@ Anna’s husband Jason and his family own a farm just outside of Dallas.
 They have two children: a son who is a teacher at Yamhill-Carlton High School and who is also the Head Varsity Football Coach at Ida B.Wells High School in Portland, and a daughter who is attending Eastern Oregon University working on her MBA.
 Get Involved “I have worked in the legislature and have seen first-hand the dysfunction of polarizing partisanship.
 I want you to know that I am committed to serving you, and the whole of House District 23.” - Anna Scharf Oregon House Representative Get Involved Sign up to get updates from Anna!
-By entering your information, you consent to receive campaign updates, GOTV reminders, informational messages, and solicitations for support from Friends of Anna Scharf.
-Message and data rates may apply.
-Message frequency varies.
-You can unsubscribe at any time by replying STOP or using the unsubscribe link at the bottom of our emails.
-For more, please read our Privacy Policy .
+By signing up for texts, you consent to receive campaign updates, GOTV reminders, informational message text messages from Friends of Anna Scharf at the number provided.
+Donations may be solicited.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms at https://www.voteannascharf.com/privacy-policy .
 Paid for by Friends of Anna Scharf

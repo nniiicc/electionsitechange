@@ -7,6 +7,10 @@ We believe it is important to give our community the chance to hear directly fro
 We hope you will join us for this informative evening and take part in meaningful dialogue regarding the future of our community.
 We hope to see everyone there!
 For any questions or concerns please contact becca@silvervalleychamber.com Learn more here .
+View Event → Oct 21 Meet & Greet in Bonners Ferry Wednesday, October 21, 2026 1:00 PM 3:00 PM Google Calendar ICS Interested in joining us?
+Email info@stegnerforidaho.com for details!
+View Event → Oct 22 Meet & Greet in Lewiston Thursday, October 22, 2026 5:00 PM 6:30 PM The Mango Tree (map) Google Calendar ICS Come meet John and bring your undecided friends and family.
+Ask questions, get answers, learn why independent is the way to go November 3!
 View Event → Oct 23 Citizens' Forum in Moscow Friday, October 23, 2026 4:00 PM 5:30 PM Kenworthy Theater (map) Google Calendar ICS Indivisible Moscow and its partners present Idaho’s congressional and statewide candidates at a citizens’ forum scheduled at Moscow’s historic Kenworthy Theater on Friday, October 23.
 The doors will open at 3:30, and the program will run from 4-5:30pm.
 This forum will provide voters the opportunity to meet candidates (including John) for the following offices: U.S.

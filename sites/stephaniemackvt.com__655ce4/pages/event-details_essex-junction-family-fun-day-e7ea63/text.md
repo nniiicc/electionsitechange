@@ -1,4 +1,4 @@
-top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Essex & Junction Family Fun Day!
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Videos Merch Events Donate Essex & Junction Family Fun Day!
 Sun, Jul 26 | 104 Center Rd Free event for Essex Town & Junction Residents!
 All games are free!
 Optioal BBQ Lunch $10 Registration is closed See other events Time & Location Jul 26, 2026, 1:00 PM – 5:00 PM 104 Center Rd, 104 Center Rd, Essex Junction, VT 05452, USA Guests See All About the event Bring your bathing suit to try the giant slip & slide, kids axe throwing, tug of war rope, sack races, mini golf, Big Blue Trunk games, music by DJ Roger, reusable water balloons, giant connect 4, Pipsqueek the Clown, corn hole & more....

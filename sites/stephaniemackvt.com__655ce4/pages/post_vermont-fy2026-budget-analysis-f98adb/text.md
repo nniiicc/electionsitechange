@@ -1,4 +1,4 @@
-top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Government Accountability Search Vermont's $9 Billion Budget: Making Sense of Where the Money Goes Stephanie Mack #ago 4 min read Do you enjoy math word problems?
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Videos Merch Events Donate All Posts Campaign Updates Government Accountability Search Vermont's $9 Billion Budget: Making Sense of Where the Money Goes Stephanie Mack #ago 4 min read Updated: #ago Do you enjoy math word problems?
 Most people don't.
 And when it comes to understanding how Vermont spends billions of dollars each year, the challenge is considerably greater than anything we ever encountered in school.
 Following my October 12 appearance on WVMT radio, where I discussed Vermont's finances with former Governor Jim Douglas , I wanted to take a closer look at the state's budget and share what I found.
@@ -8,6 +8,7 @@ Now try making sense of the legislation.
 The budget is presented through pages of appropriations, funding sources, transfers, statutory references, and financial figures.
 The information is publicly available, but making sense of it requires considerable time and familiarity with government accounting.
 Public information isn't necessarily understandable information.
+Watch: Vermont's $9 Billion Budget Stephanie Mack joins former Governor Jim Douglas on The Morning Drive with Anthony Neri on WVMT 103.3 FM, October 12, 2026, for a conversation about Vermont's budget, government spending, and financial accountability.
 Putting My Financial Experience to Work I've spent more than 25 years working in business operations, accounting, and financial management.
 One thing I've learned is that numbers become useful only when they're organized in a way that helps people understand what's happening.
 In business, we use financial statements to answer basic questions: How much money is coming in?
@@ -48,7 +49,7 @@ A smaller expenditure isn't necessarily effective.
 But until we can clearly see where the money is going, it's difficult to have a productive conversation about spending priorities, affordability, and accountability.
 My hope is that presenting Vermont's financial information in a more familiar format will encourage residents, business owners, and legislators to examine the numbers and ask questions.
 I am making my analysis available so anyone can explore it, discuss it, and examine the underlying sources.
-You don't have to agree with my political views to believe that government finances should be understandable.
+No matter what side of the aisle you're on politically, we must look at the numbers and review them together.
 After all, it's public money.
 We should all be able to follow it.
 Review the Documents Read the Original FY2026 Budget (Act 27, H.493) Download Stephanie Mack's FY2026 Budget Analysis (PDF) Vermont Joint Fiscal Office Fiscal Facts (PDF) Editor's note: The financial workbook was developed with AI assistance using FY2026 budget information and references to the Vermont Joint Fiscal Office's Fiscal Facts.

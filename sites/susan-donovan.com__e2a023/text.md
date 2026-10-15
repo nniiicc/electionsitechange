@@ -6,8 +6,20 @@ This year we’ve provided targeted tax relief for families and seniors, strengt
 With my East Bay colleagues we passed legistaltion to require regular monthly updates from the DOT on the status of the Washington Bridge reconstruction.
 Please feel free to reach out to me with any questions, ideas, concerns or problems that you may have.
 I’ll do my best to help you.
-In the 2024 session I have continued my service as: Chair of the Health and Human Services Committee Member of Oversight, Education and Veteran’s Affairs Committees Member of the newly formed Commission to explore the potential establishment of a medical school at URI improving the primary care pipeline.
-Member of the Long-Term Care Coordinating Council and the Integrated Coordinating Council for Early Intervention Legislative Updates To read a synopsis of legislation passed this year in the General Assembly click link: 2024-06-21.pdf (rilegislature.gov) To read a synopsis of legislation passed in 2023 click here , 2022 click here and 2021 can be found here .
+In the 2026 session I have continued my service as: Chair of the Health and Human Services Committee Member of Education and Veteran’s Affairs Committees Member of the Commission to explore the potential establishment of a medical school at URI improving the primary care pipeline.
+Member of the Long-Term Care Coordinating Council and the Integrated Coordinating Council for Early Intervention Legislative Updates To read a synopsis of the legislation passed in 2026 in the General Assembly click link: https://www.rilegislature.gov/pressrelease/YearlyHighlights/2026.pdf Bills for which I was a Primary Sponsor that passed in 2026 7625 SUB A Commencing January 1, 20 27, mandates insurers provide health insurance coverage without cost-share requirements for vaccinations recommended and deemed necessary by the RI Department of Health and organizations such as the American Academy of Pediatrics, even if the CDC does not.
+It also mandates the coverage for the medical assistance program and managed care organizations.
+8069 SUB A Requires shooting ranges to post signs in any area in which shooting occurs and to also enforce the standard safety practice already utilized by many facilities across the nation-- mandating that membership-based shooting ranges require non-members to be accompanied at all times by a member or a staff member while on the premises and engaging in shooting activity.
+I am grateful to the 2amendment community for supporting this bill.
+This bill came to me after a tragedy.
+Mom Jamie Brooks came to me last year to see if we could somehow prevent another death.
+She wanted to do this to honor the memory of her son JJ.
+Even more heartbreaking is that it was the second such death at this range and traumatic for all involved.
+7376 SUB A Allows for a special RI license plate to raise awareness for colon cancer and would be designed by the partnership to reduce cancer in RI.
+This bill was the wish of Bristol couple Pam and Rusty Mirik who lost their daughter Meridyth to colon cancer after being diagnosed at the age of 28.
+7163 Prohibits participation in federal school voucher tax credit for contributions to scholarship-granting organizations unless both the general assembly and the governor approve such participation.
+According to the NEA, opting into the federal tax credit voucher program would divert scarce public funds to private schools with fewer standards and protections—a model historically used to evade desegregation and one that continues to undermine the inclusive mission of public education House Resolution No.
+7258 BY Donovan ENTITLED, JOINT RESOLUTION MAKING AN APPROPRIATION OF $200,000 TO BE USED FOR INCENTIVES FOR FRUITS AND VEGETABLES SOLD AT PARTICIPATING BONUS BUCKS OUTLETS IN RHODE ISLAND (Authorizes the appropriation of the sum of $200,000 for incentives for the Farm Fresh Bonus Bucks Program.) This made it into the state budget.
 I am the proud primary sponsor of a bill that became law in 2024.
 H-7613 Requires RIDE to develop type 1 diabetes informational materials for parents and guardians of students that will be posted publicly on RIDE's website.
 I was proud to have been the primary sponsor of two bills that became law in 2023.
@@ -24,7 +36,8 @@ House Bill 5370 will protect the health care privacy of all- including young adu
 House Bill 6210A protects patient’s health by making the electronic sharing of health records more effective throughout our healthcare systems.
 Next Conversation with Representatives Donovan & Speakman will be announced soon.
 If you are experiencing difficulties with any State agencies, programs or Unemployment Insurance, please reach out to me at Susandonovanbristol@gmail.com or 253-7837.
-If someone you know is behind on rent and/or utilities find more information at: RentReliefRI | RIHousing Highlights of FLAD-Foundation for Luso-American Development Our group with the President of the Republic of Portugal, the Ambassador from the US, Congressman Costa and the Director of FLAD In 2022 and 2023 I had the honor and privilege to travel to Lisbon, Portugal to attend FLAD ( Luso American Development Foundation) which brings together American politicians of Portuguese descent elected to Congress or the General Assemblies of Rhode Island and Massachusetts.
+If someone you know is behind on rent and/or utilities find more information at: RentReliefRI | RIHousing To read a synopsis of legislation passed in 2024-06-21.pdf 2023 click here , 2022 click here and 2021 can be found here .
+Highlights of FLAD-Foundation for Luso-American Development Our group with the President of the Republic of Portugal, the Ambassador from the US, Congressman Costa and the Director of FLAD In 2022 and 2023 I had the honor and privilege to travel to Lisbon, Portugal to attend FLAD ( Luso American Development Foundation) which brings together American politicians of Portuguese descent elected to Congress or the General Assemblies of Rhode Island and Massachusetts.
 The foundation is a bridge between the two countries, focusing on Science, Education, Culture and Transatlantic Relations.
 We met with US Ambassador to Portugal, Randi Levine .
 She spoke about her vision for the relationship between the two countries, and highlighted the importance that Portuguese-American politicians play in this role.

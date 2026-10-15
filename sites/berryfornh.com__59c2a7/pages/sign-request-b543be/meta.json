@@ -1,9 +1,10 @@
 {
- "description": "Request Republican yard signs for a Weare or Goffstown, New Hampshire address.",
+ "description": "Request Republican yard signs in Weare or Goffstown, or a property tax cap or Kelly Ayotte sign anywhere in New Hampshire.",
  "final_url": "https://berryfornh.com/sign-request",
- "fingerprint": "b8bc1dbc39a511a839ae28edf8999dd8f002f360",
+ "fingerprint": "42b22699bdada6f0d600a2ba68f2a20b4a151f54",
  "format": 3,
  "paid_for_by": "Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH",
+ "rendered": false,
  "title": "Request a Yard Sign | Ross Berry - Berry For New Hampshire",
  "years_mentioned": []
 }

@@ -41,25 +41,18 @@ Illinois will continue to lead not only on reproductive rights but on the fundam
 Without proper oversight, data collection can be abused and negatively affect your lives.
 Whether you are being forced to crossed state lines to exercise your right to choose or whether you are going to the grocery store, you should not be tracked for legal activities.
 I am taking a stand as Illinois Secretary of State, but I need your help.
-Read More Watch the Video Follow Our Journey on Social @alexiforus /AlexiGiannoulias Alexi Giannoulias is at Chicago Cultural Center.
-#ago Chicago and the entire state of Illinois are welcoming places because of the collective power built by the incredible people in this room.
-Thank you, ICIRR, for 40 years of championing and protecting immigrant and refugee communities.
-I’m proud to stand alongside you in this work.
-#immigrantrights #refugeerights #chicago ...
-See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago J.R.
-Berger threw out a big question: Where do you see Chicago in ten years?
-Here’s my take: a safer city, stronger businesses, lively neighborhoods, and a place people want to stick around for good.
-That’s what I’m hoping for.
-How about you?
-What does your Chicago look like in the next decade?
-#Chicago #ChicagoBusinesses #ChicagoFuture ...
-See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago Great conversation in the 43rd Ward at the Lincoln Common about community, Chicago’s future, and what it will take to make this a city people are excited to call home for the long haul.
-Thank you to Alderman Timmy Knudsen for hosting us and bringing people together for such a thoughtful discussion about the future of our city. ...
-See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago Want to make a real difference in Chicago?
-Read on! ➡️ Long before our official announcement, we were thinking about how our campaign could positively impact lives in Chicago.
-That's why we set up Community Hubs in our field offices, places where people can grab free supplies, help each other out, and get involved.
-Together, we can show up for Chicago one community at a time.
-How will you get involve #chicago i #chicagosouthside h #chicagowestside t #alexiforchi orChi ...
+Read More Watch the Video Follow Our Journey on Social @alexiforus /AlexiGiannoulias Alexi Giannoulias #ago People often ask me about my vision for Chicago’s future.
+It’s about less crime on our streets, a city hall that works, and making Chicago affordable for working families.
+This vision is at the heart of my campaign, and I’m committed to making it a reality as mayor. ...
+See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago October is Domestic Violence Awareness Month and it’s on all of us to look out for each other.
+As mayor, I promise to stand with survivors and make sure help is always within reach.
+Help is available 24/7 at 877-863-6338 (877-TO END DV). ...
+See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago ONLY 9️⃣ DAYS TO THE FINISH LINE, CHICAGO!
+If want to sign a petition here’s where we’ll be tomorrow 👉🏻 Sunday ⬇️ 📍 11 AM – 2 PM Fall Fest at Jefferson 📍 12 PM – 3 PM Ravenswood Octoberfest 📍 3 PM – 5 PM Latino Dance Festival ...
+See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago As we inch closer to petition filing, I want to celebrate the canvassers who help who make the campaign possible.
+Long days, rejection, unpredictable weather, and still showing up, finding your rhythm, and keeping the conversations going is no easy feat.
+So, thank you.
+I truly appreciate everyone who’s been apart of the effort to help me make the ballot and positively impact Chicago. 🎯 ...
 See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Contribute to Alexi's Vision Chip in today to keep our momentum going!
 Contribute Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias Join our team!
 Alexi knows we deserve more from our elected officials.

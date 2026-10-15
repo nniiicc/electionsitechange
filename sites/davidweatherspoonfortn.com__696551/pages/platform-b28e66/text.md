@@ -1,4 +1,4 @@
-top of page Home About Platform Get Involved Contact More Use tab to navigate through the menu items.
+top of page Home About Platform Get Involved Contact Terms & Conditions More Use tab to navigate through the menu items.
 Donate My Platform Education Education spending is an investment.
 Tennessee invests the least amount on students in the nation, ranking 51st including D.C.
 Our teachers are paid at one of the lowest levels in the country.
@@ -32,4 +32,4 @@ Message frequency varies.
 Message and data rates may apply.
 Reply STOP to unsubscribe or HELP for assistance.
 See our Privacy Policy and Terms of Service for more information.
-DavidWeatherspoonForTNSenate@gmail.com Free yard sign request Paid for by David Weatherspoon for TN Senate ​ © # by David Weatherspoon for TN Senate | Privacy Policy bottom of page
+DavidWeatherspoonForTNSenate@gmail.com Free yard sign request Paid for by David Weatherspoon for TN Senate ​ © # by David Weatherspoon for TN Senate | Privacy Policy | Terms & Conditions bottom of page

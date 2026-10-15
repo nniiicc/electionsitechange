@@ -1,4 +1,4 @@
-top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE Menu Close Meet Simon Trautmann Cordova Simon Trautmann Cordova is a former Richfield City Councilmember and people’s attorney running for MN Senate District 51.
+top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO Menu Close Meet Simon Trautmann Cordova Simon Trautmann Cordova is a former Richfield City Councilmember and people’s attorney running for MN Senate District 51.
 During a time when the federal government is turning its back on Minnesota, Simon is a fierce advocate for thriving families, healthcare for all, and a fair, affordable economy.
 Simon was born in Bloomington and remains a lifelong resident of the district.
 He attended Bloomington and Richfield public schools.
@@ -10,4 +10,4 @@ Simon champions working families across the state, and he is a committed communi
 Follow us on socials to keep up with the most recent campaign updates!
 Paid For By Simon For 51, 30 S 9th St.
 7th Fl.
-Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page
+Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

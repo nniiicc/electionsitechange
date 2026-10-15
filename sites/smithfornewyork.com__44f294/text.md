@@ -33,4 +33,5 @@ Stay & Fight: Long Island is worth it!
 Long Island is our home.
 Don't become a statistic.
 Join the fight to save our state!
-Get Involved Your Name* Your Email* Mobile Phone* Zip Code* Get Involved (please select at least one): Display a Lawn Sign Knock on Doors Make Phone Calls Write Letters to the Editor Host a Fundraiser Parades & Events Other Δ Stay Connected Facebook Instagram Follow on Instagram #ago 14 6 #ago 13 0 #ago 7 0 #ago 21 0 #ago 5 0 #ago 17 2 Meet Doug Priorities #WithSmith Volunteer RSVP Donate
+Get Involved Volunteer or Request a Lawn Sign!
+Stay Connected Facebook Instagram Follow on Instagram #ago 14 6 #ago 13 0 #ago 7 0 #ago 21 0 #ago 5 0 #ago 17 2 Meet Doug Priorities #WithSmith Volunteer RSVP Donate

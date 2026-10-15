@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page COMMITTEES 2025 Senator Ricciardi currently serves on these committees: Current Committees: Chair, Transportation; Vice Chair, Commerce BILLS 2024-2025 View Bills Senator Ricciardi Sponsored This Session PRIORITIES Economy Getting our economy back on track is the top priority.
 We need to keep taxes low and fight against Democrat efforts to pass a sales tax, income tax, or capital gains tax.
 If we are going to get our friends and neighbors back to work and help our struggling small businesses survive and thrive we need to lower business taxes, we need to lower energy and healthcare costs through more competition and less government intervention.

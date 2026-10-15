@@ -37,5 +37,5 @@ Hartford needs to stop asking what else it can fund and start asking what it can
 Because the most meaningful tax relief is not always another credit or deduction.
 Sometimes it is simply not making the bill bigger in the first place.
 Michael Mason is a candidate in the November 3 rd election who is running to represent Greenwich from the 151 st District as your next state representative.
-Learn more about Mike by visiting his website at votemichaelmason.com ← Previous Post Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
+Learn more about Mike by visiting his website at votemichaelmason.com ← Previous Post Next Post → Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
 Approved by Michael Mason

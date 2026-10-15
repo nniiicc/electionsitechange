@@ -9,7 +9,7 @@ Hearings are also livestreamed and archived online , where committee calendars a
 Click here for a list of topics state legislators will be examining and please reach out if you plan on visiting the Statehouse.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
 Post navigation Prev Supporting Hoosiers During Public Emergencies Next Thinking of a career change?
-Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

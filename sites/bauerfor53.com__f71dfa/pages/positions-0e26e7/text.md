@@ -1,7 +1,8 @@
 ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Commentary & Policy Proposals Where Elizabeth stands, in her own words.
 Elizabeth Bauer writes about Illinois' fiscal problems, education, public safety, and Springfield's process, in detail, as they happen.
 Every post below is here in full, with her original links.
-The Issues Policy/Proposals Commentary Alerts Policy/Proposals (8) Policy/Proposals July 26, 2026 On Disability Pride Month: Yes, it’s the fiscal responsibility issue, again It’s Disability Pride Month.
+The Issues Policy/Proposals Commentary Alerts Policy/Proposals (9) Policy/Proposals October 14, 2026 Real Solutions on Pensions A four-step plan from an actuary: no new pension sweeteners, a hybrid system for new hires, a Tier 2 option, and a bipartisan constitutional amendment.
+Read the full post → Policy/Proposals July 26, 2026 On Disability Pride Month: Yes, it’s the fiscal responsibility issue, again It’s Disability Pride Month.
 With that in mind, here are my key beliefs regarding state-level disability issues.
 I’m not calling these “policy proposals” per se because these are already part of the discussion, just not necessarily visible, and I don’t claim to be an expert on these issues, but the… Read the full post → Policy/Proposals February 17, 2026 Three principles for a better deal for Chicago, Illinois, and the Bears News reports say that hearings on the Bears/megaprojects bill are scheduled to begin on Thursday in Springfield.
 At the same time, ongoing reports have made it clear that the ultimate decision lies with Pritzker and a small handful of top Democrats.

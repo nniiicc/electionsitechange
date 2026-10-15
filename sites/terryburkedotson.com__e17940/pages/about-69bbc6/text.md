@@ -1,4 +1,4 @@
-TerryBurkeDotson.com Terry Burke Dotson running for State Representative About “Terry Burke DOTSON Announces Candidacy for State Representative, 7th Worcester District” I am the most qualified candidate to serve as your next State Representative for the 7th Worcester District of Millbury, Auburn, Charlton’s Precinct 4, and Oxford’s Precincts 2 & 3.
+TerryBurkeDotson.com Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District About “Terry Burke DOTSON Announces Candidacy for State Representative, 7th Worcester District” I am the most qualified candidate to serve as your next State Representative for the 7th Worcester District of Millbury, Auburn, Charlton’s Precinct 4, and Oxford’s Precincts 2 & 3.
 I am an INDEPENDENT candidate…and I believe in WORKING for a living.
 After more than 22 years of taking your money, my opponent, Paul Frost’s reason for you to reelect him is a “100% voting attendance”.
 From the numbers on his website that means showing up, an average of approximately 24 days a year for roll call votes, to cast 12 votes.
@@ -37,4 +37,4 @@ I am also an active member of Millbury’s Veterans’ Council, Veterans of Fore
 I support: Law and Order The Second Amendment Treating the destruction and/or harm done to public or private property or people as a punishable crime Full funding for local and state police with additional “Restraint Training” like teachers take Open dialog in public sessions to discuss and attempt to resolve issues of serious concern, instead of resorting to violence.
 Better access to Mental Health Providers Better access to Social Workers Better Mental Health and Health Care for Veterans Reducing and freezing real estate taxes for Senior Citizens on SSI Reducing interest rates on Student Loans IPads and Technology back-up for 1-12 public school students I believe in “doing” the Right Thing…not “talking” about it.
 Fill in the “Dot” for DOTSON.
-Thank you, Terry Burke DOTSON Independent Submitted by: Terry Burke Dotson Millbury, MA Pages About Contact News Photos Video Terry Burke Dotson running for State Representative © Terry Burke Dotson
+Thank you, Terry Burke DOTSON Independent Submitted by: Terry Burke Dotson Millbury, MA Pages About Contact News Photos Video Terry Burke Dotson Announces Candidacy for State Representative for 7th Worcester District © Terry Burke Dotson

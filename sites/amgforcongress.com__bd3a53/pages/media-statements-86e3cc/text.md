@@ -1,18 +1,27 @@
-0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE In The News Statements Op-Eds In the News The Usual Suspects with Gary Yordon September 13, 2026 TALLAHASSEE, Fla.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE In The News Statements Op-Eds In the News Blue Dogs rush in for Amanda Marie Green in CD 2 October 15, 2026 The fiscal hawks in the House Democratic Caucus are sweeping into the Panhandle to help Amanda Marie Green .
+Reporting by Jacob Ogles.
+Politics in Pink: Amanda Green’s Message to the Women of FSU The Usual Suspects with Gary Yordon September 13, 2026 September 28, 2026 Green is the Democratic congressional nominee for Florida’s Second Congressional District, which includes Tallahassee.
+She has years of administrative experience, working with the U.S.
+Agency for International Development for most of her professional life.
+TALLAHASSEE, Fla.
 (WCTV) - “The Usual Suspects,” airing in 38 counties, has become one of North Florida’s and South Georgia’s premier political talk shows.
-Amanda Marie Green consolidates support after contentious CD 2 Primary August 28, 2026 Since pulling out a narrow victory in a crowded and contentious Primary for Florida’s 2nd Congressional District, Democratic nominee Amanda Marie Green has wasted no time consolidating support within her party.
+Amanda Marie Green consolidates support after contentious CD 2 Primary August 28, 2026 October 5, 2026 TALLAHASSEE, Florida — Florida’s 2nd Congressional District spans much of the Florida Panhandle and includes all six counties along the Apalachicola River.
+Democrat Amanda Marie Green is facing Republican Austin Rogers in the race to replace retiring U.S.
+Rep.
+Neal Dunn (R), who was first elected in 2016.
+Since pulling out a narrow victory in a crowded and contentious Primary for Florida’s 2nd Congressional District, Democratic nominee Amanda Marie Green has wasted no time consolidating support within her party.
 CD 2 race sets Green's rural coalition against Rogers' GOP stronghold August 20, 2026 Democrat Amanda Green and Republican Austin Rogers won their party nominations Aug.
 18, setting up a November showdown in Florida's open 2nd Congressional District seat, a race with implications for control of the U.S.
 House.
 Amanda Green moves closer to a congressional seat, plans for the General Election Last night, Florida voters decided the Republican and Democratic candidates for the U.S.
 District 2 congressional seat.
-August 19, 2026 Green wins Democratic nomination and Rogers claims GOP's in CD 2 Democrat Amanda Marie Green and Republican Austin Rogers secured their party nominations Tuesday, setting up a November showdown in Florida's 2nd Congressional District, an open-seat contest that could become part of the national battle for control of the U.S.
+August 19, 2026 Green wins Democratic nomination and Rogers claims GOP's in CD 2 Democrat Amanda Marie Green secured the party nominations Tuesday, setting up a November showdown in Florida's 2nd Congressional District, an open-seat contest that could become part of the national battle for control of the U.S.
 House.
 August 18, 2026 Trump dismantled USAID.
 Now these aid workers are running for office For a growing group of former USAID and development professionals, the sector’s collapse has sparked a new response: running for political office.
 January 21, 2026 Town hall showcases three Democrats running for Congress in north Florida Leon County Indivisible, a group dedicated to hosting public policy discussions, drew more than 100 people Oct.
 20 to an Elks Club meeting room in Tallahassee.
-October 21, 2025 Amanda Marie Green rolls out endorsements from Tallahassee-area legislators in wake of CD 2 Primary win August 20, 2026 Fresh off her win in a crowded Democratic Primary in Florida’s 2nd Congressional District, Amanda Marie Green has announced endorsements from Democratic state Reps.
+October 21, 2025 A Q&A about the Apalachicola River with Amanda Marie Green Amanda Marie Green rolls out endorsements from Tallahassee-area legislators in wake of CD 2 Primary win August 20, 2026 Fresh off her win in a crowded Democratic Primary in Florida’s 2nd Congressional District, Amanda Marie Green has announced endorsements from Democratic state Reps.
 Gallop Franklin and Allison Tant .
 Reporting by Fabrizio Gowdy.
 Amanda Marie Green wins the Democrat nod and advances to November for CD2 Amanda Green is set to represent Democrats in the race for Florida’s Second Congressional District.
@@ -27,9 +36,11 @@ Reporting by Jacob Ogles .
 April 17, 2026 Panhandle Politics: Amanda Marie Green - Hosted by Tom Lewis Panhandle Politics is a weekly public affairs show from WMBB News 13 that features in-depth interviews with local leaders, elected officials, and community voices across Northwest Florida, focusing on the issues shaping the Florida Panhandle.
 April 25, 2026 Democrats make their cases for Congress At a well attended meet-and-greet April 13 at the senior citizens center in Port St.
 Joe, hosted by the Gulf County Democratic Party , candidates Yen Bailey, Amanda Marie Green and Nic Zateslo made their case for why they would best serve as the local standardbearer for the Democratic agenda in Congress.
-April 21 2026 Op-Eds Florida's families deserve better in DC, at home | Opinion - Nov.
+April 21 2026 Rogers, Green agree to debate ahead of Florida’s 2nd Congressional District election October 1, 2026 Two candidates, one seat.
+Next month, Florida’s 2nd Congressional District will have a new face for the first time in almost a decade.
+Op-Eds Florida's families deserve better in DC, at home | Opinion - Nov.
 10, 2025 by Amanda Marie Green Roe v.
-Wade: A terrifying new reality for parents who are expecting | Opinion - July 1, 2022 by Amanda Marie Green, Your Turn Why I am endorsing Amanda Green for Florida’s CD 2 | Opinion - April 23, 2026 by Leon Sherriff Walt McNeil Statements First Anniversary of Shooting at Florida State University I am proud to be a Florida State Nole.
+Wade: A terrifying new reality for parents who are expecting | Opinion - July 1, 2022 by Amanda Marie Green, Your Turn Why I am endorsing Amanda Green for Florida’s CD 2 | Opinion - April 23, 2026 by Leon Sherriff Walt McNeil Opinion: Who wins when American farmers lose? - October 5, 2026 by Amanda Marie Green, Agri-Pulse Statements First Anniversary of Shooting at Florida State University I am proud to be a Florida State Nole.
 In November 2014, I was asleep at home on West Georgia Street when a gunman entered Strozier Library and terrorized students, many of whom were close friends of mine.
 It was a night defined by fear and confusion, and by the painful recognition that the person responsible was someone in clear need of mental health support who never received it.
 I remember the heavy silence that settled over campus in the days, weeks, and months that followed.

@@ -1,6 +1,8 @@
 Donate now!
 Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
-Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive Peace Action Backs Abdul El-Sayed for Michigan’s Open U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
+Senate candidate boosts local organizers’ efforts to cancel medical debt in Michigan’s GOP-held CD1 ANN ARBOR, MI – In a bold break from political convention, Dr.
+Abdul El-Sayed announced today that his campaign raised over … Peace Action Backs Abdul El-Sayed for Michigan’s Open U.S.
 Senate Seat Press Release July 30, 2025 Nation’s largest grassroots peace organization says “Abdul’s voice is a rare necessity” ANN ARBOR, MICHIGAN – Today, U.S.
 Senate candidate Abdul El-Sayed announced the endorsement of Peace Action, the nation’s largest grassroots peace organization.
 “Peace Action is proud … U.S.

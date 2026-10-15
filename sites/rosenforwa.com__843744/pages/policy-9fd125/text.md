@@ -1,4 +1,4 @@
-ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Michael Rosen's Policy Practical policies for a stronger Washington Independent leadership means taking each problem seriously, matching the response to the facts, and being accountable for the result.
+Seattle Times endorsement of Rosen for 41st District, Position 2 Read it ROSEN for WA About Policy Candidate Comparison Platform Community Get Involved Donate Donate About Policy Candidate Comparison Platform Community Get Involved Michael Rosen's Policy Practical policies for a stronger Washington Independent leadership means taking each problem seriously, matching the response to the facts, and being accountable for the result.
 Financial Responsibility & Accountability Not a revenue problem — a responsibility problem.
 Washington is strong enough to rank 3rd for long-term fiscal stability, yet dead last—50th of 50—for short-term stability.
 Michael's plan puts spending discipline, audit accountability, dedicated funds, reserves, and public oversight first.

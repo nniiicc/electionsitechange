@@ -1,3 +1,5 @@
-Meet Claiborne Support News & Events Ideas Vote Contact Donate News & Press Linvill Is Official Democratic Nominee Claiborne Linvill is officially the Democratic nominee for South Carolina State House District 3.
+Meet Claiborne Support News & Events Ideas Vote Contact Donate News & Press Linvill Speaks at Candidate Event in Seneca Claiborne Linvill, candidate for SC House District 3, was an invited speaker at a large gathering hosted by Oconee Women for Progress, the Oconee County Democratic Party, and Indivisible Oconee.
+Claiborne was one of several invited speakers, including statewide candidates for governor and treasurer, who addressed a large crowd at Biggerstaff Christian Retreat and Conference Center in Seneca, SC.
+Read More » Linvill Is Official Democratic Nominee Claiborne Linvill is officially the Democratic nominee for South Carolina State House District 3.
 Read More » Linvill Announces Run for State House Claiborne Linvill, a 20-year resident of Clemson, S.C., and a current elected member of Pickens County Council, announces her run for State House Representative for District 3.
 Read More » Previous page 1 You're on page 2 Paid for by Linvill for SC House 3 Privacy Policy | Cookie Policy | site by ALINE, A Marketing Company Meet Claiborne Support Contact Contribute Facebook Instagram Back To Top Error Message &times

@@ -36,10 +36,10 @@ Volunteer Signup Form Contact 410-841-3378 Lowe House Office Building, Room 404,
 Harrison, Treasurer 4523 Mustering Drum Ellicott City, MD 21042 Follow Terri on Facebook Terri Hill Page is by the Authority of Friends of Terri Hill, 4523 Mustering Drum, Ellicott City, MD.
 Terri Hill #ago In solidarity, with reverence for those who came before, let’s walk united in truth and love, honoring original caretakers, listening and learning on this Indigenous Peoples’ Day.
 This is a photo of two Native American dancers in vibrant regalia performing a traditional dance.
-Photographer: Jon Champaigne 8 View on Facebook Terri Hill #ago Please join me at the Carriage House in Columbia for an evening of celebration and conversation.
+Photographer: Jon Champaigne 14 2 View on Facebook Terri Hill #ago Please join me at the Carriage House in Columbia for an evening of celebration and conversation.
 As your delegate in Annapolis, I have taken significant steps to protect our seniors, improve education, and give Marylanders access to high-quality, affordable healthcare.
 Together, we have made an impact for our community, but to keep pushing forward, I need your continued support.
-RSVP and donate: https://secure.actblue.com/donate/oct.20 14 2 View on Facebook Terri Hill #ago I am voting FOR Question 3 this November and I hope you will join me in doing so.
+RSVP and donate: https://secure.actblue.com/donate/oct.20 15 2 View on Facebook Terri Hill #ago I am voting FOR Question 3 this November and I hope you will join me in doing so.
 Donald Trump and his allies know they can’t win fair and square, so they’re rigging the system.
 He demanded red states like Texas and Florida rig their maps, creating 15 more seats in order to lock in a Republican majority in Congress.
 He’s expecting blue states like Maryland to back down and not respond.

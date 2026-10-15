@@ -1,4 +1,4 @@
-VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Vic Meyers A Coloradan’s Life of Service, Hard Work & Democratic Values From the motocross tracks of Pueblo to the mountains of Colorado, from the Colorado Department of Corrections to the classrooms of Walsenburg, Vic Meyers has lived a life of service, responsibility, and unwavering commitment to doing what’s right.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Video Library Endorsements Get a Yard Sign Contact Donate Vic Meyers A Coloradan’s Life of Service, Hard Work & Democratic Values From the motocross tracks of Pueblo to the mountains of Colorado, from the Colorado Department of Corrections to the classrooms of Walsenburg, Vic Meyers has lived a life of service, responsibility, and unwavering commitment to doing what’s right.
 Vic isn’t a politician.
 He’s a neighbor.
 He’s lived the life of working Coloradans.

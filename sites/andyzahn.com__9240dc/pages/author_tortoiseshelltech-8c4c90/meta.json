@@ -1,9 +1,12 @@
 {
  "description": "Read all of the posts by Andy Zahn on Andy Zahn",
  "final_url": "https://andyzahn.com/author/tortoiseshelltech/",
- "fingerprint": "56c92e408b67bec48ba8146b49502e9952db6659",
+ "fingerprint": "947655638a13aa84a1565130073bc4e768f0fd03",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Andy Zahn – Andy Zahn",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021"
+ ]
 }

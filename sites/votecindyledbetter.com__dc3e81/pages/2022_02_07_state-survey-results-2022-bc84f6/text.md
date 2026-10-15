@@ -3,7 +3,7 @@ I received about 1100 responses from over 60,000 constituents, this is not even 
 I cannot represent you If I do not hear from you.
 Please reach out h75@iga.in.gov Remember “your voice is loudest in your own backyard” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
 Post navigation Prev Thinking of a career change?
-Next 2024-2025 Budget Priorities Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Next 2024-2025 Budget Priorities Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

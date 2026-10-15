@@ -13,4 +13,4 @@ Towns need to operate within their means.
 Limiting the increase in property taxes to keep up with inflation will force local governments to maintain a disciplined approach to spending.
 Paid for by Really Nice People.
 Approved by Jeff Weiss.
-Copyright © # Jeff Weiss for CT Contact
+Copyright © # Jeff Weiss for CT Contact Privacy Policy Cookie Policy

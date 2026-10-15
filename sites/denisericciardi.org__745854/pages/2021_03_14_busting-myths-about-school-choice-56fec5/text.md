@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Busting Myths About School Choice Mar 14, 2021 I want the best for every child — the best health, safety, well-being, and the absolute best education.
 I want our New Hampshire public schools to be the best they possibly can be for every child and school choice is exactly what we need to help those children who are falling behind.
 We all know that one family can have three children, each one with completely different educational needs.

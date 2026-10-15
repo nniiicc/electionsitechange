@@ -12,7 +12,8 @@ Dan Brady of Bloomington had $242,598.
 Former Chicago Police Officer Michelle Turney, part of a GOP slate that doesn’t accept the results of the 2020 presidential election, filed a report closing out her campaign fund with a balance of zero.
 Republican John Milhiser, left; Democrat Alexi Giannoulias, center; Democrat Anna Valencia, right.
 Giannoulias raised more than any other candidate for secretary of state, with Valencia a distant second, and Milhiser an even more distant third.johnmilhiser.com; Ashlee Rezin Garcia/Sun-Times file Read the article in the Chicago Sun-Times.
-Related Posts Giannoulias Voices Opposition to Book Bans As State’s Librarian, Democrat vows to protect free speech, access to books Keep Reading → Our View: Secretary of State’s Skip the Line program promises a real improvement in customer service.
-One of the reasons Democrat Jesse White held onto the Secretary of State’s office for so long is because of his outsize personality and likability.
-Keep Reading → Exclusive: Alexi Giannoulias Reveals Why He Decided to Run for Secretary of State After nearly 50 years of service, Illinois Secretary of State Jessie White will not be on next year’s ballot, leaving room for a heated Democratic Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Giannoulias Seeks to Speed Up Gender-Neutral Marker on Driver’s Licenses Democratic Candidate for Secretary of State Says Transgender and Non-Binary Illinoisans Shouldn’t Have to Wait Any Longer Keep Reading → Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Day.
+Keep Reading → Giannoulias Calls for Stronger State Ethics Laws Secretary of State candidate seeks more restrictions, transparency, oversight to prevent abuse Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

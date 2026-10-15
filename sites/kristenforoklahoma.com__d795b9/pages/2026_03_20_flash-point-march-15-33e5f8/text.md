@@ -1,4 +1,4 @@
-Skip to content Meet Kristen Priorities News Media District Map Sign Up Meet Kristen Priorities News Media District Map Sign Up Facebook-f Contribute Flash Point March 15 State Sen.
+Skip to content Meet Kristen Record Priorities News Media District Map Sign Up Meet Kristen Record Priorities News Media District Map Sign Up Facebook-f Contribute Flash Point March 15 State Sen.
 Kristen Thompson (R-Edmond/NW OKC) joins Flash Point to discuss upcoming 2028 Olympic event funding support.
 Review of U.S.
 Senate seat opening as U.S.

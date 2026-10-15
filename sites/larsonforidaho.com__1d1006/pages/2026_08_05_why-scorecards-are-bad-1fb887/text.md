@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Why Scorecards Are Bad August 5, 2026 Larson for Idaho Every election, our legislative candidates hold up scorecards to prove they deserve your vote or that someone else does not.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube Why Scorecards Are Bad August 5, 2026 Larson for Idaho Every election, our legislative candidates hold up scorecards to prove they deserve your vote or that someone else does not.
 Nice, clean, and easy.
 A simple number that tells you who is a “true conservative” and who is a RINO.
 Looks official and honest.
@@ -64,7 +64,7 @@ For example, H583, the short-term rentals (STR) bill, forces ALL the local voter
 This year, the two legislators with As sailed through the primary, while the legislators who actually worked and addressed complex back-home problems, got sent home with Fs.
 We need a new way to assess what’s good for North Idaho.
 One that measures what matters here, not a one-size-fits all scorecard.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of… › Read more : Financial Accountability Doesn’t Mean Just Saying No September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.

@@ -3,6 +3,6 @@ CCEF recognized Rep.
 Carlow for “his dedication to advancing the cause of market-based clean energy policy,” in the enclosed statement last week.
 Last year, Rep.
 Carlow introduced a joint resolution recognizing clean energy’s importance, which passed the Maine State Legislature with broad bipartisan support.
-### Posted by communicationsdirector August 5, 2022 August 5, 2022 Posted in General Post navigation Previous Post Previous post: ICYMI: 52 lawmakers call on state to ease restrictions to allow more Maine schools to reopen full time Next Post Next post: ICYMI: Carlow Answers Questions on Candidacy Leave a Reply Cancel reply Comment Name Email Website Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+### Posted by communicationsdirector August 5, 2022 August 5, 2022 Posted in General Post navigation Previous Post Previous post: ICYMI: 52 lawmakers call on state to ease restrictions to allow more Maine schools to reopen full time Next Post Next post: ICYMI: Carlow Answers Questions on Candidacy Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
 Log in now.
 Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

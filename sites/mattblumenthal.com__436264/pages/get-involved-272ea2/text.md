@@ -5,6 +5,6 @@ VOLUNTEER REQUEST A LAWN SIGN ​ GET READY TO VOTE To contact us, click on one 
 Or, to send us a message, fill out the form below: Success!
 Message received.
 Send HOME MEET MATT GET INVOLVED VOTE More Use tab to navigate through the menu items.
-FOLLOW MATT: DONATE Paid for by Matt Blumenthal for CT • Eric B.
+FOLLOW MATT: VOTE Paid for by Matt Blumenthal for CT • Eric B.
 Morson, Treasurer • Approved by Matt Blumenthal Military information or images do not imply the endorsement of the U.S.
 Marine Corps or the Department of Defense. bottom of page

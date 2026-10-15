@@ -15,6 +15,6 @@ As a result, 3 million fewer Americans are covered through the Marketplace this 
 Almost 75% of Americans now say they worry about affording necessary health care.
 South Dakota seniors, farmers, and small business owners shouldn’t have to lie awake at night, worrying whether they can afford the care that keeps them alive and healthy.
 They deserve a representative in Washington who will protect Medicare, work to lower prescription drug prices, constrain rising health care costs, and fight to ensure South Dakotans can rest easy knowing that the healthcare they deserve is within reach.
-Recent Posts See All Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
-As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling Contact Us Nikki G for SD P.O.
+Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
+House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

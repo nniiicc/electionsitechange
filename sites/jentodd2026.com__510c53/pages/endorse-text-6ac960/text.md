@@ -4,7 +4,7 @@ To earn the federation’s endorsement, candidates must demonstrate a commitment
 Endorsed candidates benefit from the Illinois AFL-CIO’s political program, which connects union volunteers directly to the 1.7 million union household members across the state through canvassing, phone banking, and text banking.
 In addition to its field operations, the Illinois AFL-CIO supports endorsed candidates with mail and digital outreach to union households and provides affiliated unions with tools to reach their members through customized mail, text, and email programs.
 Candidates endorsed by the Illinois AFL-CIO include: U.S.
-House 15th – Jennifer Todd (D) [The complete press release and endorsement list is available at https://www.ilaflcio.org/release-general-endorsements-072026/ ] My friend Jennifer Todd and I have spent many hours traveling around the 15th District over the last year.
+House 15th – Jennifer Todd (D) [The complete press release and endorsement list is available at https://www.ilaflcio.org/release-general-endorsements-072026/ ] Brotherhood of Locomotive Engineers & Trainmen Illinois State Legislative Board My friend Jennifer Todd and I have spent many hours traveling around the 15th District over the last year.
 During that time, we have had the opportunity to talk with many people in the district about their concerns regarding healthcare costs and availability, day-to-day affordability for working families, and crumbling infrastructure across the district.
 I am proud to support and vote for her in November!
 She needs all of our support in the general election against the incumbent, Mary Miller! -Paul Davis Wed, May 6, 7:11 PM Mia, That was an amazing Primary win.
@@ -13,7 +13,7 @@ The prospectus looks great -- she sounds very relatable and the kind of change t
 I especially like the comparison with Mary Miller with specific votes.
 Consider the NOW PAC endorsement for the General too.
 On to another victory!!
-Bonnie Grabenhofer This fall, you will face a choice.
+Bonnie Grabenhofer Laborers International Union of North America This fall, you will face a choice.
 I have said it since day one: your choice is between cruelty and compassion.
 Which will YOU stand for?
 As you have always known, I stand for compassion and courage.

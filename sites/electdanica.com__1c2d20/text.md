@@ -1,5 +1,5 @@
-top of page Home About Platform Endorsements News Events Menu Close DONATE VOLUNTEER DANICA NOBLE: A FIGHTER FOR FAMILIES AND A FAIR ECONOMY.
-DONATE VOLUNTEER Home About Platform Endorsements News Events Menu Close First Name * Last name * Email * Phone Submit By submitting your phone number you are agreeing to receive up to 1 text message per day from Elect Danica. ​ Elect Danica mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
+top of page Home About Platform News Events Endorsements Menu Close DONATE VOLUNTEER DANICA NOBLE: A FIGHTER FOR FAMILIES AND A FAIR ECONOMY.
+DONATE VOLUNTEER Home About Platform News Events Endorsements Menu Close First Name * Last name * Email * Phone Submit By submitting your phone number you are agreeing to receive up to 1 text message per day from Elect Danica. ​ Elect Danica mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.
 Text STOP to stop receiving messages.
@@ -19,4 +19,4 @@ Our district needs a fighter.
 I have stood up to the biggest companies in the world and never backed down.
 I can’t be bought and I won’t stop fighting for our community.
 READ MORE SUPPORT OUR CAMPAIGN DONATE VOLUNTEER ELECT DANICA NOBLE | PAID FOR BY ELECT DANICA 14419 GREENWOOD AVE N.
-SUITE A, BOX #368 | SEATTLE, WA 98133 Info@ElectDanica.com Home About Platform Endorsements News Events bottom of page
+SUITE A, BOX #368 | SEATTLE, WA 98133 Info@ElectDanica.com Home About Platform News Events Endorsements bottom of page

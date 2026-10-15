@@ -189,17 +189,8 @@ Katie Phang FRAUD: FL Grand Jury find DeSantis Admin Missappriated $10M -- Katie
 Palantir wants to imprison homeless people for profit.
 Why Ken Paxton is a bad choice.
 CORRUPTION: His former Top-Cop exposes his corruption Democratic Candidate for Governor Cyndi Munson Cyndi speaks about her platform.
-Data Centers Data Centers in Oklahoma Super important.
-Will NATO activate Article 5?
-Article 5 of the NATO charter basically states that an attack on one is an attack on all.
-NATO nations are under attack from Russia/Putin.
-What is the response going to be knowing the US is engaged elsewhere and taking Trump's disinterest into account?
-Register to vote until 10/10/2026 Your Vote Does Count Voting day is quickly approaching.
-As you know if you are even remotely paying attention, there are certain entities that want to suppress your right to vote.
-If your vote didnt matter, they wouldn't be working so hard to prevent you from doing it.
-Click the button below to register.
-Those 17½ may pre-register and as long as your birthday is before 10/10/2026 you will be able to vote in the 2026 election.
-If you are not registered or you know someone who needs to register, click the button below marked "REGISTER TO VOTE" # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Register To Vote It’s almost here!
+Data Centers Data Centers in Oklahoma Pete Hegseth gets grilled by Jon Ossoff on the job he is doing and Hegseth filibusters in response.
+Hegseth will not answer questions and sit and Filabusters It’s almost here!
 Voting Day November 3, 2026.
 Countdown # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Register To Vote Worthy Initiatives and Campaigns Democratic Party Democratic Party Democratic Party Unaffiliated Website OK Democratic party website Conquer Cancer Democratic Party Democratic Party Unaffiliated Website Donate to cancer research Hopestone Democratic Party Local Food Banks Unaffiliated Website Bartlesville Cancer Assistance Local Food Banks Democratic Party Local Food Banks Unaffiliated Website Food bank list Why schools should exclusively use free software Veterans Crisis Line and Suicide and Crisis Hotline.
 Dial 988 Why schools should exclusively use free software Unaffiliated Website Free Software For Education DAV Free Transportation for Vets Veterans Crisis Line and Suicide and Crisis Hotline.

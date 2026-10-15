@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page HB 1469 Supports Women Aug 27, 2026 I’m very proud to see HB 1469, a bill I co-sponsored, and several important new protections for survivors of domestic violence, sexual assault, and human trafficking signed into law.
 Working alongside the New Hampshire Coalition Against Domestic and Sexual Violence , we’ve taken meaningful steps to strengthen protections for survivors, improve access to services and justice, and help ensure that people are treated with the safety and dignity they deserve.
 Standing up for those who need a voice and protecting people in vulnerable situations is some of the most important work we do in Concord.

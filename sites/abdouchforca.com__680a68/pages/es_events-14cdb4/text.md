@@ -1,4 +1,4 @@
-Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Eventos de Campaña Acompañe a Greg Abdouch en su Recorrido Manténgase informado sobre asambleas comunitarias, mítines, charlas de café y foros públicos.
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Guía Electoral Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Eventos de Campaña Acompañe a Greg Abdouch en su Recorrido Manténgase informado sobre asambleas comunitarias, mítines, charlas de café y foros públicos.
 Encuentre un evento en el Distrito 45 de la Asamblea de California y haga escuchar su voz.
 Próximo Calendario Manténgase al día con los últimos eventos y asambleas de la campaña.
 Reciba Alertas de Eventos OCT 15 DNA meeting jueves, 15 de octubre de 2026 • 11:45 a.m. - 1:30 p.m.
@@ -17,5 +17,5 @@ Suscribirse con Apple Calendar Participe Hoy Mismo Apoye a Greg Abdouch para dev
 Regístrese en una próxima fecha para asegurar su lugar.
 Inscribirse / Registrarse 02 Suscríbase a las Novedades Manténgase al día sobre nuevos eventos, plataforma política y noticias de la campaña enviadas a su correo.
 Suscribirse Ahora 03 Apoye de Manera Local Ayúdenos a organizar charlas de café, distribuir volantes o coordinar recorridos puerta a puerta cerca de su vecindario. ÚNASE AL EQUIPO ← Volver al Inicio de la Campaña Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
-Navegación Inicio Biografía Apoyos Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Navegación Inicio Biografía Apoyos Guía Electoral Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
 Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

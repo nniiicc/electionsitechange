@@ -8,10 +8,6 @@
 "href": "http://www.dir.ct.gov/sots/LookUp.aspx"
 },
 {
-"text": "DONATE",
-"href": "https://secure.anedot.com/mattforct/2026"
-},
-{
 "text": "Find Your Polling Station",
 "href": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp"
 },
@@ -65,15 +61,19 @@
 },
 {
 "text": "[image][image][image]",
-"href": "https://portal.ct.gov/-/media/SOTS/ElectionServices/ElectForms/electforms/ed3eEngpdf.pdf"
-},
-{
-"text": "[image][image][image]",
-"href": "https://secure.anedot.com/mattbforct/2022"
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
 },
 {
 "text": "[image][image][image]",
 "href": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.mattblumenthal.com/vote"
+},
+{
+"text": "[no text]",
+"href": "https://www.mattblumenthal.com/vote"
 },
 {
 "text": "here.",

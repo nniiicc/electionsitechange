@@ -36,9 +36,7 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
-J.B.
-Pritzker’s desk.
-Keep Reading → Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → Secretary Giannoulias & Rep.
-Ford Seek to Protect Motorists and Police by Decriminalizing Rearview Mirror Air Fresheners Illinois is one of a few states that bans items hanging from a vehicle’s rearview mirror Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Giannoulias Earns Early Endorsement of Bernie Sanders’ Progressive Organization Democrat Alexi Giannoulias has won the support of progressive grassroots political network that grew out of the presidential campaign of U.S.
+Sen Bernie Sanders.
+Keep Reading → Giannoulias Campaign Begins Airing First Television Ads in Illinois Secretary of State Race Ads highlight Democrat’s plan to modernize the office and protect voter rights Keep Reading → Southern IL Democrats Endorse Giannoulias for Secretary of State Party Leaders Praise Former Treasurer’s Commitment to Downstate; Middle-Class Values Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

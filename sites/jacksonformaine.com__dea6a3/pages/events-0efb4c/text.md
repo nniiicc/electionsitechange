@@ -1,141 +1,249 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE JOIN US AT AN EVENT NEAR YOU UPCOMING CAMPAIGN EVENTS To find more coordinated campaign organizing and volunteer events on the ground, click here.
-Defeat Susan Collins Rally with Sen.
+Skip navigation menu Early voting is underway through October 29.
+Election Day is November 3.
+GET VOTING INFO About Troy Endorsements Priorities News Events Volunteer Vote DONATE About Troy Endorsements Priorities News Events Volunteer Vote DONATE JOIN US AT AN EVENT NEAR YOU UPCOMING CAMPAIGN EVENTS From Anywhere - Get Out The Vote Phonebank for Maine Democrats!
+Multiple Times Virtual Event In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Defeat Susan Collins Rally with Sen.
 Elizabeth Warren and Greater Portland Indivisible Deering Oaks Park Portland, ME, 04101 Join Troy Jackson, Sen.
 Elizabeth Warren, at Greater Portland Indivisible's Defeat Collins Rally on Saturday to remind everyone that the power belongs to the people, not just the wealthy and the power… Show more RSVP Town Hall with Troy Jackson, Sen.
 Elizabeth Warren, and Tiffany Muller (End Citizens United) This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Kennebunk, ME, 04043 Join U.S.
 Senate candidate Troy Jackson in Kennebunk for a town hall as part of his Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his life fighting for working… Show more RSVP Ogunquit and Cape Neddick for Troy!
+Troy is a fifth-generation logger who has spent his life fighting for working… Show more RSVP Maine Dems Voter Access 2026 Volunteer Interest Group Virtual Event The Maine Democratic Party Voter Access Team works to make sure every eligible Maine voter can cast a ballot and have that ballot counted.
+We are recruiting volunteers for two roles on Election Day, … Show more RSVP Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
+When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more RSVP Ogunquit and Cape Neddick for Troy!
 This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Cape Neddick, ME, 03902 In less than 30 days, we are going to have the opportunity to change the course of our communities and the country.
-If you're concerned about our right to choose, to afford a home, to have healthcare,… Show more RSVP For the People: A Rally for the Working Class with Special Guest Appearance by the Dropkick Murphys The Foundry 30 Upper Falls Rd, Biddeford, ME, 04005 THE WORKING CLASS HAS A VOICE.
+If you're concerned about our right to choose, to afford a home, to have healthcare,… Show more RSVP GOTV Volunteer Leader Training Virtual Event In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without your help!
+Each of our staging locations wi… Show more RSVP Ogunquit and Cape Neddick for Troy!
+This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Cape Neddick, ME, 03902 In less than 30 days, we are going to have the opportunity to change the course of our communities and the country.
+If you're concerned about our right to choose, to afford a home, to have healthcare,… Show more RSVP Young and Upcoming Voters Forum 251 Jefferson St, Waldoboro, ME, 04572 Candidates from across Lincoln County races will participate in a forum focused on issues related to young and soon to be voters.
+This event is designed to hear from current and soon-to-be voters ages… Show more RSVP For the People: A Rally for the Working Class with Special Guest Appearance by the Dropkick Murphys The Foundry 30 Upper Falls Rd, Biddeford, ME, 04005 THE WORKING CLASS HAS A VOICE.
 AND IT'S GETTING LOUDER.
-The labor movement has always been a rebellion — built by working people who refused to bow down, back off, or let the powerful call the shots.… Show more RSVP Oxford County Women for Troy Potluck and Bonfire This event’s address is private.
+The labor movement has always been a rebellion — built by working people who refused to bow down, back off, or let the powerful call the shots.… Show more RSVP Biddeford - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Biddeford, ME, 04005 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Kennebunk - Get Out the Vote for Maine Democrats!
+Multiple Times 2 Storer St Suite 111, Kennebunk, ME, 04043 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP York - Get Out the Vote for Maine Democrats!
+Multiple Times 647 US-1, York, ME, 03909 In the month of October, we have to reach out to hundreds of thousands of neighbors in Kittery, Eliot, Ogunquit, and York to get out the vote and win this election, and we cannot do it without you. … Show more RSVP Portland Peninsula - Get Out the Vote for Maine Democrats!
+Multiple Times Portland Portland, ME, 04101 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Falmouth - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Falmouth, ME, 04105 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP South Portland - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, South Portland, ME, 04106 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Scarborough - Get Out the Vote for Maine Democrats!
+Multiple Times Scarborough Scarborough, ME, 04074 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Portland Off Peninsula - Get Out the Vote for Maine Democrats!
+Multiple Times 650 Brighton Ave, Portland, ME, 04102 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Westbrook - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Westbrook, ME, 04092 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Waldoboro - Get Out the Vote for Maine Democrats!
+Multiple Times 251 Jefferson St, Waldoboro, ME, 04572 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Brunswick - Get Out the Vote for Maine Democrats!
+Multiple Times 12 Pleasant St, Brunswick, ME, 04011 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Waterville - Get Out the Vote for Maine Democrats!
+Multiple Times 70 Pleasant St, Suites 103 and 104 70 Pleasant St, Waterville, ME, 04901 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Augusta - Get Out the Vote for Maine Democrats!
+Multiple Times 320 Water St, 3rd Floor 320 Water St, Augusta, ME, 04330 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Gardiner - Get Out the Vote for Maine Democrats!
+Multiple Times Gardiner 242 Water St, Gardiner, ME, 04345 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Lewiston - Get Out the Vote for Maine Democrats!
+Multiple Times Lewiston 621 Main St, Lewiston, ME, 04240 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bangor - Get Out the Vote for Maine Democrats!
+Multiple Times Bangor 25 Hammond St, Bangor, ME, 04401 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Orono - Get Out the Vote for Maine Democrats!
+Multiple Times Orono Orono, ME, 04473 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Hollis - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Hollis, ME, 04042 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Yarmouth - Get Out the Vote for Maine Democrats!
+Multiple Times 04096 Yarmouth, ME, 04096 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bridgton - Get Out the Vote for Maine Democrats!
+Multiple Times Bridgton Bridgton, ME, 04009 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Winterport - Get Out the Vote for Maine Democrats!
+Multiple Times Winterport Winterport, ME, 04496 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP New Gloucester - Get Out the Vote for Maine Democrats!
+Multiple Times 04039 NEW GLOUCESTR, ME, 04260 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Boothbay - Get Out the Vote for Maine Democrats!
+Multiple Times Boothbay Boothbay, ME, 04537 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Belfast - Get Out the Vote for Maine Democrats!
+Multiple Times Belfast 22 Searsport Ave 102, Belfast, ME, 04915 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Rockland - Get Out the Vote for Maine Democrats!
+Multiple Times Knox County Dems Office 33 Park St, Rockland, ME, 04841 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Camden/Rockport - Get Out the Vote for Maine Democrats!
+Multiple Times The Study Hall 341 West St, Rockport, ME, 04856 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bar Harbor - Get Out the Vote for Maine Democrats!
+Multiple Times Bar Harbor, ME, 04609 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Ellsworth - Get Out the Vote for Maine Democrats!
+Multiple Times 53 Church St, Ellsworth, ME, 04605 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Presque Isle - Get Out the Vote for Maine Democrats!
+Multiple Times 425 Main St suite a, Presque Isle, ME, 04769 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Harpswell - Get Out the Vote for Maine Democrats!
+Multiple Times Harpswell Harpswell, ME, 04079 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Farmington - Get Out the Vote for Maine Democrats!
+Multiple Times 108 Fairbanks Ave, Suite B 108 Fairbanks Rd, Farmington, ME, 04938 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Norway - Get Out the Vote for Maine Democrats!
+Multiple Times CEBE Office 447 Main St, Norway, ME, 04268 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Millinocket - Get Out the Vote for Maine Democrats!
+Multiple Times Millinocket, ME, 04462 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bethel - Get Out the Vote for Maine Democrats!
+Multiple Times The Gem Theater 48 Cross St, Bethel, ME, 04217 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Skowhegan - Get Out the Vote for Maine Democrats!
+Multiple Times Skowhegan 84 Main St, Skowhegan, ME, 04976 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Lubec - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Lubec, ME, 04652 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Dover-Foxcroft - Get Out the Vote for Maine Democrats!
+Multiple Times 1 North St, Dover-Foxcroft, ME, 04426 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bucksport - Get Out the Vote for Maine Democrats!
+Multiple Times Bucksport Bucksport, ME, 04416 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Calais - Get Out the Vote for Maine Democrats!
+Multiple Times 35 Manning St, Calais, ME, 04619 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Damariscotta/Newcastle - Get Out the Vote for Maine Democrats!
+Multiple Times Damariscotta Damariscotta, ME, 04543 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Vinalhaven Canvass!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Vinalhaven, ME, 04863 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Sanford - Get Out the Vote for Maine Democrats!
+Multiple Times Sanford Field Office 1725 Main St, Unit 12 Sanford, ME, 04073 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Topsham - Get Out the Vote for Maine Democrats!
+Multiple Times 24 Main St, Topsham, ME, 04086 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bath - Get Out the Vote for Maine Democrats!
+Multiple Times Union + Co.
+31 Centre St, Bath, ME, 04530 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Cherryfield - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Cherryfield, ME, 04622 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Houlton - Get Out the Vote for Maine Democrats!
+Multiple Times Houlton Houlton, ME, 04730 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Madawaska - Get Out the Vote for Maine Democrats!
+Multiple Times 406 Main St suite 102, Madawaska, ME, 04756 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Mount Vernon - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Mount Vernon, ME, 04352 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Machias - Get Out the Vote for Maine Democrats!
+Multiple Times Machias 6 Colonial Way, Machias, ME, 04654 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Deer Isle - Get Out the Vote for Maine Democrats!
+Multiple Times Deer Isle Deer Isle, ME, 04627 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Knock 50 Doors for Hannah's 50th Birthday!
+Maine Democratic Party Coordinated Campaign Office 650 Brighton Ave, Portland, ME, 04102 It's Hannah Pingree's 50th birthday, and we're going to celebrate with her by knocking 50 doors in Portland on Saturday, October 17th!
+Join Hannah Pingree and End Citizens United President Tiffany Mu… Show more RSVP Jay - Get Out the Vote for Maine Democrats!
+Multiple Times Jay 6 Intervale Rd, Jay, ME, 04239 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Oxford County Women for Troy Potluck and Bonfire This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, South Paris, ME, 04281 In less than 30 days, we have the opportunity to change our communities and the country.
 Join Women for Troy to help elect Troy Jackson and other Democrats in Oxford County.
-Come meet your Oxford Co… Show more RSVP Past Campaign Events Biddeford Rally with Bernie Sanders | Solidarity Forever Tour Biddeford, ME Join U.S.
+Come meet your Oxford Co… Show more RSVP Oxford County Women for Troy Potluck and Bonfire This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, South Paris, ME, 04281 In less than 30 days, we have the opportunity to change our communities and the country.
+Join Women for Troy to help elect Troy Jackson and other Democrats in Oxford County.
+Come meet your Oxford Co… Show more RSVP Fort Kent - Get Out the Vote for Maine Democrats!
+Multiple Times Fort Kent Fort Kent, ME, 04744 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Eastport - Get Out the Vote for Maine Democrats!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Eastport, ME, 04631 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more RSVP Bristol Canvass GOTV This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Bristol, ME, 04539 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins — but we’re running out of time.
+Can we count on you to knock with us? … Show more RSVP Voter Protection Phone Banking Multiple Times Virtual Event Join the Maine Democratic Party Voter Access Team and help us build the team that protects the vote on Election Day!
+Whether you're a returning volunteer or making your very first calls, we'd love to … Show more RSVP Bucksport Canvass!
+Multiple Times 12 Main St, Field of Valor Veterans Memorial Bucksport, ME, 04416 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins — but we’re running out of time.
+Can we count on you to knock with us? … Show more RSVP Fort Kent Ployes and Phonebanking and Canvass Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Fort Kent, ME, 04743 Come eat ployes and phonebank for Troy Jackson, Hannah Pingree, and Matt Dunlap with supporters in Fort Kent!
+There will also be an option to Door-knock in Fort Kent and do GOTV (get-out-the-vote) can… Show more RSVP Augusta Canvass!
+Multiple Times Maine Democratic Party Office 320 Water St 3rd floor, Augusta, ME, 04330 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Portland Canvass!
+Multiple Times Maine Democratic Party Coordinated Campaign Office 650 Brighton Ave, Portland, ME, 04102 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Kennebunks & Wells Canvass!
+Multiple Times Kennebunk Dems Office 2 Storer St Suite 111, Kennebunk, ME, 04043 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Ellsworth Canvass!
+Multiple Times Hancock County Democratic Committee Office 53 Church St, Ellsworth, ME, 04605 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before; there wi… Show more RSVP Bangor Canvass!
+Multiple Times Matt Dunlap for Congress Office 25 Hammond St, Bangor, ME, 04401 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Brunswick Wednesday Night Canvass!
+Multiple Times Brunswick Democrats / Coordinated Campaign Office 12 Pleasant St, Brunswick, ME, 04011 Come knock doors for democracy, this upcoming Wednesday at 4pm in Brunswick!
+Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Co… Show more RSVP Poll Observer Training with Hannah Pingree!
+Virtual Event Join the Maine Dems Voter Access Team and special guest Hannah Pingree for Poll Observer Training on Thursday, October 22, at 2:00pm.
+Poll Observers are the eyes and ears of the Voter Access Team on … Show more RSVP GOTV Rally 527 Main St, Damariscotta, ME, 04543 Keynote Speakers: House Rep.
+Chellie Pingree and Maine Speaker of the House, Ryan Fecteau The family-friendly event is free and open to the public and includes live music, snacks and opportunities to… Show more RSVP Past Events From Anywhere - Get Out The Vote Phonebank for Maine Democrats!
+Multiple Times Virtual Event In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more Voter Protection Phone Banking Multiple Times Virtual Event Join the Maine Democratic Party Voter Access Team and help us build the team that protects the vote on Election Day!
+Whether you're a returning volunteer or making your very first calls, we'd love to … Show more Rockland Canvass!
+Multiple Times Knox County Dems Office 33 Park St, Rockland, ME, 04841 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Topsham Canvass!
+Multiple Times Democratic County Party Office 24 Main St, Topsham, ME, 04086 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Augusta Canvass!
+Multiple Times Maine Democratic Party Office 320 Water St 3rd floor, Augusta, ME, 04330 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Portland Canvass!
+Multiple Times Maine Democratic Party Coordinated Campaign Office 650 Brighton Ave, Portland, ME, 04102 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Kennebunks & Wells Canvass!
+Multiple Times Kennebunk Dems Office 2 Storer St Suite 111, Kennebunk, ME, 04043 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Ellsworth Canvass!
+Multiple Times Hancock County Democratic Committee Office 53 Church St, Ellsworth, ME, 04605 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before; there wi… Show more Bangor Canvass!
+Multiple Times Matt Dunlap for Congress Office 25 Hammond St, Bangor, ME, 04401 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wil… Show more Brunswick Wednesday Night Canvass!
+Multiple Times Brunswick Democrats / Coordinated Campaign Office 12 Pleasant St, Brunswick, ME, 04011 Come knock doors for democracy, this upcoming Wednesday at 4pm in Brunswick!
+Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Co… Show more Kennebunk - Get Out the Vote for Maine Democrats!
+2 Storer St Suite 111, Kennebunk, ME, 04043 In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without you.
+There are so many reasons to get invol… Show more Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
+When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more Fort Kent Ployes and Phonebanking and Canvass Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Fort Kent, ME, 04743 Come eat ployes and phonebank for Troy Jackson, Hannah Pingree, and Matt Dunlap with supporters in Fort Kent!
+There will also be an option to Door-knock in Fort Kent and do GOTV (get-out-the-vote) can… Show more GOTV Volunteer Leader Training Multiple Times Virtual Event In the month of October, we have to reach out to hundreds of thousands of neighbors to get out the vote and win this election, and we cannot do it without your help!
+Each of our staging locations wi… Show more Bucksport Canvass!
+Multiple Times 12 Main St, Field of Valor Veterans Memorial Bucksport, ME, 04416 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins — but we’re running out of time.
+Can we count on you to knock with us? … Show more Biddeford Rally with Bernie Sanders | Solidarity Forever Tour Biddeford High School 14 Maplewood Ave, Biddeford, ME, 04005 Join U.S.
 Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear from Troy about why he’s running for U.S.
-Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
-5:00 PM: Doors open 6:00 PM: Music by Ted Leo (solo) 6:25 PM: Music by Griffin William Sherry 7:00 PM: Program begins RSVP does not guarantee entry.
-Free parking is available on-site.
-Lewiston Rally with Bernie Sanders | Solidarity Forever Tour Lewiston, ME Join U.S.
-Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear from Troy about why he’s running for U.S.
-Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
-10:00 AM: Doors open 11:00 AM: Music by Jacob Augustine 11:25 AM: Music by Ted Leo (solo) 12:00 PM: Program begins RSVP does not guarantee entry.
-Street parking is available nearby.
-Bangor Rally with Bernie Sanders | Solidarity Forever Tour Bangor, ME Join U.S.
-Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear from Troy about why he’s running for U.S.
-Senate and from Senator Bernie Sanders about why Troy is the best person to fight for all Mainers.
-4:00 PM: Doors open 5:25 PM: Music by Ted Leo (solo) 6:00 PM: Program begins RSVP does not guarantee entry.
-Parking is available in the garage across Main Street, closer to the Woodrow entrance.
-Bath Town Hall with Troy Jackson & Planned Parenthood of Maine Action Fund | Solidarity Forever Tour Bath, ME Join U.S.
-Senate candidate Troy Jackson in Bath for a community conversation as part of his Solidarity Forever Tour across Maine.
-Troy will be joined by Nicole Clegg, CEO/President of Planned Parenthood of Maine Action Fund.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-6:00 PM: Doors open 6:30 PM: Live music from Peter Blachly 7:00–8:00 PM: Community conversation with a Q&A Ellsworth Meet-and-Greet | Solidarity Forever Tour Ellsworth, ME Please join us for a Meet & Greet with U.S.
-Senate candidate Troy Jackson.
-Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-Sunday, October 4th, 4:00 - 5:30 PM RSVP Required.
-Location provided upon registration.
-Community Conversation w/ Troy Jackson and Heather Cox Richardson | Solidarity Forever Tour Portland, ME Join U.S.
-Senate candidate Troy Jackson and Heather Cox Richardson in Portland for a Community Conversation as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Heather Cox Richardson is an author and a historian of nineteenth century America, specializing in politics and economics.
-Her nightly newsletter, Letters from an American, reaches over 6 million readers.
-Come hear from Troy about why he’s running for U.S.
-Senate as he and Heather Cox Richardson discuss issues facing Maine and the country.
-Location will be provided 48 hours in advance.
-6:30 PM: Doors open 7:30–8:30 PM: Conversation Belfast Community Conversation w/ Troy Jackson & Matt Dunlap | Solidarity Forever Tour Belfast, ME Join U.S.
-Senate candidate Troy Jackson and Matt Dunlap in Belfast for a community conversation as part of his Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate as he discusses the issues facing Maine and the country.
-Matt was born on a farm in Hancock County and got his start waiting tables, washing dishes, cooking, and tending bar.
-He's running for Congress to bring down the cost of heating oil, groceries, and everyday bills.
-Location will be provided 48 hours in advance.
-6:00 PM: Doors open 7:00 - 8:00 PM: Community conversation Scarborough Community Conversation with Troy Jackson and Dr.
-Nirav Shah | Solidarity Forever Tour The Landing at Pine Point Scarborough, ME Join U.S.
-Senate candidate Troy Jackson and Dr.
-Nirav Shah in Scarborough for a Community Conversation as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear from Troy about why he’s running for U.S.
-Senate as Troy and Dr.
-Shah discuss issues facing Maine and the country — especially involving healthcare.
-Location will be provided 48 hours in advance.
-6:00 PM: Doors open 7:00–8:00 PM: Conversation Patriots/Steelers Watch Party w/ Senate Candidate Troy Jackson in Portland Portland, ME Come watch the Patriots take on the Steelers with Troy Jackson in Portland.
-Grab a drink and join the fun; solidarity is mandatory!
-Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-Light food and beverages will be provided.
-Sunday, September 20th, 1 - 4 PM RSVP Required.
-Location provided 24 hours in advance.
-Biddeford Town Hall: Solidarity with Seniors Biddeford, ME Join U.S.
-Senate candidate Troy Jackson in Biddeford for a Town Hall as part of his Solidarity Forever Tour across Maine.
-This event will bring a special focus on standing with Maine’s seniors by protecting and strengthening Social Security, Medicare, and Medicaid.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-5:00 PM: Doors open 6:00 - 7:15 PM: Town Hall and Q&A Eastern Maine Labor Council Labor Day BBQ with Troy Jackson Here Brewer, ME Join Troy and the Eastern Maine Labor Council for their 15th annual Labor Day BBQ in Brewer.
-Come for some good food, good people, and the chance to hear from Troy on his Labor Day tour across Maine.
-Suggested $# donation to support the host organization at the door.
-We hope to see you there!
-Southern Maine Labor Council Breakfast w/ Troy and Hannah!
-Portland, ME Thank you all - this event is SOLD OUT!
-Please check out our other labor day events: Labor Karaoke on Saturday: https://www.mobilize.us/jacksonformaine/event/1020198 Join Troy Jackson and Hannah Pingree for the Southern Maine Labor Council's annual Labor Day Breakfast!
-Come share breakfast with Troy and celebrate the labor movement across Maine and the country.
-September 7th, 8 - 10am Portland Elks Club, 1945 Congress St, Portland Tickets ($25) are required, all proceeds go to Southern Maine Labor Council.
-You register here before paying.
-After registration, the Southern Maine Labor Council will reach out via email to complete ticket purchase.
-Labor Day Weekend Contra Dance with UAW Grad Workers & Troy Jackson Orono, ME Join Troy and UAW graduate workers for a Sunday night contra dance in Orono!
-Come dance, meet some good people, and head into Labor Day celebrating workers, community, and solidarity.
-No experience needed — just bring your dancing shoes and join us!
-Higher Ed: United for Troy Meet & Greet with Troy & MEA Orono, ME Join Troy and members of the Maine Education Association for a Labor Day Weekend Meet & Greet in Orono!
-U.S.
-Senate candidate, Troy Jackson will be on campus on Sunday September 6th from 4pm to 6pm to celebrate the Labor Day weekend.
-He will be joining students, faculty, grad workers and other UMaine Staff for a “meet and greet” and to share why he is committed to labor unions.
-“Higher Ed United for Troy” is a collaborative effort including UMaine Progressives, the Grad Workers Union (UAW), the Faculty Union at Maine (AFUM/MEA), the union for salaried professional staff at UMaine (UMPSA/MEA), the union for hourly support staff at UMaine (ACSUM), and retirees.
-You must register to attend, and the exact address and location will be provided before the event but will take place very near to campus.
-Off the Clock Breakfast Happy Hour with Troy Jackson Portland, ME Start the morning with Troy and nurses from across Maine for a breakfast happy hour conversation about the future of health care in our state.
-Hear directly from the nurses who keep our communities healthy, and from Troy about why standing up for the people who care for us matters.
-Grab some breakfast and join us!
-Labor Karaoke with Troy Jackson Lewiston, ME Come sing, laugh, and celebrate Labor Day weekend with Troy Jackson and Union members from across Maine.
-Grab a drink, pick your song, and join the fun — no singing talent required, solidarity is mandatory.
-Sign up for address to be sent via email right after.
-Jay Town Hall with Troy Jackson | Solidarity Forever Tour Jay, ME Join U.S.
-Senate candidate Troy Jackson in Jay for a town hall as part of his Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-4:00 PM: Doors open + live music 5:00–6:00 PM: Town hall and Q&A Labor Day Weekend Kittery Coffee Kick Off with Troy Jackson Kittery, ME Join Troy, IAM members, and union workers from across Maine for coffee in Kittery as we kick off Labor Day weekend.
-Start the morning with good company and a conversation about working people, solidarity, and building power together.
-Come grab a coffee and help us get Labor Day weekend started!
-Gorham Town Hall with Troy Jackson | Solidarity Forever Tour Gorham, ME Join U.S.
-Senate candidate Troy Jackson in Gorham for a town hall as part of his Solidarity Forever Tour across Maine.
-Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-6:00 PM: Doors open 7:00–8:30 PM: Town hall and Q&A Location provided upon registration.
-We will have ASL interpreters.
-Lewiston Town Hall with Troy Jackson | Solidarity Forever Tour Lewiston, ME Join U.S.
-Senate candidate Troy Jackson in Lewiston for a town hall as part of his Solidarity Forever Tour across Maine.
-Troy is a fifth-generation Mainer and logger who has spent his career fighting for working people.
-Come hear why he’s running for U.S.
-Senate, share what’s on your mind, and ask Troy your questions about the issues facing Maine and the country.
-6:00 PM: Doors open + live music from Jeff Beam & Friends 7:00–8:30 PM: Town hall and Q&A Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
+Troy is a fifth-generation logger who has spent his career fight… Show more Scarborough Weekend Canvass!
+Multiple Times Memorial Park 5 Durant Drive, Scarborough, ME, 04074 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Belfast Canvass!
+Multiple Times Democratic County Party Office 22 Searsport Ave 102, Belfast, ME, 04915 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Falmouth Canvass!
+Multiple Times Falmouth Memorial Library 5 Lunt Rd, Falmouth, ME, 04105 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more South Portland Canvass!
+Multiple Times South Portland Community Center, Parking Lot by the Football Field 21 Nelson Rd, South Portland, ME, 04106 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Waterville Weekend Canvass!
+Multiple Times Waterville Coordinated Campaign Office 70 Pleasant St, Waterville, ME, 04901 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Sanford Weekend Canvass!
+Multiple Times Sanford Field Office 1725 Main St, Sanford, ME, 04073 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wil… Show more Windham Weekend Canvass!
+Multiple Times Lakes Region Dems Office 866 Roosevelt Trail, Windham, ME, 04062 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Cape Elizabeth Weekend Canvass!
+Multiple Times Thomas Memorial Library 6 Scott Dyer Rd, Cape Elizabeth, ME, 04107 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wil… Show more South Berwick Weekend Canvass!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, South Berwick, ME, 03908 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wil… Show more Auburn Sunday Canvass!
+Multiple Times Maine Democrats Lewiston Office 621 Main St, Lewiston, ME, 04240 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more York Weekend Canvass!
+Multiple Times Seacoast Democrats Office 647 US-1, Meadowbrook Plaza York, ME, 03909 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Westbrook Weekend Canvass!
+Multiple Times Westbrook High School 125 Stroudwater St, Westbrook, ME, 04092 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Yarmouth Canvass!
+Multiple Times Merrill Memorial Library 215 Main St, Yarmouth, ME, 04096 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Orono Weekend Canvass!
+Multiple Times 17 Sunrise Terrace, Orono, ME, 04473 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

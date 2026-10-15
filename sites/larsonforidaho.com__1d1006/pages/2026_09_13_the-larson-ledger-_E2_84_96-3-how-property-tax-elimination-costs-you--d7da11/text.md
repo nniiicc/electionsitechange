@@ -1,4 +1,4 @@
-Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson The Larson Ledger № 3: How Property Tax Elimination Costs You More September 13, 2026 Larson for Idaho Episode № 3 · House Bill 359 · 2020 Session Property Tax Elimination is a shiny object being pitched by Idaho politicians.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson YouTube The Larson Ledger № 3: How Property Tax Elimination Costs You More September 13, 2026 Larson for Idaho Episode № 3 · House Bill 359 · 2020 Session Property Tax Elimination is a shiny object being pitched by Idaho politicians.
 It’s not new, but it’s gaining momentum.
 The idea of no taxes sounds good until you realize that their “plan” leaves Idaho homeowners subsidizing vacation property owners.
 Property tax is the only tax paid by people who own here but don’t live here .
@@ -95,7 +95,7 @@ Follow the money.
 Read the small print.
 See who paid for it.
 Get The Larson Ledger Paid for by Larson for Idaho.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
 As of… › Read more : Financial Accountability Doesn’t Mean Just Saying No September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.

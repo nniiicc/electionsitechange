@@ -20,10 +20,6 @@
 "href": "https://secure.actblue.com/donate/benson-web?amount=50"
 },
 {
-"text": "ABC12 News",
-"href": "https://us.list-manage.com/10ru0C9Gwal?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7"
-},
-{
 "text": "Check if you're registered to vote",
 "href": "https://mvic.sos.state.mi.us/Voter/Index"
 },
@@ -34,6 +30,10 @@
 {
 "text": "Early voting locations",
 "href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "Inside Politics",
+"href": "https://us.list-manage.com/MYKIgxYR8kF?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7"
 },
 {
 "text": "Issues",
@@ -61,15 +61,15 @@
 },
 {
 "text": "Read more",
-"href": "https://www.jocelynbenson.com/news/detroit-news-jocelyn-benson-works-to-win-back-democratic-trifecta"
-},
-{
-"text": "Read more",
 "href": "https://www.jocelynbenson.com/news/jocelyn-benson-when-it-comes-to-reducing-costsim-the-leader-in-this-race"
 },
 {
 "text": "Read more",
-"href": "https://www.jocelynbenson.com/news/watch-winnie-brinks-says-benson-brinks-ticket-will-put-michiganders-first"
+"href": "https://www.jocelynbenson.com/news/new-video-president-barack-obama-urges-michiganders-to-vote-for-jocelyn-benson-for-governor"
+},
+{
+"text": "Read more",
+"href": "https://www.jocelynbenson.com/news/watch-jocelyn-benson-slams-john-james-for-repeatedly-voting-to-raise-prices-amid-affordability"
 },
 {
 "text": "Register to vote",
@@ -86,10 +86,6 @@
 {
 "text": "The 11th Hour with Ali Velshi",
 "href": "https://us.list-manage.com/avWtxhkfjQU?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7"
-},
-{
-"text": "The Detroit News",
-"href": "https://us.list-manage.com/2VIhGCxmnX9?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7"
 },
 {
 "text": "Volunteer",

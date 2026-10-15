@@ -1,4 +1,4 @@
-DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Roy Cooper’s Legacy?
+DONATE find your voting location Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Roy Cooper’s Legacy?
 Cooper’s Soft-on-Crime Policies Costing NC Economic Growth Opportunities July 15, 2026 RALEIGH – CNBC has released their rankings for the “Top States for Business” with North Carolina finishing in second place .
 The primary reason for this drop in rankings was North Carolina’s rising crime thanks to Governor Cooper’s legacy of criminal coddling.
 Roy Cooper might be out of office, but the soft-on-crime judges he appointed and the soft-on-crime policies he encouraged are still costing the State of North Carolina.

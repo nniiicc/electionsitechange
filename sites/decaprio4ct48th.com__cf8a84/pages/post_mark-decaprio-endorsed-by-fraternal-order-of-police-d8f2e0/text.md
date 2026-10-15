@@ -4,4 +4,4 @@ Thank you for your support and confidence in my commitment to public safety, our
 I’ll continue standing with those who work every day to keep our families and neighborhoods safe.
 Recent Posts See All Mark DeCaprio endorsed by CT Realtors SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
-Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ ​ bottom of page

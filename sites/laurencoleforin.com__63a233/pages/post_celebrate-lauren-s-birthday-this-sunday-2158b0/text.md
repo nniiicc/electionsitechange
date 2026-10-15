@@ -13,5 +13,5 @@ Leave inspired to help build the future we believe in.
 SIGN UP HERE TO JOIN US Also, don't forget that we are canvassing in Cicero with J.D.
 Ford and North HamCo Dems tomorrow!
 JOIN US HERE!
-Recent Posts See All There are lots of ways to help Lauren A FREE way to support us!
-314 Action Official Endorsement BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page
+Recent Posts See All Where Lauren Stands: Endorsements, Campaign Updates & How You Can Help There are lots of ways to help Lauren A FREE way to support us!
+BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

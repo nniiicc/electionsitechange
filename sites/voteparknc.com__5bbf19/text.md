@@ -7,11 +7,9 @@ Government has an obligation to safeguard public safety, public education, votin
 We need leadership that shows up, listens, and delivers tangible results for communities—investing in infrastructure, mental health, and transparent, reliable public services that people can truly count on.
 03 Prosper A hopeful and practical vision for what our communities can become with strong leadership.
 We must focus on economic opportunity, workforce development, support for small businesses, and affordable housing so individuals and families can build stable, fulfilling lives and succeed here at home.
-Candidate Questionnaire Where Park Stands Park's answers to the VOTE411 voter guide questionnaire.
+Candidate Questionnaires Where Park Stands Park's answers to candidate questionnaires.
 Select a question to read her full response.
 Loading questionnaire...
-Responses as submitted to VOTE411 , the League of Women Voters Education Fund voter guide.
-The League does not support or oppose any candidates or parties.
 Join The Movement Take Action Your Voice Matters My goal has always been to serve the public and address our community's concerns.
 Through my ongoing work in District 96, I learn what our community's concerns are firsthand.
 You share them with me at your doorsteps, in parking lots, at community meetings, and over coffee.

@@ -1,5 +1,4 @@
-0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 14 Door Knocking with Joseph McClusky Wednesday, October 14, 2026 2:00 PM 4:30 PM Google Calendar ICS Come out to door knock with us in the final weeks leading up to early voting!
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1062314/ View Event → Oct 15 Door Knock with Joseph McClusky Thursday, October 15, 2026 4:00 PM 7:00 PM Google Calendar ICS Come out to door knock with us in the final weeks leading up to early voting!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 15 Door Knock with Joseph McClusky Thursday, October 15, 2026 4:00 PM 7:00 PM Google Calendar ICS Come out to door knock with us in the final weeks leading up to early voting!
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1062316/ View Event → Oct 16 Door Knock with Joseph McCluksy Friday, October 16, 2026 4:00 PM 7:00 PM Google Calendar ICS Come out to door knock with us in the final weeks leading up to early voting!
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1062320/ View Event → Oct 17 Door Knocking with Joseph McClusky Saturday, October 17, 2026 11:00 AM 2:00 PM Google Calendar ICS One more week until In Person Early Voting begins and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
@@ -13,7 +12,8 @@ You’ll welcome voters, share more information about Joseph, and encourage peop
 Poll greeters must remain at least 100 feet away from the polls.
 We’re looking for volunteers for two key shifts: Morning: 7–9 AM Evening: 5–8 PM Even if you can only volunteer for part of a shift, we’d love your help!
 Every minute you give makes a difference.
-Sign up to help us finish strong on Election Day! https://www.mobilize.us/mccluskyformi/event/1062660/ View Event → Oct 11 Door Knocking with Joseph McClusky Sunday, October 11, 2026 4:00 PM 7:00 PM Google Calendar ICS Come join us in the final month of the campaign to door knock for Joseph.
+Sign up to help us finish strong on Election Day! https://www.mobilize.us/mccluskyformi/event/1062660/ View Event → Oct 14 Door Knocking with Joseph McClusky Wednesday, October 14, 2026 2:00 PM 4:30 PM Google Calendar ICS Come out to door knock with us in the final weeks leading up to early voting!
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1062314/ View Event → Oct 11 Door Knocking with Joseph McClusky Sunday, October 11, 2026 4:00 PM 7:00 PM Google Calendar ICS Come join us in the final month of the campaign to door knock for Joseph.
 We will be doorknocking with Michigan's League of Conservation Voters!
 This is the final stretch to get our message to voters before the head to the polls!
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051784/ View Event → Oct 10 to Oct 11 Door Knocking with Joseph and Chris Sat, Oct 10, 2026 11:00 AM Sun, Oct 11, 2026 2:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
@@ -48,11 +48,5 @@ Knocking doors is the most important aspect of campaigning, and this is a great 
 Not comfortable knocking doors?
 No worries!
 We have experienced canvassers who will take you along and show you the way.
-For updates and reminders, RSVP on our Facebook Event page!
-View Event → Apr 25 Canvassing Kickoff Saturday, April 25, 2026 11:00 AM 3:00 PM Ottawa County Democratic Party (map) Google Calendar ICS Big news!
-We are taking our message to the doors.
-Join us for the campaign's first canvass launch of the year.
-Canvassing is the most important aspect of any campaign.
-Help us show the movement we're building!
 For updates and reminders, RSVP on our Facebook Event page!
 View Event → Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

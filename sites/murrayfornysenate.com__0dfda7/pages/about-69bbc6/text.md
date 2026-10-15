@@ -1,4 +1,4 @@
-top of page Home About Lawn Sign Endorsements Media Gallery DONATE Contact Volunteer More Use tab to navigate through the menu items.
+top of page Home About Lawn Sign Endorsements Early Voting/Where to Vote Media Gallery DONATE Contact Volunteer More Use tab to navigate through the menu items.
 About Dean Murray Dean's real life, hands-on experience makes him uniquely qualified to serve the people of New York's 3rd Senate district.
 Whether it's his 7 years in the NYS Assembly and 4 years in the NYS Senate... his 25+ years as a small business owner... his more than a decade of experience in radio & television news... his work with law enforcement agencies... or his experience as father, a grandfather, a home owner and a taxpayer...
 Dean has a proven track record of getting the job done.

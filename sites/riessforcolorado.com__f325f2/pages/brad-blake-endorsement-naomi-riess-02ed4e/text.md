@@ -1,4 +1,4 @@
-DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Brad Blake Brad Blake I am proud to endorse Naomi Riess for Colorado House District 59.
+DONATE COMPARE CANDIDATES MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Brad Blake Brad Blake I am proud to endorse Naomi Riess for Colorado House District 59.
 I have known Naomi for more than a decade, both as a client and as a partner on several planning projects, and I can confidently say she has the experience, insight, and dedication to represent our community well at the State Capitol.
 Naomi is uniquely qualified to stimulate growth in our region while protecting the rural values we all share.
 She understands the balance between responsible development, property rights, and creating opportunities that keep families and businesses thriving in Southwest Colorado.

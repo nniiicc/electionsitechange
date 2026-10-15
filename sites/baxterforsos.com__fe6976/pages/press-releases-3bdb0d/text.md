@@ -1,4 +1,4 @@
-top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE Statement from Heather Baxter, Republican Nominee for South Dakota Secretary of State September 21, 2026 On Saturday, September 19, the sitting Republican Secretary of State endorsed the Democrat candidate in a statement posted in the Dakota War College.
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions DONATE Statement from Heather Baxter, Republican Nominee for South Dakota Secretary of State September 21, 2026 On Saturday, September 19, the sitting Republican Secretary of State endorsed the Democrat candidate in a statement posted in the Dakota War College.
 News spread of this drastic departure of traditional behavior, and soon reached even the New York Times.
 Secretary Monae Johnson is entitled to her endorsement.
 South Dakota voters are entitled to the rest of the story. ​ After considerable reflection, the Secretary of State Monae Johnson announced she is personally endorsing Democrat Terrence Davis.
@@ -87,5 +87,5 @@ Further, she promises improved customer service, promoting civic engagement, and
 She pledges to implement common-sense reforms that cut burdensome processes and fees while making all office services clear and accessible for all.
 Heather Baxter invites South Dakotans to join her campaign to restore our Republic by ensuring elections truly belong to the people.
 Together, we can Make Elections Secure Again.
-For more information about Heather Baxter’s campaign or to get involved, visit Website: www.baxterforsos.com Email: info@baxterforsos.com Donate: https://givebutter.com/baxterforsos Media Contact: info@baxterforsos.com Phone: 605-646-5573 PO Box 1852 Rapid City, SD 57709 HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+For more information about Heather Baxter’s campaign or to get involved, visit Website: www.baxterforsos.com Email: info@baxterforsos.com Donate: https://givebutter.com/baxterforsos Media Contact: info@baxterforsos.com Phone: 605-646-5573 PO Box 1852 Rapid City, SD 57709 HOME EVENTS PRESS RELEASES GET INVOLVED VOTER TREE Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

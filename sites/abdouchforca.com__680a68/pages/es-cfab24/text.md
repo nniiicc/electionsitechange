@@ -1,6 +1,6 @@
-Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Aviso Electoral Las boletas se están enviando Revise su buzón y haga oír su voz.
-Boletas en camino BALLOT CA STATE District 45 Aviso Electoral Las boletas se están enviando Revise su buzón y haga oír su voz.
-BALLOT CA STATE District 45 Boletas en camino Greg Abdouch para la Asamblea de CA – Distrito 45 Greg Abdouch para la Asamblea de CA – Distrito 45 Restaurando el sentido común.
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Guía Electoral Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Aviso Electoral Las boletas se están enviando Revise su buzón y haga oír su voz.
+Guía Electoral → BALLOT CA STATE District 45 Aviso Electoral Las boletas se están enviando Revise su buzón y haga oír su voz.
+BALLOT CA STATE District 45 Guía Electoral → Greg Abdouch para la Asamblea de CA – Distrito 45 Greg Abdouch para la Asamblea de CA – Distrito 45 Restaurando el sentido común.
 Luchando por usted. Únase al movimiento por una California mejor. ¡Regístrese para mantenerse informado y apoyar la campaña! ÚNASE AL EQUIPO → FOR CA ASSEMBLY – DISTRICT 45 FOR CA ASSEMBLY – DISTRICT 45 Restaurando el sentido común.
 Luchando por usted. Únase al movimiento por una California mejor. ¡Regístrese para mantenerse informado y apoyar la campaña! ÚNASE AL EQUIPO → Conozca a Greg Abdouch SOBRE EL CANDIDATO Greg Abdouch Una voz para la gente.
 Un luchador por California.
@@ -42,9 +42,11 @@ Apoye nuestra campaña Donación única Donación mensual Los intereses especial
 Su contribución inmediata financia nuestros letreros locales, materiales informativos y caminatas en los vecindarios. $ 20 $ 50 $ 100 $ 300 $ 500 Otro Ayuda a expandir la divulgación digital de votantes en todo el distrito.
 Contribuir $100 ahora → ¿Prefiere enviar un cheque?
 Obtenga instrucciones aquí Tenga en cuenta que la contribución máxima por elección (ya sea primaria o general) para personas individuales, empresas y comités de acción política (PAC) es de $5,900.
-Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Thu, Oct 15 DNA meeting The Mexico Cafe Detalles → Thu, Oct 15 Verdimont DNA Meeting 1725 Northpark Blvd Detalles → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
+Recursos Electorales 2026 Guía Electoral de California Consulte recomendaciones claras y sencillas sobre las propuestas de ley de California y evaluaciones de candidatos de sentido común.
+Publicado independientemente por Reform California.
+Ver Guía Electoral → Guía de Reform California Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Thu, Oct 15 DNA meeting The Mexico Cafe Detalles → Thu, Oct 15 Verdimont DNA Meeting 1725 Northpark Blvd Detalles → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
 Juntos podemos marcar la diferencia.
 Manténgase informado y reciba actualizaciones sobre temas clave y eventos de campaña.
 Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
-Navegación Inicio Biografía Apoyos Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Navegación Inicio Biografía Apoyos Guía Electoral Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
 Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

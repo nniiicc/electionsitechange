@@ -4,10 +4,10 @@ Total Asegurado para MA: $14,579,629,529.01 Conoce a Ed Luchar por la clase trab
 Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
 SABER MÁS Avales Lo último Donar Tu apoyo marca la diferencia. $10 $25 $50 $100 $250 Otro importe Si has guardado tu información de pago con ActBlue Express, tu donación se realizará inmediatamente.
 Haga clic aquí para hacer una donación fuera de línea .
-Redes sociales Siga Ed Markey 2 días hace En el Día de los Pueblos Indígenas honramos la rica historia, la resiliencia y las contribuciones de las comunidades indígenas.
+Redes sociales Siga Ed Markey 3 días hace En el Día de los Pueblos Indígenas honramos la rica historia, la resiliencia y las contribuciones de las comunidades indígenas.
 Hoy y todos los días debemos unirnos a los pueblos indígenas en la búsqueda de la justicia y la soberanía y ser socios fuertes en la lucha para proteger sus tierras, agua y derechos.
-9 Retweet en Twitter 2109637699061571752 39 Como en Twitter 2109637699061571752 Compartir 2109637699061571752 Siga Ed Markey 4 días hace Pete Hegseth debe irse.
-51 Retweet en Twitter 2108720467565580338 269 Como en Twitter 2108720467565580338 Compartir 2108720467565580338 Siga Ed Markey 5 días hace Conocemos a las personas que están siendo perjudicadas por los ataques de Trump contra la salud pública.
+9 Retweet en Twitter 2109637699061571752 39 Como en Twitter 2109637699061571752 Compartir 2109637699061571752 Siga Ed Markey 5 días hace Pete Hegseth debe irse.
+51 Retweet en Twitter 2108720467565580338 269 Como en Twitter 2108720467565580338 Compartir 2108720467565580338 Siga Ed Markey 6 días hace Conocemos a las personas que están siendo perjudicadas por los ataques de Trump contra la salud pública.
 Son nuestros amigos, nuestros vecinos y nuestras familias.
 Debemos luchar para restablecer todos los recortes y proteger el acceso a la atención sanitaria esencial en nuestro país.
 9 Retweet en Twitter 2108697593140146451 22 Como en Twitter 2108697593140146451 Compartir 2108697593140146451 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.

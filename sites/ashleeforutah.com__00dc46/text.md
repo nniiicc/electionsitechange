@@ -21,6 +21,15 @@ JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
 Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
 In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
+In this job, YOU are my boss.
+I'd love to hear what I can do to better serve our District.
+HB418: Student Offender Reintegration Amendments This bill requires input from the victim of a physical/sexual crime when reintegration plans are being made by the school District before the peer offender can be reintegrated back into their home school.
+It's crucial that our students feel safe at school, especially after they have been a victim of a crime, so that they can stay focused on their grades and rebuilding their confidence.
+If adjustments need to be made, it shouldn't be the victim that has to make all the accommodations.
+This victim protection bill took effect July 1, 2024.
+You can read the full text of the bill here: share.google/yTULsdcAuKowhU1kI ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
+In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
 I'm this job, YOU are my boss.
 I'd love to hear what I can do to better serve our District.
 HB181: Offender Employment Amendments This bill created an online portal that connected individuals that are currently incarcerated and about to be released with jobs that they are eligible for, even with a criminal record.
@@ -39,9 +48,7 @@ Read The Salt Lake Tribune’s voter guide here.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago House District 37 is a proud working class community full of hard working folks who are more focused on their family's budget and how it will stretch to meet the rising costs of living, the morning commute, and whether or not the opportunities that built Utah will still be here for the next generation than on national political rhetoric.
 My lived experience as a working mom of three boys, a state employee, and a member of this community for the last 13 years has helped me stay focused on the issues that mean the most to us, and made me an effective advocate for Westside families - and I've got a track record of results to prove it.
 Visit ashleeforutah.com and vote for Ashlee Matthews November #ashleeforutah l #electmoremoms c #HD37 m #unityincommunity n #westsidebestside debestside ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Childcare is an issue that I've worked on every session since being elected, and I'm proud that I've been able to provide support for our kids, our parents, and providers with several pieces of legislation since then.
-I'm committed to continuing my work in this space to keep our kids in safe, healthy learning spaces and give parents a peace of mind and a little extra breathing room. ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.
 Success!

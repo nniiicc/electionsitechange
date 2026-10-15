@@ -13,7 +13,7 @@ Christly serves on the Clark County Charter Review Commission, where he brings a
 Outside of work, he has coached youth sports, volunteered with Meals on Wheels, and supported fellow veterans navigating the healthcare system.
 “I’m not interested in political games or division,” Ben Christly said.
 “We get better results when we work together and stay focused on the people we serve.” Christly lives in the 17th Legislative District with his partner, Cait, and their blended family.
-Parker Butterworth Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+Parker Butterworth Sign up for updates Media Contact Terms and Conditions Paid for by Elect Ben Christly (D) 304 S.E.
 Hearthwood Blvd.
 P.O.
 Box 87872, Vancouver, WA 98684

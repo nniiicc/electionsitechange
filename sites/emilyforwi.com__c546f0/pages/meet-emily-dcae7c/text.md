@@ -1,6 +1,6 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate We don’t have to agree on everything.
-Meet Emily Priorities Stories Events Get a Sign!
+Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate We don’t have to agree on everything.
 I’m Emily Tseffos — a mom of three, former main classroom teacher, community organizer, and candidate for State Senate.
 I’m running because too many people are working hard, doing their part, and still watching life get more expensive while the same problems go unsolved.

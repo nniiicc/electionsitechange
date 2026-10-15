@@ -32,12 +32,7 @@ She served, so she knows exactly how broken the current system is.
 Read More FULL PLATFORM support maura’S campaign $5 $50 $10 $100 $25 Other We can’t afford to let Brian Jack serve another term in Congress where his voting record shows he stands with Trump and not the people of our district.
 Maura needs your help to stop him.
 Help Maura set up District 3’s biggest ever opposition ground game—every single dollar counts for lawn signs , t-shirts , and more!
-Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 13 October 13, 2026 Start of 2026 Early Voting!
-October 13, 2026 Early voting starts October 13th and ends October 30th.
-Make sure to check you My Voter Page before voting!
-Read more → October 13, 2026 Oct 13 October 13, 2026 Texting Tuesdays with Maura Keller October 13, 2026 Volunteer with the Maura Keller campaign!
-Come join our text-banking party every Tuesday.
-Read more → October 13, 2026 Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
+Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
 Jack.
 October 19th.
 Stay tuned for more!

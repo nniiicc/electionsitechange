@@ -24,5 +24,5 @@ Read Dispatch → Events Connecting with the Community at the Baxley Block Party
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.
-Opportunity Board | Get Involved | Contact Us | Privacy Policy | Terms of Service | Sitemap Digital Capital deployed by ♿️ Mercury Media Partners Help Micah protect District 157.
+Opportunity Board | Get Involved | Contact Us | Privacy Policy | Terms of Service | Sitemap Digital Capital deployed by ♿️ Mercury Media Partners District 157 Town Hall: Oct 17 in Glennville 6:00 PM • South Tattnall Middle School Gym Get Details → Help Micah protect District 157.
 Every dollar helps us reach one more neighbor. $25 $50 $100 $250 Fund the Fight Accessibility Options High Contrast Enhance text & color readability Highlight Links Underline all clickable links Pause Motion Stop all moving animations Reset All Settings Digital Stewardship ♿️ by Mercury Media Partners

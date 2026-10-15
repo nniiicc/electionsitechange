@@ -26,7 +26,7 @@ You don’t have to agree with their theology, but government officials labeling
 It’s another reminder that freedom of religion means freedom for everyone.
 Previous IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-Next I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Volunteer and Sign Up for Updates!
+Next I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
+PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics WE ARE AT A CROSSROADS IN WESTERN NEW YORK I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!

@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Volunteer Endorsements Contact Home About Issues Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Smart Growth Good jobs, clean air and water, and development that fits our rural character.
+Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact Home About Issues Videos Volunteer Endorsements Contact Accountability Affordability Education Smart Growth I believe in Smart Growth Good jobs, clean air and water, and development that fits our rural character.
 What I believe Smart growth is pro-economy Real opportunity means good jobs here at home—in industries that align with our agricultural heritage and protect our air and water.
 Meade County and Radcliff are already attractive to employers.
 We don’t need to “give away the store” with costly tax breaks and subsidies.

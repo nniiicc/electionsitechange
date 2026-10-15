@@ -1,4 +1,4 @@
-Skip navigation menu Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate ENERGY: Reliable, Diverse and Affordable Ethics in Government: Accountability to Alaskans EDUCATION - Fully Fund for Quality An Economy that Works for all Alaskans EDUCATION - Fully Fund for Quality Inflation proof & fully fund our schools.
+Skip navigation menu Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate AI Data Center Regulations EDUCATION - Fully Fund for Quality An Economy that Works for all Alaskans ENERGY: Reliable, Diverse and Affordable Ethics in Government: Accountability to Alaskans EDUCATION - Fully Fund for Quality Inflation proof & fully fund our schools.
 Our kids are our future and our school districts are running deficits and unable to plan ahead.
 Education is one of the primary responsibilities of a State.
 I support funding school maintenance.

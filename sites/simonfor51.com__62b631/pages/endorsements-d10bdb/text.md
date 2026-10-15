@@ -1,4 +1,4 @@
-top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE Menu Close ENDORSEMENTS Simon is proud to be the Labor endorsed candidate for Senate District 51.
+top of page ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO Menu Close ENDORSEMENTS Simon is proud to be the Labor endorsed candidate for Senate District 51.
 From neighborhood organizers to local elected officials, a growing coalition of leaders is standing with Simon.
 Their support reflects Simon’s record of service and his commitment to delivering for working families.
 U.S.
@@ -8,4 +8,4 @@ Coleman Woods Minneapolis City Council Member Aurin Chowdury CEO and Founder of 
 Nelima Sitati Munene Richfield School Board Member Rachel Banks Kupcho Richfield School Board Member Paula Cole President of the Minnesota Justice Coalition Johnathon McClellan Disability Rights Advocate Joe Carr Community Leader Mara Glubka Organizations Follow us on socials to keep up with the most recent campaign updates!
 Paid For By Simon For 51, 30 S 9th St.
 7th Fl.
-Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page
+Minneapolis MN 55402 ABOUT SIMON PLATFORM ENDORSEMENTS GET INVOLVED DONATE VOTE INFO ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse img_3806 July 20, 2021 1440 × 1440 Indiana General Assembly 2021 Leave a Reply Cancel reply Comment Name Email Website Δ Cindy Ledbetter P.O.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse img_3806 July 20, 2021 1440 × 1440 Indiana General Assembly 2021 Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

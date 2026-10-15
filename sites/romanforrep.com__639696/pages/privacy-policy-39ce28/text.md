@@ -1,4 +1,4 @@
-top of page Meet Roman Priorities Affordability Education Innovation Affordability Education Innovation Endorsements Campaign Updates Donate Menu Close Privacy Policy 1.
+top of page Meet Roman Priorities Housing Energy Healthcare Artificial Intelligence Data Centers Housing Energy Healthcare Artificial Intelligence Data Centers Endorsements Campaign Updates Donate Menu Close Privacy Policy 1.
 Information We Collect 1.1 Personal information We may collect your name, phone number, email address, postal address, and payment information through approved third-party vendors (we do not store card numbers).
 1.2 Automatically Collected Information When you visit our website, we may collect your IP address, browser type, device information, and pages visited through standard analytics tools.
 2.
@@ -25,4 +25,4 @@ Changes will be posted with an updated “Effective Date.” 10.
 Contact Us For questions or privacy requests, contact: **Friends of Roman Gaskey** Email: info@romanforrep.com Website: https://romanforrep.com Paid for by Friends of Roman Gaskey · P.O.
 Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Paid for by Friends of Roman Gaskey · P.O.
 Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Paid for by Friends of Roman Gaskey · P.O.
-Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Meet Roman Priorities Affordability Education Innovation Endorsements Campaign Updates Donate bottom of page
+Box 191 Lake Orion, MI 48361 · © # by Friends of Roman Gaskey Meet Roman Priorities Housing Energy Healthcare Artificial Intelligence Data Centers Endorsements Campaign Updates Donate bottom of page

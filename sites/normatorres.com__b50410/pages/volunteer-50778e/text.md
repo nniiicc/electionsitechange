@@ -1,4 +1,4 @@
-Home Donate Issues Endorsements Media Volunteer Newsletter ICE Home Donate Issues Endorsements Media Volunteer Newsletter ICE Volunteer Email (required) Name First Name (required) Last Name (required) City (required) Phone (required) Would you like to endorse Norma Torres for Congress?
-Yes!
-Can you speak more than one language? (required) Yes No If yes, please specify.
-Sign Up Sign Up Powered by Squarespace
+top of page Home About Norma Endorsements Priorities Get Involved Volunteer Endorse Newsletter Volunteer Endorse Newsletter Media Photos Videos Photos Videos Menu Close DONATE Volunteer Get Involved First name * Email * Address Phone I would like to endorse Norma Torres!
+Can you speak more than one language?
+If yes, please specify.
+Submit Home About Norma Endorsements Priorities Get Involved Volunteer Endorse Newsletter Volunteer Endorse Newsletter Media Photos Videos Photos Videos Menu Close PAID FOR BY NORMA TORRES FOR CONGRESS DONATE Home About Norma Endorsements Priorities Get Involved Volunteer Endorse Newsletter Media Photos Videos bottom of page

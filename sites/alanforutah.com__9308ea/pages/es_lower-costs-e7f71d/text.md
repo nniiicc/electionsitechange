@@ -5,7 +5,7 @@ Asegurar que los proyectos financien las carreteras, agua, energía y servicios 
 Son unos $7.63 al mes.
 Las facturas individuales varían.
 Dos límites de $900M Topes máximos separados para la contribución al estadio de Fairpark y para el distrito de deportes y entretenimiento del centro de Salt Lake City.
-Propuesta de East Bay Los documentos de planificación de febrero de 2026 describen el centro de datos propuesto y sus necesidades estimadas de energía y agua.
+7–0 en East Bay Votación del Concejo Municipal de Provo que rechazó un centro de datos propuesto en marzo de 2026, después de que los vecinos expresaron preocupaciones sobre el agua, la ubicación y los costos.
 Qué significa esto para su hogar Poner los presupuestos familiares en primer lugar.
 Antes de que el estado apruebe un gran incentivo, modifique el código tributario o traslade un costo al gobierno local, debemos hacer cuatro preguntas: ¿Quién paga? ¿Quién se beneficia? ¿Fue público? ¿Ayudará a las familias del Distrito 61 a costear su permanencia aquí?
 Vivienda Más viviendas, menos trámites.
@@ -36,7 +36,7 @@ No significan que la Legislatura haya emitido un cheque por $1,800 millones ni q
 03 Explicar los votos importantes sobre presupuesto e impuestos en lenguaje claro.
 Consulte las fuentes Lea los registros públicos Estos son los informes y documentos oficiales detrás de los datos presentados en esta página.
 01 Auditor de Utah County Presupuesto 2025 adoptado e impacto residencial estimado ↗ 02 Sitio de Avisos Públicos de Utah Aviso original de Verdad en la Tributación de Utah County ↗ 03 Auditor General Legislativo Auditoría de transparencia y rendición de cuentas del impuesto a la propiedad ↗ 04 Legislatura de Utah Tope de contribución al estadio Fairpark en H.B.
-562 ↗ 05 Concejo de Salt Lake City Aprobación del distrito y tope máximo de $900 millones ↗ 06 Detalle de crecimiento responsable Propuesta de East Bay, estimaciones y documentos de fuente → Las dos cifras de $900 millones son límites separados con diferentes estructuras de financiamiento.
+562 ↗ 05 Concejo de Salt Lake City Aprobación del distrito y tope máximo de $900 millones ↗ 06 Detalle de crecimiento responsable Lo que pasó en East Bay, el proyecto Stratos y documentos de fuente → Las dos cifras de $900 millones son límites separados con diferentes estructuras de financiamiento.
 No son una asignación directa de $1,800 millones del presupuesto estatal.
 Datos verificados en agosto de 2026.
 La asequibilidad en primer lugar Ayude a llevar este plan a cada puerta del Distrito 61.

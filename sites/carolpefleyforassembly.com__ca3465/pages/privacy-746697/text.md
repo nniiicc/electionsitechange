@@ -13,7 +13,7 @@ Required public disclosure: under the California Political Reform Act, contribut
 Legal compliance: we may disclose information when required by law, subpoena or court order, or to protect the rights and safety of the Campaign or others.
 4.
 Text messaging (SMS) privacy When you opt in to text messages from Carol Pefley for Assembly 2026, we collect your mobile number and consent record to deliver the messages you requested.
-No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
+See SMS Terms of Service Here No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
 All of the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 Message frequency varies (up to 2 messages per month).
 Message and data rates may apply.

@@ -1,10 +1,10 @@
-Skip navigation menu Home About Priorities Endorsements Yard Signs!
+Skip navigation menu Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate Welcome to team sugar Connecting Communities for a Sweeter Future! ( Toll Free ) Representing our communities in House District 40: Oregon City, Gladstone, Jennings Lodge, Oatfield, & Johnson City.
 Sign up to hear about more opportunities .
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By submitting your cell phone number, you are agreeing to receive periodic text messages from Sugar for Oregon.
 Message and data rates may apply.
 Text STOP to stop receiving messages.
-Home About Priorities Endorsements Yard Signs!
+Home About Priorities Endorsements News Yard Signs!
 Events Volunteer Contact Donate Welcome to team sugar Connecting Communities for a Sweeter Future! ( Toll Free ) Representing our communities in House District 40: Oregon City, Gladstone, Jennings Lodge, Oatfield, & Johnson City.
 Sign up to hear about more opportunities .
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By submitting your cell phone number, you are agreeing to receive periodic text messages from Sugar for Oregon.

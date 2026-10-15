@@ -1,4 +1,4 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact ​ HEY, NON-PARTISANS: FEELING LEFT OUT?
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction ​ HEY, NON-PARTISANS: FEELING LEFT OUT?
 Non-partisan voters comprise 37% of Nevada active voters as of January, 2026.
 That grows to 41% If you take into account Independent voters mistakenly categorized as members of the Independent American Party.
 Non-partisans are the fastest growing voter bloc in the state.
@@ -33,4 +33,4 @@ I realize that Nevada’s registration system can result in voters being classif
 But I also know people are dissatisfied with the political parties, or don’t see party membership as the only path toward political participation and influence, or they just aren’t joiners.
 Whatever the case, I look forward to a change in the law which calls for candidates to present themselves and their ideas to this important and growing group of voters. ​ Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
-WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

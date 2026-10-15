@@ -19,8 +19,8 @@ A purple seat in a purple state, MI-SD-35 has been trending red at the president
 After McDonald Rivet won the most recent full Senate term election by nearly seven points in 2022, Donald Trump only lost to Kamala Harris in SD-35 by less than one percentage point in 2024.
 Absentee voting for the August 4 primary is underway as of June 25, 2026.
 Winners will compete in the November 3, 2026 general election.
-VOTER INFO CHEDRICK IN THE NEWS Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Search Search Connect Facebook Instagram X Mail Latest PostS Small Business Association of Michigan PAC Endorses Chedrick Greene October 5, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation October 4, 2026 Sen.
-Greene Votes on Bipartisan Bills to Strengthen Aging Dams, Protect Communities October 2, 2026 Michigan Fraternal Order of Police Endorses Chedrick Greene for State Senate September 24, 2026 Detroit Regional Chamber Endorses Chedrick Greene for State Senate September 17, 2026 Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.
+VOTER INFO CHEDRICK IN THE NEWS Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Search Search Connect Facebook Instagram X Mail Latest PostS Greene Launches First TV and Radio Ads of Re-Election Campaign October 13, 2026 Small Business Association of Michigan PAC Endorses Chedrick Greene October 5, 2026 State Senator Chedrick Greene Hosts Saginaw Gun Violence Conversation October 4, 2026 Sen.
+Greene Votes on Bipartisan Bills to Strengthen Aging Dams, Protect Communities October 2, 2026 Michigan Fraternal Order of Police Endorses Chedrick Greene for State Senate September 24, 2026 Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.
 Box 3442 Saginaw, MI 48605 Marine.
 Fire Captain.
 Democrat for MI-SD-35.

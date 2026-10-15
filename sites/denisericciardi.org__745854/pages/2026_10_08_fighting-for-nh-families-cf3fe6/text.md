@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Fighting for NH Families Oct 8, 2026 SEARCH OUR SITE Search for: Click on the titles to read the full article and reveal the sharing icons.
 Recent Posts Sen.
 Ricciardi Airs Proposals Aimed at Reducing Property Taxes October 12, 2026 Recent Press Releases October 9, 2026 Fighting for NH Families October 8, 2026 Bedford Safety Complex Open House October 6, 2026 The Cure Café October 5, 2026 Childrens Environmental Health Day on October 8 October 5, 2026 Dedication of McDonald Fire Station in New Boston October 5, 2026 Friends of the Greenfield Community Meetinghouse Hold 7th Annual Oktoberfest October 1, 2026 Sen.

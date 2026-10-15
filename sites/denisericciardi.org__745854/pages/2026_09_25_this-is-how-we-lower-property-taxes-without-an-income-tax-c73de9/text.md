@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page This is How We Lower Property Taxes Without an Income Tax Sep 25, 2026 This was published in the Union Leader on Friday, September 25, 2026 Matt McLaughlin’s “three-step plan” to lower property taxes may sound good as a political soundbite, but the math does not hold up.
 Voters in Senate District 9 deserve real numbers that don’t slam their wallets and make higher taxes inevitable.
 First: The state pays far more for education funding than McLaughlin admits.

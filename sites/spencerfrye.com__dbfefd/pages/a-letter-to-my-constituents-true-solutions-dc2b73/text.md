@@ -1,4 +1,4 @@
-State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Letter to My Constituents: True Solutions Posted January 11, 2015 By Spencer Frye Blog Tomorrow marks the first day of the 2015-2016 legislative session, and I couldn’t be more excited to get back to the Gold Dome.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate A Letter to My Constituents: True Solutions Posted January 11, 2015 By Spencer Frye Blog Tomorrow marks the first day of the 2015-2016 legislative session, and I couldn’t be more excited to get back to the Gold Dome.
 During the last two years, we have made significant progress for our state.
 In 2013, we eliminated red tape to allow for a grocery store in downtown areas like Athens.
 This secures access to healthy food for families living in or near downtown, an important concern as our local officials consider the future of downtown development.

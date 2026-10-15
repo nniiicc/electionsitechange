@@ -55,7 +55,7 @@ Every hour you give keeps a Black woman's voice alive in Annapolis.
 SIGN UP TO VOLUNTEER > SEE UPCOMING CAMPAIGN EVENTS > When Tiffany Alston moves to the Maryland State Senate, she will carry the women of District 24 with her.
 Don't let the only woman's voice in our corner of the Senate go silent.
 Vote Tiffany Alston for Maryland State Senate — June 23, 2026.
-VOTE BY MAIL || EARLY VOTING JUNE 11-18TH || ELECTION DAY JUNE 23RD DONATE TO THE VOICE THAT FIGHTS FOR YOU > CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy Copyright © # Tiffany Alston - All Rights Reserved.
+VOTE BY MAIL || EARLY VOTING JUNE 11-18TH || ELECTION DAY JUNE 23RD DONATE TO THE VOICE THAT FIGHTS FOR YOU > CONTACT Email: TAG@TiffanyAlston.com Phone: 240.334.7607 ​ 1401 Mercantile Lane, s uite 300 Largo, Maryland 20774 ​ ​ View Privacy Policy View Terms and Conditions Copyright © # Tiffany Alston - All Rights Reserved.
 By Authority of Friends of Tiffany Alston, Samuel Mensah, Treasurer.
 JOIN THE MOVEMENT!
 The Maryland Senate currently has only one woman representing our region and with her departure, that voice disappears.

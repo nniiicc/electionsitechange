@@ -25,7 +25,8 @@ He has been accessible, engaged, and willing to work with local leaders to addre
 I’m proud to endorse my friend Richard Hayes for another term representing Denton County in the Texas House.
 Burt Thakur Councilman, Frisco ENDORSEMENT 08 In municipal government we can count on Richards support.
 Richard represents his constituents wisely, he’s voted in favor of border security, property tax compression, and regulatory reductions for small businesses and as an attorney with decades of experience in real estate law, business litigation, and local governance, his background in property, land development, and municipal law aligns closely with the rapid suburban and commercial growth occurring specifically across HD 57.
-Ken Eaken Deputy Mayor Pro Tem, Council Member, Little Elm ENDORSEMENT 09 I have known Ricahrd for many years and have had the opportunity to serve alongside him on numerous board and for community organizations.
+Ken Eaken Deputy Mayor Pro Tem, Council Member, Little Elm ENDORSEMENT 08 I appreciate Representative Richard Hayes' service to our community, his conservative principles, and his willingness to listen to the issues facing House District 57.
+Charlotte Wilcox Mayor, Highland Village ENDORSEMENT 09 I have known Ricahrd for many years and have had the opportunity to serve alongside him on numerous board and for community organizations.
 I can tell you firsthand that he is someone who genuinely cares about people and our community.
 He has spent years giving both his time and financial resources to organizations and causes that make a difference in people's lives.
 He doesn't just talk about helping others; he shows up, gets involved, and does the work.

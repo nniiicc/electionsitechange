@@ -7,7 +7,9 @@ GET YOUR VOICE HEARD!
 Join the 16,000 Vermonters who voted for Bruce Roy in 2024!
 Vermont Life is About Hard Work, Balance & Common Sense!
 Representing CHITTENDEN COUNTY - SOUTHEAST DISTRICT VERMONT SENATE: Williston, Hinesburg, St.
-George, Shelburne, Charlotte, Jericho, Underhill, Bolton, Richmond, South Burlington, Burlington (South end) My Call to Action: Support Governor Scott's Plans to transform Vermont to Affordability and Stability Ensure Balanced and Common Sense Legislation Control Excessive Government Spending Relieve the Unaffordable Tax Burden Improve Local Business Conditions Provide a common sense approach to protecting our environment Support Public Safety and Law Enforcement Provide Voter Confidence in elected officials representing the People Great dog and wicked smart too ….
+George, Shelburne, Charlotte, Jericho, Underhill, Bolton, Richmond, South Burlington, Burlington (South end) My Call to Action: Support Governor Scott's Plans to transform Vermont to Affordability and Stability Relieve the Unaffordable Tax Burden I support $250 M illion in income-tax relief in 20 27 I support $134 Million in immediate homestead property tax relief.
+Ensure Balanced and Common Sense Legislation Provide Governor Scott the supportive legislature he's never had.
+Control Excessive Government Spending Our current $9.4 Billion budget has risen from $5.8 Billion in 2019 which is a 60% increase, 30% above the inflation rate Improve Local Business Conditions Provide a common sense approach to protecting our environment Support Public Safety and Law Enforcement I support bail reform and repeal of the Raise the Age Law Provide Voter Confidence in elected officials representing the People Great dog and wicked smart too ….
 Still watching over the ROY4VT yard sign!
 Just like I’ll be watching over the $$$ in your wallets when elected …. making sure more money 💵 stays in your pocket!
 Contribution check can be made out & mailed to: BRUCE ROY FOR VERMONT P.O.

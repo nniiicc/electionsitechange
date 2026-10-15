@@ -1,4 +1,4 @@
-top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog michaelforassembly michaelforassembly Admin More actions Profile Profile Profile Join date: Feb 17, 2026 Posts (2) Oct 12, 2026 ∙ 0 min Ojai Valley News Write-up 1 0 Oct 12, 2026 ∙ 0 min Extra!
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog michaelforassembly michaelforassembly Admin More actions Profile Profile Profile Join date: Feb 17, 2026 Posts (2) Oct 12, 2026 ∙ 0 min Ojai Valley News Write-up 2 0 Oct 12, 2026 ∙ 0 min Extra!
 Extra!
 Our Campaign newspaper is hot off the press.
 2 0 Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Michael MacDonald for Assembly District 38 2674 E.

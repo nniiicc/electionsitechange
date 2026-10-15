@@ -1,4 +1,4 @@
-Skip navigation menu Meet Emily Priorities Stories Events Get a Sign!
+Skip navigation menu Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate We don’t have to agree on everything.
 But we should agree that the same problems can’t keep getting worse while the same people stay in charge .
 I’m Emily Tseffos.
@@ -11,7 +11,7 @@ Reply STOP to opt out.
 Reply HELP for help.
 View our privacy policy .
 Message and data rates may apply.
-Meet Emily Priorities Stories Events Get a Sign!
+Meet Emily Priorities How We Pay For It Events Get a Sign!
 Donate We don’t have to agree on everything.
 But we should agree that the same problems can’t keep getting worse while the same people stay in charge .
 I’m Emily Tseffos.

@@ -18,7 +18,7 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Events Local Candidates Forum What: Local Candidates Forum hosted by the Bryan/College Station Chamber of Commerce to help the community get to know the candidates and make informed voting decisions When: Tuesday, October 13, 6–8 pm Where: Brazos Center, 3232 Briarcrest Dr, Bryan, TX77802 Who: Candidates for State Representative (Districts 12 & 14), County Commissioner (Precinct 4), Mayor (Bryan & College Station) Cost: Free Read more → Oct 14 Voter Mobilization @ SHSU with Beto Ready to do the work that actually works?
+RSVP Upcoming Events Events Oct 14 Voter Mobilization @ SHSU with Beto Ready to do the work that actually works?
 In 2024, our face-to-face voter registration model achieved a massive 79% voter turnout among the Texans we registered.
 We aren't just hoping for change—we have the blueprint to create it.
 Join us and special guest Beto O'Rourke for the Every Campus Counts tour at SHSU !

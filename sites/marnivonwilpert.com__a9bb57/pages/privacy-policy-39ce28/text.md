@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Privacy Policy About Endorsements Issues Volunteer Store News Media Donate Privacy Policy Marni von Wilpert for Congress is committed to protecting your privacy.
+Skip navigation menu About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Privacy Policy About Endorsements Issues Fact vs Fiction Volunteer Store News Media Donate Privacy Policy Marni von Wilpert for Congress is committed to protecting your privacy.
 While using our website, you do not have to identify yourself or divulge personal information.
 If you should choose to give us your personal information, you decide the amount of information you provide.
 This Privacy Statement applies to data collection and usage on marnivonwilpert.com ; it does not apply to other websites.

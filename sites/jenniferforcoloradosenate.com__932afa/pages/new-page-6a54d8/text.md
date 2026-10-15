@@ -1,6 +1,5 @@
 Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments Become Involved Questions from People Like You, Answered in Depth!
-Coming Soon!
-Volunteer Here!
+Addressing Question About the 2020 Presidential Election Volunteer Here!
 Let's Get the Word Out!
 Blogs Use this space to elaborate on the ideas introduced Shareable Blog Link Use this space to elaborate on your headline Sharable Blog Link Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments We use cookies Manage preferences Necessary cookies Functional cookies Functional cookies enable the website to provide enhanced functionality and personalization.
 They may be set by us or by third party providers whose services we have added to our sites.

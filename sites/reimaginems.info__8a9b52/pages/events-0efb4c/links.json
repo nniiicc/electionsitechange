@@ -33,11 +33,15 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=135+u.s.+61+woodville%2C+mississippi%2C+39669+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1655+sunset+drive+grenada%2C+mississippi%2C+38901+united+states"
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=195+raymond+road+jackson%2C+mississippi%2C+39204+united+states"
+"href": "http://maps.google.com?q=169+north+1st+street+gloster%2C+mississippi%2C+39638+united+states"
 },
 {
 "text": "(map)",
@@ -49,19 +53,11 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=20735+mississippi+12+lexington%2C+mississippi%2C+39095+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=21022+u.s.+61+rolling+fork%2C+mississippi%2C+39159+united+states"
 },
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=2129+grand+avenue+yazoo+city%2C+mississippi%2C+39194+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=253+west+mulberry+street+durant%2C+mississippi%2C+39063+united+states"
 },
 {
 "text": "(map)",
@@ -73,11 +69,19 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=40+mississippi+184+bude%2C+mississippi%2C+39630+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=409+duncan+street+water+valley%2C+mississippi%2C+38965+united+states"
 },
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=420+east+lee+street+sardis%2C+mississippi%2C+38666+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4421+mississippi+24+liberty%2C+mississippi%2C+39645+united+states"
 },
 {
 "text": "(map)",
@@ -89,15 +93,7 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=6960+u.s.+51+goodman%2C+mississippi%2C+39079+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=710+north+davis+avenue+cleveland%2C+mississippi%2C+38732+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=718+bowmar+avenue+vicksburg%2C+mississippi%2C+39180+united+states"
 },
 {
 "text": "(map)",
@@ -106,6 +102,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=917+martin+luther+king+junior+drive+marks%2C+mississippi%2C+38646+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=north+cosby+street+centreville%2C+mississippi%2C+39631+united+states"
 },
 {
 "text": "0",
@@ -124,12 +124,20 @@
 "href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet"
 },
 {
+"text": "Bude Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
+},
+{
 "text": "Carroll County Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "Carthage Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "Centreville Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet"
 },
 {
 "text": "Charleston Meet and Greet",
@@ -156,16 +164,8 @@
 "href": "https://www.electbenniefoster.com/donate"
 },
 {
-"text": "Durant City Hall (On the steps)",
-"href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109"
-},
-{
 "text": "Elect Bennie Foster for U.S. Congress MS-02",
 "href": "https://www.electbenniefoster.com/"
-},
-{
-"text": "Empowered To Vote",
-"href": "https://www.electbenniefoster.com/events/empowered-to-vote"
 },
 {
 "text": "Events",
@@ -192,8 +192,8 @@
 "href": "https://www.electbenniefoster.com/resources-1"
 },
 {
-"text": "Goodman Meet & Greet",
-"href": "https://www.electbenniefoster.com/events/holmes-tour"
+"text": "Gloster Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/gloster-meet-and-greet"
 },
 {
 "text": "Google Calendar",
@@ -205,11 +205,19 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bude+Meet+and+Greet&dates=20261014T173000Z%2F20261014T174500Z&location=40+Mississippi+184%2C+Bude%2C+Mississippi%2C+39630%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Carroll+County+Meet+and+Greet&dates=20261006T171500Z%2F20261006T174500Z&location=33853+Mississippi+35%2C+Vaiden%2C+Mississippi%2C+39176%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Carthage+Meet+and+Greet&dates=20261005T203000Z%2F20261005T220000Z&location=905+Mississippi+16%2C+Carthage%2C+Mississippi%2C+39051%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Centreville+Meet+and+Greet&dates=20261014T190000Z%2F20261014T191500Z&location=North+Cosby+Street%2C+Centreville%2C+Mississippi%2C+39631%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -225,15 +233,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Durant+City+Hall+%28On+the+steps%29&dates=20261004T203000Z%2F20261004T213000Z&location=253+West+Mulberry+Street%2C+Durant%2C+Mississippi%2C+39063%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Empowered+To+Vote&dates=20260927T211500Z%2F20260928T000000Z&location=718+Bowmar+Avenue%2C+Vicksburg%2C+Mississippi%2C+39180%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Goodman+Meet+%26amp%3B+Greet&dates=20261004T190000Z%2F20261004T200000Z&location=6960+U.S.+51%2C+Goodman%2C+Mississippi%2C+39079%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gloster+Meet+and+Greet&dates=20261014T193000Z%2F20261014T194500Z&location=169+North+1st+Street%2C+Gloster%2C+Mississippi%2C+39638%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -257,7 +257,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lexington+Town+Hall&dates=20261004T230000Z%2F20261005T003000Z&location=20735+Mississippi+12%2C+Lexington%2C+Mississippi%2C+39095%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Liberty+Meet+and+Greet&dates=20261014T200000Z%2F20261014T203000Z&location=4421+Mississippi+24%2C+Liberty%2C+Mississippi%2C+39645%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -278,10 +278,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oakland+Meet+and+Greet&dates=20261009T170000Z%2F20261009T171500Z&location=28434+Highway+32%2C+Oakland%2C+Mississippi%2C+38948%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Our+Voice+Our+Vote+with+guest+speaker+Mark+Burns&dates=20260925T180000Z%2F20260925T200000Z&location=195+Raymond+Road%2C+Jackson%2C+Mississippi%2C+39204%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -309,6 +305,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Woodville+Meet+and+Greet&dates=20261014T182000Z%2F20261014T184000Z&location=135+U.S.+61%2C+Woodville%2C+Mississippi%2C+39669%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yazoo+City+Meet+and+Greet&dates=20261011T003000Z%2F20261011T010000Z&location=2129+Grand+Avenue%2C+Yazoo+City%2C+Mississippi%2C+39194%2C+United+States"
 },
 {
@@ -325,10 +325,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet?format=ical"
 },
 {
@@ -337,11 +333,19 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/bude-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -357,11 +361,11 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/empowered-to-vote?format=ical"
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3?format=ical"
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3?format=ical"
+"href": "https://www.electbenniefoster.com/events/gloster-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -370,10 +374,6 @@
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.electbenniefoster.com/events/holmes-tour?format=ical"
 },
 {
 "text": "ICS",
@@ -389,7 +389,7 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/lexington-town-hall?format=ical"
+"href": "https://www.electbenniefoster.com/events/liberty-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -413,10 +413,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet?format=ical"
 },
 {
@@ -434,6 +430,10 @@
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/woodville-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -464,8 +464,8 @@
 "href": "https://www.electbenniefoster.com/events/kosciusko-meet-and-greet"
 },
 {
-"text": "Lexington Town Hall",
-"href": "https://www.electbenniefoster.com/events/lexington-town-hall"
+"text": "Liberty Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/liberty-meet-and-greet"
 },
 {
 "text": "Marks Meet and Greet",
@@ -494,10 +494,6 @@
 {
 "text": "Our District | MS-02",
 "href": "https://www.electbenniefoster.com/our-district-ms02"
-},
-{
-"text": "Our Voice Our Vote with guest speaker Mark Burns",
-"href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
 },
 {
 "text": "Policies",
@@ -529,10 +525,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109"
-},
-{
-"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet"
 },
 {
@@ -541,11 +533,19 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -561,11 +561,11 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/empowered-to-vote"
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
+"href": "https://www.electbenniefoster.com/events/gloster-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -574,10 +574,6 @@
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
-},
-{
-"text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/holmes-tour"
 },
 {
 "text": "View Event →",
@@ -593,7 +589,7 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/lexington-town-hall"
+"href": "https://www.electbenniefoster.com/events/liberty-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -614,10 +610,6 @@
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
-},
-{
-"text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
 },
 {
 "text": "View Event →",
@@ -641,6 +633,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/woodville-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet"
 },
 {
@@ -660,6 +656,10 @@
 "href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet"
 },
 {
+"text": "Woodville Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/woodville-meet-and-greet"
+},
+{
 "text": "Yazoo City Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet"
 },
@@ -676,12 +676,20 @@
 "href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet"
 },
 {
+"text": "[image: Bude Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
+},
+{
 "text": "[image: Carroll County Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "[image: Carthage Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "[image: Centreville Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet"
 },
 {
 "text": "[image: Charleston Meet and Greet]",
@@ -696,16 +704,8 @@
 "href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet"
 },
 {
-"text": "[image: Durant City Hall (On the steps)]",
-"href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109"
-},
-{
-"text": "[image: Empowered To Vote]",
-"href": "https://www.electbenniefoster.com/events/empowered-to-vote"
-},
-{
-"text": "[image: Goodman Meet &amp; Greet]",
-"href": "https://www.electbenniefoster.com/events/holmes-tour"
+"text": "[image: Gloster Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/gloster-meet-and-greet"
 },
 {
 "text": "[image: Greenwood Meet and Greets]",
@@ -728,8 +728,8 @@
 "href": "https://www.electbenniefoster.com/events/kosciusko-meet-and-greet"
 },
 {
-"text": "[image: Lexington Town Hall]",
-"href": "https://www.electbenniefoster.com/events/lexington-town-hall"
+"text": "[image: Liberty Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/liberty-meet-and-greet"
 },
 {
 "text": "[image: Marks Meet and Greet]",
@@ -750,10 +750,6 @@
 {
 "text": "[image: Oakland Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
-},
-{
-"text": "[image: Our Voice Our Vote with guest speaker Mark Burns]",
-"href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
 },
 {
 "text": "[image: Rolling Fork Meet and Greet]",
@@ -778,6 +774,10 @@
 {
 "text": "[image: Water Valley Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet"
+},
+{
+"text": "[image: Woodville Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/woodville-meet-and-greet"
 },
 {
 "text": "[image: Yazoo City Meet and Greet]",

@@ -4,5 +4,5 @@ Pastor Steve is a great communicator, teaching thru the OT Tabernacle.
 Love his courage to stand for Biblical values and virtues that are counter-culture, but are the true principles of God’s Word for civic government this Nation was founded upon.
 He is bold to proclaim this.
 Thank you Pastor Steve!!
-Pastor Steve and Bishop Art Hodges Ocean View Church Ocean View Church Ocean View Church Ocean View Church Ocean View Church Ocean View Church Art Hodges Next Next Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+Pastor Steve and Bishop Art Hodges Ocean View Church Ocean View Church Ocean View Church Ocean View Church Ocean View Church Ocean View Church Art Hodges Previous Previous Art Hodges Joins Israel Experience - A Night of Prayer and Remembrance Next Next Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
 All Rights Reserved

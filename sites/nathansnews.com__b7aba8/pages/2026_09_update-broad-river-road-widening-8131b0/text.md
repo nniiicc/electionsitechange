@@ -6,9 +6,9 @@ Let’s continue to have patience and please let me know where you see lengthy d
 Be sure you are following the prime contractor’s updates on Facebook !
 Share Post navigation Asking for your support and vote this November!
 Reminder: 21st Annual Irmo Community Prayer Breakfast (video) Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 2 Comments Oldest Newest Most Voted Richard Zimmer September 1, 2026 9:05 pm Thank you Nathan!
-1 Reply Grace September 2, 2026 6:20 am Friarsgate subdivision so noisy now The traffic noise from Broad River Rd and the interstate is awful I live on Friarsgate near Old Well 0 Reply Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+1 Reply Grace September 2, 2026 6:20 am Friarsgate subdivision so noisy now The traffic noise from Broad River Rd and the interstate is awful I live on Friarsgate near Old Well 0 Reply Latest News Campaign Update – more yard signs and ballot info Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

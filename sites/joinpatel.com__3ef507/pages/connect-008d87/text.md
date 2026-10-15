@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Connect with Sne A better future is possible.
+0 Skip to Content About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action Open Menu Close Menu About Priorities Connect News Sign Wave Take Action Connect with Sne A better future is possible.
 Contact us to learn more about our mission, or to become involved yourself.
 Friends of Sne Patel P.O.
 Box 10187 Lahaina, HI 96761 Donate Powered by people who believe in thoughtful, accountable leadership and a hopeful future for Lahaina and West Maui.

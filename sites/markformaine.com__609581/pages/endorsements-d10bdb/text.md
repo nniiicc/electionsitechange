@@ -16,4 +16,13 @@ As a small business owner, I feel this pressure firsthand.
 We need new leadership in the Maine Senate, and Mark Vigliotta is the right choice.
 As a lifelong union member and leader, Mark knows how to organize, negotiate, and fight for working people.
 That is exactly the kind of advocacy Augusta needs on cost of living, housing, and taxes.
-Mark will be a strong voice for Sanford's working families in the State Senate, and I hope you will join me in voting for him this November. markformaine@gmail.com Powered by RUN! website builder Paid for and authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app.
+Mark will be a strong voice for Sanford's working families in the State Senate, and I hope you will join me in voting for him this November.
+Anne-Marie Mastraccio (State Representative for Sanford): I have lived in Sanford for nearly 45 years.
+Serving as your Town Councilor, Mayor, and State Representative has been the honor of a lifetime, and it taught me a great deal about our community and how Augusta works.
+I know the people of Sanford are struggling: prices are rising rapidly while wages stay the same.
+Gas, health care, housing — these costs are forcing families across our state to choose between heating their homes and putting food on the table.
+Sanford deserves a state senator who understands these struggles personally, knows how to fight for solutions, and cares enough to do it.
+That leader is Mark Vigliotta.
+For too long, Matt Harrington has put his own political career ahead of the everyday needs of people in his district.
+Sanford needs a fighter, and Mark's years as a union leader at the bargaining table make him the best candidate in this race.
+I enthusiastically endorse Mark Vigliotta for State Senate, and I hope you will vote for him on or before November 3rd. markformaine@gmail.com Powered by RUN! website builder Paid for and authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app.

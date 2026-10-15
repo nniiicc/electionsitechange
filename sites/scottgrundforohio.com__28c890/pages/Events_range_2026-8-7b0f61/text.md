@@ -1,5 +1,4 @@
-Home NEWS!!
-Meet Scott Events Issues Events Here are the many events Scott will be attending or HOSTING in the upcoming months... especially Hosting Community Town Halls, specifically for everyone in Knox, Holmes and Coshocton Counties .
+Home Meet Scott Issues Events Events Scott will be attending or HOSTING ... especially Hosting Community Town Halls, specifically for everyone in Knox, Holmes and Coshocton Counties .
 Take a look and plan on meeting and saying hello.
 #ago This Week This Month ‹ Previous Sat Aug 1 2026 - Mon Aug 31 2026 Next › 7 Aug Friday, 6:00 PM – 9:00 PM AUGUST FIRST FRIDAY in Mt.
 Vernon This 1st Friday's theme is PAWS ON PARADE.
@@ -35,8 +34,6 @@ Scott will outline his vision of representation in the Ohio General Assembly for
 LOCATION: at the Holmes County Training Center Pavilion This event is free and open to all constituents.
 We will would like attendees to register in advance at ScottGrundForOhio.com to help us prepare for seating.
 If you are unable to attend but would like to submit a question or share your thoughts, please email info@ScottGrundForOhio.com We look forward to a productive, community-driven conversation.
-More info › NEWS!!
-Photos Contact Volunteer Yard Signs Voter Information Visit my Substack publication © #.
+More info › Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home NEWS!!
-Meet Scott Events Issues Volunteer Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

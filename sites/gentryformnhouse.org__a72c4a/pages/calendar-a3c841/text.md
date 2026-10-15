@@ -1,9 +1,4 @@
-0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 14 Door knock in Otsego Wednesday, October 14, 2026 5:00 PM 7:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Wednesday afternoon.
-Make sure to bring a charged phone, bottle of water and your walking shoes.
-We will make sure you have everything you need to knock doors with us!
-Make sure to sign up so we know you will be joining us.
-We will be meeting in the parking lot of the VFW fields.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 16 Door knock in Elk River Friday, October 16, 2026 5:00 PM 7:00 PM Lions John Weicht Park (map) Google Calendar ICS We will be out door knocking in Elk River Friday afternoon.
+0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 16 Door knock in Elk River Friday, October 16, 2026 5:00 PM 7:00 PM Lions John Weicht Park (map) Google Calendar ICS We will be out door knocking in Elk River Friday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
@@ -35,6 +30,11 @@ We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
 We will be meeting in the parking lot of the VFW fields.
 Doorknock for Keenan Gentry · Mobilize View Event → Nov 1 Door knock in Otsego Sunday, November 1, 2026 1:00 PM 3:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Sunday early afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 14 Door knock in Otsego Wednesday, October 14, 2026 5:00 PM 7:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Wednesday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
@@ -174,8 +174,7 @@ Coffee and Conversation with Keenan Gentry · Mobilize View Event → Jul 28 Vir
 Michael, Albertville, Elk River, Otsego, Hanover, Nowthen, and Rockford Township) by participating in our weekly North Metro phone bank!
 We'll be connecting with voters across the district every Tuesday night from 6-8pm and asking them what issues matter most to them, along with what they'd like to see out of the elected officials.
 This is a virtual event over Zoom (link will be provided the day of the call), and a brief training is provided!
-SD30 Virtual Tuesday Night Phonebank! · Mobilize View Event → Jul 25 Elk River Fest Saturday, July 25, 2026 10:00 AM 4:00 PM Orono Park (map) Google Calendar ICS You’ll be able to find me exploring the Elk River fest this Saturday and getting to know my community.
-View Event → Newsletter Block This newsletter signup form needs a storage option.
+SD30 Virtual Tuesday Night Phonebank! · Mobilize View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.
 Email Address Sign Up Thank you!

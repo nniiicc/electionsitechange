@@ -1,4 +1,4 @@
-denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS AWARDS ENDORSEMENTS Sen.
 Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Friends of the Greenfield Community Meetinghouse Hold 7th Annual Oktoberfest Oct 1, 2026 Senator Ricciardi spent the day at the Greenfield Oktoberfest.
 Pictured in the article is Senator Denise Ricciardi chatting with a volunteer at Greenfield Oktoberfest.
 Read more… SEARCH OUR SITE Search for: Click on the titles to read the full article and reveal the sharing icons.
