@@ -7,4 +7,4 @@ While the Gendebien associate was talking, another Democrat who was with her app
 “A close associate of his just admitted he’s telling people, privately, that he wants to give citizenship to illegals so they can take our jobs and vote in our elections.” The interaction was caught on tape, and can be viewed in its entirety on X and Facebook .
 ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

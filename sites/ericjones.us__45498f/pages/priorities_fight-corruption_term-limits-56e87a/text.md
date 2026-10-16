@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy for Term Limits & Real Accountability Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy for Term Limits & Real Accountability Why I believe this — and how I’ll fight for it.
 Congress was never supposed to be a career.
 The founders pictured something different: you’d make your life as a farmer, a nurse, a builder, a small-business owner, serve your neighbors for a time, then come home to live under the laws you passed.
 George Washington set the example — he had the power to stay, and chose to go home.

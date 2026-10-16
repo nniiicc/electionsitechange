@@ -11,7 +11,7 @@ I’ll fight to restore good-paying manufacturing jobs, to lower taxes, and to c
 I'll keep Michigan a place where you want to build a business and start a family.
 And I’ll make sure our communities thrive.” — Mike Rogers, Candidate for U.S.
 Senate Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous ROGERS ENCOURAGES ABSENTEE, EARLY VOTING Next Next ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ROGERS ENCOURAGES ABSENTEE, EARLY VOTING Next Next ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

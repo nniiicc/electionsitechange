@@ -3,7 +3,7 @@ As we approach the upcoming elections, the call for transformation in SD48 has n
 Moyer's campaign is not just about politics; it is about the future of our neighborhoods, schools, and families.
 This blog post will explore the vision behind Moyer's campaign, the issues at stake, and how you can be a part of this pivotal movement.
 Understanding the Vision Moyer's campaign is built on a...
-44 0 Apr 11, 2026 ∙ 4 min Moyer's Vision for a Better SD48 Community Creating a thriving community is not just about infrastructure or policies; it’s about vision, collaboration, and a shared commitment to improvement.
+45 0 Apr 11, 2026 ∙ 4 min Moyer's Vision for a Better SD48 Community Creating a thriving community is not just about infrastructure or policies; it’s about vision, collaboration, and a shared commitment to improvement.
 Moyer’s vision for a better SD48 community embodies these principles, aiming to foster an environment where every individual feels valued and empowered.
 This blog post will explore Moyer's vision, its key components, and how it can transform the SD48 community into a more inclusive and supportive space for all.
 Understanding Moyer's Vision...

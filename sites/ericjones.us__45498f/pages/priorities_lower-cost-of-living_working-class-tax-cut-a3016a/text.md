@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy for Working Class Tax Cut Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy for Working Class Tax Cut Why I believe this — and how I’ll fight for it.
 Life in America has gotten too expensive, and too hard, for too many people.
 I don’t think it’s the government’s job to make life easy — that was never the promise.
 But it is the government’s job to make it a little easier, and to make it fair.

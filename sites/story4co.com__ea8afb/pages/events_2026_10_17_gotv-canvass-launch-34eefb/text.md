@@ -1,0 +1,5 @@
+About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CONTACT Back Issues Legislative Achievements About Endorsements Events Priorities Issues Legislative Achievements In the News Volunteer Yard Signs DONATE CONTACT Colorado House District 25 Back to All Events GOTV Canvass Launch Saturday, October 17, 2026 9:00 AM 3:00 PM 09:00 15:00 10558 West Vista View Drive Littleton, CO, 80127 United States (map) Google Calendar ICS Join me on Saturday, October 17th for our first GOTV Canvass Launch!
+We will be knocking the doors of people who have not yet voted to encourage them to send in their ballots.
+These conversations are crucial and will make all the difference this election season.
+I’d love to see you there!
+Source:: https://tinyurl.com/GOTVTeamTammy Earlier Event: October 10 Town Hall- Ballot Initiative Forum Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

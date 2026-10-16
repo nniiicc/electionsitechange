@@ -1,9 +1,6 @@
 top of page Home Issues Join Us!
 District & Voting Information Events Donate Log In Real Leadership for District 22 Idaho Karlie Easley for State Senate Amanda Easley for House Seat 22B Donate to Karlie Donate to Amanda South Boise, Meridian and Nampa Get campaign updates from Amanda & Karlie Stay up to date with our latest news and events by signing up for our newsletter.
-Upcoming Events Thu, Oct 15 Coffee with Candidates District 22 - Black Rock / Black Rock Coffee Bar RSVP Oct 15, 2026, 10:00 AM – 11:00 AM Black Rock Coffee Bar, 3300 E Victory Rd, Meridian, ID 83642, USA Casual stop by event.
-No RSVP needed.
-Come say hi and tell us what matters to you!
-Fri, Oct 16 District 22 Democrats Casual Meet up / Voodoo Brewing Company- Boise RSVP Oct 16, 2026, 6:00 PM – 7:00 PM Voodoo Brewing Company- Boise, 9931 W Cable Car St Ste 110, Boise, ID 83709, USA Come by and meet your neighbors!
+Upcoming Events Fri, Oct 16 District 22 Democrats Casual Meet up / Voodoo Brewing Company- Boise RSVP Oct 16, 2026, 6:00 PM – 7:00 PM Voodoo Brewing Company- Boise, 9931 W Cable Car St Ste 110, Boise, ID 83709, USA Come by and meet your neighbors!
 The D22 Democrats are meeting at Voodoo Brewing on Overland Sat, Oct 17 No Kings Rally / Idaho State Capitol Learn more Oct 17, 2026, 11:00 AM – 1:00 PM Idaho State Capitol, 700 W Jefferson St, Boise, ID 83702, USA We'll have a booth - come say hi.
 Multiple Dates Sun, Oct 18 Door knocking with the Easleys / Location is TBD RSVP Oct 18, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
 Multiple Dates Tue, Oct 20 Door knocking with the Easleys / Location is TBD RSVP Oct 20, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.

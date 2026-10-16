@@ -20,7 +20,7 @@ We might have met during my service as President of the Washington Coalition for
 We might not have met yet, but I hope we will be able to meet soon.
 Until then, I’ll use this website, my Facebook Page , and my Twitter account to share with you what I think the School Board can do, and how I can contribute to the team of leaders who serve the students of Puyallup.
 Contact me through any of those resources, and look for more opportunities in the future.
-Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: 2021 , David Berg , Election , Puyallup School Board , Puyallup School District Puyallup School District by the Numbers → Leave a Reply Cancel reply Comment Name Email Website Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: 2021 , David Berg , Election , Puyallup School Board , Puyallup School District Puyallup School District by the Numbers → Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
 November 3, 2026 # days to go.
 Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...

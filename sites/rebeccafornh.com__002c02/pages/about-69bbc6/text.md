@@ -7,6 +7,6 @@ Her work delivered practical results through responsible leadership and effectiv
 In 2017, Rebecca returned home to New Hampshire to raise her family and invest in the community she loves.
 She lives in Sutton, works as a research scientist studying risk and community resilience, and serves on the Kearsarge Regional School District Municipal Budget Committee, where she helps ensure responsible stewardship of local tax dollars while supporting strong public schools.
 Rebecca and her family enjoy spending time outdoors in New Hampshire’s lakes and mountains, and she is committed to building a more affordable, responsible future for the communities of Senate District 7.
-Fiscal Responsibility No Income or Sales Tax Lower Property Taxes Protecting Our Public Schools Environmental Stewardship View More info@rebeccafornh.com Mailing Address: Rebecca for NH PO Box 198 North Sutton, NH 03260 Powered by RUN! website builder Paid for by Rebecca for NH.
+Our priorities Fighting for Our Community Fiscal Responsibility No Income or Sales Tax Lower Property Taxes Protecting Our Public Schools Environmental Stewardship View More info@rebeccafornh.com Mailing Address: Rebecca for NH PO Box 198 North Sutton, NH 03260 Powered by RUN! website builder Paid for by Rebecca for NH.
 PO Box 198 North Sutton, NH 03260.
 Rebecca Harned, Treasurer You need to enable JavaScript to run this app.

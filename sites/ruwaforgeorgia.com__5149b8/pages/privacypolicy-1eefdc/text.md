@@ -1,4 +1,4 @@
-0 Skip to Content Home About Policy Endorsements Contact Updates Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Updates Voting Resources Home About Policy Endorsements Contact Updates Voting Resources Privacy Policy & Terms of Service Last Updated 8/1/2025, 4:18:47 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+0 Skip to Content Home About Policy Endorsements Contact Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Voting Resources Home About Policy Endorsements Contact Voting Resources Privacy Policy & Terms of Service Last Updated 8/1/2025, 4:18:47 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we've created this policy to explain our privacy practices.
 This applies to https://www.ruwa4georgia.com/ only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.

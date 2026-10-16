@@ -1,5 +1,5 @@
-top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer with Team Sylvia!
-News in the 10th Events Join Team Sylvia More Use tab to navigate through the menu items.
+top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer!
+News Events Join Us More Use tab to navigate through the menu items.
 Fairhaven: Let's knock doors to Re-Elect Rep.
 Mark D.
 Sylvia in the 10th Bristol!

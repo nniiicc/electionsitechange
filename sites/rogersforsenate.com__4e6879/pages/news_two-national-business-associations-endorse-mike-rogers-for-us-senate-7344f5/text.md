@@ -11,7 +11,7 @@ Senate to help our state thrive,” said Rogers .
 I’m grateful for the National Federation of Independent Business and National Roofing Contractors Association’s support as we fight to get Michigan working again.” These endorsements come on the heels of the Detroit Regional Chamber’s endorsement of Mike Rogers for U.S.
 Senate earlier last week.
 Learn more about Mike Rogers and his plan to get to work for Michigan at RogersForSenate.com .
-### Hinson Peed Previous Previous ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES Next Next ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES Next Next ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

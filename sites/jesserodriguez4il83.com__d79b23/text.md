@@ -14,4 +14,4 @@ Register & Find Your Polling Location Click Here for Information Why I’m Runni
 But real progress requires leadership that shows up, listens, and puts the people of this community first.
 I’m running for Illinois House Representative because I believe Illinois House District 83 is ready for that kind of leadership.
 Together, we can build a future we’re proud of.
-Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -26,7 +26,7 @@ When asked about this effort, the El-Sayed campaign pointed us to reporting from
 A poll by The Mellman Group for the Jewish Electorate Institute conducted earlier this month found that the vast majority of respondents identified as Democrats—71 percent—whereas only 23 percent marked themselves as Republicans.
 But among those Jewish Democrats, the same poll found that 35 percent said that the rise of anti-Israel candidates on the left had made it harder for them to identify as Democrats. [...] Continue reading at the Free Press here .
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING Next Next MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING Next Next MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

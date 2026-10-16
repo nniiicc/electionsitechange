@@ -1,9 +1,10 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate The Platform Fifteen pillars.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate The Platform Fifteen pillars.
 One governing framework.
 Every position below is grounded in specific South Dakota bills, with prepared responses for every anticipated pushback.
 This is the single source of truth for the campaign.
 Quote it freely, and hold me to it.
-The 11-Bill Family Court Reform Stack Subscribe for updates Jump to a pillar A Life & Family B Taxes & Budget C Election Integrity D Second Amendment E Protecting Children F Immigration G Property Rights H Economy & Rapid City I Medical Freedom J Education K Public Safety L Ag & Rural M Gambling N Religious Liberty O Accountability P Surveillance & Privacy Foundations Foundations.
+The 11-Bill Family Court Reform Stack Subscribe for updates Jump to a pillar A Life & Family B Taxes & Budget C Election Integrity D Second Amendment E Protecting Children F Immigration G Property Rights H Economy & Rapid City I Medical Freedom J Education K Public Safety L Ag & Rural M Gambling N Religious Liberty O Accountability P Surveillance & Privacy Beyond the fifteen pillars Tribal relations: what I will carry to Pierre for Rapid City's Native community, with the bill numbers.
+Read the commitments Foundations Foundations.
 What we build everything else on.
 Life, family, children, election integrity, and the border.
 The bedrock conservatives have always defended, and that South Dakotans still expect.
@@ -122,15 +123,15 @@ Stop the headcount-and-spending growth that's quietly inflating Pierre.
 No state income tax.
 Period.
 Real property tax relief.
-Support SB 96 (2025), the county-option mechanism that does not raise the statewide sales tax base.
-Reform SB 245 (2025) so property tax relief does not depend on a sales tax increase.
+Support SB 96 (2026), the county-option mechanism that does not raise the statewide sales tax base.
+Reform SB 245 (2026) so property tax relief does not depend on a sales tax increase.
 Stand with the families and small businesses who would pay that hike.
 Freeze It at 60: when a homeowner turns 60, the property tax bill on the home they live in stops going up.
 Income under $65,000 single or $80,000 couple, home value under $514,500, all indexed to inflation.
 The state makes counties and schools whole, paid for by capping spending growth to population plus inflation.
 Oppose appropriation growth like HB 1326 (2026), which passed the House 50-17 and the Senate 25-9.
 No corporate carveouts that pick winners and losers.
-SB 96 (2025) Reform SB 245 (2025) Freeze It at 60 (2027) Oppose HB 1326 (2026) Read the full position Pillar H Economic Development and the Rapid City Region “ Grow what we already love. ” No corporate tax carveouts.
+SB 96 (2026) Reform SB 245 (2026) Freeze It at 60 (2027) Oppose HB 1326 (2026) Read the full position Pillar H Economic Development and the Rapid City Region “ Grow what we already love. ” No corporate tax carveouts.
 Strong regional support for Ellsworth AFB and the B-21 mission, even though Ellsworth sits in the next district over.
 Build the infrastructure, housing, and small business climate the heart of Rapid City needs to grow on its own terms.
 Oppose corporate carveouts.
@@ -206,7 +207,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

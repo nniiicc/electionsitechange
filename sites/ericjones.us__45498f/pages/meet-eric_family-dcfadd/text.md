@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric’s Family “The Best Thing I’ve Done” If you want to know me, you should also know my family .
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Eric’s Family “The Best Thing I’ve Done” If you want to know me, you should also know my family .
 They're my entire engine.
 Why I see the world the way I do , why I'm crazy enough to run for Congress, why Rachel and I are committing our own financial resources to this campaign.
 Everything I believe , I believe because of my mother, my childhood, and my faith.

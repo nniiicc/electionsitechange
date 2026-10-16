@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric Jones for Congress · CA-4 We need a new generation of leadership that will fight corruption, lower the cost of living, and protect our future.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Eric Jones for Congress · CA-4 We need a new generation of leadership that will fight corruption, lower the cost of living, and protect our future.
 Eric Jones will end corruption and fight for you!
 We need leaders that understand you, will listen to you, and represent you — not career politicians seeking participation trophies for protecting the status quo.
 JOIN THE MOVEMENT !

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Data Centers in Montana What She Says.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Data Centers in Montana What She Says.
 How She Voted.
 On October 4, my opponent posted a video about the data-center bills she plans to bring to the next legislative session.
 "You will see a ban.

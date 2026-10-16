@@ -1,4 +1,4 @@
-0 Skip to Content Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Back Donate JoCasta’s Platform Cost of Living Across Wisconsin, families are feeling squeezed.
+0 Skip to Content Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Back Donate JoCasta’s Platform Cost of Living Across Wisconsin, families are feeling squeezed.
 Prices are up, but wages and support haven’t kept pace.
 As the daughter of a single mom who worked multiple jobs, JoCasta knows how hard it is to stretch every dollar.
 She’s using this campaign to call for bold, statewide investment in affordable child care, attainable housing, and relief at the grocery store—not in five years, but now.

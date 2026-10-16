@@ -1,6 +1,6 @@
 Home Issues Events Volunteer Endorsements En Español Endorsements from organizations and individuals who want to send Clyde to Congress!
 Clyde Jones , and other congressional candidates , are making a pledge to restore the balance of power in Washington, with Take BAC Congress.
-Activez le son Clyde has vowed to put Patients Over Profits, and not to take PAC money from big Pharma.
+Enable sound Clyde has vowed to put Patients Over Profits, and not to take PAC money from big Pharma.
 The American Postal Workers Union endorses Clyde For Congress.
 "Clyde Jones is the real deal.
 As a 21-year combat veteran and minister, he's spent his life putting his country, his church, and his community first.

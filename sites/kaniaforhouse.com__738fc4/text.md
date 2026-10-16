@@ -1,4 +1,4 @@
-About Schedule Issues In the News Contact DONATE Putting people before politics.
+About Schedule Issues In the News Contact DONATE A leader who listens.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.
@@ -20,10 +20,8 @@ District 3A needs a bipartisan representative at the Capitol.
 I have decades of experience bringing people together across parties and communities to fight natural disasters, keep us safe, and deliver real results.
 Share a priority by completing the Contact Us form below. > Donations help us reach voters across District 3A with events, materials, and outreach.
 DONATE TODAY Schedule Upcoming events and opportunities to meet the campaign.
-Iron Trail Motors Meet & Greet October 15 • 5:00 pm - 7:00 pm • Iron Trail Motors Event Center, 919 6th St S, Virginia, MN 55792, USA Aaron Kania will be attending the candidate Meet & Greet @ Iron Trail Motors October 15th.
-Sincere thank you to Laurentian Chamber of Commerce for hosting.
-Mesabi...
-Event Details Grand Portage Meet and Greet October 16 • 4:00 pm - 6:00 pm • Old Log Building, 58 Upper Road, Grand Portage, MN 55605 International Falls Door Knock October 18 • 12:00 pm - 6:00 pm Meet at Smokey Bear Park at 12:00 and 3:00 pm On Line Sign-Up: Event Details Silver Bay Door Knock October 19 • 2:00 pm - 6:30 pm • Silver Bay Public Library, 9 Davis Dr, Silver Bay, MN 55614, USA Meet at the Silver Bay Public Library Parking lot for a Silver Bay Door Knock!
+Grand Portage Meet and Greet October 16 • 4:00 pm - 6:00 pm • Old Log Building, 58 Upper Road, Grand Portage, MN 55605 International Falls Door Knock October 18 • 12:00 pm - 6:00 pm Meet at Smokey Bear Park at 12:00 and 3:00 pm On Line Sign-Up: Event Details Silver Bay Door Knock October 19 • 2:00 pm - 6:30 pm • Silver Bay Public Library, 9 Davis Dr, Silver Bay, MN 55614, USA Meet at the Silver Bay Public Library Parking lot for a Silver Bay Door Knock!
+IFalls Door Knock October 21 • 1:00 pm - 6:00 pm • Smokey Bear Park, 214 6th Ave #2336, International Falls, MN 56649, USA Meet Aaron at Smokey Bear Park for an International Falls Door Knock!
 Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.
 Contact Us Have a question, an idea, or want to connect with the campaign?
 We’d love to hear from you.

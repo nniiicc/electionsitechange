@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate District locator Michigan's 5th Congressional District Explore campaign and county party locations, district-area information, and whether an address falls within the district.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate District locator Michigan's 5th Congressional District Explore campaign and county party locations, district-area information, and whether an address falls within the district.
 Find your district and local information The blue shape shows the official congressional district boundary, including only the portions of counties that fall within the district.
 Check an address Check address Addresses are checked in the browser and are not saved by this site.
 All areas Berrien County Branch County Calhoun County Cass County Hillsdale County Jackson County Kalamazoo County Lenawee County Monroe County St.
@@ -13,6 +13,6 @@ Box 444 Centreville, MI 49032 Get directions Michigan's 5th Congressional Distri
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
-Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113 BESbswy
+Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

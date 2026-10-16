@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Gilbert Sun News: Both Gilbert senate seats up for grabs as early voting begins #ago 1 min read Check out the article: www.gilbertsunnews.com Both Gilbert senate seats up for grabs as early voting begins Among the choices as early ballots for the Nov.
 3 General Election are scheduled to go out Wednesday, Oct.
 7, Gilbert voters will choose between a businesswoman and a recent Recent Posts See All Gilbert Chamber Candidate Endorsement Arizonans deserve more than family name Stephanie Walsh is endorsed by Arizona Save Our Schools ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.

@@ -1,5 +1,5 @@
 About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 12 events found.
-Events Views Navigation Event Views Navigation List List #ago 9/19/2026 September 19 – 10/14/2026 Now Select date.
+Events Views Navigation Event Views Navigation List List #ago 9/19/2026 September 19 – 10/15/2026 Now Select date.
 September 2026 Sat 19 Door knocking in North Stamford September 19 @ 2:30 pm – 5:00 pm Fort Stamford 900 Westover Road, Stamford, Connecticut Help Jill reach voters and win CT’s most contested State Senate seat!
 We will meet and split up to knock doors.
 No experience necessary!

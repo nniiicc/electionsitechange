@@ -17,4 +17,4 @@ Message frequency varies.
 Message & data rates may apply.
 Reply STOP to unsubscribe or HELP for help.
 Confirm RSVP By submitting, you agree to our Privacy Policy and Terms of Service .
-Spread the Word Share Event Don't Miss More Events 15 Oct Candidate Forum Scappoose High School Community Meetup 20 Oct Pacific City Canvassing Pacific City Door-to-Door Campaign
+Spread the Word Share Event Don't Miss More Events 20 Oct Pacific City Canvassing Pacific City Door-to-Door Campaign

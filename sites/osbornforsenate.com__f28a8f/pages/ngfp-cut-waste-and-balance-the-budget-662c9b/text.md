@@ -34,5 +34,5 @@ After taxpayers sent Moderna $10 billion in COVID subsidies, its CEO made $398 m
 As Senator, I will never support handing huge pharmaceuticals a blank check.
 Ban Data Center Giveaways : Our leaders are throwing subsidies and tax incentives at data centers, which jack up energy prices for consumers and make our communities unpleasant to live in without giving anything back.
 There’s a reason that these data centers are so unpopular everywhere they’re being built.
-GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Careers Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
+GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
 All rights reserved.

@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-DONATE JOIN THE BRIGADE Join the Brigade Donate $100 or more to this campaign and become a Brigade member.
+DONATE JOIN THE BRIGADE ☝ Early Voting is October 17 th -30 th ☝ Join the Brigade Donate $100 or more to this campaign and become a Brigade member.
 It's the duty of all good people to fight for their freedom and culture — and that fight takes more than good wishes.
 It takes commitment.
 That's what the Brigade is for.

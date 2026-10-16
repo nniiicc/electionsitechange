@@ -40,5 +40,5 @@ Discover how you can support lasting community change and make your voice heard 
 Join our Movement Questions?
 Reach us through the form below or at kate@gallupformichigan.com or text/call 231-357-9751 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Email * Phone Phone Message Subject Subject Message * Submit Donate to Kaitlin Gallup Show your support with a contribution.
+Subject Name Message Name * Email * Phone Subject Message * Submit Donate to Kaitlin Gallup Show your support with a contribution.
 Paid for by the Committee to Elect Kaitlin Gallup, PO Box 65, Maple City, MI 49664 Privacy Policy Instagram Facebook Bluesky

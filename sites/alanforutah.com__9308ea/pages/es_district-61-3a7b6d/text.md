@@ -1,14 +1,14 @@
 Saltar al contenido principal ¿Se mudó?
 Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar Nuestra comunidad West Provo y Southwest Orem merecen un representante enfocado en nosotros.
 El Distrito 61 incluye vecindarios en crecimiento, residentes de toda la vida y Utah Valley University.
-Alan quiere hacer posible que las personas construyan una vida aquí y puedan quedarse.
+Quiero hacer posible que las personas construyan una vida aquí y puedan quedarse.
 Su elección en 2026 El Distrito 61 merece atención antes y después del día de las elecciones.
 En 2024, la lista oficial de candidatos de Utah incluyó a un solo candidato para el Distrito 61 de la Cámara de Representantes.
 Este año, los votantes tienen una alternativa real.
 West Provo, Southwest Orem y los vecindarios alrededor de UVU merecen un representante que escuche localmente, explique los votos importantes y mantenga su presencia activa.
 El día de las elecciones es el martes 3 de noviembre de 2026 .
 Registrarse para Votar o Actualizar Datos ↗ ¿Vivo en el Distrito 61?
-Consultar mis distritos ↗ Fuente oficial de 2024: Certificación oficial de la elección general de Utah ↗ Mi estándar: el distrito primero Escuchar Conversaciones públicas regulares en el distrito.
+Consultar mis distritos (en inglés) ↗ Fuente oficial de 2024: Certificación oficial de la elección general de Utah ↗ Mi estándar: el distrito primero Escuchar Conversaciones públicas regulares en el distrito.
 Explicar Razones en lenguaje claro para cada voto principal.
 Rendir cuentas Resultados visibles, tareas pendientes y próximas prioridades.
 Conozca el distrito Encuentre su lugar en el Distrito 61 El Distrito 61 incluye West Provo, Southwest Orem, Utah Valley University y comunidades no incorporadas cercanas.

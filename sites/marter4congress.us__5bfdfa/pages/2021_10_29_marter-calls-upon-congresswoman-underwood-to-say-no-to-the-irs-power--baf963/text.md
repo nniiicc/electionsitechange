@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 29 Oct James Marter, Candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Underwood to stand with her constituents and oppose her party’s weaponizing of the IRS against them.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 29 Oct James Marter, Candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Underwood to stand with her constituents and oppose her party’s weaponizing of the IRS against them.
 “The Democrats’ current plan to spend 4 trillion of our tax dollars includes surveillance of tax payers’ bank accounts, forcing banks to report on their customers, if they have accounts or transactions exceeding just $600.
 It’s an outrageous overreach and an invasion of working people’s privacy,” explains Marter.
 “No one on either side of the aisle should stand for this and I’m calling on Congresswoman Underwood to stand against it.

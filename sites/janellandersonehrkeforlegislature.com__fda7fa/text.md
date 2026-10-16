@@ -5,13 +5,13 @@ For over two decades, I’ve strengthened Nebraska’s small businesses by helpi
 I'm running to fight for business and agriculture policy that will benefit our communities- from McCook to Sutton.
 District 38 deserves to grow and prosper- I am the voice to make that happen.
 Chip-In to help Janell's Campaign!
-Donate Core Value I’ve signed pledges to protect girls' sports by ensuring biological males do not participate in them.
+Donate The Candidate for Rural Nebraska Janell Anderson Ehrke will support and fight for farmers, ranchers and livestock producers.
+She is proud to be endorsed by: View More Endorsements From Nebraska Leaders “You don't have to ask Janell to put Nebraska before herself; it's in her DNA . [read more] " Allen Fredreickson Founder/Executive Chairman, Signature Performance Core Value I’ve signed pledges to protect girls' sports by ensuring biological males do not participate in them.
 My son is a college women's basketball coach.
 I greatly respect and admire female athletes.
 On The Issues Real Property Tax Relief Representing We The People Long-term Solutions, Not Band-aids New Strategies for State Revenue Leadership serving the entire District, not just one area.
 Keeping Local Control for Zoning, Energy, and Data Center projects.
-Developing Local Economy Investing in Small and New businesses through tax policy and grant programs Slashing Red Tape slowing growth and innovation Strong Schools Preparing Our Kids for Success in an Evolving Workforce Fighting for rural school budgeting and oversight that makes sense Growing Agriculture Adding Value to NE products Building new markets, removing barriers for young farmers Revitalizing Rural Communities Renewing Main Streets & Enhancing Quality of Life Affordable Housing Options and Investment The Candidate for Rural Nebraska Janell Anderson Ehrke will support and fight for farmers, ranchers and livestock producers.
-She is proud to be endorsed by: View Endorsements From Nebraska Leaders VOLUNTEER Join our movement and be a part of shaping the future of District 38.
+Developing Local Economy Investing in Small and New businesses through tax policy and grant programs Slashing Red Tape slowing growth and innovation Strong Schools Preparing Our Kids for Success in an Evolving Workforce Fighting for rural school budgeting and oversight that makes sense Growing Agriculture Adding Value to NE products Building new markets, removing barriers for young farmers Revitalizing Rural Communities Renewing Main Streets & Enhancing Quality of Life Affordable Housing Options and Investment VOLUNTEER Join our movement and be a part of shaping the future of District 38.
 Click here to sign up and volunteer for our campaign.
 STAY CONNECTED Click here to stay updated with our latest news and event.
 Subscribe to our Facebook page for campaign updates, events, and more!

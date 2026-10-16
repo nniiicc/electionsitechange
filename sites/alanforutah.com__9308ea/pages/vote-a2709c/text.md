@@ -1,11 +1,13 @@
 Skip to content Moved?
 Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate Election Day is Tuesday, November 3, 2026 Make your plan to vote Every active registered voter in Utah gets a ballot in the mail.
-The one big change this year: your ballot has to arrive by 8 p.m. on Election Day.
-A postmark is no longer enough.
+Two things are new since 2024.
+Your ballot has to arrive by 8 p.m. on Election Day, so a postmark isn't enough.
+And the envelope now has a spot for the last 4 digits of your ID.
 Check my registration ↗ Find a drop box → On your ballot: Alan Jimenez for Utah House District 61.
 Not sure you live in HD61?
 Look up your districts at vote.utah.gov ↗ The short version 1 Make sure your address is current.
-2 Fill out your ballot and sign the envelope.
+2 Fill out your ballot.
+Sign the envelope and add the last 4 digits of your ID.
 3 Put it in a drop box by 8 p.m. on November 3.
 Key dates Mark your calendar.
 OCT 12 Drop boxes open Ballot drop boxes open 24/7 from October 12 until 8 p.m. on Election Day.
@@ -24,14 +26,14 @@ In The Salt Lake Tribune voter guide The Tribune asked.
 I answered.
 The Salt Lake Tribune asked the House District 61 candidates where they stand.
 Here's what I told them.
-CLEAN GOVERNMENT “People are tired of barely getting by while politicians live the big life.” What I'll do Take no money from large PACs or corporations Post every lobbyist meeting online Set limits on campaign contributions Clean-government pledges → AFFORDABILITY “All three of my siblings left Utah because they couldn't afford housing, and I don't want more families to go.” What I'll do Reform zoning to build more starter homes Require state approval for big insurance rate hikes Cut the grocery sales tax, then work toward ending it Affordability plan → WATER & THE GREAT SALT LAKE “Our lake should be here for generations to enjoy.” What I'll do Help farmers switch to more efficient irrigation Make data centers disclose water and energy use Protect residents' right to a referendum Water & growth plan → Also on your ballot How I'm voting on the amendments.
+CLEAN GOVERNMENT “People are tired of barely getting by while politicians live the big life.” What I'll do Take no money from large PACs or corporations Post every lobbyist meeting online Set limits on campaign contributions Clean-government pledges → AFFORDABILITY “All three of my siblings left Utah because they couldn't afford housing, and I don't want more families to go.” What I'll do Reform zoning to build more starter homes Require state approval for big insurance rate hikes Cut the grocery sales tax, then work toward ending it Affordability plan → WATER & THE GREAT SALT LAKE “Our lake should be here for generations to enjoy.” What I'll do Help farmers switch to more efficient irrigation Make data centers disclose water and energy use Protect residents' right to a referendum Water & growth plan → Find a drop box → Request a yard sign ↗ Also on your ballot How I'm voting on the amendments.
 Every Utah ballot this year includes two proposed changes to the state constitution.
 Here's where I stand.
 AMENDMENT A · I'M VOTING AGAINST It makes ballot info harder to find Amendment A would stop printing proposed amendments in newspapers around the state and post them on state websites instead.
 I want it to stay easy for everyone to see what they’re voting on.
 AMENDMENT B · I'M VOTING AGAINST Don't move the goalposts on voters It would require 60% of the vote for citizen initiatives that create or raise a tax.
 When the Legislature raises taxes itself, it still needs only a simple majority.
-Why I'm voting no on both → Read the full voter guide at sltrib.com ↗ New this year Don't count on the postmark.
+Why I'm voting no on both → Read the full voter guide at sltrib.com ↗ New since 2024 Don't count on the postmark.
 Utah changed its law.
 Mailed ballots now count only if the county clerk receives them by 8 p.m. on Election Day.
 Ballots that arrive later are not counted, even if they were mailed on time.
@@ -41,18 +43,24 @@ Send it early, at least a week before Election Day.
 It's free and open 24/7.
 03 Sign the envelope.
 An unsigned ballot can't be counted until you fix it.
+04 Write the last 4 digits of your Utah driver license, state ID, or Social Security number on the envelope.
+Don't have any of these?
+Just sign it, and the county will check your signature.
 Drop boxes near District 61 Drop it off, no stamp needed You can use any drop box in Utah County.
 Open 24/7 from October 12 to 8 p.m. on November 3.
-01 Utah Valley University 800 W University Pkwy, Orem ↗ 02 Orem City Library 58 N State St, Orem ↗ 03 Orem Senior Friendship Center 93 N 400 E, Orem ↗ 04 Provo City Library 550 N University Ave, Provo · north end, next to the book return ↗ 05 Utah County Administration Building 100 E Center St, Provo · drive-up in the south lot, walk-up on the south side ↗ See all 28 county drop boxes at vote.utahcounty.gov/voting-locations ↗ .
+01 Utah Valley University 800 W University Pkwy, Orem · north of the Liberal Arts Building ↗ 02 Orem City Library 58 N State St, Orem · library loop on 100 North, next to the book drop ↗ 03 Orem Senior Friendship Center 93 N 400 E, Orem ↗ 04 Provo City Library 550 N University Ave, Provo · north end, next to the book return ↗ 05 Utah County Administration Building 100 E Center St, Provo · drive-up in the south lot, walk-up on the south side ↗ See all 28 county drop boxes at vote.utahcounty.gov/voting-locations ↗ .
 Locations can change, so check there before you go.
 Voting in person Prefer to vote in person?
 You can.
-EARLY VOTING Provo Health and Justice Building 151 S University Ave, Suite 2500, Provo.
+EARLY VOTING Utah County Health and Justice Building 151 S University Ave, Room 2500, Provo.
 8 a.m. to 5 p.m., October 26 to 30 and November 2.
 ELECTION DAY · 7 A.M. – 8 P.M.
 Vote centers in Provo and Orem Provo Health and Justice Building, 151 S University Ave · Provo Legacy Village, 4146 N University Ave · Orem Centerpoint Church, 1550 Sandhill Rd.
 If you're in line by 8 p.m., stay in line.
 You can still vote.
+Not registered yet?
+You can register at a vote center on Election Day and vote there.
+Bring your ID and proof of address.
 Confirm locations and hours at vote.utahcounty.gov ↗ .
 Something wrong?
 Fix it before Election Day Most problems are easy to fix if you catch them early.

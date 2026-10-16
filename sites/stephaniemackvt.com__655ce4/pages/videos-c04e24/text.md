@@ -8,4 +8,4 @@ Play Video Play Video 33:54 Meet the Candidates | Chittenden-23 & 24 On Septembe
 This candid discussion gives voters an opportunity to hear directly from the candidates about their perspectives, priorities, and the challenges facing Vermont communities.
 Watch the conversation and get to know the candidates seeking to represent Essex-area residents in Montpelier.
 Learn more about Stephanie Mack: https://www.stephaniemackvt.com Recorded September 26, 2026, in Essex, Vermont.
-Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page
+Shorts Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

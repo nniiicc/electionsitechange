@@ -24,4 +24,4 @@ In Houston, we work together.
 And I have been proud to take that approach in Washington, earning the U.S.
 Chamber of Commerce’s Abraham Lincoln Leadership for America Award, which honors the top 20 members of the House of Representatives and top 10 Senators who “demonstrate the leadership needed to advance policies that support American business.” FOLLOW LIZZIE Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
-Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 Privacy Policy PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

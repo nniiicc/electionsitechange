@@ -19,7 +19,7 @@ This was some kind of shenanigans about somebody set a date and then put a podiu
 Well, I don't get extorted by anybody.
 So we've got two debates already scheduled.
 We're going to debate, and we're looking forward to it.” Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS Next Next ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS Next Next ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

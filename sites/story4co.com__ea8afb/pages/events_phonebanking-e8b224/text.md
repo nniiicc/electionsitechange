@@ -4,4 +4,4 @@ Your engagement can make a real impact.
 Join us at the office or sign up below to phone bank at home and be a part of the campaign!
 Sign up HERE for more details.
 Earlier Event: October 23 Team Tammy Canvass with Rep.
-Mabrey Later Event: October 27 Team Tammy Canvass with Young Dems Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Mabrey Later Event: October 27 Team Tammy Canvass with Young Dems Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

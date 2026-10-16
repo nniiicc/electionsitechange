@@ -126,5 +126,5 @@ Join this team to get us across the finish line.
 And please vote for me on November 3rd.
 Thank you.
 Previous CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like Uptick in ICE activity across the South Shore and South Coast One reason I support Labor Unions My work to build the Pembroke Community Center 25th Anniversary of 9/11 CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like 25th Anniversary of 9/11 Member of the inaugural class of the American Service Fellowship at Harvard Kennedy School CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Uptick in ICE activity across the South Shore and South Coast One reason I support Labor Unions Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

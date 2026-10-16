@@ -1,5 +1,8 @@
 top of page Home Hot Topics About Alan Restoring Washington Get Involved More Use tab to navigate through the menu items.
-DONATE Hot Topics All Articles Misprinted Ballots Monday moring, August 21st, I identifed errors in the ballots mailed out by Spokane County.
+DONATE Hot Topics All Articles Washington Supreme Court races While the initiatives deservedly get a lot of attention, the Washington State Supreme Court races are the most consequential decisions on this year's ballot.
+Five of the nine seats are up for election.
+That is over half of a court that has repeatedly ignored the will of the people and the actual text of Washington's Constitution.
+Here are some of their recent greatest hits: Overturned Spokane's anti-camping ordinance, approved by 75% of the voters to protect our school and Alan Nolan #ago 1 min read Misprinted Ballots Monday moring, August 21st, I identifed errors in the ballots mailed out by Spokane County.
 Below is a short summary of the issue, stories on it, as well as maps to identify if you have been affected my the mistake.
 This is a breaking story and I will post updates on my Facebook account first.
 Spokane County Elections department head Ryan Doss confirmed over the phone yesterday an error in printing some ballots.

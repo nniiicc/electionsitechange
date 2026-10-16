@@ -47,8 +47,7 @@ A West Tennessee singer-songwriter wrote a song about politicians who promise to
 It is exactly the kind of independent voice this campaign is built around.
 Hear the Song “I wrote this because I'm tired of watching politicians promise the world, go to Washington, and leave the rest of us holding the bag.
 Independent leadership is the only kind that scares them.” — Paul DW, Singer-Songwriter On the Trail Meet Horace in your community.
-All Events Oct 15 East Jackson Town Hall Home M.B.
-Church, 307 James Buchanan Dr, Jackson, TN 38301, USA Oct 18 2nd 10 Miler - Sunday, October 18 - 7am start Tennessee's 8th District Oct 22 Christie Taylor (River City Round Up Public Affairs Show) Tennessee's 8th District Showing Up, Not Sending Mailers This seat belongs to the people of West Tennessee.
+All Events Oct 18 2nd 10 Miler - Sunday, October 18 - 7am start Tennessee's 8th District Oct 22 Christie Taylor (River City Round Up Public Affairs Show) Tennessee's 8th District Oct 24 Just After the Window: Día de los Muertos Parade & Festival Downtown Memphis, Memphis, TN, USA Showing Up, Not Sending Mailers This seat belongs to the people of West Tennessee.
 Door to door, county fair to car show, Jackson to Collierville.
 Add your name and help carry this district.
 Volunteer Read the Issues Chip In No corporate PACs.

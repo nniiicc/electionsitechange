@@ -6,9 +6,7 @@ Today, in a one-on-one interview with our Makayla Goos she said she’s preparin
 Hobbs: I think starting in 2027 we are going to see the drastic impact that HR1 is going to have on Medicaid beneficiaries.
 Right now we are right bracing for that impact, preparing for how we can work to ensure that as many people as possible can stay on their coverage.
 Anchor: Governor Hobbs was in Tucson today for a healthcare roundtable with her running mate for Lieutenant Governor, former Mesa Mayor John Giles.
-Next Post Elect Katie Hobbs Campaign Announces Nearly $# Million Raised PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
+Next Post Katie Hobbs Campaign Announces Historic $6 Million Investment in Latino Voter Outreach and Turnout Investment includes Spanish-language paid media, bilingual field and mail programs, Familias Primero coalition, and events across the state PHOENIX - Today, the Katie Hobbs campaign announced a historic $6 million total investment in Latino voter outreach and turnout across Arizona, spanning paid media, organizing, direct mail, communications, and community...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

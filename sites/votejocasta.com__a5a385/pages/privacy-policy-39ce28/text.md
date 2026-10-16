@@ -1,4 +1,4 @@
-0 Skip to Content Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Back Donate Privacy Policy JoCasta for Wisconsin cares about your privacy rights and about providing you with the information you need in order to protect them.
+0 Skip to Content Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Back Donate Privacy Policy JoCasta for Wisconsin cares about your privacy rights and about providing you with the information you need in order to protect them.
 Accordingly, we've created this policy to explain our privacy practices.
 This applies to www.votejocasta.com only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.

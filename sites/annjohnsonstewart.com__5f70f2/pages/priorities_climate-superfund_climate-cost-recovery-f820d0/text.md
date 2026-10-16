@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Climate Cost Recovery Ouline: Minnesota taxpayers are currently footing the bill for the devastating local impacts of climate change.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Climate Cost Recovery Ouline: Minnesota taxpayers are currently footing the bill for the devastating local impacts of climate change.
 A Climate Cost Recovery program would legally compel the world’s largest fossil fuel corporations to reimburse the state for the billions of dollars spent repairing infrastructure damaged by extreme weather.
 Key Takeaways: Shifting the Burden: Ensuring that multinational fossil fuel companies—not local property taxpayers—pay for the environmental and structural damages their emissions have caused.
 Data-Driven Accountability: Utilizing advanced economic and environmental modeling to accurately assess the cost of climate damages in Minnesota and hold the top corporate polluters legally liable for their share.

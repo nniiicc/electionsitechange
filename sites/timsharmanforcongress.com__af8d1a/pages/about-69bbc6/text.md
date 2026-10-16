@@ -1,10 +1,13 @@
-Virginia 8th District · Vote on November 3, 2026 Home TIM SHARMAN — Independent Candidate for Congress, Virginia's 8th District 2026 for Congress Independent Candidate Government that works.
+Virginia 8th District · Vote on November 3, 2026 Stay in Touch Home TIM SHARMAN — Independent Candidate for Congress, Virginia's 8th District 2026 for Congress Independent Candidate Government that works.
 Politics that doesn't get in the way.
-Volunteer Donate Stay in Touch Shop About Tim VA-08 Analysis Congress Can Lead Am I in VA-08 ?
+Volunteer Donate Campaign Rap Shop About Tim VA-08 Analysis Congress Can Lead Am I in VA-08 ?
 English Español About Me I’m running for Congress as an independent because I think government should solve problems.
 Too often, it doesn’t.
 I’ve spent most of my life outside politics.
-I was born in London, studied Politics, Philosophy and Economics at Oxford University, moved to the United States some three decades ago and gladly became an American citizen.
+I grew up in London and studied Politics, Philosophy and Economics at Oxford University.
+I moved to Virginia some three decades ago, married, had two children, made a home in Alexandria, and gladly became an American citizen.
+My wife passed away in 2020 but my daughters and I continue to live in Alexandria.
+I just “celebrated” my 62nd birthday.
 America has been extraordinarily good to me, and I’m proud to call it my home.
 My career has been spent largely in customer experience and helping businesses better understand and serve their customers.
 You may be surprised to learn that YOU are a CUSTOMER of the U.S.

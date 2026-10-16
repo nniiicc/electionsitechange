@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 28 Nov Today James Marter, Republican candidate for Congress in Illinois 14, pledged to support legislation creating a parents bill of rights in the education of their children.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 28 Nov Today James Marter, Republican candidate for Congress in Illinois 14, pledged to support legislation creating a parents bill of rights in the education of their children.
 “As a father and grandfather, I strongly believe that parents should have a voice in the education of their children.
 The Biden Administration, attempting to classify engaged parents as ‘domestic terrorists’ is not only wrong, it’s outrageous,” said Matter.
 “For decades, experts have been telling us that we need more parental involvement but now that it’s politically inexpedient for one party, we need to attack parents and silence them.

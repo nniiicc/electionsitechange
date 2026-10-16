@@ -104,10 +104,6 @@
 "href": "mailto:info@capenconsulting.com?subject=JOHN+LOWERY%3A+Press+Inquiry"
 },
 {
-"text": "Privacy Policy.",
-"href": "https://www.johnlowerync.com/privacy"
-},
-{
 "text": "Secretary of State's Office",
 "href": "https://www.sosnc.gov/"
 },
@@ -118,6 +114,10 @@
 {
 "text": "State Constitution",
 "href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "Terms of Service and Privacy Policy page.",
+"href": "https://www.johnlowerync.com/privacy"
 },
 {
 "text": "Treasurer's Office",
@@ -138,5 +138,9 @@
 {
 "text": "[image]",
 "href": "https://www.capenconsulting.com/"
+},
+{
+"text": "https://www.johnlowerync.com/privacy.",
+"href": "https://www.johnlowerync.com/privacy."
 }
 ]

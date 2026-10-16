@@ -1,4 +1,6 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report March 29, 2025 Ready Report: MPRP Update, Budget “Compromise”, & More… The 12th week of the 2025 Legislative Session has concluded.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report April 4, 2025 Ready Report: Final Week of Legislative Session The 13th and final week of the 2025 Legislative Session has concluded.
+Monday, April 7th is Sine Die, meaning any bill that does pass before Midnight on Monday will not pass this year.
+Next week I will have… Read More > March 29, 2025 Ready Report: MPRP Update, Budget “Compromise”, & More… The 12th week of the 2025 Legislative Session has concluded.
 There is just one full week left.
 Then the General Assembly will adjourn Sine Die at midnight on Monday, April 7th.
 Any bill that does pass by… Read More > March 22, 2025 Ready Report: Budget “Deal” Includes Tax on IT, Local Update & More… The 11th week of the 2025 Legislative Session has concluded.
@@ -18,5 +20,4 @@ The sixth week of the Maryland General Assembly Legislative Session has conclude
 Here is… Read More > February 7, 2025 Ready Report: State of the State, Electric Bill Help, District Night & More… The fifth week of the Maryland General Assembly Legislative Session has concluded.
 Here is an update on what happened this week in Annapolis: Click the picture below to watch my Weekly Video Update for Session… Read More > January 31, 2025 Ready Report: Week 4 Update, Fighting High Energy Costs, District 5 Night & More The fourth week of the Maryland General Assembly Legislative Session has concluded.
 Here is an update on what happened this week in Annapolis, as well as some developments from Carroll County.
-Click the picture below… Read More > January 28, 2025 BGE Update & District Night Invite I’m writing for two reasons – first I want to share information on the BGE Rate increases that have occurred and provide some details about what’s happening.
-Secondly, I wanted to be sure you got… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+Click the picture below… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

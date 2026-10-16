@@ -17,7 +17,7 @@ It's also true that working folks deserve relief.
 But sending you a check while leaving our schools, roads, and emergency services short on funding can leave us all paying more through property taxes, fees, and expenses down the road.
 Over the last three years, I’ve sat down with local leaders working hard to keep those basic services running without asking neighbors to pay more.
 Those conversations shape my approach: use taxpayer dollars responsibly and look at what families actually pay over time.
-I believe government should do the basics well: strong public schools, safe roads, reliable emergency services, and kids with enough to eat.
+I believe government should do the foundations well: strong public schools, safe roads, reliable emergency services, and kids with enough to eat.
 My opponent and I have a fundamental difference in the role of government.
 I believe it should be creative, resourceful, and responsible in finding ways to help as many people as possible.
 It should work to lower costs and protect our neighbors from corporate greed.
@@ -29,11 +29,11 @@ There's a lot of talk about "returning taxpayer dollars" right now.
 But I've been meeting with local leaders and understand that schools, emergency services, and local governments also need reliable funding year after year.
 We know a surplus won’t last forever so we should search for lasting ways to pay for those needs.
 Here's where I would start. + $792 Million over two years Reform the Manufacturing & Ag Credit + $420 million over two years Reform the Capital Gains Exclusion + $70 Million in first year Legalize and Tax Marijuana Require Accountability for Corporate Subsidies Close Corporate Tax Loopholes Expand BadgerCare Review State Contracts and Spending Clear Numbers and Public Accountability.
-These proposals are starting points for the budget process.
-Each needs an updated estimate before we commit the money.
+These proposals are starting points for my work in Madison.
+I want to be clear that each section would need an updated estimate before we commit the money.
 Changes to taxes can also affect one another, so individual estimates should not simply be added together.
-The figures above come from state analyses of specific proposals in the governor’s proposed 2025–27 budget.
-They describe what those proposals were expected to raise, not money already collected or guaranteed future revenue.
+Many figures above come from state analyses of specific proposals in the originally proposed 2025–27 budget.
+Those summaries describe what those proposals were expected to raise, not money already collected or guaranteed future revenue.
 You deserve to know where the money comes from, where it goes, and how it makes life better here.
 That’s the standard I would bring to Madison.
 People first.

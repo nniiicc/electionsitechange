@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 DONATE Sign up for Assemblyman Rich DeLong's Newsletter By selecting Sign Up you agree to receive automated text messages related to the campaign.
 You may Opt Out at anytime by replying STOP to any received message.
 Carrier data charges may or may not apply and are based on your carrier.
@@ -11,7 +11,7 @@ In 2000, he founded and then built a successful consulting business supporting t
 In 2021 he sold the business and now provides his expertise and experience to the new company. ​ In 2005 Governor Guinn appointed him to the Nevada Commission on Mineral Resources and he was reappointed three times by successive governors, serving a total of 16 years.
 For the last seven years on the commission, he was voted Chairman by his fellow commissioners.
 In addition, he served for a number of years as Chairman of the University of Nevada College of Science Advisory Board. ​ Rich enjoys hiking with his family's dog in the mountains around the Truckee Meadows, exploring Nevada, and golfing.
-Home About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 Drop Rich a Note Below Send Thanks for submitting!
 Paid for by Delong for Nevada 59 Damonte Ranch Parkway, Reno, NV, US Drop Rich a Note Below Send Thanks for submitting!
 PAID FOR BY DELONG FOR NEVADA DeLong For Nevada | 59 Damonte Ranch Parkway Suite 543 | Reno, Nevada 89521 | 775.476.2321 bottom of page

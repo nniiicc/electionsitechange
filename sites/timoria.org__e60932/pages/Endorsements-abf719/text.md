@@ -1,24 +1,32 @@
-Skip navigation menu Home About Issues Vote Formal Statement Endorsements Get Involved Donate Home About Issues Vote Formal Statement Endorsements Get Involved Donate Rep.
-Derrick Jackson - Current Georgia State Representative District 68 & Candidate for Governor “Timoria possesses the fight, leadership, and unwavering integrity necessary to serve District 68.
-Her deep legislative experience ensures that our constituents will be represented with both skill and conviction in the State House." -Derrick Jackson State Representative Derrick Jackson represents Georgia’s 68th House District.
-He is a retired military officer veteran with the U.S.
-Navy, corporate general manager, adjunct professor, non-profit board member and a community leader.
-Rep.
-Jackson is known for his integrity, honesty, enthusiasm, compassion and solid commitment to serving his constituents.
-Georgia WIN List Primary Endorsement "We are thrilled to be endorsing so many highly qualified women like Timoria McQueen Saba " at a time when voters are looking for voices of reason who understand the problems Georgia families face.
-Too many families struggle to balance household budgets while costs for healthcare, housing, groceries, and gas continue to rise...at the state and national level, The women WIN List endorses are problem solvers who will bring a fresh approach to governing Georgia when they take office in January 2027!” Georgia Equality Georgia Equality is dedicated to advancing the rights of LGBTQ+ Georgians and all those living with HIV throughout Georgia.
-Joe Clark - Fayetteville City Councilman “Let TIMORIA be the champion for House District 68.
-She is leaps and bounds the best candidate in this race.
-NO DOUBT.
-This is the leader the voters need.
-Passion, Experience, and Common Sense makes things happen.
-She is ready on Day One and will make an immediate impact as your advocate.
-She brings a wealth of experience and knows the process to make things happen at the Capitol.
-She already has written several bills and will present them on her first day as your representative.
-I’m all in for Timoria McQueen Saba for Georgia House District 68.” Moms Demand Action “I am truly honored to share that our campaign has received the 2026 Moms Demand Action Gun Sense Candidate distinction.
-Thank you to Moms Demand Action for this recognition.
-I remain committed to advocating for gun violence prevention and keeping our communities safe.
-This fight is far from over, but together, we will make a difference.” Georgia Majority for Gun Safety “I’m proud to have signed the Georgia Majority for Gun Safety 2026 Gun Safety Candidate Pledge.
-By signing this pledge, I have committed to the mission of closing the gap between public opinion and public policy by advocating for widely supported, research-backed policy solutions that keep firearms out of the hands of children and those who pose a danger to themselves or others.” The First Ask is an organization dedicated to electing progressive women to state legislatures across the nation.
-By supporting women running for office, The First Ask fights for women to be heard in every part of the decision-making process. timoria@timoria.org Powered by RUN! website builder Paid for by Timoria McQueen Saba for State Representative, INC.
+Skip navigation menu Home About Issues Vote Formal Statement Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE STATE REPRESENTATIVE ELECT HOUSE DISTRICT 68 Learn More Donate Home About Issues Vote Formal Statement Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE STATE REPRESENTATIVE ELECT HOUSE DISTRICT 68 Learn More Donate THANK YOU, DISTRICT 68 FAIRBURN, FAYETTEVILLE, PEACHTREE CITY, TYRONE, SOUTH FULTON, & UNION CITY Because of you, we made history.
+This victory belongs to every mother who fought to be heard, every family who deserved better, every volunteer who knocked on doors, every donor, and every person who believed that a survivor could become a lawmaker.
+From surviving a near-fatal postpartum hemorrhage #ago to representing District 68 in the Georgia State House, this moment is proof that lived experience belongs in the halls of power.
+We ran on dignity, equity, and action.
+Now, the real work begins.
+Let’s get to work for District 68.
+With so much gratitude, State Representative-Elect Timoria McQueen Saba MY PLATFORM › DONATE › Our priorities Fighting for Our Community Family and Maternal Health I will fight to turn Georgia’s “F” grade in health into an “A”, and expand access to affordable care.
+Housing I will fight for affordable housing and emergency rent and mortgage assistance.
+Affordability I will work to close the wage gap, expand paid leave, and affordable childcare.
+Public Schools I will push for fully funded public schools and increase teacher pay.
+Environment I will demand transparency and accountability on the negative impacts of data centers and other environmental issues.
+Voting Rights I will protect access to the ballot box for every Georgian.
+View More Proud to Serve District 68 We are strongly supporting TIMORIA MCQUEEN SABA Dozens of local organizations and leaders are standing together!
+Mayor Vince Williams Union City Mayor Rep.
+Derrick Jackson Georgia State House Rep. of District 68 Senator Donzella James Georgia State Senator District 28 Sentator Kenya Wicks U.S.
+Veteran & Georgia State Senator for District 34 Rep.
+Debra Bazemore Georgia State House Rep.
+District 69 Rep.
+Mekyah McQueen Georgia State House Rep.
+District 61 Courtney Heard Former Candidate for Georgia State House Rep. of District 68 Rep.
+Billy Mitchell Georgia State House Rep.
+District 88 Roger Bruce Georgia State House Rep.
+District 61, 2003-2025 Virgil Fludd Georgia State House Rep.
+District 64 2002-2017 Charles D.
+Rousseau Fayette County Commissioner, District 4 Darryl A.
+Hicks Georgia Ethics Commissioner Dr.
+Regina Daigre Fayette County Board of Education, District 4 Daphne Enmon Founder of Safer Communities in South Fulton Joe Clark Current City of Fayetteville Council Member Georgia WIN List Committee that provides support to Democratic women running for election Voices of Muslims An organization encouraging participation in our democracy for better quality of life, religious freedom, universal justice and human rights, racial equality Georgia Equality 30 years, our organization has achieved great success for LGBTQ+ rights across the state Peach Power PAC A political action committee fighting for a better Georgia The PAC for Georgia Youth A movement of young Georgians, organizing and mobilizing to support progressive candidates Her Term Georgia-based initiative created to recruit women to run for public office at the local, state, and national level Mental Health Now Committed to write and champion policies to improve mental health 2026 Moms Demand Action Gun Sense Candidate Moms Demand Action is a grassroots movement of Americans fighting for public safety measures that can protect people from gun violence Principles for Trusted Elections Principles for Trusted Elections is a nonpartisan framework that defines shared standards for trustworthy elections 2026 Gun Safety Candidate Pledge Committed to reducing rates of gun violence while preserving 2nd amendment rights in GA The First Ask Supporting First-Time Democratic Women for State Legislature View More HEAR TIMORIA SPEAK DIRECTLY TO THE CHALLENGES FACING DISTRICT 68 FAMILIES A Glance into Timoria's Legacy TIMORIA'S NATIONAL COVERAGE.
+POLICY IN ACTION & COMMUNITY IMPACT CNN Article: Childbirth Killing Black Women Timoria's Congressional Testimony: Better Data and Better Outcomes: Reducing Maternal Mortality in the U.S.
+Screening App for Postpartum Depression What No One Is Talking About: Maternal Deaths, Mental and Physical Trauma in the United States Why Are Politicians Ignoring This Maternal Health Act?
+You Can Help Bring Postpartum Depression Out of the Shadows Support Our Campaign OUR COMMUNITY-FOCUSED WORK DEPENDS ON YOU.
+PLEASE CONTRIBUTE TODAY TO HELP US REACH MORE VOTERS. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other timoria@timoria.org Powered by RUN! website builder Paid for by Timoria McQueen Saba for State Representative, INC.
 You need to enable JavaScript to run this app.

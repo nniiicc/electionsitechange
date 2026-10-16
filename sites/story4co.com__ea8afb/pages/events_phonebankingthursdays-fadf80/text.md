@@ -3,4 +3,4 @@ Dinner will be provided with both meat and vegetarian chili options.
 Please consider bringing a side to share.
 Don’t forget to wear your costume!
 Sign up HERE for more details.
-Earlier Event: October 30 Team Tammy Canvass Later Event: November 2 Team Tammy Canvass with LiUNA Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Earlier Event: October 30 Team Tammy Canvass Later Event: November 2 Team Tammy Canvass with LiUNA Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

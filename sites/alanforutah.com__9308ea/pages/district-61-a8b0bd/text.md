@@ -1,7 +1,7 @@
 Skip to content Moved?
 Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate Our community West Provo and Southwest Orem deserve a representative focused on us.
 District 61 includes growing neighborhoods, longtime residents, and Utah Valley University.
-Alan wants to make it possible for people to build a life here and stay.
+I want to make it possible for people to build a life here and stay.
 Your choice in 2026 District 61 deserves attention before and after Election Day.
 In 2024, Utah's official general-election candidate list included only one candidate for House District 61.
 This year, voters have a real choice.

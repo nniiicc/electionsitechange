@@ -1,5 +1,10 @@
 Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE IN THE News For all media inquiries, email Joe Arellano, Communications Director, at press@scottwiener.com .
-FEATURED ARTICLE Ezra Klein Interviews Scott Wiener If California has long been a bellwether for national liberal politics, Senator Scott Wiener has been something of a bellwether for California politics.
+FEATURED ARTICLE Who should replace Nancy Pelosi in Congress?
+It’s not even a choice The most intriguing thing about the race to fill retiring Speaker Emerita Nancy Pelosi’s House seat is that it has become a race at all.
+On paper, the choice between state Sen.
+Scott Wiener and Supervisor Connie Chan should be one of the easiest decisions San Franciscans have to make in the November general election.
+READ MORE > October 15, 2026 The progressive case for Scott Wiener A former Bay Guardian editor argues that San Francisco’s progressive establishment has lost the plot.
+Backing Connie Chan over Scott Wiener is the proof.
 READ MORE > September 28, 2026 Scott Wiener spent years rewriting California housing law.
 What does he have to show for it?
 When one of state Sen.

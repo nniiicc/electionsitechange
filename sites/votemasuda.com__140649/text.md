@@ -13,14 +13,4 @@ Get Involved!
 Get campaign updates & event invites straight to your inbox.
 No spam, no noise.
 Just what's happening in CA5 and how you can be part of it.
-Sign Up Which Yard Sign is right for you?
-Click the button below to order your sign today.
-After you fill out the form, a campaign representative will contact you to work out pick up / delivery.
-Signs are available in standard Yard, 4×4 ft, and 4×8 ft.
-While we do not charge for signs, we do suggest a donation so we can continue to spread the word and purchase more signs!
-Thank you for supporting Masuda for Congress.
-Yard Sign Order Form Yard Sign Order Form Get your Masuda SWAG Fill out the Order form to get your Masuda Shirt today.
-After you fill out the form, a campaign representative will contact you to work out pick up / delivery.
-Shirts are available in most sizes.
-If you don’t see your size, please let us know in the notes section of the form and we will accommodate as quickly as possible.
-Shirt Order Form Masuda is listening to YOU! × ‹ › 1 / 25 Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions
+Sign Up Masuda is listening to YOU! × ‹ › 1 / 25 Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

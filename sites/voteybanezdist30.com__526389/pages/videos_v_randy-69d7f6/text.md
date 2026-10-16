@@ -2,11 +2,10 @@
 He and his family want a place of their own right now, but they’re told by building managers to apply online, and be on a waitlist that can take a year until they can be placed.
 Please like, comment, and share if you agree with Randy and his take on the affordable housing process.
 #honolulurailtransit #affordablehousing #streamlined #applicationprocess #homeless Previous Door to Door at Kuhio Park Terrace in Kalihi!
-Next Rail Interview w/ Miss Ro You Might Also Like Door to Door at Kuhio Park Terrace in Kalihi!
-Rail Interview w/ Miss Ro YBANEZ - Mahalo Gov.
+Next Rail Interview w/ Miss Ro You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 From Amanda YBANEZ - Mahalo!
+We are onto the general! 🤙🤙 Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 Are you registered to vote?
+Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

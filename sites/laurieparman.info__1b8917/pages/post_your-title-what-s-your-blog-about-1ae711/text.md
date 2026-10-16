@@ -22,5 +22,5 @@ Your support has laid a foundation for continued progress, and I am excited to k
 From the bottom of my heart, thank you for standing with me.
 Together, we will continue to make a difference.
 With gratitude, Laurie Parman Note: I'll keep you posted on my campaign, community developments, and provide insights on policy issues that affect you and your family.
-Campaign & PSA Recent Posts See All Kane & McHenry County -Your Primary Vote Matters!
+Campaign & PSA Recent Posts See All McHenry County Voter Guide: Key Dates for November 2026 Kane & McHenry County -Your Primary Vote Matters!
 NEW Postal Law May Affect Your Mail-in Ballot Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

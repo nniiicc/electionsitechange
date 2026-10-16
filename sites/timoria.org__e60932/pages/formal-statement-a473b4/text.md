@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria McQueen Saba Formal Statements Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria McQueen Saba Formal Statements Official Statement: Financial Disclosures June 15, 2026 Dear District 68, I don't take defamation lightly, and neither should you.
+Skip navigation menu Home About Issues Vote Formal Statement Get Involved Donate Timoria McQueen Saba Formal Statements Home About Issues Vote Formal Statement Get Involved Donate Timoria McQueen Saba Formal Statements Official Statement: Financial Disclosures June 15, 2026 Dear District 68, I don't take defamation lightly, and neither should you.
 By now, you may have received a text from an entity calling itself “Concerned Citizens of House District 68” slandering my family and me.
 Through my research, I have found no registered group or organization by that name associated with the text communication you received.
 Look carefully at the AI-manufactured picture; the sender has dated the transactions from 2024.

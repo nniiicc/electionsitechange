@@ -1,5 +1,4 @@
-Home About Teresa Mission Media DONATE Loading...
-17% Approval Rating - Congress VOTE FOR CHANGE.
+Home About Teresa Mission Media DONATE Fighting for the Working Families of Washington DONATE VOLUNTEER 17% Approval Rating - Congress VOTE FOR CHANGE.
 LEADERSHIP NOT LABELS Our debt is accelerating.
 Public safety has been sacrificed.
 Job opportunity is diminishing.
@@ -21,5 +20,7 @@ Msg frequency may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.
 See our Privacy Policy page.
-Show Your Support Get your official Fox for Congress yard sign and put it proudly on display.
+Latest from the Campaign Featured News Press Release PRESS RELEASE: Will Randall Finally Sit Still for a Candidate Forum? | WA-06 After months of attempted outreach and no face-to-face forum between Teresa Fox and Emily Randall, another WA-06 congressional candidate forum is scheduled for October 19 at Heron's Key in Gig Harbor.
+Will both candidates take their seats?
+October 15, 2026 Campaign Staff Read Full Story View all news & updates Show Your Support Get your official Fox for Congress yard sign and put it proudly on display.
 Order a Yard Sign Home About Teresa Mission Media DONATE via anedot DONATE via winred Fox for WA (R) PO Box 4026 Bremerton, WA 98312 info@foxforwa.com Paid for by Fox for WA (R) - PO Box 4026 Bremerton, WA 98312

@@ -1,4 +1,4 @@
-Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Campaign Stops Volunteer Opportunities Town Hall State Tour News Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour News Amanda Janoo for Governor Together, we have everything we need to build a more prosperous, resilient, and democratic future.
+Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Meet Amanda Volunteer Opportunities Town Hall State Tour VT Democratic Party Events News Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour VT Democratic Party Events News Amanda Janoo for Governor Together, we have everything we need to build a more prosperous, resilient, and democratic future.
 Join us.
 Sign up for updates: Sign Up Thank you!
 We couldn’t process your submission.
@@ -32,7 +32,7 @@ They invest in their own people, their own businesses, their own farmers, and th
 They build resilience from the ground up.
 And here in Vermont, that’s exactly what this moment asks of us.
 Because despite what we have been told for too long, together, we have everything we need.
-See upcoming events → Upcoming Events Campaign Stops Meet Amanda Volunteer Opportunities Canvassing Volunteer Opportunities See more events → Media Follow on Instagram Download our campaign zine!
+See upcoming events → Upcoming Events Meet Amanda Meet Amanda Volunteer Opportunities Canvassing Volunteer Opportunities See more events → Media Follow on Instagram Download our campaign zine!
 How to fold a zine → Press Coverage Can Amanda Janoo Pull Off an Upset in the Race for Governor? [Each town hall] also introduces a core tenet of Janoo’s political philosophy: Policy makers should build upon the strengths, resources and ideas that already exist within communities rather than focusing on what they lack.
 Or, as Janoo often says, “Together, we have everything we need.” It’s an oversimplified statement, as any campaign tagline is.
 But Janoo’s message is clearly resonating with voters.

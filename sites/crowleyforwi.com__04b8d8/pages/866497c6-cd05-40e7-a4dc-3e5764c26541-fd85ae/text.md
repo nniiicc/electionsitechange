@@ -1,11 +1,11 @@
-Skip navigation menu About Issues Events Endorsements Get involved Donate now » Lowering costs for working families .
+Skip navigation menu About Issues Endorsements Get involved Events Voting Info Donate now » Lowering costs for working families .
 First Name* First Name* Last Name* Last Name* Email* Email* ZIP Code ZIP Code Phone Number Phone Number Submit By providing your phone number or email, you consent to receive periodic campaign updates from Crowley for Wisconsin.
 Donations may be solicited.
 Message and data rates may apply.
 Message frequency may vary.
 Text STOP to opt out, HELP for help.
 Privacy policy available at www.crowleyforwi.com/privacy .
-About Issues Events Endorsements Get involved Donate now » Lowering costs for working families .
+About Issues Endorsements Get involved Events Voting Info Donate now » Lowering costs for working families .
 First Name* First Name* Last Name* Last Name* Email* Email* ZIP Code ZIP Code Phone Number Phone Number Submit By providing your phone number or email, you consent to receive periodic campaign updates from Crowley for Wisconsin.
 Donations may be solicited.
 Message and data rates may apply.

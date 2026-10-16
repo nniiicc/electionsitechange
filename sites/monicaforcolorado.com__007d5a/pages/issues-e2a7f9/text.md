@@ -3,6 +3,10 @@ As your representative, I’ll fight for policies that make our home affordable 
 I am an experienced advocate who delivers results for our community, because families in our community can not afford big ideas without follow through.
 2026 Midterm Ballot Initiatives Voting is one of the most empowering things you can do.
 This year, it's deeply important to vote down the ballot for Democratic candidates that protect our elections, for ballot items that fund Colorado public services, and against attacks on our civil rights.
+Though this year’s ballot has a lot of items, we’ve made it easy by sharing Monica’s recommended votes below.
+If you’re a thorough person, you can cross reference the Colorado Democrats’ ballot decisions and the Working Families Party ballot decisions .
+If you’re a real nerd who loves long-form recommendations, check out Becky & Pinky’s voter guide.
+All of these guides strive to make it easy to be an informed voter because you are already showing up by opening your ballot - now we’re asking you vote on everything in it.
 Vote YES Replaces Colorado’s flat income tax with a graduated rate from 3.7% to 8.4%.
 If you earn less than $500,000 a year, you would pay less.
 Higher earners would pay more, and that money would go to K-12 schools, healthcare, and early childcare.

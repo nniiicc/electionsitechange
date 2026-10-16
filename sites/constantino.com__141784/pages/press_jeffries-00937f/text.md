@@ -8,4 +8,4 @@ Voters do not want Hakeem Jeffries running the House, and Hochul is using Blake 
 According to Kathy Hochul, a vote for Blake Gendebien is a vote for Hakeem Jeffries to be speaker, and for Kathy Hochul’s destructive policies to be pushed in Congress.
 ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

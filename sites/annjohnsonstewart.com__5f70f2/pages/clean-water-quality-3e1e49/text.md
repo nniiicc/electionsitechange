@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Clean Water Quality Overview: Minnesota’s water is a public trust, not a limitless commercial resource.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Clean Water Quality Overview: Minnesota’s water is a public trust, not a limitless commercial resource.
 As a civil engineer, Senator Ann Johnson Stewart is fighting to protect our aquifers from corporate exploitation while securing state investments to upgrade local municipal water systems.
 Key Takeaways: Aquifer Protection & Accountability: Requiring rigorous hydrogeologic stress tests and 30-day public notice periods before mega-users (like data centers) can drain local water supplies.
 Municipal Infrastructure Grants: Leveraging state bonding to help small towns and suburbs replace 50-year-old water mains without bankrupting local property taxpayers.

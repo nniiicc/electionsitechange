@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 ABOUT RICH Businessman Rich has been in business for over 40 years.
 He managed the Nevada operations for a business involved in natural resources development and then went on to start his own businesses supporting the exploration and mining industry.
 Today he provides his expertise to other businesses in Nevada as a consultant.

@@ -5,7 +5,7 @@ Air Force, Lieutenant Colonel, Strategic Air Command John Rogers, U.S.
 Air Force, Air Police, Technical Sergeant, 1952 Mike Rogers, U.S.
 Army, 1st Lieutenant Kristi Rogers, Department of Defense, Iraq Jim Rogers, U.S.
 Army 82nd and 101st Airborne, Major General-Ret., Iraq War Jon Rogers, U.S.
-Navy, Lieutenant CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Navy, Lieutenant MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

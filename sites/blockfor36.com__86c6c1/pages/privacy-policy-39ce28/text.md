@@ -38,6 +38,6 @@ The parties waive any right to a jury trial or participation in any class action
 Miscellaneous This Privacy Policy constitutes the entire agreement regarding the privacy of your information in connection with the Program.
 If any provision of this Policy is found unenforceable, the remaining provisions shall remain in full force and effect.
 This Policy should be read together with the Program’s Terms & Conditions .
-CONTRIBUTIONS CAN BE MAILED TO: 411 W First St, Unit 5036, Sanford, FL 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
+CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
 Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

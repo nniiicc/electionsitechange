@@ -1,5 +1,5 @@
 top of page About Darrin The Work Endorsements Contact Me More Use tab to navigate through the menu items.
-VOLUNTEER DONATE THE WORK “My position on our community's needs is clear.
+YARD SIGN DONATE THE WORK “My position on our community's needs is clear.
 I’m prepared to act on solutions that meet our needs and improve our lives.” - Darrin Madison Accomplishments By the Numbers ​ Delivered $132 million secured for PFAS cleanup and safe drinking water.
 52 bipartisan votes earned to pass employee ownership legislation through the Assembly ​ Introduced 18-bill package to improve conditions in Wisconsin prisons and jails.
 #% cap on utility bills to lower energy costs for working families. $8 million proposed for community violence prevention. $60 million proposed to make Wisconsin roads and streets safer.

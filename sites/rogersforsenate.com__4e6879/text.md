@@ -18,7 +18,7 @@ That ends now.
 WE CAN DO BETTER I’ll always put America and Michigan first.
 That means bringing manufacturing jobs back home, lowering the cost of gas, groceries, & prescription drugs, protecting seniors’ social security & medicare, and setting our kids up for success by prioritizing education not indoctrination.
 But I’ll need your support to get the job done.
-Will you join me? $15 $20 $50 CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Will you join me? $15 $20 $50 MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

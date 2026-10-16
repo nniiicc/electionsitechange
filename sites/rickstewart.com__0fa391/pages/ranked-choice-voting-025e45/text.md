@@ -17,7 +17,10 @@ It would give smaller parties a voice on certain issues.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Mental Health Everyone needs good mental health, why don’t we have it?
-Education Children learn best when they have great teachers Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin End the Drug War America’s second civil war needs to end Prev Previous Occupational licensing Next But who will build the roads?
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Ethanol Ethanol may be a good idea.
+And it may not be.
+2nd Amendment I own, I shoot, I carry.
+End the Drug War America’s second civil war needs to end Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
+Prev Previous Occupational licensing Next But who will build the roads?
 Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

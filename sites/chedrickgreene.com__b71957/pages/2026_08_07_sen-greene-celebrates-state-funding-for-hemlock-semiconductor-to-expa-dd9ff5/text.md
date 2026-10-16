@@ -1,7 +1,7 @@
 Skip to content About Endorsements Priorities Priority issues for Chedrick Greene, Democrat for State Senate District 35 News Vote GET INVOLVED Team Greene is looking for volunteers to join our coalition to elect Chedrick Greene as our next State Senator here in Michigan’s 35th District.
 We need your help talking to family, friends, and neighbors across the district to earn their support and mobilize them to turn out for this unique special election.
 DONATE Sen.
-Greene CeleBrates State Funding for Hemlock Semiconductor to Expand, Create New Jobs August 7, 2026 Categories: State Senate Update LANSING, Mich.
+Greene Celebrates State Funding for Hemlock Semiconductor to Expand, Create New Jobs August 7, 2026 Categories: State Senate Update LANSING, Mich.
 (Aug.
 5, 2026) — Sen.
 Chedrick Greene (D-Saginaw) applauded today’s announcement that Hemlock Semiconductor will receive $40 million in state funding from the Make It in Michigan Competitiveness Fund.

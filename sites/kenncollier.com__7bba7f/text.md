@@ -9,7 +9,8 @@ For years, I've worked alongside families, young people, small businesses, and n
 Whether responding during times of crisis, creating opportunities for young people, or bringing residents together to solve community challenges, my commitment has always been the same: listen first, serve with purpose, and lead with action.
 As I prepare to serve House District 62, I'm committed to remaining visible, accessible, and engaged with the people I represent.
 Together, we can build safer communities, stronger neighborhoods, and greater opportunity for every family who calls District 62 home.
-Learn more Local Jobs & Economic Stability Community-Based Safety & Violence Prevention Youth Opportunity & Career Pathways Trauma-Informed, Healing-Centered Schools Affordable Housing & Homeownership Healthcare Access and Mental & Behavior Health Support Thank you for supporting this movement.
+Learn more Our priorities Fighting for Our Community These are some of the top priorities our campaign is focused on.
+Local Jobs & Economic Stability Community-Based Safety & Violence Prevention Youth Opportunity & Career Pathways Trauma-Informed, Healing-Centered Schools Affordable Housing & Homeownership Healthcare Access and Mental & Behavior Health Support Thank you for supporting this movement.
 Help Opportunity Reach Home Your contribution helps us reach more neighbors, share this message across the district, and build a people-powered campaign rooted in service — not special interests.
 Every dollar helps us keep showing up, knocking doors, and making sure District 62 has a voice at the Gold Dome that truly understands home. $ 1 $ 25 $ 62 $ 250 $ 3300 Other $ 1 $ 25 $ 62 $ 250 $ 3300 Other For Campaign Updates Weekly Newsletter First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code You are subscribed to receive marketing communications via SMS from Committee to Elect Kenn Collier.
 Recurring promotional messages may be sent.

@@ -1,4 +1,4 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 Where I Stand on Medical Freedom, Public Health, and Food Integrity The body is the citizen's, not the state's.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 Where I Stand on Medical Freedom, Public Health, and Food Integrity The body is the citizen's, not the state's.
 I am not running to relitigate 2020, I am running to make sure South Dakota never repeats it.
 Pillar I : Medical Freedom Medical Freedom Food Integrity I lived the COVID years in this town, same as you did.
 A family court case had brought my son to Rapid City in 2018, I followed him here, bought a house, and built a business, and then those years arrived and I watched what they did to the kitchen table.
@@ -105,7 +105,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

@@ -17,6 +17,7 @@ View our privacy policy here .
 Meredith will be a voice we can believe in "There’s no one I trust more to be a partner in Hartford than Meredith Tobitsch," said fellow New Canaanite and current state representative Lucy Dathan .
 "Effectively fighting back against Donald Trump and his MAGA followers in Connecticut isn’t just a matter of words.
 It requires action and understanding, and an ability to keep us all pulling in the same direction.
-Meredith brings that and more to the table." Read below for some of our top priorities Protect CT from whims of Federal goverment Lower your cost of living Slash energy bills Affordable, accessible childcare View More Connect with Meredith at Mktobitsch@gmail.com Powered by RUN! website builder Paid for by Meredith Tobitsch for the 125th, approved by Adam Wexler.
+Meredith brings that and more to the table." Our priorities Fighting for Our Community These are some of the top priorities my campaign is focused on.
+Protect CT from whims of Federal goverment Lower your cost of living Slash energy bills Affordable, accessible childcare View More Connect with Meredith at Mktobitsch@gmail.com Powered by RUN! website builder Paid for by Meredith Tobitsch for the 125th, approved by Adam Wexler.
 Approved by Meredith Tobitsch.
 You need to enable JavaScript to run this app.

@@ -1,7 +1,4 @@
-0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Oct 15 Door-knocking Door Knocking Thursday, 10/15 Thursday, October 15, 2026 4:00 PM 7:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
-Pre-knock huddle starts at 10:00am.
-Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
-Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 17 Door-knocking Door Knocking Saturday, 10/17 Saturday, October 17, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
+0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Oct 17 Door-knocking Door Knocking Saturday, 10/17 Saturday, October 17, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 21 Phonebanking Phone Banking Wednesday, 10/21 Wednesday, October 21, 2026 4:00 PM 6:00 PM Remote (link upon RSVP) (map) Google Calendar ICS Join us for a virtual phone bank from 4:00pm - 6:00pm!
@@ -18,6 +15,9 @@ Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 29 D
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 31 Door-knocking Door Knocking Saturday, 10/31 Saturday, October 31, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
+Pre-knock huddle starts at 10:00am.
+Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
+Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 15 Door-knocking Door Knocking Thursday, 10/15 Thursday, October 15, 2026 4:00 PM 7:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 14 Phonebanking Phone Banking Wednesday, 10/14 Wednesday, October 14, 2026 4:00 PM 6:00 PM Remote (link upon RSVP) (map) Google Calendar ICS Join us for a virtual phone bank from 4:00pm - 6:00pm!
@@ -94,7 +94,4 @@ Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Jul 15 Phonebanking Phone Banking Wednesday, 7/15 Wednesday, July 15, 2026 4:00 PM 6:00 PM Remote (link upon RSVP) (map) Google Calendar ICS Join us for a virtual phone bank from 4:00pm - 6:00pm!
 You will be emailed meeting details and more information after signing up.
-Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Jul 11 Door-knocking Door Knocking Saturday, 7/11 Saturday, July 11, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
-Pre-knock huddle starts at 10:00am.
-Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬

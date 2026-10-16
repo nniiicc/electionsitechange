@@ -52,4 +52,5 @@ One of God's greatest gifts to us is that there are better days ahead.
 We as Americans believe in that statement so strongly that in 2021, DC Comics updated Superman’s classic motto from “Truth, Justice, and the American way” to “Truth, Justice, and a Better Tomorrow.” I believe that we are all standing at the crossroads of history here in South Carolina.
 I believe that we can make a better tomorrow for ALL the citizens of this state, regardless of political affiliation, and that maybe, just maybe, the real Christian value of “Love thy neighbor” can flourish in the state house.
 Thank you and may God bless you all.
+Our priorities Fighting for Our Community These are some of the top priorities Reid's campaign is focused on.
 Lowering Tax Burden on Hardworking Families Reduce Medication Costs and Expand Healthcare Access Supporting Small Businesses and Protecting Workers’ Rights Developing a Common Sense Approach to Improving Our Infrastructure Protecting Reproductive Rights for Families Contact Reach Reid at votesforbeaman@gmail.com Powered by RUN! website builder Paid for by Votes for Beaman You need to enable JavaScript to run this app.

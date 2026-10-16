@@ -1,6 +1,6 @@
 Skip navigation menu Early voting is underway through October 29.
 Election Day is November 3.
-GET VOTING INFO About Troy Endorsements Priorities News Events Volunteer Vote DONATE About Troy Endorsements Priorities News Events Volunteer Vote DONATE FREQUENTLY ASKED QUESTIONS TROY JACKSON AT A GLANCE Last updated: October 14, 2026.
+GET VOTING INFO About Troy Endorsements Priorities News Events Volunteer Vote DONATE About Troy Endorsements Priorities News Events Volunteer Vote DONATE FREQUENTLY ASKED QUESTIONS TROY JACKSON AT A GLANCE Last updated: October 16, 2026.
 Who is Troy Jackson?
 Troy Jackson is a fifth-generation logger from Allagash, a longtime union member, former Maine Senate President, and the Democratic nominee for U.S.
 Senate in Maine.

@@ -2,11 +2,11 @@ Skip to content Moved?
 Update your registration by Oct 23 → AJ Alan Jimenez UTAH HOUSE · DISTRICT 61 ES Donate Menu Vote Meet Alan Priorities District 61 Get Involved Español Donate Utah House · District 61 Utah House · District 61 · West Provo & Southwest Orem Keep Utah County affordable and opportunity within reach.
 I grew up here.
 I'm running so hard work pays off here again: lower costs for families, strong schools, and an affordable UVU close to home.
-Get my voting plan In The Salt Lake Tribune voter guide The Tribune asked.
+Get my voting plan Request a yard sign ↗ In The Salt Lake Tribune voter guide The Tribune asked.
 I answered.
 See where I stand → Utah County is changing.
 Our representation should too.
-The choice in 2026 Your vote should be earned, not assumed.
+The choice in 2026 I know I have to earn every vote.
 In 2024, Utah's official general-election candidate list included only one candidate for House District 61.
 This year, voters have a real choice.
 Election Day is Tuesday, November 3, 2026.

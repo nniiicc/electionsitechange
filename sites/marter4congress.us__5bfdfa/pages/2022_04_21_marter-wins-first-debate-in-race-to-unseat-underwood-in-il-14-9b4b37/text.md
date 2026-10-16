@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 21 Apr Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 21 Apr Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
 Organized by the Stamp Act Pac, Jim participated along with two opponents.
 A third opponent, declined the invitation and later scheduled a fundraiser instead.
 “I think Marter won by every measurement.

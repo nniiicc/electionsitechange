@@ -16,10 +16,6 @@
 "href": "https://www.allisonmitchellfortexas.com/"
 },
 {
-"text": "Check this link for your countywide ballot.",
-"href": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
-},
-{
 "text": "Check your voter registration status",
 "href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
 },
@@ -64,6 +60,14 @@
 "href": "https://www.votetexas.gov/eic/index.html"
 },
 {
+"text": "Find your Early Voting here",
+"href": "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting"
+},
+{
+"text": "Find your early voting center",
+"href": "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting"
+},
+{
 "text": "Folder: Meet Allison",
 "href": "https://www.allisonmitchellfortexas.com/meet-allison"
 },
@@ -88,10 +92,6 @@
 "href": "https://www.allisonmitchellfortexas.com/in-the-news"
 },
 {
-"text": "PLEDGE TO VOTE",
-"href": "https://form.jotform.com/260265732135150"
-},
-{
 "text": "Privacy Policy",
 "href": "https://www.allisonmitchellfortexas.com/s/PrivacyPolicy.pdf"
 },
@@ -114,6 +114,10 @@
 {
 "text": "Update your voter registration today.",
 "href": "https://vrapp.sos.state.tx.us/index.asp"
+},
+{
+"text": "View and create your sample ballot here.",
+"href": "https://www.dallascountyvotes.org/voters/ballot/#VoterEligibilitySearch"
 },
 {
 "text": "Volunteer",

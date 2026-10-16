@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements Knock doors with us!
-Contact Donate About Issues Endorsements Knock doors with us!
-Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Healthcare Affordability & Access I grew up in this district.
+Contact Media Kit Donate About Issues Endorsements Knock doors with us!
+Contact Media Kit Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Healthcare Affordability & Access I grew up in this district.
 I know what it’s like to wait weeks for care, to drive hours just to see a doctor, and to worry about the cost of something as basic as a checkup.
 That’s the reality for too many families in our rural communities.
 Now it’s getting worse.

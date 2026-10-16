@@ -1,4 +1,7 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report November 18, 2025 Maryland’s fiscal footing is unsustainable | GUEST COMMENTARY Maryland’s economy is losing altitude.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report November 26, 2025 Ready Report: Happy Thanksgiving & More!
+I hope you and your family have a wonderful Thanksgiving and enjoy the quality time with one another.
+This year, my family will spend time reflecting on the many blessings that God has given us….
+Read More > November 18, 2025 Maryland’s fiscal footing is unsustainable | GUEST COMMENTARY Maryland’s economy is losing altitude.
 Just three years into Gov.
 Wes Moore’s term, the state faces deep budget deficits despite inheriting a record surplus from eight years of disciplined fiscal management under Gov.
 Larry Hogan….
@@ -12,6 +15,4 @@ Things have certainly been busy for my family and me, and I’ve also been trave
 This has been an incredibly difficult time for our country and locally as well on a number of levels.
 Just… Read More > September 11, 2025 Ready Report: Remembering 9/11, MPRP Update, Upcoming Event & More… It was #ago today that many of our lives were forever changed.
 The evil attack on America meant that 2,977 people didn’t come home on that crisp and sunny early Fall day –… Read More > August 29, 2025 Ready Report: Crime & Governor Moore Response, Park Funding Secured for Carroll & Local News I hope you and your family have a great Labor Day weekend ahead.
-For the hard working men and women who built and are still building this country, this is a great weekend to be… Read More > August 21, 2025 Ready Report: County Commissioner Appointment, Carroll Dept of Public Safety “Ready Carroll” Registration Open & More… I hope you and your family are well.
-Thank you as always for your support and sharing your concerns, thoughts and ideas.
-I’ve got news below on both local and statewide issues: Former Delegate Susan… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+For the hard working men and women who built and are still building this country, this is a great weekend to be… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

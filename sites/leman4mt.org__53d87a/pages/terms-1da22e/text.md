@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Terms of Service Effective date: July 28, 2026 1.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Terms of Service Effective date: July 28, 2026 1.
 About This Site This website, leman4mt.org (the "Site"), is operated by Greg Leman for Montana (the "Campaign"), the campaign committee for Greg Leman, Republican candidate for Montana House District 60.
 By accessing or using the Site, you agree to these Terms of Service.
 If you do not agree, please do not use the Site.

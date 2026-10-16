@@ -1,4 +1,4 @@
-0 Skip to Content DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Luke Del Castillo to Launch People-Powered Campaign for Michigan's 92nd House District Jun 1 Written By Luke Castle FOR IMMEDIATE RELEASE June 1, 2026 MOUNT PLEASANT, Mich.
+0 Skip to Content DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Luke Del Castillo to Launch People-Powered Campaign for Michigan's 92nd House District Jun 1 Written by Luke Castle FOR IMMEDIATE RELEASE June 1, 2026 MOUNT PLEASANT, Mich.
 Luke Del Castillo, Democratic candidate for Michigan's 92nd House District, will officially launch his campaign at 2 p.m. on Sunday, June 7, outside 201 S.
 University Ave. in Mount Pleasant.
 The public kickoff will be followed by a campaign fundraiser inside the lobby of 201 S.

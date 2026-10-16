@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Back to the Future Steve Woll Apr 22 1 min read Interesting article about Mark Cuban in Politico today, noting that his reaction to Kamala Harris' potential entry into the Democratic Presidential race for 2028 was underwhelming, at best.
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Questionnaires Back to the Future Steve Woll Apr 22 1 min read Interesting article about Mark Cuban in Politico today, noting that his reaction to Kamala Harris' potential entry into the Democratic Presidential race for 2028 was underwhelming, at best.
 I'm with you 100% Mark.
 Over the last three election cycles, the major party nominees for President have been Hilary Clinton, Joe Biden, Kamala Harris, Donald Trump, Donald Trump, and Donald Trump.
 Really?

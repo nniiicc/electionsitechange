@@ -14,4 +14,4 @@ Term Limits is a nonpartisan non-profit advocating… Read More Andrew Underwood
 Term Limits Organization Press Release Andrew Underwood Condemns ICE Shooting and Commits to Congressional Oversight of DHS By Andrew For Georgia January 26, 2026 Rock Spring, GA. — Today, Libertarian Andrew Underwood declared ICE’s shooting of 37-year-old ICU nurse Alex Pretti as an inexcusable loss of life.
 Underwood stands firm that Congress must hold DHS accountable for its justification on every shooting.
 If elected, Underwood will support legislation for further ICE transparency and congressional oversight to ensure safety.
-MEDIA CONTACT:Sergio… Read More Andrew Underwood Condemns ICE Shooting and Commits to Congressional Oversight of DHS Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-874f59 @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer
+MEDIA CONTACT:Sergio… Read More Andrew Underwood Condemns ICE Shooting and Commits to Congressional Oversight of DHS Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-79ae16 @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer

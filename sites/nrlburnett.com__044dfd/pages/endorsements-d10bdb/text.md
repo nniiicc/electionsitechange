@@ -1,4 +1,5 @@
 Nathan R.L.
-BURNETT ≡ About Me District Map Personal Concerns Public Concerns Endorsements I've been endorsed by the MEA, AFL-CIO, MSEA-SEIU, Maine Conservation Voters, and Planned Parenthood. </span> </fieldset> Home About Me District Map Personal Concerns Public Concerns Endorsements MCEA Contribution © #-# Nathan R.L.
+BURNETT ≡ About Me District Map Personal Concerns Public Concerns Endorsements I've been endorsed by the MEA, AFL-CIO, MSEA-SEIU, Maine Conservation Voters, and Planned Parenthood Maine Action Fund PAC.
+Home About Me District Map Personal Concerns Public Concerns Endorsements MCEA Contribution © #-# Nathan R.L.
 Burnett, paid for and maintained by the candidate.
 Email:

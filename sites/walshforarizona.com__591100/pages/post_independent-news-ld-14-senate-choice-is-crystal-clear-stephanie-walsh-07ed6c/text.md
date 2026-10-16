@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 All Articles Press Announcement Search LD 14 Senate choice is crystal clear: Stephanie Walsh #ago 1 min read Updated: #ago By Carrie Goode | Gilbert OPINION — As a 16-year Gilbert resident, I’m quite concerned about the cost of, and access to, water and energy, as I’m sure many of my neighbors are.
 The status of the Colorado River is getting dire, and I’ve seen it with my own eyes while driving to San Diego.
 Energy and water costs continue to escalate, hurting middle-class Arizonans.

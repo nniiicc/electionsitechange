@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact PFAS Protection Overview: Minnesotans deserve total transparency before commercial mega-users tap into local aquifers, as well as the resources to defend their taps against toxic contaminants.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact PFAS Protection Overview: Minnesotans deserve total transparency before commercial mega-users tap into local aquifers, as well as the resources to defend their taps against toxic contaminants.
 Senator Johnson Stewart is fighting to keep the public informed and our drinking water clean.
 Key Takeaways: Mandatory Transparency: S.F.
 3852 requires a 30-day public comment period before any large-volume commercial water permit is approved.

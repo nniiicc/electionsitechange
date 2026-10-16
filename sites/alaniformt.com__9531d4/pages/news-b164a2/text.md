@@ -10,7 +10,6 @@ See Rumors, answered and the fact-check on the attack ads .
 Recent press coverage, interviews, and video of Alani's campaign for U.S.
 Senate.
 More video on the campaign's YouTube channel . {{ f.label }} ⚑ Opponent Watch {{ post.tag }} ▶ Video {{ post.date }} {{ post.title }} {{ post.excerpt }} Read more → Opponent Watch Where they stand, on the record Tracking our opponents' words and votes, with the receipts.
-Every item links to its source. {{ o.opponent }} {{ o.date }} {{ o.headline }} {{ o.summary }} Where Alani stands: {{ o.contrast }} {{ o.sourceLabel }} Listen · New every week Montana Matters Alani's weekly podcast with co-host Stella Duran.
-Straight talk on the issues facing Montana. <a href="https://rss.com/podcasts/montana-matters/">Listen to Montana Matters</a> ▶ Listen & subscribe Get the news first Updates from the campaign and ways to help, straight to your inbox.
+Every item links to its source. {{ o.opponent }} {{ o.date }} {{ o.headline }} {{ o.summary }} Where Alani stands: {{ o.contrast }} {{ o.sourceLabel }} Get the news first Updates from the campaign and ways to help, straight to your inbox.
 Thanks, you're subscribed!
 Email address ZIP code Sign up

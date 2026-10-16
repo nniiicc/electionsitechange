@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Events Endorsements Get involved Donate now » David's Story About Issues Events Endorsements Get involved Donate now » David's Story Like many Wisconsinites, David Crowley wasn’t fed by a silver spoon.
+Skip navigation menu About Issues Endorsements Get involved Events Voting Info Donate now » David's Story About Issues Endorsements Get involved Events Voting Info Donate now » David's Story Like many Wisconsinites, David Crowley wasn’t fed by a silver spoon.
 His father worked as an electrician and his mother worked in the service industry, while both battled addiction and mental health struggles.
 David never knew if he would come home from school to find his family's belongings on the curb due to another eviction, food in the kitchen, or the heat and lights still on .
 He learned early that hard work alone isn't always enough.

@@ -1,4 +1,4 @@
-Home Meet Joe Issues Join Joe Privacy Policy Privacy Policy Last updated: September 19, 2026 This privacy policy applies to Joseph A.
+Home Meet Joe Issues Join Joe DONATE NOW Privacy Policy Privacy Policy Last updated: September 19, 2026 This privacy policy applies to Joseph A.
 Powers, Georgia State House Representative 155 Candidate ("the Campaign").
 Information We Collect The Campaign may collect personal information such as name, address, email address, and phone number when you contact us, volunteer, or donate.
 Text Messaging The Campaign uses text messaging to communicate with voters and supporters.

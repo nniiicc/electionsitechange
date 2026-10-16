@@ -1,13 +1,13 @@
 top of page About Support Us News Contact Donate More...
 Use tab to navigate through the menu items.
-DONATE All Posts Search Senator O'Mara's weekly column 'From the Capitol' -- for the week of October 12, 2026 -- "Ratepayers (and taxpayers) can't afford a 'POWER' check" omaranysenate #ago 5 min read There's a long, extensive list of priorities to address that, if done right and we get started on them now, could begin to provide real and meaningful short- and long-term relief to overburdened New Yorkers.
+DONATE All Posts Search Senator O'Mara's weekly column 'From the Capitol' -- for the week of October 12, 2026 -- "Ratepayers (and taxpayers) can't afford a 'POWER' check" omaranysenate #ago 5 min read Updated: #ago There's a long, extensive list of priorities to address that, if done right and we get started on them now, could begin to provide real and meaningful short- and long-term relief to overburdened New Yorkers.
 A one-time, here-today-gone-tomorrow POWER check isn't on that list.
 Senator O'Mara offers his weekly perspective on many of the key challenges and issues facing the Legislature, as well as on legislative actions, local initiatives, state programs and policies, and more.
 Stop back every Monday for Senator O'Mara's latest column...
 This week, "Ratepayers (and taxpayers) can't afford a 'POWER' check" Governor Hochul is in the process of sending out taxpayer-funded energy rebates, so-called "POWER" checks, of up to $# to more than 8 million New Yorkers.
 A $100 or $200 POWER check.
 That's the governor's answer to the skyrocketing utility bills that have made life miserable for thousands upon thousands of New York ratepayers over the past several years.
-Specifically, Governor Hochul and the all-Democrat majorities in the state Legislature included $1 billion in this year's state budget to fund this one-time "Protecting Our Wallets Energy Rebate (POWER)" giveaway to provide $200 to joint filers with incomes under $150,000 and $150 to joint filers with incomes between $150,000 and $300,000.
+Specifically, Governor Hochul and the all-Democrat majorities in the New York State Legislature included $1 billion in this year's state budget to fund this one-time "Protecting Our Wallets Energy Rebate (POWER)" giveaway to provide $200 to joint filers with incomes under $150,000 and $150 to joint filers with incomes between $150,000 and $300,000.
 Single filers with incomes under $150,000 will receive $100.
 The POWER checks started going out in the mail in late September.
 "Relief is on the way," the governor proclaimed.

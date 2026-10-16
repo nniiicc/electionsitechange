@@ -1,4 +1,4 @@
-Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Issues Restore Wisconsin’s Schools by Prioritizing Teachers and Students and Holding Schools Accountable Restore Wisconsin “More Money for Teachers and Classrooms, Less for Bureaucracy” Restoring Wisconsin means restoring accountability to how we spend education dollars.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Issues Restore Wisconsin’s Schools by Prioritizing Teachers and Students and Holding Schools Accountable Restore Wisconsin “More Money for Teachers and Classrooms, Less for Bureaucracy” Restoring Wisconsin means restoring accountability to how we spend education dollars.
 Spending is up.
 Enrollment is down.
 The answer is not more money.
@@ -15,4 +15,5 @@ Restore Wisconsin “Every tax dollar in our schools should reach a student, not
 That’s Restore Wisconsin.” Get Involved Donate Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
 Not authorized by any candidate or candidate’s committee.
 Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
-All rights reserved. info@jonaleckson.com
+All rights reserved.
+Contact Us Alecksonforassembly@gmail.com

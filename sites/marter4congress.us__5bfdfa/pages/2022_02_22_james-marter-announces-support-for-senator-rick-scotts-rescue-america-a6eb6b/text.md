@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 22 Feb James Marter, running for Congress in Illinois’ 14th Congressional District, has again demonstrated his leadership with early support for Senator Rick Scott’s Plan to Rescue America.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 22 Feb James Marter, running for Congress in Illinois’ 14th Congressional District, has again demonstrated his leadership with early support for Senator Rick Scott’s Plan to Rescue America.
 “This mission has been my mission.
 It gets to the heart of what people in my district and all around America are growing increasingly impatient about,” said Marter.
 “We need to end the division, increase law and order, secure our border and unleash our economy.

@@ -1,4 +1,4 @@
-0 Skip to Content Priorities Contact DONATE Open Menu Close Menu Priorities Contact DONATE Open Menu Close Menu Priorities Contact DONATE My Priorities I grew up in Bozeman, I graduated from MSU, and now I work for Gallatin County and represent House District 59 in the legislature.
+0 Skip to Content Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE My Priorities I grew up in Bozeman, I graduated from MSU, and now I work for Gallatin County and represent House District 59 in the legislature.
 Montana is my home , but in recent years it has been hard to recognize.
 From young people who fear the next rent increase to families who can’t imagine buying a home to homeowners squeezed by property taxes : people across the state are struggling.
 Meanwhile some of the wealthiest corporations and people in the country have worked to rewrite the rules to receive tax cuts and special treatment.
@@ -36,4 +36,4 @@ Fund vital programs and services: by asking those who have benefited the most fr
 Listening TO and Representing You I believe the most effective leadership starts with listening, and I believe those closest to the problem are closest to the solution.
 I will prioritize direct engagement with you, my constituents, to hear your stories, understand your concerns, and talk about the changes you want to see.
 If you want to get in touch, please shoot me a message, I want to hear from you!
-Get in touch DONATE Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59
+Get in touch Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59

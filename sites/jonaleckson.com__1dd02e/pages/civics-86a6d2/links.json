@@ -4,12 +4,20 @@
 "href": "https://www.jonaleckson.com/#about"
 },
 {
+"text": "Alecksonforassembly@gmail.com",
+"href": "mailto:Alecksonforassembly@gmail.com"
+},
+{
 "text": "At Home",
 "href": "https://www.jonaleckson.com/#at-home"
 },
 {
 "text": "Civics Education",
 "href": "https://www.jonaleckson.com/civics"
+},
+{
+"text": "Contact",
+"href": "https://www.jonaleckson.com/#contact"
 },
 {
 "text": "Data Centers & AI",
@@ -62,9 +70,5 @@
 {
 "text": "[image: Jon Aleckson for State Assembly 50] Jon Aleckson for Assembly homepage",
 "href": "https://www.jonaleckson.com/"
-},
-{
-"text": "info@jonaleckson.com",
-"href": "mailto:info@jonaleckson.com"
 }
 ]

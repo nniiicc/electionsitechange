@@ -35,7 +35,7 @@ Loading… Reply Tim June 30, 2026 at 10:36 pm I agree with much of this message
 Tell me more about what he can actually do yo effect change.
 I am in tears about what is happening to our Haitian community as well as others depending on TPS.
 If this continues to it’s intended conclusion God help us all: We will need it!!
-Loading… Reply Leave a Reply Cancel reply Comment Name Email Website Δ Posts Previous Page Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
+Loading… Reply Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Posts Previous Page Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Subscribe Loading Comments...
 Write a Comment...

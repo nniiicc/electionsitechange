@@ -1,7 +1,8 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
 Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → In the News Coverage of Rachel and the campaign from across West Virginia.
-Article October 9, 2026 The Dominion Post W.Va.
+Video October 15, 2026 WOWK On the Record: Democratic US Senate Candidate Rachel Fetty Anderson discusses campaign Rachel goes On the Record with Amanda Barren to discuss her Senate campaign and priorities for West Virginia.
+Watch the interview → Article October 9, 2026 The Dominion Post W.Va.
 Democratic Party poll shows voter dissatisfaction heading into November election A Democratic Party-commissioned poll finds voter dissatisfaction with statewide Republican leadership as Rachel prepares to face Sen.
 Capito in November.
 Read the article → Article September 26, 2026 The Dominion Post Come rain or shine: Anderson campaign highlights discontent with Capito’s record Rachel meets campaign volunteers on Charleston’s West Side and contrasts her grassroots campaign and policy platform with Sen.

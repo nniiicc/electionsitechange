@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 18, 2026 Vukasovich: Families Shouldn’t Have to Choose Between Gas and Groceries Democratic congressional candidate Christian Vukasovich is challenging Rep.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 18, 2026 Vukasovich: Families Shouldn’t Have to Choose Between Gas and Groceries Democratic congressional candidate Christian Vukasovich is challenging Rep.
 Tim Walberg (R-Mich.) after Walberg said during an appearance on JTV’s The Bart Hawley Show that long-term energy security may require Americans to make sacrifices.
 Vukasovich: Families Shouldn’t Have to Choose Between Gas and Groceries MONROE, Mich. — Democratic congressional candidate Christian Vukasovich is challenging Rep.
 Tim Walberg (R-Mich.) after Walberg said during an appearance on JTV’s The Bart Hawley Show that long-term energy security may require Americans to make sacrifices.
@@ -16,6 +16,6 @@ Walberg has not yet accepted the invitation.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

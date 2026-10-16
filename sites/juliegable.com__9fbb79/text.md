@@ -1,6 +1,8 @@
 Skip navigation menu About Issues Volunteer Merchandise Gallery a brighter future for Arizona JULIE GABLE for Arizona State House Julie Gable is a Clean Elections candidate and a uniquely qualified business leader who believes in practical solutions that put community first.
 About Issues Volunteer Merchandise Gallery a brighter future for Arizona JULIE GABLE for Arizona State House Julie Gable is a Clean Elections candidate and a uniquely qualified business leader who believes in practical solutions that put community first.
-Read below for some of our top priorities Healthcare Access Responsible Technology + AI Water Security Stronger Education As a Clean Election Candidate, I can no longer accept donations.
+Julie's Top priorities Standing up for Arizona communities.
+Julie Gable believes the job of government is to make life better for the people it serves .
+Healthcare Access Responsible Technology + AI Water Security Stronger Education As a Clean Election Candidate, I can no longer accept donations.
 Please support my campaign by getting the word out.
 Free Merchandise Share Your Support Connect with Julie Gable Name Name Last Name Last Name Email Email Phone Phone Subscribe to my newsletter By checking this box, you consent to receive recurring text message updates from Julie Gable for State Representative - District 3, including by automated text messages.
 Text HELP for help or STOP to end.

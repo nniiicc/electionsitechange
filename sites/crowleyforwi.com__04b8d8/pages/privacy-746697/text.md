@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Events Endorsements Get involved Donate now » Privacy About Issues Events Endorsements Get involved Donate now » Privacy Privacy Policy Last Updated 11/20/2025 Crowley for Wisconsin cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip navigation menu About Issues Endorsements Get involved Events Voting Info Donate now » Privacy About Issues Endorsements Get involved Events Voting Info Donate now » Privacy Privacy Policy Last Updated 11/20/2025 Crowley for Wisconsin cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we've created this policy to explain our privacy practices.
 This applies to www.crowleyforwi.com only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.

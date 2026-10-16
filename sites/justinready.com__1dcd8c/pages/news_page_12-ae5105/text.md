@@ -1,4 +1,5 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report April 12, 2024 Ready Report: Post Session Report The Maryland General Assembly adjourned Sine Die at midnight on Monday, meaning the 2024 Legislative Session has now concluded.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report April 19, 2024 Ready Report: Post Session Report & More… Below is a quick weekly update, but in case you missed it last week, I’m including a link to a detailed, full report covering many of the issues we worked on this Session in Annapolis….
+Read More > April 12, 2024 Ready Report: Post Session Report The Maryland General Assembly adjourned Sine Die at midnight on Monday, meaning the 2024 Legislative Session has now concluded.
 Below is a quick weekly update, but I’m including a link to a detailed, full report… Read More > April 12, 2024 Post Session Report Dear Constituent, At midnight on April 8th, the 2024 Maryland General Assembly Session officially came to a close.
 We consider it a great honor to represent you in the State Senate and House of Delegates… Read More > April 6, 2024 Ready Report: Session End is Near, Budget, Taxes & More… The final full week of the 2024 Maryland General Assembly Legislative Session has concluded.
 This will be a brief update on what happened in Annapolis this week.
@@ -15,7 +16,4 @@ Here is a brief update on what happened… Read More > February 23, 2024 Ready R
 The sixth full week of the 2024 Maryland General Assembly Legislative Session has concluded.
 We are exactly halfway through the 90-day session.
 Here is a brief update on what happened this week in Annapolis.
-Weekly… Read More > February 16, 2024 Ready Report: Paint Tax?!
-Theft of a Firearm Poll & More… The fifth full week of the 2024 Maryland General Assembly Legislative Session has concluded.
-Here is a brief update on what happened this week in Annapolis.
-Weekly Video Update Click the image below to watch… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+Weekly… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

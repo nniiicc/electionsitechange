@@ -1,8 +1,8 @@
-Skip navigation menu Home About Issues Vote Formal Statement Endorsements Get Involved Donate A Clear Voice.
+Skip navigation menu Home About Issues Vote Formal Statement Get Involved Donate A Clear Voice.
 A Bold Plan.
 A Better Georgia.
 Discover the experiences that shaped Timoria’s purpose and her commitment to building healthier, stronger, more affordable communities for Georgia families.
-Home About Issues Vote Formal Statement Endorsements Get Involved Donate A Clear Voice.
+Home About Issues Vote Formal Statement Get Involved Donate A Clear Voice.
 A Bold Plan.
 A Better Georgia.
 Discover the experiences that shaped Timoria’s purpose and her commitment to building healthier, stronger, more affordable communities for Georgia families.

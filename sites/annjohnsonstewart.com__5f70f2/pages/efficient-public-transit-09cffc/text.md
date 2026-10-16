@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Efficient Public Transit Outline: A growing economy requires a transportation network that moves people reliably and cost-effectively.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Efficient Public Transit Outline: A growing economy requires a transportation network that moves people reliably and cost-effectively.
 As Vice Chair of the Senate Transportation Committee and a licensed civil engineer, Senator Ann Johnson Stewart focuses on engineering-backed transit reliability—eliminating bottlenecks and optimizing routes to reduce highway congestion and deliver a measurable economic return for taxpayers.
 Key Takeaways: Engineering-Driven Efficiency: Utilizing signal synchronization, Transit Signal Priority (TSP), and bus-only shoulders so public transit moves through intersections rather than idling in traffic.
 Connecting the Suburban Workforce: Championing flexible micro-transit solutions in the West Metro to link residents to regional hubs and support local businesses facing labor shortages.

@@ -10,7 +10,7 @@ Hate like that has no home in Michigan.
 We shouldn’t have to live in a world where Jewish students fear wearing a Star of David necklace on their walk to class.
 Or where parents are afraid to take their kids to day care.
 You have my word, I will always stand proudly alongside Michigan’s Jewish community, against terrorism, and for Israel’s right to defend itself.
-We must root out antisemitic hate in all forms–because when we say ‘never again,’ we must mean it.” Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com ### Hinson Peed Previous Previous AD: WE NEED TO END THE TARIFF WAR — NOW Next Next MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+We must root out antisemitic hate in all forms–because when we say ‘never again,’ we must mean it.” Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com ### Hinson Peed Previous Previous AD: WE NEED TO END THE TARIFF WAR — NOW Next Next MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

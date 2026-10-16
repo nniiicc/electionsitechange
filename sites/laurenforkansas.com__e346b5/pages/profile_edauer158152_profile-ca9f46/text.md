@@ -1,13 +1,13 @@
-top of page DONATE HERE Meet Lauren Road to Prosperity Voter Info Get Involved Events News Profile Profile Join date: Aug 31, 2026 Posts (18) Oct 12, 2026 ∙ 1 min Support Former Federal Workers Running For Congress -- They Are Our Contemporary Heroes Lauren Reinhold is one who stepped up and is running for election to rebuild and reform federal processes after seeing essential government services undermined and dismantled by the Trump administration.
+top of page DONATE HERE Meet Lauren Road to Prosperity Voter Info Get Involved Events News Profile Profile Join date: Aug 31, 2026 Posts (20) Oct 14, 2026 ∙ 1 min The Current Proposed Farm Bill Falls Short!
+Lauren talked with Dylan Domangue on KWCH 12 about the priorities that must be included in a Farm Bill, and that such a bill needs to be passed ASAP.
+She also stressed the need for stable trade policies, citing beef prices, adding that she supports 'country of origin' labels.
+In addition, Lauren discussed the significant impact on the overall community in SW Kansas during the recent ICE raids, which she noted are likely to occur again.
+Regarding data centers, she noted that while there are...
+1 0 Oct 14, 2026 ∙ 1 min Everything Is Not 'Fine' Kansans understand the importance of separation of powers, and are frustrated that this President is making decisions that are the job of Congress, while our Congressperson is standing by and letting it happen.
+In a conversation with Matt Matson on his podcast, Within Reason, Lauren stated it is time for Kansans to come together and vote on our common issues, noting that things are very different now and party politics is not working.
+"We are all experiencing the same problems, the same...
+1 0 Oct 12, 2026 ∙ 1 min Support Former Federal Workers Running For Congress -- They Are Our Contemporary Heroes Lauren Reinhold is one who stepped up and is running for election to rebuild and reform federal processes after seeing essential government services undermined and dismantled by the Trump administration.
 Her experience and knowledge are critical for Congress to restore and protect necessary American systems.
-3 0 Oct 11, 2026 ∙ 1 min Another Candidate Forum And Another No-Show Incumbent Hosted by Women for Kansas, U.S.
-Congressional candidates gathered October 10 with voters to discuss key election issues including federal spending, taxes/tariffs, war powers, affordability, and immigration.
-Lauren Reinhold addressed the common concern of affordability affecting everyone across the Big First, citing high prices on goods and the pattern of lowering taxes for the wealthy.
-She argued against allowing corporations unfettered ability to fund politics, which has entrenched...
-7 0 Oct 9, 2026 ∙ 1 min Lauren Reinhold is ONE TO WATCH!
-Kansans are fed up the blatant corruption and being left behind by the federal government, and seeing a better way with Lauren Reinhold.
-It is showing!
-WIRED identified Lauren and this race in a list of 10 races that are "most worth watching closely" over the next weeks.
 4 0 Load More Lauren Reinhold for Kansas 4000 W.
 6th St.
 Ste B # 241 Lawrence, KS 66049​ (785) 251-0888 info@laurenforkansas.com © # Site designed by the Mosaic Group .

@@ -54,9 +54,5 @@
 {
 "text": "{{ o.sourceLabel }}",
 "href": "https://alaniformt.com/%7B%7B%20o.url%20%7D%7D"
-},
-{
-"text": "▶ Listen & subscribe",
-"href": "https://rss.com/podcasts/montana-matters/"
 }
 ]

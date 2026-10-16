@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 30, 2026 Vukasovich Demands Campus Sexual Assault Reform Democratic congressional candidate Christian Vukasovich is calling on Congress to tie federal funding to campus sexual-assault protections, pass the bipartisan Campus Accountability and Safety Act (CASA Act) and restore stronger Title IX safeguards, arguing that colleges should not be able to protect their reputations at the expense of student safety.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 30, 2026 Vukasovich Demands Campus Sexual Assault Reform Democratic congressional candidate Christian Vukasovich is calling on Congress to tie federal funding to campus sexual-assault protections, pass the bipartisan Campus Accountability and Safety Act (CASA Act) and restore stronger Title IX safeguards, arguing that colleges should not be able to protect their reputations at the expense of student safety.
 Media Contact: Jae Slaby, Campaign Manager Jae@christian4michigan.com Sept.
 30, 2026 FOR IMMEDIATE RELEASE Vukasovich Demands Campus Sexual Assault Reform MONROE, Mich. — Democratic congressional candidate Christian Vukasovich is calling on Congress to tie federal funding to campus sexual-assault protections, pass the bipartisan Campus Accountability and Safety Act (CASA Act) and restore stronger Title IX safeguards, arguing that colleges should not be able to protect their reputations at the expense of student safety.
 The renewed scrutiny of a sexual assault case at Cornell University is the latest example, Vukasovich said, of a broader national problem: institutions can face powerful incentives to minimize allegations, protect their standing and avoid scrutiny rather than put survivors first.
@@ -11,6 +11,6 @@ He also criticized President Donald Trump’s rollback of stronger Title IX prot
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

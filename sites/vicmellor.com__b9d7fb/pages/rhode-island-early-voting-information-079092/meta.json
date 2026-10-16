@@ -1,10 +1,12 @@
 {
- "description": "Find everything you need to vote early in Rhode Island. View early voting locations, addresses, and hours to find the most convenient place and time to cast your ballot. Need […]",
+ "description": "Find everything you need to vote in Rhode Island. View voting locations, addresses, and hours to find the most convenient place and time to cast your ballot. Need a Ride? […]",
  "final_url": "https://vicmellor.com/rhode-island-early-voting-information/",
- "fingerprint": "3a8bfa7454ba44a94f0427bbab54db2d1603d883",
+ "fingerprint": "20c80a47cae7b3af2bb71b045656fd26fa4931a3",
  "format": 3,
  "paid_for_by": "Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor",
  "rendered": false,
  "title": "Rhode Island Early Voting Information - Vic Mellor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -29,4 +29,4 @@ We will not always agree, but I will hear you out.
 When I make mistakes, I will learn from them .
 I will not be perfect, but I will do my best.
 You can count on me to continue to work hard for you.
-Header Photo Credit: Colette Kulig Photography Facebook Instagram Recent Posts 3 Things You Can Do for Equality Everywhere, All of the Time Setting the record straight about my work Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe
+Header Photo Credit: Colette Kulig Photography Facebook Instagram Recent Posts Homer Hulbert Memorial Dedication Salisbury Free Public Library 125th Birthday 3 Things You Can Do for Equality Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe

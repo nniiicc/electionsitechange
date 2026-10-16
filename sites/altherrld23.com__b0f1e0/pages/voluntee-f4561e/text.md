@@ -1,2 +1,2 @@
 0 Skip to Content Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE VOLUNTEER TODAY!
-DONATE Contact Us michelle@altherrld23.com Privacy Policy Paid For By ElectMichelleAltherr - Authorized by Michelle Altherr
+Text STOP to opt-out Text HELP or contact (623) 522-6652 for assistance Message frequency may vary See our terms and conditions here DONATE Contact Us michelle@altherrld23.com Privacy Policy Paid For By ElectMichelleAltherr - Authorized by Michelle Altherr

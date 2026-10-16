@@ -4,7 +4,7 @@ House Democratic Party Candidate sets economic priorities focused on affordabili
 House as a Democrat https://www.kotatv.com/2026/10/09/political-pulse-nikki-gronli-running-us-house-democrat/ press2950 #ago 1 min read The Big, Epic Road Trip: 1,400 Miles of Listening to South Dakota Last week, I traveled more than 1,400 miles across South Dakota, starting at my home near Dell Rapids and winding through communities from De Smet and Clark to Herreid and Lemmon, Hot Springs, Martin, and Wanblee.
 Jenny Sampson, Sioux Falls resident and campaign volunteer, joined me for five days on the road.
 We met with farmers, ranchers, educators, healthcare professionals, small business owners, retirees, and people from all walks of life.
-We visited coffee shops, a hospit press2950 #ago 2 min read Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk press2950 #ago 0 min read Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+We visited coffee shops, a hospit press2950 #ago 2 min read Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk press2950 Oct 8 0 min read Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
 As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care and early learning opportunities.
 Parents shouldn't have to choose between going to work and making sure their children are well cared for.
 For too many South Dakota families, finding affordable, reliable child care is a daily challenge.

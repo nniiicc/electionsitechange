@@ -17,4 +17,6 @@ Economic Growth Equity in education and economic security can contribute to econ
 When individuals have equal opportunities to access education and secure well-paying jobs, it boosts productivity, innovation, and entrepreneurship, ultimately leading to economic development for the region.
 REVIEW MORE TOPICS: WORKER RIGHTS AGRICULTURE Location PO Box 135 Niles, Mi 49120 Hours Monday—Friday 9am — 6pm Contact hello@electangelajones.com (269) 235-9656 Paid for by the Angela Jones Committee to Elect PO Box 135 Niles, Mi 49120 Loading Comments...
 Write a Comment...
-Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started
+Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Create your own website, free on WordPress.com.
+Create your own website.
+Start free

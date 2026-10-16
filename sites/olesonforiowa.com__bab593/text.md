@@ -1,4 +1,4 @@
-top of page Matt Oleson for House Matt Oleson for House Matt Oleson for House Matt Oleson for House Vote Matt Oleson for Iowa House on November 3rd About Me I was born into an Air Force family with Iowa roots.
+top of page Matt Oleson for House Matt Oleson for House Matt Oleson for House Matt Oleson for House Vote Matt Oleson for Iowa House on or before November 3rd About Me I was born into an Air Force family with Iowa roots.
 I made my final move to Iowa in 1990 and after experiencing my first Iowa snowstorm, I swore I would never spend another winter here.
 As often happens, God has different plans, and in the Spring of 1991 I met my wife and have been in Iowa ever since.
 I have 7 wonderful children, 3 daughters-in-law, and 4 beautiful grandchildren.
@@ -30,4 +30,4 @@ I'll stand for those and work to make sure they are protected from encroachments
 Got an issue not listed here you'd like to hear from Matt on?
 Email us at Olesonforiowa@gmail.com Get Involved Contact Me Contact me to get involved or to ask a question by calling/texting me at 515-497-0397 or emailing me at olesonforiowa@gmail.com Donate I can't win this alone!
 Every donation helps and is stewarded carefully.
-DONATE NOW Paid for by Oleson for Iowa ‪(515) 497-0397‬ Olesonforiowa@gmail.com Media bottom of page
+DONATE NOW Voting Info Paid for by Oleson for Iowa ‪(515) 497-0397‬ Olesonforiowa@gmail.com Media bottom of page

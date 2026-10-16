@@ -12,4 +12,4 @@ He owes them the truth today." This behavior fits the pattern of Gendebien’s f
 These revelations are happening on the heels of House Judiciary, Oversight, and Administration Republicans reporting that Democrats may have used their party’s fundraising infrastructure to process up to $38 million in illegal foreign contributions during the 2024 election cycle.
 ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

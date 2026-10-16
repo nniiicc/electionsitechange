@@ -10,6 +10,7 @@ Stambaugh for help with #SumTraffic funding.
 There’s no question that the Traffic Avenue/E Main/SR 410 interchange is a bottleneck that affects Sumner, Puyallup, commuters, freight mobility and even emergency services response.
 The good news about so many people being affected at once is that funding can come from a variety of sources.
 In this last State session, our legislators in both the 31st District (Sumner) and 25th District (Puyallup) really worked hard to get $300,000 in funding to help design the overpass and intersection changes that will remove that bottleneck.
-In the News budget transportation More For You Construction industry backs Stokesbary Endorsements Tacoma News Tribune profiles Rep.
-Stokesbary’s efforts to relieve Sumner traffic In the News Auburn’s Stokesbary elected to state House In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget transportation More For You Washington Fire Chiefs “Legislator of the Year” Awards TNT: Who can best represent voters in WA’s 31st Legislative District?
+The choice is clear (2022) Endorsements The Times recommends: Rep.
+Drew Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

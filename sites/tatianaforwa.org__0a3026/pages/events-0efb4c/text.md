@@ -1,7 +1,4 @@
-0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Oct 15 Canvass with Tatiana in the Central District!
-Thursday, October 15, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in the Central District!
-All information is in the attached Mobilize link.
-View Event → Oct 17 Get Out The Vote! - Ballot Drop Canvass Saturday, October 17, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Oct 17 Get Out The Vote! - Ballot Drop Canvass Saturday, October 17, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
 All information is in the attached Mobilize link.
 View Event → Oct 18 Canvass with Tatiana in North Beacon Hill & Central Beacon Hill!
 Sunday, October 18, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in North Beacon Hill & Central Beacon Hill!
@@ -35,10 +32,10 @@ View Event → Oct 28 Canvass with Tatiana in Skyway!
 Wednesday, October 28, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
 All information is in the attached Mobilize link.
 View Event → Oct 29 Canvass with Tatiana in Rainier Beach!
-Thursday, October 29, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
+Thursday, October 29, 2026 5:30 PM 7:30 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
 All information is in the attached Mobilize link.
 View Event → Oct 30 Canvass with Tatiana in Columbia City & Hillman City!
-Friday, October 30, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Columbia City & Hillman City!
+Friday, October 30, 2026 5:30 PM 7:30 PM Google Calendar ICS Canvass with Team Tatiana in Columbia City & Hillman City!
 All information is in the attached Mobilize link.
 View Event → Oct 31 Canvass with Tatiana in Skyway!
 Saturday, October 31, 2026 11:00 AM 1:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
@@ -49,6 +46,9 @@ All information is in the attached Mobilize link.
 View Event → Nov 2 to Nov 3 Election Day GOTV With Tatiana!
 Mon, Nov 2, 2026 9:00 AM Tue, Nov 3, 2026 8:00 PM Google Calendar ICS Join Tatiana for everything from phone banking to knocking on doors in the final stretch of the campaign!
 Click the Mobilize link to sign up for a volunteer shift with us.
+View Event → Oct 15 Canvass with Tatiana in the Central District!
+Thursday, October 15, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in the Central District!
+All information is in the attached Mobilize link.
 View Event → Oct 13 Canvass with Tatiana in Skyway!
 Tuesday, October 13, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
 All information is in the attached Mobilize link.

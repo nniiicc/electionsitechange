@@ -1,7 +1,8 @@
 Robert Rivas Home Meet Robert Getting Results Affordable Future Endorsements Join the Campaign Shop Donate Donate Your browser does not support the video tag.
 A life of service, a historic Speakership A transparent government, accountable to the people Opening doors for the next generation of Californians Fighting for an affordable future for all Californians Join The Rivas Team!
 Get updates from Speaker Rivas: Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. (optional) address Zip Email address * Zip Code Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+Please enable JavaScript in your browser to complete this form.
+Email address * Zip Code Phone Email number Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
 We will never charge for these text message updates, but carrier message and data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for more information.
@@ -14,7 +15,7 @@ Now, he’s fighting to make sure every Californian can build a better future fo
 Learn More “We are the ones who can keep the door open for the next generation.” Learn More Join our fight to renew the California Dream.
 Get updates from Speaker Rivas: Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email address * Code Zip (optional) Zip Code Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+Email address * Zip Code Code (optional) Zip Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
 We will never charge for these text message updates, but carrier message & data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for more information.

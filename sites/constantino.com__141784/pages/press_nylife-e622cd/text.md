@@ -6,4 +6,4 @@ By contrast, Democrat Blake Gendebien supports taxpayer-funded abortion up to th
 “Blake Gendebien wants to legalize killing babies days before they are born and supports forcing taxpayers to pay for it,” said Constantino.
 “It’s yet another example of his abusive temperament.” Sources: Gendebien supports abortion up to the moment of birth using taxpayer dollars ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

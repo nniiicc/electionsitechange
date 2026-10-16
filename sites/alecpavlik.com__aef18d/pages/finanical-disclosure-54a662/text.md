@@ -7,7 +7,7 @@ This is a liberal estimate and may include spending not considered part of campa
 Most recent update was made: September 21th, 2026.
 This list will continue to be updated monthly.
 Feel free to contact PavlikCampaign@protonmail.com for additional information or clarification.
-Estimated Total as of 9-21-2026: $1,177.93 Home About Me Issues Get Involved Contact Save America.
+Estimated Total as of 9-21-2026: $1,695.89 Home About Me Issues Get Involved Contact Save America.
 Restore the Constitution.
 Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
 Powered and secured by Wix Write-In Alec Pavlik for U.S.

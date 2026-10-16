@@ -12,6 +12,6 @@ Zero dollars… by VMI June 27, 2026 Candidate Application The application, alon
 Every signature must be from an independent voter who did not already vote in the primary.
 It is recommended to collect an… by VMI June 10, 2026 July 5, 2026 June 13, 2026 – Joint Runoff Election A runoff is required when no candidate receives a majority of the votes—that is, more than 50% of the total votes cast.
 When this happens, the top two candidates from the initial election will advance to a runoff election.
-The runoff determines the final winner and ensures the elected candidate has received a majority support… by VMI June 5, 2026 July 5, 2026 Blog at WordPress.com.
+The runoff determines the final winner and ensures the elected candidate has received a majority support… by VMI June 5, 2026 July 5, 2026 Create a free website or blog at WordPress.com.
 Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

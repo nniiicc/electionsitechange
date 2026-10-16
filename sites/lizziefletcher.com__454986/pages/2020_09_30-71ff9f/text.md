@@ -4,4 +4,4 @@ Rep.
 Lizzie Fletcher faces re-election with a solid record of accomplishment and a reputation for working across the aisle and serving constituents.
 FOLLOW LIZZIE Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
-Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 Privacy Policy PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

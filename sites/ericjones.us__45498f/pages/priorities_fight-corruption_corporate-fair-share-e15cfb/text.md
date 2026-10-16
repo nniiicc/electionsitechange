@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Make Corporations Pay Their Fair Share Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Make Corporations Pay Their Fair Share Why I believe this — and how I’ll fight for it.
 Some of the biggest companies in America spend more on lobbyists to avoid taxes than they would ever pay in taxes.
 The nurse who hands you your medication pays more in federal income tax than the company that made it.
 That’s cheating.

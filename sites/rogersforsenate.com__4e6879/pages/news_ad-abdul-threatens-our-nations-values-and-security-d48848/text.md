@@ -21,7 +21,7 @@ And his family has been linked to the Muslim Brotherhood and Al-Qaeda.
 I know the threats of radical Islam, and I know Abdul El-Sayed can never, ever be a U.S.
 Senator.
 Learn more about Mike Rogers and his plans to Get Michigan Working Again at RogersForSenate.com .
-### Alyssa Brouillet Previous Previous MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK Next Next ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Alyssa Brouillet Previous Previous MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK Next Next ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

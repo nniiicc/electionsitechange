@@ -1,4 +1,4 @@
-Home About Newsletter Get involved Issues How to vote Contribute Home About Newsletter Get involved Issues How to vote Contribute Privacy Policy Effective Date: October 1, 2026 Dr.
+Home About Get involved Issues Newsletter How to vote Contribute Home About Get involved Issues Newsletter How to vote Contribute Privacy Policy Effective Date: October 1, 2026 Dr.
 Nelly Burdette for Rhode Island Senate District 17 (“Elect Nelly,” “the Campaign,” “we,” “our,” or “us”) respects your privacy and is committed to protecting the personal information you provide to us.
 This Privacy Policy explains what information we collect, how we use it, when it may be shared, and the choices available to you.
 This Privacy Policy applies to ElectNelly.com and other campaign websites, forms, communications, and online services controlled by the Campaign.

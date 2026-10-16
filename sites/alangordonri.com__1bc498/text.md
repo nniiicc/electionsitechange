@@ -1,4 +1,4 @@
-Skip to content Alan Gordon For Attorney General Open menu Home Platform Meet Alan Neutrality Guarantee Initiatives Voter Survey Contact Anonymous Tip Donate Candidate for Rhode Island Attorney General Liberty and justice for all.
+Skip to content Alan Gordon For Attorney General Open menu Home Platform Meet Alan Neutrality Guarantee Initiatives Transition Team Voter Survey Contact Anonymous Tip Donate Candidate for Rhode Island Attorney General Liberty and justice for all.
 Alan Gordon is running to defend constitutional rights, restore trust in government, and ensure equal justice under the law for every Rhode Islander.
 Explore Alan’s platform Meet Alan DCYF / Family Court Review Defend constitutional rights Protect vulnerable people Confront public corruption One standard of justice Nobody is above the law.
 Government earns trust when laws are enforced fairly, conflicts are acknowledged, constitutional freedoms are protected, and powerful institutions face the same scrutiny as everyone else.
@@ -22,7 +22,10 @@ Read the proposal → Public inquiry Outside-the-box investigations Promising id
 View active investigations → “ Meet the candidate A commitment shaped by firsthand experience.
 Alan earned an accelerated Honors LL.B. from the University of Buckingham, passing all twelve England and Wales Bar examinations on his first attempt.
 More than a decade of public-law and constitutional advocacy strengthened his commitment to a justice system that treats every person fairly.
-Read Alan’s biography Contact the campaign Hope for Rhode Island Help restore the flow of justice.
+Read Alan’s biography Contact the campaign Preparing to lead Building the Transition Team Alan Gordon is assembling a transition team to prepare his administration to lead the Attorney General’s office when elected.
+Experienced attorneys interested in civil or criminal legal leadership are invited to express their interest.
+Candidates must be admitted or eligible for admission to the Rhode Island Bar.
+Join the Team → About the transition team Hope for Rhode Island Help restore the flow of justice.
 Support a campaign committed to constitutional rights, accountable government and liberty and justice for all.
 Support Alan Gordon Get in touch Alan Gordon for Attorney General Platform Bio Contact Donations Liberty and Justice for All Paid for by Alan Gordon for Attorney General.
 An Anne and Hope Production

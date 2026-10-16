@@ -1,4 +1,5 @@
 [
+"alt:/myIcons/InBug-Black.png|Threads",
 "alt:/myIcons/fb.png|Facebook",
 "alt:/myIcons/ig.png|Instagram",
 "alt:/myIcons/threads.png|Threads",
@@ -7,6 +8,7 @@
 "alt:candidateTom/caulk.jpg|Home Repair",
 "alt:candidateTom/corn.jpg|Gardening",
 "alt:candidateTom/tom.jpg|Summer Tom",
+"img:/myIcons/InBug-Black.png",
 "img:/myIcons/fb.png",
 "img:/myIcons/ig.png",
 "img:/myIcons/threads.png",

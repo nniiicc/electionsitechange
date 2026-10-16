@@ -1,4 +1,4 @@
-top of page HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Privacy Policy Updated 01/2026 This Privacy Policy explains how information about you is collected, used, and disclosed by Chad Gleissl for PA.
+top of page HOME MEET CHAD PRIORITIES YARD SIGN GET INVOLVED CONTACT CHAD PA-37TH DONATE Privacy Policy Updated 01/2026 This Privacy Policy explains how information about you is collected, used, and disclosed by Chad Gleissl for PA.
 This Privacy Policy applies to information we collect when you use the websites, mobile sites, and other online services that link to this Privacy Policy (collectively, the “Sites”).
 The terms “we,” “us,” and “our” refer to Chad Gleissl for PA.
 The term “user,” “you,” and “your” refer to site visitors, donors, and any other users of the Sites.
@@ -23,4 +23,4 @@ You may opt out of promotional emails or texts at any time.
 Security While we strive to protect your information, no system is 100% secure.
 Contact Us If you have any questions about this Privacy Policy, please contact us at info@chadforpa.com Chad Gleissl for Pennsylvania State House District 37 Join Our Campaign Chad wants to fight for Pennsylvania families and make your life more affordable.
 He can't do it alone; he will need a strong team.
-Join our team today: NAME (FIRST AND LAST) EMAIL * MOBILE PHONE ZIP CODE JOIN CHAD General inquiries: info@chadforpa.com Media inquiries: press@chadforpa.com HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Privacy Policy PAID FOR BY CHAD FOR PA bottom of page
+Join our team today: NAME (FIRST AND LAST) EMAIL * MOBILE PHONE ZIP CODE JOIN CHAD General inquiries: info@chadforpa.com Media inquiries: press@chadforpa.com HOME MEET CHAD PRIORITIES YARD SIGN GET INVOLVED CONTACT CHAD PA-37TH DONATE Privacy Policy PAID FOR BY CHAD FOR PA bottom of page

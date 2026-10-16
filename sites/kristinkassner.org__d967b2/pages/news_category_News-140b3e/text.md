@@ -1,5 +1,10 @@
 2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
-Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/11/26 News Kristin Kassner 10/11/26 Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers On Oct.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/14/26 News Kristin Kassner 10/14/26 Letter: Kassner Puts in the Work for Georgetown Small towns in the 2nd Essex district like Georgetown have real needs.
+Kristin Kassner has done her homework, knows those needs, and has spent much of her adult life addressing them.
+They range from keeping housing for younger and older residents to protecting our land and water supply.
+She consistently does something you don’t often see in a politician: she listens - to you, your neighbors, and town officials in the 2nd Essex District.
+She's also done a lot of the invisible work that makes a real difference in Georgetown, work you don’t see in the long hours she devotes to her job.
+Read More News Kristin Kassner 10/11/26 News Kristin Kassner 10/11/26 Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers On Oct.
 1, Kristin Kassner was given the Massachusetts Legislator of the Year Award by the Massachusetts Municipal Lawyers’ Association.
 Kristin is one of 200 Massachusetts legislators, a junior one, and from a small town.
 The MMLA hadn’t felt compelled to select anyone to honor for seven years.
@@ -73,10 +78,6 @@ Bruce Tarr’s office announced on Thursday.
 This legislation strengthens the local infrastructure that residents rely on every day, supports local economies, and prepares our cities and towns for the challenges ahead.” - Rep.
 Kristin Kassner Read More News Kristin Kassner 6/12/26 News Kristin Kassner 6/12/26 ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech Leaders from across the state gathered in Ipswich this week to brainstorm how to bring the biotech industry north of Boston.
 “A key part of preparing for our future is bringing people together to learn from one another to see what’s possible and to understand where our work intersects, because it's where we intersect that we create new ideas.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 5/22/26 News Kristin Kassner 5/22/26 ICYMI: Kassner Bill Would Allow More Seniors to Claim Income-Tax Credit Rep.
-Kristin Kassner has filed legislation intended to expand some seniors’ eligibility for state tax credits, eliminating a loophole that has prevented seniors who make use of one state tax-relief program from qualifying for additional savings under another.
-"Seniors on a fixed income are struggling to pay for food, electricity, gas—and property taxes, which are also increasing across the Commonwealth.
-This bill would allow income-qualifying seniors to defer property taxes and still qualify for the Senior Circuit Breaker.” - Rep.
 Kristin Kassner Read More Older Posts Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

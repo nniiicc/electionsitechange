@@ -30,7 +30,7 @@ He's a true con man.
 He wants you to believe something that just quite isn't true.
 ON WINNING IN NOVEMBER: I am confident.
 As long as we continue to get the resources to tell the people who he is and what we want to do for the state, Sean, you're going to announce a win, and I hope you have a big grin on your face when you do.
-Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com ### Alyssa Brouillet Previous Previous MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE Next Next AD: ABDUL THREATENS OUR NATION’S VALUES AND SECURITY CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com ### Alyssa Brouillet Previous Previous MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE Next Next AD: ABDUL THREATENS OUR NATION’S VALUES AND SECURITY MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

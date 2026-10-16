@@ -1,5 +1,5 @@
 0 Skip to Content Meet Dan Policies Events Press Store Volunteer Donate Open Menu Close Menu Meet Dan Policies Events Press Store Volunteer Donate Open Menu Close Menu Meet Dan Policies Events Press Store Volunteer Donate Taking on Corruption, Protecting Maryland Families Wayne Gilchrest is backing Dan Schwartz.
-Former congressman for Maryland’s 1st District.
+Former Republican congressman for Maryland’s 1st District.
 See everyone who’s endorsed Dan.
 Running for Congress wasn’t part of the plan.
 But these aren’t normal times.

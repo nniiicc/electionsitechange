@@ -2,11 +2,11 @@ Saltar al contenido principal ¿Se mudó?
 Actualice su registro antes del 23 oct. → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 EN Donar Menú Votar Conozca a Alan Propuestas Distrito 61 Participe English Donar Cámara de Utah · Distrito 61 Cámara de Utah · Distrito 61 · West Provo y Southwest Orem Mantengamos Utah County asequible y las oportunidades al alcance de todos.
 Crecí aquí.
 Me postulo para que el trabajo duro vuelva a rendir frutos aquí: costos más bajos para las familias, escuelas fuertes y una UVU asequible cerca de casa.
-Mi plan para votar En la guía electoral de The Salt Lake Tribune El Tribune preguntó.
+Mi plan para votar Solicitar un letrero ↗ En la guía electoral de The Salt Lake Tribune El Tribune preguntó.
 Yo respondí.
 Vea mi posición → Utah County está cambiando.
 Nuestra representación también debe cambiar.
-La elección en 2026 Su voto debe ganarse, no darse por sentado.
+La elección en 2026 Sé que tengo que ganarme cada voto.
 En 2024, la lista oficial de candidatos de Utah incluyó a un solo candidato para el Distrito 61 de la Cámara de Representantes.
 Este año, los votantes tienen una alternativa real.
 El día de las elecciones es el martes 3 de noviembre de 2026.

@@ -12,7 +12,8 @@ I am someone who understands the needs of our community and can be counted on to
 Read More » October 24, 2020 Barack Obama Endorsement [vc_row][vc_column][vc_column_text]I am humbled and overjoyed to have once again received the endorsement of former President Barack Obama, for re-election as State Representative for TX House Read More » August 3, 2020 « Previous Page 1 Page 2 Page 3 Page 4 Page 5 Next » Share on facebook Share on twitter Share on linkedin Share on whatsapp About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
 She made history elected as the first African American to represent this district.
 House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
-Facebook-f Twitter Instagram Recent Posts Education Read More » Jobs Read More » Rhetta Bowers prepares for Dallas Women’s March Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Facebook-f Twitter Instagram Recent Posts The Importance of Community Involvement Read More » Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act Read More » Gov.
+Abbott Expands Testing | George Floyd and Peaceful Protests Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
 Bowers for HD113 team.
 Help your community.
 Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.

@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 13 Oct Congressional Candidate, James Marter announced today that his bid for Congress will be to unseat Congresswoman Lauren Underwood.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 13 Oct Congressional Candidate, James Marter announced today that his bid for Congress will be to unseat Congresswoman Lauren Underwood.
 Anticipating the new congressional district maps, Marter is expecting the new IL14 to be his home district.
 “We need leadership and representation for this district in Congress, to help Illinois out of the crisis we’re in,” says Marter.
 “Bad federal policies make bad state governance even worse, and Congresswoman Underwood and her party have failed our communities, state and nation.

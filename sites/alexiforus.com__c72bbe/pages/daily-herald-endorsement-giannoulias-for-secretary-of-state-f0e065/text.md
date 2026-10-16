@@ -25,10 +25,9 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Did You Know?
-When people think of the Secretary of State’s office, they naturally think of driver’s licenses.
-But the Secretary of State plays a variety of critical Keep Reading → Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
+Related Posts Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
 J.B.
 Pritzker’s desk.
-Keep Reading → Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Keep Reading → African-American Leaders Rally Behind Giannoulias for Secretary of State Several Black elected officials – including state legislators, mayors and committeepersons – announced their support today for Democrat Alexi Giannoulias in the race for Illinois Secretary of State.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

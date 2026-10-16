@@ -12,4 +12,5 @@ Tanya Miller has spent her career on the front lines of justice.
 As a prosecutor, she fought for victims and held child predators and violent criminals accountable.
 As a civil rights attorney, she defended Georgians' rights and demanded accountability from those in power.
 Now, she's running for Attorney General to ensure that the law—not politics—serves every Georgian.
-Share Now Read below for some of our top priorities Civil Rights Attorney Former Prosecutor State Representative Mother Contact Tanya Miller for Attorney General Powered by RUN! website builder Paid for by Tanya for Georgia You need to enable JavaScript to run this app.
+Share Now the leader we need Tanya Miller for Every Georgian I’m running for Attorney General to protect Georgians’ rights, defend democracy and hold powerful interests accountable—because every Georgian deserves safety, justice and a government that works for the people, not political agendas.
+Civil Rights Attorney Former Prosecutor State Representative Mother Contact Tanya Miller for Attorney General Powered by RUN! website builder Paid for by Tanya for Georgia You need to enable JavaScript to run this app.

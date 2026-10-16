@@ -37,19 +37,19 @@ Follow Manka Dhingra #ago Lightbox link for post with description We have many o
 We have many opportunities to flip red legislative seats to Blue this November.
 Excited to support Carolina Mejia, Stacy Willoughby, Diana Perez and Maria Littlesun.
 Thank you to Electing Women Alliance, Vote Run Lead, and Progress Alliance of Washington for your support.
-#VoteBlue 24 16 Share 1283135171724918_1486611993283343 Follow Manka Dhingra #ago Lightbox link for post with description Honored to support Michael Shepard for State...
+#VoteBlue 40 96 Share 1283135171724918_1486611993283343 Follow Manka Dhingra #ago Lightbox link for post with description Honored to support Michael Shepard for State...
 Honored to support Michael Shepard for State Senate and engage with the Sikh community in Whatcom County.
 Thank you Executive Satpal Sidhu for your leadership and support.
-#VoteBlue 9 7 Share 1283135171724918_1485608743383668 Follow Manka Dhingra #ago Lightbox link for post with description The more you learn about Initiative 638, the more...
+#VoteBlue 10 8 Share 1283135171724918_1485608743383668 Follow Manka Dhingra #ago Lightbox link for post with description The more you learn about Initiative 638, the more...
 The more you learn about Initiative 638, the more you will realize how harmful it is.
 We cannot allow this in our Washington where we value each and every person.
 Vote No!
-105 164 Share 1283135171724918_1483505753593967 Follow Manka Dhingra #ago Lightbox link for post with description Congratulations Rep.
+106 165 Share 1283135171724918_1483505753593967 Follow Manka Dhingra #ago Lightbox link for post with description Congratulations Rep.
 Lisa Callan for the...
 Congratulations Rep.
 Lisa Callan for the well-deserved Mental Health Champion award at the NAMI Eastside Gala.
 Always a great evening to support the incredible work being done by NAMI Eastside.
-#mentalhealth 29 10 Share 1283135171724918_1482840756993800 Follow Manka Dhingra #ago Lightbox link for post with description Please vote no on all 3 initiatives.
+#mentalhealth 33 10 Share 1283135171724918_1482840756993800 Follow Manka Dhingra #ago Lightbox link for post with description Please vote no on all 3 initiatives.
 These...
 Please vote no on all 3 initiatives.
 These initiatives are not about good policy but about bad politics; Brian Heywood politics.

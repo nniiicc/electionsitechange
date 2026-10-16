@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-DONATE JOIN THE BRIGADE Subscribe Our subscription form is currently unavailable and awaiting final setup.
+DONATE JOIN THE BRIGADE ☝ Early Voting is October 17 th -30 th ☝ Subscribe Our subscription form is currently unavailable and awaiting final setup.
 We hope to have subscription functionality established within a few days!
 Thank you for your anticipated patience as our TEAM continues to build our campaign!
 To the top Phone: (702)-805-5957 Joseph P.

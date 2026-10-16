@@ -7,4 +7,7 @@ She’ll bring that real-world perspective to Denver.” VIEW STATEMENT Southwes
 You have earned our endorsement in the 2026 election for Colorado House District 59.” VIEW STATEMENT Steve Parker “She will not be tied to supporting the Denver-Boulder power structure.
 She will be a real listener.” VIEW STATEMENT Mary Bono “Naomi has spent years helping people navigate challenges in their own communities.
 She will bring practical experience, preparation and a strong local perspective to the Colorado Legislature.
-I encourage you to join me in supporting Naomi Riess for House District 59.” VIEW STATEMENT Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr
+I encourage you to join me in supporting Naomi Riess for House District 59.” VIEW STATEMENT Ken Beegles “I have worked many years with Naomi Riess.
+She is a tireless and committed advocate for her constituents.
+I know she has knowledge of Colorado Water policies and the planning processes.
+She will bring common sense to the State government!” VIEW STATEMENT Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

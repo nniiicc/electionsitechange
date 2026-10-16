@@ -7,7 +7,9 @@ And please check out my ʻŌlelo show on ʻŌleloNet, "Our Community First." We 
 I am and will continue fighting for our Kalihi communities first for a better future!
 Again, big Mahalo to everyone who voted for me!
 #OurCommunityFirst #Hawaii #Kalihi #VoteYbanez4Kalihi Previous YBANEZ - Stay prepared for Tropical Cyclone Lala!
-Next YBANEZ - Walk & Talk | Monday, August 3rd You Might Also Like YBANEZ - Tropical Cyclone LALA | Friday, August 14th YBANEZ - Walk & Talk | Monday, August 3rd YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 Moment of Self-Reflection from Amanda Ybanez "Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Are you registered to vote?
+Next YBANEZ - Walk & Talk | Monday, August 3rd You Might Also Like YBANEZ 4 KALIHI - Support Local!
+YBANEZ - Walk & Talk | Monday, August 3rd Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Ybanez - Our Community First!
+#Kalihi #Hawaii #ourcommunityfirst Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

@@ -1,6 +1,5 @@
 [
-"alt:images/AO6A0662.jpg|Margaret Spear",
-"alt:images/campaign-photo.webp|Margaret Spear",
+"alt:images/bio-photo-1200.jpg|Margaret Spear",
 "alt:images/endorsements/candidates-for-common-good.png|Candidates for Common Good",
 "alt:images/endorsements/dirtroad-organizing.png|Dirtroad Organizing",
 "alt:images/endorsements/fighting50.png|The Fighting 50",
@@ -11,9 +10,12 @@
 "alt:images/endorsements/ndrc-fullname.png|National Democratic Redistricting Committee",
 "alt:images/endorsements/run-for-something-black.png|Run For Something",
 "alt:images/logo.webp|Margaret Spear logo",
+"embed:images/commercial-poster.jpg",
 "img://www.facebook.com/tr",
-"img:images/AO6A0662.jpg",
-"img:images/campaign-photo.webp",
+"img:images/bio-photo-1200.jpg",
+"img:images/bio-photo-1200.webp",
+"img:images/bio-photo-800.jpg",
+"img:images/bio-photo-800.webp",
 "img:images/endorsements/candidates-for-common-good.png",
 "img:images/endorsements/dirtroad-organizing.png",
 "img:images/endorsements/fighting50.png",
@@ -23,5 +25,6 @@
 "img:images/endorsements/moms-demand-action.png",
 "img:images/endorsements/ndrc-fullname.png",
 "img:images/endorsements/run-for-something-black.png",
-"img:images/logo.webp"
+"img:images/logo.webp",
+"img:videos/commercial.mp4"
 ]

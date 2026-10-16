@@ -1,22 +1,27 @@
-EVENTS VOLUNTEER PLATFORM ENDORSEMENTS VOTE DONATE Select Page Events October 9 - Port City Java Coffee is on Tim.
-Your voice is the agenda.
-Join Tim for Coffee Talk, a relaxed, open conversation about the issues facing District 20.
-Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
-Tim is there to listen, share ideas, and build solutions together.
-Friday, October 9 – 9:00-10:00AM – Port City Java; 5709 Oleander Dr, Wilmington RESERVE MY CUP October 13 - Taco Tuesday with Tim Join Tim for a relaxed, open conversation about the issues facing District 20.
-Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
-Tim is there to listen, share ideas, and build solutions together.
-Grab a taco, pull up a chair, and be heard.
-Tuesday, October 13 – 5:00-6:00PM – La Esquina Mexican Grill & Cantina – 2535 Castle Hayne Rd Ste A, Wilmington GRAB A TACO October 14 - Showing Up and Moving Forward with Tim & Jennie On the eve of early voting, let’s raise a glass in support of two dedicated local campaigns as they head into the final weeks of the 2026 election.
-Joined together at a beautiful home overlooking Bradley Creek, this will be a great opportunity to connect with friends and neighbors, hear directly from candidates Jennie Thomason and Tim Merrick, and help carry their campaigns for Clerk of Superior Court and North Carolina House District 20 over the finish line.
-Wednesday, October 14 – 6:00-8:00PM GET YOUR TICKET October 16 - Happy Hour with Tim Join Tim for a relaxed, open conversation about the issues facing District 20.
+EVENTS VOLUNTEER PLATFORM ENDORSEMENTS VOTE DONATE Select Page Events October 16 - Happy Hour with Tim Join Tim for a relaxed, open conversation about the issues facing District 20.
 Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
 Tim is there to listen, share ideas, and build solutions together.
 Grab a drink, pull up a chair, and be heard.
 Friday, October 16 – 4:00-5:00PM – 220 Causeway Dr, Wrightsville Beach PULL UP A CHAIR October 18 - Justice Across Generations Please join Tim Merrick and special guest Justice Allison Riggs for a conversation about the long arc of justice.
 From the fight for equal education to the fight for equal representation, each generation carries the responsibility to defend our Constitution, protect our democracy, and move North Carolina forward.
 Host committee still being formed.
-Sunday , October 18 – 4:30-6:00PM – Wilmington BECOME A SPONSOR or PURCHASE YOUR TICKET Past Events October 4 - Shag Social Join us at Shag Bar in Carolina Beach for an evening of cocktails, conversation, and a little friendly competition in support of Tim!
+Sunday , October 18 – 4:30-6:00PM – Wilmington BECOME A SPONSOR or PURCHASE YOUR TICKET October 23 - Starbucks Coffee is on Tim.
+Your voice is the agenda.
+Join Tim for Coffee Talk, a relaxed, open conversation about the issues facing District 20.
+Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
+Tim is there to listen, share ideas, and build solutions together.
+Friday, October 23 – 9:00-10:00AM – Starbucks, 7201 Market St, Wilmington RESERVE MY CUP Past Events October 14 - Showing Up and Moving Forward with Tim & Jennie On the eve of early voting, let’s raise a glass in support of two dedicated local campaigns as they head into the final weeks of the 2026 election.
+Joined together at a beautiful home overlooking Bradley Creek, this will be a great opportunity to connect with friends and neighbors, hear directly from candidates Jennie Thomason and Tim Merrick, and help carry their campaigns for Clerk of Superior Court and North Carolina House District 20 over the finish line.
+Wednesday, October 14 – 6:00-8:00PM GET YOUR TICKET October 13 - Taco Tuesday with Tim Join Tim for a relaxed, open conversation about the issues facing District 20.
+Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
+Tim is there to listen, share ideas, and build solutions together.
+Grab a taco, pull up a chair, and be heard.
+Tuesday, October 13 – 5:00-6:00PM – La Esquina Mexican Grill & Cantina – 2535 Castle Hayne Rd Ste A, Wilmington GRAB A TACO October 9 - Port City Java Coffee is on Tim.
+Your voice is the agenda.
+Join Tim for Coffee Talk, a relaxed, open conversation about the issues facing District 20.
+Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.
+Tim is there to listen, share ideas, and build solutions together.
+Friday, October 9 – 9:00-10:00AM – Port City Java; 5709 Oleander Dr, Wilmington RESERVE MY CUP October 4 - Shag Social Join us at Shag Bar in Carolina Beach for an evening of cocktails, conversation, and a little friendly competition in support of Tim!
 Your first drink is on us — then grab your Mingle Bingo card and start making connections.
 Meet new people, find out who has a story to tell, and complete your card for a chance to win one of our prizes.
 No speeches all night.

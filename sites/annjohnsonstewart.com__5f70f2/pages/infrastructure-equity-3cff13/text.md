@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Equity Infrastructure Equity & the 40% Mandate When extreme weather damages a municipal water system or washes out a critical county road, local governments are forced to cover the massive repair costs.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Equity Infrastructure Equity & the 40% Mandate When extreme weather damages a municipal water system or washes out a critical county road, local governments are forced to cover the massive repair costs.
 As a civil engineer, Ann understands that this creates a dangerous disparity: wealthy suburban cities with large tax bases can afford to issue municipal bonds to upsize their infrastructure, while rural towns and disadvantaged neighborhoods are left critically exposed to the next major storm.
 As Ann stated in the Climate Superfund Act’s introductory press conference : “This year at the state, we have received billions of dollars in bonding requests.
 Now, consider that the bonding bill, if we pass it, will cover 1/6th of the amount of requests we’ve received already.” A community’s ability to survive the physical realities of climate change should never be dictated by its zip code or its property wealth.

@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 19 Dec Jim Marter, Candidate for Congress from Illinois, is wanting answers on some key votes, citing the disparity between what he hears from residents of the 14th District and the recent votes by their rep in Congress.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 19 Dec Jim Marter, Candidate for Congress from Illinois, is wanting answers on some key votes, citing the disparity between what he hears from residents of the 14th District and the recent votes by their rep in Congress.
 “Recent votes do not match the values of our district and we’re suffering from a lack of leadership and representation.
 My campaign is an opportunity to rectify this situation,” said Marter.
 “HR798 was proposed as a condemnation of anti-Semitism on college campuses.

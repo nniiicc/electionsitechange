@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 03 Nov U.S.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 03 Nov U.S.
 Congressional Candidate James Marter called on Representative Lauren Underwood to join her colleagues against the opening of a consulate for the Palestinian Authority in Jerusalem.
 According to Israel National News, even a senior Democratic Congressman has asked President Biden to stop the opening.
 “This is directed at people that live in cities west of the Jordan River, who are paying people to go to Israel and kill others,” said former Secretary of State, Mike Pompeo, while discussing the issue with Rabbi Spero, President of the Conference of Jewish Affairs.

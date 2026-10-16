@@ -7,4 +7,4 @@ His campaign manager has said the campaign won’t comment on personnel matters.
 “Voters shouldn't have to file federal complaints to get answers from a man asking for their trust.
 He owes the North Country the truth today.” Sources: Gendebien campaign faces FEC complaint over employment of foreign national EXCLUSIVE: Dem Candidate May Have Violated FEC Law By Hiring Foreign National ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

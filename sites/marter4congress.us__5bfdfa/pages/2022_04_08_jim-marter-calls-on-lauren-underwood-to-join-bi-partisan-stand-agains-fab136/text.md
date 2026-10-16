@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 08 Apr Republican Congressional Candidate Jim Marter (IL-14) is calling on his Democrat opponent, Representative Lauren Underwood, to join the bi-partisan stand against the Iran Nuclear Deal.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 08 Apr Republican Congressional Candidate Jim Marter (IL-14) is calling on his Democrat opponent, Representative Lauren Underwood, to join the bi-partisan stand against the Iran Nuclear Deal.
 “Eighteen of Underwood’s Democrat colleagues in Congress have made the right decision to oppose it and she should follow suit.
 Sadly, what we’ve seen instead, is her continued lock step support of the Biden agenda rather than representing our district.
 She is putting partisanship over peace and putting our national security at risk, along with the security of Israel and the Middle East,” said Marter.

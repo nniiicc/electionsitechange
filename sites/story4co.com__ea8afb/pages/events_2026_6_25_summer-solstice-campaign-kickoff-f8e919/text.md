@@ -7,4 +7,4 @@ Please RSVP at this link to get the location details and let us know you're comi
 You can still make a huge impact today.
 We accept absolutely zero corporate PAC money, which means our campaign relies entirely on people like you.
 Fuel our grassroots campaign with a donation today!
-Earlier Event: November 5 Election Day Team Tammy Phone Bank Later Event: August 12 Coffee and Conversation Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Earlier Event: November 5 Election Day Team Tammy Phone Bank Later Event: August 12 Coffee and Conversation Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

@@ -1,4 +1,12 @@
-Home Meet David Issues Photos News Endorsements News Latest updates from the campaign: 12 Oct Monday, 9:40 AM · 2026 Article by Dave Johnson: “We’re not a piggy bank” [Opportunity Now Silicon Valley News] What does this November’s election say about where California is going?
+Home Meet David Issues Photos News Endorsements News Latest updates from the campaign: 15 Oct Thursday, 9:31 AM · 2026 Rolling Blackouts in Pacifica & Montara In the last week, there have been numerous power outages in Pacifica, Montara and Moss Beach.
+According to the SF Chronicle and NBC Bay Area, residents in Montara, Moss Beach and El Granada reported power going out up to six times in a four-day span, including overnight blackouts.
+The recent Peninsula-wide power disruption left roughly 6,500 PG&E customers without power and caused major delays on BART services.
+PG&E has no valid explanation for the outages, only that it was “checking” its aging infrastructure.
+But don’t worry, PG&E has enough extra money to make more than $8,000 in campaign contributions to Marc Berman, the incumbent running for his 6 th term in Assembly District (AD) 23.
+Marc is widely known for his “get rid of natural gas and make everything electric” legislation, while the cost of power goes up and service continues to be spotty.
+It’s time to end One Party Rule and vote for someone who will hold the Public Utilities such as PG&E to account and who will also demand transparency across every agency in the State.
+Vote for David G.
+Johnson for AD23 davidjohnsonad23.com Read more 12 Oct Monday, 9:40 AM · 2026 Article by Dave Johnson: “We’re not a piggy bank” [Opportunity Now Silicon Valley News] What does this November’s election say about where California is going?
 As part of an Opportunity Now exclusive series , we caught up with SVGOP Chairman Dave Johnson , who warns the state is turning further toward “an economic model of failure” based on unsustainable tax increases: For this mid-term, Reform California has a massive, coordinated, 58-county, statewide effort, the first of its kind in 20 years, and it just feels like there's grassroots momentum.
 Meanwhile, the Democrats have no plan other than portraying all Republicans as MAGA then repeating ‘MAGA bad, Trump bad, ICE bad,’ just to stay in power.
 Their only real plan is ‘we want to tax you more.’ Never mind the fraud.

@@ -1,4 +1,4 @@
-top of page VOLUNTEER MENU Close Home About Get Involved Blog All Posts Search Housing should offer people choices at every stage of life.
+top of page VOLUNTEER MENU Close Home About Get Involved Blog Issues All Posts Search Housing should offer people choices at every stage of life.
 Carolann Reid Oct 5 2 min read I met a remarkable woman while knocking doors in Stratford.
 She's 95 years old and lives independently in the home she loves.
 After our visit, I kept thinking about what it means to age in a community.

@@ -1,4 +1,4 @@
-info@poindexterforcongress.com On the Issues Priority #1: Cost of Living Working families are getting squeezed.
+Poindexter Merchandise! info@poindexterforcongress.com On the Issues Priority #1: Cost of Living Working families are getting squeezed.
 I have a plan to bring down the prices of gas, groceries, and health care.
 The Economy Working families are paying more while corporations post record profits.
 An economy that works should work for the people who power it.
@@ -13,7 +13,7 @@ Gas prices Bringing down the cost of gas and diesel will be one of my top priori
 Data centers Local communities must have control over whether data centers are built, and no one should pay a cent more for utilities to subsidize data centers.
 Law enforcement I have supported law enforcement on the City Council, and I will do the same in Congress.
 Fighting for Workers because he is a worker Brian Poindexter understands these issues because as a card carrying union member and a member of the working class, he's worked many of the blue-collar jobs residents of Ohio's 7th Congressional District have trying to make ends meet, dealing with kitchen table issues, and working hard to raise a young family.
-Brian's Working-Class Story Get Involved Events Volunteer Request a Yard Sign News/Media Donate If We Believe in America, We Should Build It Here Made in America For too long, working families have paid the price for policies that reward outsourcing and corporate shortcuts.
+Brian's Working-Class Story Get Involved Events Volunteer Request a Yard Sign Poindexter Merch News/Media Donate If We Believe in America, We Should Build It Here Made in America For too long, working families have paid the price for policies that reward outsourcing and corporate shortcuts.
 If companies benefit from America, they should invest in American workers.
 “Made in America” Should Mean Something Politicians love to talk about “Made in America,” but too often it’s just a slogan.
 The same people who wrap themselves in the flag are often the first to ship jobs overseas in search of cheaper labor and higher profits.

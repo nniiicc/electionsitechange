@@ -3,19 +3,6 @@ For those voters who applied for an absentee ballot in advance of September 18, 
 Absentee ballots may be acquired in person beginning on September 18 at one or more locations in each county as listed on the Secretary of State’s website at this link: https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/ .
 Absentee ballots can be used to vote in person at those aforementioned locations on the same day that the application is submitted in person beginning on September 18.
 Absentee ballots must be received by election day, even if postmarked prior to election day.
-View Event → Oct 15 Legvold for Minnesota - Greenvale Township Door Knock Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
-We are hitting the pavement to have those critical face to face conversations that win elections!
-Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
-Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
-We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
-Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
-We will be using a mobile app to track our progress!
-What We Provide: Training, literature, snacks, and plenty of team spirit.
-Your voice is the most powerful tool we have.
-Let's get out there, meet our neighbors, and share our vision for the future!
-Find out where to meet and to let us know you’re coming at this Mobilize page : https://www.mobilize.us/mobilize/event/1049530/ .
-Questions?
-Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Oct 16 to Nov 2 Early Voting in person Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 5:00 PM Google Calendar ICS "Early Voting" will be available in Minnesota for the first time in 2026.
 This is more similar to voting in a polling place on Election Day, and starts # days before the election.
 For all statewide elections, every county will have at least one location where early voting is offered.
@@ -75,6 +62,19 @@ If you can contribute 10-30 post card stamps, that is a value added option to he
 Go to this Mobilize webpage to sign up and find out where to meet: https://www.mobilize.us/legvold-for-mn-senatedfl/event/1063244/ .
 View Event → Nov 3 General Election Day Tuesday, November 3, 2026 7:00 AM 8:00 PM Google Calendar ICS General Election Day in Minnesota will take place on Tuesday, November 3, 2026 from 7:00am-8:00pm.
 Find your polling location and a sample ballot on the website of the Minnesota Secretary of State .
+View Event → Oct 15 Legvold for Minnesota - Greenvale Township Door Knock Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
+We are hitting the pavement to have those critical face to face conversations that win elections!
+Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
+Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
+We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
+Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
+We will be using a mobile app to track our progress!
+What We Provide: Training, literature, snacks, and plenty of team spirit.
+Your voice is the most powerful tool we have.
+Let's get out there, meet our neighbors, and share our vision for the future!
+Find out where to meet and to let us know you’re coming at this Mobilize page : https://www.mobilize.us/mobilize/event/1049530/ .
+Questions?
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Oct 14 Legvold for Minnesota - Rosemount Door Knock!
 Wednesday, October 14, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
 We are hitting the pavement to have those critical face to face conversations that win elections!
@@ -446,9 +446,4 @@ What We Provide: Training, literature, snacks, and plenty of team spirit.
 Your voice is the most powerful tool we have.
 Let's get out there, meet our neighbors, and share our vision for the future!
 Questions?
-Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information. ‍ ‍ View Event → Aug 23 Northfield Door Knock Sunday, August 23, 2026 3:00 PM 5:00 PM Google Calendar ICS Join us to knock doors and share the good news about candidate Mark Legvold's run for the MN Senate to represent district 58.
-Learn the meet-up location and register with this Mobilize link: https://www.mobilize.us/mobilize/event/1002148 .
-3pm - 5pm.
-Join us for any of this time!
-Newbies welcome!
-View Event → Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information. ‍ ‍ View Event → Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

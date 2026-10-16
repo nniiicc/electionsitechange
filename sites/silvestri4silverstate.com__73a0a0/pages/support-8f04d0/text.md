@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-DONATE JOIN THE BRIGADE Support There's many ways of helping out.
+DONATE JOIN THE BRIGADE ☝ Early Voting is October 17 th -30 th ☝ Support There's many ways of helping out.
 Get involved now!
 Organize a local event in your neighborhood or HOA Reach your community by going door-to-door I need precinct captains and a postcard party You can help support Joe by donating.
 Go to the DONATE page.

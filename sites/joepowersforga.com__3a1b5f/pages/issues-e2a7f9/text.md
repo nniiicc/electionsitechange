@@ -1,4 +1,4 @@
-Home Meet Joe Issues Join Joe The Issues COST OF LIVING & PROPERTY TAXES Laurens County families recently absorbed a nearly thirty-one percent property tax increase over the rollback rate.
+Home Meet Joe Issues Join Joe DONATE NOW The Issues COST OF LIVING & PROPERTY TAXES Laurens County families recently absorbed a nearly thirty-one percent property tax increase over the rollback rate.
 This sudden rate hike followed the depletion of more than four million dollars in county reserve funding over three years.
 Local budgets are buckling under rising inflation and soaring public-safety burdens.
 For example, local property taxpayers are forced to cover county inmate medical costs that recently jumped to nearly one million dollars.

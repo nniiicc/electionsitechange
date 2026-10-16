@@ -9,4 +9,4 @@ We will have our first launch of the day from 9:00-11:00 am.
 Our second launch from Chaucer Park will be from 11:00 am-1:00 pm.
 Sign up to Canvass: Source:: https://forms.gle/KhDhqgZvarw5nExh7 Earlier Event: August 30 Pints & Politics on Aug.
 30th Later Event: September 6 Beverages and Bites on Sep.
-6th Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+6th Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

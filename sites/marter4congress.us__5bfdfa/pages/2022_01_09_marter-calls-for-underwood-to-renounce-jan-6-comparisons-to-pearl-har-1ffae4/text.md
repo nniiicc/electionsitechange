@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 09 Jan James Marter asks Representative Underwood if she supports Vice President Harris’ widely reported statements comparing January 6, 2020 to Pearl Harbor and 9/11.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 09 Jan James Marter asks Representative Underwood if she supports Vice President Harris’ widely reported statements comparing January 6, 2020 to Pearl Harbor and 9/11.
 “For one, it’s important to know if our Representatives are unhinged, which is why I’m asking the question,” said Marter.
 “It’s disgusting to compare the events of January 6th to those of 9/11 or Pearl Harbor, which claimed the lives of thousands of our military soldiers and innocent, every day Americans.
 To not take a stand against such disrespectful and politically inflammatory speech from our leaders, means you condone it.

@@ -47,5 +47,5 @@ We can’t take the safety they provide for granted.
 Many of our Nebraska communities can tie their history directly to the Railroads that crisscross our state.
 I believe in a Nebraska where our tracks move not only grain and beef, but Nebraskans themselves.
 In the senate, I will work with any administration's Department of Transportation to further connect our state to the national AMTRAK system, and ensure our state’s rail network is up to date and safe.
-GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Careers Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
+GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
 All rights reserved.

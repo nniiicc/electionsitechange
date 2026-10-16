@@ -4,4 +4,4 @@ Tom Eschen, the CBS6 moderator, opened the broadcast saying “Both [Constantino
 “He ran to an event bankrolled by Kathy Hochul, rejecting 6 different debate dates.” Constantino outlined plans to create jobs, lower energy costs, support Fort Drum, and proposed Operation Overhaul, an initiative to upgrade all government software systems.
 Sources: Full CBS6 debate segment ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

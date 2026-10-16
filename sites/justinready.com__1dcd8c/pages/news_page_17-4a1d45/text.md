@@ -1,4 +1,5 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report April 13, 2023 2023 End of Session Report On midnight April 10th, the 2023 Maryland General Assembly Session officially came to a close.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report April 15, 2023 Ready Report: Final Weekly Update for 2023 Legislative Session The Maryland General Assembly adjourned “Sine Die” on Monday, which translates to no definite date or period to resume.
+There were many victories and defeats for conservatives in Annapolis this year, and a few big disappointments… Read More > April 13, 2023 2023 End of Session Report On midnight April 10th, the 2023 Maryland General Assembly Session officially came to a close.
 I consider it a great honor and responsibility to serve as your State Senator.
 This letter highlights major legislative initiatives… Read More > April 13, 2023 Carroll County Delegation Secures Critical Local Funding in Capital Budget Annapolis- On Monday, April 10th at midnight, the 2023 General Assembly Session came to a close.
 The state’s Capital Budget final version passed both chambers also on Monday.

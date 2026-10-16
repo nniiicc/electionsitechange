@@ -22,9 +22,9 @@ We don’t want people to suffer from their own actions, but we must protect the
 Let’s just make sure their choices are informed choices, uninfluenced by people who would like to profit from selling poisons like sugar, alcohol, tobacco, marijuana, heroin, cocaine, etc.
 Always remember – the dose makes the poison.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Ethanol Ethanol may be a good idea.
-And it may not be.
-Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts 2nd Amendment I own, I shoot, I carry.
+Clean Iowa Does Iowa need to clean up its act?
+Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
 Mental Health Everyone needs good mental health, why don’t we have it?
 Prev Previous Eminent Domain Next Ethanol Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

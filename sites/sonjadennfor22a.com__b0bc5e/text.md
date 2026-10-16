@@ -10,7 +10,8 @@ Unsubscribe at any time by replying STOP.
 Terms of Service and Privacy Policy apply.
 Bring life back to 22A!
 “I don't pretend to have all the answers, but I'll do my best to find them!
-As a representative, I will listen to my voters—not my own agenda." Learn more Read below for some of our top priorities Revitalize Small Towns Strengthen Agriculture and Support Farmers Combat Rising Property Taxes Fix Loopholes and Set Standards Affordable Prescriptions for All View More Donate to our Campaign Every dollar helps.
+As a representative, I will listen to my voters—not my own agenda." Learn more Our priorities Working for Our District These are the top priorities we will fight for in the MN House of Representatives.
+Revitalize Small Towns Strengthen Agriculture and Support Farmers Combat Rising Property Taxes Fix Loopholes and Set Standards Affordable Prescriptions for All View More Donate to our Campaign Every dollar helps.
 Show your support! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Endorsements of Sonja Denn's Campaign for MN House Let's Make Change Together.
 Contact Sonja at sonjadennforhouse22a@gmail.com Powered by RUN! website builder Prepared and paid for by the campaign of Sonja Denn for House Committee.
 P.O.

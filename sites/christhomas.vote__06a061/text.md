@@ -1,4 +1,4 @@
-0 Skip to Content Home Senate District 24 Platform Volunteer Voter Resources Donate Open Menu Close Menu Home Senate District 24 Platform Volunteer Voter Resources Donate Open Menu Close Menu Home Senate District 24 Platform Volunteer Voter Resources Donate A Working-Class Fighter.
+0 Skip to Content Home Senate District 24 Platform Endorsements Volunteer Voter Resources Donate Open Menu Close Menu Home Senate District 24 Platform Endorsements Volunteer Voter Resources Donate Open Menu Close Menu Home Senate District 24 Platform Endorsements Volunteer Voter Resources Donate A Working-Class Fighter.
 A New Generation Of Leadership.
 About Chris Chris comes from a family of veterans, coal miners, educators, and corrections officers; people who woke up early, stayed late, and believed in the dignity of hard work.
 Those roots shaped his commitment to fairness, opportunity, and fighting for families who are doing everything right and still falling behind.

@@ -54,6 +54,6 @@ By participating in this Program, you acknowledge that you have read and agree t
 Dispute Resolution Any dispute, claim, or controversy arising out of or relating to the Program or these Terms shall be resolved through binding arbitration in Seminole County, Florida in accordance with applicable federal law and the rules of the American Arbitration Association.
 The parties waive any right to a jury trial or participation in any class action proceeding.
 Governing Law These Terms are governed by the laws of the State of Florida and applicable federal law, including the Telephone Consumer Protection Act (TCPA), 47 U.S.C. § 227, and regulations promulgated by the FCC.
-CONTRIBUTIONS CAN BE MAILED TO: 411 W First St, Unit 5036, Sanford, FL 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
+CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
 Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

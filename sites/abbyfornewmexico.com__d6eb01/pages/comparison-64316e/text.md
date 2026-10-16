@@ -8,6 +8,8 @@ Online property records show that Jahnelle’s real home is in Los Lunas, over 4
 Her third property is located on Albuquerque’s Westside in House District 68.
 And Democrats and independents aren’t the only ones asking questions.
 Even Republicans have called Jahnelle evasive and are considering filing their own complaint against her .
+Click here to review snapshots of property records and filings.
+Not featured: More recently additional property records show Jahnelle has also listed a Westside Albuquerque home as her new place of residence.
 Jahnelle owes nearly $1 MILLION in federal tax liens Jahnelle Garcia has twice told the Albuquerque Journal that she has never been the subject of a tax lien, most recently on October 3rd, 2026 .
 But records obtained from the Valencia County Clerk tell a different story.
 Recently obtained documents reveal five tax assessments dating back to 2022, totaling nearly $1 million.
@@ -63,4 +65,7 @@ Last week, a voter filed a separate complaint alleging that Garcia's campaign si
 Garcia also came under scrutiny for listing an HD27 home as her residence on campaign finance documents, even though the home's current owner told Source New Mexico he had lived there for more than a year.
 "These rules are not optional," Abby Foster, Garcia's opponent, stated.
 "Jahnelle seems to think basic laws and requirements apply to everyone but her.
-Our district deserves someone focused on serving our community, not using a political campaign to promote a business in Los Lunas." #### Feel free to review our sources: 1. https://login.cfis.sos.state.nm.us/#/exploreDetails/9PxfzNZJeW4oa4yE-7W5ZP4048PFnxLXRUfdOLcQk01/14/33/125/2026 2. https://sourcenm.com/2026/08/27/albuquerque-homeowner-says-republican-candidate-doesnt-live-at-contested-address/ 3. https://www.vitalitynm.com/service/facial-contouring 4. https://ivoterguide.com/candidate/91631/race/32712/election/1474 5. https://www.facebook.com/retinaconsultantsofnm/posts/hear-from-real-new-mexican-doctors/1420493356910898/ Contribute Volunteer Showing Up Fostering Change Volunteer Contribute Contact About Abby Issues Paid for and authorized by Friends of Abby Foster
+Our district deserves someone focused on serving our community, not using a political campaign to promote a business in Los Lunas." #### Online deed records showing Jahnelle buy her home in Los Lunas in 2024: Online property records from a two separate records portals.
+One being the Bernalillo County Assessors website: Jahnelle Garcia’s official Secretary of State filings with 6900 Walnut Creek as her place of residence and mailing address.
+The most recent report being in July, almost two years after she bought her residence in Los Lunas.
+Feel free to review our sources: 1. https://login.cfis.sos.state.nm.us/#/exploreDetails/9PxfzNZJeW4oa4yE-7W5ZP4048PFnxLXRUfdOLcQk01/14/33/125/2026 2. https://sourcenm.com/2026/08/27/albuquerque-homeowner-says-republican-candidate-doesnt-live-at-contested-address/ 3. https://www.vitalitynm.com/service/facial-contouring 4. https://ivoterguide.com/candidate/91631/race/32712/election/1474 5. https://www.facebook.com/retinaconsultantsofnm/posts/hear-from-real-new-mexican-doctors/1420493356910898/ Contribute Volunteer Showing Up Fostering Change Volunteer Contribute Contact About Abby Issues Paid for and authorized by Friends of Abby Foster

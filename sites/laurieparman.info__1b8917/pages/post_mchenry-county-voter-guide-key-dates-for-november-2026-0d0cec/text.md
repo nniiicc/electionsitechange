@@ -1,0 +1,12 @@
+top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
+DONATE Log In All Posts EXCELLENCE in Education FINANCIAL Reform SAFER Communities Campaign & PSA Search McHenry County Voter Guide: Key Dates for November 2026 Judi Zapp #ago 1 min read ELECT LAURIE PARMAN for IL 66 House Representative laurie Parman for the People McHenry County, IL • General Election 2026 Your Civic Guide to the Upcoming November 2026 Election Democracy works best when every community member participates.
+As we look ahead to the November 2026 General Election, Laurie Parman is providing this non-partisan guide to ensure all McHenry County residents have timely, accurate voting information and essential resources ready at their fingertips.
+View Your Sample Ballot Key Election Deadlines Mark Your Calendar for November 2026 Early Voting Oct 19 – Nov 2 In-person early voting available across select McHenry County regional locations prior to Election Day.
+Vote by Mail Request by Oct 29 Ballot requests must be received in advance; completed ballots must be postmarked by Nov 3, 2026.
+Election Day Tuesday, Nov 3 Polls open across all county precincts from 6:00 AM to 7:00 PM CST for regular voting.
+Election Day: November 3, 2026 Ensure your voter registration is up to date, review the candidates and referendums on your ballot, and locate your assigned precinct polling site ahead of time.
+Find Your Polling Place Resource 01 Official Sample Ballots Take the time to review your localized sample ballot prior to entering the booth.
+Knowing what measures and offices are being voted on simplifies your voting experience.
+Resource 02 Precinct & Drop Box Locations Verify your designated voting site or secure ballot drop box location in McHenry County to ensure your vote is received and counted on schedule.
+Campaign & PSA Recent Posts See All Kane & McHenry County -Your Primary Vote Matters!
+NEW Postal Law May Affect Your Mail-in Ballot Announcement: "I'm Running for Illinois District 66 House of Representative!" Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

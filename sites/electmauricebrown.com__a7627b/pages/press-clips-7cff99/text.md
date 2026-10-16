@@ -12,7 +12,11 @@ They included Maurice “Mo” Brown , a democratic socialist who upset a 28-yea
 “I believe that housing, healthcare, and education are human rights,” Brown said.
 “Right now, those rights are under attack, and I’m glad that you all are standing up and fighting back.” The event was held at a church that months before stood up for two immigrant parishioners, Adrian Ramirez and Jose Criollo , who were both detained by U.S.
 Immigration and Customs Enforcement agents.
-By Rylee Kirk - September 28th 2026 Read the Full Article on Syracusedotcom Politico - The rise of Democratic socialist in local politics The ballot included Bill Magnarelli, the incumbent who has held office for nearly 30 years, and Maurice “Mo” Brown, a current Onondaga County legislator and DSA candidate.
+By Rylee Kirk - September 28th 2026 Read the Full Article on Syracusedotcom Syracuse vigil calls for release of father held in federal immigration detention Onondaga County Legislator Maurice Brown, who represents the 15th District, said the issue affects more than those currently in detention.
+“Just because they aren’t detaining me or people who talk like me, doesn’t mean I’m not under attack.
+We’re in this together...
+I’m not free until Carlos is free,” Brown said.
+By Isabel Dougherty September 13, 2026 Read Central Current Politico - The rise of Democratic socialist in local politics The ballot included Bill Magnarelli, the incumbent who has held office for nearly 30 years, and Maurice “Mo” Brown, a current Onondaga County legislator and DSA candidate.
 Brown won the primary by 104 votes .
 Until this year no one had run against Magnarelli in the primaries.
 By Cameron Bunger September 10, 2026 Read NewsHouse The Daily Orange - Syracuse city officials to hold off on closing East Adams Street section Onondaga County Legislator and Democratic nominee for state assembly Mo Brown urged the common council to seek public input in its decision.

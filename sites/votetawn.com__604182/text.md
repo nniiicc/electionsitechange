@@ -8,29 +8,37 @@ Tawn currently serves as Vice-Chair of the Washtenaw County Republican Committee
 Tawn is committed to fighting for lower taxes, stronger public safety, pro-life values, parental rights, and protecting our constitutional freedoms.
 In Lansing she will repeal the energy mandates that are driving energy costs up, reinstate right-to-work, and restore local control back to cities and townships where it belongs.
 She is running for State Senate District 14 to bring common-sense conservative leadership back to Lansing.
-Michigan Senate District 14 Tawn Beliger is running to represent the communities of District 14 District 14 includes communities in Washtenaw and Jackson Counties Where Tawn Stands Common-sense conservative solutions for Michigan families Each position below includes how Tawn will act in Lansing — and a link to the run where she laid out the details.
-Lower Taxes Cut wasteful spending and make Michigan more affordable for families and small businesses.
+Michigan Senate District 14 Tawn Beliger is running to represent the communities of District 14 District 14 includes communities in Washtenaw and Jackson Counties Where Tawn Stands Common-sense conservative solutions for Michigan families Each position is what Tawn will support in the Senate — and a link to the run where she laid out the details.
+Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment In the Senate She will support legislation to protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and protect the Second Amendment for law-abiding gun owners.
+On abortion: The Michigan Constitution (Article I, Section 28) protects the right to elective abortion until viability.
+Tawn will work within those constitutional guidelines — not outside them — to support protections for the unborn, support for mothers, and common-sense safeguards after viability.
+Learn more Right to Life — Concise Summary → Right to Life — Full Statement → On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Election Integrity Secure, fair, and transparent elections.
+Tawn has extensive experience with the election process.
+She has worked several elections as an election inspector for Northfield Township and Washtenaw County.
+She has done the job She was respected by the people she worked with and was placed as the chair for the early voting locations.
+She has seen how a polling place actually runs, from check-in to the close of the polls.
+In the Senate She supports legislation that requires proof of citizenship to register, photo ID at the polls, and regular maintenance of voter rolls so every legal vote counts — and illegal votes don’t.
+That is the standard she already worked under as an inspector and as chair.
+On the route Leg 6 · Election Integrity → Tompkins · Proof of citizenship & ID → Lower Taxes Cut wasteful spending and make Michigan more affordable for families and small businesses.
 Repeal energy mandates that are driving utility bills up, and stop Lansing from piling new costs onto working households.
-How she’ll do it In Lansing she will repeal those energy mandates, stop new costs on working households, and fight taxes on tips, overtime, and Social Security so families keep more of what they earn.
-On the route Leg 1 · Energy Policies → Leg 2 · Taxes & Cost of Living → Henrietta · Taxes & Local Control → Public Safety Support law enforcement and keep our communities safe.
-How she’ll do it She will back the men and women who keep District 14 safe, demand consequences for violent crime, and reject revolving-door justice.
-On the route Leg 4 · Public Safety & Crime → Veterans Honor those who served.
-Keep the promises made to the men and women who wore the uniform.
-How she’ll do it She will fight for veterans’ care, opportunity, and respect — and cut the red tape that stands between them and what they were promised.
-On the route Leg 9 · Support Veterans → Freedom Township · Because of People Like You → Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment How she’ll do it She will protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and stand with law-abiding gun owners.
-On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
-How she’ll do it She will put parents — not bureaucrats — at the center of education, expand school choice, and demand honesty and accountability in the classroom.
-On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
-How she’ll do it She will defend informed consent and medical freedom, keep parents in charge of their children’s care, and reject one-size-fits-all health mandates from Lansing.
-On the route Leg 14 · Make Michigan Healthy Again → Economic Freedom Cut regulations, attract jobs, and make Michigan affordable again.
+In the Senate She will support legislation to repeal those energy mandates, stop new costs on working households, and end the tax on tips, overtime, and Social Security so families keep more of what they earn.
+On the route Leg 1 · Energy Policies → Leg 2 · Taxes & Cost of Living → Henrietta · Taxes & Local Control → Economic Freedom Cut regulations, attract jobs, and make Michigan affordable again.
 Reinstate right-to-work so workers — not union bosses or Lansing — decide what’s best for their paycheck.
-How she’ll do it She will cut the regulations that chase jobs out of Michigan and reinstate right-to-work so workers decide what’s best for their own paycheck.
-On the route Leg 5 · Jobs & Economic Freedom → Election Integrity Committed to secure, fair, and transparent elections.
-How she’ll do it She will require proof of citizenship to register, photo ID at the polls, and regular maintenance of voter rolls so every legal vote counts — and illegal votes don’t.
-On the route Leg 6 · Election Integrity → Tompkins · Proof of citizenship & ID → Local Control Restore local control back to cities and townships where it belongs.
+In the Senate She will support legislation to cut the regulations that chase jobs out of Michigan and to reinstate right-to-work so workers decide what’s best for their own paycheck.
+On the route Leg 5 · Jobs & Economic Freedom → Education Excellence Empower parents, expand school choice, and demand accountability.
+In the Senate She will support legislation that puts parents — not bureaucrats — at the center of education, expands school choice, and requires honesty and accountability in the classroom.
+On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Local Control Restore local control back to cities and townships where it belongs.
 Decisions about zoning, schools, and community life should be made by neighbors — not by bureaucrats in Lansing.
-How she’ll do it She will push to return those decisions to cities and townships, and she is already showing up in every community so Lansing hears from the people who live there.
-On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Read the full platform on Leg 15 or see the whole route .
+In the Senate She will support legislation that returns those decisions to cities and townships.
+She is already showing up in every community so Lansing hears from the people who live there.
+On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Veterans Honor those who served.
+Keep the promises made to the men and women who wore the uniform.
+In the Senate She will support legislation for veterans’ care, opportunity, and respect — and to cut the red tape that stands between them and what they were promised.
+On the route Leg 9 · Support Veterans → Freedom Township · Because of People Like You → Public Safety Support law enforcement and keep our communities safe.
+In the Senate She will support legislation that backs the men and women who keep District 14 safe, requires consequences for violent crime, and ends revolving-door justice.
+On the route Leg 4 · Public Safety & Crime → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
+In the Senate She will support legislation that defends informed consent and medical freedom, keeps parents in charge of their children’s care, and rejects one-size-fits-all health mandates from Lansing.
+On the route Leg 14 · Make Michigan Healthy Again → Read the full platform on Leg 15 or see the whole route .
 Hear Tawn Two short looks at where she stands — in her own words.
 WEMU · WASHTENAW UNITED Michigan Senate candidate Tawn Beliger Tawn sat down with Decky Alexander on WEMU’s Washtenaw United about the 14th District race and what she wants to do in Lansing.
 Watch the interview → 40 DAYS FOR LIFE · ANN ARBOR Faith in life On September 27, Tawn spoke at the Seven Sundays Interfaith Jericho March.

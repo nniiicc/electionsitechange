@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate This Community Built Me My story begins in Richmond with an act of extraordinary generosity.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate This Community Built Me My story begins in Richmond with an act of extraordinary generosity.
 When I was born, my birth mother made the difficult decision to place me for adoption.
 For the first months of my life, I was cared for by the Children’s Home Society of Virginia in Richmond.
 At eight months old, I was blessed to be adopted by two wonderful parents who gave me a loving home, a strong foundation, and opportunities I never could have imagined.

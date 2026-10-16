@@ -1,9 +1,10 @@
 {
  "description": "Healthcare",
  "final_url": "https://www.accaliaforarizona.com/issues/healthcare",
- "fingerprint": "f88fb4cb92909ab49cdcba9eeb905f05d71d716f",
+ "fingerprint": "e5625fb1cad2888d86910415df43be272af0a018",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Healthcare",
  "years_mentioned": []
 }

@@ -1,4 +1,4 @@
-Her Story Her Record On The Issues Volunteer Store Donate Her Story Her Record On The Issues Volunteer Store Donate Her Story Her Record On The Issues Volunteer Store Donate On The Issues Darline’s Plan for South Carolina Economy Darline is fiercely protective of taxpayer dollars.
+Her Story Her Record On The Issues Voting Info Volunteer Store Donate Her Story Her Record On The Issues Voting Info Volunteer Store Donate Her Story Her Record On The Issues Voting Info Volunteer Store Donate On The Issues Darline’s Plan for South Carolina Economy Darline is fiercely protective of taxpayer dollars.
 She managed a $90 million budget and turned around a state agency known for inefficiency — and she brings that same standard to Washington.
 Lower taxes.
 Less waste.

@@ -1,5 +1,6 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Newsroom Campaign news, press releases, and statements.
-Press release October 6, 2026 Vukasovich Challenges Walberg’s Record on Rural Health Care Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Newsroom Campaign news, press releases, and statements.
+Press release October 12, 2026 10/12/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release October 6, 2026 Vukasovich Challenges Walberg’s Record on Rural Health Care Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
 Read more Press release October 5, 2026 10/05/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
 Read more Press release October 5, 2026 Vukasovich: Michigan Families Deserve Lower Costs, Not More Tariffs Democratic congressional candidate Christian Vukasovich is calling for action to lower costs for Michigan families following reports that Michigan households face an estimated $5,619 annual tariff burden.
 At the same time, 35.4% of children in Niles Township live below the poverty line.
@@ -40,6 +41,6 @@ Read more Press release June 6, 2026 This Week In Lenawee interview on WLEN Jun 
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

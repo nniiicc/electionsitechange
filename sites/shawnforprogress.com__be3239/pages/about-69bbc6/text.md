@@ -43,7 +43,13 @@ We are owed better from the people who are meant to represent us and our communi
 We should be getting more than stupid 'solutions' to bullshit culture wars.
 We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families.
 "We should be getting more than stupid 'solutions' to bullshit culture wars.
-We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families." Restoring Affordability Protecting Health Supporting Families Resurrecting Education Empowering Workers Conserving Communities Thanks for taking a few minutes to get to know me.
+We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families." Our priorities Fighting FOR US So, that's why I'm in this fight.
+I know what we've been, and I know what we can be again.
+But it's going to take us taking our power back from the people we've elected, who have no intention of using that power to actually improve our lives.
+We must elect people who move towards Forward Progress.
+For Us.
+My priorities for this work are listed here, and you can find more information in the issues section.
+Restoring Affordability Protecting Health Supporting Families Resurrecting Education Empowering Workers Conserving Communities Thanks for taking a few minutes to get to know me.
 If you feel like you miss that Iowa, or that any of this resonates with you, or it feels like a fight you want to join, please help me get to know you by taking a moment to fill out the form below.
 Thanks, Born Sioux City Work Teacher for Sioux City Schools Married To Mary (Horton) Olorundami 2015 Children Four kids: 8, 6, and 2 year old twins Party Democratic Party Leadership Council Member at Trinity Lutheran Church, Bargaining Team Member for ISEA, Active Transportation Advisory Committee Member for Sioux City, Co-Chair for Woodbury County Dems Communications Committee.
 Now that you know me, Help us get to know you!

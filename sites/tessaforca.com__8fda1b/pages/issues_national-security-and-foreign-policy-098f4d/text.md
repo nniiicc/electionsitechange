@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements Knock doors with us!
-Contact Donate About Issues Endorsements Knock doors with us!
-Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military National Security and Foreign Policy True strength isn’t about the weapons you wield or how intimidating you appear.
+Contact Media Kit Donate About Issues Endorsements Knock doors with us!
+Contact Media Kit Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military National Security and Foreign Policy True strength isn’t about the weapons you wield or how intimidating you appear.
 It’s about the relationships you build, the promises you keep, how you treat the less fortunate, and your ability to negotiate fairly and calmly.
 Under the current administration, our national security is at risk.
 The U.S. has alienated its allies, damaged its integrity, and shown weakness by neglecting those who need help the most.

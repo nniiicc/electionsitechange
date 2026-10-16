@@ -1,4 +1,4 @@
-Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Issues The priorities outlined here are based on conversations I’ve had with voters, educators, students, families, workers, farmers and community members across Legislative District 15 during my campaign.
+Home Meet Jayme Endorsements Make Endorsement Issues Volunteer Voter Information Contact Issues The priorities outlined here are based on conversations I’ve had with voters, educators, students, families, workers, farmers and community members across Legislative District 15 during my campaign.
 These are real concerns impacting everyday Arizonans.
 From education funding and affordability to water security, housing, agriculture, workforce development and protecting our communities, these issues reflect the needs and values people have shared directly with me on the campaign trail.
 As this campaign continues, I know there are still more conversations to have and more perspectives to hear.
@@ -45,4 +45,4 @@ These are no longer distant future problems — they are affecting public health
 We need practical, long-term planning that protects our ability to live, work, and grow sustainably in the desert.
 Sustainability is not just about the environment — it is about whether future generations will still be able to afford to live here, raise families here, and rely on the resources and infrastructure our communities depend on.
 Read More VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

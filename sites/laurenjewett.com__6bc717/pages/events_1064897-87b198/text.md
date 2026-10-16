@@ -1,8 +1,0 @@
-Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-Meet & Greet-JEFFERSON PARISH (East Bank) Available times Thursday, Oct 15, 7PM - 8:30PM — sign up on Mobilize (opens in a new tab) Where Kenner · LA About this event # 🤝 MEET & GREET WITH JAMIE DAVIS!
-## Jefferson Parish East Bank · Come Say Hello 💙 Kenner, this one's for you!
-Join **Jamie Davis**, Democratic candidate for U.S.
-Senate, for an evening meet & greet on the East Bank.
-Jamie is a farmer from Tensas Parish, and he wants to hear from Jefferson Parish families about what matters most to you.
-Shake his hand, ask your questions, and find out how you can help win this race. **Louisiana First!** 🙌 --- 🗓️ **Thursday, October 15** ⏰ **7:00 PM** 📍 **Multiplex Building** 604 Webster St., Kenner, LA 70062 --- ## 🎒 Good to Know - ❓ Come with your questions for Jamie - 🤝 Bring a friend, a neighbor, or the whole family RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
-All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
-All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

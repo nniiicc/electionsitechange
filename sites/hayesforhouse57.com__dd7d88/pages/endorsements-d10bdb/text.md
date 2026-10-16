@@ -26,13 +26,29 @@ I’m proud to endorse my friend Richard Hayes for another term representing Den
 Burt Thakur Councilman, Frisco ENDORSEMENT 08 In municipal government we can count on Richards support.
 Richard represents his constituents wisely, he’s voted in favor of border security, property tax compression, and regulatory reductions for small businesses and as an attorney with decades of experience in real estate law, business litigation, and local governance, his background in property, land development, and municipal law aligns closely with the rapid suburban and commercial growth occurring specifically across HD 57.
 Ken Eaken Deputy Mayor Pro Tem, Council Member, Little Elm ENDORSEMENT 08 I appreciate Representative Richard Hayes' service to our community, his conservative principles, and his willingness to listen to the issues facing House District 57.
-Charlotte Wilcox Mayor, Highland Village ENDORSEMENT 09 I have known Ricahrd for many years and have had the opportunity to serve alongside him on numerous board and for community organizations.
+Charlotte Wilcox Mayor, Highland Village ENDORSEMENT 08 As Mayor of Northlake, I appreciate Representative Richard Hayes' willingness to engage directly with local mayors and take the time to understand the challenges our communities face.
+With the tremendous growth occuring across Denton County, decisions made in Austin have a real impact on our towns and residents.
+Richard recognizes the importance of listening to those of us working through these challenges at the local level.
+His accessibility, open communication, and genuine interest in understanding our concerns are qualities I value in a state representative.
+Brian Montini Mayor, Town of Northlake ENDORSEMENT 09 I have known Richard for many years and have had the opportunity to serve alongside him on numerous board and for community organizations.
 I can tell you firsthand that he is someone who genuinely cares about people and our community.
 He has spent years giving both his time and financial resources to organizations and causes that make a difference in people's lives.
 He doesn't just talk about helping others; he shows up, gets involved, and does the work.
 He does it without looking for recognition or anything in return.
 In my experience, he is someone you can trust, someone who keeps his word, and someone who is always willing to lend a hand when there is a need.
-Carl Anderson President, North Texas Fair and Rodeo Association COMMUNITY VOICES What neighbors are saying Personal experiences from the people Richard represents.
+Carl Anderson President, North Texas Fair and Rodeo Association ENDORSEMENT 09 If there is a Veteran candidate running for office, should a Veteran voter cast their vote for the Veteran, just because?
+Please note, the best candidate should receive your vote.
+As a Veteran and voter my vote for best candidate will be made for Richard Hayes.
+Serving Denton County means showing up, listening, and delivering results.
+From property tax, relief and economic development to investments in roads and water infrastructure, Richard has worked to address the issues that matter most to our communities.
+His commitment to everyone in Denton County remains strong.
+Whether a Veteran or civilian of the community, Richard Hayes is a proven leader.
+Reelect Richard Hayes for Texas House district 57.
+Paul Bastaich USAF, Retired ENDORSEMENT 09 The American Icon, Abolitionist, and Republican Leader, Frederick Douglass stated about the necessity of critical leadership.
+“We have to do with the past only as we can make it useful to the present and the future." Richard Hayes, epitomizes this statement.
+His dedication, leadership skills, work ethic and ability to get constructive and forward leaning bills passed into law; empowering the Great State of Texas to lead when others are either to afraid or to insecure to act.
+As such, Chaplain Rich Stoglin, fully endorse Richard Hayes, for reelection to District 57 as State Representative for the Great State of Texas!
+Chaplain Rich Stoglin President, Frederick Douglass Republicans of Tarrant County COMMUNITY VOICES What neighbors are saying Personal experiences from the people Richard represents.
 My wife and I have had the opportunity to get to know Richard Hayes, and what we appreciate most about him is his character and the way he approaches public service.
 Richard is a conservative Republican with a strong voting record, but he is also a thoughtful, rules-based person who takes the time to understand the facts, listen to different perspectives, and consider issues on their merits.
 He is willing to meet with any constituent, regardless of political affiliation, and genuinely hear what they have to say.

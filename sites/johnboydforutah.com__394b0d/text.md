@@ -1,5 +1,4 @@
-Contribute Contact/Follow Yard Signs Policy Hot Takes Endorsement Videos 10k Doors Forward Party Welcome!
-Follow me on Instagram // Facebook Final Town Hall Thursday 10/22 @ 7 pm @ 5047 N Vialetto Way, Lehi I'm running as an independent-minded Forward Party candidate (District 53 - East Lehi/AF), to bring back innovative and respectful policy dialogue, and reduce 2-party polarization and dysfunction.
+Contribute Contact/Follow Yard Signs Policy Hot Takes Endorsement Videos 10k Doors Forward Party Follow me on Instagram // Facebook Final Town Hall Thursday 10/22 @ 7 pm @ 5047 N Vialetto Way, Lehi I'm running as an independent-minded Forward Party candidate (District 53 - East Lehi/AF), to bring back innovative and respectful policy dialogue, and reduce 2-party polarization and dysfunction.
 Check out my story below, and the policy Hot Takes page above.
 "Not Left.
 Not Right.

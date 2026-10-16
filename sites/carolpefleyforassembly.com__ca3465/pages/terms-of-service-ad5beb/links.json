@@ -1,9 +1,5 @@
 [
 {
-"text": "(650)714-3860",
-"href": "sms:6507143860"
-},
-{
 "text": "0",
 "href": "https://www.carolpefleyforassembly.com/cart"
 },
@@ -221,10 +217,14 @@
 },
 {
 "text": "carol@carolpefleyforassembly.com",
-"href": "mailto:carol@carolpefleyforassembly.com"
+"href": "mailto:Carol@carolpefleyforassembly.com?bcc=Carolforassembly%40gmail.com&subject=Opt+in"
 },
 {
-"text": "carolforassembly@gmail.com",
-"href": "mailto:carolforassembly@gmail.com"
+"text": "carol@carolpefleyforassembly.com",
+"href": "mailto:Carol@carolpefleyforassembly.com?bcc=carolforassembly%40gmail.com"
+},
+{
+"text": "carol@carolpefleyforassembly.com",
+"href": "mailto:carol@carolpefleyforassembly.com"
 }
 ]

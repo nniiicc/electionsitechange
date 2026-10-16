@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 07 Dec Today, James Marter, running for Congress in Illinois’ 14th Congressional District, highlighted his opponent’s record on taxes and spending.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 07 Dec Today, James Marter, running for Congress in Illinois’ 14th Congressional District, highlighted his opponent’s record on taxes and spending.
 While a spokesperson for Taxpayers United of America confirmed they will be officially endorsing James Marter, his opponent Lauren Underwood is not endorsed.
 In fact, Underwood has received an F Grade from the National Taxpayers Union, every year she has been in office.
 “She is no friend to the hard working taxpayers of Illinois,” Marter said.

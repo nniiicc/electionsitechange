@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release June 19, 2026 STURGIS TOWN HALL ADVISORY Congressional candidate Christian Vukasovich will host a Public Town Hall on the Sturgis Hospital Closing on Tuesday, July 28, at 6:30 p.m. at the Sturges-Young Center for the Arts, 201 N.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release June 19, 2026 STURGIS TOWN HALL ADVISORY Congressional candidate Christian Vukasovich will host a Public Town Hall on the Sturgis Hospital Closing on Tuesday, July 28, at 6:30 p.m. at the Sturges-Young Center for the Arts, 201 N.
 Nottawa St.
 Media Contact: Lenore Goldman Lenore@christian4michigan.com Christian4Michigan.com July 27, 2026 FOR IMMEDIATE RELEASE STURGIS TOWN HALL ADVISORY: US HOUSE CANDIDATE VUKASOVICH TO LEAD PUBLIC FORUM ON RURAL HOSPITAL CLOSURE STURGIS, Mich. — As concerns rise about slashed rural healthcare access, Congressional candidate Christian Vukasovich will host a Public Town Hall on the Sturgis Hospital Closing on Tuesday, July 28, at 6:30 p.m. at the Sturges-Young Center for the Arts, 201 N.
 Nottawa St.
@@ -40,6 +40,6 @@ Together we can and must change this.” ### Christian Vukasovich Running for U.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

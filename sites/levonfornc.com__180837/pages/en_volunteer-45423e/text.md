@@ -1,4 +1,4 @@
-Home About Priorities Endorsements Merch Volunteer Events Home About Priorities Endorsements Merch Volunteer Events Spanish English DONATE VOLUNTEER Phonebank on Wednesdays LEARN MORE Grab a Yardsign LEARN MORE Knock Doors on Saturdays LEARN MORE Knock Doors on Sundays LEARN MORE JOIN OUR MOVEMENT.
+Home About Priorities Endorsements Merch Volunteer Events Home About Priorities Endorsements Merch Volunteer Events Spanish English DONATE VOLUNTEER Poll Greeting LEARN MORE Phonebank on Wednesdays LEARN MORE Grab a Yardsign LEARN MORE Knock Doors on Saturdays LEARN MORE Knock Doors on Sundays LEARN MORE JOIN OUR MOVEMENT.
 Together, we can create an affordable place to live with a government that fights for us , not the lobbyists in Raleigh.
 But I can't do it without your support!
 First Name Last Name Email Phone Number By checking this box, I consent to receiving text messages, campaign communications, marketing promotions and informational messages from the Committee to Elect LeVon Barnes.

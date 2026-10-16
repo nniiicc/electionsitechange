@@ -7,6 +7,7 @@ That's why Edgar is running for the Arizona State Senate.
 He'll fight to protect public education, lower costs, support veterans, safeguard Arizona's water future, and ensure every family has the opportunity to succeed.
 For Edgar, this campaign is about service.
 He's ready to bring people together, tackle tough challenges, and be the strong voice Southern Arizona deserves at the Arizona Legislature.
-Join The Mailing List Paid For By Soto For Arizona.
+Join The Mailing List Checks can be made payable to Soto for Arizona and mailed to: 11505 N Kelly Rae Pl.
+Tucson 85737 Paid For By Soto For Arizona.
 Authorized By Edgar Soto.
 Use of military rank, job titles, photographs in uniform, or mention of military service does not imply endorsement by the United States Marine Corps, the Department of Defense, or the United States Government.

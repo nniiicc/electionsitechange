@@ -15,7 +15,7 @@ Health decisions should be made by patients/veterans and the health care profess
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Clean Iowa Does Iowa need to clean up its act?
-End the Drug War America’s second civil war needs to end Ranked Choice Voting Voters prefer Ranked Choice Voting 2nd Amendment I own, I shoot, I carry.
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts 2nd Amendment I own, I shoot, I carry.
+End the Drug War America’s second civil war needs to end Education Children learn best when they have great teachers Clean Iowa Does Iowa need to clean up its act?
 Prev Previous Mental Health Next Obscene books Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

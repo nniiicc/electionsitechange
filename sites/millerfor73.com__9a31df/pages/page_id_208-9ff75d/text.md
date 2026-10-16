@@ -1,4 +1,4 @@
-Skip to content Allen Miller for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Infrastructure Photo by Lorenza Magnaghi on Pexels.com We must hold corporations accountable for their actions.
+Skip to content Allen Miller Democrat for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Infrastructure Photo by Lorenza Magnaghi on Pexels.com We must hold corporations accountable for their actions.
 Across the state, companies take advantage of weak penalties for running overweight trucks – $ 1500 or less each time they get caught!
 This accelerates wear on public roads and increases the burden on the state budget.
 It also puts the public at risk.
@@ -15,7 +15,7 @@ Indiana was once a model for town-to-town railway travel.
 We could be again.
 #ago, you could bike to a train station in Greensburg in the morning, and spend the night in Chicago.
 Train travel is an efficient way to move a lot of people long distances, and there is a peaceful elegance to riding on a train through the rolling fields, even on an uncomfortable AMTRAK seat.
-Allen Miller for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
+Allen Miller Democrat for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
 Contact: P.O.
 Box 182 Greensburg, IN 47240 electallenmiller@proton.me ‪(812) 651-0617‬ Follow along: Facebook Instagram Threads © # all rights reserved.
 Designed with WordPress .

@@ -25,4 +25,7 @@ Fiscal Responsibility and Inflation The rising cost of living is a direct result
 I will fight against reckless spending, stop money printing that devalues our currency, and promote policies that ensure long-term economic solvency.
 Get Involved I need your help to get the anti-mandate, REAL less government message out there!
 If you can help in any way, even if it’s just making phone calls or walking through your neighborhood and telling your neighbors about the campaign, please let me know!
-Contact Me facebook twitter Copyright © # | Political ad paid for by the Jeff for State Rep District 14 Campaign
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone (Optional) What would you like to do?
+Volunteer with the campaign Help distribute door hangers Name or or Neighborhood or Zip Code (Optional) Message or Questions (Optional) Submit facebook twitter Copyright © # | Political ad paid for by the Jeff for State Rep District 14 Campaign

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to End Gerrymandering Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to End Gerrymandering Why I believe this — and how I’ll fight for it.
 Politicians should never get to pick their own voters — but that’s exactly what gerrymandering lets them do.
 The people competing for these seats, and the party bosses with their own agendas, should be the last ones allowed to draw the district lines.
 When they draw the maps, they draw themselves safe seats: no real competition, no accountability, and representation built to serve a party instead of you.

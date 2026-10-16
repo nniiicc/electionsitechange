@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=5e8d81e7d3 Weekly Capitol Update – Week of Feb.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=7baca86388 Weekly Capitol Update – Week of Feb.
 11, 2019 Home Blog Weekly Capitol Update – Week of Feb.
 11, 2019 Senator Paul Bailey delivers his weekly capitol update for the week of Feb.
 11, 2019.

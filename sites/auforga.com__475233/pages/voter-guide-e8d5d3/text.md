@@ -14,9 +14,9 @@ Absentee ballot request applications must be submitted two Fridays before Electi
 Completed ballots must be received by 7:00pm on Election Day in order to be counted.
 It is recommended to mail back your completed ballot one week before Election Day or drop it off at a drop box location.
 2026 Absentee Ballot Dates & Deadlines: August 17: First day to request absentee ballot October 5: First day ballots can be mailed October 23: Last day to request absentee ballot October 27: Recommended last day to return ballot by mail October 30: Last day to return ballot via Drop Box November 3 by 7:00pm: Last day to return ballot by mail request ballot find a dropbox Vote Early In Person Early Voting runs Tuesday, October 13 to Friday, October 30.
-Voters of State House District 50 may cast their ballot at any early voting location within Fulton County.
-Dates, times and locations will be updated when announced by the Fulton County Board of Elections.
-For more information or to view all early voting locations, click the “Early Voting Details” button below.
+Monday – Friday: 7 AM to 7 PM Saturdays, 9 AM to 5 PM Sundays, 12 AM to 5 PM Voters of State House District 50 may cast their ballot at any early voting location within Fulton County.
+The early voting locations in or nearby the district are: Northeast Spruill Oaks Library 9560 Spruill Road Johns Creek, GA 30022 Robert E.
+Fulton Ocee Library 5090 Abbotts Bridge Road Johns Creek, GA 30005 Johns Creek Environmental Campus 8100 Holcomb Bridge Road Alpharetta, GA 30022 Alpharetta Library* 10 Park Plaza Alpharetta, GA 30009 Fulton County Health & Human Services North 4700 North Point Pkwy Alpharetta, GA 30005 North Fulton Training Center 5025 Roswell Road Sandy Springs, GA 30342 * Indicates Absentee Ballot Drop Box Location For more information or to view all early voting locations, click the “Early Voting Details” button below.
 Early Voting Details Vote on Election Day Election Day is Tuesday, November 3.
 Polls are open from 7:00am to 7:00pm.
 You can only vote at your polling location on Election Day.

@@ -1,4 +1,11 @@
-Meet Jesse Issues News Volunteer Contribute News Latest updates from the campaign: 13 Oct Tuesday, 10:38 AM · 2026 Democrats Have No School Choice Excuse If Illinois political leadership passes on this credit, the students who would benefit the most will be left behind.
+Meet Jesse Issues News Volunteer Contribute News Latest updates from the campaign: 15 Oct Thursday, 9:53 AM · 2026 Trump’s Diesel Insult to Lindsey Graham "I'm focused on the local impact of unaffordable government.
+Most, if not all, of our tax burden—from damaging energy policies like CEJA to steep tolls, high state gas taxes, and unaccountable spending on NGOs—originates out of Springfield.
+By contrast, the rising cost of diesel fuel is tied directly to the Iran conflict and a domestic shortage of refineries.
+The former can be addressed in the short term; the latter requires serious, long-term planning.
+What won't fix high diesel prices is a bad deal with Putin.
+The proposed supply increase amounts to a single day's worth of fuel—an insignificant gain.
+Such a deal would reward a dictator whose track record proves he cannot be trusted, especially while he actively targets civilians and critical infrastructure.
+The Russian economy is already buckling under the weight of wartime spending; throwing Putin an economic lifeline will only prolong the war." Read more 13 Oct Tuesday, 10:38 AM · 2026 Democrats Have No School Choice Excuse If Illinois political leadership passes on this credit, the students who would benefit the most will be left behind.
 "The main benefit of the program is that it gives families more money to choose the best school, public or private.
 That might lead to more competition among schools and more student flourishing." Read more 13 Oct Tuesday, 10:31 AM · 2026 The IFI Voter Guide helps voters cut through campaign rhetoric; Order Guides for Your Church.
 The IFI Voter Guide helps voters cut through campaign rhetoric by examining candidates’ voting records, questionnaire responses, public statements, and endorsements.
@@ -240,4 +247,4 @@ Read more 21 Sep Sunday, 7:48 PM · 2025 Poll: 50% of Illinois residents would m
 As a contractor serving residential customers, I can confirm many homeowners are fixing their homes and heading out of state to Texas, Tennessee and Florida.
 For a time, I found customers were also leaving the country, for Costa Rica, Portugal and Spain.
 This article helps explain why?
-Read more Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

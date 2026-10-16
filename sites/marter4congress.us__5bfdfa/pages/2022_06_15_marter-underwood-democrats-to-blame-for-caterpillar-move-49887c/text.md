@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 15 Jun James Marter, running in the Republican Primary to oppose Lauren Underwood, called out his Democrat opponent for favoring partisan politics over representing Illinois’ 14th District.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 15 Jun James Marter, running in the Republican Primary to oppose Lauren Underwood, called out his Democrat opponent for favoring partisan politics over representing Illinois’ 14th District.
 “Lauren Underwood has made the Biden Agenda her guidebook.
 She has done nothing to put forth policies that benefit the people of her district, of which I’m one,” said Marter.
 “The latest example is Caterpillar’s announcement that they are moving from Illinois to Texas, taking jobs and revenue with them.

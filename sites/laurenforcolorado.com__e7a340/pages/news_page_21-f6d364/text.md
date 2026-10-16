@@ -1,12 +1,12 @@
-Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News The Denver Post: Garfield County owner of gun-friendly Shooters Grill is running for Congress 12.8.2019 - News Article Republican Lauren Boebert will challenge Republican incumbent Scott Tipton.
+Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News KOAA NBC News 5 Southern Colorado: Boebert: “We don’t want government to be our nanny, we just want our freedom” 12.8.2019 - News Article COLORADO SPRINGS, Colorado — A conservative restaurant owner from the Western Slope is challenging Scott Tipton for the Republican nomination in 3rd Congressional District.
+Lauren Boebert owns the Shooters Grill in Rifle, Colorado where the waitstaff open-carry handguns in hip-holsters.
+Read More The Denver Post: Garfield County owner of gun-friendly Shooters Grill is running for Congress 12.8.2019 - News Article Republican Lauren Boebert will challenge Republican incumbent Scott Tipton.
 Read More Grand Junction Daily Sentinel: Tipton has GOP Primary Challenger 12.8.2019 - News Article Rifle restaurant owner Lauren Boebert announces she will challenge Tipton in Republican Primary.
 Read More PREV.
 PAGE 1 2 3 4 5 &mldr; 17 18 19 20 21 NEXT PAGE Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I would like to receive text messages from Lauren Boebert for Congress By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
 No consent is required to buy.
 Msg&data rates may apply.
-Text JOIN to 80306 to opt in.
-Reply HELP for help or STOP to opt out at any time.
 SMS information is not rented, sold, or shared.
 Donate Facebook Twitter Instagram Youtube Home About Lauren Accomplishments Endorsements News Media Get Involved Pledge store Contact Lauren Boebert for Congress PO Box 2026 Elizabeth, CO 80107 Paid for By Lauren Boebert for Congress.
 Approved by Lauren Boebert. copyright Lauren Boebert for Congress, All Rights Reserved. | Privacy Policy By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Lauren for CO.

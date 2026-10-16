@@ -1,0 +1,2 @@
+Home Meet David Issues Photos News Endorsements News / Rolling Blackouts in Pacifica & Montara 15 Oct Thursday, 9:31 AM · 2026 Rolling Blackouts in Pacifica & Montara Add your expanded detail here.
+Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

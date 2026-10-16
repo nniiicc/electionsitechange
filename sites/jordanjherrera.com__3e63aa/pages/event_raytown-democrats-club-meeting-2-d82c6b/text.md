@@ -1,4 +1,5 @@
-Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact « All Events Raytown Democrats Club Meeting October 15 @ 6:00 pm - 8:00 pm CDT « UEJaCo Democrats Club Meeting South KC Democrats Club Meeting » Join fellow Democrats for the Raytown Democrats club meeting.
+Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact « All Events This event has passed.
+Raytown Democrats Club Meeting October 15 @ 6:00 pm - 8:00 pm CDT « UEJaCo Democrats Club Meeting South KC Democrats Club Meeting » Join fellow Democrats for the Raytown Democrats club meeting.
 All are welcome, whether you’re a longtime member or just getting involved.
 Come connect with your community and learn how you can support Democratic candidates in your area. 🇺🇸💙 #MO04 Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 15 Time: 6:00 pm - 8:00 pm CDT Event Category: Democratic Clubs Organizer Raytown Democrats Venue Las Chili’s 6210 Raytown Trafficway Raytown , MO 64133 United States + Google Map Phone 8163566330 View Venue Website « UEJaCo Democrats Club Meeting South KC Democrats Club Meeting » ** This calendar is maintained for informational purposes only.
 It is intended to notify constituents and members of the public about where the candidate will be present and speaking.

@@ -1,6 +1,6 @@
 0 Skip to Content Meet Elliott Issues Videos Events Volunteer Donate Elliott Herneker for District 34a Donate Now Open Menu Close Menu Meet Elliott Issues Videos Events Volunteer Donate Elliott Herneker for District 34a Donate Now Open Menu Close Menu Meet Elliott Issues Videos Events Volunteer Donate Donate Now Campaign Videos , • 4/14/26 Elliott Herneker Stands Up Against Data Centers in Harford County When developers pushed to expand data centers in Harford County, Elliott Herneker showed up to the council meeting and made his voice heard.
 More data centers mean higher energy costs for families, strain on local infrastructure, and a state government that prioritizes corporate interests over the people who actually live here.
 Elliott is running for District 34A to make sure Harford County families have someone fighting for them in Annapolis.
-Next Addressing the Rising Cost of Living in Harford County You Might Also Like History Trivia at the Italian Festival Addressing the Rising Cost of Living in Harford County Herneker for district 34a Donate Now Authorized by Elliott J.
+Next Addressing the Rising Cost of Living in Harford County You Might Also Like Addressing the Rising Cost of Living in Harford County History Trivia at the Italian Festival Herneker for district 34a Donate Now Authorized by Elliott J.
 Herneker for District 34A, Steven Herneker, Treasurer © # Elliott J.
 Herneker for District 34A Follow our campaign Linktree Facebook Instagram Contact ejhfordistricta@gmail.com

@@ -27,6 +27,11 @@ Nebraskans for Loren Lippincott will continue to adhere to this Policy with resp
 Links to Other Websites Our website does contain links to affiliate and other websites.
 Nebraskans for Loren Lippincott does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites.
 This Privacy Policy Agreement applies only and solely to the information collected by our website.
+Third-Party Services Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
+Our website may contain links to third-party websites or services.
+We are not responsible for the privacy practices or content of such third parties.
+We encourage you to review the privacy policies of those third parties when accessing their websites or services.
 Notice to European Union Users Nebraskans for Loren Lippincott's operations are located primarily in the United States.
 If you provide information to us, the information will be transferred out of the European Union (EU) and sent to the United States.
 By providing personal information to us, you are consenting to its storage and use as described in this Policy.
@@ -36,6 +41,19 @@ Only employees who need the information to perform a specific job are granted ac
 The computers and servers in which we store personally identifiable information are kept in a secure environment.
 Acceptance of Terms By using this website, you are hereby accepting the terms and conditions stipulated within the Privacy Policy Agreement.
 If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites.
+Terms and Conditions Mobile Messaging Program Consent By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Nebraskans for Loren Lippincott: Polling/Voting Text Messages: Such as election reminders and opinion polls.
+Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
+Opt-In Methods Completing a sign-up form on our website and checking the text message consent box.
+Providing explicit consent in any other manner as indicated by Nebraskans for Loren Lippincott.
+Message Terms Messages may be sent using an autodialer or similar technology.
+Message frequency may vary depending on your interaction with the Program.
+Standard message and data rates may apply.
+Wireless carriers are not liable for delayed or undelivered messages.
+STOP Command To stop receiving messages, text STOP at any time.
+You will receive a confirmation text confirming you have been unsubscribed.
+After this, you will no longer receive messages from the Program unless you opt back in.
+HELP Command For help, text HELP or contact us at info@lorenlippincott.com or (402) 730-3667 .
+You will receive instructions on how to use the service.
 How to Contact Us If you have any questions or concerns regarding this Privacy Policy, please contact us at: info@lorenlippincott.com Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
 Share

@@ -9,7 +9,7 @@ View his remarks in Saginaw with Sheriffs Federspiel and Holzinger here .
 View his remarks in Reese with the Michigan Corn Growers Association here .
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
 ### Hinson Peed Previous Previous AD: ABDUL THREATENS OUR NATION’S VALUES AND SECURITY Next Next REP.
-POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

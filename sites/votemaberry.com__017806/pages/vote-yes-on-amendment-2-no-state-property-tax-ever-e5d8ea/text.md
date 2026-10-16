@@ -14,6 +14,4 @@ Protecting taxpayers should be a lasting commitment, and Amendment 2 gives voter
 When you cast your ballot this November, make sure you complete the constitutional amendment questions and vote YES on Amendment 2 .
 No state property tax.
 Ever.
-Post navigation Campaign Kick-Off & Fundraiser https://votemaberry.com/wp-content/uploads/2025/10/Campaign-Kickoff-1130x565.webp Two Years of Results for District 68 https://votemaberry.com/wp-content/uploads/2026/10/record-1130x565.jpg Leave a Reply Cancel Reply Your email address will not be published.
-Required fields are marked * You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
-Type in the text displayed above Δ About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer
+Post navigation Campaign Kick-Off & Fundraiser https://votemaberry.com/wp-content/uploads/2025/10/Campaign-Kickoff-1130x565.webp Two Years of Results for District 68 https://votemaberry.com/wp-content/uploads/2026/10/record-1130x565.jpg About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

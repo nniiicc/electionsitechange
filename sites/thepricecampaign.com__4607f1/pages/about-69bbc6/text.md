@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give I could sit at home and complain, or I could do something about it.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give I could sit at home and complain, or I could do something about it.
 I’m Samuel Price.
 I build software for a living, and I’m the Democrat running to represent Cainhoy, Daniel Island and Hanahan in the State House.
 Why I’m running I’ve called Berkeley County home for the past 15 years, and this state for the past 30.

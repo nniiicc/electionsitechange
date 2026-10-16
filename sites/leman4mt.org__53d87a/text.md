@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Republican for Montana House District 60 Fighting for Montana values, lower taxes, and stronger communities in House District 60.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Republican for Montana House District 60 Fighting for Montana values, lower taxes, and stronger communities in House District 60.
 Donate Volunteer Learn More Montana Common Sense Meet Greg I am not a politician.
 I never imagined that I would run for office.
 I'm a technology consultant.

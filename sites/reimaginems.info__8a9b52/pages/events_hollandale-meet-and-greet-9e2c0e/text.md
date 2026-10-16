@@ -1,0 +1,6 @@
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Back to All Events Hollandale Meet and Greet Friday, October 16, 2026 10:30 AM 11:00 AM Dollar General 123 East Avenue South Hollandale, Mississippi, 38748 United States (map) Google Calendar ICS Previous Previous October 14 Liberty Meet and Greet Next Next October 16 Greenville Meet & Greet at The Lunch Basket Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

@@ -54,4 +54,4 @@ Changes to this Privacy Policy We may update this Privacy Policy from time to ti
 We will post the updated version to this page, including the date it was updated and the changes will be effective on posting.
 We also reserve the right to give notice of the changes in other ways as well.
 Questions?
-If you have any questions, please contact us at [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+If you have any questions, please contact us at [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

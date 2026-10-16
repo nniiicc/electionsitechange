@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Economic Security Many of us are denied a basic standard of living .
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Foreign Policy Community-based Projects Universal Health Care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Retirement Priorities Economic Security Many of us are denied a basic standard of living .
 We live paycheck to paycheck, can barely afford housing, food, and other necessities to thrive.
 It's not just us as individuals, but us as communities and neighborhoods that aren't able to meet their basic and essential needs sustainably.
 We have a right to a life that uplifts and empowers all.

@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release October 6, 2026 Vukasovich Challenges Walberg’s Record on Rural Health Care Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release October 6, 2026 Vukasovich Challenges Walberg’s Record on Rural Health Care Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
 Vukasovich Challenges Walberg’s Record on Rural Health Care MONROE, Mich. — Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
 The permanent closure of Sturgis Hospital this summer underscores the consequences of failing to protect rural health care, Vukasovich said.
 He criticized Walberg’s support for legislation that cuts Medicaid funding and threatens services rural families depend on.
@@ -9,6 +9,6 @@ He criticized Walberg’s support for legislation that cuts Medicaid funding and
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

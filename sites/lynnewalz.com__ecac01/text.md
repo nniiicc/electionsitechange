@@ -39,10 +39,10 @@ Stay Connected Used for the like, share, comment, and reaction icons (opens in a
 Nebraskans came out to tell us what they need from their state government.
 Now I'm asking you to vote for a government that works for our families.
 Early voting is open — make a plan at iwillvote.com today ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 376 Shares: 13 Comments: 28 28 Comments Comment on Facebook Play When it's your money, you know exactly where every dollar goes.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 541 Shares: 27 Comments: 47 47 Comments Comment on Facebook Play When it's your money, you know exactly where every dollar goes.
 As a State Senator, I fought to keep politicians from sneaking tax breaks to their wealthy donors, worked with Republicans to cut spending, and balanced the budget.
 As Governor, I'll make sure government answers to you. ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 212 Shares: 43 Comments: 29 29 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 222 Shares: 47 Comments: 33 33 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 Lynne Walz @lynnewalz · 11 Oct 2109371123615810041 Proud to have Senator McCollister’s support in this fight.
 Together, we can get Nebraska back on track and ensure every Nebraskan has a seat at the table.
@@ -100,55 +100,55 @@ Nights like this are the best part of this job.
 Great turnout at the Depot tonight and a lot of honest conversation about what Nebraskans are facing right now - and the kind of leadership it`s going to take to change it.
 Forty days to go.
 Let`s finish strong!
-70 1 Open post by lynne_walz with ID 18030606014884630 Thank you, Blair!
+72 1 Open post by lynne_walz with ID 18030606014884630 Thank you, Blair!
 Nights like this are the best part of this job.
 Great turnout at the Depot tonight and a lot of honest conversation about what Nebraskans are facing right now - and the kind of leadership it`s going to take to change it.
 Forty days to go.
 Let`s finish strong! ...
-70 1 lynne_walz Sep 24 40 days out, and we`re not slowing down.
+72 1 lynne_walz Sep 24 40 days out, and we`re not slowing down.
 Ben and I are talking to voters across Nebraska, from Valentine to Hastings and Scottsbluff to Lincoln - and it`s worth every mile.
 Let`s get it done!
-70 2 Open post by lynne_walz with ID 17955697458018017 40 days out, and we`re not slowing down.
+72 2 Open post by lynne_walz with ID 17955697458018017 40 days out, and we`re not slowing down.
 Ben and I are talking to voters across Nebraska, from Valentine to Hastings and Scottsbluff to Lincoln - and it`s worth every mile.
 Let`s get it done! ...
-70 2 lynne_walz Sep 24 Washington County, I`m headed your way!
+72 2 lynne_walz Sep 24 Washington County, I`m headed your way!
 I`ll be at Blair Deport at Lion`s Park tonight at 5:30 for a meet-and-greet and listening session.
 Come say hello, and bring a neighbor!
 I can`t wait to hear what`s on your mind.
-13 0 Open post by lynne_walz with ID 17906142426556964 Washington County, I`m headed your way!
+16 0 Open post by lynne_walz with ID 17906142426556964 Washington County, I`m headed your way!
 I`ll be at Blair Deport at Lion`s Park tonight at 5:30 for a meet-and-greet and listening session.
 Come say hello, and bring a neighbor!
 I can`t wait to hear what`s on your mind. ...
-13 0 lynne_walz Sep 24 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
+16 0 lynne_walz Sep 24 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
 He`s hearing that Nebraskans are tired of being talked at instead of listened to, and tired of finding out about decisions after they`re made.
 Ben and I will govern openly and honestly - because that`s the only way it works.
-93 2 Open post by lynne_walz with ID 18022216736871792 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
+95 2 Open post by lynne_walz with ID 18022216736871792 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
 He`s hearing that Nebraskans are tired of being talked at instead of listened to, and tired of finding out about decisions after they`re made.
 Ben and I will govern openly and honestly - because that`s the only way it works. ...
-93 2 lynne_walz Sep 21 We had a great weekend out on the campaign trail!
+95 2 lynne_walz Sep 21 We had a great weekend out on the campaign trail!
 We marched in the Applejack Festival Parade in Nebraska City and stopped by the Free Speech Society meeting to talk with folks about the issues that matter most.
 Nebraska values are running strong and taking us through Election Day!
-73 0 Open post by lynne_walz with ID 17947093818338222 We had a great weekend out on the campaign trail!
+75 0 Open post by lynne_walz with ID 17947093818338222 We had a great weekend out on the campaign trail!
 We marched in the Applejack Festival Parade in Nebraska City and stopped by the Free Speech Society meeting to talk with folks about the issues that matter most.
 Nebraska values are running strong and taking us through Election Day! ...
-73 0 lynne_walz Sep 20 Washington County - let`s meet!
+75 0 lynne_walz Sep 20 Washington County - let`s meet!
 Join me on Thursday, September 24 at 5:30pm at the Blair Deport for a meet-and-greet.
 Bring your neighbors, bring your questions.
 See you there!
-12 0 Open post by lynne_walz with ID 18073974740457770 Washington County - let`s meet!
+14 0 Open post by lynne_walz with ID 18073974740457770 Washington County - let`s meet!
 Join me on Thursday, September 24 at 5:30pm at the Blair Deport for a meet-and-greet.
 Bring your neighbors, bring your questions.
 See you there! ...
-12 0 lynne_walz Sep 18 Great to be in Humboldt today for the Richardson County Fair Parade -- and even better to be in my running mate Ben Steffen`s hometown!
+14 0 lynne_walz Sep 18 Great to be in Humboldt today for the Richardson County Fair Parade -- and even better to be in my running mate Ben Steffen`s hometown!
 Thank you to everyone who came out and welcomed us.
 There`s nothing like a Nebraska small-town parade.
-120 4 Open post by lynne_walz with ID 18182630557423268 Great to be in Humboldt today for the Richardson County Fair Parade -- and even better to be in my running mate Ben Steffen`s hometown!
+122 4 Open post by lynne_walz with ID 18182630557423268 Great to be in Humboldt today for the Richardson County Fair Parade -- and even better to be in my running mate Ben Steffen`s hometown!
 Thank you to everyone who came out and welcomed us.
 There`s nothing like a Nebraska small-town parade. ...
-120 4 lynne_walz Sep 16 Happy National Voter Registration Day!
+122 4 lynne_walz Sep 16 Happy National Voter Registration Day!
 Check your status at iwillvote.com.
-80 2 Open post by lynne_walz with ID 18340858438265390 Happy National Voter Registration Day!
+82 2 Open post by lynne_walz with ID 18340858438265390 Happy National Voter Registration Day!
 Check your status at iwillvote.com. ...
-80 2 Load More Follow on Instagram Help Lynne Bring Nebraska Together.
+82 2 Load More Follow on Instagram Help Lynne Bring Nebraska Together.
 Donate Volunteer Facebook Instagram X-twitter Facebook Instagram X-twitter Media inquires: press@lynnewalz.com Contact inquires: info@lynnewalz.com PAID FOR BY LYNNE WALZ FOR nebraska PO Box 241040 Omaha NE 68124 Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Endorse Volunteer Donate Facebook Instagram X-twitter Join Lynne and Ben!
 Chip in to the campaign below $10 $50 $250 $25 $100 $500 Continue to Site

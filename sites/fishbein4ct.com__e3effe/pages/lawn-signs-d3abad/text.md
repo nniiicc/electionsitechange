@@ -4,7 +4,6 @@ Msg & data rates may apply.
 Reply HELP for assistance.
 Reply STOP to opt out at any time.
 Terms & Conditions + Privacy Policy apply.
-Submit News EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
-MORE Information About Local Amazon Delivery Drones CT Families Are Taxed Enough Are Drone Deliveries Coming To Wallingford And Middlefield?
-Fishbein for Connecticut - Jo-Anne L.
+Submit News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
+MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

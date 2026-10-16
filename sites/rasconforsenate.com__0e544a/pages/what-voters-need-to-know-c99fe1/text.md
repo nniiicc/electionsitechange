@@ -1,6 +1,6 @@
 Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate What Voters Need To Know About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate What Voters Need To Know SARAH RASCÓN PROTECTED OUR LAND.
-SARA HERNANDEZ GOT PAID TO DEVELOP IT.
-Sara Hernández spent eight years as a corporate attorney for big developers — at a law firm that represents data centers.
+SARA HERNANDEZ GOT PAID AS A LOBBYIST FOR BIG DEVELOPERS.
+Sara Hernández spent eight years as a corporate attorney for big developers — at a law firm that represents data-centers investors.
 Now Big Tech corporations and billionaires are spending millions to put her in the State Senate.
 Sarah Rascón was raised in El Sereno by her immigrant grandmother, and she was the first in her family to finish college.
 She has spent her career protecting the parks, the hillsides and the water we depend on and serving as a planning commissioner in East LA, where she was one of the people deciding what got built in our neighborhoods.
@@ -17,15 +17,13 @@ Built job-training and STEM programs for local youth.
 Has worked in local government to improved coordination on homelessness, mental health access, affordable housing, school safety, and wildfire recovery.
 Has worked directly with rapid response groups doing community patrols and resource distribution to protect neighbors from ICE.
 Helped move forward 100% affordable housing and shelter projects, and gave foster youth a real voice in shaping public policy.
-Description Work to end corporate subsidies so billionaires pay their fair share.
+In The State Senate, Sarah Will: Work to end corporate subsidies so billionaires pay their fair share.
 Support single-payer, universal health care.
 Fight for more affordable housing and stronger renter protections.
 Champion fully funded toxic cleanups, tougher air quality enforcement, tree equity in communities with the least canopy cover, and green jobs.
 Expand investment in public education and grow career and technical education programs.
 Protect entertainment industry jobs CONTRAST POINTS A 49-megawatt data center just went up in our district, in Vernon.
-There was no hearing.
-No environmental review.
-No notice to a single neighbor.
+People in nearby neighborhoods, like Boyle Heights, didn't have to be told about the project before the city approved it.
 Not because anyone broke the rules — because the rules were written that way.
 Vernon has since run out of electricity and stopped taking new requests.
 The next State Senator votes on whether any of us ever gets a say.
@@ -38,7 +36,7 @@ When Sacramento tried to make them pay their own power costs, Big Tech gutted it
 Now the super PAC they filled with $10 million is spending here to pick our next State Senator.
 For eight years, Sara Hernández was a corporate development lawyer at DLA Piper in Century City — the people big companies hire to get their approvals.
 That firm advertises a data center practice on its own website: "hyperscale and large-scale development," with Blackstone, AirTrunk and Digital Realty among the named clients.
-While she was there, the firm advised HMC Capital on a $2.74 billion deal built around data centers.
+During her time at DLA Piper, the firm advised HMC Capital on the launch of a US $2.74 billion real-estate investment trust focused on data centers in the United States and Australia.
 Today, tech and AI executives are spending to put her in the State Senate.
 Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E.
 Ocean Blvd., Ste.

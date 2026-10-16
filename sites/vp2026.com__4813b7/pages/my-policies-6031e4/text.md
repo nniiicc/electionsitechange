@@ -4,7 +4,7 @@ Marginal Tax rate of 90% on anyone making over One Million a year, lower taxes o
 "Shrinkflation" must be posted on labels or just made illegal, and a BAN on surge pricing, the cost of the item does not change after a company has purchased it, it should not be more expensive because the company is tracking your spending habits or the time of day.
 Ban flock camera systems!
 The surveillance state should be fought against, we don't need to constantly be monitored when we leave our houses, we should have the freedom to travel in privacy.
-Medicare/Soonercare for all, including vision and dental.
+Medicare/Soonercare for all, including vision, dental and hearing.
 Retirement age is lowered to 60, especially government.
 Universal Basic Income, $2,000 a month for anyone making under $32,000 a year, to help lift those out of the poverty threshold.
 End child labour and child marriage.
@@ -54,7 +54,9 @@ Recreational and decriminalization, tax it and free non violent offenders.
 Online services cannot charge more without improving experience or adding services, anything sold in Oklahoma must have an unsubscribe button on their website that allows one click cancellations, they are not allowed to mandate phone calls or emails for cancellations for products or services.
 Stop the invasive and unsafe request of ID for adult sites, the websites have been hacked and will be again, there is no reason to peak into someone's bedroom.
 It's weird and government overreach.
-Food/delivery services discounts must include the taxes and fees, app based services must pay for insurance for drivers.
+Food/delivery services discounts must include the taxes and fees, app based services must pay for insurance for drivers, companies cannot force a “minimum delivery” requirement for drivers, if a company wants to claim they’re about the employee, they need to reflect that, no one should be forced to drive miles for $3.
+These are billion dollar services.
+You generate the wealth, you deserve more.
 Net Neutrality, internet service providers cannot discriminate on services or throttle speeds, they cannot play favorites and shape the internet for the user, would also have stipulations that no Oklahoman is censored on any platform.
 Right to repair for all purchased items, from electronics, to vehicles, to appliances, all manuals would need to include each replaceable part and a resource to buy it from, be it third party or otherwise.
 Create a law that would ban reselling of any sealed item within five years of it's release date above the MSRP, scalpers need to get jobs and stop emptying shelves to pay bills and actually contribute to the economy.

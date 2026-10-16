@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse 2021 Legislative Survey Results by Cindy Ledbetter Posted on April 9, 2021 The results of the 2021 legislative survey are below.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety 2021 Legislative Survey Results by Cindy Ledbetter Posted on April 9, 2021 The results of the 2021 legislative survey are below.
 Out of 34,251 voters in the 2020 general election 1015 completed the survey for a total of 0.03 %.
 I ask that everyone keep an eye out for next years survey, I am here to work for you and I want to hear your voice.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...

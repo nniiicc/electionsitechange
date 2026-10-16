@@ -1,6 +1,11 @@
 top of page Anne Weisberg for State Representative Home About Anne Volunteer Privacy Policies Issues Newsletters Trail Tales Where They Stand Anne In the News Voting information More Use tab to navigate through the menu items.
 Candidate for the 108th State Assembly District: New Fairfield, Sherman, New Milford, & Danbury September 2026 Newsletter Anne's Newsletters Welcome to our campaign’s newsletters, designed to keep you up to date on all things campaign related.
 Please share this newsletter with three of your friends; they can sign up to receive communications here !
+October 2026 Newsletter Early voting starts this Monday, October 19.
+The time has arrived!
+We are coming to you with two important asks: Make a plan to vote.
+Get 3 friends to make a plan to vote.
+Read more .
 September 2026 Newsletter I hope to see you at the “Meet the Candidates” event hosted by the New Fairfield/Sherman Democratic Town Committees this Saturday, Sept.
 19.
 This will be one of the last chances to hear us speak on our issues before early voting starts!

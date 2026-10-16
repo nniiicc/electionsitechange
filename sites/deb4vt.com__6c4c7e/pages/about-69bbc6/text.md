@@ -1,4 +1,4 @@
-Home About Calendar of Events Home About Calendar of Events More Home About Calendar of Events Home About Calendar of Events About Me My background I'm a Shelburne neighbor, small business owner, and deeply invested member of this community.
+Home About Calendar of Events Privacy Policy Terms and Conditions Home About Calendar of Events Privacy Policy Terms and Conditions More Home About Calendar of Events Privacy Policy Terms and Conditions Home About Calendar of Events Privacy Policy Terms and Conditions About Me My background I'm a Shelburne neighbor, small business owner, and deeply invested member of this community.
 My husband Stephen and I moved to Vermont in 2004, settling first in the neighboring town of Charlotte before making Shelburne our home in 2016.
 We raised our two children here in the Champlain Valley School District, and are now proud grandparents of two.
 Over the years I've had the privilege of serving this community in ways that go beyond business.

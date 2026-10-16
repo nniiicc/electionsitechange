@@ -1,9 +1,10 @@
 {
  "description": "When you opt in to the service, we will send you a message to confirm your signup. By opting into this service, you can expect to receive [message types] from [brand]. Message and data rates may apply. Message frequency varies. Text ‘HELP’ for help. Text ‘STOP’ to cancel.You can cancel this service at any time by texting ‘STOP’. After you send ‘STOP’, we will reply to confirm that you have been unsubscribed.",
  "final_url": "https://www.mikethompsonforcongress.com/terms",
- "fingerprint": "1feff46615e7d9b65fcef67e2a1bcb1428bd37eb",
+ "fingerprint": "74ea7ff91ea3e8544f4149e1cde6776d7ea7517a",
  "format": 3,
  "paid_for_by": "Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions",
+ "rendered": false,
  "title": "Terms & Conditions | Mike Thompson for Congress",
  "years_mentioned": []
 }

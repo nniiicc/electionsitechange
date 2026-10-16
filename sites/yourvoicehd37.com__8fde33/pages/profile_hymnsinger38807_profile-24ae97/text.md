@@ -8,7 +8,7 @@ I learned a LOT, and I'm anxious to share with you what I learned.
 What did I learn from Use Your Voice: A Civil Conversation on Tax Policy?
 I learned how little I actually knew about Montana Tax Policy, the tax code, and how it works!
 Based on that, and what I learned from our bipartisan panel of experts, here is my official campaign...
-24 0 Mar 16, 2026 ∙ 3 min Your (Almost) Daily Update!
+25 0 Mar 16, 2026 ∙ 3 min Your (Almost) Daily Update!
 3/15 A few years ago, but you get the picture!
 Hello everyone and welcome!
 It's been a whirlwind week, but thankfully, I have had a few minutes of downtime here and there.

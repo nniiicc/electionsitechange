@@ -1,4 +1,4 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 The State Should Not Balance Its Budget on Broken Homes SJR 504 is on your November ballot.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 The State Should Not Balance Its Budget on Broken Homes SJR 504 is on your November ballot.
 If it passes, every phone in South Dakota becomes a casino, and I am asking you to vote no.
 Pillar M : Gambling Gambling Families First I respect the choices adults make.
 If a South Dakotan wants to play video lottery after work, or put twenty dollars on a football game in Deadwood, that is his business and not mine.
@@ -58,7 +58,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

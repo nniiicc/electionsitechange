@@ -1,5 +1,8 @@
 top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search BOB FIORETTI CANDIDATE FOR ILLINOIS ATTORNEY GENERAL Welcome to our blog, stay up to date.
-All Posts safe t act Join Us for Our Road to Victory Final Event before Election Day!
+All Posts safe t act On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour CAMPAIGN UPDATE • OCT 2026 DISPATCH FROM THE TRAIL Showing Up for the People of Illinois.
+From town halls to the Lincoln-Douglas debate stages, Bob Fioretti is crisscrossing the state with an uncompromising commitment: putting justice, civil rights, education, and public safety back into the hands of Illinois citizens—free from special interests.
+Fuel the Campaign Grassroots donations keep us independent and competitive in all 102 counties.
+Join Our Team Volunteer to knock do - #ago 2 min read Join Us for Our Road to Victory Final Event before Election Day!
 Official Campaign Celebration Join Us for Our Road to Victory Final Event before Election Day!
 The momentum is building—stand with our campaign for one final gathering.
 When & Where Tuesday, October 20, 2026 Time: 5:30 PM – 6:30 PM Location: Bourbon Street 115 3359 W 115th Street Merrionette Park, IL Complimentary free on-site parking is available for all attendees.
@@ -9,11 +12,7 @@ INTEGRITY • ACCOUNTABILITY • PUBLIC SAFETY STAND WITH BOB FIORETTI As a dedi
 Join us on Friday, Oct.
 16, from 1:30 to 3:30 p.m. at the Lincoln-Douglas Debate Museum Auditorium.
 The event is part of Bob Fioretti's planned series scheduled during the same historic time frame as the Lincoln-Douglas debates of 1858.
-Bob believes the goal is to carry - Oct 8 3 min read Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold You are invited...
-Hear From Distinguished Leaders An exclusive opportunity to spend an afternoon with Bob Fioretti and hear remarks from former U.S.
-Senator Mark Kirk and former Congressman Robert Dold.
-Date & Time Sunday, October 11, 2026 12:00 PM – 2:00 PM Location Distinguished Private Residence Northbrook, IL 60062 (Address provided upon RSVP) Luncheon Hosts Alberto & Josette Weber Al & Kathy Salvi T.J.
-Brown & Richard Porter Giving Levels Contribution levels begin at $1 - Oct 6 1 min read EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Bob believes the goal is to carry - Oct 8 3 min read EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

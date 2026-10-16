@@ -1,8 +1,13 @@
 Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Campaign Events Upcoming events and appearances from Brandon Herrera 17 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST Join Brandon Herrera, Texas Congressional District 23 Republican Nominee, for a Sign Wave + Sign Pickup at Black Rifle Coffee in San Antonio, TX.
 Every Saturday, 10–11 AM.
 Grab a yard sign, meet the team, and help wave signs.
-More Info Volunteer Event 18 Oct Early Voting Kickoff Rally 5:00 PM - 6:00 PM CST Join Brandon Herrera at Crown Ridge Banquet Hall to kick off early voting!
-Special guests to be announced soon.
+More Info Volunteer Event 18 Oct Early Voting Kickoff Rally with Ken Paxton!
+5:00 PM - 6:00 PM CST Join Ken Paxton and Brandon Herrera at Crown Ridge Banquet Hall for an Early Voting Kickoff Rally!
+Special guests include Mark Texeira, Dr.
+Edgardo Baez, and more.
+Doors open at 4:00 PM.
+The event runs from 5:00 PM to 6:00 PM.
+Register to attend at brandonherreraforcongress.com/earlyvoting.
 More Info Rally 19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST Join Brandon Herrera for a town hall at Parker’s Ice Cream in Fair Oaks Ranch.
 Hear Brandon’s message and bring your questions!
 More Info Town Hall 21 Oct Maverick County Town Hall – Maverick County Lake Pavilion 6:30 PM - 7:30 PM CST Join Brandon Herrera for a town hall at the Maverick County Lake Pavilion in Eagle Pass.

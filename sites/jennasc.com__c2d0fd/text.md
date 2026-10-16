@@ -15,7 +15,9 @@ Enough with the performative culture wars in Columbia.
 Real people deserve real change.
 My leadership is practical, transparent, rooted in community, and driven by compassion.
 That's what Columbia needs because what we have isn't working.
-Learn more Read below for some of our top priorities Lifting Up Our Economy Accountable Leadership Standing With Women Investing In Our children Responsible Growth View More Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other We are strongly supporting Jenna Arsenault for SC House 112 Vote Make a plan to vote!
+Learn more Our Priorities what matters most?
+Putting People First Our top priorities focus on making life more affordable, safe, and equitable for everyday people.
+Lifting Up Our Economy Accountable Leadership Standing With Women Investing In Our children Responsible Growth View More Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other We are strongly supporting Jenna Arsenault for SC House 112 Vote Make a plan to vote!
 Election Day Tues.
 11/3/26 Early Voting 10/19 - 10/31/26 Mail-in Voting Request Now Check if you're registered to vote Register to vote Request an absentee/mail ballot Early voting info sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By providing your email and/or phone number, you consent to receive recurring emails and text messages from Jenna Arsenault for SC with campaign updates, news, events, and fundraising efforts.
 Message and data rates may apply.

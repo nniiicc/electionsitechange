@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Safety × Out here, safety isn't an elective government program or a luxury service.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Montana Common Sense Safety × Out here, safety isn't an elective government program or a luxury service.
 It's a non-negotiable obligation.
 The primary purpose of government is to protect your constitutional rights, and freedom from being harmed by criminals is a basic, foundational function of the state.
 But keeping our communities safe requires seamless cooperation among all levels of law enforcement.

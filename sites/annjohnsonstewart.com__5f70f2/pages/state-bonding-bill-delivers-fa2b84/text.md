@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact State Bonding Bill Delivers Over $15 Million for West-Metro Infrastructure The Minnesota Legislature passed a $1.2 billion state capital investment package at the end of the 2026 legislative session.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact State Bonding Bill Delivers Over $15 Million for West-Metro Infrastructure The Minnesota Legislature passed a $1.2 billion state capital investment package at the end of the 2026 legislative session.
 Senator Ann Johnson Stewart secured $15.653 million from that package specifically for infrastructure projects in District 45.
 The funding targets major local investments in the Lake Minnetonka area.
 In Spring Park, the state will fund the comprehensive 2026-2027 reconstruction of Sunset Drive, including mandatory water and sewer overhauls.

@@ -24,7 +24,12 @@ This should be a point of pride, not shame.
 Women's Rights A woman's right to choose had been settled law since 1973, but the radical right in Texas and the Supreme Court have rolled back almost 50 years of reproductive freedom in 2022.
 Most Americans do not want this .
 Abortion in Texas should be safe, legal, and rare.
-View More Where’s Texas District 11?
+View More The Stars at Night are … invisible.
+August Pfluger is rolling out the red carpet for data centers, pushing to loosen regulations on the energy infrastructure powering them while taking campaign contributions from their developers.
+Meanwhile, Texans face the noise, water demands, and growing strain on our grid.
+It doesn't have to be this way.
+Watch our newest ad and see what's at stake for West Texas.
+Share Now Where’s Texas District 11?
 Not sure if you’re voting in TX-11?
 Things have changed since 2024 .
 Scroll around on the map and find out!

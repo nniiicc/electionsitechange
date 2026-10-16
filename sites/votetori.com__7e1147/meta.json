@@ -1,9 +1,10 @@
 {
  "description": "votetori.com's campaign",
  "final_url": "https://www.votetori.com/",
- "fingerprint": "71740793b5ef4904dfd449874893128b4cd481f6",
+ "fingerprint": "1a5c699ecea5354f78a04502afe57b72ee39a2a6",
  "format": 3,
  "paid_for_by": "Paid for by Tori Schafer for Missouri",
+ "rendered": false,
  "title": "Tori Schafer for Missouri",
  "years_mentioned": [
   "2000",

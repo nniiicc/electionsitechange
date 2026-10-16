@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 12 Sep Jim Marter releases statement on government transparency and accountability.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 12 Sep Jim Marter releases statement on government transparency and accountability.
 “I think it’s right for us to expect our Representatives in Congress to have a voting record that matches their rhetoric.
 When I’m in Congress, the people of Illinois’ 14th District will have someone they know they can trust, who’ll tell them the truth and keep in line with the policies I’ve discussed on the campaign trail,” said Marter.
 “My record is clear.

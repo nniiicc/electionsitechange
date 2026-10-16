@@ -1,0 +1,22 @@
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact Electric Landscaping Equipment Rebate Program Signed by Governor September 23, 2026 Albany, NY – State Senator Liz Krueger (SD-28) and Assemblymember Steve Otis (AD-91) announced their legislation to create a rebate program for the purchase of electric landscaping equipment to assist commercial landscapers, local governments, school districts and other institutions (S.1574/A.2657) has been signed into law.
+The legislation passed the Senate and Assembly in April.
+“Addressing the climate crisis requires action on all fronts," said Senator Krueger .
+"Gas-powered landscaping equipment emits a stunning amount of air pollution, not to mention the noise that blights communities across the state.
+This new rebate program will make it easier for New York's landscaping companies and institutions to transition to cleaner, quieter equipment.
+It's a win for small businesses, workers, communities, and our shared environment, and I thank Governor Hochul for signing it into law today.” Assemblyman Otis said, “New York State ranks fourth in the nation in the highest level of greenhouse gas emissions.
+Supporting small businesses and institutions in transitioning to emission-free equipment will improve air quality, public health, and make purchase of new equipment more affordable for local contractors.
+Municipalities in New York are increasingly adopting local laws restricting, in a variety of ways, the use of gas-powered equipment.
+The rebate program will help local businesses continue to serve their customers.
+Senator Krueger and I have worked with a broad coalition of over 100 environmental, public health, and business groups led by NYPIRG to support this program.” Gas-powered landscaping equipment has a significant negative impact on workers, communities, and the environment.
+Electric equipment, on the other hand, is lighter, quieter, has lower maintenance costs, a significantly smaller environmental footprint, and is better for workers’ health.
+S.1574/A.2657 would create an Electric Landscaping Equipment Rebate Program, administered by the New York State Energy Research and Development Authority (NYSERDA).
+It would offer point-of-sale rebates to commercial landscapers and institutional users, including municipalities, who purchase battery-powered electric landscaping equipment, such as leaf blowers, weed whackers, or lawn mowers.
+Gas-powered landscaping equipment emits large amounts of greenhouse gases and harmful, smog-forming pollution, including hydrocarbons, oxides of nitrogen (NOx), carbon monoxide (CO), and fine particulate matter (PM).
+The California Air Resources Board (CARB) has reported that operating a gas-powered lawn mower for one hour creates as much smog-forming pollution as driving an average car 300 miles, the distance from New York City to Portland, ME.
+Operating a gas-powered leaf blower for one hour creates as much smog-forming pollution as driving a car 1,100 miles, or from New York City to Tampa, FL.
+According to CARB, early in this decade the total smog-forming emissions from small off-road engines, the vast majority of which are residential and commercial lawn and garden equipment, will exceed those from passenger cars in the Greater Los Angeles Area.
+Noise is also a significant negative impact from gas-powered lawn care equipment.
+According to a 2018 report in the Journal of Environmental and Toxicological Studies, sound levels at distances of 100 to 400 feet were up to 22 decibels louder for gas-powered leaf blowers than their battery-electric equivalents (the decibel scale is logarithmic, so each increase of 10 represents a noise ten times louder).
+The report goes on to say, "the routine use of multiple [gas-powered leaf blowers] and other noisy equipment for hours a day exposes not only workers but large numbers of people in the community to harmful levels of noise and threatens not only worker health, but public health, particularly of children, seniors, and other vulnerable populations.” Well over 200 communities in 27 US states and the District of Columbia have enacted restrictions on the use of gas-powered leaf blowers.
+In New York State, around 70 cities, towns, and villages have bans or other restrictions on gas-powered leaf blowers during certain times of year.
+Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

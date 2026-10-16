@@ -1,4 +1,4 @@
-Skip to content Allen Miller for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Education Photo by Katerina Holmes on Pexels.com So-Called “School Choice” pulls money away from public schools and the students they serve.
+Skip to content Allen Miller Democrat for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Education Photo by Katerina Holmes on Pexels.com So-Called “School Choice” pulls money away from public schools and the students they serve.
 Private and charter schools do not have an obligation to accept the public equally.
 Now that these vouchers are given as tax credits without means-testing, they are frequently just a tax break for the rich, on an expense that they already would make.
 Public money should benefit all Hoosiers – today, tomorrow, and for generations to come.
@@ -10,7 +10,7 @@ Treat our teachers with the dignity they deserve Teacher pay needs increased, an
 The experienced teachers need to be recognized for their dedication to our students.
 When public schools have better pay, they get and keep better teachers.
 We are letting our kids down when they have teachers who have to choose between paying their rent and buying supplies for their classrooms.
-Allen Miller for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
+Allen Miller Democrat for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
 Contact: P.O.
 Box 182 Greensburg, IN 47240 electallenmiller@proton.me ‪(812) 651-0617‬ Follow along: Facebook Instagram Threads © # all rights reserved.
 Designed with WordPress .

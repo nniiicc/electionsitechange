@@ -1,4 +1,4 @@
-Skip to main content Tom Sawyer for Kansas Tom Sawyer for Kansas Home About Tom Sawyer Tom Sawyer Shares Our Values Tom Sawyer fighting to cut our taxes SB 1 2024 Special Session Tax Cuts Tom Sawyer fights for jobs in Wichita Tom Sawyer reforming Kansas Contact Donate District Events Videos Find your polling place VOTE Contact us Reach out to us for any questions or concerns.
+Skip to main content Tom Sawyer for Kansas Tom Sawyer for Kansas Home About Tom Sawyer Tom Sawyer Shares Our Values Tom Sawyer fighting to cut our taxes SB 1 2024 Special Session Tax Cuts Tom Sawyer fights for jobs in Wichita Tom Sawyer reforming Kansas Contact Donate District Events Videos Find your polling place VOTE VOTE EARLY IN PERSON Contact us Reach out to us for any questions or concerns.
 We're here to help and address your needs.
 Fill out the form below or text Tom Sawyer at 316-265-7096.
 Name * Email address * Message * Leave this field empty Submit form Location Tom Sawyer for Kansas Wichita, Kansas, United States Facebook X YouTube NO STATE INCOME TAX ON SOCIAL SECURITY BENEFITS: One of the groups hit the hardest with property taxes are seniors living on a fixed income.

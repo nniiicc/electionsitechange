@@ -25,8 +25,7 @@ Securing legislative passage of the successful $10 billion bond for repairs and 
 Created the Golden State Teacher Grant program to support teachers in high-need areas like Special Education and STEM.
 “I believe that every Californian deserves a better, more affordable future.” Learn More Join our fight to renew the California Dream.
 Get updates from Speaker Rivas: Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form.
-Email address * Zip Code Phone Zip number Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+Please enable JavaScript in your browser to complete this form. number Phone Email Email address * Zip Code Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
 We will never charge for these text message updates, but carrier message & data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for more information.

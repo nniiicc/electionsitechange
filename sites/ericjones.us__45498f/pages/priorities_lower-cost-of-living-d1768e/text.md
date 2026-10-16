@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES Lower Cost of Living Putting Money Back in Your Pocket Families across CA-04 are working harder than ever and still falling behind.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES Lower Cost of Living Putting Money Back in Your Pocket Families across CA-04 are working harder than ever and still falling behind.
 Rent, groceries, utilities, health care, childcare — everything costs more, while giant corporations post record profits and pay little or nothing in taxes.
 That's not an accident.
 It's a system rigged to work for the people at the top.

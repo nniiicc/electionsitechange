@@ -3,11 +3,12 @@ This Privacy Policy outlines our practices regarding the collection, use, and di
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 Information We Collect: Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms.
 Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services.
-By opting in, you agree to receive text messages from Bingman for Corporation Commissioner 2024.
+By opting in, you agree to receive text messages from Friends of Eric Roberts.
 Reply “STOP” to opt out of messages at any time.
 Reply “HELP” for help.
 Your personal information will not be sold, rented or shared with anyone.
-Use of Information: We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.To send you updates, newsletters, and other campaign-related information.
+Use of Information: We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
+To send you updates, newsletters, and other campaign-related information.
 To analyze and improve our website’s performance, content, and user experience.
 To comply with legal obligations and enforce our rights and agreements.
 Text Messaging Opt-In Data: Your phone number and related data collected for text messaging services will only be used to send you campaign-related text messages and updates.

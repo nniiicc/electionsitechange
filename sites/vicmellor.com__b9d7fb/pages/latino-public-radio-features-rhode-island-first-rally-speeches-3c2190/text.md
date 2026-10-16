@@ -82,6 +82,6 @@ Call us at 401-545-0127 or email info@vicmellor.com .
 Vote For Vic Ride Request Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
 Name (Required) First Last Email (Required) Phone (Required) When do you need a ride?
 (Required) Early Voting Election Day Submit Easily check where and when to vote, mail-ballot sign-up, and request transportation to vote.
-Vote For Vic WHEN AND WHERE EARLY VOTING BEGINS Mail-ballot Information Need a Ride?
+Vote For Vic WHEN & WHERE TO VOTE Mail-ballot Information Need a Ride?
 Request a ride to vote or get help with your mail-in ballot.
 REQUEST A RIDE

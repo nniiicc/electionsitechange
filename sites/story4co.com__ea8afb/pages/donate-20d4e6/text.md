@@ -3,5 +3,5 @@ She could not do this without you.
 Donate here If you prefer to mail in a check, simply make the check out to Story for Colorado House and address mail to Story for Colorado House, P.O.
 Box 1114, Conifer, CO 80433 .
 Individuals are restricted to contributions totaling $450 per election cycle.
-Please reach out with any questions at (303) 866-2582 or tammy@story4co.com.
-Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Please reach out with any questions at 720-772-9874 or tammy@story4co.com.
+Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

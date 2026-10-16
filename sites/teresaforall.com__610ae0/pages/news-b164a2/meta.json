@@ -1,12 +1,13 @@
 {
  "description": "Get the latest news from the campaign.",
  "final_url": "https://www.teresaforall.com/news",
- "fingerprint": "51d04dcd5a47765d6ce11c853a5b778d0e63f53e",
+ "fingerprint": "88bc7ea235ab584beea82bc0add4c477ad05f224",
  "format": 3,
  "paid_for_by": "PAID FOR BY TERESA FOR ALL bottom of page",
  "rendered": false,
  "title": "News",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2028"
  ]
 }

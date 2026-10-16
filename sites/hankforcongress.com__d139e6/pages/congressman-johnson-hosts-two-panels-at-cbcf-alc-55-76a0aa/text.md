@@ -16,5 +16,5 @@ This framework worked well for 250 years, but it’s being dismantled by the Sup
 Brandeis Professor of Law at Harvard Law School; Michele Goodwin, Linda D. & Timothy J.
 O’Neill Professor of Constitutional Law and Global Health Policy at Georgetown Law; and Maya Wiley, President/CEO at the Leadership Conference on Civil and Human Rights.
 WATCH HERE ### CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
-Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
-Supreme Court’s decision September 16, 2026 Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks August 27, 2026 Paid for by the Committee to Elect Hank Johnson
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Hank Says: Early Voting Has Started October 15, 2026 Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision September 16, 2026 Paid for by the Committee to Elect Hank Johnson

@@ -3,7 +3,7 @@ Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
 Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE All Posts Updates Press Releases In The News Videos Endorsements The Back Office Behind the Movement Fiscal sponsorship provides legitimate administrative infrastructure for nonprofit projects—but it can also make financial relationships harder for the public to follow.
 Scott Petersen examines fiscal sponsorship, foreign-funding allegations in Nebraska, and questions surrounding transparency and disclosure.
-Updates Scott Petersen #ago 4 min read Who Has Access to Nebraska's Election Systems?
+Updates Scott Petersen Oct 9 4 min read Who Has Access to Nebraska's Election Systems?
 Recent federal election-security developments raise an important question for Nebraska: who has privileged access to our election systems, voter data and infrastructure—and how is that access controlled and documented?
 Updates Scott Petersen Oct 7 1 min read What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
 Scott Petersen examines what Nebraska can learn from its neighboring state while protecting due process for eligible voters.

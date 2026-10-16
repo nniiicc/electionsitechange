@@ -1,4 +1,4 @@
-0 Skip to Content → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team JOIN THE WINNING TEAM We get it.
+0 Skip to Content → Donate → Join the Winning Team Open Menu Close Menu → Donate → Join the Winning Team Open Menu Close Menu → Donate → Join the Winning Team JOIN THE WINNING TEAM We get it.
 Life is busy.
 Schedules are full.
 You can still help by donating to DAVE’S CAMPAIGN WORKING TO REPRESENT YOU — not corporate interests.

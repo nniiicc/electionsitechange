@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 ABOUT REBECCA Dr.
 Rebecca Edgeworth is the only practicing physician serving in the Nevada State Assembly, representing District 35, which includes Southern Highlands and Mountains Edge.
 As both a physician and legislator, she brings real-world healthcare experience to the policymaking process and remains deeply connected to the needs of Nevada patients and providers. ​ A third-generation Nevadan, Dr.

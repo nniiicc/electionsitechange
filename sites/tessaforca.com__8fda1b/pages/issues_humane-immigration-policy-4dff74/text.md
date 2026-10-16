@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements Knock doors with us!
-Contact Donate About Issues Endorsements Knock doors with us!
-Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Humane Immigration Policy America is a nation of immigrants - built by generations of people seeking freedom, safety, and opportunity.
+Contact Media Kit Donate About Issues Endorsements Knock doors with us!
+Contact Media Kit Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Humane Immigration Policy America is a nation of immigrants - built by generations of people seeking freedom, safety, and opportunity.
 The current administration pledged to focus their deportation efforts on violent criminals, and instead, have unleashed armed agents to target workers, families, and long-term residents who pay taxes, contribute to our economy, and call this country home.
 That doesn’t make us safer - it tears communities apart.
 I support bold, common-sense immigration reforms that restore humanity and fairness to our system.

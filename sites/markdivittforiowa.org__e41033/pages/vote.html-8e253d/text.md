@@ -1,12 +1,13 @@
-Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Vote Early Early voting starts Wednesday, October 14 and runs through Monday, November 2 .
+Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Vote Early Early voting is open through Monday, November 2 .
 Election Day is Tuesday, November 3.
 Key Dates Mark Your Calendar Oct 14 Early voting begins at your county auditor’s office.
 Oct 19 By 5 p.m.: register online in advance, or get a mail ballot request to your county auditor.
 Nov 2 Last day to vote early in person.
 Nov 3 Election Day.
 Polls are open 7 a.m. to 8 p.m.
+On Election Day you vote at your own precinct’s polling place.
 Mailed ballots must reach your auditor by 8 p.m.
-In Person Where to Vote Early Iowa County Iowa County Auditor’s Office East Annex, 970 Court Ave., Marengo Monday–Friday, 8:00 a.m.–4:30 p.m., Oct 14–Nov 2 Iowa County voting information Johnson County Johnson County Administration Building 913 S.
+Find your polling place In Person Where to Vote Early Iowa County Iowa County Auditor’s Office East Annex, 970 Court Ave., Marengo Monday–Friday, 8:00 a.m.–4:30 p.m., Oct 14–Nov 2 Iowa County voting information Johnson County Johnson County Administration Building 913 S.
 Dubuque St., Iowa City Weekdays, 8:00 a.m.–5:00 p.m., Oct 14–Nov 2 (extended hours Oct 26–28 and on weekends) Drive-thru , 855 S.
 Dubuque St.
 (Health & Human Services parking ramp) Weekdays, 10:00 a.m.–4:00 p.m., Oct 14–30 Solon High School , 600 W.

@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 30 Apr “I’m excited and grateful to receive this important endorsement from Illinois Family Action.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 30 Apr “I’m excited and grateful to receive this important endorsement from Illinois Family Action.
 Their mission in part is to make sure our politicians and representatives honor the values of family, faith and freedom.
 For too long, we’ve confined the voice of people of faith to their houses of worship.
 Then, we started seeing big government locking them out of their churches.

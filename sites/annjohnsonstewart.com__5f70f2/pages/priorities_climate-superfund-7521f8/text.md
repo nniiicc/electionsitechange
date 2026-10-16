@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Climate Superfund Outline: Local taxpayers should not be forced to foot the multi-billion-dollar bill for climate-driven infrastructure damage.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Climate Superfund Outline: Local taxpayers should not be forced to foot the multi-billion-dollar bill for climate-driven infrastructure damage.
 A state Climate Superfund would hold the world’s largest fossil fuel corporations financially responsible for funding Minnesota’s extreme weather resilience and infrastructure upgrades.
 Key Takeaways: Making Polluters Pay: Holding the largest corporate greenhouse gas emitters legally accountable for the environmental damage they caused, rather than passing the check to everyday Minnesotans.
 Protecting Local Taxpayers: Shifting the massive costs of climate adaptation—like replacing washed-out roads and upgrading overwhelmed municipal storm sewers—off the backs of local property owners.

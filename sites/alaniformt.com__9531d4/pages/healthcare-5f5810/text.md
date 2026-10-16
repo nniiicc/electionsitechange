@@ -73,7 +73,16 @@ Nobody should overpay at the pharmacy counter Here's a rip-off most people never
 Congress banned the "gag clauses" that used to forbid pharmacists from telling you that, but the rip-off didn't stop, because nobody is required to proactively tell you, and the middlemen still pocket the difference through what are called "clawbacks." One study found patients overpaying on nearly a quarter of prescriptions.
 The fix is simple: require the pharmacy to tell you the lowest price every single time, ban the clawbacks, and put cash prices and payment-assistance programs front and center instead of buried.
 Cheaper medicine shouldn't be a secret you have to know to ask for.
-Coverage means nothing if there's no doctor One in three of Montana's rural hospitals, 16 of them, is at risk of closing, several immediately.
+Until everyone is covered, having insurance should at least mean you can afford to use it.
+Right now a Montanan on a marketplace plan can owe up to $10,600 a year out of pocket for covered care, and that ceiling rises to $12,000 next year.
+I support efforts to bring it down significantly; current efforts target $5,000.
+I also support giving every patient the same yearly cap on prescriptions that people on Medicare already have.
+The savings should come out of the middlemen’s margins, not your premiums.
+That means banning spread pricing, where a PBM charges your plan more than it pays the pharmacy and keeps the difference; paying PBMs a flat fee instead of a cut of the drug’s list price; and passing drug rebates straight to you at the counter.
+If you use a health savings account, this works with it: HSA-eligible plans stay HSA-eligible, and in a bad health year you’d draw less out of your account, so more of your savings stays yours.
+HealthCare.gov; CMS, 2026; IRS Rev.
+Proc.
+2025-19 Coverage means nothing if there's no doctor One in three of Montana's rural hospitals, 16 of them, is at risk of closing, several immediately.
 When the hospital in a small town closes, the coverage argument is over before it starts: there is nothing left to be covered at.
 Keeping those doors open is Medicare and Medicaid reimbursement that reflects what rural care actually costs, and the Rural Emergency Hospital designation for the places that can no longer carry a full inpatient wing.
 Center for Healthcare Quality & Payment Reform, 2025 You can hand someone the best insurance card in the world, and it’s worthless if the nearest doctor is a hundred miles away.
@@ -84,6 +93,10 @@ Break up the PBM monopolies — the bipartisan Patients Before Monopolies Act (s
 Make hospitals and insurers post real prices before you’re treated.
 Turn the price transparency rules into law with penalties that bite, require actual prices instead of estimates, and pass the bipartisan bills that do it: the Lower Costs, More Transparency Act in the House and the Health Care PRICE Transparency Act in the Senate.
 Lowest price at the counter, always — require pharmacies to proactively tell you when cash or a discount beats your copay, ban PBM "clawbacks," and make payment-assistance programs easy to find.
+Take the middlemen’s cut out of your prescriptions.
+Ban PBM spread pricing, pay PBMs a flat fee instead of a percentage of list price, and pass rebates through to patients at the pharmacy counter.
+Lower what you can be billed in a year.
+Support efforts to significantly lower the yearly out-of-pocket ceiling on private plans (current efforts target $5,000) and extend Medicare’s yearly drug cap to every patient, paid for by the middlemen’s margins rather than higher premiums.
 Let Medicare negotiate more drug prices and defend the yearly out-of-pocket cap and $35 insulin.
 Grow the workforce — NHSC loan forgiveness for rural/tribal service + lift the Medicare residency cap.
 Score every step independently before it starts, and move to the next one only when the last one proves it lowered what families pay.
@@ -182,6 +195,7 @@ Insurers are running algorithms that turn down valid claims in bulk, overruling 
 One of the biggest insurers used a tool to cut off rehab care for seniors that got reversed in more than 9 in 10 appeals, while employees were reportedly pushed to keep patients' stays within 1% of whatever the algorithm predicted, regardless of the person in the bed.
 That tells you the machine wasn't reading medicine.
 It was hitting a number.
+And when an algorithm wrongly turns down your care, you’re the one left with the bill, or you go without.
 I am not anti-technology.
 Automation is a real tool for getting through millions of claims, and used right it can speed care up.
 But speed cannot come by deleting the human in the loop.

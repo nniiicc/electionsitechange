@@ -1,5 +1,4 @@
-0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Come Out and Meet Eunice Oct 15 Clemson City Council and State Representative Candidate Forum Thursday, October 15, 2026 6:00 PM 8:00 PM Abel Baptist Church (map) Google Calendar ICS Eunice and other candidates will be at the Clemson City Council and State Representative Candidate Forum at Abel Baptist Church in Clemson on Thursday, October 15.
-View Event → Oct 17 No Kings Rallies Saturday, October 17, 2026 9:30 AM 7:00 PM Google Calendar ICS Indivisible groups across Upstate South Carolina are holding rallies on Saturday, October 17.
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Come Out and Meet Eunice Oct 17 No Kings Rallies Saturday, October 17, 2026 9:30 AM 7:00 PM Google Calendar ICS Indivisible groups across Upstate South Carolina are holding rallies on Saturday, October 17.
 Bring along a friend to meet candidates and learn about local elections, early voting sites, and making our voices count.
 Register here !
 Laurens 9:30-10:30AM ﻿ ﻿Lavonne Shopping Center parking lot Anderson 10-11:30AM ﻿ ﻿Anderson County Courthouse﻿ ﻿100 S.
@@ -21,6 +20,7 @@ Indivisible Clemson Area ﻿ ﻿Block Party for Democracy Pendleton Village Gree
 View Event → Oct 30 Democratic Candidates Meet & Greet Friday, October 30, 2026 5:00 PM 7:00 PM Jitters Brewing Company (map) Google Calendar ICS Eunice will be with candidate for Pickens County Council Russell Ogelsby and candidate for Central City Council Rosa Grayer at this meet & greet event at Jitters Brewing Company in Central on October 30.
 View Event → Oct 31 Greenville County Democrats Day of Action Saturday, October 31, 2026 12:00 AM 5:00 PM Google Calendar ICS Help Eunice and others reach voters and make a difference this November.
 Check back for more details soon!
+View Event → Oct 15 Clemson City Council and State Representative Candidate Forum Thursday, October 15, 2026 6:00 PM 8:00 PM Abel Baptist Church (map) Google Calendar ICS Eunice and other candidates will be at the Clemson City Council and State Representative Candidate Forum at Abel Baptist Church in Clemson on Thursday, October 15.
 View Event → Oct 12 Democratic Women of Greenville County Monthly Meeting Monday, October 12, 2026 12:00 PM 1:30 PM Younts Conference Center (map) Google Calendar ICS Eunice will be at the Democratic Women of Greenville County Monthly Meeting on Monday, October 12.
 Register for the meeting here .
 View Event → Oct 7 LWV USCD3 Candidate Forum Wednesday, October 7, 2026 6:30 PM 7:30 PM Anderson Main Library (map) Google Calendar ICS Eunice will participate in the League of Women Voters Candidate Forum on Wednesday, October 07, in Anderson.
@@ -113,7 +113,5 @@ View Event → Jun 13 Celebration of Democratic Primary Winners Saturday, June 1
 Register here .
 View Event → Jun 13 Pickens County Democratic Party Meeting Saturday, June 13, 2026 10:00 AM 12:00 PM Central-Clemson Library (map) Google Calendar ICS Eunice will be at the Pickens County Democratic Party meeting on Saturday starting at 10 AM EDT.
 Register to attend here .
-View Event → Jun 12 Meet Eunice at Voodoo Brewing Co.
-Friday, June 12, 2026 12:30 PM 2:30 PM Voodoo Brewing Co. (map) Google Calendar ICS Come out and meet Eunice at Voodoo Brewing Co. in Fountain Inn Friday afternoon starting at 12:30 PM EDT.
 View Event → Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
 Privacy Policy DONATE

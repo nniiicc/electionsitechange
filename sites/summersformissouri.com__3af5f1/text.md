@@ -1,4 +1,4 @@
-Home Policy & Beliefs Endorsements Amendments Media Store Contact Us Join our Team Donate Today Follow You are my priority; future generations are why I am running.
+Home Policy & Beliefs Endorsements Amendments Media Contact Us Join our Team Donate Today Follow You are my priority; future generations are why I am running.
 Pain is the universal teacher.
 From the age of 5, I was sold into a world that no one should endure, of child sex trafficking.
 After being rescued at age 7, I grew up in a life of hardship without support or healing.

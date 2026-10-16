@@ -41,4 +41,8 @@ Take Action Now Freeman 2026 Paid for by the Committee to Elect Kymone Freeman.
 A grassroots movement for the future of Washington, DC.
 Phone: 202-330-1655 Email: ctekymonefreeman@gmail.com X IG FB Campaign About Kymone The Policy Press Releases Volunteer Take Action Donate Join the Email List Volunteer Press Kit © # Kymone Freeman for Congress.
 All rights reserved.
-Privacy Policy Terms of Service DC Delegate Debate Watch Party Official Event DC Delegate Debate Watch Party Mood District Cafe — 3582 13th St NW, Washington, DC 4:00 PM – 6:00 PM • October 14th Live Broadcast on WPFW 89.3 FM Close & Enter Site Close
+Privacy Policy Terms of Service McKinley Tech Student Civic Engagement Candidate Debate Upcoming Candidate Debate Doors Open 6:30 PM Delegate to the U.S.
+House Candidate Debate McKinley Technology High School 151 T St NE, Washington, DC 20002 Friday, October 23, 2026 7:00 PM – 8:00 PM Featuring candidates Kymone Freeman , Robert White, and Denise Rosado.
+Student-led questions moderated by Dr.
+Jacque Patterson.
+Ward 5 SBOE Debate: 6:00 PM – 7:00 PM Close & Enter Site Close

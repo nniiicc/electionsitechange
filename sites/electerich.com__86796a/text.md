@@ -3,17 +3,19 @@ Hey, Non-partisans, feeling left out?
 My well went dry!
 The Data Centers are coming .
 Education in Assembly District 39 is in trouble.
-DONATE To Erich's Campaign!
-Rather send a check?
-SEND TO: The Committee to Elect Erich Obermayr P.O.
-Box 249 Silver City, NV 89428 THIS EXTRAORDINARY PIECE OF GLASS ART COULD BE YOURS!
-SILENT AUCTION Benefitting Douglas County Democratic Women scholarship fund, Douglas County Dems, and the Obermayr District 39 campaign. *Glass platter by renowned glass artist Willow Obermayr, St.
-Augustine, Florida. *Starting bid $200, $100 going to the DCDW scholarship fund, $100 to Douglas County Dems, and everything beyond to the Obermayr District 39 campaign. ​ *Place your bid HERE.
+THIS EXTRAORDINARY PIECE OF GLASS ART COULD BE YOURS!
+SILENT AUCTION Benefitting Douglas County Democratic Women scholarship fund, Douglas County Dems, and the Obermayr District 39 campaign.
+Glass platter by renowned glass artist Ana Willow Obermayr, St.
+Augustine, Florida.
+Starting bid $200, $100 going to the DCDW scholarship fund, $100 to Douglas County Dems, and everything beyond to the Obermayr District 39 campaign. ​ Place your bid HERE.
 Bidding will be updated at the end of each day, with the current leader’s name and bid posted.
 Deadline: Wednesday, Oct 21 will be the last day of bidding.
 Winner will be announced Oct.
 22.
-MY WELL WENT DRY!
+DONATE To Erich's Campaign!
+Rather send a check?
+SEND TO: The Committee to Elect Erich Obermayr P.O.
+Box 249 Silver City, NV 89428 MY WELL WENT DRY!
 Governor Lombardo recently fired the State Engineer, an under the radar move which potentially marks a dangerous step away from water rights adjudication based on science, the law, and the public interest and a step toward making it a political exercise directed by well-connected special interest groups.
 The State Engineer administers the Division of Water Resources and is responsible for the management of the state’s water resources, including issuing new water rights, approving changes in water use, enforcing water law, and resolving conflicts between users.
 The State Engineer Governor Lombardo fired in December, 2025, was an experienced, highly regarded administrator whose guiding principle was the science-based balance of public interest, smart growth, and beneficial use of water resources in a way that protects both the resource and existing water rights.

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Voting Absentee Ballot Signup and Early Voting Voting by absentee ballot and voting early in person are safe and effective ways to cast your vote.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Voting Absentee Ballot Signup and Early Voting Voting by absentee ballot and voting early in person are safe and effective ways to cast your vote.
 These methods allow you to skip the long lines on election day and avoid any roadblocks that could prevent you from making it to your voting precinct on time.
 Please see below for helpful information about casting your ballot!
 Request Your Absentee Ballot Request Ballot Signup Online to Vote By Absentee Ballot To make this easy for you, we’ve shared resources here: Note: If you do not have a Virginia Driver’s License, you must go to your county registrar and complete a physical application.

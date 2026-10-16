@@ -28,5 +28,5 @@ Keep the Government Out of Medical Decisions : I believe in limited government.
 Politicians shouldn’t be involved in most medical issues – those are between a patient and their doctors.
 For example, I am personally pro-life, but believe the government should not be making health decisions for people.
 It is important that people have the right to make their own choices in consultations with their doctors.
-GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Careers Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
+GET INVOLVED WITH TEAM OSBORN Donate Volunteer Contact Media Toolkit Privacy Policy/Terms & Conditions Checks can be mailed to our PO Box here: Osborn for Senate 15418 Weir St #160, Omaha, NE 68137 SEE CAMPAIGN OFFICE HOURS AND LOCATIONS HERE USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE PAID FOR BY OSBORN FOR SENATE ©# Osborn for Senate.
 All rights reserved.

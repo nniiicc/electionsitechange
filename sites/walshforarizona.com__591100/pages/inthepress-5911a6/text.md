@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 CAMPAIGN NEWS In The Press Gilbert Chamber Candidate Endorsement Link to all Gilbert Chamber Endorsements: Dear Candidates, On behalf of the Gilbert Chamber of Commerce, thank you for your participation in our 2026 candidate engagement and endorsement process.
 We appreciate the time, effort, and thoughtfulness each of you invested in completing interviews, sharing your perspectives, and engaging with Gilbert's business community.
 The Chamber's endorsement process is designed to help business leaders and stakeholders better understand the c Jun 1 2 min read Arizonans deserve more than family name By Stephanie Walsh | Gilbert OPINION — We are at a critical moment in Arizona.
@@ -18,7 +18,7 @@ Stephanie is endorsed by Save Our Schools Arizona and by the Gilbert Chamber of 
 She clearly understands and articulates the connection between a vibrant an #ago 2 min read Stephanie Walsh endorsed by the Forward Party!
 The Forward Party is about people over partisanship and building a better path forward.
 For more information on the Forward Party and what they look for in candidates, click the link below.
-#ago 1 min read Watch Stephanie at the Arizona Clean Elections Debate Check out: #ago 1 min read A tale of two candidates in LD 14: Biggs’ political name versus Walsh’s career experience Check out the Capital Times: #ago 1 min read ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Oct 8 1 min read Watch Stephanie at the Arizona Clean Elections Debate Check out: Oct 8 1 min read A tale of two candidates in LD 14: Biggs’ political name versus Walsh’s career experience Check out the Capital Times: Oct 8 1 min read ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

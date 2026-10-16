@@ -1,7 +1,6 @@
 Skip to content Ryan Michael Kelly For Congress • NJ-03 About Issues Updates Get Involved Media Register to Vote EN ▾ Donate ← Back to updates October 15, 2026 A 2008 NYPD Disciplinary Decision: Records and Open Questions A 2008 NYPD disciplinary decision naming an officer Michael McGuire is being discussed in connection with the NJ-03 congressional race.
 Here are the original sources, documented findings, and questions that remain open.
-The video was scheduled for October 15, 2026.
-If the player is unavailable, it may not yet be public.
+Watch the video statement below or open it directly on YouTube.
 Watch on YouTube ↗ The identity question The NYPD decision names Police Officer Michael McGuire, Tax Registry No.
 929410.
 Central Jersey Newswire separately reported speaking with congressional candidate Michael McGuire about an NYPD investigation.
@@ -31,8 +30,8 @@ The correction does not include an NYPD order reversing the disciplinary finding
 October 14 request for clarification On October 14, 2026, at 6:24 a.m.
 EDT, Ryan Michael Kelly emailed candidate Michael McGuire asking whether he is officer 929410, whether the findings were ever modified or overturned, and how his NYPD employment ended.
 The sent email documents the request, not whether it was read or answered.
-As of October 15, 2026, at 3:19 AM EDT, no response had been received.
-Additional responses or official records will be reviewed and reflected in a dated update.
+At the time of publication, no response had been received.
+I remain open to reviewing any response or additional documentation and will update this article if new information becomes available.
 What remains unverified An independent identity match between the candidate and officer 929410.
 Any later official order changing the disciplinary findings.
 The officer's final NYPD employment separation record and reason for leaving.

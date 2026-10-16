@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 27 Jun Jim Marter, Republican Congressional Candidate for Illinois’ 14th Congressional District, issues the following statement on the passage of the REINS ACT.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 27 Jun Jim Marter, Republican Congressional Candidate for Illinois’ 14th Congressional District, issues the following statement on the passage of the REINS ACT.
 “I am deeply disappointed that Congresswoman Lauren Underwood refused to vote for the bi-partisan REINS ACT which protected the people’s interests,” said Jim Marter.
 “This bill gives Congress legislative authority to prevent excessive overreach by the Executive Branch in the federal rulemaking process.
 It would require every new, major rule proposed by federal agencies, to be approved by both the House and Senate before going into effect.

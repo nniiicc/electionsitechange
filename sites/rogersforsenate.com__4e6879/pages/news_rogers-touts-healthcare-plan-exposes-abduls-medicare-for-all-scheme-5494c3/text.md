@@ -42,7 +42,7 @@ Mike has a plan that tackles the problems families are actually facing.” — J
 Abdul’s leaked audio on how he will raise your healthcare costs.
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
 ### Hinson Peed Previous Previous TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S.
-SENATE Next Next ROGERS LAUNCHES NEW AD BLASTING “DOCTOR” ABDUL FOR CALLING TO DEFUND BREAST CANCER RESEARCH CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+SENATE Next Next ROGERS LAUNCHES NEW AD BLASTING “DOCTOR” ABDUL FOR CALLING TO DEFUND BREAST CANCER RESEARCH MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

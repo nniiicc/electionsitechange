@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Walsh supports increased accountability for ESAs #ago 2 min read Updated: #ago Gilbert reader weighs in on LD 14 Senate race By Doris Karls | Gilbert OPINION — Education is foundational to our community and economy, which is why I am voting for Stephanie Walsh for State Senate to represent Legislative District 14.
 She will provide a strong and consistent voice supporting our public schools.
 Stephanie is endorsed by Save Our Schools Arizona and by the Gilbert Chamber of Commerce.

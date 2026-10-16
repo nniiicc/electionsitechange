@@ -23,7 +23,11 @@ Real Solutions.
 Real Results.
 Katie Crosby is running to build stability, create opportunity, and deliver practical solutions for families in the community.
 From safer roads and smart growth to strong schools and healthy families, her focus is on listening to real concerns and getting real results — not playing political games.
-Meet Katie Platform Support Our Campaign Put Our District First With a Donation Today $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Read below for some of our top priorities Building Stability.
+Meet Katie Platform Support Our Campaign Put Our District First With a Donation Today $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Our priorities Real Voices.
+Real Solutions.
+Real Results.
+These are the issues Katie is fighting for, because real leadership means listening to our community and delivering practical solutions that make everyday life better.
+Building Stability.
 Creating Opportunity Healthy Families.
 Strong Communities.
 Smart Growth.

@@ -20,11 +20,17 @@ Once enacted, this will provide affordable healthcare for over 500,000 working N
 The plan provides a path for a 70 percent reduction in carbon emissions for 2030, and carbon neutrality by 2050.
 This was a bipartisan effort to put North Carolina on the path to a cleaner future. ✓ Re-Open Schools Safely Following the COVID-19 pandemic, state and local officials struggled with creating a plan to get students back in the classroom, while maintaining safety protocols.
 Senator Blue’s bill to reopen schools safely passed with bipartisan support, getting students and families back into the classroom.
-The Latest from Facebook NC Senator Dan Blue, Jr #ago We had an engaging discussion at the Knightdale Mayor’s Academy.
-Thank you to all who attended and supported this opportunity to learn more about civic engagement and government operations. ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) NC Senator Dan Blue, Jr #ago Dan Blue Works Hard for Working Families in Wake County.
-Early Voting starts this week and runs from October 15th-31st.
-There are 18 early voting locations throughout Wake County.
-Find all locations and hours here: www.wake.gov/departments-government/board-elections/election-information/2026-general-election VOTE DAN BLUE FOR NC SENATE DISTRICT 14. ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Join the Team Notice: JavaScript is required for this content.
+The Latest from Facebook NC Senator Dan Blue, Jr #ago EARLY VOTING STARTS TODAY!
+There are 18 Early Voting Locations in Wake County, find the hours/locations here: www.wake.gov/departments-government/board-elections/election-information/2026-general-election Education opens doors, strengthens families and helps our economy grow.
+That’s why when I'm casting my ballot this year, I will support the Wake County School Bond and Wake Tech Bond.
+I’m asking you to join me in voting YES on both. 🏫 The $680 million School Bond would help renovate nine existing schools, replace aging HVAC systems, improve safety and security, and build three new elementary schools in East Wake County.
+Our students and teachers deserve space to learn, comfort to focus, and a safe place to grow.
+Investing in our students is investing in our future! 🛠️ The $149.1 million Wake Tech Bond would expand workforce training, modernize classrooms and labs, and improve facilities across the college.
+Wake County’s businesses and economy depend on the skilled workers that Wake Tech prepares - from first responders to automotive technicians and health care professionals.
+Vote YES to invest in the workforce that keeps Wake County running.
+These are long-term investments in our community’s future.
+Wake County’s AAA credit rating helps keep borrowing costs low, with an estimated combined impact of $22.05 per year for a home assessed at $450,000.
+Vote YES on both bonds to invest in our students, our workforce and a stronger Wake County.
+Learn more: VoteYesWakeSchools.com The Wake County School Bond VoteYesWakeTech.com The Wake Tech Bond ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) NC Senator Dan Blue, Jr #ago Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Join the Team Notice: JavaScript is required for this content.
 Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

@@ -1,6 +1,8 @@
 Skip to content ★ Endorsed by Gov.
 Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Newsroom News & Press Releases The latest statements, announcements, and press releases from Cotton for Senate.
-August 31, 2026 Press Release Following Flurry of Southern Senate Endorsements From Kamala Harris, Arkansas’s Shoffner Noticeably Absent Former Vice President Kamala Harris is endorsing Democratic Senate candidates across the South and has begun making endorsements in Arkansas.
+September 1, 2026 Press Release Arkansas Narcotic Officers Association Endorses Senator Tom Cotton The Arkansas Narcotic Officers Association has endorsed Senator Tom Cotton for re-election to the U.S.
+Senate, citing his support for law enforcement and his record fighting fentanyl trafficking.
+Read the release → August 31, 2026 Press Release Following Flurry of Southern Senate Endorsements From Kamala Harris, Arkansas’s Shoffner Noticeably Absent Former Vice President Kamala Harris is endorsing Democratic Senate candidates across the South and has begun making endorsements in Arkansas.
 Hallie Shoffner, who donated to Harris 25 separate times, is noticeably absent.
 Read the release → August 26, 2026 Press Release Hallie Shoffner Ally Kamala Harris Begins Arkansas Endorsements—Is Shoffner Next?
 Former Vice President Kamala Harris has begun making endorsements in Arkansas.

@@ -1,4 +1,9 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • July 30, 2026 Building Connecticut’s economic future As I talk with residents and business owners across our community, one theme comes up again and again: we want Connecticut to be as competitive,… Read more… Newsletter • July 23, 2026 Protecting the spaces that build communities I know how important parks and open spaces are to a community.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • August 13, 2026 An independent voice with a seat at the table I’m a middle child and a redhead, so naturally I’m a little feisty.
+I think that will come in handy in Hartford.
+Why?
+Because my… Read more… Newsletter • August 6, 2026 A better commute is possible Connecticut needs to prioritize transportation — both our trains and our roads.
+You deserve a transportation system that works for you.
+I’ll keep fighting until… Read more… Newsletter • July 30, 2026 Building Connecticut’s economic future As I talk with residents and business owners across our community, one theme comes up again and again: we want Connecticut to be as competitive,… Read more… Newsletter • July 23, 2026 Protecting the spaces that build communities I know how important parks and open spaces are to a community.
 From my first job with the New York City Parks Department, to my… Read more… Editorial • July 18, 2026 Eversource wants more money.
 It wants to hide the receipts.
 From the Greenwich Free Press This week Eversource asked PURA, the state regulator, to raise its rates, roughly 11% for a typical household and as… Read more… Newsletter • July 16, 2026 Standing up to Eversource’s rate hike For years, families and businesses in Connecticut have struggled with some of the highest electricity costs in the nation.
@@ -8,7 +13,5 @@ They discussed why Jill’s running, her legal background and even ventured into
 My father, a Vietnam veteran and Bronx OB-GYN,… Read more… Newsletter • June 18, 2026 Congratulations, Class of 2026!
 As graduation ceremonies take place this week across Greenwich, Stamford, and New Canaan, I want to extend my heartfelt congratulations to the Class of 2026… Read more… Radio appearance • June 17, 2026 Jill on the Lisa Wexler Show Lisa Wexler spoke with Jill about her path to public service, new legislation, fiscal discipline, and the 36th State Senate District.
 Take a listen.
-Read more… Newsletter • June 4, 2026 Why I’m running for State Senate My commitment to public service was shaped by my family’s story.
-My father was a first-generation college graduate, Vietnam veteran, and Bronx OB-GYN who dedicated… Read more… In the News • June 1, 2026 Meet Jill Oberlander, Candidate for State Senate Oberlander is not new to public service.
-For 15 years, she has been one of our most respected civic leaders, bringing intelligence, integrity, and practical… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

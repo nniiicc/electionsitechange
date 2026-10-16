@@ -43,7 +43,7 @@ Rounds raised more from data center and tech groups than from South Dakota donor
 He let his top staffer lobby for Facebook, who is trying to build a data center in South Dakota while he was paid more than $150,000 a year as senior Senate aide ( here ).
 Rounds is one of Washington’s top backers of data centers, his campaign is funded by data center companies, and Rounds voted to fast-track data center construction that lets them take our water and raise our utility bills.
 Voters need to see and hear this message on broadcast, cable, streaming, and YouTube.
-The next thing voters need to know is that at a time where there is rampant corruption in Washington from career politicians, Rounds leads the entire Senate in charter flight spending, $350,000 ahead of the next senator ( here ) over the last two years and has spent over $1.3 million in private charter flights to travel to his home in South Dakota since 2021.
+The next thing voters need to know is that at a time where there is rampant corruption in Washington from career politicians, Rounds leads the entire Senate in charter flight spending, $350,000 ahead of the next senator ( here ) over the last two years and has spent over $1.3 million in private charter flights to travel to his home in South Dakota since 2021 .
 He’s charged taxpayers $5 million for his travel and taken $2 million in campaign cash from special interests.
 Lastly, South Dakota need to understand Mike Rounds has been in Washington too long and is out for himself.
 He violated the law against insider trading by failing to report up to $5 million stock trades while in office.

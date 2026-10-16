@@ -1,4 +1,8 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • September 17, 2026 A little more about me I’m running to be your state senator because I care deeply about our community, and I want to help make life better for the families… Read more… Letter to the Editor • September 15, 2026 A common-sense approach is why Jill Oberlander has earned my vote for State Senator A common-sense approach is why Jill Oberlander has earned my vote for State Senator.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • September 26, 2026 Jill Has A Senior Agenda Grounded in Compassion Older residents deserve security, independence and dignity.
+Jill has the experience, judgment and values to turn these goals into responsible, compassionate public policy.
+Read more… Newsletter • September 24, 2026 They have our backs.
+We should have theirs.
+In the State Senate, I’ll work to ensure our firefighters, police officers, and EMTs have the modern equipment, rigorous training, staffing, and resources they need to… Read more… Newsletter • September 17, 2026 A little more about me I’m running to be your state senator because I care deeply about our community, and I want to help make life better for the families… Read more… Letter to the Editor • September 15, 2026 A common-sense approach is why Jill Oberlander has earned my vote for State Senator A common-sense approach is why Jill Oberlander has earned my vote for State Senator.
 I hope she will earn yours, too.
 Read more… Newsletter • September 11, 2026 Twenty five years later, we remember Today is first and foremost about remembering.
 We remember the nearly # people whose lives were taken.
@@ -11,10 +15,5 @@ I’m running as an independent Democrat — ready to keep housing decisions loc
 This year,… Read more… Newsletter • August 20, 2026 Protecting Long Island Sound Clean water isn’t just an environmental issue.
 It’s about public health, our local economy, property values, and the quality of life we enjoy here.
 We… Read more… Editorial • August 19, 2026 Zoning and development decisions should be made locally I oppose the six-story, 176-unit development proposed for Western Junior Highway in Greenwich’s Byram neighborhood.
-The project appears dramatically out of proportion with the surrounding… Read more… Newsletter • August 13, 2026 An independent voice with a seat at the table I’m a middle child and a redhead, so naturally I’m a little feisty.
-I think that will come in handy in Hartford.
-Why?
-Because my… Read more… Newsletter • August 6, 2026 A better commute is possible Connecticut needs to prioritize transportation — both our trains and our roads.
-You deserve a transportation system that works for you.
-I’ll keep fighting until… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+The project appears dramatically out of proportion with the surrounding… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

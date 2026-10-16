@@ -8,7 +8,9 @@ Fighting for you.
 In Greenbrier County, neighbors help neighbors.
 But it shouldn't be this hard just to get by while Charleston makes decisions behind closed doors.
 I'm running to open those doors and fight for District 47.
-More About Sarah Read below for some of our top priorities Good Jobs Local Paychecks A Fair Shot Learn More!
+More About Sarah SARAH's priorities Focused on real life, not political games.
+Our campaign is rooted in Greenbrier County, and focused on the issues that matter because what happens in Charleston should make life better back home.
+Good Jobs Local Paychecks A Fair Shot Learn More!
 Vote Make a plan to vote!
 Last day to register to vote for the General Oct.
 13 2026 Early In-Person Voting Oct.

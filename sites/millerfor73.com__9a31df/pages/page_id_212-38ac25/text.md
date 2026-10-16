@@ -1,4 +1,4 @@
-Skip to content Allen Miller for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Public Health Photo by RDNE Stock project on Pexels.com We are failing our women and children No person should worry that a pregnancy will end in their death or the death of a loved one.
+Skip to content Allen Miller Democrat for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues Public Health Photo by RDNE Stock project on Pexels.com We are failing our women and children No person should worry that a pregnancy will end in their death or the death of a loved one.
 Women’s health care has been on the receiving end of too many cuts over the years.
 Indiana ranks 16th worst for maternal deaths.
 We need to prioritize medical care for pregnant women in order to live up to the pro-life values that this state claims by expanding coverage for pregnancies.
@@ -21,7 +21,7 @@ My wife’s employer offered a similar plan, at a similar cost.
 Medicaid covered his NICU stay.
 The affordable marketplace plans at the time had deductibles high enough that they would have eaten through half of my income.
 We were both working full-time, doing everything “right” but still could not afford health insurance and groceries at the same time.
-Allen Miller for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
+Allen Miller Democrat for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
 Contact: P.O.
 Box 182 Greensburg, IN 47240 electallenmiller@proton.me ‪(812) 651-0617‬ Follow along: Facebook Instagram Threads © # all rights reserved.
 Designed with WordPress .

@@ -23,7 +23,13 @@ She will work hard to save family farms, support working families, create jobs, 
 Constitution, and defend our democracy.
 Chip in to help Becky flip Nebraska's 3rd blue! $ 3 $ 10 $ 20.26 $ 50 $ 100 Other $ 3 $ 10 $ 20.26 $ 50 $ 100 Other If you’ve saved your payment information with ActBlue Express, your donation to help elect Becky Stille for U.S.
 Congress will go through immediately.
-Read below for some of our top priorities Saving Family Farms Creating Good Jobs Quality Healthcare Women's Rights Becky is building a strong campaign!
+BECKY Stille's priorities Fighting for Nebraska Values Becky has overcome many obstacles with the support of family and friends.
+Her journey from single teenage mother to congressional nominee reflects dedication, perseverance, and lessons she has learned along the way.
+She earned a degree in accounting and spent 20 years in the agricultural industry, serving in roles such as accounting clerk, lab technician, quality manager, and production supervisor.
+During that time, she helped develop new soy-based products and was certified in rail operations, maintenance, and training.
+Now, Becky wants to bring that commitment to the U.S.
+House, serving as a voice for the people and helping others pursue the American Dream.
+Saving Family Farms Creating Good Jobs Quality Healthcare Women's Rights Becky is building a strong campaign!
 Becky is building a strong network of grassroots volunteers in every town and county to flip Nebraska's 3rd congressional district blue in 2026.
 FEATURED NEWS Becky will visit every county in Nebraska's 3rd Congressional district in summer 2025.
 Read more Jun 1 2025 news update Foreign Aid Supports Workers in Nebraska's 3rd District.

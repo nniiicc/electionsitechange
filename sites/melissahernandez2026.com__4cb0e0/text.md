@@ -16,8 +16,8 @@ If you’ve saved your payment information with ActBlue Express, your donation w
 The Issues Melissa is focused on what matters most to East Bay families: lowering costs, building housing people can afford, and protecting access to healthcare.
 Here's where she stands.
 Cost of Living Crime & Public Safety Housing Affordability Childcare Access to Healthcare Immigration Climate Change Innovation & Emerging Technology Issues In The News The latest news, press coverage, and updates from Melissa's campaign for Congress.
-Press Release August 20, 2026 Melissa Hernandez Statement on August Election Results Read Press Release Press Release August 13, 2026 Fmr.
-San Francisco Mayor and Assembly Speaker Willie Brown Endorses Melissa Hernandez for Congress Read Press Release Press Release August 12, 2026 FEC Complaint Accuses Aisha Wahab of Laundering Corporate Money Into Her Campaign for Congress Read Press Release See All News Stay Up To Date Follow us on the campaign trail!
+Press Release October 15, 2026 Melissa Hernandez Statement on Attempted Attack Targeting Hindu Temple in Aurora, Illinois Read Press Release Press Release August 20, 2026 Melissa Hernandez Statement on August Election Results Read Press Release Press Release August 13, 2026 Fmr.
+San Francisco Mayor and Assembly Speaker Willie Brown Endorses Melissa Hernandez for Congress Read Press Release See All News Stay Up To Date Follow us on the campaign trail!
 Email Subscribe Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follow us!
 Privacy Policy Contact Accessibility Statement Media Paid for by Melissa Hernandez for Congress 6200 Village Pkwy, Suite 200 Dublin, CA 94568 Melissa Hernandez for Congress © # Close Join Our Campaign!
 Will you chip in to to support Melissa's campaign for Congress? $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.

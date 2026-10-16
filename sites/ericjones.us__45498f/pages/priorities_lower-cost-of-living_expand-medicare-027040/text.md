@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Expand Medicare — Vision, Hearing, Dental, and In-Home Care Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Expand Medicare — Vision, Hearing, Dental, and In-Home Care Why I believe this — and how I’ll fight for it.
 When I was in elementary school — eight years old, maybe younger — I had a job every morning before school.
 I’d walk into the living room around 5:30 and find my dad asleep in his reclining chair, pill bottles lined up along the seat.
 I’d help him up and move him to his bed, so he could rest and I could start my day.

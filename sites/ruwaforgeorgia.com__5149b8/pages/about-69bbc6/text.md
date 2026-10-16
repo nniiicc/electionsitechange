@@ -1,4 +1,4 @@
-0 Skip to Content Home About Policy Endorsements Contact Updates Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Updates Voting Resources Home About Policy Endorsements Contact Updates Voting Resources About RUWA Georgia State Representative Ruwa Romman is not only a legislator—she is also an organizer, a policy strategist, and a bridge builder.
+0 Skip to Content Home About Policy Endorsements Contact Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Voting Resources Home About Policy Endorsements Contact Voting Resources About RUWA Georgia State Representative Ruwa Romman is not only a legislator—she is also an organizer, a policy strategist, and a bridge builder.
 Born in Jordan and the granddaughter of Palestinian refugees, Ruwa moved to Georgia with her family when she was just eight years old.
 Growing up as a Muslim girl in post-9/11 America, she learned early on what it meant to be misunderstood—and what it would take to be heard.
 She’s carried that lesson with her into every aspect of her work.

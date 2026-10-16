@@ -5,4 +5,4 @@ I’d love to hear from you: your thoughts about our district, and any questions
 I look forward to seeing you there!
 Earlier Event: September 14 Joint Canvass w/ Rep.
 Story and Sen.
-Kolker Later Event: September 20 Team Tammy Canvass Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Kolker Later Event: September 20 Team Tammy Canvass Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 18 Nov James Marter, candidate for Congress in Illinois’ 14th District, expressed outrage over president Biden’s plan to pay illegal immigrants $450,000 per person, for being separated at the border.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 18 Nov James Marter, candidate for Congress in Illinois’ 14th District, expressed outrage over president Biden’s plan to pay illegal immigrants $450,000 per person, for being separated at the border.
 The plans, exposed by the Wall Street Journal, involve the Department of Justice, Homeland Security and Health and Human Services.
 Illegal immigrant families could get $1 million from U.S. taxpayers, for breaking into our country.
 “Today, I call on Congresswoman Underwood to denounce this policy, which is an assault on all working Americans and millions of legal immigrants.

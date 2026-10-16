@@ -1,4 +1,10 @@
-Skip navigation menu Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate Food Housing Healthcare Education Top Issues Top Issues Good leadership starts with being clear about where you stand.
+Skip navigation menu Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate My values The Four Foundations These are the four foundational pillars of a person’s life and a fair society’s health.
+When any of the four are missing or deficient, life can be more desperational than aspirational; hope becomes just a distant dream.
+As a state representative, I will devote my time and energy to ensuring the Four Foundations are accessible to everyone.
+And I'll pursue that goal by reaching across the aisle, because protecting these pillars shouldn't be a partisan issue.
+My dream is not just to preserve our heritage, but to build Ohio into a state that invents, leads, and progressively shapes the future.
+A place of inclusion, prosperity, and hope that we can all proudly call home.
+Food Housing Healthcare Education Top Issues Top Issues Good leadership starts with being clear about where you stand.
 My platform is rooted in fairness, opportunity, and the belief that government should work for everyone—not just the powerful few.
 These are issues that affect Ohioans of every background and every political stripe, and I'm committed to building the bipartisan support it takes to actually move the needle.
 Here's what I believe in, what I'm fighting for, and what I'll do when elected.

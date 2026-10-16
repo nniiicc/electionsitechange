@@ -21,8 +21,10 @@ As we who live in the rural parts of the 102nd district know, it is sometimes ve
 It is not uncommon for people in our district to travel 2-4 hours to receive specialist care.
 Let’s incentivize in-demand healthcare providers to work in our area by offering student debt relief for those who work in underserved areas, like our rural area, for five years.
 Read more about how our healthcare policies should be led by science and not social media influencers in my op-ed in the Oneonta Daily Star.
-Empower Rural Infrastructure Safe, sufficient and affordable infrastructure is key to economic development and quality of life.
-Janet supports increasing housing stocks of all types; lowering energy costs through better regulating NYSEG and AI data centers and thoughtfully increasing renewable energy infrastructure; and changing the way Albany distributes funding to be more equitable for small rural communities like ours.
+Empower Rural Infrastructure I support changing the way Albany distributes water and sewer infrastructure funding to local municipalities from the current grant-based model to a dedicated distribution based on need.
+This would immediately reduce expenditures by local governments and ensure greater fairness in how these funds are distributed, especially between urban and rural areas (smaller communities are less likely to have grant writers on staff).
+Highway funds (CHIPS) are already distributed this way.
+Water and sewer (SWAP) should be, too.
 Protecting Communities + the Constitution None of us are free until all of us are free.
 We’re witnessing unprecedented attacks on our rights and freedoms.
 As a member of the Assembly, I will protect women’s right to choose, LGBTQ+ folks’ right to live freely and without fear, citizens’ right to vote without political interference, and every person’s right to due process, a fair and speedy trial, and freedom from unreasonable search and seizure.

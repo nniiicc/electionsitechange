@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate About Rob Wittman Rob Wittman’s life began in Richmond with an act of extraordinary generosity.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate About Rob Wittman Rob Wittman’s life began in Richmond with an act of extraordinary generosity.
 When Rob was born, his birth mother made the difficult decision to place him for adoption.
 He spent the first months of his life at the Children’s Home Society of Virginia in Richmond before being adopted at eight months old by two loving parents who gave him a strong foundation and opportunities that would shape the rest of his life.
 Rob’s father was a World War II Army veteran, and his mother was a public school teacher.

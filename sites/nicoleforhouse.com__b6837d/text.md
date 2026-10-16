@@ -4,7 +4,11 @@ Proven Results.
 It’s been an honor to represent our community in Pierre, and I’m asking for your support for another term!
 During my first term in the South Dakota Legislature, I worked to deliver thoughtful, independent representation for Rapid City and turn local concerns into meaningful action.
 Now, I’m ready to earn another term and keep working for District 32.
-Donate → Join the Campaign Ready, Set, Vote!
+Donate → Join the Campaign The Black Hills are home.
+I grew up here, taught here, and now have the honor of representing District 32 in the South Dakota House of Representatives.
+From the classroom to the Capitol, I bring the same approach: listening, asking questions, and working toward practical solutions.
+My priorities include education, affordability, and protecting the Black Hills for the communities that call this place home.
+Ready, Set, Vote!
 Everything you need to make your voting plan for the November 3, 2026 General Election, all in one place. 🗳️ Vote Early In South Dakota, early voting is officially called in-person absentee voting .
 You do not need to wait until Election Day to cast your ballot.
 Address: Pennington County Auditor’s Office County Administration Building 900 Concourse Drive, Suite 130 Rapid City, SD 57703 Hours: Monday through Friday, 7:00 a.m. to 4:00 p.m.

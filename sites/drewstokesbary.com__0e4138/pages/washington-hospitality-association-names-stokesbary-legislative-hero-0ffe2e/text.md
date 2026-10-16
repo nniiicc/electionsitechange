@@ -3,7 +3,6 @@ Awards Washington Hospitality Association names Stokesbary “2020 Legislative H
 The Washington Hospitality Association “is the state’s leading hospitality trade group, representing more than 6,000 members of the hotel, restaurant and hospitality industry” According to the Hospitality Association, the 2020 Legislative Heroes “championed important issues and assisted on bills that ultimately will improve the way hospitality can support its employees and local communities.” Here’s what the Hospitality Association said about my own efforts during the session: Rep.
 Drew Stokesbary , R-Auburn: Stokesbary showed continued support and dedication through the high-stakes discussions of the consumer data privacy legislation.
 He played an important role as the ranking minority member on the House Appropriations Committee and is always working hard to stop new taxes from impacting the business community.
-Awards More For You Rep.
-Stokesbary’s crowdfunding bill featured in GeekWire In the News Stand for Children announces 2014 legislative candidate endorsements Endorsements Tri-City Herald: “We Agree” with Rep.
-Stokesbary In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards More For You Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Rep.-elect Stokesbary named to House committees In the News TNT: Who can best represent voters in WA’s 31st Legislative District?
+The choice is clear (2022) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

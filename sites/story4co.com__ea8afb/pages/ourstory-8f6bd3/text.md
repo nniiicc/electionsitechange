@@ -20,4 +20,4 @@ In 2018, I was elected to represent District 16 in the Colorado State Senate.
 I now serve as the State Representative for Colorado House District 25.
 My time in office has always reflected my commitment to community advocacy.
 I’m thankful to work for the people of HD-25 guided by my passion for the great outdoors, my appreciation for exceptional public education, and my recognition of the value of mentorship for career professionals.
-It is my honor to serve as your State Representative for House District 25! - Tammy Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+It is my honor to serve as your State Representative for House District 25! - Tammy Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

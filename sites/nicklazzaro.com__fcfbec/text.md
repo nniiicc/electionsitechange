@@ -1,6 +1,6 @@
-Search this site Embedded Files Skip to main content Skip to navigation Lazzaro for State Representative Home About Nick About the District Nick's Record Get Involved Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News Lazzaro for State Representative Home About Nick About the District Nick's Record Get Involved Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News More Home About Nick About the District Nick's Record Get Involved Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News REQUEST A YARD SIGN!
+Search this site Embedded Files Skip to main content Skip to navigation Lazzaro for State Representative Home About Nick About the District Nick's Record Get Involved How to Vote Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News Lazzaro for State Representative Home About Nick About the District Nick's Record Get Involved How to Vote Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News More Home About Nick About the District Nick's Record Get Involved How to Vote Endorsements Nick's Priorities Nick's Policies How Nick Would Vote Ask Nick a Question In the News REQUEST A YARD SIGN!
 Elect Nick Lazzaro State Representative!
-7th Worcester District | People First, Always DONATE TO OUR MOVEMENT I grew up valuing hard work.
+7th Worcester District | People First, Always DONATE TO OUR MOVEMENT HOW TO VOTE I grew up valuing hard work.
 As a self-made entrepreneur and Selectman with over 6 years of local government experience, I've seen firsthand how rising costs squeeze working families.
 That’s why I am running for State Representative — to lower everyday costs, champion small businesses, and bring the transparency we deserve .
 People First, Always.
@@ -20,4 +20,4 @@ As a small business owner, Nick knows firsthand what it takes to make payroll an
 He will cut unnecessary red tape, fight for affordable health insurance, expand access to capital, and make sure Beacon Hill works for Main Street.
 SUPPORT NICK'S MOVEMENT DONATE OR VOLUNTEER TODAY!
 DONATE TODAY VOLUNTEER!
-Nick Lazzaro for State Representative 7th Worcester District Auburn, Millbury, Oxford ( Precincts 2, 3 & 4A ), Leicester/ Rochdale ( Precinct 3) , Charlton ( Precinct 4 ) Paid for the Committee to Elect Nick Lazzaro | All Rights Reserved Google Sites Report abuse Page details Page updated Google Sites Report abuse
+HOW TO VOTE Nick Lazzaro for State Representative 7th Worcester District Auburn, Millbury, Oxford ( Precincts 2, 3 & 4A ), Leicester/ Rochdale ( Precinct 3) , Charlton ( Precinct 4 ) Paid for the Committee to Elect Nick Lazzaro | All Rights Reserved Google Sites Report abuse Page details Page updated Google Sites Report abuse

@@ -13,20 +13,16 @@ Holmes said he hasn’t had a challenger in some time and having a challenger he
 Who knew we could raise $90,000 in four months?
 I didn’t know that, but that’s what we did.
 I thank Haris (Hardaway) for putting his name on the ballot.
-I’m better and the district is better because of it.” Share this Post navigation PREVIOUS Previous post: Minority leaders put legislative agenda behind thoughts and prayers NEXT Next post: Trinity’s project at 150 Centre St. wins BPDA board support Related Post Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
+I’m better and the district is better because of it.” Share this Post navigation PREVIOUS Previous post: Minority leaders put legislative agenda behind thoughts and prayers NEXT Next post: Trinity’s project at 150 Centre St. wins BPDA board support Related Post Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 11:23 am Rep.
-Russell Holmes is ready to start screaming again over police reform bill.
-Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
-The state must do something, Read More Read More In closed-door budget process, Mass.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More In closed-door budget process, Mass.
 House leaders scored big In closed-door budget process, Mass.
 House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 5:44 am <p>By Samantha J.
-Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More “I Work for You.” You're my neighbors.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

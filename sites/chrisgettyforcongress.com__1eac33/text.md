@@ -8,6 +8,7 @@ Name Name Last Name Last Name Email Email Phone Phone Submit By submitting your 
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
+Our priorities Fighting for Our Community These are some of the top priorities our campaign is focused on.
 Cost of Living Immigration & Public Safety Government Accountability Our District .
 Our Choice .
 Our Time is Now !

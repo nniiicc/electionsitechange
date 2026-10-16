@@ -10,6 +10,5 @@ Stokesbary , who serves on the House Appropriations Committee, raised concerns l
 “The House budget is scheduled to be released and voted out of committee this week, and legislators need to know quickly what financial contingencies involving the auditor’s office may arise,” Stokesbary said.
 “It’s my hope that the auditor is forthcoming with the people he serves about his knowledge of this investigation and acts in the best interest of Washington state.
 I believe this process should begin by Auditor Kelley appearing before the Senate Accountability and Reform Committee on April 1.” The legislative session is scheduled to adjourn April 26.
-In the News auditor good government legislature More For You Endorsements announced by the League of Education Voters Endorsements The News Tribune profiles House Position 1 race In the News Tri-City Herald: “We Agree” with Rep.
-Stokesbary In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News auditor good government legislature More For You Sumner hosts open house to discuss Traffic Ave. funding In the News Lawmakers concerned about auditor probe In the News The Seattle Times Endorses Stokesbary for Reelection Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

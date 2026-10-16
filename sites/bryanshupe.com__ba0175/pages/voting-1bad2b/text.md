@@ -23,7 +23,7 @@ Delaware Absentee Voting Information Find Your Polling Place Not sure where you 
 Delaware voters can use the state’s iVote portal to check their voter information and find their assigned polling location.
 Find Your Polling Place at iVote.de.gov General Election: Tuesday, November 3, 2026 | Polls open 7:00 a.m.–8:00 p.m.
 Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 18 Days 20 Hours 14 Minutes 56 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 17 Days 20 Hours 19 Minutes 22 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

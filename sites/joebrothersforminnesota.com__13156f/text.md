@@ -4,7 +4,8 @@ His grandfather threshed up and down western Minnesota and eventually homesteade
 Joe grew up in Montana in a four bedroom house in a family of nine kids.
 After Joe graduated from college, he moved to Minnesota and immediately felt at home.
 The values he was raised with were the same as the Minnesota values he experienced.
-Learn more Read below for some of our top priorities Cutting the cost of daily expenses Preventing fraud & protecting vital programs Strengthening our schools and colleges Making it easier to get around Maintaining the hometown feel sign up to Get Involved Name Name Email Email Phone number Phone number By providing your phone number, you agree to receive political and donation-related text messages from Joe Brothers for Minnesota.
+Learn more Our priorities These are some of the top priorities our campaign is focused on.
+Cutting the cost of daily expenses Preventing fraud & protecting vital programs Strengthening our schools and colleges Making it easier to get around Maintaining the hometown feel sign up to Get Involved Name Name Email Email Phone number Phone number By providing your phone number, you agree to receive political and donation-related text messages from Joe Brothers for Minnesota.
 Message and data rates may apply.
 Message frequency varies.
 Reply HELP to request help or STOP to opt out of text messages.

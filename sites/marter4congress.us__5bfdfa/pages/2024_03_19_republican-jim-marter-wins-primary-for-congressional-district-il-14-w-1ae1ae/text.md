@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 19 Mar Jim Marter has been declared the winner in the Republican Primary for Illinois’ 14th Congressional District.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 19 Mar Jim Marter has been declared the winner in the Republican Primary for Illinois’ 14th Congressional District.
 Marter received overwhelming support from Republican voters in all 7 counties in the District.
 Local media called the race early in the evening with Marter expected to win nearly 80% of the vote.
 “Jim ran a flawless Primary.

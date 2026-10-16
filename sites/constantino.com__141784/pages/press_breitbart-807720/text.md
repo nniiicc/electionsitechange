@@ -7,4 +7,4 @@ Breitbart also reported in February on audio of Gendebien trashing American work
 “Blake Gendebien is on record bailing out illegal alien criminals, he said he wants to stop the Trump admin from using ICE, he wants free healthcare for illegal aliens, and he hates American workers,” said Anthony Constantino.
 “His mind is clearly poisoned by stereotypical left wing propaganda.” ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

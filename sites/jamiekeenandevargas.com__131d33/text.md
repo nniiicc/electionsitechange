@@ -53,8 +53,8 @@ Jamie will fight to end PSE's political lobbying, and fight to strengthen the pe
 Jamie wholly rejects corporate PACs and lobbying money, and will fight for the working people every chance he gets.
 Wondering how we pay for things?
 Click here.
-The opposition is funded by multiple Fortune-500 companies.
-We're funded by YOU: the people.
+My opponent is funded by PSE and Private Equity.
+I'm funded by YOU: the people.
 Consider donating! $# $# $# $# $# Other Endorsements *Note: due to the nature of a two-democrat-race, many organizations' bylaws and procedures require them to endorse the incumbent - unfortunately including many local unions.
 Jamie is extremely pro-union, and is communicating and collaborating with as many local unions as possible, despite their structural limitations!
 Environment and Climate Council of the Washington State Democratic Party The ECC wishes to advance policies that safeguard Washington’s natural landscapes and support meaningful action on climate.

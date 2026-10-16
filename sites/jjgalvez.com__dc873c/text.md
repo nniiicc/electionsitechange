@@ -1,4 +1,4 @@
-0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE DISTRICT 71 NEEDS A NEW VOICE For an Affordable California Lower costs.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch Donate DISTRICT 71 NEEDS A NEW VOICE For an Affordable California Lower costs.
 More jobs.
 A representative who works for you.
 A state that works for everyone.

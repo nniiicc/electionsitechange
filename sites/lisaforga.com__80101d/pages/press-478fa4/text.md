@@ -40,6 +40,17 @@ Solomon Adesanya, D-east Cobb; Rep.
 Mary Frances Williams, D-Marietta; Rep.
 Jordan Ridley, R-Woodstock; and Rep.
 Lisa Campbell, D-Kennesaw.
+READ January 23, 2026 Several Cobb County lawmakers have introduced legislation in the Georgia General Assembly that would require public school districts to broadcast or record public comments at school board meetings if those meetings are aired to the public.
+House Bill 989 would amend state law governing local boards of education to require that any public comment period be recorded or broadcast “in the same manner and to the same extent” as the rest of the public portions of their meetings.
+During a Thursday town hall at Jim Miller Park, Rep.
+David Wilkerson, D-Powder Springs, one of the bill’s co-sponsors, said the bill was about consistency and transparency.
+Wilkerson chairs the Cobb Legislative Delegation.
+The bill’s other co-sponsors include Rep.
+Mekyah McQueen, D-Smyrna; Rep.
+Solomon Adesanya, D-east Cobb; Rep.
+Mary Frances Williams, D-Marietta; Rep.
+Jordan Ridley, R-Woodstock; and Rep.
+Lisa Campbell, D-Kennesaw.
 READ January 22, 2026 During a Cobb Legislative Delegation town hall at Jim Miller Park Thursday night, Rep.
 Lisa Campbell , D-Kennesaw, said Georgia has one of the highest detainee rates and arrest numbers in the country related to immigration enforcement.
 “I believe — and I won’t speak for everyone — but the rule of law right now is being trampled on,” Campbell said.
@@ -48,6 +59,13 @@ And those laws right now, they’re being disregarded, which it’s not constitu
 We all here believe in public safety and we want that, but we do not have to pick and choose.” Campbell cited recent incidents — including the detention of a five-year-old in Minnesota earlier this week and the Jan.
 7 fatal shooting of Renee Good by an ICE agent in Minneapolis — calling them “absolutely unconstitutional, unlawful and unforgivable cruelty.” READ January 16, 2025 Following Governor Brian Kemp’s 2025 State of the State address this morning, Representative Lisa Campbell released the following statement: “This year’s State of the State once again failed to address the barriers that are holding back hardworking Georgia families,” said State Representative Lisa Campbell, “As the Republican party continues to ignore Georgians’ real needs for affordable healthcare, do nothing to curb the cost of sky-rocketing prescription drugs, defund public education for our kids, drag their feet on helping parents afford childcare, and ignore the expanding needs of our seniors and their caregivers, House Democrats have a bold Opportunity Agenda that prioritizes all Georgians.
 It's time to stop leaving people behind and ensure that every Georgian has the chance to live, learn, and earn." READ View fullsize January 30, 2025 Along with many of you, I have a deep respect for our former President Jimmy Carter as a human being, statesman, humanitarian and a devoted environmentalist.
+Indeed, an important part of his presidential legacy is his awareness of the vulnerability of our planet to human activities and climate change, and his many substantive actions to protect our environment.
+President Carter was a first-of-his-kind environmental advocate who encouraged decreased reliance on fossil fuels, less energy consumption at the individual level, and decreased American dependence on foreign oil.
+He created the U.S.
+Department of Energy and more than doubled the land protected by the National Park Service.
+In addition, President Carter believed we should get 20 percent of our power from solar energy and other renewables by the year 2000.
+In true Jimmy Carter style of practicing what he preached, President Carter even installed 32 solar panels on the roof of the White House to heat water in 1979!
+READ January 30, 2025 Along with many of you, I have a deep respect for our former President Jimmy Carter as a human being, statesman, humanitarian and a devoted environmentalist.
 Indeed, an important part of his presidential legacy is his awareness of the vulnerability of our planet to human activities and climate change, and his many substantive actions to protect our environment.
 President Carter was a first-of-his-kind environmental advocate who encouraged decreased reliance on fossil fuels, less energy consumption at the individual level, and decreased American dependence on foreign oil.
 He created the U.S.
@@ -67,8 +85,11 @@ READ September 29, 2023 The expiration of funds from the American Rescue Plan pu
 Without those funds, many childcare centers will close.
 According to The Century Foundation, Georgia is projected to lose 10,575 child care jobs and experience 944 child care program closures resulting in the loss of care for more than 80,000 of our children.
 READ View fullsize August 25, 2023 Our schools should be places where students and families come together to learn to how to think, how to read, how to build healthy relationships based on respect, integrity, and inclusion.Our teachers have an important and trusted role in our schools to help inspire a love of reading, discussion, and critical thinking .
+READ August 25, 2023 Our schools should be places where students and families come together to learn to how to think, how to read, how to build healthy relationships based on respect, integrity, and inclusion.Our teachers have an important and trusted role in our schools to help inspire a love of reading, discussion, and critical thinking .
 READ August 22, 2023 While Georgia’s educational system is firmly established, increasingly our public schools are facing grave challenges ranging from the elimination of professional teaching practices rooted in truth, evidence, diversity, and inclusion; our responsibility to maintaining equitable and adequate educational funding; and the critical need to ensure that our students have the freedom to learn.
 READ View fullsize August 8, 2022 Today, the Georgia AFL-CIO, the state federation of labor representing more than 120,000 members, endorsed Georgia House District 35 candidate Lisa Campbell in recognition of her commitment to defending the right of all working people to good jobs, fair wages, and safe working conditions.
+“I am honored that our campaign has earned the endorsement of the Georgia AFL-CIO,” said Lisa Campbell.
+READ August 8, 2022 Today, the Georgia AFL-CIO, the state federation of labor representing more than 120,000 members, endorsed Georgia House District 35 candidate Lisa Campbell in recognition of her commitment to defending the right of all working people to good jobs, fair wages, and safe working conditions.
 “I am honored that our campaign has earned the endorsement of the Georgia AFL-CIO,” said Lisa Campbell.
 READ June 6, 2022 I am thrilled to have Progressive Turnout Project’s support in this election!
 Protecting access to the ballot is a key component to protecting our democracy.
@@ -82,11 +103,15 @@ Pledging to leverage her leadership experience and advocate for all Georgians, t
 READ View fullsize May 4, 2022 Today, EMILY’s List, the nation’s largest resource for women in politics,endorsed Ga.
 House District 35 candidate Lisa Campbell in recognition of her commitment to defending reproductive justice.
 “EMILY’s List is excited to endorse Lisa Campbell to represent Georgia’s 35th House District,” said Sarah Curmi, Vice President of State and Local Campaigns at EMILY’s List.
+READ May 4, 2022 Today, EMILY’s List, the nation’s largest resource for women in politics,endorsed Ga.
+House District 35 candidate Lisa Campbell in recognition of her commitment to defending reproductive justice.
+“EMILY’s List is excited to endorse Lisa Campbell to represent Georgia’s 35th House District,” said Sarah Curmi, Vice President of State and Local Campaigns at EMILY’s List.
 READ May 2, 2022 Today, Ga.
 House District 35 candidate Lisa Campbell was endorsed by the Georgia Association of Educators for her commitment to public education.
 READ March 25, 2022 Lisa Campbell, Candidate Georgia House District 35, Endorsed by Georgia WIN List.
 Aiming to be the first woman elected to the seat, Campbell receives statewide support as well-poised candidate to flip strategic district.
 MORE View fullsize March 5, 2022 Lisa Campbell hopes to bring 30 years of business experience to the Georgia legislature as the representative for newly-redrawn House District 35.
+READ March 5, 2022 Lisa Campbell hopes to bring 30 years of business experience to the Georgia legislature as the representative for newly-redrawn House District 35.
 READ January 21, 2022 Lisa Campbell has officially announced her candidacy for the newly redrawn Georgia House of Representatives District 35, representing the communities of Kennesaw and Acworth.
 READ August 7, 2020 Candidate Conversations : Lisa Campbell, Democratic Candidate for HD-35.
 Listen to this PeachPod Episode here .

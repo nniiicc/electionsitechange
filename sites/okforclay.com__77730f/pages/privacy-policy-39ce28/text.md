@@ -1,6 +1,6 @@
 Facebook Twitter Instagram Re-Elect Clay on Nov.
 3rd!
-Meet Clay Core Principles Core Issues Contact Clay Donate Select Page Privacy Policy “ FRIENDS OF CLAY STAIRES FOR REPRESENTATIVE 2024 TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Meet Clay Core Principles Core Issues Contact Clay Donate Select Page Privacy Policy “ FRIENDS OF CLAY STAIRES FOR REPRESENTATIVE 2026 TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 We respect your right to privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.

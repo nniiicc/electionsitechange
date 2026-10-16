@@ -22,6 +22,6 @@ Yes.
 The Endorsements page features community leaders and organizations supporting Darryl Block’s campaign for Florida House District 36.
 What is the campaign’s overall goal?
 The campaign aims to bring people-first leadership to Tallahassee and represent House District 36 with a focus on practical solutions for everyday concerns.
-CONTRIBUTIONS CAN BE MAILED TO: 411 W First St, Unit 5036, Sanford, FL 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
+CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
 Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

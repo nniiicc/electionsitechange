@@ -1,4 +1,4 @@
-0 Skip to Content Home A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu Home A Lifetime of Work & Service Why I'm Running Issues Donate Home A Lifetime of Work & Service Why I'm Running Issues Donate About a year ago, my daughter asked me, "Mommy, what's going to happen to us?" It took me back to my own childhood, when I worried about world war, terrorism, nuclear weapons.
+0 Skip to Content A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu A Lifetime of Work & Service Why I'm Running Issues Donate A Lifetime of Work & Service Why I'm Running Issues Donate About a year ago, my daughter asked me, "Mommy, what's going to happen to us?" It took me back to my own childhood, when I worried about world war, terrorism, nuclear weapons.
 I remember asking my elders about WWII: "When did you know?
 What did you do?" They fought.
 Some, like my great uncle, who stormed the beach at Normandy, never made it home.

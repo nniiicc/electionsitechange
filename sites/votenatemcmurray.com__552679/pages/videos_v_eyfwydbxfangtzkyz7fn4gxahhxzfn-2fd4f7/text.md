@@ -58,7 +58,8 @@ The only question is: who’s willing to step forward?
 I am.
 How about you?
 Previous Why Is Southern Ontario Doing Better Than Western New York?
-Next North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+Next North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!
+Why Is Southern Ontario Doing Better Than Western New York?
+Volunteer and Sign Up for Updates!

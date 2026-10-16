@@ -1,0 +1,10 @@
+Familias más fuertes.
+Comunidades más fuertes.
+Un Washington más fuerte Sobre Peter Cuestiones Artículos de interés LEGISLATURE VOTER INFO Blog de Peter DONATE Seguir Seguir Seguir Esta semana he tenido el placer de pronunciar el discurso de apertura de la convención del Washington State Building and Construction Trades Council en Ridgefield, en ilani , y dar la bienvenida a cientos de trabajadores cualificados, afiliados e invitados de todo el estado de Washington.
+Puse de relieve la seguridad de los trabajadores, la asequibilidad, el desarrollo de la mano de obra y el aprendizaje, y las iniciativas para abordar la salud mental. ¡¡Gracias a todos los organizadores y simpatizantes!! ← Artículo anterior Artículo siguiente → Entradas más recientes Cuando las prioridades locales se convierten en inversiones estatales Oct 7, 2026 | Elegir a Peter Abbarno Para la Cámara de Comercio de C-C Una de las cosas más importantes a la hora de representar a nuestra comunidad en Olympia es escuchar a los líderes locales, identificar las necesidades reales y, después, trabajar juntos para convertir esas prioridades en resultados....
+Se va a modernizar el edificio de Salud Pública del condado de Lewis Oct 2, 2026 | Sin categoría En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
+Pronto la tendrá gracias a una asignación directa de 1,5 millones de dólares del presupuesto de capital suplementario...
+Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington Ago 27, 2026 | Blog Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
+Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer...
+Mantente al día de las últimas noticias de Olimpia.
+Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

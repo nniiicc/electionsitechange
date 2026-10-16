@@ -8,7 +8,7 @@ APP is proud to endorse Senator Tom Cotton for reelection and will always stand 
 Parents should raise their children, workers should get ahead on merit, and Washington should respect both.
 I’ll keep fighting for those principles and against the radical Left’s efforts to force its ideology on our families and our country.” “Democrat Hallie Shoffner has refused to take positions on many issues important to Arkansas families, including the right to life, religious liberty, and parents’ rights to choose what’s best for their kids,” said James Arnold, Cotton campaign spokesman.
 “Arkansans expect their senators to share their conservative values and fight for them in Washington, not fly to Peru to lead a trans rights parade.” The endorsement comes following news that Senator Cotton’s liberal Democrat opponent, Hallie Shoffner, once flew to Peru to “lead” a trans-rights advocacy parade .
-At the Hallie Shoffner wrote: “I marched in Lima’s 9th Annual Gay Pride Parade yesterday (Saturday, July 10, 2010).
+At the time Hallie Shoffner wrote: “I marched in Lima’s 9th Annual Gay Pride Parade yesterday (Saturday, July 10, 2010).
 Now, when I say I marched in Lima’s 9th Annual Gay Pride Parade, I marched in the FRONT of Lima’s 9th Annual Gay Pride Parade.
 I mean in the very front.
 Leading the charge.

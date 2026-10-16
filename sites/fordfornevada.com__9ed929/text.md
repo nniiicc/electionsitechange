@@ -17,7 +17,8 @@ Raised in a working-class family, he relied on food stamps, Medicaid, and public
 He went on to become a public school teacher, earn five degrees, and work his way up to lead Nevada's Senate and serve as Attorney General.
 Along the way, he's taken on opioid profiteers, corporate landlords, and anyone who tries to exploit Nevada families.
 Now, he's running for Governor to build a Nevada where every family in every neighborhood can get ahead.
-Learn more Read below for some of our top priorities Housing Affordability Public Safety Cost of Living Education Jobs & Economy sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By providing your cell phone number you consent to receive periodic text message updates from the Committee to Elect Aaron Ford, including by automated text messages.
+Learn more Fighting for Our Community These are some of the top priorities our campaign is focused on.
+Housing Affordability Public Safety Cost of Living Education Jobs & Economy sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By providing your cell phone number you consent to receive periodic text message updates from the Committee to Elect Aaron Ford, including by automated text messages.
 Txt HELP for help, STOP to end.
 Msg&Data rates may apply.
 Terms of Service & Privacy Policy apply.

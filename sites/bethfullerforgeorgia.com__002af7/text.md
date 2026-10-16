@@ -2,11 +2,7 @@
 Edit the block and enter a storage location via the Storage tab.
 First Name Last Name Email Address Sign Up Follow the campaign!
 Yard Signs Available!
-UPCOMING EVENTS Events Oct 14 October 14, 2026 Meet & Greet with Beth Fuller for Georgia October 14, 2026 Join us for a Meet & Greet with Beth Fuller, candidate for Georgia State House District 53.
-Hear about why she is running for the State House and her policy priorities, and she'll answer your questions and listen to your thoughts on how we can make Georgia a better place to live for everyone.
-This event is located in Buckhead.
-The address will be provided upon RSVP.
-Read more → October 14, 2026 Oct 18 October 18, 2026 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA October 18, 2026 Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
+UPCOMING EVENTS Events Oct 18 October 18, 2026 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA October 18, 2026 Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
 We will meet to provide training and materials for your chosen candidate.
 All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.
 If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!

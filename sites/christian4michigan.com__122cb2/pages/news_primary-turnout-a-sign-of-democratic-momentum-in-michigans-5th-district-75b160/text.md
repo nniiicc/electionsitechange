@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release August 5, 2026 Primary Turnout a Sign of Democratic Momentum in Michigan's 5th District The results of Michigan's Aug.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release August 5, 2026 Primary Turnout a Sign of Democratic Momentum in Michigan's 5th District The results of Michigan's Aug.
 4 primary election demonstrate growing enthusiasm among Democratic voters and increasing momentum in the race for the 5th Congressional District.
 Media Contact: Lenore Goldman, Campaign Consultant Lenore@christian4michigan.com christian4michigan.com August 5, 2026 FOR IMMEDIATE RELEASE Primary Turnout a Sign of Democratic Momentum in Michigan's 5th District JACKSON, Mich. — Democratic congressional candidate Christian Vukasovich on Wednesday said the results of Michigan's Aug.
 4 primary election demonstrate growing enthusiasm among Democratic voters and increasing momentum in the race for the 5th Congressional District.
@@ -25,6 +25,6 @@ Accept the democratic challenge." ### Christian Vukasovich Running for U.S.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

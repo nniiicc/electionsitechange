@@ -120,7 +120,7 @@ Because I believe that being present for the people we love is one of the most m
 I do not know every challenge this decision will bring.
 But I know why I made it.
 For now, I am right where I need to be.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted in: Uncategorized ← Previous: 2026 General Election Voting in Cabarrus County Leave a Reply Cancel reply Comment Name Email Website Δ Together: Not Me.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted in: Uncategorized ← Previous: 2026 General Election Voting in Cabarrus County Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Together: Not Me.
 Not You.
 US.
 EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Discover more from Thomas Monks 4 North Carlona Subscribe now to keep reading and get access to the full archive.

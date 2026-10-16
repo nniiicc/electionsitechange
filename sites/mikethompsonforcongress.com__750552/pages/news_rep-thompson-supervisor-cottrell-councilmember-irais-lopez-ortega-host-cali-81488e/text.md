@@ -1,5 +1,5 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Rep.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources Rep.
 Thompson, Supervisor Cottrell, Councilmember Irais Lopez-Ortega to Host Calistoga Town Hall Press Release Posted: September 25, 2026 Calistoga, CA – On Monday, September 28th at 5:30 pm Rep.
 Mike Thompson, Supervisor Anne Cottrell, and Councilmember Irais Lopez-Ortega will host a town hall in Calistoga.
 All constituents of California’s Fourth Congressional District and members of the press are invited to attend.

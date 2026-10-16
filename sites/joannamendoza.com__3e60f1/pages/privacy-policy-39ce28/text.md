@@ -56,4 +56,4 @@ By providing your cell phone number you consent to receive recurring updates fro
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
 Privacy Policy and Terms and Conditions .
-Paid for by Mendoza for Congress
+Paid for by Mendoza for Congress En español

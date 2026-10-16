@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Bullying Cuba into China's arms Steve Woll May 14 2 min read It's crazy how much the situation in Cuba encapsulates so much of the Trump Administration's ethos.
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Questionnaires Bullying Cuba into China's arms Steve Woll May 14 2 min read It's crazy how much the situation in Cuba encapsulates so much of the Trump Administration's ethos.
 For those just tuning in, at the beginning of this year, the United States effectively imposed a blockade on the oil that has driven Cuba for decades.
 Point 1 - another case of the U.S. bullying a small, basically helpless nation.
 The latest reports include 40 hour power outages , threatening vulnerable citizens.

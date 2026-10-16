@@ -1,5 +1,6 @@
-October 9th is the deadline to update your Voter Registration!
-Check yours now → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Twenty years in uniform.
+Vote early Oct.
+28–31.
+Find your early voting site → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Twenty years in uniform.
 Now serving at home.
 The Air Force brought me to Tinker Air Force Base in 2010, and Oklahoma has been home for most of the years since.
 Kim grew up in Oklahoma City, and much of our family lives here in Southwest Oklahoma City.

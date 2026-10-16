@@ -1,7 +1,7 @@
 Skip to content Home About Issues Get Involved Home About Issues Get Involved Donate Donate Issues Categories Affordability AI and Data Centers Education Environment & Public Lands Healthcare Search Recent Posts Endorsed by Western Native Voice Action Fund The Tax Cut That Skips the Heights My Answers to the Yellowstone County News Questionnaire A Neighbor, Not a Career Politician Your ballot arrives this week.
 Before you open it, here is what I would like you to know.
-What I did this year I have lived in the Heights for more than twenty-five years.
-This year I knocked on [FILL: door count] doors here.
+What I did this year I raised my family and built my business here in the Heights.
+This year I knocked on doors all across it.
 Most of them belonged to people who will not vote for me.
 I knocked anyway, because that is the job.
 Every door I missed got a postcard in my handwriting saying I came by and I would still like to hear what is on their mind.
@@ -24,7 +24,7 @@ Why me I fix things for a living.
 I have run a small business here since 2001, which means twenty-five years of making payroll, keeping promises that cost money, and getting told no on a Tuesday.
 I serve on a disability-led board where the people affected direct the work, and where I am regularly the least expert person in the room.
 That has been good for me.
-I am working with the Heights Business Association to build a TIF district, so this part of town stops getting skipped when the money gets handed out.
+I belong to the Heights Business Association, alongside neighbors who want this part of town to thrive.
 None of that is a political résumé.
 It is the reason I think I can do this job.
 What the job actually is I will not promise you outcomes.
@@ -42,5 +42,5 @@ Government belongs to us.
 We reclaim it when we show up.
 Your ballot is in the mail.
 Please fill it out, sign the envelope, and send it back.
-Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Updates Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Notify Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
 Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

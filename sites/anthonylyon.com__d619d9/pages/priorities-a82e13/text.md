@@ -22,7 +22,7 @@ DEVELOPMENT I believe firmly that development and zoning decisions rest solely w
 One of the most frequent concerns I’ve heard from voters is that Harford has developed too quickly, and I agree.
 To our local leaders, I will advocate for responsible development that respects our county’s open space.
 In Annapolis, I will lobby for more funding to improve our roads and other infrastructure.
-I'm proud to be a Protect Perryman Peninsula (3P) recommended candidate, signifying my commitment to sustainable development and decisions based in feedback from residents.
+I'm proud to have been a Protect Perryman Peninsula (3P) recommended candidate in the primary, signifying my commitment to sustainable development and decisions based in feedback from residents.
 ENERGY I support an “all of the above” approach to energy production.
 Maryland uses five times as much energy as we generate, and we import 40% of our energy from other states.
 These factors, together with others like data centers and a grid backlog, continue to drive up our energy prices to outrageous levels.

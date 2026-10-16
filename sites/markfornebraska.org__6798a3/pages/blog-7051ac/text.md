@@ -1,4 +1,20 @@
-0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 12 - Our First Ad Knocks it Out of the Park.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 15 - Mark Releases Video of Debate with Cardboard Adrian Smith Today we released a video of my debate with a cardboard cutout of Adrian Smith.
+You can watch the full debate here: DEBATE In July Nebraska Public Media, KRVN, and the Omaha World-Herald invited the candidates to debate.
+Adrian Smith declined.
+The Democrat missed the deadline to respond by several weeks, so those media outlets decided not to hold any debate.
+According to Matt Olberding of Nebraska Public Media, Mark was the only candidate to respond to the debate invitation in a timely fashion.
+October 15 - Mark Hosts Ag Summit in Wood River On October 15th I hosted an ag summit in Wood River.
+Our panelists included Nebraska Farmers Union President John Hansen and broadcaster Trent Loos.
+While John and Trent don’t agree on everything, we found some common ground.
+I found this very helpful and was proud that we had an event that fostered genuine discussion.
+October 14 - Mark Hosts Town Hall in McCook On October 14th I hosted a Town Hall at the Pour Farm in McCook.
+Great venue.
+I enjoyed answering questions from area residents and learning about their concerns.
+October 14 - Mark Visits Imperial On October 14th Solomon and I visited Imperial, NE.
+We hosted a Meet and Greet at a local restaurant and I met with local residents.
+It’s a small town, but we gave away ten yard signs.
+People want change.
+October 12 - Our First Ad Knocks it Out of the Park.
 Please share!
 On October 12th we release our first ad.
 You can view it here: https://youtu.be/DtcqbmT097k?si=wGDDVEpvbemTltsh We can’t afford TV ads.

@@ -1,4 +1,9 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News The Downballot • August 20, 2026 LISTEN: How a Kansas Democrat won an upset by running against data centers We talk to state Sen.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News Sunflower State Journal • September 4, 2026 Holscher wins endorsement from AFL-CIO Democratic state Sen.
+Cindy Holscher secured a key union endorsement Friday in the Kansas governor's race from the Kansas AFL-CIO, which praised her 100% voting record on the side of organized labor.
+Topeka Capital Journal • August 31, 2026 Kansas voters have the chance to break historical trends this election When Kansas voters fill out their ballots for the November 2026 general election, they will have the opportunity to break long-standing historical trends.
+A Democrat winning the U.S.
+Senate would break a nearly 100-year winning streak by Republicans.
+The Downballot • August 20, 2026 LISTEN: How a Kansas Democrat won an upset by running against data centers We talk to state Sen.
 Cindy Holscher, the Democratic nominee for governor of Kansas, about her race.
 She tells us how she got into politics during former Gov.
 Sam Brownback’s disastrous time in office and how Democrats have strengthened in Kansas during the Trump era.

@@ -8,7 +8,7 @@ First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP C
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP. yOUR SUPPORT MAKES A DIFFERENCE! $ 8.02 $ 15 $ 25 $ 50 $ 100 Other $ 8.02 $ 15 $ 25 $ 50 $ 100 Other ABOUT ME I'm a parent, economist, educator, and selectboard member running to tackle the costs of housing, healthcare, and education.
-Learn more Read below for some of our top priorities LOWER HEALTHCARE COSTS MORE AFFORDABLE HOUSING PROTECT PUBLIC EDUCATION sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Byker for Vermont.
+Learn more MY Priorities Fighting for Our CommunitIES As your representative in Montpelier, these will be my top priorities: LOWER HEALTHCARE COSTS MORE AFFORDABLE HOUSING PROTECT PUBLIC EDUCATION sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Byker for Vermont.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

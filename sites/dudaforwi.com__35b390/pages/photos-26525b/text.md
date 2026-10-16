@@ -16,7 +16,9 @@ It was great to meet John Steinbrink and Peter Barca.
 #packers‼️ #PackersNation • Oct 6, 2026 · 1 of 3 on Bluesky • I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
 #packers‼️ #PackersNation • Oct 6, 2026 · 2 of 3 on Bluesky • I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
 #packers‼️ #PackersNation • Oct 6, 2026 · 3 of 3 on Bluesky • From the trail Everything else, newest first.
-Meet John Perryman and myself at the Green Grocer in Williams Bay from 5pm-7pm this Friday October 16th!
+Thank you everyone for coming last night.
+We had a great time with people that care about preserving democracy.
+#democracy #fundraiser #beer #coffee • Oct 15, 2026 on Bluesky • Meet John Perryman and myself at the Green Grocer in Williams Bay from 5pm-7pm this Friday October 16th!
 We want to hear what matters most to you! • Oct 14, 2026 on Bluesky • If you are in the East Troy area on October 13, 2026, please join me at 2894 On Main. • Oct 8, 2026 on Bluesky • We still have signs of various size available.
 Let me know if you want one ! • Oct 6, 2026 on Bluesky • It was great to meet Mark Pocan and hear him speak on a panel with Mitchell Berman for Congress , Bob Wirch and Ben DeSmidt on Veterans health benefits.
 Thank you all for your contributions and advocacy for our veterans. • Oct 6, 2026 on Bluesky • @bermanforcongress.bsky.social • Oct 4, 2026 on Bluesky • This is lowest gas price I can find today and this is unacceptable.

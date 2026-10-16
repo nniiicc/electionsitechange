@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 15, 2026 Vukasovich Earns UAW Region 1A Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of UAW Region 1A in Michigan’s 5th Congressional District.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 15, 2026 Vukasovich Earns UAW Region 1A Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of UAW Region 1A in Michigan’s 5th Congressional District.
 Vukasovich Earns UAW Region 1A Endorsement MONROE, Mich. — Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of UAW Region 1A in Michigan’s 5th Congressional District.
 UAW Region 1A represents approximately 150,000 active and retired members across Monroe, Washtenaw and Wayne counties and communities extending to the Ohio border.
 “I am honored to have the support of UAW Region 1A,” Vukasovich said.
@@ -12,6 +12,6 @@ This campaign is about making sure working people have a voice at the table—an
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

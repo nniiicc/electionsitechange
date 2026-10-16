@@ -2,9 +2,11 @@
 As a legislator, I will fight for even more funds social service programs that will help victims of sex abuse.
 And fight for true rehabilitation and supervision program(s) for the offenders.
 With the latest developments of sex abuse crimes if you, a friend and/or a loved one need any help, please visit satchawaii.org You matter!
-#OurCommunityFirst #Kalihi #Hawaii #VoteYbanez4Kalihi Previous YBANEZ - Walk & Talk | Monday, August 3rd Next YBANEZ - Walk & Talk 7/29/2026 You Might Also Like Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst YBANEZ 4 KALIHI - Support Local!
-Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing Rail Interview w/ Miss Ro Are you registered to vote?
+#OurCommunityFirst #Kalihi #Hawaii #VoteYbanez4Kalihi Previous YBANEZ - Walk & Talk | Monday, August 3rd Next YBANEZ - Walk & Talk 7/29/2026 You Might Also Like Moment of Self-Reflection from Amanda Ybanez "Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Door to Door at Kuhio Park Terrace in Kalihi!
+YBANEZ - Mahalo Gov.
+Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
+From Amanda YBANEZ - Mahalo!
+We are onto the general! 🤙🤙 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

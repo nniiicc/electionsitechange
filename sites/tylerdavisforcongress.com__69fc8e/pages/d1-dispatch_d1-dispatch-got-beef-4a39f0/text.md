@@ -1,5 +1,5 @@
 0 Skip to Content Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate Open Menu Close Menu Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate Open Menu Close Menu Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate D1 Dispatch - Got Beef?
-Aug 27 Written By Tyler Davis Want to volunteer?
+Aug 27 Written by Tyler Davis Want to volunteer?
 Please reach out via Contact!
 Click on the above page for Events or visit the Events page.
 Donate Tyler Davis Previous Previous D1 Dispatch - Future Now Loading… Next Next District 1 Dispatch Newsletter Block This newsletter signup form needs a storage option.

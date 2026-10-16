@@ -3,7 +3,7 @@ It's a fight for Florida's future.
 Join the movement New ad · the whole platform in 15 seconds What David is fighting for Housing Healthcare Education No data centers We change the world in...
 # Days # Hours # Minutes # Seconds until Election Day Election Day is here.
 Go vote.
-Oct 22 Vote-by-mail deadline Oct 24 Early voting begins Nov 3 election day This isn't just another election.
+Oct 22 Vote-by-mail deadline Oct 19 Early voting begins Nov 3 election day This isn't just another election.
 It's a decision about what Florida becomes next.
 People feel it.
 Something is off.

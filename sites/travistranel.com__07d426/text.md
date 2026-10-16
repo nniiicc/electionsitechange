@@ -13,8 +13,5 @@ Thank you for your support!
 Sincerely, Questions?
 Suggestions?
 Let’s get to work.
-Contact Travis Contact Tranel For Assembly | PO Box 111 | Platteville, WI 53818 608-778-5567 travis@travistranel.com Page likes: 2,084 (opens in a new tab) Tranel for Assembly (opens in a new tab) VOTE - Travis Tranel - NOV 3 Tranel for Assembly is with College Republicans of UW-Platteville and 4 others.
-#ago Had a great time at the UW–Platteville Homecoming Parade today!
-Thank you for the warm welcome, and a special thanks to the organizers and volunteers who worked hard to make the parade such a success.
-The university is a tremendous asset to Southwest Wisconsin, and it was wonderful to celebrate its community spirit on such a beautiful day! ...
+Contact Travis Contact Tranel For Assembly | PO Box 111 | Platteville, WI 53818 608-778-5567 travis@travistranel.com Page likes: 2,084 (opens in a new tab) Tranel for Assembly (opens in a new tab) VOTE - Travis Tranel - NOV 3 Tranel for Assembly #ago Next week is packed with events! ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Locations Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact © # Travis Tranel for 49th Assembly - All Rights Reserved Authorized and Paid for by Tranel for Assembly, Rosie Bechen, Treasurer

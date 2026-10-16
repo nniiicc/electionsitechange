@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 21 Jun Congressional Candidate Jim Marter announced today that he is running against Congresswoman Lauren Underwood for Illinois’ 14th Congressional District.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 21 Jun Congressional Candidate Jim Marter announced today that he is running against Congresswoman Lauren Underwood for Illinois’ 14th Congressional District.
 Marter said, “Illinois deserves better and the people of the 14th District deserve to be represented again.
 Lauren Underwood’s votes for irresponsible, budget-busting bills have fueled inflation and driven massive federal debt, causing great hardship on Illinois’ working families.
 Her support of unfettered open borders and lawless immigration policy is putting our safety and security at grave risk.

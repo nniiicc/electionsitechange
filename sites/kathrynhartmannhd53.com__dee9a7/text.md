@@ -52,7 +52,8 @@ I will work to conserve our natural resources along the Medina River, for fishin
 Women's health Every woman in rural Texas deserves access to the care she needs, close to home.
 Mental healthcare for every child As a pediatric therapist, Kathryn knows early help changes lives.
 She'll work to make mental healthcare available to every child under 18 in District 53, including kids in our smallest towns.
-Out in the community Showing up for the Hill Country After the flood in Hunt On July 6, 2025, Kathryn helped her husband repair a USGS water gage destroyed by the flood in Hunt, running tools from the truck so he could finish before the next wave of rain.
+Out in the community Showing up across all 16 counties From the Hill Country to the prairie to the desert of the Pecos: Bandera, Crane, Crockett, Edwards, Kerr, Kimble, Llano, Mason, McCulloch, Medina, Menard, Pecos, Real, Schleicher, Sutton and Upton counties.
+After the flood in Hunt On July 6, 2025, Kathryn helped her husband repair a USGS water gage destroyed by the flood in Hunt, running tools from the truck so he could finish before the next wave of rain.
 Mission trip to Ghana Kathryn provided physical therapy to patients from 6 weeks to 60 years old at a Catholic mission and orphanage that serves people of all faiths.
 A Walk Through Bethlehem She volunteers at the Lakehills Community Center, where people of every faith come together to recreate Old Town Bethlehem.
 All are welcome.

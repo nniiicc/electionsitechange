@@ -15,7 +15,15 @@ Talking with neighbors in District 12 Issues The Road Ahead Exit 1 Infrastructur
 Work closely with local, county, and state policymakers to modernize our roadways so they finally keep up with our rapidly growing district.
 Push for a dedicated state infrastructure fund tied to high-growth corridors like southern Butler County.
 Hold developers accountable for their fair share as they profit from Butler County's growth.
-Exit 2 Affordability Raise the minimum wage to $15/hr Enforce state vehicle inspection to every other year; 4 years after the purchase of a new vehicle End price gouging on utilities and food prices Keep prescription prices low and affordable Exit 3 Education Require transparency and accountability in programs that claim to provide school choice for low-income students Heavier investments into community colleges and trade schools Recruit and retain teachers via competitive pay The Record Wrong Turn Scott Timko is running again in November.
+Route 228 $102M final stretch Commitment secured Brandon secured $50 million to help finish Route 228 Brandon hosted PennDOT Secretary Mike Carroll and secured a commitment of state funds for half of the estimated $102 million needed to finish Route 228 from Franklin Road to Pittsburgh Street, through Cranberry Township, Adams Township, and Seven Fields.
+Local advocates are now pursuing federal grants for the rest.
+Work is expected to start next year and finish by 2030.
+WPXI, Oct.
+14, 2026 Very ecstatic.
+Excited.
+Grateful for the secretary’s commitment.
+Brandon Dukes “The need is there, the traffic volume is there.
+It’s time to update that road.” Mike Carroll, PennDOT Secretary Exit 2 Affordability Raise the minimum wage to $15/hr Enforce state vehicle inspection to every other year; 4 years after the purchase of a new vehicle End price gouging on utilities and food prices Keep prescription prices low and affordable Exit 3 Education Require transparency and accountability in programs that claim to provide school choice for low-income students Heavier investments into community colleges and trade schools Recruit and retain teachers via competitive pay The Record Wrong Turn Scott Timko is running again in November.
 Before the rematch, here is what the record shows, with every source linked.
 A tax plan that shifts the bill onto Butler County homeowners Vouchers that pull dollars out of Seneca Valley and Mars Area On the record favoring defunding Medicare and Medicaid Open the File Public records and published reporting.
 Every claim is sourced inside.
@@ -27,7 +35,8 @@ Here is where it landed.
 Dems keep flipping Trump-country seats in special election streak CNN · Aug.
 19, 2026 Democrat Brandon Dukes flips Pennsylvania House District 12 in special election WTAE · Aug.
 2026 Special election in Butler County shifts power in seat for first time since the 1990s WPXI · Aug.
-2026 MS NOW Democrats flip another legislative seat, winning in a district Trump carried by 18 points Aug.
+2026 WPXI $102M in funding approved for Route 228 project ongoing for decades Oct.
+14, 2026 MS NOW Democrats flip another legislative seat, winning in a district Trump carried by 18 points Aug.
 20, 2026 Philadelphia Inquirer Democrats hope Brandon Dukes’ win in Western Pa. signals a blue wave in November Aug.
 19, 2026 Newsweek Democrats Declare Victory In Pennsylvania Seat Held By Republicans Since 1999 Aug.
 19, 2026 Pennsylvania Capital-Star Democrats declare victory after tight special election in Trump+18 state House district Aug.

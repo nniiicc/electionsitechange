@@ -22,7 +22,7 @@ I will comply with federal law and work constructively with federal partners whe
 If federal overreach threatens Arkansas’s lawful authority over our elections, I will hold the line. ▶ Watch Kelly’s Message This Office Belongs to the People!
 Kelly explains why she believes the Secretary of State’s office must remain accountable to the people it serves — clear, direct, and in her own words.
 See My Plan Meet Kelly Captions are available on YouTube after you press play.
-Kelly Across Arkansas 294 campaign stops · 65 counties Full county calendar → Counties visited 65 of 75 Completed stops 285 Upcoming stops 9 All public stops 294 Get Involved Your power is closer than you think.
+Kelly Across Arkansas 294 campaign stops · 65 counties Full county calendar → Counties visited 65 of 75 Completed stops 286 Upcoming stops 8 All public stops 294 Get Involved Your power is closer than you think.
 Be part of it Start with five people you know.
 Volunteer.
 Host Kelly.

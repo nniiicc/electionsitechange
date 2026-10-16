@@ -15,8 +15,8 @@ LEARN MORE LEARN MORE ISSUE Reducing Costs for Ohio Families Read More ISSUE Cle
 THE LATEST UPDATES Two great stops today at Outpour Coffee in Fremont and Hometown Bakery in Vermilion.
 Such a privilege to sit ...
 #ago Incredibly honored to have President Obama's support in this fight.
-October 13, 2026 Press Releases Oct 14, 2026 Dr.
-Amy Acton on The 11th Hour: “I’ve worked with people on both sides of the aisle to try to improve the lives of Ohioans” TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+October 13, 2026 Press Releases Oct 15, 2026 Cleveland.com Fact Check: 4 Lies in Ad Attacking Dr.
+Acton TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

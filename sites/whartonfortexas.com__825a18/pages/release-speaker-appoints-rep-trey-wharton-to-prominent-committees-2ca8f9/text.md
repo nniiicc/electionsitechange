@@ -17,8 +17,8 @@ Wharton represents Brazos (part), Grimes, Madison, Robertson, Walker, and Washin
 Trey’s strong leadership and lifelong commitment to service make him a steadfast advocate for the values and needs of the people in House District 12.
 ### Rep.
 Trey Wharton – 89th Committee Assignments Download Post navigation Previous post: Prev RELEASE: Rep.
-Trey Wharton Joins Texas Bicameral Water Caucus February 7, 2025 Next post: Next RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor May 27, 2025 You May Also Like Posted July 1, 2025 in Political Issues RELEASE: State Representative Trey Wharton Announces Reelection Campaign for Texas House Posted March 27, 2026 in Political Issues RELEASE: Texas State Rep.
-Trey Wharton Appointed to House Select Committee on Health Care Affordability Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
+Trey Wharton Joins Texas Bicameral Water Caucus February 7, 2025 Next post: Next RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor May 27, 2025 You May Also Like Posted March 27, 2026 in Political Issues RELEASE: Texas State Rep.
+Trey Wharton Appointed to House Select Committee on Health Care Affordability Posted July 1, 2025 in Political Issues RELEASE: State Representative Trey Wharton Announces Reelection Campaign for Texas House Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
 Trey...
 March 27, 2026 RELEASE: State Representative ...
 July 1, 2025 RELEASE: State Representative ...

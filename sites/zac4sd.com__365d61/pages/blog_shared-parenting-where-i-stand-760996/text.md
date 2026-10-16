@@ -1,4 +1,4 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Home / Blog From the campaign May 17, 2026 Where I Stand on Shared Parenting Thirty-five to thirty-four.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate Home / Blog From the campaign May 17, 2026 Where I Stand on Shared Parenting Thirty-five to thirty-four.
 That is how close South Dakota came in March 2025, and both of District 32's seated representatives voted no.
 Pillar A : Life & Family Shared Parenting Family Court Reform In 2025, Sen.
 Tom Pischke's SB 172 passed the South Dakota Senate twenty to thirteen.
@@ -195,7 +195,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

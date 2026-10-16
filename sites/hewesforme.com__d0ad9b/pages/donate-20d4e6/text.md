@@ -1,5 +1,5 @@
-Skip to next step Maine.gov A secure, online service provided by the Maine Commission on Governmental Ethics & Election Practices Maine Clean Election Act Online Qualifying Contribution Service Home | Ethics Commission Home | More Online Services Welcome to the Maine Clean Election Act - Online Qualifying Contribution Service You can make qualifying contributions of $5 to support candidates seeking Maine Clean Election funding.
-You can only use your personal funds.
+Skip to next step Maine.gov A secure, online service provided by the Maine Commission on Governmental Ethics & Election Practices Maine Clean Election Act Online Qualifying Contribution Service Home | Ethics Commission Home | More Online Services Welcome to the Maine Clean Election Act - Online Qualifying Contribution Service You cannot make a qualifying contribution to support a candidate at this time.
+However, you can make a donation to the Maine Clean Election Fund.
 This site accepts Visa or Mastercard.
 For more information, see the Frequently Asked Questions page.
 Questions about this service?

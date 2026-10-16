@@ -1,6 +1,6 @@
-Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home Events Thursday Doorknock Campaign event Thursday Doorknock Thursday, October 15, 2026 at 5:00 pm · Lino Lakes, MN Election Day Tuesday, November 3, 2026 Expand Date Thursday, October 15, 2026 Time 5:00 pm – 7:30 pm CDT (Central time) Format In person Where Lino Lakes, MN Sign up RSVP so the team knows to expect you.
+Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home Events Thursday Doorknock Campaign event Thursday Doorknock Thursday, October 22, 2026 at 5:00 pm · Lino Lakes, MN Election Day Tuesday, November 3, 2026 Expand Date Thursday, October 22, 2026 Time 5:00 pm – 7:30 pm CDT (Central time) Format In person Where Lino Lakes, MN Sign up RSVP so the team knows to expect you.
 RSVP on Mobilize Opens on mobilize.us Share Copy link Share Join team Amanda every Thursday until election day to meet with neighbors and flip the seat!
-Upcoming dates Thursday, October 15, 5:00 pm to 7:30 pm Thursday, October 22, 5:00 pm to 7:30 pm Thursday, October 29, 5:00 pm to 7:30 pm Good to know This event’s address is private.
+Upcoming dates Thursday, October 22, 5:00 pm to 7:30 pm Thursday, October 29, 5:00 pm to 7:30 pm Good to know This event’s address is private.
 Sign up for more details ← Blaine DFL Door Knock!
 Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
 Volunteer, donate, or invite Amanda to your neighborhood.

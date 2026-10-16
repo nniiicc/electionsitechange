@@ -17,7 +17,8 @@ Terms of Service and Privacy Policy apply.
 As a doctor, Ami Bera has always put service first, and he believes that Congress should be a place for service.
 That’s why Dr.
 Bera is excited to run in California’s new 3rd Congressional District in order to fight for the issues that matter most to Northern California families.
-Learn more Read below for some of our top priorities Energy & Environment Medicare & Social Security National Security Defending Women's Rights Healthcare Veterans Jobs & Economy Wildfire Prevention & Forest Resilience Protecting Lake Tahoe Read More Latest News From the Desk of Dr.
+Learn more Dr.
+Bera's priorities On the Issues that Matter Energy & Environment Medicare & Social Security National Security Defending Women's Rights Healthcare Veterans Jobs & Economy Wildfire Prevention & Forest Resilience Protecting Lake Tahoe Read More Latest News From the Desk of Dr.
 Ami Bera PRESS RELEASE Rep.
 Bera Statement on Advancing to General Election Rep.
 Ami Bera, M.D. released a statement after advancing to the general election in California’s new Third Congressional District.

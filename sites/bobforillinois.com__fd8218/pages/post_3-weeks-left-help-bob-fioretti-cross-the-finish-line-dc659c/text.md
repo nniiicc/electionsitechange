@@ -12,8 +12,8 @@ CONTRIBUTE $10 OR MORE EVERY VOTE.
 EVERY VOICE.
 Integrity in Illinois starts with your support.
 Let's finish strong together.
-DONATE TO BOB FOR ILLINOIS Recent Posts See All Join Us for Our Road to Victory Final Event before Election Day!
-Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+DONATE TO BOB FOR ILLINOIS Recent Posts See All On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour Join Us for Our Road to Victory Final Event before Election Day!
+Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

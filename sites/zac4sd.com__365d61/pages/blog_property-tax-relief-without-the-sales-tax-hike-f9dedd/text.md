@@ -1,15 +1,16 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Home / Blog From the campaign May 17, 2026 Property Tax Relief Without the Sales Tax Hike SB 245 trades one tax for another.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate Home / Blog From the campaign May 17, 2026 Property Tax Relief Without the Sales Tax Hike SB 245 trades one tax for another.
 About a third of South Dakotans rent, and they pay the new sales tax while seeing none of the property tax benefit.
 Pillar B : Taxes & Budget Property Tax Spending Discipline South Dakota homeowners are getting taxed out of houses they have lived in for forty years.
 Young families are priced out of a first home, and seniors on fixed incomes watch a tax bill climb faster than the Social Security increase does, which amounts to a slow-motion eviction notice delivered one assessment at a time.
 In District 32 this is the issue people stop me about on the sidewalk.
 The 2025 and 2026 sessions did pass property tax relief.
 They did it the wrong way, and the wrong way is worth understanding in detail, because it will be sold to you as a win.
-What SB 245 actually does SB 245 passed in 2025 and takes effect July 1, 2026.
-It creates a property tax reduction fund out of three-tenths of the sales tax, plus a one-time fifty-six million dollar transfer from state reserves.
-The Department of Revenue estimates the result at up to a fifteen percent average reduction for owner-occupied homes.
+What SB 245 actually does SB 245 passed in 2026 and was signed March 30.
+It creates a homeowner property tax reduction fund, seeded with a one-time transfer of $55,896,576 from the general revenue replacement fund on July 1, 2026, and fed from August 1, 2027 by three-tenths of a point of the state sales, use and contractor's excise taxes.
+The fund can only reduce the school general levy on owner-occupied homes.
+The Department of Revenue estimates the result at up to a fifteen percent average reduction for those homes.
 That sounds like relief until you read where the money comes from.
-The mechanism depends on a sales tax increase: South Dakota's statewide rate is scheduled to go from 4.2 percent to 4.5 percent in 2027, and three-tenths of every additional sales tax dollar funds the property tax cut.
+The mechanism depends on a sales tax increase: South Dakota's statewide rate goes back from 4.2 percent to 4.5 percent on July 1, 2027, because the 2023 cut expires, and three-tenths of a point, the size of that increase, is what feeds the homeowner fund from August 1, 2027.
 So it is a swap, not a cut.
 Working families who rent pay the new sales tax and see none of the property tax benefit, and roughly one third of South Dakotans rent.
 Small businesses pay the new sales tax on every transaction, and a senior homeowner who downsized out of her house a decade ago pays it too, with nothing whatsoever coming back the other direction to offset a dime of it.
@@ -18,7 +19,7 @@ I understand the anger behind it, and I do not think repeal is the right tool no
 The relief took effect on July 1 and homeowners are already counting on it, so pulling it back now punishes the people it finally reached.
 Fix the funding instead.
 Cancel the 2027 sales tax increase, pay for the relief with spending restraint, and extend it to the renters who are paying in today and getting nothing back.
-SB 96 was the cleaner path and it is already law The same 2025 session passed SB 96, which lets counties impose an optional county gross receipts tax in exchange for reducing owner-occupied property taxes.
+SB 96 was the cleaner path and it is already law The same 2026 session passed SB 96, which lets counties impose an optional county gross receipts tax in exchange for reducing owner-occupied property taxes.
 Counties choose.
 Voters choose.
 Local control, and no statewide sales tax hike attached to it.
@@ -143,7 +144,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

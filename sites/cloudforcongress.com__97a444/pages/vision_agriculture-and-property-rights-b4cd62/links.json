@@ -36,20 +36,12 @@
 "href": "https://secure.anedot.com/cloudforcongress/cloudwebdonate"
 },
 {
-"text": "Education",
-"href": "https://www.cloudforcongress.com/vision/education/"
-},
-{
 "text": "Election Info",
 "href": "https://www.cloudforcongress.com/election-info-2026/"
 },
 {
 "text": "Federal Spending and DebtNext",
 "href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
-},
-{
-"text": "Health Care",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "Home",
@@ -60,24 +52,32 @@
 "href": "https://www.mintandvine.com"
 },
 {
-"text": "National Defense",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
-},
-{
 "text": "PrevHealth Care",
 "href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
-"text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/education/"
+"text": "Pro-Life",
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+},
+{
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
+},
+{
+"text": "Religious Liberty",
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+},
+{
+"text": "Veterans",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "Volunteer",
@@ -93,15 +93,15 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/education/"
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "[no text]",

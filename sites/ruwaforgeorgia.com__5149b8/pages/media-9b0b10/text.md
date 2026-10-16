@@ -1,4 +1,4 @@
-0 Skip to Content Home About Policy Endorsements Contact Updates Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Updates Voting Resources Home About Policy Endorsements Contact Updates Voting Resources Building a Movement TOgether A CLEAR CHOICE State Representative Ruwa Romman already represents about 40% of Senate District 7.
+0 Skip to Content Home About Policy Endorsements Contact Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Voting Resources Home About Policy Endorsements Contact Voting Resources Building a Movement TOgether A CLEAR CHOICE State Representative Ruwa Romman already represents about 40% of Senate District 7.
 Democratic and democratic-leaning likely primary voters along with Muslim, young, and AAPI voters need to be reminded of Ruwa's progressive record as a two term State Representative.
 Voters in Senate District 7 who are not part of House District 97 need to be informed about who Ruwa is, and why she is the best choice for Senate District 7.
 The choice is clear in this race .

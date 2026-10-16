@@ -26,7 +26,7 @@ Children's Privacy Our website isn't designed for use by individuals below 13 ye
 If we discover that we've inadvertently gathered personal data from a child under 13 without parental consent, we'll act promptly to remove such information from our records.
 Amendments We might revise this Privacy Policy occasionally to reflect changes in our methods or for other operational, legal, or regulatory purposes.
 Any amendments will be immediately effective upon the updated Privacy Policy's posting on our website.
-Get in Touch If you have any queries or concerns about this Privacy Policy or our privacy practices, feel free to contact us at: Email: contact@stricklandforgeorgia.com Phone: 229-815-1772 Stay Informed Join Georgians across the state who are supporting Brian Strickland.
+Get in Touch If you have any queries or concerns about this Privacy Policy or our privacy practices, feel free to contact us at: Email: contact@stricklandforgeorgia.com Stay Informed Join Georgians across the state who are supporting Brian Strickland.
 Get campaign news, event invites, and ways to help delivered to your inbox.
 Join the Campaign First Name Last Name Email Address Phone Number Zip Code By providing your phone number and submitting this form, you are subscribing/consenting to receive SMS/MMS messages, including marketing, polls, and informational messages, to that number from Strickland for Georgia.
 Donations may be solicited.

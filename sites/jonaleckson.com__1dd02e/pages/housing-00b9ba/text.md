@@ -1,4 +1,4 @@
-Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Issues Restore Wisconsin’s Housing Affordability Restore Wisconsin “A Home You Can Buy When You’re Young, and Keep When You’re Old” Rising property taxes are forcing some seniors on fixed incomes out of the homes they’ve lived in for decades.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Issues Restore Wisconsin’s Housing Affordability Restore Wisconsin “A Home You Can Buy When You’re Young, and Keep When You’re Old” Rising property taxes are forcing some seniors on fixed incomes out of the homes they’ve lived in for decades.
 It’s unfair.
 Young people can no longer afford to build a starter home.
 If elected to the Assembly, Jon is committed to a targeted property tax freeze for seniors and a plan to get more starter homes for young families.
@@ -12,4 +12,5 @@ Restore Wisconsin “A home you can buy when you’re young and keep when you’
 That’s what Restore Wisconsin means.” Get Involved Donate Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
 Not authorized by any candidate or candidate’s committee.
 Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
-All rights reserved. info@jonaleckson.com
+All rights reserved.
+Contact Us Alecksonforassembly@gmail.com

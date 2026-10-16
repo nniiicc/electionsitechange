@@ -1,0 +1,7 @@
+top of page All Posts Search Borrello Earns Endorsement of Corrections Officers Union lhill5000 Sep 4 1 min read I am deeply honored to receive the endorsement of NYSCOPBA, the union representing New York’s corrections officers.
+Our correction officers perform one of the most difficult and dangerous jobs in public service.
+They walk into some of the most volatile environments imaginable every day, working long hours under extraordinarily challenging conditions to keep their fellow officers, inmates and our communities safe.
+I have tremendous respect and appreciation for these men and women, and I have been proud to stand with them as they have fought for adequate staffing, common-sense safety measures and the repeal of the HALT Act which has contributed to the crisis inside our prisons .
+Their concerns have too often been ignored in Albany.
+I will continue to be a strong voice for our correction officers and stand with them in the fight for the support and reforms they need to do their jobs safely.
+Recent Posts See All Hundreds Turn Out for Blakeman Rally in Dunkirk Borrello Earns NFIB Endorsement Civil Service Employees Association Endorses Borrello Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

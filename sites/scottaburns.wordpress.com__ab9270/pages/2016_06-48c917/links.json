@@ -104,10 +104,6 @@
 "href": "https://scottaburns.wordpress.com/2016/06/06/filed-for-office/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Home",
 "href": "https://scottaburns.wordpress.com/"
 },
@@ -289,6 +285,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

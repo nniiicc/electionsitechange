@@ -1,0 +1,22 @@
+Skip to main content Skip to footer Opens in a new tab Donate Get Your Yard Sign Volunteer Home Meet Andy Issues Kentucky Coal Plan Military & Veterans Law Enforcement News Contact Donate Volunteer Get Your Yard Sign Join the team Endorsements Donate Kentucky State House Republicans Unite Behind Andy Barr for U.S.
+Senate Endorsements — October 2, 2026 LEXINGTON, KY — Andy Barr, the Republican nominee for U.S.
+Senate, today announced the endorsement of Republican members of the Kentucky State House of Representatives, including House Speaker David Osborne.
+“I’m proud to have Kentucky State House Republicans standing with our campaign,” said Andy Barr .
+“These are leaders who know their communities and know what it takes to move Kentucky forward.
+I’m grateful for their confidence in me, and I’ll work every day in the U.S.
+Senate to make sure Kentucky has a strong voice fighting for our workers, families, farmers, and businesses.” “Andy Barr has proven time and again that he knows how to get things done for Kentucky,” said Kentucky House Speaker David Osborne .
+“He understands the industries that drive our Commonwealth, from horse racing and bourbon to agriculture and manufacturing, and he has fought to protect them and help them grow.
+I’m proud to support Andy because I know he will take that same determination to the U.S.
+Senate and continue delivering for Kentucky.” Barr has earned the support of more than 200 major endorsers in Kentucky and across the country.
+The Kentucky State House Republicans endorsing Barr include: District 1: Steven Rudy District 3: Randy Bridges District 4: Wade WIlliams District 5: Mary Beth Imes District 6: Chris Freeland District 7: Suzanne Miles District 8: Walker Thomas District 9: Myron Dossett District 11: J.T.
+Payne District 12: Jim Gooch District 13: DJ Johnson District 14: Scott Lewis District 15: Rebecca Raymer District 16: Jason Petrie District 17: Robert Duvall District 18: Samara Heavrin District 19: Michael Meredith District 20: Kevin Jackson District 21: Amy Neighbors District 22: Shawn McPherson District 23: Steve Riley District 24: Ryan Bivens District 25: Steve Bratcher District 26: Peyton Griffee District 27: Nancy Tate District 28: Jared Bauman District 29: Chris Lewis District 31: Susan Tyler Witten District 33: Jason Nemes District 36: John Hodgson District 37: Emily Callaway District 39: Matt Lockett District 48: Ken Fleming District 49: Thomas Huff District 50: Candy Massaroni District 51: Sarge Pollock District 52: Ken Upchurch District 53: James Tipton District 54: Daniel Elliott District 55: Kim King District 56: Daniel Fister District 58: Jennifer Decker District 59: David Osborne District 62: Tony Hampton District 63: Kim Banta District 64: Kim Moser District 65 Stephanie Dietz District 66: T.J.
+Roberts District 68: Mike Clines District 69: Steve Doan District 70: William Lawrence District 71: Josh Bray District 72: Matt Koch District 74: David Hale District 78: Mark Hart District 80: David Meade District 82: Nick Wilson District 83: Josh Branscum District 84: Chris Fugate District 85: Shane Baker District 86: Tom O’Dell Smith District 87: Adam Bowling District 88: Vanessa Grossl District 89: Timmy Truett District 90: Derek Lewis District 92: John Blanton District 94: Mitch Whitaker District 96: Patrick Flannery District 97: Bobby McCool District 98: Aaron Thompson District 99: Richard White District 100: Scott Sharp ### Share this post: Facebook X Linkedin Email Previous post New Barr Ad Features Democrat and Retired Teacher Backing Andy Barr’s Kentucky First Agenda Next post Bluegrass Brief: President Trump is Coming to Kentucky!
+Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
+Privacy Policy / Terms and Conditions Sign Up For press inquiries, please contact press@barrforsenate.com Mailing Address: PO Box 2059 Lexington, KY 40588 Paid for by Andy Barr for Senate Please provide your mobile phone to opt-in to Andy Barr for Senate campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Donations may be solicited.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

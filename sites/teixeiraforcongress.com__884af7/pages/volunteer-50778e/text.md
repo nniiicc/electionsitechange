@@ -1,7 +1,7 @@
 Menu Meet Mark Endorsements Issues News Volunteer Contact Facebook Twitter Instagram Official Merch Volunteer Interested in volunteering for the Mark Teixeira for Congress campaign?
 Fill out the form below and we'll be in touch as soon as possible!
 First Name* Last Name* Email Address* Phone Number* City* State* AL AK AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS MT NC NE NH NJ NM NV NY ND OH OK OR PA RI SC SD TN TX UT VT VA WA WI WV WY AS GU MP PR UM VI AA AP AE ZIP Code* How would you like to get involved?
-Phone Banking Block Walking House Party Yard Sign Social Media Fundraise Yes, you can use my name publicly!
+Work Polls Yard Sign Phone Banking Block Walking House Party Social Media Fundraise Yes, you can use my name publicly!
 Sign Me Up!
 Join Team Tex!
 First Name* Last Name* Email Address* Phone Number ZIP Code* I'm In!

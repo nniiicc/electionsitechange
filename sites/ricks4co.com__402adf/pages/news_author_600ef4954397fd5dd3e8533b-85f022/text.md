@@ -2,7 +2,18 @@ Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Phot
 Nominate a Neighbor In the Community Election Information!
 Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Election Information!
-Where to Drop Off Your Ballot Donate Morgan Anker Morgan Anker August 10, 2026 Rep.
+Where to Drop Off Your Ballot Donate Morgan Anker Morgan Anker October 15, 2026 Colorado HB24-1334: Tenant Choice vs.
+Bulk Internet, with Rep.
+Naquetta Ricks Morgan Anker October 15, 2026 In this episode of Industry Shakers, Adlane Fellah, Founder and Chief Analyst at Maravedis, speaks with Colorado State Representative Naquetta Ricks (House District 40, Aurora), a co-sponsor of HB24-1334, the law that lets tenants in apartment buildings and mobile home parks request service from the internet provider of their choice.
+Source: https://www.youtube.com/watch?v=sM6uOZzZD10 Morgan Anker October 15, 2026 State Rep.
+Naquetta Ricks on the Promise to America Morgan Anker October 15, 2026 Colorado State Rep.
+Naquetta Ricks is a living embodiment of the Promise to America Values.
+Born in Liberia, she moved to Colorado and graduated from Aurora High School.
+Ricks later became a United States citizen through the 1986 Immigration Reform and Control Act, which was the last time we had bipartisan immigration legislation signed by the President!
+Today, Rep.
+Ricks is a successful small business owner, founder and CEO of the African Chamber of Commerce Colorado, and chairs the House Business Affairs and Labor Committee.
+Listen to her and Promise to America founder Felix Frisch discuss why she signed the Promise and how she works to reflect its values in her work.
+Source: https://www.welcomestack.org/p/state-rep-naquetta-ricks-on-the-promise Morgan Anker August 10, 2026 Rep.
 Ricks Talks HD40 Priorities and the Road to 2027 Morgan Anker August 10, 2026 A few weeks ago at the National Conference of State Legislatures, Representative Ricks sat down with NCSL officials to talk about the issues shaping her district right now — from oil and gas development to HOA reform — and what's ahead as she heads into her fourth term at the State Capitol.
 Source: https://www.dropbox.com/scl/fo/zpxqqjqae8jjcnji21rhh/AMcn4RAEXnFOo51kumJyLjY/Naquetta%20Ricks%20CO%20Nina%20Cornell.mp4?rlkey=2oelwt8avo0cn1p85fc95ej0c&st=jfjqxtlm&e=1&dl=0 Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 Colorado lands and public’s say in what happens to them is on the line as BLM ramps up oil and gas leasing, proposes major program changes Source: https://coloradosun.com/2026/07/23/opinion-colorado-public-lands-blm-leasing-auction/ Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 “From social media platforms to game apps, this bill helps create a safer online environment for Colorado children,” said Rep.
 Naquetta Ricks, D-Aurora.
@@ -50,13 +61,6 @@ Naquetta Ricks, an Aurora Democrat, is the only immigrant in the legislature thi
 We are what makes Colorado work. … We’re a very significant part that needs to be recognized and be included in the policies in the state.” Source: https://www.denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented/ Morgan Anker June 23, 2021 Q&A: Rep.
 Naquetta Ricks, first African immigrant elected to Colorado Legislature Morgan Anker June 23, 2021 Yes, America is one of the greatest countries in the world, but people come because they are running from trauma, political unrest, they come because they’re running from famine and war. … People are here because they’re seeking a better life.
 They’re seeking a place where they can live and they can thrive, and I think that immigrants contribute so much to the United States. … We are part of this fabric of this country.
-Source: https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/ Morgan Anker June 23, 2021 Our legislation aims to bring accountability and transparency to the insurance industry Morgan Anker June 23, 2021 Our bill simply asks insurance companies to ensure that they are not discriminating against people of color and other underserved groups.
-Coloradans shouldn’t be charged more for insurance of any kind based on their skin color, ethnicity, educational background, or ZIP code.
-Source: https://coloradosun.com/2021/06/23/insurance-bill-opinion-2/ Morgan Anker June 11, 2021 DREAM ON: Amid a housing crisis, Colorado lawmakers try to preserve a slice of the American Dream Morgan Anker June 11, 2021 Along with Rep.
-Mary Bradfield and Sen.
-Jeff Bridges, Ricks was a prime sponsor of a bill that creates a voluntary pilot program that renters can participate in to report their rent payment to consumer reporting agencies in order to build their credit history.
-The bill is designed to boost home ownership rates among low-income Coloradans, who are less likely to have a credit history, Ricks said.
-Bad credit makes it more difficult to access loans for things like mortgage payments, and people with poor credit pay much higher rates than those with better credit.
-Source: https://sentinelcolorado.com/news/dream-on-amid-a-housing-crisis-accelerated-by-the-pandemic-colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream/ Older Posts Back to Top Sign up for my newsletter!
+Source: https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/ Older Posts Back to Top Sign up for my newsletter!
 Receive text messages from our campaign!
 Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

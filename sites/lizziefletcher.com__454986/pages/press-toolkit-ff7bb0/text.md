@@ -11,4 +11,4 @@ Before her election to Congress, Fletcher practiced law in Houston, starting her
 She graduated with highest honors in History from Kenyon College, where she was elected to Phi Beta Kappa, and from The College of William & Mary School of Law, where she was Editor-in-Chief of the William and Mary Law Review.
 Headshots – Click to download full size FOLLOW LIZZIE Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
-Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 Privacy Policy PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

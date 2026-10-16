@@ -1,4 +1,4 @@
-0 Skip to Content About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute A LIFETIME OF SERVICE.
+0 Skip to Content About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute A LIFETIME OF SERVICE.
 A MOTHER, DOCTOR, AND SCIENTIST READY TO SERVE THE PEOPLE OF LEGISLATIVE DISTRICT 2.
 Donate Volunteer Meet Dr.
 Amelia Gallitano Dr.

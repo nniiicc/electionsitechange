@@ -1,4 +1,4 @@
-Brian Schimmel, Independent for Oregon House District 29 About Brian Pamphlet Preview District Map In the News Donate!
+Brian Schimmel, Independent for Oregon House District 29 About Brian Pamphlet Preview District Map In the News Registration Donate!
 About Brian Brian Schimmel is a lifelong Oregonian—raised on a family dairy farm and rooted for the past 30 years in Forest Grove, where he and his wife, Barb, raised their two children.
 His commitment to public service is grounded in family values and shaped by early exposure to advocacy for individuals facing hardship.
 Over the past decade, Brian has led complex public and nonprofit initiatives across Western Washington County, restoring organizational capacity, administering capital and service programs, and bringing together cross-sector partners to deliver tangible results for communities.

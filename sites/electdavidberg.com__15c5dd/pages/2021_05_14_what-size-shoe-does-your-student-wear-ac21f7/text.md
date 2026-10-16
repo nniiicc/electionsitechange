@@ -39,7 +39,7 @@ Some of those additional supports will come with a price tag, and we’ll need t
 It will be even more important that we can all work together to find solutions that fit each student.
 I want to hear from you, too, because it will be my role to be your voice on the School Board.
 I’m excited for the opportunity to be a part of that conversation.
-Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Cooperation , David Berg , Differentiation , Election , Learning Loss , Puyallup School Board , Puyallup School District ← Teacher Appreciation Week The Job of a School Director → Leave a Reply Cancel reply Comment Name Email Website Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Cooperation , David Berg , Differentiation , Election , Learning Loss , Puyallup School Board , Puyallup School District ← Teacher Appreciation Week The Job of a School Director → Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
 November 3, 2026 # days to go.
 Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

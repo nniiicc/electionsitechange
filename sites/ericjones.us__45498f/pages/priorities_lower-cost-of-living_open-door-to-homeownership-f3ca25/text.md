@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Open the Door to Homeownership Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Open the Door to Homeownership Why I believe this — and how I’ll fight for it.
 I grew up in a small home in rural America with very little, and my dad battled an opioid addiction that nearly broke our family.
 I worked my way out, took a chance, and built businesses — but I am honest with myself about how rare that is.
 Most young Americans working every bit as hard as I did will simply never get the shot.

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Get Our Growers the Workforce They Need & Protect Those Workers Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Get Our Growers the Workforce They Need & Protect Those Workers Why I believe this — and how I’ll fight for it.
 There’s a question I get at every farm meeting in this district, and nobody in Washington wants to answer it honestly: who is going to pick the crop?
 Not in theory.
 This August.

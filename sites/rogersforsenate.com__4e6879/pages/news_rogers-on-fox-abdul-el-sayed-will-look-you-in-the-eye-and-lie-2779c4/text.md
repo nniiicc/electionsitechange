@@ -32,7 +32,7 @@ He won't condemn any of it.
 So, that is the oddest thing to me [that] he holds that position.
 But he's trying to flip around on everything else that he does, trying to confuse people.
 I just don't think people are buying it.” Learn more about Conman Abdul’s lies and extremism at StopAbdul.com .
-### Hinson Peed Next Next ROGERS ON FOX: ABDUL EL-SAYED HAS FLIP-FLOPPED ON EVERY ISSUE EXCEPT HIS SUPPORT FOR TERRORIST ORGANIZATIONS CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous AD: MICHIGAN CAN’T AFFORD ABDUL EL-SAYED Next Next ROGERS ON FOX: ABDUL EL-SAYED HAS FLIP-FLOPPED ON EVERY ISSUE EXCEPT HIS SUPPORT FOR TERRORIST ORGANIZATIONS MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

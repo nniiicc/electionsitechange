@@ -1,6 +1,11 @@
 251.239.0624‬ jennifer@fidlerforhouse.com  About Donate New and Media News and Media Press Releases Session Updates Town Hall Meetings Proposed Bill – HB453 District 94 Map Search for: Contact Us News & Media Jennifer Fidler Donate News & Media Updates from Jennifer Fidler – Working for Baldwin County Stay informed with the latest news, press releases, and media coverage from Representative Jennifer Fidler.
 Here, you’ll find updates on legislative action, community events, and how Jennifer is working every day to represent District 94 with integrity, experience, and practical leadership.
-Used for the like, share, comment, and reaction icons Jennifer Fidler #ago HURRICANE UPDATE / OUTAGES EMC REPORTS: roughly 52,300 meters out in the storm, but have restored 32,500.
+Used for the like, share, comment, and reaction icons Jennifer Fidler #ago 🚨 FREE Fraud Prevention Seminar!
+I’m teaming up with the Alabama Securities Commission and other state and local agencies to help District 94 residents protect themselves and their families from scams, identity theft, and financial fraud. 📅 Thursday, October 29, 2026 🕠 5:30 p.m. 📍 Magnolia Springs Town Hall 12191 Magnolia Springs Hwy, Magnolia Springs, AL 36555 Learn how to recognize warning signs, avoid common scams—including those targeting seniors—and know where to turn for help.
+Presenters will include Nick Vonderau with the Alabama Securities Commission, James Roberson with the South Alabama Regional Planning Commission, Baldwin County Sheriff’s Office, Kristi Hagood with the District Attorney’s Office and others.
+Bring your questions, invite a friend or family member, and join us for this helpful community event!
+Food will be provided. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 1 Shares: 0 Comments: 1 1 Comments Comment on Facebook Jennifer Fidler #ago HURRICANE UPDATE / OUTAGES EMC REPORTS: roughly 52,300 meters out in the storm, but have restored 32,500.
 We are prioritizing getting circuits back online, which we currently have 14 out.
 That will restore a large portion of the outages.
 400+ linemen and right of way personnel being mobilized today at our basecamp.
@@ -26,9 +31,7 @@ See More See Less View on Facebook · Share Share on Facebook Share on Twitter S
 The president came to Mobile and we had a groundbreaking for the new Bridge across the bay.
 The Mobile bridge would not happen without the Presidents authorization.
 Thankfully, with the work that many leaders have done over many years, we have it. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 345 Shares: 6 Comments: 14 14 Comments Comment on Facebook Jennifer Fidler #ago Visited our nations Capitol this week and attended the White House Leadership conference with colleagues.
-Read captions under photos for details! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 44 Shares: 0 Comments: 2 2 Comments Comment on Facebook Load more In the News “Fidler stands up for common sense growth and infrastructure improvements in Baldwin County.” Alabama Daily Journal “A hands-on leader with decades of local experience.” Gulf Coast News Today Friends of Jennifer Fidler 20103 Bohemian Hall Road Silverhill, AL 36576 Email: jennifer@fidlerforhouse.com Tel: 251.239.0624‬ Terms and Conditions Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 345 Shares: 6 Comments: 14 14 Comments Comment on Facebook Load more In the News “Fidler stands up for common sense growth and infrastructure improvements in Baldwin County.” Alabama Daily Journal “A hands-on leader with decades of local experience.” Gulf Coast News Today Friends of Jennifer Fidler 20103 Bohemian Hall Road Silverhill, AL 36576 Email: jennifer@fidlerforhouse.com Tel: 251.239.0624‬ Terms and Conditions Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.
 SUBSCRIBE!
 You have Successfully Subscribed!
 Copyright © # Fidler For House.

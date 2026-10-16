@@ -1,2 +1,1 @@
-mcauleyforthe7th.com Checking the site connection security This page requires cookies to be enabled in your browser settings.
-Please check this setting and enable cookies (if disabled)
+

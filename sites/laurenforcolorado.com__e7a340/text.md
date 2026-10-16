@@ -3,8 +3,6 @@ Join Us Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
 No consent is required to buy.
 Msg&data rates may apply.
-Text JOIN to 80306 to opt in.
-Reply HELP for help or STOP to opt out at any time.
 SMS information is not rented, sold, or shared.
 Shop Official Lauren Boebert Merchandise Show off your support for the Lauren Boebert campaign with limited edition merchandise!
 Shop Now › “Working hard in Congress to Drain the Swamp, stand up for our rights , and tell all the left-wing lunatics that we don’t want more government control.

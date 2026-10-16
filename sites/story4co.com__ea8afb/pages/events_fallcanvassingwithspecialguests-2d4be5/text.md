@@ -9,4 +9,4 @@ If you’re coming from the west, take a right at the Country Club off Belleview
 Sign up HERE to canvass with us!
 Call or email Team Tammy with any questions!
 Email: nick@story4co.com Call: 720-432-9957 Earlier Event: September 23 Pints and Politics on Sep.
-23rd Later Event: October 3 Looking Forward: Supporting Tammy Story Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+23rd Later Event: October 3 Looking Forward: Supporting Tammy Story Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

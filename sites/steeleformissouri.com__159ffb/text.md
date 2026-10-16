@@ -16,15 +16,15 @@ Working Missourians deserve representation that understands their issues.
 Lower the cost of living Fully-fund our schools Affordable Healthcare Respect Missouri Voters View More Endorsements Workers, advocates, & leaders support Tracey View More contribute to building a better Northland!
 Your contributions help us reach more voters.
 ActBlue will retain 3.95% of the contribution for processing fees.
-Steele for Missouri will retain the remaining 96.05%. $ 12 $ 25 $ 50 $ 100 $ 250 Other $ 12 $ 25 $ 50 $ 100 $ 250 Other LWV candidate forum!
-Register to watch the League of Women Voters' Candidate Forum!
-A great opportunity to hear my stance on the issues that matter to you.
-Register You're Invited!
+Steele for Missouri will retain the remaining 96.05%. $ 12 $ 25 $ 50 $ 100 $ 250 Other $ 12 $ 25 $ 50 $ 100 $ 250 Other You're Invited!
 Join us to build a better Northland.
 Rally with food, friends, and family to support Tracey for State Representative.
 Help us finish strong and get District 12 ready for election day!
 Want to help sponsor this event?
 Join our host committee by donating at the link above!
+RSVP Parkville candidate forum!
+Join District 12 voters at this in-person forum!
+A great opportunity to hear my stance on the issues that matter to you.
 RSVP “I'm running to represent your interests, because the only way we're going to beat the billionaire class and give Missourians a fair shot at prosperity is by working together. " Meet Tracey Vote Make a plan to vote!
 Mail-in Voting Apply by Oct.
 21 Early In-Person Voting Oct.

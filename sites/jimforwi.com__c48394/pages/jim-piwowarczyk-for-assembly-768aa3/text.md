@@ -29,7 +29,7 @@ He has volunteered as a youth coach.
 “I love this state and hate what is being done to it through liberal policies,” Piwowarczyk said.
 “We need a new movement of conservatives who can take this state back and ensure we keep control of the Legislature,” said Piwowarczyk.
 “We must start winning again.” He said he will reach out to all conservatives and also those non-conservative voters who are frustrated with inflation, the border, crime, and liberal policies that are making communities less safe.
-Post navigation Next post: Next Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly March 11, 2024 You May Also Like Posted May 2, 2024 in Endorsements , News , ticker Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Next post: Next Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly March 11, 2024 You May Also Like Posted May 24, 2024 in Endorsements , News , Political Issues , ticker Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

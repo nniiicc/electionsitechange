@@ -4,4 +4,4 @@ Be part of the movement to reelect a strong advocate for public education, menta
 Your support makes a difference!
 RSVP to attend this event HERE.
 Location will be provided upon RSVP.
-Earlier Event: September 28 Fall Canvassing Kickoff for Team Tammy Later Event: October 5 Jeffco Foothills Town Hall: Ballot Breakdown Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Earlier Event: September 28 Fall Canvassing Kickoff for Team Tammy Later Event: October 5 Jeffco Foothills Town Hall: Ballot Breakdown Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

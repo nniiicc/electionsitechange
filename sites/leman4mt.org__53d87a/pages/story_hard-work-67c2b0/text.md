@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Hard Work × Out here, the work ethic is simple: you produce, you build, and you provide.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Montana Common Sense Hard Work × Out here, the work ethic is simple: you produce, you build, and you provide.
 But lately, Helena seems determined to make the tax code as complicated as possible.
 We see it with the endless shifting of brackets and convoluted property tax overhauls that require piles of paperwork just to prove you live in your own home.
 Instead of actually cutting the overall cost of government, the state keeps inventing new ways to shuffle the deck.

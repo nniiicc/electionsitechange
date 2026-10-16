@@ -1,6 +1,6 @@
 Skip to content Toggle Navigation HOME Why Jeff?
 Priorities AI Endorsements VIDEOS Voter Info DONATE Why Jeff?
-Why Jeff? jeffbradleynew 2024-09-14T14:11:10+00:00 BACKGROUND Jeff Bradley has been a Hilton Head Island resident since 1979 and has built a successful career as a financial advisor with a broad range of community service in several areas related to supporting educational and vocational opportunities for young people and creating local initiatives to improve the overall quality of life on Hilton Head Island and Daufuskie Island.
+Why Jeff? jeffbradleynew 2026-10-16T00:11:06+00:00 BACKGROUND Jeff Bradley has been a Hilton Head Island resident since 1979 and has built a successful career as a financial advisor with a broad range of community service in several areas related to supporting educational and vocational opportunities for young people and creating local initiatives to improve the overall quality of life on Hilton Head Island and Daufuskie Island.
 Bradley’s business acumen and commitment to community service laid a strong foundation for becoming one of the most accomplished members of the current South Carolina House of Representatives.
 PROMINENCE IN SC HOUSE Bradley has been serving the 123d District for five two-year terms since being first elected in 2014.
 As a prominent member of the Republican Party, Bradley has been appointed to several leadership roles in the House.
@@ -12,7 +12,7 @@ He was the founder of GED Camp Hilton Head, a program aimed at helping residents
 Additionally, he has served on the Board of Trustees for the Community Foundation of the Low Country, the Technical College of the Low Country Foundation plus the Cypress Retirement Community.
 His leadership in these organizations reflects his dedication to not only improving educational opportunities but also supporting other important community initiatives.
 PERSONAL Jeff met his wife Anne in high school and they were married following his college graduation from the University of North Alabama.
-They recently celebrated their 45 th wedding anniversary.
+They recently celebrated their 47 th wedding anniversary.
 They are parents of three grown children.
 Their two sons are graduates of the US Military Academy at West Point, and their daughter graduated from the University of South Carolina with a BS degree in business management.
 All three graduated locally from Hilton Head Island High School.

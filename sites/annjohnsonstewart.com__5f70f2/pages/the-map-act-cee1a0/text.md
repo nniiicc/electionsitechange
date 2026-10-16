@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact The MAP Act Outline: Medical Assistance is a critical lifeline for low-income and vulnerable Minnesotans, and protecting it means cracking down on those who exploit the system.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact The MAP Act Outline: Medical Assistance is a critical lifeline for low-income and vulnerable Minnesotans, and protecting it means cracking down on those who exploit the system.
 Senator Johnson Stewart chief-authored the bipartisan Medical Assistance Protection (MAP) Act to aggressively root out Medicaid fraud, hold bad actors accountable, and return stolen tax dollars to the state.
 Key Takeaways: Expanding Fraud Investigations: Securing a massive 3-to-1 federal funding match to expand the Attorney General’s Medicaid Fraud Control Unit (MFCU) with new investigators, prosecutors, and direct subpoena power.
 Tougher Criminal Penalties: Upgrading state law to ensure high-dollar Medicaid fraud (over $100,000) carries enhanced prison sentences and adding Medical Assistance fraud to Minnesota’s racketeering statutes to take down organized crime rings.

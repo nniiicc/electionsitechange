@@ -8,7 +8,7 @@ They’re in total lockstep on their extreme agenda to inflate costs, raise taxe
 Michiganders won’t fall for it.” – Mike Rogers, Candidate for U.S.
 Senate Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
 ### Hinson Peed Previous Previous MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL Next Next TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S.
-SENATE CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+SENATE MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

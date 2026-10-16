@@ -1,5 +1,5 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Terms & Conditions When you opt in to the service, we will send you a message to confirm your signup.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources Terms & Conditions When you opt in to the service, we will send you a message to confirm your signup.
 By opting into this service, you can expect to receive [message types] from [brand].
 Message and data rates may apply.
 Message frequency varies.

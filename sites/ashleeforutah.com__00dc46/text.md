@@ -19,7 +19,15 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago A great community turnout tonight at the 5400 S Open House!
+I loved reading through everyone's suggestions and wishes to be implemented into the corridor.
+Thank you to everyone that came out, and stay tuned for more updates and opportunities to make your voice hear #westsidebestside t #unityincommunity unity ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago HB210: Disabled Parking Amendments This bill originated from a constituent that is a disabled veteran who wanted to be able to park in ADA parking spots.
+Because the criteria for qualifying for an ADA parking permit requires a mobility disability, but military disability does not (things like PTSD, tinnitis, asthma, etc), we worked with both the Department of Military and Veteran Affairs + the Disability Law Center to come up with solution.
+First, we addressed the permits for those with permanent disability and created a permanent placard so they weren't required to go back in to the DMV to renew it every couple of years (it seemed unnecessary since the disability has already been confirmed as being permanent).
+The bill also asked state owned buildings to create Veteran specific parking spots near the ADA parking spots.
+This bill passed unanimously in every committee and floor vote and went info effect July 1, 2024 You can read the full bill here: share.google/MGS6KpyCCcaFqT6Gf You can see the new placards in action here: www.tiktok.com/t/ZTyKkDcxT/ ...
+See More See Less TikTok · Emma 👩🏼‍🦽‍➡️ www.tiktok.com View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
 In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
 In this job, YOU are my boss.
 I'd love to hear what I can do to better serve our District.
@@ -41,13 +49,6 @@ See More See Less Photo View on Facebook (opens in a new tab) · Share Share on 
 Thank you to everyone that braved the rain to come and show us your cute costumes!!
 What a great way to kickoff Halloween festivities in the community.
 Thank you Kearns Community Committee and Harmons for hosting this fun event! 🎃👻🕷️🦇 ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago 🗳️ Ballots will be mailed out starting this week! 📬 Now is the time to start doing your research on the candidates that you'll see on your bal The Salt Lake Tribune ibune is printing the results of the candidate surveys that were completed for all races across the state.
-You can check them all out online, but here is the one for HD37: www.sltrib.com/news/politics/2026/10/12/ashlee-matthews-faces-casey-sexton/ *There are a few corrections that will be updated tomorrow If you haven't already, register to vote/check your voter registration here: share.google/Qul4XZUzhsaP7YZIT ...
-See More See Less Utah House District 37: Ashlee Matthews faces off against Casey Saxton www.sltrib.com In the 2026 race for Utah’s House District 37, Ashlee Matthews is taking on Casey Saxton.
-Read The Salt Lake Tribune’s voter guide here.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago House District 37 is a proud working class community full of hard working folks who are more focused on their family's budget and how it will stretch to meet the rising costs of living, the morning commute, and whether or not the opportunities that built Utah will still be here for the next generation than on national political rhetoric.
-My lived experience as a working mom of three boys, a state employee, and a member of this community for the last 13 years has helped me stay focused on the issues that mean the most to us, and made me an effective advocate for Westside families - and I've got a track record of results to prove it.
-Visit ashleeforutah.com and vote for Ashlee Matthews November #ashleeforutah l #electmoremoms c #HD37 m #unityincommunity n #westsidebestside debestside ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

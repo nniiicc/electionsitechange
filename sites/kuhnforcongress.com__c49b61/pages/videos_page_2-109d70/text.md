@@ -1,6 +1,9 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you Chris McCoy and the Memphis Flyer!
-Thank you Chris McCoy and the Memphis Flyer for the opportunity to speak with you on your podcast about my experience and vision for District 8.
-More Conversations Sep 24, 2026 - Budgeting doesn’t solve what Washington won’t fix.
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
+More Conversations Sep 27, 2026 - I will fight for you no matter your party affiliation.
+Sep 26, 2026 - Thank you, Jackson Pride Festival attendees!
+Sep 26, 2026 - Thank you, Covington Heritage festival attendees and Tipton County Democratic Party (especially Matt Payne)!
+Sep 26, 2026 - Every child deserves the opportunity to soar Sep 25, 2026 - We have to support teachers with more than words.
+Sep 24, 2026 - Budgeting doesn’t solve what Washington won’t fix.
 Sep 22, 2026 - Thank you, Baker Brothers BBQ “Sauce, Smoke & Support” Attendees!
 Sep 22, 2026 - We will not sacrifice anything for Data Centers Sep 21, 2026 - Want to help us WIN?
 We need your assistance (and would welcome it).
@@ -27,11 +30,6 @@ Sep 7, 2026 - This Labor Day, we honor the workers who built our communities and
 Sep 5, 2026 - I stand for District 8, all of District 8.
 Not just the wealthy.
 Not just the well-connected.
-Sep 5, 2026 - Thank you Jackson Madison County and African Street Festival attendees!
-Sep 5, 2026 - Thank you Issac Hays Days and Covington (District 8) attendees!
-Sep 5, 2026 - We cannot wait, change must happen now.
-Sep 4, 2026 - I want the next generation to have the opportunity to soar, just like my daughter, who became a commercial airline pilot.
-Sep 3, 2026 - Thank you, Crockett County Democrats, for coming to the Crockett Mills Community Meet and Greet!
 Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

@@ -15,7 +15,8 @@ Privacy Policy.
 9th Generation Pennsylvanian.
 “In Congress, I will fight for the people of Pennsylvania's 9th Congressional District every single day.
 Dan Meuser forgot about us and our Pennsylvania values.
-I never will." Learn more Fixing our health care Lowering the cost of living Keeping our promises to farmers We're grateful for your support. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Rep.
+I never will." Learn more Our priorities Fighting for Pennsylvania's 9th Congressional District These are some of the top issues our campaign is focused on.
+Fixing our health care Lowering the cost of living Keeping our promises to farmers We're grateful for your support. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Rep.
 Dan Meuser Wealth Watch Meuser has nearly doubled his net worth since taking office.
 During that same time, Pennsylvania families watched their wages suffer.
 2019 Dan Meuser takes office.

@@ -6,6 +6,7 @@ Next goal: every city, township, and village in Senate District 14.
 The cross-district route was well received.
 Now Tawn is going community by community so no township is left off the map.
 Invite her to run where you live.
+Click the map to open it larger.
 137.8 miles Running total — and still going Every City, Township & Village Checked boxes = Tawn has already run there.
 Unchecked = still on the list.
 Click a visited community for that day’s route.
@@ -74,5 +75,4 @@ Share the route on social media and invite friends and family to join.
 Invite Tawn to Your Community ⚠️ Important Safety Information Certain segments of the route are on open roads.
 Water and transportation will NOT be provided.
 Please plan accordingly and bring your own supplies.
-We appreciate your support and look forward to seeing you on the road!
-Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn
+We appreciate your support and look forward to seeing you on the road! × Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn

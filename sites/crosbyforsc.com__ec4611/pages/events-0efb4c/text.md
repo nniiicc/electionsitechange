@@ -1,8 +1,4 @@
-Skip navigation menu Meet Katie Platform Events Volunteer Contact Donate Meet Katie Platform Events Volunteer Contact Donate Join Us Campaign Events Knock on doors with Katie!
-RSVP for location Get out the vote!
-Training provided.
-Join us to get a button!
-Day of Action!
+Skip navigation menu Meet Katie Platform Events Volunteer Contact Donate Meet Katie Platform Events Volunteer Contact Donate Join Us Campaign Events Day of Action!
 RSVP for Location Let's get out the vote!
 However you would like to help, there's something for you: -Stay home in your PJs and call voters -Hit the streets and put out yard signs -Join Katie to knock on doors Sign up and get a free hat!
 All information, materials, and training will be provided.

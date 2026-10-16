@@ -1,4 +1,4 @@
-About Leslie Issues Get Involved Events Donate Now Home About Leslie Issues Get Involved Events Donate Now About Leslie Jones My name is Leslie Jones and I am running to represent Missouri House District 130.
+About Leslie Issues Get Involved Events Donate Now Home About Leslie Issues Get Involved Events Donate Now About Leslie Jones My name is Leslie Jones and I am running as the Democratic candidate to represent Missouri House District 130.
 I am a lifelong Missourian born and raised in Springfield, and I have spent the majority of my life learning and growing within this community.
 I am a woman who wears many hats.
 Not only am I a mother to two beautiful children, I am also a music therapist, educator, business owner and advocate.

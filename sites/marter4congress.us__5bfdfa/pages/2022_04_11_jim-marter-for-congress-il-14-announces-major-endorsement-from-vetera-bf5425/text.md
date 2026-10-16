@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 11 Apr “I’m excited and grateful to receive this important endorsement from the Veterans For America First.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 11 Apr “I’m excited and grateful to receive this important endorsement from the Veterans For America First.
 Their mission to support our veterans and first responders is a mission I share with them and I’m glad to be recognized for it,” said Marter.
 “These folks deserve our highest level of honor and support and their well-being should be a top priority.
 It will be a priority of mine when I’m in Congress.

@@ -1,8 +1,4 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Phone Bank @ VADC Field Office 9741 Bolsa Ave.
-Westminster, CA 92683 Join Dr.
-Swift on the phones to get the vote out for Dr.
-Swift this November!
-RSVP Team Swift Canvass in Santa Ana Edna Park 2140 W.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Santa Ana Edna Park 2140 W.
 Edna Dr.
 Santa Ana, CA 92706 Join Team Swift for a day of canvassing to get the vote out for Dr.
 Swift!

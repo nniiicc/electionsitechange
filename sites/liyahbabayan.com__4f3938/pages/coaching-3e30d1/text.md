@@ -55,7 +55,7 @@ Dedicating our most focused energy, attention and commitment to the well-being o
 Pricing Info Discovery Call 15 Minutes Free Mini Session 25 Minutes $75 Spark Sessions 4 Sessions Weekly or Bi-Weekly 45 Minutes Use within 2 months $550 Core Program 6 Session Program Weekly or Bi-Weekly 45 Minutes Use within 3 months $750 Signature Program 3 Month Package Deal Commit to 3 months Weekly or Bi-Weekly 45 Minutes Use within 6 months $1500 Ready to Get Started?
 For more information on coaching, contact Liyah directly.
 Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Name out Do What coaching program are you interested in? * Discovery Call - Free Mini Session - $75 Spark Sessions - $550 Core Program - $750 Signature Program - $1500 Tell me more about what you would like coaching in: * What do you expect to gain out of our sessions? * What does success look like to you after completing this? * What results are you looking to achieve through our coaching sessions? * Do you forsee any scheduling conflicts for meeting?
+Please enable JavaScript in your browser to complete this form. meeting?
+What results Name * First Last Email * Phone What coaching program are you interested in? * Discovery Call - Free Mini Session - $75 Spark Sessions - $550 Core Program - $750 Signature Program - $1500 Tell me more about what you would like coaching in: * What do you expect to gain out of our sessions? * What does success look like to you after completing this? * What results are you looking to achieve through our coaching sessions? * Do you forsee any scheduling conflicts for meeting?
 What days work best for you? * Do you have an idea of the steps you need to take in order to achieve your goals? * Submit LIYAH BABAYAN Made with ♥ by Desert Creative Group. © Liyah Babayan #.
 Contact Liyah: Instagram Facebook Envelope Linkedin

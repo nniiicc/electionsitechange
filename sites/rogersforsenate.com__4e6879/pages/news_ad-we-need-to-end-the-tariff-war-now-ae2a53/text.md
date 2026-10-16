@@ -16,7 +16,7 @@ That's job number one.
 And Abdul, he wants to hit Michigan families with a $3,000 tax increase, the biggest in history.
 I'm Mike Rogers, and I approve this message because I'll actually put dollars back in your pocket.
 Learn more about Mike Rogers and his plans to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous MIKE ROGERS WINS WOOD TV DEBATE Next Next MIKE ROGERS STATEMENT ON THE ANNIVERSARY OF OCTOBER 7TH ATTACKS CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous MIKE ROGERS WINS WOOD TV DEBATE Next Next MIKE ROGERS STATEMENT ON THE ANNIVERSARY OF OCTOBER 7TH ATTACKS MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

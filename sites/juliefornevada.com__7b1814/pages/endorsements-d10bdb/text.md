@@ -1,4 +1,4 @@
-top of page Home Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
+top of page Home Vote Locations Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
 ENDORSEMENTS I’m proud to endorse Julie Butler for Assembly District 40.
 She brings more than three decades of dedicated public service, along with a deep, working knowledge of how state government operates.
 At a time when Nevadans want accountability, efficiency, and results, Julie’s experience truly matters.

@@ -1,4 +1,4 @@
-Skip to content Home About Zack Issues Endorsements Volunteer Contact Event Request Contribute Menu Close Name First Last Email * Sign Up Contribute Volunteer Meet Zack Where the weak grow strong and the strong grow great, Here's to "Down Home", the Old North State!
+Skip to content Home About Zack Issues Endorsements Volunteer Contact Event Request Contribute Menu Close Contribute Volunteer Meet Zack Where the weak grow strong and the strong grow great, Here's to "Down Home", the Old North State!
 Issues Health Care and the Economy Healthy people are working people.
 Working people contribute to and invest in NC.
 Innovation, Infrastructure, and Transportation Unleash our state’s fullest potential Education Fund education at a top 10 level.

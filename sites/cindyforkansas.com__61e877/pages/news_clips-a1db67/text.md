@@ -1,4 +1,6 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News Kansas City Star • October 15, 2026 Fourteen emails in 4 months: Records show Masterson’s work at alleged ‘no-show job’ State Sen.
+Cindy Holscher of Overland Park, the Democratic nominee for governor, said Masterson’s WSU employment arrangement represents “pay-to-play politics at its worst, with wealthy special interests handing the most powerful man in the Legislature a paycheck that only keeps growing, for a fake job with no responsibilities.” The New Republic • October 14, 2026 'Demonic Stuff': Kansas GOP Accuses Democrat of Being a Witch The state senator had seemingly drawn his conclusions from a series of playful TikTok videos posted by Holscher’s 20-year-old daughter, Maddie, who had shared clips of her and her mom brushing their teeth set to a song from the Wicked soundtrack.
+KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
 That also includes recreational marijuana legalization and a focus on cutting property taxes.
 “Those are all things supported by at least 65 percent of the population of Kansas,” she said.
 “Those are things that I stand with the people on.” Kansas Reflector • October 12, 2026 Cindy Holscher, Ty Masterson gain gubernatorial endorsements from labor, ag interests Holscher, elected to the Legislature nearly a decade ago, has been endorsed by Kelly and former Democratic Govs.
@@ -16,11 +18,6 @@ New York Magazine • September 8, 2026 A Democratic Blue Wave Could Hit Governo
 She also opposed an increasingly unpopular sweetheart stadium deal for the Kansas City Chiefs, which Kelly had backed.
 Holscher may be stronger than she originally looked.
 Her base, conveniently, is in the rapidly growing and Democratic-trending suburb of Johnson County.
-Sunflower State Journal • September 4, 2026 Holscher wins endorsement from AFL-CIO Democratic state Sen.
-Cindy Holscher secured a key union endorsement Friday in the Kansas governor's race from the Kansas AFL-CIO, which praised her 100% voting record on the side of organized labor.
-Topeka Capital Journal • August 31, 2026 Kansas voters have the chance to break historical trends this election When Kansas voters fill out their ballots for the November 2026 general election, they will have the opportunity to break long-standing historical trends.
-A Democrat winning the U.S.
-Senate would break a nearly 100-year winning streak by Republicans.
 1 2 Older → Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.

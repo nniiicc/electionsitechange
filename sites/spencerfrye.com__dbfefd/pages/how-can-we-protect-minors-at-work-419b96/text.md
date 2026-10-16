@@ -25,9 +25,5 @@ A similar failed attempt to revise Georgia’s mandated-reporting provisions, HB
 The bill was vetoed by Governor Brian Kemp on May 12, 2026, arguing that its technical requirements were too narrowly specified and would limit Georgia’s Division of Family & Children Services.9 Bringing back the possibility of HB 1409 could be a great way to readdress the issues that are still impacting Georgia’s youth.
 A proposed Minor Employee Protection from Sexual Abuse Act could help fill this gap in the mandated reporting framework.
 This act could require employers to notify the appropriate authorities when they reasonably suspect that an employee or supervisor has sexually abused a minor employed alongside them, prompt notification of the minor’s parent or guardian, subject to exceptions where doing so could endanger the child or interfere with an investigation, and employers to document reports and preserve relevant evidence.
-The bill could prohibit retaliation against a minor who reports abuse and establish penalties for employers who knowingly conceal abuse or fail to comply with reporting requirements.
-Overall, I think this is good and I like the connections you make to minor workplace issues and child sexual abuse.
-I think the structure of the paper could use some work, maybe an added paragraph at the start about the connections between child sexual abuse and abuse of minors in the workplace.
-Especially since the solution is focused on minors in the workplace, starting more focused on that will help the paper.
-Additionally, some of your paragraphs are very evidence heavy so try to add some more explanations in between citations. ©# Spencer Frye State House 122.
+The bill could prohibit retaliation against a minor who reports abuse and establish penalties for employers who knowingly conceal abuse or fail to comply with reporting requirements. ©# Spencer Frye State House 122.
 All Rights Reserved.

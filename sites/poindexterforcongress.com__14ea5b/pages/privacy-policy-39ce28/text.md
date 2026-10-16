@@ -1,4 +1,4 @@
-info@poindexterforcongress.com On the Issues Priority #1: Cost of Living Working families are getting squeezed.
+Poindexter Merchandise! info@poindexterforcongress.com On the Issues Priority #1: Cost of Living Working families are getting squeezed.
 I have a plan to bring down the prices of gas, groceries, and health care.
 The Economy Working families are paying more while corporations post record profits.
 An economy that works should work for the people who power it.
@@ -13,7 +13,7 @@ Gas prices Bringing down the cost of gas and diesel will be one of my top priori
 Data centers Local communities must have control over whether data centers are built, and no one should pay a cent more for utilities to subsidize data centers.
 Law enforcement I have supported law enforcement on the City Council, and I will do the same in Congress.
 Fighting for Workers because he is a worker Brian Poindexter understands these issues because as a card carrying union member and a member of the working class, he's worked many of the blue-collar jobs residents of Ohio's 7th Congressional District have trying to make ends meet, dealing with kitchen table issues, and working hard to raise a young family.
-Brian's Working-Class Story Get Involved Events Volunteer Request a Yard Sign News/Media Donate Privacy Policy Last updated: January 12, 2026 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Brian's Working-Class Story Get Involved Events Volunteer Request a Yard Sign Poindexter Merch News/Media Donate Privacy Policy Last updated: January 12, 2026 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service.
 By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 This Privacy Policy has been created with the help of the Free Privacy Policy Generator .

@@ -2,3 +2,4 @@
 Proven Track Record & Leadership Barry brings hard work, common-sense policies, and strong leadership to Beacon Hill, focusing on the priorities that matter most to our community.
 Healthcare Access Barry is working to ensure everyone has access to the highest quality, most affordable healthcare possible.
 Economic Opportunity Barry Finegold is focused on building a strong, fair economy that works for everyone and lowers the cost of living for working families.
+B-Roll

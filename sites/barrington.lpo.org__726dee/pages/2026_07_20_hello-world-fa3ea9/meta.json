@@ -1,9 +1,10 @@
 {
- "description": "This is the website for Brennan Barrington, Libertarian candidate for Ohio’s 15th Congressional District. See the top banner for links to my main pages. Because of issues with rendering on mobile devices, the pages are also linked below. Click this post to access the links. If you like what you see, please contribute or sign […]",
+ "description": "If you are using a mobile device, touch the black square to see my main pages. This site does not render correctly on mobile devices. You can also reach them through the links in this post (click/touch the post to see all of it). This is the website for Brennan Barrington, Libertarian candidate for Ohio’s […]",
  "final_url": "https://barrington.lpo.org/2026/07/20/hello-world/",
- "fingerprint": "b30bf65094631949addcefa805b5f8fd43d967eb",
+ "fingerprint": "4804780237f345020267387905e2daa1f9264740",
  "format": 3,
  "paid_for_by": "Paid for by Barrington for Congress Contact",
+ "rendered": false,
  "title": "Hello voters! - Barrington for Ohio",
  "years_mentioned": [
   "2026"

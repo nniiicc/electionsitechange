@@ -1,4 +1,4 @@
-Skip to content Allen Miller for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues About Me I’m not a politician.
+Skip to content Allen Miller Democrat for Indiana House District 73 Allen on the Issues Voter Registration Information About Me Donate Issues About Me I’m not a politician.
 I’ve never run for office before, and I’m still getting over the fact that I’m actually doing this.
 It’s been a lot of late nights, zoom calls, and breaking out of my comfort zone.
 But I want to bring Better Outcomes for the State of Indiana.
@@ -15,7 +15,7 @@ I’ve watched Indiana become one of the lowest literacy states in the country.
 I’ve watched elected officials ignore a room full of people begging to be heard, and then vote for their own interests.
 I’ve watched my own bills go up and up, while my pay barely comes close to keeping up with the bills.
 I’m done watching.
-Allen Miller for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
+Allen Miller Democrat for Indiana House District 73 Better Jobs, Better Roads, and a Better Future Member, Indiana Rural Summit Join our movement!
 Contact: P.O.
 Box 182 Greensburg, IN 47240 electallenmiller@proton.me ‪(812) 651-0617‬ Follow along: Facebook Instagram Threads © # all rights reserved.
 Designed with WordPress .

@@ -1,4 +1,4 @@
-0 Skip to Content → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team Sign-up for more info or volunteer with us!
+0 Skip to Content → Donate → Join the Winning Team Open Menu Close Menu → Donate → Join the Winning Team Open Menu Close Menu → Donate → Join the Winning Team Sign-up for more info or volunteer with us!
 Join the team who’s working to reach as many District 3 voters as possible before November 3.
 Questions?
 Our inbox is always open.

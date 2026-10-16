@@ -1,4 +1,4 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate General election · Tuesday, November 3, 2026 Four amendments at the bottom of your ballot.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate General election · Tuesday, November 3, 2026 Four amendments at the bottom of your ballot.
 I am voting yes on all four.
 Every South Dakota voter will see Constitutional Amendments I, J, K and L this November.
 The Legislature put all four there in 2025.
@@ -223,7 +223,7 @@ Return it to PO Box 6160, Rapid City, SD 57709.
 Not sure you live in District 32?
 The line runs right through Rapid City.
 Here is the official map.
-District 32 is downtown and North Rapid.
+District 32 is downtown and North Rapid, from Main Street to Knollwood Drive.
 If your home is in the shaded area, you get two votes for State House and I am asking for one of them.
 South Dakota House District 32 Shaded area is the district.
 Red lines are precincts.
@@ -238,7 +238,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

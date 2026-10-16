@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy for No Blank Checks for War Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy for No Blank Checks for War Why I believe this — and how I’ll fight for it.
 I am antiwar.
 Let me say it plainly, because too few politicians will: I will never vote to fund or support an unnecessary war — not for profit, not for politics, not because an ally demands it.
 Having the strongest military on earth is one thing.

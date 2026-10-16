@@ -1,8 +1,8 @@
-0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Priorities Lower costs.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch Donate Priorities Lower costs.
 More jobs.
 A state that works for everyone I am running to restore faith in a better future.
 The American Dream is the idea that outcomes are determined by the effort we put in, not the circumstances we’re born into.
-But the American Dream is breaking because the cost of living is rising faster than incomes, and our society feels increasingly defined by scarcity and division.
+But the American Dream is breaking because the cost of living is rising faster than incomes, and our country feels increasingly defined by scarcity and division.
 We can change that.
 It starts with us.
 Bring down the cost of living Tackle the key drivers of costs with a combination of increasing incentives and reducing requirements—sometimes the government needs to help out and other times it needs to get out of the way.
@@ -12,10 +12,11 @@ Insurance: Link home insurance discounts with fire-mitigating investments and re
 Childcare: Expand early childhood care and after-school care programs, train more caregivers, and reward employer support.
 Healthcare: Reduce drug pricing via state-negotiated volume discounts (prescription spending in CA increased 39% in just five years), streamline credentialing to increase the healthcare worker supply, and partner with regulators to keep pricing fair Create Opportunity My story is the story of access to opportunity.
 I’m proud of my hard work and accomplishments, and also recognize that I wouldn’t be here without the opportunities I was given to get an education and pursue my dreams.
-Education : Invest in teacher development and continuous training, require curriculum that uses AI to foster critical thinking instead of replacing it, and expand affordable higher education pathways including community colleges and skilled trades.
+Education : Invest in teacher development and continuous training, expand affordable higher education pathways including community colleges and skilled trades, and ensure students are using AI responsibly and thoughtfully.
 Small Business: Streamline permitting, implement tax holidays for local businesses, create hiring incentives, and improve access to capital.
-AI-Resilient Careers: Promote career pathways into good-paying, AI-resilient careers in skilled trades, teaching, caregiving, and more.
-Bring State Funding Home: Collaborate with local stakeholders—city councils, school boards, planning commissions—to get grants and access state programs.
+Human-First AI Policy: Ensure AI is being regulated to protect, help, and center humanity and human opportunity.
+Data centers should NOT be build without community buy-in.
+Read full proposals here: Human-First AI Bring State Funding Home: Collaborate with local stakeholders—city councils, school boards, planning commissions—to get grants and access state programs.
 Serve with unity I am running for State Assembly, which means I will be representing you and your family in Sacramento at the state legislature.
 In order to be an effective representative for you, I am committed to being: Accessible and Accountable: You can schedule 1:1 time with me here .
 Data-driven: Prioritize root cause resolution over headline-grabbing statements.
@@ -34,4 +35,4 @@ Building safe communities means protecting human and civil rights, appropriate a
 Communities in the 71st Assembly District are at risk of earthquakes, wildfires, floods, and landslides.
 We need to take effective action to help prevent disasters with thoughtful management, and respond to destructive events to minimize damage and help those affected recover.
 There are people in our communities who are afraid their civil rights might be compromised—I will work tirelessly in our state legislature to protect the rights of everyone who lives in the communities I represent.
-Contribute Join Us Sign up to learn more about the campaign and how to get involved: DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089
+Contribute Ask me anything at a Town Hall Or let’s talk when you have time Schedule time on my calendar for a quick conversation Find Time to talk Join Us Sign up to learn more about the campaign and how to get involved: DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

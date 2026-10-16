@@ -3,12 +3,12 @@ You roll up your sleeves, get to work, and see it through.
 That lesson has stayed with Darby throughout her life and continues to shape how she serves in the Illinois Senate.
 Today, she is putting that same work ethic toward the issues that matter most to Illinois families, fighting to lower property taxes, reduce prescription drug costs, ease financial pressures on seniors, expand access to quality childcare, support small businesses and job creators, strengthen public safety and education, improve services for individuals with disabilities, and stand up for our veterans.
 You can see that commitment reflected in her legislative work below, with legislation she is sponsoring and co-sponsoring to tackle the issues families and communities are facing every day.
-Share: More Posts Darby Hills Earns Chicago Tribune Endorsement for State Senate State Senator Darby Hills has earned the Chicago Tribune Editorial Board’s endorsement in the race for Illinois’ 26th Senate District, with the board highlighting her willingness to work across the Do You Know Where to Vote?
-Early voting is happening NOW!
-We all know how quickly a day can get away from us, and you never know what might come up on Election Day.
-If you Endorsed by Algonquin Mayor Debby Sosine “Thank you to Algonquin Mayor Debby Sosine for your support!
-Working with local leaders helps me stay connected to what our communities need, and I’m proud to have Debby by Endorsed by Lake County Farm Bureau “Our farmers and farm families are an important part of the 26th District, and agriculture has a special place in our family’s history, too.
-My husband’s family has had a Prev Previous FOX 32 Chicago: E-Bike Tragedies Highlight Need for Statewide Safety Legislation Next Knocking Doors with Team Darby Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+Share: More Posts Voted for Property Tax Relief “Property taxes around here are skyrocketing, and bills just keep climbing.
+I voted for property tax relief for homeowners, and I’m fighting for bigger homeowner tax credits and hard limits Endorsed by Mayor Richard McLaughlin of Island Lake “Thank you to Island Lake Richard McLaughlin – Mayor for your support!
+I’m grateful to have local leaders like Richard in my corner as I work to make sure our Endorsed by the Polish American Police Association “I’m honored to receive the endorsement of the Illinois Polish American Police Association!
+Thank you for your support and for the work you do to serve and protect our communities.
+Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas “A front-door conversation turned into new friends joining us on the campaign trail!
+While knocking on doors in Hoffman Estates with Village Trustee Gary Pilafas, we met some neighbors who Prev Previous FOX 32 Chicago: E-Bike Tragedies Highlight Need for Statewide Safety Legislation Next Knocking Doors with Team Darby Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

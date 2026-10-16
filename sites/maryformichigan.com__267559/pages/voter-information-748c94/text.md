@@ -14,5 +14,4 @@ Find your polling place and get more information about election day voting at mi
 A New District In 2023, a federal court ruled that 13 state Senate and House districts were drawn unconstitutionally, requiring those maps to be redrawn.
 In 2024, three federal judges approved the new districts, which include Senate District 6 .
 The new 6th Senate District includes Northwest Detroit from 8-mile to Livernois to Tireman/Warren/Joy & all of Redford Twp To find your legislative district for upcoming election, visit the link below.
-Find out if you live in our District!
 Paid for by Committee to Elect Mary Cavanagh 14965 Aubrey, Redford Charter Twp, MI 48239 info@maryformichigan.com Follow Facebook Instagram Twitter

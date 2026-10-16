@@ -18,7 +18,7 @@ Their work inspires me to lead with integrity and keep people, not politics, at 
 It’s those perspectives that shape my commitment to addressing the challenges facing Minnesotans in a thoughtful and balanced way.
 Committed to my community .
 As I continued to see political breakdowns and stalemates routinely unfolding in our legislature, I began looking for ways to become more involved in my local community.
-I joined the Washington County Community Development Block Grant Advisory Committee and the City of Stillwater Human Rights Commission and am deeply grateful for the opportunity to serve our community.
+I joined the Washington County Community Development Block Grant Citizen Advisory Committee and the City of Stillwater Human Rights Commission and am deeply grateful for the opportunity to serve our community.
 These roles have deepened my understanding of our community and how to drive meaningful change.
 District 33 is home .
 I grew up in Saint Paul, attended Saint Thomas Academy high school, and lived for many years in NE Minneapolis after graduating from the U of M.

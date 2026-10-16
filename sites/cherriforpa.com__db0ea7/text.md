@@ -7,7 +7,12 @@ Union nurse.
 Lifelong Western Pennsylvanian.
 Raised by steelworkers.
 Ready to take the fight to Harrisburg for working families.
-Donate Now Yard Signs Meet Cherri Union Nurse School Nurse Steelworker's Daughter One of Us Working Families Are Struggling The data is clear.
+Donate Now Yard Signs Meet Cherri Union Nurse School Nurse Steelworker's Daughter One of Us Take Action # Days Until Election Day Donate Every dollar puts us in front of more voters in District 58.
+Give Now Yard Sign Put Cherri on your lawn or at your business.
+Request One Volunteer Knock doors, make calls, or host a meet-and-greet.
+Sign Up Check Your Registration Register, verify your record, or request a mail ballot.
+Start Here Know Your Deadlines Every date between now and November 3.
+See Dates Working Families Are Struggling The data is clear.
 Harrisburg isn't working for us.
 47% PA workers without paid sick leave Cherri will fight for paid sick leave. $7.25 PA minimum wage frozen since 2009 Cherri will fight to raise the minimum wage.
 25% Income spent on healthcare costs Cherri will fight to lower healthcare costs.

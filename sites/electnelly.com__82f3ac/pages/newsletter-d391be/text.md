@@ -1,4 +1,4 @@
-Home About Newsletter Get involved Issues How to vote Contribute Home About Newsletter Get involved Issues How to vote Contribute Newsletter Your Full Name email* Phone Sign me up for SMS texts Sign me up for SMS texts Subscribe © #.
+Home About Get involved Issues Newsletter How to vote Contribute Home About Get involved Issues Newsletter How to vote Contribute Newsletter Your Full Name email* Phone Sign me up for SMS texts Sign me up for SMS texts Subscribe © #.
 All rights reserved.
 Paid for by Friends of Nelly Burdette Contribute Privacy Policy By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from Scale to Win.
 Scale to Win's mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.

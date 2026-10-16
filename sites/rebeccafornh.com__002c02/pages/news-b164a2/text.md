@@ -1,4 +1,7 @@
-Skip navigation menu About Priorities Endorsements News Connect Invest stay informed News & Press About Priorities Endorsements News Connect Invest stay informed News & Press In the News Our Latest Campaign Developments NEWS ARTICLE CONCORD MONITOR: Regulation on data centers is common sense for NH’s future New Hampshire should welcome responsible innovation and economic development.
+Skip navigation menu About Priorities Endorsements News Connect Invest stay informed News & Press About Priorities Endorsements News Connect Invest stay informed News & Press In the News Our Latest Campaign Developments NEWS ARTICLE NEWFOUND LAKE LIFE: Newfound’s children and taxpayers are paying the price for state inaction.
+Every year, residents of Alexandria, Bristol, Danbury, and New Hampton come together to debate school budgets, ask difficult questions, and decide what we believe our children’s education is worth.
+This year, those choices became especially painful.
+Read more Oct 1 2026 NEWS ARTICLE CONCORD MONITOR: Regulation on data centers is common sense for NH’s future New Hampshire should welcome responsible innovation and economic development.
 But projects with extraordinary electricity and water demands and potential community impacts must be evaluated carefully, transparently and locally.
 Data centers fall squarely into that category.
 Read more Sep 26 2026 NEWS ARTICLE UNION LEADER: New Hampshire needs a new business plan What does it say about New Hampshire’s future when nearly one in four Granite Staters is considering leaving the state within the next five years?

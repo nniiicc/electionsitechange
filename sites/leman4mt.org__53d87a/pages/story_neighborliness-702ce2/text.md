@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Neighborliness × Out here, neighborliness isn't just a polite word.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Montana Common Sense Neighborliness × Out here, neighborliness isn't just a polite word.
 It is an essential way of life.
 If your truck ends up in a ditch on a slick, icy winter road, the person who pulls you out isn't going to check your political registration first.
 They aren't going to ask who you voted for before they grab their recovery gear.

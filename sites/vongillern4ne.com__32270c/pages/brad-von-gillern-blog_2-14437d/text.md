@@ -1,4 +1,5 @@
-Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE Brad's Blog Serving with Civility A hallmark of our personal reputation should, in my mind, be how we treat other humans.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE Brad's Blog Promises vs Reality: Affordability Affordability is a topic that is on everyone’s minds, and it comes up in my conversations with constituents nearly every day.
+The cost of groceries, Read More » Serving with Civility A hallmark of our personal reputation should, in my mind, be how we treat other humans.
 Are we kind?
 Are we gracious?
 Do we defer Read More » Math Matters Full disclosure: I struggled with math throughout my early education.

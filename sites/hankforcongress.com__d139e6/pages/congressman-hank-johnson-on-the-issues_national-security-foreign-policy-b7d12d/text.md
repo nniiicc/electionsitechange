@@ -20,5 +20,5 @@ He believes: “Climate change is real and threatens our health, the environment
 6072).
 This will put a limitation on the purchasing of any new voting systems that do not provide durable voter-verified paper ballots.
 BACK TO ISSUES CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
-Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
-Supreme Court’s decision September 16, 2026 Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks August 27, 2026 Paid for by the Committee to Elect Hank Johnson
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Hank Says: Early Voting Has Started October 15, 2026 Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision September 16, 2026 Paid for by the Committee to Elect Hank Johnson

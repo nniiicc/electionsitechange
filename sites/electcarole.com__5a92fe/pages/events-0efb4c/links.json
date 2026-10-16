@@ -5,10 +5,6 @@
 },
 {
 "text": "+ Google Map",
-"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=3+Main+Street+Assonet+02702+United+States"
-},
-{
-"text": "+ Google Map",
 "href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=757+Robeson+Street+Fall+River+MA+02720"
 },
 {
@@ -18,10 +14,6 @@
 {
 "text": "10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
 "href": "https://electcarole.com/2026/10/05/10-5-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
-},
-{
-"text": "8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
-"href": "https://electcarole.com/2026/08/31/8-31-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
 },
 {
 "text": "9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
@@ -61,11 +53,19 @@
 },
 {
 "text": "Find out more »",
-"href": "https://electcarole.com/event/office-hours-freetown-town-hall/"
+"href": "https://electcarole.com/event/office-hours-flint-senior-center-3/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/office-hours-freetown-council-on-aging-2/"
 },
 {
 "text": "Find out more »",
 "href": "https://electcarole.com/event/office-hours-north-end-senior-center-2/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/office-hours-north-end-senior-center-3/"
 },
 {
 "text": "Home",
@@ -92,12 +92,20 @@
 "href": "https://electcarole.com/event/office-hours-flint-senior-center-2/"
 },
 {
-"text": "Office Hours – Freetown Town Hall",
-"href": "https://electcarole.com/event/office-hours-freetown-town-hall/"
+"text": "Office Hours – Flint Senior Center",
+"href": "https://electcarole.com/event/office-hours-flint-senior-center-3/"
+},
+{
+"text": "Office Hours – Freetown Council on Aging",
+"href": "https://electcarole.com/event/office-hours-freetown-council-on-aging-2/"
 },
 {
 "text": "Office Hours – North End Senior Center",
 "href": "https://electcarole.com/event/office-hours-north-end-senior-center-2/"
+},
+{
+"text": "Office Hours – North End Senior Center",
+"href": "https://electcarole.com/event/office-hours-north-end-senior-center-3/"
 },
 {
 "text": "Photos",
@@ -106,6 +114,10 @@
 {
 "text": "Press Release",
 "href": "https://electcarole.com/category/press-release/"
+},
+{
+"text": "Representative Fiola Presents Earmarks To Fall River Public Schools",
+"href": "https://electcarole.com/2026/10/15/representative-fiola-presents-earmarks-to-fall-river-public-schools/"
 },
 {
 "text": "Southcoast Rail Update",

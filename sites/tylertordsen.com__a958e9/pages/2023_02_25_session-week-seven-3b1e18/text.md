@@ -31,7 +31,7 @@ John (R-District 1) We’re close to finishing things up in Pierre, but there is
 These last two weeks will see us wrapping up our remaining bills in our committees and will conclude with a final balanced budget for our 134th consecutive year.
 If you have any questions, comments, or concerns, please feel free to reach out to me at tyler.tordsen@sdlegislature.gov .
 Have a great weekend! -Rep.
-Tordsen Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 25, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK SIX Next Post Next post: SESSION WEEK EIGHT Leave a Reply Cancel reply Comment Name Email Website Δ PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Tordsen Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 25, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK SIX Next Post Next post: SESSION WEEK EIGHT Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

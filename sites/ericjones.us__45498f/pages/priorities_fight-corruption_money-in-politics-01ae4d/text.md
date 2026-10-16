@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Get Money Out of Politics Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Get Money Out of Politics Why I believe this — and how I’ll fight for it.
 Our politics are supposed to belong to the people.
 Right now, they belong to whatever lobbying groups fund their campaigns.
 For years, our politicians have let industry lobbyists, special interests, even foreign money fund their campaigns, buy their dinners, and pay for their travel.

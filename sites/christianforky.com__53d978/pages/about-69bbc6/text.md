@@ -4,8 +4,9 @@ My parents moved to Oldham County when I was five.
 I grew up in Crestwood, attended Crestwood Elementary School and then moved to Centerfield Elementary when it was newly built.
 From Oldham County Middle School, I then graduated from Oldham County High School in 1988.
 I was honored to be selected as a Governor’s Scholar and attended the University of Kentucky site in 1987.
-Growing up in Oldham County, I loved reading, camping with the Girl Scouts, skiing on the Ohio River, fishing with my dad, climbing trees in the front yard, playing the piano, playing the clarinet and marching in the OCHS Marching Band and running track and cross country as an OCHS Colonel.
-Our family attended Crestwood United Methodist Church (CUMC) and I enjoyed being part of the youth program.
+Growing up in Oldham County, I loved reading, camping with the Girl Scouts, skiing on the Ohio River, fishing with my dad, climbing trees in the front yard, and playing the piano.
+In school, I played the clarinet and marched in the OCHS Marching Band, and run track and cross country as an OCHS Colonel.
+At church, I was a member of the youth program at Crestwood United Methodist.
 I graduated from college at the University of Miami in 1992, where I also met my future husband, Dean.
 We were married at CUMC in 1993.
 Graduating from the University of Louisville School of Medicine in 1996, I completed my Internal Medicine Residency and my Geriatric Medicine Fellowship at the University of Louisville and started as faculty at UofL in 2000.
@@ -13,7 +14,8 @@ Dean and I have two adult children, Nathan and Carrie.
 They graduated from North Oldham High School, with Nathan going on to earn his PhD in Electrical Engineering and Carrie her Masters in Education.
 When they were little, I coached Carrie’s Upward Basketball Team at St.
 John United Methodist Church in Prospect while Dean coached Nathan’s team.
-I also volunteered as a Girl Scout leader for Carrie’s troop.
+As a proud Girl Scout, I volunteered as a Troop Leader for Carrie’s troop.
+Our family attends Crestwood United Methodist.
 My parents, Joe and Louisa Davis, live in Crestwood in the house where we were raised.
 My brothers are Joey Davis and Lee Davis.
 My mom worked in the insurance business and in the public school system.

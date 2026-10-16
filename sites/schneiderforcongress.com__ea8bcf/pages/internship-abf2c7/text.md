@@ -1,5 +1,11 @@
 Skip navigation menu Meet Brad Volunteer Events Endorsements Internship News Contact Donate 2026 Internship Meet Brad Volunteer Events Endorsements Internship News Contact Donate 2026 Internship Join our 2026 Intern Cohort!
-Apply Here Create your own projects Attend community events Interact with elected officials Learn the ins and outs of Political Organizing Gain professional work experience Participate in Democracy Summer Learn More “This summer, I wanted to be involved in politics and learn more about how government functions firsthand.
+Apply Here Want to get involved?
+Reach out today!
+Become a Schneider for Congress Intern!
+Please complete the application form above and someone from our team will be in touch with you soon.
+You must be available for in-person work in Illinois 10th Congressional District.
+If you have any questions, please call us at (847) 748-3788 or email us at info@schneiderforcongress.com.
+Create your own projects Attend community events Interact with elected officials Learn the ins and outs of Political Organizing Gain professional work experience Participate in Democracy Summer Learn More “This summer, I wanted to be involved in politics and learn more about how government functions firsthand.
 I got to learn about my district, which really excited me because I could also make an impact in the community I grew up in.
 I learned how important it is to be involved in my community, especially through local government and civic organizations.
 This internship reminded me that Democracy is fueled by our willingness to make our voices heard, and work for a better, more just world.” Allyson, Summer 2025 Intern Brad Schneider for Congress PO Box 1318, Deerfield, IL 60015 P: (847) 748-3788 C: (847) 964-3365 Powered by RUN! website builder Paid for by Schneider for Congress You need to enable JavaScript to run this app.

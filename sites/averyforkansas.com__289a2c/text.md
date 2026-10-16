@@ -4,7 +4,13 @@ By trying the same thing...
 I'm different.
 I am tired of seeing hard working Kansas families struggle to make ends meet.
 It is going to take all of us working together to change Kansas for the better.
-Learn more We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Read below for some of our top priorities Equal rights for all Access to medical care People before corporations Fully funding education sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from AVERY ROWLAND FOR KANSAS.
+Learn more We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other What i stand for Kansas was born a Free State for all people.
+Corporations are not people.
+I want to serve you, not corporate interests.
+I want to represent you, the working class Kansan.
+I will fight for you in Topeka.
+I believe in truth, honesty, and hard work.
+Equal rights for all Access to medical care People before corporations Fully funding education sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from AVERY ROWLAND FOR KANSAS.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

@@ -16,7 +16,7 @@ I showed up.
 I answered every question.
 The question is: why won’t they?
 Previous PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) IS NATE A RADICAL COMMUNIST?
+You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!
+WE ARE AT A CROSSROADS IN WESTERN NEW YORK Volunteer and Sign Up for Updates!

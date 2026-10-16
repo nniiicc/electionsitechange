@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 09 Oct Jim Marter, Candidate for Congress in Illinois’ 14th Congressional District has released a statement on his support of Israel, upon the outbreak of war in the Middle East.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 09 Oct Jim Marter, Candidate for Congress in Illinois’ 14th Congressional District has released a statement on his support of Israel, upon the outbreak of war in the Middle East.
 “When America fails to lead, evil takes the lead.
 The policies of my opponent have not only been one of appeasement but have gone far beyond to actually funding state sponsors of terror.
 I’m referring to Lauren Underwood and her rubberstamping of the failed policies of the Biden Administration.

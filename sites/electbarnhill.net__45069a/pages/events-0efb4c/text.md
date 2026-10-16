@@ -77,14 +77,13 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
-Weekly Constitution education series hosted in connection with Washoe County Republicans.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 14, 2026 7:00 pm - 10:00 pm See more details October 15, 2026 I'll be in Reno from 10/12 to 10/20!
-October 15, 2026 7:00 pm - 10:00 pm See more details October 16, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+See more details 26 27 28 29 30 31 October 16, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
 Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
 See more details I'll be in Reno from 10/12 to 10/20!
-October 16, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+October 16, 2026 7:00 pm - 10:00 pm See more details October 17, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
+See more details I'll be in Reno from 10/12 to 10/20!
+October 17, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
 Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
 See more details Riverside Farmers Market (Reno) October 18, 2026 8:00 am - 1:00 pm Idlewild Park, 2055 Idlewild Dr/Ct, Reno, NV Weekly Sunday farmers market at Idlewild Park.
 Local produce, vendors, community gathering.
@@ -203,14 +202,13 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 14, 2026 Learn About the Constitution – Washoe County (Virtual) October 14, 2026 4:00 pm - 5:00 pm Virtual (RSVP for link via washoegop.org) Virtual event – RSVP for the link via washoegop.org.
-Weekly Constitution education series hosted in connection with Washoe County Republicans.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 14, 2026 7:00 pm - 10:00 pm See more details October 15, 2026 I'll be in Reno from 10/12 to 10/20!
-October 15, 2026 7:00 pm - 10:00 pm See more details October 16, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+See more details 26 27 28 29 30 31 October 16, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
 Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
 See more details I'll be in Reno from 10/12 to 10/20!
-October 16, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+October 16, 2026 7:00 pm - 10:00 pm See more details October 17, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
+Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
+See more details I'll be in Reno from 10/12 to 10/20!
+October 17, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
 Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
 See more details Riverside Farmers Market (Reno) October 18, 2026 8:00 am - 1:00 pm Idlewild Park, 2055 Idlewild Dr/Ct, Reno, NV Weekly Sunday farmers market at Idlewild Park.
 Local produce, vendors, community gathering.

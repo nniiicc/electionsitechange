@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 19 Jun OSWEGO, ILLINOIS, UNITED STATES, June 19, 2024 — Jim Marter, Republican Nominee for Congress in Illinois’ 14th Congressional District has been proclaimed a “Champion of Freedom on Juneteenth 2024,” by the Greater Chicagoland Black Chamber of Commerce.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 19 Jun OSWEGO, ILLINOIS, UNITED STATES, June 19, 2024 — Jim Marter, Republican Nominee for Congress in Illinois’ 14th Congressional District has been proclaimed a “Champion of Freedom on Juneteenth 2024,” by the Greater Chicagoland Black Chamber of Commerce.
 The Proclamation is signed by Dr.
 Cornel Darden Jr., Chairman of the Board for the organization, shown here with Beth Findley Smith, Vice Chairman of the LaSalle County Republican Party.
 On the evening of Juneteenth, June 19th, the framed Proclamation will be presented to Jim Marter at a campaign fundraiser in LaSalle County.

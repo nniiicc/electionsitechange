@@ -7,7 +7,9 @@ Brandt’s Classroom Wishlist Mrs.
 Greene’s Classroom Wishlist Mrs.
 Simmons’s Classroom Wishlist Mrs.
 Dale’s Classroom Wishlist Ms.
-Thompson’s Classroom Wishlist Mrs.
+Thompson’s Classroom Wishlist Ms.
+Lowery Randleman High School Grades 9-12 Link to Ms.
+Lowery’s Classroom Page Mrs.
 Chinnici Sellars Gunn Education Center Grades PreK-2 Link to Mrs.
 Chinnici’s Classroom Page Mrs.
 Moser Trindale Elementary School Grades 3-5 Link to Mrs.Moser’s Classroom Page Mrs.

@@ -64,16 +64,16 @@
 "href": "https://www.ruhero.com/"
 },
 {
-"text": "[image] Email Contact",
-"href": "mailto:Example.@gmail.com"
-},
-{
-"text": "[image] Phone Contact",
-"href": "mailto:Example.@gmail.com"
-},
-{
 "text": "[image][image]",
 "href": "https://www.ruhero.com/"
+},
+{
+"text": "[image][image] Email Contact",
+"href": "mailto:Example.@gmail.com"
+},
+{
+"text": "[image][image] Phone Contact",
+"href": "mailto:Example.@gmail.com"
 },
 {
 "text": "[no text]",

@@ -1,4 +1,4 @@
-Facebook Twitter Instagram Tiktok Youtube (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Jim Marter Republican for Congress Illinois 14th District Representation is Making a Comeback!
+Facebook Twitter Instagram Tiktok Youtube (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Jim Marter Republican for Congress Illinois 14th District Representation is Making a Comeback!
 Faith, Family & Freedom Life, Liberty and the Pursuit of Happiness Save the American Dream!
 Jim Marter: for America Only people who love America, should represent America!
 Tell Lauren Underwood, you're not "Left of the Squad!" Vote Smarter - Vote Marter for Congress!

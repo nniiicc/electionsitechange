@@ -1,6 +1,6 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Stephanie Walsh endorsed by the Forward Party!
-#ago 1 min read Updated: #ago The Forward Party is about people over partisanship and building a better path forward.
+Oct 8 # min read Updated: #ago The Forward Party is about people over partisanship and building a better path forward.
 For more information on the Forward Party and what they look for in candidates, click the link below.
 Forward Candidate Comms .pdf Download PDF • 212KB Recent Posts See All Gilbert Chamber Candidate Endorsement Arizonans deserve more than family name Gilbert Sun News: Both Gilbert senate seats up for grabs as early voting begins ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.

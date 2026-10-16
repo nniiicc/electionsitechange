@@ -18,4 +18,6 @@ Farms, vineyards, and orchards provide opportunities for agri-tourism, including
 The preservation of agriculture enhances the region’s appeal as a destination for tourists and boosts the local economy.
 REVIEW MORE TOPICS: WORKER RIGHTS ECONOMIC EQUITY DONATE NOW VOLUNTEER Location PO Box 135 Niles, Mi 49120 Hours Monday—Friday 9am — 6pm Contact hello@electangelajones.com (269) 235-9656 Paid for by the Angela Jones Committee to Elect PO Box 135 Niles, Mi 49120 Loading Comments...
 Write a Comment...
-Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started
+Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Create your own website, free on WordPress.com.
+Create your own website.
+Start free

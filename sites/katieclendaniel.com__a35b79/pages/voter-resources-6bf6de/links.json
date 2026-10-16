@@ -1,6 +1,6 @@
 [
 {
-"text": "Check Registration or Ballot Status",
+"text": "Check registration or track your ballot ↗",
 "href": "https://voterservices.elections.maryland.gov/VoterSearch"
 },
 {
@@ -8,7 +8,15 @@
 "href": "https://secure.actblue.com/donate/katie-clendaniel-1"
 },
 {
-"text": "Find Your Polling Place",
+"text": "Find early voting locations ↗",
+"href": "https://www.elections.maryland.gov/voting/early_voting_sites.html"
+},
+{
+"text": "Find your county board of elections.",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+},
+{
+"text": "Find your polling place ↗",
 "href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
 },
 {
@@ -36,16 +44,28 @@
 "href": "https://designedtorun.com"
 },
 {
-"text": "Register or Update Voter Information",
-"href": "https://voterservices.elections.maryland.gov/"
+"text": "Read the mail voting instructions.",
+"href": "https://elections.maryland.gov/voting/absentee.html"
 },
 {
-"text": "Request a Mail In Ballot",
+"text": "Registration and address information ↗",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "Request a mail ballot ↗",
 "href": "https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1"
+},
+{
+"text": "See registration and address guidance.",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
 },
 {
 "text": "Terms and Conditions",
 "href": "https://www.katieclendaniel.com/terms-and-conditions"
+},
+{
+"text": "Text VOTE to get started ↗",
+"href": "sms:+16674088802"
 },
 {
 "text": "[image: Katie Clendaniel for State Senate]",

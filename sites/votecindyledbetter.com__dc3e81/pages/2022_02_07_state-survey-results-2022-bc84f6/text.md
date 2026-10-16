@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse State Survey Results 2022 by Cindy Ledbetter Posted on February 7, 2022 Thank you for completing the survey.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety State Survey Results 2022 by Cindy Ledbetter Posted on February 7, 2022 Thank you for completing the survey.
 I received about 1100 responses from over 60,000 constituents, this is not even 2% of the population.
 I cannot represent you If I do not hear from you.
 Please reach out h75@iga.in.gov Remember “your voice is loudest in your own backyard” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...

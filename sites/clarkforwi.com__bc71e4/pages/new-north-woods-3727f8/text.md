@@ -14,7 +14,12 @@ The result is apparent to all of us – the gap between rich and poor has never 
 It's long past time for a new set of rules that works for everybody.
 It's time to make the American Dream something every American can work toward again.
 We are ready to earn it back by finally changing those outdated rules based on three principles that have built this country.
-Download the plan here Description Fairness A level playing field.
+Download the plan here Our vision Three Principles.
+One New Northwoods.
+Fred Clark has spent a career living and working in rural Wisconsin.
+He has a plan for this new set of rules that we're calling The New Northwoods.
+It's a set of rules and investments based on three important and related principles: Fairness, Responsibility and Innovation.
+Fairness A level playing field.
 Responsibility A government that sets the right rules of the game.
 Innovation The tools to build a new Northwoods economy.
 Principle 01 Fairness One of the single biggest reasons why so many people are struggling today is because the largest corporations and the wealthiest people in our society aren't sharing their record profits with the very people who make those companies successful and they're not paying into the tax base that helps support our communities.

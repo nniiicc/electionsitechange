@@ -1,0 +1,7 @@
+top of page All Posts Search Borrello Earns NFIB Endorsement lhill5000 Aug 31 1 min read Kelly and I have spent many years building and running our own small businesses, so we know firsthand the hard work, risk and sacrifice that come with being an entrepreneur in New York.
+We are also proud longtime members of NFIB, which makes this endorsement especially meaningful to me.
+NFIB represents 11,000 small business owners across New York who create jobs, strengthen our communities and employ nearly half of our state’s workforce.
+Unfortunately, Albany too often treats these job creators as an endless source of new taxes, and target for mandates and regulations instead of recognizing what they contribute to our state.
+I’ve made it a priority to stand up for them and push back against policies that make it harder to grow, compete and succeed here.
+I’m grateful to NFIB NY for their support and proud to continue working alongside them to make New York a better place to do business.
+Recent Posts See All Hundreds Turn Out for Blakeman Rally in Dunkirk Borrello Earns Endorsement of Corrections Officers Union Civil Service Employees Association Endorses Borrello Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

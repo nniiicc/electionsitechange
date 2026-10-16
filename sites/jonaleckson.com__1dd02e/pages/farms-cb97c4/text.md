@@ -1,4 +1,4 @@
-Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Issues Restore Wisconsin’s Stronger Farms Restore Wisconsin “Green and Dane County’s Farms Are the Heart of This District.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Issues Restore Wisconsin’s Stronger Farms Restore Wisconsin “Green and Dane County’s Farms Are the Heart of This District.
 Let’s Keep Them That Way” Restoring Wisconsin means restoring the future of Wisconsin’s family farms.
 Green and Dane Counties are dairy country under pressure from rising costs, volatile markets, and generational transition challenges.
 Jon will be a loud voice for farmers in Madison.
@@ -16,4 +16,5 @@ Restore Wisconsin “The next generation of Dane and Green County farmers has to
 That’s Restore Wisconsin.” Get Involved Donate Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
 Not authorized by any candidate or candidate’s committee.
 Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
-All rights reserved. info@jonaleckson.com
+All rights reserved.
+Contact Us Alecksonforassembly@gmail.com

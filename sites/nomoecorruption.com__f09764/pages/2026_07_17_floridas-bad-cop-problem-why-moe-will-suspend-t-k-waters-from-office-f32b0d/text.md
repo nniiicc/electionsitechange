@@ -37,7 +37,7 @@ Need to check your status?
 Click the link below so that you can vote for Moe on November 3rd!
 Doesn’t matter if you are a Democrat or a Republican , vote Moe !
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from No MOE Corruption Subscribe to get the latest posts sent to your email.
-Type your email… Subscribe Leave a Reply Cancel reply Comment Name Email Website Δ Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Subscribe Loading Comments...
 Write a Comment...

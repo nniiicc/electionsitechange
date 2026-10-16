@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Fight for Our Growers and Winemakers Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Fight for Our Growers and Winemakers Why I believe this — and how I’ll fight for it.
 Federal farm policy was built around a handful of row crops — corn, soybeans, wheat.
 Rice belongs on that list, and our rice growers earn every bit of the support they get.
 Rice is the backbone of the Sacramento Valley, it feeds the world from Colusa and Sutter and Yuba, and it comes with its own hard fight — water transfers, export markets, and a razor-thin margin in a dry year.

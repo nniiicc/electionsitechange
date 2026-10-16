@@ -6,5 +6,7 @@ Voters should re-elect Stokesbary to the House.
 He has been a particularly effective representative during his first term.
 A thoughtful, pro-education policy wonk, he can also help the entire state by advancing education-funding reforms.
 Read the full editorial at SeattleTimes.com .
-Endorsements editorial endorsement More For You The News Tribune endorses Stokesbary Endorsements State’s Largest Law Enforcement Group Endorses Stokesbary Endorsements The News Tribune Endorses Stokesbary Again Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements editorial endorsement More For You Rep.
+Stokesbary helps pass property tax relief for seniors In the News State’s Largest Law Enforcement Group Endorses Stokesbary Endorsements Tacoma News Tribune profiles Rep.
+Stokesbary’s efforts to relieve Sumner traffic In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

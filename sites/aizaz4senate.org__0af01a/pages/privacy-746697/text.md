@@ -1,5 +1,5 @@
 Aizaz Shaikh Home About Issues Media Get Involved Find Your Voting Location Contribute Aizaz 4 Senate, Inc.
-Privacy Policy Last updated: October 15, 2026 Aizaz 4 Senate, Inc. ("we," "us," or "our") respects your privacy.
+Privacy Policy Last updated: October 16, 2026 Aizaz 4 Senate, Inc. ("we," "us," or "our") respects your privacy.
 This Privacy Policy explains how we collect, use, and share information from supporters who interact with our website, sign up for updates, or opt in to receive text messages from our campaign.
 Information We Collect We may collect information you voluntarily provide, such as your name, email address, mobile phone number, mailing address, and any messages you send to the campaign.
 We may also collect basic technical data (such as IP address and browser type) when you visit our site.

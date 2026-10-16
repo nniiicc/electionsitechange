@@ -1,4 +1,4 @@
-top of page HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Chad's Priorities Increase Pennsylvania’s minimum wage for the first time since 2009 All working Pennsylvanians deserve a livable wage.
+top of page HOME MEET CHAD PRIORITIES YARD SIGN GET INVOLVED CONTACT CHAD PA-37TH DONATE Chad's Priorities Increase Pennsylvania’s minimum wage for the first time since 2009 All working Pennsylvanians deserve a livable wage.
 Every year, 63,000 Pennsylvanians rely on minimum wage income - and most of them are adults supporting households through work in food service, retail, and other critical service-based jobs.
 Even working full-time, these jobs hold our workers below the federal poverty line.
 In Pennsylvania, we can do better for our communities, and we are overdue for a solution to protect and empower our working class through a higher wage floor.
@@ -8,4 +8,4 @@ As a career first responder who specializes in community policing, Chad is looki
 It is critical to strengthen trust and give resources to our first responders, which will take renewed training and support for our public service officials, accountable community policing, and proactive engagement between our communities and those who serve them.
 Join Our Campaign Chad wants to fight for Pennsylvania families and make your life more affordable.
 He can't do it alone; he will need a strong team.
-Join our team today: NAME (FIRST AND LAST) EMAIL * MOBILE PHONE ZIP CODE JOIN CHAD General inquiries: info@chadforpa.com Media inquiries: press@chadforpa.com HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Privacy Policy PAID FOR BY CHAD FOR PA bottom of page
+Join our team today: NAME (FIRST AND LAST) EMAIL * MOBILE PHONE ZIP CODE JOIN CHAD General inquiries: info@chadforpa.com Media inquiries: press@chadforpa.com HOME MEET CHAD PRIORITIES YARD SIGN GET INVOLVED CONTACT CHAD PA-37TH DONATE Privacy Policy PAID FOR BY CHAD FOR PA bottom of page

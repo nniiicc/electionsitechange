@@ -10,10 +10,14 @@ Air Force) Fleet Post Office (U.S.
 Navy and U.S.
 Marine Corps) Zip Your email Mobile Phone Would You Like to Volunteer at Future Events?
 Yes How Did You Hear About Us?
-Social Media Newspaper Radio TV Other I’ve read and agree to the Terms and Conditions and Privacy Policy , and I consent to receive campaign updates by email, text, and/or phone.
-Message & data rates may apply.
-Reply STOP to opt out, HELP for help.
-You may unsubscribe anytime.
+Social Media Newspaper Radio TV Other I’ve read and agree to the Terms and Conditions and Privacy Policy By checking the box, you are opting in to receive marketing alerts, updates, and news messages via SMS from Glenn Lancaster.
+Donations will be solicited.
+Additional text and data rates may apply.
+Text STOP to opt-out.
+Text HELP for assistance.
+Message Frequency may vary/month.
+See our Privacy Policy HERE .
+See Terms of Use HERE .
 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
 All rights reserved.
 Services by burnett media group .

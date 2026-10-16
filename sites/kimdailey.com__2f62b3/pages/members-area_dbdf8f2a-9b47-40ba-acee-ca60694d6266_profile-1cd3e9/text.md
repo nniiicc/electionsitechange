@@ -3,5 +3,5 @@ top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISS
 Stay after for live music from Mix Tape Band.
 21 0 Apr 21, 2026 ∙ 2 min Important 2026 Primary Election Information for Ravalli County Voters Ballots for the June 2, 2026 Primary Election will be mailed beginning May 8.
 Make sure you follow all instructions, including signing your envelope and including your birth year, so your vote is counted.
-61 0 Load More Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+62 0 Load More Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
 Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

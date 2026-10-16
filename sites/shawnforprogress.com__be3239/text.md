@@ -16,7 +16,10 @@ And families left the state in record numbers.
 But the good news is the power these people used over us is actually ours, and we can wake up and take it back at any time.
 We start by electing people who prioritize Forward Progress.
 For us.
-Learn more We’re grateful for your CONTRIBUTIONS! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Read below for some of our top priorities Restoring Affordability Protecting Health Supporting Families Resurrecting Education Empowering Workers Conserving Communities Your What are you waiting for?
+Learn more We’re grateful for your CONTRIBUTIONS! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other priorities What does forward progress for us look like?
+These are some of the top priorities our campaign is focused on.
+Learn more about our priorities on the issues page.
+Restoring Affordability Protecting Health Supporting Families Resurrecting Education Empowering Workers Conserving Communities Your What are you waiting for?
 Let's get to work...together!
 There's always something to do!
 Whether it's filling out postcards, making calls or sending texts, just coming to events, or sharing your ideas.

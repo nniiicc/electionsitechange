@@ -1,4 +1,4 @@
-Home About Newsletter Get involved Issues How to vote Contribute Home About Newsletter Get involved Issues How to vote Contribute Meet Dr Nelly Burdette Most people experience government through systems that are difficult to navigate such as healthcare, housing, and services meant to support them.
+Home About Get involved Issues Newsletter How to vote Contribute Home About Get involved Issues Newsletter How to vote Contribute Meet Dr Nelly Burdette Most people experience government through systems that are difficult to navigate such as healthcare, housing, and services meant to support them.
 Dr.
 Nelly Burdette has spent her life inside those systems, helping people find their way through them.
 Born in Ukraine and raised in Texas as a first-generation immigrant, Nelly grew up curious about the stories behind struggle.

@@ -125,6 +125,5 @@ Follow me on social media and join this momentum.
 Join this team to get us across the finish line.
 And please vote for me on November 3rd.
 Thank you.
-Previous 25th Anniversary of 9/11 Next CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like Uptick in ICE activity across the South Shore and South Coast 25th Anniversary of 9/11 CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative My work to build the Pembroke Community Center Member of the inaugural class of the American Service Fellowship at Harvard Kennedy School Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Previous CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Next I would be the FIRST WOMAN elected to this seat You Might Also Like My work to build the Pembroke Community Center Uptick in ICE activity across the South Shore and South Coast I would be the FIRST WOMAN elected to this seat Member of the inaugural class of the American Service Fellowship at Harvard Kennedy School 25th Anniversary of 9/11 Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

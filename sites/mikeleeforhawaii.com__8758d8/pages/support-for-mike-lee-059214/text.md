@@ -1,4 +1,4 @@
-Skip to content Home Meet Mike Get Involved Donate Donate Home Meet Mike Get Involved Donate Donate Support for Mike I am very thankful and humbled to have the support of many throughout our community as well as our state.
+Skip to content Home Meet Mike Mike on the Issues Get Involved Donate Donate Home Meet Mike Mike on the Issues Get Involved Donate Donate Support for Mike I am very thankful and humbled to have the support of many throughout our community as well as our state.
 “Mike shares our values of community, hard work, and integrity.
 We humbly ask for your support and vote for Mike Lee.” – Representative Scot Matayoshi (District 49: Kāne’ohe, Maunawili) and Representative Lisa Kitagawa (District 48: Kāne’ohe, Kahalu ‘ u, Wai ā hole) “Mike Lee understands small business and will advocate for us in the State House.” – Steven Parker, Owner, Kailua General Store “I’m supporting Mike Lee because he cares about our aina.
 We need his leadership and experience in the House.

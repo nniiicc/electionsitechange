@@ -3,4 +3,4 @@ About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CON
 23rd!
 We will be meeting from 5:00-7:30 pm.
 Looking forward to seeing you there!
-Earlier Event: September 21 Team Tammy Canvass Later Event: September 28 Fall Canvassing Kickoff for Team Tammy Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Earlier Event: September 21 Team Tammy Canvass Later Event: September 28 Fall Canvassing Kickoff for Team Tammy Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

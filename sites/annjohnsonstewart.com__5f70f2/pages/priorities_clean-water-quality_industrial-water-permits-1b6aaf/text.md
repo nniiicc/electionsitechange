@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Industrial Water Permits Overview: Minnesota’s groundwater is a finite resource that belongs to the public, not just industrial mega-users.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact 🚨 Fundraising Deadline (10/16) Day(s) : Hour(s) : Minute(s) : Second(s) 🗳️ Polls Close (11/3) Day(s) : Hour(s) : Minute(s) : Second(s) Industrial Water Permits Overview: Minnesota’s groundwater is a finite resource that belongs to the public, not just industrial mega-users.
 Senator Johnson Stewart’s legislation ensures that high-volume commercial operations—like hyperscale data centers and bottling plants—are subject to rigorous scientific review before they can drain millions of gallons from local aquifers.
 Key Takeaways: Strict Permitting Triggers: Mandating direct DNR oversight (S.F.
 3852) for any commercial operator requesting more than 100 million gallons of water annually.

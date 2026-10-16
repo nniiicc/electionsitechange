@@ -1,4 +1,4 @@
-Home Policy & Beliefs Endorsements Amendments Media Store Contact Us Join our Team Donate Today Follow Low-to-mid propensity Democratic voters and mid-to-high-propensity “swing voters” in House District 94 need to read repeatedly beginning immediately and continuing through Election Day, that Maryellen Murphy is running to keep this seat in the family and keep the Jefferson City insider system running exactly as it is : This seat isn't an inheritance.
+Home Policy & Beliefs Endorsements Amendments Media Contact Us Join our Team Donate Today Follow Low-to-mid propensity Democratic voters and mid-to-high-propensity “swing voters” in House District 94 need to read repeatedly beginning immediately and continuing through Election Day, that Maryellen Murphy is running to keep this seat in the family and keep the Jefferson City insider system running exactly as it is : This seat isn't an inheritance.
 Maryellen Murphy is running to replace her husband, Rep.
 Jim Murphy, who is term-limited.
 Her pitch to voters is the relationships she built with Jefferson City leadership, the Secretary of State, Denny Hoskins and the Attorney General as a legislator's spouse.

@@ -101,12 +101,13 @@ Carriers are not liable for delayed or undelivered messages.
 Your information is never sold or shared for marketing.
 See our Privacy Policy at freseforcongress.com/#privacy .
 Paid for by Frese For Congress.
-Opt-in form , as it appears at freseforcongress.com/#texts : Texts From Jeff Yes, text me campaign updates from Frese For Congress at this number.
+Opt-in form , as it appears at freseforcongress.com/#texts : Texts From Jeff Stay in the loop Get campaign updates by email, and by text if you want them.
+Yes, also text me campaign updates from Frese For Congress at this number.
 Msg frequency varies, max 1 per week.
 Msg & data rates may apply.
 Reply STOP to opt out, HELP for help.
-Consent is not required to support the campaign.
-Terms · Privacy Policy Sign me up for texts Get campaign updates by text.
+Consent is not required to sign up or to support the campaign.
+Terms · Privacy Policy Sign me up Get campaign updates by text.
 Text JOIN to (925) 592-1404.
 By texting JOIN you agree to receive campaign text messages from Frese For Congress.
 Message frequency varies.

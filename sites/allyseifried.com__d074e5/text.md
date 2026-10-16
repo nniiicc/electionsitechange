@@ -41,5 +41,5 @@ Message frequency may vary.
 Message and data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for assistance.
-Email us at info@allyseifried.com for support.
+Email us at info@allyseifriedc1.wpenginepowered.com for support.
 YOUR MESSAGE SUBMIT Vote Ally Seifried for State Senate Follow Ally on Social Media: Facebook PRIVACY POLICY TERMS & CONDITIONS Authorized and Paid for by Ally Seifried for State Senate 2026.

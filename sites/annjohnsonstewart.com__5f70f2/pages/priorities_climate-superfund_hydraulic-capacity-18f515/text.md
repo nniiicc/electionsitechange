@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Hydraulic Capacity Outline: Minnesota’s legacy stormwater systems were not engineered to handle modern, climate-driven “mega-rain” events.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Hydraulic Capacity Outline: Minnesota’s legacy stormwater systems were not engineered to handle modern, climate-driven “mega-rain” events.
 Senator Johnson Stewart is fighting to use Climate Superfund dollars to proactively upsize our municipal pipes and culverts, protecting homes and businesses from catastrophic urban flooding without bankrupting local cities.
 Key Takeaways: The Engineering Deficit: Decades-old stormwater networks lack the physical hydraulic capacity to safely drain the high-volume, high-velocity rainfall we now see during extreme weather events.
 Upsizing Local Infrastructure: Proactively expanding the diameter and flow capacity of municipal pipes, culverts, and retention ponds to prevent sewer backups and flooded neighborhood streets.

@@ -1,4 +1,4 @@
-Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Issues Restore Wisconsin’s Education with Smarter Schools & Teaching Civics Education Restore Wisconsin “Pride in America Doesn’t Just Happen.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Issues Restore Wisconsin’s Education with Smarter Schools & Teaching Civics Education Restore Wisconsin “Pride in America Doesn’t Just Happen.
 It Has to Be Taught.” My granddaughter Harper is 7 years old.
 Recently we discovered she is a direct descendant of a Revolutionary War Patriot.
 That’s why I’m fighting to make civics a mandatory requirement in every Wisconsin public school, not an optional add-on.
@@ -22,4 +22,5 @@ Every Wisconsin student deserves to feel it.” Jon Aleckson Restore Wisconsin �
 Let’s Restore Wisconsin.” Get Involved Donate Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
 Not authorized by any candidate or candidate’s committee.
 Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
-All rights reserved. info@jonaleckson.com
+All rights reserved.
+Contact Us Alecksonforassembly@gmail.com

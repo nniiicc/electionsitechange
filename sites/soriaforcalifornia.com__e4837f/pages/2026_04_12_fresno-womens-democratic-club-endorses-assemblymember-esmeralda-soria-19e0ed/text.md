@@ -13,10 +13,11 @@ She has consistently centered the needs of working women, immigrant families, an
 I believe that women deserve equal pay, safe working conditions, quality healthcare, and the opportunity to build strong futures for our families.
 I will bring that same commitment to every vote I cast in Sacramento.” The Fresno Women’s Democratic Club joins the sweeping coalition of support Assemblymember Soria has received from over 100 elected officials across California and labor unions, including SEIU, United Nurses Associations of California/Union of Health Care Professionals, and Latinas Lead, reinforcing her sweeping support for the Senate District 14 campaign.
 For more information and a full list of endorsements, visit www.soriaforcalifornia.com ### Up Next Madera County Leaders Unite Behind Esmeralda Soria for State Senate Get Updates Please enable JavaScript in your browser to complete this form.
-Email * ZIP Code Phone By providing your mobile number, you agree to receive recurring text messages from Soria for Senate about campaign updates, events and volunteer opportunities.
-Consent is not a condition of signing up.
-Msg frequency varies.
+Email * ZIP Code Phone By providing my phone number, I agree to receive informational and marketing text messages from Esmeralda Soria.
+Donations may be solicited.
+Message frequency may vary.
 Msg & data rates may apply.
-Reply HELP for help, STOP to opt out.
-Your mobile number will not be shared or sold to third parties for marketing purposes.
+Text STOP to opt out.
+Text HELP for help.
+For additional information, please see our Privacy Policy and Terms & Conditions .
 Get Updates Meet Esmeralda Accomplishments Endorsements News Media Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Send Checks To: PO Box 681 Fresno CA 93712 Email [email protected] Privacy Policy Accessibility Statement PAID FOR BY Soria for Senate Site made with ❤️ by Landslide Digital Jump to Content Toggle High Contrast Toggle Font Size

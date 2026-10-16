@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 06 Sep Jim Marter is calling on Lauren Underwood to issue a statement on her stance regarding aid to Afghanistan.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 06 Sep Jim Marter is calling on Lauren Underwood to issue a statement on her stance regarding aid to Afghanistan.
 “I do not support giving aid to Afghanistan while the Taliban are running the country.
 They continue to marginalize women and under the conditions created by failed policies, we cannot ensure the aid will reach the hungry and those in need of medical attention.
 Today, I’m calling on Lauren Underwood to let her constituents and the American People know if she will stand against direct American aid to Afghanistan and indirect American aid, through the United Nations Global Humanitarian Support.

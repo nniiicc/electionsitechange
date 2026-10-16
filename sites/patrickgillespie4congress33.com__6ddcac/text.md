@@ -25,7 +25,7 @@ India generates 401 gigawatts of electricity through their coal-burning electric
 Brazil keeps burning down the rainforest.
 All these countries have exemptions under the Paris climate accords until the year 2070 because they are “developing countries”?
 The U.S. can switch to natural gas for all the electric generation done by coal in the U.S.
-Plus, get out of the Paris Climate Accords and demand our money back.
+Thank You President Trump for getting the United States out of the Paris Climate Accords on January 27, 2026.
 What Federal Laws, if Any, Should Be Passed to Ensure Free and Fair Access to the Ballot?
 We have the correct laws in place: photo ID.
 You need a photo ID to board an airplane.

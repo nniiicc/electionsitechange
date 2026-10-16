@@ -14,4 +14,4 @@ Working with local leaders, I helped deliver $2,500,000 in federal funding to re
 I am actively working to deliver funding for more transportation and infrastructure projects, including intersection improvements throughout our community.
 FOLLOW LIZZIE Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
-Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 Privacy Policy PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

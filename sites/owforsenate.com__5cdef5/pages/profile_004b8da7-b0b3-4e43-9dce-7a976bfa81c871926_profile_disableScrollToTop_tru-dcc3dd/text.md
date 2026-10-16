@@ -14,6 +14,6 @@ With new leadership in state government, we can expand access to housing people 
 69 0 1 Aug 6, 2026 ∙ 2 min Weaver and Collins Call for Immediate Action.
 Not a Pause, on Surveillance Cameras Milford, Thursday, Aug 6th, - Republican candidates Owen Weaver (Senate 14th) and Ray Collins (State Representative 117th) today called on Governor Ned Lamont to convene a special session of the General Assembly so lawmakers can take immediate action on the installation and operation of automated license plate readers (ALPRs) across Connecticut.
 Under Public Act 26-14, signed by Governor Lamont this year and championed by Representative MJ Shannon and Senator James Maroney, municipalities may...
-138 0 3 Load More Contact Me: Call or Text: 203-444-2167 Email: owen@owforsenate.com Join our mailing list Email * Subscribe I want to subscribe to your mailing list.
+139 0 3 Load More Contact Me: Call or Text: 203-444-2167 Email: owen@owforsenate.com Join our mailing list Email * Subscribe I want to subscribe to your mailing list.
 Paid for by Weaver2026, Angela Driver Treasurer.
 Approved by Owen Weaver. bottom of page

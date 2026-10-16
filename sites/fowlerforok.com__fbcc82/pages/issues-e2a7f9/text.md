@@ -1,5 +1,6 @@
-October 9th is the deadline to update your Voter Registration!
-Check yours now → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Moving Oklahoma Forward From day one, this campaign has been driven by a simple belief: that government should work for the people who make this state strong, and people should know the people in office who represent them.
+Vote early Oct.
+28–31.
+Find your early voting site → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Moving Oklahoma Forward From day one, this campaign has been driven by a simple belief: that government should work for the people who make this state strong, and people should know the people in office who represent them.
 These priorities were driven by thousands of conversations I and my volunteers have had on doorsteps and in the community.
 Strong Schools for All Students Oklahoma's schools need leadership in the State House that listens to parents, supports teachers, and keeps politics from getting in the way of learning.
 I'll work to strengthen teacher pay, invest in classrooms, and make sure every student has a path to a successful future—whether through college, CareerTech, the trades, or military service.

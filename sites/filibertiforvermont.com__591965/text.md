@@ -66,7 +66,10 @@ Investing in our Children I believe, and have seen firsthand, that our school sy
 I have also seen teachers and staff often forced to pay out of pocket to meet basic classroom needs.
 I believe we must do a better job ensuring our schools are fully supported through the tax and budget process so they have the resources they need.
 Investment in our children should be a top priority, and local communities should have a voice in the education of their children.
-I’m proud to hold endorsements from: VPIRG Votes Vermont Conservation Voters Planned Parenthood Vermont Action Fund IE PAC National Association of Social Workers Let’s Grow Kids Action Network Host a yard sign!
+I’m proud to hold endorsements from: “I had the pleasure of touring the Missisquoi National Wildlife Refuge with Julie, and it didn’t take long to see how deeply she cares about protecting our natural resources.
+Julie understands the delicate balance of managing development in rural communities, supporting working landscapes, and preserving space for the wildlife and natural ecosystems that make Vermont special.
+I’m proud to endorse her and believe she will be a strong, thoughtful voice for the people of Fairfax and Georgia.” ~ U.S.
+Senator Peter Welch Host a yard sign!
 Help advertise me and my campaign by reserving a sign for your front yard request a sign “Hope is often misunderstood.
 People tend to think that it is simply passive wishful thinking: I hope something will happen but I’m not going to do anything about it.
 This is indeed the opposite of real hope, which requires action and engagement.” — JANE GOODALL donate (802) 393-4438 filibertiforvermont@gmail.com P.O.

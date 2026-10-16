@@ -41,5 +41,5 @@ Ballots are due by August 4th.
 Please do your research and cast your ballot to help right the course here in our community and our state.
 Spokanesman Review article https://www.spokesman.com/.../775-voters-in-colbert.../ ...
 PTBA Map https://www.spokanecounty.gov/.../Public-Transportation ...
-Find my precinct https://cp.spokanecounty.org/scout/SCOUTDashboard/ Spokane County Elections office press release .pdf Download PDF • 222KB See less Recent Posts See All Reject STA Prop 1 Paid for by the Committee to Elect Alan Nolan PO BOX 18405 SPOKANE, WA 99228 Neither the military information nor photographs imply endorsement by the Department of Defense or the United States Air Force. alan@nolan4wa.com | 509-903-8593 | © # Nolan 4 WA Stay up-to-date with the campaign.
+Find my precinct https://cp.spokanecounty.org/scout/SCOUTDashboard/ Spokane County Elections office press release .pdf Download PDF • 222KB See less Recent Posts See All Washington Supreme Court races Reject STA Prop 1 Paid for by the Committee to Elect Alan Nolan PO BOX 18405 SPOKANE, WA 99228 Neither the military information nor photographs imply endorsement by the Department of Defense or the United States Air Force. alan@nolan4wa.com | 509-903-8593 | © # Nolan 4 WA Stay up-to-date with the campaign.
 Email * Subscribe I want to subscribe to your mailing list. bottom of page

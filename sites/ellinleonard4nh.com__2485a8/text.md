@@ -2,5 +2,6 @@ Skip navigation menu About Issues News Conway Candidates Endorsements FAQs Volun
 I have watched the GOP controlled state government downshift costs to NH towns.
 Conway's property taxes skyrocketed.
 I am running for the State House to stop this terrible trend.
-Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Read below for some of our top priorities Expand Housing Opportunities Protect Public Education Keep Property Taxes Sustainable Support Conway's Future View More sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Powered by RUN! website builder PAID FOR BY THE CARROLL COUNTY DEMOCRATIC COMMITTEE.
+Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Our priorities Fighting for Our Community These are some of the top priorities our campaign is focused on.
+Expand Housing Opportunities Protect Public Education Keep Property Taxes Sustainable Support Conway's Future View More sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Powered by RUN! website builder PAID FOR BY THE CARROLL COUNTY DEMOCRATIC COMMITTEE.
 ADAM HEARD, TREASURER/ PO BOX 337, CONWAY, NH 03838 You need to enable JavaScript to run this app.

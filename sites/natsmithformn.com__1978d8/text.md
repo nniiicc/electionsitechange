@@ -8,7 +8,7 @@ SUPPORTING SMALL BUSINESSES Supporting small businesses and creating new jobs ac
 ECONOMIC GROWTH Creating a diverse economy and economic opportunities focused on giving working Minnesotans the opportunity to succeed. affordable childcare Increase affordability of and access to childcare for families across the Minnesota.
 CREATING SAFE COMMUNITIES Ensuring safe neighborhoods where we can raise our families and live our lives without worry or fear.
 DIGNIFIED RETIREMENT Ensuring Minnesota’s seniors can retire and age with dignity, while being safeguarded from financial exploitation and fraud. protecting our environment Safeguarding our environment and natural resources across the St.
-Croix River Valley and Minnesota.
+Croix River Valley and Minnesota, and removing PFAS from our water.
 Stay informed on news, events, and updates from Nat’s campaign for Minnesota State Senate leading up to the November 2026 election!
 Stay Updated “It is something great to cherish an ideal; and to act for remoter ends, for higher good, and for interests other than our own.” - Joshua Chamberlain, Civil War general I share many of my neighbors’ concerns about what is happening in Minnesota—persistent fraud, cuts to healthcare, and the rising cost of living; it’s wrong that the elite cash in on the work of the rest of us, and we shoulder the tax-burdens.
 It’s time for a change.

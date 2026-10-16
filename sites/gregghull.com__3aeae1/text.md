@@ -37,7 +37,14 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/14/2026 @ 9:21 pm # DAYS.
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/15/2026 @ 6:53 pm New Mexico is where we raise our families, carry on our traditions, and build a life we’re proud of.
+We come from different communities, but we share a love for this place—and a r...
+Posted: 10/15/2026 @ 3:22 pm Hobbs, let’s talk tonight!
+I want to hear what’s on your mind and answer your questions about New Mexico’s future.
+Bring a friend, pull up a chair, and join the conversation. 📅 T...
+Posted: 10/14/2026 @ 11:57 pm We are LIVE in Carlsbad for a WE ARE New Mexico Town Hall.
+Want to support our campaign?
+Donate at GreggHull.com Posted: 10/14/2026 @ 9:21 pm # DAYS.
 LET’S MAKE THIS THE ELECTION WE TALK ABOUT FOR YEARS. 🔥 The one where New Mexicans showed up for each other.
 Where we decided our kids deserved better.
 Where we turned “s...
@@ -67,14 +74,6 @@ A family we want to protect.
 A community we love.
 A future we want our children to have.
 For her, it’...
-Posted: 10/12/2026 @ 9:57 pm Breakfast at Barelas this morning—a New Mexico political tradition!
-Enjoyed a good meal and the chance to talk with fellow New Mexicans about what’s on their minds.
-Then it was ba...
-Posted: 10/12/2026 @ 5:52 pm Working my way through New Mexico to earn your vote… in person and on the debate stage.
-Showing up matters.
-So does listening, answering tough questions, and hearing directly from...
-Posted: 10/11/2026 @ 10:56 pm We covered a lot of New Mexico over the last 7 days—and every stop gave me another reason to keep pushing forward.
-This week took us to NMOGA, the 100 Club, the debate stage, Dix...
 Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.

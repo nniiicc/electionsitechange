@@ -1,4 +1,4 @@
-Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact WELCOME TO THE CAMPAIGN Arizona is growing fast and many families feel like they’re being left behind.
+Home Meet Jayme Endorsements Make Endorsement Issues Volunteer Voter Information Contact WELCOME TO THE CAMPAIGN Arizona is growing fast and many families feel like they’re being left behind.
 Housing costs are rising, classrooms are overcrowded, water concerns are growing, and communities across our state are struggling to keep up with the cost of living.
 I’m running for Arizona State Senate because I believe we can build something better, stronger schools, healthier communities, and an economy that works for working families, not just the corporations and special interests.
 This campaign is powered by YOU and is focused on finding practical solutions to the problems facing working families in Arizona by investing in Arizona’s future from the ground up.
@@ -6,4 +6,4 @@ Together, we can: • Strengthen Education by turning schools back into communit
 Thank you for being here with me and for being part of this movement.
 It’s Arizona’s Future, Let’s Grow It Together. — Jayme Accalia Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

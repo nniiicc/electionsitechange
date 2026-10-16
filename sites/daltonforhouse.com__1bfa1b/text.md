@@ -1,13 +1,13 @@
 Skip navigation menu QUESTIONS ABOUT VOTING?
-Voting Info Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
+Voting Info WATCH OUR NEW AD Home ABOUT Take Action News Contact Merch Vote dalton gau on november 3rd RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
 Message and data rates may apply.
 Reply HELP for more information.
 Reply STOP to stop receiving messages.
-Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
+Home ABOUT Take Action News Contact Merch WATCH OUR NEW AD Vote dalton gau on november 3rd RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
 Message and data rates may apply.
 Reply HELP for more information.
 Reply STOP to stop receiving messages.
-WHO IS DALTON?
+Check Out Our New Ad 👀 WHO IS DALTON?
 Dalton is a lifelong Oklahoman, graduate of Edmond North High School, the University of Oklahoma, and Oklahoma City University School of Law.
 Drawing on his experience as Vice President of the Student Government Association and his work with Legal Aid Services of Oklahoma and the Oklahoma House of Representatives, he has seen firsthand how political theater distracts from real issues.
 Dalton is running to restore reason, fairness, transparency, and accountability to state government by providing leadership guided by the rule of law rather than partisan rhetoric. more about me Try our new tool to help you find where, when and how to vote this November.

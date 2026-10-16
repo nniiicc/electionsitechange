@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 02 Feb James Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 02 Feb James Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
 Today, Marter is calling for a release of the names of those who participated in war crimes against the Jewish People in World War II.
 “It has been roughly 70 years now and we’re still protecting the identities of actual Nazi and SS members and it’s time we bring some token of justice to the survivors and family members.
 I believe we need to show them that we remember both the ideology and the individuals who perpetrated these crimes against humanity in general, and the Jewish People in particular,” said Marter.

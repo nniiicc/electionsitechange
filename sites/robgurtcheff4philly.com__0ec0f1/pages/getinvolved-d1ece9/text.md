@@ -1,5 +1,3 @@
 0 Skip to Content Meet Rob Issues In the Media Endorsements Get Involved DONATE Open Menu Close Menu Meet Rob Issues In the Media Endorsements Get Involved DONATE Open Menu Close Menu Meet Rob Issues In the Media Endorsements Get Involved DONATE GET INVOLVED IN THE CAMPAIGN!
-With your help, we can help Rob flip the 170th District!
-Get involved to help knock doors, put up signs, or in another way by filling out the form below!
-Visit our Mobilize page to View upcoming volunteer events: Sign up to volunteer!
-DONATE Voter Resources PAID FOR BY ROB GURTCHEFF FOR PHILLY
+With the election quickly approaching we ask that you use the links below to sign up directly for door knocking shifts!
+Weekend Door knocking sign up: CLICK HERE Weekday Door knocking sign up: CLICK HERE Although door knocking is our main focus to get Rob across the finish line, if you would like to get involved in other ways please reach out directly to us at robgurtcheff4philly@gmail.com DONATE Voter Resources PAID FOR BY ROB GURTCHEFF FOR PHILLY

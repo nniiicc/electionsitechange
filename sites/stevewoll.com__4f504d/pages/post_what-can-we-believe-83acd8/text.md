@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases What can we believe?
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Questionnaires What can we believe?
 Steve Woll May 6 2 min read Today's see-saw between optimism and pessimism about the Iran war (reflected in see-sawing oil and stock prices) wasn't anything new.
 But it had me in a reflective mood - have we reached full Pravda mode?
 For those too young to remember, in the 1970s and 1980s, Pravda was the official news agency of the Soviet Union - they put out what the government wanted them to put out.

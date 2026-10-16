@@ -1,4 +1,4 @@
-Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Audio Transcript - Healthcare Ad Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Audio Transcript - Healthcare Ad [Voice of Tina Liebling] When you’re fighting for your health, you need great care.
+Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Advertisements Donate Audio Transcript - Healthcare Ad Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Advertisements Donate Re-Elect Tina Liebling, Your State Representative Audio Transcript - Healthcare Ad [Voice of Tina Liebling] When you’re fighting for your health, you need great care.
 It should be you [popping sound] and your doctor [popping sound] figuring out the best way forward.
 That’s it.
 Not an insurance rep. [Pop] And a pharmaceutical salesman. [Pop] [And a Republican politician. [Pop] And six conservative members of the Supreme Court. [6 pops].

@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 10 Nov U.S.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 10 Nov U.S.
 Congressional Candidate James Marter called on Lauren Underwood to apologize to the Nursing Community and her constituents for deceiving them and endangering their lives.
 During her first run for Congress, Underwood boasted of her experience in Health and Human Services, preparing for and responding to public health crises.
 Similarly, she touted her nursing career, although the New York Times has since exposed that she had “never really worked with patients.” “Much of the Congresswoman’s rhetoric appears to be geared to gaining political office, rather than sharing truth.

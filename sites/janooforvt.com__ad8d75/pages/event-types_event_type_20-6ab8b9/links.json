@@ -24,10 +24,6 @@
 "href": "https://www.janooforvt.com/all-events/?event=2086"
 },
 {
-"text": "Campaign Stops",
-"href": "https://www.janooforvt.com/#events"
-},
-{
 "text": "Canvass",
 "href": "https://janooforvt.solidarity.tech/canvass-events"
 },
@@ -62,6 +58,10 @@
 {
 "text": "Host an Event",
 "href": "https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform"
+},
+{
+"text": "Meet Amanda",
+"href": "https://www.janooforvt.com/#events"
 },
 {
 "text": "Montpelier Canvas for Amanda Janoo!",
@@ -106,6 +106,10 @@
 {
 "text": "Town Hall State Tour",
 "href": "https://janooforvt.solidarity.tech/town-hall-statewide-tour"
+},
+{
+"text": "VT Democratic Party Events",
+"href": "https://www.mobilize.us/vdp2026coordinatedcampaign/"
 },
 {
 "text": "Vergennes Canvass for Amanda Janoo",

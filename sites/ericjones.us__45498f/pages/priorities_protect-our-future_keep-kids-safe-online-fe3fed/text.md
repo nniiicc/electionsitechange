@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Keep Our Kids Safe Online Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Keep Our Kids Safe Online Why I believe this — and how I’ll fight for it.
 I have a young family, so this one keeps me up at night.
 We are running the largest uncontrolled experiment in history on our children’s developing brains — handing them platforms and products engineered to be as addictive as possible — and we’re only starting to see the damage: the anxiety, the depression, the isolation, the childhoods lost to a screen.
 As a father, I refuse to accept that this is just how it is now.

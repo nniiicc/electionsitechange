@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Vote Oct 19 Monday.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Vote Oct 19 Monday.
 Early voting opens.
 Closed Sunday, October 25.
 Oct 31 Saturday.

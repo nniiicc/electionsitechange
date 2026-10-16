@@ -1,9 +1,9 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Oct 15 TERRE HAUTE TOWN HALL Thursday, October 15, 2026 6:30 PM 7:30 PM Vigo County Public Library Meeting Room B and C (map) Google Calendar ICS Mary wants to hear from you.
-Join her for a discussion on real issues with real answers.
-JOIN THIS EVENT: https://www.mobilize.us/maryallenforcongress/event/1047123/ View Event → Oct 17 Jason Wilber Concert Saturday, October 17, 2026 5:00 PM 9:00 PM Allen Family Amphitheater 622 French Island Trail Newburgh, IN 47630 (map) Google Calendar ICS Long time fans of local house concerts may remember seeing Jason Wilber at one of Mary's house parties.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Canvass and Phone bank Events Merch Donate Oct 17 Jason Wilber Concert Saturday, October 17, 2026 5:00 PM 9:00 PM Allen Family Amphitheater 622 French Island Trail Newburgh, IN 47630 (map) Google Calendar ICS Long time fans of local house concerts may remember seeing Jason Wilber at one of Mary's house parties.
 Now he's returning to support her campaign!
 Join us for a wonderful night of music.
-Purchase your tickets here: https://secure.actblue.com/donate/jasonwilber View Event → Sep 12 Pickleball for All!
+Purchase your tickets here: https://secure.actblue.com/donate/jasonwilber View Event → Oct 15 TERRE HAUTE TOWN HALL Thursday, October 15, 2026 6:30 PM 7:30 PM Vigo County Public Library Meeting Room B and C (map) Google Calendar ICS Mary wants to hear from you.
+Join her for a discussion on real issues with real answers.
+JOIN THIS EVENT: https://www.mobilize.us/maryallenforcongress/event/1047123/ View Event → Sep 12 Pickleball for All!
 Saturday, September 12, 2026 1:00 PM 4:00 PM 3rd Shot Pickleball (map) Google Calendar ICS Join Mary Allen for an afternoon of Pickleball at 3rd Shot Pickleball.
 Event sponsored by Mayor Stephanie Terry so that all players and spectators participate for free.
 Check in is at 12:45 PM.
@@ -105,7 +105,4 @@ View Event → Apr 17 Coffee with a Candidate Friday, April 17, 2026 1:00 PM 2:3
 Come meet Mary!
 Bring your friends and your questions.
 We would love to see you.
-View Event → Apr 17 Meet Mary at the Library- Greene County Friday, April 17, 2026 10:30 AM 12:00 PM Linton Public Library (Community Room) (map) Google Calendar ICS Mary Allen is running for Congress and she wants to talk to you!
-Bring your friends and your questions and come meet Mary!
-Everyone is welcome!
 View Event → REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Family × When we talk about family out here, we aren't talking about a line item in a government budget.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Montana Common Sense Family × When we talk about family out here, we aren't talking about a line item in a government budget.
 We are talking about the most fundamental unit of our society and the people we would do anything to protect.
 Your primary responsibilities as a parent don't change.
 Your job is to protect your family, provide for them, and make the decisions about how your children will be raised.

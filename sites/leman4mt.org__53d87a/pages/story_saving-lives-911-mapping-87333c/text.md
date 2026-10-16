@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Early 1990s · Maptronix Saving Lives With 911 Mapping × In the early 1990s, a public safety client asked me if it was possible to create a real-time mapping system for 911 dispatchers.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Early 1990s · Maptronix Saving Lives With 911 Mapping × In the early 1990s, a public safety client asked me if it was possible to create a real-time mapping system for 911 dispatchers.
 They wanted to track where 911 calls were coming from and see the location of first responder vehicles using GPS.
 That is not a big deal today, but back before smartphones, it was a massive technical challenge that had not yet been solved.
 At the time, the software company I worked for had just gone through a major layoff.

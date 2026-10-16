@@ -14,7 +14,7 @@ I believe we can achieve real progress when we work together: guided by data, gr
 I know we can do better, and I am ready to get down to business to refocus on the future we all deserve. ​ I hope I can count on your vote, your support, and your partnership to build something stronger, together. ​ With determination and grit, Margaret Democratic Candidate, Tennessee House District 83 JOIN THE CAMPAIGN!
 SUBMIT Thanks for joining!
 ABOUT PLATFORM ENDORSEMENTS EVENTS More Use tab to navigate through the menu items.
-Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
+Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # Privacy Policy | Terms & Conditions If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
 The maximum donation is $# per individual, $# per couple, $# per PAC. ​ Margaret Price for TN House may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
 Message and date rates may apply.
 Message frequency varies.

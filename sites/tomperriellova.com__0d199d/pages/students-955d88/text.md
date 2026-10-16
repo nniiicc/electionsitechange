@@ -8,7 +8,9 @@ You have the right to vote here as a college student if you’re an eligible Vir
 VA Voting Resources Need help navigating voter registration?
 Reach out!
 A member of our team will help Name Name Email Email University (if applicable) University (if applicable) Submit Voting Information Make a plan to vote!
-Early In-Person Voting September 18 - October 31 Election Day November 3 Find your polling place Learn more about same-day registration Voting information for students Know your info and bring your ID!
+Early In-Person Voting September 18 - October 31 Election Day November 3 Find your polling place Learn more about same-day registration Voting information for students Double Check– Tips for Voting Day!
+These are some of the top priorities our campaign is focused on.
+Know your info and bring your ID!
 PS: Your student ID counts!
 You will be asked for your full name, full social security number, and a photo ID.
 If you don’t have a photo ID, you can still cast a provisional ballot– speak to your polling location staff to find out how.

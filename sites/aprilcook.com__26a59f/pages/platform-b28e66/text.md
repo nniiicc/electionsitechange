@@ -1,4 +1,4 @@
-top of page Menu Close Home Meet April Platform Donate Contact Us Events Yard Signs Platform I'm running to represent District 34 because we don't have to settle.
+top of page Menu Close Home Meet April Platform In the Media Donate Contact Us Events Yard Signs Platform I'm running to represent District 34 because we don't have to settle.
 The platform below represents the issues that matter most to me — and what I'll tackle in office.
 Healthcare Access Accountability Education Affordability Reproductive Rights AI and Data Centers Healthcare Access Access to healthcare shouldn't depend on your bank account.
 Too many people in North Carolina delay care because they are worried about the cost.

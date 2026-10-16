@@ -1,4 +1,4 @@
-0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Let’s talk I want to hear what people in Assembly District 71 have to say.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch Donate Let’s talk I want to hear what people in Assembly District 71 have to say.
 What’s important to you?
 What are you worried about?
 What would you like to see more of?

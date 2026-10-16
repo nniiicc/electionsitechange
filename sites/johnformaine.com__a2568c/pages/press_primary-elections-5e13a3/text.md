@@ -2,7 +2,7 @@
 Open Menu Close Menu John Henkelman for Maine House Stay Connected Platform Healthcare Housing Heating Healthy Food Outdoor Heritage News & Updates Donate $5 Today!
 Open Menu Close Menu Stay Connected Folder: Platform Back Healthcare Housing Heating Healthy Food Outdoor Heritage News & Updates Donate $5 Today!
 Primary Elections Are Here!
-Jun 1 Written By John Henkelman SANFORD, ME –The time has arrived to make your voice heard.
+Jun 1 Written by John Henkelman SANFORD, ME –The time has arrived to make your voice heard.
 This election is a critical step for our campaign in Maine House District 143.
 I am running to build a future that reflects our shared values, and that work begins with your vote.
 Support the Campaign: Our momentum is growing, but we rely on the grassroots support of neighbors like you to reach every voter in South Sanford.

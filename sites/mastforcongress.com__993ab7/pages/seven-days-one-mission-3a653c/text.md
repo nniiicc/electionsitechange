@@ -30,8 +30,8 @@ Now, with seven days until Primary Election Day, make sure you know how and when
 Vote early if you can.
 Confirm your Election Day polling place if you cannot.
 Remind your family, friends, and neighbors that the primary is August 18th.
-Related Posts: The numbers don’t lie March 18, 2021 Joe Biden’s words are as hollow as his head and his heart.
-September 5, 2021 What Service Before Self Means To Me September 16, 2026 I love America and everything it stands for February 17, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Endorsement Alert!
+October 27, 2021 Exposed: Biden’s Shadow Diplomats February 25, 2021 250 Years of Freedom June 26, 2026 $2 Billion Secured To Accelerate Everglades Restoration April 17, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

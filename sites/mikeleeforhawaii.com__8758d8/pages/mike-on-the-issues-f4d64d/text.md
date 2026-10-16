@@ -1,4 +1,4 @@
-Skip to content Home Meet Mike Get Involved Donate Donate Home Meet Mike Get Involved Donate Donate Mike on the Issues Mahalo for taking the time to learn more about my highest priorities for improving the quality of life in Hawaiʻi for generations to come.
+Skip to content Home Meet Mike Mike on the Issues Get Involved Donate Donate Home Meet Mike Mike on the Issues Get Involved Donate Donate Mike on the Issues Mahalo for taking the time to learn more about my highest priorities for improving the quality of life in Hawaiʻi for generations to come.
 Keeping our neighborhoods safe Community residents deserve a place where our keiki and kūpuna can grow and age with security and peace .
 Many factors have led to heavy traffic, increased property damage, insufficient parking, and frequent disruptions in our neighborhoods.
 We need to work together with the local and state governments to reclaim our neighborhoods .

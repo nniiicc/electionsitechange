@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release July 31, 2026 Vukasovich Earns Local 671 Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of Plumbers, Pipefitters, HVAC & Welders Local 671.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release July 31, 2026 Vukasovich Earns Local 671 Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of Plumbers, Pipefitters, HVAC & Welders Local 671.
 Vukasovich Earns Local 671 Endorsement MONROE, Mich. — Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of Plumbers, Pipefitters, HVAC & Welders Local 671.
 “I am proud to have the support of the skilled tradespeople of Local 671,” Vukasovich said.
 “I know what a hard day’s work looks like.
@@ -11,6 +11,6 @@ Open attached PDF Christian Vukasovich Running for U.S.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

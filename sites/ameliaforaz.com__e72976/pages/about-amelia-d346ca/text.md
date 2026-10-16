@@ -1,4 +1,4 @@
-0 Skip to Content About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute ABOUT DR.
+0 Skip to Content About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute ABOUT DR.
 AMELIA GALLITANO Dr.
 Amelia Gallitano’s commitment to service was shaped by her family and the values she was raised with.
 From an early age, she was taught that if you can help others, you have a responsibility to step forward — a principle that has guided her entire life and career.

@@ -275,4 +275,4 @@ INTERVIEWER: And we want to thank you for tuning in to a program like Cross Talk
 Again, the idea is to have you be better informed when you are going to go and vote, early voting or voting on the day of.
 If you’re not sure as to uh if you’re able to vote, what precinct you vote— you vote, check either of your town clerk’s offices.
 Uh, they will be able to help you, uh, with that information.
-Until our next conversation, have yourself a great day. [music] Previous Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District You Might Also Like Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Until our next conversation, have yourself a great day. [music] Next Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District You Might Also Like Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

@@ -1,4 +1,4 @@
-Home Meet Joe Issues Join Joe 1.
+Home Meet Joe Issues Join Joe DONATE NOW 1.
 Introduction We are committed to safeguarding the privacy of our website visitors.
 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors that is supplied through this website; in other words, where we determine the purposes and means of the processing of that personal data.
 More information about us and our handling of your personal data is set out in our terms and conditions.

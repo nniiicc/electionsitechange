@@ -33,8 +33,8 @@ I would be honored to represent you and your families in the 11th District and I
 Endorsements SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.
 Brienne Brown SHARE Rep.
-Ben DeSmidt SHARE Wisconsin Progress SHARE Teamsters Joint Council 39 SHARE Wisconsin Education Association Council SHARE Clean Wisconsin Action Fund SHARE WI Bricklayers & Allied Craftworkers SHARE Wisconsin State AFL‑CIO SHARE NASW Wisconsin Chapter SHARE Planned Parenthood Advocates of Wisconsin Campaign photos • Oct 14 • Open photo • Oct 8 • Open photo • Oct 6 • Open photo • Oct 6 • Open photo All photos Interactive Data Tools District Map Every voting location and candidate, on the map • /11Forward • Open District Map Legislative Bill Viewer Any Wisconsin bill: its history, its votes, its text • /bill/2023-reg-ab302 • Open Legislative Bill Viewer Get Involved Campaign photos · Packers Sunday S L October 6, 2026 I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
-#packers‼️ #PackersNation ✕ Photo ‹ Previous Next › 3 of 16 Picture 1 of 3 in this post.
+Ben DeSmidt SHARE Wisconsin Progress SHARE Teamsters Joint Council 39 SHARE Wisconsin Education Association Council SHARE Clean Wisconsin Action Fund SHARE WI Bricklayers & Allied Craftworkers SHARE Wisconsin State AFL‑CIO SHARE NASW Wisconsin Chapter SHARE Planned Parenthood Advocates of Wisconsin Campaign photos • Oct 15 • Open photo • Oct 14 • Open photo • Oct 8 • Open photo • Oct 6 • Open photo All photos Interactive Data Tools District Map Every voting location and candidate, on the map • /11Forward • Open District Map Legislative Bill Viewer Any Wisconsin bill: its history, its votes, its text • /bill/2023-reg-ab302 • Open Legislative Bill Viewer Get Involved Campaign photos · Packers Sunday S L October 6, 2026 I had a great time hearing David Crowley speak and rooting for our Green Bay Packers!
+#packers‼️ #PackersNation ✕ Photo ‹ Previous Next › 4 of 17 Picture 1 of 3 in this post.
 In this post Where this photo appears All photos The post on Bluesky Posted by @voteadamduda.bsky.social on Bluesky, Oct 6, 2026.
 SHARE Steve Doelder SHARE Sen.
 Mark Spreitzer SHARE Rep.

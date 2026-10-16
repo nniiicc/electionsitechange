@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 21, 2026 Vukasovich Invites CD-5 Residents to Meet the Candidates in Tecumseh Voters in Michigan’s 5th Congressional District will have an opportunity to hear directly from the candidates for U.S.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 21, 2026 Vukasovich Invites CD-5 Residents to Meet the Candidates in Tecumseh Voters in Michigan’s 5th Congressional District will have an opportunity to hear directly from the candidates for U.S.
 House on Sept.
 29 at the Tecumseh District Library.
 Incumbent Rep.
@@ -26,6 +26,6 @@ Vukasovich’s campaign has stated that Walberg’s attendance has not yet been 
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

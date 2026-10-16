@@ -1,5 +1,5 @@
 top of page About Darrin The Work Endorsements Contact Me More Use tab to navigate through the menu items.
-VOLUNTEER DONATE “ I’ve seen this district grow, change, and progress most of my life, and I know what kind of leadership we need at this moment to truly represent all of us." - Darrin Madison Learn About Darrin MY PLATFORM “My position on our community's needs is clear.
+YARD SIGN DONATE “ I’ve seen this district grow, change, and progress most of my life, and I know what kind of leadership we need at this moment to truly represent all of us." - Darrin Madison Learn About Darrin MY PLATFORM “My position on our community's needs is clear.
 I’m prepared to act on solutions that meet our needs and improve our lives.” - Darrin Madison Education Safety & Justice Working-Class Democracy Housing Environment & Climate Resilience Education ​ Every child deserves access to a high-quality public education, regardless of their ZIP code.
 Strong public schools create opportunity, strengthen communities, and help prepare the next generation for success. ​ Priorities: Fully fund Wisconsin's public schools.
 Increase special education reimbursement and support services.

@@ -1,0 +1,6 @@
+Meet Jesse Issues News Volunteer Contribute The board of Illinois Family Action is pleased to endorse the following candidates in the 2026 General Election.
+These candidates emerged as those who will best support and uphold pro-family and pro-faith principles. https://illinoisfamilyaction.org/2026/10/ifas-2026-general-election-endorsements-2/ Illinois Family Action "In House District 83, Democratic incumbent Matt Hanson, a former Kane County Board member from Montgomery, is running for his third term against Republican Jesse Rodriguez, a small-business owner from Aurora.
+Hanson's performance in Springfield has been adequate but not distinguished.
+Rodriguez got into the race out of his frustrations with Springfield's approach to small business.
+His campaign is centered on improving the business climate and restraining government overreach.
+He has our endorsement." Endorsements: Perez for Senate D42; Rodriguez for House D83; Scopa for House D84 Daily Hearld Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

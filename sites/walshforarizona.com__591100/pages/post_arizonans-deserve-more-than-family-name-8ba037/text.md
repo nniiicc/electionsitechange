@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities My Opponent Vote More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Arizonans deserve more than family name #ago 2 min read Updated: #ago By Stephanie Walsh | Gilbert OPINION — We are at a critical moment in Arizona.
 We face reduced water allocations, rising costs, and rapid advances in artificial intelligence.
 How we respond to these challenges will shape the future of our state and the opportunities available to our children.

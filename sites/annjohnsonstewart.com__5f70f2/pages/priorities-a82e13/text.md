@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Priorities Our campaign is about moving Minnesota forward.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Priorities Our campaign is about moving Minnesota forward.
 It’s about standing up for our neighbors, our communities, and our values that make this state so special.
 Let’s create an economy where workers and families can thrive: where we lower costs and make raising a family more affordable.
 Let’s ensure that our communities can thrive: where we live safely, have world-class schools, and government is accountable and not infringing on our personal rights and choices.

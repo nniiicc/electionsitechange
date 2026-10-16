@@ -24,7 +24,7 @@ Mike Rogers is endorsed by Michigan law enforcement because he's tough on crime.
 I trust Mike to keep us safe.
 MIKE ROGERS: I'm Mike Rogers, and I approve this message.
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL Next Next ROGERS ENCOURAGES ABSENTEE, EARLY VOTING CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL Next Next ROGERS ENCOURAGES ABSENTEE, EARLY VOTING MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Metagenix Breaking Down the Silos × My entire career has been shaped by a simple pattern: I see a problem, and then I jump in to solve it.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Metagenix Breaking Down the Silos × My entire career has been shaped by a simple pattern: I see a problem, and then I jump in to solve it.
 That is exactly what happened after my time working on 911 dispatch systems.
 I took a leap and started a new business called Metagenix because I saw a massive information bottleneck that was draining millions of dollars from companies.
 Big corporations were trying to bring all their information together to make smart business decisions, but they were running into a major roadblock.

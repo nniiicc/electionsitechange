@@ -1,4 +1,6 @@
-CHIP IN $10 TODAY TO SUPPORT ZACH NUNN >> ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER DONATE Close Trigger DONATE Category: Uncategorized Nunn Calls Out Trone Garriott for Fundraising Instead of Debating Before Iowans Vote Des Moines, IA – Combat aviator and U.S.
+CHIP IN $10 TODAY TO SUPPORT ZACH NUNN >> ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER DONATE Close Trigger DONATE Category: Uncategorized Trone Garriott Finally Agrees to Debate Nunn on October 27, Two Weeks Into Early Voting Des Moines, IA – Combat aviator and U.S.
+Representative Zach Nunn (IA-03) released the following statement after Sarah Trone Garriott accepted KCCI’s October 27 debate, more than a month after Nunn first accepted the station’s invitation.
+“On the debate stage Iowans will have a clear choice between my record of delivering bipartisan results for all […] Nunn Calls Out Trone Garriott for Fundraising Instead of Debating Before Iowans Vote Des Moines, IA – Combat aviator and U.S.
 Representative Zach Nunn (IA-03) released the following statement after voting early this morning on the first day of early voting in Iowa and accepting a KCCI debate with Sarah Trone Garriott on October 27.
 “Over #ago, I said yes to six debates on four stations, […] Combat Aviator and Congressman for Iowa’s Third Congressional District Zach Nunn Raises Over $1.3 Million in Third Quarter Nunn Builds on Record-Breaking Fundraising as Campaign Enters Final Stretch Des Moines, IA – Congressman Zach Nunn, a combat aviator and Representative for Iowa’s Third Congressional District, announced more than $1.3 million raised in the third quarter of 2026 and more than $1 million cash on hand as the campaign enters the final stretch of […] Trone Garriott Refuses KCCI Debate, Nunn Accepts Two More 3rd District Debates Des Moines, IA – Combat aviator and U.S.
 Representative Zach Nunn (IA-03) released the following statement calling out Sarah Trone Garriott for refusing to debate.
@@ -18,9 +20,7 @@ Chamber of Commerce, the largest business federation in the country and the lead
 Representative Zach Nunn (IA-03) for reelection, citing his record of delivering for Iowa’s workers, families, and small businesses.
 “We delivered the largest working-class […] Veterans Groups Present a Scholarship and a Home at Nunn’s Third Annual ‘Operation Top Nunn: Salute to the Troops’ Pete Hegseth joins as special guest as Nunn honors Iowa’s Gold Star and Blue Star families Des Moines, IA – Combat aviator and U.S.
 Representative Zach Nunn (IA-03) today hosted the third annual Operation Top Nunn: Salute to the Troops at JR’s SouthPork Ranch on the Iowa State Fairgrounds with special guest Pete Hegseth.
-Gold […] Nunn Campaign Launches New Ad on Housing Costs and Fixing America’s Skilled Worker Shortage “Skilled Workers” is the third spot of the general election, pairing Nunn’s push to train tradespeople with his record of bipartisan results Des Moines, IA – Combat aviator and U.S.
-Representative Zach Nunn today released “Skilled Workers,” the third television ad of the 2026 general election.
-The 30-second ad connects the rising cost of housing […] ← older GET INVOLVED Zach Nunn is a member of the US Air Force Reserve.
+Gold […] ← older GET INVOLVED Zach Nunn is a member of the US Air Force Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the US Air Force or the Department of War.
 HOME ABOUT ISSUES GET IN TOUCH PRIVACY POLICY HOME ABOUT ISSUES GET IN TOUCH PRIVACY POLICY Facebook X-twitter Instagram Team Nunn PO Box 8036 Des Moines, IA 50301 ‪(515) 216-0686‬ Paid for by Team Nunn Copyright ©# Team Nunn.
 All rights reserved.

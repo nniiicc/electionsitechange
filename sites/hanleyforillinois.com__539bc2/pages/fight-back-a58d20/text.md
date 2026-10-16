@@ -15,7 +15,9 @@ Patrick is a new voice ready for the fight.
 Patrick is a dad, a small business owner, organizer, and environmental advocate.
 His wife, Jessica, is an entrepreneur and an immigrant.
 Jess & Patrick are raising two small boys, Max & Jack, alongside their beloved pup, Henry.
-Meet Patrick Read below for some of our top priorities Stand up to Trump & protect us from ICE Tackle sky-high costs of healthcare & housing Fight for safe communities & schools Deliver the green transition in energy & jobs Learn more REPRESENTING HOME Our 9th State Senate District Patrick was born in Evanston and raised in Northbrook .
+Meet Patrick SAFE, Green, & Growing Illinois Democrats must stand up & protect our communities.
+Together, we can make Illinois a safe, green & growing state that fights for our communities, supports young people and parents, honors our workers, cares for our elders, restores our environment, and delivers on our promise for a fairer - growing - economy.
+Stand up to Trump & protect us from ICE Tackle sky-high costs of healthcare & housing Fight for safe communities & schools Deliver the green transition in energy & jobs Learn more REPRESENTING HOME Our 9th State Senate District Patrick was born in Evanston and raised in Northbrook .
 He took classes in Glenview and Northbrook .
 Patrick has spoken and organized in Wilmette , Morton Grove and Skokie , building community power.
 Patrick, Jessica, Max, and Jack put down roots in Winnetka where they live with their pup, Henry.

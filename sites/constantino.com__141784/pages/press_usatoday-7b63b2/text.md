@@ -8,4 +8,4 @@ That claim collapses against the State Police investigation, first reported by t
 “Blake Gendebien clearly dumped massive amounts of garbage onto the land and into the water,” said Anthony Constantino.
 “State police are investigating and the media must get Paul Tonko and Kathy Hochul on record saying whether or not they still support this litterbug.” Sources: Blake Gendebien under investigation by State Police A New York State Police spokesperson confirms “the matter remains under investigation.” ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

@@ -1,4 +1,4 @@
-Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Endorsements Arizona List Jayme leads with a big heart, listening ears, and a passion for justice.
+Home Meet Jayme Endorsements Make Endorsement Issues Volunteer Voter Information Contact Endorsements Arizona List Jayme leads with a big heart, listening ears, and a passion for justice.
 Her care for community is clear through her intentionality with her family, students, and, future constituents.
 I have no doubts on her capabilities or commitment to AZ.
 Erin Baumann Ms.
@@ -16,4 +16,4 @@ Jayme is thoughtful, kind, and the type of person who consistently shows up for 
 She leads with both compassion and action — qualities we need now more than ever.
 I’m proud to support Jayme Accalia!
 Kristy O'Brien Ms Nancy Miranda Jim Bannon Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

@@ -1,4 +1,4 @@
-0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Meet JJ An enthusiastic and tireless advocate for good.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch Donate Meet JJ An enthusiastic and tireless advocate for good.
 A year ago, I had no idea I would be running for office.
 But I did know I wanted to step up and do something good , so I got involved.
 I started volunteering to help canvass, write postcards, and talk to voters during elections.

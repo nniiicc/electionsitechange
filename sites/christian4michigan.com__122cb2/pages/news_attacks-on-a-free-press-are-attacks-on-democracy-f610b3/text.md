@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 19, 2026 Attacks on a Free Press Are Attacks on Democracy Democratic congressional candidate Christian Vukasovich is calling on Rep.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 19, 2026 Attacks on a Free Press Are Attacks on Democracy Democratic congressional candidate Christian Vukasovich is calling on Rep.
 Tim Walberg (R-Mich.) to defend the First Amendment following the White House decision to bar CNN, MS NOW and Politico journalists and deactivate their press credentials.
 The move has drawn criticism from journalism organizations and raised constitutional concerns over the government restricting press access based on coverage it dislikes.
 Attacks on a Free Press Are Attacks on Democracy MONROE, Mich. — Democratic congressional candidate Christian Vukasovich is calling on Rep.
@@ -17,6 +17,6 @@ Walberg has not yet accepted the invitation.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

@@ -20,8 +20,12 @@
 "href": "https://www.edgeworthfornevada.com/events"
 },
 {
+"text": "Find A Voting Location Now",
+"href": "https://vote.nvwins.org/"
+},
+{
 "text": "Find Voting locations",
-"href": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:a4ee7a05-b2cb-40cc-ba88-0aa2a87b2a06/original/as/voting-mb-26g.pdf"
+"href": "https://vote.nvwins.org/"
 },
 {
 "text": "HERE",
@@ -30,6 +34,10 @@
 {
 "text": "Issues",
 "href": "https://www.edgeworthfornevada.com/issues"
+},
+{
+"text": "Nearest Voting Location",
+"href": "https://vote.nvwins.org/"
 },
 {
 "text": "News",
@@ -42,6 +50,10 @@
 {
 "text": "Rebecca@EdgeworthForNevada.com",
 "href": "mailto:Rebecca@EdgeworthForNevada.com?subject=Hello+Doctor+Edgeworth"
+},
+{
+"text": "Rebecca@Edgeworthfornevada.com",
+"href": "mailto:Rebecca@Edgeworthfornevada.com"
 },
 {
 "text": "Voting Guide",

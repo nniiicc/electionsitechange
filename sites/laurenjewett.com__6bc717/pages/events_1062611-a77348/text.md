@@ -1,4 +1,4 @@
-Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Canvass with Team Lauren - Jefferson Available times Sunday, Oct 18, 9:45AM - 12PM — sign up on Mobilize (opens in a new tab) Where Metairie · LA About this event Ready to take it to the doors?
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Canvass with Team Lauren - Jefferson Available times Sunday, Oct 18, 9:45AM - 12PM — sign up on Mobilize (opens in a new tab) Sunday, Oct 18, 3:45PM - 6PM — sign up on Mobilize (opens in a new tab) Where Metairie · LA About this event Ready to take it to the doors?
 Canvassing is one of the most powerful things you can do to help Lauren win, and we’re building our team now.
 When you knock a door for Lauren, you’re not just spreading a message.
 You’re having a real conversation with a real neighbor about what’s at stake for Louisiana’s 1st Congressional District.

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Upcoming Events Meet Eric & learn about our movement in person!
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Upcoming Events Meet Eric & learn about our movement in person!
 Upcoming Events 10/13 Meet & Greet - Yuba City Join us for a Taco Tuesday meet-and-greet in Yuba City with Eric Jones, candidate for Congress in CA-4!
 We'll be joined by Yuba City councilmembers Toni Cole, Wade Kirchner, Mike Pasquale, and Dave Shaw.
 Enjoy free tacos and drinks while you meet Eric, ask questions, and hear about his vision for a brighter future.

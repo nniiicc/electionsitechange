@@ -16,6 +16,8 @@ Box 822 Green River, WY 82935.
 DONATE Set the record Straight Outside groups are spending thousands and thousands of dollars trying to distort my record with misleading attacks.
 Wyoming voters deserve the facts.
 Below are the claims you may have heard or seen and what I actually voted for.
-GET THE FACTS Upcoming EVENTS Come meet Eric Events October 14, 2026 Riverton High School Auditorium Wyoming PBS General Election Debates October 14, 2026 Riverton High School Auditorium Read more → October 14, 2026 Riverton High School Auditorium PAID FOR BY BARLOW FOR WYOMING Barlow for Wyoming C/O Committee Treasurer P.O.
+GET THE FACTS Upcoming EVENTS Come meet Eric Summary Block This block has no content yet.
+Items you add to the page connected to this block will display here.
+Events PAID FOR BY BARLOW FOR WYOMING Barlow for Wyoming C/O Committee Treasurer P.O.
 Box 822 Green River, WY 82935.
 Contact Donate Privacy Policy

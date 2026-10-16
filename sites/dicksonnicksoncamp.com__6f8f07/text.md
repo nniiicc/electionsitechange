@@ -40,4 +40,5 @@ Box 640111 Pike Road, AL 36064 (334) 208-2100 01 Stay informed Follow along as t
 Campaign contact Questions or ready to get involved? friendsoftisha@gmail.com Support the campaign Help move District 75 forward.
 Your support helps Tisha continue meeting neighbors, sharing the campaign’s message, and building a people-centered movement across District 75.
 Donate & support TDN Tisha Dickson Nickson For State Representative · District 75 friendsoftisha@gmail.com Tisha Dickson Nickson for State Representative, District 75.
-Paid for by Dickson Nickson for Office
+Paid Pol.
+Ad by Dickson Nickson for Office

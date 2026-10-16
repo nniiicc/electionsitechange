@@ -5,7 +5,6 @@ I have posted a map of the 72nd below.
 You can also find that information HERE as well as keep up to date on what will be on your ballot on November 3, 2026.
 How do I get one of your yard signs?
 If you live in the 72nd and would like a yard sign, click here and I will personally deliver you one!
-If you would like a shirt and stickers as well, include your shirt size in the email!
 What exactly does a State Representative do?
 A State Representative is the person you elect to be your voice in Jefferson City.
 Our state elects 163 Reps to represent many diverse districts.
@@ -47,11 +46,11 @@ How old are you?
 I’m 43 years young, born and raised in Overland, MO, and I’ve served as a public servant since 2018.
 What is the Harvard AI in governance certification all about ?
 I recently completed an extensive class offered through Harvard University that explored the possible uses of artificial intelligence in governance.
-The key takeaway for me was that AI should not be used for any sort of application beside existing ordinance/law research and mundane administrative duties.
+The key takeaway for me was that AI should not be used for any sort of application beside existing ordinance/law research and mundane administrative duties, if that.
 What events will you be at coming up ?
 Being that I am a serving member of the Overland City Council, I am at all Overland sponsored events.
 I will be at the polls all around the 72nd district from 6am-7pm for the General Election on November 3rd, 2026.
 Current 73rd District State Rep and candidate for Senate District 14 Raychel Proudie and I are currently booking dates in October for speaking events.
 Refer to the poster on my main page for more info!
-As the election date draws closer and more questions and issues present themselves, I will update this page with my answers/stance either via text here or in a video post on my Facebook and Youtube channels (Links to those below) HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
+HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
 STAY UP TO DATE ON THE CAMPAIGN: 314-313-2620 PatrickForThe72@yahoo.com website designed, built, and maintained by Patrick Wroblewski No AI used © # Paid for by Citizens for Wroblewski, Rebekah Jimenez, Treasurer bottom of page

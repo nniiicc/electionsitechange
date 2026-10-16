@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE “Jugging” is on the rise Jun 2 Written By Joseph Rubay Californians now have to worry about “Jugging,” thanks to Democrats’ new “social justice” programs.
+0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE “Jugging” is on the rise Jun 2 Written by Joseph Rubay Californians now have to worry about “Jugging,” thanks to Democrats’ new “social justice” programs.
 Never heard of “jugging”?
 It’s a crime where a suspect profiles a customer at a bank or high-end store or restaurant, follows them, and steals their money or valuables.
 Thanks to a radical set-criminals-free agenda by our state’s Democratic Party under the guise of “social justice,” criminals everywhere are re-weighing the risk-reward of committing these types of crimes increasingly in favor of committing crime.

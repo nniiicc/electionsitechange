@@ -5,7 +5,7 @@ I believe the best conversations happen face-to-face, and I look forward to earn
 Please check back often, as new events will be added regularly.
 I would love the opportunity to meet you, answer your questions, and discuss how we can work together to make Minnesota more affordable, more accountable, and a better place for families, businesses, seniors, and future generations.
 I look forward to seeing you soon!
-Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Thu Oct 15 2026 - Fri Oct 15 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Fri Oct 16 2026 - Sat Oct 16 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Make a Donation Running a grassroots campaign takes time, energy, and resources.
 If you believe in our vision for stronger communities, fiscal responsibility, and practical leadership, I would be honored to have your support.
 Every contribution, no matter the amount, helps us reach more voters, share our message, and build a campaign focused on the people of District 25A.

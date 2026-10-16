@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Privacy Updated October 8, 2026.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Privacy Updated October 8, 2026.
 What you give us When you join, save a vote plan, volunteer or write to us, the form sends the campaign what you typed.
 That is your email and ZIP, and your name, phone number and message if you gave them.
 What we do with it We use it to write to you about the campaign, to remind you to vote if you asked and to reach you about volunteering.

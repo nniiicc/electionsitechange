@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Privacy Policy Welcome to the website of Rob Wittman for Congress.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Privacy Policy Welcome to the website of Rob Wittman for Congress.
 We know your online privacy is important to you, and we want you to know how we may collect, use, disclose or store Personal Information on this website (“Website”).
 “Personal Information” is your name, contact information and other data associated with your name or contact information.
 This Privacy Policy applies to Rob Wittman for Congress’ online collection of Personal Information via this Website.

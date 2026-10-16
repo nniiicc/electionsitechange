@@ -122,7 +122,7 @@ But, we should fight to make opportunity real.
 And when opportunity becomes real, people will do what Americans have always done when given a genuine chance: They will build, create, innovate, lead…and they will rise.
 OPEN EVERY DOOR.
 LET TALENT RISE.
-Previous Statement of Belief: Honor God, Serve People Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like A Breakthrough Brief: Thrivability for Small Business TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Women’s Empowerment & A Fresh Take on Life and Choice Humane Immigration Reform and Border Security Independence from Party Control STAY UPDATED Let’s Build the Future Together.
+Previous Statement of Belief: Honor God, Serve People Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like A New Era in Education Independence from Party Control Women’s Empowerment & A Fresh Take on Life and Choice TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Humane Immigration Reform and Border Security STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

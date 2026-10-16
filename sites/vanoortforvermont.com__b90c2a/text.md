@@ -14,20 +14,25 @@ Proven I’ve worked hard in town government and accomplished things that improv
 Helped bring high speed internet to the parts of town that didn’t have it.
 Point person for a large grant the town is using to replace the HVAC in the town hall and library with efficient geothermal, which will save taxpayer dollars.
 Improved the town’s zoning so people have an easier time building on their own property and don’t have to go through expensive Act 250 permitting.
+My pledges I will not accept corporate or PAC money.
+I will hold regular office hours across the district to hear your concerns and ideas.
+I will send out a newsletter telling you in clear language what is happening at the state house.
+I will pick the education committee as my first choice and I will not vote for any bill that closes our local schools or takes away our rights to send our children to the public or independent schools they have always attended.
 What I stand for Fairness Everyone deserves the necessities of life.
 Food, a home, healthcare, education, good roads, work that pays a decent wage.
 Many of these are out of reach for ordinary Vermonters, while billionaires and big tech corporations are raking in unprecedented amounts of money.
 What can we do about it here in Vermont?
-Regulate or put a moratorium on AI data centers that pollute our environment and driving up our energy costs.
-Make it easy for people to use plug-in solar or community solar to bring down their electricity bills.
+Regulate or put a moratorium on AI data centers that pollute our environment and drive up our energy costs.
+Decrease regulations and paperwork for the smallest businesses and the smallest towns.
+Make grants and government programs easy to access by hiring navigators to help people through the process.
 Expand Medicare/Medicare for all.
-Fully fund programs to rehab empty houses and help homeowners build accessory dwelling units or convert unused space into rental units..
+Fully fund programs to rehab empty houses and help homeowners build accessory dwelling units or convert unused space into rental units.
 Push for tax equality.
 Everyday Vermonters pay too much while the ultra wealthy get federal tax breaks.
 They should pay back those tax breaks to the state.
 And if big corporations are using AI to take away people’s jobs, we should tax the AI agents.
 Human workers pay taxes.
-Robots should pay them too..
+Robots should pay them too.
 Freedom Everyone deserves to be free to live their lives and be secure in their constitutional rights.
 Across the country, freedoms are crumbling.
 Masked ICE agents are breaking down doors.
@@ -43,6 +48,8 @@ Pass a state law revoking the right of corporations in Vermont to make political
 Montana is doing this.
 If they can do it, we can do it!
 Unmask law enforcement.
+Give towns and planning commissions real power in land use decisions.
+Reform/improve the Public Utility Commission process.
 Work with other like-minded states to push back against federal overreach and improve democracy.
 We already did this with the National Popular Vote Interstate Compact to work to get rid of the Electoral College.
 Be nimble and ready to protect Vermonters from whatever the next attack is.

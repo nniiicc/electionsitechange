@@ -1,4 +1,4 @@
-Skip to content Home Meet Mike Get Involved Donate Donate Home Meet Mike Get Involved Donate Donate Aloha!
+Skip to content Home Meet Mike Mike on the Issues Get Involved Donate Donate Home Meet Mike Mike on the Issues Get Involved Donate Donate Aloha!
 My name is Mike Lee and I am running for State House District 50 – Kailua, ‘Aikahi, and Kāne‘ohe Bay .
 Please explore my website and learn more about me – my roots, my ‘ohana, my priorities as your Representative, and my life experiences that have led me down this path.
 I also encourage you to call on me to share any questions, concerns, and feedback on how we can work together to make our community better .

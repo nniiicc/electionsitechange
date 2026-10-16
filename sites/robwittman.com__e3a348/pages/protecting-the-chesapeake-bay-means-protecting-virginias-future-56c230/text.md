@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Protecting the Chesapeake Bay Means Protecting Virginia’s Future Few places are as central to Virginia’s identity as the Chesapeake Bay.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Protecting the Chesapeake Bay Means Protecting Virginia’s Future Few places are as central to Virginia’s identity as the Chesapeake Bay.
 For generations, the Bay has shaped who we are.
 It supports our watermen and seafood industry, sustains farms throughout the watershed, attracts visitors from around the world, provides recreation for millions of Americans, and serves as both an economic and environmental cornerstone of our Commonwealth.
 Its health affects all of us.

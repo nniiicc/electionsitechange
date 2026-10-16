@@ -25,11 +25,11 @@
 },
 {
 "text": "Export .ics file",
-"href": "https://mearsforalaska.com/events/2026-10-15/?ical=1"
+"href": "https://mearsforalaska.com/events/today/?ical=1"
 },
 {
 "text": "Export Outlook .ics file",
-"href": "https://mearsforalaska.com/events/2026-10-15/?outlook-ical=1"
+"href": "https://mearsforalaska.com/events/today/?outlook-ical=1"
 },
 {
 "text": "Get Involved",
@@ -37,7 +37,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Home",
@@ -65,11 +65,11 @@
 },
 {
 "text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Donna+Mears+for+State+House+Events+%E2%80%93+Donna+Mears+for+State+House"
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Donna+Mears+for+State+House+Events+%E2%80%93+Donna+Mears+for+State+House"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Donna+Mears+for+State+House+Events+%E2%80%93+Donna+Mears+for+State+House"
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmearsforalaska.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Donna+Mears+for+State+House+Events+%E2%80%93+Donna+Mears+for+State+House"
 },
 {
 "text": "Previous Day",
@@ -113,7 +113,7 @@
 },
 {
 "text": "iCalendar",
-"href": "webcal://mearsforalaska.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+"href": "webcal://mearsforalaska.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 },
 {
 "text": "next upcoming events",

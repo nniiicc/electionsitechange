@@ -1,4 +1,4 @@
-Her Story Her Record On The Issues Volunteer Store Donate Get Involved Join the Team Join our team and volunteer today!
+Her Story Her Record On The Issues Voting Info Volunteer Store Donate Get Involved Join the Team Join our team and volunteer today!
 Knock doors, put up a yard sign, or help work an event.
 Tell us how you want to pitch in and the team will be in touch.
 Sign Up for Campaign Updates I’m interested in… (select all that apply) Door knocking Phone banking Putting up a yard sign Distributing yard signs Working an event Attending events I consent to SMS messages.

@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give For the press Election Day Tuesday, November 3, 2026 Press info@thepricecampaign.com Headshot Download the JPG Bio Samuel Price is the Democratic candidate for South Carolina House District 99, which covers Cainhoy, Daniel Island and Hanahan in Berkeley County.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give For the press Election Day Tuesday, November 3, 2026 Press info@thepricecampaign.com Headshot Download the JPG Bio Samuel Price is the Democratic candidate for South Carolina House District 99, which covers Cainhoy, Daniel Island and Hanahan in Berkeley County.
 He grew up in Lexington and moved to Charleston at 15.
 He worked his way through the College of Charleston, where he studied computer science, and wrote software for the nursing college at MUSC that is still in use.
 He is a senior technical lead at Boeing, where he leads multiple software teams, some of them international, and he spent years before that building software on government contracts.

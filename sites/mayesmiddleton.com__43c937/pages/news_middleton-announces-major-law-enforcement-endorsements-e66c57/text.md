@@ -1,0 +1,22 @@
+Menu Home About Priorities Endorsements News Join Our Team Donate Middleton Announces Major Law Enforcement Endorsements Over 30 Cities and Local Associations Join TMPA, Fraternal Order of Police, CLEAT and Texas Sheriff’s Regional Alliance FOR IMMEDIATE RELEASE: October 15, 2026 Galveston – Today, in a massive show of support from law enforcement, the Mayes Middleton Campaign released the endorsement of 31 local police associations (POAs), including those in every one of the largest 10 cities in Texas.
+These 31 POAs represent officers in departments responsible for the public safety of over 11 million Texas citizens.
+The Texas Municipal Police Association, Texas State Lodge - Fraternal Order of Police, and Combined Law Enforcement Associations of Texas, also endorsing Middleton, cumulatively represent over 81,000 police officers across Texas.
+Sen.
+Middleton was endorsed by the Texas Sheriff’s Regional Alliance, an alliance of 16 Texas sheriffs committed to promoting and advocating for responsible policies that strengthen communities and curb crime in Texas.
+Also endorsing Middleton are sheriff and law enforcement associations in Dallas, Tarrant, Harris, and Montgomery counties.
+The endorsements include the Dallas Police Association, Garland Police Association, Mesquite Police Association, Richardson Police Officers Association, and Dallas County Sheriff’s Association, all in the home county of Sen.
+Middleton’s opponent.
+Sen.
+Middleton said, “I’m incredibly honored by this local law enforcement support, because these are the men and women who put their lives on the line every day to keep us safe from hardened criminals.
+To all of our law enforcement in our great state, thank you, and I’ve got your back." These endorsements underscore a great contrast between Mayes’ support for law enforcement and his opponent’s soft-on-crime approach.“When it was time to stand with law enforcement against defunding the police, my opponent instead stood with the lawless mob.
+My opponent even donated to an anti-law enforcement group that said jails are racist and advocates for no cash bail for violent criminals,” Middleton continued.
+Middleton has now been endorsed by the following local Police Associations: Houston Police Officers’ Union San Antonio Police Officers Association Dallas Police Association Austin Police Association Fort Worth Police Officers Association El Paso Municipal Police Officers Association Arlington Municipal Patrolman’s Association Corpus Christi Police Officers Association Plano Police Association Lubbock Professional Police Association Laredo Police Officers Association Garland Police Association Frisco Police Officers Association Brownsville Police Officers’ Association Killeen Police Employee Association Denton Police Officers Association Pasadena Police Officer’s Union Mesquite Police Association McAllen Professional Law Enforcement Association Waco Police Association Lewisville Police Officers’ Association Pearland Police Officers Association Richardson Police Officers Association League City Police Officers Association Beaumont Police Officers Association Tyler Patrolman’s Association Baytown Municipal Police Association Longview Police Officers Association Wichita Falls Police Officers Association Galveston Municipal Police Association La Marque Police Association Additional Law Enforcement Organizations: Texas Department of Public Safety Officers Association Texas State Lodge - Fraternal Order of Police Texas Municipal Police Association Combined Law Enforcement Associations of Texas Texas Sheriff’s Regional Alliance Texas Law Enforcement Council Montgomery County Commissioned Officers Association Dallas County Sheriff’s Association Harris County Deputies’ Organization Tarrant County Law Enforcement Association Sign Up For Updates First Name* Last Name* Email Address* Cell Phone Zip Code* By providing my mobile number, I consent to receive informational text messages from the Mayes Middleton campaign.
+Message frequency may vary.
+Msg and Data rates may apply.
+Donations may be solicited.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms and Conditions and Privacy Policy .
+Count Me In!
+Donate To Mail A Check: Mayes Middleton Campaign PO Box 1526 Galveston, TX 77553 Facebook Twitter Instagram © Copyright Mayes Middleton For Texas Attorney General - All Rights Reserved - Privacy Policy | Terms and Conditions Pol.
+Adv. paid for by Mayes Middleton Campaign

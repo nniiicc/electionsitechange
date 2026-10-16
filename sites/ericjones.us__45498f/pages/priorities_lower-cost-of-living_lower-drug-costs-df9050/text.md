@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Lower Prescription Drug Costs Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Lower Prescription Drug Costs Why I believe this — and how I’ll fight for it.
 When did you last hear a politician say the words “Big Pharma” and actually mean it?
 For a while, both parties made noise about drug prices, won a couple of small things, and went quiet — because the drug industry funds both of them.
 I won’t go quiet.

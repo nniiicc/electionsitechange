@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release October 5, 2026 Vukasovich: Michigan Families Deserve Lower Costs, Not More Tariffs Democratic congressional candidate Christian Vukasovich is calling for action to lower costs for Michigan families following reports that Michigan households face an estimated $5,619 annual tariff burden.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release October 5, 2026 Vukasovich: Michigan Families Deserve Lower Costs, Not More Tariffs Democratic congressional candidate Christian Vukasovich is calling for action to lower costs for Michigan families following reports that Michigan households face an estimated $5,619 annual tariff burden.
 At the same time, 35.4% of children in Niles Township live below the poverty line.
 Vukasovich: Michigan Families Deserve Lower Costs, Not More Tariffs MONROE, Mich. — Democratic congressional candidate Christian Vukasovich is calling for action to lower costs for Michigan families following reports that Michigan households face an estimated $5,619 annual tariff burden.
 At the same time, 35.4% of children in Niles Township live below the poverty line.
@@ -11,6 +11,6 @@ He also pointed to the closure of Sturgis Hospital as another example of the gro
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

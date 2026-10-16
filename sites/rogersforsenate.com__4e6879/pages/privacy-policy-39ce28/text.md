@@ -138,7 +138,7 @@ If you do not agree to this policy, please do not use our website.
 Your continued use of the website following the posting of changes to this policy will be deemed your acceptance of those changes.
 CONTACTING US If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at: info@rogersforsenate.com .
 This Privacy Policy is effective with respect to all data that we have collected since the date we started collecting data, which was July 23, 2025.
-CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

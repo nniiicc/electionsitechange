@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 12 Apr Democrat Congressman Jamaal Boman came under intense criticism when the media reported his comments about the treatment of female hostages by Hamas.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 12 Apr Democrat Congressman Jamaal Boman came under intense criticism when the media reported his comments about the treatment of female hostages by Hamas.
 According to Politico, “In the weeks after Hamas’ Oct.
 7 attack on Israel, Rep.
 Jamaal Bowman not only publicly cast doubt on reports that Israeli women were raped, but also called those accusations ‘propaganda.’” Jim Marter, Republican nominee for US Congress in Illinois’ 14th District, called on Democrat opponent, Lauren Underwood to let her constituents know where she stands.

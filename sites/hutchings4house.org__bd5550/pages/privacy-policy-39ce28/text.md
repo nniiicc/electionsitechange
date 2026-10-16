@@ -8,5 +8,5 @@ Different jurisdictions have different legal obligations of what must be include
 You are responsible to make sure you are following the relevant legislation to your activities and location.
 WHAT TO INCLUDE IN THE PRIVACY POLICY Generally speaking, a Privacy Policy often addresses these types of issues: the types of information the website is collecting and the manner in which it collects the data; an explanation about why is the website collecting these types of information; what are the website’s practices on sharing the information with third parties; ways in which your visitors and customers can exercise their rights according to the relevant privacy legislation; the specific practices regarding minors’ data collection; and much, much more.
 To learn more about this, check out our article “ Creating a Privacy Policy ”.
-Updates from the campaign trail Sept 8, 2026 Harris County Dems Home About Me Events Get Involved Contact CYNDIE HUTCHINGS STATE HOUSE • D138 Terms & Conditions Privacy Policy Accessibility Statement © # by Cyndie Hutchings.
+Updates from the campaign trail Premier TONIGHT Home About Me Events Get Involved Contact CYNDIE HUTCHINGS STATE HOUSE • D138 Terms & Conditions Privacy Policy Accessibility Statement © # by Cyndie Hutchings.
 Powered and secured by Wix bottom of page

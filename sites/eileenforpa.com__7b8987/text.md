@@ -4,7 +4,7 @@ Our current Senator has not done enough to fix SEPTA’s funding, stop the risin
 Eileen has spent her career listening to people, solving problems, and navigating complex and broken systems.
 She’ll go to Harrisburg and fight to lower our costs, grow our local economy so we have good paying jobs that can support a family, and fully fund our public schools.
 Become a founding donor of Eileen’s campaign Contributions can also be mailed to PO Box 126, Warrington, PA 18976 $ 10 $ 100 $ 200 $ 250 $ 500 Other $ 10 $ 100 $ 200 $ 250 $ 500 Other Sign up to Stay Connected With The Campaign!
-First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Read below for some of our top priorities We’re grateful for your donations! $ 10 $ 100 $ 200 $ 250 $ 500 Other $ 10 $ 100 $ 200 $ 250 $ 500 Other It’s Time Harrisburg Listened To Bucks County Eileen is running for State Senate because Harrisburg isn’t listening to Bucks County.
+First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Our priorities Fighting for Our Community We’re grateful for your donations! $ 10 $ 100 $ 200 $ 250 $ 500 Other $ 10 $ 100 $ 200 $ 250 $ 500 Other It’s Time Harrisburg Listened To Bucks County Eileen is running for State Senate because Harrisburg isn’t listening to Bucks County.
 Our current Senator has not done enough to fix SEPTA’s funding, stop the rising cost of living, or help families struggling to make ends meet.
 Eileen has spent her career listening to people, solving problems, and navigating complex and broken systems.
 She’ll go to Harrisburg and fight to lower our costs, grow our local economy so we have good paying jobs that can support a family, and fully fund our public schools.

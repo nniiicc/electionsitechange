@@ -15,4 +15,5 @@ And I believe that a campaign should be about people.
 During this campaign I want to fill box after box with your stories, your photos, and your letters.
 Anything that speaks to why you love Oklahoma.
 It's what I will carry with me on this new journey.
-And when times are hard it is what will carry me and guide my way as your next Governor." Read below for some of our top priorities Invest in Public Schools & Raise Teacher Pay Provide Tax Relief for Everyday Oklahomans Lower Healthcare Costs for Oklahomans Repeal Oklahoma’s Abortion Ban Privacy Policy Media Kit FAQ PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.
+And when times are hard it is what will carry me and guide my way as your next Governor." Cyndi's priorities Cyndi Munson is running for Governor to solve Oklahoma’s biggest challenges.
+Invest in Public Schools & Raise Teacher Pay Provide Tax Relief for Everyday Oklahomans Lower Healthcare Costs for Oklahomans Repeal Oklahoma’s Abortion Ban Privacy Policy Media Kit FAQ PO Box 3302 Oklahoma City, OK 73101 info@cyndimunson.com Powered by RUN! website builder Authorized and Paid for by Cyndi Munson for Oklahoma 2026 You need to enable JavaScript to run this app.

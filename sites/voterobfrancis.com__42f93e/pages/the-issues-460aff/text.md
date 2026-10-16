@@ -45,7 +45,7 @@ We need someone in Harrisburg who won’t forget that.
 LGBTQ+ Rights It is no secret that the LGBTQ+ community is facing a severe increase in hate crimes nationwide, and it is no different in Pennsylvania.
 Whether they are physical attacks for sexual orientation or legislative assaults against gender identity, they are harmful to a great many people.
 Everyone deserves to feel safe and be included, and Rob will vigorously fight for that, always.
-Vote 411 Voter Guide Steel City Stonewall Democrats Endorsement Questionnaire Ballotpedia Candidate Connection Survey WESA Candidate Survey Home Meet Rob Contact Calendar Get Involved DONATE Register to Vote Check Voter Registration Request Mail-in Ballot Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
+Vote 411 Voter Guide Steel City Stonewall Democrats Endorsement Questionnaire Ballotpedia Candidate Connection Survey WESA Candidate Survey Home Meet Rob Contact Calendar Get Involved DONATE Register to Vote Check Voter Registration Request Mail-in Ballot Find Polling Place Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
 Vote Rob Francis Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website

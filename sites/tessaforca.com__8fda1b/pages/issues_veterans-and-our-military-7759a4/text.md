@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements Knock doors with us!
-Contact Donate About Issues Endorsements Knock doors with us!
-Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Veterans and Our Military The treatment of our active service members and veterans under the current administration has been unacceptable.
+Contact Media Kit Donate About Issues Endorsements Knock doors with us!
+Contact Media Kit Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Veterans and Our Military The treatment of our active service members and veterans under the current administration has been unacceptable.
 The firing of thousands of veterans under the guise of 'waste, fraud, and abuse,' along with efforts to cut the deficit, is not only shortsighted but also a betrayal of those who served to defend our Constitution and democracy.
 Additionally, cuts to the Veterans Administration, resulting in the loss of tens of thousands of jobs, will severely impact the care our veterans rely on, increasing wait times and decreasing service quality.
 Our veterans deserve better.

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Where I Stand on Health Care in Virginia Health care has been part of my professional life since long before I entered Congress.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Where I Stand on Health Care in Virginia Health care has been part of my professional life since long before I entered Congress.
 I earned a master’s degree in public health and spent more than 26 years working for the Virginia Department of Health.
 During that time, and throughout my service in Congress, I have seen firsthand how important local hospitals, physicians, nurses, community health centers, mental health providers, pharmacists, and emergency medical professionals are to the communities they serve.
 That experience continues to shape how I approach health care today.

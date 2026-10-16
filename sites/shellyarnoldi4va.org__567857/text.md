@@ -49,7 +49,7 @@ Term Limits pledge — and I'll keep it.
 Safe Communities Stand with our first responders.
 Enforce the laws on the books.
 Keep Northern Virginia the kind of place families want to raise children and seniors want to retire.
-Upcoming Events All Events → Community Federal Policy Dinner with Jason Miyares Tue, Sep 22 · 6:30 PM 📍 Wildfire Details → Community MAHA Open Data Summit Mon, Sep 28 · 11:00 AM 📍 Willard InterContinental Washington, DC 1401 Pennsylvania Ave NW, Washington, DC 20004, United States Details → Community Televised Candidate Forum - League of Women Voters Mon, Sep 28 · 7:45 PM 📍 Fairfax Public Access Television Channel 10 Station Details → In the Media Shelly Speaks.
+Upcoming Events All Events → Community WP Wise Traditions Conference Thu, Oct 15 · 8:00 PM 📍 Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA Details → Community LPNOVA Monthly After Hours Fri, Oct 16 · 6:00 PM 📍 Rocklands Barbeque & Grilling Company Details → Community Summit on Screen & Social Media Harms Wed, Oct 21 · 10:00 AM 📍 Washington, DC, USA Details → In the Media Shelly Speaks.
 Sep 30, 2026 · Scott Tillman Term Limits: Questionable?
 Washington D.C. – U.S.
 Term Limits (USTL), the leader in the non-partisan national movement to limit terms for elected officials, praises 2026 U.S.

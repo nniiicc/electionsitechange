@@ -1,7 +1,7 @@
 Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Loading view.
 Events Events Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation Month List Month Day This Month 10/15/2026 October 2026 Select date.
+Find Events Event Views Navigation Month List Month Day This Month 10/16/2026 October 2026 Select date.
 Calendar of Events M Mon T Tue W Wed T Thu F Fri S Sat S Sun 0 events, 28 0 events, 28 0 events, 29 0 events, 29 0 events, 30 0 events, 30 1 event, 1 1 event, 1 2026-10-01 TEAM LILY – Deerfield Fair TEAM LILY – Deerfield Fair October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair Deerfield Fairgrounds, 34 Stage Road, Deerfield, NH 03037 149th Annual Deerfield Fair.
 Agricultural fair with livestock, midway, entertainment.
 Thursday-Saturday 8am-10pm, Sunday 8am-7pm.
@@ -49,10 +49,12 @@ Free and open to the public.
 The mic is yours.
 Bring your questions.
 North Country friends, we hope to see you there!
-1 event, 19 1 event, 19 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua October 19 @ 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua Monday, 10/19 – Breakfast at 7:30 AM, followed by the program Nashua, NH – venue TBA A breakfast candidate forum hosted by the Greater Nashua Chamber of Commerce as part of its “Eggs & Business Issues” series, featuring Lily Tang Williams and Rep.
+1 event, 19 1 event, 19 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua October 19 @ 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua Monday, 10/19 – Breakfast at 7:30 AM, followed by the program The Event Center, 2200 Southwood Drive, Nashua, NH 03063 A breakfast candidate forum hosted by the Greater Nashua Chamber of Commerce as part of its “Eggs & Business Issues” series, featuring Lily Tang Williams and Rep.
 Maggie Goodlander.
-Questions are gathered in advance from the business community.
-1 event, 20 1 event, 20 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm October 20 @ 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm 10/20 General Election Debate hosted by New England College, in Henniker, 7pm (not yet confirmed by Maggie Goodlander) 2 events, 21 2 events, 21 3:00 pm - 4:00 pm 10/21 – Q&A with Keene State Students – Keene October 21 @ 3:00 pm - 4:00 pm 10/21 – Q&A with Keene State Students – Keene Wednesday, 10/21, 3:00 PM – 4:00 PMScience 101, Science Center, Keene State College, Keene, NHLily visits Keene State College for remarks and an open Q&A with students on the issues they care about.
+Questions are gathered in advance from ...
+Read more 1 event, 20 1 event, 20 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm October 20 @ 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm Tuesday, 10/20 – Doors open at 6:30 PM, debate at 7:00 PM Rosamond Page Putnam Center for the Performing Arts, New England College, 10 Weare Road, Henniker, NH 03242 The NH-02 general election debate, part of New England College's 2026 Live Free or Die Debate Series.
+(Not yet confirmed by Maggie Goodlander.) Tickets are free, ...
+Read more 2 events, 21 2 events, 21 3:00 pm - 4:00 pm 10/21 – Q&A with Keene State Students – Keene October 21 @ 3:00 pm - 4:00 pm 10/21 – Q&A with Keene State Students – Keene Wednesday, 10/21, 3:00 PM – 4:00 PMScience 101, Science Center, Keene State College, Keene, NHLily visits Keene State College for remarks and an open Q&A with students on the issues they care about.
 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting October 21 @ 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting Wednesday, 10/21, 6:30 PM Delegation Hall (2nd floor), Old Cheshire County Courthouse / Cheshire County Hall (Winter Street entrance), Keene, NH Monthly meeting of the Keene City Republican Committee.
 1 event, 22 1 event, 22 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua October 22 @ 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua Thursday, 10/22, 6:30 PM – 8:00 PM Nashua Community College, 505 Amherst Street, Nashua, NH 03063 Lily’s “Ask Me Anything” town hall, co-sponsored by the Nashua Republican City Committee.
 Free and open to the public.
@@ -62,7 +64,8 @@ Bring your questions.
 Opening statements, then audience Q&A.
 Free admission; bagels and coffee served.
 1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting October 25 @ 1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting Sunday, 10/25, 1:00 PM Location TBA Monthly meeting of the Winchester Republican Committee.
-0 events, 26 0 events, 26 0 events, 27 0 events, 27 1 event, 28 1 event, 28 2026-10-28 10/28 – WMUR Debate (NH-02) – Manchester 10/28 – WMUR Debate (NH-02) – Manchester October 28 10/28 – WMUR Debate (NH-02) – Manchester Wednesday, 10/28 – Time TBA WMUR News 9, Manchester, NH NH-02 congressional debate on WMUR.
+0 events, 26 0 events, 26 0 events, 27 0 events, 27 1 event, 28 1 event, 28 8:00 pm - 9:00 pm 10/28 – WMUR Debate (NH-02) – Manchester October 28 @ 8:00 pm - 9:00 pm 10/28 – WMUR Debate (NH-02) – Manchester Wednesday, 10/28 – 8:00 PM to 9:00 PM, live on WMUR News 9 WMUR, Manchester, NH The NH-02 general election debate, part of WMUR's Granite State Debates series.
+There is no studio audience, so tune in live on WMUR News 9 or stream it on WMUR.com.
 0 events, 29 0 events, 29 0 events, 30 0 events, 30 0 events, 31 0 events, 31 0 events, 1 0 events, 1 There are no events on this day.
 There are no events on this day.
 There are no events on this day.
@@ -73,7 +76,7 @@ October 9 October 9 @ 5:00 pm - October 11 @ 3:00 pm TEAM LILY – Milford Pumpk
 October 17 October 17 @ 9:00 am - 9:00 pm TEAM LILY – RiverFire October 17 @ 9:00 am - 10:30 am TEAM LILY – Weare Republican Committee Meeting October 17 @ 10:00 am - 12:00 pm TEAM LILY – Turning Point Action Super Chase – Hollis + 3 More October 18 October 18 @ 1:30 pm - 3:00 pm 10/18 – ASK ME ANYTHING Town Hall – Littleton October 19 October 19 @ 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua October 20 October 20 @ 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm October 21 October 21 @ 3:00 pm - 4:00 pm 10/21 – Q&A with Keene State Students – Keene October 21 @ 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting October 22 October 22 @ 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua There are no events on this day.
 October 24 October 24 @ 9:30 am - 11:30 am TEAM LILY – Turning Point Action Super Chase – Newport October 25 October 25 @ 8:45 am 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester October 25 @ 1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting There are no events on this day.
 There are no events on this day.
-October 28 All day 10/28 – WMUR Debate (NH-02) – Manchester There are no events on this day.
+October 28 October 28 @ 8:00 pm - 9:00 pm 10/28 – WMUR Debate (NH-02) – Manchester There are no events on this day.
 There are no events on this day.
 There are no events on this day.
 There are no events on this day.

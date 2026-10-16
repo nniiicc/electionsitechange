@@ -3,10 +3,10 @@ What is VoterTree?
 VoterTree is a simple process to help identify and encourage your Family, Friends and Neighbors to Vote in the upcoming election.
 It's effective because you are reaching out to people who know and trust you.
 It's easy because you can work on it anytime, day or night.
-LOGIN TO VOTERTREE We value your privacy.
+LOGIN TO VOTERTREE How to Build Your Voter Tree Use VoterTree Online Download the Worksheet We value your privacy.
 Your VoterTree is not shared with any Candidate or Candidate Committee.
 That's why we don't ask for your contacts' phone number or email address.
-How to Work Your Voter Tree CONNECT Contact your family, friends, and neighbors.
+Privacy & Your Data How to Work Your Voter Tree CONNECT Contact your family, friends, and neighbors.
 COMMIT Secure a promise to vote.
 INFORM Send Candidate Information.
 Send County GOP Voter Slate.

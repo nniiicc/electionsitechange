@@ -1,5 +1,5 @@
 top of page Texas District 8 Candidate for U.S.
-House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Character and Class sk9001 #ago 2 min read I’ve never met Jessica Hart Steinmann, but I know her type, and would likely be quite comfortable in her presence.
+House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Character and Class sk9001 Oct 7 2 min read I’ve never met Jessica Hart Steinmann, but I know her type, and would likely be quite comfortable in her presence.
 We come from the same social class, or so I believe.
 If you told me that her father is or was a lawyer, and that her mother is or was an interior designer, I wouldn’t be that surprised.
 BUT – if you said the same about Laura’s parents, I would be astonished.

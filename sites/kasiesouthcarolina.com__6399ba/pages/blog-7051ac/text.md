@@ -4,7 +4,10 @@ Sign up to receive our email newsletter and learn where Kasie stands on importan
 Find events where Kasie will be speaking or meeting people.
 Volunteer to help spread the word about the campaign.
 Invest in independent representation for South Carolina.
-DONATE HERE Kasie on the issues Category Uncategorized Taxes & Spending Social Security Q&A on Issues Newsroom National Security National Debt Immigration Healthcare Economy Current Events Counties Corruption Campaign Stops Campaign Finance and Lobbying 7 Oct.
+DONATE HERE Kasie on the issues Category Uncategorized Taxes & Spending Social Security Q&A on Issues Newsroom National Security National Debt Immigration Healthcare Economy Current Events Counties Corruption Campaign Stops Campaign Finance and Lobbying 14 Oct.
+2026 The Cold Shoulder Mainstream media has us in a blackout.
+We’re working hard...
+Full Post >> 7 Oct.
 2026 Why Less Government is Better Don’t let politicians take credit for the things business owners...
 Full Post >> 22 Sep.
 2026 Military, War, Veterans, and the NDAA Our volunteer military is an extraordinary thing.

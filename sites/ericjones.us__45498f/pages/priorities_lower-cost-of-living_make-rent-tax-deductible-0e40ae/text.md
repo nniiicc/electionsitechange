@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Make Rent Tax-Deductible Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Make Rent Tax-Deductible Why I believe this — and how I’ll fight for it.
 I’m fighting to make buying a home cheaper and easier, because owning is still how most families build wealth — and everyone who wants that shot deserves it.
 But we have to be honest about where things are headed: more and more people rent, and that number is only going to keep rising.
 A tax code that rewards owning and gives renters nothing is unfair, and badly out of step with how people actually live.

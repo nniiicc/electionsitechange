@@ -53,15 +53,11 @@
 },
 {
 "text": "Get Directions",
-"href": "https://www.google.com/maps/search/?api=1&query=Burrillville+Town+Hall+105+Harrisville+Main+Street+Burrillville+RI"
+"href": "https://www.google.com/maps/search/?api=1&query=American+Legion+Hall+103+Harrisville+Main+Street+Burrillville+RI"
 },
 {
 "text": "Get Directions",
 "href": "https://www.google.com/maps/search/?api=1&query=Charlestown+Town+Hall+4540+South+County+Trail+Charlestown+RI"
-},
-{
-"text": "Get Directions",
-"href": "https://www.google.com/maps/search/?api=1&query=Coventry+Town+Hall+1670+Flat+River+Road+Coventry+RI"
 },
 {
 "text": "Get Directions",
@@ -121,6 +117,10 @@
 },
 {
 "text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Town+Hall+Annex+1675+Flat+River+Road+Coventry+RI"
+},
+{
+"text": "Get Directions",
 "href": "https://www.google.com/maps/search/?api=1&query=Warwick+Police+Department+99+Veterans+Memorial+Drive+Warwick+RI"
 },
 {
@@ -129,7 +129,7 @@
 },
 {
 "text": "Get Directions",
-"href": "https://www.google.com/maps/search/?api=1&query=West+Warwick+Town+Manager+1170+Main+Street+1+West+Warwick+RI"
+"href": "https://www.google.com/maps/search/?api=1&query=West+Warwick+Public+Library+1043+Main+Street+1+West+Warwick+RI"
 },
 {
 "text": "Get Directions",
@@ -220,7 +220,7 @@
 "href": "https://vicmellor.com/voter-id-election-integrity/"
 },
 {
-"text": "WHEN AND WHERE EARLY VOTING BEGINS",
+"text": "WHEN & WHERE TO VOTE",
 "href": "https://vicmellor.com/rhode-island-early-voting-information/"
 },
 {
@@ -240,7 +240,7 @@
 "href": "https://youtube.com/@vicmellorforrhodeisland?si=M34SQelarT6CJGVk"
 },
 {
-"text": "[image: Vic Mellor for Congress Rhode Island District 2 header logo][image: Vic Mellor for Congress Rhode Island District 2 header logo]",
+"text": "[image: Vic Mellor for Congress Rhode Island District 2 header logo]",
 "href": "https://vicmellor.com"
 },
 {

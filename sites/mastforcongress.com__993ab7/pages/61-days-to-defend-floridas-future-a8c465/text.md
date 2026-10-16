@@ -24,7 +24,8 @@ I know what is at stake.
 I also know what this community can accomplish when patriots stand together.
 Sixty-one days is enough time to organize, build momentum, and defend Florida’s future.
 Let’s get to work.
-Related Posts: 12 Days to Register and a Primary We Cannot Sleepwalk Into July 6, 2026 Biden left them dead and abandoned August 4, 2022 Our Freedom Of Speech January 19, 2021 Another Slap In The Face For Veterans May 2, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Homeless Veterans & The Border.
+Let’s Talk About It… May 13, 2024 What Service Before Self Means To Me September 16, 2026 Common Sense Relief at the Pump This Summer May 11, 2026 Petition: Stop Entertaining Foreign Oil April 11, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

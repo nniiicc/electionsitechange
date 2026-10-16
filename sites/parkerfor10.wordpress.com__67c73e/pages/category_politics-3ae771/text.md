@@ -20,7 +20,7 @@ Such gaslighting.
 But yes, they actually passed… April 16, 2024 Is Anyone Listening?
 The longer a single party holds power, the more unaccountable it considers itself.
 Idaho has reached the point where its Republican supermajority legislature really does not want to hear from Idahoans.
-They demand absolute party loyalty to their extreme platform, and censure any member who votes the way their constituents actually want them to vote.… Blog at WordPress.com.
+They demand absolute party loyalty to their extreme platform, and censure any member who votes the way their constituents actually want them to vote.… Create a free website or blog at WordPress.com.
 Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

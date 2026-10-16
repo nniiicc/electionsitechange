@@ -1,4 +1,4 @@
-Home Policy & Beliefs Endorsements Amendments Media Store Contact Us Join our Team Donate Today Follow Healthy Communities Educated Population Responsible Government HEALTHY COMMUNITIES ^ Healthcare ^ Safety ^ Food ^ Secure Wages Healthcare We need universal healthcare for all.
+Home Policy & Beliefs Endorsements Amendments Media Contact Us Join our Team Donate Today Follow Healthy Communities Educated Population Responsible Government HEALTHY COMMUNITIES ^ Healthcare ^ Safety ^ Food ^ Secure Wages Healthcare We need universal healthcare for all.
 Everyone should have access to a primary care physician to ensure early interventions.
 Studies from the National Institutes of Health (NIH) show that improved access to primary care reduces hospitalizations and mortality.
 Hospital Capacity: Freeing up hospital beds by managing health at the primary level.

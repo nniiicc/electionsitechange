@@ -3,7 +3,7 @@ Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Me
 Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Folder: About Back Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
 Folder: Get Involved Back Volunteer Contact Headquarters Voter Information Back to All Events Candidate Phone Bank Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
 Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
-Previous Previous October 10 Connecticut House Democrats Door-Knocking Day Next Next October 26 Candidate Phone Bank Cinzia Lettieri for State Representative Newsletter Block This newsletter signup form needs a storage option.
+Previous Previous October 10 Connecticut House Democrats Door-Knocking Day Next Next October 17 Door-Knocking Blitz with Connecticut State Building Trades Council (CSBTC) Cinzia Lettieri for State Representative Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Let's Stay in Touch Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up Thank you!

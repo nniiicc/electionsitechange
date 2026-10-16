@@ -1,4 +1,4 @@
-Home How to Vote Issues Events News Volunteer Contact Donate A Life of Service The Name for Change Kathy McKinstry's story is not one of privilege, it is one of perseverance, discipline, and unwavering commitment to family and country.
+Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ A Life of Service The Name for Change Kathy McKinstry's story is not one of privilege, it is one of perseverance, discipline, and unwavering commitment to family and country.
 Raised in the Midwest by a strong, determined single mother who migrated from Tennessee in search of opportunity, Kathy grew up in a large family where resources were limited, but love, resilience, and responsibility were abundant.
 From an early age, she understood what it meant to sacrifice, to share, and to step up—not because it was easy, but because it was necessary.
 There were no shortcuts.

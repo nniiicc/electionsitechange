@@ -1,6 +1,6 @@
 Skip navigation menu About Issues Endorsements Knock doors with us!
-Contact Donate About Issues Endorsements Knock doors with us!
-Contact Donate People over party We need to prioritize the people.
+Contact Media Kit Donate About Issues Endorsements Knock doors with us!
+Contact Media Kit Donate People over party We need to prioritize the people.
 Our incumbent Rep.
 Jay Obernolte has forgetten about us.
 We need a representative who will put the people first.

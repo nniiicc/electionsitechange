@@ -14,7 +14,8 @@ Justice and Accountability: No One Is Above the Law No one is above the law, and
 I want full, independent investigations into possible crimes, conflicts of interest and self-enrichment in this administration.
 Then the facts and the courts decide.
 Accountability is how we make sure it never happens again.
-I am a survivor of human trafficking and abuse; two-tier justice is not abstract to me.
+I know what it is to survive things no one should have to, and to keep going.
+Two-tier justice isn't abstract to me, and it's why I fight for the people the system leaves behind.
 I'll push for full investigations into conflicts of interest, pay-to-play deals and any use of public office for private profit, and I'll back holding everyone responsible to account under the law.
 I'll treat oversight as the job, not a favor: public hearings, public records and regular briefings, so you can see who got the contract and what it cost.
 I'll defend the courts and Congress's power of the purse.

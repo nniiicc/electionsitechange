@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Municipal Water Grants Overview: Safe drinking water shouldn’t bankrupt small towns.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Municipal Water Grants Overview: Safe drinking water shouldn’t bankrupt small towns.
 By leveraging state capital investment and matching grants, we can upgrade aging underground water infrastructure without causing local property taxes or municipal utility bills to skyrocket.
 Key Takeaways: Targeted Relief: Authorizing state bonds (like S.F.
 4792 for Spring Park) to replace 50-year-old decaying water mains.

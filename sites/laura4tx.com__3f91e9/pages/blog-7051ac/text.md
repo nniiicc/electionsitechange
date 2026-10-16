@@ -9,7 +9,7 @@ We come from the same social class, or so I believe.
 If you told me that her father is or was a lawyer, and that her mother is or was an interior designer, I wouldn’t be that surprised.
 BUT – if you said the same about Laura’s parents, I would be astonished.
 My bet is: the two candidates come from two different socio-economic backgrounds.
-(Again, this is all conj sk9001 #ago 2 min read Similarities and Differences I have to admit it: District 8's Congressional race is utterly fascinating... to me, at least.
+(Again, this is all conj sk9001 Oct 7 2 min read Similarities and Differences I have to admit it: District 8's Congressional race is utterly fascinating... to me, at least.
 Just think about it: The two candidates are both women.
 Therefore: There are no sex or gender differences between them.
 The two candidates are both Caucasian, meaning "white".

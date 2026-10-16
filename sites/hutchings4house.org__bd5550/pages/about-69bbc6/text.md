@@ -20,5 +20,5 @@ I will work to end the use of eminent domain for economic development projects.
 I will impose a tax on corporate-owned housing to boost inventory and drive down home prices.
 I will propose incentives to draw more doctors- especially OBGYNs- to Georgia.
 I will fight for stewardship of your tax dollars, ensuring schools are funded without increasing property taxes.
-Updates from the campaign trail Sept 8, 2026 Harris County Dems Home About Me Events Get Involved Contact CYNDIE HUTCHINGS STATE HOUSE • D138 Terms & Conditions Privacy Policy Accessibility Statement © # by Cyndie Hutchings.
+Updates from the campaign trail Premier TONIGHT Home About Me Events Get Involved Contact CYNDIE HUTCHINGS STATE HOUSE • D138 Terms & Conditions Privacy Policy Accessibility Statement © # by Cyndie Hutchings.
 Powered and secured by Wix bottom of page

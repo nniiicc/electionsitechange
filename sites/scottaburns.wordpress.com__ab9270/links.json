@@ -40,6 +40,10 @@
 "href": "https://scottaburns.wordpress.com/2020/08/"
 },
 {
+"text": "Blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
 "text": "Comments feed",
 "href": "https://scottaburns.wordpress.com/comments/feed/"
 },
@@ -110,10 +114,6 @@
 {
 "text": "February 2020",
 "href": "https://scottaburns.wordpress.com/2020/02/"
-},
-{
-"text": "Get started",
-"href": "https://wordpress.com/start/"
 },
 {
 "text": "Home",
@@ -381,6 +381,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

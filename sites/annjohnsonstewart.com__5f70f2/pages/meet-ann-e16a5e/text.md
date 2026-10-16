@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Meet Ann Ann Johnson Stewart I’m Ann Johnson Stewart.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Meet Ann Ann Johnson Stewart I’m Ann Johnson Stewart.
 I’m a civil engineer, a small business owner, and a teacher.
 For over 30 years, my career has been defined by a single, unyielding standard: structural and communal integrity.
 Whether I was founding my own engineering firm here in Minnesota, teaching the next generation of designers at the University of Minnesota, or raising my four children in the West Metro, I’ve always believed that you cannot build a future for people on a shaky foundation.

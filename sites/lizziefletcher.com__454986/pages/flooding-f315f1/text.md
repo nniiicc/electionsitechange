@@ -11,4 +11,4 @@ I have worked closely with the Army Corps of Engineers’ Galveston District on 
 Building on the Corps’ work, I advocated and voted for the authorization of the Texas Coastal Study—also known as the Ike Dike—in the Water Resources and Development Act of 2022 , to mitigate storm surge at the coast and protect us from catastrophic damage.
 FOLLOW LIZZIE Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
-Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 Privacy Policy PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

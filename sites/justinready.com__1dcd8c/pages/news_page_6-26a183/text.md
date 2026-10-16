@@ -1,4 +1,4 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report May 27, 2025 We Need a Return to Sanity in Maryland’s Budget The 2025 Maryland General Assembly Session officially came to a close at midnight on April 7th.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report May 27, 2025 ALERT: Sign Petition to Restore County Authority Over Solar Developments on Ag Land Maryland farmers and citizens are taking a stand against SB 931, the so-called “Renewable Energy Certainty Act.” This bill was rushed through the legislature, putting solar developers ahead of local communities and stripping counties of their zoning authority over… Read More > May 27, 2025 We Need a Return to Sanity in Maryland’s Budget The 2025 Maryland General Assembly Session officially came to a close at midnight on April 7th.
 It’s an honor to serve in the State Senate and represent a large part of Carroll County as well… Read More > May 21, 2025 Ready Report: “Moore” Bad MD Financial News, Upcoming Event & More… I hope you and your family are enjoying the early weeks of summer weather.
 Please have a safe Memorial Day weekend.
 Below is an update on what has been happening in Annapolis and around Carroll… Read More > May 2, 2025 Ready Report: Critical Waiver Granted to CCPS, Maryland Losing Key Companies due to Business Climate & More I hope you and your family are enjoying some beautiful spring weather.
@@ -8,6 +8,4 @@ We… Read More > April 21, 2025 Ready Report: Happy Easter, EoS Wrapup & Capita
 No further legislation will be passed until the next Legislative Session, which is slated to begin in January 2026.
 Below is a brief update,… Read More > April 11, 2025 End of Session Wrap Up At midnight on April 7th, the 2025 Maryland General Assembly Session officially came to a close.
 We are honored to represent you in the State Senate and House of Delegates in Annapolis.
-This letter highlights… Read More > April 4, 2025 Ready Report: Final Week of Legislative Session The 13th and final week of the 2025 Legislative Session has concluded.
-Monday, April 7th is Sine Die, meaning any bill that does pass before Midnight on Monday will not pass this year.
-Next week I will have… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+This letter highlights… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

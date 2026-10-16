@@ -1,4 +1,4 @@
-top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Mountain's Edge Starry Knights and Pumpkin Lights Sat, Oct 24 | Exploration Peak Park Come join us for the Mountain's Edge Starry Knights and Pumpkin Lights event.
 We will have a table and a lot of SWAG!
 RSVP Time & Location Oct 24, 2026, 1:00 PM – 5:00 PM Exploration Peak Park, 9275 S Buffalo Dr, Las Vegas, NV 89178, USA About the event Come join us for the Mountain's Edge Starry Knights and Pumpkin Lights event.

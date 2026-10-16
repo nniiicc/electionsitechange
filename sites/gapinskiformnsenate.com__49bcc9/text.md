@@ -16,7 +16,7 @@ Having spent so many years in the fire service, I know firsthand the time, dedic
 It’s wonderful to see so many families come out to support these men and women and learn more about what they do.
 A huge thank you to the Sauk Rapids Fire Department and everyone who helped put on another fantastic open house.
 I’m proud to have been part of this department and will always appreciate the people who continue to serve our community! 🇺🇸🚒 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #FirstResponders #SaukRapidsMN #Community #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 43 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago A little friendly competition and some great chili sounds like a perfect Sunday afternoon!
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 63 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago A little friendly competition and some great chili sounds like a perfect Sunday afternoon!
 I’m looking forward to joining Tanja Goering as a guest judge for the Watkins Lions Club’s First Annual Chili Cook-Off!
 Come on out to The Store Saloon in St.
 Nick this Sunday, October 18th, from 1–3 PM for some delicious chili, good company, and community fun!
@@ -29,14 +29,14 @@ Entry fee is $10.
 And honestly, if you have not yet become a massive fan of the hand-crafted cocktails that Mike and Rose have made famous, one sip and you'll be HOOKED.
 Old Fashioneds, Bee's Knees and more, handcrafted right in front of you.
 We'll see you Sunday. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 14 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 15 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
 #ago This past Thursday, I had the opportunity to speak at another important forum.
 This event was hosted by the Minnesota Transportation Alliance.
 It was a great opportunity to answer questions and have meaningful conversations about transportation funding at both the local and state levels.
 The discussion covered several important topics, including where transportation funding comes from, what factors impact road and infrastructure projects, wetland replacement challenges, and more.
 It’s always valuable to hear directly from county engineers and MnDOT representatives who work with these issues firsthand.
 Thank you to the Minnesota Transportation Alliance for hosting and to everyone who participated in the conversation! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 38 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 39 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Fraud is stealing from Minnesota taxpayers, and we need to hold those responsible accountable.
 We also need to make sure the people who truly need a hand up are the ones receiving it.
 My work as a Benton County Commissioner has given me an in-depth look at the outdated technology used at the state level to administer these programs.
 These antiquated systems not only create unnecessary work and delays for employees entering data, but they also lack the checks and balances needed to help prevent fraud.

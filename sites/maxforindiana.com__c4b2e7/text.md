@@ -1,4 +1,4 @@
-Early Voting Oct 6 · Election Day Nov 3 · Find My Polling Place MAX ENGLING About Platform Endorse Media Yard Sign Request Volunteer Contact Donate Republican Nominee for Indiana Secretary of State MAX ENGLING For Indiana A new generation of Conservative leadership for the Hoosier State.
+Early Voting Oct 6 · Election Day Nov 3 · Find My Polling Place MAX ENGLING About Platform Endorse Media Press Yard Sign Request Volunteer Contact Donate Republican Nominee for Indiana Secretary of State MAX ENGLING For Indiana A new generation of Conservative leadership for the Hoosier State.
 Secure elections, honest business, and a government that works for you — not against you.
 Join the Campaign See the Platform Meet Max A Hoosier.
 A Father.
@@ -45,4 +45,4 @@ Message frequency may vary.
 Reply stop to end, help for help.
 You may receive informational messages, reoccurring marketing messages, and on-demand reply messages.
 Please visit our privacy policy and Terms & Conditions for more information.
-About Platform Endorse Media Volunteer Contact Privacy Terms Paid for by Max for Indiana Website Designed by Argo Strategy
+About Platform Endorse Media Press Volunteer Contact Privacy Terms Paid for by Max for Indiana Website Designed by Argo Strategy

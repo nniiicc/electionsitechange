@@ -1,1 +1,0 @@
-Skip to content Home Contact Me Donate Meet Jimmy Service over Self In the News Haywood County voters unseat two incumbents in primary, setting up key November races ( Click Here ) Facebook Instagram Customize Reject All Accept All Powered by

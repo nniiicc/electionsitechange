@@ -1,4 +1,4 @@
-Skip to main content Tom Sawyer for Kansas Tom Sawyer for Kansas Home About Tom Sawyer Tom Sawyer Shares Our Values Tom Sawyer fighting to cut our taxes SB 1 2024 Special Session Tax Cuts Tom Sawyer fights for jobs in Wichita Tom Sawyer reforming Kansas Contact Donate District Events Videos Find your polling place VOTE Find your Polling Place- Click here At Tom Sawyer for Kansas, we believe in making the voting process as convenient as possible for our community.
+Skip to main content Tom Sawyer for Kansas Tom Sawyer for Kansas Home About Tom Sawyer Tom Sawyer Shares Our Values Tom Sawyer fighting to cut our taxes SB 1 2024 Special Session Tax Cuts Tom Sawyer fights for jobs in Wichita Tom Sawyer reforming Kansas Contact Donate District Events Videos Find your polling place VOTE VOTE EARLY IN PERSON Find your Polling Place- Click here At Tom Sawyer for Kansas, we believe in making the voting process as convenient as possible for our community.
 On Tuesday, November 5 you must vote at your assigned polling place.
 Polls on Tuesday open at 6 am and close at 7pm.
 Click on the button below to find your polling place and to see a sample ballot.

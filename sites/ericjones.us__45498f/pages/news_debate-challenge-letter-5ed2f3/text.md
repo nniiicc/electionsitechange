@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Letter to Thompson’s Campaign Issuing a Debate Challenge Jul 22 Written By Nick Sanitsky July 22, 2026 Rep.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Letter to Thompson’s Campaign Issuing a Debate Challenge Jul 22 Written By Nick Sanitsky July 22, 2026 Rep.
 Mike Thompson, Candidate Thomas Dowling, Campaign Manager Dear Rep.
 Thompson, I'm writing to formally invite you to a series of debates ahead of the November election.
 California's 4th Congressional District was completely redrawn this cycle and now includes nine counties: Colusa, Lake, Napa, Placer, Sacramento, Sonoma, Sutter, Yolo, and Yuba.

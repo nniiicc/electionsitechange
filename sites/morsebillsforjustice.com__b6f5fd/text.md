@@ -46,6 +46,7 @@ Join Judge Morse-Bills in the fight to uphold constitutional principles, protect
 First name Last name Email ZIP code (optional) Mobile phone (optional) By providing your mobile number and checking this box, you agree to receive text messages from Judge Casandra Morse-Bills for Michigan Supreme Court.
 Message and data rates may apply.
 Message frequency varies.
+Messaging may include requests for donation.
 Reply STOP to opt out or HELP for help.
 See our Privacy Policy .
 Leave this field empty Sign Up Team@MorseBillsForJustice.com Paid for by Judge Casandra Morse-Bills for Michigan Supreme Court PO Box 163 Allegan, MI 49010-0163 Privacy Policy © # Morse-Bills for Justice.

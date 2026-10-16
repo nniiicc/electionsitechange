@@ -1,4 +1,7 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • October 12, 2026 Oberlander understand strong schools require more than good intentions Jill knows we don’t have to choose between strong schools and responsible spending.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Video • October 15, 2026 Debate: League of Women Voters Greenwich Watch the League of Women Voters Greenwich State Senate candidates debate.
+Read more… Newsletter • October 15, 2026 People over politics Lately, politics have become too much about picking a side.
+That’s not how I approach public service.
+Read more… Letter to the Editor • October 12, 2026 Oberlander understand strong schools require more than good intentions Jill knows we don’t have to choose between strong schools and responsible spending.
 We should expect both.
 Read more… Letter to the Editor • October 12, 2026 Hartford needs more problem solvers I am supporting Jill Oberlander for State Senate specifically because of her ability to address the different needs of constituents.
 She knows representing a district… Read more… Letter to the Editor • October 10, 2026 A successful State Senator needs to build alliances One reason I am supporting Jill Oberlander is her ability to easily develop important relationships, a skill she has shown time and again in her… Read more… Letter to the Editor • October 9, 2026 Fiscal Foresight and Community Focus – Why Jill Oberlander is the Leader We Need Jill understands that delivering top-tier services at the lowest possible cost requires planning, setting priorities and making smart long-term investments.
@@ -7,9 +10,5 @@ On Election Day, let’s send a leader to Hartford who will put the… Read more
 Read more… Letter to the Editor • October 7, 2026 Joe Kelly gets the math wrong You’d think someone running on his energy background would know this charge has been a credit since May.
 Read more… Letter to the Editor • October 5, 2026 Politics needs more pragmatism I think we need more independent, pragmatic thinkers in our State Senate today.
 I want representation in Hartford focused on getting things done, not scoring points. … Read more… Newsletter • October 1, 2026 We need a strong voice for reproductive rights At a moment when fundamental rights are being stripped away state by state, Connecticut needs legislators who show up ready to fight.
-I’m asking for… Read more… Letter to the Editor • September 26, 2026 Jill Has A Senior Agenda Grounded in Compassion Older residents deserve security, independence and dignity.
-Jill has the experience, judgment and values to turn these goals into responsible, compassionate public policy.
-Read more… Newsletter • September 24, 2026 They have our backs.
-We should have theirs.
-In the State Senate, I’ll work to ensure our firefighters, police officers, and EMTs have the modern equipment, rigorous training, staffing, and resources they need to… Read more… 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+I’m asking for… Read more… 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

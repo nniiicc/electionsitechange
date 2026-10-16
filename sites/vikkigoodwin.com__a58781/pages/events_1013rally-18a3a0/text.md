@@ -9,4 +9,4 @@ Real age limits, honest labeling and testing, products kept away from schools, a
 Join us for music, good company, and to hear from our next Lt.
 Governor.
 See you soon, San Antonio!
-Previous Previous October 12 Volunteer Kickoff Call — Virtual Next Next October 17 Town Hall — DFW Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.
+Previous Previous October 12 Volunteer Kickoff Call — Virtual Next Next October 19 Early Voting Begins Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

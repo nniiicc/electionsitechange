@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact The 40% Promise: Infrastructure Equity and the “Polluter Pays” Mandate In a state with the resources of Minnesota, the structural integrity of public infrastructure shouldn’t be a matter of local wealth.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact The 40% Promise: Infrastructure Equity and the “Polluter Pays” Mandate In a state with the resources of Minnesota, the structural integrity of public infrastructure shouldn’t be a matter of local wealth.
 Yet, for many rural and disadvantaged communities, the “Design Gap” is often compounded by a “Funding Gap.” Senator Ann Johnson Stewart, a career civil engineer, has long argued that safety is a right that must be engineered into every corner of the state, regardless of a town’s tax base.
 With the introduction of S.F.
 4126 (The Climate Superfund Act) , she has proposed a fiscal mechanism to ensure that the “Polluter Pays” account is used to protect those who are most vulnerable to infrastructure failure.

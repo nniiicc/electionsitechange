@@ -1,4 +1,7 @@
-Skip to the page About Samuel The issues Vote Get involved Menu About Samuel The issues Vote Get involved Give Living here costs more every year.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → About Samuel The issues Vote Get involved Menu About Samuel The issues Vote Get involved Give Living here costs more every year.
 Samuel is the Democratic candidate for State House District 99.
 Cainhoy · Daniel Island · Hanahan Website Email ZIP Join The party that runs Columbia is making it worse.
 There is no plan.

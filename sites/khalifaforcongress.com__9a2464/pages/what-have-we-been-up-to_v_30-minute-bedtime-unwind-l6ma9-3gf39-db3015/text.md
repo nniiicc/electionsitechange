@@ -8,5 +8,5 @@ It’s about listening first, showing up, and making sure every voice is heard, 
 Because when we actually understand each other, we can build solutions that work for everyone.
 That’s the kind of leadership I’m fighting for.
 Why not us?
-Previous Lexington County Democratic Convention Next Aiken County Democratic Convention You Might Also Like New Times Require New Leadership No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
-113 Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Previous Lexington County Democratic Convention Next Aiken County Democratic Convention You Might Also Like No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
+113 New Times Require New Leadership Meet Zyon Khalifa Platform Volunteer Privacy Policy

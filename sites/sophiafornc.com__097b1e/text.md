@@ -23,9 +23,10 @@ Community justice.
 Increase equity in our justice system.
 A green future.
 Protect our environment and invest in a clean energy future. sophiafornc Mom, women’s health advocate and your NC Senator, District 22.
-Putting care back into our politics. 💙 #bullcity 🐂 #ncpol 🗳️ #obamaalumni In Planned Parenthood v.
+Putting care back into our politics. 💙 #bullcity 🐂 #ncpol 🗳️ #obamaalumni Dear Durham: Here we go again, y’all!
+It’s early In Planned Parenthood v.
 Casey, the Court affirmed Some bad bills aren’t bad in theory, they’re just House Bill 958 is absolutely full of ways to make Endless gratitude.
 Gloria Steinem 1934-2026 💔 The way summer challenges parents’ patience and po Dolly was proof that you can start from next to no Kinda chic to vote early.
 To have the best snacks What’s not worth the money?
-Tax cuts for corporati The Republicans have a 20 year plan to dismantle p This conference report was rushed through with no They want us to lose faith so we don’t bother show Republican lawmakers in North Carolina love to tal Load More Follow on Instagram Support leadership that cares. $25 $50 $100 $250 $500 $1,000 Other Amount © # Paid for by Sophia for NC Contact us.
+Tax cuts for corporati The Republicans have a 20 year plan to dismantle p This conference report was rushed through with no They want us to lose faith so we don’t bother show Load More Follow on Instagram Support leadership that cares. $25 $50 $100 $250 $500 $1,000 Other Amount © # Paid for by Sophia for NC Contact us.
 Follow Follow Follow

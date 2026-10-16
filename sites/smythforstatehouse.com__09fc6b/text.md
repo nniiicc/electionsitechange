@@ -5,7 +5,7 @@ Government should work for you.
 I'm running for State House to put people first.
 I will fight for Accountability, Affordability, and Accessibility.
 It's time to bring common-sense back to politics.
-Donate Now Get Involved Get campaign updates straight to your inbox Subscribe Election Day · November 3, 2026 Countdown to Election Day 19 Days 02 Hours 05 Minutes 47 Seconds Every door, every conversation, every vote counts.
+Donate Now Get Involved Get campaign updates straight to your inbox Subscribe Election Day · November 3, 2026 Countdown to Election Day 18 Days 02 Hours 03 Minutes 36 Seconds Every door, every conversation, every vote counts.
 Join the team and help us win District 30A.
 District 30A Voter Resource Guide Local-first solutions Transparent budgeting Accessible services Community listening Results you can measure Latest Updates View all → Campaign Sep 2026 Free Yard Signs Now Available Show your support with a free Joey Smyth yard sign — request one through our shop and a volunteer will deliver it to your door.
 Endorsement Aug 2026 Northern Midwest Regional Council of Carpenters Endorses Joey Smyth The Northern Midwest Regional Council of Carpenters — representing tens of thousands of skilled carpenters across Minnesota — has endorsed Joey for District 30A.

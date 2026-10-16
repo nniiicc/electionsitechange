@@ -19,7 +19,7 @@ A common-sense express bridge would deliver true congestion relief at a fraction
 Standing Up for Southwest Washington Taxpayers This isn’t just bad planning—it’s picking the pockets of Southwest Washington families who are already struggling with high gas taxes, inflation, and a rising cost of living.
 Southwest Washington deserves transparent governance, fiscal responsibility, and infrastructure that actually solves our transportation needs.
 I will continue digging into the details of the IBR project, exposing government waste, and fighting for common-sense solutions that put taxpayers first. 📌 Re-Elect Rep.
-John Ley | WA State Representative, 18th District • Position 2 Connecting Washington Consultant Profits I-5 Interstate Bridge Replacement Interstate Bridge tolls Move Ahead Washington ODOT Traffic Congestion traffic congestion relief WSDOT WSP by John Ley previous Unpacking Olympia's New Income Tax: What Revenue Bureaucrats Are Planning and Why Voters Must Act Help me fight for the people and common sense solutions.
+John Ley | WA State Representative, 18th District • Position 2 Connecting Washington Consultant Profits I-5 Interstate Bridge Replacement Interstate Bridge tolls Move Ahead Washington ODOT Traffic Congestion traffic congestion relief WSDOT WSP by John Ley previous Unpacking Olympia's New Income Tax: What Revenue Bureaucrats Are Planning and Why Voters Must Act next The $14 Billion Crime Scene: Why the I-5 Interstate Bridge Project Is Taxpayer Insanity Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

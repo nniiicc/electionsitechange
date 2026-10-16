@@ -29,4 +29,25 @@ I don't know of an American that would find this burdensome.
 Employers offering compensation packages with less than 67% ordinary income and more than 33% other income will have an additional tax burden on their earnings.
 Publicly traded companies, not for profits and private government contractors that overly bias their compensation to reward executives at the expense of their lowest earners will also realize an additional burden in their taxes.
 This is about getting compensation taxed equitably and eliminating billions of dollars in earnings that is never recognized as income.
-Health Care Coming Thursday 15Oct2026 Manufacturing Coming Friday 16Oct2026 Campbell for Congress Campbell for Congress 2026 info@campbellforcongress2026.com Campbell for Congress 2026 - Authorized and paid for by Chris Campbell
+Health Care Illness or injury is a major worry for majority of Americans.
+The rising cost of healthcare and insurance premiums create significant burdens for many of us.
+For me, I am overwhelmed by the number of people that are uninsured after the premium increases from cuts to the Affordable Care Act.
+The nasty reality is that we all suffer when Americans are under or uninsured.
+Consider you local hospital.
+One in my area has an operating budget of roughly $370,000,000 annually.
+For the sake of simple math, let's suppose they treat 100,000 patients per year.
+The average bill for those 100,000 patients has to cover the annual costs.
+That equates to $3700 per visit.
+If a third of those patients are uninsured, then that leaves on 67,000 patients at $5200 per visit to cover the operational costs.
+We all have our go to healthcare story, but I am talking about costs.
+First we need to establish a sliding scale health insurance program that allows low income Americans access to the expensive insurance options.
+Low premium, high copay options can appear attractive but one illness can set individuals and families back years.
+You don't have to search long to find a family member or a neighbor that is making a monthly payment to a hospital similar to the amount of a car payment.
+Second, medical debt cannot be sold to debt collectors for pennies on the dollar until similar offers are made to the patient.
+If the debt can be sold for much less, then that is likely what the service was worth.
+We all know nothing is worth more than someone is willing to pay you for it.
+Third, while healthcare and insurance companies can invest in the markets, they cannot be traded in the markets.
+Insurance companies should not be competing for investments based on earnings, cost cuttings and growth in the same manner as department stores and energy companies.
+The growth and earnings is what drives denial of treatments and makes medications unavailable.
+Finally, health savings accounts must be expanded to allow for insurance premium payments between retirement and medicare coverage.
+Manufacturing Coming Friday 16Oct2026 Campbell for Congress Campbell for Congress 2026 info@campbellforcongress2026.com Campbell for Congress 2026 - Authorized and paid for by Chris Campbell

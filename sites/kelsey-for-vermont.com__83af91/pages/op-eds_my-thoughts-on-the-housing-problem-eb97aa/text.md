@@ -1,7 +1,7 @@
 0 Skip to Content Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
-Endorsements Contact Donate My Thoughts on the Housing Problem Sep 28 Written By Kelsey Pasteris Housing availability and affordability is a huge problem today in Hinesburg and all of Vermont.
+Endorsements Contact Donate My Thoughts on the Housing Problem Sep 28 Written by Kelsey Pasteris Housing availability and affordability is a huge problem today in Hinesburg and all of Vermont.
 Here are actions I have taken to become a fully informed and effective representative for all of Hinesburg: Met with experts in the field who live and breathe housing assistance, housing finance and home builders such as Champlain Housing Trust, Evernorth, and Let’s Build Homes, Hinesburg Affordable Housing Committee.
 Engaged with Hinesburg residents about their housing experiences - at work as a nurse, on my bus commute, as I am campaigning, with my friends, literally anywhere I go.
 Learned everything I can through things like Ezra Klein’s “Abundance,” listening to authoritative sources, and seeking out conversation and education through other community and Vermont leaders.

@@ -18,4 +18,4 @@ The League of Women Voters follows FEC guidelines and no political paraphernalia
 The League of Women Voters is a non-partisan organization and does not support or endorse candidates or political parties but does sponsor candidate forums as a service to the voters of the community.
 On behalf of the League, we thank you for your willingness to serve, and we look forward to hearing your answers on several topics.
 Map 100 N.
-Island Batavia, IL 60510 (630) 336-0531 Directions → Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Island Batavia, IL 60510 (630) 336-0531 Directions → Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

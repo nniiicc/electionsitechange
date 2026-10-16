@@ -102,4 +102,4 @@ Neither the course of conduct between the parties nor trade practice shall act t
 We may assign or delegate our rights and duties under these Terms to any party at any time without notice to you.
 Contact Us.
 If you have any questions about these Terms, please feel free to contact us at [email protected] .
-Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

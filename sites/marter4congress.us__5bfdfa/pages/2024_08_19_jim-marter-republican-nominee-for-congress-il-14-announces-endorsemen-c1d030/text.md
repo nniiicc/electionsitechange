@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 19 Aug OSWEGO, IL, UNITED STATES, August 19, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the Endorsement of Congressman Mike Bost.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 19 Aug OSWEGO, IL, UNITED STATES, August 19, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the Endorsement of Congressman Mike Bost.
 “I am pleased to offer my complete endorsement for Jim Marter to serve as your next member of Congress.
 As a successful executive entrepreneur, Jim has the integrity and real-world experience needed to be an effective legislator.
 He understands that we must reign in big government, cut out-out-control spending, and protect our constitutional freedoms.

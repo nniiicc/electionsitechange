@@ -2,7 +2,7 @@ Toggle navigation Vote Independent Home I’ll Vote For Dr.SHIVA Take Action Vol
 Shiva Ayyadurai for U.S.
 Senate in Massachusetts: campaign news and updates, event invitations, volunteer opportunities, voting and election reminders, surveys and fundraising requests.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * ZIP Code (optional) Name ZIP shown Mobile number (optional) Providing a mobile number does not sign you up for text messages unless you also check the box below.
+First Name * consent Last Code Last Name * ZIP Code (optional) Mobile number (optional) Providing a mobile number does not sign you up for text messages unless you also check the box below.
 Text message consent (optional) I agree to receive updates from SHIVA 4 SENATE.
 Donations may be solicited.
 Reply STOP to opt-out.

@@ -11,5 +11,6 @@ Message frequency may vary.
 Message and data rates may apply.
 You can opt out at any time by replying STOP to any text message.
 A Leader who Listens Rosie Lynch is running for Oklahoma State House District 16 because she believes every Oklahoman deserves a representative who listens, serves, and fights for their community.
-Meet Rosie Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Read below for some of our top priorities Strengthen Rural Healthcare Support Public Education Stand Up for Veterans & Seniors Grow Rural Communities View More Vote Voting Information Make a plan to vote!
+Meet Rosie Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Our priorities Fighting for Our Community These are some of the top priorities our campaign is focused on.
+Strengthen Rural Healthcare Support Public Education Stand Up for Veterans & Seniors Grow Rural Communities View More Vote Voting Information Make a plan to vote!
 Election Day November 3rd Early In-Person Voting October 28 - 30 (8 A.M. – 6 P.M.) October 31 (8 A.M. – 2 P.M.) Mail-in Voting Apply by October 19th Check if you're registered to vote Register to vote Request a mail ballot Early voting locations Ballot lookup tool Privacy Policy THE FUTURE IS ROSIE Powered by RUN! website builder PAID FOR AND AUTHORIZED BY ROSIE LYNCH FOR OKLAHOMA STATE HOUSE DISTRICT 16 You need to enable JavaScript to run this app.

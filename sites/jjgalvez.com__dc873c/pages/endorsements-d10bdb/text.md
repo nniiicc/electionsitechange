@@ -1,4 +1,4 @@
-0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Endorsements Elected & Civic Leaders U.S.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch Donate Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch Donate Endorsements Elected & Civic Leaders U.S.
 Congressman Mike Levin “I’m proud to endorse JJ Galvez for Assembly.
 His commitment to our community and focus on lowering costs for families make him the right choice to fight for us in Sacramento.
 He’s the exact type of leadership we need in the State Assembly and I’m proud to stand with his campaign!” U.S.

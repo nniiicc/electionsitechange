@@ -26,7 +26,7 @@ And make sure we don’t have a sales or income tax.
 Cinde will stand up for the people of New Hampshire to help them and their kids get ahead.
 That’s what she did as the only Democrat on the Executive Council.
 And that’s what she’ll do as Governor.
-BRINGING COSTS DOWN FOR GRANITE STATERS NO NEW INCOME OR SALES TAX MAKING HEALTH CARE MORE AFFORDABLE TACKLING THE HOUSING CRISIS PROTECTING PUBLIC EDUCATION STANDING UP TO DONALD TRUMP’S RECKLESSNESS ENDING THE PRIVATE SCHOOL VOUCHERS SCHEME THAT'S DRIVING UP PROPERTY TAXES Donate to support Cinde Warmington for Governor No corporate PACs.
+Cinde's values FIGHTING FOR NEW HAMPSHIRE’S WORKING FAMILIES BRINGING COSTS DOWN FOR GRANITE STATERS NO NEW INCOME OR SALES TAX MAKING HEALTH CARE MORE AFFORDABLE TACKLING THE HOUSING CRISIS PROTECTING PUBLIC EDUCATION STANDING UP TO DONALD TRUMP’S RECKLESSNESS ENDING THE PRIVATE SCHOOL VOUCHERS SCHEME THAT'S DRIVING UP PROPERTY TAXES Donate to support Cinde Warmington for Governor No corporate PACs.
 No billionaire mega-donors.
 This campaign is #% funded by people like you. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Vote@CindeWarmington.com Privacy Policy P.O.
 Box 2133, Concord, NH 03302 Paid for by Friends of Cinde Warmington, PO Box 2133, Concord, NH 03302, William Christie Treasurer You need to enable JavaScript to run this app.

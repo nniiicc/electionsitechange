@@ -4,16 +4,16 @@
 "href": "https://vote.utah.gov/"
 },
 {
-"text": "01Utah Valley University800 W University Pkwy, Orem↗",
+"text": "01Utah Valley University800 W University Pkwy, Orem · north of the Liberal Arts Building↗",
 "href": "https://www.google.com/maps/search/?api=1&query=Utah+Valley+University+800+W+University+Pkwy+Orem+UT+84058"
 },
 {
-"text": "02Orem City Library58 N State St, Orem↗",
+"text": "02Orem City Library58 N State St, Orem · library loop on 100 North, next to the book drop↗",
 "href": "https://www.google.com/maps/search/?api=1&query=Orem+City+Library+58+N+State+St+Orem+UT+84057"
 },
 {
 "text": "02Track your ballotSign up for ballot tracking to know when it's mailed and when it's counted↗",
-"href": "https://vote.utah.gov/"
+"href": "https://trackmyballot.utah.gov/"
 },
 {
 "text": "03No ballot, lost it, or damaged it?Call Utah County Elections at (801) 851-VOTE (8683), or vote in person☎",
@@ -114,6 +114,10 @@
 {
 "text": "Privacy",
 "href": "https://alanforutah.com/privacy"
+},
+{
+"text": "Request a yard sign ↗",
+"href": "https://forms.cloud.microsoft/r/6eAeqnTYXp"
 },
 {
 "text": "See Alan's Priorities →",

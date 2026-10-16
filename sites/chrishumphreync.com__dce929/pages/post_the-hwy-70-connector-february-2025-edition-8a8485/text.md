@@ -40,7 +40,7 @@ STATE GRANT FOR NC GLOBAL TRANSPARK Lenoir County has secured a $1.9 million gra
 Navy’s new Fleet Readiness Center!
 This project is expected to create 311 new jobs, providing aircraft maintenance and repair services for the C-130 military aircraft.
 This investment is a huge win for our economy and workforce, bringing more opportunities to Eastern North Carolina and strengthening our region’s role in aviation and military support!
-READ MORE >>> JOIN TEAM HUMPHREY Provide your information below to receive important e-mail updates from Team Humphrey: SUBSCRIBE Thanks for submitting!
+READ MORE >>> Recent Posts See All THE HWY 70 CONNECTOR: August-September 2026 Edition THE HWY 70 CONNECTOR: July 2026 Edition NEWS: NCGA passes state budget, Humphrey secures funding for local projects JOIN TEAM HUMPHREY Provide your information below to receive important e-mail updates from Team Humphrey: SUBSCRIBE Thanks for submitting!
 About Representative Chris Humphrey An Eagle Scout who was born and raised in Eastern North Carolina, Chris Humphrey has always been deeply invested in the community, possessing a strong work ethic and a passion for public service from a young age.
 Humphrey was first elected to the N.C.
 House of Representatives in 2018.

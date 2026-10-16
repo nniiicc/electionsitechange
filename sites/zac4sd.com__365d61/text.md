@@ -1,4 +1,4 @@
-Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot Blog Get Involved Volunteer Donate Zac Martin For South Dakota · House District 32 Father · Businessman · Community Advocate Strong Families.
+Skip to content Zac Martin For South Dakota About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate About Platform Affordability Family Court Your Ballot The Choice Tribal Relations Blog Get Involved Volunteer Donate Zac Martin For South Dakota · House District 32 Father · Businessman · Community Advocate Strong Families.
 Strong South Dakota.
 I'm running to serve the heart of Rapid City because the families of District 32 deserve a representative who reads every bill, listens to neighbors, and shows up.
 Eight years here.
@@ -32,6 +32,23 @@ K Yes Put forgotten money in a permanent trust.
 Spend the interest, never the principal.
 L Yes Changing the constitution should take 60 percent.
 Changing a law still takes a majority.
+Tribal relations In the room before January.
+Not after the votes.
+Rapid City's Native community lives in this district, from North Rapid to downtown.
+Here is what I will carry to Pierre for it, with the bill numbers, and how to grade me on it.
+Read the commitments 01 Meet first.
+File second.
+Before the 2027 session opens I sit down with tribal leaders and Rapid City's Native organizations.
+You set the agenda.
+02 A state and tribal consultation commission.
+HB 1190 died in committee in 2026 without a floor vote.
+I will co-sponsor it.
+03 A yearly report to tribes on the taxes collected on their land.
+The tribes cannot see what the state collects on their land.
+HB 1018 died in 2025 and SB 241 in 2026, both in committee.
+I will co-sponsor it a third time.
+04 ICWA, written into state law.
+State law that puts South Dakota ahead of the federal floor on the Indian Child Welfare Act, written with tribal child welfare leaders.
 The case for change Pierre has drifted.
 South Dakota families pay the bill.
 The 2026 session passed a general appropriations bill 50 to 17 in the House and 25 to 9 in the Senate.
@@ -50,8 +67,9 @@ Real reform, not vibes.
 What the record shows HB 1326 (2026) General bill.
 Passed 50-17 and 25-9.
 Passed House 50-17, Senate 25-9.
-SB 245 (2025) Property tax relief funded by a sales tax increase.
-Faces a citizen referendum.
+SB 245 (2026) Homeowner-only property tax relief, paid for with three-tenths of a point of sales tax from August 2027.
+Renters get none of it.
+The referendum petition fell short in June.
 SB 190 (2026) Rights of a Parent.
 Senate passed 19-15.
 House killed 30-35 on March 3, 2026.
@@ -104,20 +122,30 @@ Fit mothers and fit fathers stand equal under the law.
 Our signature legislative fight is comprehensive family court reform.
 Signature Fight See all 15 pillars The choice in District 32 Two seats.
 Two votes.
-Send the strongest team to Pierre.
+I am asking for one of them.
 South Dakota House districts elect two representatives, not one.
-In District 32 your November ballot will have four names.
-The strategic vote is to send the two candidates who will actually fight for the heart of Rapid City.
-The team for District 32 Zac Martin and Steve Duffy.
-Two votes for District 32 are stronger than one.
-Zac and Steve bring complementary experience to the House.
-Zac is the candidate of ambition: a fifteen-pillar platform, a real legislative record from two sessions in Pierre, and a governing framework ready to file in the 2027 session.
-Zac Martin (R, challenger) running on this site's agenda Steve Duffy (R, incumbent) already serving District 32 The contrast Nicole Uhre-Balk.
-A different direction for District 32.
-Her voting record in the 2025 and 2026 South Dakota legislative sessions tells the story.
-Consistent opposition to property rights, the Second Amendment, and fiscal restraint.
-District 32 voters get to decide whether that is the representation they want sent back to Pierre.
-2025 SDCFL 18.5% 2026 SDCFL 15.4% Source: SD Citizens for Liberty annual scorecard.
+In District 32 your November ballot will have four names, and you can mark two.
+Read the record before you mark either.
+One of your two votes Zac Martin.
+Every position in writing before I asked for a vote.
+Fifteen pillars, an eleven-bill family court reform stack, an affordability agenda for the people who rent, and seven commitments to Rapid City's Native community, all published on this site.
+Two sessions already in Pierre working bills.
+Grade me on what is written here.
+The fifteen pillars The affordability agenda Tribal relations The ballot guide The record on both incumbents Steve Duffy and Nicole Uhre-Balk.
+Read the journal, not the mailers.
+Every vote below is from the Legislature's own roll calls.
+I respect them both.
+This is how they voted.
+Duffy Uhre-Balk SB 2 (2025 special session) The $650 million, 1,500-bed men's prison in Minnehaha County.
+House 51 to 18, September 23, 2025.
+Duffy Yes Uhre-Balk Yes SB 172 (2025) Shared Parenting: fit parents start equal in custody cases.
+House failed 35 to 34, March 10, 2025.
+Duffy No Uhre-Balk No HB 1308 (2026) Zero the school levy on homes by raising the sales tax to 5 percent.
+House failed 24 to 42, February 24, 2026.
+Duffy Yes Uhre-Balk No SB 216 (2025) The only property tax relief that passed in 2025.
+House 53 to 16, March 10, 2025.
+Duffy Yes Uhre-Balk No One lens among many: South Dakota Citizens for Liberty rated Duffy 40.7 percent in 2025 and 16.0 percent in 2026, and Uhre-Balk 18.5 and 15.4.
+Roll calls: sdlegislature.gov.
 The District 32 ballot will also include Samuel Hare Sr.
 (Independent) .
 Hare has no legislative voting record.
@@ -157,7 +185,7 @@ This is a grassroots campaign for the heart of Rapid City, and that is exactly w
 Strong South Dakota.
 For South Dakota House District 32.
 The heart of Rapid City: downtown and North Rapid.
-Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Your 2026 Ballot Tribal Relations Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
 All rights reserved.
 Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .
 Paid for by Zac Martin for South Dakota.

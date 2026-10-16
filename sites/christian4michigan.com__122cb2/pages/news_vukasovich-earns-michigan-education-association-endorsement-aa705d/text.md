@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release September 23, 2026 Vukasovich Earns Michigan Education Association Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Michigan Education Association (MEA), representing educators and education professionals across Michigan.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release September 23, 2026 Vukasovich Earns Michigan Education Association Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Michigan Education Association (MEA), representing educators and education professionals across Michigan.
 Vukasovich Earns Michigan Education Association Endorsement MONROE, Mich. — Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Michigan Education Association (MEA), representing educators and education professionals across Michigan.
 “I am honored to have the support of the Michigan Education Association,” Vukasovich said.
 “I know firsthand that strong public schools are the foundation of strong communities and a strong economy.
@@ -11,6 +11,6 @@ I am proud to have the MEA standing with our campaign.” The endorsement adds t
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

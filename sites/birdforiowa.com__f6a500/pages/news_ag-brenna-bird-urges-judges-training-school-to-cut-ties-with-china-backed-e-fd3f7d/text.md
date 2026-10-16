@@ -1,0 +1,11 @@
+Donate Connect with Brenna News Donate News AG Brenna Bird urges Judges Training School to cut ties with China-backed environmental group October 8, 2026 Attorney General Brenna Bird led a coalition of 23 attorneys general in a letter to the National Judicial College asking it to end its relationship with ties to the Chinese government.
+The NJC is a premier judicial education institution currently working with the Environmental Law Institute and ELI's Climate Judiciary Project.
+NJC accepted a two-year, $215,000 grant in 2021 to support a year-long judicial-training program—called the Judicial Leaders in Climate Science (“JLCS”)—for the purpose of preparing judges to become “judicial leaders” on radical climate-related issues.
+The expectation is those trained judges could then serve as resources for other judges.
+ELI donated at least $100,000 to NJC in 2023, and as recently as January 2025, NJC advertised a climate-and-drought webinar bearing ELI’s logo and presented jointly with ELI.
+“Judges should rule based on an impartial interpretation of the law,” said Attorney General Bird.
+“But if they are trained by an organization that has been influenced by another government, and a hostile one at that, that impartiality is at risk.
+That’s not right for Iowans who believe they are getting a fair shake when they appear in front of a judge.
+The NJC needs to end their relationship with an organization with ties to China.” The states have requested that NJC suspended distributing and endorsing ELI and CJP materials and all related cooperative programming; preserved relevant records; directed ELI to cease representing that its programs or materials carry NJC’s approval pending any internal review; and start a process to ensure that the programming was not unduly or improperly influenced.
+Attorney General Bird was joined by the attorneys general of Alabama, Alaska, Arkansas, Florida, Georgia, Idaho, Indiana, Kentucky, Louisiana, Mississippi, Missouri, Montana, Nebraska, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Texas, Utah, West Virginia, and Wyoming.
+Read more here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

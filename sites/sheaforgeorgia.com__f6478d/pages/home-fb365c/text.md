@@ -24,5 +24,5 @@ This will not only help my race but also the races at the top of the ballot.
 We’ve shown the country what we can do together.
 Now let’s dig in and do it again!
 The fate of our democracy depends on it.
-Find an Event District 52 Brookhaven, Dunwoody, & Sandy Springs If you have questions about voting, please contact: info@sheaforgeorgia.com Home-Mobile-Photo Home-Banner Home-Buttons Home-Running Home-Blocks Home-Map Get Updates Contact Us Paid for by Shea Roberts for Georgia Campaign Address: P.O Box 28571 Atlanta, GA 30358 Capitol Office Address: 608-B Coverdell Legislative Office Bldg.
+District 52 Brookhaven, Dunwoody, & Sandy Springs If you have questions about voting, please contact: info@sheaforgeorgia.com Home-Mobile-Photo Home-Banner Home-Buttons Home-Running Home-Blocks Home-Map Get Updates Contact Us Paid for by Shea Roberts for Georgia Campaign Address: P.O Box 28571 Atlanta, GA 30358 Capitol Office Address: 608-B Coverdell Legislative Office Bldg.
 Atlanta, GA 30334 (404) 656-0298 shea@sheaforgeorgia.com | shea.roberts@house.ga.gov

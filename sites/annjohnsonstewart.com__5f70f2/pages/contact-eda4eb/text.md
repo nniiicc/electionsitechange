@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Contact Please reach out with any questions or comments!
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Contact Please reach out with any questions or comments!
 I’d love to hear from you, and will respond as soon as I can.
 Email: info@annjohnsonstewart.com Physical address: PO Box 288, Wayzata, MN 55391 Join our conversation!
 Ann is a bridge builder.

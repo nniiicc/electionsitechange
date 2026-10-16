@@ -16,12 +16,20 @@
 "href": "https://www.leticiaforcongress.com/events"
 },
 {
+"text": "Media",
+"href": "https://www.leticiaforcongress.com/media"
+},
+{
 "text": "Priorities",
 "href": "https://www.leticiaforcongress.com/priorities"
 },
 {
 "text": "Privacy Policy",
 "href": "https://www.leticiaforcongress.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/texasdemocrats/event/1051086/"
 },
 {
 "text": "RUN! website builder",
@@ -45,6 +53,10 @@
 },
 {
 "text": "info@leticiaforcongress.com",
-"href": "mailto:leticiagutierrezcd9@gmail.com"
+"href": "mailto:info@leticiaforcongress.com"
+},
+{
+"text": "press@leticiaforcongress.com",
+"href": "mailto:press@leticiaforcongress.com"
 }
 ]

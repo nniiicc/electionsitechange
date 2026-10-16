@@ -1,4 +1,5 @@
-Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News Craig Press: Rep.
+Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News Pueblo Chieftain: Congresswoman Lauren Boebert talks energy, bills and birds in Pueblo 5.12.2023 Congresswoman Lauren Boebert (R-Silt) visited the biggest city in Colorado’s 3rd District Tuesday, making stops at the Pueblo Community Health Center, the San Isabel Electric Association and the Nature & Wildlife Discovery Center.
+Read More Craig Press: Rep.
 Lauren Boebert: I helped fix earmarks.
 Now I’m fighting for new Colorado infrastructure projects including some in Moffat County 4.28.2023 For decades, Congress used earmarks to buy votes for midnight, trillion-dollar spending bills and other wasteful spending.
 Taxpayer dollars were wasted on things like the $223 million Bridge to Nowhere and the $50 million indoor rainforest.
@@ -19,14 +20,11 @@ Lauren Boebert led a minority effort to block U.S.
 Rep.
 Kevin McCarthy, R-California, from becoming speaker of the House — a role second only to the vice presidency in succession to the presidency.
 Read More The Journal: Boebert to serve on U.S.
-House oversight committee 1.20.2023 Congresswoman says she will advocate for ‘transparency and reform’ Read More The Aspen Times Op-Ed: Oh, we had a plan, and it worked for the American people 1.11.2023 Everyone knows Congress is broken.
-Read More PREV.
+House oversight committee 1.20.2023 Congresswoman says she will advocate for ‘transparency and reform’ Read More PREV.
 PAGE 1 2 3 4 5 6 7 8 9 10 11 12 &mldr; 21 NEXT PAGE Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I would like to receive text messages from Lauren Boebert for Congress By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
 No consent is required to buy.
 Msg&data rates may apply.
-Text JOIN to 80306 to opt in.
-Reply HELP for help or STOP to opt out at any time.
 SMS information is not rented, sold, or shared.
 Donate Facebook Twitter Instagram Youtube Home About Lauren Accomplishments Endorsements News Media Get Involved Pledge store Contact Lauren Boebert for Congress PO Box 2026 Elizabeth, CO 80107 Paid for By Lauren Boebert for Congress.
 Approved by Lauren Boebert. copyright Lauren Boebert for Congress, All Rights Reserved. | Privacy Policy By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Lauren for CO.

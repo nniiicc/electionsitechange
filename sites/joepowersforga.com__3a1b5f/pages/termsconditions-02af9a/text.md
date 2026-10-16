@@ -1,4 +1,4 @@
-Home Meet Joe Issues Join Joe Terms & Conditions Terms & Conditions Last updated: September 18, 2026 These Terms & Conditions apply to Joseph A.
+Home Meet Joe Issues Join Joe DONATE NOW Terms & Conditions Terms & Conditions Last updated: September 18, 2026 These Terms & Conditions apply to Joseph A.
 Powers, Georgia State House Representative 155 Candidate ("the Campaign").
 1.
 Acceptance of these Terms By accessing or using this website, you agree to be bound by these Terms & Conditions and our Privacy Policy.

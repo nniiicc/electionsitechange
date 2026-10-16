@@ -1,0 +1,10 @@
+Home About Teresa Mission Media DONATE Back to Media & News In the News Teresa Fox Joins Johnny Manson on Local Matters Teresa Fox joins Johnny Manson on Local Matters for a wide-ranging conversation about Washington’s 6th Congressional District, the issues facing our communities, and why she is running for Congress.
+August 14, 2026 Campaign Staff Teresa Fox on Local Matters Teresa Fox joined Johnny Manson on Local Matters for a wide-ranging radio interview about Washington’s 6th Congressional District, the challenges facing our communities, and the priorities driving her campaign for Congress.
+The conversation gave Teresa an opportunity to speak directly about the issues affecting working families across the district and the kind of representation she believes Washington’s 6th deserves.
+During the interview, Teresa discussed the concerns she is hearing from voters across the district and why she believes Washington needs representation that is accessible, accountable, and focused on the people who live and work here.
+The conversation also covered the issues shaping communities throughout the 6th District and Teresa’s approach to bringing those concerns directly to Congress.
+Watch the full interview on Rumble: Teresa Fox on Local Matters with Johnny Manson Local Matters airs on Timber Country and can also be found through GoGraysHarbor.com .
+Teresa will continue taking her message directly to voters throughout the 6th District, meeting with communities, attending local events, and speaking about the issues affecting families, workers, veterans, businesses, and neighborhoods throughout western Washington.
+Follow the campaign for additional interviews, candidate updates, upcoming events, and opportunities to get involved.
+Learn more: FoxForWA.com Paid for by Fox for WA (R), PO Box 4026, Bremerton, WA 98312 Back to all articles Show Your Support Get your official Fox for Congress yard sign and put it proudly on display.
+Order a Yard Sign Home About Teresa Mission Media DONATE via anedot DONATE via winred Fox for WA (R) PO Box 4026 Bremerton, WA 98312 info@foxforwa.com Paid for by Fox for WA (R) - PO Box 4026 Bremerton, WA 98312

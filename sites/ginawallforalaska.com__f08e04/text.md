@@ -44,7 +44,7 @@ I’m proud to endorse Gina Wall for Alaska State House in District 24.” Erica
 She is a very caring person, and is in this race for the kids and helping them be successful!
 Gina is a very family oriented person!
 You will find her at many ball games and activities cheering and supporting her kids in their life’s journey!
-She is all about family, and knows the blessings and benefits of having this valuable support at home!” Kevin Fulmer Retired ASD Educator “When I think about the qualities that matter in public service, I think about courage, the willingness to face difficult challenges.
+She is all about family, and knows the blessings and benefits of having this valuable support at home!” Kevin Fullmer Retired ASD Educator “When I think about the qualities that matter in public service, I think about courage, the willingness to face difficult challenges.
 I think about conviction, standing firmly by the principles you believe in.
 And I think about confidence, the ability to move forward and work for the people you represent.
 Those are the qualities I see in Gina Wall.

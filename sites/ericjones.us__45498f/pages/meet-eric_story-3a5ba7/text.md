@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric’s Story “I lived the American Dream” I grew up poor in a small town in rural Maine, in a house where my father couldn't get himself out of a chair and my mother worked 60-hour weeks to keep us fed.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Eric’s Story “I lived the American Dream” I grew up poor in a small town in rural Maine, in a house where my father couldn't get himself out of a chair and my mother worked 60-hour weeks to keep us fed.
 She told me it was going to get better.
 That I would build a better life than the one we had, and that this country would give me the chance to.
 She was right.

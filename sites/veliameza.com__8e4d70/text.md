@@ -8,10 +8,7 @@ I've developed collaborative relationships with my fellow justices, our staff at
 As Justice on this Court, I am already immersed in its day-to-day workings and culture.
 I am best positioned to guide it forward.
 CONTRIBUTE TO JUSTICE MEZA TODAY!
-Don't Miss the Democratic Primary Election!
-Elections matter and have consequences.
-Make a plan to vote and make your voice heard.
-# # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Sign Up to Receive News & Updates SUBSCRIBE Copyright © # Justice Velia J.
+Sign Up to Receive News & Updates SUBSCRIBE Copyright © # Justice Velia J.
 Meza Campaign- All Rights Reserved.
 Pol.
 Ad. paid by Justice Velia J.

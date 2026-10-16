@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric as a Business Leader “What I Built” I grew up poor in rural Maine, in a house my family kept afloat on food stamps, Medicaid, and my father's disability checks.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Eric as a Business Leader “What I Built” I grew up poor in rural Maine, in a house my family kept afloat on food stamps, Medicaid, and my father's disability checks.
 Big Pharma, the insurance industry, and poor rural healthcare combined to get my father addicted to opioids, and my family buried in medical debt.
 I got out on scholarships.
 I ended up in finance for one reason.

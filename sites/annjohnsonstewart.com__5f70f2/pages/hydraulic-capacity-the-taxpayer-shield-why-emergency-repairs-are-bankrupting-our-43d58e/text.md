@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Hydraulic Capacity & The Taxpayer Shield: Why “Emergency Repairs” are Bankrupting Our Towns When a storm hits and your basement floods, or a local road washes out, the conversation usually turns to the weather.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Hydraulic Capacity & The Taxpayer Shield: Why “Emergency Repairs” are Bankrupting Our Towns When a storm hits and your basement floods, or a local road washes out, the conversation usually turns to the weather.
 But as an engineer, I look at a different set of numbers: Hydraulic Capacity and Life-Cycle Costing.
 The truth is that Minnesota’s municipalities are currently trapped in a cycle of “Emergency Thinking.” We are spending millions of taxpayer dollars to patch failures that could have been prevented with better engineering.
 It’s time to stop chasing the storm and start building the shield.

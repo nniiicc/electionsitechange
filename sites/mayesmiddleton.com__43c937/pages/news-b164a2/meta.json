@@ -1,9 +1,10 @@
 {
  "description": "Get the latest news and updates directly from the Mayes Middleton campaign.",
  "final_url": "https://mayesmiddleton.com/news/",
- "fingerprint": "ff07ae281970c7ad7cb84427e0c10a630b5999c6",
+ "fingerprint": "d956b30ff02c57f613be6b442c08c95134b35873",
  "format": 3,
  "paid_for_by": "paid for by Mayes Middleton Campaign",
+ "rendered": false,
  "title": "Campaign Updates & News | Mayes Middleton For Texas Attorney General",
  "years_mentioned": [
   "2025",

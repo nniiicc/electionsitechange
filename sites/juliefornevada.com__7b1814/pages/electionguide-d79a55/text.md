@@ -1,4 +1,4 @@
-top of page Home Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
+top of page Home Vote Locations Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
 2026 VOTING INFORMATION DON'T DELAY, VOTE TODAY!
 IF YOU HAVE ANY QUESTION ON HOW TO SAFELY AND SECURELY VOTE PLEASE REACH OUT TO ME.
 I AM ALWAYS HERE TO HELP!

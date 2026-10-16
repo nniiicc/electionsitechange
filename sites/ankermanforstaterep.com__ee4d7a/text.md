@@ -1,6 +1,9 @@
 0 Skip to Content Chantelle Ankerman Candidate for Connecticut State Representative Home Meet Chantelle Open Menu Close Menu Chantelle Ankerman Candidate for Connecticut State Representative Home Meet Chantelle Open Menu Close Menu Home Meet Chantelle Chantelle Ankerman Putting Families First in Windsor and Windsor Locks Lifelong Connecticut resident, attorney, and community advocate.
 Fighting for affordability, accountability, and practical solutions that strengthen Windsor and Windsor Locks.
-Meet Chantelle Rooted in Windsor.
+Voting Information ELECTION DAY IS TUESDAY, NOVEMBER 3RD FROM 6:00 AM TO 8:00 PM!
+Early Voting Dates.
+October 19-26, 28: 10:00 AM - 6:00 PM October 27 & 29: 8:00 AM - 8:00 PM October 30-November 1: 10:00 AM - 6:00 PM Windsor Early Voting Windsor Town Hall; Ludlow Room 275 Broad St Windsor, CT Windsor Locks Early Voting Registrar of Voters 50 Church St Windsor Locks, CT Election Day Information Windsor Poll Sites District 4: Windsor Town Hall 275 Broad St Windsor, CT District 6: Poquonock School 170 Poquonock Ave Windsor, CT District 5: Oliver Elementary School 730 Kennedy Rd Windsor, CT District 7: Rainbow Fire House 750 Rainbow Rd Windsor, CT Click here to vote Absentee!
+Windsor Locks Poll Sites District 2: Windsor Locks High School 58 South Elm St Windsor Locks, CT Meet Chantelle Rooted in Windsor.
 Focused on the Future.
 Chantelle is a mom, attorney, and longtime Windsor resident running to represent Windsor and Windsor Locks in the Connecticut House of Representatives.
 A lifelong Connecticut resident, Chantelle has called Windsor home for the past decade.

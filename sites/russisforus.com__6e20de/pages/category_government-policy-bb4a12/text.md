@@ -5,7 +5,7 @@ As he speaks, you can easily see that the things Liberal Progressives have been�
 For nearly 3 weeks I have been looking for a descent… Behind the Scenes , Electoral Education , Government Policy What if?
 April 1, 2022 0 Comments What if #RussIsForUS could help us get the Federal Government to Operate within the Constitution?
 An "established" Republican recently called me a nut.
-This implies… Table of Contents Recent Posts Uncategorized Andrea Salinas Congressional Record October 1, 2026 Uncategorized, Civic Participation, Electoral Education, Government Policy, Political Analysis Willamette Week 9/29/26 September 29, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+This implies… Table of Contents Recent Posts Uncategorized Money Wins October 9, 2026 Uncategorized Andrea Salinas Congressional Record October 1, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.
 Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.

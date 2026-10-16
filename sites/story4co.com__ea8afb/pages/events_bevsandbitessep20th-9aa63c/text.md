@@ -2,4 +2,4 @@ About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CON
 I hope you’ll join us for some beverages and bites on Friday, September 6th from 4:00-6:30PM.
 RSVP Here for location details!
 Earlier Event: October 19 Canvass in Littleton Later Event: October 23 Team Tammy Canvass with Rep.
-Mabrey Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Mabrey Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

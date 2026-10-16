@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues:Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy Healthcare Meet Cindy Dr.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety Meet Cindy Dr.
 Cindy Ledbetter, Psychiatric Nurse Practitioner Cindy has her doctorate in nursing specializing in mental health.
 She has over 30 years of medical, business, and administrative experience.
 She has managed both for-profit and not-for-profit organizations, has worked in retail management, and has had ownership of a small manufacturing firm and a restaurant.
@@ -9,8 +9,8 @@ Her work as a team leader led to Vanderburgh and Warrick County first responders
 Cindy also traveled to San Antonio, Texas, in 2016 as part of a research team to decrease the mental health population of the Vanderburgh County Jail.
 Her jail diversion efforts led to the development of the local Evansville Mental Health Commission.
 Cindy was elected to the Warrick County Council in 2018 and the Indiana House of Representatives in 2020.
-With Senator Jim Tomes -CAPNI GOP State Convention Indiana General Assembly 2021 House District 75 Top of the Statehouse With Lt.
-Governor Suzanne Crouch On a personal level, Cindy grew up very poor and began supporting herself at the age of 15.
+Top of the Statehouse With Lt.
+Governor Suzanne Crouch SEA26 With Senator Tomes Community Benefit 100 Gals 2026 GOP State Convention House of Representatives On a personal level, Cindy grew up very poor and began supporting herself at the age of 15.
 She put herself through college as a single parent and has benefited from government services such as food stamps.
 Pell and state grants helped to pay for her associate’s degree in nursing.
 A government grant program even cosigned the loan on the first home Cindy bought.

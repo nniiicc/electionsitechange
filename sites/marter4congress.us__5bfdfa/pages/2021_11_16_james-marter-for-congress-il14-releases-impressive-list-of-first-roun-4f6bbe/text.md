@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 16 Nov Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 16 Nov Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
 Marter is the twice elected, current Chairman of the Kendall County GOP, in the heart of the new IL14.
 As the list shows, he has a strong grassroots network in this district in which he lives, as well as nationally known issue experts, lending their support and expertise.
 “This list shows James is well positioned to replace Lauren Underwood and he’ll be able to do the job once he gets there,” a campaign spokesperson said.

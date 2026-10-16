@@ -12,7 +12,7 @@ I'm running for State Senate because too many Georgians are falling behind—and
 Families are working harder but earning less.
 The cost of groceries, housing, and health care keeps climbing.
 And while Georgia is often praised as the “best state for business,” that success hasn’t translated into security for the people who actually live and work here.
-Meet Edward Georgia State Senate District 12 Edward's Plan Georgia can do better than the status quo.
+Meet Edward Georgia State Senate District 12 Edward's Plan Priorities for a Better Georgia Georgia can do better than the status quo.
 Here’s what Edward will fight for in the State Senate— practical, proven actions that restore fairness and expand opportunity.
 Economy Agriculture Nutrition Healthcare Education Housing Government Integrity Read More Volunteer to help elect Edward Brown for Georgia State Senate.
 Join Us Support a People-Powered Campaign Chip In to Help Us Win This campaign isn’t backed by the powerful—it’s backed by Georgians who want a government that works for working families.

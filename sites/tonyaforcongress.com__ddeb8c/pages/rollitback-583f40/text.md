@@ -1,5 +1,15 @@
 Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY CONTACT US: ROLL IT BACK DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
-House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 7, 2026 – The Danger Within Isn’t Just at the Top People are struggling to make ends meet.
+House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 15, 2026 – Inflation Is A Bad Word Inflation = The continual increase in the general price of goods and services which reduces purchasing power. = The economy is such that it’s harder for People to make ends meet and harder to afford basic necessities.
+Inflation is running out of control.
+Gas prices have been too high for too long.
+People have been struggling for quite some time.
+It’s not getting better.
+Both the Republicans and Democrats of the broken 2-Party Monopoly are responsible.
+My current District 9 Congresswoman, Houchin, has been ineffective for the people in our district.
+We don’t just need change in D.C., we need major reform.
+The best option on the ballot with solutions is me.
+In addition, if elected to Congress, I will vote to end the illegal war in Iran immediately.
+October 7, 2026 – The Danger Within Isn’t Just at the Top People are struggling to make ends meet.
 I know many who have voted for DJT in the past who are now either disappointed, miffed, embarrassed, concerned about the state of our Union, or all of the above.
 In Washington D.C., so many representatives in his own party look the other way because they are afraid of his temperament.
 Even my own Congresswoman, Rep.

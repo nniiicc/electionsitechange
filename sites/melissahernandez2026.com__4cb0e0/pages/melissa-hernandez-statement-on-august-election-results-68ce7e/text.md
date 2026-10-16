@@ -11,7 +11,7 @@ Game on!” To learn more about Melissa Hernandez and her campaign, visit meliss
 The district has roughly 429,000 registered voters; 50% Democrats, 27% with no party preference, and 18% Republicans.
 CA-14 residents are approximately 40% Asian, 24% Latino, 23% non-Hispanic White, and 5% Black, with the remainder multiracial, Pacific Islander, or Native American.
 There are two upcoming general elections, a special general election on August 18, 2026, to complete the term vacated by former Rep.
-Eric Swalwell (running through January 2027), and the regular general election on November 3, 2026, for the full term beginning January 2027. ← Back To News In Other News Press Release August 13, 2026 Fmr.
-San Francisco Mayor and Assembly Speaker Willie Brown Endorses Melissa Hernandez for Congress Read Press Release Press Release August 12, 2026 FEC Complaint Accuses Aisha Wahab of Laundering Corporate Money Into Her Campaign for Congress Read Press Release Stay Up To Date Follow us on the campaign trail!
+Eric Swalwell (running through January 2027), and the regular general election on November 3, 2026, for the full term beginning January 2027. ← Back To News In Other News Press Release October 15, 2026 Melissa Hernandez Statement on Attempted Attack Targeting Hindu Temple in Aurora, Illinois Read Press Release Press Release August 13, 2026 Fmr.
+San Francisco Mayor and Assembly Speaker Willie Brown Endorses Melissa Hernandez for Congress Read Press Release Stay Up To Date Follow us on the campaign trail!
 Email Subscribe Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follow us!
 Privacy Policy Contact Accessibility Statement Media Paid for by Melissa Hernandez for Congress 6200 Village Pkwy, Suite 200 Dublin, CA 94568 Melissa Hernandez for Congress © #

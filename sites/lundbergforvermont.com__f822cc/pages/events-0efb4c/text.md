@@ -1,4 +1,6 @@
-0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Upcoming Events Oct 15 Listening Session Thursday, October 15, 2026 12:00 PM 1:00 PM Rockingham Free Public Library (map) Google Calendar ICS Representative Michelle Bos-Lun and Democratic nominee Chris Lundberg will host a Listening Session on Thursday, Oct.
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Upcoming Events Nov 3 Vermont General Election Tuesday, November 3, 2026 8:00 AM 7:00 PM Google Calendar ICS The general election is on November 3, 2026.
+The hours listed here may not apply in your town.
+Windham-3 voters, visit your town’s website for hours, locations, and details: Rockingham (includes Bellows Falls and Saxtons River) Westminster Brookline View Event → Oct 15 Listening Session Thursday, October 15, 2026 12:00 PM 1:00 PM Rockingham Free Public Library (map) Google Calendar ICS Representative Michelle Bos-Lun and Democratic nominee Chris Lundberg will host a Listening Session on Thursday, Oct.
 15 at noon to listen to concerns from residents of the three towns they hope to serve together as state representatives in the next biennium.
 The Windham-3 district includes the towns of Westminster, Rockingham, and Brookline.
 The new legislative session will begin in January.
@@ -7,9 +9,7 @@ The session will be held in the Main Floor meeting area of the Rockingham Free P
 All are welcome to come ask questions and raise concerns or they can come listen to what others share” Representative Bos-Lun said.
 Read more about this event in the Brattleboro Reformer Questions?
 Contact Representative Bos-Lun .
-View Event → Nov 3 Vermont General Election Tuesday, November 3, 2026 8:00 AM 7:00 PM Google Calendar ICS The general election is on November 3, 2026.
-The hours listed here may not apply in your town.
-Windham-3 voters, visit your town’s website for hours, locations, and details: Rockingham (includes Bellows Falls and Saxtons River) Westminster Brookline View Event → Oct 1 Early Childhood Candidate Forum (Bellows Falls) Thursday, October 1, 2026 5:00 PM 6:30 PM Google Calendar ICS Rockingham Free Public Library, 65 Westminster St., Bellows Falls, VT Chris Lundberg will participate in this free in-person regional candidate forum hosted by Building Bright Futures.
+View Event → Oct 1 Early Childhood Candidate Forum (Bellows Falls) Thursday, October 1, 2026 5:00 PM 6:30 PM Google Calendar ICS Rockingham Free Public Library, 65 Westminster St., Bellows Falls, VT Chris Lundberg will participate in this free in-person regional candidate forum hosted by Building Bright Futures.
 All are welcome.
 These forums are an opportunity for families, the early childhood workforce, and community members to hear from local candidates for Vermont’s House and Senate about where they stand on issues related to children and families.
 Candidates will be asked about issues that matter to Vermont families and communities, including questions about economic security, housing, early childhood workforce shortages, and access to prekindergarten programs.

@@ -1,4 +1,4 @@
-top of page Home Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
+top of page Home Vote Locations Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
 Events Julie is active in the community and would love to meet each of you, answer your questions and buy you a coffee!
 No events at the moment By selecting Sign Up you agree to receive automated text messages related to the campaign.
 You may Opt Out at anytime by replying STOP to any received message.

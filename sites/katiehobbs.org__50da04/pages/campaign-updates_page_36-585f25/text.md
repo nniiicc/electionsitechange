@@ -1,4 +1,6 @@
-Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · Press Releases Gov.
+Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · Press Releases Katie Hobbs Opens Petition To Get on 2026 Ballot August 18, 2025 PHOENIX - Today, Gov.
+Katie Hobbs filed her statement of interest to begin collecting petition signatures to secure ballot access for her 2026 re-election campaign, with the campaign highlighting her record of delivering results for Arizona families while tackling the state's most pressing challenges.
+Read More Campaign Updates · Press Releases Gov.
 Katie Hobbs’ Strong Record of Protecting Reproductive Freedom Earns Her EMILYs List Endorsement July 23, 2025 PHOENIX - Today, Gov.
 Katie Hobbs is proud to announce that she has earned the endorsement of EMILYs List, the nation’s largest resource for electing women in politics, because of her strong record of protecting reproductive freedom.
 “Gov.
@@ -12,9 +14,6 @@ Katie Hobbs Earns the Endorsement of Arizona AFL-CIO July 16, 2025 PHOENIX - Tod
 Katie Hobbs is proud to announce the first endorsement of her campaign: the Arizona AFL-CIO, which represents over 185,000 union members and over 200 union affiliates in Arizona, because of her strong record of championing working families and creating good-paying jobs.
 “Gov.
 Hobbs has...
-Read More Campaign Updates · Press Releases Governor Katie Hobbs Announces Senior Campaign Team For 2026 Re-Election Bid April 21, 2025 PHOENIX - Today, Arizona Gov.
-Katie Hobbs announced her senior campaign team for the 2026 gubernatorial election, building on strong early momentum, record-breaking fundraising, and critical grassroots support across Arizona.
-“As governor, I’m proud of my work delivering real solutions for hardworking Arizona families – cutting everyday costs,...
 Read More 1 … 34 35 36 37 First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

@@ -1,4 +1,4 @@
-top of page VOLUNTEER MENU Close Home About Get Involved Blog All Posts Search Why I’m Running.
+top of page VOLUNTEER MENU Close Home About Get Involved Blog Issues All Posts Search Why I’m Running.
 And Why This Moment Matters.
 Carolann Reid May 25 2 min read Over the past few weeks, I’ve spent countless hours talking with residents across the 21 st Senate District.
 I’ve listened to parents worried about rising costs, seniors trying to stay in the communities they helped build, students searching for opportunity, and small business owners working hard to keep up in a changing economy.

@@ -1,0 +1,9 @@
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE In the press In the press Partisan gerrymandering must be replaced by independent commissions composed of citizens, not lawmakers.
+Elections should belong to the people - not to whichever party controls the statehouse. - Steve Woll In the press Elections should belong to the people - not to whichever party controls the statehouse. - Steve Woll From The Blog WHRO Candidate Questionnaire WHRO and Virginia’s public media stations asked people across Hampton Roads what they wanted to know from the candidates for Congress, then turned those questions into a questionnaire for every candidate in the race.
+I was glad to answer.
+These are your questions, and my answers are straight from me, in my own words, on the issues that matter most to our district.
+I hope you’ll take a look. https://www.whro.org/elections/2026-09-17/kiggans-and-luria-rematch-where-the-candidat Questionnaires #ago 1 min read WAVY Candidate Questionnaire Navy veteran.
+Scientist.
+Independent.
+I answered WAVY 10’s questions on the issues facing Hampton Roads.
+Here’s where I stand. https://www.wavy.com/news/politics/candidates/candidate-profile-stephen-c-woll-3rd-district-virginia-house-of-representatives/ Questionnaires #ago 1 min read Follow Along @stevewollva ​ ​ Load more ABOUT Issues Press Get Involved FAQs ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved FAQs STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs ABOUT Issues Press Get Involved FAQs bottom of page

@@ -8,7 +8,7 @@ ANNOUNCEMENT Debate 18th Essex District State Representative Debate Tuesday, Oct
 This is an important opportunity to hear directly from both candidates about our respective priorities, policy positions, and visions for the future of the 18th Essex District.
 I'm running because I believe my neighbors deserve a strong voice on Beacon Hill.
 “Our state government has an ethical duty to meet the moment with fire.
-It must uplift the working class, protect the rights of immigrants, and actively resist all efforts to undermine the Commonwealth's autonomy." Read full statement Read below for some of our top priorities Clean Energy and Environment Affordability Healthcare Education Equity and Accessibility Show Your Support with a Yard Sign!
+It must uplift the working class, protect the rights of immigrants, and actively resist all efforts to undermine the Commonwealth's autonomy." Read full statement My Top Priorities Clean Energy and Environment Affordability Healthcare Education Equity and Accessibility Show Your Support with a Yard Sign!
 A yard sign is one of the easiest and most effective ways to support the campaign.
 Let us know if you'd like one, and we'll be in touch with pickup or delivery details.
 Get a Yard Sign Check out some of our Voter Resources Check if you're registered to vote Register to vote Request a mail-in ballot Voting locations Democratic Candidate for State Representative murray4ma@gmail.com PO Box 5141, Andover, Massachusetts 01810 Powered by RUN! website builder Corporate, LLC and LLP contributions are prohibited by state law.

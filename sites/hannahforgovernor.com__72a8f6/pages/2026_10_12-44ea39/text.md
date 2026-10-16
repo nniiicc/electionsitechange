@@ -16,7 +16,10 @@ With bold leadership and a deep love for this state, Hannah is ready to deliver 
 #TeamPingree Take Action Today Maine people are already stepping up to build this grassroots campaign, pitching in however they can, early and with heart.
 This work is powered by you, and together we are laying the groundwork to win.
 Join us, and be part of building a bright future for our great state.
-Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 12, 2026 Five Questions with Hannah Pingree This column, written by Joyce Vance, was originally published on Substack.
+Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 15, 2026 Opinion: Why Hannah Pingree is the leader Maine needs This guest column, written by Charlie Dingman, was originally published in the Bangor Daily News.
+Charlie Dingman is the chair of the Maine Democratic Party and an attorney based in Augusta.
+He lives in Leeds It will surprise no one that, as chair of the Maine Democratic Party, I enthusiastically support our Democratic nominee […] ...
+Read More October 12, 2026 Five Questions with Hannah Pingree This column, written by Joyce Vance, was originally published on Substack.
 Read it here.
 The first time I met Hannah Pingree was at a local parade in Freeport, Maine.
 My daughter was working there at the time.
@@ -33,10 +36,6 @@ This guest column, written by Eloise Melcher, was originally published in Centra
 When I turned 30, suddenly all of my friends were talking about buying houses.
 Or, more specifically, how hard it is to buy a house.
 Looking at houses on Zillow in one’s spare time is no longer a fun game; it’s just...
-Read More October 5, 2026 Letter: Why Hannah Pingree has my vote This guest column, written by Rep.
-Bill Bridgeo, was originally published in the Portland Press Herald.
-I am in full support of Hannah Pingree for governor of Maine.
-I’ve known and admired Hannah for many years; I believe that she has the right combination of principled leadership skills, compassion, creativity and energy to enable our...
 Read More Spread The Word Let's Go!
 Sign Up For Updates First Name Cell Phone Email Zipcode Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
 Message & data rates may apply.

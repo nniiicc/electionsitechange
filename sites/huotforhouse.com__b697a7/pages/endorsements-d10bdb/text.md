@@ -34,6 +34,10 @@ Minnesota Farmers Union Minnesota Farmers Union works to protect and enhance the
 MFU is a nonprofit membership-based organization.
 Membership is open to everyone.
 Minnesota Nurses Association The Minnesota Nurses Association is a labor union representing 22,000 registered nurses in the U.S. state of Minnesota.
+MMA MEDPAC MMA MEDPAC is an integral part of the MMA’s advocacy efforts.
+As a non-profit professional association representing physicians, residents, and medical students, the MMA ensures that physicians are helping to shape the decisions that affect your patients, your practice and your profession.
+Protect Minnesota Orange Star Ranking The Protect Minnesota Advocacy Fund supports the mission of Protect Minnesota to prevent gun violence through legislative action and community education.
+John has gotten an A rating for their Orange Star Ranking.
 Minnesota Farm Bureau Federation The mission of Minnesota Farm Bureau Federation (MFBF) is to ensure Minnesota’s agricultural vitality.
 By engaging members, advocating at the grassroots level and spreading awareness about agriculture, they support farmers and ranchers.
 Moms Demand Action Moms Demand Action is part of Everytown for Gun Safety, and is the nation’s largest grassroots volunteer network working to end gun violence in America.

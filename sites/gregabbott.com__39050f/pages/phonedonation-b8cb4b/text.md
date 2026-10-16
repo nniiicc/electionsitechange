@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Contribute Via Mail To contribute via phone, please call our campaign office and say you’d like to make a contribution over the phone.
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Contribute Via Mail To contribute via phone, please call our campaign office and say you’d like to make a contribution over the phone.
 Phone Number : 512-477-2002 Hours : Monday – Friday 9AM – 5PM CT We appreciate your support!
 Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
 All rights reserved.

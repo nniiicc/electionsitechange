@@ -32,7 +32,13 @@ Supporting community traditions Working closely with community leaders and volun
 Bringing public art to downtown She raised funding for the “Take My Hand” Harriet Tubman mural , a public mosaic art installation on Race Street and the downtown lighting project.
 History, culture and learning A Smithsonian experience, close to home In 2018, Katie brought the Smithsonian’s traveling Water/Ways exhibition to downtown Cambridge and Dorchester County through Maryland Museum on Main Street, in partnership with Dorchester Tourism, Dorchester Center for the Arts and a dozen community organizations.
 Every third grader in Dorchester County toured the pop up museum.
-For me, the Eastern Shore is not just a district on a map.
-It is home.
-Let’s Build What Comes Next JOIN TEAM KATIE CONTRIBUTE Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
+Let’s Build What Comes Next JOIN TEAM KATIE CONTRIBUTE Katie’s first campaign mailer Good for the Shore.
+Katie grew up in Trappe, went to school in Cambridge, and is raising her daughter here on the Shore.
+For twenty years, she has helped communities turn local priorities into funded projects and real results.
+Take a look at her first mailer and her plans for lower costs, stronger schools, and more doctors closer to home.
+Choose which side of Katie’s first campaign mailer to read Front Back 1 of 2 2 of 2 Choose Front or Back to turn the mailer.
+Tap the page to open the full size image.
+Enlarge mailer Close enlarged view Use Front or Back above to switch sides.
+Open the image to zoom in further.
+Download the complete mailer ↓ PDF · Both sides · Ready to read and share Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel, Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

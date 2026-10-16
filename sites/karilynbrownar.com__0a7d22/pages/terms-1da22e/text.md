@@ -9,6 +9,6 @@ Wireless carriers are not liable for delayed or undelivered messages.
 STOP Command To stop receiving messages, text STOP at any time.
 You will receive a confirmation text confirming you have been unsubscribed.
 After this, you will no longer receive messages from the Program unless you opt back in.
-HELP Command For help, text HELP or contact us at karilynbrownforar.com.
+HELP Command For help, text HELP or contact us at [email protected] .
 You will receive instructions on how to use the service.
 Donate Paid for by Karilyn Brown for State Representative

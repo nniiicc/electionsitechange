@@ -2,4 +2,4 @@ Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Pl
 As a candidate for Congress in South Carolina’s 2nd District, he outlines a platform focused on addressing real community needs, while emphasizing the importance of faith, compassion, and collective responsibility.
 This message goes beyond politics, highlighting the role of leadership in uplifting communities, strengthening families, and creating opportunities for all.
 Through connection and purpose, this campaign is about building a future that reflects the values of the people it serves.
-Previous No Kings Rally You Might Also Like No Kings Rally Speaking at Mount Anna Baptist Church Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Previous No Kings Rally You Might Also Like Speaking at Mount Anna Baptist Church No Kings Rally Meet Zyon Khalifa Platform Volunteer Privacy Policy

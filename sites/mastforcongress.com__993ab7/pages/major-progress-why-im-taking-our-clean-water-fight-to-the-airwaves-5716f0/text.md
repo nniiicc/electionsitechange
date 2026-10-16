@@ -25,9 +25,7 @@ As your representative in Congress, I’ll keep fighting until we achieve zero d
 Watch the New Ad Thank you for standing with me in this fight.
 Let’s keep making progress!
 Related Posts: Thank you, President Trump!
-August 1, 2025 56 Days.
-One Mission.
-September 7, 2026 I love America and everything it stands for February 17, 2022 Looking Ahead January 22, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+August 1, 2025 250 Years of Freedom June 26, 2026 Service Before Self January 16, 2021 Another Slap In The Face For Veterans May 2, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

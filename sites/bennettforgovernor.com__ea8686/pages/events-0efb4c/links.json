@@ -17,10 +17,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=2074+medway+road+medway%2C+maine%2C+04460+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=24+partridge+circle+portland%2C+me+04102+united+states"
 },
 {
@@ -74,10 +70,6 @@
 {
 "text": "Click here for details and to RSVP.",
 "href": "https://www.supportrickbennett.com/8_24_skowhegan_walk"
-},
-{
-"text": "Click here for more details and to RSVP",
-"href": "https://www.supportrickbennett.com/6_12_medway"
 },
 {
 "text": "Click here for more details and to RSVP",
@@ -152,7 +144,7 @@
 "href": "https://bennettforgovernor.com/events/for-a-better-maine-walking-tour"
 },
 {
-"text": "For a Better Maine Walking Tour: Farminton",
+"text": "For a Better Maine Walking Tour: Farmington",
 "href": "https://bennettforgovernor.com/events/for-a-better-maine-walking-tour-farminton"
 },
 {
@@ -253,7 +245,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=For+a+Better+Maine+Walking+Tour%3A+Farminton&dates=20261017T183000Z%2F20261017T210000Z"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=For+a+Better+Maine+Walking+Tour%3A+Farmington&dates=20261017T183000Z%2F20261017T210000Z"
 },
 {
 "text": "Google Calendar",
@@ -274,10 +266,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=March+with+Rick+in+the+Potato+Blossom+Parade&dates=20260718T170000Z%2F20260719T210000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rick+Bennett+in+Medway&dates=20260612T173000Z%2F20260612T183000Z&location=2074+Medway+Road%2C+Medway%2C+Maine%2C+04460%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -421,10 +409,6 @@
 },
 {
 "text": "ICS",
-"href": "https://bennettforgovernor.com/events/meet-rick-bennett-in-medway?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://bennettforgovernor.com/events/meet-rick-in-brunswick-at-flight-deck-brewing?format=ical"
 },
 {
@@ -494,10 +478,6 @@
 {
 "text": "Meet Rick",
 "href": "https://bennettforgovernor.com/meet-rick-bennett"
-},
-{
-"text": "Meet Rick Bennett in Medway",
-"href": "https://bennettforgovernor.com/events/meet-rick-bennett-in-medway"
 },
 {
 "text": "Meet Rick at Mast Landing",
@@ -701,10 +681,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://bennettforgovernor.com/events/meet-rick-bennett-in-medway"
-},
-{
-"text": "View Event →",
 "href": "https://bennettforgovernor.com/events/meet-rick-in-brunswick-at-flight-deck-brewing"
 },
 {
@@ -792,7 +768,7 @@
 "href": "https://bennettforgovernor.com/events/for-a-better-maine-waterville"
 },
 {
-"text": "[image: For a Better Maine Walking Tour: Farminton]",
+"text": "[image: For a Better Maine Walking Tour: Farmington]",
 "href": "https://bennettforgovernor.com/events/for-a-better-maine-walking-tour-farminton"
 },
 {
@@ -830,10 +806,6 @@
 {
 "text": "[image: March with Rick in the Potato Blossom Parade]",
 "href": "https://bennettforgovernor.com/events/oidcurbimw1m22wifc3v6n4jgfpdx1"
-},
-{
-"text": "[image: Meet Rick Bennett in Medway]",
-"href": "https://bennettforgovernor.com/events/meet-rick-bennett-in-medway"
 },
 {
 "text": "[image: Meet Rick at Mast Landing ]",

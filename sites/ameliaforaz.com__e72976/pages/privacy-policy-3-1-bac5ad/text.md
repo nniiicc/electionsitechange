@@ -1,4 +1,4 @@
-0 Skip to Content About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer Register to Vote Contact Contribute Privacy policy.
+0 Skip to Content About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Open Menu Close Menu About Amelia Priorities Endorsements Volunteer How to Vote Contact Contribute Privacy policy.
 Privacy Policy for Amelia Gallitano Effective Date: 06/15/2026 Dr.
 Amelia Gallitano For Arizona is committed to protecting the privacy of visitors and users of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.

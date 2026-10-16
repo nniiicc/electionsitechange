@@ -12,8 +12,8 @@ Get Your Free Yard Sign!
 Election Day is right around the corner, and we need Team Barr supporters to help spread the word!
 Want to show your support?
 Put a FREE Andy Barr yard sign in your yard and let your neighbors know you’re standing with a candidate who puts Kentucky first.
-Support Andy’s Campaign Share this post: Facebook X Linkedin Email Previous post Kentucky Senate Republican Conference Endorses Barr for Senate.
-Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
+Support Andy’s Campaign Share this post: Facebook X Linkedin Email Previous post Kentucky State House Republicans Unite Behind Andy Barr for U.S.
+Senate Next post New Barr Ad: Always Fighting for Veterans Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
 Privacy Policy / Terms and Conditions Sign Up For press inquiries, please contact press@barrforsenate.com Mailing Address: PO Box 2059 Lexington, KY 40588 Paid for by Andy Barr for Senate Please provide your mobile phone to opt-in to Andy Barr for Senate campaign alerts, updates and news.
 By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
 Message frequency may vary.

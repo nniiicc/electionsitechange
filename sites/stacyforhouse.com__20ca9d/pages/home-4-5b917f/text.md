@@ -1,25 +1,6 @@
 top of page DONATE Home Meet Stacy Priorities Endorsements Events Volunteer Menu Close DONATE JOIN US AT AN UPCOMING CAMPAIGN EVENT!
-Wenatchee Canvassing Events Oct.
-17, 24 & 31 and Nov.
-1–3: Get Out the Vote for Stacy Oct.
-17, 24 & 31: 10:00 AM–12:00 PM Nov.
-1–3: Times and meetup locations to be announced Once ballots arrive, we’ll be working across the Wenatchee area to remind supporters to return their ballots and help carry Stacy through Election Day.
-Join us for one shift or as many as you can!
-Sign Up Now West Side of LD12 Canvassing Events Oct.
-10: Door Knocking for Stacy 10AM, 17701 149th St SE, Monroe, WA 98272 Knock doors in communities across the west side of LD12 to spread the word about Stacy and hear directly from voters.
-No experience is required—we’ll provide training before you head out! ​ Oct.
-18, 24, 25 & 31: Get Out the Vote for Stacy Times and meetup locations to be announced Help us reach supporters throughout the Monroe and Snoqualmie Valley area once ballots arrive.
-Every conversation can help turn out another vote for Stacy!
-Sign Up Now Upcoming Forums Oct.
-7: Sultan School District Community Legislative Education Town Hall Sultan Middle School, 5:30PM.
-Open to all.
-Stacy will participate in a candidate forum in Sultan. ​ Oct.
-13: Know Your Elected Officials Forum 6:00 PM Wenatchee Valley College 1300 Fifth Street, Wenatchee, WA 98801 Join Stacy for a community candidate forum hosted by Vote Win/Votamos Ganamos.
-View event details . ​ Oct.
-15: Apple STEM Network Legislative Forum 4:30–7:00 PM District 12 panel: 4:30–5:15 PM North Central ESD, Cottonwood Room, 4th Floor 430 Olds Station Road, Wenatchee, WA 98801 Virtual attendance also available Hear candidates from Legislative Districts 7, 12 and 13 discuss the future of STEM education and career-connected learning.
-The forum is free, but registration is required for both in-person and virtual attendance.
-Learn more and register .
-SIGN UP FOR OUR NEWSLETTER TO HEAR ABOUT FUTURE EVENTS Nombre * Apellido * Correo electrónico * Teléfono * I consent to receiving messages from Elect Stacy * Submit OTHER $250 $100 $50 $25 DONATE TODAY!
+East Side LD12 Canvassing Sign Up for Exact Meet Up Locations Sun, 10/18, 1PM, Wenatchee Sat, 10/24, 10AM, Wenatchee Sun, 10/25, 1PM, Wenatchee Sat, 10/31, 10AM, Wenatchee Sun, 11/1, 1PM, Wenatchee & Leavenworth West Side LD12 Canvassing Sign Up for Exact Meeting Locations Sun, 10/18, 1PM, Monroe Sat, 10/24, 10AM, North Bend Sun, 10/25, 10AM, Monroe Sat, 10/31, 10AM, Sultan Sun, 11/1, 10AM, Gold Bar Virtual Events Phone Banking - Sign Up for a Shift Mon, 10/19, 5:30PM Thurs, 10/22, 5:30PM Mon, 10/26, 5:30PM Friend Banking & Election Eve Party - Sign Up Tues, 11/2, 6PM In Person Events Apple STEM Network Legislative Forum 10/15, 4:30PM - 7PM, North Central ESD, Cottonwood Room, 4th Floor 430 Olds Station Road, Wenatchee, WA 98801 Learn more and register .
+Wenatchee Volunteer Meet Up 10/17, 4PM, Pinnacle Beerworks (18 N Mission St) Friend Bank with Team Stacy 10/29, 6PM, Ground Control (10 N Wenatchee Ave) SIGN UP FOR OUR NEWSLETTER TO HEAR ABOUT FUTURE EVENTS Nombre * Apellido * Correo electrónico * Teléfono * I consent to receiving messages from Elect Stacy * Submit OTHER $250 $100 $50 $25 DONATE TODAY!
 Creating Good Jobs and a Strong Local Economy Small businesses, agriculture, and family-owned enterprises are the backbone of the 12th District, and Stacy is committed to helping them succeed.
 She supports smart, locally driven economic development that creates good jobs without sacrificing the outdoor heritage and quality of life that make this region special.
 Stacy will champion workforce training, small business support, and partnerships that give local employers and workers the tools they need to grow and stay rooted here.

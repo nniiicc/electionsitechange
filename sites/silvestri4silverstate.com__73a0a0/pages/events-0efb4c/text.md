@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-DONATE JOIN THE BRIGADE Events Please stop by one of these events!
+DONATE JOIN THE BRIGADE ☝ Early Voting is October 17 th -30 th ☝ Events Please stop by one of these events!
 To the top Phone: (702)-805-5957 Joseph P.
 Silvestri 3172 N.
 Rainbow Blvd.

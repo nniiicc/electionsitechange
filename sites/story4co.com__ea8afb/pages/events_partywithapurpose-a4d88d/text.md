@@ -4,4 +4,4 @@ Friday, October 11, 2024 5:30 PM 7:30 PM 17:30 19:30 RSVP For More Details (map)
 Join me at this community fundraiser to not only support my campaign for re-election, but also support the CAT’s Are not Trophies Proposition 127.
 This proposition is vital to protecting mountain lions, bobcats and lynx across Colorado.
 RSVP to receive location details HERE Earlier Event: October 9 Team Tammy Canvassing with Rep.
-Clifford Later Event: October 12 Team Tammy Canvassing: Evergreen Day of Action Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Clifford Later Event: October 12 Team Tammy Canvassing: Evergreen Day of Action Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

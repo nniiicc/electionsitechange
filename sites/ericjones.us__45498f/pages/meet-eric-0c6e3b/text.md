@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Meet Eric “I lived the American Dream.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Meet Eric “I lived the American Dream.
 I'm running because I can't promise my kids this country will give them a brighter future.” SCROLL TO LEARN ABOUT ERIC If there is a specific topic you are interested in, click one the following links to take a deep dive: Eric’s Story • Eric’s Family • Eric’s as a Business Leader • Eric as a Nonprofit Executive Where I come from I grew up poor in a small town in rural Maine — local businesses, farming, and timber.
 My father is a veteran.
 He came home from war with injuries he would never fully recover from.

@@ -11,6 +11,4 @@ Last Day to Vote with Absentee Ballot Michigan Absentee ballots must be returned
 Election Day!
 Michigan Polls are open from 7:00 am to 8:00 pm.
 Locate your polling place by clicking here .
-Past Events Absentee Voting Begins Michigan After submitting a request for and receiving your absentee ballot, you may vote in person at your city or township clerk's office by dropping off your absentee ballot.
-Click here to learn more about absentee ballots.
 Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

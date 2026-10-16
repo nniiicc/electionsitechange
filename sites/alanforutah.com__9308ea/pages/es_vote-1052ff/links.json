@@ -1,6 +1,6 @@
 [
 {
-"text": "01Utah Valley University800 W University Pkwy, Orem↗",
+"text": "01Utah Valley University800 W University Pkwy, Orem · al norte del edificio Liberal Arts↗",
 "href": "https://www.google.com/maps/search/?api=1&query=Utah+Valley+University+800+W+University+Pkwy+Orem+UT+84058"
 },
 {
@@ -8,12 +8,12 @@
 "href": "https://vote.utah.gov/"
 },
 {
-"text": "02Biblioteca de Orem58 N State St, Orem↗",
+"text": "02Biblioteca de Orem58 N State St, Orem · en la entrada circular de la biblioteca por la 100 North, junto al buzón de libros↗",
 "href": "https://www.google.com/maps/search/?api=1&query=Orem+City+Library+58+N+State+St+Orem+UT+84057"
 },
 {
 "text": "02Siga su boletaInscríbase para saber cuándo se envía su boleta y cuándo se cuenta↗",
-"href": "https://vote.utah.gov/"
+"href": "https://trackmyballot.utah.gov/"
 },
 {
 "text": "03Orem Senior Friendship Center93 N 400 E, Orem↗",
@@ -48,8 +48,8 @@
 "href": "https://alanforutah.com/es/meet-alan"
 },
 {
-"text": "Consulte sus distritos en vote.utah.gov ↗",
-"href": "https://vote.utah.gov/es/"
+"text": "Consulte sus distritos en vote.utah.gov (en inglés) ↗",
+"href": "https://vote.utah.gov/"
 },
 {
 "text": "Cómo Votar",
@@ -116,6 +116,10 @@
 "href": "https://alanforutah.com/es/get-involved"
 },
 {
+"text": "Solicitar un letrero ↗",
+"href": "https://forms.cloud.microsoft/r/6eAeqnTYXp"
+},
+{
 "text": "Términos de Textos",
 "href": "https://alanforutah.com/es/sms-terms"
 },
@@ -153,6 +157,6 @@
 },
 {
 "text": "¿Se mudó? Actualice su registro antes del 23 oct. →",
-"href": "https://vote.utah.gov/es/"
+"href": "https://vote.utah.gov/"
 }
 ]

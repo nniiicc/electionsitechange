@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 07 Mar James Marter issued the following statement in response to the Jewish Democratic Council of America, on their endorsement of Lauren Underwood.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 07 Mar James Marter issued the following statement in response to the Jewish Democratic Council of America, on their endorsement of Lauren Underwood.
 “I’m the only candidate in this race that has demonstrated support for the Jewish Community and put forth pro-Israel policy stances.
 My opponent in the race, Lauren Underwood makes it easy to stand out for my support and defense of Israel, due to her frequent anti-Israel, anti-Jewish policies and statements.
 Even so, no one else in the primary has put forth comments and stands for our biggest ally in the Middle East and for this important community here at home,” said Marter.

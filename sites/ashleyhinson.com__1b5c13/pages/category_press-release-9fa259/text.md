@@ -1,4 +1,8 @@
-Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute National Border Patrol Council Endorses Ashley Hinson for U.S.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Michelle Root: “We need to make Ashley Hinson our next Senator.
+We cannot have Josh Turek” by Addie Lavis | Oct 15, 2026 | Press Release Council Bluffs, IA – Last night, Michelle Root told the story of her late daughter, Sarah, and endorsed Ashley Hinson for U.S.
+Senate during Hinson’s statewide Fighting for Iowa bus tour in Council Bluffs.
+Michelle’s daughter, Sarah Root, was tragically killed in 2016...
+National Border Patrol Council Endorses Ashley Hinson for U.S.
 Senate by Addie Lavis | Oct 14, 2026 | Press Release Urbandale, IA – Today, the National Border Patrol Council endorsed Ashley Hinson for U.S.
 Senate, citing her work to ensure border patrol agents have the resources and support they need to keep the border secure, deport dangerous criminals, and stop the flow of deadly...
 Hinson Releases New Ad: “Food Fight” by Addie Lavis | Oct 14, 2026 | Press Release Marion, IA – Ashley Hinson launched a new ad for the general election today, “Food Fight.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “Washington is one never-ending food fight.
@@ -8,11 +12,5 @@ Hinson Dominates Second Debate by Addie Lavis | Oct 13, 2026 | Press Release Des
 Hinson to Launch “Fighting for Iowa” Statewide Bus Tour by Addie Lavis | Oct 13, 2026 | Press Release Mason City, IA – Tomorrow, Ashley Hinson will launch her “Fighting for Iowa” statewide bus tour with supporters in Mason City.
 Over the next three weeks, she will traverse the state sharing her commonsense message and warning Iowans that Josh Turek is too liberal for...
 Hinson Releases New Ad: “Explain” by Addie Lavis | Oct 13, 2026 | Press Release Marion, IA – Ashley Hinson launched a new ad for the general election today, “Explain.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “Josh Turek is lying and he knows it.
-Of course I voted to release the Epstein Files...
-U.S.
-Chamber of Commerce Endorses Ashley Hinson for U.S.
-Senate by Addie Lavis | Oct 11, 2026 | Press Release Cedar Rapids, IA – Today, the U.S.
-Chamber of Commerce endorsed Ashley Hinson for U.S.
-Senate.“I’m grateful to be endorsed by the U.S.
-Chamber of Commerce for my record of supporting Iowa small businesses, cutting taxes for working families, and investing in our rural... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Of course I voted to release the Epstein Files... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
 Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

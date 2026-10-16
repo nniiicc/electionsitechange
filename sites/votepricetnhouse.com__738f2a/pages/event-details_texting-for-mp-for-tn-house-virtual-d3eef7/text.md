@@ -7,7 +7,7 @@ Tickets are not on sale See other events Time & Location Date and time is TBD Vi
 Join us for Some text banking and good times!
 No worries if it's your first time, we'll have trainers available.
 Show More Share this event ABOUT PLATFORM ENDORSEMENTS EVENTS More Use tab to navigate through the menu items.
-Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
+Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # Privacy Policy | Terms & Conditions If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
 The maximum donation is $# per individual, $# per couple, $# per PAC. ​ Margaret Price for TN House may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
 Message and date rates may apply.
 Message frequency varies.

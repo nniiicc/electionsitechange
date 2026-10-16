@@ -1,8 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
-Before we headed home, we were awe… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: After midnight last night, Amy and I completed my fourth media interview of the day.
-Before we headed home, we were awe… See upcoming events About Meet Bert Mizusawa Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the DoW.
+Latest: Simple solutions can create big results when it comes to affordability.
+By thinking about the mechanisms of affordabili… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Simple solutions can create big results when it comes to affordability.
+By thinking about the mechanisms of affordabili… See upcoming events About Meet Bert Mizusawa Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the DoW.
 Biography Bert Mizusawa is a retired Major General of the United States Army, a former senior executive in the federal government, and a nationally respected leader in law, national security, and public service.
 His career spans more than four decades across military command, legislative oversight, executive leadership, and private legal practice, serving at the highest levels of government while remaining grounded in the responsibilities of leadership and service.
 Throughout his career, Mizusawa has operated at the intersection of law, security, and governance.

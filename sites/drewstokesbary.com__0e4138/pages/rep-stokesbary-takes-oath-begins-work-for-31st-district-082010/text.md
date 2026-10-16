@@ -12,6 +12,5 @@ I look forward to working with my colleagues on both sides of the aisle in order
 Stokesbary can be reached at his office in 426 John L.
 O’Brien building on the Capitol Campus in Olympia, via email at [email protected] , or by phone at 360-786-7846.
 For more information about Stokesbary, visit www.representativedrewstokesbary.com.
-In the News legislature More For You Rep.
-Drew Stokesbary hosts town hall Saturday In the News Auburn Chamber of Commerce gives Stokesbary highest rating Endorsements State Patrol Troopers endorse Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News legislature More For You Endorsed by League of Education Voters Endorsements Endorsements announced by the League of Education Voters Endorsements The Seattle Times recommends Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

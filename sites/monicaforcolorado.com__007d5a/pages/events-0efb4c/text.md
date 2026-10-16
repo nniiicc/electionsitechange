@@ -1,11 +1,6 @@
 0 Skip to Content About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Join our community-powered campaign, meet neighbors, and share your ideas, concerns, and issues.
 I can’t wait to meet you and hear what’s on your mind!
-Oct 15 Cook Park Neighborhood Association (CPNA) Meeting Thursday, October 15, 2026 6:00 PM 7:00 PM Cook Park Recreation Center (map) Google Calendar ICS Monica will be at the Cook Park Neighborhood Association’s October meeting and is happy to answer your questions.
-Come say hello, hear what’s happening in the neighborhood, and share what matters to you.
-The meeting starts at 6:00 PM at the Cook Park Recreation Center.
-Can’t make it in person?
-A virtual option is available, sign up here: https://cookparkneighborhood.com/event/cpna-monthly-meeting-2026-october Hosted by the Cook Park Neighborhood Association (CPNA).
-View Event → Oct 18 Cook Park Fall Clean-Up Sunday, October 18, 2026 2:00 PM 4:00 PM Cook Park (map) Google Calendar ICS Join Monica and neighbors for the Cook Park Fall Clean-Up!
+Oct 18 Cook Park Fall Clean-Up Sunday, October 18, 2026 2:00 PM 4:00 PM Cook Park (map) Google Calendar ICS Join Monica and neighbors for the Cook Park Fall Clean-Up!
 We’ll be picking up litter along Cherry Creek and around Cook Park to get the neighborhood ready for the season.
 Grabbers and trash bags are provided.
 Bring work or gardening gloves.
@@ -33,6 +28,11 @@ Whether it’s your ideas, concerns, or the issues you care most about, I’m he
 Along with experts and evidence, I truly want to hear your voice as colleagues and neighbors.
 View Event → Dec 10 to Jan 14 Coffee Hour for HD9 Thu, Dec 10, 2026 10:00 AM Thu, Jan 14, 2027 11:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
 Everyone’s welcome to come have a sip and chat with Monica.
+View Event → Oct 15 Cook Park Neighborhood Association (CPNA) Meeting Thursday, October 15, 2026 6:00 PM 7:00 PM Cook Park Recreation Center (map) Google Calendar ICS Monica will be at the Cook Park Neighborhood Association’s October meeting and is happy to answer your questions.
+Come say hello, hear what’s happening in the neighborhood, and share what matters to you.
+The meeting starts at 6:00 PM at the Cook Park Recreation Center.
+Can’t make it in person?
+A virtual option is available, sign up here: https://cookparkneighborhood.com/event/cpna-monthly-meeting-2026-october Hosted by the Cook Park Neighborhood Association (CPNA).
 View Event → Oct 8 Coffee Hour for HD9 Thursday, October 8, 2026 10:00 AM 11:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
 Everyone’s welcome to come have a sip and chat with Monica.
 View Event → Oct 3 One Colorado Prism Awards Saturday, October 3, 2026 6:00 PM 10:00 PM Denver Art Museum (map) Google Calendar ICS Every year, Monica looks forward to joining One Colorado’s Prism Awards.
@@ -162,9 +162,6 @@ View Event → Jun 25 Talk to neighbors with Monica (daily shifts) Thursday, Jun
 Every day, we’ll have a list of people to talk to, or events to flyer, or even virtual work.
 Sign up here https://bit.ly/MonicaVolunteers As a mom, obviously that also means there’s snacks, a bathroom, water, sunblock, everything to set you up for success.
 View Event → Jun 24 Talk to neighbors with Monica (daily shifts) Wednesday, June 24, 2026 12:00 PM 7:30 PM Google Calendar ICS Join Monica and go talk to neighbors in District 9!
-Every day, we’ll have a list of people to talk to, or events to flyer, or even virtual work.
-Sign up here https://bit.ly/MonicaVolunteers As a mom, obviously that also means there’s snacks, a bathroom, water, sunblock, everything to set you up for success.
-View Event → Jun 23 Talk to neighbors with Monica (daily shifts) Tuesday, June 23, 2026 3:00 PM 7:30 PM Google Calendar ICS Join Monica and go talk to neighbors in District 9!
 Every day, we’ll have a list of people to talk to, or events to flyer, or even virtual work.
 Sign up here https://bit.ly/MonicaVolunteers As a mom, obviously that also means there’s snacks, a bathroom, water, sunblock, everything to set you up for success.
 View Event → If no events are shown, stay tuned by checking back here, following me on social media, or contacting me directly.

@@ -1,9 +1,9 @@
-Skip to content HOME MEET MARK RESULTS GET INVOLVED HOME MEET MARK RESULTS GET INVOLVED HOME MEET MARK RESULTS GET INVOLVED DONATE HOME MEET MARK RESULTS GET INVOLVED DONATE Facebook Donate Facebook Privacy Policy Effective Date: 10/01/2026 Mark Lawson 2026 (“ we ,” “ us ,” or “ our ”) is committed to protecting the privacy of visitors and users (“ you ” or “ your ”) of our political campaign website.
+Skip to content HOME MEET MARK RESULTS GET INVOLVED HOME MEET MARK RESULTS GET INVOLVED HOME MEET MARK RESULTS GET INVOLVED DONATE HOME MEET MARK RESULTS GET INVOLVED DONATE Facebook Donate Facebook Privacy Policy Effective Date: 10/01/2026 Friends Mark Lawson 2026 (“ we ,” “ us ,” or “ our ”) is committed to protecting the privacy of visitors and users (“ you ” or “ your ”) of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 Information We Collect: Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms.
 Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services.
-Use of Information: We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
+“Message frequency may vary.” “By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.” Use of Information: We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
 To send you updates, newsletters, and other campaign-related information.
 To analyze and improve our website’s performance, content, and user experience.
 To comply with legal obligations and enforce our rights and agreements.

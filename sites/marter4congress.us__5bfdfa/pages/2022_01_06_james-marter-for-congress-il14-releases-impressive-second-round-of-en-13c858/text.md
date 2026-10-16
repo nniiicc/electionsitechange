@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 06 Jan James Marter’s campaign for Congress in Illinois’ 14th District, has released its second round of personal endorsements.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 06 Jan James Marter’s campaign for Congress in Illinois’ 14th District, has released its second round of personal endorsements.
 Marter is the twice elected, current Chairman of the Kendall County GOP, in the heart of the new IL14.
 As the only candidate in the race who lives in the new 14th District, Marter has strong grassroots support including the endorsement from the GOP Chairman of the largest counties in the district: Will, LaSalle and of course, Kendall County.
 Additionally, the Marter candidacy has growing national support, adding Kenneth Abramowitz to the impressive list of issue experts endorsing Marter.

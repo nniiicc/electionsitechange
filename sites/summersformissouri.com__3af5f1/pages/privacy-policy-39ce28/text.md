@@ -1,4 +1,4 @@
-Home Policy & Beliefs Endorsements Amendments Media Store Contact Us Join our Team Donate Today Follow Who we are We are a campaign working to get Cathy Summers elected to the Missouri State House of Representatives.
+Home Policy & Beliefs Endorsements Amendments Media Contact Us Join our Team Donate Today Follow Who we are We are a campaign working to get Cathy Summers elected to the Missouri State House of Representatives.
 Our website address is: https://www.summersformissouri.com.
 E-mail and Texting Summers for Missouri TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.We respect your right to privacy.

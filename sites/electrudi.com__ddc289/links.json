@@ -8,6 +8,10 @@
 "href": "https://electrudi.com/legal/accessibility"
 },
 {
+"text": "Check My Registration",
+"href": "https://app.vivote.gov/lookup"
+},
+{
 "text": "Check Registration",
 "href": "https://app.vivote.gov/lookup"
 },
@@ -22,6 +26,10 @@
 {
 "text": "Facebook",
 "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectrudi.com"
+},
+{
+"text": "Find Early Voting Site",
+"href": "https://vivote.gov/voters/polling-places"
 },
 {
 "text": "Find Polling Place",

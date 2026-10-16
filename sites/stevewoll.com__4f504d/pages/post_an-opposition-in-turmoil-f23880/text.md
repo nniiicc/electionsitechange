@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases An Opposition in Turmoil?
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE All Posts From The Blog Podcasts Press Releases Questionnaires An Opposition in Turmoil?
 Steve Woll May 3 1 min read Today at the gym I listened to an interview of Democratic National Committe chair Ken Martin on Pod Save America .
 I'd heard references to it on other shows, so I wanted to check it out for myself.
 Let's just say, it wasn't the kind of discussion to fill Democrats with confidence.

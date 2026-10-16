@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Bonding Outline: Ann Johnson Stewart is the only licensed Civil Engineer (PE) in the Minnesota Senate.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Bonding Outline: Ann Johnson Stewart is the only licensed Civil Engineer (PE) in the Minnesota Senate.
 Serving as Vice Chair of the Senate Transportation Committee and a key voice on Capital Investment, she brings rigorous technical analysis to ensure state investments deliver durable public works and protect taxpayers from costly delays.
 Key Takeaways: The Engineer’s Advantage: Translating complex technical project plans into clear public policy and applying rigorous fiscal review to close contractor loopholes.
 Capital Investment & Bonding: Funding core municipal priorities—like clean water treatment and local bridges—while partnering with skilled trades to deliver family-sustaining jobs.

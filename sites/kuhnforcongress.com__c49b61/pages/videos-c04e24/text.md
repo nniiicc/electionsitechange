@@ -1,6 +1,12 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you Chris McCoy and the Memphis Flyer!
-Thank you Chris McCoy and the Memphis Flyer for the opportunity to speak with you on your podcast about my experience and vision for District 8.
-More Conversations Oct 15, 2026 - Thank you Chris McCoy and the Memphis Flyer!
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
+More Conversations Oct 15, 2026 - Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
+Oct 15, 2026 - Our fourth stop of the day: the Gibson County Democratic Party’s Get Out the Vote meeting!
+Oct 15, 2026 - HAPPENING NOW: I’m in Madison County today at the early voting location.
+Oct 15, 2026 - Thank you to the Milan Lions Club for inviting me to speak with your members!
+Oct 15, 2026 - College kids!
+Home for fall break?
+Make voting part of your plans!
+Oct 15, 2026 - Thank you Chris McCoy and the Memphis Flyer!
 Oct 14, 2026 - ‼️Politicians never want to answer the tough questions, Kuhn for Congress is changing that!
 Oct 14, 2026 - Guess what today is?
 (Aside from Hump Day, of course…) It’s the start of EARLY VOTING!
@@ -37,10 +43,6 @@ Oct 1, 2026 - Preparing for my interview on Behind the Headlines with Eric Barne
 Sep 30, 2026 - Big Tech must be held accountable for the data centers it builds in our communities.
 Sep 29, 2026 - Meeting with the people of District 8 matters.
 Sep 28, 2026 - When a rural hospital closes, families lose more than a building.
-Sep 27, 2026 - I will fight for you no matter your party affiliation.
-Sep 26, 2026 - Thank you, Jackson Pride Festival attendees!
-Sep 26, 2026 - Thank you, Covington Heritage festival attendees and Tipton County Democratic Party (especially Matt Payne)!
-Sep 26, 2026 - Every child deserves the opportunity to soar Sep 25, 2026 - We have to support teachers with more than words.
 Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

@@ -4,4 +4,4 @@ House in Ohio’s 1st Congressional District Cincinnati, OH – August 8, 2026 �
 Weise is excited for the opportunity to represent the people of Southwest Ohio—not special interest groups, powerful donors, or partisan factions.
 Why is Nathan Running?
 “For most of my life, I have watched government...
-42 0 Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page
+43 0 Get in Touch! support@weiseforcongress.com Paid for by Elect Nathan Weise Follow Us! bottom of page

@@ -1,4 +1,4 @@
-0 Skip to Content Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer Signatures English Back Donate Building a Better Wisconsin for All of Us JoCasta Zamarripa is a second-term Alderperson and former State Representative from Milwaukee’s near south side.
+0 Skip to Content Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Donate Open Menu Close Menu Meet JoCasta Issues Endorsements Volunteer English Back Donate Building a Better Wisconsin for All of Us JoCasta Zamarripa is a second-term Alderperson and former State Representative from Milwaukee’s near south side.
 Born and raised in the city, she brings years of experience in public service and community leadership.
 JoCasta is a Democrat running for Wisconsin Secretary of State in the 2026 election.
 Meet JoCasta Donate to the campaign today! $# $# $# $# Other If you've saved your payment information with ActBlue Express, your donation will go through immediately.

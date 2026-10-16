@@ -30,4 +30,4 @@ July 23, 2026 ABC News 4 Anthony Constantino claims NY-21 GOP primary win shows 
 “I want to help us create American manufacturing jobs.” June 17, 2026 Fox News Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran's family Anthony Constantino made the surprise pledge at a campaign event, handing Sgt Eddie Ryan's family a handwritten note.
 April 21, 2026 Times Union Trump endorses Constantino in GOP battle to succeed Stefanik Anthony Constantino launched his political career by erecting a large “Vote for Trump” sign on the roof of his company’s Amsterdam headquarters in 2024.
 It’s safe to say that effort has not gone unnoticed.
-Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

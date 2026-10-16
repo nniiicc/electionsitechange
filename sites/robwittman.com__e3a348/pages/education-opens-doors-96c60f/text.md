@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Education Opens Doors Education has always been personal to me.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Education Opens Doors Education has always been personal to me.
 My mother was a teacher.
 Growing up, I saw the work that happened long after her students had gone home: papers to grade, lessons to prepare, and countless hours spent thinking about how to help each student succeed.
 Years later, I married a teacher.

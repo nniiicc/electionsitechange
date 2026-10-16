@@ -1,9 +1,5 @@
 [
 {
-"text": "*Place your bid HERE.",
-"href": "https://www.electerich.com/silent-auction.html"
-},
-{
 "text": "ABOUT",
 "href": "https://www.electerich.com/about-2.html"
 },
@@ -66,6 +62,10 @@
 {
 "text": "NON-PARTISAN VOTE",
 "href": "https://www.electerich.com/non-partisan-vote.html"
+},
+{
+"text": "Place your bid HERE.",
+"href": "https://www.electerich.com/silent-auction.html"
 },
 {
 "text": "READ ERICH'S PROPOSED SOLUTIONS—>",

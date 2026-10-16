@@ -6,7 +6,10 @@ It's a campaign for everyone who wants a more free, fair Alabama for everyone. $
 Our campaign is fighting to expand healthcare, fully fund public education, protect workers, and reform our democracy.
 We’re building a state that works for everyday people.
 If that sounds like a movement you want to be a part of, welcome home.
-About me Platform Economy and Affordability Healthcare Education Democratic Reform Vote Make a plan to vote!
+About me Platform Our priorities A Better Alabama Starts With Us Our government should work for everyone, not just the wealthy few.
+Our platform puts people first by expanding healthcare and education, creating fair economic opportunities, and reforming democracy so that everyone's voice truly counts.
+Together, we can build a state where opportunity, fairness, and justice are real for all.
+Economy and Affordability Healthcare Education Democratic Reform Vote Make a plan to vote!
 General Election November 3, 2026 Check your voter registration Register to vote Request an absentee ballot Chip in what you can to support our campaign!
 This isn't just my campaign.
 It's a campaign for everyone who wants a free, fair Alabama for everyone. $ 10 $ 25 $ 50 $ 100 $ 200 Other $ 10 $ 25 $ 50 $ 100 $ 200 Other You Can Make Checks Payable to the Following: The Committee to Elect Taylor Cook P.O.

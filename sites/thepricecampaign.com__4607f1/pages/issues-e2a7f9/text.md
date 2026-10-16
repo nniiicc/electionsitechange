@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Living here costs more every year.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Living here costs more every year.
 Samuel is the Democratic candidate for State House District 99.
 Traffic Power bills AI Flock cameras Corruption Traffic The fix for I-526 has no money and no start date.
 3 times voters here have taxed themselves to pay for roads: $143 million in 2008, $273 million in 2014, $587 million in 2022.

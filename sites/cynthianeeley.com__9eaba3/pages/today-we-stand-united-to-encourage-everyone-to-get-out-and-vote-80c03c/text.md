@@ -3,10 +3,7 @@ Today we stand UNITED to encourage everyone to...
 Home About News Volunteer Donate Contact Election News October 19, 2020 by webmaster 0 Comments Today we stand UNITED to encourage everyone to get out and VOTE.
 Every day is VOTING DAY until November 3rd.
 Thanks, LT Governor Glicrest, Congressman Kildee, Mayor Neeley and Representative Cherry.
-Share: twitter facebook youtube Post navigation Previous post Neeley stands up for Michigan Drivers Next post 17th Annual Harvest Festival You May Also Like Election News October 7, 2024 Rep.
-Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
-News January 26, 2022 Cynthia Neeley on Gov.
-Whitmer’s State of the State Address Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Share: twitter facebook youtube Post navigation Previous post Neeley stands up for Michigan Drivers Next post 17th Annual Harvest Festival You May Also Like Family News Priorities & Structure March 24, 2021 Voting to lower prescriptions Election News July 31, 2024 Meet the Candidates: Michigan’s 70th House District – Cynthia Neeley Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

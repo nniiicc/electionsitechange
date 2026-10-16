@@ -15,7 +15,7 @@ Those tired of Democratic dominance in Springfield might want to consider this o
 We endorse Carina Santa Maria.
 Be a part of the change you want to see in our communities.
 DONATE NOW Support our campaign for a better Illinois by contributing a donation below.
-Checks can also be made payable to Citizens for Carina and mailed to: # S Elmhurst Road, PO Box 84, Prospect Heights, IL 60070 Endorsements Guest User Next Next Officially Endorsed by Arlington Heights Village Trustee, Colin Gilbert HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
+Checks can also be made payable to Citizens for Carina and mailed to: # S Elmhurst Road, PO Box 84, Prospect Heights, IL 60070 Endorsements Guest User Previous Previous Officially Endorsed by The Daily Herald Next Next Officially Endorsed by Arlington Heights Village Trustee, Colin Gilbert HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
 DONATE NOW Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay Updated Sign up with your email address to receive news and updates.

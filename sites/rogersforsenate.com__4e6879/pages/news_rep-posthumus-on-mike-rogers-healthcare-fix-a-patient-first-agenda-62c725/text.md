@@ -44,7 +44,7 @@ And for millions of Michigan working families watching healthcare consume an eve
 This November, Michigan voters aren't just picking a new United States senator; they're picking between a comprehensive, achievable healthcare plan and a scheme that bankrupts it: real reform with Rogers, or a $32 trillion leap off a cliff with El-Sayed.
 Continue reading at Townhall here .
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Previous Previous ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA Next Next MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA Next Next MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

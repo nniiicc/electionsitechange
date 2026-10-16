@@ -3,24 +3,13 @@ Senate.
 His name won't be on the ballot — write it in on November 3, 2026.
 How to Vote → DECEMBER 7, 1787 THE FIRST STATE U.S.
 Senate — Delaware Travis Jack Stevens Declared Write-In Candidate for U.S.
-Senate Day 124 of 145 — Letter sent today Coons voted to send 1,000-lb bombs to Gaza → A new voice in Washington, not bought by Super PACs.
-Accountability under the law, an end to forever wars, real rules for AI, and health care and housing for everyone. ★ Declared Write-In Candidate — Write TRAVIS JACK STEVENS on your ballot Chip In Now → Volunteer Our Platform Get in Touch Spread the word : Facebook X Bluesky LinkedIn Copy link About the Candidate A Delawarean by Choice, a Fighter by Nature Born in Maryland, Travis Jack Stevens first fell in love with Delaware on childhood vacations — and that love never left.
-Travis spent years as a travel ICU nurse and relocated to Delaware before the COVID-19 pandemic, putting down roots in the state he had always called home in his heart.
-When the pandemic hit, Travis was on the front lines — working through the trauma and heartbreak of COVID units, caring for the sickest patients at their most vulnerable moments.
-He also served as a contract critical care nurse for the Department of Defense, witnessing firsthand the cost of endless war on the bodies and minds of those asked to fight them.
-After nursing, he returned to massage therapy — a career he had built before the Great Recession forced him away from it.
-That recession had derailed his original path; the pandemic nearly ended his second one.
-Travis knows what it means to have the ground shift beneath you through no fault of your own, and to rebuild anyway.
-That personal history shapes his politics.
-Travis believes the United States has been complicit in war crimes — and that the ongoing campaign in Gaza constitutes genocide, with Israel bearing direct responsibility and the United States bearing the responsibility of an enabler.
-He is unequivocal: American tax dollars must not fund the killing of civilians.
-He opposes forever wars, military adventurism, and the weapons contractor economy that profits from permanent conflict.
-Travis joined CAMP Rehoboth Chorus, became woven into the fabric of the community, and threw himself into volunteer work with local non-profits — eventually stepping into activism and local politics as a passionate community builder.
-Now he is running for U.S.
-Senate to bring a voice to Washington that has actually felt the weight of these decisions.
-This campaign takes no Super PAC money and no checks from outside interests.
-Just neighbors helping neighbors build the Delaware we all deserve.
-Read the Full Platform → Read Travis's full story → What I'm Fighting For No One Is Above the Law I am a survivor of human trafficking and abuse; two-tier justice is not abstract to me.
+Senate Day 125 of 145 — Letter sent today Coons voted to send 1,000-lb bombs to Gaza → A new voice in Washington, not bought by Super PACs.
+Accountability under the law, an end to forever wars, real rules for AI, and health care and housing for everyone. ★ Declared Write-In Candidate — Write TRAVIS JACK STEVENS on your ballot Chip In Now → Volunteer Our Platform Get in Touch Spread the word : Facebook X Bluesky LinkedIn Copy link About the Candidate A Delawarean by Choice, a Fighter by Nature Travis Jack Stevens is a registered nurse (since 2012) who spent years as a travel ICU nurse and served on the COVID front lines.
+He founded the CAMP Rehoboth Cares Committee and is a former Secretary of the Eastern Sussex Democrats.
+He's a people-funded write-in candidate for U.S.
+Senate in Delaware, with no Super PAC, so on November 3, write in TRAVIS JACK STEVENS.
+Read the Full Platform → Read Travis's full story → What I'm Fighting For No One Is Above the Law I know what it is to survive things no one should have to, and to keep going.
+Two-tier justice isn't abstract to me, and it's why I fight for the people the system leaves behind.
 I want full investigations into possible crimes and self-enrichment in this administration, with the courts deciding the facts.
 Full release of the Epstein Files.
 Accountability is how we make sure it never happens again.

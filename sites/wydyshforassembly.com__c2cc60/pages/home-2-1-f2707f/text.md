@@ -1,4 +1,4 @@
-top of page HOME EVENTS BECKY IN THE NEWS ENDORSMENTS ABOUT BECKY VOLUNTEER TODAY MEDIA Menu Close DONATE NOW Like MEET BECKY Becky Wydysh is the former Chairwoman of the Niagara County Legislature.
+top of page HOME EVENTS BECKY IN THE NEWS ENDORSEMENTS ABOUT BECKY VOLUNTEER TODAY MEDIA Menu Close DONATE NOW Like MEET BECKY Becky Wydysh is the former Chairwoman of the Niagara County Legislature.
 As the highest ranking official in Niagara County government, she was the first woman to ever hold the position.
 First elected to the Legislature in 2015, she represented the 2nd District, which includes the western end of Wheatfield and a major portion of the Town of Lewiston, including the Village.
 Becky had never previously run for elective office.

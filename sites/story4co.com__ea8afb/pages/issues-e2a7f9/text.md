@@ -36,4 +36,4 @@ That means taking on corporate greed by cracking down on price gouging, banning 
 I have also delivered targeted tax relief to those who need it most, cutting taxes for working families, helping seniors stay in their homes, and expanding tax credits for essential caregivers.
 I will continue fighting for a future where no family has to choose between paying rent and putting food on the table.
 I am a legislator who puts working people first, dedicated to ensuring the ultra-wealthy pay their fair share and creating an economy that actually works for everyday families.
-Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

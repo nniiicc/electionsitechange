@@ -13,5 +13,5 @@ Check out this map to see if you can vote for Lauren!
 Visit jocoelection.org for more info.
 Connect with Lauren Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Lauren Help Volunteer Phone Number * Volunteer to Help Lauren Win!
+Name * First Last Email * Phone Number * Email Number Phone Volunteer to Help Lauren Win!
 Receive email updates Display a yard sign Deliver and place yard signs Walk with Lauren and put flyers on doors Host a meet-and-greet with Lauren in your neighborhood Submit Donate to Lauren's Campaign » Paid for by Bohi for Kansas House, Stephanie James, Treasurer Search

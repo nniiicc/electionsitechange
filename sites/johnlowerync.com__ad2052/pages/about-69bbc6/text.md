@@ -14,11 +14,12 @@ In October 2025, following the resignation of Representative Jarrod Lowery, the 
 Governor Josh Stein appointed him shortly thereafter, allowing John to continue his family’s legacy of faith-based, community-driven leadership.
 In the General Assembly, he serves alongside Senator Danny Britt and House Majority Leader Brenden Jones, working together to deliver results for Robeson County — from strengthening public schools and supporting law enforcement to improving roads, broadband, and local infrastructure.
 Whether leading at the state level or serving his Tribe, Representative John Lowery’s mission is simple: to ensure that Robeson County’s voice is heard, its people are respected, and its future is secure for generations to come.
-JOIN TEAM LOWERY Provide your information below to receive important e-mail updates from Team Lowery: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LOWERY Provide your information below to receive important e-mail updates from Team Lowery: By checking this box, you consent to receive text messages from Friends of John Lowery.
+Messages may include campaign updates, event information, volunteer opportunities, and requests for donation.
 Msg & data rates may apply.
 Msg frequency may vary.
-You can reply "STOP" at any time to opt-out and "HELP" for assistance.
-For more information, please view our Privacy Policy.
+Reply STOP to opt-out and HELP for help.
+For more information, view our Terms of Service and Privacy Policy page.
 SUBSCRIBE Thanks for submitting!
 About John Lowery for NC House John Lowery is a lifelong Robeson County resident, an educator, and current Chairman of the Lumbee Tribe.
 A graduate of UNC Pembroke and UNC-Chapel Hill, John has dedicated his career to public service — working to expand rural opportunity, strengthen education, and grow local jobs.

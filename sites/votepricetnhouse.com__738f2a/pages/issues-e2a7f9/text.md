@@ -40,7 +40,7 @@ As AI, data centers, and public safety technologies become more common, the peop
 I support innovation that creates good local jobs and delivers real benefits to our communities, not technology that replaces workers, invades personal privacy, or shifts environmental costs onto future generations.
 Growth should be transparent and accountable before all else.
 Technology & Innovation ABOUT PLATFORM ENDORSEMENTS EVENTS More Use tab to navigate through the menu items.
-Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
+Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # Privacy Policy | Terms & Conditions If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
 The maximum donation is $# per individual, $# per couple, $# per PAC. ​ Margaret Price for TN House may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
 Message and date rates may apply.
 Message frequency varies.

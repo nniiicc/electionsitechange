@@ -1,7 +1,7 @@
 top of page Home About Issues News Menu Close All Posts James Byrd Condemns Trump’s Rally Remarks on U.S.
 Cities and Degradative Political Rhetoric James Byrd, Democratic candidate for U.S.
 Senate in Wyoming, issued a sharp rebuke today following President Donald Trump’s recent campaign rally in Grand Island, Nebraska.
-#ago Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
+Oct 8 Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
 Washington made that decision.
 Wyoming taxpayers get the bill.
 Oct 4 Rep.

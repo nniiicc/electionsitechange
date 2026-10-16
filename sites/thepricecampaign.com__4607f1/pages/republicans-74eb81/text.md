@@ -1,4 +1,7 @@
-Skip to the page Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give You don’t have to change parties to hire an engineer.
+Skip to the page All hands on deck.
+All hands on deck with Samuel and Nancy Lacore.
+Canvasses every weekend to Election Day.
+Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give You don’t have to change parties to hire an engineer.
 I’m the Democrat in this race, and I’m asking for your vote in one race, the State House seat in District 99.
 I grew up in a Republican family in Lexington, and I love them.
 I hunt, I have a gun safe and I put in regular range time.

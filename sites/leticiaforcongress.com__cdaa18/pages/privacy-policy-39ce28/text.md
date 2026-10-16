@@ -1,4 +1,4 @@
-Skip navigation menu About Priorities Endorsements Events Volunteer Donate Privacy Policy About Priorities Endorsements Events Volunteer Donate Privacy Policy Privacy Policy At Leticia Gutierrez for Congress, accessible from leticiaforcongress.com , one of our main priorities is the privacy of our visitors.
+Skip navigation menu About Priorities Endorsements Events Volunteer Media Donate Privacy Policy About Priorities Endorsements Events Volunteer Media Donate Privacy Policy Privacy Policy At Leticia Gutierrez for Congress, accessible from leticiaforcongress.com , one of our main priorities is the privacy of our visitors.
 This Privacy Policy document contains types of information that is collected and recorded by Leticia Gutierrez for Congress and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collected in Leticia Gutierrez for Congress.
@@ -38,6 +38,6 @@ Children’s Information Another part of our priority is adding protection for c
 We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 Leticia Gutierrez for Congress does not knowingly collect any Personal Identifiable Information from children under the age of 13.
 If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
-Contact Us Email: info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder Political Adv.
-Paid for by the Leticia Gutierrez for Congress.
+Contact Us Email: info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder POLITICAL ADV.
+PAID FOR BY LETICIA GUTIERREZ FOR CONGRESS.
 You need to enable JavaScript to run this app.

@@ -1,5 +1,5 @@
 top of page About Darrin The Work Endorsements Contact Me More Use tab to navigate through the menu items.
-VOLUNTEER DONATE Dear Neighbors My name is Darrin Madison, I was born and raised in Milwaukee, and I've lived in the 10th district for the past 15 years.
+YARD SIGN DONATE Dear Neighbors My name is Darrin Madison, I was born and raised in Milwaukee, and I've lived in the 10th district for the past 15 years.
 I have worked to be a strong advocate for youth voice, education, climate change/sustainability, youth justice reform, and economic development.
 I'm seeking to be re-elected this because the work we i began over #ago when residents of the 10th district elected isn't over.
 I believe that government can be for a force for good.

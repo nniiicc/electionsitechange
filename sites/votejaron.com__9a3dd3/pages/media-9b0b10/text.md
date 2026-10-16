@@ -5,4 +5,4 @@ Have a question or want to get involved?
 I’d love to hear from you!
 Reach out anytime — your thoughts, ideas, and support are what drive this campaign forward.
 Let’s work together to build a stronger future for our district.
-Facebook Instagram Linkedin Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies (209) 770-5084 info@votejaron.com 371 Lakeport Blvd, #391 Lakeport, CA 95453 Paid For By The Committee to Elect Jaron Brandon For State Senate 2026 FPPC# 1479551 Site by Sierra Focus Media
+Facebook Instagram Linkedin Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies Candidate Comparison Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies Candidate Comparison (209) 770-5084 info@votejaron.com 371 Lakeport Blvd, #391 Lakeport, CA 95453 Paid For By The Committee to Elect Jaron Brandon For State Senate 2026 FPPC# 1479551 Site by Sierra Focus Media

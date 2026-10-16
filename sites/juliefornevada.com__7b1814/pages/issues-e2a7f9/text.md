@@ -1,4 +1,4 @@
-top of page Home Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
+top of page Home Vote Locations Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
 “I’ve devoted my career to working for the people of Nevada, solving problems, and finding ways to make government work better.
 Now I’m ready to take that experience to serve and fight for the families and small businesses of our district in the Legislature.” -Julie Butler LIMITED GOVERNMENT | LOWER TAXES | CUT WASTEFUL SPENDING PUBLIC SAFETY Julie spent a significant portion of her career in the Nevada Department of Public Safety.
 As such, she is adamant about ensuring law enforcement, first responders, and public safety dispatchers have the tools and support they need to reduce crime and ensure the safety of our communities.

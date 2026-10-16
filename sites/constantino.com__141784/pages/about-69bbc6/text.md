@@ -22,4 +22,4 @@ Never shy to take on a new challenge, Constantino produced and performed on “ 
 Constantino signing autographs with Roger Stone Constantino has the support of the people who he is eager to serve and is fully self funding his campaign to focus exclusively on making life better for our citizens.
 He views politics as his way of giving back as it is a very high impact use of his time and talents.
 Learn more about Anthony Constantino on Grokipedia.
-Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

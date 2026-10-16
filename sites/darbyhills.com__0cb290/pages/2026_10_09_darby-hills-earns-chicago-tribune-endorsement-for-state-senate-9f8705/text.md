@@ -5,15 +5,13 @@ It also criticized her opponent, State Representative Nabeela Syed, for failing 
 “As the Tribune points out, Nabeela Syed failed to cast a vote when it mattered most.
 I voted NO and stood up for our families because putting people before politics means showing up, working across the aisle, fighting to lower costs, and making tough decisions, even when it means standing up to your own party.” The board also recognized Hills’ willingness to break with party leadership, including her support for legislation allowing state regulation of auto insurance rates.
 The endorsement emphasized her record of working with lawmakers across the aisle.
-Read the full article here: https://www.chicagotribune.com/…/editorial-darby-hills…/ Share: More Posts Do You Know Where to Vote?
-Early voting is happening NOW!
-We all know how quickly a day can get away from us, and you never know what might come up on Election Day.
-If you Endorsed by Algonquin Mayor Debby Sosine “Thank you to Algonquin Mayor Debby Sosine for your support!
-Working with local leaders helps me stay connected to what our communities need, and I’m proud to have Debby by Endorsed by Lake County Farm Bureau “Our farmers and farm families are an important part of the 26th District, and agriculture has a special place in our family’s history, too.
-My husband’s family has had a On the News: Fighting to Protect Children on E-Bikes “I’m a State Senator, but I’m a mom first.
-And when it comes to the safety of our kids, I take that responsibility seriously.
-“After hearing concerns from parents, police Prev Previous Do You Know Where to Vote?
-Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+Read the full article here: https://www.chicagotribune.com/…/editorial-darby-hills…/ Share: More Posts Voted for Property Tax Relief “Property taxes around here are skyrocketing, and bills just keep climbing.
+I voted for property tax relief for homeowners, and I’m fighting for bigger homeowner tax credits and hard limits Endorsed by Mayor Richard McLaughlin of Island Lake “Thank you to Island Lake Richard McLaughlin – Mayor for your support!
+I’m grateful to have local leaders like Richard in my corner as I work to make sure our Endorsed by the Polish American Police Association “I’m honored to receive the endorsement of the Illinois Polish American Police Association!
+Thank you for your support and for the work you do to serve and protect our communities.
+Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas “A front-door conversation turned into new friends joining us on the campaign trail!
+While knocking on doors in Hoffman Estates with Village Trustee Gary Pilafas, we met some neighbors who Prev Previous Do You Know Where to Vote?
+Next Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

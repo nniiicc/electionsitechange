@@ -59,12 +59,16 @@ Donate Get Involved Volunteer Wear Your Support Volunteer Want to help Steven Sh
 Fill out this form to join our grassroots team of volunteers!
 Sign Up Donate Wear Your Support Volunteer Your contribution will help us reach more voters by funding our data-driven outreach campaign.
 Donate Wear Your Support Wear Your Support Wear Your Support Buy a shirt, sticker, or yard sign to help spread the word that Steven is ready to shake things up!
-Shop Upcoming Events Sept 29, 2026 Denton County Candidate Forum 10:30am - 2:00pm 1155 Union Cir Denton, TX 76203 Event Details Sept 29, 2026 Denton County Candidate Forum Join your fellow students and Denton County neighbors for a candidate forum, hosted by your UNT College Democrats Hear directly from your loc...
+Shop Upcoming Events Join us for an event!
+To join a block walk in your area, click here.
+Sept 29, 2026 Denton County Candidate Forum 10:30am - 2:00pm 1155 Union Cir Denton, TX 76203 Event Details Sept 29, 2026 Denton County Candidate Forum Join your fellow students and Denton County neighbors for a candidate forum, hosted by your UNT College Democrats Hear directly from your loc...
 Event Details 10:30am - 2:00pm 1155 Union Cir Denton, TX 76203 Oct 7, 2026 Carrollton House Party Meet & Greet 6:00pm - 8:00pm Carrollton (RSVP for Address) Event Details Oct 7, 2026 Carrollton House Party Meet & Greet Meet Congressional Candidate Steven Shook and ask him the hard questions at this intimate house party.
 RSVP.
 6:00pm - 8:00pm Carrollton (RSVP for Address) Oct 7, 2026 Nurses Are Running — And They Want You in the Room: A Candidate Showcase 7pm - 8:00pm Virtual Event Event Details Oct 7, 2026 Nurses Are Running — And They Want You in the Room: A Candidate Showcase Join Nurses for America for a live candidate webinar spotlighting nurses running for Congress and state office across the country.
 RSVP.
-7pm - 8:00pm Virtual Event Proudly Endorsed By Additional Accolades Take BAC Congress Signatory Unrig Washington 2026 Candidate Endorsed by Nurses For America Learn more Endorsed by Nurses For America Unrig Washington 2026 Candidate Endorsed by Nurses For America Read Endorsement Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Learn more The Politician's Creed Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Learn more Featured in Lone Star Left Newsletter Read Article Gun Sense Candidate Learn more Texas Together Coordinated Campaign Texas Together Coordinated Campaign See Events Ready to Vote?
+7pm - 8:00pm Virtual Event 11/28/2020 Evenings in the Park 7pm - 10pm Estuary Park Event Details 11/28/2020 Evenings in the Park We invite you to listen to live bands play beautiful music in the park.
+Enjoy the sounds of Laureen Davis and the Kings, and enjoy wine tast...
+Event Details 7pm - 10pm Estuary Park Proudly Endorsed By Additional Accolades Take BAC Congress Signatory Unrig Washington 2026 Candidate Endorsed by Nurses For America Learn more Endorsed by Nurses For America Unrig Washington 2026 Candidate Endorsed by Nurses For America Read Endorsement Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Learn more The Politician's Creed Unrig Washington 2026 Candidate Unrig Washington 2026 Candidate Learn more Featured in Lone Star Left Newsletter Read Article Gun Sense Candidate Learn more Texas Together Coordinated Campaign Texas Together Coordinated Campaign See Events Ready to Vote?
 Early Voting Starts October 19th!
 # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Register Now Do You Have A Voting Plan?
 Are you voting early?

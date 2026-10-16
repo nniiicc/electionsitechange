@@ -1,4 +1,4 @@
-top of page Home Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
+top of page Home Vote Locations Endorsements About Election Guide Issues Contact Event Use tab to navigate through the menu items.
 ABOUT JULIE Julie Butler and her husband, Rod, have lived in Carson City since 1995.
 Married for 34 years, the couple raised two sons who have stayed in the Carson City area and are an integral part of the couple's lives.
 The couple welcomed a daughter-in-law to the family in 2024.

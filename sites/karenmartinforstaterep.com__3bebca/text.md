@@ -9,6 +9,6 @@ Latest Updates Karen Receives College Democrats of Connecticut Endorsement!
 Karen Martin is honored to receive the endorsement of the College Democrats of Connecticut in her campaign for State Representative.
 Campaign Staff #ago Karen Receives CT Against Gun Violence Endorsement!
 Karen Martin is honored to receive the endorsement of CT Against Gun Violence and an “A” grade from the organization in her campaign for State Representative.
-Campaign Staff #ago Join us on Wednesdays...Notes for Votes!
+Campaign Staff Oct 7 Join us on Wednesdays...Notes for Votes!
 Karen Martin invites friends, supporters, and neighbors to join her campaign every Wednesday evening for “Notes for Votes,” a community postcard-writing gathering at the East Haven Democratic Town Committee Headquarters.
 Campaign Staff Oct 4 SubscribeTo Karen Subscribe to Karen's Newsletter Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

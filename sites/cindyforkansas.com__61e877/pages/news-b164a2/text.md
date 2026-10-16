@@ -20,15 +20,15 @@ Big Tech wants to build data centers all over the state.
 Cindy will hit pause on data centers until responsible guardrails are in place to protect our communities and our budgets.
 Let's build a future that grows strong.
 Cindy Holscher - Protecting our Farmers from Data Centers September 29, 2026 Cindy Holscher visits the Marples at their family owned and operated farm that is under threat from data center development.
-In the news News Clips All news clips → KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
+In the news News Clips All news clips → Kansas City Star • October 15, 2026 Fourteen emails in 4 months: Records show Masterson’s work at alleged ‘no-show job’ State Sen.
+Cindy Holscher of Overland Park, the Democratic nominee for governor, said Masterson’s WSU employment arrangement represents “pay-to-play politics at its worst, with wealthy special interests handing the most powerful man in the Legislature a paycheck that only keeps growing, for a fake job with no responsibilities.” The New Republic • October 14, 2026 'Demonic Stuff': Kansas GOP Accuses Democrat of Being a Witch The state senator had seemingly drawn his conclusions from a series of playful TikTok videos posted by Holscher’s 20-year-old daughter, Maddie, who had shared clips of her and her mom brushing their teeth set to a song from the Wicked soundtrack.
+KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
 That also includes recreational marijuana legalization and a focus on cutting property taxes.
 “Those are all things supported by at least 65 percent of the population of Kansas,” she said.
 “Those are things that I stand with the people on.” Kansas Reflector • October 12, 2026 Cindy Holscher, Ty Masterson gain gubernatorial endorsements from labor, ag interests Holscher, elected to the Legislature nearly a decade ago, has been endorsed by Kelly and former Democratic Govs.
 Kathleen Sebelius and John Carlin.
 Her campaign has been backed by the Kansas AFL-CIO, Kansas National Education Association’s PAC, the American Federation of Teachers, the American Federation of Government Employees, United Auto Workers Local 31, the SEIU Kansas Local 513 and UFCW Local 2.
-KMBC • October 12, 2026 How Democratic Kansas governor candidate Cindy Holscher says she'll tackle the issues Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Kansas Reflector • October 6, 2026 Democrat Cindy Holscher's campaign for Kansas governor highlights distinctions from GOP rival Kansas Reflector • October 4, 2026 The AI data center push has roiled Kansas politics.
-It may also define the race for governor.
-Sign up here.
+KMBC • October 12, 2026 How Democratic Kansas governor candidate Cindy Holscher says she'll tackle the issues Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.
 Lynn Rogers, Treasurer.

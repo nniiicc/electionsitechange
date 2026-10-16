@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-DONATE JOIN THE BRIGADE Issues As your Assemblyman for District 3 in Las Vegas, I'll fight for Nevada families with common-sense, liberty-minded solutions rooted in conservative principles.
+DONATE JOIN THE BRIGADE ☝ Early Voting is October 17 th -30 th ☝ Issues As your Assemblyman for District 3 in Las Vegas, I'll fight for Nevada families with common-sense, liberty-minded solutions rooted in conservative principles.
 We need less government interference, stronger individual rights, and policies that put America First.
 Here's where I stand on the key issues facing our community.
 Keeping our Communities Safe Nevada deserves safe streets where families can thrive without fear.

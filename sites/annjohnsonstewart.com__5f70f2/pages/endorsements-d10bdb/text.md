@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Endorsements Labor Partners Minnesota AFL-CIO The Minnesota AFL-CIO represents over 300,000 working Minnesotans and is dedicated to achieving economic and social justice for all laborers.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Endorsements Labor Partners Minnesota AFL-CIO The Minnesota AFL-CIO represents over 300,000 working Minnesotans and is dedicated to achieving economic and social justice for all laborers.
 MN AFL-CIO Endorsement North Central States Regional Council of Carpenters The NCSRCC represents over 27,000 union members across the Upper Midwest, including the highly skilled carpenters, millwrights, and pile drivers who build Minnesota’s skyline and infrastructure.
 Minnesota Association of Professional Employees (MAPE) The Minnesota Association of Professional Employees (MAPE) represents more than 15,000 professional state employees who provide the specialized expertise, scientific research, and operational data that keep Minnesota running.
 From environmental scientists and IT professionals to state auditors and budget analysts, MAPE’s members ensure public services are delivered with integrity.

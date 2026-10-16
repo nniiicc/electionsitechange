@@ -9,10 +9,9 @@ The point is that if the President can kill anyone he says is a drug smuggler wi
 Read more 31 Aug 2026 0 Don Leonard’s Socialist Stances Brennan Barrington Uncategorized bulletin.ids.ac.uk/index.php/idsbo/article/download/3305/3435?inline=1 This article, written by my Democratic opponent Don Leonard, purports to offer guidance to save liberalism, while rejecting its core principles.
 It is a proposal to destroy our economic system in order to save it.
 As leftists often do, it Read more 21 Aug 2026 0 Republicans Are Not Libertarian Brennan Barrington Uncategorized Republicans are very libertarian when they’re out of power, and very not that when they’re actually ruling us. https://mises.org/power-market/rockwell-right-again-disaster-republican-rule Read more 20 Jul 2026 2 Hello voters!
-Website Staff Uncategorized This is the website for Brennan Barrington, Libertarian candidate for Ohio’s 15th Congressional District.
-See the top banner for links to my main pages.
-Because of issues with rendering on mobile devices, the pages are also linked below.
-Click this post to access the links.
-If you like what you see, please Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
+Website Staff Uncategorized If you are using a mobile device, touch the black square to see my main pages.
+This site does not render correctly on mobile devices.
+You can also reach them through the links in this post (click/touch the post to see all of it).
+This is the website for Brennan Barrington, Libertarian candidate for Ohio’s Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

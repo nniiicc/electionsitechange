@@ -25,7 +25,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261020T190000%2F20261020T190000&text=10%2F20+%26%238211%3B+General+Debate+%26%238211%3B+New+England+College%2C+Henniker%2C+7pm&details=%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E10%2F20+General+Election+Debate+hosted+by+%3C%2Fspan%3ENew+England+College%2C+in+Henniker%2C+7pm%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E+%28not+yet+confirmed+by+Maggie+Goodlander%29%3C%2Fspan%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress"
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261020T190000%2F20261020T190000&text=10%2F20+%26%238211%3B+General+Debate+%26%238211%3B+New+England+College%2C+Henniker%2C+7pm&details=%3Cstrong%3ETuesday%2C+10%2F20+%E2%80%93+Doors+open+at+6%3A30+PM%2C+debate+at+7%3A00+PM%3C%2Fstrong%3ERosamond+Page+Putnam+Center+for+the+Performing+Arts%2C+New+England+College%2C+10+Weare+Road%2C+Henniker%2C+NH+03242The+NH-02+general+election+debate%2C+part+of+New+England+College%27s+2026+Live+Free+or+Die+Debate+Series.+%28Not+yet+confirmed+by+Maggie+Goodlander.%29Tickets+are+free%2C+but+registration+is+required+%28limit+of+six+per+party%29.+%3Ca+href%3D%22https%3A%2F%2Fapp.arts-people.com%2Findex.php%3Fticketing%3Dnec%22%3ERegister+here%3C%2Fa%3E.&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress"
 },
 {
 "text": "Join",
@@ -49,11 +49,11 @@
 },
 {
 "text": "Outlook 365",
-"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29"
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=Tuesday%2C+10%2F20+%E2%80%93+Doors+open+at+6%3A30+PM%2C+debate+at+7%3A00+PMRosamond+Page+Putnam+Center+for+the+Performing+Arts%2C+New+England+College%2C+10+Weare+Road%2C+Henniker%2C+NH+03242The+NH-02+general+election+debate%2C+part+of+New+England+College%27s+2026+Live+Free+or+Die+Debate+Series.+%28Not+yet+confirmed+by+Maggie+Goodlander.%29Tickets+are+free%2C+but+registration+is+required+%28limit+of+six+per+party%29.+Register+here."
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29"
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=Tuesday%2C+10%2F20+%E2%80%93+Doors+open+at+6%3A30+PM%2C+debate+at+7%3A00+PMRosamond+Page+Putnam+Center+for+the+Performing+Arts%2C+New+England+College%2C+10+Weare+Road%2C+Henniker%2C+NH+03242The+NH-02+general+election+debate%2C+part+of+New+England+College%27s+2026+Live+Free+or+Die+Debate+Series.+%28Not+yet+confirmed+by+Maggie+Goodlander.%29Tickets+are+free%2C+but+registration+is+required+%28limit+of+six+per+party%29.+Register+here."
 },
 {
 "text": "Parents for Lily",
@@ -70,6 +70,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.lilytangwilliams.com/congress/privacy-policy/"
+},
+{
+"text": "Register here",
+"href": "https://app.arts-people.com/index.php?ticketing=nec"
 },
 {
 "text": "Request Yard Sign",

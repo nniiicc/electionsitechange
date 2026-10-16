@@ -2,7 +2,18 @@ Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Phot
 Nominate a Neighbor In the Community Election Information!
 Where to Drop Off Your Ballot Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Election Information!
-Where to Drop Off Your Ballot Donate Morgan Anker August 10, 2026 Rep.
+Where to Drop Off Your Ballot Donate Morgan Anker October 15, 2026 Colorado HB24-1334: Tenant Choice vs.
+Bulk Internet, with Rep.
+Naquetta Ricks Morgan Anker October 15, 2026 In this episode of Industry Shakers, Adlane Fellah, Founder and Chief Analyst at Maravedis, speaks with Colorado State Representative Naquetta Ricks (House District 40, Aurora), a co-sponsor of HB24-1334, the law that lets tenants in apartment buildings and mobile home parks request service from the internet provider of their choice.
+Source: https://www.youtube.com/watch?v=sM6uOZzZD10 Morgan Anker October 15, 2026 State Rep.
+Naquetta Ricks on the Promise to America Morgan Anker October 15, 2026 Colorado State Rep.
+Naquetta Ricks is a living embodiment of the Promise to America Values.
+Born in Liberia, she moved to Colorado and graduated from Aurora High School.
+Ricks later became a United States citizen through the 1986 Immigration Reform and Control Act, which was the last time we had bipartisan immigration legislation signed by the President!
+Today, Rep.
+Ricks is a successful small business owner, founder and CEO of the African Chamber of Commerce Colorado, and chairs the House Business Affairs and Labor Committee.
+Listen to her and Promise to America founder Felix Frisch discuss why she signed the Promise and how she works to reflect its values in her work.
+Source: https://www.welcomestack.org/p/state-rep-naquetta-ricks-on-the-promise Morgan Anker August 10, 2026 Rep.
 Ricks Talks HD40 Priorities and the Road to 2027 Morgan Anker August 10, 2026 A few weeks ago at the National Conference of State Legislatures, Representative Ricks sat down with NCSL officials to talk about the issues shaping her district right now — from oil and gas development to HOA reform — and what's ahead as she heads into her fourth term at the State Capitol.
 Source: https://www.dropbox.com/scl/fo/zpxqqjqae8jjcnji21rhh/AMcn4RAEXnFOo51kumJyLjY/Naquetta%20Ricks%20CO%20Nina%20Cornell.mp4?rlkey=2oelwt8avo0cn1p85fc95ej0c&st=jfjqxtlm&e=1&dl=0 Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 Colorado lands and public’s say in what happens to them is on the line as BLM ramps up oil and gas leasing, proposes major program changes Source: https://coloradosun.com/2026/07/23/opinion-colorado-public-lands-blm-leasing-auction/ Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 “From social media platforms to game apps, this bill helps create a safer online environment for Colorado children,” said Rep.
 Naquetta Ricks, D-Aurora.
@@ -75,14 +86,6 @@ This year, on January 14th, she delivered remarks in honor of Dr.
 Martin Luther King Jr. once again.
 This year, she highlighted his fight to secure voting rights for people of color and push back against efforts to block access to the ballot.
 She asked her colleagues to join her in affirming their commitment to protect the right to vote and expand voter access.
-Watch the full speech below: Morgan Anker January 4, 2022 Rep.
-Naquetta Ricks: 2021 Year in Review Morgan Anker January 4, 2022 Watch a video of Colorado State Representative Naquetta Ricks' highlights from 2021.
-Donate to support Rep.
-Ricks' re-election campaign here: https://secure.actblue.com/donate/ric...
-Source: https://www.youtube.com/watch?v=bkbxaU184Uw&t=6s Morgan Anker November 16, 2021 Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 In Colorado, Ricks’ legislative efforts are getting recognition.
-In October, the Colorado LGBTQ Chamber of Commerce honored her as Government Official of the Year for advocating "inclusion and diversity within the larger business community." The state’s Independent Bankers Association and nonprofit housing group Habitat for Humanity both awarded her for championing the legislation for the pilot program to help renters improve credit scores.
-In the next legislative session, Ricks anticipates more work on consumer protection, education and immigration issues.
-She emphasized that she works on behalf of all her constituents.
-Source: https://www.voanews.com/a/liberia-native-finds-her-footing-as-new-colorado-lawmaker/6313534.html Older Posts Back to Top Sign up for my newsletter!
+Watch the full speech below: Older Posts Back to Top Sign up for my newsletter!
 Receive text messages from our campaign!
 Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

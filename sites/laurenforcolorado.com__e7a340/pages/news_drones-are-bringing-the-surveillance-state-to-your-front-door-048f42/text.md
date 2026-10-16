@@ -48,8 +48,6 @@ Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I w
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
 No consent is required to buy.
 Msg&data rates may apply.
-Text JOIN to 80306 to opt in.
-Reply HELP for help or STOP to opt out at any time.
 SMS information is not rented, sold, or shared.
 Donate Facebook Twitter Instagram Youtube Home About Lauren Accomplishments Endorsements News Media Get Involved Pledge store Contact Lauren Boebert for Congress PO Box 2026 Elizabeth, CO 80107 Paid for By Lauren Boebert for Congress.
 Approved by Lauren Boebert. copyright Lauren Boebert for Congress, All Rights Reserved. | Privacy Policy By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Lauren for CO.

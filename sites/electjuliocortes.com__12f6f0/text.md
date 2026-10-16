@@ -40,8 +40,15 @@ I’ve had the honor of serving on multiple boards and groups that have further 
 Being involved in community and regional groups has educated me about issues that bring challenges to our community members.
 Our BIPOC community, our business owners, our residents who are traveling to work in other parts of our region, and I’d like the opportunity to continue to support the work that is being done and see if I can bring new ideas or strategies to the table to help meet challenges faced by our community.
 WA Immigrant Solidarity Network’s Immigrant and Refugee Advocacy Day – January 22, 2026 Follow the Campaign Used for the like, share, comment, and reaction icons Julio Cortes for State Rep.
+#ago Thank you Washington State Council of Fire Fighters for your support of my re-election campaign!
+I look forward to working together to keep our communities safe🙌🏽 ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 5 Shares: 1 Comments: 2 2 Comments Comment on Facebook Julio Cortes for State Rep. is at Marcel.
+#ago A few of us were out today hitting the doors and listening to our neighbors in the 38th LD!
+I’m blessed to be representing such a beautiful district with amazing supporters!
+Ended the evening Marcel 🙌🏽💪🏽🤙🏽 ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 17 Shares: 1 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Thank you Young Democrats of Washington for your endorsement 🙌🏽 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 6 Shares: 1 Comments: 2 2 Comments Comment on Facebook Julio Cortes for State Rep.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 13 Shares: 1 Comments: 3 3 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Thank you Everett Firefighters - IAFF Local 46 for your support and endorsement of my re-election campaign 🙌🏽💪🏽👨🏼‍🚒 ...
 See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 5 Shares: 0 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Thank you SEIU Local 925 for coming out to support my re-election campaign!
@@ -57,10 +64,5 @@ Thankful to be surrounded by so many amazingly dedicated people 🙌🏽 ...
 See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 13 Shares: 0 Comments: 2 2 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Hitting them doors, meeting neighbors and listening to our community!
 Thank you to our amazing volunteers, we make it fun 🙌🏽 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 16 Shares: 1 Comments: 1 1 Comments Comment on Facebook Julio Cortes for State Rep.
-#ago Thank you Humane World Action Fund for the support of my re-election campaign! ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 7 Shares: 0 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
-#ago Our Early Learning and Human Services Committee took a tour of Fircrest Residential Habilitation Center and some State Operated Living Alternative (SOLA) sites.
-I got to meet some amazing folks! ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 12 Shares: 0 Comments: 1 1 Comments Comment on Facebook Load more Friends of Julio Cortes (D) P.O.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 16 Shares: 1 Comments: 1 1 Comments Comment on Facebook Load more Friends of Julio Cortes (D) P.O.
 Box 412, Everett, WA 98206

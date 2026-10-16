@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Oracle · Putting Down Roots Choosing Gallatin Gateway × Eventually, I stepped back into tech consulting while Gloria took over running the day-to-day operations of our specialty foods business.
+Skip to main content Greg Leman Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Home Issues Priorities for Montana Property Taxes Data Centers Volunteer Donate Oracle · Putting Down Roots Choosing Gallatin Gateway × Eventually, I stepped back into tech consulting while Gloria took over running the day-to-day operations of our specialty foods business.
 After about a year, a friend working at Oracle called me out of the blue.
 They were looking for a data quality expert to help guide their systems.
 I dug out my old non-compete agreement from the Metagenix sale to see if I could even take the job.

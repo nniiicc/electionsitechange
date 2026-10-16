@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Events Endorsements Get involved Donate now » David's Record Two decades of serving his community About Issues Events Endorsements Get involved Donate now » David's Record Two decades of serving his community 2005 David starts organizing with Urban Underground.
+Skip navigation menu About Issues Endorsements Get involved Events Voting Info Donate now » David's Record Two decades of serving his community About Issues Endorsements Get involved Events Voting Info Donate now » David's Record Two decades of serving his community 2005 David starts organizing with Urban Underground.
 2010 David joins Russ Feingold's campaign for Senate.
 2016 David is elected to the Wisconsin State Assembly.
 2017 David co-sponsors Assembly Joint Resolution 10 , which declares that abortion is health care.

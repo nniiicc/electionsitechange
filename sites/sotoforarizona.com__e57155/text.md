@@ -4,6 +4,7 @@ With more than 30 years in education, Edgar has worked across the full education
 As an educator and coach, he believes in teamwork, accountability, and bringing people together to get results.
 Edgar is running for the Arizona State Senate in Legislative District 17 to continue that service — fighting for strong public schools, affordable communities, and a government that works for everyday Arizonans.
 Meet Edgar About Legislative District 17 Legislative District 17 includes parts of Tucson, Oro Valley, and the Catalina Foothills, stretching north toward Catalina and east toward the Rincon Valley.
-Join The Mailing List Paid For By Soto For Arizona.
+Join The Mailing List Checks can be made payable to Soto for Arizona and mailed to: 11505 N Kelly Rae Pl.
+Tucson 85737 Paid For By Soto For Arizona.
 Authorized By Edgar Soto.
 Use of military rank, job titles, photographs in uniform, or mention of military service does not imply endorsement by the United States Marine Corps, the Department of Defense, or the United States Government.

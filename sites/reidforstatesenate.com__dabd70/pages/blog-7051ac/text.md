@@ -1,4 +1,4 @@
-top of page VOLUNTEER MENU Close Home About Get Involved Blog All Posts All Posts Housing should offer people choices at every stage of life.
+top of page VOLUNTEER MENU Close Home About Get Involved Blog Issues All Posts All Posts Housing should offer people choices at every stage of life.
 It isn't always about aging in place.
 Aging in town should be an option, too.
 There isn't a single housing solution because there isn't a single aging experience.

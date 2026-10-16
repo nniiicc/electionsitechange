@@ -1,6 +1,8 @@
 Skip navigation menu About Issues Events Volunteer Store Contact Press Kit Donate dfl - Minnesota's 6th congressional district Let's elect a Member of Congress who works for us ALL .
 About Issues Events Volunteer Store Contact Press Kit Donate dfl - Minnesota's 6th congressional district Let's elect a Member of Congress who works for us ALL .
-Read below for some of our top priorities An economy that works for all of us - good jobs, livable pay, fair taxes and open markets Health care that cares for all of us - putting patients first, not insurance companies A government that serves all of us - with a Congress that represents "we the people", not the wealthy and powerful few I’ve spent my career improving elections.
+MY priorities Fighting for Minnesota's Sixth District Here’s what Doug Chapin is working for: real solutions to the challenges our neighbors face and priorities that put Minnesota families first.
+(Looking for more?
+Check out the Issues page.) An economy that works for all of us - good jobs, livable pay, fair taxes and open markets Health care that cares for all of us - putting patients first, not insurance companies A government that serves all of us - with a Congress that represents "we the people", not the wealthy and powerful few I’ve spent my career improving elections.
 Now, I’m ready to fix Congress.
 Doug Chapin is a father, educator, and nationally recognized expert on democracy and elections.
 He has worked in Congress, the executive branch, the courtroom, and the classroom — always focused on public service and problem-solving.

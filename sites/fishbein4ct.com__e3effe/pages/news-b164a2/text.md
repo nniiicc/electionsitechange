@@ -1,4 +1,10 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 10 Oct Saturday, 3:41 PM · 2026 EVEN MORE Information About Local Amazon Delivery Drones For those of you interested in the proposed drone deliveries by Amazon Prime Air, slated to begin in the next year or so in a delivery area to include most of Wallingford, and a bit of Middlefield, here are the notes from the recent legislative briefing, attended by about a dozen legislators, including myself.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 15 Oct Thursday, 6:13 PM · 2026 Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Honored to participate in this morning's Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum.
+Our discussions ranged from business climate, tax policy, education funding, and even warrantless surveillance by law enforcement.
+I very much appreciated listening to these small business owners, and learning more about them.
+11 Oct Sunday, 5:52 PM · 2026 Seeking Support From the Federal Government For A Local Infrastructure Project Wallingford's John Street Bridge serves a vital function for many local businesses.
+After decades of use, it is in need of significant repair.
+I am proud to submit a letter of support for the town's application to the federal government for help in funding this important transportation infrastructure project.
+10 Oct Saturday, 3:41 PM · 2026 EVEN MORE Information About Local Amazon Delivery Drones For those of you interested in the proposed drone deliveries by Amazon Prime Air, slated to begin in the next year or so in a delivery area to include most of Wallingford, and a bit of Middlefield, here are the notes from the recent legislative briefing, attended by about a dozen legislators, including myself.
 Please be reminded that Connecticut's Department of Energy and Environmental Protection (DEEP) is still soliciting comments from the public about these potential drone deliveries.
 You can submit your input by emailing them 𝐛𝐞𝐟𝐨𝐫𝐞 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟏𝟓 at DEEP.FCC.PublicComments@ct.gov .
 Please feel free to send me a copy at craig.fishbein@housegop.ct.gov as I am interested to learn more about how this new technology may impact (or perhaps benefit) those whom I represent.
@@ -272,17 +278,6 @@ Some even closed.
 This weekend, at Celebrate Wallingford, eight lucky winners will receive a $25.00 gift certificate to a Wallingford restaurant.
 FREE to enter!
 See you there!
-(The weather is supposed to be GREAT!) 1 Oct Tuesday, 1:39 PM · 2024 Supporting Our Heroes Connecticut's law enforcement officers and first responders work in unique occupations.
-When they leave for their shift, the loved ones they left at home do not know if they will ever return alive or in what shape.
-They risk their safety daily to ensure ours.
-In short, they are our HEROES, and I'm proud to support them with the resources they require to perform their duties safely and effectively.
-As your representative, I've worked to take care of the needs of our law enforcement and first responders.
-I've supported legislation to give law enforcement agencies flexibility when dealing with emergencies, led the fight to correct our “use of force” statute, helped pass legislation holding criminals more accountable if they are found to have intentionally hurt or killed a canine officer, helped pass legislation creating a fallen officers fund to support the families of officers tragically killed in the line of duty, and helped pass legislation expanding the ability of local police and fire chiefs to declare line-of-duty deaths as a result of an emergency.
-26 Sep Thursday, 1:21 PM · 2024 Fighting for Tax Relief for Families and Small Businesses I'm proud of my record of delivering tax relief to Connecticut families and small businesses.
-With inflation high and the cost of consumer goods continuing to rise, you deserve a break from the government reaching into your wallet.
-It is my belief that government should operate within its means, and not place the burden of unnecessary excess on the backs of hardworking families and entrepreneurs.
-Taxes should cover essential state and community needs, not pet projects or political favors.
-News EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
-MORE Information About Local Amazon Delivery Drones CT Families Are Taxed Enough Are Drone Deliveries Coming To Wallingford And Middlefield?
-Fishbein for Connecticut - Jo-Anne L.
+(The weather is supposed to be GREAT!) News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
+MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

@@ -1,8 +1,7 @@
-ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction SILENT AUCTION Benefitting Douglas County Democratic Women scholarship fund, Douglas County Dems, and the Obermayr District 39 campaign. *Bid on this Glass platter by renowned glass artist Willow Obermayr, St.
-Augustine, Florida. ​ *Starting bid $200, $100 going to the DCDW scholarship fund, $100 to Douglas County Dems, and everything beyond to the Obermayr District 39 campaign. ​ Silent Auction Form * Indicates required field Name * First Last Bidding Started October 14, 2026 at $200.
-Next update October 15.
-Email * Phone Number * If you are the winning bidder, we will contact you via email unless you leave a phone number.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction SILENT AUCTION Benefitting Douglas County Democratic Women scholarship fund, Douglas County Dems, and the Obermayr District 39 campaign.
+Glass platter by renowned glass artist Ana Willow Obermayr, St.
+Augustine, Florida. ​ Starting bid $200, $100 going to the DCDW scholarship fund, $100 to Douglas County Dems, and everything beyond to the Obermayr District 39 campaign. ​ Silent Auction Form * Indicates required field Name * First Last Email * Phone Number * If you are the winning bidder, we will contact you via email unless you leave a phone number.
 Enter your bid to the nearest dollar (Bidding starts at $200): * Bidding will be posted at the end of each day, with the current leader's first name and last initial and their bid.
-I agree to receiving marketing and promotional materials * Submit Bid Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
+Submit Bid Current Leading Bid Erich O. — $200 Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
 ALL RIGHTS RESERVED.
 WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact Silent Auction

@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Bridge Scour Outline: Extreme weather and frequent flash flooding are accelerating “bridge scour”—the dangerous erosion of soil around bridge foundations that leads to structural failure.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Bridge Scour Outline: Extreme weather and frequent flash flooding are accelerating “bridge scour”—the dangerous erosion of soil around bridge foundations that leads to structural failure.
 Senator Johnson Stewart believes corporate polluters, not local taxpayers, should fund the critical engineering upgrades needed to stabilize our bridges against climate-driven flooding.
 Key Takeaways: The Climate-Infrastructure Threat: Heavier, more frequent storms produce high-velocity floodwaters that wash away the vital sediment supporting Minnesota’s highway and local bridge piers.
 Proactive Engineering: Upgrading vulnerable bridges with deep foundation reinforcements and modern hydrology standards before a catastrophic structural failure occurs.

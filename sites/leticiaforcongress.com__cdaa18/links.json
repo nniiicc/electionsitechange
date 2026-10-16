@@ -44,6 +44,10 @@
 "href": "https://www.leticiaforcongress.com/volunteer"
 },
 {
+"text": "Media",
+"href": "https://www.leticiaforcongress.com/media"
+},
+{
 "text": "My Story",
 "href": "https://www.leticiaforcongress.com/about"
 },
@@ -60,12 +64,20 @@
 "href": "https://www.leticiaforcongress.com/privacy-policy"
 },
 {
+"text": "RSVP",
+"href": "https://www.mobilize.us/texasdemocrats/event/1051086/"
+},
+{
 "text": "RUN! website builder",
 "href": "https://designedtorun.com"
 },
 {
 "text": "Volunteer",
 "href": "https://www.leticiaforcongress.com/volunteer"
+},
+{
+"text": "Where to vote",
+"href": "https://iwillvote.com/"
 },
 {
 "text": "[image: Leticia Gutierrez for Congress, TX-09]",
@@ -85,6 +97,10 @@
 },
 {
 "text": "info@leticiaforcongress.com",
-"href": "mailto:leticiagutierrezcd9@gmail.com"
+"href": "mailto:info@leticiaforcongress.com"
+},
+{
+"text": "press@leticiaforcongress.com",
+"href": "mailto:press@leticiaforcongress.com"
 }
 ]

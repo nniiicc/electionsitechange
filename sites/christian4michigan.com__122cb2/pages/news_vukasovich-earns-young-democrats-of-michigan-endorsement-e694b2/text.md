@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release October 3, 2026 Vukasovich Earns Young Democrats of Michigan Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Young Democrats of Michigan.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release October 3, 2026 Vukasovich Earns Young Democrats of Michigan Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Young Democrats of Michigan.
 Vukasovich Earns Young Democrats of Michigan Endorsement MONROE, Mich. — Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Young Democrats of Michigan.
 “I am proud to have the support of young Democrats across Michigan,” Vukasovich said.
 “Young people are working hard, earning degrees, starting families and building careers, but too many are being told they should settle for higher costs and fewer opportunities.
@@ -11,6 +11,6 @@ I will fight for an economy where hard work pays off and every young person has 
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

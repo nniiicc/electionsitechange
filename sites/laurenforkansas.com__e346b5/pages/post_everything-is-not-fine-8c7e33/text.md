@@ -1,0 +1,14 @@
+top of page DONATE HERE Meet Lauren Road to Prosperity Voter Info Get Involved Events News Everything Is Not 'Fine' edauer18 #ago 1 min read Kansans understand the importance of separation of powers, and are frustrated that this President is making decisions that are the job of Congress, while our Congressperson is standing by and letting it happen.
+In a conversation with Matt Matson on his podcast, Within Reason, Lauren stated it is time for Kansans to come together and vote on our common issues, noting that things are very different now and party politics is not working.
+"We are all experiencing the same problems, the same higher costs of living, and the loss of the American dream." In the face of these shared struggles, Lauren noted that incumbent Tracey Mann has been largely absent, primarily only showing up at private events, and sending newsletters that indicate 'everything is fine,' when we know everything is NOT fine across District 1!
+She is committed to representing everyone in this district, adding she will be voting for the interests of Kansans, not the party line.
+Explaining that people have been betrayed by the people in power, she noted that Kansans did not vote for increasing corporate control.
+Having already traveled 35,000 miles across the Big First already, Lauren stated she was kicking off a two-week listening tour, opening the floor to local communities to ask questions and express their concerns about what is going on at the federal level.
+She added she is dedicated to government efficiency, which she contrasted with this administration's record spending, increasing national debt, and wasteful cuts to federal agencies that did not provide much savings and instead reduced government efficiencies while opening the door to fraud and other abuses.
+Recent Posts See All The Current Proposed Farm Bill Falls Short!
+Support Former Federal Workers Running For Congress -- They Are Our Contemporary Heroes Lauren Reinhold is one who stepped up and is running for election to rebuild and reform federal processes after seeing essential government services undermined and dismantled by the Trump administrati Another Candidate Forum And Another No-Show Incumbent Hosted by Women for Kansas, U.S.
+Congressional candidates gathered October 10 with voters to discuss key election issues including federal spending, taxes/tariffs, war powers, affordability, and immig Lauren Reinhold for Kansas 4000 W.
+6th St.
+Ste B # 241 Lawrence, KS 66049​ (785) 251-0888 info@laurenforkansas.com © # Site designed by the Mosaic Group .
+Site Map: Home Meet Lauren Priorities Get Involved Voter Info Privacy Policy Accessibility Statement Terms and Conditions Paid for by Lauren Reinhold for Kansas Get campaign updates First Name Last name Email Yes, subscribe me to email updates.
+Submit bottom of page

@@ -11,4 +11,6 @@ Name (required) Email (required) Message By submitting your information, you’r
 You may unsubscribe at any time.
 SEND NOW Submitting form Δ DONATE NOW VOLUNTEER Location PO Box 135 Niles, Mi 49120 Hours Monday—Friday 9am — 6pm Contact hello@electangelajones.com (269) 235-9656 Paid for by the Angela Jones Committee to Elect PO Box 135 Niles, Mi 49120 Loading Comments...
 Write a Comment...
-Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started
+Email (Required) Name (Required) Website ELECT ANGELA JONES FOR MICHIGAN STATE REPRESENTATIVE View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Create your own website, free on WordPress.com.
+Create your own website.
+Start free

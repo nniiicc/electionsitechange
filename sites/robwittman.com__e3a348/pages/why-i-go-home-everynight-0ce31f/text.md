@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate Why I Go Home Everynight Every day Congress is in session, I make the same two-hour drive, both ways.
+Skip to main content Skip to footer Endorsements About Get The Facts Information Voting Get Involved Issues Donate Endorsements About Get The Facts Information Voting Get Involved Issues Donate Why I Go Home Everynight Every day Congress is in session, I make the same two-hour drive, both ways.
 After the final votes of the day, I leave Washington and head home to Virginia.
 Sometimes it is late by the time I pull into my driveway.
 Then I get back on the road early the next morning and do it again.

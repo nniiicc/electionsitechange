@@ -1,7 +1,7 @@
 Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Pesach's Queens First Agenda Meet Pesach Issues Endorsements Volunteer Contact Donate Pesach's Queens First Agenda Our Top Priorities Our corner of Queens faces real challenges.
 Pesach Osina is focused on practical solutions that lower costs, improve public safety, fix transportation, and deliver results for our communities.
 Lowering Costs Improving Public Safety Protecting Seniors & Retirees Fixing Transportation Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Lowering Costs Families across our district are feeling squeezed by rising insurance premiums, utility bills, childcare costs, and everyday expenses.
-Pesach Osina will fight to hold insurance and utility companies accountable, expand tax relief for middle-class families, and make childcare more affordable.
+Pesach Osina will fight to ho ld insurance a nd utility companies accountable, expand tax relief for middle-class families, and make childcare more affordable.
 Read Pesach's Plan Improving Public Safety Every family deserves to feel safe in their neighborhood.
 Pesach will support law enforcement, fight to hold repeat offenders accountable, strengthen laws addressing organized and repeat retail theft, and work to ensure small businesses, workers, and families are protected.
 Read Pesach's Plan Protecting Seniors & Retirees South Queens families spend too much time dealing with long and unreliable commutes.

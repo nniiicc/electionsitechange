@@ -1,4 +1,4 @@
-Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Back to news Press release August 24, 2026 Vukasovich Earns United Steelworkers Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the United Steelworkers (USW), one of North America’s largest industrial unions.
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Back to news Press release August 24, 2026 Vukasovich Earns United Steelworkers Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the United Steelworkers (USW), one of North America’s largest industrial unions.
 Vukasovich Earns United Steelworkers Endorsement MONROE, Mich. — Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the United Steelworkers (USW), one of North America’s largest industrial unions.
 “I am honored to have the support of the United Steelworkers,” Vukasovich said.
 “I have spent my life working alongside people who understand that a good job is about more than a paycheck.
@@ -11,6 +11,6 @@ I will fight for good union jobs, fair trade and an economy that puts working pe
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.
-Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
 Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

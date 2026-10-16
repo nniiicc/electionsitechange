@@ -8,4 +8,4 @@ They need one who will always go to the mat for them, and back the people who ke
 I'll make sure every officer in NY-21 and across our country knows I have their back when I’m in Washington.” The endorsement adds to Constantino's growing coalition, which includes close to 400 local elected NY-21 officials.
 ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Assets Terms Privacy

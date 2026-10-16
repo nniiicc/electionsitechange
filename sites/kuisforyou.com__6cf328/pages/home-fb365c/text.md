@@ -27,26 +27,21 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Proud to have the support of organizations standing up for science, our educators, working families, reproductive freedom, gun safety, and the environment.
-These endorsements reflect the future we’re working toward—strong schools, safe communities, and opportunity for everyone.
-I’m ready to bring those priorities to Hartford and get to work for you.
-Let’s move forward together! 💙 Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Let’s create some big ballot-box energy. 🔥 Grab a friend and make your voices heard!
+Vote early October 19–November 1 or on Election Day, November 3. ✨ Vote for Michelle Embree Ku Democrat for State Representative!
+#yourvoice #vote early #vote #bigballot #landslide … See More See Less Play View Comments Like reaction Love reaction Reactions: 7 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Young adults shouldn’t have to put their future on hold.
+Young families shouldn’t have to stretch every dollar.
+And seniors shouldn’t have to worry about making ends meet.
+Everyone deserves a community they can afford to call home.
+That’s what we’re fighting for—and why Michelle Embree Ku asking for your vote.
+Vote Michelle Embree Ku Democrat for State Representative October 19 through November 1 or November 3!
+#SeniorLiving #seniorcare #families #affordable #trust #newtownct … See More See Less Play View Comments Like reaction Reactions: 6 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 12: Tax Relief Tax relief should mean more money in your pocket.
+Mitch Bolinsky voted no.
+Michelle Embree Ku will make affordability a priority—and vote for tax relief when we can.
+The difference is clear.
+Your vote makes it count.
+Look it up: PA 22-118 House Vote: www.cga.ct.gov/2022/VOTE/H/PDF/2022HV-00189-R00HB05506-HV.PDF Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
 Vote early October 19–November 1 or on Election Day, November 3.
-#endorsements #leadership #elections #vote #Science #educators #familie #freedom #school … See More See Less View Comments Like reaction Love reaction Reactions: 16 Comments: 2 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The endorsement by CSU-AAUP is meaningful to me.
-I was an adjunct professor, my father was a faculty member at a community college. and I appreciate the need for a united community to negotiate working conditions and support academic freedom.
-#education #Academic #university #college #professor #teachers #librarians #counselor #coach #endorsement Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
-Vote early October 19–November 1 or on Election Day, November 3. … See More See Less View Comments Like reaction Love reaction Reactions: 23 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 11: Affordability &amp; Tax Relief “I’ve never voted to raise your taxes” sounds impressive.
-But because of the way income taxes work, here’s how that claim is not unusual.
-At the state level, revenue grows automatically as prices and incomes rise.
-Connecticut collects more through income tax, sales tax, and investment funds without ever changing a rate.
-The Legislature may not have voted for it, but you’re likely paying more income and sales tax each year.
-Towns are different.
-Costs rise with inflation, but property-tax revenue doesn’t keep pace on its own.
-Every budget has to go through a local process and voter approval.
-Michelle evaluates budgets based on needs and resources, not ideology.
-Some years that means cuts, some years an increase, and some years no increase at all.
-And that’s the difference.
-Vote Michelle Embree Ku, Democrat for State Representative, 106th District. 🗳️ Vote early October 19–November 1 or on Election Day, November 3.
-#TheDifferenceIsClear #MichelleEmbreeKu #CT106 … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 28 Comments: 4 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 4 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+#TaxRelief #taxes #Affordability #representative #workingforyou #vote #newtownct #Connecticut … See More See Less Play View Comments Like reaction Love reaction Reactions: 12 Comments: 2 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

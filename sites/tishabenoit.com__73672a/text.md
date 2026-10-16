@@ -51,6 +51,6 @@ That means affordable housing, protecting our water, backing our farmers and ran
 Arizona comes first: Our way of life, Our economy, and Our safety.
 We don’t need another politician who just goes along to get along.
 We need someone who will stand strong, speak boldly, and bring Arizona’s voice straight into Washington, without compromise.
-Follow on Instagram To Find Out How I'll Serve Arizona GET TO KNOW ME!
+Learn More About How I'll Serve Arizona GET TO KNOW ME!
 Home Page HOME Dr.
 Tisha Benoit # © Privacy Policy Terms and Conditions

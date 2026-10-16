@@ -1,11 +1,6 @@
 Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Contact Donate Meet Cyndi Priorities Events Store Volunteer Contact Donate Join Cyndi as she travels across Oklahoma!
 The Munson Minivan Tour Campaign Events Join Us For Events Around the State!
-Enid Meet and Greet Stride Bank Center - Benson Ballroom 301 S.
-Independence Ave Enid, OK 73701 Join Cyndi Munson in Enid at Stride Bank Center - Benson Ballroom to hear about her vision for the future of Oklahoma as Governor!
-RSVP Alva Meet and Greet NWOSU Ranger Room 709 Oklahoma Blvd Alva, OK 73717 Join Cyndi Munson in Alva at NWOSU's Ranger Room to hear about her vision for the future of Oklahoma as Governor!
-RSVP Beaver Meet and Greet First Security Bank Cimarron Room 15 Douglas Ave Beaver, OK 73932 Join Cyndi Munson in Beaver at the Cimarron Room in First Security Bank to hear about her vision for the future of Oklahoma as Governor!
-RSVP Meet and Greet in Hooker, OK Olive Warner Memorial Library 111 Broadway St Hooker, OK 73945 Join Cyndi Munson in Hooker at the Olive Warner Memorial Library to hear about her vision for the future of Oklahoma as Governor!
-RSVP Guymon Meet and Greet Guymon City Hall 424 N Main St Guymon, OK 73942 Join Cyndi Munson in Guymon at City Hall to hear about her vision for the future of Oklahoma as Governor!
+Guymon Meet and Greet Guymon City Hall 424 N Main St Guymon, OK 73942 Join Cyndi Munson in Guymon at City Hall to hear about her vision for the future of Oklahoma as Governor!
 RSVP Boise City Meet and Greet PTCI Office 175 W Main St Boise City, OK 73933 Join Cyndi Munson in Boise City at the PTCI office to hear about her vision for the future of Oklahoma as Governor!
 RSVP Shattuck Meet and Greet Chamber of Commerce 115 Main St Shattuck, OK 73858 Join Cyndi Munson in Shattuck at The Chamber Hall to hear about her vision for the future of Oklahoma as Governor!
 RSVP Woodward Meet and Greet Pioneer Room 1218 9th St Woodward, OK 73801 Join Cyndi Munson in Woodward at the Pioneer Room to hear about her vision for the future of Oklahoma as Governor!

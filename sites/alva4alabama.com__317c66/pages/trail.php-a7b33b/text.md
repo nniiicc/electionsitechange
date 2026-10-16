@@ -1,7 +1,5 @@
-ALVA LAMBERT for Alabama House District 74 Home Why I'm Running Issues Trail Volunteer District Donate Campaign Trail Events, updates, and reflections from across District 74 Upcoming Events Oct 15 3:00 PM Meet Alva Lambert Industrial Partners office · 4747 Woodmere Blvd, Montgomery, AL 36106 Thursday, October 15, at 3:00 PM.
-Hosted by Nim Frazer and Todd Strange.
-Come meet Alva and talk about the future of District 74.
-Contributions may be made online or mailed to Alva Lambert Campaign, PO Box 4629, Montgomery, AL 36103.
+ALVA LAMBERT for Alabama House District 74 Home Why I'm Running Issues Trail Volunteer District Donate Campaign Trail Events, updates, and reflections from across District 74 Upcoming Events Events coming soon.
+Check back for upcoming town halls, meet-and-greets, and community events across District 74.
 From the Trail October 2026 Two Neighborhood Associations, One Tuesday Night Bellehurst Neighborhood Association.
 Vaughn Meadows Neighborhood Association.
 Vaughn Meadows, later the same evening.

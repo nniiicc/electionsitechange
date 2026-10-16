@@ -1,8 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 15 Wakulla Chamber of Commerce Business After Hours Thursday, October 15, 2026 5:30 PM 7:30 PM Barn's Spirits and Liquor (map) Google Calendar ICS NOTE: This event starts at 4:30PM Central/5:30PM Eastern.
-Join Amanda at the Wakulla County Chamber of Commerce’s October Business After Hours, hosted by Barn’s Spirits in Panacea!
-Stop by on Thursday, October 15, from 5:30–7:30 PM ET to connect with Amanda, local business owners, and community leaders for an evening of conversation about supporting small businesses and strengthening Wakulla County’s local economy.
-View Event → Oct 17 TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026 Saturday, October 17, 2026 8:30 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
+Oct 17 TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026 Saturday, October 17, 2026 8:30 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
 Join members of Team AMG and the Big Bend Filipino American Association in experiencing Filipino & Asian food, culture, live music, games & community.
 View Event → Oct 17 Blountstown Goat & Pioneer Day Saturday, October 17, 2026 9:00 AM 3:00 PM Sam Atkins Park (map) Google Calendar ICS NOTE: This event starts at 8AM Central/9AM Eastern.
 Amanda will be there with members of Team AMG!
@@ -59,6 +56,9 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 15 Wakulla Chamber of Commerce Business After Hours Thursday, October 15, 2026 5:30 PM 7:30 PM Barn's Spirits and Liquor (map) Google Calendar ICS NOTE: This event starts at 4:30PM Central/5:30PM Eastern.
+Join Amanda at the Wakulla County Chamber of Commerce’s October Business After Hours, hosted by Barn’s Spirits in Panacea!
+Stop by on Thursday, October 15, from 5:30–7:30 PM ET to connect with Amanda, local business owners, and community leaders for an evening of conversation about supporting small businesses and strengthening Wakulla County’s local economy.
 View Event → Oct 14 Westminster Oaks Forum Wednesday, October 14, 2026 7:00 PM 9:00 PM Maguire Center for Lifelong Learning (map) Google Calendar ICS NOTE: This event starts at 6PM Central/7PM Eastern.
 Amanda will be speaking.
 Hosted by FLiCRA Committee.
@@ -153,7 +153,5 @@ View Event → Sep 23 6th Annual Ray Charles Birthday Picnic Wednesday, Septembe
 Amanda will be attending with members of Team AMG!
 Hot Tamale hosts a friendly and informal picnic to celebrate the birthday of Ray Charles in his hometown of Greenville, FL!
 Amanda will attend with members of Team AMG.
-View Event → Sep 22 Walton County DWC Luncheon Tuesday, September 22, 2026 12:30 PM 1:30 PM Cantina Laredo (map) Google Calendar ICS NOTE: This event starts is at 11:30AM Central/12:30PM Eastern Walton County’s 2 Democratic candidates, Gay Valimont and Amanda Green (CDs 1 and 2), will be featured speakers at our September 22nd general membership meeting.
-They’ll be talking about issues of peak importance to them.
 View Event → TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

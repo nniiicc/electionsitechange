@@ -189,10 +189,12 @@ You agree that these Legal Terms will not be construed against us by virtue of h
 You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
 22.
 CONTACT US In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at: David Weatherspoon for TN 1436 Poplar Estates Pkwy Germantown, TN 38138 United States Phone: (+1)9013310153 davidweatherspoonfortnsenate@gmail.com David Weatherspoon for TN District 31 Connect with the campaign!
-Email * First name * Last name * Phone * Yes, subscribe me to your campaign updates.
-Subscribe *By providing your phone number and checking this box, you agree to receive SMS messages from David Weatherspoon for TN Senate regarding campaign activities.
+Email * First name * Last name * Phone Yes, subscribe me to your campaign updates.
+Subscribe * By providing your phone number and checking this box, you agree to receive political and marketing SMS messages from David Weatherspoon for TN Senate.
 Message frequency varies.
 Message and data rates may apply.
+Donations will be solicited.
 Reply STOP to unsubscribe or HELP for assistance.
+We will not share your phone number with third parties for marketing purposes.
 See our Privacy Policy and Terms of Service for more information.
 DavidWeatherspoonForTNSenate@gmail.com Free yard sign request Paid for by David Weatherspoon for TN Senate ​ © # by David Weatherspoon for TN Senate | Privacy Policy | Terms & Conditions bottom of page

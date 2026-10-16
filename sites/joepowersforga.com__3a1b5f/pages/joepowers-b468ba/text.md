@@ -1,4 +1,4 @@
-Home Meet Joe Issues Join Joe Meet Joe A dedicated servant leader.
+Home Meet Joe Issues Join Joe DONATE NOW Meet Joe A dedicated servant leader.
 A father of two, husband of 19 years, and follower of Jesus Christ since age 11, Joe lives in Dublin with his wife, Jamie, and their sons, Landon and Asher.
 The family are members of Pine Forest Methodist Church.
 Born in Toccoa, Joe’s sense of community and inclusion runs deep, shaped by his Appalachian roots and the values he learned at home.

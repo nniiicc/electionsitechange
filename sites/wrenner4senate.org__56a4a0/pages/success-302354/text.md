@@ -22,7 +22,7 @@ Vermont's new child passenger safety law proves that the state is serious about 
 Roy V.
 Hill, Jr and Governor Jim Douglas -- which designated the third Saturday in June as a commemorative holiday in Vermont, starting in 2008.
 Thanks to the suggestion and testimony from a Milton constituent, among others, we upgraded its status to a State Holiday on June 19th in 2024.
-# 3 S.141 Act to Approve the Charter of Fairfax Fire District No.
+The process of passing this bill went so smoothly that legislative staff decided to feature S.206 in their training video for new committee assistants. ​ Here is their overview of the process, from introduction to passage by the Senate and House: ​ ​ # 3 S.141 Act to Approve the Charter of Fairfax Fire District No.
 1 The charter and other paperwork that established this water district had been lost over time and due to a flood.
 We re-created the charter for the district after proving its existence.
 FFD#1 can now effectively conduct business again.

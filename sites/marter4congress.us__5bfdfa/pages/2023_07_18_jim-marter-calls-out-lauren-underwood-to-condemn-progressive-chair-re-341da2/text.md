@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 18 Jul Jim Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 18 Jul Jim Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
 Today, Marter is calling for Lauren Underwood to condemn Progressive Chair, Representative Jaypal for comments about Israel being a “racist state.” “As your next Congressman, I will always call balls and strikes when it comes to condemning anti-Semitism.
 I condemn Rep.
 Jaypal’s comments about Israel and I encourage Lauren Underwood to do the same”, said Marter.

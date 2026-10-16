@@ -17,9 +17,12 @@ Born and raised in South Texas, Justice Silva understands the values that define
 Your contribution helps us share that record with voters across the twenty counties of the Thirteenth Court of Appeals District.
 Contribute Today TRUSTED BY LEADERS ACROSS TEXAS ★ Throughout her career, Justice Silva has earned the confidence and support of respected leaders, organizations, attorneys, and community members who recognize her commitment to fairness, integrity, and the rule of law.
 NEWS & UPDATES Stay informed about campaign announcements, community events, endorsements, and updates from Justice Clarissa Silva’s re-election campaign.
-VIEW ALL NEWS June 16, 2026 Why Judicial Experience Matters Judicial experience matters on the Texas Thirteenth Court of Appeals.
+VIEW ALL NEWS October 13, 2026 Your Vote.
+Your Voice.
+Make It Count! | 2026 Texas General Election Voter Guide Every election is an opportunity to participate in shaping the future of our communities.
+Voting is one of… READ MORE June 16, 2026 Why Judicial Experience Matters Judicial experience matters on the Texas Thirteenth Court of Appeals.
 Learn why Justice Clarissa Silva’s legal background, appellate… READ MORE June 16, 2026 Justice Begins with Integrity Trust in the courts begins with trust in the judiciary.
-Learn why integrity, character, and professionalism matter in… READ MORE May 16, 2026 The Role of the Thirteenth Court of Appeals Learn what the Texas Thirteenth Court of Appeals does and why appellate courts play an important role in… READ MORE GET INVOLVED MAKE A DIFFERENCE Help us continue sharing a message of integrity, experience, and trust throughout South Texas.
+Learn why integrity, character, and professionalism matter in… READ MORE GET INVOLVED MAKE A DIFFERENCE Help us continue sharing a message of integrity, experience, and trust throughout South Texas.
 VOLUNTEER Join our team and help spread the word.
 SIGN UP YARD SIGN Show your support in your neighborhood.
 REQUEST A SIGN CONTRIBUTE Your support helps us keep Texas justice strong.

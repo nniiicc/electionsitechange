@@ -2,8 +2,8 @@ Skip to content HOME MEET MARK RESULTS GET INVOLVED HOME MEET MARK RESULTS GET I
 Delivering Results.
 Re-Elect Mark Lawson State Representative • District 30 Proven Leadership.
 Delivering Results.
-Sign Up & Join the Team Full Name Email Phone Opt-In By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts including possible fundraising solicitations, updates, and other important information from Paid for by Mark Lawson 2026.
-By participating, you agree to the terms & privacy policy for messages from Paid for by Mark Lawson 2026 to the phone number you provide.
+Sign Up & Join the Team Full Name Email Phone Opt-In By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information from Paid for by Friends of Mark Lawson 2026.
+By participating, you agree to the terms & privacy policy for messages from Paid for by Friends Mark Lawson 2026 to the phone number you provide.
 Message frequency may vary.
 Msg & data rates may apply.
 Reply HELP for help or STOP to opt-out at any time.

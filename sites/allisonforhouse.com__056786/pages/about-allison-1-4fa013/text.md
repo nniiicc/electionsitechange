@@ -1,5 +1,6 @@
 Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE About Allison About Allison Legislative History Why I'm Running About Allison Allison is a proud Raleigh native, and has always called North Carolina her home.
 View fullsize Allison & Lou's Wedding.
+Allison & Lou's Wedding.
 Born at the “old Rex Hospital,” Allison spent most of her childhood in Raleigh, graduating from Broughton High School.
 It was at Broughton where Allison first felt called to the stage and began to dream of a career on Broadway.
 That dream took her to the University of South Carolina where she received her BA in Theatre and Speech.
@@ -11,6 +12,7 @@ In both places she continued working with people with disabilities assisting the
 While at the ARC of NC she led efforts to provide supported employment for the disabled throughout North Carolina and worked with other agencies across the state to start Supported Employment Programs.
 She then took a job at Columbus industries in the southeast of the state to continue to support individuals with disabilities to find work that assisted them in gaining their independence and promoted their self-worth.
 View fullsize Allison and her dogs, Fritz and Ollie.
+Allison and her dogs, Fritz and Ollie.
 She moved back to Raleigh full-time in 2003 to be closer to family, working in a local law firm.
 Allison’s mother, Anne C.
 Dahle, has always been a strong role model in her life.

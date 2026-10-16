@@ -1,0 +1,4 @@
+Home About Calendar of Events Privacy Policy Terms and Conditions Home About Calendar of Events Privacy Policy Terms and Conditions More Home About Calendar of Events Privacy Policy Terms and Conditions Home About Calendar of Events Privacy Policy Terms and Conditions Privacy Policy Privacy Policy No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Carriers are not liable for delayed or undelivered messages.
+If you have questions about this Privacy Policy or how your information is used, please contact: Campaign to Elect Deb Mayfield Website: www.Deb4VT.com Support Email: Deb@Deb4VT.com Instagram Reviews Connect With Us Paid for By the Campaign to Elect Deb Mayfield 3155 Shelburne Rd Shelburne, VT 05482 (802) 355-1597 Copyright © # Deb4vt - All Rights Reserved.

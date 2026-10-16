@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Crime & Safety May 19 Written By Joseph Rubay Rebecca Bauer-Kahan prioritizes criminals under the guise of “social justice.” I will prioritize our families and our safety.
+0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Crime & Safety May 19 Written by Joseph Rubay Rebecca Bauer-Kahan prioritizes criminals under the guise of “social justice.” I will prioritize our families and our safety.
 May 19, 2024 California is now ranked the 5th most dangerous state in the country, according to a new Forbes ranking .
 My opponent and your current State Assembly representative, Rebecca Bauer-Kahan, is one of the foremost proponents of helping put violent criminals and repeat offenders immediately back on the streets through the elimination of cash bail.
 In this article Ms.

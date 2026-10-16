@@ -7,7 +7,8 @@ NOW.
 Learn More From Classroom to City Hall to Congress: Proven Leadership for NC Cyril brings proven leadership from classroom to city hall to Congress.
 As a former teacher and mayor, he's delivered real results: 67% drop in violent crime, $10 million for workforce development, and national recognition.
 From preserving democracy to affordability, healthcare to housing, Cyril fights for solutions that strengthen North Carolina families.
-Help us win this race! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Our priorities Read below for some of our top priorities Affordability and Cost of Living Healthcare and Hunger Relief Education and Workforce Development Public Safety & Quality of Life Economic Development and Infrastructure National Security and Immigration Read More news & press Latest Campaign Developments So much will be happening .
+Help us win this race! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Our priorities Building a Stronger Future These are the essential priorities Cyril will fight for in Washington.
+Affordability and Cost of Living Healthcare and Hunger Relief Education and Workforce Development Public Safety & Quality of Life Economic Development and Infrastructure National Security and Immigration Read More news & press Latest Campaign Developments So much will be happening .
 Stay tuned as we share it all with you!
 FORWARD.
 TOGETHER.

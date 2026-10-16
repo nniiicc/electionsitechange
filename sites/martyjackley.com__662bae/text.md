@@ -14,5 +14,6 @@ Marty went on to serve as U.S.
 Attorney and four-term Attorney General, endorsed by President Trump for Congress.
 READ THE FULL STORY The oath, from his father's hand Mike Jackley swears in his son as Attorney General Sportsmen for Jackley Hunters, anglers, and outdoor families across South Dakota are standing with Marty.
 Share a photo of your big game, birds, or fish and join the Wall of Sportsmen.
-Visit the site Visit SportsmenForJackley.com → On the trail NOV 3 Details to come Election Day Location TBD DETAILS → Stay in the fight Get campaign updates by email.
-JOIN Facebook X Instagram Privacy Policy Terms of Service DONATE Paid for by Marty Jackley for Congress
+Visit the site Visit SportsmenForJackley.com → On the trail OCT 16 9:00 AM Meet and Greet: Mobridge Wrangler Inn, 820 West Grand Crossing, Mobridge DETAILS → OCT 16 3:00 PM Meet and Greet: Britton Snappers, 609 Main St., Britton DETAILS → OCT 16 7:00 PM Meet and Greet: Aberdeen Allevity Entertainment, 130 Centennial St.
+S., Aberdeen DETAILS → OCT 17 10:00 AM Sioux Falls Super Saturday 601 N.
+Main Ave., Sioux Falls DETAILS → NOV 3 Details to come Election Day Location TBD DETAILS → Facebook X Instagram Privacy Policy Terms of Service DONATE Paid for by Marty Jackley for Congress

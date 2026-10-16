@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 13 Jan Today James Marter, Republican for Congress in Illinois’ 14th District, announced that he is challenging his primary opponents to a town hall debate.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 13 Jan Today James Marter, Republican for Congress in Illinois’ 14th District, announced that he is challenging his primary opponents to a town hall debate.
 Marter’s Communications Director explains, “James is the most qualified and most ready for the job.
 He’s the only candidate who has been calling out Lauren Underwood on the issues and the only one who has been actively campaigning throughout the district.
 James is heavily endorsed, not only by issue-experts on the national side, but also local business, political and grassroots leaders.

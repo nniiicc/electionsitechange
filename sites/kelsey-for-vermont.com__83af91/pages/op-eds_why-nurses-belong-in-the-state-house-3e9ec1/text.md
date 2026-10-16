@@ -1,7 +1,7 @@
 0 Skip to Content Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
-Endorsements Contact Donate Why Nurses Belong in the State House Oct 6 Written By Kelsey Pasteris What makes someone an effective elected official?
+Endorsements Contact Donate Why Nurses Belong in the State House Oct 6 Written by Kelsey Pasteris What makes someone an effective elected official?
 At its core, public service requires listening, problem-solving, ethical responsibility, and the willingness to adapt when something isn’t working.
 These are not abstract ideals – they are the daily practice of nursing.
 That’s why nurses will excel in elected office.

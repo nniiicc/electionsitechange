@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES Protect Our Future For Our Kids, Our Land, and the Next Generation Some fights aren't about today's paycheck — they're about what we leave behind.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES Protect Our Future For Our Kids, Our Land, and the Next Generation Some fights aren't about today's paycheck — they're about what we leave behind.
 A government that lives within its means.
 Water that doesn't run out.
 Family farms that survive.

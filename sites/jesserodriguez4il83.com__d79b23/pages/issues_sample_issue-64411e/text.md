@@ -18,4 +18,4 @@ Net result: a cash infusion to the state coffers, though gas prices may have dec
 Tying the gas sales tax to the CPI-U index, largely unrelated to the cost of filling up your truck, car or motorcycle, is automatically making it harder for Illinois families to make ends meet.
 The broad CPI-U tie in should be discontinued and our politicians should have to explain each year why they want more money, as well as explain what was spent with what was collected. « Previous: Scholarship Choice: Opt-In?
 Yes!
-Next: Ethics Reform » Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Ethics Reform » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

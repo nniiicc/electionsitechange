@@ -1,4 +1,4 @@
-Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 14 Jun OSWEGO, IL, UNITED STATES, June 14, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the Endorsement of Congressman Darin LaHood.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer News Issues Endorsements Videos My Opponent Donate 14 Jun OSWEGO, IL, UNITED STATES, June 14, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the Endorsement of Congressman Darin LaHood.
 “I am proud to give my full endorsement and support to Jim Marter, the Republican nominee for Illinois’ 14th Congressional District,” said Congressman LaHood.
 “Jim has a decade of service to his community that provides him with the necessary skills and demeanor to serve the hard-working residents of his Congressional District.
 I am confident Jim will never waver on our shared belief in limited government, and his desire to keep the American Dream a reality for all who seek it.

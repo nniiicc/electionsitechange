@@ -1,12 +1,12 @@
-top of page Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 2026 Voting Guide IF YOU HAVE ANY QUESTION ON HOW TO SAFELY AND SECURELY VOTE PLEASE REACH OUT TO ME.
 I AM ALWAYS HERE TO HELP!
-702-268-9921 rebecca@edgeworthfornevada.com Check your Registration Register to vote!
+702-268-9921 Rebecca@Edgeworthfornevada.com Check your Registration Register to vote!
 Confirm your Registration and Address Update registration MAKE A PLAN TO VOTE !
 Online portal Mail in your ballot Check your mail box today!
 Post marked on or before Nov 3rd Early Voting Oct 17th - Oct 30th Register and vote same day at any early voting site.
 Election Day Nov 3rd Register and vote same day at any voting site!
-7AM - 7PM Find your voting location Locations nearest to District 35 Blue Diamond Crossing Center 4100 Blue Diamond Rd Desert Oasis High School 6600 W Erie Ave.
+7AM - 7PM Find A Voting Location Now Locations nearest to District 35 Blue Diamond Crossing Center 4100 Blue Diamond Rd Desert Oasis High School 6600 W Erie Ave.
 Mountain's Edge Regional Park 8101 W.
 Mountains Edge PKWY Tarkanian Middle School 5800 W Pyle Ave.
 View full list of early and election day voting sites.

@@ -25,5 +25,5 @@ Not for recognition.
 But because love for the next generation is one of the strongest reasons there is to step forward and do the hard work.
 My grandchildren are my daily reminder that our best days don't have to be behind us.
 I hope you'll join me in building that future—for them, and for all of ours.
-Laurie Recent Posts See All “What Mississippi Did to Improve Reading—and Why Illinois Should Pay Attention” “Only 1 in 3 Illinois Students Can Read at Grade Level.
-Why Aren't We Fixing It?” Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page
+Laurie Recent Posts See All McHenry County Voter Guide: Key Dates for November 2026 “What Mississippi Did to Improve Reading—and Why Illinois Should Pay Attention” “Only 1 in 3 Illinois Students Can Read at Grade Level.
+Why Aren't We Fixing It?” Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

@@ -24,7 +24,7 @@ During the Elk Fire, volunteer firefighters saved our home.
 I know firsthand what it means to have neighbors willing to put themselves in harm's way to protect others.
 Thank you to everyone who responded to the Border Fire, and especially to the volunteers who give so much of their time to protect their neighbors. ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 26 Shares: 1 Comments: 2 Butcher for Wyoming Senate District 21 #ago Formal Senate training starts in December and continues in January, but I’m not much of a wait-until-then person.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 33 Shares: 1 Comments: 3 Butcher for Wyoming Senate District 21 #ago Formal Senate training starts in December and continues in January, but I’m not much of a wait-until-then person.
 Since the primary, I’ve been using this time to prepare.
 I’ve been reviewing past committee work and legislation, spending time with the state budget, talking with people who know these issues well, and looking closely at what may be coming in 2027.
 I’m also exploring some possible legislation of my own, based on conversations with constituents during the campaign.

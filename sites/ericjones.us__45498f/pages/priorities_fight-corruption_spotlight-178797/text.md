@@ -1,4 +1,4 @@
-0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Shine a Spotlight on Money and Influence Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Answers Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Shine a Spotlight on Money and Influence Why I believe this — and how I’ll fight for it.
 Everything on these pages comes back to one question: who’s really paying — and do you get to know?
 Corruption grows in the dark , and the most powerful disinfectant we have is sunlight.
 The simple rule that if someone is spending money to influence your vote or your government, you have the right to know exactly who they are.

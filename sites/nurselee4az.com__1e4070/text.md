@@ -1,5 +1,7 @@
 Skip navigation menu About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate ARIZONA'S FIFTH CONGRESSIONAL DISTRICT FOR AN AFFORDABLE, JUST, AND PROSPEROUS ARIZONA GET INVOLVED NOW!
 About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate ARIZONA'S FIFTH CONGRESSIONAL DISTRICT FOR AN AFFORDABLE, JUST, AND PROSPEROUS ARIZONA GET INVOLVED NOW!
+We the People Demand Better Elizabeth Lee is the leader Washington needs because she brings real-world experience solving the problems people actually face.
+She’s building a people-powered campaign rooted in accountability and results, with one clear commitment: to fight for working families and deliver solutions that improve lives.
 AFFORDABILITY HONEST GOVERNMENT RECLAIMING THE AMERICAN DREAM AND, WHEN WE COME TOGETHER WE ARE UNSTOPPABLE.
 Share Now YOUR CONTRIBUTIONS FUEL THIS MOVEMENT!
 Elizabeth is committed to being beholden to one group only and that is the residents of Arizona's 5th Congressional District.

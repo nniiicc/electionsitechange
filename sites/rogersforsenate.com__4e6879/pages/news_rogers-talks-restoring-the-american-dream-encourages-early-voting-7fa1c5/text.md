@@ -28,7 +28,7 @@ After ISIS devastated ancient Christian communities across Iraq, we worked to he
 Those experiences have taught me never to take the freedoms we have in America for granted — especially our right to make our voices heard.
 And that means voting… So don't wait until Election Day if you don't have to…This Senate race is truly a fight for the soul of our nation, and that is why I am here today supporting Mike Rogers.” – Zina Kiryakos, Baghdad-born Chaldean-American attorney and President of the Iraqi Christian Foundation Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
 ### Alyssa Brouillet Previous Previous MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S.
-SENATE Next Next ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+SENATE Next Next ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

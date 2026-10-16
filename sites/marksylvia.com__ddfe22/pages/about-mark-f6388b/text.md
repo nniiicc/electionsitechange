@@ -1,5 +1,5 @@
-top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer with Team Sylvia!
-News in the 10th Events Join Team Sylvia More Use tab to navigate through the menu items.
+top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer!
+News Events Join Us More Use tab to navigate through the menu items.
 ABOUT MARK The person I am and the life I've lived are a reflection of the decent, hardworking people of the 10th Bristol District.
 I grew up here.
 I raised my family here.

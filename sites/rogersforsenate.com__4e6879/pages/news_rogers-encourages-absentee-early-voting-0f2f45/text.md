@@ -15,7 +15,7 @@ Senate His statement comes as clerks mail absentee ballots today.
 Michiganders can visit RogerForSenate.com/HowToVote to find additional information on when, where, and how to vote.
 Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
 ### Hinson Peed Previous Previous ROGERS DROPS NEW ADS, CONTRASTS LAW ENFORCEMENT BACKGROUND WITH ABDUL’S SOFT-ON-CRIME AGENDA Next Next MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S.
-SENATE CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+SENATE MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

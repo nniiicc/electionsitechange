@@ -1,4 +1,4 @@
-Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Restore Wisconsin.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Contact Restore Wisconsin.
 Jon Aleckson for Assembly District 50.
 Donate Today Get Involved Primary Election: August 11, 2026 | General Election: November 3, 2026 Meet Jon I Am Jon Aleckson I am running for State Representative in Wisconsin’s 50th District.
 The 50th is all of Green County and five towns in Southwestern Dane County.
@@ -52,14 +52,17 @@ Meeting voters On the parade route Campaign on the move Main Street Green County
 Sign up for yard signs, door knocking, or general volunteer opportunities.
 Full name * Email * Phone (optional) ZIP code * How would you like to help?
 Display a yard sign Door knocking / canvassing General volunteer (events, phone calls, etc.) Questions?
-Email info@jonaleckson.com .
+Email Alecksonforassembly@gmail.com .
 By submitting, you agree to receive messages from the campaign.
 Sign Up to Volunteer Thank you!
 Your sign-up was sent.
 Our team will be in touch soon.
 Follow the campaign On Facebook See Jon’s latest posts from the trail and join the conversation.
 Aleckson for Assembly Follow See Jon’s latest posts Open the campaign Facebook page to read updates from the trail.
-View posts on Facebook Open latest posts on Facebook Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
+View posts on Facebook Open latest posts on Facebook Contact Us Email the campaign Questions, ideas, or a message for Jon?
+Write Aleckson for Assembly at this address: Email Alecksonforassembly @gmail.com Select the address to copy it, or click it to open your email app.
+Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
 Not authorized by any candidate or candidate’s committee.
 Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
-All rights reserved. info@jonaleckson.com
+All rights reserved.
+Contact Us Alecksonforassembly@gmail.com

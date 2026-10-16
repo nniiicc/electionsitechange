@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Oversight Outline: Minnesota invests billions in public infrastructure, but funding projects is only half the battle.
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Infrastructure Oversight Outline: Minnesota invests billions in public infrastructure, but funding projects is only half the battle.
 Senator Ann Johnson Stewart—the only licensed civil engineer in the Minnesota Senate—uses industry-standard lifecycle cost analysis to ensure state investments deliver maximum durability and protect taxpayers from costly, short-sighted construction failures.
 Key Takeaways: Lifecycle Cost Analysis (LCCA): Auditing the 50-year operational and maintenance costs of a project before approving funding, moving past short-sighted “low bid” political budgeting.
 Capital Investment Accountability: Vetting projects for true shovel-readiness and value engineering to maximize the return on investment for state bond proceeds and federal matching funds.

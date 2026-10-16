@@ -1,12 +1,13 @@
 {
  "description": "Find upcoming campaign events and volunteer opportunities with Lauren Jewett for Congress.",
  "final_url": "https://www.laurenjewett.com/events",
- "fingerprint": "3c5ece0d60fa7c5f2685b16060882b8c88f577f4",
+ "fingerprint": "5e8399d10b4e0eb755d54bfdcb389f53a5982aaf",
  "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #",
  "rendered": false,
  "title": "Events | Lauren Jewett for Congress",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2029"
  ]
 }

@@ -1,9 +1,10 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.accaliaforarizona.com/issues/sample_issue",
- "fingerprint": "0c3efcb337bbdc5ee5cba4e96c10ee67ba88bc91",
+ "fingerprint": "6639cd2de04a922e69068eba68bde06843a36921",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Affordability & Cost of Living",
  "years_mentioned": []
 }

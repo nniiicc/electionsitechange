@@ -15,5 +15,6 @@ Volunteer Help reach voters and build local momentum.
 Volunteer Request a Yard Sign Show your support in the community.
 Request a sign Join the Email List Get campaign updates and ways to help.
 Join the list Contact the Campaign Email HoseyforRI@gmail.com or call 401-492-8945.
-Contact Joe's team Latest Updates On the Campaign Trail @HoseyforRI f Follow on Facebook IG Follow on Instagram X Follow on X Together, we can put Rhode Island on the right track.
+Contact Joe's team Latest Updates On the Campaign Trail @HoseyforRI f Facebook See Joe's latest campaign updates Visit @HoseyforRI for the latest posts, photos, and videos.
+View Latest Posts on Facebook f Follow on Facebook IG Follow on Instagram X Follow on X Together, we can put Rhode Island on the right track.
 Donate Volunteer Elect Joe Hosey Facebook: HoseyforRI X: HoseyforRI Instagram: HoseyforRI Phone: 401-492-8945 Email: HoseyforRI@gmail.com

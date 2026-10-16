@@ -1,5 +1,4 @@
-top of page Meet Jillaire Issues Civility Healthy Families Prioritizing Education Gun Violence Prevention Environment Accessible Communities Endorsements Events Media Get Involved DONATE Join Jillaire at an Event Canvassing in Firestone Oct 15, 2026, 4:00 PM Firestone Join Team McMillan to knock doors and connect with voters in Firestone.
-Share Learn More & RSVP Canvassing in Erie Oct 17, 2026, 9:30 AM Erie Join Team McMillan to knock doors and connect with voters in Erie.
+top of page Meet Jillaire Issues Civility Healthy Families Prioritizing Education Gun Violence Prevention Environment Accessible Communities Endorsements Events Media Get Involved DONATE Join Jillaire at an Event Canvassing in Erie Oct 17, 2026, 9:30 AM Erie Join Team McMillan to knock doors and connect with voters in Erie.
 Share Learn More & RSVP Canvassing in Firestone for Jillaire and Manny Oct 17, 2026, 10:00 AM Firestone Join Team McMillan and Team Rutinel to knock doors and connect with voters in Firestone.
 There will be a shift at 10am and one at 12pm.
 Share Learn More & RSVP Fundraiser featuring Governor Gretchen Whitmer Oct 17, 2026, 5:00 PM – 6:20 PM Lakewood, CO, USA Come hear from Governor Whitmer and support the women running in Colorado's most competitive State House Races.
