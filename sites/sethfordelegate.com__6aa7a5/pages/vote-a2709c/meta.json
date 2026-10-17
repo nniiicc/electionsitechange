@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.sethfordelegate.com/vote",
- "fingerprint": "9a7627be12bd26c0dbfe307aa87bf8e7d3c8d172",
+ "fingerprint": "3343c70fc177225da0672afae2ad6f5eed1e5ee2",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

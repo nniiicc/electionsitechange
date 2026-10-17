@@ -83,6 +83,13 @@ Show up , whether that means early voting in October or heading to the polls on 
 A district this size can be decided by a small number of votes, which means your ballot carries real weight.
 The decisions made in the Georgia House affect every kitchen table in Tattnall, Jeff Davis, Appling, and Evans Counties, from the price of electricity to whether the local hospital can keep its doors open.
 Make sure your voice is part of that decision this November.
+THE FIELD REPORT • VOTER ACCESS GUIDE Never Miss an Election Deadline or Town Hall in District 157 Receive non-partisan ballot translations, early voting schedules, and candidate comparisons sent straight to your inbox before you head to the ballot box.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Get Voter Updates Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • What Is District 157? – Geography and Shared Identity – Demographics That Define the District • Who’s on the Ballot? – Micah King: A Commonsense, Working-Families Candidate – The Incumbent – Other Races on Your Ballot • How to Vote in the 2026 Election – Key 2026 Dates – How to Register – What to Bring on Election Day – Absentee and Advance Voting Options • Key Issues in the District – Cost of Living – Rural Healthcare – Protecting Agriculture • Non-Partisan Voting Resources • County Election Directory – Tattnall County Board of Elections and Registration – Jeff Davis County Board of Elections – Appling County Board of Elections – Evans County Board of Elections and Registration • What You Can Do Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

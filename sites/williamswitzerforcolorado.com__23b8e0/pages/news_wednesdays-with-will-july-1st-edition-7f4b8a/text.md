@@ -24,4 +24,4 @@ The creative economy deserves advocates, not obstacles.
 I have been, and will always be, one for the state of Colorado.
 Join in on the conversation: Please Like, Share, Post, and continue to push this instagram post across your social media.
 It is gaining the attention that will allow us to be a prominent voice of reason and a piece in stopping this detrimental proposal before it becomes a reality.
-Open with Instagram View on Facebook Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Open with Instagram View on Facebook Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

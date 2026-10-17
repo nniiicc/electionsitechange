@@ -27,4 +27,4 @@ The bill requires Uber and other ride-booking companies to put an illuminated si
 The bill seeks to increase the distance the rider can start the verification process, but still encourages riders to check to make sure the license plate and car match with the app.
 North Carolina legislators filed an identical Uber Safety Bill in their State House this week.
 As always, it's my honor to serve you in Columbia.
-Never hesitate to contact me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Never hesitate to contact me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

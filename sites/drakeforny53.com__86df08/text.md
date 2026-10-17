@@ -1,9 +1,6 @@
 top of page MEET MANDI EVENTS MERCH GET INVOLVED More Use tab to navigate through the menu items.
 CONTRIBUTE MANDI DRAKE A NEW GENERATION.
 FOR NEW YORK.
-First name * Zip * Email * Phone SIGN UP FOR UPDATES By submitting your information, you consent to receive emails and/or phone messages from Drake For New York 53 and its affiliates.
-Message frequency may vary.
-You can unsubscribe at any time.
 FOLLOW MANDI ON SOCIAL MEDIA ENDORSED!
 MEET MANDI DONATE GET INVOLVED MY NAME IS MANDI DRAKE .
 I’m a lifelong Mohawk Valley resident, an art educator, a local small business owner, and someone who grew up in a working-class family that shaped my understanding of what economic pressure really feels like.

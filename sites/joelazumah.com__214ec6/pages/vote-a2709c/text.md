@@ -9,4 +9,4 @@ You can also receive absentee ballots from the NYC Board of Elections.
 You do not need to be a Republican to vote for Joel Anabilah-Azumah in the General Election .
 You do not have to vote the same party all of the way down the ballot.
 If anyone tells you otherwise at your polling station, please contact us so that we can have law enforcement take the appropriate actions.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Joel Anabilah-Azumah Powered by CampaignPartner.com - Political Campaign Websites Home Meet Joel Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Joel Anabilah-Azumah Powered by CampaignPartner.com Home Meet Joel Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

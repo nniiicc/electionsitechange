@@ -9,6 +9,6 @@ WACOPS membership is made up of law enforcement guilds from across the state.
 The more agencies involved, the stronger voice we have.
 Drew is also endorsed by a number of other law enforcement organizations, including the Fraternal Order of Police and Washington State Patrol Troopers Association.
 See the full list here .
-Endorsements In the News public safety More For You Stokesbary named “Guardian of Small Business” by NFIB Awards Endorsed by Stand for Children!
-Endorsements State Patrol Troopers endorse Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News public safety More For You Stokesbary named “Guardian of Small Business” by NFIB Awards Rep.
+Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

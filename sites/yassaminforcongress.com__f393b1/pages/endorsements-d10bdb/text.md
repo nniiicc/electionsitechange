@@ -1,4 +1,4 @@
-Skip to content Meet Yass News Endorsements Contact Shop Contribute Endorsements proudly endorsed by: Get Involved Paid for by Yassamin Ansari for Congress.
+Skip to content Meet Yass News Endorsements Contact Shop Contribute Endorsements proudly endorsed by: Labor and Community Organizations Elected Leaders SENATOR MARK KELLY GOVERNOR KATIE HOBBS ATTORNEY GENERAL KRIS MAYES SECRETARY OF STATE ADRIAN FONTES Get Involved Paid for by Yassamin Ansari for Congress.
 Contribute by check: Yassamin Ansari for Congress P.O.
 Box 13524, Phoenix, AZ 85002 © Copyright #.
 All rights reserved.

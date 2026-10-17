@@ -10,5 +10,5 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com - Political Websites Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
 YARD SIGN REQUEST Contribute Close Menu

@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Jun 9 2026 PRESS RELEASE Former State Rep.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Jun 9 2026 PRESS RELEASE Former State Rep.
 Ben Diamond Endorses Leela Gray for Florida's 13th Congressional District FOR IMMEDIATE RELEASE DATE : June 9, 2026 CONTACT : press@leelagray.com St Petersburg, FL – Today, retired Brigadier General and Democratic congressional candidate Leela Gray announced the endorsement of former Florida State Representative Ben Diamond.
 A Pinellas County native and one of the most respected Democratic voices in the Tampa Bay area, Diamond joins a growing coalition of community and elected leaders who have rallied behind Gray's campaign to bring grounded, accountable leadership to a district that deserves a representative who shows up and gets things done.
 “As a retired Army Brigadier General who served three decades in the United States Army, Leela Gray is exactly the leader we need fighting for us in Washington,” said Diamond.

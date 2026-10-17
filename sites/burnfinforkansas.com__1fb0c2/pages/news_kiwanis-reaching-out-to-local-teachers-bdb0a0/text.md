@@ -32,4 +32,4 @@ Each member has 40 to 50 homes on their route, and there are nine routes.
 The residents pay $30 for the flag program for the year.
 This year is the 100th anniversary of the Kiwanis movement.
 Kiwanis International was founded in 1915 in Detroit, and became an international organization with the creation of the Kiwanis Club of Hamilton, Ontario, the following year.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

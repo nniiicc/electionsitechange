@@ -1,7 +1,15 @@
 0 Skip to Content Home Issues About Get Involved Town Halls Vote Reach Donate Open Menu Close Menu Donate Home Issues About Get Involved Town Halls Vote Reach Open Menu Close Menu Home Issues About Get Involved Town Halls Vote Reach Donate Democrat · U.S.
 Congress · PA-14 Alan Bradstock for United States Congress — Pennsylvania’s 14th District Bring Competency Back to Congress A Desert Storm combat veteran and retired FBI agent rooted in Western Pennsylvania — running to restore integrity in Washington and stand up for working families.
 Donate Meet Alan Yard Signs Combat Veteran Retired FBI Agent Lifelong Public Servant Scroll to explore # Years U.S.
-Army # Years FBI Special Agent Desert Storm Combat Veteran PA-14 Born & Raised in Western PA Watch Our Campaign Launch A combat veteran and retired FBI agent running to bring competency back to Congress — watch the launch of Alan’s campaign for Pennsylvania’s 14th District.
+Army # Years FBI Special Agent Desert Storm Combat Veteran PA-14 Born & Raised in Western PA Next deadline Election Day Tuesday, Nov.
+3 Polls open 7 a.m. to 8 p.m.
+Register Oct.
+19 Mail ballot Oct.
+27 Election Day Nov.
+3 What you can do today Pick one.
+Every one of these moves PA-14.
+Register to vote Or check your status Vote by mail Request your ballot Find your polling place Where to vote on Nov.
+3 Knock doors Join a canvass near you Make calls from home Virtual phone bank Chip in Keep it people-funded Watch Our Campaign Launch A combat veteran and retired FBI agent running to bring competency back to Congress — watch the launch of Alan’s campaign for Pennsylvania’s 14th District.
 The District Pennsylvania’s 14th District Alan is running to represent southwestern Pennsylvania: Greene, Fayette, Washington, and Somerset counties, plus parts of Westmoreland and Indiana.
 Explore the district below.
 PA-14 District County Lines Tap the map to zoom in and out Meet Alan A Lifetime of Service.

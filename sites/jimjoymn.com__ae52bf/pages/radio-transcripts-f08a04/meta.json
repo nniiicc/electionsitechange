@@ -1,12 +1,12 @@
 {
  "description": "Explore Minnesota House Radio Scripts by Jim Joy, dedicated to serving District 4B with community-focused messages and updates.",
  "final_url": "https://jimjoymn.com/radio-transcripts",
- "fingerprint": "04438576f7c9ff675ce41afd101279d304fac92f",
+ "fingerprint": "ec01a7e8f90357dff9df425962238d33221fa911",
  "format": 3,
- "paid_for_by": "Paid for by Jim Joy for House",
+ "paid_for_by": "paid for by Jim Joy for House",
+ "rendered": false,
  "title": "Radio Transcripts",
  "years_mentioned": [
-  "2023",
-  "2024"
+  "2026"
  ]
 }

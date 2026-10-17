@@ -5,7 +5,8 @@ Bobby is available to discuss Utah and national politics; his campaign for Utah�
 INDEPENDENT MEDIA WELCOME From quick comments to long-form conversations.
 Bobby welcomes invitations from established news organizations as well as independent journalists, podcasters, YouTubers, livestream hosts, and other serious content creators.
 Whether you are requesting a five-minute comment, a long-form podcast conversation, an on-camera interview, or an appearance at an event, please reach out.
-MEDIA REQUESTS Help us respond quickly.
+Campaign Media Featured Video Watch the latest featured video from Bobby Darvish for Congress. ▶ Watch video directly on YouTube If the embedded player is unavailable, use the button above to watch the video on YouTube.
+Campaign Video Short Watch another campaign video from Bobby Darvish. ▶ Watch Short directly on YouTube More Campaign Media Watch this video starting at 35:57. ▶ Watch video directly on YouTube Additional Campaign Video Watch another video featuring Bobby Darvish. ▶ Watch video directly on YouTube Bobby Darvish • Conservative Write-In Candidate • Utah's 1st Congressional District • www.darvishforcongress.com MEDIA REQUESTS Help us respond quickly.
 Please include your name, media outlet or channel, website or social-media channel, interview format, proposed topics, date and time, whether it is live or prerecorded, whether it is in-person or remote, and your best contact information.
 Put MEDIA REQUEST at the beginning of your subject line so the campaign can identify your inquiry quickly.
 Open Media Request Form campaign@darvishforcongress.com REQUEST AN INTERVIEW Send a media request.

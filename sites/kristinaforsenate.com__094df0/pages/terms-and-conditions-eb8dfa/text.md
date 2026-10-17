@@ -1,5 +1,5 @@
 Skip to main content About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate Now Legal Terms & Conditions.
-Last updated: April 2026 • Paid for by Friends of Kristina Contents 1.
+Last updated: October 17, 2026 • Paid for by Friends of Kristina Contents 1.
 Acceptance of Terms 2.
 SMS Text Messaging 3.
 Email Communications 4.
@@ -34,14 +34,15 @@ HELP Command For help, text HELP or contact us at kristina@kristinaforsenate.com
 You will receive instructions on how to use the service.
 Carriers are not liable for delayed or undelivered messages.
 Email Communications By subscribing to receive email updates from Friends of Kristina, you consent to receive automated recurring email messages including campaign news, donation requests, event invitations, and volunteer opportunities.
-We send emails through Mailchimp. [Note: Confirm email platform before launch.] Subscribers may receive multiple messages per week.
+We send emails through Mailchimp.
+Subscribers may receive multiple messages per week.
 We do not charge for these services; however, your internet service provider's standard rates may apply.
 You may unsubscribe at any time by clicking the unsubscribe link at the bottom of any email or by contacting us at kristina@kristinaforsenate.com .
 Contributions & Donations Online contributions to Friends of Kristina are processed by Anedot ( anedot.com ).
 By contributing through our donation page, you agree to their terms of service and privacy policy in addition to these Terms.
 You must be 18 years of age or older to make a contribution.
-Processing fees may apply.
-Anedot processes transactions as final; however, Friends of Kristina may issue refunds at its discretion or as required by applicable campaign finance law, including for contributions that exceed legal limits or are from prohibited sources.
+Processing fees may apply and may be non-refundable.
+Friends of Kristina may issue refunds at its discretion, and will issue refunds where required by Washington State campaign finance law (Title 29B RCW) and the rules of the Public Disclosure Commission — including contributions that exceed applicable limits, come from prohibited sources, or are received for an election in which the candidate does not appear on the ballot.
 Contributions to Friends of Kristina are subject to Washington State and federal campaign finance law.
 By making a contribution, you represent that: You are a United States citizen or lawfully admitted permanent resident The contribution is made from your own personal funds and is not being reimbursed by another person or entity You are not a foreign national prohibited from making contributions in connection with U.S. elections You are not a federal contractor making this contribution in connection with a federal election The information you provide is accurate and complete to the best of your knowledge Contributions are not tax-deductible for federal income tax purposes.
 All contributions are subject to applicable contribution limits under state and federal law.

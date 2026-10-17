@@ -39,4 +39,4 @@ Shelby McNutt, GCHS journalism and photography teacher and a 1995 Crystal Apple 
 These six ladies have shown dedication, enthusiasm, and professionalism in our classrooms every day, McNutt said.
 Caption: Wendi Terpstra, Garden City High School; Dr.
 Jennifer Herdman, GCHS; and Rebecca Burnfin , Bernadine Sitts Intermediate Center, were named the 2016 Crystal Apple winners on Thursday during the Crystal Apple Banquet at the Clarion Inn.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

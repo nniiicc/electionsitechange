@@ -1,4 +1,4 @@
-Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es English en polski pl עברית he 简体中文 zh русский ru Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Involúcrate ★ Esta campaña se basa en personas como tú Tu voz, tu tiempo, tu apoyo, todo importa.
+Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es 简体中文 zh polski pl русский ru English en עברית he Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Involúcrate ★ Esta campaña se basa en personas como tú Tu voz, tu tiempo, tu apoyo, todo importa.
 Juntos, podemos lograr un cambio real en Harrisburg.
 Las campañas no las gana una sola persona.
 Las ganan vecinos, familias y amigos que trabajan codo con codo por una visión compartida.

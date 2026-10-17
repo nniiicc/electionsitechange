@@ -1,0 +1,17 @@
+Meet Bobby NEWS Issues ACtion center Get Involved Events STORE X DONATE Bobby Charles to Mills: “Flame-Throwing” Is Telling the Truth About Augusta October 16, 2026 Charles: Maine Needs Accountability, Not a Third Mills Term ‍ MAINE — Republican gubernatorial candidate Bobby Charles pushed back against Governor Janet Mills’ criticism of his campaign, saying Maine families deserve straight answers about rising costs, government spending, and an Augusta establishment more interested in protecting itself than answering to the people. ‍ “Governor Mills calls it ‘flame-throwing.’ Maine families call it saying out loud what they’ve been living with for eight years: property tax bills they can’t keep up with, energy costs among the highest in the country, and a state budget that keeps growing while their paychecks don’t. ‍ “If telling the truth about Augusta is too hot for the Governor, that tells you everything about why we need a change.
+Hannah Pingree would be a third Mills term.
+I’m running to end it.” ‍ What Is Mills Afraid Will Come to Light? ‍ Mills’ attacks are self-serving—a defense of her own record and the political establishment Charles is running to challenge.
+Focusing on his tone avoids the more important questions about her administration’s handling of the public’s money and the public’s trust. ‍ The question is not whether Charles’s criticism is too heated.
+It is whether Mills fears what that scrutiny could uncover about corruption and political favoritism in her government.
+An administration confident in its record should welcome accountability rather than attack those demanding it. ‍ Concerns about corruption, political favoritism, and the misuse of public resources deserve scrutiny—not dismissal from the people responsible for running state government. ‍ A Mills Apprentice Is Not a Change in Leadership ‍ Hannah Pingree is Mills’ political apprentice.
+Elevating her would preserve the same broken system rather than hold it accountable. ‍ Mainers should not expect the Governor’s apprentice to expose the failures of the administration she would be continuing.
+A third Mills term would shield the current governor from accountability while maintaining a system that empowers Democratic insiders and bureaucrats at the expense of the people paying the bills. ‍ Maine needs a change in leadership—not a succession plan for Augusta’s political establishment. ‍ A Government That Works for Mainers ‍ Bobby Charles is a fighter for what is legal, ethical, and right.
+His campaign is about restoring a basic principle: government answers to the people, not the other way around. ‍ Charles will fight for accountability regardless of whose name is on the office door or which party benefits.
+Maine people deserve a government that works for them—not a system that benefits the people running government in Augusta.
+Public office is a responsibility, not a shield for the politically connected. ‍ The choice is between another term of insiders protecting insiders and new leadership willing to challenge the system, demand answers, and put Maine families first. ‍ Cut crime.
+Cut taxes.
+No nonsense. ‍ Learn more and join the movement at BobbyForMaine.com.
+MEET BOBBY NEWS ISSUES Action center GET INVOLVED EVENTS STORE DONATE      Bobby Charles is a former U.S.
+Naval Intelligence Officer.
+Use of his military rank, titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for and authorized by Bobby Charles for Maine Governor Campaign Committee

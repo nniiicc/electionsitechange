@@ -16,4 +16,4 @@ Tickets are selling Fast !
 Make checks Payable to Pacheco Committee.
 No corporate checks please.
 Please email or contact us for tickets ! ---- #ago This Week This Month ‹ Previous Fri Oct 16 2026 Next › No events in this range Try a different date range, or check back soon for new events.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

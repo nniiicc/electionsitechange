@@ -38,4 +38,4 @@ My Commitment I’m running to help build an economy where families can stay, gr
 That means investing in people, not just press releases — and making sure local opportunity reaches local families.
 I’m not bought, I’m building.
 Help us build an economy that works for working families, small businesses, and future generations in District 128.
-Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

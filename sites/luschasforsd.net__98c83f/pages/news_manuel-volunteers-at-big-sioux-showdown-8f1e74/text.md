@@ -4,4 +4,4 @@ Cotton Eye Joe will be dancing and signing autographs.
 Admission is free.
 Raffle and concession proceeds are a fundraiser for the rink.
 Saturday games are at 10am, 11:30am, 2pm and 3:30pm.
-Manuel was helping in the penalty box and concession stand most of the weekend: Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Manuel was helping in the penalty box and concession stand most of the weekend: Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

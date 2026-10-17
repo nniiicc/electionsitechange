@@ -12,4 +12,4 @@ I want to hear your concerns, your ideas, and your vision for our community.” 
 His campaign is focused on investing in education, supporting workers’ rights, and ensuring government transparency .
 Baker believes in leadership that listens and works for the people —not special interests.
 ### Paid for by Friends of Mike Baker.
-Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

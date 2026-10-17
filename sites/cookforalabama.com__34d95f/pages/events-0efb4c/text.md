@@ -1,5 +1,4 @@
 Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Platform Events Volunteer Endorsements Contact District 43 Store Donate Join Us Meet Taylor Get out and meet Taylor at one of these events or schedule a virtual one-on-one meeting through the contact info at the bottom of the page!
-Shelby County Democratic Party - October Meeting Shelby County Services Building 1123 County Services Drive Pelham, AL 35124 Come hear me and a few other candidates discuss the 4 Constitutional amendments that will be on the ballot November 3rd!
 Virtual Panel Discussion TikTok Join me and other candidates for an online panel hosted by Sarah DeArmond and Zachary Mallory!
 Canvassing with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.
 We are powered by people, and canvassing is the most effective way to reach voters.

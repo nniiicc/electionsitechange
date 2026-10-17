@@ -1,4 +1,4 @@
-top of page Skip to Main Content HOMEPAGE MY PLAN MEET JASON OUT & ABOUT NEWS GET INVOLVED CONTACT More Use tab to navigate through the menu items.
+top of page HOMEPAGE MY PLAN MEET JASON OUT & ABOUT NEWS GET INVOLVED CONTACT More Use tab to navigate through the menu items.
 Jason Guidone for Senate – Privacy Policy Effective Date: March 1, 2026 We at Jason Guidone for Senate (“Jason Guidone for Senate” “we,” “us,” or “our”) provide this privacy policy (“Privacy Policy”) to help inform you about how we collect information, how we use the information, and with whom we disclose such information.
 This Privacy Policy relates to Jason Guidone for Senate website (the “website”), which is available to you through a variety of platforms, including our website https://guidoneforsenate.com (the “Website”), mobile application, and other interaction by telephone, e-mail, chat or other media (collectively, the “Platform”).
 Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use. ​ 1.

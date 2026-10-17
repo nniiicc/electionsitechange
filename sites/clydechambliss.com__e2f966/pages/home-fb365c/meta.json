@@ -1,9 +1,10 @@
 {
  "description": "Official campaign website for Alabama State Senator Clyde Chambliss",
  "final_url": "https://www.clydechambliss.com/home",
- "fingerprint": "4ead199bea62e06144b823ce525252578e649346",
+ "fingerprint": "83d5064ed3adf46896d7f80c823495ba7e59cebe",
  "format": 3,
  "paid_for_by": "Paid for By Clyde Chambliss Jr",
+ "rendered": false,
  "title": "Senator Clyde Chambliss",
  "years_mentioned": [
   "2019"

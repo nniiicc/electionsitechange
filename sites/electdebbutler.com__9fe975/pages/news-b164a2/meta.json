@@ -1,9 +1,10 @@
 {
  "description": "Deb Butler in the News",
  "final_url": "https://www.electdebbutler.com/news",
- "fingerprint": "1ca85b65f64c9a3e01c69e2eb8940204b5de12bb",
+ "fingerprint": "f6a7468fbca304ec28c8d541d3df5cacfb84c26b",
  "format": 3,
  "paid_for_by": "sponsored by Rep",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "1997",

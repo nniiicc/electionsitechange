@@ -21,4 +21,4 @@ Both of us will be answering those questions.
 Your voice matters.
 I want to hear directly from you, and as I promised from day one, I will listen to your priorities, and work to offer tangible solutions.
 I recommend you come early, because you don’t want to miss this chance to get informed and be involved.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

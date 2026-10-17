@@ -29,4 +29,4 @@ Lastly, we must keep our drivers safe by educating them on the rules of the road
 Reading the basics is key.
 We need better; we deserve better and as your Constitutional Officer, I'm fit for duty and ready to go to work for you!
 Elect Diane M Harris, for your next Secretary of State, only qualified, experienced candidate to serve as Constitutional Officer for this office.
-To Make a Contribution Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu
+To Make a Contribution Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

@@ -29,4 +29,4 @@ Disclaimer - Rick Pressnell is a former active duty member of the US Marine Corp
 Use of his/her military rank, job titles, and photographs in uniform does not imply endorsement by these service branches, the Department of Defense or any branch of U.S. government.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Friends of Rick Pressnell Powered by CampaignPartner.com - Political Campaign Websites Home Meet Rick Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Friends of Rick Pressnell Powered by CampaignPartner.com Home Meet Rick Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

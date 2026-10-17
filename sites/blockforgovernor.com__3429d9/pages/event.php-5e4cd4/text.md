@@ -13,7 +13,12 @@ Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart T
 Q&A.
 Light bites will be served.
 Cash bar.
-R.S.V.P to michelle@blockforgovernor.com Get directions October 22 Conversation with Ken - Warwick OCT 28 2026 Upcoming Monday East Bay Chamber Gubernatorial Forum Time 8:00 - 9:30 a.m.
+R.S.V.P to michelle@blockforgovernor.com Get directions October 22 Conversation with Ken - Warwick OCT 25 2026 Upcoming Sunday Conversation with Ken at George's of Galilee Time 5:00 - 6:30 p.m.
+Location 250 Sand Hill Road Narragansett Event details You watched the debates!
+Ask Ken your questions.
+Cash Bar.
+Light Bites.
+Get directions Sunday Conversation with Ken at George's of Galilee OCT 28 2026 Upcoming Monday East Bay Chamber Gubernatorial Forum Time 8:00 - 9:30 a.m.
 Location East Bay Chamber of Commerce 16 Cutler Street Event Room Warren Event details Admission is free and open to the public.
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.

@@ -5,4 +5,4 @@ Immigration reform would ensure that talented, hard-working people could contrib
 It would address labor shortages in high-demand areas, reduce the deficit, and expand our economy. ​ I believe in strengthening security at our border and points of entry, but this is most effectively done by targeting those places where we see most contraband and drug smuggling. ​ Something that I think often gets lost in the debate about immigration is the talent, energy, and value that immigrants, especially young immigrants like dreamers, bring to this nation.
 I have seen this firsthand through my work helping to start and run an immigration clinic, through my service on the board of the Mexican American Legal Defense and Educational Fund, and by being an active member in our diverse New Mexican community that fosters and celebrates multiculturalism.
 New Mexico can be a model for other parts of the nation.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

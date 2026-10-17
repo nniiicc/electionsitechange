@@ -9,4 +9,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

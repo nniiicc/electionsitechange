@@ -12,4 +12,8 @@ Contributions will go towards conserving and protecting the GSL watershed and ec
 Click here to learn how you can get yours.
 Back to School To all the students across the state who are headed back for the start of the new school year, I wish you luck in all your academic endeavors!
 Education is the key to unlocking a brighter future and remains a top priority for myself and the legislature.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 2 + 7 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 6 + 1 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

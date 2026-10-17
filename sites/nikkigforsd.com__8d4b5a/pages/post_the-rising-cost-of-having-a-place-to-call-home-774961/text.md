@@ -23,6 +23,5 @@ South Dakota’s housing challenge is ultimately about more than houses.
 It’s about whether a young family can afford to put down roots, whether a working person can live in the community where they work, and whether a senior who has spent a lifetime contributing to that community can afford to remain there.
 Everyone deserves the opportunity to have a safe, stable, and affordable place to call home.
 Our housing policies should reflect that.
-Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
-House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
+Recent Posts See All South Dakota’s Democratic nominee for US House makes her case to voters Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

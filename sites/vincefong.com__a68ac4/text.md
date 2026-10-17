@@ -10,12 +10,13 @@ I stand by that commitment and consider it an honor to uphold those values in ou
 Thank you for the opportunity to serve you.
 Sincerely, Vince Fong On the Issues Vince is fighting for solutions to the key issues impacting the Central Valley.
 He is focused on making our communities safer and more affordable places to live, work, raise a family, and retire.
-Energy Independence Water and Agriculture Aerospace and National Defense Immigration and Border Security Protecting the Second Amendment The Latest from Congressman Fong With your support, we are delivering results.
+Energy Independence Water and Agriculture Aerospace and National Defense Immigration and Border Security Protecting the Second Amendment The Latest from Congressman Fong Fighting for Affordability Something I am hearing every day in California: the cost of living is crushing families here.
+Ask anyone in our...
+With your support, we are delivering results.
 When I ran for Congress, I promised results, not more empty talk from Washington.
 I want to show you exactly...
 Zero trains. $200 billion.
 Still not done.
 I recently sat down with Fox Business to talk about the biggest boondoggle in California history: high-speed rail.
 In 2008, voters...
-Newsom’s hidden tax is hitting YOUR wallet The other day, I sat down with Fox News to expose something Gavin Newsom doesn't want you to know about....
 View More Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

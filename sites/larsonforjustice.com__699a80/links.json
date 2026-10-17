@@ -4,8 +4,20 @@
 "href": "https://larsonforjustice.com/contact"
 },
 {
+"text": "Dave's Messages",
+"href": "https://larsonforjustice.com/media/#videos"
+},
+{
 "text": "Dave's Record",
 "href": "https://larsonforjustice.com/record"
+},
+{
+"text": "Dave's Record",
+"href": "https://larsonforjustice.com/record/"
+},
+{
+"text": "Dave's Story",
+"href": "https://larsonforjustice.com/media/#daves-story"
 },
 {
 "text": "Donate",
@@ -56,6 +68,10 @@
 "href": "https://larsonforjustice.com/about"
 },
 {
+"text": "Meet the Real Dave",
+"href": "https://larsonforjustice.com/record"
+},
+{
 "text": "News & Press",
 "href": "https://larsonforjustice.com/news"
 },
@@ -66,6 +82,10 @@
 {
 "text": "Read Dave's Full History of Service",
 "href": "https://larsonforjustice.com/record"
+},
+{
+"text": "See His Messages to Voters",
+"href": "https://larsonforjustice.com/media/#videos"
 },
 {
 "text": "Support the Campaign",
@@ -94,6 +114,10 @@
 {
 "text": "Volunteer",
 "href": "https://larsonforjustice.com/get-involved"
+},
+{
+"text": "Voter Alert!",
+"href": "https://larsonforjustice.com/"
 },
 {
 "text": "Why Dave Larson",

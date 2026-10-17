@@ -35,4 +35,4 @@ Ban sports betting and get rid of the lotteries.
 Campaign finance reform We need to keep corporate money out of our elections.
 I support reforming the campaign finance system to only allow individual contributions to a candidate or ballot measure.
 No entity of any kind should be able to fund our representation.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

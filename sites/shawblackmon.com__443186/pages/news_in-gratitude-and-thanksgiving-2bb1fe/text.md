@@ -26,5 +26,5 @@ We’ve seen firsthand the challenges and blessings that come with this professi
 Educating our students requires patience, passion and lots of stamina!
 We’ve all had teachers who made a profound difference in our lives decades after leaving the classroom, and we're amazed and thankful for what they do every day.
 May God bless you and your families this Thanksgiving.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

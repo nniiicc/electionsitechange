@@ -10,4 +10,4 @@ A proud Marion County High School graduate, Truitt went on to earn degrees from 
 She chairs the Marion County Board of Education and is raising her three children with her husband Michael in the community she has always called home.
 She is running for State Senate to fight for strong and safe schools, affordable housing and food security, and accessible healthcare for every family in the district.
 Truitt will continue meeting with voters across the district in the coming weeks, including an upcoming candidate forum on July 11 hosted by the Loretto Motherhouse Peace Committee.
-Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -106,5 +106,5 @@ It limits court reviews to 270 days.
 This Proposition will end the permanent pocket veto of housing projects by individuals in public agencies.
 One year is plenty long enough for due diligence in environmental impact reviews.
 This Proposition will promote housing in California.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

@@ -12,7 +12,11 @@ Michigan Senate District 14 Tawn Beliger is running to represent the communities
 Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment In the Senate She will support legislation to protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and protect the Second Amendment for law-abiding gun owners.
 On abortion: The Michigan Constitution (Article I, Section 28) protects the right to elective abortion until viability.
 Tawn will work within those constitutional guidelines — not outside them — to support protections for the unborn, support for mothers, and common-sense safeguards after viability.
-Learn more Right to Life — Concise Summary → Right to Life — Full Statement → On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Election Integrity Secure, fair, and transparent elections.
+Learn more Right to Life — Concise Summary → Right to Life — Full Statement → On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
+In the Senate She will support legislation that puts parents — not bureaucrats — at the center of education, expands school choice, and requires honesty and accountability in the classroom.
+In 2023, Democratic lawmakers weakened Michigan’s teacher evaluation laws, cutting the required weight of student performance data from 40% to 20%, dropping the requirement to use standardized test results, and reopening the system to union bargaining.
+Even before the change, districts rated nearly all teachers “effective” while student scores kept falling.
+Tawn will work to restore real accountability. ( Mackinac Center ) On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Election Integrity Secure, fair, and transparent elections.
 Tawn has extensive experience with the election process.
 She has worked several elections as an election inspector for Northfield Township and Washtenaw County.
 She has done the job She was respected by the people she worked with and was placed as the chair for the early voting locations.
@@ -25,9 +29,7 @@ In the Senate She will support legislation to repeal those energy mandates, stop
 On the route Leg 1 · Energy Policies → Leg 2 · Taxes & Cost of Living → Henrietta · Taxes & Local Control → Economic Freedom Cut regulations, attract jobs, and make Michigan affordable again.
 Reinstate right-to-work so workers — not union bosses or Lansing — decide what’s best for their paycheck.
 In the Senate She will support legislation to cut the regulations that chase jobs out of Michigan and to reinstate right-to-work so workers decide what’s best for their own paycheck.
-On the route Leg 5 · Jobs & Economic Freedom → Education Excellence Empower parents, expand school choice, and demand accountability.
-In the Senate She will support legislation that puts parents — not bureaucrats — at the center of education, expands school choice, and requires honesty and accountability in the classroom.
-On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Local Control Restore local control back to cities and townships where it belongs.
+On the route Leg 5 · Jobs & Economic Freedom → Local Control Restore local control back to cities and townships where it belongs.
 Decisions about zoning, schools, and community life should be made by neighbors — not by bureaucrats in Lansing.
 In the Senate She will support legislation that returns those decisions to cities and townships.
 She is already showing up in every community so Lansing hears from the people who live there.

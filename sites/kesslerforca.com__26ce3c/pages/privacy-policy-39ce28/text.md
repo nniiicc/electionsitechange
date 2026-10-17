@@ -1,4 +1,4 @@
-top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Privacy Policy Last Updated: April 27, 2026 1.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Endorse Shannon News Events Blog Privacy Policy Last Updated: April 27, 2026 1.
 Introduction Welcome to the official website for Shannon Kessler for State Assembly.
 We are committed to protecting your privacy and ensuring a secure online experience.
 This Privacy Policy explains how we collect, use, and safeguard the information you provide to us as we work together to bring new leadership to California.

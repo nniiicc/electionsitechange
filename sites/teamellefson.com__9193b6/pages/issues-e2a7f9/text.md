@@ -23,4 +23,4 @@ Minnesota has a proud status as a refuge for LGBTQ+ individuals facing discrimin
 Sebastian is not afraid to speak his mind and call out any bigotry in the public discourse.
 Sebastian will lead efforts to: Fight any effort to rollback LGBTQ+ protections Fight for the physical safety and dignity of trans people in schools, work, and out in public Support gender affirming care for trans individuals of all ages Voter Information Endorsements Yard Signs Make An Endorsement Events Contact Prepared and paid for by: Team Ellefson for 65B P.O.
 Box 7181 St.
-Paul, MN 55107 Powered by CampaignPartner.com - Political Websites Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu
+Paul, MN 55107 Powered by CampaignPartner.com Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu

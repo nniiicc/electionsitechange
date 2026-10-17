@@ -24,4 +24,4 @@ For Steve Rutherford, progress is not abstract.
 It is personal.
 It is local.
 And it is long overdue.
-DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com - Political Websites Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

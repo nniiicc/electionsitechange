@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 YOUR SCHOOLS Education, HOPE & DREAMS Scholarships, and College Completion Grant As Chairman of the House Higher Education Committee, Chuck is Georgia’s leading voice for keeping college affordable and accessible.
 He has worked to protect and strengthen the HOPE and Zell Miller Scholarships , authored the DREAMS Scholarship (Georgia’s first-ever statewide need-based college aid program), which he carried into law through SB 556 on the House floor, and sponsored the College Completion Grant program (HB 1435, 2022) to help students close the final funding gap standing between them and a degree.
 Chuck’s commitment to education starts early.
@@ -6,4 +6,4 @@ He’s supported continued, increasing investment in early childhood education, 
 As a Speaker-appointed member of the Georgia Council on Literacy, Chuck has been part of the work building toward that result from the start.
 Education isn’t abstract for Chuck.
 A product of Fulton County Schools himself, his wife Johnna spent 17 years as a teacher’s assistant in local schools, giving the family a firsthand view of what students and teachers actually need to succeed.
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

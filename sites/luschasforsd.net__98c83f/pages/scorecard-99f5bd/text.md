@@ -38,4 +38,4 @@ YES - NO HB1323 - Relax requirements for referendum petitions to put an ordinanc
 YES NO NO SB85 - Opt-out property tax increases automatically go to a ballot vote.
 YES NO NO HB1004 - Authorize vote to recall a county commissioner.
 YES - NO HB1034 - Increase fees for decals and license plates mailed to vehicle owners.
-NO YES YES Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+NO YES YES Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

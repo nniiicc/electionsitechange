@@ -11,5 +11,5 @@ With incumbent Republican Sen.
 Carla Nelson retiring after nearly 15 years, District 24 is poised to turn blue and Glaser is ready to make it happen.
 Simon Glaser said “Many are considering the seat a tossup at this point, I know we’re working harder.
 I know we’re talking to more voters.
-I know we’re going to win this race.” Return to Press Releases ICYMI: Simon Glaser is Bringing his Background of Service to Flip SD24 “This campaign has been about looking at what’s going on in Rochester, in Dodge County, seeing what’s not working, and trying to figure out, how do we put people first?” Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+I know we’re going to win this race.” Return to Press Releases ICYMI: Simon Glaser is Bringing his Background of Service to Flip SD24 “This campaign has been about looking at what’s going on in Rochester, in Dodge County, seeing what’s not working, and trying to figure out, how do we put people first?” Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

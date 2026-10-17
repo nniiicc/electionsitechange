@@ -14,4 +14,4 @@ Vernon, OH 43050 Directions → Add to calendar This event has passed Sign-ups a
 Check the events page for what's coming up next.
 See upcoming events Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

@@ -32,7 +32,9 @@ She served, so she knows exactly how broken the current system is.
 Read More FULL PLATFORM support maura’S campaign $5 $50 $10 $100 $25 Other We can’t afford to let Brian Jack serve another term in Congress where his voting record shows he stands with Trump and not the people of our district.
 Maura needs your help to stop him.
 Help Maura set up District 3’s biggest ever opposition ground game—every single dollar counts for lawn signs , t-shirts , and more!
-Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
+Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 18 October 18, 2026 Meet and Greet with Maura Keller in Carroll County October 18, 2026 Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
+She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
+Read more → October 18, 2026 Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
 Jack.
 October 19th.
 Stay tuned for more!

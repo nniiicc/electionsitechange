@@ -26,4 +26,4 @@ By using or engaging with the Platform, you acknowledge and agree that you are n
 By using or engaging with the Platform, you also acknowledge and agree that you are permitted by your jurisdiction’s applicable laws, rules, and regulations to use and/or engage with the Platform.
 Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

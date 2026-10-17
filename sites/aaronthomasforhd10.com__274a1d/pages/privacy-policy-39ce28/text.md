@@ -1,4 +1,4 @@
-top of page Issues About Get Involved Contact More Use tab to navigate through the menu items.
+top of page Home Issues About Get Involved Contact More Use tab to navigate through the menu items.
 DONATE Log In Privacy Policy Effective date: September 10, 2025 Campaign name: Aaron Thomas Campaign (the “Campaign,” “we,” “us,” or “our”) Contact: privacy@[replace-with-your-domain].com — please replace with the Campaign’s official contact address. ​ This Privacy Policy explains what personal information we collect, how we use it, when we disclose it, and the legal requirements that affect how the Campaign handles personal data under applicable federal law and Alabama law.
 It is written to be practical for campaign use, but does not replace legal advice — you should have counsel review it for compliance with campaign finance and privacy laws. ​ 1.
 Scope — when this policy applies This policy applies to personal information collected by the Campaign from visitors to our website and mobile apps, donors and contribution forms, event RSVPs, volunteer and employment applicants, phone and SMS lists, and other offline or online interactions with the Campaign. ​ 2.

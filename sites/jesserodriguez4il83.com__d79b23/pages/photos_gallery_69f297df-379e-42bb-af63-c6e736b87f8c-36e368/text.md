@@ -11,4 +11,4 @@ US Army (pictured left) and his older brother and my dad, Joe Avila Rodriguez, U
 Jesse Rodriguez, USNR, wearing "dixie cup" with VS-22 aircrewman squadron mates.
 John Alvarez, US Army (ret).
 Cousin.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

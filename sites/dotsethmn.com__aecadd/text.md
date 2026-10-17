@@ -1,4 +1,4 @@
-Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Watch for important messages from Jeff Dotseth this Fall Join Jeff Name Email Cell Phone Consent information CHECK HERE - By providing your phone number and checking this box, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from Dotseth Volunteer Committee at the number provided, including messages sent by autodialer.
+Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Watch important messages from Jeff Dotseth Join Jeff Name Email Cell Phone Consent information CHECK HERE - By providing your phone number and checking this box, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from Dotseth Volunteer Committee at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.
 Msg frequency varies.
@@ -11,7 +11,7 @@ Note: Please fill out the fields marked with an asterisk.
 Help Jeff $25 $50 $75 $100 $150 $250 $500 $1000 Other Amount OFFICIAL ENDORSEMENT!
 The Minnesota Republican Party has given Jeff their full backing in the 11A district.
 They believe he is the best candidate for the representation of this great district.
-Previous Campaign Endorsements Hi… Jeff Dotseth here.
+Hi… Jeff Dotseth here.
 I’m looking to continue on as your Minnesota State Representative for District 11A.
 Like you, I love Minnesota, and I am confident we can do better during these times.
 We have the power to make positive changes.

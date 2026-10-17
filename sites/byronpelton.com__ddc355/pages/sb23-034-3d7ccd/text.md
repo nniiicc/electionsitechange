@@ -4,4 +4,4 @@ The General Assembly must return to a statutory definition of "serious bodily in
 A "bad shot" or "lucky stab" should not result in lesser charges.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "Explore the McCarron for Senate endorsements showcasing key political support and endorsements that drive the campaign forward.",
  "final_url": "https://mccarronforsenate.com/endorsements",
- "fingerprint": "9cc93e18590c5e9d8f06d48f9cb06312f8dcf429",
+ "fingerprint": "b62d37d61b8ce57ada5c372a3cafe321f6840d05",
  "format": 3,
- "paid_for_by": "Paid for by McCarron for Senate Home About Why Rich Endorsements Get Involved Contact",
+ "paid_for_by": "Paid for by McCarron for Senate Home About Why Rich Issues Endorsements Contact",
+ "rendered": false,
  "title": "Endorsements",
  "years_mentioned": []
 }

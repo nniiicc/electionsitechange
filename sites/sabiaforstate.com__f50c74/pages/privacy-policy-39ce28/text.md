@@ -9,4 +9,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu
+Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

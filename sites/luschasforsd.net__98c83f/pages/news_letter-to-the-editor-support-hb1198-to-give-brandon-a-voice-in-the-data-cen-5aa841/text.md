@@ -8,4 +8,4 @@ We are asking for help with supporting this bill as it moves through the Legisla
 At the time of the writing of this letter, we do not know to which committee this bill will be assigned, nor when exactly it will be heard in committee.
 To follow the bill’s progress, go to sdlegislature.gov, then click “2026 Bills” and then scroll down to “HB1198.” If you are able to come with us to Pierre when the bill will be up for discussion in the assigned committee, please reach out to manuelluschas@gmail.com or call 605-888-8579 to coordinate the effort.
 Another way to help is to email committee members and encourage them to pass this bill on to the house floor.
-Susan Luschas Manuel Luschas Brandon SD 57005 Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Susan Luschas Manuel Luschas Brandon SD 57005 Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

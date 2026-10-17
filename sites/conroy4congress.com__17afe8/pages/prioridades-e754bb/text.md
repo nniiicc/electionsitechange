@@ -40,17 +40,18 @@ Permitir que Medicare, Medicaid, el Departamento de Asuntos de los Veteranos y t
 Servicio y rendición de cuentas Tras la investigación de la Oficina de Rendición de Cuentas del Gobierno (GAO), instruir al Departamento de Justicia para que tome medidas contra los co-conspiradores no acusados identificados en los archivos de Epstein.
 Hacer responsables los altos funcionarios del Poder Ejecutivo rindan cuentas por cualquier acción militar que haya violado o continúe violando las leyes de los Estados Unidos, incluidos nuestros compromisos asumidos mediante tratados con organismos internacionales y con nuestros aliados.
 Prohibir que los miembros del Congreso compren y vendan acciones individuales, exigiéndoles que se desprendan de esas acciones y las sustituyan por fondos mutuos u otros fondos cotizados en bolsa mientras sean candidatos o ejerzan un cargo público.
-29 1 Spokane Public Radio asked me what I would do first.
+18 1 The Spokesman-Review lined up where Michael Baumgartner and I stand on the issues, side by...
+26 2 Ballots go in the mail across Washington today.
+Vote the whole ballot, top to bottom,...
+34 2 Spokane Public Radio asked me what I would do first.
 Two things.
 Bring costs down...
-8 0 Just a few weeks left!
+10 0 Just a few weeks left!
 Volunteer today and lets Flip the Fifth!
-13 1 Ballots go in the mail by October 16, and Spokane County's may arrive early.
+14 1 Ballots go in the mail by October 16, and Spokane County's may arrive early.
 Watch...
-21 1 Three weeks to go — and this campaign is moving!
+22 1 Three weeks to go — and this campaign is moving!
 This week’s Conroy Connection is...
-32 1 The Visibility Brigade took over the Regal Street bridge, and homemade signs stole the show....
-52 5 Northwest Public Broadcasting wrote up our Walla Walla forum, and the contrast is right there...
 Síguenos en Instagram Mantente en contacto Te mantendremos al tanto de las últimas noticias de la campaña y mucho más a través de nuestro boletín informativo. [email protected] [email protected] Dirección postal: P.O.
 Box 906 Spokane WA 99201 Sede de campaña en Spokane 1106 N.
 Washington St., Ste B Spokane, WA 99201 (Estacionamiento y entrada por el lado este del edificio ) Horario de oficina : Lunes: 10-4 Martes: 10-2 Miércoles: 10-6 Jueves: 10-2 Viernes: Cerrado Sábado: 10-2 Domingo: Cerrado 509-210-9755 Pagado por Conroy for Congress Prensa Suscríbase a Conroy Connection Carmela Conroy se desempeñó como diplomática de los Estados Unidos en el Servicio Exterior.

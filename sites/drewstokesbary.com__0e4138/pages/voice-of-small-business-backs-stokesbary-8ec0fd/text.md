@@ -5,5 +5,6 @@ Drew Stokesbary for the 2022 primary election.
 Earlier this year, NFIB awarded Drew with their “ Guardian of Small Business ” award, which is “reserved for those lawmakers who most reliably support small business.” It is the second time Drew has won this award.
 NFIB is a nonprofit, nonpartisan, and member-driven association that is exclusively dedicated to small and independent businesses and has been advocating on their behalf for nearly 80 years.
 NFIB has more than 7,000 members in Washington.
-Awards Endorsements endorsement small business More For You The Seattle Times recommends Drew Stokesbary Endorsements Washington risks budgeting online sales tax revenue In the News The Seattle Times Endorses Stokesbary for Reelection Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards Endorsements endorsement small business More For You Unanimous endorsement from State Patrol Troopers Association Endorsements Auburn Chamber of Commerce gives Stokesbary highest rating Endorsements Sumner Mayor thanks Rep.
+Stokesbary for Traffic Ave. funding In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

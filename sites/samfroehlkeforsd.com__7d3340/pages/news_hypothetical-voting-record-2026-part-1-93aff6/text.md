@@ -92,4 +92,4 @@ I hate AI, so no summaries or cheating.
 Just listening to a lot of testimony, reading a lot of code, and trying to put my position in words.
 After all, if I can’t give a good reason why I would vote yea or nay, maybe I shouldn’t be applying for the job.
 In case you’re wondering, after going through the session, I will write up some of my thoughts on the more controversial bills that didn’t make it to the floor.
-As always, feel free to get ahold of me with any questions, and if I’m wrong about something, I really do want to know. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+As always, feel free to get ahold of me with any questions, and if I’m wrong about something, I really do want to know. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

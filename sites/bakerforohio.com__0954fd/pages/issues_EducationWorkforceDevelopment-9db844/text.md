@@ -8,4 +8,4 @@ Prioritize public schools over vouchers to strengthen neighborhood schools.
 Increase teacher pay to attract and retain top educators.
 Expand career and technical education programs to prepare students for high-demand jobs.
 Invest in STEM, trade schools, and apprenticeships to create more career opportunities.
-Next: Workers’ Rights & Strong Unions » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Workers’ Rights & Strong Unions » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

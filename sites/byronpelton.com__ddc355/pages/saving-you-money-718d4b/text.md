@@ -9,4 +9,4 @@ You ALWAYS know how to spend your money better than the government.
 I believe very strongly that the purpose of government should NEVER be to grow government!
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

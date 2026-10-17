@@ -12,4 +12,4 @@ Learn more about Mailchimp’s privacy practices.
 We use Mailchimp as our marketing platform.
 By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing.
 Learn more about Mailchimp's privacy practices.
-Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu
+Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

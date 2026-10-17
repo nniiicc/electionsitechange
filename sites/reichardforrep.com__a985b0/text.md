@@ -1,5 +1,4 @@
-Home Meet Chris Issues News Volunteer Contribute Events Fuel Our Fight For Only $5 | ActBlue Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Fuel Our Fight For Only $5 | DonorBox Click Here to Contribute Need Voting Information?
-Register & Find Your Polling Location Click Here for Information Americans are hurting — and they're fed up.
+Home Meet Chris Issues News Volunteer Contribute Events Follow Us On Facebook Here Fuel Our Fight For Only $5 | ActBlue Click Here to Contribute Fuel Our Fight For Only $5 | DonorBox Click Here to Contribute Americans are hurting — and they're fed up.
 Corporate-owned career politicians have taken advantage of our pain for too long.
 We are the working class — the real silent majority — and we’re not staying silent anymore.
 Chris Reichard is a different kind of candidate: a disabled OIF Army veteran, proud second generation IBEW Local 1 union member, and a seasoned fighter for our rights from Arnold, MO.
@@ -14,7 +13,4 @@ He’s running a 100% grassroots campaign — no corporate PACs, no dark money, 
 Through your help, Chris will bring moral courage, integrity, and an unrelenting will to Congress to fight for We the People — not the wealthy or foreign interests.
 That’s why we’re asking you to chip in today — even if it’s just $10.
 Every dollar fuels this fight from the ground up.
-Fuel Our Fight!
-Our campaign is fueled by people, not corporations!
-Will you fan the Flames of Freedom? $0.00 of $25,000.00 $5 $10 $25 $50 $100 $250 $500 $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com - Political Campaign Websites Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu
+General Election November 3, 2026 at 6:00 AM Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu

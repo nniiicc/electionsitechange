@@ -9,4 +9,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

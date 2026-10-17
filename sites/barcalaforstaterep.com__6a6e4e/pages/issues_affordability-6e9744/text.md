@@ -4,4 +4,4 @@ In growing areas such as Limestone County, higher home prices and rent are makin
 As a leader, I will ensure we work together to enact meaningful legislation to bring these rising costs down.
 Next: Accountability and Transparency » Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

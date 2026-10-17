@@ -59,4 +59,4 @@ Holding elected officials accountable for Maryland’s economic development clim
 Votes included in Roll Call are selected by a non-partisan State Advisory Council, representing a broad spectrum of industries essential to a robust economy.
 The issues selected to be included are those that are fundamental to job creation and promoting a healthy business climate in Maryland." - MBRG 12th Annual Crab Shrimp & Oyster Feast!
 I want a yard sign!
-Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

@@ -3,4 +3,4 @@ Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Memo
 For our family this Memorial Day, it has another personal meaning.
 We just spent $14,363 of our own money on Manuel's campaign - to protect the freedoms that made us move to South Dakota and start our lives over here 5.#ago.
 Freedom is expensive, on multiple levels.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

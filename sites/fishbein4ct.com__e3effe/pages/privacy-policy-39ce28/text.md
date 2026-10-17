@@ -98,4 +98,4 @@ The updated version will be indicated by an updated &quot;Revised&quot; date and
 If we make material changes, we may notify you by prominently posting a notice of such changes or by sending a notification.
 We encourage you to review this privacy policy frequently.
 If you have any questions or comments about this policy, you may contact us at: info@fishbein4ct.com Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

@@ -22,4 +22,4 @@ Our constitution isn't supposed to shift with every election cycle like an ordin
 A bare majority means a well-funded campaign, often bankrolled by out-of-state interests, can rewrite it with barely half of voters showing up in favor.
 That's a low bar for something this permanent.
 60% doesn't stop the constitution from changing, it just makes sure it reflects real consensus among South Dakotans, not whoever spent the most on ads that year.
-I support Amendment L « Previous: ✝️ Faith, Family, and Freedom Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+I support Amendment L « Previous: ✝️ Faith, Family, and Freedom Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

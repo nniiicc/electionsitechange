@@ -10,4 +10,4 @@ Let's all vand together and insure all kids have a great start to their school y
 More info › 19 Aug Wednesday, 7:00 AM – 12:00 PM State fair tent 2503 W.
 16th Street, Sedalia, MO, 65301 If you plan on visiting the state fair please stop at the tent and say hello!
 More info › VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

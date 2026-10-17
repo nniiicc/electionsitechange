@@ -39,29 +39,26 @@ Read More Transportation Roads & Commutes A 31-minute average commute — 20% ab
 WSDOT completed a full SR-516 plan.
 State funding: zero.
 Kristina will bring our transit dollars home.
-Read More ← → See All of Kristina's Priorities Earned Trust Who's Standing With Kristina "The kind of results-oriented, community-first leader the 47th District needs in Olympia." WA Senate Republican Campaign Committee WA Senate Republican Campaign Committee SRCC — Statewide Endorsement "Kristina Soltys has delivered for Covington when it counted.
+Read More ← → See All of Kristina's Priorities Earned Trust Who's Standing With Kristina Editorial Board Endorsement The Seattle Times Editorial Board endorsed Kristina Soltys for State Senate in the 47th, pointing to years of Olympia overspending and the deficits it keeps creating.
+"The kind of results-oriented, community-first leader the 47th District needs in Olympia." WA Senate Republican Campaign Committee WA Senate Republican Campaign Committee SRCC — Statewide Endorsement "Kristina Soltys has delivered for Covington when it counted.
 She understands how government actually works — and how to make it work for the people paying for it." Reagan Dunn Reagan Dunn King County Councilmember, District 9 "As a small business owner in South King County, I see what Olympia's tax policies do to people trying to build something here.
-Kristina gets it — and she'll actually fight back." Kyle Lyebyedyev Kyle Lyebyedyev Community Leader & Small Business Owner Full List Coming Soon Latest News & Events View All News & Events In the News Seattle Times Editorial Board Endorses Kristina Soltys The Seattle Times Editorial Board has endorsed Kristina Soltys for State Senate in the 47th District, pointing to years of Olympia overspending and the multibillion-dollar deficits it keeps creating.
+Kristina gets it — and she'll actually fight back." Kyle Lyebyedyev Kyle Lyebyedyev Community Leader & Small Business Owner Latest News & Events View All News & Events In the News Seattle Times Editorial Board Endorses Kristina Soltys The Seattle Times Editorial Board has endorsed Kristina Soltys for State Senate in the 47th District, pointing to years of Olympia overspending and the multibillion-dollar deficits it keeps creating.
 Read More In the News Local Leaders Gather in Kent for Fentanyl Solutions Event Kristina Soltys joined twelve local mayors, elected officials and community members in Kent for a Battlefield Addiction event focused on fentanyl, addiction, accountability and solutions.
 Read More In the News Soltys: 99.5% of Doors Are Slamming on WA's Income Tax Heading into the primary as the only Republican on the ballot in the 47th, Kristina Soltys is betting voters in Kent, Auburn and Covington have connected their shrinking paychecks to Olympia.
 Read More In the News 47th LD Senate Showdown Tops Local Legislative Races A November general ballot showdown for the 47th District Senate seat between incumbent Claudia Kauffman and challenger Kristina Soltys looms as one of the top state races this year in the Kent area.
 Read More In the News Covington Councilwoman Kristina Soltys Launches State Senate Bid Covington City Councilmember Kristina Soltys is launching a campaign for state Senate in the 47th District, with affordability and public safety as the centerpiece of her bid.
 Read More In the News Kristina Soltys Announces Senate Campaign for 47th District Covington City Councilmember Kristina Soltys officially launched her campaign for Washington State Senate, citing affordability, public safety, and transportation as top priorities.
 Read More Press Release SRCC Endorses Kristina Soltys for 47th District State Senate The Washington Senate Republican Campaign Committee announced their sole endorsement in the 47th District race, backing Kristina Soltys for State Senate.
-Read More Press Release Goers Steps Aside; Soltys Now Sole Republican in 47th Senate Race With Carmen Goers ending her State Senate bid, Kristina Soltys is now the only Republican on the ballot heading into the August 4 primary.
 Read More Press Release King County Republican Party Endorses Soltys for 47th District State Senate The KCGOP Endorsement Committee has named Kristina Soltys as the party's standard-bearer in one of King County's most competitive Senate districts.
 Read More ← → It's going to take all of us, Are You Ready to Win the 47th?
 #1 High Impact Donate Every dollar funds doors knocked, mailers sent, and voters reached.
-The primary is August 4 — resources deployed now have the highest return. $25 $50 $100 $250 $500 Other Contribute Securely Online High Impact Volunteer Knock doors, make calls, and build the team that wins this race.
+The general election is November 3 — resources deployed now have the highest return. $25 $50 $100 $250 $500 Other Contribute Securely Online High Impact Volunteer Knock doors, make calls, and build the team that wins this race.
 No experience needed — just passion for the 47th District.
 Sign Up to Volunteer Stay Connected Follow Updates, alerts, and behind-the-scenes from the campaign.
 Follow and share.
 Facebook X / Twitter Instagram Stay in the Fight Be the First to Know.
 Get campaign updates, event invites, and action alerts straight to your inbox.
 Winning the 47th District takes all of us — stay in it.
-Sign up for updates * Required fields Paid for by Friends of Kristina.
-By submitting you agree to receive campaign emails.
-You may unsubscribe at any time.
-Fighting for South King County families — safe neighborhoods, affordable living, better roads, and a government that actually delivers for the 47th.
+Sign up for updates * Required fields Fighting for South King County families — safe neighborhoods, affordable living, better roads, and a government that actually delivers for the 47th.
 Paid for by Friends of Kristina (R) • PO Box 7572, Covington, WA 98042 Facebook X / Twitter Instagram Campaign About Kristina Why Kristina Priorities Get Involved Donate Volunteer Endorse Kristina Resources Contact Privacy Policy Terms & Conditions © # Friends of Kristina.
 All rights reserved. • Privacy Policy • Terms Donate Now

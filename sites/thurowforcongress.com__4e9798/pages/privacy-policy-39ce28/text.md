@@ -1,4 +1,4 @@
-× Chip in to support Mike Thurow for Congress DONATE WITH ACTBLUE DONATE WITH NUMERO Or, sign up to volunteer ➔ Skip to Content Open Menu Close Menu Home About Events Platform 0 0 Volunteer Home About Events Platform 0 0 Volunteer Open Menu Close Menu Home About Events Platform Volunteer Privacy Policy & Terms of Service TERMS OF SERVICE: Thurow for Congress’ mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
+× Chip in to support Mike Thurow for Congress DONATE WITH ACTBLUE DONATE WITH NUMERO Or, sign up to volunteer ➔ Skip to Content Open Menu Close Menu Home About Events Platform Endorsements 0 0 Volunteer Home About Events Platform Endorsements 0 0 Volunteer Open Menu Close Menu Home About Events Platform Endorsements Volunteer Privacy Policy & Terms of Service TERMS OF SERVICE: Thurow for Congress’ mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 You can cancel the SMS service at any time.
 Just text "STOP".
 After this, you will no longer receive SMS messages from us.

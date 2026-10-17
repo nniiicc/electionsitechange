@@ -61,7 +61,14 @@ Come say hello when you see me at an event, stop and talk with us when we're out
 You don’t have to be a political expert to get involved in your community.
 You just have to care enough to show up.
 And whether we agree on everything or not, I’m always willing to listen.
-Newsletter Block This newsletter signup form needs a storage option.
+“Decisions are made by those who show up. “ Frederick News Post- Candidate Q&A The Frederick News-Post features Alleria Stanley, candidate for Maryland House of Delegates in District 4, in its 2026 candidate questionnaire.
+Drawing on her 20 years of military service, Alleria shares her commitment to transparent, accountable leadership and outlines her priorities for Frederick County, including accessible healthcare, education, improved infrastructure, environmental protection, and responsible development.
+Read Here Education Forum: Beyond Sustainable - Regenerative Farming The Frederick News-Post highlights a local agricultural tour exploring regenerative farming practices across Frederick County.
+Alleria Stanley joined local farmers and community leaders for six hours to learn firsthand how sustainable agriculture can restore soil health, protect waterways, and preserve farmland for future generations.
+The article underscores the dedication of local farmers and the importance of protecting Frederick County’s agricultural heritage and natural resources.
+Read Here Maryland State Delegation D4 Forum Alleria Stanley joins fellow candidates for Maryland’s House of Delegates in District 4 for a public candidate forum.
+The discussion provides Frederick County residents an opportunity to hear directly from those seeking to represent their community in Annapolis, learn about their priorities, and better understand their perspectives on the issues affecting District 4.
+Read Here 2026 Frederick County Voters’ Guide Read the 2026 Voters' Guide Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay in the loop Sign up with your email address to receive news and updates.
 Email Address Sign Up Thank you!

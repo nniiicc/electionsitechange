@@ -14,6 +14,6 @@ House Bill 1940 ensures critical flood control infrastructure can continue being
 Flood control districts in the 31st District are responsible for constructing and maintaining levees along the Green, White, and Puyallup rivers.
 Due to the complex method of allocating property tax dollars in Washington state, the King County Flood Control District would have lost all of its revenue to other agencies beginning in 2018.
 Bills go into effect 90 days following the adjournment of the regular legislative session.
-In the News bills legislature property tax public safety regulations taxes More For You Rep.
-Stokesbary files bill to address leaves of absence by elected officials In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Stand for Children announces 2014 legislative candidate endorsements Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News bills legislature property tax public safety regulations taxes More For You State Patrol Troopers endorse Drew Stokesbary Endorsements The News Tribune profiles House Position 1 race In the News The Times recommends: Rep.
+Drew Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

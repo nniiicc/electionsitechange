@@ -64,5 +64,5 @@ Health Care.
 Community.
 FriendsOfJenniferClancy.com FriendsOfJenniferClancy@gmail.com P.O.
 Box 205 / Leonardtown MD 20650 FOR_IMMEDIATE_RELEASE_Jennifer_Clancy_Announces_Candidacy_for_Maryland_State_Delegate29A.pdf Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer.
-Read more Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com - Political Websites Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+Read more Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
 YARD SIGN REQUEST Contribute Close Menu

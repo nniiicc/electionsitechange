@@ -3,7 +3,7 @@ All Posts Campaign Affordability Crisis Childcare Crisis Working Families Afford
 Interested in sponsoring?
 Eagle, Birdie, and Par sponsorships are listed below.
 Local country music band "Heavy Pour Band" will jam to all their favorite country and southern rock music!
-Purchase tickets here Recent Posts See All My opponent says I don’t have the time to be a Senator.
+Purchase tickets here Recent Posts See All Peter Leduc: Join me in voting for Bartley for Vermont State Senate My opponent says I don’t have the time to be a Senator.
 Here’s my answer.
 Independent Representative Jed Lipsky backs Ashley for State Senate!
-The Vermont Police Association Endorses Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page
+Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

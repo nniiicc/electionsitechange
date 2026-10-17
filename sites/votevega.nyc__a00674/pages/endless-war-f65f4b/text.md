@@ -1,4 +1,4 @@
-Skip to content Read the latest statement Dignity, Or Subjugation Read → Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up 9/11 at 25 · Live public forum · NYC The endless war turned on you.
+Skip to content Read the latest statement A Future Without War Read → Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up 9/11 at 25 · Live public forum · NYC The endless war turned on you.
 A 9/11 25th-anniversary public forum held in Manhattan on September 13, 2026.
 Watch what happened Read the briefing ↓ Date Sun · Sep 13 Time 11:00 AM Place Manhattan Signal acquired Watch the recording See what happened at the forum Watch on YouTube Transmission 001 · Why now Not a memorial.
 An accounting.

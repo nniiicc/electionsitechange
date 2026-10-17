@@ -27,7 +27,7 @@ But today, it feels like those doors are closing.
 Most people work hard and still can't get by because of rising prices.
 That’s wrong — and it’s why I’m running for Congress.
 LEARN MORE > SUPPORT THE CAMPAIGN FOR COMMON-SENSE LEADERSHIP $ 10 $ 25 $ 100 $ 250 $ 1,000 Other $ 10 $ 25 $ 100 $ 250 $ 1,000 Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Watch our new ad, "mission": sign up to Get Involved First Name First Name Last Name Last Name Email Email Zip Code Zip Code Phone Phone Sign me up for SMS texts.
+Watch our new ad, "auto-shop" sign up to Get Involved First Name First Name Last Name Last Name Email Email Zip Code Zip Code Phone Phone Sign me up for SMS texts.
 By selecting this checkbox you are agreeing to receive text messages from Leela J.
 Gray for Congress.
 Leela J.

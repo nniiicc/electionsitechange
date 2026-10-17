@@ -13,4 +13,4 @@ Find your way to get involved!
 October 6.
 Let’s fill Crawlspace!
 Location 315 West Michigan Avenue Kalamazoo, MI 49083 https://www.mobilize.us/forourfuturemichigan/event/1051629/ Get Driving Directions Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

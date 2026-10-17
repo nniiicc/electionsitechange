@@ -6,4 +6,4 @@ His “Stronger Together” platform is built upon years of advocacy for the Dav
 Throughout Dan’s career and personal endeavors, Dan has demonstrated a steadfast commitment to labor, education, and our communities.
 Dan believes in fostering economic prosperity, comprehensive and accessible education opportunities for all Davenport kids, and aims to be a voice for the hardworking Iowans of Davenport at the state capitol. © # Dan Gosa.
 All Rights Reserved.
-Website Design by Server: Mirror1-A
+Website Design by Server: Mirror1-P

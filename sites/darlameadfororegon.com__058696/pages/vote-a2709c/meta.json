@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.darlameadfororegon.com/vote",
- "fingerprint": "f3e7f7362cbed13e8020aec91220b2f57f10f636",
+ "fingerprint": "5feb346deaf5854bafbe557828e3d5412ee0736c",
  "format": 3,
  "paid_for_by": "Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

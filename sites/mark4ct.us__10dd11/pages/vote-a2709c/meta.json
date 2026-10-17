@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.mark4ct.us/vote",
- "fingerprint": "8a41ab9dfe0dcabce543cc62853f25ff9a312b0b",
+ "fingerprint": "69c05c0fe24206db8e70e0ba9028231327dff64d",
  "format": 3,
  "paid_for_by": "Paid for by Mark4CT, Mary Zlotnick,Treasurer",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

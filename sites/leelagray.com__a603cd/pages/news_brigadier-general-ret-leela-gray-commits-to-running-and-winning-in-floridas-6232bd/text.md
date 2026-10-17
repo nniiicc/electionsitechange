@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray May 6 2026 PRESS RELEASE Brigadier General, (Ret) Leela Gray Commits to Running and Winning in Florida’s 13th District While Luna Tries to Run Away from Washington’s Failure to Lower Costs, Gray Doubles Down on Winning in November FOR IMMEDIATE RELEASE May 6, 2026 Contact: press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 May 6 2026 PRESS RELEASE Brigadier General, (Ret) Leela Gray Commits to Running and Winning in Florida’s 13th District While Luna Tries to Run Away from Washington’s Failure to Lower Costs, Gray Doubles Down on Winning in November FOR IMMEDIATE RELEASE May 6, 2026 Contact: press@leelagray.com St.
 Petersburg, FL — Today, Brigadier General, (Ret) Leela Gray reaffirmed her commitment to the families of Florida’s 13th Congressional District, vowing to take her mission for accountability and common-sense leadership all the way to Washington.
 “Washington and Tallahassee politicians cannot gerrymander away the reality Floridians face every day.
 Congresswoman Luna can't hide from her failure to address the skyrocketing costs of insurance, housing, and groceries,” said Gray.

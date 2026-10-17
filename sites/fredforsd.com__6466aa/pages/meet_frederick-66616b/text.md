@@ -33,4 +33,4 @@ I want to keep fighting for District 4—with stronger schools, lower taxes, saf
 You can learn more about my plans on the " ISSUES " page.
 I would be honored to have your support.
 Early voting begins September 18th, and Election Day is November 3rd.
-If you would like to volunteer to help the campaign, click here , and thank you! 🔗 See Also: ➡️ Promises Made & Kept ➡️ Faith, Family & Freedom Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+If you would like to volunteer to help the campaign, click here , and thank you! 🔗 See Also: ➡️ Promises Made & Kept ➡️ Faith, Family & Freedom Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

@@ -26,4 +26,4 @@ It is handing someone else the cost.
 A Thriving County Winning Means Your Kids Can Thrive At Every Stage & Stay Here.
 That is a park when they are small, a first job when they are old enough, and a starter house that is not a rumor.
 I want the twenty-eight-year-old who grew up in Brookfield or Pewaukee to see a way to live here, instead of a county that was only a fine place to be from.
-Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu
+Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu

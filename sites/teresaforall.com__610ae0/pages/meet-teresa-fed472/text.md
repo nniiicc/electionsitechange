@@ -10,4 +10,4 @@ The family-member that hikes in our beautiful mountains and wilderness… who wa
 The former attorney for tribal sovereignty and the advocate for Hispanic cultural expression... who knows New Mexico’s multicultural understanding is a model for the nation.
 A proud daughter of rural New Mexico who grew up in Las Vegas as part of a big family who taught me that now is always the time to be of service to our communities. ​ AND The first Congresswoman to represent New Mexico’s Third Congressional District, who is grateful for the opportunity to serve the communities that I love and have dedicated my life to.
 I am running for reelection to continue delivering for our state on the issues that matter most so that our communities can not just survive - but thrive.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

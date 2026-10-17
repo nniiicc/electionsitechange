@@ -7,4 +7,4 @@ It happened because teachers were trusted, districts were given the resources th
 Carrie will fight for that same approach at the state level: trusting educators as the experts they are, making sure every district, not just the well funded ones, has the resources to help kids succeed, and building standards that serve our children instead of just measuring them.
 Our schools are already showing us what works.
 Carrie will make sure Frankfort follows their lead.
-Next: Making the Dream of Home Ownership Real Again » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Making the Dream of Home Ownership Real Again » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,0 +1,3 @@
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact NYS Senator Shelley Mayer and NYS Assemblyman Steve Otis at The Larchmont-Mamaroneck Local Summit September 11, 2026 The September 8th Larchmont-Mamaroneck Local Summit kicked off its programming year with State Senator Shelley Mayer and Assemblyman Steve Otis providing a wide-ranging update on state legislative and policy developments.
+The program drew a large audience of residents and elected officials, including Congressman George Latimer.
+View Full Article >> Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

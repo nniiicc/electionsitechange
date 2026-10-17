@@ -1,9 +1,7 @@
-Skip to content Home About Issues News Contact Donate Sign Up Home About Issues News Contact Donate Sign Up Facebook Instagram Issues › Education Education What Hank believes : High-quality education (like health care) must be a right of all Americans, not a privilege.
-Chronic underinvestment in education seriously threatens America’s future competitiveness and well-being.
-The single most important investment we can make is in the literacy, aptitude, productivity, and enlightenment of all Americans, young and old.
-We must strive to make college and higher education a possibility for all Americans who are eager to achieve that level of scholarship and post-secondary and training/re-training opportunities available to everyone.
-Teaching is among the noblest and most essential callings in society and should be rewarded accordingly.
-Massive inequality within our educational system effectively condemns Americans living in poor and under-served communities to economic hardship.
+Skip to content Home About Issues News Contact Donate Sign Up Home About Issues News Contact Donate Sign Up Facebook Instagram Issues › Education Education Congressman Johnson believes that high-quality education should be a right, not a privilege, for all Americans.
+He is committed to addressing inequalities within the education system, increasing funding for public schools, and making higher education more affordable and accessible.
+Hank has introduced and supported legislation to secure resources for schools, protect students from abusive loan practices, and enhance access to arts, music, and technical education programs.
+Congressman Johnson strongly opposes the Trump administration’s cuts to the Department of Education and the attempts to dismantle it.
+Moving forward, he will continue to advocate for increased teacher pay and equitable funding for under-resourced schools to ensure every student has the chance to succeed.
 BACK TO ISSUES CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
-Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Hank Says: Early Voting Has Started October 15, 2026 Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
-Supreme Court’s decision September 16, 2026 Paid for by the Committee to Elect Hank Johnson
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Hank Rallies NTEU Members at Atlanta Phone Bank Event October 16, 2026 Hank: Early Voting Has Started October 15, 2026 Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 Paid for by the Committee to Elect Hank Johnson

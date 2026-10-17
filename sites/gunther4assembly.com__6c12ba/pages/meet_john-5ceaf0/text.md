@@ -21,4 +21,4 @@ I am running a grass roots campaign funded by small contributions from individua
 My campaign committee, gunther4assembly, has been approved by the New York State Board of Elections to participate in their matching funds program which was established to help independent candidates get elected who are not beholding to large corporations, their lobbyists and super PACS.
 This Match Program levels the playing field.
 A small donation is matched and becomes a big contribution: $5 nets $60; $50 nets $650; $250 nets $2,550.
-Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

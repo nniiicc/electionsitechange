@@ -15,4 +15,8 @@ Thank you for your dedication and service.
 Congrats Graduates!
 Congratulations to the class of 2023!
 Whether you finished your senior year of high school or college, I commend you for your achievement and can’t wait to see what the future holds for each of you.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 11 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 9 + 13 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Endorsements Events Join Us Donate Website Privacy Policy About Issues News Endorsements Events Join Us Donate Website Privacy Policy We understand the importance of protecting your personal information.
+Skip navigation menu About Issues News Endorsements Events Join Us Know Your Rights Donate Website Privacy Policy About Issues News Endorsements Events Join Us Know Your Rights Donate Website Privacy Policy We understand the importance of protecting your personal information.
 This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website.
 By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 You consent to our communicating with you about Celeste Rodriguez for Assembly 2026 by SMS, text message, email or other electronic means.

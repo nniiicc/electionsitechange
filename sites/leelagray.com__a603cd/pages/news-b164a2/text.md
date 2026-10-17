@@ -1,5 +1,8 @@
 Skip navigation menu Home About Endorsements Issues News Events Store Español Donate Home About Endorsements Issues News Events Store Español Donate news & press Latest Campaign Developments Please direct all press inquiries to press@leelagray.com.
-NEWS ARTICLE Is the blue wave real?
+PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption Read more Oct 16 2026 NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign Read more Oct 16 2026 PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch Read more Oct 15 2026 PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna Read more Oct 15 2026 NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida Read more Oct 15 2026 NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Read more Oct 14 2026 NEWS ARTICLE Is the blue wave real?
 Under-the-radar races that could hand Congress to Democrats Read more Oct 13 2026 PRESS RELEASE Seven Local and Regional Labor Organizations Back Leela Gray to Unseat Anna Paulina Luna Read more Oct 13 2026 PRESS RELEASE Pinellas County School Board Member, Navy Veteran Laura Hine Endorses Leela Gray for Congress Read more Oct 12 2026 PRESS RELEASE Tampa Bay Times Recommends Leela Gray, Rebukes Anna Paulina Luna’s Record in Congress Read more Oct 9 2026 PRESS RELEASE Leela Gray on Morning Joe: “Luna is Driven By Her Vanity" Read more Oct 9 2026 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race Read more Oct 9 2026 PRESS RELEASE ONE MONTH LATER: Anna Paulina Luna Still Refuses to Debate Leela Gray Read more Oct 8 2026 NEWS ARTICLE LIVE With Rep.

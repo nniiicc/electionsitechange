@@ -1,16 +1,2 @@
-Home About Teresa Mission Media DONATE Back to Media & News Press Release Clean Sweep - CD6 Republicans Unified Teresa Fox Secures Unanimous Support from All Six Republican County Parties in Washington’s 6th Congressional District July 1, 2026 Campaign Staff FOR IMMEDIATE RELEASE Teresa Fox Secures Unanimous Support from All Six Republican County Parties in Washington’s 6th Congressional District BREMERTON, WA, June 30, 2026 — The Teresa Fox for Congress campaign is proud to announce an important milestone in the race for Washington’s 6th Congressional District: the unanimous endorsement of the candidate by all six Republican County Parties across the district.
-It’s a clean sweep!
-These endorsements represent the unified support of party Republican organizations in Clallam, Grays Harbor, Jefferson, Kitsap, Mason, and Pierce counties.
-We stand strong together, signaling overwhelming grassroots momentum for Fox’s mission to bring practical, responsible, results oriented leadership to Washington, D.C.
-“I am honored and humbled to have the full backing of our Republican county parties,” said Teresa Fox.
-“This collective endorsement represents more than just organizational support; it reflects a shared commitment from the hardworking people of this district to reject the status quo of career politics.
-Families and citizens of the district are ready for leadership that prioritizes the needs of our communities over ideological activism.” Fox, a safety professional and emergency manager, has built her platform on providing practical solutions to the issues impacting the 6th District: Affordability and Economic Development: Fox is committed to stopping the runaway government spending fueling inflation.
-She advocates for policies that foster a strong, stable economy to ensure Washington’s working families can thrive.
-Public Safety and Law Enforcement: Believing that public safety is the foundation of a healthy community, Fox is dedicated to restoring law and order.
-Her plan includes ensuring proper staffing and resources for law enforcement, particularly in rural communities, to guarantee that neighborhoods remain safe for all residents.
-“From our shipyards to our rural communities, the message from the 6th District is clear: we need change,” Fox added.
-“We are focused on fiscal restraint, naval readiness, and protecting our families.
-With this united front, we are ready to take our common sense message directly to the voters and ensure that Washington has a representative who puts the people first.” ### About Teresa Fox Teresa Fox is a hands-on safety professional and emergency manager who has spent her career protecting workers and strengthening institutions in high-accountability environments.
-Not a career politician, she is running to restore citizen service to Congress, focusing on fiscal responsibility, public safety, and practical solutions for the 6th Congressional District.
-Media Contact: info@foxforwa.com 360-536-8177 Back to all articles Show Your Support Get your official Fox for Congress yard sign and put it proudly on display.
+Home About Teresa Mission Media DONATE Show Your Support Get your official Fox for Congress yard sign and put it proudly on display.
 Order a Yard Sign Home About Teresa Mission Media DONATE via anedot DONATE via winred Fox for WA (R) PO Box 4026 Bremerton, WA 98312 info@foxforwa.com Paid for by Fox for WA (R) - PO Box 4026 Bremerton, WA 98312

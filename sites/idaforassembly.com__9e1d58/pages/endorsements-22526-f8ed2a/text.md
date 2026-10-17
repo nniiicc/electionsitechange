@@ -1,4 +1,4 @@
-0 Skip to Content Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate We’re Team Ida Elected officials, local leaders, and activists are all joining Dr.
+0 Skip to Content Meet Ida Issues Endorsements Events Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Events Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Events Privacy Policy Donate We’re Team Ida Elected officials, local leaders, and activists are all joining Dr.
 Ida’s campaign for State Assembly.
 Speaker Robert Rivas “As a nurse, Dr.
 Ida Obeso-Martinez understands how federal healthcare cuts are harming Californians.

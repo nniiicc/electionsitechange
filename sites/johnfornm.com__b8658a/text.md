@@ -18,6 +18,4 @@ Text STOP to opt-out.
 Text HELP for help.
 For additional information, please see our Terms & Conditions and Privacy Policies .
 CONTACT : Please email inquiries for John to info@johnfornm.com .
-Terms & Conditions Privacy Policy Copyright © # John Block for New Mexico | Paid For By John For New Mexico | 1111 Tenth Street, #402, Alamogordo, NM 88310 About Issues Follow Endorsements < < Scroll to Top Loading Comments...
-Write a Comment...
-Email (Required) Name (Required) Website
+Terms & Conditions Privacy Policy Copyright © # John Block for New Mexico | Paid For By John For New Mexico | 1111 Tenth Street, #402, Alamogordo, NM 88310 About Issues Follow Endorsements < < Scroll to Top

@@ -1,9 +1,11 @@
-0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Leadership Idaho deserves leaders who listen, solve problems, and do what's right when it matters most.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Leadership Idaho needs leaders who listen, solve problems, and serve the people they represent.
 I’m John Stegner.
-I’m a lifelong Idahoan, former Idaho Supreme Court Justice, and principled leader running for Governor because I believe Idaho can do better.
-Why I’m Running Idaho is worth fighting for.
-Across our state, families are asking whether they can afford to stay here, build a career, raise a family, and access the healthcare and opportunities they need.
+Lifelong Idahoan, former Idaho Supreme Court Justice, and principled leader running for Governor.
+Why I’m Running Across our state, families are asking if they can afford to stay here, build a career, raise a family, and access the healthcare and opportunities they need.
 For many, the answer is no.
+We have the highest grocery tax in the country.
+We have the highest incarceration rate of women in the country.
+We are creating systems that prevent Idahoans from thriving.
 Too many of our elected officials have stopped representing the people of Idaho.
 They ignore the rule of law and pretend following the Constitution is optional.
 I spent my entire career upholding the Constitution.
@@ -17,7 +19,7 @@ Sometimes that meant standing alone, apart from others.
 But leadership isn't about doing what's easy.
 It's about doing what's right.
 As Governor, I'll bring that same commitment to serving the people of Idaho.
-Meet John Focused on What Matters Affordability Families should be thriving in our state, not struggling to make ends meet.
+Meet John Issues Affordability Families should be thriving in our state, not struggling to make ends meet.
 Idahoans didn’t create the affordability crisis, but they deserve a governor focused on fixing it.
 Healthcare Access Idaho families deserve access to quality healthcare.
 We must address the challenges facing our healthcare system and strengthen access across our state.

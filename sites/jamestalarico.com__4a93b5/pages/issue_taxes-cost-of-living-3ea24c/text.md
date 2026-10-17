@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Taxes & Cost of Living Lowering What Texans Pay Why is everything so expensive in Texas?
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Taxes & Cost of Living Lowering What Texans Pay Why is everything so expensive in Texas?
 James Talarico worked with Republicans to deliver the largest property tax cut in Texas history.
 In the Senate, he’ll cut taxes for working people, cap credit card interest rates, and lower the cost of rent, groceries, utilities, and gas by making billionaires and giant corporations pay their fair share.
 I was born to a single mom who worked overtime at a hotel to support me.

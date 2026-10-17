@@ -10,7 +10,7 @@ Msg frequency may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.
 View Privacy Policy for more info.
-Send Name Make A Donation Take Action & Volunteer Send a Message to Phil Quick Links Make a Donation Get Involved Contact Phil In the News Prefer to donate by check?
+Send Last Name Make A Donation Take Action & Volunteer Send a Message to Phil Quick Links Make a Donation Get Involved Contact Phil In the News Prefer to donate by check?
 Please make your check payable to Steck for Assembly 2026 and mail it to: Steck for Assembly 2026 P.O.
 Box 7123 Albany, NY 12224 Thank you for your support! © 2026 All rights reserved.
 Privacy Policy Paid for and authorized by Steck for Assembly 2026.

@@ -20,7 +20,7 @@ ActBlue Express : If you save your payment information with ActBlue Express, Act
 We do not have access to your full credit card or payment information.
 Payment data is securely processed and stored by ActBlue and its payment processors.
 How we share your information We do not sell, rent, or trade your personal information.
-We may share your information only in the following circumstances: Service providers : We may share information with trusted vendors who help us operate our Site (such as Cloudflare for security and hosting analytics, Matomo for website analytics, Google for maps and advertising measurement, Meta for advertising measurement through Meta Pixel, and ActBlue for donation processing).
+We may share your information only in the following circumstances: Service providers : We may share information with trusted vendors who help us operate our Site (such as Cloudflare for security and hosting analytics, Matomo for website analytics, Google for maps, Meta for advertising measurement through Meta Pixel, and ActBlue for donation processing).
 These providers are required to protect your information.
 You can review their privacy policies at Cloudflare Privacy Policy , Matomo Privacy Policy , Google Privacy Policy , Meta Privacy Policy , and ActBlue Privacy Policy .
 Legal compliance : We may disclose information if required by law, subpoena, or other legal process, including campaign finance reporting requirements.

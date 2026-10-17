@@ -14,7 +14,16 @@ State and Local Governmental Memberships – Delaware League of Local Government
 PLATFORMS1 OUR MISSION Gene Dvornick's priorities for District 20 What are the most important challenges facing our state, and how do you the propose to address them?
 The most pressing concerns facing Delaware families are one-party rule and diminishing revenue streams .
 These two issues require practical, common-sense solutions and bipartisan cooperation.
-These two concerns are also directly tied to other statewide issues such as housing affordability, workforce development, emergency services, land protection and small business growth.
+These two concerns are also directly tied to other statewide issues such as housing affordability, workforce development, emergency services, land protection and small business growth. ​ In the 20th District, infrastructure is unable to keep pace with rapid growth in population and housing.
+Infrastructure includes safe transportation, modern water, sewer, and stormwater management systems.
+As one of the fastest growing areas in the State, this district generates significant realty transfer tax revenue.
+Currently, the same amount that goes out from RD 20 is not fairly returned to it.
+But what’s returned is needed to pay for critical infrastructure reinvestment.
+New development pays the upfront cost to install project infrastructure, but local jurisdictions also need to improve and maintain existing infrastructure.
+As existing infrastructure ages, the need for reliable, dedicated revenue streams to maintain it becomes increasingly necessary.
+These two components are not mutually exclusive.
+Ultimately, there needs to be a much better balance between the revenues generated locally and the funding returned for sustainable reinvestment.
+I would return this balance in Dover.
 First, political balance is what the state needs .
 One-party rule does not help Delawareans in our towns, counties and state.
 A healthy democracy works best when no single party has unchecked power.

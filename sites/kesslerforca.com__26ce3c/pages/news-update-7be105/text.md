@@ -1,4 +1,4 @@
-top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog In the News Fox News: Shannon Kessler on ‘Save Girls Sports’ and a school board forum (Oct.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Endorse Shannon News Events Blog In the News Fox News: Shannon Kessler on ‘Save Girls Sports’ and a school board forum (Oct.
 8, 2026) ​ KSBY interview: Shannon Kessler on cost of living, healthcare and public safety (Oct.
 5, 2026) ​ ​​ Hometown Radio with Dave Congalton: Shannon Kessler, Assembly District 30 candidate full interview (Oct.
 5, 2026) ​ Mustang News: Shannon Kessler on housing, education and girls' sports (May 28, 2026) “Kessler Wins Major Endorsement” California Republican Party FOR IMMEDIATE RELEASE Contact: Adriana Gonzalez at info@kesslerforca.com (Arroyo Grande, CA) — Shannon Kessler, candidate for California’s 30th Assembly District, has received the endorsement of the California Republican Party .

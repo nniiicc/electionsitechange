@@ -1,11 +1,18 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Reproductive Rights I have always believed that abortion should be rare, safe and legal in the state of Maryland.
-Now that the Supreme Court has overturned Roe vs.
-Wade, the fight to protect women’s right to reproductive healthcare has moved from our courts to our legislatures.
-Thankfully, reproductive rights are codified in Maryland law.
-However, reproductive rights mean nothing if women cannot exercise those rights.
-That is why I was proud to vote for legislation this year that will train more healthcare workers to deliver safe, high-quality care.
-Now more than ever, we must maintain our pro-choice supermajority in the Maryland Senate to prevent government interference in these personal and difficult decisions.
-I promise that I will continue to stand up for women’s rights in Annapolis.
-Friends of Katie Fry Hester, Treasurer: Margaret E.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Reproductive Rights Reproductive care is healthcare.
+I’ll always stand with patients, their families, and providers when it comes to making these personal and often difficult healthcare decisions.
+After the Supreme Court overturned Roe v.
+Wade in 2022, I proudly voted to put Question 1 on Maryland’s November 2024 ballot, allowing an overwhelming majority of Marylanders to vote “YES” and enshrine abortion rights in our state’s constitution.
+The 2024 ballot initiative continued the work of Maryland leaders who have always fought to protect abortion access in our state – thankfully, Maryland codified Roe back in 1991 – and squarely positioned Maryland as a reproductive care haven in post-Roe America.
+However, Maryland’s reproductive rights mean little if women cannot exercise those rights.
+In 2022, I helped pass the Abortion Care Access Act to train more healthcare workers to deliver safe, high-quality abortion care.
+Throughout my time in the Senate, I’ve voted for every bill expanding access to reproductive care, from increasing access to over-the-counter contraceptives on college campuses to increasing security at reproductive care clinics.
+I’m committed to protecting access to reproductive care in Maryland, both for Marylanders and for our neighbors living under draconian restrictions and bans.
+In general, I support policies to: Keep all reproductive care, including abortion, safe and legal in Maryland, Expand access to contraceptives and high-quality reproductive care, Protect access to fertility treatments like in-vitro fertilization (IVF) for Maryland families, and Mandate insurance coverage for women’s health and reproductive care costs.
+SB0532/HB1076 – Higher Education Institutions – Over-the-Counter Contraception – Access and Reporting (2026) Requires Maryland public colleges and universities to make over-the-counter contraceptives available to students and establishes reporting requirements to improve access to reproductive healthcare on campus.
+SB0848/HB0930 Public Health Abortion Grant Program – Establishment (2025) Establishes a grant program to support public health efforts that expand access to abortion care and reproductive healthcare services in Maryland.
+SB975/HB1091 – Supporting Reproductive Health Care Clinics Act (2024) Helps protect women’s choices by creating the Reproductive Health Care Clinic Security Grant Program to ensure clinics across the state can remain safe and secure.
+SB527/HB0367 – Community Colleges – Contraception – Access Requirements (2024) Increases the availability of reproductive care on college campuses by ensuring Maryland’s community college students can easily access over-the-counter contraceptives on campus. ** SB0341/HB0477 – Reproductive Health Services Plans (2023) Requires health insurers to provide coverage for reproductive health services and establishes requirements designed to protect access to covered reproductive care.
+SB0798/HB705 – Declaration of Rights – Right to Reproductive Freedom (2023) Proposes a constitutional amendment establishing a fundamental right to reproductive freedom, including decisions regarding pregnancy and abortion, subject to the constitutional amendment process.
+SB0890/HB0937 – Abortion Care Access Act (2022) Expands access to abortion care by increasing the number of qualified healthcare professionals who may provide abortion services, establishing training programs, and strengthening protections for providers and patients. (**Denotes Legislation I Sponsored) Friends of Katie Fry Hester, Treasurer: Margaret E.
 Connor © # Katie Fry Hester for MD State Senate D9.
 Privacy Policy .

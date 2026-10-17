@@ -11,4 +11,4 @@ Hope to see you there!
 Location 129 Fayette Street Conshohocken, PA 19038 (610) 247-3965 Get Driving Directions Add to calendar This event has passed Sign-ups are closed.
 Check the events page for what's coming up next.
 See upcoming events Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

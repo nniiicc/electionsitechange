@@ -15,7 +15,7 @@ National Rifle Association Steve Negron - Former NH State Rep.
 New Hampshire Firearms Coalition Jonathan Rasmussen - Retired, NH Delegate General Don Bolduc - Cand.
 U.S.
 Senator for NH.
-Karen Testerman - Candidate NH Governor ReOpenNH Americans For Tax Reform Citizens Alliance New Hampshire SDGANH Granite State Taxpayers Young Americans for Liberty DBA VIP Gatekeeper EVENTS CALENDAR September 2026 S M T W T F S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Feb Jose’ E.
+Karen Testerman - Candidate NH Governor ReOpenNH Americans For Tax Reform Citizens Alliance New Hampshire SDGANH Granite State Taxpayers Young Americans for Liberty DBA VIP Gatekeeper EVENTS CALENDAR October 2026 S M T W T F S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Feb Jose’ E.
 Cambrils Email Jose4NH@Comcast.net Phone (603) 731-8287 Fax N/A Address 83 Berry Road Loudon, NH.
 03307 Contact Us Email jose4nh@comcast.net Phone 603-731-8287 Fax N/A Address 83 Berry Road Loudon, NH.
 03307 Home About the Candidate Community Service Contact my campaign FAQ Photo Gallery Endorsements NEWS & DONATIONS Copyright © # New Hampshire State Rep.

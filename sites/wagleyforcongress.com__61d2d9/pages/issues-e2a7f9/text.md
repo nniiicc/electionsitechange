@@ -1,4 +1,15 @@
-top of page Home Issues About Contact Stephen Wagley on the Issues Protecting Life Life begins at conception.
+top of page Home Issues About Contact Stephen Wagley on the Issues Fighting for our Republic Against the Communists and Islamists The Democrat Party has made a deal with the Devil with its radical socialist wing forming an alliance made with Communists and Islamist to gain power.
+Make no mistake: socialism, and Sharia imposed as a system of government, are incompatible with our Republic and our Constitution.
+Some on our side look at this alliance only through a political lens and see it as a net positive because it weakens the Democrat brand nationally.
+For me, this an attack on our Judeo-Christian heritage, our Churches, our way of life, our national security at home and abroad and the Free World at large.
+As your Congressman, I will lead the charge against this Evil sent to Congress from the Blue States will move to censure and strip committee assignments from any member who supports terrorist organizations or calls for replacing our Constitution.
+I will fight every DSA-backed bill.
+And I will demand full enforcement of our laws against material support for terrorism and undisclosed foreign funding.
+I do not believe in collegiality for its own sake, and I will not play by the old two-party rules when our country, our families and our freedoms are at stake.
+I hope to have allies in the House.
+If not, so be it.
+This is the fight our lives and we must win.
+Protecting Life Life begins at conception.
 As a Christian, it is my duty to protect the unborn.
 As your Congressman, it is my responsibility to make sure our tax dollars are not spent on infanticide and our state laws are not encroached.
 As your Congressman, I will fight to make sure none of our tax dollars fund Planned Parenthood.

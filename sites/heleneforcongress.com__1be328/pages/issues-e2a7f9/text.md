@@ -261,4 +261,4 @@ Agriculture and business: reliable connectivity affects precision agriculture, b
 Affordability/adoption: infrastructure isn't the entire issue.
 North Dakota's Digital Equity Plan identifies subscription cost and limited digital skills as barriers even where service exists.
 Last-mile coverage: the remaining locations can be particularly expensive or difficult to reach; North Dakota's broadband planning has specifically identified terrain in the western Badlands as a deployment challenge.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

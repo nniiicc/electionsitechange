@@ -31,4 +31,4 @@ As a member of the Georgia House of Representatives , Dr.
 Jones is committed to working with local leaders, educators, healthcare providers, and businesses to strengthen infrastructure, expand healthcare access, improve public safety, and create economic opportunities—especially for young people and working families .
 Dr.
 Jones is honored to serve the people of Macon-Bibb and Houston Counties and remains dedicated to building stronger communities and greater opportunity across the State of Georgia.
-Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

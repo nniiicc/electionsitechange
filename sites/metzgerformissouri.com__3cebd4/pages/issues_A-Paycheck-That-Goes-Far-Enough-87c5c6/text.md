@@ -4,4 +4,4 @@ We need an economy where a hard week of work pays the bills and leaves a little 
 What I’ll fight for: Real action on the cost of childcare so parents can afford to work.
 Housing policies that don’t leave families one bad month away from disaster.
 Wages that keep up with the actual cost of living in southwest Missouri.
-Tax policy that doesn’t hand the bill to the people who are already squeezed. « Previous: Healthcare Everybody Can Use Next: Public Schools That Give Every Kid a Shot » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Tax policy that doesn’t hand the bill to the people who are already squeezed. « Previous: Healthcare Everybody Can Use Next: Public Schools That Give Every Kid a Shot » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

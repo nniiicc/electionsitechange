@@ -23,4 +23,4 @@ Support Value-Added Agriculture and Rural Infrastructure Indiana leads in growin
 Modern food-processing facilities need reliable power and broadband.
 By addressing grid and connectivity bottlenecks, we can attract advanced manufacturing, create high-wage jobs, and keep more economic value in Indiana.
 By modernizing Indiana's energy, water, and broadband infrastructure and ensuring those who create new demand help pay their fair share, we can lower long-term costs, create good-paying jobs, strengthen our communities, and build an economy that works for Hoosier families.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

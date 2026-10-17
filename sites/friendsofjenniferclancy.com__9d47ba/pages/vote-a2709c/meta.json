@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://friendsofjenniferclancy.com/vote",
- "fingerprint": "e2c8bc12f82f3ba76cee176e55338746d07a7b76",
+ "fingerprint": "ad666773cac8bfa5c2299f5847fa47f5928aa569",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

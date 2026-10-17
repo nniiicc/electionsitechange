@@ -5,4 +5,4 @@ What I’ll fight for in Jefferson City: Defend Missouri’s Medicaid expansion 
 Push back on policies that drive up prescription costs.
 Keep regional and rural hospitals open and staffed.
 Mental-health care that working families can actually afford and access.
-Next: A Paycheck That Goes Far Enough » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: A Paycheck That Goes Far Enough » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

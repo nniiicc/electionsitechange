@@ -1,9 +1,10 @@
 {
  "description": "Hans in the News",
  "final_url": "https://wilzforiowa.com/news",
- "fingerprint": "e0a55016b9f7bbdfca661bf9768b7d9729814b54",
+ "fingerprint": "d4ac910b8766122dca7b8e21c7caf667d61638ac",
  "format": 3,
  "paid_for_by": "sponsored by Wilz for Iowa and is for informational purposes only",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "1956",

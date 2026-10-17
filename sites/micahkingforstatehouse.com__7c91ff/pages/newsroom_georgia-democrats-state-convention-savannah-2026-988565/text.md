@@ -17,6 +17,14 @@ These connections are vital.
 By building a strong coalition of leaders who understand the nuances of both urban and rural districts, we can craft legislation that benefits all Georgians, not just a select few.
 The momentum from Savannah is incredible, but the real work continues on the ground in District 157.
 Let’s keep moving forward!
+THE FIELD REPORT • DISTRICT 157 DISPATCH Follow the Campaign for Georgia House District 157 Direct, honest dispatches from Micah King across Appling, Evans, Jeff Davis, and Tattnall Counties.
+No consultant fundraising blasts - just ground-truth trail updates.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 Dispatch Gallery Event Highlights About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • Elevating Rural Voices • Connecting with State Leaders Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

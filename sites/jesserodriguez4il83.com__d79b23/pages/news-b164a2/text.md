@@ -247,4 +247,4 @@ Read more 21 Sep Sunday, 7:48 PM · 2025 Poll: 50% of Illinois residents would m
 As a contractor serving residential customers, I can confirm many homeowners are fixing their homes and heading out of state to Texas, Tennessee and Florida.
 For a time, I found customers were also leaving the country, for Costa Rica, Portugal and Spain.
 This article helps explain why?
-Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

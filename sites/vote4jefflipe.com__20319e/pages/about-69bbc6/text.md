@@ -23,5 +23,7 @@ To be honest, my political awakening didn’t come until 2015, then more so ahea
 Current events have given me a strong desire to push back from the inside on the divisive and self-serving MAGA agenda that has taken over the Utah legislature’s supermajority.
 I welcome your thoughts and concerns, and I appreciate your interest and support!
 BTW, “Lipe” rhymes with “pipe”.
-I am extremely honored to be endorsed by the Women’s Democratic Club of Utah !
+I’m proud and grateful to be endorsed by Brave Utahns Rapid Response Network (BURRN).
+I am a great admirer of the work they did to protect Prop 4 (fair maps), and the work they are continuing to do to raise the voice of the people of Utah.
+Visit them at burrn.org and on Facebook, Instagram, and Threads I am extremely honored to be endorsed by the Women’s Democratic Club of Utah !
 Jeff Lipe for Utah House District 74 Paid for by Friends of Jeffrey Lipe info@vote4jefflipe.com

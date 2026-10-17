@@ -3,4 +3,4 @@ We need to enforce our laws, support our officers, and stop policies that put cr
 Read More Common Sense Legislation Melissa believes Connecticut doesn’t need more complicated policies—it needs better ones.
 Common-sense leadership means focusing on practical solutions, listening to residents, and making decisions that are transparent, balanced, and grounded in real-world experience—not politics.
 Read More Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
-Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Approved by Melissa Lindsey Powered by CampaignPartner.com Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

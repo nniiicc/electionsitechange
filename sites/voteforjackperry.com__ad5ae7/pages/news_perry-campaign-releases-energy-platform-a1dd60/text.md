@@ -5,7 +5,7 @@ Home Meet Jack Campaign Take Action!
 Make a Plan to Vote!
 Donate!
 PRESS RELEASE Perry Wins Democratic Party Endorsement PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday PRESS RELEASE Perry Campaign Releases Energy Platform THE SOUTHINGTON OUTSIDER Perry Announces Run for State Senate PRESS RELEASE Prospect’s Savings Fell by Half.
-An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record May 14 2026 PRESS RELEASE Perry Campaign Releases Energy Platform For Connecticut families, the unjustly-high cost of energy remains a top priority.
+An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record Statement Perry Responds to Sampson Campaign Funding Claims May 14 2026 PRESS RELEASE Perry Campaign Releases Energy Platform For Connecticut families, the unjustly-high cost of energy remains a top priority.
 Our state needs to take action immediately to actually create a lasting alternative.
 I will be that change.
 This is why my campaign has just released a complete policy platform on the electricity crisis.

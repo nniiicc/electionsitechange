@@ -9,6 +9,8 @@
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS%20(1).png/:/rs=w:388",
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS%20(1).png/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194",
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS%20(1).png/:/rs=w:776",
+"img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS-c7e2f7c.png/:/cr=t:5.36%25",
+"img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS-c7e2f7c.png/:/cr=t:5.36%25,l:5.36%25,w:89.29%25,h:89.29%25/rs=w:388,h:194,cg:true,m",
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS.png/:/cr=t:0%25",
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/CAYUGA%20COUNTY%20TOWNS.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
 "img://img1.wsimg.com/isteam/ip/1360dcf2-27e4-4b4a-828d-7b9fc00505aa/Digital%20ONLY%20Logo%20-%20McCarron%20for%20Senate%20-%2024x1.png/:/rs=h:72,cg:true,m/qt=q:95",
@@ -39,6 +41,7 @@
 "img:h:194",
 "img:h:216",
 "img:h:216/qt=q:95",
+"img:h:250",
 "img:h:388",
 "img:h:507",
 "img:h:52.23%25/rs=w:1164",
@@ -50,8 +53,11 @@
 "img:h:78.65%25/rs=w:1013",
 "img:h:78.65%25/rs=w:388",
 "img:h:78.65%25/rs=w:776",
+"img:h:89.29%25/rs=w:388",
+"img:h:89.29%25/rs=w:500",
 "img:l:0%25",
 "img:l:23.56%25",
+"img:l:5.36%25",
 "img:m",
 "img:m/cr=w:108",
 "img:m/cr=w:1164",
@@ -60,5 +66,6 @@
 "img:m/cr=w:388",
 "img:m/cr=w:776",
 "img:w:100%25",
-"img:w:54.35%25"
+"img:w:54.35%25",
+"img:w:89.29%25"
 ]

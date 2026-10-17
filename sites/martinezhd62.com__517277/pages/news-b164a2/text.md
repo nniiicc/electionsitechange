@@ -70,4 +70,4 @@ Congress, will end his term in January 2023.
 In interviews Tuesday with Alamosa Citizen , Riggenbach and Martinez addressed some of the issues that will come up on the campaign trail leading into the November general election.
 Read more 8 Jun Wednesday, 10:00 AM · 2022 Colorado AFL-CIO Has Endorsed Matthew Martinez!
 Colorado AFL-CIO has Endorsed Matthew Martinez for Colorado House District 62!
-Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

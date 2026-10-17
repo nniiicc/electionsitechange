@@ -1,4 +1,4 @@
-top of page Issues About Get Involved Contact More Use tab to navigate through the menu items.
+top of page Home Issues About Get Involved Contact More Use tab to navigate through the menu items.
 DONATE Log In Meet Aaron Thomas Aaron's Why Together, Aaron and Amy have built a life grounded in faith, family, and hard work.
 Aaron is deeply grateful for the family and life they are creating in Rocket City.
 His gratitude extends to the opportunity he has to be a husband, father, business owner, neighbor, and friend. ​ Living as an expat for almost a decade, Aaron has gained a deep appreciation for what it means to be a citizen of the United States of America.

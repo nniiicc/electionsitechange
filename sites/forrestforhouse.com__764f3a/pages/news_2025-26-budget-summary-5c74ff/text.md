@@ -26,4 +26,4 @@ This modest increase helps make public service more accessible for working peopl
 While this will likely be the last time we’re in session this year, the work doesn’t stop.
 Ad hoc groups, oversight committees, and policy planning efforts continue throughout the summer and fall.
 I’ll stay engaged, keep you informed, and always work to represent our district with transparency and accountability.
-Sincerely, Cal 803-349-6741 Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Sincerely, Cal 803-349-6741 Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

@@ -6,4 +6,4 @@ Whether you’ve knocked hundreds of doors or have never canvassed before, we’
 Bring some water, comfortable walking shoes, sunscreen, and a friend.
 Most importantly, come ready to meet neighbors, have good conversations, and spend a little time serving our community.
 Parchment High School 1916 E G Ave., Parchment, MI 49004 Location 1916 E G Ave Parchment, MI 49004 Get Driving Directions Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

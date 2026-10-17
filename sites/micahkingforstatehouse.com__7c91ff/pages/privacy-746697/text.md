@@ -1,7 +1,7 @@
 Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
 Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
 Vote Early Early voting is open today across HD-157!
-Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Privacy Policy Updated October 14, 2026 1.
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Privacy Policy Updated October 17, 2026 1.
 Information We Collect The Committee to Elect Micah King ("we," "us," or "our") collects information that you provide directly to us when you visit our website, sign up for our newsletter, make a donation, or contact us.
 This may include your name, email address, physical address, and employer information (as required by campaign finance laws).
 We may upload your information into VoteBuilder and update your records to keep your information current for future election cycles ( much of this information is already publicly viewable via voter registration files ).

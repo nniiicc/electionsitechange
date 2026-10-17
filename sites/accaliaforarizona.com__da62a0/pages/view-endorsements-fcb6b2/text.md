@@ -16,4 +16,4 @@ Jayme is thoughtful, kind, and the type of person who consistently shows up for 
 She leads with both compassion and action — qualities we need now more than ever.
 I’m proud to support Jayme Accalia!
 Kristy O'Brien Ms Nancy Miranda Jim Bannon Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

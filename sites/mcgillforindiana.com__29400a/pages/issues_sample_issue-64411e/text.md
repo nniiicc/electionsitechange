@@ -63,4 +63,4 @@ Every taxpayer dollar should create value.
 Every policy should reward work instead of penalizing it.
 Every major decision should lower the total cost of living instead of quietly shifting those costs onto families.
 That's how we build an economy where hard work goes further, businesses thrive, and Hoosier families can get ahead again.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

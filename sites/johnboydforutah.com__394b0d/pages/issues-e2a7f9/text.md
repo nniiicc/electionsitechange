@@ -1,4 +1,4 @@
-Contribute Contact/Follow Yard Signs Policy Hot Takes Endorsement Videos 10k Doors Forward Party All 10,000 doors in the district knocked!
+Contribute JB in the News Policy Hot Takes Endorsement Videos Yard Signs 10k Doors Contact/Follow All 10,000 doors in the district knocked!
 It took me a full year, I started last October, but I've knocked on all 10k doors in the district and talked over 4,000 people!
 And behind those doors, I’ve met people from every walk of life and every political leaning.
 I met a woman who told me she barely leaves her home anymore because of how toxic our environment has become.
@@ -35,4 +35,4 @@ That’s why I’m holding cottage meetings.
 Let’s talk.
 Let’s listen.
 And let’s figure this out — together — before it’s too late.
-Contact/Follow Committee to Elect John Boyd Powered by CampaignPartner.com - Political Campaign Websites Contribute Policy Hot Takes Endorsement Videos 10k Doors Forward Party Yard Signs Contact/Follow Close Menu
+Contact/Follow Committee to Elect John Boyd Powered by CampaignPartner.com Contribute Policy Hot Takes Endorsement Videos 10k Doors JB in the News Yard Signs Contact/Follow Close Menu

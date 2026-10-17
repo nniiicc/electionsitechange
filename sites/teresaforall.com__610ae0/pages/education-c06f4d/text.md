@@ -6,4 +6,4 @@ I know how important early-childhood education is - and that the federal governm
 I support reducing the burden of student debt as well as eliminating undergraduate tuition at public colleges and universities for most students.
 We cannot let our young people join the workforce with crippling student loan debt, which is holding so many back and crippling our economy.
 As a member of the House Committee on Education and Labor, I have also worked to expand apprenticeships, vocational school opportunities, and job training programs.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

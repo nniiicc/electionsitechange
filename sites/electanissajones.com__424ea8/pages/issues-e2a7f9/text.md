@@ -50,4 +50,4 @@ Disaster Resilience: As climate change increases the frequency and severity of n
 I will advocate for resilient design and construction practices to protect our community and its assets.
 My commitment to infrastructure is a commitment to the future of our community.
 By investing in these foundational systems, we can create a stronger, more connected, and more sustainable Georgia for generations to come.
-Read More Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Read More Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

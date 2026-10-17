@@ -18,5 +18,5 @@ Those jobs are going to come from all across the region.
 That is a selling point in itself.” As a small business owner of more than 35 years and resident of a rural Georgia community, Governor Kemp made strengthening opportunity in rural Georgia a top priority since day 1 of his administration.
 His administration's efforts continue to pay dividends for hardworking Georgians in every corner of the state.
 For a comprehensive overview of the state's economic development success in rural Georgia, please click here.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

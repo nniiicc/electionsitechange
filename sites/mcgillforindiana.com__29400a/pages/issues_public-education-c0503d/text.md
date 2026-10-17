@@ -97,4 +97,4 @@ Responsible funding State funding should reflect student needs and respond more 
 Accountability for public dollars Taxpayers should be able to see where education money goes and what it accomplishes.
 Smarter use of federal funding Indiana should maximize appropriate federal reimbursement, including school-based Medicaid.
 Long-term planning Education policy should consider what decisions mean for students, schools, and taxpayers years from now.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.joelazumah.com/vote",
- "fingerprint": "e9fb3d2a91543ba988007b21c85dfcab342a3182",
+ "fingerprint": "8801aecca7023a831b5ada56066102ed5b8c077e",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

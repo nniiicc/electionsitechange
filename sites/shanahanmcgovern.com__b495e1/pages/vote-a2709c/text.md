@@ -17,4 +17,4 @@ Please consider getting engaged in the voting process and elections!
 We need "eyes on every ballot".
 In addition, if you'd like to help assist voters to the polls let us know that as well.
 Below is the link to the Chicago Board of Elections so you can register to vote! https://chicagoelections.gov/en/register-to-vote-change-of-address.html Also, for residents of Cook County that vote outside the City of Chicago, here is the link for registering to vote!
-Here is the link: www.CookCountyIL.gov Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu
+Here is the link: www.CookCountyIL.gov Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

@@ -9,4 +9,4 @@ From industrial corridors and port-related jobs to classrooms, clinics, restaura
 If the map does not load, click here to open the official HD-128 map.
 HD-128 Is Home.
 This campaign is about listening to the people who live here, showing up for every community, and building a district where families can thrive.
-Get Involved Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Get Involved Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

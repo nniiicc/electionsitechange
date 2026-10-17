@@ -29,4 +29,4 @@ Energy, Environment & Infrastructure Georgia’s growth requires thoughtful infr
 HB 320, advanced in committee, would require recycling of solar panels rather than landfill disposal.
 As renewable energy expands, environmental accountability must grow with it.
 Additionally, committee schedules for Legislative Day 20 reflect continued discussions in areas including human relations, agriculture, higher education, technology, and public safety, signaling that the coming weeks will address both economic development and community protection issues.
-Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

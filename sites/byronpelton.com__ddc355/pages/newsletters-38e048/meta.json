@@ -1,9 +1,10 @@
 {
  "description": "Byron Pelton Newsletter",
  "final_url": "https://www.byronpelton.com/newsletters",
- "fingerprint": "60f5d7ad2c05fd82dc8ae055261f065602b57cf3",
+ "fingerprint": "7975cc09a088e85b4a21ee9c20a5531ba3179178",
  "format": 3,
  "paid_for_by": "Paid for by Pelton for State Senate",
+ "rendered": false,
  "title": "Newsletters",
  "years_mentioned": []
 }

@@ -56,4 +56,4 @@ Next, I want to expand healthcare out.
 I want to improve on our current system with telehealth, as well as providing support for community health center networks and our local hospitals in the district.
 The last big one is I want to have a statewide initiative to be able to combat veteran susicide from the state level, since the VA system has undergone some changes as of late and they’re not gonna be able to provide the same services that they were two or three years ago, so I want to be able to do that.
 Then I also want to fight to make sure that the Alamosa VA clinic stays open and operational.
-Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

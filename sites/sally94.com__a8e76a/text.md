@@ -27,5 +27,5 @@ Welcome to this coalition of Democrats, Independents and Republicans, all workin
 How Can You Help?
 Come door knock with me: https://tinyurl.com/FlipHD94 Host a house party.
 Email info@sally94.com Share my website: www.Sally94.com Make a donation: https://secure.actblue.com/donate/runsallyrun Thanks for your support, and I’ll see you on the campaign trail!
-Election Day November 3, 2026 Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Election Day November 3, 2026 Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

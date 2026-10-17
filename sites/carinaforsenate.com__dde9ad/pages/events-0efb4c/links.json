@@ -9,6 +9,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=111+west+campbell+street%2C+3rd+floor+arlington+heights%2C+illinois%2C+60005+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=111+west+campbell+street+arlington+heights%2C+illinois%2C+60005+united+states"
 },
 {
@@ -38,6 +42,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=316+north+winston+drive+palatine%2C+illinois%2C+60074+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=331+west+northwest+highway+palatine%2C+illinois%2C+60067+united+states"
 },
 {
 "text": "(map)",
@@ -144,6 +152,14 @@
 "href": "https://www.carinaforsenate.com/events/day-of-action-10326"
 },
 {
+"text": "Day of Action with Ram Villivalam",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
+"text": "Election Night Celebration",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
+},
+{
 "text": "Free Narcan Training with Live4Lali",
 "href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
 },
@@ -221,6 +237,14 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+with+Ram+Villivalam&dates=20261021T190000Z%2F20261021T210000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Night+Celebration&dates=20261104T010000Z%2F20261104T040000Z&location=111+West+Campbell+Street%2C+3rd+Floor%2C+Arlington+Heights%2C+Illinois%2C+60005%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Free+Narcan+Training+with+Live4Lali&dates=20260728T230000Z%2F20260729T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
 },
 {
@@ -278,6 +302,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taylor+Swift+Themed+Postcard+Party&dates=20260715T233000Z%2F20260716T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+People%E2%80%99s+Day+of+Action&dates=20261025T150000Z%2F20261025T170000Z&location=331+West+Northwest+Highway%2C+Palatine%2C+Illinois%2C+60067%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -369,6 +397,14 @@
 },
 {
 "text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest?format=ical"
 },
 {
@@ -394,6 +430,10 @@
 {
 "text": "ICS",
 "href": "https://www.carinaforsenate.com/events/office-grand-opening?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526?format=ical"
 },
 {
 "text": "ICS",
@@ -533,11 +573,23 @@
 },
 {
 "text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
+},
+{
+"text": "RSVP HERE",
 "href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
 },
 {
 "text": "RSVP HERE",
 "href": "https://www.carinaforsenate.com/events/lets-talk-taxes"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
 },
 {
 "text": "RSVP HERE",
@@ -588,6 +640,18 @@
 "href": "https://www.carinaforsenate.com/events/day-of-action-103126"
 },
 {
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
+},
+{
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
+},
+{
 "text": "Resources",
 "href": "https://www.carinaforsenate.com/resources"
 },
@@ -610,6 +674,10 @@
 {
 "text": "Taylor Swift Themed Postcard Party",
 "href": "https://www.carinaforsenate.com/events/postcard-party-071526"
+},
+{
+"text": "The People’s Day of Action",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
 },
 {
 "text": "This Way to Fabulous Inc.",
@@ -685,6 +753,14 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
+},
+{
+"text": "View Event →",
 "href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest"
 },
 {
@@ -710,6 +786,10 @@
 {
 "text": "View Event →",
 "href": "https://www.carinaforsenate.com/events/office-grand-opening"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
 },
 {
 "text": "View Event →",
@@ -780,6 +860,14 @@
 "href": "https://www.carinaforsenate.com/"
 },
 {
+"text": "[image: Day of Action with Ram Villivalam]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
+"text": "[image: Day of Action with Ram Villivalam] Oct 21",
+"href": "https://www.carinaforsenate.com/events/day-of-action-ram-villivalam"
+},
+{
 "text": "[image: Day of Action]",
 "href": "https://www.carinaforsenate.com/events/day-of-action-061826"
 },
@@ -824,16 +912,24 @@
 "href": "https://www.carinaforsenate.com/events/day-of-action-10326"
 },
 {
-"text": "[image: Day of Action] Oct #",
+"text": "[image: Day of Action] Oct 17",
 "href": "https://www.carinaforsenate.com/events/day-of-action-101726"
 },
 {
-"text": "[image: Day of Action] Oct #",
+"text": "[image: Day of Action] Oct 31",
 "href": "https://www.carinaforsenate.com/events/day-of-action-103126"
 },
 {
 "text": "[image: Domestic violence doesn&rsquo;t always look like what we expect. It could be your coworker, your neighbor, or the friend who&rsquo;s been canceling plans lately. This October, Domestic Violence Awareness Month, let&rsquo;s commit to listening without][image: Domestic violence doesn&rsquo;t always look like what we expect. It could be your coworker, your neighbor, or the friend who&rsquo;s been canceling plans lately. This October, Domestic Violence Awareness Month, let&rsquo;s commit to listening without]",
 "href": "https://www.instagram.com/p/DedJ8P7jfca/"
+},
+{
+"text": "[image: Election Night Celebration]",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
+},
+{
+"text": "[image: Election Night Celebration] Nov 3",
+"href": "https://www.carinaforsenate.com/events/election-night-celebration"
 },
 {
 "text": "[image: Free Narcan Training with Live4Lali]",
@@ -908,12 +1004,16 @@
 "href": "https://www.carinaforsenate.com/events/postcard-party-071526"
 },
 {
-"text": "[image: This endorsement means a lot to me. Trustee Colin Gilbert understands the juggle in a way not everyone can. We&rsquo;re both Village Trustees. We&rsquo;re both parents of school-aged kids. We&rsquo;re both balancing meetings, work, family, school s][image: This endorsement means a lot to me. Trustee Colin Gilbert understands the juggle in a way not everyone can. We&rsquo;re both Village Trustees. We&rsquo;re both parents of school-aged kids. We&rsquo;re both balancing meetings, work, family, school s]",
-"href": "https://www.instagram.com/p/DedJWykkejf/"
+"text": "[image: The People’s Day of Action]",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
 },
 {
-"text": "[image: Today, we remember the people whose lives were taken on October 7, those who were taken hostage, their families, and everyone whose life was forever changed by the horrific attack carried out by Hamas. Three years later, far too many people continue][image: Today, we remember the people whose lives were taken on October 7, those who were taken hostage, their families, and everyone whose life was forever changed by the horrific attack carried out by Hamas. Three years later, far too many people continue]",
-"href": "https://www.instagram.com/p/DeM_OLFC834/"
+"text": "[image: The People’s Day of Action] Oct 25",
+"href": "https://www.carinaforsenate.com/events/peoples-day-of-action-102526"
+},
+{
+"text": "[image: This endorsement means a lot to me. Trustee Colin Gilbert understands the juggle in a way not everyone can. We&rsquo;re both Village Trustees. We&rsquo;re both parents of school-aged kids. We&rsquo;re both balancing meetings, work, family, school s][image: This endorsement means a lot to me. Trustee Colin Gilbert understands the juggle in a way not everyone can. We&rsquo;re both Village Trustees. We&rsquo;re both parents of school-aged kids. We&rsquo;re both balancing meetings, work, family, school s]",
+"href": "https://www.instagram.com/p/DedJWykkejf/"
 },
 {
 "text": "[image: Trivia Night! Celebrate. Connect. Build What’s Next — Together.]",

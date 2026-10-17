@@ -37,4 +37,4 @@ Ask yourself why these people are getting so much from special interests, and wh
 Because we do have one weapon to fight this system.
 Our vote.
 And we can use it on June 2 nd and November 3 rd , to try to throw out as much of the whole rotten mess as we can.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

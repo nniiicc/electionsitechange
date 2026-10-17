@@ -7,7 +7,7 @@ I wish to seek creative ways to strengthen our small business environment, with 
 I support strengthening our educational system in Vermont from early childhood through college, with better pathways to high-paying trades.
 Bennington needs to be a great place to work or own a business, a great place to raise a family and educate our children.
 If elected, I will not be outworked in representing my district.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Michael Nigro for State Representative , Create a free website or blog at WordPress.com.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Michael Nigro for State Representative , Blog at WordPress.com.
 Subscribe Subscribed Michael Nigro for State Representative Sign me up Have a WordPress.com account?
 Log in now.
 Michael Nigro for State Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

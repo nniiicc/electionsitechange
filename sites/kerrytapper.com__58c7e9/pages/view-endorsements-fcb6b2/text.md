@@ -55,4 +55,4 @@ Jennifer Wilson Professional Coach I am so excited to support Kerry Tapper for S
 Kerry is smart, honest and knows how to get things done for all of us.
 I voted early for Kerry Tapper!
 Please join me and vote for Kerry Tapper.
-Janice Wert Amy Graham Rick Johnson Click here to add your endorsement Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu
+Janice Wert Amy Graham Rick Johnson Click here to add your endorsement Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

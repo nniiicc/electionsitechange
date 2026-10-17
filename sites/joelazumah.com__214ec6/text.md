@@ -13,4 +13,4 @@ We want people who don't like America to go somewhere else where they would be h
 We are not an endless piggy bank for social experiments and foreign adventures.
 We are MAGA and we want to make ALL of America great again!
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Joel Anabilah-Azumah Powered by CampaignPartner.com - Political Campaign Websites Home Meet Joel Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Joel Anabilah-Azumah Powered by CampaignPartner.com Home Meet Joel Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

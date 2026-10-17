@@ -1,4 +1,4 @@
-0 Skip to Content About Aaron Contact Get the Facts Contribute Open Menu Close Menu About Aaron Contact Get the Facts Contribute Open Menu Close Menu About Aaron Contact Get the Facts Contribute Why I’m Running Arizona deserves leaders who solve problems, not score political points.
+0 Skip to Content About Aaron Contact Get the Facts Press Contribute Open Menu Close Menu About Aaron Contact Get the Facts Press Contribute Open Menu Close Menu About Aaron Contact Get the Facts Press Contribute Why I’m Running Arizona deserves leaders who solve problems, not score political points.
 An Arizona native, entrepreneur, bipartisan leader, and former state representative, Aaron has built businesses, created jobs, and delivered results.
 He's running to bring that same practical leadership to the Arizona State Senate.
 Priorities : Make Life More Affordable Lower the cost of housing, healthcare, childcare, and everyday essentials so Arizona families can get ahead, not just get by.

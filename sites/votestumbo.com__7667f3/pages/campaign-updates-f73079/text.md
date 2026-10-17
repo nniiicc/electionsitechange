@@ -1,6 +1,11 @@
 Countdown loading...
 Home About David Endorsements Campaign Updates Media Join the Fight On The Road Latest updates and highlights from the campaign trail across South Carolina, where we’ve been, who we’ve met, and what we’re hearing from communities across the state.
-October 14, 2026 This morning, I had the privilege of attending the Lexington County H...
+October 17, 2026 Yesterday was a busy day on the campaign trail!
+Yesterday was a busy day on the campaign trail!
+I enjoyed joining the McCormick GOP for their postcard party in support of State Rep.
+Daniel Gibson’s re-election campaign, followed by a great evening at the Union County Republican Party Rally.
+Remember, early voting begins this coming Monday, October 19!
+LINK October 14, 2026 This morning, I had the privilege of attending the Lexington County H...
 This morning, I had the privilege of attending the Lexington County Heroes Breakfast.
 Thank you to all of our first responders for your dedication to keeping our communities safe!
 Thank you to Representatives Chris Wooten and Micah Caskey for organizing such a great event!
@@ -42,12 +47,5 @@ It’s experience built in the courtroom and proven through years of putting cri
 As your next Attorney General, I won’t need on-the-job training.
 I know what it takes to enforce the law, protect our communities, and stand with the men and women who keep us safe.
 I’ll be ready on Day One to get to work for the people of South Carolina.
-LINK September 14, 2026 Vanessa and I were so thankful to spend Saturday with family cheering...
-Vanessa and I were so thankful to spend Saturday with family cheering on the Gamecocks!
-There’s nothing quite like a Saturday at Williams-Brice and college football in the South.
-Great football, even better company, and memories we’ll always cherish.
-The special halftime tribute honoring our military made the day even more memorable.
-We are forever grateful for the brave men and women who have served and continue to serve our country.
-Go Gamecocks!
 LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
 Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

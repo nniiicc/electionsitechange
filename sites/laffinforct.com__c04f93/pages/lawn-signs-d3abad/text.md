@@ -1,4 +1,4 @@
-top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Photos Contact Show your support for bringing responsible government to Hartford!
+top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Calendar Meet & Greets Photos Contact Show your support for bringing responsible government to Hartford!
 Lawn Signs Complete the form below to request a campaign sign.
 Our team will deliver it to your home or business.
 Thank you!!

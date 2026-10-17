@@ -1,4 +1,6 @@
-12 General Election Nov 3 — Make Your Plan General Election 12 Meet Rudel The Blueprint Shop Volunteer 🇺🇸 English Donate Back to Home A Structural Agenda for Keeping the Virgin Islands Home!
+12 Early Voting Is OPEN Now.
+Push #12.
+Find Your Site General Election 12 Meet Rudel The Blueprint Shop Volunteer 🇺🇸 English Donate Back to Home A Structural Agenda for Keeping the Virgin Islands Home!
 The P.R.O.P.
 Blueprint: Forging the Future of the Virgin Islands Custom-engineered legislation built for our climate, our infrastructure, and our people.
 By Rudel Alberto Hodge, Jr., Esq. · Democratic Candidate for the 37th Legislature Rudel “Rudi” Hodge, Jr.

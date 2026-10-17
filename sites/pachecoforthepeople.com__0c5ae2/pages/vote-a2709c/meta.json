@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.pachecoforthepeople.com/vote",
- "fingerprint": "63f09136509c33925081f4aa1c5a9753ea2eb9e5",
+ "fingerprint": "6161887e7634ecd5d3753584a235d150b957e070",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

@@ -4,4 +4,4 @@ Sunday, October 18, 2026 1:00–4:00 p.m.
 Meet at Otsego Library 401 Dix Street, Otsego, MI 49078 Bring a friend, wear comfortable shoes, and bring your energy.
 Every conversation counts!
 Location 401 Dix Street Otsego, MI 49078 Get Driving Directions Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

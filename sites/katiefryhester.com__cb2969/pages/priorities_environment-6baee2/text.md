@@ -1,4 +1,4 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Environment Maryland faces growing environmental challenges, from increasingly severe storms and extreme weather to the impacts of a changing climate.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Environment Maryland faces growing environmental challenges, from increasingly severe storms and extreme weather to the impacts of a changing climate.
 As we confront these challenges, we must protect the diverse landscapes that make Maryland unique: from the Chesapeake Bay and its vital waterways to our forests, mountains, farms, and communities.
 Protecting our environment is about more than preserving the places we love; it is about safeguarding our economy, public health, infrastructure, and way of life for generations to come.
 After spending 20 years building partnerships for sustainable development, I know the choice between protecting our environment and fostering economic growth is a false one.

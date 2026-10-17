@@ -22,5 +22,5 @@ We must return to common sense policies, not vaguely defined aspirational goals.
 Bookmark and return for frequent updates.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Support Our Campaign Contribute Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support Request a Yard Sign Click Here to Request a Sign Need Voting Information?
-Register & Find Your Polling Location Click Here for Information District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+Register & Find Your Polling Location Click Here for Information District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

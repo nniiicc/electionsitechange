@@ -7,4 +7,4 @@ Congress Dist.
 12 candidate) at the Ohio Capital during the NO KINGS III.
 Great day with other Ohio House Candidates at the Ohio Democrats Rural Caucus Summit in Columbus Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

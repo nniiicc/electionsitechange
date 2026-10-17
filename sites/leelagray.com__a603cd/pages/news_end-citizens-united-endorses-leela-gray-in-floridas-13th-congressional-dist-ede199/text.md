@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Aug 11 2026 PRESS RELEASE End Citizens United Endorses Leela Gray in Florida’s 13th Congressional District ST.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Aug 11 2026 PRESS RELEASE End Citizens United Endorses Leela Gray in Florida’s 13th Congressional District ST.
 PETERSBURG, FL – End Citizens United (ECU), a leading national anti-corruption organization, today endorsed General Leela Gray in Florida’s 13th Congressional District.
 As part of ECU’s Unrig Washington program, Gray rejects corporate PAC money, supports a ban on congressional stock trading, and commits to getting dark money out of elections.
 “Leela Gray knows who is behind the rising cost of living: greedy corporations and the corrupt politicians who are beholden to their wealthy special interest donors ,” said End Citizens United President Tiffany Muller.

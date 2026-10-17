@@ -1,4 +1,5 @@
-Home Meet Ann Priorities Endorsements Get Involved Contact Volunteer Get Involved!
+🚨 Fundraising Deadline: Loading... | 🗳️ Polls Close: Loading...
+Chip In ➔ Home Meet Ann Priorities Endorsements Get Involved Contact Volunteer Get Involved!
 Our campaign is powered by Minnesotans like you who know what is at stake this November.
 I’d love to see you out in our communities knocking doors and talking to voters with me about the issues that matter most!
 Sign Up to Knock Doors Request a Lawn Sign!

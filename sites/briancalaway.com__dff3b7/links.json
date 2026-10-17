@@ -8,6 +8,10 @@
 "href": "https://www.briancalaway.com/about"
 },
 {
+"text": "Apple Podcasts",
+"href": "https://podcasts.apple.com/us/podcast/the-brian-calaway-podcast/id6816512247"
+},
+{
 "text": "Blog",
 "href": "https://www.briancalaway.com/blog"
 },
@@ -30,6 +34,10 @@
 {
 "text": "ES",
 "href": "https://www.briancalaway.com/es"
+},
+{
+"text": "Election day is November 3. Read the LD10 Voter Guide",
+"href": "https://www.briancalaway.com/voter-guide"
 },
 {
 "text": "Events",
@@ -120,6 +128,14 @@
 "href": "https://www.briancalaway.com/volunteer"
 },
 {
+"text": "Voter Guide",
+"href": "https://www.briancalaway.com/voter-guide"
+},
+{
+"text": "X",
+"href": "https://x.com/BrianCalawayPod"
+},
+{
 "text": "YouTube",
 "href": "https://www.youtube.com/@TheBrianCalawayPodcast"
 },
@@ -132,7 +148,7 @@
 "href": "https://www.briancalaway.com/issues#agriculture-water"
 },
 {
-"text": "[image: Brian Calaway at the microphone — The Brian Calaway Podcast, on Apple Podcasts, YouTube, Spotify, and Amazon Music]",
+"text": "[image: Brian Calaway and his co-host at the microphones in front of the Arizona flag — The Brian Calaway Podcast, on Apple Podcasts, YouTube, X, Spotify, and Amazon Music]",
 "href": "https://www.youtube.com/@TheBrianCalawayPodcast"
 },
 {
@@ -170,6 +186,10 @@
 {
 "text": "[image: Safe Communities] Safe Communities Strong families and neighborhoods across Arizona",
 "href": "https://www.briancalaway.com/issues#safe-communities"
+},
+{
+"text": "[tooltip: Apple Podcasts]",
+"href": "https://podcasts.apple.com/us/podcast/the-brian-calaway-podcast/id6816512247"
 },
 {
 "text": "[tooltip: Facebook]",

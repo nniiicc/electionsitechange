@@ -13,4 +13,4 @@ That’s why I’m running for delegate.
 I believe District 47A deserves leadership that is present, accountable, and focused on delivering real results.
 As your delegate, I will continue to serve with integrity, fight for working families, and put our community first—just as I have my entire life.
 This campaign is about service, leadership, and building a stronger future for all of us.
-Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com - Political Campaign Websites Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu
+Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu

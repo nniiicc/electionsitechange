@@ -2,7 +2,9 @@ Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar 
 I thoroughly enjoyed joining Aunties Unfiltered and was honored to be the first guest on their show!
 These three ladies know their politics, and it was a delight to have a meaningful conversation about District 8 and the need for change.
 Thank you for welcoming me and creating a space for honest, important conversations!
-More Conversations Oct 15, 2026 - Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
+More Conversations Oct 16, 2026 - Same vote as last time?
+Still big problems he won’t fix.
+Oct 15, 2026 - Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
 Oct 15, 2026 - Our fourth stop of the day: the Gibson County Democratic Party’s Get Out the Vote meeting!
 Oct 15, 2026 - HAPPENING NOW: I’m in Madison County today at the early voting location.
 Oct 15, 2026 - Thank you to the Milan Lions Club for inviting me to speak with your members!
@@ -45,7 +47,6 @@ Oct 1, 2026 - Thank you to the Indian American Heritage Foundation for inviting 
 Oct 1, 2026 - Preparing for my interview on Behind the Headlines with Eric Barnes and Bill Dries.
 Sep 30, 2026 - Big Tech must be held accountable for the data centers it builds in our communities.
 Sep 29, 2026 - Meeting with the people of District 8 matters.
-Sep 28, 2026 - When a rural hospital closes, families lose more than a building.
 Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

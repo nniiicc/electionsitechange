@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED Shubert for Ohio Newsletter - Latest Campaign Updates All Posts Who is Craig Shubert?
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED Shubert for Ohio Newsletter - Latest Campaign Updates All Posts Who is Craig Shubert?
 Candidate for Ohio State Representative, District 34 Craig Shubert is running for the Ohio House of Representative in District 34 with a focus on creating jobs and bigger paychecks, reducing income and property taxes, advocating for world-class education, and driving critically-needed infrastructure projects.
 Shubert for Ohio May 16 2 min read 2026 Voter Guide for Ohio House District 34 A 2026 voter guide for Ohio House District 34, including early voting information, candidates, key priorities, and resources to help voters prepare for Election Day.
 Shubert for Ohio Oct 6 2 min read 9/11: Flight 93 – A Personal Story On September 11, 2001, what began as a beautiful morning in the Hamptons quickly became a day that changed America forever.

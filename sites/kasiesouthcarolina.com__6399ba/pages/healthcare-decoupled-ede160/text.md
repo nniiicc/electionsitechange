@@ -72,11 +72,42 @@ Then we can move on to the other tough problems and solve them, too.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
-4 Responses Pingback: Bad laws make for bad enforcement - Kasie South Carolina Pingback: We Can't Tax Our Way Out of This - Kasie South Carolina Martin Jones says: September 11, 2026 at 11:27 am Whereas healthcare IS NOT a right, the ability to practice healthcare should be.
+6 Responses Pingback: Bad laws make for bad enforcement - Kasie South Carolina Pingback: We Can't Tax Our Way Out of This - Kasie South Carolina Martin Jones says: September 11, 2026 at 11:27 am Whereas healthcare IS NOT a right, the ability to practice healthcare should be.
 The ONLY involvement government should have in healthcare (or any industry) would be for issues of contract and fraud.
 Reply kasiesc says: September 16, 2026 at 6:35 pm Agreed, Martin.
 Government’s primary role should be to protect our rights.
 That means intervention that goes beyond protecting rights (i.e. subsidies, central planning) is intrusion.
+Reply Don Jameston says: October 12, 2026 at 2:21 pm Your argument falls apart the moment you open the Constitution.
+You say healthcare cannot be a right because people aren’t entitled to someone else’s labor.
+The Sixth Amendment guarantees the right to counsel.
+An indigent person charged with a felony is entitled to an appointed attorney.
+That attorney provides skilled labor.
+Recognizing the right means ensuring access to that work… not demanding that lawyers work for free.
+The same principle applies to healthcare.
+Doctors and nurses deserve to be paid AND people deserve access to necessary care.
+And they should, because cancer isn’t a consumer preference.
+A child born with a heart defect hasn’t failed to take personal responsibility.
+Someone having a stroke cannot comparison-shop from the ambulance.
+Illness can strike anyone, and access to lifesaving treatment should not depend on their bank balance.
+Healthcare ought to be a right because every person has inherent dignity.
+A society capable of treating someone should not leave them to suffer or die because they cannot afford the bill.
+Reply kasiesc says: October 16, 2026 at 5:50 pm Hi, Don, thanks for the thoughtful response.
+I’ll disagree about the sixth amendment, as it guarantees the right to obtain counsel – that doesn’t mean for free.
+It was the Supreme Court in Gideon v.
+Wainwright that extended it to publicly provided counsel for the indigent.
+If poor health were a citizen being prosecuted by their government, I might be inclined to agree with your logic.
+But as poor health is the result of genetics, poor choices, and/or bad luck, I don’t see the government (and thereby taxpayers) as being on the hook to pay for health providers’ skills and expertise.
+All that said, I definitely want the sick to be cured and the ill to be cared for.
+I think business models can solve that problem.
+Free medical clinics that are supported by communities who voluntarily give their resources to pay providers (we have one in Columbia) and direct primary care where physicians work on a subscription model to provide preventative and basic care are just two examples of better healthcare.
+I think government restricts markets, protects influential businesses from competition, and that we’re all worse off for its intervention.
+And that government intervention is paid for through coercion, which to me is a violation of rights.
+As for the inherent dignity and society’s responsibility, I won’t disagree.
+I would never advocate for a system that enables individuals to suffer and die if they cannot afford care.
+A free market health system would not let that happen.
+I’m confident providers want to heal people and I want to see a system that makes that as easy and affordable as possible, for everyone.
+As evidenced by the generous philanthropy we see in our nation, when organizations create value – like healing sick people – they receive support.
+We don’t need government to facilitate that.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
 Donate | Join the Team | Issues Website development by Amit Dey

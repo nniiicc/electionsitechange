@@ -15,4 +15,4 @@ Army Signal Corps Multi-channel Transmission Systems Operator-Maintainer (25Q/31
 Army Signal Corps Warrior Leader Course – U.S.
 Army Chris is running for Congress in Missouri’s 8th District because he knows what it’s like to live paycheck to paycheck, to fight for fair wages and benefits, and to come home changed from war.
 He’s not a career politician — he’s a working-class veteran who still shows up every day with tools in hand and a promise to serve the people, not the powerful.
-Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com - Political Campaign Websites Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu

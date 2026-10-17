@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://perryformo.com/yard-sign",
- "fingerprint": "6d65b353865d292e665cff8ac295a7f4bdd552e5",
+ "fingerprint": "420fbf7e011c662a52afd64bb94ce369d593888f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

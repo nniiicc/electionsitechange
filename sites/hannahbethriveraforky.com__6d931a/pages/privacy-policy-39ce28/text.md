@@ -1,5 +1,5 @@
 2.
-Paste this code immediately after the opening tag: top of page Skip to Main Content Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Privacy Policy for Hannah Beth Rivera for State Representative At Hannah Beth Rivera for State Representative, accessible from https://www.hannahbethriveraforky.com/ one of our main priorities is the privacy of our visitors.
+Paste this code immediately after the opening tag: top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Privacy Policy for Hannah Beth Rivera for State Representative At Hannah Beth Rivera for State Representative, accessible from https://www.hannahbethriveraforky.com/ one of our main priorities is the privacy of our visitors.
 This Privacy Policy document contains types of information that is collected and recorded by Hannah Beth Rivera for State Representative and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in the Hannah Beth Rivera for State Representative.

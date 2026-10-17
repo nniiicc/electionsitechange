@@ -44,4 +44,4 @@ Who knows if this Alabama law will make its way to the Supreme Court and cause R
 I’ve heard numerous legal experts in the last 48 hours with a wide range of opinions about the chances of this strategy ultimately working.
 But I do know this: if one more child draws a first breath and gets to live a life—an imperfect, challenging, messy life—because of it, it wasn’t a waste.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

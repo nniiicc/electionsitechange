@@ -10,4 +10,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -2,4 +2,4 @@ Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Manu
 Free Odd Bits Dinner at the Outdoor Campus!
 Manuel and Susan will be volunteering.
 Space is still available!
-Registration at the Outdoor Campus website: https://license.gooutdoorssouthdakota.com/Event/ViewEvent.aspx?id=234240 Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Registration at the Outdoor Campus website: https://license.gooutdoorssouthdakota.com/Event/ViewEvent.aspx?id=234240 Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

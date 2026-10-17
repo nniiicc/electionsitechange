@@ -4,4 +4,4 @@ Register & Find Your Polling Location Click Here for Information Why I’m Runni
 I believe we can do better.
 With leadership that listens and a real commitment to this community, we can build the kind of future that Montana House District 76 deserves.
 Make a Donation $ # $ # $ # $ # $ # Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com - Political Websites Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

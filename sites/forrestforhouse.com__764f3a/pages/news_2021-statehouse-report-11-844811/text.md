@@ -26,4 +26,4 @@ Looking Ahead Next week is a furlough week.
 This gives us a week off - time to be back in our districts, regroup and refocus after an intense 11 weeks of session.
 Furloughing next week saves South Carolina taxpayers over $50,000.
 The week after, we will be back to work - business as usual.
-Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

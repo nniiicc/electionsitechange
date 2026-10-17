@@ -22,5 +22,5 @@ In closing, please be on the lookout f or ongoing legislative updates throughout
 In the meantime, if you need anything at all, please let me know.
 Thank you for the honor of allowing us to serve as your voice under the Gold Dome, as we work towards simple, smart and effective government.
 May God bless you and may He continue to bless the great state of Georgia.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

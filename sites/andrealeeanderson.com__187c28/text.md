@@ -1,4 +1,4 @@
 Meet Andrea Issues Volunteer Contribute Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Need Voting Information?
 Register & Find Your Polling Location Click Here for Information Andrea Anderson for California District 52 As your representative, I will use common sense to....
 Develop Equal Opportunity Insist on Government Accountability Choose Principles over Politics Build a Moral Society Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu
+Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu

@@ -38,4 +38,4 @@ When a fire department trains a firefighter, they will be reimbursed for the cos
 The reimbursement will come from the new employer of the firefighter.
 This protects the smaller departments that lose firefighters to larger, more desirable departments.
 This passed by a vote of 108-2.
-Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

@@ -23,4 +23,4 @@ We understand teamwork.
 We understand public health.
 We understand the challenges facing rural communities.
 Most importantly, we understand people.
-That perspective belongs in Congress. « Previous: Veterans and Military Families Next: Political Platform » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+That perspective belongs in Congress. « Previous: Veterans and Military Families Next: Political Platform » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

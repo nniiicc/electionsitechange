@@ -44,13 +44,10 @@ Solicitar → Sé voluntario/a Toca puertas.
 Haz llamadas.
 Apoya al Distrito 44.
 Inscríbete → ¿Quieres trabajar con la campaña: unas prácticas, un puesto o simplemente compartir tu currículum?
-Trabaja con Saira → Últimas Noticias Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
+Trabaja con Saira → Últimas Noticias Draper Paper Draper Paper: Understanding Ballot Measures on your Ballot Plus, your guide to FLIP the House 16 de octubre de 2026 Compartir Facebook Bluesky Reddit Email X Copiar enlace Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
 The only question is when.
 9 de octubre de 2026 Compartir Facebook Bluesky Reddit Email X Copiar enlace Artículos A Guide to Georgia Legislative Procedure and Redistricting Terms Breaking down the essential terms governing district mapmaking, voting rights, and statehouse procedures in Georgia.
-9 de octubre de 2026 Compartir Facebook Bluesky Reddit Email X Copiar enlace Artículos Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
-Rep.
-Saira Draper urges Georgians to verify their status and register before the cutoff.
-5 de octubre de 2026 Compartir Facebook Bluesky Reddit Email X Copiar enlace Ver todas las noticias Suscríbete Apoyada por Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
+9 de octubre de 2026 Compartir Facebook Bluesky Reddit Email X Copiar enlace Ver todas las noticias Suscríbete Apoyada por Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Reverend Timothy McDonald, III Pastor, First Iconium Baptist Church › Latino Victory Fund › Sherry Boston District Attorney Dekalb County › Rep.
 El-Mahdi Holly District 116 › Rep.

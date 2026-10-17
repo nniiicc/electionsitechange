@@ -13,4 +13,4 @@ This uncertainty raises costs, stifles growth, and makes it riskier to do busine
 What Michigan needs now are servant leaders—representatives who put people before politics and provide the stability our state deserves.
 With steady leadership, we can give families and businesses the confidence to plan, grow, and build a stronger future for Michigan.
 Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

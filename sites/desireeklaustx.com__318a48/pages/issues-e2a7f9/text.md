@@ -12,4 +12,4 @@ Your voice.
 Your vote.
 Our future.
 Sign Up to Volunteer Chip In Today!
-Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

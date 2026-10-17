@@ -1,0 +1,3 @@
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact State Awards $900K for Harbor Island Playground July 3, 2026 After being passed over last year, the Village of Mamaroneck has now secured a major NY State grant to upgrade and improve the playground at Harbor Island Park.
+Mamaroneck was one of ten communities benefitting in this second round of grants from the Municipal Parks and Recreation (MPR) Program; and only one of four getting the maximum $900K.
+View Full Article >> Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

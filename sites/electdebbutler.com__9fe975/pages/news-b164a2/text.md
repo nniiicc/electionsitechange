@@ -576,4 +576,4 @@ Sen.
 Michael Lee, R-New Hanover, and from Hamilton.
 "Her professional background, years of experience and personal commitment to Southeastern North Carolina is going to serve her well and serve the people of the 18th District well in the General Assembly," Hamilton said.
 Read more Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu
+Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

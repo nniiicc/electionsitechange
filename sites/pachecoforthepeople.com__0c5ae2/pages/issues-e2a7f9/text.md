@@ -156,4 +156,4 @@ I've seen firsthand how lengthy repair delays place unnecessary burdens on indiv
 H.
 4358 would help ensure that people who depend on wheelchairs have timely access to repairs, allowing them to remain active, independent, and engaged in their communities.
 Supporting this legislation is about recognizing that mobility is not a luxury—it is a necessity, and no one should be forced to put their life on hold while waiting for the equipment they depend on every day.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

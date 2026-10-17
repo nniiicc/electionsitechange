@@ -20,4 +20,4 @@ Celebrate with dignity and respect the creation of the greatest country in the h
 Hang out with family and friends.
 Read the Declaration of Independence or any other of our founding documents.
 Keep the flame of liberty alive!
-Dave Johnson Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu
+Dave Johnson Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

@@ -6,5 +6,5 @@ The discussion will be an open dialogue between the candidates and community sta
 WHAT: Roundtable on issues facing rural communities WHEN: Wednesday, August 19th, 10:30 AM -11:30 AM.
 WHO: Jake Johnson, candidate for Minnesota Congressional District 1 Simon Glaser, candidate for State Senate District 24 Special Guest Congresswoman Lauren Underwood (IL-14) Local farmers, healthcare professionals, and policy experts WHERE : Kasson, MN.
 Address provided upon RSVP.
-Return to Press Releases Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+Return to Press Releases Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

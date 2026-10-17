@@ -1,9 +1,10 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.pachecoforthepeople.com/contribute?amount=1000",
- "fingerprint": "d4d25678e5f289de4a1435d69111583bace039bc",
+ "fingerprint": "ebdfe1e8d1ab23fd4f8c4bdaf9a0e919097d9e2e",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Contribute",
  "years_mentioned": [
   "2026"

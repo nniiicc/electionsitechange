@@ -25,4 +25,4 @@ The remainder of this paper details the assumptions and calculations behind the 
 The Appendices further clarify several of the assumptions.
 They also include limited information on some related topics like data center placement near urban areas, claims of importance to national security, and keeping up with China’s advancements in technology.
 To keep reading the rest of the paper, download it here: Data_Center_Mathematical_Calculations_White_Paper_V4.pdf We have released all copyrights on this paper.
-To make life easier for anyone who wants to copy the paper, here is the MS Word file: Data_Center_Mathematical_Calculations_White_Paper_V4.docx Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+To make life easier for anyone who wants to copy the paper, here is the MS Word file: Data_Center_Mathematical_Calculations_White_Paper_V4.docx Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

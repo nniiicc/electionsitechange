@@ -28,4 +28,4 @@ On April 26, Chad and James endorsed each other.
 Chad Koppie was endorsed by Allison Salinas, a former U.S.
 Senate candidate.
 Chad Koppie is a true leader.
-Example Endorsement Click here to add your endorsement Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com - Political Campaign Websites Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu
+Example Endorsement Click here to add your endorsement Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu

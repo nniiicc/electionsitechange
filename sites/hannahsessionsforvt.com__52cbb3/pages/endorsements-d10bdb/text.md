@@ -1,4 +1,4 @@
-Skip to content Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources DONATE DONATE DONATE DONATE DONATE DONATE Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Endorsements Senator Patrick Leahy* "I have known Hannah Sessions since she was nine years old, about 40 years.
+Skip to content Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources DONATE DONATE DONATE DONATE DONATE DONATE Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Endorsements Recent Letters To The Editor: Senator Patrick Leahy* "I have known Hannah Sessions since she was nine years old, about 40 years.
 I have been so impressed by her energy, intelligence, skill and commitment to traditional Vermont values.
 A successful farmer, cheese maker, business owner and mother, she balanced all with service on local school boards and state land trust and housing organizations.
 Hannah would be a dedicated public servant who would always put the needs of Vermont first.

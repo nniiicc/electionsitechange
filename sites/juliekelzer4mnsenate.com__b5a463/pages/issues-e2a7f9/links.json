@@ -4,12 +4,16 @@
 "href": "https://juliekelzer4mnsenate.com/issues/affordability"
 },
 {
-"text": "Business",
-"href": "https://juliekelzer4mnsenate.com/issues/business"
+"text": "Business/Farmers",
+"href": "https://juliekelzer4mnsenate.com/issues/businessfarmers"
 },
 {
-"text": "Campaign Websites",
+"text": "CampaignPartner.com",
 "href": "https://www.campaignpartner.com"
+},
+{
+"text": "Childcare",
+"href": "https://juliekelzer4mnsenate.com/issues/childcare"
 },
 {
 "text": "Contact",
@@ -32,10 +36,6 @@
 "href": "https://juliekelzer4mnsenate.com/campaign-gallery"
 },
 {
-"text": "Events",
-"href": "https://www.mobilize.us/kelzer-for-mn-senatedfl/"
-},
-{
 "text": "Healthcare",
 "href": "https://juliekelzer4mnsenate.com/issues/healthcare"
 },
@@ -44,16 +44,12 @@
 "href": "https://juliekelzer4mnsenate.com/home"
 },
 {
+"text": "Housing",
+"href": "https://juliekelzer4mnsenate.com/issues/housing"
+},
+{
 "text": "Issues",
 "href": "https://juliekelzer4mnsenate.com/issues"
-},
-{
-"text": "Make Endorsement",
-"href": "https://juliekelzer4mnsenate.com/make-endorsement"
-},
-{
-"text": "Media/News",
-"href": "https://juliekelzer4mnsenate.com/news"
 },
 {
 "text": "Meet Julie",
@@ -81,7 +77,11 @@
 },
 {
 "text": "Read More",
-"href": "https://juliekelzer4mnsenate.com/issues/business"
+"href": "https://juliekelzer4mnsenate.com/issues/businessfarmers"
+},
+{
+"text": "Read More",
+"href": "https://juliekelzer4mnsenate.com/issues/childcare"
 },
 {
 "text": "Read More",
@@ -93,11 +93,19 @@
 },
 {
 "text": "Read More",
+"href": "https://juliekelzer4mnsenate.com/issues/housing"
+},
+{
+"text": "Read More",
 "href": "https://juliekelzer4mnsenate.com/issues/policecrime"
 },
 {
 "text": "Transparency & Accountability",
 "href": "https://juliekelzer4mnsenate.com/issues/Transparency-Accountability"
+},
+{
+"text": "Videos/News",
+"href": "https://juliekelzer4mnsenate.com/news"
 },
 {
 "text": "Volunteer",

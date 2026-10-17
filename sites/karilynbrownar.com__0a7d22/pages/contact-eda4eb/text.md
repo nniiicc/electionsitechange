@@ -3,4 +3,4 @@ Message frequency varies.
 Message and data rates may apply.
 Reply HELP for help.
 Reply STOP to unsubscribe.
-See our Privacy Policy | Terms and Conditions Subject * Message * Donate Paid for by Karilyn Brown for State Representative
+See our Privacy Policy | Terms and Conditions Subject * Message * Submit Donate Paid for by Karilyn Brown for State Representative

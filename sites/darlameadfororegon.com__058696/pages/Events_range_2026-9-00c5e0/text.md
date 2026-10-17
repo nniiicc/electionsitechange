@@ -5,4 +5,4 @@ We’ll have wine donated by the winery as we work together to spread the word a
 RSVP to get the winery address, by emailing darlamead4oregon@gmail.com or sign up on this page.
 More info › 27 Sep Sunday, 10:00 AM – 11:00 AM Virtual Phone Banking Kickoff virtual Whether you're an experienced volunteer or new to phone banking, we'll help get you set up with VAN and everything you need to get started.
 Together, we can make sure every voter hears directly from our campaign.
-More info › Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://laurieccampbell.com/vote",
- "fingerprint": "4aa53b3b6209740a63b17a289ecb45665e3a8078",
+ "fingerprint": "1545fd138a033c318405afc058b96756346b592a",
  "format": 3,
  "paid_for_by": "Paid for by Campaign Fund of Laurie C",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

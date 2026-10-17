@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.heleneforcongress.com/vote",
- "fingerprint": "ec616f0e003bae29d6e14d8f4c88a5b2f03a47c9",
+ "fingerprint": "67ae4bc884fc387e65863aea77caeb3475fdfd63",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

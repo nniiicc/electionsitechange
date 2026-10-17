@@ -1,21 +1,20 @@
 Skip to content FOR CONGRESS 2026 CA 43rd Congressional District English Español 中文 (简体) Tiếng Việt 日本語 한국어 DONATE Search Menu Search… DONATE.
 PARTNER WITH US.
 VOLUNTEER.
-Home Meet Cristian Platform Volunteer District Map Contact FOR ALL VOICES 2026 Search Email and Text Messaging Privacy Policy and Terms and Conditions Email and Text Messaging Privacy Policy Cristian Morales for Congress https://forallvoices.com/ Last updated: September 30, 2026 This policy explains how Cristian Morales for Congress (“the Committee,” “we,” “us”) collects, uses, and protects email addresses, mobile numbers, and related information when you opt in to email or text messages through https://forallvoices.com/ , campaign forms, events, keywords, or our messaging tools, including Twilio for texts.
+Home Meet Cristian Platform Volunteer District Map Contact FOR ALL VOICES 2026 Search Email and Text Messaging Privacy Policy and Terms and Conditions Text Messaging Privacy Policy Cristian Morales for Congress https://forallvoices.com/ Last updated: October 16, 2026 This policy explains how Cristian Morales for Congress (“the Committee,” “we,” “us”) collects, uses, and protects mobile numbers when you opt in to text messages through https://forallvoices.com/ , campaign forms, events, keywords, or our messaging tools, including Twilio for texts.
 If you are a California resident, rights under the California Consumer Privacy Act, as amended by the CPRA (“CCPA”), also apply.
 No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
 Information sharing with subcontractors who provide support services, such as customer service or message delivery, is permitted.
 All other use-case categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-We do not sell or rent email addresses.
-We do not share email opt-in or consent data with third parties for their own marketing or promotional purposes.
 Paid for by Cristian Morales for Congress.
 1.
-Who these programs are for The Committee may send emails and/or texts about Cristian Morales’ campaign for U.S.
+Who these programs are for The Committee may send texts about Cristian Morales’ campaign for U.S.
 House, California’s 43rd District; events and volunteer opportunities; voter and supporter updates; donation receipts or fundraising messages if you consented to that type of message; and replies to questions you send us.
-A name or number on a voter file, donor list, or public record is not by itself consent to receive campaign emails or automated or mass texts.
+A name or number on a voter file, donor list, or public record is not by itself consent to receive campaign automated or mass texts.
 2.
-Information we collect Email Email address Name and other details you provide Opt-in method, date, time, and the consent language shown Open, click, bounce, and unsubscribe data Text / SMS / MMS Mobile phone number Name and other details you provide Opt-in method, date, time, and the exact consent language shown Message content you send, including STOP, HELP, YES, and donate keywords Delivery and engagement data Both If you contribute by email or text: amount, date, and records required by federal campaign-finance law 3.
-How we collect it / consent We collect information when you: Submit an email or mobile number on forallvoices.com or a campaign form Check an unchecked box to receive emails and/or texts Text a keyword to a Committee number Email info@forallvoices.com or cm@forallvoices.com and ask to be added Provide contact information in person, by phone, or at an event and request updates Have an existing relationship with the campaign and are offered a clear way to unsubscribe or stop texts Reply after a lawful invitation to confirm consent We do not use pre-checked email or SMS boxes.
+Information we collect Name and other details you provide Opt-in method, date, time, and the consent language shown Open, click, bounce, and unsubscribe data Text / SMS / MMS Mobile phone number Name and other details you provide Opt-in method, date, time, and the exact consent language shown Message content you send, including STOP, HELP, YES, and donate keywords Delivery and engagement data Both If you contribute by text: amount, date, and records required by federal campaign-finance law 3.
+How we collect it / consent We collect information when you: “SMS enrollment: To subscribe to recurring campaign-related text messages from Cristian Morales For Congress, complete our dedicated SMS signup form and select the SMS consent checkbox before submitting.
+Providing a phone number through our general contact form, subscribing to email, donating, or having an existing relationship with the campaign does not by itself enroll you in this SMS program.” https://sms.campaigninabox.com/contacts/6abd2a65504b7/subscribe-url Submit a mobile number on forallvoices.com or a campaign form Check an unchecked box to receive emails and/or texts Text a keyword to a Committee number Email info@forallvoices.com or cm@forallvoices.com and ask to be added Provide contact information in person, by phone, or at an event and request updates Have an existing relationship with the campaign and are offered a clear way to unsubscribe or stop texts Reply after a lawful invitation to confirm consent We do not use pre-checked email or SMS boxes.
 Consent to emails or texts is not required to donate or volunteer.
 California generally prohibits sending a text whose principal purpose is a political advertisement to a California mobile number unless an exception applies, most commonly that you consented, or that we have an existing relationship with you and you can opt out.
 4.
@@ -64,7 +63,7 @@ Material changes that affect how we use email or mobile numbers will be posted a
 12.
 Contact Cristian Morales for Congress 3025 Artesia Blvd.
 #37 Torrance, CA 90504 Email: info@forallvoices.com Campaign email: cm@forallvoices.com Phone: (310) 292-7180 Website: https://forallvoices.com/ FEC Committee ID: C00944405 Paid for by Cristian Morales for Congress.
-Email and Text Messaging Terms and Conditions Cristian Morales for Congress https://forallvoices.com/ Last updated: October 7, 2026 These Terms and Conditions govern email and text (SMS/MMS) messages sent by Cristian Morales for Congress (“the Committee,” “we,” “us”) through https://forallvoices.com/ , campaign forms, events, keywords, and our messaging tools, including Twilio for texts.
+Email and Text Messaging Terms and Conditions Cristian Morales for Congress https://forallvoices.com/ Last updated: October 16, 2026 These Terms and Conditions govern email and text (SMS/MMS) messages sent by Cristian Morales for Congress (“the Committee,” “we,” “us”) through https://forallvoices.com/ , campaign forms, events, keywords, and our messaging tools, including Twilio for texts.
 By providing your email address or mobile number and opting in, you agree to these Terms and to our Email and Text Messaging Privacy Policy at https://forallvoices.com/privacy-policy/ (or the Privacy Policy URL published on this website).
 Paid for by Cristian Morales for Congress.
 1.
@@ -75,7 +74,8 @@ A name or number on a voter file, donor list, or public record is not by itself 
 Who may join This program is intended for adults 18 years of age or older.
 By opting in, you represent that you are at least 18 and that you are the owner or authorized user of the email address and/or mobile number you provide.
 3.
-How to opt in You may opt in by: Submitting your email or mobile number on forallvoices.com or a campaign form Checking an unchecked box to receive emails and/or texts Texting a keyword to a Committee number Emailing info@forallvoices.com or cm@forallvoices.com and asking to be added Providing contact information in person, by phone, or at an event and requesting updates Replying after a lawful invitation to confirm consent We do not use pre-checked email or SMS boxes.
+How to opt in You may opt in by: “SMS enrollment: To subscribe to recurring campaign-related text messages from Cristian Morales For Congress, complete our dedicated SMS signup form and select the SMS consent checkbox before submitting.
+Providing a phone number through our general contact form, subscribing to email, donating, or having an existing relationship with the campaign does not by itself enroll you in this SMS program.” Make “dedicated SMS signup form” a clickable link to: https://sms.campaigninabox.com/contacts/6abd2a65504b7/subscribe-url Submitting your email or mobile number on forallvoices.com or a campaign form Checking an unchecked box to receive emails and/or texts Texting a keyword to a Committee number Emailing info@forallvoices.com or cm@forallvoices.com and asking to be added Providing contact information in person, by phone, or at an event and requesting updates Replying after a lawful invitation to confirm consent We do not use pre-checked email or SMS boxes.
 Consent to emails or texts is not required to donate or volunteer.
 Email consent and text consent are separate.
 Opting in to one channel does not opt you in to the other unless you agree to both.

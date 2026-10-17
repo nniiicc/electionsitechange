@@ -48,5 +48,5 @@ Mary's County , I welcome you to join us.
 Let's support our Community .
 Together .
 Contacts Campaign Info: FriendsOfJenniferClancy@Gmail.Com Candidate Clancy: JClancy@FriendsOfJenniferClancy.com tel: 240-466-4636 Treasurer: ATaylor@FriendsOfJenniferClancy.Com tel: 410-303-2713 P.O.
-Box 205, Leonardtown, MD, 20650 Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com - Political Websites Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+Box 205, Leonardtown, MD, 20650 Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
 YARD SIGN REQUEST Contribute Close Menu

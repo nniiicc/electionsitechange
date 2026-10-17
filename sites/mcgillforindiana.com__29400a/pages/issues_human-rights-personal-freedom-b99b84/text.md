@@ -20,4 +20,4 @@ I will work with anyone who has good ideas, regardless of political party, becau
 That includes issues such as reproductive healthcare, LGBTQ rights, religious liberty, immigration, criminal justice, and public safety.
 These are important issues, and reasonable people will not always agree.
 My commitment is to protect constitutional rights, treat every Hoosier with dignity and respect, and focus on practical solutions that strengthen our communities instead of deepening political divisions.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

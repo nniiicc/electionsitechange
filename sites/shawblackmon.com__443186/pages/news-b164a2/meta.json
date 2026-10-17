@@ -1,9 +1,10 @@
 {
  "description": "Shaw Blackmon in the News",
  "final_url": "https://www.shawblackmon.com/news",
- "fingerprint": "657cf4903fdd152ca9038f1a4aae2256eeb39bfb",
+ "fingerprint": "7159f6174025a8c46a7bfd3c6539495cfa27cbd5",
  "format": 3,
  "paid_for_by": "Sponsored by Rep",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "2016",

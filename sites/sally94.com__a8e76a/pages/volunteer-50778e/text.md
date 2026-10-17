@@ -8,5 +8,5 @@ I would like to host 10 or more friends to meet the candidate.
 I would like to join a canvassing team to knock doors of likely Democrats.
 I have campaign experience with managing VoteBuilder and want to help.
 Please send me updates and news via email.
-Submit Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Submit Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

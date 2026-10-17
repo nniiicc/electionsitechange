@@ -6,4 +6,4 @@ Following my service, I spent over two decades ensuring our state’s energy rel
 As a former small business owner, who navigated the immense challenges of the COVID-19 era, I’ve seen firsthand how government decisions impact the kitchen table.
 I am running to join a Republican team dedicated to the 'repair and renovation' of our state.
 Minnesota needs common-sense leadership that delivers results, and I am ready to get to work.
-Committee to Elect Mark Born Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mark Contribute Volunteer Contact Close Menu
+Committee to Elect Mark Born Powered by CampaignPartner.com Home Meet Mark Contribute Volunteer Contact Close Menu

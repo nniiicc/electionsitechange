@@ -200,4 +200,4 @@ Yes, the government today is like a modern pickup.
 Huge, less functional than it used to be, frequently breaking, and insanely overpriced.
 But the process to convert it into the 45 year old Datsun it needs to be is grueling, complicated, and takes a long, long time.
 Just hacking off a wheel, because that way it’s smaller, accomplishes nothing and loses the time and political capital that could have been better spent elsewhere.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

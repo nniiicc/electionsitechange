@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 UPDATES FROM CHUCK Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
 University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking Talking Next Generation 9-1-1 at the Georgia Municipal Association By Chuck Martin • June 27, 2026 Next Generation 9-1-1 to Improve Response for Georgians Helping our Georgia neighbors after Helene October 3, 2024 Helping our Georgia neighbors after Hurricane Helene Reducing the Impacts of Inflation By Chuck Martin • October 1, 2024 Since 2000, Washington spending has cost the average household almost $30,000 extra.
 Rep.
@@ -7,4 +7,4 @@ Chuck Martin reappointed to serve as alternate member of the Southern States Ene
 Rep.
 Chuck Martin appointed to serve as vice-chairman of the Halls of Fame Authority Overview Committee August 29, 2023 Working to honor generations of Georgians Rep.
 Chuck Martin Appointed to the Career and Technical Education Advisory Commission August 29, 2023 Improving Educational Opportunities for Georgians By Chuck Martin • April 24, 2023 Lt.
-Governor Jones and Speaker Burns Announce Appointees to Review Georgia’s Tax Credits Show More HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+Governor Jones and Speaker Burns Announce Appointees to Review Georgia’s Tax Credits Show More HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

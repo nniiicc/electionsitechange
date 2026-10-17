@@ -11,5 +11,5 @@ You can also find the schedules and minutes of other study committees meeting ov
 As always, we continue working to ensure simple, smart and effective government that best serves you and your families.
 Please do not hesitate to reach out should you need assistance or have any questions.
 We hope you continue to enjoy a safe, relaxing and blessed summer.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

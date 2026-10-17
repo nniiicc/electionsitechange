@@ -15,4 +15,4 @@ View our official Ballot Drop Box Locator to find drop box hours.
 The Ballot Drop Box Locator will become available approximately # days before Election Day.
 Ballots that are mailed must be postmarked by Election Day.
 Contact your local county elections office if you have questions about your ballot.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

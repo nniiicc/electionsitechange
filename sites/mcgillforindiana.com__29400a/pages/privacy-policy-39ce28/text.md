@@ -50,4 +50,4 @@ We encourage visitors to review the applicable privacy policies before providing
 Changes to This Privacy Policy We may update this Privacy Policy periodically.
 Changes will be posted on this page with an updated effective date.
 Contact Us McGill for a Better Indiana P.O.
-Box 5031 Fort Wayne, IN 46895 Email: info@mcgillforindiana.com Phone: 260-333-5171 Website: www.McGillForIndiana.com Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Box 5031 Fort Wayne, IN 46895 Email: info@mcgillforindiana.com Phone: 260-333-5171 Website: www.McGillForIndiana.com Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

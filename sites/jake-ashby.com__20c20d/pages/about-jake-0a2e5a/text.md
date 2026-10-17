@@ -1,4 +1,4 @@
-top of page Home About Jake Volunteer More Use tab to navigate through the menu items.
+top of page Home About Jake Early Voting Volunteer More Use tab to navigate through the menu items.
 Donate JAKE ASHBY Public Service.
 Family Values.
 I grew up in Castleton, NY and started working with my father in his landscaping business at age 11.

@@ -746,5 +746,5 @@ One party has had to tal control, long term control .
 Yet, serious problems persist, leading to: significant affordability problems high taxation, and going higher loss of trust in elections housing shortages crime aging infrastructure state government – too big, too costly state government that insists on controlling its citizens in their daily lives.
 Californians need a break .
 This election is when the voters must stand up and demand a change in leadership.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

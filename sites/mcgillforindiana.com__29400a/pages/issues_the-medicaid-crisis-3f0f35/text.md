@@ -51,4 +51,4 @@ Increase the number of behavioral health providers.
 Invest in regional mobile crisis teams so mental health emergencies receive the right response.
 Healthcare should be affordable, easy to navigate, and focused on patients instead of paperwork.
 By lowering costs, expanding access, eliminating waste, and holding powerful interests accountable, we can build a healthcare system that works better for families, strengthens our workforce, and uses taxpayer dollars responsibly.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

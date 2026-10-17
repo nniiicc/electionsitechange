@@ -6,4 +6,4 @@ Message and data rates may apply.
 Reply STOP to opt out at any time, or reply HELP for assistance.
 Consent is not a condition of any purchase or contribution.
 By checking this box, I agree to the Terms and Conditions and Privacy Policy .
-Submit Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu
+Submit Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

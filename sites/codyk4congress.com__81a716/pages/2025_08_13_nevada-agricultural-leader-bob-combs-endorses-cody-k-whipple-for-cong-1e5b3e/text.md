@@ -1,0 +1,11 @@
+Skip to content About Endorsements Get Involved News Issues Store Donate Latest News Nevada Agricultural Leader Bob Combs Endorses Cody K Whipple for Congress August 13, 2025 Las Vegas, NV – Cody K Whipple, Businessman, Rancher, and Republican candidate for Nevada’s 4th Congressional District, proudly announced today the endorsement of respected Nevada agricultural leader and businessman Bob Combs, founder of RC Farms in Las Vegas.
+Whipple is challenging career-politician and Democrat Congressman Steven Horsford.
+Combs, a fixture in Nevada’s farming community and known nationwide for his innovative agricultural practices, spoke warmly about his decades-long relationship with the Whipple family.
+“I’ve known the Whipple family for decades—going all the way back to my days at Cal Poly San Luis Obispo when I boxed with Cody’s dad,”said Combs.“Back then, our families spent a lot of time together, and as the youngest boy of both families, Cody got bounced off the walls more than a few times.
+That’s how he was raised—tough, resilient, and with grit in his bones.
+Those same qualities are exactly what he’ll bring to representing Nevada’s 4th District.
+Cody knows how to fight for what matters and won’t back down when it comes to protecting Nevada’s future.
+I am very proud of Cody for all he has accomplished and for stepping up to run for Congress!” Whipple said he was honored to receive Combs’ endorsement.
+“Bob Combs is more than just a leader in Nevada agriculture—he’s a friend and someone I’ve respected my entire life,”said Whipple.
+“His endorsement means the world to me, and I will fight every day to protect the industries, communities, and values that make Nevada strong.” Whipple’s campaign is built on a Nevada First vision—strengthening the economy and lowering the cost of living, defending parental rights and school choice opportunities, ensuring Nevada’s energy affordability, and protecting Nevada’s water and natural resources.
+To learn more or get involved, visit https://codyk4congress.com 4004 Whipple Ranch Road, Hiko, NV 89017 – 702-914-8072 – info@codyk4congress.com Paid for by Cody K 4 Congress Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

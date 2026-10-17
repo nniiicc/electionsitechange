@@ -37,7 +37,18 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/15/2026 @ 6:53 pm New Mexico is where we raise our families, carry on our traditions, and build a life we’re proud of.
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/16/2026 @ 2:00 pm MY VOTE.
+MY WHY.
+New Mexicans for Gregg Hull.
+“New Mexico is worth fighting for.” For her, those words mean choosing a different future for the place she calls home.
+They mean ex...
+Posted: 10/16/2026 @ 12:02 am We are LIVE in Hobbs for a WE ARE New Mexico Town Hall.
+Want to support our campaign?
+Donate at GreggHull.com Posted: 10/15/2026 @ 11:54 pm From Tatum to Hobbs, I’m putting in the miles to earn your vote.
+Thank you to everyone who took time to visit with us today—there’s no substitute for hearing from New Mexicans in p...
+Posted: 10/15/2026 @ 11:32 pm I am getting ready to go live from Hobbs for our second WE ARE New Mexico Town Hall this week to answer questions from voters across the state.
+I hope you'll join me live on Facebo...
+Posted: 10/15/2026 @ 6:53 pm New Mexico is where we raise our families, carry on our traditions, and build a life we’re proud of.
 We come from different communities, but we share a love for this place—and a r...
 Posted: 10/15/2026 @ 3:22 pm Hobbs, let’s talk tonight!
 I want to hear what’s on your mind and answer your questions about New Mexico’s future.
@@ -55,25 +66,6 @@ Posted: 10/14/2026 @ 2:00 pm MY VOTE.
 MY WHY.
 New Mexicans for Gregg Hull.
 When you love your state, you want to believe its best days are still ahead—and you want leaders you can trust to help get it there. ...
-Posted: 10/14/2026 @ 3:05 am Carlsbad, let’s talk.
-I’ll be in your community tomorrow, and I want to hear what’s on your mind.
-Bring your questions—the tough ones, too.
-Let’s talk about what you need from you...
-Posted: 10/14/2026 @ 12:44 am Spent today in Roswell, talking with folks at our meet and greet before visiting CasaKids.
-Their team stands up for children who have experienced abuse or neglect and supports fam...
-Posted: 10/13/2026 @ 2:00 pm Help me get this message out, please share!
-More money for groceries.
-More money for the meals around your family’s table.
-More room to breathe.
-That’s what my Four Steps to Zer...
-Posted: 10/13/2026 @ 12:43 am MY VOTE.
-MY WHY.
-New Mexicans for Gregg Hull.
-Behind every vote is a reason.
-A family we want to protect.
-A community we love.
-A future we want our children to have.
-For her, it’...
 Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.

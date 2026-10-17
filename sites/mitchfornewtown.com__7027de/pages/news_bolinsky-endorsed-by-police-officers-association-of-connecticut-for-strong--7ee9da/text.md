@@ -3,4 +3,4 @@ About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for S
 In a recent letter representing 2,000 Connecticut union police officers, the Police Officers Association of Connecticut (POACT) announced its official endorsement of Mitch Bolinsky for re-election to the General Assembly in 2018.
 #MitchForNewtown#WeNeedMitch #CtElections #CtRepublicans#FixCT Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

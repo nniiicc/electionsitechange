@@ -69,4 +69,4 @@ January 14, 2014 A great day on the Bay!
 January 14, 2014 Another Great Watermans Caucus!
 January 14, 2014 12th Annual Crab Shrimp & Oyster Feast!
 I want a yard sign!
-Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

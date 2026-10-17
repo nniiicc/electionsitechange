@@ -1,4 +1,4 @@
-Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Contribute Your support keeps this campaign moving forward!
+Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Contribute Your support keeps this campaign moving forward!
 Every contribution, big or small, helps us reach more voters, print materials, and share our message across Fort Bend County and House District 28 .
 Together, we can build a stronger, fairer Texas !
 Ways to Contribute Online via ActBlue To make a secure online contribution via ActBlue click here .
@@ -11,4 +11,4 @@ Contributions are not tax-deductible.
 For contributions over $# Texas law requires that we collect the donor’s name, address, occupation, and employer.
 Please click here to learn more about contributions, any terms and conditions or legal requirements for contributors, thank you for your support!
 Voter Information Texas House District 28 Endorse Sandy!
-Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com - Political Campaign Websites Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Close Menu
+Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Close Menu

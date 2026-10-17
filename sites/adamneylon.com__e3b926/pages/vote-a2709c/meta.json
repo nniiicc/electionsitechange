@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.adamneylon.com/vote",
- "fingerprint": "1524c2e74d1cffabc59046ba33662adab39b6356",
+ "fingerprint": "6e9ab35a38c039ab0cee3a275eeb91334762cf9f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

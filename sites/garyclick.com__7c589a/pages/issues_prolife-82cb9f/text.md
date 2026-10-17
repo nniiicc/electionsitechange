@@ -9,4 +9,4 @@ They must realize that there is hope and healing available to them.
 However, we must also proactively make abortion both unthinkable and illegal.
 This involves education, inspiration and legislation.
 Ohio's Heartbeat Bill has been a great step in that direction.
-I has happy to be at Governor DeWine's side when this bill was signed into law. « Previous: Conservatism Next: Education » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+I has happy to be at Governor DeWine's side when this bill was signed into law. « Previous: Conservatism Next: Education » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

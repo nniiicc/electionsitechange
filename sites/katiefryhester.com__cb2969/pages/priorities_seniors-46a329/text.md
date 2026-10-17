@@ -1,11 +1,18 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Seniors Sixty is the new forty.
-Many of those I meet in District 9 are like my parents—they love biking, hiking, traveling and many are still working part time, are active volunteers and role models for their grandchildren.
-We need to think more creatively about what it means to age in place actively and I will work hard to reduce the cost of living for seniors.
-In 2019 I passed legislation to expand Maryland’s Aging-in-Place Property Tax Credit and prevent seniors from being priced out of their homes.
-In 2022 I also proudly co-sponsored the Retirement Tax Elimination Act, which will reduce or completely eliminate state income taxes on Social Security payments for 80% of Maryland seniors.
-We must provide affordable and age-accessible public transportation, housing, healthcare, and other social services that support our seniors in our communities.
-Finally, we must plan for the continuum of aging, for the more active years and for those years when seniors may have more needs.
-Continuing a dialogue with seniors in our community will better help us to develop solutions that will work for them over the coming years, and I look forward to keeping that conversation going.
-Friends of Katie Fry Hester, Treasurer: Margaret E.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Seniors Seventy is the new forty.
+Many folks I meet in District 9 remind me of my parents – they love biking, hiking, traveling, many still work part time, and they are active volunteers and role models in our community.
+Today, we need to think more creatively about what it means to age-in-place and to access public services at any age.
+In 2019, I passed legislation to expand Maryland’s Aging-in-Place Property Tax Credit, which allows local governments to provide individuals over 65 with a credit of up to 20 percent of local property taxes.
+Maryland seniors must be able to afford not only to stay in their homes, but to plan appropriately for the future.
+As the cost of healthcare, prescription drugs, and everyday essentials continues to rise, Maryland seniors living on a fixed income are particularly vulnerable.
+We must take action to both lower the cost of essential goods and services and reduce the tax burden on our seniors.
+In 2022, I proudly co-sponsored the Retirement Tax Elimination Act, which provides a $1,000 Maryland income-tax credit to eligible residents age 65 and older, or $1,750 for eligible married couples when both spouses are 65 or older.
+As our lifespan grows longer, I’m committed to working with Maryland seniors and their advocates to create a government that works for Marylanders at every age.
+In general, I support policies to: Increase seniors’ property tax relief, Provide affordable, age-accessible public transportation, housing, and healthcare, Plan for the continuum of aging, from retirement to assisted living, Reduce state income taxes on Social Security, and Lower the cost of living and everyday essentials, like prescription drugs.
+Legislation I have passed includes: SB0530/HB0811 – Village Multigenerational Third Places Act (2026) Expands Maryland’s aging-in-place efforts by establishing grants for multigenerational community spaces that connect older adults with their communities and provide opportunities for social engagement, recreation, and supportive services.
+SB0219 – Senior Prescription Drug Assistance Program – Sunset Extension (2024) Extends Maryland’s Senior Prescription Drug Assistance Program, which helps eligible Medicare beneficiaries afford prescription-drug costs, through 2030. ** SB0405/HB0420 – Retirement Tax Elimination Act of 2022 (2022) Provides a $1,000 Maryland income-tax credit to eligible residents age 65 and older, or $1,750 for eligible married couples when both spouses are 65+, while expanding retirement-income tax relief for retired public safety personnel.
+SB0407 – Office of the Attorney General – Senior and Vulnerable Adult Asset Recovery Unit (2020) Created a dedicated unit within the Attorney General’s Office to investigate financial exploitation of seniors and vulnerable adults and pursue the recovery of stolen or misappropriated assets.
+HB0498 – Department of Aging – Grants for Aging-in-Place Programs – Funding (2020) Requires state funding for grants that help communities establish or expand aging-in-place programs, including senior villages that allow older adults to remain safely and independently in their homes and communities. ** SB0654/HB1339 – Property Tax Credit – Elderly Individuals – Eligibility (2019) Expanded eligibility for Maryland’s local aging-in-place property tax credit, allowing counties and municipalities to provide eligible homeowners age 65 and older with a property tax credit of up to 20% of their local property taxes.
+This bill will help to prevent seniors from being priced out of their homes.
+SB0759/HB0768 – Prescription Drug Affordability Board (2019) Created Maryland’s Prescription Drug Affordability Board to evaluate the affordability of prescription drugs and develop strategies to lower costs for Marylanders, including seniors facing high prescription-drug expenses. (**Denotes Legislation I Sponsored) Friends of Katie Fry Hester, Treasurer: Margaret E.
 Connor © # Katie Fry Hester for MD State Senate D9.
 Privacy Policy .

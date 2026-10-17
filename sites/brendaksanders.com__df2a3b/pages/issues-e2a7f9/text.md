@@ -6,5 +6,5 @@ Restore Medicare Part D Subsidies before January, 2027 If elected to Congress, I
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Brenda K.
 Sanders to the U.
 S.
-House of Representatives (12-MI) Powered by CampaignPartner.com - Political Campaign Websites Meet Brenda K.
+House of Representatives (12-MI) Powered by CampaignPartner.com Meet Brenda K.
 Sanders Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

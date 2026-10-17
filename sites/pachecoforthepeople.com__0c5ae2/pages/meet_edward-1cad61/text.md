@@ -9,4 +9,4 @@ Common Sense Representation: The 9th Bristol District faces a crossroads: an agi
 Solving these problems requires more than a party-line vote; it requires a bridge builder.
 Ed is headed to Beacon Hill to be a moderate, balanced voice who puts results over rhetoric.
 He isn't interested in political games—he’s interested in the people.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

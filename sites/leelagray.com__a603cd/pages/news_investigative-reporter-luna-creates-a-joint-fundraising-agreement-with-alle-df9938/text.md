@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Aug 6 2026 PRESS RELEASE Investigative Reporter: Luna Creates a Joint Fundraising Agreement with Alleged Violent Criminal Retired Brig.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Aug 6 2026 PRESS RELEASE Investigative Reporter: Luna Creates a Joint Fundraising Agreement with Alleged Violent Criminal Retired Brig.
 Gen.
 Leela Gray Continues to call on APL To Apologize to Survivors, Return Money She Raised with Accused Violent Criminal FOR IMMEDIATE RELEASE DATE : August 6, 2026 CONTACT : press@leelagray.com ST.
 PETERSBURG - Today, an investigative reporter revealed that Rep.

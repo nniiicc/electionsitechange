@@ -1,9 +1,10 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://luschasforsd.net/make-endorsement",
- "fingerprint": "03ba78d3f22e19bdd7f70013a7dc32f885dfe8dd",
+ "fingerprint": "9bdb7d8be11ae0cb97fccf502714926853b2c7e1",
  "format": 3,
  "paid_for_by": "Paid for By: Manuel Luschas Powered by CampaignPartner",
+ "rendered": false,
  "title": "Make Endorsement",
  "years_mentioned": []
 }

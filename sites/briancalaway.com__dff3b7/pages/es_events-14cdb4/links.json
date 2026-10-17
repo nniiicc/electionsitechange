@@ -20,6 +20,10 @@
 "href": "https://www.briancalaway.com/es/events"
 },
 {
+"text": "Guía del votante",
+"href": "https://www.briancalaway.com/es/voter-guide"
+},
+{
 "text": "Inicio",
 "href": "https://www.briancalaway.com/es"
 },
@@ -60,6 +64,10 @@
 "href": "https://www.briancalaway.com/es"
 },
 {
+"text": "[tooltip: Apple Podcasts]",
+"href": "https://podcasts.apple.com/us/podcast/the-brian-calaway-podcast/id6816512247"
+},
+{
 "text": "[tooltip: Facebook]",
 "href": "https://www.facebook.com/profile.php?id=61587058792033"
 },
@@ -90,5 +98,9 @@
 {
 "text": "campaign@briancalaway.com",
 "href": "mailto:campaign@briancalaway.com"
+},
+{
+"text": "¿Va a votar el 3 de noviembre? Todas las contiendas de la boleta del LD10, con fuentes, en una sola guía. Abrir la guía del votante",
+"href": "https://www.briancalaway.com/es/voter-guide"
 }
 ]

@@ -10,4 +10,4 @@ Please be aware that we are not responsible for the content or privacy practices
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
 Home Endorsements Voter Information Donate Contact Privacy Policy Friends of Elaine Padgett, Inc.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu
+Powered by CampaignPartner.com Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu

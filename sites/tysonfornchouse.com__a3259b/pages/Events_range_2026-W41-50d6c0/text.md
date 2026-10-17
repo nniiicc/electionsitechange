@@ -5,4 +5,4 @@ Check here often for events near you where you can meet Steve and learn more abo
 If you are interested in hosting a Meet & Greet or Fundraising event, please send us a message by clicking HERE.
 #ago This Week This Month ‹ Previous Sun Oct 4 2026 - Sun Oct 11 2026 Next › No events in this range Try a different date range, or check back soon for new events.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Committee to Elect Steve Tyson Powered by CampaignPartner.com - Political Campaign Websites Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu
+Committee to Elect Steve Tyson Powered by CampaignPartner.com Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu

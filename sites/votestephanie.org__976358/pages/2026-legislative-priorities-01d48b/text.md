@@ -23,4 +23,8 @@ Your input, ideas, and involvement help shape the decisions we make at the Capit
 I encourage you to stay informed, explore our priorities, and engage with us throughout the session—whether in person or online.
 Working together, we can continue building a strong, prosperous future for Utah families and communities.
 Thank you for letting me serve you!
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 9 + 15 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 14 + 6 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

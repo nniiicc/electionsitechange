@@ -41,5 +41,5 @@ For more than 50 years, the Page Program has provided essential support to legis
 I encourage anyone interested to visit the House Page Program website to learn more and apply: https://www.legis.ga.gov/house/page-program .
 As the 2026 Legislative Session continues, my top priority is to continue working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective government .
 In service, Rep.
-Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

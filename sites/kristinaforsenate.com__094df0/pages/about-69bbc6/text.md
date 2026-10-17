@@ -37,7 +37,7 @@ Kristina is a proud supporter and participant of this tradition that started rig
 03 City Council Accomplishments Six Years of Real Results — Not Promises.
 Elected in 2019 with 62% of the vote against a 14-year incumbent, Kristina has spent six years on the Covington City Council delivering real results for families in the 47th District.
 In 2023, she was re-elected without opposition — a testament to the trust she has built in the community she serves.
-On public safety, Kristina helped lead the implementation of the ALPR camera program, which generated more than 60 investigative leads for Covington officers and helped address the surge in property crime affecting South King County families.
+On public safety, Kristina has worked to confront the surge in property crime affecting South King County families and to give Covington's officers the backing they need to keep neighborhoods safe.
 She has also served on the South King Housing and Homelessness Partnership and the Sound Cities Association Public Issues Committee.
 When schools shut down during the COVID-19 pandemic, Kristina stepped up for students in her community.
 With music programs suspended across local schools, she volunteered to teach music to K–10 students who would otherwise have gone without — because for her, showing up for neighbors has never been limited to the council chamber.

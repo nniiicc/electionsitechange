@@ -41,4 +41,4 @@ Join her movement for positive change by volunteering, donating, or spreading th
 Together, we can build a brighter future for District 25 residents of Forsyth County and North Fulton County.
 Thank you for your support!
 Home Endorsements Voter Information Donate Contact Privacy Policy Friends of Elaine Padgett, Inc.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu
+Powered by CampaignPartner.com Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu

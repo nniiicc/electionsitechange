@@ -13,5 +13,6 @@ I really want to thank all six legislators for the 31st and 25th Districts who w
 Drew Stokesbary , Rep.
 Melanie Stambaugh and Senator Pam Roach .
 You can read the Mayor’s full letter here .
-In the News legislature transportation More For You Stokesbary named “Guardian of Small Business” by NFIB Awards Unanimous endorsement from State Patrol Troopers Association Endorsements Lawmakers concerned about auditor probe In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News legislature transportation More For You Saving Washington’s Charter Schools In the News Moscow-Pullman Daily News: Rep.
+Drew Stokesbary “Said it Best” In the News Auburn’s Stokesbary elected to state House In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

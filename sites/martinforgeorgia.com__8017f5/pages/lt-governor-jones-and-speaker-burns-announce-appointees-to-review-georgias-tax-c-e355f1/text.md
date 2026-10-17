@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 April 24, 2023 Lt.
 Governor Jones and Speaker Burns Announce Appointees to Review Georgia’s Tax Credits APRIL 24, 2023 BY BETSY THEROUX Lt.
 Governor Jones and Speaker Burns Announce Appointees to Review Georgia’s Tax Credits ATLANTA – Today, Lt.
@@ -26,4 +26,4 @@ Rep.
 Matt Hatchett (R-Dublin), Chairman of the House Appropriations Committee, has been appointed by Speaker Burns as an ex-officio member.
 ### < Older Post Newer Post > Share Tweet Share Mail Updates from Chuck Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
 University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking 1 (current) 2 3 ...
-8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

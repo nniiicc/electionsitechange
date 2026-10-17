@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts 9/11: Flight 93 – A Personal Story Shubert for Ohio Sep 11 2 min read Updated: Sep 12 SAG HARBOR, NY – Hurricane Erin roared up the Eastern Seaboard overnight #ago today, leaving behind what would be an absolutely gorgeous day, weatherwise, across the region.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts 9/11: Flight 93 – A Personal Story Shubert for Ohio Sep 11 2 min read Updated: Sep 12 SAG HARBOR, NY – Hurricane Erin roared up the Eastern Seaboard overnight #ago today, leaving behind what would be an absolutely gorgeous day, weatherwise, across the region.
 The sun arose to reveal a beautiful blue sky with white cotton ball-like clouds.
 I turned on the television to catch the latest weather report, to see if it would be a good beach day, as my late wife, Sherri Moyer, and I were on vacation in The Hamptons.
 What I saw and the events of the morning would leave an indelible mark on my life and those of tens of millions of others around the world.

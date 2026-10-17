@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.voterondunn.com/view-endorsements",
- "fingerprint": "97bd032272cbb1acad7ebc0e813156f7cb37d4f2",
+ "fingerprint": "91d929cb9b85f34978904457281bdd2b3703f210",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": [
   "2022",

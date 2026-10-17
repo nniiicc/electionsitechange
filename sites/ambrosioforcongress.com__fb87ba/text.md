@@ -5,4 +5,4 @@ While with the NYSP, he obtained his law degree and served in the Division Couns
 His career continued in law as an Assistant District Attorney in Greene and Columbia Counties from 1989 to 1996, a public defender, and later as an assistant attorney general under Dennis Vacco.
 Ambrosio returned to the NYSP from 1999 to 2010 as an Assistant Counsel before retiring and moving into private practice.
 He has been a resident of Delmar, NY since 1985.
-Ralph Ambrosio for Congress Powered by CampaignPartner.com - Political Websites Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Close Menu
+Ralph Ambrosio for Congress Powered by CampaignPartner.com Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Close Menu

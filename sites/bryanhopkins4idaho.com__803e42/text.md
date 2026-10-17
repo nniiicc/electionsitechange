@@ -12,4 +12,4 @@ We are in desperate need of short-term as well as long-term planning in this are
 3.As a college professor I understand the importance of education and the need for Idahoans to be competitive in whatever field they pursue.
 Allocating resources to provide economically viable options to make sure that education suits the needs of the individual and as educators we are delivering students who are prepared to meet ever changing needs with skills that are relevant and current.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Events Contact Committee to Elect Bryan Hopkins Powered by CampaignPartner.com - Political Campaign Websites Home Meet Bryan Contribute Volunteer Events Contact Voter Information Close Menu
+Voter Information Events Contact Committee to Elect Bryan Hopkins Powered by CampaignPartner.com Home Meet Bryan Contribute Volunteer Events Contact Voter Information Close Menu

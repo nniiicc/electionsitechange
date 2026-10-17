@@ -1,9 +1,10 @@
 {
  "description": "Learn about VoterTree, a personal voter outreach tool available through Petersen for Nebraska. Build and manage your own VoterTree online or use the printable worksheet.",
  "final_url": "https://www.petersenfornebraska.com/votertree",
- "fingerprint": "afbf175bd877c7562e0b28978ae45ba88d41fc7f",
+ "fingerprint": "98c2c0b18afd69487eda9378743ae57f0b9501b6",
  "format": 3,
  "paid_for_by": "Paid for by Scott Petersen for Nebraska",
+ "rendered": true,
  "title": "VoterTree | Petersen for Nebraska",
  "years_mentioned": []
 }

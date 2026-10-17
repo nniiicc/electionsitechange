@@ -11,4 +11,4 @@ Our strength is not just in what we pass.
 It is in who we protect.
 Let's get to work!
 People First, Helene Neville Make a Donation Our campaign is powered by your donations. $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Election Day November 3, 2026 at 11:59 PM Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Election Day November 3, 2026 at 11:59 PM Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

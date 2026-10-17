@@ -30,4 +30,4 @@ Read more 20 Sep Wednesday, 10:10 AM · 2017 Senator Clyde Chambliss receives Le
 Read more 7 Sep Thursday, 10:11 AM · 2017 Win-Win for Farmers and Students Senator Chambliss works to make it easier for Alabama schools to purchase foods from Alabama Farmers.
 Read more Get Updates Thank you for signing up!
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

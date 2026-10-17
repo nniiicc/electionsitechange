@@ -21,4 +21,4 @@ Many of us worry about the world our children and grandchildren will inherit.
 In an age of discord, one commonality among us is the desire for a better future for them.
 Nebraskans work hard to provide for our families.
 In exchange, our families deserve access to healthy food, healthcare, high-quality childcare, clean air and water, and an economy that provides freedom and opportunity.
-Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com - Political Websites Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

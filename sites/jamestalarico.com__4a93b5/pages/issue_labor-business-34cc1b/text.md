@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Labor & Business Higher Wages and a Fair Shot for Small Businesses Supporting workers and supporting small businesses go hand in hand.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Labor & Business Higher Wages and a Fair Shot for Small Businesses Supporting workers and supporting small businesses go hand in hand.
 James Talarico will raise the minimum wage to $15, expand overtime, pass paid family leave, protect the freedom to unionize, and give small businesses a fair shot against giant corporations.
 When my younger sister was born, she was 10 weeks premature and required around-the-clock care.
 Our mom didn’t have access to family leave, so while she was with my sister in the NICU, the hotel she worked at called her and fired her over the phone.

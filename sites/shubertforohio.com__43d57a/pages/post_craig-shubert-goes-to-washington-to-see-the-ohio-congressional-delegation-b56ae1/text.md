@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts Mayor Craig Shubert goes to Washington to see the Ohio Congressional Delegation Shubert for Ohio May 19 1 min read WASHINGTON, D.C. – Former Hudson Mayor Craig Shubert was on Capitol Hill Tuesday to see members of the Ohio congressional delegation and their staffs.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts Mayor Craig Shubert goes to Washington to see the Ohio Congressional Delegation Shubert for Ohio May 19 1 min read WASHINGTON, D.C. – Former Hudson Mayor Craig Shubert was on Capitol Hill Tuesday to see members of the Ohio congressional delegation and their staffs.
 Shubert, the GOP’s nominee for the Ohio House’s 34th District, visited the offices of U.S.
 Senators Jon Husted and Bernie Moreno, as well as Representatives Max Miller (R-OH 7) and Michael Rulli (R-OH 6), among others. .
 Craig Shubert’s first political work was on Capitol Hill #ago.

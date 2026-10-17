@@ -23,15 +23,9 @@ Please join us to knock on doors in Bakersfield to ensure we elect Randy to Cong
 Please make sure to bring y… Show more RSVP Knock on Doors for Randy Villegas in Fresno!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
-Sign up for more details, Fresno, CA, 93721 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
+Sign up for more details, Fresno, CA, 93722 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
 Please join us to knock on doors in Fresno to ensure we elect Randy to Congress!
-If you’ve never canvassed before… Show more RSVP Phonebank for Randy Villegas!
-Multiple Times Virtual Event Join the Villegas for Congress team for our Thursday phonebanks.
-We'll be calling voters in District 22 to earn their votes for the November 3rd election.
-Each phone bank will begin with a training o… Show more RSVP Arvin Town Hall This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Arvin, CA, 93203 Town Hall in Arvin with Randy Villegas, Mayor Olivia Calderon, and candidates Jose Garcia, Gabriel Garcia, and Ivan Juarez!
-Reunion en Arvin con Randy Villegas, la alcaldesa Olivia Calderón y los can… Show more RSVP Knock on Doors for Randy Villegas in Hanford!
+If you’ve never canvassed before… Show more RSVP Knock on Doors for Randy Villegas in Hanford!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Hanford, CA, 93230 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
@@ -58,7 +52,10 @@ Sign up for more details This event’s address is private.
 Sign up for more details, Bakersfield, CA, 93301 Roundtable with our friends with Reproductive Freedom for All RSVP Become a Great Canvasser: CA-22 / Villegas for Congress Edition Multiple Times Virtual Event You don’t have to be an expert—or have the perfect speech—to be a great canvasser.
 The key is knowing how to listen, connect, and make the most of each conversation.
 In this interactive 75-minute wor… Show more RSVP Phonebank for Randy Villegas en Español Multiple Times Virtual Event Únete al equipo de campaña de Villegas para el Congreso en nuestras sesiones de llamadas a votantes de los miércoles a las 5:30-7:30 pm.
-Llamamos a los votantes del Distrito 22 para ganar su apoyo par… Show more RSVP Hop on a bus: Mountain View to Delano!
+Llamamos a los votantes del Distrito 22 para ganar su apoyo par… Show more RSVP Phonebank for Randy Villegas!
+Multiple Times Virtual Event Join the Villegas for Congress team for our Thursday phonebanks.
+We'll be calling voters in District 22 to earn their votes for the November 3rd election.
+Each phone bank will begin with a training o… Show more RSVP Hop on a bus: Mountain View to Delano!
 Flip the House (Randy Villegas, CA-22) Moutain View (near 101 & Rengstorff & San Antonio) (full address available after you RSVP), Mountain View, CA, 94043 Join lots of fired-up volunteers on a bus to Delano in the Central Valley to help flip the U.S.
 House.
 We’ll be knocking on doors for Randy Villegas in Congressional District 22 (CA-22), one of the f… Show more RSVP Hop on a bus in San Jose to flip the House!

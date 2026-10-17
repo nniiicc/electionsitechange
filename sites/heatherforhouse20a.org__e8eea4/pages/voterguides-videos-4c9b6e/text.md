@@ -6,9 +6,12 @@ Your elected officials should represent your values.
 You deserve to know where the candidates stand, what they’ve said, and who has endorsed them.
 That’s why I’m giving you the information on who has endorsed me, links to long form Voter Guides, links to videos I’ve made, and other information I think you’ll find interesting.
 When you vote, I ask you to remember what you’ve learned, who matches your values & priorities, and the transparency that made it possible.
-Videos ‍ I’ve made a few videos about where I stand on the issues.
+Videos ‍ HOMEMADE VIDEOS : I’ve made a few videos about where I stand on the issues.
 Some candidate forums have videos available too.
-You can find them on my social media and here on my YouTube channel: Heather.for.House20A - YouTube Voter Guides MPR 2026 Voter Guide MPR News invited every candidate on the ballot to share their priorities with voters in their own words, using a brief 3-question guide to help voters know them.
+You can find them on my social media and here on my YouTube channel: Heather.for.House20A - YouTube CANDIDATE FORUMS : Here are official links to forums I participated in.
+Out of respect for the forum hosts, the links are not edited for time.
+Out of respect for integrity, they are not edited for content.
+Lake City Chamber of Commerce and the Woman’s Club of Lake City: Chamber/Women's Club - Meet The Candidates Event (I start at approx the 1:11 mark, Jason is just before me at approx 57min mark.) Red Wing League of Women Voters: coming soon Voter Guides MPR 2026 Voter Guide MPR News invited every candidate on the ballot to share their priorities with voters in their own words, using a brief 3-question guide to help voters know them.
 Build your ballot: Minnesota's 2026 general election | MPR News Red Wing Chamber of Commerce Red Wing Area Chamber of Commerce invited all candidates to participate in their Regional Voter Guide designed to help voters learn more about the candidates seeking public office throughout our region.
 SE MN Voter Guide Red Wing League of Women Voters Vote411 The League of Women voters of MN invited all candidates to participate in their non-partisan voters’ guide.
 VOTE411 helps voters learn about and compare candidates in order to cast informed votes.

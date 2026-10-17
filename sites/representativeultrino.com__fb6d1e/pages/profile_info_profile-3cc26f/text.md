@@ -7,6 +7,6 @@ While taking into consideration the uncertainty of federal cutbacks, this spendi
 5 0 Oct 22, 2025 ∙ 4 min MASSACHUSETTS LEADING MANUFACTURERS HONORED BY LEGISLATORS AT 10TH ANNUAL MANUFACTURING AWARDS CEREMONY AT GILLETTE STADIUM MASSACHUSETTS LEADING MANUFACTURERS HONORED BY LEGISLATORS AT 10TH ANNUAL MANUFACTURING AWARDS CEREMONY AT GILLETTE STADIUM FOXBOROUGH, MA – State Representative Steven Ultrino (D-Malden) is honored to announce that Malden’s Alsym Energy is a 2025 recipient of the "Manufacturer of the Year” Award presented by the Massachusetts Legislative Manufacturing Caucus.
 This award is given in recognition of outstanding leadership skills in the manufacturing industry.
 The company was presented...
-83 3 Load More Steven Ultrino Steven Ultrino Admin 0 Followers 0 Following Follow More actions Profile Events Blog Posts Blog Comments Blog Likes More Use tab to navigate through the menu items.
+86 3 Load More Steven Ultrino Steven Ultrino Admin 0 Followers 0 Following Follow More actions Profile Events Blog Posts Blog Comments Blog Likes More Use tab to navigate through the menu items.
 Sign Up Thanks for submitting!
 Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

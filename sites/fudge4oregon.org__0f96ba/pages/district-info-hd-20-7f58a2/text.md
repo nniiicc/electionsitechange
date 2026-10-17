@@ -1,3 +1,3 @@
 Meet Andrew Issues Endorsements News Contribute Oregon House of Representatives - District 20 In the heart of the Willamette Valley, this district encompasses parts of South and West Salem, along with Monmouth and Independence.
 It is a diverse district comprised of urban, suburban, rural, farming, college town, and state capital areas.
-Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu
+Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

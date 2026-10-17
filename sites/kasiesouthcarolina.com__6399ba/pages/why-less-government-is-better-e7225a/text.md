@@ -91,6 +91,18 @@ We just have to vote better.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
-Leave a Reply Cancel reply Your email address will not be published.
+2 Responses J Smith says: October 12, 2026 at 3:12 pm I see government as a way to protect us from ourselves.
+Humans will take power and resources from others until there aren’t any left.
+I know we want to believe otherwise, but the science doesn’t support it.
+Nobody needs billions of dollars.
+True capitalism leads to corruption, so my question is, how do you think we should manage that aspect of capitalism?
+Reply kasiesc says: October 16, 2026 at 5:36 pm Thanks for reading and thanks for the comment.
+Government is as susceptible to corruption as any corporation.
+Right now they’re in cahoots – corporations influencing government to raise barriers to entry, protect certain industries and companies, and use military force to open markets for corporate gain.
+I don’t think capitalism leads to corruption, I think humans are corrupted by competing incentives.
+We can manage both government and capitalism with transparency – that’s why the free press is so valuable – and public pressure.
+We need to elect better people and we do that by getting out of the party-fundraising cycle and selecting independents and small-party candidates.
+We need to hold companies responsible for their bad choices and influence them through stockholders and boycotts.
+Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
 Donate | Join the Team | Issues Website development by Amit Dey

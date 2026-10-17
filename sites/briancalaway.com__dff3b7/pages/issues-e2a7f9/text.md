@@ -1,4 +1,4 @@
-ES Home Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Brian's Full Platform Where Brian Stands.
+ES Home Voter Guide Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Brian's Full Platform Where Brian Stands.
 Seven issues.
 Concrete positions.
 No vague promises — just what Brian will fight for in Phoenix.
@@ -21,6 +21,6 @@ Brian will fight for the safety nets and policies that give Arizonans the stabil
 Brian can't do this without you.
 Every volunteer hour and every dollar gets us closer to November.
 Get Involved Join the Campaign P.O.
-Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Voter Guide Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
 All rights reserved.
 Privacy Policy Terms

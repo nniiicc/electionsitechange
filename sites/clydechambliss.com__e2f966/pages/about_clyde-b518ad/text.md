@@ -25,4 +25,4 @@ Additionally, Senator Chambliss is Senate Majority Floor Leader.
 Alabama Senate District 30 includes all or parts of Autauga, Chilton, Coosa, Elmore, and Tallapoosa Counties.
 Get Updates Thank you for signing up!
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "RSVP: https://secure.actblue.com/donate/postprimary42",
  "final_url": "https://www.nickrowe.org/events/tvftqm7p?s=20260915T174100Z",
- "fingerprint": "ba6ed059ab5ce36ac84a9f9e294046ab7af900c5",
+ "fingerprint": "ac1b7d88ac4814b3b7c66f04df4dab212e7c13a3",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Nick Rowe P",
+ "rendered": false,
  "title": "Post Primary Fundraiser",
  "years_mentioned": [
   "2026"

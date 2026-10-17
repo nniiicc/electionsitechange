@@ -50,4 +50,4 @@ Even if I don't win, it gives me the thought that what I m doing isn't bad, and 
 If she won the Crystal Apple, it would mean her students have worked hard.
 The recognition would be more for her students than herself.
 I challenge them every day and they challenge me even more, so I really feel like winning would be for them, Burnfin said.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

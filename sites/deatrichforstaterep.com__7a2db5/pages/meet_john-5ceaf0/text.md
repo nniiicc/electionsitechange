@@ -11,4 +11,4 @@ The last 6 years I’ve been in the position of Mayor of Palo Alto.
 Having been in many positions over the last couple decades has afforded me a plethora of experience in public service.
 In my personal life, I have enjoyed racing cars at various dirt tracks throughout Pennsylvania, I’ve raced quads in D6, and continue to be involved in racing either myself, helping my son, or friends.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

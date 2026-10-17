@@ -1,9 +1,10 @@
 {
  "description": "Supported Bills",
  "final_url": "https://www.byronpelton.com/bills",
- "fingerprint": "3596950efab8e6abcdb6e6fdfe6bd52eaa4ee76a",
+ "fingerprint": "add5f67853fc3277562ba7e0e5b0dd1fed602e36",
  "format": 3,
  "paid_for_by": "Paid for by Pelton for State Senate",
+ "rendered": false,
  "title": "Bills",
  "years_mentioned": []
 }

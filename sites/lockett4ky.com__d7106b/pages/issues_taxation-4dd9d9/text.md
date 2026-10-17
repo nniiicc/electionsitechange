@@ -9,4 +9,4 @@ Raising taxes on hard-working Kentuckians is not the answer.
 When elected, I will introduce a bill that eliminates the taxing authorities of non-elected boards and positions.
 A good example of this is a library board.
 These positions are not elected throughout the state, but they have taxing authority and can raise taxes with no accountability.
-This practice must end. « Previous: Pro-Gun Ownership Next: Education » Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu
+This practice must end. « Previous: Pro-Gun Ownership Next: Education » Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com Home About Matt News On the Issues Endorsements Contact Close Menu

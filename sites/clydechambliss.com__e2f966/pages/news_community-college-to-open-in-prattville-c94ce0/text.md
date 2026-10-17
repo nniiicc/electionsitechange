@@ -18,4 +18,4 @@ Burrow said the new location at 2078 Fairview Ave. will allow them to teach dayt
 Chambliss went a step further, calling the location a “temporary site.” “Hopefully it will grow really fast, which I think it will, and then we’ll begin another process of where that permanent facility is going to be,” he said.
 You can see more about the school at www.cacc.edu.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

@@ -6,11 +6,11 @@ Need A Ride To The Polls?
 Campaign News Delaware News Press Kit Volunteers Needed!
 Contact Mark Delaware News Used for the like, share, comment, and reaction icons Dover City Council has unanimously approved an 18-month moratorium on new data center development, the first such moratorium in Delaware.
 The pause will give city officials time to study the potential effects of large data centers on electricity demand, infrastructure, the environment and residents, and determine how they should be regulated going forward.
-#delaware #datacenter ...
+#Delaware #datacenter ...
 See More See Less In a first for Delaware, Dover passes moratorium on data center development spotlightdelaware.org The Dover City Council on Monday unanimously approved a moratorium on the construction of data centers in Delaware’s capital city. .
 Wednesday October 14th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email The University of Delaware can't afford to host political debates this year, but they can afford this.
 After all, you're the one who's ultimately paying for it. www.nbcphiladelphia.com/news/local/justice-dept-files-lawsuit-against-university-of-del-over-tuit...
-#immigration #delaware #elections ...
+#immigration #Delaware #elections ...
 See More See Less Justice Dept. files lawsuit against University of Del. over tuition policy www.nbcphiladelphia.com The Department of Justice has expanded its legal challenge to in-state tuition for undocumented students, now targeting the University of Delaware.
 Monday October 5th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Rep.
 Mike Smith has announced that, if re-elected this November, his next term will be his last as he prepares to take the helm of the Delaware State Chamber of Commerce.
@@ -19,7 +19,7 @@ See More See Less Rep.
 Mike Smith won't seek reelection in 2028; to lead state chamber of commerce spotlightdelaware.org Rep.
 Mike Smith (R-Pike Creek), who was announced Wednesday as the next president of the Delaware State Chamber of Commerce, told Spotlight Delaware he would not run for reelection in 2028.
 Thursday October 1st, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email A lot of key races in the First Statte will be decided on Tuesday.
-#delaware #politics #elections ...
+#Delaware #politics #elections ...
 See More See Less Delaware election 2026: Primary voter guides, key races and more whyy.org Primary elections will take place Tuesday, Sept.
 15.
 Here’s what you should know beforehand, from voter deadlines to who’s on the ballot.
@@ -28,14 +28,14 @@ See More See Less This content isn't available right now When this happens, it's
 Saturday July 18th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email It now takes one of the highest incomes in America just to live a middle-class life in Delaware.
 Our families are paying more than ever for housing, insurance, utilities, and taxes.
 Government keeps getting bigger, but life here keeps getting more expensive.
-#delaware #politicsnews #elections #AffordableLiving ...
+#Delaware #politicsnews #elections #AffordableLiving ...
 See More See Less How much do you need to earn to be middle class in Delaware? www.delawareonline.com How much income does it take to be considered middle class in Delaware?
 Here's where the First State ranks nationwide.
 Wednesday July 15th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email The vilification of America's founders because of slavery is a completely decontextualized reading of history.
 Of course it was a moral blight, but it was the cultural norm of the time - and not just here, but worldwide, and had been since the dawn of time.
 The founders weren't perfect, but what they created was a HUGE LEAP FORWARD from everything that had come before - and what they created made possible the moral and social progress that we reap the benefit of today.
 And they did so at great personal peril; that's why we honor them as heroes.
-#delaware #politicsnews #history #AmericanHistory ...
+#Delaware #politicsnews #history #AmericanHistory ...
 See More See Less 250 years since his ride, how does Delaware reckon with Caesar Rodney’s legacy? spotlightdelaware.org As time ticks until the Caesar Rodney statue's return to Delaware, leaders are unsure how to reckon with his legacy as a slaveholder.
 Tuesday July 7th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email This type of legislation makes a farce out of the entire concept of voting.
 Voters should choose their politicians - NOT the other way around.

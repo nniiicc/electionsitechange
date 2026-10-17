@@ -3,7 +3,7 @@ The Mamdani administration plans to move forward with a 160-bed men’s shelter 
 No community vote.
 No public process.
 No input from the people who live here.
-10837 / # SIGNATURE GOAL No Homeless Shelter on Arthur Kill Road!
+10838 / # SIGNATURE GOAL No Homeless Shelter on Arthur Kill Road!
 Sign the petition to tell the Mamdani Administration no! https://bit.ly/ar-no-shelter SHARE THIS PETITION Stop the Proposed Homeless Shelter on Arthur Kill Road The Mamdani administration plans to move forward with a 160-bed men’s shelter at 4934 Arthur Kill Road in Richmond Valley, despite serious concerns from local residents and businesses.
 This location lacks adequate public transportation and is surrounded by small businesses that depend on a safe and stable environment for employees and customers.
 A facility of this scale in this area raises legitimate concerns about community impact and access to the services shelter residents would need to succeed.

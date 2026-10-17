@@ -6,4 +6,4 @@ Residents attending the forum will also have the opportunity to submit questions
 Seating is first come, first serve.
 Please arrive early to grab a seat and submit your questions.
 More info › Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

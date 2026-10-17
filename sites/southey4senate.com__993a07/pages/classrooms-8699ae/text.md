@@ -10,13 +10,13 @@ Dale’s Classroom Wishlist Ms.
 Thompson’s Classroom Wishlist Ms.
 Lowery Randleman High School Grades 9-12 Link to Ms.
 Lowery’s Classroom Page Mrs.
-Chinnici Sellars Gunn Education Center Grades PreK-2 Link to Mrs.
-Chinnici’s Classroom Page Mrs.
 Moser Trindale Elementary School Grades 3-5 Link to Mrs.Moser’s Classroom Page Mrs.
 McMahan Turrentine Middle School Grades 6-8 Link to Mrs.
 McMahan’s Classroom Page Erase School Lunch Debt ABSS Grade s K-12 Link to Help Make ABSS Lunch Debt Free Mr.
 Moore Turrentine Middle School 8th Grade Link to Mr.
 Moore’s Classroom Page Mrs.
+Chinnici Sellars Gunn Education Center Grades PreK-2 Fully Funded!
+Mrs.
 Herenda Broadview Middle School Grades 6-8 Fully Funded!
 Mrs.
 Fulp Trindale Elementary Grades 3-5 Fully Funded!

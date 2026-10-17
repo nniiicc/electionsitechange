@@ -1,4 +1,7 @@
-Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute Michelle Root: “We need to make Ashley Hinson our next Senator.
+Meet Ashley Issues Endorse Volunteer Fighting for Iowa Tour Contribute National Federation of Independent Business Endorses Ashley Hinson for U.S.
+Senate by Addie Lavis | Oct 16, 2026 | Press Release Marion, IA – This week, the National Federation of Independent Business endorsed Ashley Hinson for U.S.
+Senate for her work delivering tax relief for small businesses, eliminating taxes on tips and overtime for Iowa workers, and promoting pro-growth economic...
+Michelle Root: “We need to make Ashley Hinson our next Senator.
 We cannot have Josh Turek” by Addie Lavis | Oct 15, 2026 | Press Release Council Bluffs, IA – Last night, Michelle Root told the story of her late daughter, Sarah, and endorsed Ashley Hinson for U.S.
 Senate during Hinson’s statewide Fighting for Iowa bus tour in Council Bluffs.
 Michelle’s daughter, Sarah Root, was tragically killed in 2016...
@@ -10,7 +13,5 @@ Both sides throwing out attacks.
 Both...
 Hinson Dominates Second Debate by Addie Lavis | Oct 13, 2026 | Press Release Des Moines, IA – Tonight, Hinson Campaign Communications Director Billy Fuerst issued the following statement after Ashley Hinson won the WHO TV debate against Liberal Josh Turek:“The contrast between common sense and crazy was on full display tonight, and it’s clear...
 Hinson to Launch “Fighting for Iowa” Statewide Bus Tour by Addie Lavis | Oct 13, 2026 | Press Release Mason City, IA – Tomorrow, Ashley Hinson will launch her “Fighting for Iowa” statewide bus tour with supporters in Mason City.
-Over the next three weeks, she will traverse the state sharing her commonsense message and warning Iowans that Josh Turek is too liberal for...
-Hinson Releases New Ad: “Explain” by Addie Lavis | Oct 13, 2026 | Press Release Marion, IA – Ashley Hinson launched a new ad for the general election today, “Explain.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “Josh Turek is lying and he knows it.
-Of course I voted to release the Epstein Files... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Over the next three weeks, she will traverse the state sharing her commonsense message and warning Iowans that Josh Turek is too liberal for... « Older Entries Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
 Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

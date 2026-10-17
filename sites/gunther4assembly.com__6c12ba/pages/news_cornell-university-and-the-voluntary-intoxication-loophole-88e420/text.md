@@ -9,4 +9,4 @@ Survivors, advocates, and lawmakers from both parties have pushed for this for y
 I'm telling you because I think it matters more that something this important gets done than who gets credit for doing it, or who's standing in the way.
 If elected, I will support closing this loophole - and I won't stay quiet if leadership, in either party, keeps a bill like this from getting a vote it deserves.
 Survivors in this state have waited long enough.
-Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

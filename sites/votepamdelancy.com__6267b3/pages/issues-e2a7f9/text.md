@@ -20,4 +20,4 @@ We can enforce the law and eliminate chaos in the systems but mandating accounta
 I support comprehensive reform that strengthens border security, repair the asylum process, and create a clear, legal pathway for work and maintain family unity.
 We can and must build an immigration system that is secure, lawful, and rooted in American values.
 Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

@@ -25,4 +25,4 @@ Your vote.
 Our future.
 Join the Team Donate Today! © Desirée Klaus for State Representative, District 128.
 All rights reserved.
-Paid for by the Desirée Klaus Campaign. div class="logo" style="text-align:center;" Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Paid for by the Desirée Klaus Campaign. div class="logo" style="text-align:center;" Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

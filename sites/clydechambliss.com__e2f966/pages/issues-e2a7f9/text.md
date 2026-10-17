@@ -29,4 +29,4 @@ With these new funds, Clyde was vocally supportive of legislation increasing pay
 Clyde was also essential in passing legislation to extend provisional teaching certificates, so that talented educators can continue their tenure in our state’s schools without obstructive government red tape.
 Get Updates Thank you for signing up!
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

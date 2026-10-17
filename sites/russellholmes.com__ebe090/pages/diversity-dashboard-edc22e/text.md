@@ -4,22 +4,19 @@ Holmes | 0 Comment | 12:02 pm Categories: News “Today, Massachusetts moves for
 “It is imperative that the public see the diversity of the hiring, promotions, and terminations of the state’s workforce segmented by department and at every level of government.
 Aggregating the workforce and comparing the workforce to the state’s population can mask poor hiring and retention performance by department managers.
 Today’s update to the dashboard lives beyond this administration and will ensure that masking is prevented for years to come.” Share this Post navigation PREVIOUS Previous post: ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters NEXT Next post: Minority leaders put legislative agenda behind thoughts and prayers Related Post ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
+Holmes’s wire cutters NEXT Next post: Minority leaders put legislative agenda behind thoughts and prayers Related Post Rep.
+Holmes rolls to re-election in 6th Suffolk district Rep.
+Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:36 am State Rep.
-Russell Holmes (left) and former Boston Police Capt.
-Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
+Holmes | 0 Comment | 11:37 am State Rep.
+Russell Holmes was re-elected on Tuesday as he dominated his Democratic challenger Haris Hassan Hardaway, winning 75 percent of the vote in the Sixth Suffolk district, which includes Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+January 25, 2024 January 25, 2024 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More In closed-door budget process, Mass.
-House leaders scored big In closed-door budget process, Mass.
-House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 5:44 am <p>By Samantha J.
-Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More “I Work for You.” You're my neighbors.
+One measure, pushed by state Representative Russell Holmes, Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

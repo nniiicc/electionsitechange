@@ -8,4 +8,4 @@ S. is facing the COVID-19 pandemic.
 Who knew that the opportunity would be given at such a critical time but, she has been a voice advocating for reducing community healthcare disparities.
 She's been an avid supporter of the African American Wellness Walk and volunteer of the Red Cross community blood drives.
 This is another avenue that Judge Jamison can continue to be involved in her community.
-Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu
+Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

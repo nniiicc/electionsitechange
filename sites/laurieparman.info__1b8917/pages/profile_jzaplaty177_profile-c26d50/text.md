@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In Judi Zapp Admin Follow More actions Profile Profile Join date: Jul 15, 2025 Posts (7) Oct 15, 2026 ∙ 1 min McHenry County Voter Guide: Key Dates for November 2026 Public Service Announcement 1 0 Jul 9, 2026 ∙ 2 min There are Moments in Life that Quietly Change the Way you See Everything...
+DONATE Log In Judi Zapp Admin Follow More actions Profile Profile Join date: Jul 15, 2025 Posts (7) Oct 15, 2026 ∙ 1 min McHenry County Voter Guide: Key Dates for November 2026 Public Service Announcement 3 0 Jul 9, 2026 ∙ 2 min There are Moments in Life that Quietly Change the Way you See Everything...
 For me, those moments come when I think about the generations yet to come.
 I think about my grandchildren.
 I think about the thousands of students I was privileged to teach over the past 30 years.

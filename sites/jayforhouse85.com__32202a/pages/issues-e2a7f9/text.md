@@ -26,4 +26,4 @@ Our state’s schools, healthcare systems, and public services should prioritize
 Law & Order / Public Safety Safe communities are the foundation of a strong state.
 I support law enforcement, tougher penalties for repeat offenders, and policies that ensure our laws are actually enforced, not selectively ignored.
 That includes cracking down on illegal activity tied to open-border policies and ensuring South Carolina is not a sanctuary for lawlessness.
-Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu
+Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

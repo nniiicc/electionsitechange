@@ -5,7 +5,7 @@ Home Meet Jack Campaign Take Action!
 Make a Plan to Vote!
 Donate!
 PRESS RELEASE Perry Wins Democratic Party Endorsement PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday PRESS RELEASE Perry Campaign Releases Energy Platform THE SOUTHINGTON OUTSIDER Perry Announces Run for State Senate PRESS RELEASE Prospect’s Savings Fell by Half.
-An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record May 21 2026 PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday Jack Perry 153 Moore Hill Drive Southington, CT, 06489 May 21, 2026 Ned Lamont Governor 210 Capitol Avenue Hartford, CT 06106 Dear Governor Lamont, A working mom in Wolcott pays hundreds of dollars a year in gas tax alone.
+An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record Statement Perry Responds to Sampson Campaign Funding Claims May 21 2026 PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday Jack Perry 153 Moore Hill Drive Southington, CT, 06489 May 21, 2026 Ned Lamont Governor 210 Capitol Avenue Hartford, CT 06106 Dear Governor Lamont, A working mom in Wolcott pays hundreds of dollars a year in gas tax alone.
 War rages across the globe, and gas prices soar here at home, all while both parties in Washington fail to deliver an economy where working-class people can get by.
 Connecticut families need you to take action, Governor.
 That starts with a gas tax holiday.

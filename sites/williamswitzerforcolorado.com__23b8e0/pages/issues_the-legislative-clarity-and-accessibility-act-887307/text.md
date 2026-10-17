@@ -34,4 +34,4 @@ This Act is the first step in modernizing and bringing true public accountabilit
 The people of Colorado are demanding this.
 The elected leaders will tell you they support this measure, but like so many of you I am tired of no one bringing this forward.
 On day one I will advocate for this change and deliver a win for my fellow Coloradans, not the political class.
-Next: The Restoring Fiscal Responsibility Act » Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Next: The Restoring Fiscal Responsibility Act » Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

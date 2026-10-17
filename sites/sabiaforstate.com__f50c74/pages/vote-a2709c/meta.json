@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.sabiaforstate.com/vote",
- "fingerprint": "5277a8555b88449d203f0fa97f5ef3d05aac0a53",
+ "fingerprint": "34597fdd42750e96602ab091a41fda7458b00d3f",
  "format": 3,
  "paid_for_by": "Paid For By The Friends Of Joe Sabia Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

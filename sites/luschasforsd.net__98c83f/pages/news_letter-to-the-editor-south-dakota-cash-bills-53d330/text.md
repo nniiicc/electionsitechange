@@ -28,4 +28,4 @@ The aftermath of hurricane Helene in North Carolina serves as a reminder that ca
 Cash ensures privacy and freedom in our financial transactions.
 Ultimately, transactions that can be digitally tracked can also be digitally controlled.
 Cash is legal tender in this country and we should be able to use it.
-Susan Luschas Manuel Luschas Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Susan Luschas Manuel Luschas Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

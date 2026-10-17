@@ -8,4 +8,4 @@ States with the largest job losses include Ohio.
 In addition, when the number of people uninsured rises, private insurance premiums go up.
 We have already seen the beginning of these rising costs. « Previous: Education Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

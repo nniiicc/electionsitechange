@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.voteforkellygarrett.com/yard-sign",
- "fingerprint": "b5a9c1f1925c155bf52a0f54024676c86495c23d",
+ "fingerprint": "9849fc0b37d33d8f109df895bb199cc9732f6a5b",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

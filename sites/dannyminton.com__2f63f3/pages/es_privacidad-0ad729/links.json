@@ -32,12 +32,20 @@
 "href": "https://www.dannyfortexas.com/es/"
 },
 {
+"text": "Mi Centro de anuncios",
+"href": "https://myadcenter.google.com/"
+},
+{
 "text": "Mi Historia",
 "href": "https://www.dannyfortexas.com/es/mi-historia/"
 },
 {
 "text": "Política de Privacidad",
 "href": "https://www.dannyfortexas.com/es/privacidad/"
+},
+{
+"text": "Preferencias de anuncios",
+"href": "https://www.facebook.com/ads/preferences"
 },
 {
 "text": "Preguntas",
@@ -86,10 +94,6 @@
 {
 "text": "district6@dannyfortexas.com",
 "href": "mailto:district6@dannyfortexas.com"
-},
-{
-"text": "página para darse de baja de la Network Advertising Initiative",
-"href": "https://optout.networkadvertising.org/"
 },
 {
 "text": "¿Distrito 6?",

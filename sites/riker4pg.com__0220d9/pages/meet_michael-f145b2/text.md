@@ -20,4 +20,4 @@ In 2024 I also ran for the Prince George's County Council as a member At-Large.
 I would welcome the chance to serve you in the Maryland House of Delegates for District 23. with COMMON SENSE and NO NEW TAXES or FEES, and more repeals. votes.
 Thank you for your support.
 Michael W.
-Riker Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com - Political Campaign Websites Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu
+Riker Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu

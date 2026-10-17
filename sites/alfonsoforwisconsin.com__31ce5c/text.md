@@ -5,10 +5,15 @@ Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
 Privacy Policy ➔ Δ For Liberty For Opportunity For a Brighter Future Michael Alfonso will fight for the people of Wisconsin’s 7th District, protect our way of life, and always put America First.
 He’ll never back down to the Radical Left and will always uphold the values that built our state and nation — faith, community, and hard work.
-Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress #ago Join me and @TPAction this Saturday in Antigo! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 19 Shares: 1 Comments: 0 0 Comments Comment on Facebook Alfonso for Congress #ago Thank you to the Great Lakes Timber Association for the tour and meeting! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 41 Shares: 2 Comments: 0 0 Comments Comment on Facebook Alfonso for Congress #ago I was honored to be joined by the Honorable Doug Collins to talk about the issues impacting the Wisconsin men and women who bravely served our country🇺🇸 ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 85 Shares: 4 Comments: 7 7 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
+Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress #ago Faith, family, and hard work are lifelong values in the Northwoods.
+Those are the values I grew up with, the values that built Northern Wisconsin, and the values I'll defend in Washington every single day. 🇺🇸 ...
+See More See Less Alfonso touts faith, family and hard work www.antigojournal.com If elected, he will be the youngest member of Congress View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 15 Shares: 2 Comments: 2 2 Comments Comment on Facebook Alfonso for Congress #ago 😬😬 Hollywood liberal Jane Fonda endorsed my Democrat opponent, Fred Clark.
+The not-so-secret truth?
+Fred wants to force Wisconsinites into electric cars.
+He also called for Line 5, a key energy pipeline that heats homes and keeps energy costs down, to be shut down. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes wow angry 18 Shares: 0 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress #ago Great day to be from Wisconsin.
+Go Brewers! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 46 Shares: 0 Comments: 2 2 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
 One game in, and she’s already our little good luck charm.
 Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 Twitter feed image.
 Twitter feed image.

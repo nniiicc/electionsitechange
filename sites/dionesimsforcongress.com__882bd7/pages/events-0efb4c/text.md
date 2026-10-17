@@ -2,7 +2,7 @@ Meet Dione Issues Key Moments Opal's Legacy Endorsements Volunteer Media Is This
 Get Involved Donate Now Breaking News Former Vice President Kamala D.
 Harris Endorses Dione Sims for Congress Read the official announcement Campaign Events Join us at an event near you Freedom Events Join the Movement Join us at town halls, rallies, canvasses, and community gatherings across Texas.
 Find an event near you and help build freedom.
-Happening Now Tomorrow DFW Town Hall — Affordability with Vikki Goodwin and Guests 4:00 PM - 5:30 PM CDT Westminster Presbyterian Church, 1330 S Fielder Rd., Arlington, TX 76013 Join Lt.
+Happening Now #ago DFW Town Hall — Affordability with Vikki Goodwin and Guests 4:00 PM - 5:30 PM CDT Westminster Presbyterian Church, 1330 S Fielder Rd., Arlington, TX 76013 Join Lt.
 Governor nominee Vikki Goodwin and guests at the DFW Town Hall for a conversation about affordability.
 Saturday, October 17, 2026, from 4:00 to 5:30 p.m. at Westminster Presbyterian Church in Arlington.
 Information and RSVP: https://goodwin4texas.com/events More Info Directions Calendar Past Events (39) Arlington NAACP Candidate Forum — Federal and State Candidates Oct 14, 2026 - 7:00 PM - 9:00 PM CDT Science and Engineering Innovation and Research Building, University of Texas at Arlington (UTA) Real Talk: The Candidates Speak!

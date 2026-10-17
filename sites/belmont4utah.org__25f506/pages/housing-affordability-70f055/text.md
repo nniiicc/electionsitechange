@@ -1,4 +1,4 @@
-top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE We need to address Utah's housing crisis Home prices went up nearly 25% in recent years and they keep climbing.
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact VOLUNTEER ENDORSE We need to address Utah's housing crisis Home prices went up nearly 25% in recent years and they keep climbing.
 Rent is far too expensive, Utah has the 8th most expensive rent in the country.
 Statewide, 3 in 10 low-income people are homeless or pay more than half their income for rent.
 Owning a home is one of the best ways for families to gain financial security, but first-time home buyers are being priced out of the market.

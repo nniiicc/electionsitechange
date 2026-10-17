@@ -161,4 +161,4 @@ Small Business Giving huge tax breaks and incentives to big businesses whose CEO
 This goes back to money and corruption in politics.
 Does your state representative take money from utilities and corporations and then vote on the bills that help those companies make more money?
 The incumbent, Mark Willis, does.
-Meet Lynn Issues Volunteer Events Contribute Yard Signs Contact Voter Information Privacy Policy Committee to Elect Lynn Ramirez LynnRamirez4SC Powered by CampaignPartner.com - Political Campaign Websites Meet Lynn Contribute Issues Volunteer Events Yard Signs Contact Voter Information Privacy Policy Close Menu
+Meet Lynn Issues Volunteer Events Contribute Yard Signs Contact Voter Information Privacy Policy Committee to Elect Lynn Ramirez LynnRamirez4SC Powered by CampaignPartner.com Meet Lynn Contribute Issues Volunteer Events Yard Signs Contact Voter Information Privacy Policy Close Menu

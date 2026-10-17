@@ -3,4 +3,4 @@ Well versed in the importance of civic engagement and women in politics/leadersh
 She revealed her motivation for running and supporting others who run when she said, "growing up in segregation prepared me for this journey.
 I understand being marginalized.
 Being a judge allows me the opportunity to use the law to level the playing field to give access to justice and an opportunity to be heard".
-Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu
+Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

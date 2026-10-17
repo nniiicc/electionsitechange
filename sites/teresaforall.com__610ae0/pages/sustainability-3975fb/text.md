@@ -13,4 +13,4 @@ We have an obligation to invest in renewable energy resources like wind and sola
 This was a historic amount of funding for compensation.
 I also secured investigations into US Forest Service policies that allowed the control burn to happen under dangerous conditions that ultimately turned some of our most beautiful land into a 340,000 acre burn scar.
 I’m working with the USFS to update their policies so that a tragedy like this never happens again.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

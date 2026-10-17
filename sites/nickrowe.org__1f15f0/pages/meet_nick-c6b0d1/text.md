@@ -8,4 +8,4 @@ His commitment to service didn’t end with the military—he’s continued to l
 Nick graduated from the US Air Force Academy with a Bachelor of Science in Computer Engineering and holds a Master of Business Administration.
 With a strong background in leadership, education, and service, he’s ready to fight for the values and priorities that matter most to Michigan families.
 Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

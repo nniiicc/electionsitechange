@@ -8,7 +8,11 @@ Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart T
 Q&A.
 Light bites will be served.
 Cash bar.
-R.S.V.P to michelle@blockforgovernor.com East Bay Chamber Gubernatorial Forum Admission is free and open to the public.
+R.S.V.P to michelle@blockforgovernor.com Conversation with Ken at George's of Galilee You watched the debates!
+Ask Ken your questions.
+Cash Bar.
+Light Bites.
+East Bay Chamber Gubernatorial Forum Admission is free and open to the public.
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.

@@ -14,4 +14,4 @@ I fully support Commissioner Byron Pelton for Colorado State Senate District 1.
 He is passionate about Ag and he is the voice we need for rural Colorado.
 Donald Schneider Sedgwick County Commissioner Click here to add your endorsement Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

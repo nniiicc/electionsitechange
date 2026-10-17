@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Get Involved Get Involved, Make a Difference, Right Here, Right Now Are you passionate about shaping the future of our state?
+Skip to content Home About Issues Press Get Involved DONATE Get Involved Get Involved, Make a Difference, Right Here, Right Now Are you passionate about shaping the future of our state?
 Do you believe in the power of democracy and want to be actively involved in the political process?
 If so, we invite you to join our dedicated team and become a vital part of Rory’s campaign!
 Why Volunteer?

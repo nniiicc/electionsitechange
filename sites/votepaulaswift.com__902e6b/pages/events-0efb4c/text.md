@@ -1,8 +1,4 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Santa Ana Edna Park 2140 W.
-Edna Dr.
-Santa Ana, CA 92706 Join Team Swift for a day of canvassing to get the vote out for Dr.
-Swift!
-RSVP Team Swift Canvass in Garden Grove Eastgate Park 12001 Mark St.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Garden Grove Eastgate Park 12001 Mark St.
 Garden Grove, CA 92845 Join Team Swift for a day of canvassing to get the vote out for Dr.
 Swift!
 RSVP Team Swift Canvass - Garden Grove Woodbury Park 13800 Rosita Pl.

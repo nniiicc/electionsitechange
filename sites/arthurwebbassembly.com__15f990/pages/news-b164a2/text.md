@@ -43,5 +43,5 @@ The Night Market is in the Floor & Decor parking lot across from DVC on first an
 Park in the DVC lot until mid-November.
 You will find food, craft sales, some non-profits, and me.
 October 16 is my last scheduled booth.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

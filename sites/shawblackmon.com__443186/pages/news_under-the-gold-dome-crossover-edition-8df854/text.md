@@ -49,5 +49,5 @@ With Crossover Day now behind us, the House of Representatives will shift its fo
 We will also be tracking the progress of House legislation as it makes its way through the legislative process in the Senate to ensure final passage of our House bills.
 Please stay tuned for additional updates and do not hesitate to call my office should you require assistance.
 As always, thank you for allowing me to serve as your representative.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

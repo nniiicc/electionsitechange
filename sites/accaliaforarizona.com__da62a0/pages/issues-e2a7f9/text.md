@@ -45,4 +45,4 @@ These are no longer distant future problems — they are affecting public health
 We need practical, long-term planning that protects our ability to live, work, and grow sustainably in the desert.
 Sustainability is not just about the environment — it is about whether future generations will still be able to afford to live here, raise families here, and rely on the resources and infrastructure our communities depend on.
 Read More VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

@@ -24,4 +24,4 @@ Consent isn't required to submit this form.
 Up to 1 msg/day; message and data rates may apply.
 Reply STOP to opt out, HELP for help.
 Opt-in information will not be sold or shared.
-I have read and agree to the Privacy Policy: https://www.mcgillforindiana.com/privacy-policy Submit Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+I have read and agree to the Privacy Policy: https://www.mcgillforindiana.com/privacy-policy Submit Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

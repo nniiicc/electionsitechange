@@ -12,5 +12,5 @@ Join Rev.
 Russell Antonio Goodwin, Sr. on his mission to build a stronger Milwaukee, Brown Deer, and Wauwatosa and create lasting change for all.
 Together, we can move forward toward a brighter tomorrow.
 Watch My interview with Spectrum Here: https://spectrumnews1.com/wi/milwaukee/in-focus/2026/02/12/russell-goodwin--in-focus--black-history-month Home Meet Russell Issues GOODWIN RECKLESS DRIVING PLAN Volunteer Events Photos Yard Signs Contact 2026 Rep.
-Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Russell Issues 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com Home Meet Russell Issues 2026 Rep.
 Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Volunteer News Yard Signs Events Contact Close Menu

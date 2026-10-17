@@ -14,4 +14,4 @@ It also establishes a dedicated section in Indiana Code for child sexual abuse m
 To learn more about these and other new laws passed during the 2026 legislative session, visit iga.in.gov.
 State Rep.
 Becky Cash (R-Zionsville) represents House District 25, which includes portions of Boone and Hendricks counties.
-Voter Information Endorsements FAQ Contact HD25 map Privacy Policy Paid for by Friends of Becky Cash Powered by CampaignPartner.com - Political Campaign Websites Home About Becky Contact Issues Donate FAQ Endorsements Volunteer News HD25 map Voter Information Close Menu
+Voter Information Endorsements FAQ Contact HD25 map Privacy Policy Paid for by Friends of Becky Cash Powered by CampaignPartner.com Home About Becky Contact Issues Donate FAQ Endorsements Volunteer News HD25 map Voter Information Close Menu

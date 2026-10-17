@@ -6,4 +6,4 @@ Experienced Banker.
 ENDORSEMENTS Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Election Day!
 November 3, 2026 Voter Info Contact Daviess County Democratic Party Paid for by Campaign Fund of Laurie C.
-Campbell Powered by CampaignPartner.com - Political Websites Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu
+Campbell Powered by CampaignPartner.com Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu

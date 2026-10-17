@@ -36,4 +36,4 @@ Tyson.
 About the North Carolina Free Enterprise Foundation: The NCFEF is a nonpartisan research organization that analyzes the intersection of politics and business in North Carolina.
 Its legislative rankings highlight lawmakers’ records on policies impacting the state’s economic environment.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Committee to Elect Steve Tyson Powered by CampaignPartner.com - Political Campaign Websites Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu
+Committee to Elect Steve Tyson Powered by CampaignPartner.com Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu

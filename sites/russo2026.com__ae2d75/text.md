@@ -51,9 +51,9 @@ It means making sure success strengthens Florida.
 View the Florida 9.9 Plan → STAY CONNECTED Join the People’s Party Movement.
 Share your contact information and interests so the campaign can keep you connected to opportunities to participate.
 Please enable JavaScript in your browser to complete this form.
-Interest Layout Name Name * First Last Email * Phone Interest * --- Select Choice --- Campaign Updates Volunteer Events Ambassador Program Checkboxes * I agree to receive campaign email updates.
+Name * First Last Email * Phone Interest * --- Select Choice --- Campaign Updates Volunteer Events Ambassador Program Checkboxes * I agree to receive campaign email updates.
 Message frequency varies.
-Checkboxes * I also agree to receive SMS updates at the mobile number provided.
+Checkboxes Checkboxes Interest Checkboxes * I also agree to receive SMS updates at the mobile number provided.
 Message and data rates may apply.
 Reply STOP to opt out.
 Join The Movement → THERE IS A PLACE FOR YOU IN THIS MOVEMENT This Is Our Florida.

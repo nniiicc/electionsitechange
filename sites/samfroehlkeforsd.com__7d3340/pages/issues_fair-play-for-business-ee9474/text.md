@@ -7,4 +7,4 @@ If they want to claim the right to do whatever they want on their own land, then
 Eminent domain should never be used for private gain.
 And I must add another exception here.
 As the market seems to be growing out of control, we cannot allow ourselves to get carried away in it.
-As such, I must oppose any data center construction, as well as the electric infrastructure it demands. « Previous: 2nd Amendment rights Next: Usury laws » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+As such, I must oppose any data center construction, as well as the electric infrastructure it demands. « Previous: 2nd Amendment rights Next: Usury laws » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

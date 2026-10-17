@@ -16,4 +16,4 @@ I'm running to represent everyone.
 Both our US Constitution, and the Florida Constitution begin with the same 3 words: WE THE PEOPLE.
 Isn’t it time that we elected a candidate that remembers that elected officials work for WE THE PEOPLE?
 I am that candidate.
-Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com - Political Websites Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu

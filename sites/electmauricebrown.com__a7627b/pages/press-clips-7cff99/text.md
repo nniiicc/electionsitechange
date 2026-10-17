@@ -2,7 +2,21 @@
 His advocacy for affordable housing, reliable public transportation, economic fairness, and accountable government has generated coverage from Syracuse and Central New York news outlets.
 Brown’s campaign centers on delivering measurable results for working families and strengthening communities across District 129.
 Below is a collection of recent press coverage, interviews, and media mentions highlighting his leadership and policy priorities.
-For Press Inquiries email Maurice@electmauricebrown.com or call 315-313-5717 Where is the Buzz - AOC Tells Syracuse Supporters “It’s Going to Take All of Us Banding Together” as She Closes a Swing Across Buffalo, Ithaca and Syracuse Aimed at Winning Back the House The campaign dubbed it “Project Reactivation”.
+For Press Inquiries email Maurice@electmauricebrown.com or call 315-313-5717 Empire Report - In 2027, Let’s Invest in New York’s Crown Jewel of Environmental Expertise By Senator Rachel May and County Legislator Maurice Brown - October 11, 2026 “In short, the state of New York looks to ESF to provide a workforce and work products we rely on.
+That reliance has a price, and for now, the college is underpaid for its important contributions to the state.
+Currently, the school has about $26 million in contracts with state entities, including DEC, Agriculture and Markets, Transportation, Education, the Canal Corporation, NYSERDA and Parks.
+That seems like a lot, but it is a bargain, because the state compensates ESF at far lower rates than private consulting firms would charge.
+And it doesn’t account at all for uncompensated labor: if one of us asks ESF faculty to weigh in on legislation, they usually say yes.
+A consulting firm would bill that work at full cost without batting an eyelash.
+ESF absorbs the difference because of its commitment to public service.
+We believe the state should put a higher value on that service.” Read the Guest Opinion on Empire Report The NewsHouse - Thousands protest Trump's Syracuse visit in Clinton Square Local officials, including Onondaga County Legislator Maurice Brown, a candidate for the state Assembly, attended the event, along with state Sen.
+Rachel May.
+Brown ended the event by urging attendees to “stand up and fight back” for democracy.
+“The way we fight back, we use our wallets, we use our presence, we use our vote,” Brown said.
+“We’ve got a lot of fighting to do, so let’s get to work.” By Melanie Jackson - October 9, 2026 Photo by Ikia Walker Read The NewsHouse Maurice Brown honored as a Citizen Action Everyday Hero “Last night we came together to celebrate Our Everyday Heroes!
+We’re grateful to have had a full room of members, organizers, community leaders, and friends celebrating six incredible people who are putting people power into action in communities across New York.
+We were honored to recognize Assemblymember Grace Lee, Assemblymember Jessica González-Rojas, Onondaga County Legislator Mo Brown, Marco “August” Rey-Llanes of the Southern Tier, Antonia Francois of NYC, and Arran Thomas of Central New York.
+Their leadership is a reminder of what’s possible when ordinary people come together to create extraordinary changes here” View the post by Citizen Action of New York Where is the Buzz - AOC Tells Syracuse Supporters “It’s Going to Take All of Us Banding Together” as She Closes a Swing Across Buffalo, Ithaca and Syracuse Aimed at Winning Back the House The campaign dubbed it “Project Reactivation”.
 It will last for five weeks and will consist of a mailer from Owens, phone banking, and two weeks of canvassing before election day, Central Current reported.
 Ocasio-Cortez called upon people to elect progressive representatives again and again because they should “build it, and build it, and build it, until the dam breaks.” There were several politicians among the audience, including state Sen.
 Rachel May, Onondaga County Legislature Chair Nicole Watts, Common Councilor Hanah Ehrenreich, City Auditor Alex Marion, and Assembly candidate Maurice Brown.
@@ -12,11 +26,7 @@ They included Maurice “Mo” Brown , a democratic socialist who upset a 28-yea
 “I believe that housing, healthcare, and education are human rights,” Brown said.
 “Right now, those rights are under attack, and I’m glad that you all are standing up and fighting back.” The event was held at a church that months before stood up for two immigrant parishioners, Adrian Ramirez and Jose Criollo , who were both detained by U.S.
 Immigration and Customs Enforcement agents.
-By Rylee Kirk - September 28th 2026 Read the Full Article on Syracusedotcom Syracuse vigil calls for release of father held in federal immigration detention Onondaga County Legislator Maurice Brown, who represents the 15th District, said the issue affects more than those currently in detention.
-“Just because they aren’t detaining me or people who talk like me, doesn’t mean I’m not under attack.
-We’re in this together...
-I’m not free until Carlos is free,” Brown said.
-By Isabel Dougherty September 13, 2026 Read Central Current Politico - The rise of Democratic socialist in local politics The ballot included Bill Magnarelli, the incumbent who has held office for nearly 30 years, and Maurice “Mo” Brown, a current Onondaga County legislator and DSA candidate.
+By Rylee Kirk - September 28th 2026 Read the Full Article on Syracusedotcom Politico - The rise of Democratic socialist in local politics The ballot included Bill Magnarelli, the incumbent who has held office for nearly 30 years, and Maurice “Mo” Brown, a current Onondaga County legislator and DSA candidate.
 Brown won the primary by 104 votes .
 Until this year no one had run against Magnarelli in the primaries.
 By Cameron Bunger September 10, 2026 Read NewsHouse The Daily Orange - Syracuse city officials to hold off on closing East Adams Street section Onondaga County Legislator and Democratic nominee for state assembly Mo Brown urged the common council to seek public input in its decision.

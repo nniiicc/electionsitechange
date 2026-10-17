@@ -11,8 +11,9 @@ He believes in protecting the American dream and securing our borders to combat 
 Dan remains committed to passing common-sense changes and protecting the freedoms of all Americans, always prioritizing families over special interests.
 Learn More About Dan Cox DONATE TO DAN COX FOR GOVERNOR When you donate to Dan Cox’s campaign, you’re investing directly in a vision for a safer, stronger, more accountable Maryland. $50 $100 $250 $500 $1000 $6000 Events Dan Cox September 1, 2026 Maryland Disabilities Forum October 22 @ 11:00 am - 11:30 pm Please register here: https://events.mdworks.com/CandidateforGovernorsForum#/ Dan Cox September 30, 2026 Town Hall With the African Diaspora Community Free RSVP Now!
 October 21 @ 5:00 pm - 6:30 pm Dan Cox October 1, 2026 Come Join The Party!
-Election Night Victory Party: Towson, MD November 3 @ 8:00 pm - November 4 @ 1:00 am Dan Cox October 1, 2026 Dinner With Dan Cox: Howard County October 16 @ 6:30 pm - 8:30 pm Hunan Manor, 7091 Deepage Rd Columbia , Maryland 21045 + Google Map Dan Cox October 14, 2026 Data Center Town Hall: Charles County Free RSVP Now!
-October 27 @ 6:00 pm - 8:00 pm DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR News & Update May 6, 2026 Opened your electric bill yet?
+Election Night Victory Party: Towson, MD November 3 @ 8:00 pm - November 4 @ 1:00 am Dan Cox October 14, 2026 Data Center Town Hall: Charles County Free RSVP Now!
+October 27 @ 6:00 pm - 8:00 pm Dan Cox October 14, 2026 Meet & Greet With Dan Cox: Anne Arundel Free RSVP Now!
+October 24 @ 12:30 pm - 2:00 pm DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR DAN COX FOR GOVERNOR News & Update May 6, 2026 Opened your electric bill yet?
 April 22, 2026 Wes Moore has a $4 billion problem April 9, 2026 35 years.
 Two trials.
 One mission.

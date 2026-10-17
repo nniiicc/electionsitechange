@@ -43,4 +43,4 @@ My name is Cleophus Dulaney.
 I’m asking for your confidence, your conversation, and your vote for Congress, so that together, we can write the next chapter of the American story—from right here in central Ohio.
 Thank you, God bless you, and God bless the United States of America.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Photos Events Contact Privacy Policy Committee to Elect Cleophus Dulaney Powered by CampaignPartner.com - Political Campaign Websites Meet Cleophus Issues News Volunteer Contribute Home Voter Information Endorsements Yard Signs Photos Events Contact Privacy Policy Close Menu
+Voter Information Endorsements Yard Signs Photos Events Contact Privacy Policy Committee to Elect Cleophus Dulaney Powered by CampaignPartner.com Meet Cleophus Issues News Volunteer Contribute Home Voter Information Endorsements Yard Signs Photos Events Contact Privacy Policy Close Menu

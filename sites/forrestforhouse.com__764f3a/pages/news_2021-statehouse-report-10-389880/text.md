@@ -20,4 +20,4 @@ This week, the Governor proclaimed Wednesday to be STEM Education Day.
 Strong STEM education will help develop a more competitive and skilled workforce of tomorrow.
 This effort was spearheaded by Republican Caucus member and STEM advocate Rep.
 Sylleste Davis.
-Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

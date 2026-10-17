@@ -7,4 +7,4 @@ Parents deserve straightforward information about curriculum, materials, and sch
 For families who choose to educate at home, Jonathan is committed to protecting homeschooling freedom .
 Hawaiʻi’s regulations can place unnecessary burdens on responsible parents, and he supports keeping home education flexible, family‑directed, and free from overreach.
 Jonathan’s position is simple: Hawaiʻi should trust parents, not sideline them.
-Families deserve respect, clarity, and the freedom to guide their children’s learning. « Previous: Help Hawaii Thrive Next: Public Safety » Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Families deserve respect, clarity, and the freedom to guide their children’s learning. « Previous: Help Hawaii Thrive Next: Public Safety » Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -19,4 +19,4 @@ Representative Sue Rieke Smith retired from the Tigard-Tualatin School District 
 Residing in King City, Oregon with Jeff, she continues to support her community through volunteer service and humanitarian work.
 An avid knitter and quilter, she creates and donates handcrafted items for health kits that serve refugees worldwide.
 Vote Sue Rieke Smith for HD26.
-Share Your Voice: sue@votesueriekesmith.com | Follow Our Journey: @sueriekesmithforhd26
+Paid for the Committee to Elect Sue Rieke Smith

@@ -16,6 +16,13 @@ Vocational and Ag-Tech Support: Streamlining funding for local FFA (Future Farme
 Thank you to the Glennville Chamber of Commerce, the parade coordinators, Tattnall County law enforcement, and every volunteer who made the 50th festival a massive success.
 The sweet onion is our pride, but the people are our strength!
 If you would like to support Micah’s campaign directly as he travels across District 157, please consider making a contribution below.
+THE FIELD REPORT • AGRICULTURE & TIMBER Straight Talk on Georgia Farm Policy & Rural Property Taxes Read our weekly dispatches tracking agricultural legislation, timber tax protections, and local economic development across Appling, Evans, Jeff Davis, and Tattnall.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Get Farm Updates Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 Dispatch Gallery Event Highlights About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • Stewardship Over Complacency • Key Commitments for Our Agricultural Heritage: Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

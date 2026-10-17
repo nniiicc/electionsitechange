@@ -17,5 +17,5 @@ Thank you for your continued trust.
 Together, we are building a Georgia where families can thrive, homeowners are protected, and more of your money stays where it belongs—with you.
 As always, we continue working to pursue simple, smart and effective government that best serves you and your families.
 Please do not hesitate to reach out should you need assistance or have any questions.
-In service, Shaw Blackmon View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+In service, Shaw Blackmon View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

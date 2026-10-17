@@ -19,7 +19,36 @@ Thank you!
 Andrew Love John Deaton for U.S.
 Senate Campaign Political Director andrew@johndeatonforsenate.com Oops, there was an error sending your message.
 Please try again later.
-Watch Watch Watch Watch Watch Watch Watch Watch Watch LATEST NEWS John Deaton Puts People Over Politics in Debate Against Sen.
+Watch Watch Watch Watch Watch Watch Watch Watch Watch LATEST NEWS John Deaton Condemns Ed Markey's Failure to Declare Iran a Greater Threat to U.S.
+Than Israel By Mark Steffan • October 16, 2026 FOR IMMEDIATE RELEASE October 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Markey Dodged on Dan Rea's 'Nightside' Thursday BOLTON, MA -- Massachusetts U.S.
+Senate candidate John Deaton condemned Senator Ed Markey's failure to state unequivocally that Iran is a greater threat to the United States than Israel.
+Markey dodged on Thursday night, instead declaring Iran a "threat" to affordability after a six-second pause live on-air.
+"Every Jewish resident in Massachusetts should know where Senator Markey places the value of their safety, and that's lower than the cost of getting himself reelected," said Deaton .
+"Massachusetts has been at the center of an alarming rise in antisemitic hate crimes, and still Senator Markey goes beyond the pale by insinuating that the Jewish nation of Israel is no less dangerous to the United States than Iran." Transcript of Markey's response (11:54 at iHeart podcasts ): REA: "I'm going to ask you the question that [Michigan Democratic U.S.
+Senate candidate] El-Sayed was asked, and he ducked: What's a bigger threat to the U.S., Israel or Iran?" MARKEY: "Well...
+I think that...
+Israel under the control of Bibi Netanyahu is obviously a problem, and I don't believe we should be sending any more military aid to Netanyahu--" REA: "No, I said a threat.
+To me the answer is obvious." MARKEY: "Well...
+Iran, as it sits right now, is not a military threat to us.
+It is a threat to our economy.
+The threat that Iran is posing to us is that Iran controls the Straight of Hormuz and Trump had not learned the lessons of history, that the Straight of Hormuz is where the price of energy is set, and the price of energy determines everything in the United states.
+That's what people are revolting against..." ### WHAT THEY ARE SAYING: Deaton 'Brought the Fire' and 'Made Markey Wince' in U.S.
+Senate Debate By Mark Steffan • October 16, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
+Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
+Ed Markey, stating: "Massachusetts families deserved answers tonight.
+After 53 years in office, Ed Markey still doesn’t have them.
+"I didn't hear a single substantial answer from Senator Markey about how he would deliver results in the next six years when he's failed to deliver those results for more than 50 years already.
+"I spent the debate talking about the real issues driving people out of this state: the highest electricity rates in the continental United States, housing that working families can no longer afford, and a cost of living that keeps getting worse.
+Senator Markey spent it defending a record that has failed to deliver results.
+"He’s had half a century.
+Massachusetts is still unaffordable for too many.
+That’s not progress.
+That’s a career politician who has lost touch with the people he claims to represent.
+"I’m not a career politician.
+I’m a Marine, a trial lawyer, a cancer survivor, and a father who lived paycheck to paycheck.
+I’ve put forward real solutions: including the Clean Hands Act to ban stock and crypto trading by members of Congress and impose a lifetime lobbying ban — because Washington needs accountability, not more of the same.
+"Massachusetts deserves better than 53 years of no results.
+I’m ready to deliver them." ### John Deaton Puts People Over Politics in Debate Against Sen.
 Ed Markey By Mark Steffan • October 13, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
 Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
 Ed Markey, stating: "Massachusetts families deserved answers tonight.
@@ -182,26 +211,7 @@ I'm not asking you to like my party.
 I'm asking you to look past the label Ed Markey wants you to see and judge me on what I've done and what I'll do.
 Put people over politics.
 That's the only test that matters.
-PHOTOS: Deaton Sends Ed Markey a Message at his Maryland Home By Vincent Errichetti • September 30, 2026 FOR IMMEDIATE RELEASE September 30, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com CHEVY CHASE, MD — A mobile billboard truck paid for by John Deaton, candidate for U.S.
-Senate in Massachusetts, arrived in front of Senator Ed Markey's (D-MA) year-round residence in Chevy Chase, Maryland this morning, challenging the 80-year-old incumbent to explain why he unexpectedly backed out of a second debate on Monday.
-The truck, which later spent Wednesday circling the Dirksen Office Building where Markey keeps his official Senate office, carried a message from Deaton and called for Markey to "back out of the U.S.
-Senate" if he can't be bothered to sufficiently defend his record in the general election.
-Markey debated his primary opponent, Congressman Seth Moulton, three times on live TV.
-“Senator Markey takes your vote for granted, which is why he lives outside of Massachusetts and refuses to debate John Deaton – because he knows his pull-string talking points on affordability fall flat,” said Deaton campaign manager Mark Steffen.
-“We’ll be sending him a message straight from John as long as it takes to get him to respect the voters and stop acting like a king.” BACKGROUND: Markey has been challenged to explain his residency going back decades.
-In 2020, the Boston Globe detailed Markey's travel records and his refusal to release a utility bill from his childhood home in Malden where he claims to live. ( Boston Globe , 7/27/20) More recently, Markey appeared out of state stumping for Democratic candidates for Senate. ( Off the Press , 9/17/2026) On Monday, Markey backed out of a planned debate with WCVB, leaving just one debate in Boston and no debates in Western Massachusetts despite offers from multiple stations. ( New Boston Post , 9/29/26) Statement by John Deaton in Response to Mike Minogue Calling for Federal Investigation into Governor Healey's Springfield Courthouse Deal By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 17, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com In two new interviews, John Deaton says he would break up insurance and pharmaceutical companies to bring down costs for consumers.
-BOSTON - Republican U.S.
-Senate candidate John Deaton today contrasted his agenda with Sen.
-Ed Markey's half-century in Washington, saying Massachusetts families need results on health care and immigration, not recycled talking points.
-Deaton said he would work to break up vertically integrated insurers and pharmacy benefit managers, increase competition and transparency, and drive down health-care costs.
-On immigration, he said he would pursue real reform with a workable path forward rather than slogans that go nowhere.
-Deaton reiterated these points on On the Record on WCVB TV-5 and @Issue Sitdown with Matt Prichard on NBC 10 Boston.
-Interviews linked below.
-"Unlike Markey's 50-year record, I'm running on solutions, not slogans," Deaton said.
-"People in this state are paying too much for care and getting too little from Washington.
-That doesn't change because you put a slogan on a sign." "I'll take on the middlemen who inflate prices, open the books, and fight for a system that actually works for patients," Deaton said.
-"And I'll treat immigration like a problem to solve, not a line for a rally.
-Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### 1 (current) 2 3 ...
+1 (current) 2 3 ...
 6 let's shake up washington ﻿ Chip in Today to Retire Ed Markey $50 $100 $250 $500 $1,000 $2,500 OTHER CRYPTO WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.

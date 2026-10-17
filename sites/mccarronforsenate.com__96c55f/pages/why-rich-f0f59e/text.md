@@ -1,4 +1,4 @@
-Home About Why Rich Endorsements Get Involved Contact More Home About Why Rich Endorsements Get Involved Contact DONATE Home About Why Rich Endorsements Get Involved Contact DONATE WHY RICH Our current senator, Rachel May, is out of touch with everyday Central New Yorkers.
+Home About Why Rich Issues Endorsements Contact More Home About Why Rich Issues Endorsements Contact DONATE Home About Why Rich Issues Endorsements Contact DONATE WHY RICH Our current senator, Rachel May, is out of touch with everyday Central New Yorkers.
 The downstate Democrats' priorities are her priorities, and far too often that is how she votes.
 Well, we don't live in Manhattan.
 If you live in the 48th Senate District, you probably like the idea of being able to decide how to heat your home.
@@ -20,4 +20,4 @@ From custodians to cardiologists and from hairdressers to home builders, the lis
 Rich McCarron is a proven leader and a common-sense candidate who understands how real people live.
 Let's send him to the State Senate!
 Copyright © # McCarron for Senate - All Rights Reserved.
-Paid for by McCarron for Senate Home About Why Rich Endorsements Get Involved Contact
+Paid for by McCarron for Senate Home About Why Rich Issues Endorsements Contact

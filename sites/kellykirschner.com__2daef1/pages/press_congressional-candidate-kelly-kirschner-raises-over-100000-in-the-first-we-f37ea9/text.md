@@ -12,7 +12,8 @@ Among the first to endorse: two-time St.
 Petersburg Mayor, Rick Kriseman.
 National Bipartisan Voices Congresswoman Lois Frankel (D) Former US Senator Kent Conrad (D) Former US Congressman Dave Trott (R) Former US Congressman Dan Miller (R) National Leaders Dr.
 Henry David Abraham, Nobel Peace Prize Laureate James Story, Former US Ambassador to Venezuela Douglas McElhaney, Former US Ambassador to Bosnia Kevin McGuire, Former US Ambassador to Namibia Florida Bipartisan Elected Officials Current and Former Pinellas & St.
-Petersburg Elected Officials René Flowers, Pinellas County Commissioner Rick Kriseman, Former St.
+Petersburg Elected Officials Ben Diamond, Former St.
+Petersburg State Representative René Flowers, Pinellas County Commissioner Rick Kriseman, Former St.
 Petersburg Mayor, State Representative Deborah Figgs-Sanders, St.
 Petersburg City Council Member Current and Former Gulfport Elected Officials Jennifer Webb, Gulfport City Council Member, Former State Representative (Pinellas County) Cynthia Wurner, Gulfport City Council Member Marlene Shaw, Gulfport Vice Mayor April Thanos, Former Gulfport City Council Member Current and Former Longboat Key & Manatee Elected Officials Judy Titsworth, Holmes Beach Mayor B.J.
 Bishop, Longboat Key Town Commissioner George Kruse, Manatee County Commissioner Keith Fitzgerald, Former State Representative (Sarasota/Manatee) Current and Former Sarasota Elected Officials Liz Barker, Sarasota County School Board Member Tom Edwards, Sarasota County School Board Member Jennifer Ahearn-Koch, Sarasota City Commissioner Fredd Atkins, Former Sarasota City Commissioner Suzanne Atwell, Former Sarasota City Commissioner Mollie Cardamone, Former Sarasota City Commissioner Ken Shelin, Former Sarasota City Commissioner Terry Turner, Former Sarasota City Commissioner Faith, Civic, Education and Community Leaders Don Eastman, former President, Eckerd College Dr.

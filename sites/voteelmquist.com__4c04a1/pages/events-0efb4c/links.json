@@ -124,6 +124,10 @@
 "href": "https://www.voteelmquist.com/take-action"
 },
 {
+"text": "GOTV Doorknock - 10/18",
+"href": "https://www.voteelmquist.com/events/gotv-doorknock-1018"
+},
+{
 "text": "General Election",
 "href": "https://www.voteelmquist.com/events/general-election"
 },
@@ -141,11 +145,15 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Kari+Rehrauer+in+Coon+Rapids+with+House+Candidates+Kyrstin+Schuette+%26amp%3B+Aisha+Elmquist%21&dates=20261015T220000Z%2F20261016T000000Z"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Kari+Rehrauer+in+Coon+Rapids+with+House+Candidates+Kyrstin+Schuette+%26amp%3B+Aisha+Elmquist%21&dates=20261025T180000Z%2F20261025T210000Z"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Rehrauer+-+9%2F13&dates=20260913T160000Z%2F20260913T180000Z&location=Coon+Rapids%2C+MN"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GOTV+Doorknock+-+10%2F18&dates=20261018T170000Z%2F20261018T230000Z"
 },
 {
 "text": "Google Calendar",
@@ -310,6 +318,10 @@
 {
 "text": "ICS",
 "href": "https://www.voteelmquist.com/events/general-election?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/gotv-doorknock-1018?format=ical"
 },
 {
 "text": "ICS",
@@ -545,6 +557,10 @@
 },
 {
 "text": "RSVP here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeQjrkCxqxDy9Ti6wFMuOVVBMZ_C7pcdijoQ1_9fI6imqXddA/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here.",
 "href": "https://secure.ngpvan.com/DoOYM3MyRU6GHwn9REpkCw2"
 },
 {
@@ -638,6 +654,10 @@
 {
 "text": "View Event →",
 "href": "https://www.voteelmquist.com/events/general-election"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/gotv-doorknock-1018"
 },
 {
 "text": "View Event →",
@@ -786,6 +806,10 @@
 {
 "text": "[no text]",
 "href": "https://www.voteelmquist.com/events/general-election"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/gotv-doorknock-1018"
 },
 {
 "text": "[no text]",

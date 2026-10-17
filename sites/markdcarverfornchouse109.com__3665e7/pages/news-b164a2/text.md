@@ -141,4 +141,4 @@ Follow us on social media at @theNCForum and visit our website at http://www.ncf
 2 Feb Monday, 8:39 AM · 2026 Murder in America I never thought that I would see my government approve the murder of peaceful protestors.
 In Minnesota in the month of January we watched the murders of Renee Nicole Goode and Alex Pretti take place on camera.
 And the ICE Gestapo says it was self defense.
-This corrupt administration needs to stop insulting the intelligence of the American people!🇺🇸 Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+This corrupt administration needs to stop insulting the intelligence of the American people!🇺🇸 Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

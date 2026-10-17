@@ -1,9 +1,10 @@
 {
  "description": "Register to vote. Join our team. Your vote equals my success in winning this election—every vote counts especially Yours.",
  "final_url": "https://www.votepamdelancy.com/vote",
- "fingerprint": "396f99d25885a866453ab8458b8b58173379030d",
+ "fingerprint": "a5983fa592bafcfc42321dc828bfb0a91b55d9af",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Pamela DeLancy for Congress",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

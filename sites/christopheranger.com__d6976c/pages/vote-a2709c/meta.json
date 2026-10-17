@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://christopheranger.com/vote",
- "fingerprint": "a86562319a5b8d4f235d8c587f9dd5550127bd3f",
+ "fingerprint": "06a41db375072ec0f56e0206eb011298829f0fc4",
  "format": 3,
  "paid_for_by": "PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

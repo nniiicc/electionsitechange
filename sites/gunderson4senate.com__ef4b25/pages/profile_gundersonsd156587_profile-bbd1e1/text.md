@@ -13,7 +13,7 @@ Mining has been in our heritage long before statehood.
 The importance of this history to the State’s identity is found in its Motto – “Oro -Y- Plata”, which is Spanish for “Gold and Silver”.
 Montana has a full, rich history of gold mining.
 Gold rushes in the early 1860s helped...
-8 0 Load More ​ Support The Campaign All political campaigns run on Money and Volunteers.
+9 0 Load More ​ Support The Campaign All political campaigns run on Money and Volunteers.
 Asking for contributions is one of the hardest parts of a campaign.
 Asking for Volunteers is even more difficult!
 Contributing to my campaign will allow me to send letters and flyers out and with the high costs of printing and postage, every dollar helps!

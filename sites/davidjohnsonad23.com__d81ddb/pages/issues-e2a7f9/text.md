@@ -38,4 +38,4 @@ If there is a breakdown in "curing" that ballot, it be "lost" or miscounted.
 Same-day voting where a person turns in their ballot at the polling center and scans it in them self is the best way to make sure your vote COUNTS!
 Please do not be fooled by career politicians telling you otherwise...
 I will fight for voter integrity and same day voting when I am in Sacramento.
-Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

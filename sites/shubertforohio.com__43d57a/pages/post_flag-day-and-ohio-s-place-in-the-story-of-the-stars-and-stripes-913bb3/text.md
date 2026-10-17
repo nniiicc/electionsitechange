@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts Flag Day and Ohio's Place in the Story of the Stars and Stripes Shubert for Ohio Jun 14 4 min read Every year on June 14, Americans observe Flag Day, a celebration of one of our nation's most enduring symbols: the Stars and Stripes.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts Flag Day and Ohio's Place in the Story of the Stars and Stripes Shubert for Ohio Jun 14 4 min read Every year on June 14, Americans observe Flag Day, a celebration of one of our nation's most enduring symbols: the Stars and Stripes.
 While most people recognize the flag instantly, few know the remarkable history behind it or the important role Ohio has played in its story.
 For residents of Ohio’s 34th House District (Akron, Hudson, Munroe Falls, Silver Lake, Stow, and Tallmadge), the history of the American flag is more than a national story.
 It is part of our local story as well.

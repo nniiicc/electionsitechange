@@ -12,5 +12,5 @@ Speaker Burns also appointed the following study committee members: State Repres
 Representative Shaw Blackmon represents the citizens of District 146, which includes portions of Houston County.
 He was elected to the House of Representatives in 2015 and currently serves as the Chairman of the Ways & Means Committee.
 He also serves on the Governmental Affairs, Insurance, Rules, Small Business Development, Special Rules and Technology and Infrastructure Innovation committees and is an Ex-Officio member of the Appropriations Committee.
-### View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+### View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

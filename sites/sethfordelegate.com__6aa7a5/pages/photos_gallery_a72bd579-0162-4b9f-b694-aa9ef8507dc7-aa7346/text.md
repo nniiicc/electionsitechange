@@ -1,3 +1,3 @@
 Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Ribbon Cutting at the new Senior Activity Center in Lothian I was honored to attend the ribbon cutting at the new senior activity center in Lothian.
 This is a much needed resource for our seniors in SoCo!
-Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

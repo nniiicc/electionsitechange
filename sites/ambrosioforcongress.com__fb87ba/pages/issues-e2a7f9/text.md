@@ -8,4 +8,4 @@ By focusing on crime prevention and effective policing, we will see gains in pub
 Reclaiming Our Future & Challenging the Establishment Offer a fresh perspective to challenge the status quo and better represent our home of upstate NY.
 This means support for term limits, Voter ID, parental rights in education, and rooting out corruption wherever it exists.
 We need a government we can trust and that represents all of us.
-Ralph Ambrosio for Congress Powered by CampaignPartner.com - Political Websites Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Close Menu
+Ralph Ambrosio for Congress Powered by CampaignPartner.com Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Close Menu

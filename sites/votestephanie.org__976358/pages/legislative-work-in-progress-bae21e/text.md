@@ -36,4 +36,8 @@ Happy Thanksgiving As we enter this season of gratitude, I want to take a moment
 I’m deeply grateful for the trust you place in me to carry our community’s voice to the Capitol and to work every day on the issues that matter most to Utah families.
 This time of year reminds me how blessed we are to live in a state where neighbors look out for one another, where faith and family come first, and where our freedoms — protected by the Constitution — continue to guide us forward.
 From my family to yours, I wish you a joyful and restful Thanksgiving surrounded by the people and traditions you love most.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 9 + 4 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 2 + 12 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

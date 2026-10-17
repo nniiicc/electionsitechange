@@ -11,4 +11,4 @@ We can do better.
 Once elected, I am eager to tackle this never-ending, talked-about issue in St.
 Paul.
 We now need to put talk into action, and fix this long-standing issue!
-Brad Trahan Olmsted County GOP Endorsed Candidate - MN House District 25A Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Brad Trahan Olmsted County GOP Endorsed Candidate - MN House District 25A Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

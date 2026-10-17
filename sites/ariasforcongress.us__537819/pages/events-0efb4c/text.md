@@ -1,8 +1,14 @@
 ARIAS FOR CONGRESS FL-19 · Democrat · Fearless.
 Focused.
 Issues About Events Press Volunteer Donate EN ES HT EN ES HT Upcoming Events Join us on the campaign trail.
-Meet Victor, share your story, and be part of the movement. 📅 New Events Coming Soon We're planning exciting events across Southwest Florida.
-Check back soon — new opportunities to meet Victor and get involved will be posted here shortly.
+Meet Victor, share your story, and be part of the movement.
+#ago 10 A.M.
+ET Online Event Victor Arias Appears Live on 239 LIVE Friday, October 16, 2026 • 10 A.M.
+ET SOUTHWEST FLORIDA — Hear directly from Victor Arias as he campaigns to represent Florida's 19th Congressional District.
+Watch his appearance on 239 LIVE and share the broadcast with your neighbors across Southwest Florida.
+Watch on YouTube Paid for by Victor Arias for Congress.
+FEC ID C00934174.
+Appearance on 239 LIVE does not imply endorsement by 239 LIVE.
 Want Victor at Your Event?
 Invite Victor to speak at your community meeting, town hall, or local organization event.
 Invite Victor Or email us directly at victor@ariasforcongress.us ARIAS FOR CONGRESS FL-19 · Democrat · Fearless.

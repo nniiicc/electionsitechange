@@ -17,4 +17,4 @@ Additional members from the executive branch include: Attorney General Steve Mar
 The Governor’s Study Group on Criminal Justice Policy will convene for the first time Monday, July 22, 2019.
 Executive Order 718 states that the group will be dissolved effective the first day of the Legislature’s 2020 Regular Session.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

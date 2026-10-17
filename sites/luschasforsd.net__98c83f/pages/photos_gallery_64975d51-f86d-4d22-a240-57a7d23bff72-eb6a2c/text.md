@@ -23,4 +23,4 @@ Our family's pet chickens.
 We drove our car around with "Thank God for South Dakota" written on the back in 2020 when we first moved here.
 Backpacking the Centennial trail through Custer State Park We are blessed to farm poultry with the Bastian family.
 They created this fun graphic of our flock!
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -8,4 +8,4 @@ Colorado is now #1 in auto thefts.
 Colorado deserves better - we HAVE TO DO BETTER, to make our state safer again.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

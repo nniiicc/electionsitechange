@@ -74,4 +74,4 @@ We cannot keep asking families to sacrifice while government wastes money, hides
 Hoosiers deserve a government that is transparent, responsible, and accountable for every dollar it spends.
 Every time government puts political insiders and special interests ahead of the people it serves, Hoosiers pay the price.
 I will fight to open the books, expose waste, recover taxpayer dollars, strengthen ethics laws, and give citizens a greater voice in the decisions that shape our state.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

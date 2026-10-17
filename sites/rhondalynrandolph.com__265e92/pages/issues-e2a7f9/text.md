@@ -8,4 +8,4 @@ The KY State Legislature controls the costs, accepting federal funds, and invest
 She will work harder for you, for families, and for everyone. 🤝 People Over Politics Rhondalyn believes the Kentucky Legislature must spend less time on division and party conflict and more time delivering results for taxpayers and citizens.
 Years of public service and community develop make her a collaborator who wants more for Owensboro .
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

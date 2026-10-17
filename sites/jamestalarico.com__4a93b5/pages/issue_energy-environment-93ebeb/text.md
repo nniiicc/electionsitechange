@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Energy & Environment A Reliable Grid and Lower Energy Bills Will the Texas grid hold this winter?
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Energy & Environment A Reliable Grid and Lower Energy Bills Will the Texas grid hold this winter?
 James Talarico will weatherproof the grid, lower electric bills, and keep Texas the world’s energy leader with an all-of-the-above strategy that protects good-paying oil and gas jobs and grows wind, solar, and geothermal.
 Texas is the state that put a man on the moon.
 We’re the state that pioneered ranching, computers, and modern energy.

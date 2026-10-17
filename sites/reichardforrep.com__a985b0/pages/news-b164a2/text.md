@@ -6,4 +6,4 @@ Louis Public Radio about using a flawed process to enact change.
 By running for Congress I am pushing to do the same on a much grander scale.
 “Using a flawed process is better than nothing… How do you expect things to change if you don’t put the wheels in motion in order to get to a new place?” My days using my First Amendment right to protest hardly have any records, because it was never about me, rather it was an effort to raise up marginalized voices going unheard.
 This is one rare occasion in 2017 where I spoke up alongside the people.
-Read more Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com - Political Campaign Websites Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu

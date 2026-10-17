@@ -25,7 +25,28 @@ For those who have been run down by Driscoll's bus, who have been crushed by the
 I offer my services.
 I can listen.
 I can help untangle the lies by pointing you to the simplicity of the faith once for all delivered to the saints.
-You can find me at sampowellministries.com To the younger generations This is a note for the younger generations.
+You can find me at sampowellministries.com The difference between me and my opponent In the last few forums, I’ve heard Sen.
+Jasinski speak about why he is running for office.
+His answer both times: “I am running to preserve our way of life.” In the context, he is speaking about “socialism” taking over.
+I don’t think he knows what socialism is, and it has been the insult given to every single initiative for progress since 1900.
+I believe that he subscribes to the “anything I don’t like is socialism” school of thought.
+But that’s another topic.
+I’ve heard it all.
+But what really concerns me is his desire to preserve “our way of life.” This is easy to say if you are a privileged white man.
+I am a privileged white man as well.
+But I know what it is to have a loved one denied healthcare because of insurance issues.
+In this history of our country, “preserving our way of life” was the reason the south rebelled against the North.
+In the history of our country, women have had to fight hard for their rights.
+And now women cannot find justice for sexual assault.
+Preserving “our way of life” is what the frat boys say, not their victims Preserving “our way of life” is what abusive husbands say, not their wives, Preserving “our way of life” is what the robber barons say, not the workers fighting to stay alive with subsistent wages Preserving “our way of life” is what those born into privilege and standing say, not the ones in the margins.
+Preserving “our way of life” is what a man says: who has never been arrested for the color of his skin, who has never been afraid to walk in a parking lot, who has never wondered where his next meal was coming from, who has never had to undergo a sexual assault examination and try to navigate a system that is designed to protect the rapist. who has never had to escape a violent man with vulnerable children who has never suffered a health crisis and has been denied healthcare.
+It is the statement of a man who thinks that the biggest problem facing southern Minnesota today is roads and tag fees.
+Yes, we can address roads, and we should.
+But my concern is different than “preserving our way of life”.
+I am far more interested in opening up that privilege to everyone – Somali, Mexican, Colombian, Venezuelan, Haitian, men, women, chronic illness, or healthy – Life, liberty and the pursuit of happiness isn’t something to “preserve” for the entitled few.
+It is the right of every American and must be fought for continually.
+Sam Powell for Senate District 19.
+See less Author Sam Powell Posted on October 16, 2026 Categories Uncategorized Tags liberty , privilege , progress Leave a comment on The difference between me and my opponent To the younger generations This is a note for the younger generations.
 We’ve had 250 years of entitled white guys (with one notable exception) running things.
 We are now at the pinnacle (or nadir, whichever you prefer).
 In those 250 years, 230 of them have been war.
@@ -332,45 +353,7 @@ It is part of the strategy.
 Bankrupt the systems, then swoop in and buy them out at pennies on the dollar.
 Family farms, health clinics, what will be next?
 It isn’t too late to stop this.
-Author Sam Powell Posted on August 14, 2026 August 14, 2026 Categories My Platform Tags health , healthcare , life , mental-health , writing Leave a comment on Health care concerns Don’t look away It’s exhausting.
-And I know that most just want to look away.
-“I just can’t deal with politics” But this isn’t politics.
-It’s the soul of a nation that is rotting from the inside.
-It’s the soul of a rotting corpse making its last hurrah.
-We turned the other way when Emmett Till was tortured and killed.
-We turned the other way at the lynchings and vicious cruelty of slavery.
-We turned the other way when husbands locked their wives in asylums for disagreeing with them I want to say, “It’s just politics.” But that seems like the privilege of an older white male.
-They aren’t coming after me yet.
-I’m not LGBTQ.
-I’m not Mexican or Native.
-I’m not brown-skinned.
-I’m not a child, not Palestinian, not POC, not a woman.
-It’s only privilege that gives me the choice to look away.
-But something in me can’t.
-My enemies tell me that it is just because I crave attention.
-But I think I can do without that attention.
-My body just wants to sit in my library and read.
-I didn’t want to flee my home and my church.
-But something in me can’t keep quiet.
-I just can’t watch human beings suffer unseen and unheard.
-I can’t say, “No one notices you.
-Neither do I notice you.
-Be warmed and fed.” It seems to me that we are experiencing the last hurrah of a horrible past.
-We are experiencing the full-on hatred of weak white men whose power is challenged, whose world-view proved as flimsy as a spider’s web, falling apart while feasting on the blood of prey.
-Eventually it collapses.
-It is exposed.
-It falls to ruin.
-The mouth of the wicked is never satisfied.
-47 will never be satisfied.
-He will continue to consume and destroy, demanding more and more accolades and statues seeking to fill the emptiness of desperate narcissism.
-It never gets enough, and eventually the web collapses.
-It seems to me this is what is happening.
-The spirit that drove the puritans to kill and banish the outsiders, the spirit that bought and sold humans, the spirit that whipped the maidens and the field-workers for fun, the spirit that tortured and killed the uppity ones, the spirit that locked the wives away and raped the boys and girls – that spirit is giving its last dying, murderous gasp.
-Don’t look away now.
-The web is collapsing.
-Your vote this year is absolutely crucial.
-We can’t look away.
-Author Sam Powell Posted on July 26, 2026 Categories Uncategorized Leave a comment on Don’t look away Posts pagination Page 1 Page 2 Next page Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Author Sam Powell Posted on August 14, 2026 August 14, 2026 Categories My Platform Tags health , healthcare , life , mental-health , writing Leave a comment on Health care concerns Posts pagination Page 1 Page 2 Next page Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
 Log in now.
 Sam Powell for Senate View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
 Write a Comment...

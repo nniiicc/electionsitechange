@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "http://www.tonyscottforstaterep.com/view-endorsements",
- "fingerprint": "41ec99e3d1614f85cb64b42152f3a4ff8101ce00",
+ "fingerprint": "510bd5e19e3c25e9a368b2f03074eac08e79112e",
  "format": 3,
  "paid_for_by": "Paid for by Tony Scott for State Rep",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": [
   "2026"

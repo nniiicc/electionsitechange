@@ -2,4 +2,4 @@ About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for S
 Mitch persisted and, in 2018], "SB-509 passed the Senate and the House and was signed by the Governor, amending Connecticut General Statute 52-582, Section one to allow the introduction of new evidence...
 We won! " Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

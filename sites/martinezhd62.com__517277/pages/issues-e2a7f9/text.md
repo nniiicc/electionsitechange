@@ -21,4 +21,4 @@ He will fight "right to work" legislation and fight for workers.
 Environment Matthew believes in climate change and believes we need action to prevent any further damage.
 He support renewable energy developments in the district; specifically wind and solar.
 He believes that Colorado should be paving the way for clean, renewable, energy independence for the nation.
-Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

@@ -1,0 +1,8 @@
+0 Skip to Content Meet Simon Issues Press Get Involved Endorsements Donate Donate Open Menu Close Menu Meet Simon Issues Press Get Involved Endorsements Donate Donate Open Menu Close Menu Meet Simon Issues Press Get Involved Endorsements Donate Donate Press Release CD 1 Candidate Jake Johnson and State Senate Candidate Simon Glaser to Attend an Educator Listening Session The campaigns will launch a doorknock with local area educators and community members following the session October 15th, 2026 ROCHESTER, MN. – Senate candidate Simon Glaser (SD24) and Congressional District 1 candidate Jake Johnson – both public school teachers – will attend a listening session hosted by Education Minnesota.
+Afterwards, the campaigns will launch a doorknock with local area educators and community members.
+In addition to hearing directly from Johnson and Glaser, attendees will also hear from American Federation of Teachers President Randi Weingarten and Education Minnesota President Monica Byron .
+As educators, supporting the well-being of students and investing in our public schools is a critical priority for both Johnson and Glaser.
+They are eager to bring their decades of experience in the classroom to the state and federal government.
+Members of the press are invited to attend, and time will be set aside for interviews prior to the coordinated doorknock.
+Return to Press Releases Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

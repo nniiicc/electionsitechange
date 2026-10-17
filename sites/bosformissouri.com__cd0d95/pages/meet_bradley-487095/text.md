@@ -23,4 +23,4 @@ I got into it because I believe we can do better, and I refuse to believe rural 
 I'm a neighbor, a working dad, and an activist who believes in putting community first.
 I'm Bradley Bos, and I'm running to be your voice in Jefferson City.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

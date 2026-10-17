@@ -21,4 +21,4 @@ We get it – once a kid is addicted, it’s the same withdrawal process as with
 It’s incredibly difficult and takes time, strength, determination, and often professional tech-detox camps.
 Frankly, it’s much easier never to let kids have Big Tech in the first place.
 We’re thankful to have freedom in South Dakota –including freedom to think for ourselves and parent our kids as we see fit- even if the community thinks we’re crazy.
-Susan Luschas Manuel Luschas Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Susan Luschas Manuel Luschas Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -36,10 +36,6 @@
 "href": "https://maps.apple.com/place?address=2905+Main+St%2C+East+Troy%2C+WI&name=East+Troy+Brewery"
 },
 {
-"text": "Apple Maps",
-"href": "https://maps.apple.com/place?address=77+N+Walworth+Ave%2C+Williams+Bay%2C+WI&name=Green+Grocer"
-},
-{
 "text": "Call (262) 393-3832",
 "href": "tel:+12623933832"
 },
@@ -94,10 +90,6 @@
 {
 "text": "Google Maps",
 "href": "https://www.google.com/maps/search/?api=1&query=East+Troy+Brewery%2C+2905+Main+St%2C+East+Troy%2C+WI"
-},
-{
-"text": "Google Maps",
-"href": "https://www.google.com/maps/search/?api=1&query=Green+Grocer%2C+77+N+Walworth+Ave%2C+Williams+Bay%2C+WI"
 },
 {
 "text": "Host an Event",

@@ -1,5 +1,8 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources News Rep.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources News San Francisco Venture Capitalist Eric Jones Has Spent Over $10 Million of his Own Money in Attempt to Buy Seat in Congress October 16, 2026 Davis, CA – In his Quarter 3rd Federal Election Commission (FEC) report, Eric Jones revealed he has loaned another $4.7 million of his venture capital fortune to his own Congressional campaign.
+Read more Thompson, Aguiar-Curry, Cottrell to Host Yountville Town Hall October 12, 2026 Yountville, CA – On Tuesday, October 13th at 5:00 pm Rep.
+Mike Thompson, Assembly Majority Leader Cecilia Aguiar-Curry, and Supervisor Anne Cottrell will host a Yountville town hall.
+Read more Rep.
 Thompson to Host Service Academies Information Night October 9, 2026 Napa, CA – On Friday, October 7th at 5:00 pm Rep.
 Mike Thompson will host a Service Academies Information Night.
 Rep.
@@ -54,8 +57,4 @@ Mike Thompson (D-CA-04), Rep.
 Greg Steube (R-FL-17), Rep.
 Jimmy Panetta (D-CA-19), Senator Alex Padilla (D-CA), and Senator Adam Schiff’s (D-CA) Doug LaMalfa Federal Disaster Tax Relief Certainty Act (H.R.
 5366) to ensure wildfire survivors are not taxed on compensation they receive for losses and damages suffered during a federally declared wildfire disaster before January 1, 2027.
-Read more TOMORROW: Thompson to Host UpValley Town Hall August 10, 2026 Angwin, CA – On Tuesday, August 11th at 6pm, Rep.
-Mike Thompson (CA-04) will host a town hall with Supervisor Anne Cottrell to answer questions about federal and local policy.
-Read more TODAY: Thompson to Host Yolo County Senior Town Hall on Social Security and Medicare August 10, 2026 Woodland, CA – On Monday, August 10, 2026, at 10:00am Rep.
-Mike Thompson (CA-04) will host a senior town hall with special guests former Social Security Commissioner Martin O’Malley and Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare (NCPSSM).
 Read more Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

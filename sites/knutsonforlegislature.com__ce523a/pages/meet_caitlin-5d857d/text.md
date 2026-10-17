@@ -23,4 +23,4 @@ They spent the next year building their savings to purchase a home in Hastings.
 During their time they frequented the revitalized downtown, and were supporters of local businesses.
 After Covid, Caitlin and her family moved back to Lincoln to be closer to her parents.
 They reside in District 2, in the same neighborhood she grew up.
-Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com - Political Websites Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

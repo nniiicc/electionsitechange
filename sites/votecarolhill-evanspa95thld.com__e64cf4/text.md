@@ -11,4 +11,4 @@ Her service has brought tangible benefits to the 95th, including improved infras
 Carol Hill-Evans' dedication to her constituents is evident in her legislative priorities and her active engagement with the community, making her a vital advocate for the people of the 95 th Legislative District.
 Re-electing Carol Hill-Evans on Nov.
 3 would allow her to continue the progress she has already made in her efforts to improve the lives of everyone who lives and works in the 95 th .
-Photos Endorsements Events Voter Information Contact Paid for by Supporters for Carol Hill-Evans Powered by CampaignPartner.com - Political Websites Home Carol's Ask On the Issues Contribute Contact Close Menu
+Photos Endorsements Events Voter Information Contact Paid for by Supporters for Carol Hill-Evans Powered by CampaignPartner.com Home Carol's Ask On the Issues Contribute Contact Close Menu

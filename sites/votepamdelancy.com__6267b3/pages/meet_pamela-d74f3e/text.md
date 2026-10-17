@@ -10,4 +10,4 @@ More recently, I have volunteered with Reaping the Harvest Outreach Ministries F
 I sit on District 4 Board of Public Health in Henry County.
 I am also a proud member of Shiloh Baptist Church and American Legion Post 516 .
 Primary Election Day November 3, 2026 at 11:00 PM Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

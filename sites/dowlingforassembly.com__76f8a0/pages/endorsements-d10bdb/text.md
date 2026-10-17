@@ -37,10 +37,21 @@ THAT is refreshing.
 It's the type of candidate you should vote for, in a time where we have a political climate that's built on nothing but attack ads and smoke and mirrors.
 To me, the choice is easy.
 Rachael Dowling gets my vote.
-Service Name This is a Paragraph.
-Click on "Edit Text" or double click on the text box to edit the content and make sure to add any relevant information that you want to share with your visitors.
-People are genuinely interested in learning more about you, so don’t be afraid to share personal anecdotes to create a more friendly quality.
-Service Name This is a Paragraph.
-Click on "Edit Text" or double click on the text box to start editing the content.
+Christine Schultz, Realtor I believe Rachael Dowling is a great fit for this position.
+She is genuine, down-to-earth, and truly involved in our communities.
+She’s out there building relationships, getting to know her neighbors, and making real connections.
+She doesn’t just talk about being part of the community—she lives it every day.
+She is one of us, and I believe that makes a difference!
+Ruth Christensen Rachael is passionate.
+But not just passionate about the things she values most, she's passionate about her community.
+She's a good listener and has a great understanding of all the facts from both sides.
+She's strong, independent, and has a way of coming alongside people to show them that they're valued, that they matter, and that they're cared for.
+Tony Pool, Neenah WI I don’t often endorse political candidates.
+In fact, it takes quite a bit for someone to earn my public support.
+But today, I am proud to endorse Rachael Dowling for State Representative, and I want to explain why.
+I have known Rachael since she first became my county supervisor.
+From the beginning, she has always been approachable, willing to listen, and open to having real conversations with the people she represents.
+One thing I have always appreciated is her commitment to keeping people informed.
+Through her regular video and webinar updates, she helps residents understand what is happening in local government, how decisions affect our communities, and why certain things work the way they do.
 CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

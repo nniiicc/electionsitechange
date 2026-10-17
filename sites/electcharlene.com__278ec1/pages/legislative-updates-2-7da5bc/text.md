@@ -68,4 +68,4 @@ Why it’s problematic: Parents already have a strong voice in education.
 This bill manufactures a culture war narrative while putting vulnerable students and educators at risk.
 SB 13 – Classroom Book Ban Reboots a previously blocked law with a broader definition of “sexually explicit material” to ban more books from Texas schools.
 Why it’s troubling: Under the guise of protecting kids, this law allows political interests to strip classrooms of important literature—especially works by diverse authors—without regard for educational or literary value.
-DONATE Volunteer Contact Legislative Updates Committee to Elect Charlene Ward Johnson Powered by CampaignPartner.com - Political Campaign Websites Meet Charlene DONATE Volunteer Legislative Updates Close Menu
+DONATE Volunteer Contact Legislative Updates Committee to Elect Charlene Ward Johnson Powered by CampaignPartner.com Meet Charlene DONATE Volunteer Legislative Updates Close Menu

@@ -11,4 +11,4 @@ We encourage our users to be aware when they leave our site and to read the priv
 If you have any questions about this Privacy Policy, please contact us.
 NEWS DONATE VOLUNTEER VOTING INFO YARD SIGNS Get Updates Thank you for signing up!
 News League of Women Voters Forum Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

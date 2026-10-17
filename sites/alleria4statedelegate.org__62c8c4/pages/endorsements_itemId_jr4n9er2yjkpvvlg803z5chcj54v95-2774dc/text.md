@@ -4,7 +4,10 @@ Maryland is lucky she chose to call it home.
 When it matters most, Alleria shows up and that is exactly who we need making decisions in Annapolis.
 I am proud to support her campaign for State Delegate." - - Congresswoman April McLain-Delaney “I am proud to endorse Alleria Stanley for the Maryland House of Delegates.
 Alleria is a dedicated leader whose record of service reflects both her deep commitment to public good and her readiness to lead.
-She will fight tirelessly for the people she represents, and I look forward to seeing all she will accomplish in the legislature.” — Sarah McBride, US Representative, Delaware “I am proud to endorse Alleria Stanley for Maryland House of Delegates for District 4.
+She will fight tirelessly for the people she represents, and I look forward to seeing all she will accomplish in the legislature.” — Sarah McBride, US Representative, Delaware “Alleria Stanley embodies the kind of principled, selfless leadership Maryland needs in Annapolis.
+From her honorable service in the U.S.
+Army to her dedicated work on the Frederick County Human Relations Commission, Alleria has spent her life fighting for communities and voices that too often go unheard.
+She understands the real-world issues facing working families and has the collaborative strength and integrity to pass meaningful legislation from day one.” — Speaker Joseline Peña-Melnyk “I am proud to endorse Alleria Stanley for Maryland House of Delegates for District 4.
 Frederick families are being priced out of their own neighborhoods, and Alleria has built a housing platform that meets that reality head on.
 She backs reforming the transfer tax to lower closing costs for first time buyers, and social housing models that use public land to build mixed income communities..
 She backs zoning reform for missing middle housing, statewide Just Cause eviction protection and the elimination of predatory rental fees.

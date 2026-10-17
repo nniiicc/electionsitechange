@@ -11,4 +11,4 @@ I believe we must reduce the influence of corporate special interests and dark m
 Every Michigander deserves an equal voice and confidence that their vote matters.
 That means protecting voting rights, expanding access to the ballot box, defending nonpartisan election administration, and ensuring that election outcomes reflect the will of the people.The Voters Not Politicians designation recognizes my commitment to bringing integrity and honor back to government by building a democracy that works for everyone.
 Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

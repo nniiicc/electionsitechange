@@ -7,4 +7,4 @@ While some of our representatives are listening, many seem to have made their de
 Even many of those who have shown support are only providing half measures.
 Guardrails and protections can very easily become a roadmap for developers to follow.
 Instead of Guardrails, we need to make Wisconsin far less attractive for these kinds of developments.
-We need these developers to look elsewhere and to leave the beauty of Wisconsin alone Endorsements Yard Signs Events Photos Contact Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner.com - Political Campaign Websites Home Meet Christopher Issues Endorsements Contribute Volunteer News Yard Signs Contact Close Menu
+We need these developers to look elsewhere and to leave the beauty of Wisconsin alone Endorsements Yard Signs Events Photos Contact Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner.com Home Meet Christopher Issues Endorsements Contribute Volunteer News Yard Signs Contact Close Menu

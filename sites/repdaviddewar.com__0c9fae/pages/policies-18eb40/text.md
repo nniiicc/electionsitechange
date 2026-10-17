@@ -5,4 +5,4 @@ YES NO HB3489 (2025) Allows the abortifacient “morning after pill” to be dis
 YES NO HB3637 (2025) Allows a person who lost their medical license in another state to provide abortions and transgender hormone therapy in Illinois; allows drugs approved by the World Health Organization but not the FDA.
 YES NO HB3709 (2025) Mandates universities and colleges recommend doctors that prescribe abortion pills; forces pharmacies to dispense them; removes requirement that the university has a referral agreement with a medical facility in the event of complications.
 YES NO HB3751 (2023) Allows a non-citizen to be a police officer.
-YES NO Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu
+YES NO Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

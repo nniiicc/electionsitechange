@@ -1,4 +1,4 @@
-Skip to main content Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Privacy Policy YOUR PRIVACY IS IMPORTANT TO US.
+Skip to main content Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Privacy Policy YOUR PRIVACY IS IMPORTANT TO US.
 WE WILL NOT SELL OR RENT YOUR INFORMATION TO OTHERS.
 Katie Fry Hester for Maryland Senate District 9 has created this privacy policy to explain how we use information that you may provide while visiting this Site and to demonstrate our firm commitment to Internet privacy.
 Katie Fry Hester for Maryland Senate District 9 may modify this policy from time to time so we encourage you to check this page when revisiting this Site.

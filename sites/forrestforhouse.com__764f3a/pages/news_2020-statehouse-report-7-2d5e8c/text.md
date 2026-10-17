@@ -29,4 +29,4 @@ You have until October 1 st to get your REAL ID from the SCDMV.
 I urge you not to wait until the last minute, the DMV is expecting the lines to be longer the closer the deadline gets.
 After the deadline you will need a REAL ID to fly commercially or enter a federal building.
 Learn the requirements on the DMV website .
-It's my honor and privilege to serve in the SC House representing District #39. feel free to contact me if I could ever be of service to you. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+It's my honor and privilege to serve in the SC House representing District #39. feel free to contact me if I could ever be of service to you. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

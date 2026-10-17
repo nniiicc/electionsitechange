@@ -15,4 +15,4 @@ He is a member of the Church of the Madalene, and has taught Government and Hist
 Washington High School in Tulsa for the past 18 years.
 For more information about John Waldron and his campaign please visit www.Waldron4OK.com or on Facebook at www.Facebook.com/Waldron4OK.
 ### John Waldron for Oklahoma 2020.
-Powered by CampaignPartner.com - Political Websites HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu
+Powered by CampaignPartner.com HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu

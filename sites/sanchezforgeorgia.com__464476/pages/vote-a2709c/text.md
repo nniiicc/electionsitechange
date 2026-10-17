@@ -1,6 +1,7 @@
 0 Skip to Content About Issues Press Releases Endorsements Our Work Vote Get Involved Events Meet & Greet Volunteer Get a Yard Sign Donate Open Menu Close Menu Donate About Issues Press Releases Endorsements Our Work Vote Get Involved Events Meet & Greet Volunteer Get a Yard Sign Open Menu Close Menu About Issues Press Releases Endorsements Our Work Vote Folder: Get Involved Back Events Meet & Greet Volunteer Get a Yard Sign Donate Voter Resources Different Ways to Vote in the Upcoming General Election Absentee Mail-In or Dropbox In Georgia, any registered voter may apply for an absentee ballot.
 After the Elections Office has verified your application, an absentee ballot will be mailed to your address.
-Submit the filled-out ballot by mail, drop it off at early voting locations that have dropboxes (this includes the Smyrna Community Center), or hand deliver it to the Cobb County Board of Elections and Registration Office.
+Submit the filled-out ballot by mail, drop it off at early voting locations that have dropboxes , or hand deliver it to the Cobb County Board of Elections and Registration Office.
+For more information on dropbox locations, please go to the Cobb County Advance Voting page .
 Applications for absentee ballots are open NOW until October 23rd!
 Absentee ballots must be received by 7 p.m. on Election Day.
 You can apply for an absentee ballot online here .

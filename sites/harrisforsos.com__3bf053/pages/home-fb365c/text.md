@@ -15,4 +15,4 @@ Big News: Diane Harris won the Republican Nomination for Illinois Secretary of S
 How to Get Involved: • Endorsements: Multiple endorsements received.
 You can view them on our News Page. • Donate • Host a meet-and-greet • Volunteer (walk precincts, make calls, send letters, yard signs) Together, we’re building a faster, fairer future for Illinois!
 Thank you for your continued support.
-Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu
+Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

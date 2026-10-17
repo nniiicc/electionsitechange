@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.waltbrooks.com/vote",
- "fingerprint": "dfc755acffb992a59b562cd2424c7c1554e31288",
+ "fingerprint": "31a92a36f0342f8e7f09d072f3f2a80b49ad13ab",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

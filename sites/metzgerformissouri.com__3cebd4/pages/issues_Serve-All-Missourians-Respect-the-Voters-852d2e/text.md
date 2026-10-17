@@ -9,4 +9,4 @@ What I’ll fight for: Respect the decisions Missourians make at the ballot box.
 Period.
 Government that solves problems instead of starting fights.
 An end to bills designed for cable-news clips instead of actual constituents.
-A representative who answers the phone, knocks doors, and shows up. « Previous: Public Schools That Give Every Kid a Shot Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+A representative who answers the phone, knocks doors, and shows up. « Previous: Public Schools That Give Every Kid a Shot Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

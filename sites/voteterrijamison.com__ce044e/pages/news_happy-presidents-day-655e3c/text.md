@@ -13,4 +13,4 @@ So today, I say thank you to President Washington and President Lincoln which la
 Best wishes to President Biden as he surveys the United States with an eagle eye on what can be in his term in the highest office in the land.
 As citizens, we must place our support and underwrite the plans of President Biden as he guides the country forward.
 We salute you for your service!
-Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu
+Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

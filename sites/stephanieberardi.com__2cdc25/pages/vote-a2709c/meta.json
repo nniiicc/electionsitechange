@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.stephanieberardi.com/vote",
- "fingerprint": "78f2dbec18bb19a49892bb9f8568998f62bf5e11",
+ "fingerprint": "d169d641f89182a75da7b1ee6d1c047dd675403f",
  "format": 3,
  "paid_for_by": "Paid for by Friends of Stephanie Berardi",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

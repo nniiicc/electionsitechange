@@ -1,6 +1,6 @@
-0 Skip to Content Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
+0 Skip to Content Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
 CONTACT Can I vote for David?
 If you live in Wallingford or Middlefield and vote at the following polling locations, you are in the 90th and can vote for David!
 Wallingford: Mary Fritz Yalesville Elementary School (007) Parks and Recreation Department (009) Pond Hill School (001) Wallingford Senior Center (008) Middlefield: Middlefield Community Center (100) Middlefield Community Center (200) Check Your Voter Registration Status Register to Vote There are three ways to vote in Connecticut Your Vote Matters * Your Vote Matters * Your Vote Matters * VOTE BY NO EXCUSE ABSENTEE BALLOT 1) request your absentee ballot online or with your town clerk after August 15 2) Receive and complete your ballot.

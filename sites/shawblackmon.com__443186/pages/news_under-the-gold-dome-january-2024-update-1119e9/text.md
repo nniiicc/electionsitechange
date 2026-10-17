@@ -24,5 +24,5 @@ The pace under the Gold Dome is surely picking up, and next week promises to be 
 As we continue working on the state budget, education improvements and other important policies, please stay tuned for legislative news and announcements.
 We will be working diligently to continue advancing a simple, smart and effective approach to government.
 We hope you will take the opportunity to review updates like this throughout the session and reach out should you have any questions, concerns or feedback. expanded detail here.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "Contact the ShepardForNH campaign, ask a question, request a lawn sign, volunteer, or invite Scott Shepard to an event.",
  "final_url": "https://shepardfornh.com/contact",
- "fingerprint": "29076017e9a3a8b2a48e0cb9e05f89d38831d18b",
+ "fingerprint": "41ed1bf16f181410f3a83340b18a158c78f8cf90",
  "format": 3,
  "paid_for_by": "Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer",
+ "rendered": false,
  "title": "Contact | ShepardForNH",
  "years_mentioned": []
 }

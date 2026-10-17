@@ -1,4 +1,4 @@
-Get Involved Donate Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos Privacy Policy Privacy Policy Revised: July 11, 2025 Thank you for interacting with Leigh Wambsganss Campaign (“we,” “us,” or “our”).
+Get Involved Donate Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos Privacy Policy Privacy Policy Revised: July 11, 2025 Thank you for interacting with Leigh Wambsganss Campaign (“we,” “us,” or “our”).
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about our policy, or our practices regarding your personal information, please contact us at info@www.leighfortexas.com .
 When you visit our website https://www.leighfortexas.com/ and use our services, you trust us with your personal information.

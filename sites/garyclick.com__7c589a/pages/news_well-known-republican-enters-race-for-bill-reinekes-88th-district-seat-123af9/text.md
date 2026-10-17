@@ -32,4 +32,4 @@ He lives in Vickery.
 And he feels “very confident” about his campaign.
 Note: The Hub will continue to follow Pastor Gary Click’s campaign.
 We will also present to our readers others who may in the future announce their candidacy for the 88th House District.
-The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

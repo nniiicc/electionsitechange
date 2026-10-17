@@ -25,10 +25,10 @@ Daily Herald, October 6, 2026 In the news “The biggest fiscal issue we have is
 Read the Daily Herald’s coverage.
 On the Trail Upcoming Events Come meet Rhys across Illinois House District 56 and beyond.
 Details are added as they are confirmed.
-Sep 24 Campaign Event Thursday, September 24.
-D'Agostino, Niles.
-Oct 11 Assyrian American Republicans of Illinois Sunday, October 11, 5:00 PM.
-Urnina Banquets, Skokie.
+Oct 28 Lincoln Day Dinner Wednesday, October 28.
+Palatine.
+Oct 31 Red, White and Blue Brunch Saturday, October 31.
+Park Ridge.
 Join the Team Get Involved District 56 flips when neighbors talk to neighbors.
 Here's how to help.
 Volunteer Knock doors, make calls, host a yard sign, or join us at community events across Des Plaines, Schaumburg, Elk Grove Village, Roselle, and Hoffman Estates.

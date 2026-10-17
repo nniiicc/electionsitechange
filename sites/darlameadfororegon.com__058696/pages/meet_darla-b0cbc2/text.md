@@ -25,4 +25,4 @@ From the Cascade range to the Gorge and out to the beaches, we’re always up fo
 We’re especially thrilled to spot native wildlife like deer, elk, hawks and bald eagles on our adventures.
 As Oregonians, we are incredibly lucky to have so many untouched natural areas to enjoy.
 I believe we live in the most beautiful state in the country and I'm dedicated to protecting our climate and environment from outside corporate influences.
-Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

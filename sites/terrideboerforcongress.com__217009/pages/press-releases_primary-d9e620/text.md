@@ -12,10 +12,4 @@ DeBoer’s campaign quickly gained momentum after she announced her candidacy on
 To date, DeBoer has raised over $640,000, of which over 95% percent was given by donors in Michigan.
 In contrast, incumbent Democrat Hillary Scholten reports nearly 20% of her donors live outside Michigan, mostly in blue states such as California and Illinois who regularly try to buy influence in other states.
 For more information or for interviews with Terri DeBoer, contact Terri DeBoer for Congress at info@TerriDeBoer.com or contact her campaign manager at Jenni@TerriDeBoer.com .
-Terri DeBoer Previous Previous Terri DeBoer Launches 1st Television Ad of the Cycle Please provide your mobile phone to opt-in to Terri DeBoer for Congress campaign alerts, updates and news.
-By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
-Message frequency may vary.
-Msg&Data Rates May Apply.
-Reply STOP to cancel.
-Reply HELP for help.
-Privacy Policy Site design by Micah Plaisier Paid for by Terri DeBoer for Congress
+Terri DeBoer Previous Previous Terri DeBoer Launches 1st Television Ad of the Cycle Site design by Micah Plaisier Paid for by Terri DeBoer for Congress

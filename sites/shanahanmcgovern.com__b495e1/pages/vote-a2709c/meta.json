@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.shanahanmcgovern.com/vote",
- "fingerprint": "9442a961ce970da0060dfef560ed303ab329a703",
+ "fingerprint": "4a702118adf77fda0b8d6c2ec2aad18d126d5bdb",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

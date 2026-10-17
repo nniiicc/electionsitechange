@@ -28,7 +28,7 @@ Answered every topic on the page No responses No responses No responses Montanan
 “Does not endorse candidates for federal office.” Answered in full; yes on all 13 positions Did not respond Answered Answered Montana Free Press 2026 Election Guide.
 Nonprofit newsroom candidate Q&A.
 Answered Answered Answered Answered Ballotpedia Candidate Connection survey, published on each candidate’s page.
-Answered Answered Answered Answered Why I'm with Alani In Montanans' own words Neighbors, veterans, writers, and everyday Montanans, in their own words. " I have been a full throated supporter of Alani Bankhead from the first time I heard her speak.
+Answered Answered Answered Answered Families USA Action Stop the Bleed: “What will you do to hold health care corporations accountable for high costs?” Posted as submitted, “without edits, comment, or endorsement.” Answered Not posted Answered Not posted Why I'm with Alani In Montanans' own words Neighbors, veterans, writers, and everyday Montanans, in their own words. " I have been a full throated supporter of Alani Bankhead from the first time I heard her speak.
 She has handled the attacks against her character with the kind of integrity and humor that I love to see in my candidates.
 She never dodges a question, and never attacks the messenger.
 Russell Rowland Montana author " This November, Montana has a chance to tell itself something true.

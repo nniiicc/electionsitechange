@@ -3,7 +3,7 @@ Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
 Vote Early Early voting is open today across HD-157!
 Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Official Store Every purchase is an investment in our movement.
 When you grab official gear, you're directly funding our fight to lower costs and bring real economic improvement to District 157.
-Shop the Collection Supporters at the Glennville Sweet Onion Parade — Read the story → Funds the Campaign 100% of all proceeds go directly to funding our fight for District 157.
+Shop the Collection Supporters at the Glennville Sweet Onion Parade - Read the story → Funds the Campaign 100% of all proceeds go directly to funding our fight for District 157.
 Quality & Sustainable Made with responsibly sourced cotton and low-impact dyes.
 Direct Shipping Printed and shipped directly to your door securely via Bonfire.
 All Products Apparel Accessories Sort: Featured Price: Low to High Price: High to Low Accessories $29.99 Premium Tote Bag Shop This Look Apparel $28.99 Eco Baseball Cap Shop This Look Apparel $28.99 Printed Umpqua Snapback Cap Shop This Look Apparel $25.00 Classic Unisex Tee Shop This Look Apparel $24.99 Classic Baseball Cap Shop This Look Apparel $24.99 Printed Classic Baseball Cap Shop This Look Apparel $23.95 Youth Unisex Tee Shop This Look 🎁 Not sure which size or style?

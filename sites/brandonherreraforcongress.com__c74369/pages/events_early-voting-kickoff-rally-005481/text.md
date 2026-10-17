@@ -5,7 +5,6 @@ Special guests include Mark Texeira, Dr.
 Edgardo Baez, and more.
 Doors open at 4:00 PM.
 The event runs from 5:00 PM to 6:00 PM.
-Register to attend at brandonherreraforcongress.com/earlyvoting .
-Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
+Register to attend at brandonherreraforcongress.com/earlyvoting/ Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
 Help elect Brandon Herrera to Congress Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
 Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

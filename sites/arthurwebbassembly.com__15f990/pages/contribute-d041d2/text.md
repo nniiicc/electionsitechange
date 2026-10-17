@@ -10,5 +10,5 @@ Submit Contribution Political campaign rules require the name, address, job, emp
 It is OK to say "retired" for both job and employer.
 For reference, this campaign has a limit for individuals of $5900 as set by the State Fair Political Practices Commission (FPPC).
 Limits for other races and types of contributors such as PAC will vary.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

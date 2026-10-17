@@ -39,4 +39,4 @@ The House added an amendment to directly address human trafficking laws by givin
 Last year South Carolina was considered the most improved state in the country in addressing human trafficking laws.
 Fact of the Week: The top 6 states people are leaving to move to South Carolina are North Carolina, Georgia, Florida, New York, California and Maryland.
 Keep up with the SC House GOP Caucus: https://www.facebook.com/SCHouseGOP/ https://twitter.com/schousegop AS always, it's my honor and privilege to serve for you at the Statehouse.
-If I can ever be of assistance to you please reach out to me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+If I can ever be of assistance to you please reach out to me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

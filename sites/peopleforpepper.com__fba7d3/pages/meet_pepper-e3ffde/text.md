@@ -5,4 +5,4 @@ Pepper spent her career working for the State of Indiana supervising and investi
 She knows how government works because she’s spent years holding systems accountable and fighting waste, fraud, and abuse.
 Pepper is running for State Representative to bring common-sense compassion, accountability, and real-world experience to the Statehouse— making Indiana affordable again for working families, seniors, and the next generation.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com - Political Websites Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

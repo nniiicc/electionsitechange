@@ -12,11 +12,14 @@ Route 190 links Suffield to Enfield. ​ There are safe places to walk on those 
 Sidewalks and crossings run through Suffield center, through Windsor Locks center, along parts of 168 and of Route 20 in East Granby, and then they stop.
 Route 187 through East Granby center has none at all.
 Nobody here can walk or cycle from one end of a route to the other on anything but a 45-mile-an-hour road with no shoulder, unless they happen to live on the short stretch already built for it. ​ These are state roads, so where the sidewalk ends is decided in Hartford, not at town hall.
-A vote our towns needed Connecticut's on-demand microtransit pilot serves nine transit districts and seventeen towns.
-In May 2026 Senate Bill 9 extended it with $10.5 million and ordered a report by January 2028 on making it permanent.
-None of our towns is in it.
-Source: Connecticut General Assembly roll calls, Senate Bill 9, 2026 session; Public Act 26-21.
-The full story What the state already has, and is not using here The Vision Zero Council was created in 2021.
+Next door, but not here Connecticut’s microtransit pilot lets people book a shared ride by app or phone for about the price of a bus fare, 85 cents to $4.
+Since 2024 it has given more than 375,000 rides, and six in ten riders don’t have a car.
+Enfield and East Windsor have had it since 2024.
+Suffield, East Granby and Windsor Locks are not in it, and two of our three towns have no bus service at all. ​ The law that created the pilot says it should test service in rural areas without public transportation.
+That describes Suffield and East Granby exactly.
+This year the legislature extended the pilot to a third year and funded it through June 30, 2027.
+The session that opens in January decides whether it continues and where it goes next, and the Department of Transportation reports by January 2028 on making it permanent.
+That is when our towns get added, or get left out again. ​ The full story What the state already has, and is not using here The Vision Zero Council was created in 2021.
 The Department of Transportation has Complete Streets design criteria that require every project to account for people on foot and on bikes, and a Quick Build directive that lets a town test a safer crossing or a narrowed lane before committing to construction.
 What our corridors need is not a first sidewalk but a connected one, and someone who gets the gaps onto the department's list.
 The numbers behind it Statewide, 2025 was a better year on the roads, with 274 deaths against 312 the year before.

@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.nickrowe.org/yard-sign",
- "fingerprint": "7ec2fcfa247f69e614923bbc11f18fc95fc65900",
+ "fingerprint": "3646212d4a3a73bbdc9f4b861817920245726b20",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Nick Rowe P",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

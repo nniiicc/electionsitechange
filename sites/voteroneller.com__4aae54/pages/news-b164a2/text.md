@@ -59,4 +59,4 @@ Read more 2 Jun Thursday, 3:36 PM · 2022 Candidate Questionnaire: Ron Eller, 2n
 Read more 14 Sep Tuesday, 1:49 PM · 2021 Ron Eller Pledges to Support Term Limits on Congress U.S.
 Term Limits (USTL), the leader in the non-partisan national movement to limit terms for elected officials, praises 2022 U.S. house candidate for Mississippi, Ron Eller (district 2), for signing the pledge for an amendment to term limit Congress.
 Eller is the first signer in this race.
-Read more Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

@@ -81,5 +81,5 @@ Sally believes in fully funding public education and sees this as a core functio
 Fostering an educated community is an essential component in creating a healthy environment for families and businesses to thrive.
 Sally supports increasing the number of social workers, school counselors, and school psychologists within schools and throughout districts statewide to intervene when a student displays violent behavior.
 Sally supports capping classroom size at 25 students and giving all teachers a student-free, 30-minute, daily lunch break to improve working conditions and prevent teacher burn-out.
-Sally endorses Sylvia Wright for State Superintendent and looks forward to working with her. www.wright2026sc.com/ Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Sally endorses Sylvia Wright for State Superintendent and looks forward to working with her. www.wright2026sc.com/ Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

@@ -1,4 +1,4 @@
-Capellán Steven St John Para el Congreso English Queremos escucharle ¿Qué podemos hacer?
+Capellán Steven St John Para el Congreso English/Inicio Queremos escucharle ¿Dónde acudir para obtener ayuda?
 Sirviendo a nuestras familias.
 Escuchando a nuestra comunidad.
 Durante casi 10 años he acompañado a familias en el hospital en algunos de los momentos más difíciles de sus vidas.

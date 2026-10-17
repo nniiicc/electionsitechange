@@ -16,4 +16,4 @@ Throughout her career, Stephanie has remained committed to helping people, solvi
 After eight years in state government, Stephanie brings a unique combination of communications, business, environmental, and public-service experience.
 She is ready to put that experience to work helping create thoughtful, practical, and smart legislation for Pennsylvania.
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

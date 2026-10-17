@@ -1,4 +1,4 @@
-Get Involved Donate Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos MOM star icon ADVOCATE star icon LEADER She’s Fearless.
+Get Involved Donate Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos MOM star icon ADVOCATE star icon LEADER She’s Fearless.
 She’s Tough.
 Leigh worked three jobs to put herself through college and was the first in her family to earn a bachelor’s degree.
 She started with nothing, built success through grit and hard work, and she’s never forgotten where she came from.

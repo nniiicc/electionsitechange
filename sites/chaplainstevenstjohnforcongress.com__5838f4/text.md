@@ -17,4 +17,4 @@ I feel compelled, as a chaplain, to do whatever I can.
 That path is in Congress.
 That is where decisions are made that directly affect all of us, especially the people in District 1.
 I have spent a lot of time thinking about what I am going to do, the direction that I am going to take, and, above all, answering the question of "what can be done?" This website is thorough and addresses all of us, no matter our age, our race, our faith, and our culture.
-Get Involved Learn More Protecting Healthcare Lowering Costs Serving Families What your family is facing matters
+Get Involved Learn More Protecting Healthcare Lowering Costs Serving Families What your family is facing with Healthcare matters

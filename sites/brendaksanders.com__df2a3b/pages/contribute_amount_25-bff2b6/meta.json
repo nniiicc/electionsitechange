@@ -1,9 +1,10 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.brendaksanders.com/contribute?amount=25",
- "fingerprint": "7438365d0acdbfb63198f32b3d67af2e63548b73",
+ "fingerprint": "7bcaec75b90c43c7ada4e72b1fbc1fbc550a3f85",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Contribute",
  "years_mentioned": [
   "2000"

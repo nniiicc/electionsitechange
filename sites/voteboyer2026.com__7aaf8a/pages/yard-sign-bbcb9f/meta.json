@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.voteboyer2026.com/yard-sign",
- "fingerprint": "f005004575012fdf41f0e647fabc7771a2e3a8b8",
+ "fingerprint": "1c56163979fa26db2fb6f036a53d2c6445d17c0a",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": [
   "2026"

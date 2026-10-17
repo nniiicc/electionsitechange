@@ -1,4 +1,8 @@
-12 General Election NOV 3 Rudel "Rudi" Hodge, Jr. · 37th Legislature 12 General Election November 3 rd 2026 Rudel "Rudi" Hodge, Jr. · 37th Legislature 12 General Election Nov 3 — Make Your Plan General Election 12 Meet Rudel The Blueprint Shop Volunteer 🇺🇸 English Donate 37TH LEGISLATURE • U.S.
+12 Early Voting Open Now General Election NOV 3 Rudel "Rudi" Hodge, Jr. · 37th Legislature 12 Early Voting Open Now General Election November 3 rd 2026 Rudel "Rudi" Hodge, Jr. · 37th Legislature 12 Early Voting Is OPEN Now.
+Push #12.
+Find Your Site General Election 12 Meet Rudel The Blueprint Shop Volunteer 🇺🇸 English Donate Early Voting Is Open Now Vote Early.
+Push #12.
+37TH LEGISLATURE • U.S.
 VIRGIN ISLANDS Democratic Candidate General Election 12 Building the Virgin Islands We Deserve.
 Rudel "Rudi" Alberto Hodge, Jr. for the 37th Legislature.
 General Election November 3, 2026.
@@ -182,19 +186,20 @@ Sign me up → Host a Meet-and-Greet Open your living room or yard for 10–30 n
 We bring Rudi.
 Sign me up → Take a Lawn Sign Plant Rudi for Senate in your yard or business.
 Every sign is a billboard.
-Sign me up → [ the future won't build itself ] Join The Forge Full Name * Email * Phone I Want To Select your interest Volunteer Donate Host an Event Display a Yard Sign Get Updates Only Join The Forge # Days Until Election 5:07:25 AM St.
+Sign me up → [ the future won't build itself ] Join The Forge Full Name * Email * Phone I Want To Select your interest Volunteer Donate Host an Event Display a Yard Sign Get Updates Only Join The Forge # Days Until Election 5:09:38 AM St.
 Thomas Time [ ctrl+alt+elect ] Rudel "Rudi" Alberto Hodge, Jr.
 Forging a new future for the 37th Legislature of the Virgin Islands.
 Democratic Candidate Quick Links About Rudi The Platform Volunteer The Future VI Connect @electrudi2026 Facebook X / Twitter electrudel@gmail.com Language 🇺🇸 English 🇪🇸 Español 🇭🇹 Kreyòl 🇫🇷 Français Contact the Campaign Your name Your message Send Message Privacy Terms Accessibility Statement Limited Presale · $40 Wear The Movement Shop the Tee VOTE 12 Nov 3 12 · VOTE 12 · KEEP VI HOME · BALLOT #12 · NOV 3 · 12 · 12 · NOV 3 · 12 · VOTE 12 · KEEP VI HOME · BALLOT #12 · NOV 3 · 12 · 12 · NOV 3 · Rudi for Senate · General Election · November 3, 2026 Campaign Finance Disclosure Paid for by the Committee to Elect Rudel Hodge Contributions are not tax-deductible.
 Reported to the Virgin Islands Election System as required by law.
 2026 All rights reserved.
-12 Push #12 Sign Up Donate Merch Flyer Share 12 VOTE 12 · Sign Up To Help Donate Merch Flyer Share Why Vote 12 Tap To Learn Why #12?
-Close Early Voting · Oct 16 to Nov 2 VOTE 12 Vote 12 Early.
+12 Push #12 Vote Early Donate Merch Flyer Share 12 VOTE 12 · Sign Up To Help Donate Merch Flyer Share Why Vote 12 Tap To Learn Why #12?
+Close Early Voting · STT Oct 16 to 31 · STJ Oct 23 to 31 VOTE 12 Vote 12 Early.
 Beat the line.
-Early voting runs October 16 through November 2 ahead of the November 3, 2026 General Election.
-Voters in St.
-Thomas and St.
-John, push #12 for Rudel "Rudi" A.
+St.
+Thomas: Oct 16 to 31, 9 AM to 6 PM, Elections Office, Lockhart Gardens (above Banco Popular).
+St.
+John: Oct 23 to 31, 9 AM to 4 PM, Elections Office, The Market Place Suite II.
+Push #12 for Rudel "Rudi" A.
 Hodge, Jr.
 Find Early Voting Site Check My Registration Add to Calendar See the 3-step voter guide → You must be a registered voter in the U.S.
 Virgin Islands (St.

@@ -1,4 +1,4 @@
-Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es עברית he polski pl 简体中文 zh English en русский ru Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Contacto ★ Tu voz importa Conectémonos ¿Tienes alguna pregunta, idea o quieres compartir lo que más te importa?
+Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es русский ru English en עברית he 简体中文 zh polski pl Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Contacto ★ Tu voz importa Conectémonos ¿Tienes alguna pregunta, idea o quieres compartir lo que más te importa?
 Danica quiere saber de ti.
 Juntos, podemos construir un futuro más sólido para el Distrito 189 de Pensilvania.
 Danica espera con interés su respuesta.

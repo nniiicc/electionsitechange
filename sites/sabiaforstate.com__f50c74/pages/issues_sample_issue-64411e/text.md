@@ -7,4 +7,4 @@ Recognizing the problem immediately, realizing the urgency of the situation, and
 As a plaintiff in a lawsuit against the Borough Council of the Borough of Archbald, I began fighting for you, my community to deter the data center invasion, for strong local rules.
 To view the suit, click here .
 When elected, I'll continue to fight the invasion, to preserve and protect local governance, to ensure these companies pay extra fees, all while standing proudly for a statewide pause until our towns are protected.
-Next: School and Property Tax » Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu
+Next: School and Property Tax » Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

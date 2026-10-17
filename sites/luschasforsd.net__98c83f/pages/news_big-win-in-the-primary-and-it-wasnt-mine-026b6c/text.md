@@ -19,4 +19,4 @@ Yes, I am celebrating my win in the primary.
 I am looking forward to meeting more amazing residents while campaigning for the general election on November 3rd.
 But the real win I am celebrating is that of our Minnehaha County Auditor, Leah Anderson.
 I will be praying big for her to pull through in the general election as well.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -13,9 +13,9 @@ Chris Bishop is a pro-life, pro-2A, pro-safety, pro-education, pro-growth, and p
 For more information about Chris Bishop, please visit his website at CitizensforChrisBishop.com .
 For more information about State Representative Bradley Fritts, visit Fritts4Rep.com .
 ### You Might Also Like Rep.
-Bradley Fritts Announces Campaign to Seek Re-election for House District 74 September 15, 2023 Rep.
+Brad Fritts Wins Bid for Re-Election to Illinois House District 74 November 5, 2024 Rep.
 Fritts Responds to State of the State and Budget Address February 22, 2024 Rep.
-Brad Fritts Wins Bid for Re-Election to Illinois House District 74 November 5, 2024 Young Conservative Voice Fighting for Common Sense Values.
+Bradley Fritts Announces Campaign to Seek Re-election for House District 74 September 15, 2023 Young Conservative Voice Fighting for Common Sense Values.
 Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
 Fritts P.O.
 Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.

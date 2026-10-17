@@ -15,4 +15,4 @@ They have gotten the news media and social media to lie for them, all in an effo
 I want to bring truth and responsibility back to our government.
 I have 7 proposed changes to the law, which will protect the people and hold the government responsible, and enable the United States to regain its status as the leader of the free world.
 I believe this starts with Empathy and Common Sense Solutions.
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

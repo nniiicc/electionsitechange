@@ -28,5 +28,6 @@ During a contentious campaign for auditor, details emerged about lawsuits involv
 The title company claimed Kelley fraudulently transferred funds, evading taxes and hiding millions from creditors.
 The case was ultimately settled.
 Read the article at WashingtonPost.com .
-In the News auditor More For You Endorsements announced by the League of Education Voters Endorsements Stokesbary concerned about auditor’s media silence In the News Washington risks budgeting online sales tax revenue In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News auditor More For You Seattle and King County police endorse Stokesbary (2020) Endorsements Rep.
+Stokesbary votes ‘no’ on House budget In the News The News Tribune profiles House Position 1 race In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

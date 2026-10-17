@@ -43,4 +43,4 @@ On this Term Limits Day, as we celebrate the wisdom of the 22nd Amendment 75 yea
 We helped lead once before.
 Now it's time to lead again.
 Sign the Term Limits Pledge now at www.termlimits.com and show your support.
-Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

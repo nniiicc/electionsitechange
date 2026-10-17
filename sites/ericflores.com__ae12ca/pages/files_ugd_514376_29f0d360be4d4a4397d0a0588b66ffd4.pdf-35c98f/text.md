@@ -1,0 +1,5 @@
+FOR IMMEDIATE RELEASE September 29, 2026 Contact: press@ericflores.com Matthew Brownfield (214) 566-8589 VICENTE GONZALEZ VOTES AGAINST HELPING MIDDLE CLASS FAMILIES, WANTS TAX INCREASES INSTEAD San Benito, TX — As the November 3rd election gets closer, South Texas and Coastal Bend families are being reminded that Democrat Vicente Gonzalez voted against the largest piece of pro-middle-class legislation in American history.
+Gonzalez's no vote proved he was against the following: - Real Wage Increases of $3,900 to $6,900 - Real Take-Home Pay Increases of $7,500-$10,700 - 4 Million Seniors Benefiting from No Tax on Social Security - No Taxes on Tips - No Taxes on Overtime - Protecting 580,000 jobs What kind of congressman votes against tax-free tips, tax-free overtime, and bigger paychecks for the families he's supposed to represent?
+The people of TX-34 deserve better.
+On November 3rd, voters can make that happen by voting for former federal prosecutor and infantry captain Eric Flores.
+### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

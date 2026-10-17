@@ -28,4 +28,4 @@ And maybe they're wrong; maybe this has been the opportunity of a lifetime, one 
 Maybe none of us know what we're talking about, and we shouldn't be speaking against what we're told is progress.
 But that's democracy.
 And that's a hell of a lot more valuable than a data center.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

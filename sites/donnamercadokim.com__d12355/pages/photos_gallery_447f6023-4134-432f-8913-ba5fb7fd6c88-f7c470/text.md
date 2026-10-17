@@ -1,2 +1,2 @@
 Home About Donna Events News Community Bulletin Photo Gallery Bishop Museum Senator Kim visits Bishop Museum's special collections.
-Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu
+Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com Home About Donna Events News Community Bulletin Photo Gallery Close Menu

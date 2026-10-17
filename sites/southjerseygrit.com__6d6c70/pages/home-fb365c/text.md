@@ -16,4 +16,4 @@ Let me be very clear, if you donate to my campaign, do so because you believe in
 The only people I will be working for is the people of the district.
 Disclaimer: Website is paid for by Ramon Mora Jr for Congress VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 News Atlantic City Safer Communities Walk Downe Township to discuss Data Centers Cumberland County Fair for Voter Outreach Vineland City Council Meeting Hamilton Twp Council Meeting Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

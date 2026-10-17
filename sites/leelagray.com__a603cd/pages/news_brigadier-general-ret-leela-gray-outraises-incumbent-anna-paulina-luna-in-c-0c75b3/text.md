@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Apr 15 2026 PRESS RELEASE Brigadier General (Ret) Leela Gray Outraises Incumbent Anna Paulina Luna in Commanding First Quarter Gray Maintained A Lean Operation with an #% Burn Rate While Luna Exhausted Nearly Half Her Raised Funds ST.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Apr 15 2026 PRESS RELEASE Brigadier General (Ret) Leela Gray Outraises Incumbent Anna Paulina Luna in Commanding First Quarter Gray Maintained A Lean Operation with an #% Burn Rate While Luna Exhausted Nearly Half Her Raised Funds ST.
 PETERSBURG, FL – The Leela Gray for Congress campaign today announced it had outraised incumbent Congresswoman Anna Paulina Luna after demonstrating a commanding fundraising performance for the first reporting period.
 In just 56 days, Gray raised $564,000 and entered the second quarter with $500,000 cash on hand: a record for a Democratic challenger's first quarter fundraising in Florida’s 13th Congressional District.* The latest FEC filings reveal a stark contrast between Gray and Luna’s campaigns.
 While Congresswoman Luna spent nearly 45% of her raised funds, Gray’s campaign spent less than 11%.

@@ -15,4 +15,4 @@ Jay's daughter, Rhys is a graduate of Southeastern University.
 Jay Kilmartin constantly requests his constituents stay informed and in touch with current events at the state house.
 Sign up for Jay's email newsletter and follow his Twitter for "On-The-Ground" updates from Jay!
 And Vote for Jay Kilmartin on June 9th!
-Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $1000 Other Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $1000 Other Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

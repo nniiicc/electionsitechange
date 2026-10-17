@@ -1,4 +1,4 @@
-Back to Home Privacy Policy Al Jirak for Kansas — House District 100 Last updated: October 16, 2026 Information We Collect When you sign up through our website, we collect the following information: Name — Your full name as you provide it.
+Back to Home Privacy Policy Al Jirak for Kansas — House District 100 Last updated: October 17, 2026 Information We Collect When you sign up through our website, we collect the following information: Name — Your full name as you provide it.
 Email Address — Used to send you campaign updates and communications.
 Phone Number (optional) — If provided, may be used for campaign outreach via call or text.
 Technical Information — When you visit our site or submit the sign-up form, we automatically collect your IP address, browser type (user agent), the referring URL, and the page URL you were on when you signed up.

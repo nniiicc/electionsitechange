@@ -108,4 +108,4 @@ Mike's son-in-law, Cathy's Husband, also a Veteran was able to escort Mike.
 North Star Honor Flight, September 16th WELCOME HOME VETERANS!
 North Star Honor Flight, September 16th WELCOME HOME VETERANS!
 PRICELESS Welcome Home Sign - LOVE IT!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

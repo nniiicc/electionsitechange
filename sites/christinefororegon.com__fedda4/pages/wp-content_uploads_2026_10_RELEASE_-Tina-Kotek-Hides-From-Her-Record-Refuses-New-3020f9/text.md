@@ -1,7 +1,0 @@
-For Immediate Release Date: Wednesday, June 17th, 2026 Contact: Press@christinefororegon.com TINA KOTEK HIDES FROM HER OWN RECORD, REFUSES OREGON NEWSPAPER PUBLISHERS ASSOCIATION DEBATE Canby, Ore. – Today, failed Oregon Governor Tina Kotek declined to participate in a debate organized by the Oregon Newspaper Publishers Association, snubbing voters who want to hear directly from her and see the contrast between more of the same and a brighter vision for Oregon's future in this year’s gubernatorial election.
-Senator Christine Drazan (R - Canby), candidate for Oregon Governor, released the following statement in response: “Dodging accountability and refusing to answer for her failed record is typical of Tina Kotek.
-After four years of Tina Kotek's costly and chaotic leadership, Oregonians deserve a governor who will put them and their families first by lowering taxes, fixing our schools, restoring safe communities and ending homelessness as we know it.
-This debate is a longstanding tradition that gives Oregonians a chance to hear directly from their leaders.
-Kotek clearly doesn’t believe the people of our state deserve to hear from her." The Oregon Newspaper Publishers Association includes dozens of newspapers and magazines from every corner of Oregon, including small towns, large cities and universities.
-Their debate has been a longstanding tradition and an invaluable opportunity for voters of these communities to hear from candidates for Governor.
-###

@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Sep 9 2026 PRESS RELEASE Leela Gray Responds to Luna's Out-of-Touch RNC Speech For Immediate Release Date: September 9, 2026 Contact: press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Sep 9 2026 PRESS RELEASE Leela Gray Responds to Luna's Out-of-Touch RNC Speech For Immediate Release Date: September 9, 2026 Contact: press@leelagray.com St.
 Petersburg, FL — On Wednesday, FL-13 Democratic nominee and retired Army Brigadier General Leela Gray released the following statement on Anna Paulina Luna’s speech at the Republican National Committee's Midterm Convention in Dallas: “Anna Paulina Luna is a Washington insider more concerned with getting famous and rich than improving the lives of her constituents.
 We saw that on display tonight with her speech in Dallas.
 Not once did she address the cost of living crisis that is crushing the residents of our district.

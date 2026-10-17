@@ -10,4 +10,4 @@ Mobile Terms and Conditions Terms & Privacy Policy apply.
 Privacy Policy can be found here https://www.lindseyforsenatect.com/privacy-policy Thank you for signing up!
 What's New?
 15 Apr Wednesday, 10:16 AM · 2026 New Fairfield Resident and former First Selectman Joins the CT Senate Race https://patch.com/connecticut/danbury/new-candidate-enters-race-danbury-area-state-senate-seat Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
-Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Approved by Melissa Lindsey Powered by CampaignPartner.com Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -34,7 +34,7 @@ Stella@StellaRPollard.com I’m working hard to get the word out about our campa
 Every dollar helps us print flyers, reach voters online, and keep traveling across our district to meet people where they are.
 If you’re able, even $5 makes a real difference in helping us share our message.
 I’d be truly grateful for your support. 🩵Stella Pollard https://secure.actblue.com/donate/stella-pollard-1 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 5, 2025 Posted in Uncategorized Post navigation Previous Post Previous post: When Washington Walks Away, Rural Kentucky Families Pay the Price Next Post Next post: The Singing Bridge: 20 Years of Neglect (updated)!
-Leave a Reply Cancel reply Comment Name Email Website Δ Stella for KY , Powered by WordPress.com .
+Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Stella for KY , Powered by WordPress.com .
 Discover more from Stella for KY Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...

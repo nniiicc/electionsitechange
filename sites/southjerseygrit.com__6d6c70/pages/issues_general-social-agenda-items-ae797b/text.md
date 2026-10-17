@@ -11,4 +11,4 @@ Reparations for Internment Camp Families from 1900’s RELEASE THE DAMN EPSTEIN 
 Uncap the Social Security limit Let People Be (LGBTQ+ RIghts) Just let people live there lives.
 If the centralized message is acceptance and love and no one is being hurt, let people be.
 We should have equality in the pursuit of happiness in this country.
-Let all decisions regarding gender affirming care be between a doctor and an individual. « Previous: Government Reform Next: Law Enforcement & ICE » Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Let all decisions regarding gender affirming care be between a doctor and an individual. « Previous: Government Reform Next: Law Enforcement & ICE » Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

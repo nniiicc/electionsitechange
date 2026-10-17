@@ -41,4 +41,4 @@ At night and on the weekends, the JDQ Conference Room hosts baby, bridal and wed
 Vicki and Tab enjoy working with entrepreneurs to create and grow their businesses.
 Vicki has a proven history of identifying issues, coordinating resources and addressing real world issues.
 VOLUNTEER CONTRIBUTE Get Updates Thank you for signing up!
-Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com - Political Websites Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

@@ -11,4 +11,4 @@ Those experiences are a major reason why she decided to run for office.
 Jayme believes Arizona deserves leadership focused on practical solutions, strong communities, public accountability, and improving everyday quality of life for working families — not political theater or division.
 Her platform focuses on affordability, public education, healthcare access, workforce development, sustainable growth, water security, and rebuilding stronger community connections across Arizona.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

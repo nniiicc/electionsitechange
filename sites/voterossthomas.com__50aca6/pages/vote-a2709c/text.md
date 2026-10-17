@@ -31,4 +31,4 @@ A valid Indiana driver’s license or state ID is required to vote.
 All voter registrations must be submitted no later than # days before the election in which you plan to vote.
 April 6, 2026 is the last day to register to vote in the primary election.
 October 5, 2026 is the deadline to register to vote in the 2026 general election.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Contact Volunteer Committee to Elect Ross Thomas Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ross Issues Contribute Volunteer Contact Voter Information Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Contact Volunteer Committee to Elect Ross Thomas Powered by CampaignPartner.com Home Meet Ross Issues Contribute Volunteer Contact Voter Information Close Menu

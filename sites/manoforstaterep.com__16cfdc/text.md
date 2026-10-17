@@ -11,10 +11,10 @@ Join today and keep Mano DeAyala delivering results for West Houston families.
 Donate Today $1000 $500 $250 $100 Other Join Our Campaign Today [gravityform id="5" title="false" description="false" ajax="true"] THE LATEST FROM THE CAMPAIGN facebook State Representative Mano DeAyala #ago I'm honored to receive the Houston Chronicle's endorsement for re-election in District 133.
 Their recognition of our work to bring infrastructure dollars and new civil district courts to Harris County—the first since 1985—speaks to what we can accomplish when we focus on delivering results for the people we serve.
 There is still work to do, and I'm asking for your vote this November.
-Read more: https://bit.ly/4i4f1Ox 18 5 1 View on Facebook State Representative Mano DeAyala #ago District 133 students are working hard and getting a head start on college.
+Read more: https://bit.ly/4i4f1Ox 23 5 3 View on Facebook State Representative Mano DeAyala #ago District 133 students are working hard and getting a head start on college.
 In 2026, AP students in our district earned nearly 6,200 qualifying scores, representing an estimated $6.97 million in potential college tuition savings for local families.
 That’s great news for our students and the future of Texas.
-1 View on Facebook State Representative Mano DeAyala #ago Thank you to the Houston Apartment Association PAC for the opportunity to visit with your members this week.
+1 1 View on Facebook State Representative Mano DeAyala #ago Thank you to the Houston Apartment Association PAC for the opportunity to visit with your members this week.
 The message was clear: affordability matters.
 Houston families are feeling the pressure of rising costs, and Harris County’s recent tax hike only adds to the burden.
 I’m laser-focused on keeping Texas affordable and ensuring the next generation has the same opportunities we had—to own a home, build a career, raise a family, and pursue the American Dream.

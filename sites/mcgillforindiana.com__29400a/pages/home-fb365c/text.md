@@ -21,4 +21,4 @@ Indiana works best when hardworking families have a fair chance to succeed.
 That's the future I'm fighting for.
 Let’s Build a Better Indiana Together.
 Real Change Starts With Your Vote!
-Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

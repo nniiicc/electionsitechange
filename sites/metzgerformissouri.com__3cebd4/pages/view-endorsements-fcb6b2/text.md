@@ -9,4 +9,4 @@ Aaron Metzger represents a different direction: honest leadership, accountabilit
 For too long, extremist politics and Republican one-party control have held Missouri communities back while people struggle to make ends meet.
 Aaron is running to move Joplin forward, with practical solutions, respect for working families, and representation that answers to the people of District 161.
 Aaron Metzger is the right choice for Missouri House District 161.
-Kal Inois Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Kal Inois Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

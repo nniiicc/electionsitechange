@@ -1,10 +1,10 @@
 {
  "description": "Stay updated with the Kori Rodley calendar for important events and Springfield elections. Subscribe for appointments and newsletters!",
  "final_url": "https://kori-rodley.com/calendar",
- "fingerprint": "daf566a789928d024abb3adb4ccc898d5e50ab68",
+ "fingerprint": "0b1f50b89637c1de3a5b6e6fc6dca2c4959fee6f",
  "format": 3,
- "paid_for_by": "",
- "rendered": false,
+ "paid_for_by": "authorized by Elect Kori Rodley, PAC ID # 19995 Powered by",
+ "rendered": true,
  "title": "Calendar",
  "years_mentioned": []
 }

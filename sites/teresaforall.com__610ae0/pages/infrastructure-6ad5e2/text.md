@@ -6,4 +6,4 @@ I am in Congress to ensure that these communities are not forgotten -- and that 
 We must build broadband and incentivize clean energy.
 We need a rural policy that keeps farmers and ranchers on their land and are part of the solution to create more jobs and help build a rural green economy.
 We must also expand our understanding of infrastructure to include critical services like health care, early childhood education, and public schools, which are critical to the sustaining of thriving communities.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

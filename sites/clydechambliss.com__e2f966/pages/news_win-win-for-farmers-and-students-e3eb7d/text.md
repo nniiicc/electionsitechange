@@ -17,4 +17,4 @@ I wish all of our local teachers and students a successful school year.
 If I can be of service to any teacher or administrator in my district, please don’t hesitate to reach out to my office at 334-247-7872 or send me an email at clyde.chambliss@alsenate.gov Thank you for allowing me to represent you in Montgomery!
 Clyde Chambliss, Jr.
 ALABAMA STATE SENATE STATE SENATOR, District 30 clyde.chambliss@alsenate.gov Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

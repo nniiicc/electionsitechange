@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE The Issues The main issues that I will be fighting for: 1) Public Schools: Rural Schools are losing out to the school voucher program.
+Skip to content Home About Issues Press Get Involved DONATE The Issues The main issues that I will be fighting for: 1) Public Schools: Rural Schools are losing out to the school voucher program.
 I will fight for public school funding and stand up for our teachers, students, and parents 2) Support for Small Farmers and Agriculture: I will support programs that strengthen small farmers and establish policies that assure strong markets.
 Along with that, I support new farmers with educational programs.
 These programs support young farming families to help acquire land and equipment.

@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.voteforkellygarrett.com/vote",
- "fingerprint": "d061db6055f1ff8638f3237eb54e7559501f0bd2",
+ "fingerprint": "1a50d72a6fa4dbd6b7342b547b6fb4f55899d947",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

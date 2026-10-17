@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://ingridwadsworth.com/vote",
- "fingerprint": "a0ec94c4805078b34ffe8bfec323da0397dc76b5",
+ "fingerprint": "80b14c2b3250f30e540b0e0ccc94a8dea9302be8",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

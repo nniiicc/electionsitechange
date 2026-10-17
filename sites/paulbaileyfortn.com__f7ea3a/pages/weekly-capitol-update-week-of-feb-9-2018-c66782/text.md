@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=7baca86388 Home News / Weekly Capitol Update – Week of Feb.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4881e79321 Home News / Weekly Capitol Update – Week of Feb.
 9, 2018 Weekly Capitol Update – Week of Feb.
 9, 2018 Hello, I’m state Senator Paul Bailey bringing you a legislative update from Nashville, Tennessee.
 We’re in the second year of the 110th General Assembly.

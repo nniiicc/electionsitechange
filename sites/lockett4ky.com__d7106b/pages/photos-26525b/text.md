@@ -16,4 +16,4 @@ With this effort, he encourages everyone to vote YES on Constitutional Amendment
 I was proud to vote to increase pay for our state police and to provide the needed equipment to continue doing their tough job." Matt's endorsement comes at a time when many on the left are clamoring to defund the police.
 Matt's approach is the opposite - increase funding for police and show them how much we appreciate them.
 For this approach, Matt has earned the endorsement of the KY Fraternal Order of Police. ___________________________________________________________________________ Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
-Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com Home About Matt News On the Issues Endorsements Contact Close Menu

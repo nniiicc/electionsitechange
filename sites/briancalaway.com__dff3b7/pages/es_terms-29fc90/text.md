@@ -1,4 +1,4 @@
-EN Inicio Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Volver Esta página solo está disponible en inglés.
+EN Inicio Guía del votante Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Volver Esta página solo está disponible en inglés.
 Terms of Service Business Name: Brian Calaway for state representative district 10.
 Campaign Description: Users can expect to receive text messages regarding voter information, campaign updates, legislative priorities, volunteer opportunities, and donation requests.
 Age Restriction: You must be at least 18 years old to participate in the SMS campaign for Brian Calaway for state representative district 10.
@@ -14,6 +14,6 @@ Frequency: You will receive a message frequency that varies based on campaign up
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 Privacy: If you have any questions regarding privacy, please read our privacy policy: Privacy Policy .
 P.O.
-Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Guía del votante Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
 Todos los derechos reservados.
 Política de privacidad Términos

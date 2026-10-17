@@ -22,4 +22,4 @@ Did you know??
 The State House has an interactive app that helps keep you up to date on everything happening in the General Assembly and allows you to live stream committee hearings and session.
 Download the app today by following this link: https://www.scstatehouse.gov/mobileappinfo.php Visitors The Education Committee welcomed Mississippi State Superintendent, Dr.
 Carey Wright, to the State House on Thursday afternoon to discuss education reform and Mississippi’s unprecedented academic success under her leadership.
-Keep up with the SC House GOP Caucus: https://www.facebook.com/SCHouseGOP/ https://twitter.com/SCHouseGOP Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Keep up with the SC House GOP Caucus: https://www.facebook.com/SCHouseGOP/ https://twitter.com/SCHouseGOP Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

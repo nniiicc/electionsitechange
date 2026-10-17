@@ -49,4 +49,4 @@ Updated Terms & Conditions become effective upon posting on this website.
 CONTACT Questions regarding these Terms & Conditions may be mailed to: Lindsey for Senate 165 Lake Harwinton Rd Harwinton, CT 06791 Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
 Approved by Melissa Lindsey.
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
-Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Approved by Melissa Lindsey Powered by CampaignPartner.com Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

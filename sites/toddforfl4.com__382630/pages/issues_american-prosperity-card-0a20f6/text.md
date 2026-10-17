@@ -51,4 +51,4 @@ No new taxes.
 No new spending.
 Watch the Explanation This is how we make government accountable again.
 When your money is on the line, politicians can’t hide.
-Next: End Government Corruption » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Next: End Government Corruption » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

@@ -1,4 +1,4 @@
-top of page About Priorities Endorsements Contribute Contact Media DONATE Senator Kreun's Priorities Combat Fraud Restore Accountabilty Fraud is unconscionable.
+top of page About Priorities Endorsements Voting Contribute Contact Media DONATE Senator Kreun's Priorities Combat Fraud Restore Accountabilty Fraud is unconscionable.
 Those engaged rob from their neighbors and friends – they erode the public trust – they steal from all who legitimately need services and a helping hand.
 Senator Kreun was the chief Republican author of groundbreaking legislation establishing a statewide Office of Inspector General.
 This independent taxpayer watchdog was a key victory of the last legislative session, finally passed by an overwhelming bipartisan majority.

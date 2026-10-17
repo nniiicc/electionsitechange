@@ -35,4 +35,4 @@ Representative, Florida District 25.
 “Now the work is making sure voters know there is another option.” Michaelangelo Hamilton Write-In Candidate for U.S.
 Representative, FL-25 Hamilton for Florida 2026 Phone: (754) 242-5566 Email: Hamilton4FL@gmail.com Home Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
 House of Representatives, Florida’s 25th Congressional District.
-Powered by CampaignPartner.com - Political Campaign Websites Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu
+Powered by CampaignPartner.com Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu

@@ -4,4 +4,4 @@ More info › 25 Sep Friday, 7:00 PM – 9:00 PM Ice Cream Social Carthage , MO 
 We will ave ice cream and loads of other treats as well as face Painters and Ballon artists.
 Bring the whole family and friends and lets have a good time!
 More info › VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

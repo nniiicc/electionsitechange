@@ -25,4 +25,4 @@ Agriculture is an economic engine for Santa Rosa and Okaloosa Counties, yet, rur
 Road maintenance and bridges are critical to getting products sold and transported, our families to their jobs, and our military to their posts, and several main roads need to be prioritized.
 And, I will work with our growers and rural residents on identifying and supporting diversified agritourism as well as direct-to-consumer opportunities.
 As a former landowner and producer, I understand the freedom that a rural lifestyle brings, and I want to hear and support the ways that will work for our counties, to maintain this critical sector.
-Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com - Political Websites Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu

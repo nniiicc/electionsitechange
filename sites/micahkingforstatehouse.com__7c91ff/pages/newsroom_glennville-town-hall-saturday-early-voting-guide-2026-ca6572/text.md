@@ -67,6 +67,13 @@ District 157 Early Voting Guide - Verified hours, dates, and locations for the e
 Georgia 2026 Ballot Measures Explained - Plain-English guide to Amendments 1, 2, and 3.
 District 157 Community Opportunity Board - Active local jobs and career pathways across Southeast Georgia.
 The Lineage of District 157 - Historical record of representation in the 157th House District since 1993.
+THE FIELD REPORT • VOTER ACCESS GUIDE Never Miss an Election Deadline or Town Hall in District 157 Receive non-partisan ballot translations, early voting schedules, and candidate comparisons sent straight to your inbox before you head to the ballot box.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Get Voter Updates Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House District 157 and former Glennville City Councilman hosting a free constituent forum at South Tattnall Middle School Gym.
 Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!

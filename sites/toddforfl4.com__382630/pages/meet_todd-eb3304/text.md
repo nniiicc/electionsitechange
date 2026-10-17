@@ -26,4 +26,4 @@ We deserve to be represented.
 We deserve to have our voices heard over the money that is buying politicians on both sides.
 We can redefine Public Service.
 Join me in my campaign.
-Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

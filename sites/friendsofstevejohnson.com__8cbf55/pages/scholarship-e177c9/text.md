@@ -7,4 +7,4 @@ Students must attend/plan to attend a college, university in Maryland (or apply 
 If you have received a scholarship from Delegate Johnson, you must reapply to be eligible for another scholarship.
 We look forward to reviewing your application!
 Please reach out to steve.johnson@house.maryland.gov if you have any questions about the application process.
-Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com - Political Websites Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu
+Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu

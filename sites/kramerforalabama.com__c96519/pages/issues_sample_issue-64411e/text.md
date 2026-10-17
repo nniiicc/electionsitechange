@@ -4,4 +4,4 @@ Katie is also committed to strengthening women’s healthcare, including improvi
 Katie believes mental health care must be treated with the same urgency and importance as physical health.
 She supports expanding access to mental health services across Alabama and will work to introduce legislation that protects employees seeking mental health treatment.
 Katie will also advocate for policies that encourage employers to offer mental health care as part of workplace benefits, ensuring people can seek help without risking their job or financial stability.
-Next: Workforce Development » Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Next: Workforce Development » Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -159,10 +159,4 @@ Visiting Our Site From Outside of the United States If you are visiting our Site
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 Contact Us Please contact us if you have questions about our Privacy Policy at: info@terrideboerforcongress.com.
-Please provide your mobile phone to opt-in to Terri DeBoer for Congress campaign alerts, updates and news.
-By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
-Message frequency may vary.
-Msg&Data Rates May Apply.
-Reply STOP to cancel.
-Reply HELP for help.
-Privacy Policy Site design by Micah Plaisier Paid for by Terri DeBoer for Congress
+Site design by Micah Plaisier Paid for by Terri DeBoer for Congress

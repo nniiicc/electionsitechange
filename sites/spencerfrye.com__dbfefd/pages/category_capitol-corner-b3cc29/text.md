@@ -1,4 +1,6 @@
-State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Category: Capitol Corner How Can We Protect Minors At Work October 12, 2026 Bianca Orfila-Molinet Capitol Corner Sexual violence against minors occurs at an extraordinarily high rate in the United States.
+State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Category: Capitol Corner Protecting Georgia’s Workers From Extreme Heat October 16, 2026 Eden Levitt-Horne Capitol Corner Tagged Labor & Economic Development On a summer afternoon in Georgia, the heat index can climb well past 100 degrees.
+During the late June 2025 heat dome that covered much of the South, Georgia’s Northside Hospital system saw heat illness cases rise 20 percent across its five hospitals.
+One patient was an outdoor worker who arrived at the hospital unconscious […] How Can We Protect Minors At Work October 12, 2026 Bianca Orfila-Molinet Capitol Corner Sexual violence against minors occurs at an extraordinarily high rate in the United States.
 Child sexual abuse refers to the involvement of a child, defined as a person less than 18 years old, in sexual activity that violates the laws or social taboos of society.
 Approximately one in four girls and one in twenty boys […] Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage October 2, 2026 Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
 Diabetes.
@@ -223,7 +225,5 @@ Food deserts occur where there is little access to healthy food, typically due t
 These deserts are prevalent in low-income and rural communities.
 Since there is a lack of […] Fellowship Spotlight: Gitzel Anguiano October 24, 2021 Mennah Abdelwahab Capitol Corner Gitzel Anguiano is a third-year at the University of Georgia studying international affairs and public relations with a minor in French.
 She is also pursuing a public affairs communication certificate.
-Gitzel is involved in a number of organizations on campus including Speak Out for Species, Hispanic Student Association, Young Democrats, Student Government Association and the […] Fellowship Spotlight: Catie Gelting October 10, 2021 Mennah Abdelwahab Capitol Corner Catie Gelting is a fourth-year at the University of Georgia studying international affairs and philosophy with a minor in political science.
-She is a member of the philosophy club and a non-religious member of the Bahai’i Student Association.
-Catie is also the Historian for UGA’s Demosthenian Literary Society, where she keeps records of meetings, historic […] Posts navigation Older posts ©# Spencer Frye State House 122.
+Gitzel is involved in a number of organizations on campus including Speak Out for Species, Hispanic Student Association, Young Democrats, Student Government Association and the […] Posts navigation Older posts ©# Spencer Frye State House 122.
 All Rights Reserved.

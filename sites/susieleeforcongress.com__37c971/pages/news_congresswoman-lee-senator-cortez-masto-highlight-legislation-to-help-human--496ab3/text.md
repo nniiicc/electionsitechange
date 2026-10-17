@@ -1,0 +1,21 @@
+Skip to main content about news volunteer Donate Susie Lee for Congress Congresswoman Lee, Senator Cortez Masto Highlight Legislation to Help Human Trafficking Survivors Oct 13, 2026 Back to all news At the Harry Reid International Airport, Congresswoman Susie Lee and Senator Catherine Cortez Masto announced the reintroduction of their bipartisan, bicameral Jimmy Deal Trafficking Survivors Assistance Act .
+They were joined by Clark County Commission Chairman Michael N.
+Naft , and Lauren Boitel, Co-Founder of the Nevada Policy Council on Human Trafficking .
+This legislation will help survivors of human trafficking access air travel to escape their abusers and get the care they need.
+“When fleeing violence and abuse, many human trafficking survivors do not have access to the identification documents they need to travel by plane, like drivers’ licenses or passports.
+Human traffickers often control access of victims’ identification documents, and when trafficking victims flee, many must leave their documents behind,” said Congresswoman Susie Lee.
+“Our legislation will facilitate air travel for these survivors so that they may return to their families and communities and begin to heal.” “Jimmy Deal was an American hero – a man who made it easier for survivors of human trafficking to get approved for air travel without their IDs,” said Senator Cortez Masto.
+“Our legislation, introduced in his honor, will make it easier for human trafficking survivors to escape their captors and get the help they need.
+We will keep pushing to make sure it becomes law.” The legislation recognizes the late TSA officer James “Jimmy” Deal, who took the role of Assistant Federal Security Director in the Reno-Tahoe International Airport and led the effort to raise awareness of human trafficking at the airport, while also working with agencies in Nevada to assist victims of human trafficking to escape.
+“As one of the nation’s busiest airports, Harry Reid International Airport has both an opportunity and a responsibility to help raise awareness of human trafficking and connect people with resources.
+Supporting survivors means recognizing the challenges they may face beyond escaping a trafficking situation, including something as fundamental as having the identification needed to travel.
+This legislation helps address that barrier and reinforces the important role airports can play in helping survivors reach safety,” said Chairman Naft.
+“No survivor should have to navigate the journey to safety alone.
+When someone finds the courage to leave exploitation, they deserve compassion, dignity, and support—not additional barriers because they lack identification or are navigating an unfamiliar and overwhelming system.
+The Jimmy Deal Trafficking Survivors Assistance Act helps ensure survivors can access trauma-informed assistance and trusted support to reach safety and begin rebuilding their lives, and we are grateful to Congresswoman Lee and Senator Cortez Masto for advancing a more compassionate, survivor-centered response to human trafficking,” said Lauren Boitel, Co-Founder of the Nevada Policy Council on Human Trafficking .
+The Jimmy Deal Trafficking Survivors Assistance Act will: Encourage collaboration between Transportation Security Administration (TSA) agents and non-profits that provide services to trafficking survivors.
+Create a process to assist trafficking survivors with air travel by: Establishing a “Trafficking Survivor Point of Contact” (TSPoC) position by the TSA at each airport where it conducts screenings of passengers and property.
+Calling for the establishment of contact, communication, and relationships between service-providing organizations and the TSPoCs to pre-emptively create avenues for identity verification of escaping survivors.
+Include requirements of adequate training for each TSPoC to create a more seamless process with specialized focus.
+Required trainings and responsibilities incorporate trauma-informed services and ensure that survivors and escapees are supported throughout the process of reunification with their families and communities.
+### 5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

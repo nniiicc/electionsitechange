@@ -43,4 +43,4 @@ Our office is working with the Maryland Municipal League to shine a light on mak
 In the 2025 Legislative Session, Delegate Johnson was the primary sponsor of HB 768 : Municipal Incorporation - County Commissioners or County Council - Required Approval of Referendum Request .
 Our work on this issue continues through the interim period.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com - Political Websites Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu
+Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu

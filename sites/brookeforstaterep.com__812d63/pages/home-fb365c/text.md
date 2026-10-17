@@ -7,7 +7,14 @@ A practical, people-first voice for Derby, Hamden, Orange, and Woodbridge.
 Brooke is ready to protect local control, lower everyday costs, and bring nearly three decades of service to Hartford.
 Get Involved View Priorities Vote Tuesday November 3, 2026 Our towns.
 Our voice.
-Brooke for State Representative Oct 14, 2026 YOU KNOW YOU WANT ONE!!
+Brooke for State Representative Oct 17, 2026 FRIDAY.
+WE MADE IT!!!
+What a week!
+Let's recap… 🩷 Went through THREE pink Sharpies writing handwritten welcome notes to our newest 114th neighbors.
+Apparently, I have a lot to say.
+Shocking, I know The dramas of a home...
+Open Post Visit Page Brooke for State Representative Oct 16, 2026 See you this week-end!
+#AskMoreQuestions #PoliticsButMakeItHuman #CommonSenseLeadership #RealConversations #Brookforstaterep Open Post Visit Page Brooke for State Representative Oct 14, 2026 YOU KNOW YOU WANT ONE!!
 Our pink & navy signs are popping up, and there's still time to get yours!
 Message me and l'll get you on the list.
 Brooke for State Rep - District 114 #DerbyCT #HamdenCT #OrangeCT #WoodbridgeCT...
@@ -15,10 +22,6 @@ Open Post Visit Page Brooke for State Representative Oct 13, 2026 Another weeken
 One thing I've really enjoyed about this experience is the conversations happening on people's...
 Open Post Visit Page Brooke for State Representative Oct 12, 2026 #HotTake #CTPolitics #Connecticut #brookeforstaterep #PeopleOverPolitics #CommonSenseGovernment #ConnecticutFamilies #AffordabilityMatters #GovernmentAccountability #YourVoiceMatters Open Post Visit Page Brooke for State Representative Oct 12, 2026 Here are a few Connecticut issues I’m watching this week: Rising gas prices are putting more pressure on families.
 With prices climbing rapidly, Connecticut has activated protections against excessive gasoline pricing,...
-Open Post Visit Page Brooke for State Representative Oct 9, 2026 See you this weekend!
-#KnockKnock #brookeforstaterep #peopleoverpolitics #DoorToDoor #HereToListen #YourVoiceMatters Open Post Visit Page Brooke for State Representative Oct 8, 2026 How are We Assisting our Aging population?
-Growing older shouldn't mean being priced out of your own home.
-Imagine spending 40 or 50 years working, raising a family, paying taxes, and building a life in a community you...
 Open Post Visit Page BROOKE IS 30 YEARS SOCIAL WORKER & ADVOCATE Nearly 30 years helping young people and families.
 MOTHER OF THREE Raising three children in the Amity school district.
 BUSINESS OWNER CO-OWNED CT YOUTH RESOURCES Supporting at-risk youth and families.

@@ -25,4 +25,4 @@ Accountability to VOTERS not DONORS I will never take PAC money—my accountabil
 If I ever break that pledge, fire me.
 It's that simple, and it's a commitment neither party's insiders can make without donor strings attached. « Previous: My Number One Demand: Own Our Debt.
 Own Our Prosperity.
-Next: Healthcare » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Next: Healthcare » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

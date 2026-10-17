@@ -1,11 +1,12 @@
-ES Home Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Arizona House · 2026 EN ES Vote for Brian Calaway A Brighter Future A rising tide lifts all ships.
+ES Home Voter Guide Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Arizona House · 2026 EN ES Vote for Brian Calaway A Brighter Future A rising tide lifts all ships.
 I believe a sustainable future is very possible for everyone and I'm ready to get to work for all Arizonans and the US at large.
 Join me as we work toward a brighter world.
 Together We Achieve More Together we the people achieve more than any single person could ever do alone.
 It is time to move beyond partisanship and build a stronger tomorrow.
 A Better Arizona For All FDR spoke about a Second Bill of Economic Rights.
 I believe all citizens have basic rights that are not spoken about enough and that we can accomplish those rights if we work together.
-Get Involved Take the Survey Where Brian Stands Jobs & Economy Living wages and good jobs for every Arizonan Jobs & Economy Arizona has world-class talent in engineering, technology, and innovation.
+Get Involved Take the Survey Election day is November 3.
+Read the LD10 Voter Guide Where Brian Stands Jobs & Economy Living wages and good jobs for every Arizonan Jobs & Economy Arizona has world-class talent in engineering, technology, and innovation.
 Brian believes we can build an economy that keeps that talent here while creating real pathways for every Arizonan to participate — not just the lucky few. ▸ Support small businesses and local entrepreneurs with reduced regulatory friction ▸ Invest in workforce development and job training aligned with industry needs View Full Position → Education Fully funded schools and fair pay for teachers Education A state that underfunds its schools is borrowing from its future.
 Arizona has consistently ranked near the bottom in per-pupil spending.
 That stops.
@@ -18,7 +19,7 @@ Your browser can't play this video.
 Download it instead.
 Brian Calaway for Arizona House, Legislative District 10 · Clean Elections candidate The Brian Calaway Podcast Pull Up a Chair Long-form conversations with Arizonans about the issues that matter.
 Listen wherever you get your podcasts.
-YouTube Podcast on Spotify Podcast on Amazon Music We want to hear from you.
+Apple Podcasts YouTube X Podcast on Spotify Podcast on Amazon Music We want to hear from you.
 No right or wrong answer — just your honest take.
 On a scale of 1 to 10, how much do you trust your Local Arizona Government to solve the problems that matter to you?
 5 Neutral 1 — No trust 10 — Full trust I don't know / I'm not sure Comments, feedback, or suggestions (optional) Submit My Answer Anonymous.
@@ -93,6 +94,6 @@ Message frequency may vary.
 Message & data rates may apply.
 Text HELP for assistance, reply STOP to opt out.
 Join the Campaign Privacy Policy | Terms and Conditions P.O.
-Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Voter Guide Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
 All rights reserved.
 Privacy Policy Terms

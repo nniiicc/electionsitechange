@@ -1,5 +1,10 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
-Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources News Thompson Honors Bernie Narvaez as the 2026 Napa County American Dream Award Recipient June 29, 2026 Napa, CA – Sunday, Rep.
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved show submenu for "Get Involved" Volunteer Endorsements Events Resources News Thompson Honors Dirk Slooten as the 2026 Lake County American Dream Award Recipient June 29, 2026 Napa, CA – Sunday, Rep.
+Mike Thompson (CA-04) recognized Dirk Slooten as the 2026 American Dream Award recipient for Lake County.
+Thompson presents the American Dream Award to residents of California’s Fourth District who have come to the United States and made outstanding contributions to our communities.
+Read more Thompson Honors Israel "Joe" Guzman as the 2026 Solano County American Dream Award Recipient June 29, 2026 Napa, CA – Sunday, Rep.
+Mike Thompson (CA-04) recognized Israel “Joe” Guzman as the 2026 American Dream Award recipient for Solano County.
+Read more Thompson Honors Bernie Narvaez as the 2026 Napa County American Dream Award Recipient June 29, 2026 Napa, CA – Sunday, Rep.
 Mike Thompson (CA-04) recognized Bernie Narvaez as the 2026 American Dream Award recipient for Napa County.
 Read more Thompson Honors Sylvina Frausto as the 2026 Yolo County American Dream Award Recipient June 29, 2026 Napa, CA – Sunday, Rep.
 Mike Thompson (CA-04) recognized Sylvina Frausto as the 2026 American Dream Award recipient for Yolo County.
@@ -48,8 +53,4 @@ Read more TONIGHT: Thompson to Co-Host Latino Community Town Hall with Concilio 
 Mike Thompson (CA-04) will host a town hall at Woodland Community College (2300 E.
 Gibson Road, community Center BLDG.
 800) in Woodland from 5:30 pm – 7:00 pm.
-Read more Thompson, Ways & Means Democrats Introduce Bill to Tax President’s Corrupt Slush Fund for January 6 Rioters May 19, 2026 Washington, D.C. – Today, Rep.
-Mike Thompson (CA-04), Ranking Member of the House Ways and Means Subcommittee on Tax, announced legislation to prevent a sitting president from profiting from lawsuits against the United States government.
-Read more Thompson, Kiley, Miller Introduce Tripartisan Resolution Designating May 17th as Necrotizing Enterocolitis Awareness Day May 15, 2026 Washington – Today, Reps.
-Mike Thompson (D-CA-04), Kevin Kiley (I-CA-03), and Carol Miller (R-WV-01) introduced a tripartisan resolution to designate May 17th as Necrotizing Enterocolitis Awareness Day.
 Read more Pagination First page « First Previous page ‹ Previous Page 1 Page 2 Current page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

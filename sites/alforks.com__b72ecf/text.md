@@ -31,14 +31,14 @@ NRA - Political Victory Fund AQ Rating - Highest possible rating for a non-incum
 Kansas Farm Bureau (VOTE FBF) Endorsed for strong support of Kansas agriculture and rural communities.
 Wichita Regional Chamber Recognized for commitment to a thriving Wichita business community.
 Kansas Family Voice Engaging government with a biblical voice through legislative policy and gospel mission.
-Kansans for Life PAC Official endorsement from Kansas' leading pro-life political action committee.
+Fraternal Order of Police Endorsed by Fraternal Order of Police - Lodge #5 Kansans for Life PAC Official endorsement from Kansas' leading pro-life political action committee.
 Americans for Prosperity Endorsed by AFP Kansas for commitment to lower taxes and economic freedom.
 Kansas Chamber PAC Endorsed for pro-business policies that grow the Kansas economy.
 NRA - Political Victory Fund AQ Rating - Highest possible rating for a non-incumbent candidate.
 Kansas Farm Bureau (VOTE FBF) Endorsed for strong support of Kansas agriculture and rural communities.
 Wichita Regional Chamber Recognized for commitment to a thriving Wichita business community.
 Kansas Family Voice Engaging government with a biblical voice through legislative policy and gospel mission.
-Stand with Al We can't do this alone.
+Fraternal Order of Police Endorsed by Fraternal Order of Police - Lodge #5 Stand with Al We can't do this alone.
 Sign up for updates and help fund our campaign to bring conservative, common-sense leadership to District 100.
 Get Updates I'm interested in: Get a Yard Sign Volunteer Host a Coffee Sign Up By signing up, you agree to receive occasional updates from the Al Jirak for Kansas campaign.
 Message and data rates may apply.

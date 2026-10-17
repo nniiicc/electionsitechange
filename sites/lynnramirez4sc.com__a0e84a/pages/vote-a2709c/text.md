@@ -8,4 +8,4 @@ WE CANNOT STRESS THIS ENOUGH CHECK YOUR VOTER REGISTRATION - MULTIPLE TIMES BEFO
 That means that you have the ability to vote in either political party's primary election.
 With all of the Democratic candidates who have stepped up to run, we strongly recommend that you vote on the Democratic party primary ballot.
 You should be able to get everything you need at the link above, but if not, you can also try these.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Meet Lynn Issues Volunteer Events Contribute Yard Signs Contact Voter Information Privacy Policy Committee to Elect Lynn Ramirez LynnRamirez4SC Powered by CampaignPartner.com - Political Campaign Websites Meet Lynn Contribute Issues Volunteer Events Yard Signs Contact Voter Information Privacy Policy Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Meet Lynn Issues Volunteer Events Contribute Yard Signs Contact Voter Information Privacy Policy Committee to Elect Lynn Ramirez LynnRamirez4SC Powered by CampaignPartner.com Meet Lynn Contribute Issues Volunteer Events Yard Signs Contact Voter Information Privacy Policy Close Menu

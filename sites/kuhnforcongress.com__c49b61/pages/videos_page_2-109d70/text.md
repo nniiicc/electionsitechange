@@ -1,5 +1,7 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you, Commissioner Mercer, for inviting me to your (East Jackson) town hall!
-More Conversations Sep 27, 2026 - I will fight for you no matter your party affiliation.
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Same vote as last time?
+Still big problems he won’t fix.
+More Conversations Sep 28, 2026 - When a rural hospital closes, families lose more than a building.
+Sep 27, 2026 - I will fight for you no matter your party affiliation.
 Sep 26, 2026 - Thank you, Jackson Pride Festival attendees!
 Sep 26, 2026 - Thank you, Covington Heritage festival attendees and Tipton County Democratic Party (especially Matt Payne)!
 Sep 26, 2026 - Every child deserves the opportunity to soar Sep 25, 2026 - We have to support teachers with more than words.
@@ -27,9 +29,6 @@ Now it’s time for brighter days and a better future for West Tennessee.
 Sep 8, 2026 - Thank you Dems and Donuts (Fayette County Democratic Party) attendees!
 Sep 8, 2026 - Thank you Collierville Democrats Club attendees!
 Sep 7, 2026 - This Labor Day, we honor the workers who built our communities and keep West Tennessee moving forward.
-Sep 5, 2026 - I stand for District 8, all of District 8.
-Not just the wealthy.
-Not just the well-connected.
 Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

@@ -1,6 +1,7 @@
 top of page Jenny Thacker House District 100 Home Platform Videos Articles Donate Contact My Subscriptions More Use tab to navigate through the menu items.
 OUR EVENTS!
-Door Knocking Torlone's Pizza 20605 Charles Town Rd., Charles Town 5:30-7:30pm Wednesday, Sept 16 Watch videos of Jenny on Facebook, Instagram, YouTube, and TikTok.
+Coffee & bagels St.
+Andrews Mountain Community Center (MCC) in Shannondale 51 Mission Rd., Harpers Ferry 8:30-10:30pm Sunday, October 18 Watch videos of Jenny on Facebook, Instagram, YouTube, and TikTok.
 She is here to listen to you and learn how she can help this amazing community at the state level!
 Who is Jenny Thacker?
 Jenny is running for the West Virginia House of Delegates in District 100, which covers part of Jefferson County.

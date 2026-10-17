@@ -12,7 +12,7 @@ Greene Joined by Dept. of State for Voter Rights Town Hall BAY CITY, Mich.
 25, 2026) — Hours after yesterday’s U.S.
 Supreme Court ruling on mail-in ballots, Sen.
 Chedrick Greene hosted a Voter Rights… August 7, 2026 Sen.
-Greene CeleBrates State Funding for Hemlock Semiconductor to Expand, Create New Jobs LANSING, Mich.
+Greene Celebrates State Funding for Hemlock Semiconductor to Expand, Create New Jobs LANSING, Mich.
 (Aug.
 5, 2026) — Sen.
 Chedrick Greene (D-Saginaw) applauded today’s announcement that Hemlock Semiconductor will receive $40 million in state… Next Page → Stay Informed Get the latest SD35 updates delivered to your inbox Type your email… Subscribe DONATE VOLUNTEER Facebook Instagram X Mail Quick Links Donate Online Meet Chedrick Endorsements Priorities News Vote Get Involved Media Home Donate By Mail Committee to Elect Chedrick Greene P.O.

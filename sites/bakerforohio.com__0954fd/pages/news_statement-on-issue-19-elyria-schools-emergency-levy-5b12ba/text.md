@@ -16,4 +16,4 @@ Supporting Issue 19 is an investment in our community's future.
 Quality education not only benefits our children but also enhances property values and attracts businesses to our area.
 I encourage all Elyria residents to vote YES on Issue 19 on May 6, 2025, to ensure that our schools continue to provide the excellent education that our children deserve.
 Together, we can uphold the standard of excellence in Elyria's schools and build a brighter future for our community.
-Check out the Elyria Schools FAQ's on Issue 19 here Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Check out the Elyria Schools FAQ's on Issue 19 here Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

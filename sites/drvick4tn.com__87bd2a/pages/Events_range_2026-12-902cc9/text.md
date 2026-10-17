@@ -15,5 +15,5 @@ Our full schedule will be posted here soon!
 We are diligently working to finalize locations in all 95 counties.
 #ago This Week This Month ‹ Previous Tue Dec 1 2026 - Thu Dec 31 2026 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
-Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
+Vick for governor Powered by CampaignPartner.com Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

@@ -19,4 +19,4 @@ My Master’s was secondary education.
 There is a lot more to me than just being a teacher.
 Countdown to Election Day November 3, 2026 at 8:00 AM VOLUNTEER CONTRIBUTE VOTING INFO What are YOUR priorities?
 Get Updates Thank you for signing up!
-News Letter to the Editor; Daily News Miner Meet PEPPER Contribute Priorities Endorsements Voter Information Yard Signs Photos Contact Privacy Policy Paid for by Pepper McFarland for House District 33 PO Box 55609 North Pole, AK 99705 Powered by CampaignPartner.com - Political Campaign Websites Home Meet PEPPER Priorities Contribute Photos Volunteer Yard Signs Contact Voter Information Endorsements Close Menu
+News Letter to the Editor; Daily News Miner Meet PEPPER Contribute Priorities Endorsements Voter Information Yard Signs Photos Contact Privacy Policy Paid for by Pepper McFarland for House District 33 PO Box 55609 North Pole, AK 99705 Powered by CampaignPartner.com Home Meet PEPPER Priorities Contribute Photos Volunteer Yard Signs Contact Voter Information Endorsements Close Menu

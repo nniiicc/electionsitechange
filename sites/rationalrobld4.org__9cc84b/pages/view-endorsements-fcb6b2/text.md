@@ -61,4 +61,4 @@ Judith Johnson Commercial Set Net Fisherman Rob Tupper is exactly the kind of pe
 He is intelligent, dedicated, and cares — about people, about fairness, about building a community that works for everyone.
 I've seen him work harder than anyone in the room and treat every person with respect.
 Rob has my full support.
-Pat Dempsey Retired School Teacher Click here to add your endorsement Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu
+Pat Dempsey Retired School Teacher Click here to add your endorsement Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

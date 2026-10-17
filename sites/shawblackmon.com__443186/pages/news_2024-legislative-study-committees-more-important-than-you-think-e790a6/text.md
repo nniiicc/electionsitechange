@@ -55,5 +55,5 @@ HR 473 House Study Committee on Safety and Consumer Protection in the Tree Care 
 Victor Anderson (10th) Through the Agriculture & Consumer Affairs Committee.
 Final Bill Summary: HR 473 creates the House Study Committee on Safety and Consumer Protection in the Tree Care Industry to study the need for standards, regulations, and licensure for the tree care industry.
 The committee will be composed of five members of the House of Representatives that are appointed by the speaker of the House of Representatives and will stand abolished December 1, 2024.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

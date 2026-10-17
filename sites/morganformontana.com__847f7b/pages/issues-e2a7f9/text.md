@@ -22,4 +22,4 @@ It has drawn support from people across the political spectrum.
 I'm voting yes, and I'm asking you to join me, so that Montanans, not deep-pocketed interests, decide our elections.
 Protect Veterans Those who served our country shouldn't have to fight for the care and benefits they earned.
 I'll work to make sure Montana veterans have access to health care, housing, job opportunities, and the support they need when they come home.
-Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com - Political Websites Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

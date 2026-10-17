@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Health Care Lower Costs and Coverage Texans Can Count On James Talarico capped insulin at $25 a month in Texas and got it through a Republican legislature.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Health Care Lower Costs and Coverage Texans Can Count On James Talarico capped insulin at $25 a month in Texas and got it through a Republican legislature.
 In the Senate, he’ll protect Texans’ health insurance and Medicaid, lower drug costs and medical debt, and end Texas’ maternal mortality crisis.
 When I was 28 years old, I almost died.
 I was running in my first race for the Texas House.

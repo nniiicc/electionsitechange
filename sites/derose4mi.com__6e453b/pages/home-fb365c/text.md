@@ -16,4 +16,4 @@ Mailing Address: PO Box 128, DeWitt MI 48820 derose4mi@gmail.com 517-281-7645 Fa
 Learn more about her experience and vision.
 Quick Links Home About Support Gallery Contact Contact Information Mailing Address: PO Box 128, DeWitt MI 48820 derose4mi@gmail.com 517-281-7645 Facebook 2026 Committee to Elect Julie DeRose.
 All rights reserved.
-Paid for by the Committee to Elect Julie L DeRose Scroll to Top
+Paid for by the Committee to Elect Julie L DeRose

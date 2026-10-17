@@ -5,4 +5,4 @@ Education Colonel Pamela DeLancy has a Master of Science in Administration from 
 Community & Family Since retiring from the Army, Colonel DeLancy has remained active in Georgia as a licensed real estate professional (inactive) and certified health and wellness coach .
 Paid for by the Committee to Elect Pam DeLancy for Congress.
 Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

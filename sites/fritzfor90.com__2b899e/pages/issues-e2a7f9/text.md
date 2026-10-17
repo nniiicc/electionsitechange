@@ -1,6 +1,6 @@
-0 Skip to Content Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
+0 Skip to Content Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
 CONTACT THE ISSUES EDUCATION Education runs deep in my family.
 My parents, in-laws and wife are all teachers, and my son is following in their footsteps.
 I see first-hand what our schools and students need to truly succeed.

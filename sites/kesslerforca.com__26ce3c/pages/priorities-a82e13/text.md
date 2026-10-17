@@ -1,4 +1,4 @@
-top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Our Priorities Public Safety, Homelessness & Mental Health Everyone deserves to feel safe in their neighborhoods , and local businesses deserve to operate without fear.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Endorse Shannon News Events Blog Our Priorities Public Safety, Homelessness & Mental Health Everyone deserves to feel safe in their neighborhoods , and local businesses deserve to operate without fear.
 Retail theft and repeat crime hurt workers, families, and small business owners alike.
 We need smart, balanced public safety policies that hold offenders accountable while focusing resources where they actually reduce crime.
 Homelessness is a human crisis , not a talking point.

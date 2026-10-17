@@ -11,8 +11,7 @@ View Privacy Policy and Terms & Conditions .
 Where Will Your Signs Be Placed? + Add Another Placement 3.
 Notes for the Campaign 4.
 How Would You Like to Get Your Signs?
-Request Delivery Request Pickup Pick up at * — Choose a pickup location — Colonial HQ — Wednesdays, 6:00–8:00 PM — Newark Kent HQ — Mon, 10:00 AM–2:00 PM — Dover Kent HQ — Tue, 10:30 AM–2:30 PM — Dover Kent HQ — Wed, 10:30 AM–2:30 PM — Dover Kent HQ — Thu, 12:30–2:00 PM — Dover Kent HQ — Fri, 12:30–2:00 PM — Dover Sussex HQ — Mon–Fri, 10:00 AM–2:00 PM — Georgetown Mon Oct 12 — 6:30–8:00 PM — Sussex GOP @ Millsboro Fire Co.
-Hall (in the back) — Millsboro Tue Oct 20 — 7:00–8:30 PM — Northern GOP @ Acadia Building (Brandywine Town Centre) — Wilmington Thu Oct 22 — 7:00–8:30 PM — Colonial Region GOP @ Colonial Region HQ (Katz HQ) — Newark Mon Oct 26 — 7:00–8:30 PM — Western GOP @ Tyler's Restaurant — Wilmington Pick a location + time that works for you — we’ll have signs waiting.
+Request Delivery Request Pickup Pick up at * — Choose a pickup location — Kent HQ — Mon, 10:00 AM–2:00 PM — Dover Kent HQ — Tue, 10:30 AM–2:30 PM — Dover Kent HQ — Wed, 10:30 AM–2:30 PM — Dover Kent HQ — Thu, 12:30–2:00 PM — Dover Kent HQ — Fri, 12:30–2:00 PM — Dover Sussex HQ — Mon–Fri, 10:00 AM–2:00 PM — Georgetown Tue Oct 20 — 7:00–8:30 PM — Northern GOP @ Acadia Building (Brandywine Town Centre) — Wilmington Thu Oct 22 — 7:00–8:30 PM — Colonial Region GOP @ Colonial Region HQ (Katz HQ) — Newark Mon Oct 26 — 7:00–8:30 PM — Western GOP @ Tyler's Restaurant — Wilmington Pick a location + time that works for you — we’ll have signs waiting.
 By default, our team will place each sign for you.
 If you’d rather place it yourself, note that above.
 Yard signs are for private property only.
@@ -21,10 +20,7 @@ Submit Request → Thanks — your request is in!
 More ways to help → In Person Pickup Locations Prefer to pick one up directly?
 Here’s where you can find signs in person.
 Dates and times will be updated as volunteer staff availability opens for each location.
-Colonial HQ New Castle County Wednesdays 6:00–8:00 PM 160 Peoples Plaza Newark, DE 19702 Directions &nearr; crrde.com &nearr; Kent HQ Kent County Mon · 10:00 AM–2:00 PM Tue–Wed · 10:30 AM–2:30 PM Thu–Fri · 12:30–2:00 PM 2151 S Dupont Hwy Dover, DE 19901 Directions &nearr; kentrepublicans.com &nearr; Sussex HQ Sussex County Mon–Fri 10:00 AM–2:00 PM Freedom Store 131 E Market St Georgetown, DE 19947 Directions &nearr; sussex.gop &nearr; ▶ 4 upcoming pickup opportunities at region GOP meetings Mon Oct 12 6:30–8:00 PM Sussex GOP Meeting · Millsboro Fire Co.
-Hall (in the back) Sign pickup available during the meeting (6:30–8:00 PM).
-Hall is in the back of the fire company building.
-Sussex County Directions &nearr; Tue Oct 20 7:00–8:30 PM Northern GOP Meeting · Acadia Building (Brandywine Town Centre) Sign pickup available during the meeting (7:00–8:30 PM).
+Colonial HQ New Castle County TBD 160 Peoples Plaza Newark, DE 19702 Directions &nearr; crrde.com &nearr; Kent HQ Kent County Mon · 10:00 AM–2:00 PM Tue–Wed · 10:30 AM–2:30 PM Thu–Fri · 12:30–2:00 PM 2151 S Dupont Hwy Dover, DE 19901 Directions &nearr; kentrepublicans.com &nearr; Sussex HQ Sussex County Mon–Fri 10:00 AM–2:00 PM Freedom Store 131 E Market St Georgetown, DE 19947 Directions &nearr; sussex.gop &nearr; ▶ 3 upcoming pickup opportunities at region GOP meetings Tue Oct 20 7:00–8:30 PM Northern GOP Meeting · Acadia Building (Brandywine Town Centre) Sign pickup available during the meeting (7:00–8:30 PM).
 New Castle County Directions &nearr; Thu Oct 22 7:00–8:30 PM (doors 6:30 PM) Colonial Region GOP Meeting · Colonial Region HQ (Katz HQ) Doors open at 6:30 PM; sign pickup available during the meeting (7:00–8:30 PM).
 New Castle County Directions &nearr; Mon Oct 26 7:00–8:30 PM Western GOP Meeting · Tyler's Restaurant Sign pickup available during the meeting (7:00–8:30 PM).
 New Castle County Directions &nearr; Why It Matters Why Does a Yard Sign Matter?

@@ -35,4 +35,4 @@ These weekly newsletters are designed to provide insight into legislative priori
 If you ever have questions, concerns, or ideas, please don’t hesitate to reach out.
 Your input is invaluable to me and helps ensure that I am representing your needs effectively.
 It's an honor to serve you.
-Sincerely, Cal To keep up with my legislative updates: Facebook Link https://www.facebook.com/ForrestForHouse Website https://www.forrestforhouse.com/news Email calforrest@schouse.gov Phone # 803-349-6741 Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Sincerely, Cal To keep up with my legislative updates: Facebook Link https://www.facebook.com/ForrestForHouse Website https://www.forrestforhouse.com/news Email calforrest@schouse.gov Phone # 803-349-6741 Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

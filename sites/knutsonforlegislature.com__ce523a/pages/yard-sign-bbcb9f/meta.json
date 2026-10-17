@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.knutsonforlegislature.com/yard-sign",
- "fingerprint": "d04816ef652674c7b96df96f439da37630c85f6e",
+ "fingerprint": "e246151a87e6f23efd1202fc47eb11f27a96c364",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

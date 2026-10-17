@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.christopherdeanforwisconsin.com/yard-sign",
- "fingerprint": "f3a4d7f6ac13dcbb568f056360d536b1975f2e0f",
+ "fingerprint": "0dd701070f4b5482a49aa6abcc40de8643081a73",
  "format": 3,
  "paid_for_by": "Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

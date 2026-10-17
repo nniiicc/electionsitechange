@@ -10,4 +10,4 @@ Please be aware that we are not responsible for the content or privacy practices
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

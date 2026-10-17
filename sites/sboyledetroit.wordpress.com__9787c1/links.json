@@ -12,10 +12,6 @@
 "href": "https://facebook.com/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Governance",
 "href": "https://sboyledetroit.wordpress.com/category/governance/"
 },
@@ -93,6 +89,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

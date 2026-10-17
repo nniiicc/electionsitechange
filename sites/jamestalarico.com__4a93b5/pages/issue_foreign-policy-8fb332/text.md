@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Foreign Policy Strong Alliances, No More Forever Wars For Texans, foreign policy isn’t foreign.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Foreign Policy Strong Alliances, No More Forever Wars For Texans, foreign policy isn’t foreign.
 James Talarico will end the forever war in Iran that’s driving up the cost of gas and groceries, keep Iran from getting a nuclear weapon, stand with our allies, and lead with moral clarity.
 Texas has the eighth-largest economy in the world, exporting more goods to foreign nations than any other state.
 We share the country’s largest border with Mexico.

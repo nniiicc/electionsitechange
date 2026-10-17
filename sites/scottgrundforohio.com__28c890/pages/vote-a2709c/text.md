@@ -3,4 +3,4 @@ After you enter your Last Name and at least the first initial of your first name
 NOTE: Please review all the information for accuracy!
 RESIDENTS OF COSHOCTON COUNTY RESIDENTS OF HOLMES COUNTY RES IDENTS OF KNOX COUINTY Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

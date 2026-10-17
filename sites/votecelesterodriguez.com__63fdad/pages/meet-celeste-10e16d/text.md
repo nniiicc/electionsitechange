@@ -1,4 +1,4 @@
-Skip navigation menu About Issues News Endorsements Events Join Us Donate Meet Celeste About Issues News Endorsements Events Join Us Donate Meet Celeste Celeste Rodriguez works every day to solve challenges and respond to San Fernando Valley residents' needs.
+Skip navigation menu About Issues News Endorsements Events Join Us Know Your Rights Donate Meet Celeste About Issues News Endorsements Events Join Us Know Your Rights Donate Meet Celeste Celeste Rodriguez works every day to solve challenges and respond to San Fernando Valley residents' needs.
 She understands firsthand the hardships working families face.
 As a public servant for over a decade and the Mayor of San Fernando, Celeste has tackled tough issues and delivers resources for affordable housing, community safety, healthcare, and services for veterans, seniors, and children.
 As your Assemblymember, Celeste will work to create meaningful, long-lasting solutions that lead to better futures for all of us.

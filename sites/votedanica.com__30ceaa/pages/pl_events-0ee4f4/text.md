@@ -1,4 +1,4 @@
-Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl עברית he русский ru 简体中文 zh Español es English en Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Wydarzenia ★ Dołącz do Danici w kampanii Dołącz do ruchu.
+Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl русский ru 简体中文 zh Español es עברית he English en Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Wydarzenia ★ Dołącz do Danici w kampanii Dołącz do ruchu.
 Od spotkań społecznościowych po wydarzenia wolontariackie – tutaj możesz nawiązać kontakt z Danicą i zespołem kampanii.
 Danica wierzy, że w kampaniach chodzi o ludzi, a nie o politykę.
 Każde wydarzenie to okazja do słuchania, dzielenia się i wspólnej pracy na rzecz silniejszej społeczności.

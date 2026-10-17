@@ -56,4 +56,4 @@ The bills I would bring and the votes I would cast in Pierre will be consistent 
 (If you need an extra rack card to post on your refrigerator to hold me accountable, I’d be happy to drop one off.) My wife and I prayed at every door we knocked.
 That’s right, 3000 people got prayers in our District.
 Now that’s more powerful than any vote I could ever cast in Pierre!
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -13,4 +13,4 @@ No gimmicks.
 No excuses.
 Just real solutions that make life better for the people of District 47A.
 It’s time to lower the burden, restore balance, and put our community first.
-Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com - Political Campaign Websites Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu
+Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu

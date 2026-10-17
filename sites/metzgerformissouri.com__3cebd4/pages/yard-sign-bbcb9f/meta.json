@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://metzgerformissouri.com/yard-sign",
- "fingerprint": "69baccae0b3492a64315da45c9f535073c3e31ae",
+ "fingerprint": "1a344d28df04c218df5e47c143684494dd94c8fd",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -39,5 +39,5 @@ I believe everyone, regardless of circumstance, should be provided opportunities
 I pledge to advocate for increased access and maintained funding to support those vulnerable in our community.
 COMMUNITY Affordability, Justice, Culture, Rural Character...I believe our county, regardless of zip code, is comprised of neighbors.
 How we work together for the common good makes a difference for all of us .
-Read More Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com - Political Websites Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+Read More Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
 YARD SIGN REQUEST Contribute Close Menu

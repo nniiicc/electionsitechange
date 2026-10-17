@@ -1,9 +1,12 @@
 {
  "description": "Official campaign website for Chris Reichard for U.S. Representative MO-08",
  "final_url": "https://www.reichardforrep.com/home",
- "fingerprint": "687474d98109e158416082bb705bf412b346a4c5",
+ "fingerprint": "9686a10261ce385c393e03deaa11f806430e103a",
  "format": 3,
  "paid_for_by": "Paid For By Reichard For Rep Powered by CampaignPartner",
+ "rendered": false,
  "title": "Chris Reichard for U.S. Representative MO-08",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -79,4 +79,4 @@ Pay with cash as much and as often as you can.
 If we don’t use it, we’ll lose it.
 And what about Manuel?
 If a Constitutional Conservative who can’t be controlled by corporate interests resonates with your values, I would be honored if you vote for him.
-Abundant blessings, Susan Luschas [1] When Cash Disappears, So Does Something Else. https://www.zerohedge.com/personal-finance/when-cash-disappears-so-does-something-else Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Abundant blessings, Susan Luschas [1] When Cash Disappears, So Does Something Else. https://www.zerohedge.com/personal-finance/when-cash-disappears-so-does-something-else Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

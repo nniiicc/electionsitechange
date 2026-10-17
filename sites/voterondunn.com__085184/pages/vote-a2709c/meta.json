@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.voterondunn.com/vote",
- "fingerprint": "c2d5ef8ded972a784e2f0390f118548bf3b13cf9",
+ "fingerprint": "fb715bef203a381bea266efe46c47b63e14ef087",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2023",

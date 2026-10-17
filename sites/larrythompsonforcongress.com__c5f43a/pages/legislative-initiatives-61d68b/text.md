@@ -8,4 +8,4 @@ Senate to two terms (12 years).
 The American Work Freedom Act of 2027 The proposal calls for the complete phase-out of federal income taxes over the next four years while protecting Social Security, Medicare, National Defense, Veterans Benefits, and Federal Law Enforcement.
 5.
 The American AI Bill of Rights Just as our Constitution protects the freedoms of our citizens, this AI Bill of Rights establishes guiding principles that encourage innovation, while safe-guarding the rights of the American people.
-PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu
+PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

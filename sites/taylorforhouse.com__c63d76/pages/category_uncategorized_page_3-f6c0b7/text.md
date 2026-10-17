@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Category: Uncategorized July 4th Parades Posted : Jul 5, 2024 in : Uncategorized by : admin Thanks to all who helped with the Carlisle and Norwalk Parades!
+Skip to content Home About Issues Press Get Involved DONATE Category: Uncategorized July 4th Parades Posted : Jul 5, 2024 in : Uncategorized by : admin Thanks to all who helped with the Carlisle and Norwalk Parades!
 UAW Endorsement Posted : Jul 3, 2024 in : Uncategorized by : admin Rory was also endorsed by the UAW from the West Central Iowa Area CAP council!
 ISEA Recommendation Posted : Jun 28, 2024 in : Uncategorized by : admin Rory has received recommendation from the Iowa State Education Association (ISEA).
 “On behalf of the Iowa State Education Association (ISEA) representing education professionalsacross the state, we are pleased to recommend Rory Taylor for the Iowa House,” said ISEAPresident Mike Beranek.

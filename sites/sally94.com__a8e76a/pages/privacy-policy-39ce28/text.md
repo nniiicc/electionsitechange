@@ -10,5 +10,5 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

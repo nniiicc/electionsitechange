@@ -12,7 +12,8 @@ She has consistently advocated for improved VA services, better healthcare acces
 I believe Maine needs Susan Collins’ experienced, loyal, and hardworking voice in the U.S.
 Senate.
 I hope my fellow Mainers will join me in supporting her.
-Robert Jones Glenburn Read the letter: Bangor Daily News Previous post When Maine soldiers needed someone to listen, Susan Collins did Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Robert Jones Glenburn Read the letter: Bangor Daily News Previous post When Maine soldiers needed someone to listen, Susan Collins did Next post PRESS RELEASE: Pleasant Point Passamaquoddy Tribe Endorses U.S.
+Senator Susan Collins Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

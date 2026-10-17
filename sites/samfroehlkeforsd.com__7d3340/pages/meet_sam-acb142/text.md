@@ -15,4 +15,4 @@ It is taken for granted that we will spend infinite amounts of money on our scho
 Mortgages are issued wherein homebuyers pay more than the cost of the entire house just in interest.
 We pay more in health insurance premiums than it costs to actually run the hospitals, but still can't afford to use them, even with insurance.
 We made a world that we can no longer live in, and we need a way out.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

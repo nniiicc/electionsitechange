@@ -44,4 +44,4 @@ Mark Anderson has earned my trust, my respect, and my support.
 Read the full post on Facebook Voter Information Endorsements Contact Privacy Policy Paid for by Mark4CT, Mary Zlotnick,Treasurer.
 Approved by Mark W.
 Anderson.
-Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu
+Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu

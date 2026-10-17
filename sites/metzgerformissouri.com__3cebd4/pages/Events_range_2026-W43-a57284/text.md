@@ -6,4 +6,4 @@ Come ask questions, share what’s on your mind, and hear from both candidates a
 When: Wednesday, October 21, 2026 at 6:00 PM Where: Teamsters Local 823, 1601 S.
 Maiden Ln., Joplin, MO 64801 All are welcome.
 Bring your own chair!
-More info › Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

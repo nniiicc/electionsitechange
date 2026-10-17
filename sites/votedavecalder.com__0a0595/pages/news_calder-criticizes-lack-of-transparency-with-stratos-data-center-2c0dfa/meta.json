@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votedavecalder.com/news/calder-criticizes-lack-of-transparency-with-stratos-data-center",
- "fingerprint": "148233024352bace6b1aa30e869616d41d0f7458",
+ "fingerprint": "36586e9f348766d2b2eb6e155bcb9ca685936cc4",
  "format": 3,
  "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Calder Stresses need for Transparency with the Stratos Project Data Center",
  "years_mentioned": [
   "2026"

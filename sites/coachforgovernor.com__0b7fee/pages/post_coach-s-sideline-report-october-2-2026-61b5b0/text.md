@@ -14,6 +14,6 @@ Senate/Contributed) 9/29/2026 Tuberville presents long-overdue Bronze Stars to B
 Tuberville to Newsmax: US Must 'Open Our Eyes' to Terror Threat WATCH MORE ENDORSEMENT ALERT RECENT HIGHLIGHTS ✓ President Donald J.
 Trump ✓ U.S.
 Senator Katie Britt ✓ U.S.
-Senator Rick Scott ✓ Indiana Governor Mike Braun ✓ Alabama Lieutenant Governor Will Ainsworth ✓ Alabama Senate President Pro Tem Garlan Gudger ✓ Alabama House Speaker Nathaniel Ledbetter ✓ Farmers Federation of Alabama (ALFA) Recent Posts See All Coach's Sideline Report – October 9, 2026 Coach's Sideline Report – September 25, 2026 Coach's Sideline Report – September 18, 2026 DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY TUBERVILLE FOR GOVERNOR, INC.
+Senator Rick Scott ✓ Indiana Governor Mike Braun ✓ Alabama Lieutenant Governor Will Ainsworth ✓ Alabama Senate President Pro Tem Garlan Gudger ✓ Alabama House Speaker Nathaniel Ledbetter ✓ Farmers Federation of Alabama (ALFA) Recent Posts See All Coach's Sideline Report – October 16, 2026 Coach's Sideline Report – October 9, 2026 Coach's Sideline Report – September 25, 2026 DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY TUBERVILLE FOR GOVERNOR, INC.
 P.O.
 BOX 43124 BIRMINGHAM, AL 35243 bottom of page

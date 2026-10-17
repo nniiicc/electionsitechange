@@ -1,5 +1,6 @@
 State Representative District 122 Menu About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate About A Better Deal Fellowship Capitol Corner Constituents Volunteer Donate Capitol Corner A collection of policy papers written by Frye Fellows.
-October 12, 2026 Capitol Corner How Can We Protect Minors At Work Fellow Bianca Orfila-Molinet wrote Sexual violence against minors occurs at an extraordinarily high rate in the United States.
+October 16, 2026 Capitol Corner Protecting Georgia’s Workers From Extreme Heat Fellow Eden Levitt-Horne wrote On a summer afternoon in Georgia, the heat index can climb well past 100 degrees.
+During the late June 2025 heat dome that covered much of the South, … Labor & Economic Development October 12, 2026 Capitol Corner How Can We Protect Minors At Work Fellow Bianca Orfila-Molinet wrote Sexual violence against minors occurs at an extraordinarily high rate in the United States.
 Child sexual abuse refers to the involvement of a child, d… October 2, 2026 Capitol Corner Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage Fellow Madison Lowe wrote High blood pressure.
 Diabetes.
 Infections.

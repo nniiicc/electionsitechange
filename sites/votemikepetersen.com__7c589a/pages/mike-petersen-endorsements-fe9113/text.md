@@ -144,4 +144,4 @@ He is exactly what we need in our state Legislature.
 He will represent us and speak for us the people.
 After meeting with him and discussing some of the issues we face, he has a real solution for each of them.
 Please join me in voting for Mike Petersen.
-Mike Eby Click here to add your endorsement Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu
+Mike Eby Click here to add your endorsement Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

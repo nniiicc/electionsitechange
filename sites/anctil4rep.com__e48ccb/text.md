@@ -1,4 +1,6 @@
-Email Facebook Instagram YouTube Home About The Issues The News Get Involved Donate Email Facebook Instagram YouTube X Home About The News The Issues Get Involved Donate Stop the Mandates.
+Email Facebook Instagram YouTube VOTE TODAY!
+Home About The Issues The News Get Involved Donate Email Facebook Instagram YouTube X VOTE TODAY!
+Home About The News The Issues Get Involved Donate Stop the Mandates.
 End the Corruption.
 Fix Massachusetts.
 The 6th Bristol District is being squeezed by an agenda in Boston that prioritizes out-of-touch mandates over your family’s budget.
@@ -31,7 +33,9 @@ Property Tax Relief We must expand Clause 22 property tax abatements for disable
 Trade Licensing & Business Growth I will waive state trade licensing fees for transitioning service members and enact a mandatory #% state contract procurement goal for local Veteran-Owned Small Businesses.
 Stop the Mandates.
 End the Corruption.
-Fix Massachusetts. ★ ★ ★ ★ ★ Robert Anctil • State Representative • 6th Bristol District Meet Robert Anctil A Life of Hard Work and Service Robert Anctil didn’t learn about the economy from a textbook; he learned it on job sites and by meeting a payroll.
+Fix Massachusetts. ★ ★ ★ ★ ★ Robert Anctil • State Representative • 6th Bristol District ROBERT ANCTIL · 6TH BRISTOL DISTRICT EARLY VOTING LOCATIONS & HOURS Fall River and Freetown · Massachusetts State Election MASSACHUSETTS STATE ELECTION Early voting OCTOBER 17–30 Election day TUESDAY, NOVEMBER 3 FALL RIVER Atrium at Government Center One Government Center, Fall River, MA GET DIRECTIONS Date Voting hours Sat, Oct 17 9:00 AM – 3:00 PM Sun, Oct 18 9:00 AM – 3:00 PM Mon, Oct 19 8:00 AM – 4:00 PM Tue, Oct 20 8:00 AM – 4:00 PM Wed, Oct 21 8:00 AM – 4:00 PM Thu, Oct 22 8:00 AM – 4:00 PM Fri, Oct 23 8:00 AM – 4:00 PM Sat, Oct 24 9:00 AM – 3:00 PM Sun, Oct 25 9:00 AM – 3:00 PM Mon, Oct 26 8:00 AM – 4:00 PM Tue, Oct 27 8:00 AM – 4:00 PM Wed, Oct 28 8:00 AM – 4:00 PM Thu, Oct 29 8:00 AM – 4:00 PM Fri, Oct 30 8:00 AM – 4:00 PM FREETOWN Freetown Police Station 15 Memorial Drive, East Freetown, MA 02717 GET DIRECTIONS Date Voting hours Sat, Oct 17 9:00 AM – 3:00 PM Mon, Oct 19 8:00 AM – 4:00 PM Tue, Oct 20 8:00 AM – 4:00 PM Wed, Oct 21 8:00 AM – 4:00 PM Thu, Oct 22 8:00 AM – 7:00 PM Fri, Oct 23 8:00 AM – 12:00 PM Sat, Oct 24 9:00 AM – 3:00 PM Mon, Oct 26 8:00 AM – 4:00 PM Tue, Oct 27 8:00 AM – 4:00 PM Wed, Oct 28 8:00 AM – 4:00 PM Thu, Oct 29 8:00 AM – 7:00 PM Fri, Oct 30 8:00 AM – 12:00 PM Dates and hours are taken from the supplied municipal schedule and may change.
+Please confirm details with your local election office before visiting.
+Meet Robert Anctil A Life of Hard Work and Service Robert Anctil didn’t learn about the economy from a textbook; he learned it on job sites and by meeting a payroll.
 A graduate of Somerset High School, Robert went straight into the family plumbing business and eventually founded his own commercial plumbing firm in 1991.
 For over 30 years, he has held master licenses in two states and managed massive infrastructure projects from the ground up.
 "Hurricane Bob" Robert’s transition into public service earned him the nickname "Hurricane Bob" for his relentless pursuit of government accountability.

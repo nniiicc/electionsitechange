@@ -2,7 +2,7 @@ top of page Home About Issues Events Contact DONATE October Events All Posts Coo
 Join Bekki Brewer, candidate for State Representative in District 44, and Bill Ellis, Democratic nominee for Boone County Associate Circuit Judge, Division IX, at Cooper's Landing for a relaxed meet & greet and an open Q&A.
 We'll be joined by special guest District 47 State Rep.
 Adrian Plank.
-Bring your questions, bring your neighbors, and come talk about the issues that matter most to working families in District #ago 1 min read Lake of the Woods 10/18 @ 2:00pm Spend your Sunday afternoon on the river with the Brew Crew!
+Bring your questions, bring your neighbors, and come talk about the issues that matter most to working families in District Oct 9 1 min read Lake of the Woods 10/18 @ 2:00pm Spend your Sunday afternoon on the river with the Brew Crew!
 Join Bekki Brewer, candidate for State Representative in District 44, and Bill Ellis, Democratic nominee for Boone County Associate Circuit Judge, Division IX, at Cooper's Landing for a relaxed meet & greet and an open Q&A.
 We'll be joined by special guest Boone County Recorder of Deeds, Bob Nolte.
 Bring your questions, bring your neighbors, and come talk about the issues that matter most to working families in Di Oct 5 1 min read Englewood 10/22 @ 6:00pm Join Bekki Brewer, candidate for State Representative in District 44, in Englewood and bring your questions, bring your neighbors, and come talk about the issues that matter most to working families in District 44.

@@ -3,4 +3,4 @@ Use the interactive map below to explore the district , zoom in on your neighbor
 Is Your Address in District 15?
 Legislative district lines can divide neighborhoods, streets, and even subdivisions.
 The map is a helpful guide, but voters should use Indiana’s official legislator lookup tool to confirm their district using their home address.
-Find Your Legislator Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Find Your Legislator Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

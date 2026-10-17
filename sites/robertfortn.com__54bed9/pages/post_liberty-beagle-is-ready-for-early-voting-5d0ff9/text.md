@@ -1,5 +1,5 @@
 top of page HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE ALL95 BLOG CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE ALL95 BLOG Mobile Home Menu Close All Posts Public Events Liberty Beagle is Ready for Early Voting!
-#ago 1 min read Updated: #ago The first stage is complete!
+#ago # min read Updated: #ago The first stage is complete!
 More than 400 signs delivered across Tennessee.
 Six days of forums, podcasts, emails, questionnaires, sign placing, and conversations.
 A lot of miles - and so many people who made every one worthwhile.

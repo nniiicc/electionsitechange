@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.bryanhopkins4idaho.com/vote",
- "fingerprint": "229843ed8cffea378a2048c24fb8eb09ea75b357",
+ "fingerprint": "04bed6c52a091099afda3b290c1dcb5d72130c09",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

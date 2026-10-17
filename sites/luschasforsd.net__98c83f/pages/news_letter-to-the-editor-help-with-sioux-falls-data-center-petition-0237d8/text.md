@@ -32,4 +32,4 @@ We used to be able to trust politicians to have their constituents’ best inter
 We have to face the fact that big corporate interests are controlling more and more aspects of our life, even in Brandon, SD.
 The time has come for more civic engagement.
 I hope to see you somewhere on the streets of Sioux Falls in the next 2 weeks.
-Manuel Luschas, Brandon, SD Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Manuel Luschas, Brandon, SD Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

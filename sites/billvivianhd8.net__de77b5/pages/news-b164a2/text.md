@@ -1,6 +1,9 @@
 Meet Bill Issues News Volunteer Contribute News Bill Vivian is visiting residents of South Eugene and South Lane County and will represent them all!
 Listening and listening more to citizens and their concerns.
-Follow these conversations in this news feed- 15 Oct Thursday, 5:05 PM · 2026 U of O Ducks Football Game with Signs & Eugene Police Wonderful game day and Bill Vivian with many campaign signs shown to Eugene and Lane County stadium goers.
+Follow these conversations in this news feed- 16 Oct Friday, 7:01 AM · 2026 Condolences to Bend Families Unbelievable evil actions of mentally ill and/or drug addictive individuals are safety risk to all society.
+Praying for peace and thanks to the 2A concealed weapon hero that stopped more deaths.
+Flags at half staff.
+15 Oct Thursday, 5:05 PM · 2026 U of O Ducks Football Game with Signs & Eugene Police Wonderful game day and Bill Vivian with many campaign signs shown to Eugene and Lane County stadium goers.
 Even had a selfie with Eugene Police motorcyclist with Ducks helmet!
 Go Ducks!
 15 Oct Thursday, 4:57 PM · 2026 LookOut Eugene-Springfield Article Great read for comparing incumbent to Bill Vivian's candidacy. https://lookouteugene-springfield.com/story/government-politics/2026/10/14/incumbent-fragala-faces-republican-challenger-vivian-in-house-district-8-e 28 Sep Monday, 2:21 PM · 2026 Eugene Blue Protest includes Bill Vivian Sign I have two ears to hear, so I attended weekly Eugene BLUE public street protest at Willamette & 29th St.
@@ -95,4 +98,4 @@ She voted YES on Senate Bill 1599 Relating to a special election date for Refere
 Thus moving the Oregon citizens petition referenced from November 2026 to May 2026 AGAINST the citizens wishes!
 Her run in 2024 had raised a total of $# from unions, Building a stronger Oregon (Democratic machine), Oregon Education Association.
 Read more VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News U of O Ducks Football Game with Signs & Eugene Police LookOut Eugene-Springfield Article Eugene Blue Protest includes Bill Vivian Sign Candidates Q&A Event- Out of the Horse's Mouth Oregon Pro-Life Gala Atttendance Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com - Political Websites Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+News Condolences to Bend Families U of O Ducks Football Game with Signs & Eugene Police LookOut Eugene-Springfield Article Eugene Blue Protest includes Bill Vivian Sign Candidates Q&A Event- Out of the Horse's Mouth Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,9 +1,10 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.mcgillforindiana.com/issues/sample_issue",
- "fingerprint": "1cccfa29085b8b0bb349dae85a7e629b64558ef2",
+ "fingerprint": "d871d1a392bd0a94edba05235b75f2c740959265",
  "format": 3,
  "paid_for_by": "Paid for by McGill For A Better Indiana Powered by CampaignPartner",
+ "rendered": false,
  "title": "Affordability",
  "years_mentioned": []
 }

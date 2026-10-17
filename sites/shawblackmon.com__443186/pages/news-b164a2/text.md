@@ -151,5 +151,5 @@ Lee K.
 Levy at Georgia State Capitol ATLANTA – State Representative Shaw Blackmon (R-Bonaire), along with Representatives Heath Clark (R-Warner Robins), Robert Dickey (R-Musella), Bubber Epps (R-Dry Branch) and Buddy Harden (R-Cordele), recently led the Georgia House of Representatives in recognizing Lieutenant General Lee K.
 Levy II, Commander of the United States Air Force Sustainment Center at Tinker Air Force Base in Oklahoma, at the Georgia State Capitol on Wednesday, February 17, 2016.
 Read more Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

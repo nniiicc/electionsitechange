@@ -6,4 +6,4 @@ Giving the NPAs a say in the primaries.
 We may get more than a 10% turnout.
 I will be adding to this as I go along.
 If you want a Solution, tell me your issue.
-Thank you, Christopher Anger Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com - Political Websites Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu
+Thank you, Christopher Anger Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu

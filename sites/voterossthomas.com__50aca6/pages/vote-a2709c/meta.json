@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.voterossthomas.com/vote",
- "fingerprint": "fe5770ff401116605944273daa7c7d7d8990be7b",
+ "fingerprint": "c3bd909cd4f9374d3abc893f677f9007e694c4f8",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

@@ -101,5 +101,5 @@ For additional information regarding legislation passed by both the House and Se
 It is an honor to serve you in the State House and I encourage you to share your thoughts on how I can best support our district and what matters most to you and your family, as your input is invaluable.
 My top priority is to continue working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective government.
 In service, Rep.
-Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

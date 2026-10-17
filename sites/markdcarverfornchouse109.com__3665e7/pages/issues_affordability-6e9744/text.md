@@ -4,4 +4,4 @@ Groceries: I will work tirelessly to protect local farms and promote the availab
 Taxation: Property tax rates for young homebuyers should reflect the incredible benefit that home ownership presents for the working class, possibly in the form of lower rates for the first three years.
 Stagnant wages: I believe that every single North Carolinian should be compensated fairly for their labor.
 We must ensure that all employers operating in our state pay their employees a wage that reflects the reality of our current Cost of Living.
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

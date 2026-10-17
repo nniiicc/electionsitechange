@@ -14,4 +14,4 @@ The common sense conservative attempts to build bridges rather than burn them.
 But he does not abandon his principles to achieve this purpose.
 That's why Gary has been describe as a common sense conservative.
 When you send him to Columbus, he will continue fighting for the conservative values and principles that you believe in with a passion, but also with compassion.
-Next: Pro Life » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+Next: Pro Life » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

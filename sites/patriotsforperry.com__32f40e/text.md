@@ -55,5 +55,5 @@ My video below was posted in Dec.
 Democrat lawmakers openly called for Sedition; they’re hypocrites, their actions disgraceful and dishonorable, and they should be held accountable.
 The video I posted back then is below.
 To reiterate, Janelle Stelson is a lying fake and unfit to serve.
-192 82 22 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+1244 501 221 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
 Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

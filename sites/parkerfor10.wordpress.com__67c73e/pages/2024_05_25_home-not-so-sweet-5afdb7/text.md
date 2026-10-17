@@ -18,7 +18,9 @@ Because Idaho Republicans don’t believe in protecting their citizens from pred
 In fact, when the city of Boise passed laws to protect renters, the state legislature shot them down.
 Gotta let those profits flow!
 Elect Democrats if you want someone to care about your economic stresses.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Worse than Deja Vu → Without a Heart Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Create a free website or blog at WordPress.com.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Worse than Deja Vu → Without a Heart Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
-Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Create your own website, free on WordPress.com.
+Create your own website.
+Start free

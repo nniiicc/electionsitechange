@@ -5,6 +5,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=116+cleghorn+street+villa+rica%2C+georgia%2C+30180+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1501+13th+street+columbus%2C+georgia%2C+31901+united+states"
 },
 {
@@ -18,6 +22,10 @@
 {
 "text": "0",
 "href": "https://maurakeller.com/cart"
+},
+{
+"text": "Alfred Wilson Funeral Home",
+"href": "http://maps.google.com?q=116+cleghorn+street+villa+rica%2C+georgia%2C+30180+united+states"
 },
 {
 "text": "Back",
@@ -269,6 +277,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Maura+Keller+in+Carroll+County&dates=20261018T180000Z%2F20261018T210000Z&location=116+Cleghorn+Street%2C+Villa+Rica%2C+Georgia%2C+30180%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Newnan-Coweta+Chamber+of+Commerce+Candidate+Forum&dates=20261019T230000Z%2F20261020T000000Z"
 },
 {
@@ -421,6 +433,10 @@
 },
 {
 "text": "ICS",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://maurakeller.com/events/rally-with-keisha-milner?format=ical"
 },
 {
@@ -480,6 +496,10 @@
 "href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
+"text": "Meet and Greet with Maura Keller in Carroll County",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
+},
+{
 "text": "Newnan-Coweta Chamber of Commerce Candidate Forum",
 "href": "https://maurakeller.com/events/candidate-forum"
 },
@@ -510,6 +530,10 @@
 {
 "text": "Read more →",
 "href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
 },
 {
 "text": "Read more →",
@@ -670,6 +694,10 @@
 {
 "text": "View Event →",
 "href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
 },
 {
 "text": "View Event →",
@@ -834,6 +862,14 @@
 {
 "text": "[image: Meet and Greet and Canvass with Maura Keller | Muscogee County]",
 "href": "https://maurakeller.com/events/canvass-10-09-muscogee"
+},
+{
+"text": "[image: Meet and Greet with Maura Keller in Carroll County]",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
+},
+{
+"text": "[image: Meet and Greet with Maura Keller in Carroll County] Oct 18",
+"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
 },
 {
 "text": "[image: Newnan-Coweta Chamber of Commerce Candidate Forum]",

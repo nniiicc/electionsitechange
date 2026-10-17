@@ -2,7 +2,13 @@ COMMUNITY INFORMATION · INFORMACIÓN PARA LA COMUNIDAD Questions that affect ev
 Current developments, upcoming changes and practical resources.
 Una guía no partidista para residentes del sur de Nevada.
 Acontecimientos actuales, próximos cambios y recursos prácticos.
-Information checked / Información verificada: October 12, 2026 · 12 de octubre de 2026 English Español English Upcoming · January 2027 1.
+Information checked / Información verificada: October 12, 2026 · 12 de octubre de 2026 English Español ICE & legal help ICE y ayuda legal Childcare funding Cuidado infantil ICE and legal-help sections checked October 15, 2026.
+Childcare funding sections checked October 16, 2026.
+Other sections retain their October 12 research date.
+Secciones sobre ICE y ayuda legal verificadas el 15 de octubre de 2026.
+Secciones sobre financiamiento del cuidado infantil verificadas el 16 de octubre de 2026.
+Las demás secciones conservan su fecha de investigación del 12 de octubre.
+English Upcoming · January 2027 1.
 Who faces new Nevada Medicaid requirements?
 Nevada says some members will need to work, volunteer, or attend school beginning January 1, 2027.
 Exemptions include certain parents, pregnant people, people with disabilities or serious health conditions, and people age 65 or older.
@@ -47,7 +53,57 @@ The Small Business Administration and its resource partners offer free or low-co
 Use the local assistance directory to find help with business planning and financing questions.
 Counseling does not guarantee approval for a loan or grant.
 Source: U.S.
-Small Business Administration What could lawmakers consider?
+Small Business Administration Rights and legal help · checked October 15, 2026 8.
+What can I do during an encounter with ICE?
+You can assert your right to remain silent and ask to speak with an attorney.
+Do not run, physically resist, lie, or present false documents.
+Do not sign documents you do not understand; ask for legal advice and an interpreter.
+Immigration proceedings generally do not provide a government-paid lawyer.
+Ask about free legal services.
+If officers come to your home, ask to see their warrant without opening the door and say if you do not consent to entry.
+A judicial warrant and an ICE administrative warrant are different.
+Home-entry practices are being contested in court; do not physically resist if officers enter.
+Seek legal advice promptly.
+Sources: Legal Aid: know your rights (Spanish resources available) · Detention and legal representation Possible legal remedies · individual review required 9.
+What if I experience harassment, misconduct, or detention?
+As soon as it is safe, record the date, location, officers’ identifying information, and witness contacts.
+Preserve notices, messages, photographs, videos, and medical records.
+Share sensitive information privately with your attorney.
+A qualified attorney can assess a misconduct complaint, possible court action, and whether detention can be challenged.
+Depending on the case, options may include a bond hearing, a habeas corpus petition challenging detention, or an emergency request to a court.
+Eligibility, deadlines, and court authority vary; release, compensation, or a halt to removal is not guaranteed.
+Filing a complaint alone does not stop detention or deportation and does not extend court deadlines.
+Harassment by an employer, landlord, or private individual may involve different discrimination, retaliation, or criminal laws.
+Tell the attorney who was involved and exactly what happened.
+Resource: Legal Aid Immigration Advocacy Project .
+This is general legal information, not advice for an individual case.
+Southern Nevada · English and Spanish resources 10.
+Where can I seek immigration legal help?
+Contact Legal Aid Center of Southern Nevada: 702-386-1070 , option 4 .
+Ask whether its Immigration Advocacy Project can help with your particular case or suggest another resource.
+Representation depends on case type, eligibility, and availability.
+Legal Aid: immigration services and applications Childcare funding · checked October 16, 2026 11.
+How can affordable childcare be funded?
+Affordable, dependable childcare helps parents work or attend training.
+Families also need options that fit evening, overnight, and weekend shifts.
+Several funding routes exist: Federal childcare subsidies: The Child Care and Development Fund helps eligible families pay for care through Nevada’s Child Care and Development Program.
+Congress can consider increasing federal funding to reach more families and support providers.
+Head Start and Early Head Start: These programs provide early education and family services.
+Early Head Start partnerships with childcare providers can support full-day, full-year care.
+Services and schedules vary by provider.
+TANF family assistance funds: Federal rules permit states to use some Temporary Assistance for Needy Families funds directly for childcare or transfer a permitted portion into the childcare fund.
+Nevada would need to examine its commitments and the effect on other family services.
+Employer contributions: Businesses can invest in childcare facilities or contract with qualified providers.
+An existing federal employer childcare tax credit can offset qualifying costs.
+Employers must meet IRS requirements.
+State and local investment: State and local governments can consider additional funding and partnerships, subject to their budgets and legal authority.
+What could Congress do?
+Consider increased subsidy funding, support for providers and childcare workers, and better access during nontraditional working hours.
+Additional federal spending requires a defined budget and an enacted funding measure.
+A member of Congress can advocate for funding and help organizations navigate grants; agencies award funds under program rules.
+For families seeking help now: Contact Nevada’s childcare assistance program about eligibility, application requirements, and available funding.
+These programs are existing funding routes, not confirmation of unused money or a guaranteed subsidy.
+Sources: Nevada childcare assistance · Federal childcare fund · Early Head Start partnerships · TANF childcare guidance · Employer childcare tax credit What could lawmakers consider?
 Possible legislative approaches include simpler benefit notices and appeals, funding for affordable housing, enforcement of wage laws, and changes to immigration processing capacity or fees.
 These are policy options for public discussion, not claims that a bill has been introduced or enacted.
 Each would need a defined scope, funding, and evaluation of costs and benefits.
@@ -90,7 +146,52 @@ La Administración de Pequeñas Empresas (SBA) y sus organizaciones colaboradora
 Use el directorio local para buscar ayuda con planes de negocio y financiamiento.
 La asesoría no garantiza la aprobación de un préstamo o subvención.
 Fuente: U.S.
-Small Business Administration ¿Qué podrían considerar los legisladores?
+Small Business Administration Derechos y ayuda legal · verificado el 15 de octubre de 2026 8. ¿Qué puedo hacer durante un encuentro con ICE?
+Puede ejercer su derecho a guardar silencio y pedir hablar con un abogado.
+No huya, no oponga resistencia física, no mienta ni presente documentos falsos.
+No firme documentos que no entienda; solicite asesoría legal y un intérprete.
+En los procedimientos migratorios, por lo general el gobierno no le proporciona un abogado pagado.
+Pregunte por servicios legales gratuitos.
+Si los agentes llegan a su casa, pida ver la orden sin abrir la puerta e indique si no da su consentimiento para entrar.
+Una orden judicial y una orden administrativa de ICE son distintas.
+Las prácticas de entrada a viviendas se están impugnando en los tribunales; no oponga resistencia física si los agentes entran.
+Busque asesoría legal cuanto antes.
+Fuentes: Legal Aid: conozca sus derechos (recursos en español) · Detención y representación legal Posibles recursos legales · requieren evaluación individual 9. ¿Qué puedo hacer si sufro acoso, abuso de autoridad o detención?
+Cuando sea seguro, anote la fecha, el lugar, los datos que identifiquen a los agentes y los contactos de testigos.
+Guarde avisos, mensajes, fotografías, videos y registros médicos.
+Comparta información delicada de manera privada con su abogado.
+Un abogado calificado puede evaluar una queja por conducta indebida, posibles acciones judiciales y si se puede impugnar la detención.
+Según el caso, las opciones pueden incluir una audiencia de fianza, una petición de habeas corpus para impugnar la detención o una solicitud urgente ante un tribunal.
+La elegibilidad, los plazos y la autoridad del tribunal varían; no se garantiza la liberación, una indemnización ni la suspensión de la deportación.
+Presentar una queja por sí solo no detiene la detención ni la deportación y no amplía los plazos judiciales.
+El acoso de un empleador, arrendador u otra persona puede estar sujeto a otras leyes sobre discriminación, represalias o delitos.
+Explique al abogado quién participó y exactamente qué ocurrió.
+Recurso: Proyecto de Asesoría Migratoria de Legal Aid .
+Esta información legal es general; no es asesoría para un caso individual.
+Sur de Nevada · recursos en inglés y español 10. ¿Dónde puedo buscar ayuda legal migratoria?
+Comuníquese con Legal Aid Center of Southern Nevada: 702-386-1070 , opción 4 .
+Pregunte si su proyecto de asesoría migratoria puede ayudar con su caso o recomendar otro recurso.
+La representación depende del tipo de caso, la elegibilidad y la disponibilidad.
+Legal Aid: servicios migratorios y solicitudes Financiamiento del cuidado infantil · verificado el 16 de octubre de 2026 11. ¿Cómo se puede financiar el cuidado infantil asequible?
+El cuidado infantil asequible y confiable permite que los padres trabajen o reciban capacitación.
+Las familias también necesitan opciones para turnos nocturnos y fines de semana.
+Existen varias fuentes posibles de financiamiento: Subsidios federales para el cuidado infantil: El Fondo para el Cuidado y Desarrollo Infantil (CCDF) ayuda a las familias elegibles a pagar el cuidado mediante el programa de Nevada.
+El Congreso puede considerar aumentar los fondos federales para atender a más familias y apoyar a los proveedores.
+Head Start y Early Head Start: Estos programas ofrecen educación temprana y servicios para las familias.
+Las alianzas de Early Head Start con proveedores de cuidado infantil pueden ofrecer atención de jornada completa durante todo el año.
+Los servicios y horarios varían según el proveedor.
+Fondos de asistencia familiar TANF: Las reglas federales permiten que los estados usen parte de los fondos de Asistencia Temporal para Familias Necesitadas directamente para el cuidado infantil o transfieran una parte permitida al fondo de cuidado infantil.
+Nevada tendría que revisar sus compromisos y las consecuencias para otros servicios familiares.
+Aportaciones de empleadores: Las empresas pueden invertir en instalaciones de cuidado infantil o contratar servicios con proveedores que cumplan los requisitos.
+Ya existe un crédito fiscal federal para compensar ciertos gastos de los empleadores.
+Deben cumplirse los requisitos del IRS.
+Inversión estatal y local: Los gobiernos estatal y locales pueden considerar fondos adicionales y alianzas, según sus presupuestos y facultades legales. ¿Qué podría hacer el Congreso?
+Considerar mayores fondos para subsidios, apoyo a proveedores y trabajadores del cuidado infantil, y mejor acceso para quienes trabajan en horarios no tradicionales.
+Todo gasto federal adicional requiere un presupuesto definido y una medida de financiamiento aprobada conforme a la ley.
+Un representante puede impulsar fondos y orientar a organizaciones sobre subvenciones; las agencias otorgan el dinero según las reglas de cada programa.
+Para familias que necesitan ayuda ahora: Consulte al programa de asistencia de cuidado infantil de Nevada sobre elegibilidad, requisitos y fondos disponibles.
+Estas son vías de financiamiento existentes; no confirman dinero sin comprometer ni garantizan un subsidio.
+Fuentes: Asistencia de cuidado infantil de Nevada · Fondo federal de cuidado infantil · Alianzas de Early Head Start · Orientación sobre TANF · Crédito fiscal para empleadores ¿Qué podrían considerar los legisladores?
 Entre las opciones están avisos y apelaciones de beneficios más sencillos, fondos para vivienda asequible, cumplimiento de leyes salariales y cambios en la capacidad de procesamiento o tarifas migratorias.
 Son opciones para debate público; no se afirma que exista un proyecto presentado o una ley aprobada.
 Cada opción requiere definir su alcance, financiamiento, costos y beneficios.

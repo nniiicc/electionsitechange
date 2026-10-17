@@ -97,4 +97,4 @@ Having lunch with Mayor of Manteno and our new Joliet Precinct 4 Committeewoman.
 Attending the ACCT conference in LA, grabbed a photo with Governor Jeff Landry, who was the opening speaker.
 Supporting the New TPUSA Student Group in Barrington with the BTRO.
 Our new Campaign Coordinator Filed Petitions to get on the Ballot.
-Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu
+Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

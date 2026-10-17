@@ -15,11 +15,11 @@ Tickets are selling Fast !
 2/10-3/18/26 - Nomination Paper Signature Capture ----- Sunday April 12, 2026 - Coffee Social Event/Campaign Kick off. [Coffee, Tea, Hot Chocolate, and Baked Goods] Location: Stackhouse Club 16 Faith Street, Dartmouth MA 02748 Time: 2:00-4:00pm Minimum Donation $# please.
 Make checks Payable to Pacheco Committee.
 No corporate checks please.
-Please email or contact us for tickets ! ---- #ago This Week This Month ‹ Previous Fri Oct 16 2026 - Sat Oct 16 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Stand Out Corner of Cove St and Dartmouth St , Dartmouth, MA, 02748 Add your event description here More info › 22 Oct Thursday, 5:00 PM – 8:00 PM Cocktail Party 427 County Street, New Bedford, MA, 02740 Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
+Please email or contact us for tickets ! ---- #ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Stand Out Corner of Cove St and Dartmouth St , Dartmouth, MA, 02748 Add your event description here More info › 22 Oct Thursday, 5:00 PM – 8:00 PM Cocktail Party 427 County Street, New Bedford, MA, 02740 Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
 Cash Bar, Light Appetizers, Music.
 Tickets $50 prior to Oct 17, $60 afterwards.
 No Corporate Checks, Please.
 Make check payable to Pacheco Committee or reserve online by making your donation @ pachecoforthepeople.com, click donate, select donation amount and type cocktail in the memo line.
 Tickets will not be issued for this event.
 Please check in upon arrival.
-More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

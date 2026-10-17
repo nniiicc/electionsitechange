@@ -1,4 +1,4 @@
-Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Privacy Policy This privacy notice discloses the privacy practices for this website.
+Home Meet Julie Endorsements Q&A Videos/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Privacy Policy This privacy notice discloses the privacy practices for this website.
 This privacy notice applies solely to information collected by this website.
 Information Collection, Use, and Sharing We collect information you provide directly to us.
 For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, request support, send us an email, or otherwise communicate with us.
@@ -9,4 +9,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu
+Contribute Issues Contact Videos/News Privacy Policy Meet Julie Q&A Vote Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com Home Issues Meet Julie Contact Videos/News Contribute Q&A Endorsements Vote Event Photos Yard Signs Close Menu

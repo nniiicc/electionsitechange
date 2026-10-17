@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://kramerforalabama.com/vote",
- "fingerprint": "7e25817b123e29384a949b1832ce52e6222b0197",
+ "fingerprint": "f440c316c78716b1671d7dd56c3436e41abe1419",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

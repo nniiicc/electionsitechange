@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts D-Day: 82 Years Later, Remembering Those Who Fought and Died to End Tyranny Shubert for Ohio Jun 6 2 min read Updated: Jun 6 June 6, 1944 is a day we must never forget.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts D-Day: 82 Years Later, Remembering Those Who Fought and Died to End Tyranny Shubert for Ohio Jun 6 2 min read Updated: Jun 6 June 6, 1944 is a day we must never forget.
 Some 4,000 Allied troops died that day fighting the armies of Nazi Germany, which had overthrown France in its march toward communist control of Europe.
 The amphibious invasion on the beaches of Normandy – codenamed “Operation Overlord” – landed more than 155,000 American, British, and Canadian troops.
 It was the largest air, land, and naval operation in history to that point.

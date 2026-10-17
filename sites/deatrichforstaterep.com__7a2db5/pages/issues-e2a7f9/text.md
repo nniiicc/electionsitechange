@@ -7,4 +7,4 @@ Before or after school day care assistance for working parents earning a wage ab
 More hours worked earns more childcare credit and assistance.
 Less hours worked requires less outside childcare assistance.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

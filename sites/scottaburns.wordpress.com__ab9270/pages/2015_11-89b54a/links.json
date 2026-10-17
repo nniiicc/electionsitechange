@@ -104,10 +104,6 @@
 "href": "https://scottaburns.wordpress.com/2020/02/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Happy Thanksgiving",
 "href": "https://scottaburns.wordpress.com/2015/11/26/happy-thanksgiving/"
 },
@@ -289,6 +285,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

@@ -45,4 +45,4 @@ High risk juvenile sex offenders are placed on the public sex offender registry 
 Even after the juvenile sex offender reaches “majority,” or the age of 19, they may still have to register for a period of 10 years from their first registration or must comply with lifetime registration depending on their offense and their age at the time of the offense.
 State law also holds that juvenile sex offenders aren’t allowed to work or volunteer “at any school, childcare facility, or any other business or organization that provides service primarily to children” but may not fall under the same living and employment restrictions as an adult sex offender once the juvenile sex offender reaches age 19.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

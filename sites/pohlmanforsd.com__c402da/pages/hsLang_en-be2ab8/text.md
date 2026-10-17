@@ -95,7 +95,11 @@ District 10 and SD would be fortunate to have him working for us." Jenny Olson B
 I have known John professionally for many years and have consistently seen his exceptional leadership skills in action.
 He is thoughtful, capable, and deeply committed to serving the people of Sioux Falls.
 I am confident he will represent our city and District 10 with integrity and effectiveness in Pierre.
-I urge voters to support John Pohlman." Support the Campaign Help Bring Experienced Leadership to Pierre.
+I urge voters to support John Pohlman." Trevor Jones Former Secretary of SD Department of Public Safety "Over 50 years, that’s how long I have known John Pohlman.
+He’s loyal and patient - qualities that will serve him well as the Representative for District 10, John’s home district since 1986.
+A vote for John is vote for someone whose word is a his bond and whose intellect will diligently process both sides of an issue.
+He’ll always make decisions that align with his values and are in the best interests of his constituents.
+District 10 is lucky to have such a great candidate." Support the Campaign Help Bring Experienced Leadership to Pierre.
 Your support makes a difference.
 Donate – Invest in a stronger District 10 Volunteer – Knock doors, make calls, spread the word Host an Event – Bring neighbors together Together, we can deliver results for Sioux Falls.
 Take Action Be part of the campaign: Sign up for updates Request a yard sign Volunteer your time Encourage friends and family to vote Election Day is November 3rd.

@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Author: admin NO KINGS Rally Posted : Oct 20, 2025 in : Uncategorized by : admin It was great getting to attend the NO KINGS rally in Indianola and Des Moines this weekend!
+Skip to content Home About Issues Press Get Involved DONATE Author: admin NO KINGS Rally Posted : Oct 20, 2025 in : Uncategorized by : admin It was great getting to attend the NO KINGS rally in Indianola and Des Moines this weekend!
 Candidacy for House District 22 Posted : Sep 29, 2025 in : Uncategorized by : admin On August 17th, I announced my candidacy for Iowa House District 22, emphasizing the need for a representative committed to all Iowans rather than special interests.
 I am dedicated to working hard for my constituents and sincerely seek their support in this endeavor.
 Let’s unite for this common goal.

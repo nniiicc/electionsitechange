@@ -30,4 +30,4 @@ Friends of Matt Roby may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
 Paid for by Friends of Matt Roby.
-Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

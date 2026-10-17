@@ -4,4 +4,4 @@ Affordability, education, housing, healthcare, climate change, income inequality
 I am prepared to tackle these challenges and look forward to working with you.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com - Political Websites Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu
+Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu

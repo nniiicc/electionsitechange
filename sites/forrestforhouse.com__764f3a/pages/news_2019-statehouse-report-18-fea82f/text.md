@@ -46,4 +46,4 @@ The Senate has yet to take up this bill.
 These bipartisan bills reflect South Carolina’s strong military tradition and show appreciation to our veterans.
 As your State Representative, I am honored to serve you in Columbia.
 Please feel free to contact me with any comments, issues, or concerns that you may have.
-Sincerely, Cal Forrest Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Sincerely, Cal Forrest Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

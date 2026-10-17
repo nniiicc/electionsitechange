@@ -49,4 +49,4 @@ Community Policing Initiatives : Enhance community policing programs to build tr
 Encourage officers to engage with the community through outreach programs, neighborhood patrols, and local events.
 My comprehensive plan emphasizes a focus on people over politics, prioritizing family involvement, public safety, fiscal responsibility, and community-driven initiatives.
 It aims to create a stronger, safer, and more connected Prince George's County and Maryland.
-Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com - Political Campaign Websites Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu
+Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu

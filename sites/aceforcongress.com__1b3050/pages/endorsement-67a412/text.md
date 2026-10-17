@@ -16,7 +16,21 @@ I am confident in his leadership and his dedication to representing all of us wi
 Congress District 2: “It’s time West Virginia had a representative in Congress who will show up and talk to people who are not millionaire donors.
 Ace Parsi has been out in public in Morgantown for many years, meeting with people one-on-one and in groups, asking people what they need and then organizing around that.
 I'm sure he will do this for West Virginia's entire 2nd Congressional District.
-We need Ace’s leadership at this critical time in our history. ” Kendra Fershee, 2018 Democratic Nominee for U.S.
+We need Ace’s leadership at this critical time in our history. ” Danielle Trumble, Mayor, Morgantown, WV "As a local elected official, I have witnessed Ace's ability and willingness to show up for his neighbors and our community time and time again.
+I have admired his campaign- traveling to every corner of our district, engaging with citizens who don't always agree with him, listening to those who feel forgotten or overlooked, and speaking up for those whose voices haven't been heard.
+Ace has my support because I know he will continue to act with integrity, accessibility, and transparency and will always keep the people he represents top of mind." Wellsburg WV Mayor Daniel L.
+Dudley "I strongly endorse Ace Parsi.
+I believe change is needed in West Virginia and Ace will fight for all of us" Martinsburg, WV Mayor Kevin Knowles "I’m proud to endorse Ace for Congress because he understands that public service is about people, not politics.
+He will listen, work across differences, and fight for a strong voice for our communities.
+That’s the leadership I’m proud to support." Susan Thomas, President, County Commission of Harrison County, WV "Ace Parsi is a candidate for Congress in District 2 for West Virginia.
+He will be a congressman for all people in WV, he has campaigned very, very hard.
+I have seen him in Harrison County on several occasions and have seen on social media that he has been out there pounding the pavement, knocking on doors and actually talking to the people wherever he is.
+I believe he will serve us well and that's why he has my full endorsement!" Sherry Johnson, Mayor of Cameron, WV "From our first meeting, it was obvious that Ace gets it.
+He is aware of the everyday struggles that everyday West Virginians are facing.
+He definitely isn’t one of the suit-wearing politicians pandering to the DC elite career politicians and corporations.
+When elected, Ace will take care of the needs of his constituents first and fight to save WV’s beautiful natural resources that have been sold to the highest bidder for way too many decades.
+They say a picture is worth a thousand words.
+Compare Ace’s campaign stops to his opponent’s and see which one is more representative of your needs." Kendra Fershee, 2018 Democratic Nominee for U.S.
 Congress District 1: “ Ace is what America is all about.
 His family came to America in search of freedom, and he wants to ensure that the promise of America lives on for generations to come.
 Ace's devotion to West Virginia is rooted in the values he shares with West Virginians, such as care and responsibility, because West Virginians look out for each other.

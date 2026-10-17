@@ -1,4 +1,4 @@
-Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Terms of Service Last updated: 10/16/2026 1.
+Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Terms of Service Last updated: 10/17/2026 1.
 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
 2.
 Use License Permission is granted to temporarily download one copy of the materials (information or software) on the Kathy McKinstry Campaign's website for personal, non-commercial transitory viewing only.

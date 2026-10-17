@@ -52,6 +52,14 @@ Reinvest in Rural Hospitals and ICU Preservation : Fully draw down available fed
 Cover Ancillary Fees for Technical Trade Students : Amend the HOPE Career Grant to cover mandatory testing, lab fees, and fuel surcharges for CDL and trade students who commit to working in rural Georgia for two years post-graduation.
 Enforce Hospital Price Transparency : Hold healthcare facilities accountable to state and federal price transparency rules so working families know procedure costs upfront, while helping rural hospital boards maintain compliance to avoid self-inflicted $2 million federal fines.
 By supporting our farmers, investing in our trade students, protecting our local emergency rooms, and demanding fair healthcare pricing, we can keep District 157 strong, independent, and prosperous for generations to come.
+THE FIELD REPORT • HEALTHCARE WATCH Get Direct Updates on Rural Healthcare & Hospital Solvency We track Georgia General Assembly healthcare bills, hospital tax credit rules, and rural EMS funding affecting District 157.
+No spam, no consultant spin - just plain-English dispatches.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • 1.

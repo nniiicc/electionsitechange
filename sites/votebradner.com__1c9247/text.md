@@ -1,4 +1,4 @@
-0 Skip to Content Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW This State belongs to us!
+0 Skip to Content About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW This State belongs to us!
 Jonathan is a local pastor and advocate who’s running for State Representative in Ohio’s 29th District.
 He is the kind of person whose calling to serve started early.
 When he was just 13, he earned a Presidential Volunteer Service Award.

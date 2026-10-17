@@ -11,4 +11,4 @@ It will require the dedication, steadfastness, and perseverance of a fighter; no
 I am that fighter capable of bringing about the conservative change we need.
 I ask for your support and prayers in this great challenge.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

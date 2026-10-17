@@ -14,16 +14,16 @@ Leader, Mother, and Your NC House 57 Representative!
 Leader, Mother, and Your NC House 57 Representative!
 Leader, Mother, and Your NC House 57 Representative!
 My heart is here in North Carolina where I was born and raised.
-LEARN MORE My rallying call for the sanity in the middle ...
-I am a mother, wife, friend, businesswoman, advocate, and philanthropist.
+LEARN MORE My mama bear plea: I am a mother, wife, friend, businesswoman, advocate, and philanthropist.
 I am not a politician.
 Or shall we say, I wasn’t until I became angry enough to get off the sidelines and speak out and vote against the MAGA extremism we are seeing in today’s society.
-North Carolina is a purple state: 40% Independent, 30% Dem, and 30% GOP.
-In Guilford County, we are 39% Dem, 38% Independent, and 23% GOP ( source ).
-Let’s not let the minority extremes of the political party spectrum silence the majority in the middle.
-In the 2025-2026 session, I had a 96% attendance and proudly made 755 votes on behalf of my constituents, 68% with the GOP majority and 32% against .
-This is the exact average for our NC House Democratic members.
-I believe this shows my middle-of-the-road bipartisanship to support common-sense, decent legislation by my GOP colleagues while still being a big, loud NO vote against the extreme MAGA agenda and GOP dysfunction.
+I am a mother in America who is tired of seeing my children's public schools underfunded due to MAGA prioritizing private school vouchers for wealthy families rather than public schools that educate 84% of children across our state.
+I am a mother in America who is tired of seeing sweet, innocent children shot and killed due to MAGA caring more about their 2nd Amendment right than a child's right to life.
+The irony in that statement is not lost on me.
+I am a mother in America who is tired of seeing my gas, grocery, and utility bills skyrocket and my constituents struggle to live paycheck to paycheck due to MAGA caring more about billionaires and lobbyists from big corporations lining their campaign accounts.
+I am a mother.
+And I am tired.
+But I'm will continue to be a big, loud NO vote against the extreme MAGA agenda and GOP dysfunction until our country and state rids itself of this MAGA cult and the hatred, bigotry, sexism, racism, misinformation, disinformation, fraud, and corruption that comes with it.
 Keep reading ...
 Join me on social: Upcoming Town Halls About Me: I am your proud NC House Representative for District 57 (Northern Greensboro).
 In August 2024, I was elected by Guilford County Democratic Party leaders and appointed by Gov.

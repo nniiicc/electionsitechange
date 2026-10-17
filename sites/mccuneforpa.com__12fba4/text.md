@@ -10,5 +10,6 @@ Whether it’s something that’s working, something that isn’t, or a change y
 Fill out the form and start the conversation.
 Together, we can find real solutions and build a future that works for everyone.
 Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. of Number Way Name * First Last Phone Number Email * Preferred Way of contact Call Text Email Comment or Message Submit Stay informed Here are other Republicans running in Pennsylvania Stacy Garrity - Governor Jason Richey - Lt.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Phone Number Email * Preferred Way of contact Call Text Email Message Name Comment Comment or Message Submit Stay informed Here are other Republicans running in Pennsylvania Stacy Garrity - Governor Jason Richey - Lt.
 Governor James Hayes - Congress PA-12 I am Here for you!

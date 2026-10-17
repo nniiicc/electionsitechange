@@ -72,10 +72,15 @@ That’s just good manners.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
-2 Responses Charlie Larkin says: September 1, 2026 at 6:33 pm When I met you at Grand Rapids, I was already impressed, and meeting you confirmed all these things.
+4 Responses Charlie Larkin says: September 1, 2026 at 6:33 pm When I met you at Grand Rapids, I was already impressed, and meeting you confirmed all these things.
 Your integrity, your character, and your ideas make you far more suited for holding the office of United States Senator than either major party candidate, and certainly far better than the late Senator Graham.
 I can only hope that the people of South Carolina will fully realize what a marvelous opportunity they have in you, Kasie, and that enough people realize it to give you the opportunity you and the rest of the people of South Carolina, deserve, and need, and in doing so, opening the doors for other Libertarians, so that actual parity can be returned to American governance.
 Reply kasiesc says: September 1, 2026 at 6:43 pm Thank you, Charlie!
+Reply Andy D says: October 12, 2026 at 2:31 am Good job with the debate tonight.
+You have my vote.
+While the other candidates harassed each other you actually answered the questions.
+I’m ready for intelligent thoughtful leadership Reply kasiesc says: October 16, 2026 at 5:51 pm Thanks, Andy!
+Tell your friends 🙂 We are heavily dependent upon word-of-mouth and advocates like you to spread the hope of better representation and better governance.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
 Donate | Join the Team | Issues Website development by Amit Dey

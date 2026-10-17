@@ -23,4 +23,4 @@ We must protect reproductive freedom for every American. ​ Furthermore, contra
 I will keep pushing for this essential freedom until we can get it signed into law. ​ As a mother who managed a high-risk pregnancy, I know how important having the freedom to make decisions about my healthcare is.
 I will continue to be a powerful, committed voice in Congress on behalf of women’s health.
 The decisions that we make about our bodies, our families, and our futures are deeply personal - and those decisions must be protected, respected, and free from government interference.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

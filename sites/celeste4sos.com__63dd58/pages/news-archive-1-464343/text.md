@@ -1,4 +1,6 @@
-top of page Home Meet Priorities News Newsletters Events Help Donate Celeste for SoS News Colorado Point of View Oct.
+top of page Home Meet Priorities News Newsletters Events Help Donate Celeste for SoS News Kim Monson Show Oct.
+13, 2026 Listen City Matters October 8, 2026 Listen Colorado Politics Oct.
+2, 2026 Find Out More Colorado Point of View Oct.
 10 and 11, 2026 Video Letter to the Editor Boulder Daily Camera August 8, 2026 Read Common Cause Candidate Forum June 15, 2026 Video Other Celeste for SoS News Press Releases News about CO, U.S. and World Elections Solving American Troubles (political violence and lack of representation) the Irish proportional voting way, March 17, 2026, More Equitable Democracy ​ Video November 2025 letter from 10 Secretaries of State regarding DOJ requests for voter data and DHS use of voter data ​ ​ ​ ​ ​ Find Out More Venezuela: opposition claims proof of Maduro election loss on July 28, 2024, Reuters​ ​ ​ ​ ​ ​ Video Election officials push back against Trump administration after Fulton County raid and voter roll demands, January 29, 2026, NBC News ​ ​ Find Out More County Clerks: Despite threats, our offices keep working.
 The SAVE Act is deeply problematic.
 We’re accountable to voters, not to party operatives.

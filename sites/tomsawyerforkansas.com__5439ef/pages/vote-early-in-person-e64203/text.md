@@ -3,7 +3,11 @@ Starting October 27, you may vote at any of 17 additional Satellite Voting Cente
 Advanced Learning Library- 711 w.
 2nd St Monday through Friday, October 19 - October 30, 8am to 5pm, and Saturday, October 31, 9am to 1pm Sedgwick County Extension Office, 7001 W.
 21st N.
-Monday through Friday, October 19 - October 30, 8am to 5pm, and Saturday, October 31, 9am to 1pm Sedgwick County Election Office- new location 3639 N Comotara Monday through Friday, October 19 - October 30, 8am to 5pm, and Monday, November 2, 8am to 12pm Satellite Voting Center Locations Tuesday, October 27 - Friday, October 30, 10am to 6pm, and Saturday, October 31, 9am to 1pm NO STATE INCOME TAX ON SOCIAL SECURITY BENEFITS: One of the groups hit the hardest with property taxes are seniors living on a fixed income.
+Monday through Friday, October 19 - October 30, 8am to 5pm, and Saturday, October 31, 9am to 1pm Sedgwick County Election Office- new location 3639 N Comotara (Near 37th & Rock Rd.
+N) Monday through Friday, October 19 - October 30, 8am to 5pm, and Monday, November 2, 8am to 12pm Please note: You can no longer vote at the Old Historic Courthouse.
+The Election Office has moved to 3639 N.
+Comotora.
+Satellite Voting Center Locations Tuesday, October 27 - Friday, October 30, 10am to 6pm, and Saturday, October 31, 9am to 1pm NO STATE INCOME TAX ON SOCIAL SECURITY BENEFITS: One of the groups hit the hardest with property taxes are seniors living on a fixed income.
 While we were only able to provide them with a $70 additional property tax cut, we did something else that will help them a lot.
 We totally eliminated the state income tax on all Social Security Benefits.
 The chart below shows how significant this tax cut can be.

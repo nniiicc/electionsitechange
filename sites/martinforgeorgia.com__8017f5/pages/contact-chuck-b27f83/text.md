@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 Welcome!
 I'm glad you're here.
 Staying connected with the people of Alpharetta, Roswell, and Milton is one of the most important parts of representing House District 49.
@@ -13,4 +13,4 @@ Issue General Inquiry Help with a State Agency Legislative Advocacy, General Top
 We will get back to you as soon as possible.
 Oops, there was an error sending your message.
 Please try again later.
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

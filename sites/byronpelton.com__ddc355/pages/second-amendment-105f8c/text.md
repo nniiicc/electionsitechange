@@ -6,4 +6,4 @@ I will always support your right and responsibility to bear arms to protect your
 As Logan County Commissioner, I led efforts to pass a resolution that blocked funding for red flag bill enforcement.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

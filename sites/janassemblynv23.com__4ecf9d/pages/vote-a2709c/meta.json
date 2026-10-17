@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://janassemblynv23.com/vote",
- "fingerprint": "f96988e6870f8f347f60aeab39bf527f3ae6f2f4",
+ "fingerprint": "8075f863da6fa5101bc4a0a0ffc17cb27751f8b7",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

@@ -25,4 +25,4 @@ Faith, family, a small business, and more than a decade in the Assembly have lef
 Waukesha County gave Adam a place to build a life.
 He wants the next generation to be able to do the same.
 Keep Waukesha County winning.
-Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu
+Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu

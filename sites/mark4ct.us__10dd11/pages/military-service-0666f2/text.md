@@ -8,4 +8,4 @@ His parallel service as an Army Civilian totaled over 30 years.
 Voter Information Endorsements Contact Privacy Policy Paid for by Mark4CT, Mary Zlotnick,Treasurer.
 Approved by Mark W.
 Anderson.
-Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu
+Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu

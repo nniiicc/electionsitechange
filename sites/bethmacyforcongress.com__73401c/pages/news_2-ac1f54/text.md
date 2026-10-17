@@ -1,4 +1,20 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All August 26, 2026 Daily News Record , In the News Beth Macy meets with veterans in Harrisonburg August 26, 2026 Daily News Record , In the News Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All September 2, 2026 Daily News Record , In the News Handicapping the 6th District race: Beth Macy’s best path to an upset lies in energizing party’s base September 2, 2026 Daily News Record , In the News When Kris Nelson looks at Virginia’s 6th Congressional District, she sees a swath of geography the size of New Jersey.
+While not apathetic, the district contains tens of thousands of residents who typically only vote in presidential elections.
+Read the full article here: https://www.dnronline.com/news/elections/handicapping-the-6th-district-race-beth-macy-s-best-path-to-an-upset-lies-in/article_a24082fe-7743-5228-a7dd-0390c1677469.html ...
+Read More August 30, 2026 Daily News Record , In the News Beth Macy reads at Woodstock bookstore to raise money for Harrisonburg nonprofit Strength in Peers August 30, 2026 Daily News Record , In the News Although she had campaign events before and after, Beth Macy, the Democrat who is hoping to turn Virginia’s ruby red 6th District bright blue again for the first time since the 1990s this election season, took a brief break from the campaign trail Saturday to participate in a sold-out reading/fundraiser for the Harrisonburg nonprofit Strength […] ...
+Read More August 29, 2026 In the News , The Washington Post This Appalachian memoir author is running as a Democratic contrast to JD Vance August 29, 2026 In the News , The Washington Post Veterans flock to a law office in this old railroad town for help wrestling with the feds over health care.
+Across the mountains in Waynesboro, families who can’t afford groceries spend hours waiting outside the food pantry.
+Up in Monterey, the town economic development director works for free because budgets are thin.
+Read the full […] ...
+Read More August 28, 2026 Daily News Record , In the News EMILYs List endorses Beth Macy in ‘mission’ to flip the 6th Congressional District August 28, 2026 Daily News Record , In the News A prominent national Democratic organization announced it is backing author and journalist Beth Macy in her attempt to defeat Republican incumbent Ben Cline in Virginia’s 6th Congressional District in November.
+Read the full article here: https://www.dnronline.com/news/elections/emilys-list-endorses-beth-macy-in-mission-to-flip-the-6th-congressional-district/article_2610ac57-b7a2-5c6e-8312-6404e55b80b8.html ...
+Read More August 26, 2026 Cardinal News , In the News Cline, Macy debate over debates.
+Here’s what a real debate would look like but don’t count on seeing it.
+August 26, 2026 Cardinal News , In the News One of the few things I hate about covering politics is writing about the inevitable debate over debates.
+This column is about the debate over debates.
+The immediate question is whether there will be any debates in the 6th District congressional race between Republican incumbent Ben Cline and Democratic challenger Beth Macy.
+Read the full article […] ...
+Read More August 26, 2026 Daily News Record , In the News Beth Macy meets with veterans in Harrisonburg August 26, 2026 Daily News Record , In the News Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
 And Tuesday night, her campaign held the third of three veterans’ forums, this one at AMVETS Post 7 in Harrisonburg.
 Read the full article here: https://www.dnronline.com/news/elections/beth-macy-meets-with-veterans-in-harrisonburg/article_a741830c-944e-564c-953c-dbea947ccc3c.html ...
 Read More August 25, 2026 In the News , The Roanoke Times Macy calls debate schedule announced by Cline ‘phony’ August 25, 2026 In the News , The Roanoke Times Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
@@ -57,27 +73,6 @@ This is my tiny coup.
 Every morning, instead of doomscrolling the news, I leave my phone on the kitchen table, go outside, and, even for just a half-hour, stick my hands in dirt.
 May 20, 2026 Substack A few years ago, I wrote a piece for Garden & Gun about the quiet, unpretentious magic of Southern soil.
 I described the generations-old plant starts handed down to me by my octogenarian neighbor, Marge, who employed a probationary system for her plant babies: She gave me a few, waited a month, then blessed me with more once […] ...
-Read More May 20, 2026 In the News , WFXR News Beth Macy discuss potential matchup for VA-06.
-“I think I’m the candidate for this moment,” said Macy.
-“I’m a fighter for this region, and I’m not going to back down.” May 20, 2026 In the News , WFXR News Republican congressman Ben Cline announced this week his intention to run for a fifth term representing Virginia’s sixth congressional district in the U.S.
-House of Representatives.
-Standing in his way is Roanoke-based author Beth Macy, who wrote the New York Times bestsellers Dopesick and Factory Man.
-“I think I’m the candidate for this moment,” said Macy.
-“I’m a […] ...
-Read More May 11, 2026 WSLS News A steady downpour in Roanoke outside Congressman Ben Cline’s office did not dissuade democrat Beth Macy’s supporters.
-Several dozen stood under umbrellas and ponchos as Macy addressed the crowd.
-May 11, 2026 WSLS News Beth Macy rallied in the rain with supporters on Monday and says she is ready for an uphill battle Now that the state supreme court has set aside the results of the recent election, the question is what happens next.
-In a key race for congress, we are likely to see a contest between the […] ...
-Read More May 10, 2026 In the News , The New York Times Beth Macy, the best-selling author of books like “Dopesick,” about the struggles in Appalachia, started her campaign in November … [W]e can’t just roll over,” Ms.
-Macy said.
-“Democrats have got to stop showing up to a knife fight with a spork.” May 10, 2026 In the News , The New York Times On Thursday night, Dan Helmer received a shipment of boxes with 1,000 yard signs that read: “Dan Helmer for Congress.” By late Friday morning, Mr.
-Helmer no longer had a seat to run for.
-The whiplash for the Virginia Democrats running for Congress was swift and intense after the state Supreme Court struck down the […] ...
-Read More May 9, 2026 Augusta Free Press , In the News Rearranging the deck chairs in the Fifth, Sixth after the Supreme Court ruling May 9, 2026 Augusta Free Press , In the News All those people who rushed to switch their endorsements to Tom Perriello in the Sixth District Democratic race are feeling mighty stupid right about now.
-Assuming Friday’s Supreme Court of Virginia ruling in the referendum case stands, and let’s go with that being a safe assumption, Perriello won’t be running in the Sixth District, but […] ...
-Read More May 6, 2026 Newsletter The Best of Beth: A Newsletter from my Campaign May 6, 2026 Newsletter Hi Friends!
-Keeping up with political news can be depressing these days: from Trump’s illegal war that is wrecking the economy and hurting all Americans to the Supreme Court eviscerating the Voting Rights Act, it can seem like all hope is lost and our country as we’ve known it is gone forever.
-However, the midterm […] ...
 Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.

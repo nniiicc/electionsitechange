@@ -20,5 +20,5 @@ She currently works as a substitute teacher in Dorchester School District Two, s
 “I believe my professional and family experiences have prepared me to fight for District 94 residents in the legislature,” Hebert said.
 “If elected, I won’t monetize my public service to build a law practice or become distracted by culture wars.” House District 94 lies primarily in Dorchester County with a portion in neighboring Charleston County.
 If you want to support Sally Hebert in flipping House District 94 from red to blue, please use this link below to donate.
-Thank you! https://secure.actblue.com/donate/sallyfor94 Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Thank you! https://secure.actblue.com/donate/sallyfor94 Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

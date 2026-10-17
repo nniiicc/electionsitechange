@@ -1,6 +1,11 @@
 Donate now!
 Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
-Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Press Release Archive Dr.
+Abdul El-Sayed to Launch “Open Our Healthcare” Townhall Tour Across Michigan Press Release October 14, 2025 ANN ARBOR, MI – With open enrollment looming, premiums set to skyrocket, and Republicans refusing to offer relief for the oncoming catastrophe they’ve created, millions of Michiganders are at risk of being priced out of their … El-Sayed Campaign Raises $1.77 Million in Q3, Sustains Grassroots Momentum Across Michigan Press Release October 13, 2025 Abdul’s Q3 haul shows deep, consistent grassroots support, with #% of donations under $# ANN ARBOR, MI – Today, U.S.
+Senate candidate Dr.
+Abdul El-Sayed announced $# million raised in the third quarter of 2025, driven … Abdul Blasts Mike Rogers’ call for a federal invasion of Detroit: “Go back to Florida, Mike.” Press Release September 4, 2025 ANN ARBOR, MI – Tonight, U.S.
+Senate Candidate Dr.
+Abdul El-Sayed released the following statement in response to candidate Mike Rogers’ call for a federal invasion of Detroit: “Serving the City of Detroit as its health … El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
 Senate candidate boosts local organizers’ efforts to cancel medical debt in Michigan’s GOP-held CD1 ANN ARBOR, MI – In a bold break from political convention, Dr.
 Abdul El-Sayed announced today that his campaign raised over … Peace Action Backs Abdul El-Sayed for Michigan’s Open U.S.
 Senate Seat Press Release July 30, 2025 Nation’s largest grassroots peace organization says “Abdul’s voice is a rare necessity” ANN ARBOR, MICHIGAN – Today, U.S.

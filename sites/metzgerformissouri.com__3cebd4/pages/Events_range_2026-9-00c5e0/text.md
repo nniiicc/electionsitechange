@@ -5,4 +5,4 @@ A $# donation gets you delicious ice cream and other tempting desserts, plus gre
 Newton County and Lawrence County candidates will be there too.
 RSVP for the address: this event is at a private home.
 RSVP to the Jasper County Democratic Central Committee on Facebook and they'll send you the location.
-More info › Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

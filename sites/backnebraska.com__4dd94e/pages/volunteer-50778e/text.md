@@ -5,7 +5,7 @@ No experience needed.
 Just bring your energy, and we’ll handle the rest. → Find an event that works for you, click the link below to sign up, and we’ll get you plugged in!
 Want to volunteer but don’t see an event that works for you?
 Click here to sign up to volunteer and we’ll be in touch.
-Volunteer Opportunities 10.17.26 – Lincoln Area Canvass for Union-Endorsed Candidates.
+Volunteer Opportunities Click on the links below for more information and to sign up: 10.17.26 – Lincoln Area Canvass for Union-Endorsed Candidates.
 10:00 AM – 1:00 PM 10.18.26 – PHONE BANK FOR CHRIS.
 Join us at the Lancaster Dems Office and help us call voters.
 1:00-3:00 PM 10.18.26 – CANVASS FOR CHRIS.

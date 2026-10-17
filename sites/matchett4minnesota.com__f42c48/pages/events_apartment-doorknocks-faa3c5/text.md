@@ -1,6 +1,6 @@
-Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home Events Apartment Doorknocks Campaign event Apartment Doorknocks Friday, October 16, 2026 at 2:00 pm · Blaine, MN Election Day Tuesday, November 3, 2026 Expand Date Friday, October 16, 2026 Time 2:00 pm – 4:30 pm CDT (Central time) Format In person Where Blaine, MN Sign up RSVP so the team knows to expect you.
+Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home Events Apartment Doorknocks Campaign event Apartment Doorknocks Friday, October 23, 2026 at 2:00 pm · Blaine, MN Election Day Tuesday, November 3, 2026 Expand Date Friday, October 23, 2026 Time 2:00 pm – 4:30 pm CDT (Central time) Format In person Where Blaine, MN Sign up RSVP so the team knows to expect you.
 RSVP on Mobilize Opens on mobilize.us Share Copy link Share Join Amanda and the team to knock doors and connect with members of our community!
-Upcoming dates Friday, October 16, 2:00 pm to 4:30 pm Friday, October 23, 2:00 pm to 4:30 pm Friday, October 30, 2:00 pm to 4:30 pm Good to know This event’s address is private.
+Upcoming dates Friday, October 23, 2:00 pm to 4:30 pm Friday, October 30, 2:00 pm to 4:30 pm Good to know This event’s address is private.
 Sign up for more details ← Trunk or Treat Volunteer Matchett Marathon Postcards → Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
 Volunteer, donate, or invite Amanda to your neighborhood.
 Every action helps build a stronger District 32A.

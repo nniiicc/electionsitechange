@@ -29,4 +29,4 @@ Phone: 505-368-7054 or 505-368-7032 New Mexico Environment Department Provides a
 Website: www.env.nm.gov/rcb/office-of-nuclear-workers-advocacy/ Attorney Fees It is NOT necessary to hire an attorney to submit a RECA claim.
 However, should you wish to hire an attorney: They can only charge you a 2% fee for filing the initial claim They may charge 10% to submit a denied claim Protect Yourself from Scams Remember: There is NO FEE to apply for RECA and there are FREE resources available to help file claims.
 Do not share your personal records with or pay a fee to anyone you don't trust.
-Report Scams: Phone: 505-490-4060 Online: NMDOJ.gov/submit-a-complaint PAID FOR BY TERESA FOR ALL bottom of page
+Report Scams: Phone: 505-490-4060 Online: NMDOJ.gov/submit-a-complaint PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

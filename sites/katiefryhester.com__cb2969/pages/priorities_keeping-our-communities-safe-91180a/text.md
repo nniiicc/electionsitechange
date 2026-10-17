@@ -1,4 +1,4 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Keeping Our Communities Safe Although our national crime rate has fallen in half since the 1990s, property crime and homicide rates have spiked in Maryland since the start of the pandemic.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Keeping Our Communities Safe Although our national crime rate has fallen in half since the 1990s, property crime and homicide rates have spiked in Maryland since the start of the pandemic.
 To reduce crime over the long-term we must coordinate efforts across the entire criminal justice system and address the root causes of crime in our communities.
 We must approach public safety with common sense, scientifically proven measures that will actually solve the problems plaguing our great state.
 We need to keep our brave first responders on the police force safe by investing more in public safety training, body worn cameras, and mobile crisis response teams.

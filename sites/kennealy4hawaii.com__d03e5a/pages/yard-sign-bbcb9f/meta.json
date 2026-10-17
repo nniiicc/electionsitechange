@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.kennealy4hawaii.com/yard-sign",
- "fingerprint": "eaad7bc7bb59d6a8ed9e9fb6dcd759e160ffb008",
+ "fingerprint": "103fadcbdf259360f811f2658b33f1b83c821a18",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

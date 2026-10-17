@@ -13,4 +13,4 @@ Together, we can show that this district is ready for change.
 We can prove that with hard work and determination, we can do Better, be Better, and find the Balance we need to build a stronger, equitable community for everyone.
 Thank you for your support.
 Let’s get out there and make history!
-Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

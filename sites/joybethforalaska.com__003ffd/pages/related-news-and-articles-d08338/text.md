@@ -6,7 +6,29 @@ Robb Myers announced his retirement hours before the filing deadline closed "Luc
 I encourage everyone in their districts to vote for anyone but them to send a strong message that this kind of corrupt behavior will not be tolerated. " Robb Myers kept retirement secret in scheme to put Tomaszewski in state Senate Unless another candidate files for State Senate Seat Q today, now held by Robb Myers, the seat will go to Rep.
 Frank Tomaszewski as the two men enacted a secret plan to have Myers retire and Tomaszewski file for the Legislature in his place.
 For first time, all-woman crew ready at University Fire Station When firefighters from the University Fire Department were toned out on an emergency call Sunday morning, it was the first time an all-woman crew responded.
-Letters to the Editor Make a difference Terry Chapin, Fairbanks To the editor: The upcoming primary election on August 18 is one of the most important elections in decades because the consequences are monumental and primary elections are frequently overlooked by Alaskan residents.
+Letters to the Editor Joy Beth Cottle has the strength and integrity we need in Juneau To the editor: It isn’t often you get a strong, ethical candidate for public office who is seeking it for the right reasons.
+That’s why I am pleased that Joy Beth Cottle is running for House Seat 34.
+I’ve known her for several years and am impressed by her calm, thoughtful demeanor and integrity.
+She demonstrates great strength of character and dedication to public service.
+A fire fighter, she’s a pioneer in being the first woman hired in the Fairbanks Fire Department and shown her abilities by rising through the ranks.
+As a paramedic and fire fighter, she worked with people in their worst circumstances and needs.
+She has consideration and empathy for the homeless and transported them to appropriate accommodations.
+Consequently, she has a great awareness and empathy for the needs of every day folks.
+Not afraid to roll up her sleeves, I’ve seen her pitch in to build planters at the Stone Soup Community Garden.
+In fire fighting, she possesses the inner strength to address fear and danger.
+With first class qualifications, she will go to Juneau determined to address our community needs.
+Of primary importance is supporting the school board which the recent legislature attempted, but was stymied by the governor.
+Our children deserve a quality education and the long term community strength depends on it.
+One of the foremost responsibilities of government is public safety.
+Joy Beth knows first hand the extant issues regarding public safety in our community.
+We experience considerable difficulty in recruiting and particularly, retaining police and fire fighters.
+Recruiting is costly and especially costly is losing personnel who we’ve trained and who’ve gained valuable experience.
+One of the major problems is the lack of an attractive retirement system.
+She will go to Juneau armed with the knowledge to effectively approach the problem.
+Joy Beth Cottle is diligently placing signs, knocking on doors, and listening to earn your vote so she can go to Juneau and work hard on our behalf to strengthen our community and quality of life.
+I ask you to join me in sending her to the state House.
+We couldn’t ask for better.
+Frank Maxwell Fairbanks Letters to the Editor Make a difference Terry Chapin, Fairbanks To the editor: The upcoming primary election on August 18 is one of the most important elections in decades because the consequences are monumental and primary elections are frequently overlooked by Alaskan residents.
 Only the people who actually vote determine who will be on the November ballot to represent Alaska in federal and Alaska elections.
 This is your chance to make a difference.
 At the federal level, the major accomplishments of the incumbents — Sen.

@@ -8,4 +8,4 @@ I feel that together, we can Do Better, Be Better and Find the Balance.
 I would love the opportunity to earn your vote.” The campaign along with community members will host a local fundraiser on July 11th at LaCantina in Paw Paw.
 Details can be found on her campaign facebook page.
 To reach the campaign please email Kerry@KerryTapper.com .
-Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

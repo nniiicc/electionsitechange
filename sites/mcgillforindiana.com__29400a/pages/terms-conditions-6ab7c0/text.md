@@ -40,4 +40,4 @@ Changes to These Terms We may update these Terms and Conditions periodically.
 Updates will be posted on this page with an updated effective date.
 Governing Law To the extent permitted by applicable law, these Terms and Conditions are governed by the laws of the State of Indiana.
 Contact McGill for a Better Indiana P.O.
-Box 5031 Fort Wayne, IN 46895 Email: info@mcgillforindiana.com Phone: 260-333-5171 Website: www.McGillForIndiana.com Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Box 5031 Fort Wayne, IN 46895 Email: info@mcgillforindiana.com Phone: 260-333-5171 Website: www.McGillForIndiana.com Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

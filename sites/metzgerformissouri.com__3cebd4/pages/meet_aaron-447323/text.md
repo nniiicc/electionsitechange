@@ -33,4 +33,4 @@ Now I want to take care of them in Jefferson City — by showing up, answering t
 Because they are.
 I’d be honored to earn your vote. — Aaron Ready to send a healthcare worker to Jefferson City?
 Every door knocked, every dollar chipped in, every conversation at the kitchen table is what wins this race.
-Volunteer Donate Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Volunteer Donate Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

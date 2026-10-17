@@ -17,10 +17,10 @@ During her time as Speaker of the NYC Council, Adrienne fought to make life more
 Meet Kathy Meet Kathy Meet Adrienne Meet Adrienne TAKE ACTION Build on our progress to make New York affordable and keep standing up to Trump Join Team Hochul-Adams to fight for our families, our future, and a New York that’s affordable.
 Get involved today and sign up to volunteer with the campaign.
 Get Involved Get Involved Delivering for New Yorkers Sign up to Volunteer Watch Our Latest Videos Join Team Hochul-Adams on X View Our Latest Endorsements Help Kathy fight for New Yorkers $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-From the campaign trail Bruce Blakeman says he'll cut Medicaid in half.
-Now, I want to know which hospitals he plans to shut down, w...
-#ago It is wrong for my opponent to say nothing bad happened at the hands of ICE agents in Nassau County.
-Tell tha...
+From the campaign trail Stopped by Hell’s Kitchen with @ebottcher, @tonysimone, @CarlMichaelW, and Allen Roskoff.
+It was great to me...
+#ago Stopped by Hell’s Kitchen with @ebottcher, @tonysimone, @CarlMichaelW, and Allen Roskoff.
+It was great to me...
 #ago Facebook X-twitter Instagram Youtube Tiktok Help Kathy fight for New Yorkers $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Join Hochul-Adams .
 By submitting your cell phone number you are agreeing to receive periodic text messages from Friends for Kathy Hochul.

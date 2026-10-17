@@ -24,12 +24,8 @@
 "href": "https://parkerfor10.wordpress.com/2026/08/10/what-are-data-centers-doing/"
 },
 {
-"text": "Blog at WordPress.com.",
+"text": "Create a free website or blog at WordPress.com.",
 "href": "https://wordpress.com/"
-},
-{
-"text": "Get started",
-"href": "https://wordpress.com/start/"
 },
 {
 "text": "Home",
@@ -89,6 +85,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

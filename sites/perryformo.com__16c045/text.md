@@ -8,4 +8,4 @@ Why I’m Running Missouri House of Representatives District #126 is a community
 But real progress requires leadership that shows up, listens, and puts the people of this community first.
 I’m running for State Representative because I believe Missouri House of Representatives District #126 is ready for that kind of leadership.
 Together, we can build a future we’re proud of.
-Make a Donation $ # $ # $ # $ # $ # $ # $ 1000 Other Yard Signs Events Contact Committee to Elect Melissa Perry Powered by CampaignPartner.com - Political Websites Volunteer Contribute Contact Issues Close Menu
+Make a Donation $ # $ # $ # $ # $ # $ # $ 1000 Other Yard Signs Events Contact Committee to Elect Melissa Perry Powered by CampaignPartner.com Volunteer Contribute Contact Issues Close Menu

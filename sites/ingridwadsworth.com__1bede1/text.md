@@ -22,4 +22,4 @@ I’m running for Florida House District 3 because I have something new to offer
 As a female executive, who has done the hard things, I know how to keep my eye on the ball and get things done.
 I believe in what Santa Rosa County and northern Okaloosa Counties, Florida can become.
 With a commitment to every corner of this community, the best days for Santa Rosa County and northern Okaloosa Counties, Florida are still ahead.
-We are grassroots and people powered, so any contribution is appreciated! $ 10 $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com - Political Websites Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu
+We are grassroots and people powered, so any contribution is appreciated! $ 10 $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu

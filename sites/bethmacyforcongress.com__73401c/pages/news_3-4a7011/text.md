@@ -1,4 +1,25 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All April 28, 2026 Substack Harriet the Spy is the reason I’m a writer today.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All May 20, 2026 In the News , WFXR News Beth Macy discuss potential matchup for VA-06.
+“I think I’m the candidate for this moment,” said Macy.
+“I’m a fighter for this region, and I’m not going to back down.” May 20, 2026 In the News , WFXR News Republican congressman Ben Cline announced this week his intention to run for a fifth term representing Virginia’s sixth congressional district in the U.S.
+House of Representatives.
+Standing in his way is Roanoke-based author Beth Macy, who wrote the New York Times bestsellers Dopesick and Factory Man.
+“I think I’m the candidate for this moment,” said Macy.
+“I’m a […] ...
+Read More May 11, 2026 WSLS News A steady downpour in Roanoke outside Congressman Ben Cline’s office did not dissuade democrat Beth Macy’s supporters.
+Several dozen stood under umbrellas and ponchos as Macy addressed the crowd.
+May 11, 2026 WSLS News Beth Macy rallied in the rain with supporters on Monday and says she is ready for an uphill battle Now that the state supreme court has set aside the results of the recent election, the question is what happens next.
+In a key race for congress, we are likely to see a contest between the […] ...
+Read More May 10, 2026 In the News , The New York Times Beth Macy, the best-selling author of books like “Dopesick,” about the struggles in Appalachia, started her campaign in November … [W]e can’t just roll over,” Ms.
+Macy said.
+“Democrats have got to stop showing up to a knife fight with a spork.” May 10, 2026 In the News , The New York Times On Thursday night, Dan Helmer received a shipment of boxes with 1,000 yard signs that read: “Dan Helmer for Congress.” By late Friday morning, Mr.
+Helmer no longer had a seat to run for.
+The whiplash for the Virginia Democrats running for Congress was swift and intense after the state Supreme Court struck down the […] ...
+Read More May 9, 2026 Augusta Free Press , In the News Rearranging the deck chairs in the Fifth, Sixth after the Supreme Court ruling May 9, 2026 Augusta Free Press , In the News All those people who rushed to switch their endorsements to Tom Perriello in the Sixth District Democratic race are feeling mighty stupid right about now.
+Assuming Friday’s Supreme Court of Virginia ruling in the referendum case stands, and let’s go with that being a safe assumption, Perriello won’t be running in the Sixth District, but […] ...
+Read More May 6, 2026 Newsletter The Best of Beth: A Newsletter from my Campaign May 6, 2026 Newsletter Hi Friends!
+Keeping up with political news can be depressing these days: from Trump’s illegal war that is wrecking the economy and hurting all Americans to the Supreme Court eviscerating the Voting Rights Act, it can seem like all hope is lost and our country as we’ve known it is gone forever.
+However, the midterm […] ...
+Read More April 28, 2026 Substack Harriet the Spy is the reason I’m a writer today.
 So it ticked me off to learn that my favorite book was beingtargeted for book banning by the Trump administration and its “parents’ rights”-spouting ilk, including the recent removal of a Department of Education coordinator whose job was to investigate accusations of unlawful book removals.
 April 28, 2026 Substack The library is the first place I remember walking to by myself, unless you count the time I ran away on my tricycle to the only other place I knew—the grocery store—where a neighbor lady found me chatting up the butcher and asking for a free popsicle.
 I was four.
@@ -61,31 +82,6 @@ Not only was I...
 Read More December 4, 2025 On with Kara Swisher Tech Billionaires & the Rural Poor: 2 Sides of MAGA Populism December 4, 2025 On with Kara Swisher The tech billionaires of Silicon Valley and the Midwestern rural poor wouldn’t seem to have much in common.
 But somehow many of them have united under the MAGA umbrella.
 Kara brings together two reporters who have written about the opposite sides of the MAGA coin to talk about the role of social media in fueling enragement, why tech billionaires and poor Americans are coalescing around issues like education, the press and more; and how to...
-Read More December 1, 2025 Pittsburg Review of Books Talking about Empathy with Beth Macy December 1, 2025 Pittsburg Review of Books Neema Avashia interviews Beth Macy on her latest release, “Paper Girl: A Memoir of Home and Family in Fractured America.” ve known about Beth Macy for a very long time.
-A number of her books take place in the geography of my childhood.
-She is friends with some of my dearest friends.
-She wrote about Appalachia’s burgeoning […] ...
-Read More November 28, 2025 Substack How These Women Turned into Citizen Journalists and Activists November 28, 2025 Substack As vice chair and resident commissioner of the Roanoke Redevelopment and Housing Authority, Debra Carter represents some 4,000 families in Roanoke.
-I met her at a recent meeting of Roanoke Indivisible, during which she praised the end of the painful government shutdown.
-That was a minority view in the room of lefties who predominantly hail […] ...
-Read More November 19, 2025 Substack Welcome to the Worst-Kept Secret November 19, 2025 Substack I’m running for Congress!
-Editor’s note (OK, writer’s note): Last night I announced my candidacy for Congress at the storied Fire Station No.
-1 in Roanoke, a hallowed space where Obama and FDR once spoke.
-To tee me up, my minister friend Dr.
-Rev.
-Bill Lee spoke, as did the rousing Dr.
-Brenda Hale, Mayor […] ...
-Read More November 19, 2025 Substack Welcome to the Worst-Kept Secret November 19, 2025 Substack I’m running for Congress!
-Editor’s note (OK, writer’s note): Last night I announced my candidacy for Congress at the storied Fire Station No.
-1 in Roanoke, a hallowed space where Obama and FDR once spoke.
-To tee me up, my minister friend Dr.
-Rev.
-Bill Lee spoke, as did the rousing Dr.
-Brenda Hale, Mayor […] ...
-Read More November 19, 2025 Press Release DOPESICK AUTHOR BETH MACY LAUNCHES VIRGINIA CONGRESSIONAL CAMPAIGN WITH MASSIVE $350,000 FIRST-DAY FUNDRAISING HAUL November 19, 2025 Press Release ROANOKE, VA — Yesterday, Beth Macy—a former Roanoke Times reporter and author of Dopesick—announced her campaign for Congress and raised over $350,000 within the first 24 hours of her launch.
-Macy officially introduced her campaign to a packed crowd of over 300 people in downtown Roanoke last night.
-“Virginians have had enough.
-They want leaders […] ...
 Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.

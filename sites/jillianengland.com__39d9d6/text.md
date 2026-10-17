@@ -27,13 +27,14 @@ It's about these principles.
 Government force cannot create prosperity, safety, or abundance.
 It can only seize what others have produced and restrict the voluntary choices of peaceful people.
 If you want the complete discussion — the one that actually explains why energy abundance, lower taxes, and real accountability matter — read the complete position statement.
-Read the unredacted "A Note From Your Candidate" → Latest Notes from the Campaign September 3, 2026 Your Electric Bill Is Going Up — Then Your Rent Your electric bill is going up.
+Read the unredacted "A Note From Your Candidate" → Latest Notes from the Campaign October 16, 2026 Can You Save 1,000 Lives?
+The curve is still compounding.
+The question is whether we bend it.
+Seattle’s visible homelessness crisis — tent cities, encampments, open drug use — is… Read the note + archive → September 3, 2026 Your Electric Bill Is Going Up — Then Your Rent Your electric bill is going up.
 Then your rent is going up.
-Seattle City Light has already approved 9.5 percent rate increases in both 2027 and 2028.… Read the note + archive → August 19, 2026 Final Primary Results — August 19 The primary results for Legislative District 36 – State Senator are now final .
-Final Totals Noel C.
-Frame (Prefers Democratic Party) — 87.69% · 42,548… Read the note + archive → See the complete archive of Notes → Donate Now — Help Deliver These Priorities Mail a check, limits, and volunteer options → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
+Seattle City Light has already approved 9.5 percent rate increases in both 2027 and 2028.… Read the note + archive → See the complete archive of Notes → Donate Now — Help Deliver These Priorities Mail a check, limits, and volunteer options → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 15, 2026 · Site version: 417f77e This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 16, 2026 · Site version: 2d57d4f This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

@@ -1,4 +1,4 @@
-top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE Clean energy for a healthy climate, strong economy Patrick's 6/3/25 public comment was the subject of an attack ad.
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact VOLUNTEER ENDORSE Clean energy for a healthy climate, strong economy Patrick's 6/3/25 public comment was the subject of an attack ad.
 Hear what he actually said . ​ The clean energy transition is well underway in the US and Utah is well positioned to become a powerhouse in clean energy...we just need legislative leadership to move forward.
 The Utah legislature supported development of a Utah Climate and Clean Air Roadmap in 2019, but they have done very little to get us moving down that road.
 For a variety of reasons, our legislators have avoided implementing solutions for decades.

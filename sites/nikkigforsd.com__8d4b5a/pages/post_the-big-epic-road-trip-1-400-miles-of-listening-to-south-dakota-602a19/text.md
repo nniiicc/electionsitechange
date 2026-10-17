@@ -27,6 +27,5 @@ South Dakota is filled with hidden gems, remarkable people, and communities find
 I came home tired, inspired, and more determined than ever to bring their voices to Washington.
 Whether you live in our largest city or at the end of a gravel road, whether you’re a farmer, a business owner, a teacher, a retiree, or someone just trying to make ends meet, you deserve a representative who shows up, listens, and does the work.
 That’s the kind of leadership I believe in, and that’s the commitment I’m making to South Dakota.
-Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
-House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
+Recent Posts See All South Dakota’s Democratic nominee for US House makes her case to voters Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

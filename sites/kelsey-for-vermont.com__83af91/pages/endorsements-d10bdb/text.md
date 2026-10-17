@@ -1,9 +1,11 @@
 0 Skip to Content Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
 Endorsements Contact Donate Open Menu Close Menu Home About Priorities Op-Eds Press & Media Where Is Kelsey?
-Endorsements Contact Donate “ I was immediately impressed with Kelsey.
-She demonstrated the ability to engage directly; she had strong listening skills, was sincere in her curiosity and her demeanor was friendly and open. ” — Phil Poeuch, State Rep of Hinesburg I support Kelsey Pasteris for Hinesburg State Representative because...
-Read Full Endorsement By Current State Rep of Hinbesburg “She listens to people's concerns and wants to make Hinesburg a safer and better town for everyone.” — Catherine M.
+Endorsements Contact Donate I support Kelsey Pasteris for Hinesburg State Representative because... “ I was immediately impressed with Kelsey.
+She demonstrated the ability to engage directly; she had strong listening skills, was sincere in her curiosity and her demeanor was friendly and open. ” — Phil Poeuch, State Rep of Hinesburg Read Full Endorsement By Current State Rep of Hinbesburg “I’m proud to endorse Kelsey Pasteris for State Representative in Hinesburg.
+I first met Kelsey in my D.C. office a few years ago, when she came to advocate for gun violence prevention.
+With D.C. traffic hopelessly snarled, she made it to the meeting by e-bike—a little glimpse of the determination she brings to her work.
+As a mom of two young boys, a registered nurse, and an active member of her community, Kelsey will bring valuable experience and a strong commitment to Hinesburg to the State House.” -Congresswoman Becca Balint “She listens to people's concerns and wants to make Hinesburg a safer and better town for everyone.” — Catherine M.
 “She cares about her community!
 And wants to make Vermont a better place.” — Katie Warchut “She is committed to the type of community I’d like to live in - one that prioritizes environment, justice, diversity, and people.” — Sara Armstrong Donegan “Even though she has a very busy life - full-time mom, full-time nurse- she has stepped forward in Hinesburg when she has seen a need, and now is stepping up to be our state Rep.
 She is an inspiration to me and gives me hope for democracy.” — Merrily Lovell “ I support Kelsey Pasteris for Hinesburg State Representative because I have seen her leadership both in our Hinesburg community and in her role as Chair of Nurse Professional Governance at UVMMC, where she guides 120 nurses in shared decision regarding clinical practice, patient safety, and quality improvement.

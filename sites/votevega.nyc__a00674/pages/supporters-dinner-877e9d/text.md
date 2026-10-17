@@ -1,4 +1,4 @@
-Skip to content Read the latest statement Dignity, Or Subjugation Read → Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Fundraiser and discussion · 40 guests A Dinner for the Future Hosted by Jose Vega and Diane Sare A discussion about peace, economic development, and what we have to do next.
+Skip to content Read the latest statement A Future Without War Read → Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Fundraiser and discussion · 40 guests A Dinner for the Future Hosted by Jose Vega and Diane Sare A discussion about peace, economic development, and what we have to do next.
 Reserve your place $100 minimum contribution per guest Date Friday, October 30, 2026 Time 6:00 PM Location New York City · Shared with confirmed guests Jose Vega Candidate for U.S.
 Congress · NY-15 Diane Sare Independent candidate for President Why we are meeting We are at a crucial juncture.
 There is desperation facing the United States and Europe as their policies hit a brick wall.
@@ -24,7 +24,7 @@ Contributions above the minimum help sustain the campaign’s organizing work.
 Seating is limited to 40 guests.
 01 Choose your contribution Every $100 reserves one admission.
 Select the exact number of guests below. $100 Seat at the Table Reserve one place at the dinner. $250 Campaign Builder Strengthen the campaign’s next phase. $500 Dinner Sponsor Help underwrite the evening and our work. $1,000 Movement Sustainer Fuel organizing beyond one evening. $3,500 Victory Circle Maximum 2026 general-election contribution.
-Number of admissions Total contribution $ Your $100 contribution includes one admission.
+Number of admissions Total contribution $ Promo code Apply Your $100 contribution includes one admission.
 Contributing above the minimum does not automatically add seats.
 Select the exact number of people in your party.
 02 Your information Required for federal campaign-finance reporting.

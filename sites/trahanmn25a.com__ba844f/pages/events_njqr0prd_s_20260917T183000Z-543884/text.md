@@ -6,4 +6,4 @@ Media outlets may be present.
 Forums will be recorded, making the events available for viewing afterwards.
 Recording will be available on both the library's YouTube page and LWV Rochester's website.
 You may direct followers to these sites.
-Location 101 2nd St SE Rochester, MN 55904 Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Location 101 2nd St SE Rochester, MN 55904 Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

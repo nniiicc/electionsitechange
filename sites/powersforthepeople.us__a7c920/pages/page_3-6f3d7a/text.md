@@ -1,5 +1,8 @@
 Skip to primary content Skip to secondary content Powers for the People Debo Powers, Representative for Montana House District 3 Search Main menu Home About HD3 About Debo Powers Endorsements Issues Walk Card & Mailers Pictures Campaign Events Want to Help?
-Post navigation ← Older posts Newer posts → Debo Powers RE-ELECTION Campaign Kickoff Posted on February 18, 2026 by Debo Powers Door Knocking Team Join the Fun!
+Post navigation ← Older posts Newer posts → Yard Signs start going up this week!
+Posted on April 15, 2026 by Debo Powers Richard Hildner putting up New Sign on Baker Avenue in Whitefish If you want a yard sign, contact debo@powersforthepeople.us for delivery!
+Get a Yard Sign for your yard!
+Posted in News Debo Powers RE-ELECTION Campaign Kickoff Posted on February 18, 2026 by Debo Powers Door Knocking Team Join the Fun!
 Thursday, March 12 at 5:30pm Whitefish Community Center A light supper will be served.
 Debo is one of our two Democratic Legislators from the Flathead.
 It is important that we hold onto her seat.
@@ -33,12 +36,8 @@ Although she has done this for the past 5 summers, this year was especially impo
 Posted in News Bad Rock Canyon Wildlife Crossing Proposed Posted on September 25, 2025 by Debo Powers Rep Powers flew in a small plane with Peter Metcalf, Executive Director for Glacier Two Medicine Alliance, on EcoFlight to view a potential location for a Wildlife Crossing over Highway 2 in Bad Rock Canyon boarding House District 3.
 Posted in News Polebridge Community Meeting About Property Taxes Posted on August 29, 2025 by Debo Powers Rep Debo Powers held an informational meeting at the Sondreson Community Hall north of Polebridge to explain the new property tax laws to her neighbors.
 “I was being asked questions by so many neighbors that I decided to hold a community meeting and explain everything at the same time.” The meeting was well attended and Rep Powers used a power point developed by the Department of Revenue.
-Posted in News Rep Powers is a Fire Lookout Posted on July 16, 2025 by Debo Powers Every summer, Representative Debo Powers volunteers as a fire lookout for the Flathead National Forest.
-This summer’s hitch is on Cyclone Lookout near Polebridge in House District 3.
-This is part of her public service, watching for wildfires on the landscape.
-Posted in News Post navigation ← Older posts Newer posts → Recent Posts Rep.
+Posted in News Post navigation ← Older posts Newer posts → Recent Posts Teachers Writing Postcards Rep.
 Debo Powers speaking for Public Lands Speaking out for Hard-working Montanans A Party with a Purpose!
 Polebridge Gathering for Debo!
-Get Out the Vote Party in Polebridge!
 This website is paid for by: Powers for the People/Democrat/P.O.
 Box 792, Whitefish, MT 59937/Richard Hildner, Treasurer Proudly powered by WordPress

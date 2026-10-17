@@ -8,4 +8,4 @@ Security The campaign takes reasonable measures to help protect information abou
 This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
-If you have any questions about this Privacy Policy, please contact us. *** Last Updated: March 2026 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com - Political Websites Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu
+If you have any questions about this Privacy Policy, please contact us. *** Last Updated: March 2026 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu

@@ -83,4 +83,4 @@ Come spend the evening with my family and me.
 Share a home-cooked meal with good company and talk the night away about the issues that are important to all of us.
 Your donations will go to support my campaign for the State House and to make Minnesota and the world a better place.
 Tickets: Minimum: $25 Recommended: $40 Full PCR Donation: $# RSVP View Event → Nov 19 DFL SD57 Central Committee Meeting Wednesday, November 19, 2025 6:30 PM 7:30 PM Google Calendar ICS Local DFL Meeting.
-Location: Lakeville South High School View Event → Nov 9 CD2 Gala Sunday, November 9, 2025 4:30 PM 8:00 PM Google Calendar ICS DFL Congressional District 2 Gala Located at: Royal Cliff Wedding & Events center 2nd Congressional District DFL (MN) — Donate via ActBlue View Event → contact@stevenschroermn.org PO Box 26, Lakeville, MN 55044
+Location: Lakeville South High School View Event → contact@stevenschroermn.org PO Box 26, Lakeville, MN 55044

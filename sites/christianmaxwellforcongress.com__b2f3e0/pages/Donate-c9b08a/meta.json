@@ -1,9 +1,10 @@
 {
  "description": "Donate on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/Donate",
- "fingerprint": "deb0177d660c2cc0e5f6ecc81a4902b8bdb7b19a",
+ "fingerprint": "aa81a6e5acd92ab6b04faea44b11faa659db0b1d",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Donate | Maxwell for Congress",
  "years_mentioned": []
 }

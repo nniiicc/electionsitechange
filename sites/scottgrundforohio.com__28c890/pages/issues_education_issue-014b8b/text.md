@@ -18,4 +18,4 @@ We need to tackle the out-of-control private school voucher system, and push for
 Then we can use those savings to invest in best practices and proven strategies that will once again make Ohio among the best states in the nation when it comes to education.
 We need to invest in new approaches to math and literacy programs to make sure they’re tied to the real world demands students face when they graduate. « Previous: Affordable Housing & Childcare Next: Healthcare » Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

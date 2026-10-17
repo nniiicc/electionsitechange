@@ -10,4 +10,4 @@ Windows get damaged, Security deposit gets dipped into.
 No A/C.
 Renter's kids and family can experience: heatstroke, death, Heat cramps, Heat exhaustion, ER level Dehydration, poor sleep hygiene, poor work performance for adults, poor academia performance for kids, increased level of agitation, aggression, and hostilities.
 As well as avoidable ER visits due to severe heat-induced illnesses that could have burdensome financial costs.
-Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

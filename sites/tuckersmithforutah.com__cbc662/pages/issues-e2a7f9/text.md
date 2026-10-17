@@ -26,4 +26,4 @@ Fairness.
 Access.
 Opportunity At the core of my campaign is a simple belief: power comes from the people.
 I am committed to dispersing concentrated economic and political power, expanding access to essential services, and building a state where every Utah family has the opportunity to thrive.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com - Political Websites Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu

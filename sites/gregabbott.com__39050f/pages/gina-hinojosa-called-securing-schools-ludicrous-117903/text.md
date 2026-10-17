@@ -1,0 +1,17 @@
+Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store GINA HINOJOSA CALLED SECURING SCHOOLS “LUDICROUS” Oct 16, 2026 AUSTIN — Gina Hinojosa called a proposal to allow armed guards at schools “ludicrous” and voted to strip from schools critical safety measures that protect our students.
+This is yet another example of Gina Hinojosa refusing to take every necessary action to safeguard our kids and secure our schools.
+“While Governor Abbott crisscrosses Texas listening to the most vital issues facing Texans, Gina Hinojosa continues to dodge her deplorable legislative record.
+Among Gina’s egregious votes – her refusal to take every measure possible to ensure the safety of school children.
+Not only did Gina vote against putting armed guards at schools, but she called efforts to protect students ‘ludicrous.’” — Catherine Frazier, Texans for Greg Abbott Communications Director In 2023, Gina Hinojosa voted against a bill to secure Texas schools, including requiring an armed guard at each campus. ( 88R, HB3 ) In 2022, Gina Hinojosa called efforts to secure schools by allowing licensed teachers to carry their firearms for defense, “ludicrous.” ( YouTube ) In 2021, Gina Hinojosa voted against allowing armed guards at public schools and junior colleges. ( 87R, HB 781 ) In 2019, Gina Hinojosa voted against increasing the number of armed school guards. ( 86R, HB 1387 ) Learn more about Hinojosa and her reprehensible record at HypocriteHinojosa.com and GenderBenderGina.com .
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Endorsed By Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Join Greg Today − " * " indicates required fields First Name * Email * Zip Code * Cell Phone Yes, I would like to receive text updates from Texans for Greg Abbott.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the Terms & Privacy Policy for auto dialed messages to the phone number you provide.
+Message frequency may vary.
+Msg&data rates may apply.
+Reply STOP to stop and HELP for help. Δ

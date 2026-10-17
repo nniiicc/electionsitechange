@@ -17,7 +17,7 @@ Prior to that, he served as Legal Advisor to the Commanding Officer, U.S.
 Naval Support Activity, Naples, Italy, where he provided legal advice to senior Navy officers and civilians on a host of legal issues including labor/employment, fiscal, contract, international, and criminal law.
 Chris was chosen to represent House District 88 in the Indiana General Assembly in 2020, and the district has re-elected him in every election since.
 He serves as Chair of the House Judiciary Committee and co-chairs the state’s Bail and Release Review Commission, leading on public safety, victims’ rights, and constitutional bail reform.
-Read More Volunteer Here Name Email Address Message 11 + 13 = Submit Join Team Jeter Get campaign updates from Chris by email and text.
+Read More Volunteer Here Name Email Address Message 5 + 10 = Submit Join Team Jeter Get campaign updates from Chris by email and text.
 It takes 30 seconds to add your name to the team.
 Count Me In Maybe later Open House with Chris Jeter on Tuesday, September 29th.
 RSVP and learn more Dismiss Home Bio Updates Connect Donate Privacy Policy Terms and Conditions Jeter for Indiana | 27 South Main Street, Fortville, IN 46040 Paid for and authorized by Jeter for Indiana. © # Jeter for Indiana.

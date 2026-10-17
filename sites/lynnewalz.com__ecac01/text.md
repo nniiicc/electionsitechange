@@ -35,14 +35,15 @@ My focus won’t be on policing our personal lives: instead, it’ll be to grow 
 Building Strong Communities I will ensure that Nebraska is a place where our children will want to live when they grow up.
 In addition to creating economic opportunities, we need to ensure our communities are thriving so families want to live here.
 We need strong schools, vibrant community spaces, strong main streets, and continued investments for police officers and firefighters to keep us safe.
-Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) From Minden and Holdrege to Grand Island and Kearney, central Nebraska turned out this week!
+Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) We've got a new poll out today - and Nebraskans still aren’t sold on four more years of Jim Pillen.
+Four years of funding cuts and empty promises.
+Nebraskans are done waiting.
+If you are too, chip in: tinyurl.com/2s4fmj5p ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 243 Shares: 11 Comments: 61 61 Comments Comment on Facebook From Minden and Holdrege to Grand Island and Kearney, central Nebraska turned out this week!
 Nebraskans came out to tell us what they need from their state government.
 Now I'm asking you to vote for a government that works for our families.
 Early voting is open — make a plan at iwillvote.com today ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 541 Shares: 27 Comments: 47 47 Comments Comment on Facebook Play When it's your money, you know exactly where every dollar goes.
-As a State Senator, I fought to keep politicians from sneaking tax breaks to their wealthy donors, worked with Republicans to cut spending, and balanced the budget.
-As Governor, I'll make sure government answers to you. ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Reactions: 222 Shares: 47 Comments: 33 33 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 566 Shares: 29 Comments: 50 50 Comments Comment on Facebook Lynne Walz Follow 989 2,841 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 Lynne Walz @lynnewalz · 11 Oct 2109371123615810041 Proud to have Senator McCollister’s support in this fight.
 Together, we can get Nebraska back on track and ensure every Nebraskan has a seat at the table.

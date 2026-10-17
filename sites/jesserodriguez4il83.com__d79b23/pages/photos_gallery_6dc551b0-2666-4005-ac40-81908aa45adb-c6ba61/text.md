@@ -14,4 +14,4 @@ Short-term rental/hotel operator tax for $10 million in new taxes.
 In case you've lost track, there's more than $291 million in new taxes or "revenue enhancements", as they are euphemistically known in Springfield, that are not listed above.
 With so little time to review, let alone debate, the budget was a done deal as were the "revenue enhancements".
 What other conclusion could anyone reasonably make?
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

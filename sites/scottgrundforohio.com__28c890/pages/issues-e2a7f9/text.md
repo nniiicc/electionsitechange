@@ -14,4 +14,4 @@ Read More Education FULL FUNDING FOR PUBLIC SCHOOL AND TEACHERS IMPROVE EDUCATIO
 This path can take shape through traditional college, trade school, apprenticeships, or better opportunities to enter the workforce.
 Read More Healthcare Expand access to quality/affordable healthcare for ALL Improve access to mental & behavioral health, especially for the elderly and the younger generation Protect Medicare and Medicaid Read More Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

@@ -38,4 +38,4 @@ COMPREHENSIVE COMMUNITY ADVOCACY Advocacy for Special and Vulnerable Communities
 We must provide rural sustainability and safeguard residential areas from harmful environmental impacts.
 It's a comprehensive approach that recognizes the interconnectedness of various issues and the need for holistic solutions.
 Comprehensive Community Advocacy is OUR FIGHT!
-Voter Information ENDORSEMENTS EVENTS PHOTOS CONTACT Committee to Elect Janene Ackles Powered by CampaignPartner.com - Political Websites HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT Voter Information PHOTOS Close Menu
+Voter Information ENDORSEMENTS EVENTS PHOTOS CONTACT Committee to Elect Janene Ackles Powered by CampaignPartner.com HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT Voter Information PHOTOS Close Menu

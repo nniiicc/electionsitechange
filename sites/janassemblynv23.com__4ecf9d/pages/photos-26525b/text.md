@@ -1,2 +1,2 @@
 Home Meet Jan Photos Issues News Volunteer Contribute Contact Photos Photos from the campaign trail.
-Nevada Pictures April 10, 2026 Nevada Pictures Nevada Pics April 3, 2026 Pictures from Nevada Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Nevada Pictures April 10, 2026 Nevada Pictures Nevada Pics April 3, 2026 Pictures from Nevada Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

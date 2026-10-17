@@ -11,4 +11,4 @@ When farmers struggle, rural communities struggle.
 And when rural communities struggle, hunger rises.
 Supporting agriculture is not just about economics — it’s about strengthening families, communities, and the future of North Dakota.
 I care about what has been done to our food as much as its contents.
-Next: Childcare and Working Families » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Childcare and Working Families » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

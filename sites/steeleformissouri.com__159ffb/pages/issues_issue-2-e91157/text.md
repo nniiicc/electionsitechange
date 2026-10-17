@@ -1,4 +1,4 @@
-Skip navigation menu Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Lower the cost of Living Fully-Funded Schools Affordable Healthcare Respect the will of Missouri voters Steele for missouri believes in Fully-Funded Schools The state should pay its share of public education.
+Skip navigation menu Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Lower the cost of Living Fully-Funded Schools Affordable Healthcare Respect the will of Missouri voters More Issues A-z Steele for missouri believes in Fully-Funded Schools The state should pay its share of public education.
 Lower property taxes because they shouldn't be responsible for our schools.
 Raise the quality of schools across the state instead of straining our Park Hill school district.
 Support teachers and school staff unions so they can advocate for students.

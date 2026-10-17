@@ -2,12 +2,11 @@ Skip to content Donate now to send Dr.
 Annie to the U.S.
 Senate STAND WITH Dr.
 Annie ANdrews Choose any amount.
-If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Fri, Oct 16 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
-Annie Andrews See details Fri, Oct 16 @ 10:00–11:00 AM EDT Annie Andrews Affordability Town Hall - Fort Mill This event’s address is private.
-Sign up for more details See details Fri, Oct 16 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Sat, Oct 17 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
+Annie Andrews See details Sat, Oct 17 @ 10:00–11:00 AM EDT Early Vote Rally with Annie Andrews, Raphael Warnock, James Clyburn, Sam Skardon & Sylvia Wright This event’s address is private.
+Sign up for more details See details Sat, Oct 17 @ 2:30–3:30 PM EDT Early Vote Rally with Annie Andrews, Raphael Warnock & Jermaine Johnson See details Sat, Oct 17 @ 6:00–8:00 PM EDT Bringing it Home with Women of the Movement St.
+John Holistic Wellnes Center See details Mon, Oct 19 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!
 This event’s address is private.
-Sign up for more details See details Fri, Oct 16 @ 12:00–3:00 PM EDT Team Annie In Person Phone Bank - Columbia This event’s address is private.
-Sign up for more details See details Sat, Oct 17 @ 10:00–11:00 AM EDT Early Vote Rally with Annie Andrews, Raphael Warnock, Sam Skardon & Sylvia Wright This event’s address is private.
 Sign up for more details See details View More Events View More Events POWERED BY PEOPLE.
 NOT PACS. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Courage and common sense Email Address Zip Code Phone Number (Optional) .

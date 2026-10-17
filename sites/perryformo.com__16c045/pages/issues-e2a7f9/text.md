@@ -97,4 +97,4 @@ Support independent fiscal analysis.
 Protect essential public services.
 Oppose shifting state costs onto local property taxpayers.
 Require measurable results from major economic incentives.
-Yard Signs Events Contact Committee to Elect Melissa Perry Powered by CampaignPartner.com - Political Websites Volunteer Contribute Contact Issues Close Menu
+Yard Signs Events Contact Committee to Elect Melissa Perry Powered by CampaignPartner.com Volunteer Contribute Contact Issues Close Menu

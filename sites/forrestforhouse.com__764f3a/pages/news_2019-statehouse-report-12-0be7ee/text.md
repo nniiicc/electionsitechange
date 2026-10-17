@@ -23,4 +23,4 @@ We filed legislation this week to make changes to the season and bag limits.
 Special Events The House defeated the Senate in the annual BlueCross BlueShield baseball game 25-3!
 We enjoyed beating our friendly rivalry at the Spirits Communications Park, home of the Columbia Fireflies.
 As always, I'm honored to be able to serve each and every person in SC House District 39.
-Please reach out to me if I can be of assistance. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Please reach out to me if I can be of assistance. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

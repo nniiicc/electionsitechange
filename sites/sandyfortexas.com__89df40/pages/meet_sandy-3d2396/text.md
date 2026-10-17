@@ -1,4 +1,4 @@
-Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Meet Sandy Sandy Ibáñez is a fifth-generation Texan (Tejana) and a lifelong resident of Fort Bend County.
+Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Meet Sandy Sandy Ibáñez is a fifth-generation Texan (Tejana) and a lifelong resident of Fort Bend County.
 A proud product of the local public school system, Sandy graduated from Bush High School before earning a Bachelor of Business Administration in Management and Entrepreneurship from the University of Houston’s C.T.
 Bauer College of Business and the Wolff Center for Entrepreneurship.
 She also holds an MBA from Western Governors University and recently completed the Rice Advanced Management Program.
@@ -27,4 +27,4 @@ She is equipped with the experience and determination to show up, speak out, and
 As a result, candidate names are printed without these marks to ensure accuracy and consistency across all voting materials.
 Therefore, “Ibáñez” will appear as “Ibanez” on the ballot and in some campaign communications.
 Voter Information Texas House District 28 Endorse Sandy!
-Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com - Political Campaign Websites Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Close Menu
+Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Close Menu

@@ -20,4 +20,4 @@ This event, which was held yesterday, July 14 at the Michigan Maritime Museum in
 We had hoped for forty people - we had 65 people attend!
 The food was great and the energy was running high.
 Thank you to everyone who came and for those of you who couldn't make it, don't miss the next one!
-15 Jun Saturday, 12:03 PM · 2024 Press Release: Kerry Announces Run Read more Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu
+15 Jun Saturday, 12:03 PM · 2024 Press Release: Kerry Announces Run Read more Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

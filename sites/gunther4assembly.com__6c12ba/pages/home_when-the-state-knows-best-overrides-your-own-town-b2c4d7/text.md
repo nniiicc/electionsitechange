@@ -54,4 +54,4 @@ Lastly, and I don’t want to make this a partisan issue, but where is Matt Simp
 It seems to me; the first responsibility of an elected official is to protect their constituents.
 This is clearly dereliction of duty.
 If you’re not going to fight for your voters, then it’s time for you to get out of the way!
-Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

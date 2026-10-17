@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://luschasforsd.net/view-endorsements",
- "fingerprint": "a6e0929ba0064a0f1645204a709011895841dcb0",
+ "fingerprint": "3031f833ac23c1eb76fe56212b4f7ed5b17dc8dc",
  "format": 3,
  "paid_for_by": "Paid for By: Manuel Luschas Powered by CampaignPartner",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": []
 }

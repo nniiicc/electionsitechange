@@ -21,4 +21,4 @@ Hilton shared with The Hub “Gary is very genuine and cares what I, and others 
 “The endorsement of Sheriff Chris Hilton means as much as any endorsement that I have received thus far” Click shared with the Hub.
 Gary also stated, “I am both humbled and honored by the respect and trust that he has placed in me with his endorsement.” Note : The Hub will continue to provide coverage of endorsements for any local candidate when we become aware of them.
 Reprinted from The Hub with permission.
-The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

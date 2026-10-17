@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Iowa Born.
+Skip to content Home About Issues Press Get Involved DONATE Iowa Born.
 Iowa Raised.
 Iowa Heart.
 As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.

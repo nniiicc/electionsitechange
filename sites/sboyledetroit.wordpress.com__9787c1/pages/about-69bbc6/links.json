@@ -20,10 +20,6 @@
 "href": "https://facebook.com/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Instagram",
 "href": "https://www.instagram.com/stephenboylenow/"
 },
@@ -73,6 +69,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

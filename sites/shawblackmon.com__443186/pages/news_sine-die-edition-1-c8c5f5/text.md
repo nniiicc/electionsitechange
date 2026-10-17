@@ -40,5 +40,5 @@ Lastly, HB 916 appropriates $4.3 million to the CJCC for hiring a dedicated sexu
 Additional notable investments in the FY 2025 budget include: ● $260 million for a four percent cost-of-living adjustment for state employees ● $5 million for third-party ballot-text auditing technology to enhance election verification and transparency ● $2.4 billion to bolster Georgia's transportation system, improving mobility, reducing congestion and ensuring the safety and efficiency of roads, bridges and transit networks.
 Please stay tuned for more information on critical legislation we’ve worked to pass this session.
 As always, we remain committed to advancing simple, smart and effective government for you and your families.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

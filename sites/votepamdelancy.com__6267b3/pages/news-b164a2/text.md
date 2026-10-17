@@ -17,4 +17,4 @@ Read more 19 Jan Monday, 10:03 AM · 2026 Announcing Hats on the Hill 2026:Georg
 Read more 15 Jan Thursday, 5:38 PM · 2026 Pamela DeLancy on Ballotpedia Recent News about Pamela DeLancy candidacy run for Georgia District 10.
 Read more Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

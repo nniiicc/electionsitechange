@@ -30,4 +30,4 @@ They are a blended family of 3 sons, 8 grandchildren and one great-granddaughter
 Judge Jamison is thankful for all opportunities that she has been presented.
 Marian Wright Edelman’s quote, “service is the rent we pay for being.
 It is the very purpose of life, and not something you do in your spare time” is indicative of her life of service.
-E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu
+E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Public Safety & Justice Safe Neighborhoods for Every Texan Every Texan deserves a safe neighborhood.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Public Safety & Justice Safe Neighborhoods for Every Texan Every Texan deserves a safe neighborhood.
 James Talarico will give law enforcement the resources it needs, protect the Second Amendment while passing universal background checks, and stop crime before it happens.
 We all deserve to live in a safe neighborhood.
 And as your Senator, your safety will always be my top priority.

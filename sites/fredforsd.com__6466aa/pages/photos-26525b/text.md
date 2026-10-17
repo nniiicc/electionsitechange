@@ -17,4 +17,4 @@ Sharing pro-life conversations and resources with students at the University of 
 With the next generation of pro-life South Dakotans — grateful for their courage and heart.
 Leaders who stood up for common sense and fairness in South Dakota sports.
 I’m toward the back, on the left.
-Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

@@ -8,6 +8,6 @@ Balancing budgets to promote growth for the entire State is also a priority.
 He stays engaged in the needs for roads and transportation for the region.
 He is a proactive incumbent.” The Auburn Area Chamber of Commerce is a group of 475+ business in the Auburn area devoted to maintaining and expanding commerce in the region.
 Their entire release can be found at www.auburnareawa.org .
-Endorsements business election endorsement More For You Early Endorsement from Stand for Children Endorsements Rep.
-Stokesbary files bill to address leaves of absence by elected officials In the News Lawmakers concerned about auditor probe In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements business election endorsement More For You Stokesbary named “Guardian of Small Business” by NFIB Awards Construction industry backs Stokesbary Endorsements Rep.
+Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

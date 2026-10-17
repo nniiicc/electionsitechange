@@ -7,4 +7,4 @@ He a member of the board for Columbus Youth Baseball and is a long time baseball
 Youth Baseball Program.
 He is a member of the Legal Redress Committee of the Columbus Chapter of the N.A.A.C.P.
 He is also a member of the American Bar Association, the Indiana State Bar Association, the National Association of Criminal Defense Lawyers and the National Legal Committee of the National Organization for the Reform of Marijuana Laws.
-Voter Information Contact Volunteer Committee to Elect Ross Thomas Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ross Issues Contribute Volunteer Contact Voter Information Close Menu
+Voter Information Contact Volunteer Committee to Elect Ross Thomas Powered by CampaignPartner.com Home Meet Ross Issues Contribute Volunteer Contact Voter Information Close Menu

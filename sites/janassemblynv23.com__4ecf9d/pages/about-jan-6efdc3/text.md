@@ -12,4 +12,4 @@ Golf chair from the (NPFMA) Nevada Professional Facility Managers for the annual
 Charities include: Nevada Childhood Cancer, Opportunity Village, Lutheran Social Services of Nevada, Assitance League of Las Vegas and Shriners Childrens Hospital Golf Tournament.
 Hobbies include golf, fishing, biking and walking.
 Avid sports fan of the Las Vegas Raiders and Vegas Golden Knights!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

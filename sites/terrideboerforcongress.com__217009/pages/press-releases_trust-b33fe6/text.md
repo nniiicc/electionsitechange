@@ -6,10 +6,4 @@ I’m running for Congress to tell you the truth and deliver results; lowering c
 Growing up in a military family, she witnessed the remarkable sacrifice, resilience, and service of those in uniform.
 These powerful experiences instilled in her the core values of hard work, integrity, and an unwavering commitment to her community, principles that continue to drive her impact today.
 Now, she’s stepping up to give the people of West Michigan the representation in Congress they deserve.
-Contact: Campaign Manager Jenni Shepherd-Kelley jenni@terrideboer.com Terri DeBoer Next Next Terri DeBoer Wins Republican Primary in Michigan's 3rd Congressional District Please provide your mobile phone to opt-in to Terri DeBoer for Congress campaign alerts, updates and news.
-By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
-Message frequency may vary.
-Msg&Data Rates May Apply.
-Reply STOP to cancel.
-Reply HELP for help.
-Privacy Policy Site design by Micah Plaisier Paid for by Terri DeBoer for Congress
+Contact: Campaign Manager Jenni Shepherd-Kelley jenni@terrideboer.com Terri DeBoer Next Next Terri DeBoer Wins Republican Primary in Michigan's 3rd Congressional District Site design by Micah Plaisier Paid for by Terri DeBoer for Congress

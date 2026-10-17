@@ -8,4 +8,4 @@ Starting as a Basic Airman (the lowest rank) I rose to Lieutenant Colonel and ha
 We believe New Mexico is a great state with terrific potential, but is squandering that opportunity.
 As the state representative for District 21, I will fight for this state to realize that potential.
 Wanda and I enjoy hiking and exploring the rich history of New Mexico and the southwest.
-Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

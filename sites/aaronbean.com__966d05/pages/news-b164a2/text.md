@@ -1,49 +1,82 @@
-Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates News News Press Releases Photos Videos News Rep.
-Bean to Newsmax: Biden Wrong to Bash Trump as Folks Suffer October 10, 2024 President Joe Biden bashing former President Donald Trump at a time “when people are suffering” is a “shame,” said Rep.
-Aaron Bean, R-Fla.
-Read More » Bean Introduces Bill Fighting Health Insurance Fraud October 5, 2024 Representative Aaron Bean (R-FL) has introduced a new bill to combat such rampant deception, specifically targeting loopholes that have allowed non-physicians to bill health insurance companies for millions of dollars frequently.
-Read More » Bean Bill to Democratize Small Business Regulations Passes Committee September 11, 2024 A bill introduced by Representative Aaron Bean (R-FL) has recently passed the House Small Business Committee, requiring a more democratic regulatory process that allows small businesses to raise their voices before implementing new policies.
-Read More » Rep.
-Bean hosts tax roundtable with Clay business leaders September 5, 2024 ORANGE PARK – U.S.
+Skip to content Meet Aaron The District Priorities Watch News Get Involved Donate Newsroom In the News Coverage of Aaron Bean from Northeast Florida and state outlets.
+Each item is an excerpt, credited and linked to the original story.
+In the News September 24, 2026 · The Floridian Rep.
+Aaron Bean Named Champion for America’s Seniors from Pro-Trump Group Rep.
+Aaron Bean (FL-4) is among 15 members of Congress recognized by Seniors Matter for America (SMFA) with the organization's inaugural Champion for America's Seniors Award.
+SMFA, a pro-Trump seniors group led by former WH press secretary Sean Spicer, announced the award this week, citing Bean's commitment to “protecting promised Social Security and Medicare retirement benefits, strengthening popular senior programs like Medicare Advantage, rejecting policies that support total government control of healthcare, such as the Democrat Medicare for All scheme that would threaten seniors’ care and result in a massive tax increase,” and others.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News August 26, 2026 · Florida Daily Florida GOP Congressman Protecting Seniors On Medicare Over 33 million seniors, more than half of all Medicare beneficiaries, choose Medicare Advantage (MA).
+Those on it say it delivers better value, better benefits, and more peace of mind.
+Many of those on the program are Trump voters in states like Florida, Texas, and the Midwest, where Medicare Advantage enrollment is the highest.
+These are real people who rely on their MA plans to manage chronic illness, avoid surprise bills, and get care close to home.
+However, despite this success, unelected bureaucrats in Washington continue to use outdated tools to measure and evaluate the program.
+And the consequences are severe.
+Florida Congressional Rep.
+Aaron Bean’s Apples-to-Apples Comparison Act (H.R.
+4093) proposal would provide Congress and the public with the tools to fairly and accurately compare Medicare Advantage to original Medicare, using real data rather than biased assumptions.
+Excerpt from Florida Daily.
+Read the full story at Florida Daily → ↑ Back to top In the News June 11, 2026 · The Floridian Aaron Bean Introduces Bill Easing Digital Asset Taxation Disclosure Representative Aaron Bean (R-FL) has introduced legislation to ease taxpayers' burden in disclosing taxable digital assets, thereby correcting past issues with unreported or underreported liabilities.
+What the Bill Does Rep.
+Bean's Digital Assets Voluntary Disclosure Program Act establishes a voluntary disclosure program for taxpayers holding digital assets, such as cryptocurrency, to report their holdings and thereby address past noncompliance.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News May 30, 2026 · Florida Politics Clay and Nassau fire fighters back Aaron Bean in re-election bid Firefighters from two of the three counties in Florida’s 4th Congressional District support incumbent U.S.
 Rep.
-Aaron Bean (FL-04) hosted a roundtable discussion with Clay County’s local business community members to explore the impact of expiring tax cuts and solutions to protect Main Street from policies driving up costs.
-Read More » Bean aims to keep Florida’s 4th Congressional District with the GOP September 3, 2024 (The Center Square) – Incumbent U.S.
-Rep Aaron Bean, R-Fla., is looking to keep his seat in the 4th Congressional District this November, facing off in a rematch against an underfunded Democrat rival.
-Read More » Bean Introduces Bill Fighting Medicare Fraud August 22, 2024 Did you know that Medicare fraud is estimated to cost a staggering $100 billion in 2023 alone?
-This figure, which could be even higher, underscores the urgent need for immediate action.
-Representative Aaron Bean (R-FL) has introduced a bill to combat this rampant fraud.
-Read More » Rep.
-Aaron Bean: ‘Schools are for education, not espionage’ June 20, 2024 WASHINGTON, D.C. — To address the aggressive and systematic threats from foreign adversaries, Chairman of the Early Childhood, Elementary, and Secondary Education Subcommittee, U.S.
+Aaron Bean in his campaign for a third term in Congress.
+“I’m thrilled to be endorsed by our local Clay and Nassau County firefighters,” said Bean.
+“Our first responders are integral to keeping our communities safe, strong and resilient, as they’re the ones that answer the call when Floridians need help the most.
+If re-elected to serve Northeast Florida in Congress, I will continue to support our frontline heroes in our nation’s capital, fighting for them and the support and resources they need to be able to show up in Floridians’ time of need.” Excerpt from Florida Politics.
+Read the full story at Florida Politics → ↑ Back to top In the News May 16, 2026 · Florida Politics Aaron Bean hosts summit on how to make medical insurance more efficient and predictable Insurers and medical professionals concede that rising costs of care too often fall on the shoulders of patients.
+But getting Congress to approve a solution acceptable to all parties remains frustratingly out of reach.
+U.S.
 Rep.
-Aaron Bean (FL-04) introduced H.R.
-8649, the Transparency in Reporting of Adversarial Contributions to Education (TRACE) Act.
-Read More » Bean Introduces Bill to Cut Green New Deal Spending June 20, 2024 With inflation at an all-time high, cutting back on government spending is one way to bring it back down.
-Representative Aaron Bean (R-FL) has introduced a bill for just that, offsetting the $95 billion foreign aid package passed earlier this year by cutting from Green New Deal initiatives.
-Read More » Florida Rep.
-Aaron Bean Intros Bill To Protect K-12 Schools From Foreign Influence June 13, 2024 Congressman Aaron Bean (FL-04), Chairman of the Early Childhood, Elementary, and Secondary Education Subcommittee, has introduced H.R.
-8649, the Transparency in Reporting of Adversarial Contributions to Education (TRACE) Act.
-This legislation aims to safeguard America’s K-12 schools from the aggressive and systematic threats posed by foreign adversaries.
-Read More » Aaron Bean calls for increased transparency for school funding sources June 12, 2024 Republican Florida Congressman Aaron Bean has introduced legislation that would require public K-12 schools to inform parents about any dealings the school might have with “foreign governments of concern.” Read More » Bean Rips Biden for Allowing Chinese, Fentanyl Over Border May 30, 2024 Over 50,000 Chinese nationals have illegally crossed the border, and fentanyl manufactured in their homeland and smuggled into the United States continues to kill thousands of Americans every year.
-Representative Aaron Bean (R-FL) discussed these issues in an interview with The Floridian, reiterating that “when you vote for Joe Biden, that is what you are voting for.” Read More » Bean Savages Biden on Border: ‘That’s What You Vote For When You Vote Biden’ May 28, 2024 Representative Aaron Bean (R-FL) was unyielding in his critique of President Joe Biden for the border and fentanyl crises in a recent interview with The Floridian.
-Read More » Bean Denounces Biden’s ‘Unfair’ Student Loan Forgiveness May 23, 2024 WASHINGTON—President Joe Biden recently canceled another $7.7 billion in student loans for 160,000 borrowers, bringing the total forgiven to $167 billion.
-Representative Aaron Bean (R-FL) denounced the erasure of debt in a recent interview with The Floridian, calling it “unfair” and an attempt “to win over young people.” Read More » Bean Bashes Antisemitism and ICC’s Arrest Warrants for Israeli Officials May 21, 2024 Representative Aaron Bean (R-FL) sat down with The Floridian to discuss the displays of antisemitism on college campuses in recent weeks and bashed the calls from the International Criminal Court (ICC) for the arrests of Israeli officials, including Prime Minister Benjamin Netanyahu.
-Read More » REP.
-AARON BEAN: It’s Time To Boot Activist Agendas From Our K-12 Schools OPINION May 8, 2024 Targeted.
-Harassed.
-Violently ambushed.
-It’s shocking that in 2024, students are unable to walk between classes to their dorms or to the dining hall.
-But it’s the reality for Jewish students on campus.
-Read More » Bean Savages Cardona on Illegal Immigrants Overwhelming American Schools May 8, 2024 Representative Aaron Bean (R-FL) took the opportunity to ask and admonish Sec.
-Cardona about the large number of illegal immigrants overwhelming American schools.
-Read More » Aaron Bean pursues congressional override of decision denying Florida permitting authority March 27, 2024 U.S.
+Aaron Bean hopes he can find an elusive bipartisan policy answer, and brought together interests, including Florida medical professionals, for a health summit in the U.S.
+House.
+Excerpt from Florida Politics.
+Read the full story at Florida Politics → ↑ Back to top In the News April 20, 2026 · The Floridian Aaron Bean Wants to Abolish Center for Medicare and Medicaid Innovation Representative Aaron Bean (R-FL) is introducing legislation to abolish the Center for Medicare and Medicaid Innovation (CMMI), arguing the program is underperforming and wasting federal funds.
+The CMMI, also known as the Innovation Center, as described on its webpage, "develops and tests health care payment and service delivery models to improve patient care, lower costs, and align payment systems to promote patient-centered practices." Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News April 10, 2026 · The Floridian Sen.
+Moody and Rep.
+Bean Announce National POW/MIA Memorial and Museum Act U.S.
+Sen.
+Ashley Moody (R-Fla.) announced a new bill designating the only National Prisoner of War/Missing in Action (POW/MIA) Museum and Memorial in the U.S., located in Jacksonville, Fla., as a National Landmark.
+U.S.
 Rep.
-Aaron Bean introduced an amendment last week on a larger bill, the Creating Confidence in Clean Water Permitting Act (HR 7023), that would codify Florida’s authority to issue permits.
-Read More » Aaron Bean, John Rutherford secure $147M from Joe Biden administration for Jacksonville’s Emerald Trail March 11, 2024 U.S.
+Aaron Bean (R-Fla.), the House sponsor and original proponent of the legislation, joined Sen.
+Moody at the former Naval Air Station Cecil Field (NAS Cecil Field) to unveil the National POW/MIA Memorial and Museum Act.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News February 27, 2026 · The Floridian Aaron Bean Urges Coast Guard Receives Pay During DHS Shutdown Representative Aaron Bean (R-FL) is urging President Donald Trump to ensure that the United States Coast Guard (USCG), which is under the authority of the Department of Homeland Security (DHS), continues to receive their salaries as the Department shut down ensues.
+Earlier in February, talks between the White House and Democratic members of Congress reached a stalemate on funding DHS, as Democrats demanded reforms to Immigration and Customs Enforcement (ICE) after the deaths of Renee Good and Alex Pretti in Minneapolis during anti-ICE protests.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News January 13, 2026 · Florida Politics Aaron Bean, Laurel Lee, Anna Paulina Luna advance insider trading ban with support of Mike Johnson Three Florida lawmakers helped craft a ban on insider trading for members for Congress.
+And this one has the support of Speaker Mike Johnson.
+U.S.
+Reps.
+Aaron Bean, Laurel Lee and Anna Paulina Luna, all Republicans, co-introduced the Stop Insider Trading Act with U.S.
 Rep.
-Aaron Bean’s office notes that Jacksonville “will receive $147,089,058 in federal funding for its downtown revitalization project, the Emerald Trail.“ Read More » Bean Applauds Passage of Tax Relief for American Families and Workers Act February 1, 2024 “It is pro-jobs, pro-taxpayer, [and] pro-America.” That is how Representative Aaron Bean (R-FL) described the Tax Relief for American Families and Workers Act in a recent speech on the House floor, which passed the House Wednesday night.
-Read More » REP.
-AARON BEAN: My School Choice Bill Will Empower Children And Families January 24, 2024 I firmly believe that ensuring access to quality education for every student is not just a policy discussion – it is a moral obligation.
-Read More » Aaron Bean’s Primary opponent ends campaign January 23, 2024 U.S.
+Bryan Steil, a Wisconsin Republican who chairs the House Administration Committee.
+“Too many in Congress seem more focused on playing the markets than serving the American people,” said Bean, a Fernandina Beach Republican.
+“We can’t allow Crazy Town to prioritize its stock portfolios over the future of our nation.
+Our job is to represent the people — not to act like day‑traders with privileged information.” Excerpt from Florida Politics.
+Read the full story at Florida Politics → ↑ Back to top In the News January 8, 2026 · The Yulee News Congressman Aaron Bean Highlights Legislative Wins, Constituent Services in 2025 Recap Aaron Bean is reflecting on what he called a “truly remarkable year” as he released his 2025 recap, highlighting major legislative action in Washington and extensive constituent services delivered across Northeast Florida’s Fourth Congressional District.
+Bean said it remains “the honor of my lifetime” to serve Northeast Florida in the nation’s capital and reaffirmed his commitment to growing the economy, defending individual freedoms, lowering costs for families, and holding the federal government accountable.
+Excerpt from The Yulee News.
+Read the full story at The Yulee News → ↑ Back to top In the News January 4, 2026 · West Orlando News U.S.
+House Passed Amendment Protecting Florida from Federal Overreach The United States House of Representatives passed an amendment protecting Florida from federal overreach.
+Republican Congressman Aaron Bean praised the House of Representatives’ passage of his amendment to codify Florida’s 404 Permitting Program, as part of H.R.
+3898, the PERMIT Act.
+Excerpt from West Orlando News.
+Read the full story at West Orlando News → ↑ Back to top In the News December 11, 2025 · The Floridian Aaron Bean Introduces MACA Act to Fix Obamacare Failures Florida Congressman Aaron Bean (R), alongside Texas Congressman August Pfluger (R), introduced the More Affordable Care Act (MACA), aiming to fix the failures of Obamacare, slash healthcare costs, and “empower families to choose the care that fits their needs.” In an exclusive interview with The Floridian, Congressman Bean shed light into the failures of Obamacare and how MACA will remedy those failures.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News December 4, 2025 · Florida Politics Aaron Bean strives for consensus on health care credits As Congress wrestles with health care subsidies, U.S.
 Rep.
-Aaron Bean’s sole filed opponent, Robert Alvero of Orange Park, has withdrawn from his race to challenge the incumbent from Florida’s 4th Congressional District.
-Read More » Press Releases Photos Download high-resolution images Videos Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress
+Aaron Bean hopes to find a solution that a broad range of Americans can support.
+While Bean, a Fernandina Republican, said he doesn’t want to see a straight extension of subsidies set to expire at the end of the year, he said it’s important for Congress to find a workable solution.
+He held a “Path to Consensus” summit on Capitol Hill that explored the role of tax credits in modern health care.
+Excerpt from Florida Politics.
+Read the full story at Florida Politics → ↑ Back to top In the News December 3, 2025 · The Floridian Aaron Bean Pushes ‘TRACE’ Act to Expose Foreign Influence in Schools Florida Congressman Aaron Bean (R) is pushing the Transparency in Reporting of Adversarial Contributions in Education (TRACE) Act, which exposes foreign and CCP funding and influences in schools.
+“American schools are for education, not espionage,” Bean said in an interview with FOX News.
+Excerpt from The Floridian.
+Read the full story at The Floridian → ↑ Back to top In the News October 11, 2025 · Florida Politics Aaron Bean refuses congressional pay until gov’t shutdown ends A Fernandina Beach Republican is refusing his congressional pay until Congress passes legislation to reopen the federal government.
+U.S.
+Congressman Aaron Bean says he “cannot in good conscience receive compensation during the shutdown while our American service members, air traffic controllers, and homeland defenders go without pay, nor while Northeast Floridians endure a disruption to essential services from federal agencies.” Excerpt from Florida Politics.
+Read the full story at Florida Politics → ↑ Back to top Facebook X / Twitter YouTube Media inquiries: Sarah Bascom · Kelsey Deasy Paid for by Aaron Bean for Congress Privacy Policy · Terms of Use © # Aaron Bean for Congress · Clay · Duval · Nassau

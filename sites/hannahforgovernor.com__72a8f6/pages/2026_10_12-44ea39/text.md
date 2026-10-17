@@ -16,7 +16,12 @@ With bold leadership and a deep love for this state, Hannah is ready to deliver 
 #TeamPingree Take Action Today Maine people are already stepping up to build this grassroots campaign, pitching in however they can, early and with heart.
 This work is powered by you, and together we are laying the groundwork to win.
 Join us, and be part of building a bright future for our great state.
-Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 15, 2026 Opinion: Why Hannah Pingree is the leader Maine needs This guest column, written by Charlie Dingman, was originally published in the Bangor Daily News.
+Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 16, 2026 Opinion: What if Maine elected a governor who just gets things done?
+This guest column, written by Erin Cavallaro, was originally published in the Maine Trust for Local News.
+With Democratic nominee Hannah Pingree, Maine voters have that opportunity.
+After watching the first gubernatorial debate, one thing became even clearer to me: Maine needs Hannah Pingree.
+Politics has become very good at telling us what divides us....
+Read More October 15, 2026 Opinion: Why Hannah Pingree is the leader Maine needs This guest column, written by Charlie Dingman, was originally published in the Bangor Daily News.
 Charlie Dingman is the chair of the Maine Democratic Party and an attorney based in Augusta.
 He lives in Leeds It will surprise no one that, as chair of the Maine Democratic Party, I enthusiastically support our Democratic nominee […] ...
 Read More October 12, 2026 Five Questions with Hannah Pingree This column, written by Joyce Vance, was originally published on Substack.
@@ -30,12 +35,6 @@ Read More October 9, 2026 Wabanaki Tribal Chiefs Endorse Hannah Pingree for Gove
 During her years in public...
 Read More October 8, 2026 Hannah Pingree Releases New TV Ad, “Time Out” New spot offers Maine voters a break from the attack ads as every publicly available poll show Hannah with a commanding lead MAINE – Hannah Pingree, former Speaker of the Maine House and Democratic nominee for governor, released her third television advertisement of the general election, titled “Time Out”.
 While negative ads crowd Maine’s airwaves,...
-Read More October 7, 2026 Letter: Maine needs a housing strategy.
-Hannah Pingree has one.
-This guest column, written by Eloise Melcher, was originally published in Central Maine.
-When I turned 30, suddenly all of my friends were talking about buying houses.
-Or, more specifically, how hard it is to buy a house.
-Looking at houses on Zillow in one’s spare time is no longer a fun game; it’s just...
 Read More Spread The Word Let's Go!
 Sign Up For Updates First Name Cell Phone Email Zipcode Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
 Message & data rates may apply.

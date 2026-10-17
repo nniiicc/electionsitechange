@@ -8,10 +8,10 @@ Ben DeSmidt SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE VIEW ALL ENDORSEMENT
 Real Accountability.
 Education & Families: Rein in property taxes & eradicate burdens to the elderly & families Commit tax dollars & shared revenue to public schools for reading & math excellence Expand childcare ; treat early education as an opportunity : guarantee Wisconsin's future competitive edge !
 Healthcare & Freedom: No politicians in the doctor's office & never criminalize saving a woman's life Defend constitutional rights & due process for everyone, no exceptions Stop sending Wisconsin's tax dollars to other states and expand BadgerCare to lower premiums & save local hospitals Economy & Environment: Attract high-skill tech ; drive local innovation & high-paying jobs Monitor & protect water , soil , & power grid from data centers Protect air quality and drinking water from PFAS ; hold polluters accountable Scan to Connect VoteAdamDuda.com DONATE SENATE DISTRICT 11 Paid for by Duda for State Senate Common Sense.
-Real Accountability. • /flyer • Open the flyer Campaign events OCT 16 FRI Meet & Greet Friday, October 16, 5 to 7 PM Green Grocer , 77 N Walworth Ave, Williams Bay Google Maps Apple Maps With John Perryman, candidate for Assembly District 31.
-OCT 22 THU Meet the Candidates Thursday, October 22, 5 to 7 PM East Troy Brewery , 2905 Main St, East Troy Google Maps Apple Maps With Maria Elena Bisabarros, candidate for Assembly District 33.
+Real Accountability. • /flyer • Open the flyer Campaign events OCT 22 THU Meet the Candidates Thursday, October 22, 5 to 7 PM East Troy Brewery , 2905 Main St, East Troy Google Maps Apple Maps With Maria Elena Bisabarros, candidate for Assembly District 33.
 More candidates to be announced.
-Past events OCT 13 TUE Happy Hour Tuesday, October 13, 5:30 PM 2894 On Main , 2894 Main St, East Troy Why I Am Running I was nine when my parents came to America with few resources to begin a new life.
+Past events OCT 16 FRI Meet & Greet Friday, October 16, 5 to 7 PM Green Grocer , 77 N Walworth Ave, Williams Bay With John Perryman, candidate for Assembly District 31.
+OCT 13 TUE Happy Hour Tuesday, October 13, 5:30 PM 2894 On Main , 2894 Main St, East Troy Why I Am Running I was nine when my parents came to America with few resources to begin a new life.
 Nine was a wonderful age to learn and grow into American citizenship.
 With hard work I earned a bachelor's and master's in engineering as well as a law degree.
 I have been shaped by those who have guided me while learning American values and the many opportunities offered by our great nation.

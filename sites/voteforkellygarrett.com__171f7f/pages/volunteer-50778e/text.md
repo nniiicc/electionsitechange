@@ -5,4 +5,4 @@ Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.
 Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info at www.voteforkellygarrett.com/privacy-policy I would like to canvass Get updates and news via email Submit Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+View Privacy Policy for more info at www.voteforkellygarrett.com/privacy-policy I would like to canvass Get updates and news via email Submit Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

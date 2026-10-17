@@ -5,7 +5,7 @@ Home Meet Jack Campaign Take Action!
 Make a Plan to Vote!
 Donate!
 PRESS RELEASE Perry Wins Democratic Party Endorsement PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday PRESS RELEASE Perry Campaign Releases Energy Platform THE SOUTHINGTON OUTSIDER Perry Announces Run for State Senate PRESS RELEASE Prospect’s Savings Fell by Half.
-An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record Oct 2 2026 Statement Jack Perry Ready to Debate Sampson’s Record Senator Sampson spent this morning writing public letters about wanting to debate.
+An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record Statement Perry Responds to Sampson Campaign Funding Claims Oct 2 2026 Statement Jack Perry Ready to Debate Sampson’s Record Senator Sampson spent this morning writing public letters about wanting to debate.
 My answer is already on the record: I have accepted every debate and forum invitation by any independent third party, and I will accept this one as well.
 Voters deserve to hear from both candidates, compare our records, and ask tough questions.
 He's had 16 years in Hartford to build a record, and an entire campaign to explain it.

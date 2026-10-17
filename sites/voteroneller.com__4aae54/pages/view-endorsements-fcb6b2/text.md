@@ -30,4 +30,4 @@ We need outspoken, steadfast warriors to get our country back on track and retur
 Ron is the man for the mission.
 He knows how to lead from the front.
 I strongly and wholeheartedly endorse Ron Eller for US Congress to represent Mississippi’s 2nd District.
-Michael Flynn Retired United States Army Lieutenant General Dan Eubanks State Representative Click here to add your endorsement Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu
+Michael Flynn Retired United States Army Lieutenant General Dan Eubanks State Representative Click here to add your endorsement Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

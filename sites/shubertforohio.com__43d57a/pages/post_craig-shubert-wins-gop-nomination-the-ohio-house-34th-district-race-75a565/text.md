@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts Craig Shubert wins GOP nomination for the Ohio House 34th District race Shubert for Ohio May 6 2 min read Updated: May 23 COLUMBUS – Former Hudson Mayor Craig Shubert is the Republican nominee for Ohio’s 34th House District seat.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts Craig Shubert wins GOP nomination for the Ohio House 34th District race Shubert for Ohio May 6 2 min read Updated: May 23 COLUMBUS – Former Hudson Mayor Craig Shubert is the Republican nominee for Ohio’s 34th House District seat.
 According to unofficial final results from the Ohio Secretary of State’s Office, Shubert earned 6,154 votes to secure the GOP nomination.
 He will face first-term Democratic incumbent Derrick Hall of Akron in the November general election.
 “I’m deeply grateful for the trust voters have placed in me,” Shubert said.

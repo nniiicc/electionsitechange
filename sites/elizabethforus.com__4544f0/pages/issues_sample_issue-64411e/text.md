@@ -10,4 +10,4 @@ ICE currently has approximately 10 minutes to 47 days of training with no de-esc
 We cannot allow someone who is required to have less training than an Ohio Nail Tech any authority over our law enforcement.
 Our Sherrif was elected.
 ICE was not.
-Next: Fair & Safe Voting in All Elections » Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Elizabeth Kirtley for Congress Powered by CampaignPartner.com - Political Websites Home Meet Elizabeth Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Fair & Safe Voting in All Elections » Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Elizabeth Kirtley for Congress Powered by CampaignPartner.com Home Meet Elizabeth Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

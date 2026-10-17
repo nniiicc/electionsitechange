@@ -24,4 +24,4 @@ We encourage you to read the privacy statements on each website you visit.
 Fudge 4 Oregon provides links to original articles written and maintained by third parties.
 These links are provided as a convenience and do not imply a claim of ownership in that content.
 If you have any questions, comments or concerns please contact Fudge 4 Oregon at info@fudge4oregon.org .
-Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu
+Voter Information District Info (HD 20) Events Photos Contact Terms © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com Home Meet Andrew Issues Endorsements News Contribute Voter Information District Info (HD 20) Events Photos Contact Close Menu

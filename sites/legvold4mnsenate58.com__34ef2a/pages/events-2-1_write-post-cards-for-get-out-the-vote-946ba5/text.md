@@ -1,0 +1,7 @@
+0 Skip to Content Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Back to All Events Day of 100 Volunteers in SD58: Write Post Cards for Get Out the Vote Saturday, October 24, 2026 11:00 AM 5:00 PM Google Calendar ICS Gather on our Day of 100 Volunteers to write post cards to SD58 voters about the importance of their vote and the quality of our DFL Candidates, including Mark Legvold and Ed Fellows.
+Arrive when it works for you and pick up a packet of post cards and addresses or stay and work in the field office with other DFL volunteers for a while.
+Snacks and beverages will be provided.
+We will provide everything you need to make this happen from pens to cards to sample scripts.
+If you can contribute 10-30 post card stamps, that is a value added option to help all the candidates.
+Go to this Mobilize webpage to sign up and find out where to meet: https://www.mobilize.us/legvold-for-mn-senatedfl/event/1063244/ .
+Previous Previous October 24 Day of 100 Volunteers in SD58: Phone Banking for Get Out the Vote Next Next November 3 General Election Day Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

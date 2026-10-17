@@ -5,4 +5,4 @@ When you give your time or resources, you’re helping build something bigger th
 Your support helps us reach neighbors, open doors, and create real change together.
 Whether it’s through a donation or by volunteering your time and skills, every bit of help truly matters.
 DONATE TO THE FIGHT TODAY HELP WITH THE FIGHT TODAY Vote Sue Rieke Smith for HD26.
-Share Your Voice: sue@votesueriekesmith.com | Follow Our Journey: @sueriekesmithforhd26
+Paid for the Committee to Elect Sue Rieke Smith

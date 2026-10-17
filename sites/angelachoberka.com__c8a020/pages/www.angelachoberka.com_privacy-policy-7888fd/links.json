@@ -20,6 +20,10 @@
 "href": "https://secure.actblue.com/donate/ws-choberka?amount=50"
 },
 {
+"text": "Check if you're registered to vote",
+"href": "https://vote.utah.gov/"
+},
+{
 "text": "Contact",
 "href": "https://www.angelachoberka.com/contact"
 },
@@ -32,8 +36,16 @@
 "href": "https://www.angelachoberka.com/events"
 },
 {
+"text": "FIND A DROP BOX NEAR YOU",
+"href": "https://www.weberelections.gov/ballotdropboxes-pollinglocations"
+},
+{
 "text": "Get Involved",
 "href": "https://www.angelachoberka.com/GetInvolved"
+},
+{
+"text": "IN PERSON VOTING LOCATIONS",
+"href": "https://www.weberelections.gov/ballotdropboxes-pollinglocations"
 },
 {
 "text": "Issues",

@@ -4,5 +4,5 @@ Welcome to our group Community Action & Events !
 A space for us to connect and share with each other.
 Start by posting your thoughts, sharing media, or creating a poll.
 Let's have a discussion!
-0 0 Comments 30 Views Write a comment...
+0 0 Comments 32 Views Write a comment...
 Write a comment... © # Chris Waddell for Kentucky State Representative Contact ChrisWaddell2026@gmail.com PO Box 451, Central City, KY 42330 Connect on Facebook: Chris Waddell for State Representative Follow bottom of page

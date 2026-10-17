@@ -1,6 +1,6 @@
 About Schedule Issues In the News Contact DONATE In the News Read the latest news and media coverage from the campaign trail.
-Please direct all media inquiries to media@kaniaforhouse.com .
-Candidate Kania field questions on sulfide mining and more in Ely town hall Aaron met with voters at a town hall event in Ely Monday, August 24.
+Please direct all media inquiries to media@kaniaforhouse.com . https://www.duluthnewstribune.com/opinion/columns/candidates-view-experience-ensures-northern-voices-will-be-heard-in-st-paul Candidate's View: Experience ensures northern voices will be heard in St.
+Paul From the column: "My career taught me something that is genuinely rare in today's politics: that protecting a healthy environment and supporting working people are not opposing goals." Read the full article → Candidate Kania field questions on sulfide mining and more in Ely town hall Aaron met with voters at a town hall event in Ely Monday, August 24.
 About 60 residents gathered at the Grand Ely Lodge to ask questions and offer comments to Aaron and Grant Hauschild, who is seeking re-election to Senate District 3, and Kania, who is challenging GOP Rep.
 Roger Skraba in House District 3A.
 Read the full article → MinnPost deep dive into the Minnesota House 3A and 3B races This in-depth piece lays out how Northern Minnesota faces very different candidates for the state House races, particularly between Aaron and incumbent Roger Skraba.

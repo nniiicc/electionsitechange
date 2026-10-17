@@ -54,4 +54,8 @@ If none of these times work for you, please reach out to Anne and we will try to
 If you have already scheduled, you are good to go with no further action required.
 Legislative Update On Tuesday, Feb 21, legislators from Eagle Mountain, Saratoga Springs, and Lehi will be giving a quick update.
 Please join us from 7:30 – 8:30 at 3192 West 2450 North, Lehi, UT 84043.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 14 + 8 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 5 + 1 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

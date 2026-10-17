@@ -6,4 +6,4 @@ If we want great people in our classrooms, we have to show them that Michigan va
 That is why I am incredibly proud to have earned the endorsement of the Michigan Education Association.
 Their members are doing the work every day, educating our children, supporting families, and holding our communities together.
 Fight with me to make sure Michigan's budget reflects a simple truth: investing in our kids is the most important investment we can make Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

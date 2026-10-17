@@ -1,18 +1,18 @@
 Vote early Oct.
 28–31.
-Find your early voting site → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Get a Yardsign Chip in About me Service Never Stops I’m Chris Fowler, a 20-year Air Force veteran, husband, and dad raising two daughters in Moore Public Schools.
+Find your early voting site → Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote More Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Home Meet Chris Issues Volunteer FREE Yardsign Donate Register / Vote Donate Get a Yardsign About me Service Never Stops I’m Chris Fowler, a 20-year Air Force veteran, husband, and dad raising two daughters in Moore Public Schools.
 I’m running for State Representative in House District 91 because I believe service doesn’t stop when you take off the uniform: it continues right here at home.
 Over the past year, I’ve knocked thousands of doors across Southwest Oklahoma City, listening to neighbors who feel like government isn’t working for them anymore.
 And we're just getting started.
 People are ready for something better, and we're going to work together to deliver it.
-The Story So Far → Issues After knocking thousands of doors across Southwest OKC, I keep hearing the same things: strong schools, accountable insurance, and placing people above Big Tech.
+Find out More → Issues After knocking thousands of doors across Southwest Oklahoma City, I keep hearing the same things: strong schools, accountable insurance, and placing Oklahomans above Big Tech.
 That’s what I’m focused on delivering.
 See the Priorities Neighbors Built → Oklahoma House District 91 House District 91 is located in South Oklahoma City, served by Moore Public Schools.
 Register or Update Your Voter Info Have a question?
 Want to volunteer?
 Name Email* Phone Sign up for our email list for campaign updates.
 Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Contact Chris FowlerForOK@gmail.com Call or Text: (405) 543-2047 Disclaimer: Chris Fowler is a retired member of the U.S.
+Contact Chris Directly FowlerForOK@gmail.com Call or Text: (405) 543-2047 Disclaimer: Chris Fowler is a retired member of the U.S.
 Air Force.
 Use of images does not imply or constitute endorsement by the DOD or USAF.
 Built by Listening Built by Listening Built by Listening Our priorities come directly from conversations with thousands of neighbors across Southwest Oklahoma City.

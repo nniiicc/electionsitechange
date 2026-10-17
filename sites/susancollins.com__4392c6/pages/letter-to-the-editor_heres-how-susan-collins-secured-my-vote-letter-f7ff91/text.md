@@ -12,7 +12,7 @@ She’s contributing her education and professional experience to the U.S. econo
 Collins and her staff.
 That is what effective representation looks like.
 And that is why Susan Collins has my vote this November.
-Mark Zimmer South Berwick Readl the letter: Centralmaine.com Previous post Letter: Susan Collins has proven her worth to Mainers Next post Tired of complaints about Susan Collins | Letter Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Mark Zimmer South Berwick Readl the letter: Centralmaine.com Previous post PHOTO RELEASE: Senator Collins Visits the Fryeburg Fair Next post Tired of complaints about Susan Collins | Letter Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

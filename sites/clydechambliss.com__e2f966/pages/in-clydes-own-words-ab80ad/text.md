@@ -228,4 +228,4 @@ Under Chambliss and Brewbaker’s legislation, violations of a Stage II license 
 “We should certainly hold teenage drivers accountable, but parents also bear responsibility if they knowingly allow their kids to use a restricted license in violation of the law,” Chambliss said.
 Get Updates Thank you for signing up!
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

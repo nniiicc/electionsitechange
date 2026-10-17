@@ -6,4 +6,4 @@ Together, we can: • Strengthen Education by turning schools back into communit
 Thank you for being here with me and for being part of this movement.
 It’s Arizona’s Future, Let’s Grow It Together. — Jayme Accalia Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com Home Meet Jayme Issues Endorsements Volunteer Contact Voter Information Close Menu

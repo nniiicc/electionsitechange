@@ -5,4 +5,4 @@ Additionally, Mike is committed to expanding mental health services , especially
 Key Points: Protect Medicaid expansion to ensure low-income families receive coverage.
 Lower prescription drug prices by increasing price transparency.
 Expand mental health services for youth, veterans, and rural communities.
-Support rural hospitals and local healthcare providers to improve accessibility. « Previous: Voting Rights & Fair Elections Next: Infrastructure & Public Safety » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Support rural hospitals and local healthcare providers to improve accessibility. « Previous: Voting Rights & Fair Elections Next: Infrastructure & Public Safety » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

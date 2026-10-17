@@ -17,7 +17,7 @@ This effort is about listening as much as it is about leading, and I look forwar
 Lowering Costs I will take on Big Pharma directly and reform the laws that let them siphon families’ paychecks and deplete our savings.
 Bridging the Divide I will work to unify us around our common concerns — and I will reject the language of division that keeps us apart.
 Campaign Launch outside BIOGEN 225 Binney St.
-Cambridge, MA 02142 April 4, 2026 at 11:00AM Join US Let’s Fix Our System Together I’m taking on Big Pharma and the broken laws that let them siphon paychecks and drain family savings.
+Cambridge, MA 02142 April 4, 2026 at 11:00AM LWV/NewTV MA-4 Candidates Forum Debated Jason Poulos Newton, MA August 3, 2026 at 4:45PM Radio Interview on WARA 1320 AM With host John Davis Attleboro, MA October 7, 2026 at 2:00PM Join US Let’s Fix Our System Together I’m taking on Big Pharma and the broken laws that let them siphon paychecks and drain family savings.
 If you’re tired of rising costs while politicians shift the burden and divide us with rhetoric, join me.
 Together, we can demand real solutions grounded in science and reason — solutions that actually lower healthcare and housing costs and put working families first.
 Lowering Costs Join us in tackling one of the biggest challenges facing families and towns across our district: the rising cost of living, especially healthcare and prescription drugs.

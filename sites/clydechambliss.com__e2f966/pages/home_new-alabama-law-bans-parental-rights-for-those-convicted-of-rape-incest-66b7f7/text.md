@@ -13,4 +13,4 @@ She was having lunch with friends in Prattville.
 "You would think we wouldn't need a law but we do.
 Once the child is an adult, they can determine what type of relationship they wish to have, or not have, with their father.
 But this law protects them and their mother as long as they are juveniles." Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

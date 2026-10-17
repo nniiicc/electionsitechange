@@ -16,4 +16,4 @@ It doesn't put women in prison.
 Among all the issues, life is the most important—because without life, no other issue matters. 🌟 Back to Issues _____________________________________________________________________________________________________________________________ 📣 H ow You can Help Stand for Life - Volunteer— knock on doors, make calls, join the team.
 S ign Up Contribute —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote « Previous: 🧒 Protecting Children from Exploitation Next: ✝️ Faith, Family, and Freedom » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote « Previous: 🧒 Protecting Children from Exploitation Next: ✝️ Faith, Family, and Freedom » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

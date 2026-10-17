@@ -1,4 +1,4 @@
-top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Photos Contact What I Believe in Focus on Economic Issues The cost of living in the State of Connecticut is high, and family budgets are tight.
+top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Calendar Meet & Greets Photos Contact What I Believe in Focus on Economic Issues The cost of living in the State of Connecticut is high, and family budgets are tight.
 I will fight every day for the economic needs of the 85th District.
 When there is a conflict over what is best for Wallingford vs the other areas of our state, my vote will always put Wallingford first.
 Lifelong Commitment I have lived all of my 46 years in Wallingford, as a full-time, tax-paying member of our community.

@@ -14,5 +14,5 @@ With leadership that puts its community first, we can build something worth bein
 Make a Donation $ # $ # $ # $ # $ # $ # $ # $ 1000 $ 1500 $ 2000 $ 2500 $ 2900 $ 3000 $ 3500 Other Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Brenda K.
 Sanders to the U.
 S.
-House of Representatives (12-MI) Powered by CampaignPartner.com - Political Campaign Websites Meet Brenda K.
+House of Representatives (12-MI) Powered by CampaignPartner.com Meet Brenda K.
 Sanders Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

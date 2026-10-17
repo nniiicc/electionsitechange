@@ -11,4 +11,4 @@ I also believe locker room policies should prioritize privacy while respecting a
 DEMOCRATS THAT LOVE AMERICA --- BECOME REPUBLICANS Prepared and paid for by Mark Born for MN committee P.O.
 Box 13616, St.
 Paul MN 55113 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Committee to Elect Mark Born Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mark Contribute Volunteer Contact Close Menu
+Committee to Elect Mark Born Powered by CampaignPartner.com Home Meet Mark Contribute Volunteer Contact Close Menu

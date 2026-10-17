@@ -55,4 +55,11 @@ I had a unique request from a supporter and decided to print a few signs that we
 We have “Republicans For” and “Independents For” yard signs in limited quantities.
 If you or anyone you know anyone is interested in one, invite them to one of our events above to pick one up, or fill out our new Yard Sign Request form .
 You can find all the canvassing events, door knocking, training, and more at the Utah Democrats mobilize page. https://www.mobilize.us/utahdemocrats/ View Original Email Version → ← Newer 🪖 FIELD REPORT: Week beginning Oct 12th - Ballots are coming 🗳️ Older → 🪖 FIELD REPORT: Week beginning Sept 28th Support the Commitment Click an option to get started.
-If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail
+If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
+Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
+Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.
+By providing your cell phone number you consent to receive recurring updates from Jonny Larsen For Congress, including by automated text message.
+Text STOP to end.
+Msg & Data rates may apply. © #–# Jonny Larsen For Congress.
+All rights reserved.
+Paid For By Jonny Larsen For Congress

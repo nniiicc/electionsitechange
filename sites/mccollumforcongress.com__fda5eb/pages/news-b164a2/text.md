@@ -1,4 +1,5 @@
-0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/14/26 Scott Petty 10/14/26 morning take | DFL Launches Major State Senate Buy By Blois Olson, morning take “ TODAY: via news advisory from Rep.
+0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/16/26 Scott Petty 10/16/26 morning take | Senate Showdown Heats Up By Blois Olson, morning take “ CD4: DFL Rep.
+Betty McCollum raised $# with $# on hand.” Read More Scott Petty 10/16/26 Scott Petty 10/16/26 Capitol View: A Senate showdown and a cash rundown By Brian Bakst, Peter Cox and Dana Ferguson, MPR News “Betty McCollum [Incumbent] [4th Congressional District] DFL [Cash on Hand as of 07/01] $498,697 [Raised] $# [in Q3] [Cash on Hand as of 07/01] $497,207” Read More Scott Petty 10/14/26 Scott Petty 10/14/26 morning take | DFL Launches Major State Senate Buy By Blois Olson, morning take “ TODAY: via news advisory from Rep.
 Betty McCollum, McCollum will host a SNAP roundtable in the East Metro.
 WHO: Congresswoman Betty McCollum ; Washington County Commissioner Bethany Cox ; Ramsey County Commissioner Mai Chong Xiong ; Kate Weeks , Assistant Commissioner, Economic Opportunity and Youth Services; Andy Brown , Vice President of Communications and Engagement, Metropolitan Area Association on Aging; Rachel Holmes Director of Advocacy & Community Engagement, The Food Group” Read More Scott Petty 10/9/26 Scott Petty 10/9/26 The House Democrats to watch on Appropriations next year By Samantha Handler and John Bresnahan, Punchbowl news “Rep.
 Betty McCollum (Minn.) is set to again lead the Defense panel.
@@ -75,13 +76,7 @@ The current chair must step aside due to term limits.
 The dean of Minnesota’s delegation, Democratic Rep.
 Betty McCollum, is her party’s top figure on the Subcommittee on Defense Appropriations and would continue in that role if reelected, a spokesperson for her confirmed.
 The most-visible Republican Minnesota has in Washington, Republican Rep.
-Tom Emmer, also has a lot riding on November given his role as House majority whip.” Read More Scott Petty 9/17/26 Scott Petty 9/17/26 Klobuchar pushes AI safety bill as Trump and GOP House leaders downplay need for oversight By Sydney Kashiwagi, The Minnesota Star Tribune “Among Minnesota Democrats, Rep.
-Angie Craig is in the process of joining a bipartisan working group that’s being put together on AI.
-Rep.
-Betty McCollum said she plans to support a bill by Rep.
-Greg Cesar and Sen.
-Bernie Sanders that would permanently ban the development of a ‘superintelligent’ AI and put a temporary pause on any advanced AI development until federal safety rules have been established.” Read More Scott Petty 9/17/26 Scott Petty 9/17/26 The Challengers: Why it will be hard, in a midterm likely to herald change, to oust a congressional incumbent in Minnesota By Ana Radelat, MinnPost “Like many Republicans running for all types of office in Minnesota this year, Wikstrom, 64, is raising the issue of fraud in social service programs in the state, which Rep.
-Betty McCollum, as a federal lawmaker, had no direct control of.” Read More Older Posts Thank you for visiting my campaign website.
+Tom Emmer, also has a lot riding on November given his role as House majority whip.” Read More Older Posts Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 (651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
 Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

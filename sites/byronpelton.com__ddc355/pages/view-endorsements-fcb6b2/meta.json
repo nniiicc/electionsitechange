@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.byronpelton.com/view-endorsements",
- "fingerprint": "3ebd80f8273e3d6ac8df2f31654637540e3b5c80",
+ "fingerprint": "2060c24d6774ce9322085fcf75152fa6b76b677f",
  "format": 3,
  "paid_for_by": "Paid for by Pelton for State Senate",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": []
 }

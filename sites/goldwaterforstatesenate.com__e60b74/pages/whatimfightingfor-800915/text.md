@@ -1,4 +1,4 @@
-top of page Home Meet John What I'm Fighting For Donate Events Contact Gallery Videos WHAT I'M FIGHTING FOR economic prosperity Things need to be not just affordable, but easily achievable!
+top of page Home Meet John What I'm Fighting For Donate Events get-in-touch Gallery Videos WHAT I'M FIGHTING FOR economic prosperity Things need to be not just affordable, but easily achievable!
 I want to lower costs and put more money in your pocket.
 It should not hurt to fill up your gas tank, pay the electric bill, or be a luxury to add hamburger to the grocery cart.
 People are struggling to pay their rent or a mortgage, let alone afford Christmas gifts or a family vacation.

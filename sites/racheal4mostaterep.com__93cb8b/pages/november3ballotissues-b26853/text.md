@@ -36,4 +36,4 @@ I‘m committed to the Independent path which means I will have to collect signa
 Please join me and the 127 Club every month as we unpack the issues and bring education and conversation around the issues that matter to us the most!
 Check out the November Issues Town Hall to learn more!
 Check out RESPECT MO VOTERS- YES ON 6 to learn more!
-Racheal Martin PO BOX 126 Lamar, MO 64759 573.968.5101 Racheal.mo.district127@gmail.com Racheal Martin-Candidate District 127 State Representative Powered by Squarespace Circle
+Racheal Martin PO BOX 126 Lamar, MO 64759 573.968.5101 Racheal.mo.district127@gmail.com Paid for by Racheal Martin-Candidate District 127 State Representative and The 127 Independent Club Powered by Squarespace Circle

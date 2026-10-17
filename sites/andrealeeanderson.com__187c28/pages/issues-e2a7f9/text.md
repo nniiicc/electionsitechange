@@ -103,4 +103,4 @@ That is what we all want, and I will work for that.
 No new legislation without thinking through the consequences.
 Some of the best ideas may be to undo existing legislation!
 Like regulations!
-Read More Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu
+Read More Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu

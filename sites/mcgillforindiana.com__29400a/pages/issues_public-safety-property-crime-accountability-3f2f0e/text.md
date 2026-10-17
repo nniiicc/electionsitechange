@@ -25,4 +25,4 @@ Strong communities require both.
 We should support the officers who protect our neighborhoods, hold repeat offenders accountable, give people struggling with addiction or mental illness a path to turn their lives around, and make sure victims know the justice system is working for them.
 When families feel safe in their homes, businesses can thrive, neighborhoods grow stronger, and everyone has a better opportunity to succeed.
 That's the kind of Indiana I'll fight to build.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

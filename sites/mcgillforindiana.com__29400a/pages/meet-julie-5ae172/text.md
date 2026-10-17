@@ -46,4 +46,4 @@ It is powered by neighbors who believe Indiana can do better when leaders are ac
 Whether you live in Senate District 15 or work alongside it, your voice matters.
 Real change happens when neighbors come together, speak up, and vote for the future they want.
 I would be honored to earn your trust, your support, and your vote.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

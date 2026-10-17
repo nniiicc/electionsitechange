@@ -7,4 +7,4 @@ Before serving in the Governor’s Office, Thompson was a Director of Special Pr
 Congressman, and assisted Kentuckians navigate the federal government.
 He is pro-life, will be protective of the Second Amendment, and is dedicated to the values and principles of the Republican Party including fiscal discipline, limited government, and as little taxation as possible.
 He has been actively involved with the Greenup County Republican Party including five years as it's Chairman where Republicans have won every contested race on the ballot.
-Contribute Meet Aaron Yard Signs Contact Paid for by Aaron Thompson for KY House PO Box 462, Greenup, KY 41144 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Aaron Issues Contribute Volunteer News Yard Signs Contact Close Menu
+Contribute Meet Aaron Yard Signs Contact Paid for by Aaron Thompson for KY House PO Box 462, Greenup, KY 41144 Powered by CampaignPartner.com Home Meet Aaron Issues Contribute Volunteer News Yard Signs Contact Close Menu

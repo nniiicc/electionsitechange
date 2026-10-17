@@ -5,4 +5,4 @@ Johns County Democratic Party St.
 Johns County Democratic Party Ponte Vedra Democratic Club Ponte Vedra Democratic Club St.
 Johns County Democratic Black Caucus St.
 Johns County Democratic Black Caucus Democratic Veterans Caucus of Florida Democratic Veterans Caucus of Florida Democratic Environmental Caucus of Florida Democratic Environmental Caucus of Florida Jax NOW National Organization of Women - Jacksonville DPCF Endorsement Democratic Progressive Caucus of Florida VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Events Photos Paid for by Campaign for Art Stresing Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Endorsements Volunteer Events Voter Information Close Menu
+Voter Information Endorsements Events Photos Paid for by Campaign for Art Stresing Powered by CampaignPartner.com Home Contribute Endorsements Volunteer Events Voter Information Close Menu

@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED Standing for common sence governance.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED Standing for common sence governance.
 Craig Shubert for State Representative From an Eagle Scout in Iowa to the mayor’s office in Hudson, Ohio, Craig Shubert has dedicated his life to service, leadership, and defending the values that make communities strong.
 He believes Ohio’s future demands a strong economy, good paying jobs, lower taxes, world-class education, reliable infrastructure, and leaders willing to stand for what is right.
 LEARN MORE Proudly e ndorsed by Leaders across Ohio and local community organizations stand with Craig Shubert for State Representative, trusting his commitment to common sense governance.
@@ -33,47 +33,55 @@ It was an honor to be invited.
 04 September 17, 2026 Auditor of State Keith Faber, candidate for Ohio Attorney General, and I connected at the Ohio Christian Alliance's Constitution Day Freedom Banquet in Columbus.
 He will have my full support in fighting waste, fraud, and abuse of taxpayer funds.
 Your hard-earned dollars must be protected.
-05 September 13, 2026 Pleased to meet one of the 34th District’s brave men in uniform at the Molto Bella Auto Show.
+05 September 16, 2026 Judge Colleen O'Donnell, a candidate for Justice of the Ohio Supreme Court, joined me in speaking at a joint meeting of the Cuyahoga Falls, Hudson, and Stow Republican Clubs.
+She will ensure the rule of law is upheld.
+06 September 13, 2026 Pleased to meet one of the 34th District’s brave men in uniform at the Molto Bella Auto Show.
 I will always have law enforcement’s back.
 We must protect them as they protect us.
-06 September 13, 2026 Caught up with Magistrate Dave Lombardi, candidate for Summit Co.
+07 September 13, 2026 Caught up with Magistrate Dave Lombardi, candidate for Summit Co.
 Juvenile Court judge, checking out the vintage automobiles at the Molto Bella Car Show on the grounds of Hale Farms.
 My thanks to founder Frank Todaro for his cordial invitation.
-07 September 13, 2026 A nice selection of cars on display from the classics to the uniquely modern at the Molto Bella Auto Show.
-08 September 12, 2026 Super turnout for the 34th House District and Judicial Voter Outreach Event in Stow.
+08 September 13, 2026 A nice selection of cars on display from the classics to the uniquely modern at the Molto Bella Auto Show.
+09 September 12, 2026 Super turnout for the 34th House District and Judicial Voter Outreach Event in Stow.
 More than 2,000 voters were contacted in less than 150 minutes.
-Awesome team of volunteers. 🇺🇸 09 August 29, 2026 A lucky meeting with one of the founders of the Hudson Art Show.
-10 August 29, 2026 A beautiful chair purchased from the designer and a chance meeting with the next State Representative at the Hudson Art Show.
+Awesome team of volunteers. 🇺🇸 10 August 29, 2026 A lucky meeting with one of the founders of the Hudson Art Show.
+11 August 29, 2026 A beautiful chair purchased from the designer and a chance meeting with the next State Representative at the Hudson Art Show.
 What a great day!
-11 August 29, 2026 Just some of our great team joining me to greet volunteers at the Hudson Art Show on the Green.
-12 July 26, 2026 I enjoyed visiting with voters in Munroe Falls to hear their concerns and their suggestions for keeping Ohio a great place to live, work, and play.
-13 July 24, 2026 It was great to catch-up with former State Representative Jim Trakas (R-17) at the America 250th Birthday Cookout in Brecksville.
-14 July 24, 2026 Meeting up with Diane and Jon Stover from Ohio Value Voters, along with State Representative Mike Dovilla (R-17) at the America 250th Birthday Cookout in Brecksville.
-15 July 24, 2026 Speaking with Ohio Senate President Rob McColley, candidate for Lt.
+12 August 29, 2026 Just some of our great team joining me to greet volunteers at the Hudson Art Show on the Green.
+13 August 8, 2026 With supporters at a Summer fundraiser, who see the value of a new leader the State Capitol who can make a significant difference in what our communities receive in state aid.
+14 August 8, 2026 With Brigitte at a Summer fundraiser.
+15 August 1, 2026 Yet another wonderful meeting with enthusiastic Tallmadge voters visiting the Summit County Fair.
+I am pleased they stopped to show their support for our winning campaign.
+16 July 30, 2026 Hearing what this gentleman had to say at the Summit County Fair about his family and their challenges was touching.
+Helping others in need is why I am running for state representative.
+17 July 26, 2026 I enjoyed visiting with voters in Munroe Falls to hear their concerns and their suggestions for keeping Ohio a great place to live, work, and play.
+18 July 24, 2026 It was great to catch-up with former State Representative Jim Trakas (R-17) at the America 250th Birthday Cookout in Brecksville.
+19 July 24, 2026 Meeting up with Diane and Jon Stover from Ohio Value Voters, along with State Representative Mike Dovilla (R-17) at the America 250th Birthday Cookout in Brecksville.
+20 July 24, 2026 Speaking with Ohio Senate President Rob McColley, candidate for Lt.
 Governor, at the America 250th Birthday Cookout in Brecksville.
-16 July 24, 2026 With Sen.
+21 July 24, 2026 With Sen.
 Jon Husted at an America 250th Birthday Cookout in Brecksville.
-17 July 16, 2026 Here are just a few members of my great campaign team, posing for a photo.
+22 July 16, 2026 Here are just a few members of my great campaign team, posing for a photo.
 Watch for them in your neighborhood in the coming weeks.
-18 July 12, 2026 Campaigning in Stow.
+23 July 12, 2026 Campaigning in Stow.
 Hearing first-hand from voters.
 Winning their support.
-19 June 27, 2026 Came across this beautiful home displaying artwork in honor of America’s 250th birthday.
+24 June 27, 2026 Came across this beautiful home displaying artwork in honor of America’s 250th birthday.
 Great American patriots live here.
-20 June 26, 2026 Spotted this patriotic home while out campaigning in Stow.
+25 June 26, 2026 Spotted this patriotic home while out campaigning in Stow.
 They are truly proud Americans.
-21 May 27, 2026 A pleasure to join Treasurer Robert Sprague, candidate for Secretary of State, and Senator Jon Husted at the Summit Co.
+26 May 27, 2026 A pleasure to join Treasurer Robert Sprague, candidate for Secretary of State, and Senator Jon Husted at the Summit Co.
 Lincoln Day Luncheon in Akron.
-22 May 27, 2026 With Treasurer of State Robert Sprague at the Summit Co.
+27 May 27, 2026 With Treasurer of State Robert Sprague at the Summit Co.
 Lincoln Day Luncheon.
-23 April 29, 2026 Attending the Tallmadge Community School’s forum on a proposed 5.6 mil property tax levy increase, which voters rejected.
-24 April 22, 2026 Speaking to the Hudson Republican Club ahead of the May Primary.
-25 April 15, 2026 Time well spent with my greatest nationwide supporters across all political spectrums — conservatives, swing voters, and liberals.
-26 April 8, 2026 Meeting with Summit County Republican Chairman Bryan C.
+28 April 29, 2026 Attending the Tallmadge Community School’s forum on a proposed 5.6 mil property tax levy increase, which voters rejected.
+29 April 22, 2026 Speaking to the Hudson Republican Club ahead of the May Primary.
+30 April 15, 2026 Time well spent with my greatest nationwide supporters across all political spectrums — conservatives, swing voters, and liberals.
+31 April 8, 2026 Meeting with Summit County Republican Chairman Bryan C.
 Williams and Ohio State Republican Chairman Alex Triantafilou in Fairlawn.
-27 April 6, 2026 Rise & Rally event at Summit County Republican Party Headquarters.
-28 February 4, 2026 Mayor Craig Shubert files his candidate petitions for the 34th District seat in the Ohio House of Representatives, serving North Akron, Hudson, Munroe Falls, Silver Lake, Stow, and Tallmadge.
-Next 01 / 28 Close Previous Next October 3, 2026 I enjoyed visiting with Will as we talked baseball and politics.
+32 April 6, 2026 Rise & Rally event at Summit County Republican Party Headquarters.
+33 February 4, 2026 Mayor Craig Shubert files his candidate petitions for the 34th District seat in the Ohio House of Representatives, serving North Akron, Hudson, Munroe Falls, Silver Lake, Stow, and Tallmadge.
+Next 01 / 33 Close Previous Next October 3, 2026 I enjoyed visiting with Will as we talked baseball and politics.
 He's rooting for the winning team.
 You see who he's supporting ; ) 01 October 3, 2026 I enjoyed visiting with Will as we talked baseball and politics.
 He's rooting for the winning team.
@@ -84,46 +92,54 @@ It was an honor to be invited.
 04 September 17, 2026 Auditor of State Keith Faber, candidate for Ohio Attorney General, and I connected at the Ohio Christian Alliance's Constitution Day Freedom Banquet in Columbus.
 He will have my full support in fighting waste, fraud, and abuse of taxpayer funds.
 Your hard-earned dollars must be protected.
-05 September 13, 2026 Pleased to meet one of the 34th District’s brave men in uniform at the Molto Bella Auto Show.
+05 September 16, 2026 Judge Colleen O'Donnell, a candidate for Justice of the Ohio Supreme Court, joined me in speaking at a joint meeting of the Cuyahoga Falls, Hudson, and Stow Republican Clubs.
+She will ensure the rule of law is upheld.
+06 September 13, 2026 Pleased to meet one of the 34th District’s brave men in uniform at the Molto Bella Auto Show.
 I will always have law enforcement’s back.
 We must protect them as they protect us.
-06 September 13, 2026 Caught up with Magistrate Dave Lombardi, candidate for Summit Co.
+07 September 13, 2026 Caught up with Magistrate Dave Lombardi, candidate for Summit Co.
 Juvenile Court judge, checking out the vintage automobiles at the Molto Bella Car Show on the grounds of Hale Farms.
 My thanks to founder Frank Todaro for his cordial invitation.
-07 September 13, 2026 A nice selection of cars on display from the classics to the uniquely modern at the Molto Bella Auto Show.
-08 September 12, 2026 Super turnout for the 34th House District and Judicial Voter Outreach Event in Stow.
+08 September 13, 2026 A nice selection of cars on display from the classics to the uniquely modern at the Molto Bella Auto Show.
+09 September 12, 2026 Super turnout for the 34th House District and Judicial Voter Outreach Event in Stow.
 More than 2,000 voters were contacted in less than 150 minutes.
-Awesome team of volunteers. 🇺🇸 09 August 29, 2026 A lucky meeting with one of the founders of the Hudson Art Show.
-10 August 29, 2026 A beautiful chair purchased from the designer and a chance meeting with the next State Representative at the Hudson Art Show.
+Awesome team of volunteers. 🇺🇸 10 August 29, 2026 A lucky meeting with one of the founders of the Hudson Art Show.
+11 August 29, 2026 A beautiful chair purchased from the designer and a chance meeting with the next State Representative at the Hudson Art Show.
 What a great day!
-11 August 29, 2026 Just some of our great team joining me to greet volunteers at the Hudson Art Show on the Green.
-12 July 26, 2026 I enjoyed visiting with voters in Munroe Falls to hear their concerns and their suggestions for keeping Ohio a great place to live, work, and play.
-13 July 24, 2026 It was great to catch-up with former State Representative Jim Trakas (R-17) at the America 250th Birthday Cookout in Brecksville.
-14 July 24, 2026 Meeting up with Diane and Jon Stover from Ohio Value Voters, along with State Representative Mike Dovilla (R-17) at the America 250th Birthday Cookout in Brecksville.
-15 July 24, 2026 Speaking with Ohio Senate President Rob McColley, candidate for Lt.
+12 August 29, 2026 Just some of our great team joining me to greet volunteers at the Hudson Art Show on the Green.
+13 August 8, 2026 With supporters at a Summer fundraiser, who see the value of a new leader the State Capitol who can make a significant difference in what our communities receive in state aid.
+14 August 8, 2026 With Brigitte at a Summer fundraiser.
+15 August 1, 2026 Yet another wonderful meeting with enthusiastic Tallmadge voters visiting the Summit County Fair.
+I am pleased they stopped to show their support for our winning campaign.
+16 July 30, 2026 Hearing what this gentleman had to say at the Summit County Fair about his family and their challenges was touching.
+Helping others in need is why I am running for state representative.
+17 July 26, 2026 I enjoyed visiting with voters in Munroe Falls to hear their concerns and their suggestions for keeping Ohio a great place to live, work, and play.
+18 July 24, 2026 It was great to catch-up with former State Representative Jim Trakas (R-17) at the America 250th Birthday Cookout in Brecksville.
+19 July 24, 2026 Meeting up with Diane and Jon Stover from Ohio Value Voters, along with State Representative Mike Dovilla (R-17) at the America 250th Birthday Cookout in Brecksville.
+20 July 24, 2026 Speaking with Ohio Senate President Rob McColley, candidate for Lt.
 Governor, at the America 250th Birthday Cookout in Brecksville.
-16 July 24, 2026 With Sen.
+21 July 24, 2026 With Sen.
 Jon Husted at an America 250th Birthday Cookout in Brecksville.
-17 July 16, 2026 Here are just a few members of my great campaign team, posing for a photo.
+22 July 16, 2026 Here are just a few members of my great campaign team, posing for a photo.
 Watch for them in your neighborhood in the coming weeks.
-18 July 12, 2026 Campaigning in Stow.
+23 July 12, 2026 Campaigning in Stow.
 Hearing first-hand from voters.
 Winning their support.
-19 June 27, 2026 Came across this beautiful home displaying artwork in honor of America’s 250th birthday.
+24 June 27, 2026 Came across this beautiful home displaying artwork in honor of America’s 250th birthday.
 Great American patriots live here.
-20 June 26, 2026 Spotted this patriotic home while out campaigning in Stow.
+25 June 26, 2026 Spotted this patriotic home while out campaigning in Stow.
 They are truly proud Americans.
-21 May 27, 2026 A pleasure to join Treasurer Robert Sprague, candidate for Secretary of State, and Senator Jon Husted at the Summit Co.
+26 May 27, 2026 A pleasure to join Treasurer Robert Sprague, candidate for Secretary of State, and Senator Jon Husted at the Summit Co.
 Lincoln Day Luncheon in Akron.
-22 May 27, 2026 With Treasurer of State Robert Sprague at the Summit Co.
+27 May 27, 2026 With Treasurer of State Robert Sprague at the Summit Co.
 Lincoln Day Luncheon.
-23 April 29, 2026 Attending the Tallmadge Community School’s forum on a proposed 5.6 mil property tax levy increase, which voters rejected.
-24 April 22, 2026 Speaking to the Hudson Republican Club ahead of the May Primary.
-25 April 15, 2026 Time well spent with my greatest nationwide supporters across all political spectrums — conservatives, swing voters, and liberals.
-26 April 8, 2026 Meeting with Summit County Republican Chairman Bryan C.
+28 April 29, 2026 Attending the Tallmadge Community School’s forum on a proposed 5.6 mil property tax levy increase, which voters rejected.
+29 April 22, 2026 Speaking to the Hudson Republican Club ahead of the May Primary.
+30 April 15, 2026 Time well spent with my greatest nationwide supporters across all political spectrums — conservatives, swing voters, and liberals.
+31 April 8, 2026 Meeting with Summit County Republican Chairman Bryan C.
 Williams and Ohio State Republican Chairman Alex Triantafilou in Fairlawn.
-27 April 6, 2026 Rise & Rally event at Summit County Republican Party Headquarters.
-28 February 4, 2026 Mayor Craig Shubert files his candidate petitions for the 34th District seat in the Ohio House of Representatives, serving North Akron, Hudson, Munroe Falls, Silver Lake, Stow, and Tallmadge.
+32 April 6, 2026 Rise & Rally event at Summit County Republican Party Headquarters.
+33 February 4, 2026 Mayor Craig Shubert files his candidate petitions for the 34th District seat in the Ohio House of Representatives, serving North Akron, Hudson, Munroe Falls, Silver Lake, Stow, and Tallmadge.
 Craig Shubert on campaign trail Craig Shubert on campaign trail Molto Bella Auto Show Molto Bella Auto Show 34th House District and Judicial Voter Outreach Event in Stow Craig Shubert with founder of the Hudson Art Show Craig Shubert at the Hudson Art Show Craig Shubert with campaign team Craig Shubert speaking with voters Craig Shubert and former State Representative Jim Trakas Craig Shubert meeting up with Diane and Jon Stover from Ohio Value Voters, along with State Representative Mike Dovilla Craig Shubert speaking with Ohio Senate President Rob McColley Sen.
 Jon Husted Shubert for Ohio Campaign Team Craig Shubert campaigning in Stow Patriotic home in Ohio Patriotic home in Stow Treasurer Robert Sprague and Senator Jon Husted Treasurer of State Robert Sprague Craig Shubert attending the Tallmadge Community School’s forum Craig Shubert speaking to the Hudson Republican Club Craig Shubert supporters Craig Shubert meeting with Summit County Republican Chairman Bryan C.
 Williams and Ohio State Republican Chairman Alex Triantafilou in Fairlawn.

@@ -32,4 +32,4 @@ Mark Kelly This is an important case for all Veterans to follow who have retired
 Read more 19 Jan Monday, 10:03 AM · 2026 Announcing Hats on the Hill 2026:Georgia Veterans Speak Up Join our Veteran Community in a powerful show of unity, advocacy and resolve during Hats on the Hill.
 Read more 15 Jan Thursday, 5:38 PM · 2026 Pamela DeLancy on Ballotpedia Recent News about Pamela DeLancy candidacy run for Georgia District 10.
 Read more Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

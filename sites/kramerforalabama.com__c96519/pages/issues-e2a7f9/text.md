@@ -14,4 +14,4 @@ Read More Affordability Families across Alabama are feeling the strain of rising
 Working families shouldn’t have to choose between paying the power bill, putting food on the table, or saving for the future.
 As your State Senator, Katie will support policies that help lower everyday costs, increase housing affordability, and provide responsible tax relief for working families.
 Alabama’s economy should work for the people who power it.
-Read More Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Read More Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

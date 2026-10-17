@@ -5,4 +5,4 @@ It is your right, as an American citizen, to choose your representation, ultimat
 Please take time to make sure to register to vote, verify/update your voter information, and/or request your Colorado State Ballot.
 Colorado's Election Day is Tuesday, November 3rd, 2026.
 Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

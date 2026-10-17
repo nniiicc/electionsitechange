@@ -1,4 +1,5 @@
-top of page Home Platform Meet Ace Endorsements Voices of WV Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Events Volunteer Join Our Mailing List Donate Menu Close Ace Parsi: Why I'm Running I fled an authoritarian regime to find a home in America—a journey that taught me the true value of freedom and democracy.
+top of page Home Platform Meet Ace Endorsements Voices of WV Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Events Volunteer Join Our Mailing List Donate Menu Close Day of Action, Sunday October 18 Sign Up Here!
+Ace Parsi: Why I'm Running I fled an authoritarian regime to find a home in America—a journey that taught me the true value of freedom and democracy.
 I didn’t know any English, and my family experienced severe poverty.
 But I succeeded through the power of public schools, government assistance, faith communities, and neighbors who believed that the American Dream is a collective effort. ​ Now, as a father and a community leader, I am running to protect those same ideals of liberty and justice for the next generation.
 Motivated by a deep faith that bridges divides and a fierce determination to build a culture of decency for all, I am ready to fight for a future where we rise together.

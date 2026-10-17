@@ -428,4 +428,4 @@ Read more 11 Feb Monday, 10:37 AM · 2019 2019 Statehouse Report #5 Legislative 
 In the next few weeks, I expect to see developments with the education reform bill, a plan for reforming the tax system and an outline for next year’s budget.
 I am excited and prepared to keep working hard for you and the best interests of all South Carolinians.
 Read more VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Sep 22 2026 PRESS RELEASE Luna’s Attempt to Hide Her Corruption Falls Flat: “Mission” Stays on the Air Elias Law Group responds to Luna: “There is no basis whatsoever for the lawsuit you threaten.” FOR IMMEDIATE RELEASE September 22, 2026 CONTACT : press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Sep 22 2026 PRESS RELEASE Luna’s Attempt to Hide Her Corruption Falls Flat: “Mission” Stays on the Air Elias Law Group responds to Luna: “There is no basis whatsoever for the lawsuit you threaten.” FOR IMMEDIATE RELEASE September 22, 2026 CONTACT : press@leelagray.com St.
 Petersburg, FL — Today, Elias Law Group issued a counter- response after Anna Paulina Luna sent a cease-and-desist letter to Brigadier General (Ret.) Leela Gray’s campaign for Congress over the campaign’s recent television ad.
 Despite Luna’s challenge, the ad remains on air.
 Luna’s failed cease and desist letter also comes as polls show this race tightening – a recent House Majority PAC poll showed Gray leading 51% to 46% in a district Donald Trump won by 13 points.

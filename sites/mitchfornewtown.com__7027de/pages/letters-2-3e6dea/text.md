@@ -3,4 +3,4 @@ Support Mitch Bolinsky Keep Hartford Out of Newtown A Champion for Children Who 
 Support for CT State Representative Mitch Bolinsky Bolinsky a State Representative for All of Newtown Endorses Bolinsky Why I'm Voting for Mitch Bolinsky Mitch a Community Focused Public Servant More of the Same Won't Fix CT My Recent Letters...
 Rep Mitch Bolinsky - Your First and Last Line of Defense - by Mitch Bolinsky The Inconvenient Truth of Education Funding - by Mitch Bolinsky Bolinsky No One Knows Newtown Better than Newtown - by Mitch Bolinsky Add your page content here Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

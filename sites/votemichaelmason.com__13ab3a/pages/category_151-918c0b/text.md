@@ -1,4 +1,8 @@
-Skip to content Home News & Updates Contact Us 151 Four Years Is Long Enough to Ask – What Changed?
+Skip to content Home News & Updates Contact Us 151 Environmental Results, Not Just Promises 151 / Mike Connecticut should not have to choose between protecting the environment and keeping the state affordable.
+Families, businesses and municipalities are already struggling with rising costs.
+Environmental protection remains important, but policies must deliver measurable results without imposing unnecessary financial burdens.
+That is the approach I will bring to Hartford.
+My priorities are straightforward: cleaner water, Environmental Results, Not Just Promises Read More » Four Years Is Long Enough to Ask – What Changed?
 151 / Mike Four Years Is Long Enough to Ask What Changed By Michael Mason Four years is a long time in Hartford.
 It is long enough to introduce legislation, build relationships, fight for your district and demonstrate what kind of representative you are.
 So, I think it is fair to ask: What did you actually change?

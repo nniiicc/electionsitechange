@@ -13,4 +13,8 @@ Last year, we provided cities with the tools to end unsanctioned camping, booste
 This session, we’re holding local governments accountable for reducing homelessness, enforcing the law, and minimizing community disruption—particularly in areas with the most severe challenges.
 Since 2022, the state has invested over $229 million to combat homelessness and support affordable housing, but this effort requires municipalities to do their part.
 That’s why we’re aiming to address the root causes of homelessness by enhancing substance use treatment and enforcement measures to set our communities up for success.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 7 + 8 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 5 + 6 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

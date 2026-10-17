@@ -75,4 +75,4 @@ The new norm is lesser of two evils.
 People have numbed to the fact that this just means TWO EVILS.
 The voters who are ignored have no power, but only until they realize they have ALL of the power.
 I only hope that they don’t realize that after it’s too late.
-Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

@@ -63,4 +63,4 @@ We fully intend to flip this controversial House District 30 seat, but not for a
 Just like my campaign, we do things a little different, this seat will be flipped for the future of our community and our state, and we are inviting you to join us in this victory.
 I hope to see many of you soon out in the district.
 Until then, stay connected and follow our campaign on social media for updates and upcoming events.
-Together, we can Move Colorado Forward. -William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Together, we can Move Colorado Forward. -William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

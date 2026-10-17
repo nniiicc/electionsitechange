@@ -18,4 +18,4 @@ I cannot get elected to this Senate seat alone, so if you live in my district, I
 I have opportunities for people to volunteer, and I’d appreciate your financial support, as well.
 Please reach out and email me to find specific ways you can support my campaign.
 Thank you.
-Endorsements Photos Contribute Facebook Contact Privacy Policy Terms And Conditions Sjaarda for SD Powered by CampaignPartner.com - Political Websites Home About Priorities Endorsements Contribute Volunteer Contact Close Menu
+Endorsements Photos Contribute Facebook Contact Privacy Policy Terms And Conditions Sjaarda for SD Powered by CampaignPartner.com Home About Priorities Endorsements Contribute Volunteer Contact Close Menu

@@ -9,7 +9,13 @@ A small donation is matched and becomes a big contribution. $5 = $60: $50 = $650
 You become a big part of this campaign.
 Please take the time to review my stance on local issues below.
 All of our citizens deserve action on these concerns.
-8 Oct Thursday, 10:10 AM · 2026 John's News10 Interview See the video Read more 4 Oct Sunday, 3:15 PM · 2026 Cornell University and the Voluntary Intoxication Loophole This week, a case out of Cornell University has drawn national attention to a real gap in New York law.
+16 Oct Friday, 10:49 AM · 2026 Poor Representation Is Not a Partisan Issue Whatever your party affiliation, you probably want the same thing from your Assemblyman: someone who gets things done for this district.
+Matt Simpson attends the barbecues, the firehouse dinners, and the parades.
+People across this district know him, and many of them, whatever their party, like him.
+But when we vote, we're not choosing a neighbor.
+We're choosing who goes to Albany for the next two years to fight for the North Country.
+So here is a fair question for every voter, Republican, Democrat, or neither: after three terms, what has changed because he was there?
+Read more 8 Oct Thursday, 10:10 AM · 2026 John's News10 Interview See the video Read more 4 Oct Sunday, 3:15 PM · 2026 Cornell University and the Voluntary Intoxication Loophole This week, a case out of Cornell University has drawn national attention to a real gap in New York law.
 Under the state's current statute, a sexual assault survivor can be denied justice if they had voluntarily consumed alcohol or drugs before being attacked - even if that left them unable to consent.
 It's commonly called the "voluntary intoxication loophole," and it has let real cases go unprosecuted, not because anyone disputes what happened, but because of how the law is written.
 Read more 28 Sep Monday, 4:48 PM · 2026 When “The State Knows Best” Overrides Your Own Town Something is happening in Ticonderoga worth every one of us paying attention to, not because of which party is involved, but because of a much simpler question: should an unelected state office be able to override what your own town decides?
@@ -45,4 +51,4 @@ Created every job I ever promised,” Gunther said.
 The 114 th Assembly District encompasses most of Essex, Warren and Washington Counties and a few towns in Saratoga and Fulton Counties.
 He will be on the Democratic and Working Families Party lines in the June Primary unopposed.
 Read more Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

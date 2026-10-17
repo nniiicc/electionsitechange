@@ -14,4 +14,4 @@ That means standing up against monopolistic practices, ensuring fair pricing, an
 I also support investing in local agriculture programs and creating more opportunities for small farmers to sell directly within their communities.
 When small farms succeed, our local economies, food systems, and way of life stay strong.
 Read More VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

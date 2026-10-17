@@ -7,4 +7,4 @@ Completing the Prichard Committee’s CPIL program spurred her 19-year tenure as
 She also worked 13 years for Daviess County Public Schools in various capacities including teaching computer skills to K-5 students, sponsoring the STLP student club, and serving on several district-level committees.
 Laurie enjoys reading, crafting, watching soccer, playing piano, and walking her dogs.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Voter Info Contact Daviess County Democratic Party Paid for by Campaign Fund of Laurie C.
-Campbell Powered by CampaignPartner.com - Political Websites Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu
+Campbell Powered by CampaignPartner.com Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu

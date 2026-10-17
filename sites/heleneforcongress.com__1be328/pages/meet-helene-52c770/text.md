@@ -53,4 +53,4 @@ It's not politics.
 It's this: Compassion cannot be conditional.
 It is also why I am asking for the privilege of serving the people of North Dakota.
 Why Not Me?
-PEOPLE FIRST PARTY RETHINK IMPOSSIBLE ELECT A NURSE Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+PEOPLE FIRST PARTY RETHINK IMPOSSIBLE ELECT A NURSE Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

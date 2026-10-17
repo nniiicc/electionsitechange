@@ -67,6 +67,14 @@ That is why we launched our official line of Micah King for State House hats .
 They are practical, tough enough for farm work, and keep the sun off your face.
 Best of all, picking one up directly funds our fight to bring real economic relief and better healthcare access to District 157.
 6 Colors 6 Colors 4 Colors 3 Colors Grab a hat, put on your sunscreen, drink plenty of water, and stay safe out there this summer.
+THE FIELD REPORT • HEALTHCARE WATCH Get Direct Updates on Rural Healthcare & Hospital Solvency We track Georgia General Assembly healthcare bills, hospital tax credit rules, and rural EMS funding affecting District 157.
+No spam, no consultant spin - just plain-English dispatches.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • The Reality of Our Changing Summers • The Hit to Our Local Farms • Keeping Our Outdoor Workers Safe • The Hidden Danger: Sunburn • What You Can Do Right Now • Block the Sun Completely Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

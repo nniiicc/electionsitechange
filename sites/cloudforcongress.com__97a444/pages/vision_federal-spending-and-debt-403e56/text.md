@@ -7,9 +7,10 @@ Washington could learn a lot from Texas which is why Congressman Cloud fulfilled
 Congressman Cloud is a “Texas Congressional Champion” with a 100% voting record from FreedomWorks.
 He has voted repeatedly to push back on the Washington wasteful spending culture.
 Learn more...
-Energy and Trade Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.
-Read More » Standing with Israel Israel and the United States share a friendship based not only on common strategic interests but also on a common commitment to freedom, human rights, Read More » Health Care The federal government, when putting the government between you and your doctor, made a wreck of our health insurance system.
-As a result, Texans are Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
+Health Care The federal government, when putting the government between you and your doctor, made a wreck of our health insurance system.
+As a result, Texans are Read More » Pro-Life A foundational moral principle in our nation is the understanding that every life has value.
+Michael believes life begins at conception and will continue to Read More » Economy and Jobs Small businesses around our communities are major job creators and the fuel of our Texas economy — we need to keep them alive and healthy.
+Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Paid for by Cloud for Congress All Rights Reserved 2026 .
 Website Built by Mint & Vine

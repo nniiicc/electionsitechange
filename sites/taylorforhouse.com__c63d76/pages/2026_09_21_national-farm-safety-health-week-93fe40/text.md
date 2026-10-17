@@ -1,8 +1,10 @@
-Home About Issues Press Get Involved DONATE National Farm Safety & Health Week Posted : Sep 21, 2026 in : Uncategorized by : admin It’s National Farm Safety & Health Week, and harvest season is here!
+Skip to content Home About Issues Press Get Involved DONATE National Farm Safety & Health Week Posted : Sep 21, 2026 in : Uncategorized by : admin It’s National Farm Safety & Health Week, and harvest season is here!
 As our Iowa farmers are working long hours, let’s all do our part to keep them safe.
 Slow down around farm equipment, stay alert on rural roads, and check in on the farmers and ag workers in our communities! ← Previous: Yard Signs!
 Next: Come Meet Rory Taylor → Comments Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
 Rory Taylor for Iowa House District 22 | Democrat As a life-long Iowan, Rory has learned the value of hard work and the importance of giving back to his community through voluntarism and service to his country in the armed forces.
 Rory believes that the true measure of a leader is in service to his community- which is why he is running for Iowa House.
 Contact Info info@taylorforhouse.com Campaign Updates Come Meet Rory Taylor October 13, 2026 National Farm Safety & Health Week September 21, 2026 © # Rory Taylor for Iowa House District 22 | Democrat .

@@ -16,4 +16,4 @@ Oldham County faces critical decisions regarding our schools, budgets and public
 We need leaders who lead with their hearts but possess the courage to deliver tangible results.
 Because I know her character when the cameras are off, I fully trust Stephanie White, Ph.D., to bring that exact compassion and fierce determination to the Kentucky House of Representatives.
 Sarah Miller of Prospect Sara submitted this to the Oldham Era and it was published here .
-Stephanie White Next Next How many people in Oldham County rely on Medicaid?
+Stephanie White Previous Previous Letter to the Editor Next Next How many people in Oldham County rely on Medicaid?

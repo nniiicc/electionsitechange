@@ -20,4 +20,4 @@ Right now, they're being threatened.
 We need robust protections that preserve our waterways, forests, and public lands for future generations to use and enjoy." For too long, rural communities have been told we don't care about the environment.
 Yet we know firsthand just how special this land is, and just how dangerous it can be when it's mismanaged.
 I'll fight for solutions that mitigate natural disasters and invest in clean energy so we can pair climate protections with strong jobs.
-Make a Donation $ # $ # $ # $ # $ # $ # $ 1000 Other Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Make a Donation $ # $ # $ # $ # $ # $ # $ 1000 Other Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

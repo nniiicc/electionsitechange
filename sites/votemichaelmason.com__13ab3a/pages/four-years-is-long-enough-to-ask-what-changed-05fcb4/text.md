@@ -47,5 +47,5 @@ This is where I live, work and raise my family.
 I know this community and understand the responsibility that comes with asking its residents for their trust.
 If elected, I will show up, do the homework, write legislation, defend local control and work with anyone—Republican or Democrat—to deliver results.
 Four years is long enough to ask what has changed.
-I am running to make the next four years count. ← Previous Post Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
+I am running to make the next four years count. ← Previous Post Next Post → Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
 Approved by Michael Mason

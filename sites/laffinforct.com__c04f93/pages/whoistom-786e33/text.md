@@ -1,4 +1,4 @@
-top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Photos Contact About Tom Hi, I'm Tom Laffin, and I'm running to represent Wallingford's 85th District in the State Legislature.
+top of page Home About Tom My Commitment 85th District Lawn Signs Voter Resources Events Calendar Meet & Greets Photos Contact About Tom Hi, I'm Tom Laffin, and I'm running to represent Wallingford's 85th District in the State Legislature.
 Wallingford has been my home for my entire life.
 I grew up here, raised my two children, Jack and Abby, here, and have dedicated myself to serving our community.
 Over the years, I've served on the Board of Education, been an active member of the PTO, volunteered with the Boy Scouts, and proudly cheered from the sidelines as a devoted soccer dad.

@@ -24,4 +24,4 @@ The passing of this legislation will save more than 3,000 solar jobs already cre
 Rideshare Safety In the wake of the tragedy involving the killing of Samantha Josephson, a University of South Carolina student, the legislature has passed The Samantha Josephson Rideshare Safety Act.
 The bill requires rideshare drivers to display license plate numbers on the front of their cars.
 Keep up with the SC House GOP Caucus: https://www.facebook.com/SCHouseGOP/ https://twitter.com/SCHouseGOP It's an honor and privilege to serve in Columbia on you behalf.
-Don't hesitate to contact me if I could be of service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Don't hesitate to contact me if I could be of service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

@@ -1,2 +1,2 @@
 Skip to content JAMIE ALLARD HD 23 · EAGLE RIVER The Record Events Donate 5 STATEMENTS · 30 SECONDS · HER ACTUAL RECORD WHERE DO YOU STAND?
-1 / 5 AGREE DISAGREE THE VERDICT YOU'RE WITH JAMIE ON 0 / 5 GET ON THE BOARD → Or claim your street with a yard sign → 115 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577
+1 / 5 AGREE DISAGREE THE VERDICT YOU'RE WITH JAMIE ON 0 / 5 GET ON THE BOARD → Or claim your street with a yard sign → 116 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577

@@ -50,26 +50,17 @@ This plan creates a common baseline of practical knowledge and best practices so
 Indiana needs a professional election-training system built around demonstrated competency, clear authority, practical experience, accountability, and continuous improvement.
 This is what election security actually looks like: not slogans, but making sure the people running our elections — including the poll workers on the front lines every Election Day — have the training and support to do it right, every time.
 It's a plan built to work, using the people and the laws already in place.
-New Law to Make Secretary of State Nonpartisan As Secretary of State, Greg Ballard will establish a hands-on election training program for county clerks and poll workers, built and taught by the people who actually know how to run elections in Indiana: experienced county clerks themselves, working alongside the SOS's own staff.
-A Clerk Training Boot Camp An in-person training program for new and current clerks, run in a "sandbox" version of the statewide voter registration system — a safe practice environment where clerks can actually work through setting up an election, processing ballots, and handling problems, without touching live data.
-This is a complement to the state's existing legal-update sessions, not a replacement for them — it's the hands-on, how-to-actually-do-the-job piece that's been missing.
-It will be built and taught by a team of experienced, sitting and former county clerks.
-Finally Funding and Implementing Poll Worker Training — the Smart Way State law already authorizes the Secretary of State office to provide standardized poll worker and county election official training.
-It's never been funded or built.
-The Secretary of State's office can't train every poll worker in every precinct directly — but it can equip county clerks to do it well, consistently, and with real support.
-Ballard's plan does that through three steps: A standardized SOS curriculum.
-The office will produce a professional training curriculum — video modules and printed materials, customized to the specific voting systems used across Indiana's counties — covering the issues that come up over and over: acceptable voter ID, provisional ballots, electioneering rules, chain-of-custody paperwork, and keeping lines moving without cutting corners.
-Every county starts from the same playbook.
-Train-the-trainer for Clerks.
-Clerk boot camp attendees are trained not just to run elections, but to deliver poll worker curriculum locally — with the materials, timing, and talking points to run an efficient in-person session for their own poll workers.
-SOS regional field staff support counties directly.
-The Secretary of State's office already has staff positioned around the state.
-This plan puts those existing employees to work helping county clerks plan and run local poll worker sessions — answering questions, troubleshooting, and making sure every county, especially smaller ones without the staff to build training themselves, has real support.
-Consistency Across All 92 Counties Right now, Indiana effectively runs 92 different election systems, because there's no shared standard for the hands-on side of how clerks and poll workers are trained.
-This plan creates a common baseline of practical knowledge and best practices so that every Hoosier's vote is handled the same rigorous way, no matter what county they live in.
-Indiana needs a professional election-training system built around demonstrated competency, clear authority, practical experience, accountability, and continuous improvement.
-This is what election security actually looks like: not slogans, but making sure the people running our elections — including the poll workers on the front lines every Election Day — have the training and support to do it right, every time.
-It's a plan built to work, using the people and the laws already in place.
+New Law to Make Secretary of State Nonpartisan Indiana's Secretary of State serves as the state's chief election official and chairs the State Recount Commission — the body that resolves disputed elections.
+Yet nothing in Indiana law stops a sitting Secretary of State from simultaneously endorsing candidates, fundraising for a political party, or donating to campaigns in races they oversee.
+Indiana judges — who wield far less direct influence over election outcomes — are already barred from this kind of political activity.
+The state's top election official should be held to the same standard.
+A new law would prohibit the Secretary of State, while in office, from: Publicly endorsing or opposing any candidate for elected office in Indiana Fundraising or donating to a political party or any candidate Personally soliciting or accepting campaign contributions on behalf of any candidate other than themselves Holding a leadership role in a political party Serving as a featured speaker or honoree at a partisan political event Using the office's staff or resources for political purposes Knowingly making false or misleading public statements about an election What's Still Allowed The Secretary of State may still register with a party and vote, campaign on their own behalf for their own re-election, attend (but not headline) political events as a private citizen, and take part in ceremonial public events alongside other officials.
+How It Would Be Enforced Complaints would go to the Indiana State Ethics Commission.
+If the Commission doesn't act promptly — especially in the run-up to an election — the complaint can proceed directly to court, so a complaint can't simply be held to run out the clock.
+Violations carry a civil penalty.
+This proposal mirrors the rules Indiana's Supreme Court already applies to judges, who are barred from this same political activity to protect public confidence in impartial justice.
+The same logic applies to impartial elections.
+Read more and an FAQ HERE.
 What does the Indiana Secretary of State do?
 The Indiana Secretary of State is one of the state’s five constitutional officers and serves as the third-highest office in Indiana state government.
 The position is elected statewide every four years, and plays an important role in both our democratic process and our state’s economy.

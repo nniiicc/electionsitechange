@@ -1,4 +1,4 @@
-Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 16, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
+Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 17, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
 If you do not agree to abide by the above, please do not use this service.
 Use License Permission is granted to temporarily download one copy of the materials on Peter Lumaj | Secretary of the State's website for personal, non-commercial transitory viewing only.
 This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials use the materials for any commercial purpose or for any public display attempt to reverse engineer any software contained on the website remove any copyright or other proprietary notations from the materials Disclaimer The materials on Peter Lumaj | Secretary of the State's website are provided on an 'as is' basis.
@@ -50,4 +50,6 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Jeff Caggiano Former Mayor of Bristol "The Secretary of the State interacts with a wide range of individuals, including voters, businesses, other government officials, and the public, requiring strong communication and interpersonal skills, which Peter has been able to demonstrate in his business and political experience." View all endorsements →
+ENDORSED BY Sean Cleary State Central Member 16th District "There are few people in politics with the amount of conservative values and integrity as I know Peter Lumaj possesses.
+Regardless of political winds, Peter stands as a true conservative happy warrior taking the fight to increasingly radical liberals.
+The Republican Party is better for having Peter Lumaj tell his story and fight for our values." View all endorsements →

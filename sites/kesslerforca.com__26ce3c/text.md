@@ -1,4 +1,4 @@
-top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Make Your Voting Plan Donate Shannon's Priorities Public Safety, Homelessness & Mental Health Cost of Living & Local Economy Education & Student Well-Being Environment, Energy & the Central Coast See All Priorities Endorsed by the California Republican Party and leaders across the Central Coast See Endorsements As seen on Fox News: Watch Shannon’s interview → A Children’s Advocate Fighting for Parents Shannon Kessler is fighting to put parents— not politicians—back in charge of our schools.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Endorse Shannon News Events Blog Make Your Voting Plan Donate Shannon's Priorities Public Safety, Homelessness & Mental Health Cost of Living & Local Economy Education & Student Well-Being Environment, Energy & the Central Coast See All Priorities Endorsed by the California Republican Party and leaders across the Central Coast See Endorsements As seen on Fox News: Watch Shannon’s interview → A Children’s Advocate Fighting for Parents Shannon Kessler is fighting to put parents— not politicians—back in charge of our schools.
 Why I'm Running I’m running because public safety, affordability, and accountability are no longer being treated as priorities.
 Families are struggling to stay in the communities they love, parents are losing their voice, and critical decisions are being made without local input. ​ Our district deserves representation that listens, protects, and delivers results.
 That is why I’m running.
@@ -14,6 +14,6 @@ Fighting Overregulation.
 Join Shannon Today.
 Get Involved Today Support Our Campaign.
 Your Voice & Contributions Drive Real Change in CA-30.
-PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
+First name * Last name * Email * Phone Address Submit PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
 Privacy Policy kesslerforca@gmail.com Kessler For California D istrict 30 © # by Kessler For California District 30.
 Powered and secured by Wix bottom of page

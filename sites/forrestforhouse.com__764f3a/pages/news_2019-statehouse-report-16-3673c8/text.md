@@ -17,4 +17,4 @@ By using this modern analytical system, South Carolina will be joining 37 other 
 Governor Makes New Cabinet Agency This week the Governor signed into law a bill to elevate the South Carolina Department of Veterans Affairs to a cabinet level agency.
 This bipartisan bill reflects South Carolina’s strong military tradition and shows appreciation to our veterans.
 Quote of the Week “We don’t have to fix it in one year, but we have to make a clear, major start on fixing it, then we can take other steps to make it even stronger in succeeding years.
-They [the Senate] can get it done if they have the will to get it done.” -Governor McMaster on passing education reform this session Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+They [the Senate] can get it done if they have the will to get it done.” -Governor McMaster on passing education reform this session Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

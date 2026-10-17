@@ -1,10 +1,12 @@
-top of page HOME ABOUT CHRIS PRIORITIES NEWS SHOP VOLUNTEER EVENTS Menu Close Donate VOLUNTEER CONTACT US Volunteer DONATE DONATE Host A Chris Chat Request Yard Signs The American Dream Is On The Ballot Let's do something different together ​ For too long, politics has focused on division instead of solutions and partisanship instead of people. ​ Chris Harden is running for Congress because he believes the government should work for working people.
+top of page HOME ABOUT CHRIS PRIORITIES NEWS SHOP VOLUNTEER EVENTS Menu Close Donate VOLUNTEER CONTACT US Volunteer DONATE DONATE Host A Chris Chat Request Yard Signs Let's do something different together ​ For too long, politics has focused on division instead of solutions and partisanship instead of people. ​ Chris Harden is running for Congress because he believes the government should work for working people.
 He believes every family deserves the opportunity to succeed, every community deserves to be heard, and every person deserves leadership that puts results ahead of politics.
 First name * Last name * Phone Email * Join Us!
 Sign Up For More Info.
-Let's do something different together ​ For too long, politics has focused on division instead of solutions and partisanship instead of people. ​ Chris Harden is running for Congress because he believes the government should work for working people.
+Dream Let's do something different together ​ For too long, politics has focused on division instead of solutions and partisanship instead of people. ​ Chris Harden is running for Congress because he believes the government should work for working people.
 He believes every family deserves the opportunity to succeed, every community deserves to be heard, and every person deserves leadership that puts results ahead of politics.
-Dream CHRIS' VISION Chris believes the government should work for the people it serves.
+Living here.
+Serving here.
+Fighting for cd11 The American Dream Is On The Ballot CHRIS' VISION Chris believes the government should work for the people it serves.
 The American Dream is built on the promise that hard work, responsibility, and determination create opportunity.
 Today, too many families feel that promise slipping further out of reach.
 The cost of housing, healthcare, childcare, and everyday necessities continues to rise while many families are working harder than ever just to keep up.
@@ -189,8 +191,6 @@ It will be determined by the people who live here, work here, raise families her
 Show Your Support for Chris Harden Shirts, hats, accessories, and more!
 Shop official Chris Harden merchandise and show your support.
 Shop Now Wear Your Pride!
-Click here to shop our pride collection.
-Add Wear Your Pride!
 Click here to shop our pride collection.
 Add © # Paid For By Chris Harden For Congerss Privacy Policy Accessibility Statement Media Inquiry Contact Chris Harden Headquarters P.O.
 Box 510 Woodstock, GA 30188 404-480-3155 info@chrishardenforcongress.com NAVIGATION About Chris News Shop Volunteer FOLLOW US Facebook Instagram TikTok YouTube PAID FOR BY CHRIS HARDEN FOR CONGRESS PAID FOR BY CHRIS HARDEN FOR CONGRESS HOME ABOUT CHRIS PRIORITIES NEWS SHOP VOLUNTEER EVENTS VOTE NOV.

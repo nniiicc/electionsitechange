@@ -26,4 +26,4 @@ This year I have been teaching college for 22 years with 20 of those at Gaston C
 In July of 2022 Lori and I became grandparents, we are Mimi and Papa.
 Our daughter, Lindsay and son-in-law Michael, brought Hazel Amelia Stockman into this world.
 We are so proud of Lindsay and Michael, and cherish the family time we spend with them and our Hazel.
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -25,4 +25,4 @@ Laurie cares and she has the ability to see the big picture and discern key deci
 Let’s elect a representative that will represent all of us.
 I will be voting for Laurie Campbell Cheryl Brown Laurie will do what needs to be done for District!
 Mary Dean Miller Organizations Click here to add your endorsement Voter Info Contact Daviess County Democratic Party Paid for by Campaign Fund of Laurie C.
-Campbell Powered by CampaignPartner.com - Political Websites Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu
+Campbell Powered by CampaignPartner.com Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu

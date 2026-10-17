@@ -31,4 +31,4 @@ Your continued use of the website following the posting of revised terms constit
 8.
 Governing Law These terms and conditions are governed by and constructed in accordance with the laws of South Carolina and you submit to the exclusive jurisdiction of the courts in that jurisdiction.
 9.
-Contact Information If you have any questions about these Terms and Conditions, please contact us at johnkilmartin@bellsouth.net Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu
+Contact Information If you have any questions about these Terms and Conditions, please contact us at johnkilmartin@bellsouth.net Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

@@ -1,4 +1,4 @@
-top of page Home About Contact Donate About Regina ​ Regina Birdsell has dedicated much of her life to public service — first in uniform, then in her community, and today as Majority Leader of the New Hampshire State Senate. ​ Regina comes from a military family and followed the tradition of public service set by her father, a retired U.S.
+top of page Skip to Main Content Home About Contact Donate About Regina ​ Regina Birdsell has dedicated much of her life to public service — first in uniform, then in her community, and today as Majority Leader of the New Hampshire State Senate. ​ Regina comes from a military family and followed the tradition of public service set by her father, a retired U.S.
 Army Lieutenant Colonel.
 After graduating from Thomas Dale High School in Chester, Virginia, Regina joined the United States Coast Guard, serving at duty stations in Portsmouth, Virginia; Petaluma, California; and Boston, Massachusetts. ​ After completing 10 years of military service, Regina began her civilian career at Raytheon Company in Lexington, Massachusetts.
 Starting as an Administrative Assistant, she eventually moved into employee benefits and human resources.

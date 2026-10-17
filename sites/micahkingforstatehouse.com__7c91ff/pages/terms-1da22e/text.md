@@ -1,7 +1,7 @@
 Skip to Content 🗳️ Vote Early Early voting begins today across District 157.
 Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
 Vote Early Early voting is open today across HD-157!
-Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Terms of Service Updated October 14, 2026 1.
+Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Terms of Service Updated October 17, 2026 1.
 Acceptance of Terms By accessing **votega157.com**, you agree to comply with and be bound by these Terms of Service.
 If you do not agree, please do not use our site.
 We utilize VoteBuilder to manage constituent data and ensure our records are accurate for current and future election cycles.

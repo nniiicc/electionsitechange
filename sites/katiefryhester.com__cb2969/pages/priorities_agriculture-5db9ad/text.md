@@ -1,13 +1,17 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Agriculture While agriculture is still the number one industry in the state of Maryland, it is too often overlooked at the state and local levels.
-We must implement policies and incentives that protect Maryland farms by encouraging consumers to buy locally, and supporting value-added agriculture products such as specialty livestock, flowers, handmade soap, and gourmet food products.
-We must also expand access to urban markets in Columbia, Baltimore, Eldersburg, Annapolis and Washington, DC.
-District 9 has a long, vibrant farming heritage, supplying vegetables and fruit as well as other agricultural products in wholesale, local retail, and in farmers markets.
-Our local greenhouses and nurseries supply the area with bedding transplants, plants for landscaping, and trees.
-Our farms employ locally and are an important part of our local economy.
-To encourage state procurement, I established the Certified Local Farms Enterprise Program, which requires state entities to purchase more food from Maryland’s small farmers.
-The economic impact of COVID-19 has greatly increased the number of Marylanders suffering from food insecurity.
-That’s why I introduced legislation establishing the Maryland Food System Resiliency Council to address the hunger crisis and improve the long-term resilience of our food system.
-Working with the Food Council, we increased funding for Maryland Market Money and for food banks to purchase from Maryland farms.
-Friends of Katie Fry Hester, Treasurer: Margaret E.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Agriculture Agriculture makes up one of Maryland’s top industries.
+Yet, too often, farmers and agriculturalists are overlooked at the state and local levels.
+We must implement policies and incentives that protect Maryland farms by encouraging consumers – including Maryland food banks and state entities – to buy locally and by supporting value-added agriculture products, such as specialty livestock, flowers, handmade soap, and gourmet food products.
+To keep Maryland’s vibrant agricultural community alive, we must take action to both protect farmland in our rural areas and expand access to urban markets from Baltimore to Washington, D.C.
+During the pandemic, I worked directly with Howard County farmers to drive the “Grow it Forward” initiative, supporting local farmers while getting food to food-insecure residents.
+In 2021, I sponsored legislation establishing the Maryland Food System Resiliency Council , on which I currently serve, to address the hunger crisis and improve the long-term sustainability of our food system.
+Together, we increased funding for Maryland Market Money, enabling food banks to purchase directly from Maryland farmers.
+In 2023, I expanded the Certified Farms Enterprise Program – now the Certified Local Farm and Fish Program – to require state entities to purchase food from small farmers.
+As your state senator, I will continue to advocate on behalf of Maryland farmers to preserve Maryland’s rich agricultural legacy.
+In general, I support policies to: Protect farmland and improve farm profitability and market access, Make conservation financially workable for farmers by maintaining and expanding cost-share programs for cover crops, Prepare agriculture for extreme weather and climate risks, Invest in Maryland’s agricultural workforce, and Support agricultural technology and innovation.
+Legislation I have passed includes: ** SB0599/HB0429 On Farm Organics Diversion and Recycling Grant Program (2026) Creates three, statewide grant programs to reduce food waste, support food rescue initiatives and composting efforts, and invest in infrastructure and programs that keep usable food out of landfills, redirecting food to communities, farms, and organizations that can benefit from it. ** SB0300/HB0461 – Economic Development – Rural Readiness Program and Rural Maryland Capacity Building Fund – Establishment (2026) Establishes the Rural Readiness Program and Rural Maryland Capacity Building Fund to help Maryland’s rural communities compete for state and federal funding.
+The Program creates a “one-stop shop” for local governments and organizations seeking technical assistance, grant-writing support, and planning resources.
+The Fund provides grants for collaborative planning and capacity-building initiatives.
+HB0972 – Charles J.
+Otto Agricultural Education Promise Act (2026) Expands access to abortion care by increasing the number of qualified healthcare professionals who may provide abortion services, establishing training programs, and strengthening protections for providers and patients. ** SB0386/HB0063 – Certified Local Farm and Fish Program – Establishment (2023) Expands Maryland’s local food procurement program to include Maryland seafood and renames it the Certified Local Farm and Fish Program, strengthening opportunities for state agencies and institutions to purchase food from Maryland farmers and seafood producers. ** SB0034/HB0389 – Department of Agriculture – State Specialist for Value-Added Agriculture (2023) Creates a State Specialist for Value-Added Agriculture within the Maryland Department of Agriculture to help farmers develop, market, and sell value-added agricultural products and strengthen opportunities for agricultural businesses. (**Denotes Legislation I Sponsored) Friends of Katie Fry Hester, Treasurer: Margaret E.
 Connor © # Katie Fry Hester for MD State Senate D9.
 Privacy Policy .

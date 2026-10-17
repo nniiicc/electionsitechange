@@ -45,6 +45,5 @@ No single policy will solve South Dakota’s health care workforce shortage over
 Together, however, these investments can create a durable pipeline of professionals ready to serve rural communities for decades.
 In Congress, I would work with local communities, educators, and health systems to direct federal resources toward the workforce strategies that are already producing results.
 The future of rural health care in South Dakota depends on the choices congressional leaders make today.
-Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
-House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
+Recent Posts See All South Dakota’s Democratic nominee for US House makes her case to voters Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

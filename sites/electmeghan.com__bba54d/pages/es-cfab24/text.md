@@ -10,12 +10,12 @@ Por Meghan Kallman 27 de enero de 2026 Kallman presenta un proyecto de ley para 
 Por Meghan Kallman 27 de enero de 2026 El senador Kallman presenta proyectos de ley en la Agenda #FairShare.
 Por Meghan Kallman 7 de abril de 2025 Mantengamos al ICE fuera de los juzgados de Rhode Island y pongamos fin al efecto disuasorio que se está apoderando de nuestro sistema de justicia.
 Meghan Kallman Músico, profesor, sociólogo y senador estatal, que representa a la buena gente de Pawtucket y Providence en el distrito senatorial número 15 de Rhode Island.
-#earlyvoting has started in Rhode Island!
+One of my favorite foodie events coming up tomorro Good morning everyone!
+A reminder that early votin #earlyvoting has started in Rhode Island!
 If you l @honkfest(ing) our faces off with @erbband this we What a crew!
 I’m honored the to receive the @law Good policy is made by thoughtful folks using good Rhode Island needs more housing of all shapes and Nice to have @repjeffries along with @repgabeamo a Medical Aid in Dying is an important, tender issue Happy equinox and happy fall from our house, which This is how we do it.
 Thanks for having us, Philly!
 It’s a privilege t Wednesday screenshot dump 💥 Si bien las manzanas y la miel son habituales para el Rosh Hash Una colección de cosas de Internet que Los habitantes de Rhode Island tomaron una serie de decisiones decisivas Un momento tierno con un votante en las urnas este mes.
-Vote hoy por el transporte público en todo Rhode Island. ¡HOY es día de primarias y las urnas estarán abiertas hasta las 8 de la noche!
 Cargar más Síguenos en Instagram sección-aa00400 ¡La democracia es alimentada por personas como tú!
 Sé el cambio Voluntario Voluntario sección-264f4f3 ¡Comparte tu visión, deja que se escuche tu voz!
 Ponerse en contacto Ponerse en contacto con Meghan Contacto sección-26466ab El líder que necesitamos "Meghan realmente escuchó mis preocupaciones sobre la vivienda, y vi lo duro que luchó por una vivienda asequible en nuestra ciudad.

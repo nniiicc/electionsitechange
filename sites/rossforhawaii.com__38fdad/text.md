@@ -1,28 +1,23 @@
-Skip to content Events Events Contact Ian Get Involved Donate Today Why I'm Running My name is Ian Ross.
-I’m running for State House District 26 (Makiki, Punchbowl, and portions of Papakōlea and Tantalus) because you deserve a community where you can afford to thrive, feel safe, and know your State Representative will listen and work for you.
+Skip to content Events Events Contact Ian Get Involved Donate Today Why I'm Running My name is Ian Ross .
+I’m the Democratic nominee for State House District 26 (Makiki, Punchbowl, and portions of Papakōlea and Tantalus) .
+You deserve a community where you can afford to thrive, feel safe, and know that your State Representative will listen and work for you.
 I was born in Makiki and raised on Kauaʻi, and a decade ago, after graduating from the University of Hawaiʻi at Mānoa, I came home to Makiki to build my life here.
 I’ve served as your Neighborhood Board Chair, worked in government and public health, and I am a family caregiver who understands kuleana.
 Now, I humbly ask to serve you in the State Legislature.
 Donate Today E Komo Mai I was born in Makiki and raised on Kauaʻi by my mom, Linda, a civil rights attorney who worked for the Hawaiʻi Disability Rights Center.
-I’d sit in on community meetings after school and watch her advocate for people who needed someone in their corner.
 She instilled in me the importance of serving others.
 Like many families during the Great Recession, we were hit hard.
 My mom lost her job.
-I picked up two jobs through high school, one at a care home and the other as a computer technician, but we still lost our home.
-Medicaid kept us covered, and when my mom was hired by the County’s Elderly Affairs office, proudly becoming a member of HGEA, we slowly got back on our feet.
-I attended the University of Hawaiʻi where I threw myself into service.
-I helped establish the Mayor’s Youth Advisory Council, became involved with ASUH, and worked with my closest friend, Kaulana, to create a student bus pass program.
-After she passed away during a mental health crisis, I spent a year fighting to win the support of government, faculty, and students for the program.
-The bus pass program was established in 2011 and named the Kaulana Pass in her honor.
-The program we came up with has now helped more than 10,000 students get to school.
+As our home went into foreclosure, I picked up two jobs through high school, one at a care home and another as a computer technician.
+Medicaid kept us covered as we slowly got back on our feet.
 I graduated with honors from UH Mānoa with a degree in economics and came home to Makiki a decade ago.
-Since then, I’ve worked in the State Legislature on health and housing policy, served as Policy Manager at the Alzheimer’s Association where I helped pass legislation establishing a state Alzheimer’s coordinator and training standards for first responders.
-I now work as Public Affairs Director at the Waianae Coast Comprehensive Health Center, which serves some of the people with the greatest need in the islands.
-As Chair of the Makiki/Lower Punchbowl/Tantalus Neighborhood Board from 2019 to 2024, I didn’t just show up for the big wins like shutting down illegal game rooms, securing our new Punahou Square dog park, and standing with Papakōlea against a risky city water project.
-I also did the quiet work: attending committee meetings, meeting one-on-one with concerned residents, fighting to keep the Mānoa post office open, supporting community gardens, addressing homelessness in the Makiki stream and parks, and organizing vigils for neighbors we’ve tragically lost.
+Since then, I’ve worked in the State Legislature on health and housing policy, going on to serve as Policy Manager at the Alzheimer’s Association where I advocated for funding of the Kūpuna Care Program and helped pass legislation establishing a state Alzheimer’s coordinator and training standards for first responders.
+I now work as Public Affairs Director at the Waianae Coast Comprehensive Health Center.
+As Chair of the Makiki/Lower Punchbowl/Tantalus Neighborhood Board from 2019 to 2024, I helped with major efforts like shutting down illegal game rooms, securing our new Punahou Square dog park, and standing with Papakōlea against a risky city water project.
+I also did the everyday work: attending committee meetings, meeting one-on-one with concerned residents, fighting to keep the Mānoa post office open, supporting community gardens, addressing homelessness in the Makiki stream and parks, and organizing vigils for neighbors we’ve tragically lost.
 Today, I’m the primary caregiver for my mom.
-I understand kuleana, the responsibility you have to care for those you love and to serve our community.
-I’m running because I know how hard life can get, and I want to do the work and put community first.
+I understand kuleana, the responsibility we have to care for those we love and to serve our community.
+I’m running because I want to advocate for you and put community first.
 Proudly endorsed by The Issues Reduce Homelessness Affording Hawaii Community Safety Education Climate Change & Environment Ethics & Accountability Infrastructure & Transportation Public Health Reduce Homelessness As your neighbor, public health advocate, and former Neighborhood Board Chair, I’ve experienced how homelessness has changed our parks, sidewalks, and streams in Makiki.
 We need mental health support, addiction treatment, truly affordable housing with wraparound services, and real pathways to steady work to restore public spaces in our community.
 Return to Issues Affording Hawaii My family lost our home during the Great Recession, so I know how hard it is to afford Hawaii, especially when times are tough.

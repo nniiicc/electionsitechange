@@ -5,4 +5,4 @@ The tragedy at an elementary school in Uvalde, Texas where 19 beautiful children
 Gun violence is a public health crisis and we must act. ​ Americans overwhelmingly support gun violence reform.
 I support background checks on all gun sales, a ban on military-style assault weapons, and strengthening red flag laws to ensure dangerous individuals who may harm themselves or others don’t possess them.
 These are just some of the widely supported policies that will save lives without impacting the rights of law-abiding Americans to freely own firearms.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

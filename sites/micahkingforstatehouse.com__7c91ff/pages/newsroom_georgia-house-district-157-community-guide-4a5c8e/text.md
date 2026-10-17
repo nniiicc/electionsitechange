@@ -38,6 +38,14 @@ Micah King is running to be a representative who actually shows up: for town hal
 Do you live in District 157?
 Download the full map here or contact the campaign if you have any questions about your district.
 Learn more about where Micah stands on the issues facing District 157 , agricultural policy , and rural emergency services .
+THE FIELD REPORT • DISTRICT 157 DISPATCH Follow the Campaign for Georgia House District 157 Direct, honest dispatches from Micah King across Appling, Evans, Jeff Davis, and Tattnall Counties.
+No consultant fundraising blasts - just ground-truth trail updates.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • Tattnall County: The Heart of the District • Jeff Davis County: Where Family Farms Still Thrive • Appling County: Southern Georgia’s Quiet Strength • Evans County: Deep Roots, Strong Community • Candler County: Small Town, Big Heart • The District as a Whole Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

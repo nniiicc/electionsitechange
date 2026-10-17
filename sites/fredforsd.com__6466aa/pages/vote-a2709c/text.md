@@ -13,4 +13,4 @@ Codington County (outside Watertown/Dist.
 Deuel County Cities: Clear Lake, Gary Towns: Altamont, Astoria, Brandt, Goodwin, Toronto.
 Grant County Cities: Big Stone City, Milbank Towns: Albee, La Bolt, Marvin, Revillo, Stockholm, Strandburg, Twin Brooks.
 Hamlin County Cities: Bryant, Castlewood, Estelline, Lake Norden Towns: Hayti (county seat), Hazel.
-Roberts County Cities: Sisseton, Wilmot Towns: Claire City, Corona, New Effington, Ortley, Peever, Rosholt, Summit, White Rock Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Roberts County Cities: Sisseton, Wilmot Towns: Claire City, Corona, New Effington, Ortley, Peever, Rosholt, Summit, White Rock Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

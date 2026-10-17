@@ -1,9 +1,10 @@
 {
  "description": "A comparison of how Mary Gill voted on bills in comparison to how David Dewar would vote",
  "final_url": "https://www.repdaviddewar.com/policies",
- "fingerprint": "993a9c1d72eaba2645390d8fea59e6e5ecbae3c9",
+ "fingerprint": "8dbc679d5986089e78f3f6143eb857d4e84b9b88",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Bills",
  "years_mentioned": [
   "2019",

@@ -1,5 +1,4 @@
-0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Upcoming Events Oct 16 Java with Jeff Friday, October 16, 2026 7:30 AM 9:30 AM The White Sheep (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
-View Event → Oct 19 Java with Jeff Monday, October 19, 2026 10:00 AM 12:00 PM Blackberry Market (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Upcoming Events Oct 19 Java with Jeff Monday, October 19, 2026 10:00 AM 12:00 PM Blackberry Market (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
 View Event → Oct 20 Java with Jeff Tuesday, October 20, 2026 7:30 AM 9:30 AM Sweetwaters Coffee & Tea (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
 View Event → Oct 22 Boone County Steak Fry Thursday, October 22, 2026 5:00 PM 9:00 PM Community Building (map) Google Calendar ICS Join Jeff & the Boone County GOP for a great evening of food and fun!
 Bring $$$ for the dessert auction!
@@ -16,6 +15,7 @@ For more information or questions, contact events@jeffwalterforcongress.com .
 Dinner and Shooting with Jeff Walter View Event → Nov 3 Election Day!!
 Tuesday, November 3, 2026 7:00 AM 7:00 PM Your Polling Place (map) Google Calendar ICS Get out to VOTE!!
 Vote Jeff Walter for Congress!
+View Event → Oct 16 Java with Jeff Friday, October 16, 2026 7:30 AM 9:30 AM The White Sheep (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
 View Event → Oct 14 Java with Jeff Wednesday, October 14, 2026 7:30 AM 9:30 AM Lake Roots (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
 View Event → Oct 11 DuKane A.B.A.T.E.
 Annual Toy Run Sunday, October 11, 2026 11:30 AM 3:00 PM Downtown Elburn (map) Google Calendar ICS Join DuKane A.B.A.T.E. in raising funds and collecting toys to make local area children’s Holidays that much better.

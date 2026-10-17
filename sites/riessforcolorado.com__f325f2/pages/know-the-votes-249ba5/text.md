@@ -59,7 +59,7 @@ Polis vetoed it, so the fee never took effect.
 Naomi's approach Fund youth services through the budget, not a new fee on what families buy.
 Source: HB26-1418 Where the money comes from Campaign money is public record.
 Every contribution to both campaigns is on file with the Colorado Secretary of State's TRACER system, searchable by anyone.
-Katie Stewart's campaign ≈#% Denver area Solid majority of my opponent's dollars raised this cycle came from the Denver area, much of it from political committees and lobbyists.
+Katie Stewart's campaign ≈#% SW Colorado Solid majority of my opponent's dollars raised this cycle came from the Denver area, much of it from political committees and lobbyists.
 Source: TRACER , STEWART, KATIE.
 Naomi Riess's campaign ≈#% SW Colorado The vast majority of funds raised for my campaign came from individual donors in Southwest Colorado ... the people I'm asking to represent.
 Source: TRACER , Riess for Colorado.

@@ -45,7 +45,7 @@ A Life of Values and Family: Santosh cherishes his 33-year marriage to Shweta, a
 Their children, a sustainability professional and a doctor, reflect his commitment to family values and community service.
 Community Work Date/period, partner organization (Red Cross), Volunteer, 26 bottles of blood collected.
 Contact Santosh Please feel free to send an email to santoshfornh@gmail.com or fill up the below form incase of any queries.
-Contact Us Your Name: Your Email: Your Phone: I’d like to: Volunteer (door knocking) Volunteer (phone calls) Help on Election Day Request a lawn sign Host a house meeting Get email updates Something else Your Message: By submitting your cell phone number you are agreeing to receive periodic text messages from us.
+Contact Us Your Name: Phone/Mobile Your Email: I’d like to: Volunteer (door knocking) Volunteer (phone calls) Help on Election Day Request a lawn sign Host a house meeting Get email updates Something else Your Message: By submitting your cell phone number you are agreeing to receive periodic text messages from us.
 Message & data rates may apply.
 Text HELP for help or STOP to unsubscribe.
 Submit Donate Join Santosh in his mission to build a stronger, more vibrant Nashua.

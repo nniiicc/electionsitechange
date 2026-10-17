@@ -16,6 +16,5 @@ Or will this historic rural health investment flow into the pockets of health te
 Will it simply disappear as quickly as it arrived?
 If I am elected to be South Dakota’s voice in Congress, sustaining access to rural health care will be a top priority.
 And I will be committed to monitoring the investments being made through the Rural Health Transformation Fund to ensure that we are taking the lessons learned to build a stronger rural health care system that can be sustained for the long haul.
-Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
-House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
+Recent Posts See All South Dakota’s Democratic nominee for US House makes her case to voters Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

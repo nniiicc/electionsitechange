@@ -1,2 +1,2 @@
 Meet Bradley Issues News Volunteer Contribute On the trail In this gallery will be photos from key events and meaningful encounters that will be updated regularly!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

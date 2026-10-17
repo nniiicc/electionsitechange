@@ -39,4 +39,4 @@ This event on Lamar Street between 13th and 14th Ave. is a great way to connect 
 I will be there, so please come up and say hello.
 Come celebrate and have a great time.
 Because ultimately, even if we don’t all agree on the selected process, I do believe, as fellow neighbors, we all want what is best for the communities of Lakewood, Edgewater and the surrounding areas in our great state of Colorado.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

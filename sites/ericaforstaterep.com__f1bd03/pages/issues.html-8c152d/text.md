@@ -2,7 +2,8 @@ ERICA RUSSELL Candidate for NH State Rep | Merrimack District 25 (Franklin-North
 Jump to an Issue: 1.
 Healthcare Access 2.
 NH Property Tax Relief 3.
-Strong Public Schools 1.
+Strong Public Schools 4.
+Regional Energy & LNG Moratorium 1.
 Healthcare Access for All Healthcare is not a privilege; it is a fundamental human right.
 Every single resident in New Hampshire deserves access to high-quality, comprehensive medical care without the fear of financial ruin.
 When families have to choose between putting food on the table or filling a lifesaving prescription, our system is failing them.
@@ -27,7 +28,17 @@ Priorities: Fully Funding Our Classrooms: Ensuring our public schools have the r
 Vocational & Practical Learning: Expanding technical and hands-on vocational tracks in our high schools so that students entering the workforce are skilled, competitive, and ready to succeed.
 Supporting Our Educators: Championing competitive compensation, professional respect, and supportive working environments to attract and retain high-quality teachers.
 Protecting the Public Budget: Defending public education tax revenue against voucher expansion programs that drain vital resources from our local neighborhood schools.
-"When we invest heavily in our public schools, we are investing directly in the vitality, economy, and future of our towns." — Erica Join Our Movement Have a question for the campaign?
+"When we invest heavily in our public schools, we are investing directly in the vitality, economy, and future of our towns." — Erica 4.
+Regional Energy & LNG Moratorium Accountability The entire Lakes Region—including Laconia, Franklin, Tilton, Belmont, Sanbornton, Gilford, Northfield, and Canterbury—has faced a damaging natural gas moratorium.
+This crisis is the result of corporate capital investment choices that raise serious questions about state regulatory oversight and legislative action.
+For years, Liberty Utilities’ own projections showed regional demand approaching capacity limits.
+Yet, Liberty chose to prioritize pipeline replacements in higher-density markets in southern New Hampshire and Massachusetts, leaving our communities with a sudden moratorium that has stalled homebuilding, blocked commercial expansion, and left municipal planning in limbo.
+Priorities: Statutory Capacity Mandates: Introducing legislation requiring regulated utilities to maintain minimum local reserve capacity that aligns with regional housing and economic development goals.
+Restoring PUC Planning Powers: Revisiting the 2021 state reorganization laws to restore the Public Utilities Commission’s (PUC) proactive utility auditing and capital-planning authority, ensuring monopolies cannot secretly starve regional infrastructure.
+Tying Capital Allocations to Franchise Rights: Mandating that utility profit margins and rate approvals are directly linked to whether a utility meets its public service obligations across all franchised service territories, not just high-density ones.
+Securing Reliable Regional Solutions: Working closely with our federal congressional delegation to advocate for regional energy infrastructure solutions while ensuring state regulators hold local utilities accountable.
+"A public utility granted an exclusive regional monopoly cannot quietly starve a region of needed energy.
+As a state lawmaker, I will work to restore regulatory oversight and press utilities to meet their obligations." — Erica Join Our Movement Have a question for the campaign?
 Want to roll up your sleeves to help out, or ready to invest in a stronger community in NH?
 Choose an option below to connect with us instantly.
 Message Erica's Campaign Volunteer to Help Donate via Anedot Paid for by ericaforstaterep, 125 Stevens Road Northfield, NH 03276, Erica Russell, Treasurer

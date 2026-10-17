@@ -21,4 +21,4 @@ These values guide every decision I make — not politics or polls.
 I will continue to defend them without compromise.
 Read More The 2026 Ballot Measures I support all four South Dakota ballot amendments.
 Click to the right to learn more.
-Read More Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Read More Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

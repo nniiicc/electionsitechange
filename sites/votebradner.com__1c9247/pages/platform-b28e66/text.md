@@ -1,4 +1,4 @@
-0 Skip to Content Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW our Priorities Affordability Affordability is not just a buzzword, it is the foundation of a strong Ohio.
+0 Skip to Content About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW our Priorities Affordability Affordability is not just a buzzword, it is the foundation of a strong Ohio.
 It is unacceptable that too many people are working hard and still struggling to get by.
 The cost of housing, groceries, childcare, and healthcare continues to rise while wages lag behind, pushing families to the brink and driving young people out of our state.
 Living Wages: We need to restore the conversation around true living wages so work actually pays.

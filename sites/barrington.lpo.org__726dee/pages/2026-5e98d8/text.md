@@ -1,4 +1,4 @@
-My Core Principles About Me Why I Am A Candidate My Public Service Promise My Platform Contribute 2026 Archive: 2026 27 Sep 2026 2 Mike Carey doesn’t care… Brennan Barrington Uncategorized …that he’s holding joint fundraisers with a violent abuser.…that as “Vice President of Government Affairs” at Murray Energy, he led the company to give a $100,000 bribe to Larry Householder.…how much arsenic, mercury, and lead are leaking from coal ash into your water supply.…that migrants in Read more 23 Sep 2026 0 Debate invitation Brennan Barrington Uncategorized This is an open challenge to Rep.
+My Core Principles About Me Why I Am A Candidate My Public Service Promise My Platform Contribute 2026 Archive: 2026 27 Sep 2026 2 Mike Carey doesn’t care… Brennan Barrington Uncategorized …that he’s holding joint fundraisers with a violent abuser.…that as “Vice President of Government Affairs” at Murray Energy, he led the company to give a $100,000 bribe to Larry Householder.…how much arsenic, mercury, and lead are leaking from coal ash into your water supply.…that migrants in Read more 23 Sep 2026 1 Debate invitation Brennan Barrington Uncategorized This is an open challenge to Rep.
 Mike Carey and Don Leonard for Ohio, as they have not responded to my private messages.
 I am willing to participate in a debate, including one or both, to be held in a time, place, and format of either’s choosing.
 You may contact me to make arrangements.
@@ -12,6 +12,6 @@ As leftists often do, it Read more 21 Aug 2026 0 Republicans Are Not Libertarian
 Website Staff Uncategorized If you are using a mobile device, touch the black square to see my main pages.
 This site does not render correctly on mobile devices.
 You can also reach them through the links in this post (click/touch the post to see all of it).
-This is the website for Brennan Barrington, Libertarian candidate for Ohio’s Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
+This is the website for Brennan Barrington, Libertarian candidate for Ohio’s Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments James O'Brien on Debate invitation Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

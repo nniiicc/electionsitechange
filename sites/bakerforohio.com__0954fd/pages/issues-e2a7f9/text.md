@@ -18,4 +18,4 @@ These caps protect insurance companies and large corporations while shortchangin
 I believe juries, not politicians or lobbyists, should decide what justice looks like.
 Ohio’s laws should hold powerful interests accountable and ensure everyday people have real access to the courts.
 I will fight to reform or eliminate unfair tort caps, restore balance to our civil justice system, and put people over profits.
-Read More Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Read More Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

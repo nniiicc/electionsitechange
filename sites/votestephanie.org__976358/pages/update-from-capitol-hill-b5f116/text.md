@@ -26,4 +26,8 @@ These actions show our commitment to protecting this precious resource, ensuring
 Investing in Utah’s Future, Responsibly Thanks to key legislation from this past session, Utah’s public colleges and universities are planning to reinvest $60 million into high-demand programs like engineering, AI, biotech, and mental health — all without raising tuition or taxes.
 This is exactly the kind of smart, responsible use of taxpayer dollars we need: supporting education, preparing students for the jobs of tomorrow, and strengthening our economy.
 Fiscal responsibility means funding what matters most, and these investments show a clear commitment to Utah’s future.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 4 + 6 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 11 + 3 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

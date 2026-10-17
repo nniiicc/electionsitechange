@@ -1,15 +1,17 @@
 Skip navigation menu Home About Issues Volunteer Contact Election 2026 Donate Home About Issues Volunteer Contact Election 2026 Donate Our Campaign’s Top Issues * Many Minnesotans want to fix what makes daily life work; safer communities, fairness, and a Minnesota that’s easier and safer for everyone. * People emphasize stopping fraud, protecting places like the Boundary Waters, and improving our response to domestic and sexual violence so women and families feel safe. * Minnesotans also want more transparency from government, especially around non‑disclosure agreements, because they value integrity, honesty, and accountability.
 Make it easier to live Prevent fraud Strengthen education Protect the BWCA Encourage an Ownership Society Repair and Restore Minnesota Make Minnesota Safer Prevent Domestic and Sexual Violence Make Government more Transparent Keep Disabled Veterans, Seniors, and Families in Their Homes Get Big Money Out of Politics Work Collaboratively to Solve Problems Make it More Affordable to Buy a Home Pro-Life and Reproductive Freedom All Are Invited and All Are Welcome Make it easier to live The cost of groceries and gas have gone up making it harder for families to survive.
 Many people drive long distances to work and the increase in gas prices is putting pressure on their bank accounts.
-With the increase in house prices and renting and more of the costs to fund our schools placed on property owners and renters, rents and property taxes have increased significantly for most of our neighbors.
+With the increase in house prices and property and more of the costs to fund our schools placed on property owners, rents and property taxes have increased significantly for most of our neighbors.
 I will work hard to reduce property taxes and give renters and homeowners a tax break.
-Prevent fraud Fraud is wrong and I will write legislation to prevent it.
+Prevent fraud Fraud is wrong and I have the experience to prevent it.
 Fraud has been happening in Minnesota since 2013 with the first investigations of day care fraud.
 It's only recently received more attention, including national attention.
 Fraud is wrong and, based on the history of fraud, there are insufficient protections in place to prevent it.
-I've worked as a bank vice president and know how to prevent fraud.
-It's what we do.
-We need to hold those responsible for committing and covering up the fraud accountable.
+I've worked as a bank vice president for Wells Fargo.
+We had a fraud scandal and I helped improve risk and compliance to prevent fraud.
+I have real world experience and I know how to prevent fraud.
+It's what I did.
+We need an investigation and to hold those responsible for committing and covering up the fraud accountable.
 I'm working to bring integrity back to politics and stand up for what is right and against what is wrong!
 Fraud is wrong and we need to STOP it NOW!
 Strengthen education Education creates a better society for all.
@@ -17,9 +19,9 @@ I will work hard to strengthen education by fully funding K-12 education.
 I will also work to bring back shop and industrial arts classes into more high schools so students can evaluate whether they want to go work, start a business, go into the trades, attend a technical or community college, or a four year college or university.
 Every path is the right path for that person.
 I will work hard to provide affordable early child care and childhood exploration programs with high quality staff who are paid well with great benefits.
-Colleges and universities in Minnesota should not cost more than colleges and universities in Wisconsin.
+Colleges and universities in Minnesota should not cost more than colleges and universities in other states.
 I will work hard to make higher education in Minnesota more affordable for those who don't qualify for the North Star Promise program.
-Protect the BWCA The Boundary Waters and Voyageurs National Park are a Minnesota treasure.
+Protect the BWCA The pristine Boundary Waters and Voyageurs National Park are a Minnesota treasure.
 It's important that we do all we can to preserve the Minnesota Boundary Waters and Voyageurs National Park while at the same time ensuring the wealth from the mines are kept in the Arrowhead.
 Encourage an Ownership Society I will work to create a better Minnesota where more people own their own homes, more people run small family businesses, more farmers operate small family farms, more employees are working for employee-owned businesses, more people receive their electricity from electric cooperatives, and more farmers have the right to repair their own equipment and plant their own seeds.
 This will bring prosperity and people back to rural and Greater Minnesota.
@@ -74,9 +76,10 @@ I will leverage my background as a bank vice president to develop practical solu
 I will focus on first-time buyers, first-time move-up buyers, and people seeking to downsize.
 It is time to address the long-standing housing crisis with immediate, decisive leadership and action.
 Pro-Life and Reproductive Freedom Pro-Choice is Pro-Life.
-I am personally pro-life, but I deeply respect that every individual has a fundamental right to bodily autonomy and personal freedom.
+I am personally pro-life, but I deeply respect that every individual does not have the same faith as I do.
+They also have a fundamental right to bodily autonomy and personal freedom.
 Government interference in medical decisions undermines basic liberties.
-Truly supporting life means ensuring women have full access to comprehensive healthcare, affordable contraception, fertility treatments like IVF, and safe maternity care.
+Truly supporting life and reducing abortions means ensuring women have full access to comprehensive healthcare, affordable contraception, fertility treatments like IVF, and safe maternity care.
 My goal as a leader is to protect the doctor-patient relationship, empower families, and focus policy on expanding healthcare access rather than restricting personal freedoms.
 All Are Invited and All Are Welcome I believe that every single person has inherent dignity and worth, and in our community, all are invited and all are welcome.
 Supporting LGBTQIA+ rights isn't about politics, it's about basic fairness, safety, and equal opportunity under the law.

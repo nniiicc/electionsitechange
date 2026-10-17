@@ -1,9 +1,10 @@
 {
  "description": "Sue Rieke Smith is the Democratic Candidate for House District 26. She currently serves as the House Representative and champions community, inclusion and diversity and our basic rights (i.e. access to healthcare).",
  "final_url": "https://www.votesueriekesmith.com/",
- "fingerprint": "cf25f18c0ea1b33cb1d231eee8b67e0a984d310e",
+ "fingerprint": "1b970c887629d6ff1658ddb9ae750cf6f2555273",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Sue Rieke Smith for HD26",
  "years_mentioned": [
   "2011",
@@ -11,7 +12,6 @@
   "2019",
   "2022",
   "2024",
-  "2025",
-  "2026"
+  "2025"
  ]
 }

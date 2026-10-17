@@ -13,4 +13,6 @@ Burns More Galleries | Leave a comment Recent Tweets Tweets by sbpres Events Dec
 Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
 Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
 Write a Comment...
-Email (Required) Name (Required) Website Design a site like this with WordPress.com Get started
+Email (Required) Name (Required) Website Create your own website, free on WordPress.com.
+Create your own website.
+Start free

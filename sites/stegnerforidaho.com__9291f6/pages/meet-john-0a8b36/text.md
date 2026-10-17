@@ -1,13 +1,14 @@
-0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Meet John Stegner John Stegner is a lifelong Idahoan whose career has been defined by service, responsibility, and a commitment to doing what's right.
-Raised in Grangeville, John learned the value of hard work early.
-He spent his youth working in grain elevators and around the agricultural communities that helped shape his understanding of responsibility, perseverance, and service to others.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Who is John Stegner?
+John Stegner is a lifelong Idahoan whose career has been defined by service, responsibility, and a commitment to the Constitution.
+He is known throughout Idaho for his work pioneering drug and treatment courts during his 26 years as a judge - first as a District Judge in Moscow and then on the Idaho Supreme Court.
+Drug and treatment courts enable people to escape drug addiction and become contributing members of society, while simultaneously decreasing the costs of incarceration paid by taxpayers.
+Raised in Grangeville, John spent his youth working in grain elevators and around the agricultural communities that helped shape his understanding of responsibility, perseverance, and service to others.
 After graduating from Grangeville High School, John attended Whitman College before earning his law degree from the University of Idaho.
-While working his way through school and building a legal career in Lewiston, he developed a deep appreciation for the people and industries that keep Idaho moving.
-John went on to serve 21 years as a District Judge in Moscow before serving five years on the Idaho Supreme Court.
-During his career, he was a pioneer in the introduction of drug and treatment courts within the state of Idaho.
-These courts enable people to escape drug addiction and become contributing members of society, while simultaneously decreasing the costs of incarceration paid by taxpayers.
+He worked his way through school, married the love of his life, had three daughters, and began building a legal career in Lewiston.
+John then went on to serve 21 years as a District Judge in Moscow before serving five years on the Idaho Supreme Court.
 Throughout his judicial career, he earned a reputation for thoughtful decision-making, constitutional integrity, and the willingness to stand by his convictions.
-Today, John is running for Governor because he believes Idaho deserves leadership that remains accountable to the people it serves.
+Today, John R.
+Stegner is running for Governor because he believes Idaho deserves leadership that remains accountable to the people it serves.
 Rooted in Idaho John and his wife of 45 years, Laurie, have spent their lives building a family, serving their community, and investing in Idaho.
 While John served as a Judge, Laurie spent 35 years teaching in public schools.
 Like many Idaho families, they've watched loved ones pursue opportunities beyond Idaho.

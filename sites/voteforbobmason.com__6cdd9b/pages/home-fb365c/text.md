@@ -9,4 +9,4 @@ Please take a short survey here .
 If you live in District 21 I'd appreciate your support.
 Below is a map of the district.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

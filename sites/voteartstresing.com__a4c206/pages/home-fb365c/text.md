@@ -26,4 +26,4 @@ Art is running for the FL House of Representatives, District 18 as a Democrat be
 They have shown him that hard work and perseverance can lead to great things.
 He loves Saint Johns and he knows that many other families also face their own hardships and struggles.
 He is determined to do whatever it takes to make their lives better in Saint Johns.
-Early Election Voting - October 21, 2026 - October 31, 2026 General Election Voting - November 3, 2026 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Voter Information Endorsements Events Photos Paid for by Campaign for Art Stresing Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Endorsements Volunteer Events Voter Information Close Menu
+Early Election Voting - October 21, 2026 - October 31, 2026 General Election Voting - November 3, 2026 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Voter Information Endorsements Events Photos Paid for by Campaign for Art Stresing Powered by CampaignPartner.com Home Contribute Endorsements Volunteer Events Voter Information Close Menu

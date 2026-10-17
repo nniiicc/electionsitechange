@@ -60,6 +60,6 @@ It is unnecessary, as businesses with significant handicapped customers would ha
 It is a futile attempt by government to make life “fair”, while life is inherently unfair.
 And, on top of everything else, the ADA actually reduces employment of the people it is meant to help!
 I should note that this piece substantially overstates the strength of the effects it describes , and I do not fully agree with its conclusions.
-It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎ This has real costs to society . ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
+It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎ This has real costs to society . ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments James O'Brien on Debate invitation Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

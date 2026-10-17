@@ -29,4 +29,4 @@ This would have invalidated about 55 signatures.
 On December 5 th , Brandon’s city attorney filed a referendum with the courts to correct the notary dates that were in error.
 On December 10 th , the judge ruled that the dates could be corrected and that the petition sheets in question are valid.
 I would like to personally extend a big THANK YOU to the Brandon families who took time away from their jobs and kids to bring this issue to a public vote.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

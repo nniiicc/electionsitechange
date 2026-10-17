@@ -11,5 +11,5 @@ Please be aware that we are not responsible for the content or privacy practices
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
 Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
-Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
+Vick for governor Powered by CampaignPartner.com Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

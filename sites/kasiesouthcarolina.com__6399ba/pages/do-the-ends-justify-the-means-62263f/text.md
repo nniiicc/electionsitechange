@@ -77,7 +77,7 @@ So let’s do something about it.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
-8 Responses Forrest says: April 15, 2026 at 1:05 am In the libertarian party we believe in the right to bear arms and to defend ourselves; that to have liberty we must defend it from those that wish to take it. ‘Death to America’,‘suicide bombers’, attacks from proxies and persuing nuclear weapons, must you be destroyed before you defend yourself?
+10 Responses Forrest says: April 15, 2026 at 1:05 am In the libertarian party we believe in the right to bear arms and to defend ourselves; that to have liberty we must defend it from those that wish to take it. ‘Death to America’,‘suicide bombers’, attacks from proxies and persuing nuclear weapons, must you be destroyed before you defend yourself?
 Must you wait until the attacker pulls the trigger to resist?
 We must be sure of our motives.
 We must also insure we are safe to exist and enjoy our liberty.
@@ -147,6 +147,22 @@ But I will stand against interventionist military action.
 We cannot afford more war.
 Thanks again! -KW Forrest says: April 15, 2026 at 1:09 am I already see needs to edit but don’t know how.
 I hope my points are not lost in the details of writing.
+Reply Libby Kirkley says: October 12, 2026 at 2:39 pm Last night’s debate was a joke as usual, except when you got the opportunity to speak.
+What a shame that the moderators only allowed you to participate a few times!
+Shameful!
+As a lifelong Republican I am ashamed of where this party has gone and I feel America needs another option, but not the Democratic Party, as both of these groups have failed us!
+So you have my support and I hope you’ll try to get back on a debate so you can actually have a better chance to share your ideas and views!
+Thank you!
+Reply kasiesc says: October 16, 2026 at 5:39 pm Thanks, Libby.
+I really appreciate the support.
+The moderators stuck to the rules which were that each candidate gets a 1:00 response unless they want to rebut a direct attack.
+The rebuttal added :30 to their time.
+The others attacked one another directly to increase their time to speak and ignored me to reduce mine.
+It was a strategy that worked in volume but not in quality.
+We’re working uphill against a rigged system.
+In a plurality voting, three-way race like ours, every vote counts.
+Thanks for letting me earn yours.
+Let’s spread the word to others that theirs is valuable here and can help me win.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
 Donate | Join the Team | Issues Website development by Amit Dey

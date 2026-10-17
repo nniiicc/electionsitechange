@@ -1,4 +1,4 @@
-DONATE Privacy Policy Effective Date: 10/27/2025 1.
+PRESS & MEDIA DONATE Privacy Policy Effective Date: 10/27/2025 1.
 Information We Collect ‍ When you visit our website or communicate with us, we may collect: ‍ Personal Information you voluntarily provide, such as your name, email address, phone number, or mailing address (e.g., when you sign up for updates, make a donation, or fill out a contact form). ‍ Technical Information including your IP address, browser type, operating system, and browsing behavior through cookies and similar technologies. ‍ Donation Information processed through third-party payment platforms that may collect payment and billing details on our behalf in accordance with their own privacy policies. ‍ 2.
 How We Use Your Information ‍ We use the information we collect to: Communicate with you about campaign updates, events, volunteer opportunities, and issues we believe may interest you.
 Process donations and comply with campaign finance laws.

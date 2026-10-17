@@ -12,4 +12,4 @@ Vernon at the ReStore/Habitat for Humanity meeting room This event is free and o
 If you are unable to attend but would like to submit a question or share your thoughts, please email info@ScottGrundForOhio.com We look forward to a productive, community-driven conversation.
 More info › Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

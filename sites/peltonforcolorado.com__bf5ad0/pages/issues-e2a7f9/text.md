@@ -99,4 +99,4 @@ Technology combined with growing demand makes it possible for us to grow our ene
 And, it’s a form of energy that an increasing number of those customers are asking Xcel to deliver.
 I look forward to seeing what projects are chosen by Xcel for the final approval process by the PUC, and I look forward to the opportunities those projects provide rural Colorado.
 FIND A BILL WATCH & LISTEN VOTING INFO PUBLIC TESTIMONY CONTRIBUTE Get Updates Thank you for signing up!
-Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com Home About Rod Committees News Issues Contribute Close Menu

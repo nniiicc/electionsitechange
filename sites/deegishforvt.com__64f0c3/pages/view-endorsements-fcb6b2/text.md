@@ -28,4 +28,4 @@ Dee is intelligent, thoughtful and proactive and committed to the betterment of 
 Her history of volunteerism in our area is truly exceptional.
 I couldn’t imagine a more dedicated representative.
 Michael Livingston Sharon resident Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com - Political Websites Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu
+Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu

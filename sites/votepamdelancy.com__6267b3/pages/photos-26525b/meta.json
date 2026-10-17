@@ -1,9 +1,10 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.votepamdelancy.com/photos",
- "fingerprint": "71e86b59b0871d133db595bea60108a88be4c8c8",
+ "fingerprint": "6a71ba7d452d6fb9039091d5d31c66ecb04a4486",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Pamela DeLancy for Congress",
+ "rendered": false,
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

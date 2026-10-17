@@ -58,4 +58,4 @@ When workers earn fair wages, local businesses gain customers, employers see low
 Working people helped build Indiana.
 They deserve leaders who will protect their opportunity to succeed.
 Hard work should still provide a path to buying a home, raising a family, and retiring with dignity.
-Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

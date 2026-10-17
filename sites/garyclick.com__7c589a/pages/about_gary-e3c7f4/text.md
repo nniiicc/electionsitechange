@@ -49,4 +49,4 @@ After prayer and council from friends, family and community leaders Gary felt li
 He advised the Governor's administration of his choice and announced on August 15 that he would be running to serve as the next Representative for Ohio's 88th house district.
 VOLUNTEER CONTRIBUTE VOTING INFO ENDORSE GARY Privacy Policy Get Updates Thank you for signing up!
 News Local officials oppose landfill expansion Click Responds to ACLU HB68 Lawsuit News Ohio Senate overrides Gov.
-DeWine’s veto of trans athlete, healthcare bill House Overrides Governor Veto of House Bill 68 Click Releases Statement Following DeWine Executive Order The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+DeWine’s veto of trans athlete, healthcare bill House Overrides Governor Veto of House Bill 68 Click Releases Statement Following DeWine Executive Order The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

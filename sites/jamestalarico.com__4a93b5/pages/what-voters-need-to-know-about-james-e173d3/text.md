@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute WHAT VOTERS NEED TO KNOW ABOUT JAMES Updated: October 13th Texas voters statewide and of all ages need to see and hear the following messages on all digital and streaming platforms, as well as terrestrial radio and streaming audio.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute WHAT VOTERS NEED TO KNOW ABOUT JAMES Updated: October 13th Texas voters statewide and of all ages need to see and hear the following messages on all digital and streaming platforms, as well as terrestrial radio and streaming audio.
 Voters should see and hear directly from the candidates and from ordinary Texans.
 Only after voters have heard these messages on those platforms should linear broadcast and cable be considered.
 OVERVIEW Ken Paxton is the most corrupt politician in Texas.

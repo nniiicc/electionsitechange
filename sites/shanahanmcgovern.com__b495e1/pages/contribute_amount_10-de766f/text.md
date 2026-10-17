@@ -9,4 +9,4 @@ Complete your $ 10 contribution: Select Your Information Choose an amount: $10 $
 I would like to help with office duties.
 Help coordinate - campaign signs I would like to purchase a ticket Add $ 0.00 to help cover PayPal processing fees?
 Add $ 0.00 to help cover card processing fees?
-Submit Contribution Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu
+Submit Contribution Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

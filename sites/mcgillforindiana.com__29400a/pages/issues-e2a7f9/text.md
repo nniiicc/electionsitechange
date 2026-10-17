@@ -51,4 +51,4 @@ Government should respect personal privacy, protect religious freedom, and stay 
 Serving people means finding common ground and making sure every Hoosier can live safely, work hard, and take part fully in our communities.
 A fair and inclusive community requires practical solutions that support everyday needs rather than partisan fights.
 Progress happens when leaders work across party lines to solve issues, so everyone has a genuine chance to succeed.
-Read More Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu
+Read More Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

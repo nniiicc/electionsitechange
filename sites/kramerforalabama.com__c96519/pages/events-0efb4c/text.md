@@ -1,3 +1,3 @@
 Meet Katie Issues Volunteer Contribute Events More events coming soon!
-#ago This Week This Month ‹ Previous Fri Oct 16 2026 - Sat Oct 16 2027 Next › No events in this range Try a different date range, or check back soon for new events.
-Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+#ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -89,7 +89,7 @@ Shira Sternberg Benson Annaleigh DeBoover Warehouse Supervisor Amanda Janoo brin
 Her work reflects a strong commitment to community‑driven development, and she helps localities build systems that are more adaptive, equitable, and future‑focused.
 With her experience, I trust that she will use data to guide her decisions, and I hope that she will support agricultural communities and manufacturing growth in Vermont.
 We need someone with a different perspective and background who can challenge the status quo within Vermont government.
-Berlin Larry Novins Retired attorney her refreshing, realistic approach to the challenges our state faces.
+Berkshire Jayy Covert Margo Sherwood Realtor and Antique dealer Very impressed by her visit and messages at Enosburg s opera house meeting a few weeks ago Berlin Larry Novins Retired attorney her refreshing, realistic approach to the challenges our state faces.
 Suzanne Richman Life long educator and community chaplain.
 She is a pragmatic visionary and systems thinker willing to tackle long standing, unmet needs of Vermonters.
 She will push hard for accessible and free primary healthcare for all.
@@ -353,7 +353,8 @@ It is clear that our economic system & politics as usual is not working.
 Partisan blaming is not helping & our problems are quickly compounding.
 Amanda Janoo is determined to preserve our VT way of life through collaboration, from town meeting up: Policy support for small business, sole proprietors, Mom-and-Pop shops, family farms, land stewards, sustainability pioneers, working folks (who actually live here) & the rural Independent Vermonters like me who simply want the freedom to work hard, live our own way, & have enough to live a peaceful dignified life on our own land.
 Please join me August 11th to Vote #AmandaJanoo In the primary.
-Calais Sophia Emigh Artist She’s fighting for causes that will support Vermonters in thriving here, not policies that will drive people out of the state due to unaffordable homes and healthcare and failing schools.
+R.D.
+ENO Writer Her policy positions address the best interests of my town and of the state Calais Sophia Emigh Artist She’s fighting for causes that will support Vermonters in thriving here, not policies that will drive people out of the state due to unaffordable homes and healthcare and failing schools.
 With Amanda’s leadership I see Vermont becoming a model for community resilience.
 Without it I see us become a ghost state inhabited only by wealthy second home owners with no kids in sight.
 Sarah Gallagher Retired social worker I agree with her vision for Vermont.
@@ -437,6 +438,8 @@ Vermont needs a more sustainable, equitable approach to wealth distribution, sou
 Jennifer Richard Tika Timsina Tax and investment planing with trust n real estate creations for younger generations She is economist n woman and most suited candidate .
 Vermont is thirsty for her n we need to put this in the thick head short cut .
 We don’t have time .
+Concord Danielle Cote Sukkaew Accounting It’s time to do something different.
+Amanda has the right ideas for our state regarding health care, schools and housing.
 Corinth Dani Grover Farmer Because we need a progressive shift in vermont Cornwall Michael Palmer Mary Richards educator authentic. competent, speaks out against fascism & building state coalitions to push back against the regime Craftsbury Alan Turnbull Retired, US National Park Service I like Amanda's way of asking "what kind of growth do Vermonters want?" and then working together toward that kind of growth.
 We need our state to invest in ways that support the well-being of all Vermonters and our communities.
 Danby Eric Hangen nonprofit I've voted for Phil Scott in the past but am changing my vote this election.
@@ -571,6 +574,8 @@ Since they're both popular, they could be a powerful team, so I hope they'll wor
 Fletcher Hannah Doyle Farmer I believe in leaning into what we love about Vermont, and I like Amanda’s passion for building a movement that celebrates and protects our small town communities, our working landscape, and our resilience.
 The political landscape is sometimes pretty horrifying right now and so many people feel hopeless, but Amanda seems to have experience and pragmatic, real solutions.
 She listens to and respects Vermonters.
+Franklin Nilah Cote Retired I like her fresh new ideas and willingness to listen to Vermonters.
+Plus her background in economics.
 Georgia Lynn G.
 Knight Retired USDA Economist/Climate Hub National Program Lead Amanda thinks about the big picture.
 When there’s a problem, she looks at several ways to fix it.
@@ -588,6 +593,8 @@ Greensboro Jed Feffer Retired teacher I feel her platform is essential.
 Rosann Hickey Retired She seems most interested in and capable of making the real changes we need to rescue our state & country.
 We need new people and new ideas Naomi Ranz-Schleifer Media producer, public health and community development consultant Amanda has a vision for a future of Vermont that builds toward a quality of life for current AND future generations.
 I appreciate her proactive and progressive perspectives of the many ways our government could work better on behalf of the people AND our environment and hope we see more of that in our politics!
+Groton Deborah Jurist Retired Because she has the knowledge we need in Vermont.
+It’s time to stop accepting decline.
 Guildhall Edward Clark And Laura Wilson we are both former trade unionists We like how she wants to increase taxes on the wealthy and understands how hard it is for most Vermonters to get by these days.
 Guilford Nancy Braus Retired I have not felt this excited about a candidate since I volunteered for Bernie's first congressional campaign in 1990.
 It's exciting to be able to work for someone who I respect and who truly listens to Vermonters everywhere she goes.
@@ -672,7 +679,7 @@ Abby Schaible Jericho Marina Black Tj Charter Barista I believe in and support h
 Caleigh Larrabee Property Damage Restoration Technician She cares about the issues that are very important to me and the people around me.
 Lauren Montgomery-Rinehart Monitoring, Evaluation and Learning (MEL) I like her ideas.
 We need fresh blood.
-Brian J Walsh Age Well volunteer - Meals on Wheels Amanda has the ability to defeat Phil Scott and beging bringing real, positive change to Vermont.
+Lance Polya Retired UVMM instructor Her platform so resonates with my values Brian J Walsh Age Well volunteer - Meals on Wheels Amanda has the ability to defeat Phil Scott and beging bringing real, positive change to Vermont.
 Johnson Kyle Ellen Nuse Development Director at River Arts I am endorsing Amanda, because Vermont needs a leader who represents the people and advocates for their needs.
 Her priorities are our priorities: Free primary care, affordable housing, and transforming the economy to better serve everyday Vermonters.
 I also endorse Amanda because she isn't afraid to unapologetically call out fascism and stand up for humanity and democracy.
@@ -810,7 +817,16 @@ Our schools are everything in our small towns, and I'm ready to help Amanda redi
 Caitlin MacLeod-Bluver English and History teacher, Winooski High School, 2025 Vermont State Teacher of the Year I am a teacher at Winooski HS.
 I know Amanda will fight for my students: she will fight to keep them safe from ICE, she will fight for access to a fully funded education for them, for affordable housing, for healthcare access.
 What is good for my students is good for all of us!
-Mark Montalban Morristown Joseph Kaszas retired I like what she has to say about governing New Haven Katherine Cahill Clinical laboratory scientist I heard Amanda speak tonight in Bristol and am inspired to help her win the Democratic primary. (and the race for governor) I am dissatisfied with Gov.
+Mark Montalban Morristown Joseph Kaszas retired I like what she has to say about governing Mount Holly Chad Farrar An independent builder, slojder, and wood carver.
+I do anything that creates a home: carpentry, excavation, plumbing, electrical, etc.
+I’m a resourceful Vermonter.
+Amanda gets it.
+There is a drive and a passion for understanding what’s most important to Vermonters—that is, a connection to the place that’s your home and the people in it.
+When I met Amanda, I could tell she had a genuine interest; it’s refreshing to speak to someone who is actually listening.
+Jen LeFebre Community health worker and birth doula with Bridges to Health I’m so impressed by all I’ll heard from and read about our next governor, Amanda Janoo.
+Her Vermont upbringing and international experience as an economist lend her a balanced vantage point that we need at this time.
+I love how Vermont has been at the leading edge in this country on many progressive issues, and I believe Amanda Janoo is uniquely prepared to help us continue moving forward in meaningful and transformative ways.
+New Haven Katherine Cahill Clinical laboratory scientist I heard Amanda speak tonight in Bristol and am inspired to help her win the Democratic primary. (and the race for governor) I am dissatisfied with Gov.
 Scott's vetoes of bipartisan supported bills.
 Out with Governor NO and in with Janoo!
 Genevieve Spellman Farmer I see a better future for all Vermonters with Amanda as our governor.
@@ -818,6 +834,8 @@ Betsy Taylor consultant Amanda brings a deep understanding of our inter-connecte
 I am impressed by her deep knowledge, experience, and commitment to an economy that can work for all.
 I appreciate her deep dedication to our migrant farmworker and construction industry neighbors and to the need for a sensible immigration policy.
 Newark Bill Coleman Counselor Amanda speaks more precisely to issues of wealth inequality and the need to stand firmly in opposition to the Trump MAGA vitriol that is built from lies piled upon lies.
+James Newell Retired Time for change.
+Given the challenges facing Vermont and the nation, we young, progressive leadership to lead us forward to a better State and Country.
 Newbury Catherine Kidder School librarian/teacher (ret.) Amanda is my dream governor for Vermont.
 Her experience in implementing bottom-up economic strategies to better benefit people, business, and the environment builds cohesion, hope, and resilience to what's to come.
 Newfane Daniel Jay DeWalt Musician/woodworker/activist Because she is addressing the real issues that matter in a a way that actually makes sense .
@@ -936,11 +954,12 @@ I strongly support her work to build Vermont’s wellbeing economy and commend h
 I look forward to seeing and hearing more about her creative and practical visions for our future.
 Dr.
 Laura Professor, Nonprofit Leader Wellbeing Economy Antonio Reyes Student I am endorsing Amanda because her grassroots campaign can prove that the power of our democracy is in the hands of the many, and not the few.
+Larry Satcowitz State Representative We need a governor who believes in government!!!
 Randolph Center Mark Kelley Retired I believe a wellness economy is the best direction for Vermont and the world.
 Readsboro Mary Oberly Retired Amanda believes in people power.
 We need to change the system that doesn't work for all.
 Amanda will lead us in making this change.
-Richford Jayy Covert Richmond Bruce Hennessey Farmer I believe that her solutions to housing, healthcare, climate change and financial equity are the key to a better future for Vermonters!
+Richmond Bruce Hennessey Farmer I believe that her solutions to housing, healthcare, climate change and financial equity are the key to a better future for Vermonters!
 Tom Lyle energy analyst for an electric utility We need new ideas, new leadership... and your connection with the Wellbeing Economy Alliance gives me hope we can get Vermont back on track to a brighter future.
 Mairead O’Reilly Attorney/Mom Her perspective on Vermont’s future is courageous and common sense.
 We need a governor who is focused on helping all Vermonters attain a dignified standard of living.
@@ -962,7 +981,9 @@ Nothing is getting better under Scott's leadership.
 Susan Kersavage Erin Knight Maggie Rice Richard Smith Internet Activist As a digital rights activist, and after meeting Amanda during Pride Fest 2026, I feel that Amanda is the right move for Vermont.
 I feel she has the potential to free vermont from the clutches of Private Equity, and big AI corporations poisoning our communities.
 If we are gonna remain the land of the free, We need someone who refuses to sell out.
-And if anyone can do it, its Vermont Salisbury Julie Conason Shaftsbury MaryJane Sarvis Designer/artist Amanda’s plans and presence at a recent meeting in Bennington totally impressed me.
+And if anyone can do it, its Vermont Ryegate Gail Brown Retired Because I feel Governor Scott is not in touch with the people like he used to be.
+He was too hardcore with his insistence about the school districts… Stephen Davie school custodian I'm hoping she can help implement a sane healthcare initiative Donna Waelter Retired It's time for a change and Amanda has the policies and the energy we need now in Vermont.
+Salisbury Julie Conason Shaftsbury MaryJane Sarvis Designer/artist Amanda’s plans and presence at a recent meeting in Bennington totally impressed me.
 She totally understands the huge economic disparities in Vermont and has concrete plans on addressing them.
 I’m impressed with her education and intelligence.
 Talk about a breath of fresh Vermont air!
@@ -1003,6 +1024,9 @@ South Hero Charlie Tipper Contractor New Systems Thinking and Action!
 Margaret Tipper N/A Because she’s what right for Vermont South Royalton Francine Miller attorney and movement builder Amanda has a good grasp on what's important in this perilous moment Barbara Smith Retired teacher Best candidate South Strafford Thomas J Diamond Retired Local, remember her as she was growing up.
 Great respect for her and her family.
 Megan Gray social worker, writer/editor, musician, mom Hometown woman with global experience, econ experience, right to health care James Mannix Excavation contractor Healthcare for all, tax on out of staters Catherine Purdie filmmaker Healthcare, housing, education Charlotte Boggs Reimanis Springfield CHUCK GREGORY Rio Mueller Self employed carpenter We need someone who understands economics and how that can serve all the people of our state not just the wealthy.
+Charlotte Osterlund Retired teacher, former waitress and bartender.
+Amanda has an impressive resume.
+She is fearless and is not afraid to say no to money from PACs and corporations.
 St.
 Albans City Jen Williamson Primary Care Physician, Small buisiness owner I am incredibly excited about Amanda Janoo's campaign for Governor of Vermont.
 Not only is she extremely qualified for the job with her international experience in economics, but she also has the compassion of a Vermonter to make sure that decisions are made to benefit all of us.
@@ -1039,7 +1063,15 @@ Exhausted by Phil Scott's crisis-management bias -- however competent, at least 
 I want a better future.
 Eric Hutchins Teacher Education, Healthcare, Housing, Affordability Albert Janschewitz Retiired With the world as a possible playing field Amanda has chosen to nurture her home turf.
 We are very fortunate.
-Carl Johnson Leia Scofield Starksboro Adam Aguirre Lawyer I'm excited to support a candidate who has a vision for Vermont--who believes in the equal dignity of all Vermonters, who wants to fight to protect the environment we all love so much, and who wants to build a broad coalition of love and kindness to counter divisiveness and the desire of some ultra wealthy interests to control what happens in our country.
+Carl Johnson Jacqueline Posley Communications When I think about the eight years I’ve spent in Vermont, I consider all of the factors that have made my life simultaneously beautiful and difficult.
+On the top of that list are the environment, housing, and racial relations.
+Progress in each of those areas has been hindered by our current Governor for the entirety of my eight years.
+I am yearning for something SO different and SO brand new.
+That’s why I’m Janoo through and through.
+May the best woman win.
+Leia Scofield Stannard Chip Troiano Retired Any time I have met, spent some time with, or just heard her speak I have been very impressed.
+We need some fresh thinking in the Govs office not the same old blame the Legislator from Gov Scott.
+Starksboro Adam Aguirre Lawyer I'm excited to support a candidate who has a vision for Vermont--who believes in the equal dignity of all Vermonters, who wants to fight to protect the environment we all love so much, and who wants to build a broad coalition of love and kindness to counter divisiveness and the desire of some ultra wealthy interests to control what happens in our country.
 Jayson Benoit Forester overall message, common sense, positivity Mike Block Leah Hamilton Sherry Pachman Teacher Amanda Janoo is of the people, by the people and for the people.
 She is a back-to-basics, no-frills, intelligent, honest, humble,, hard-working, and community-oriented economist with humane values and grounded ideas.
 She has deep roots in VT and in working with Vermont communities and organizations,.
@@ -1084,7 +1116,10 @@ Maureen Burford I directed a nonprofit called creative lives.
 At the deepest level, I believe most of us want the same thing: a government, an education system, and an economy that serve the well-being of people and the planet.
 Dana Grossman Editor Because Phil Scott has had more than a reasonable chance, and he's blown it.
 In addition, although I've voted for many Republicans in the past, in the current climate I wouldn't vote for ANY member of the GOP, even one who professes to be anti-Trump.
-Duncan Nichols lic clinical social worker We need radical, local, and loving change; like her economic agenda Thetford Center Bridget Cushman Lauren Everett Sophia Williams Topsham Julia Anderson retired teacher, farmer i have the same vision for Vermont that Amanda has Tunbridge Miriam Briggs Retail Sales I work for billion $$ corp. in VT and don't earn a livable wage Sylvie Desautels Self Employed Landscape Gardner I believe Amanda is looking at the systemic issues that face Vermonters as opposed to piecemeal patch up jobs that keep kicking real solutions down the road.
+Duncan Nichols lic clinical social worker We need radical, local, and loving change; like her economic agenda Thetford Center Bridget Cushman Lauren Everett Sophia Williams Topsham Julia Anderson retired teacher, farmer i have the same vision for Vermont that Amanda has Troy Gaston P.
+Bathalon Retired Military Amanda is the right person to lead the State through these challenging times.
+Her vision for education transformation is needed to push back against years of Scott's failed education policies.
+Tunbridge Miriam Briggs Retail Sales I work for billion $$ corp. in VT and don't earn a livable wage Sylvie Desautels Self Employed Landscape Gardner I believe Amanda is looking at the systemic issues that face Vermonters as opposed to piecemeal patch up jobs that keep kicking real solutions down the road.
 She is looking to make real change that will be long lasting and sustainable.
 Evan Reiss farmer/wood worker I am endorsing Amanda because I see here passion and energy to really listen to and engage with the people of our state and find ways to really help our state government work for everyone more effectively.
 Her reference to 'managed decline' feels accurate for what we have now with Phil Scott.
@@ -1100,7 +1135,10 @@ Amanda Janoo is what Vermont needs right now.
 Michael Kane Alexis Lowenstein Psychotherapist She represents me and what I want for my life and for all Vermonters Nicole Veilleux Strategic Communications & Outreach Director I’m endorsing Amanda because I appreciate her focus on building a Vermont where people can thrive, with practical attention to affordability, strong communities, education, and economic opportunity.
 I’m especially drawn to her willingness to listen, bring people together, and approach complex challenges with both curiosity and care.
 I believe Vermont benefits from leaders who are thoughtful, collaborative, and willing to do the hard work of building a better future.
-Grace Williams Vershire Seann Patrick Cram Freelance catering chef and photographer.
+Grace Williams Vernon Ian Hefele Admissions in Education.
+I'm endorsing Amanda for the way she views an economy and how she strives to put the needs of Vermonters first.
+She's the Bernie-esque politician that we need to shake off the doldrums of the Scott years.
+Vershire Seann Patrick Cram Freelance catering chef and photographer.
 The leadership of Phil Scott has been a failure and I think the Republican Party is so corrupted no good person can really be part of an organization led by someone like Trump.
 I’m very excited to support someone like Amanda who seems to have a clear vision instead of priorities for a Better future for Vermont.
 Her priorities and energy and clear communication is what I think we need.
@@ -1151,7 +1189,9 @@ I am so excited to cast my vote for a gubernatorial candidate who isn't at all i
 West Fairlee Cleo Kearns Writer teacher Leadership leadership leadership!!
 We need assertive, visonary, and driven leaders who wil get us off the dime!!!!
 West Glover Anastasia Scollon West Rupert Katy Sparks West Rutland Elaina Marie James Cashier at Domino's Because she is Progressive and she stands for things I support.
-West Topsham Mary Alice Osborne Librarian I want universal healthcare for all vermonters West Townshend Carly Stugart Westford Nancy Patch Retired Forester, active Conservationist I believe we need new and bold ideas for Vermont to care for all Vermonters and to protect our land and waters.
+West Topsham Mary Alice Osborne Librarian I want universal healthcare for all vermonters West Townshend Carly Stugart West Windsor Elizabeth Burrows Legislator The chance to have Amanda lead our state is a true opportunity for Vermont to head in a positive direction.
+We should not blow this chance.
+Westford Nancy Patch Retired Forester, active Conservationist I believe we need new and bold ideas for Vermont to care for all Vermonters and to protect our land and waters.
 Madison Smith Child & Adolescent Psychologist In the 5 years that I have lived in Vermont, my property taxes have gone up 40%.
 The healthcare system is in seriously bad shape; to get into a provider takes months, and more and more clinics/providers are no longer accepting insurance.
 The federal government is using health insurance as a way to target human rights.
@@ -1165,6 +1205,7 @@ Weybridge Fran and Spencer Putnam Retired (both) We believe in the values that A
 Wheelock Michael Reddy Construction/Contractor Amanda's values are far more in harmony with mine than Phil Scott's.
 Cutting taxes might help the rich, but it doesn't help the poor--especially when coupled with cuts to social services.
 White River Junction Rachel Burcham James Coleman Krystal Badillo Regan Whiting Daniel Brett Home Inspector/Builder Because I believe she is the best fit for the challenges facing our state and has a depth of knowledge and experience that is exactly what we need to achieve a better future.
+Carolyn Schmidt Program Director; retired public school teacher She's providing a clear vision and road map to how we can make Vermont work for all who live here - strengthen the safety nets, respect individual differences, and shifting tax burdens away from those who have the least, and toward those who have the most.
 Susan Vigne teacher I love her vision for community.
 I love that she is grounded in Vermont values, and trained as an economist.
 She is both idealistic and pragmatic, and has ideas that resonate with my values.

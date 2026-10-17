@@ -40,5 +40,5 @@ Turner is a 24-year practicing attorney, which includes being a former Texas leg
 She is an advocate and community leader with a deep commitment to the residents of Texas House District 96.
 She has built her career on ensuring justice for marginalized individuals and more recently, training the next generation of legal advocates through the internship program she founded.
 Turner lives in Mansfield, Texas, with her family, including her son, Isaiah, who has Down Syndrome, and who she considers to be her inspiration for seeking this position.
-Contribute Volunteer Endorsements Yard Signs Events Contact Privacy Policy Paid for By Ebony Turner For House District 96 Campaign / Akilah Curtis, Treasurer Powered by CampaignPartner.com - Political Websites Press Releases/Statements Home Meet Ebony P.E.R.S.O.N.A.L.
+Contribute Volunteer Endorsements Yard Signs Events Contact Privacy Policy Paid for By Ebony Turner For House District 96 Campaign / Akilah Curtis, Treasurer Powered by CampaignPartner.com Press Releases/Statements Home Meet Ebony P.E.R.S.O.N.A.L.
 Issues Contribute Volunteer Yard Signs Events Endorsements Contact Privacy Policy Close Menu

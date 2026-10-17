@@ -5,5 +5,5 @@ He is ready to work across the aisle to guarantee farmers not only have a seat a
 This is why the Minnesota Farmers Union Political Action Committee (MFU PAC) is pleased to endorse his candidacy for Senate District 24,” said Gary Wertish, Chair of the Minnesota Farmers Union.
 “I am proud to have earned the endorsement of the Minnesota Farmer’s Union PAC.
 A hard day’s work should earn you a fair day’s pay and a good livelihood, and ou r farmers are some of the hardest workers among us,” said Simon Glaser.
-“As a legislator, I will take my role seriously in ensuring they are valued as such.” Return to Press Releases Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+“As a legislator, I will take my role seriously in ensuring they are valued as such.” Return to Press Releases Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

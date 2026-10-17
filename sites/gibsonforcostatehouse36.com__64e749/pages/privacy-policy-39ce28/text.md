@@ -9,4 +9,4 @@ This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
-Home Meet Andrew Do Less Issues Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Andrew Gibson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Do Less Endorsements Events Privacy Policy Volunteer Yard Signs Contact Voter Information Close Menu
+Home Meet Andrew Do Less Issues Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Andrew Gibson Powered by CampaignPartner.com Home Meet Andrew Issues Do Less Endorsements Events Privacy Policy Volunteer Yard Signs Contact Voter Information Close Menu

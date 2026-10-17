@@ -1,9 +1,10 @@
 {
  "description": "Read campaign news, press releases, and coverage from Frank Russo's independent run for Florida Governor, including policy plans, debates, and updates.",
  "final_url": "https://russo2026.com/news/",
- "fingerprint": "82087467ab570ddbe011fbb16ea35ea949d89102",
+ "fingerprint": "3b2ad8c52dd6e5fc53ae9fe04730af323fb9b10f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Campaign News & Press | Russo-Rodriguez 2026",
  "years_mentioned": [
   "2026"

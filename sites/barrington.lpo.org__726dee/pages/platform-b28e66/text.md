@@ -81,6 +81,8 @@ If large numbers of people are harmed by a company’s actions, they can and sho
 This mechanism, not fully developed or common in the 19th century, would have been adequate to prevent most of the abuses associated with 19th-century capitalism.
 This approach can be generalized to a wide range of economic activities currently restrained by DC regulations.
 Rules which fail cost-benefit analysis could be set aside at once, instead of waiting for slow bureaucratic action or the resolution of political brinkmanship in Congress.
+There would no longer be fines and enforcement actions being applied to technical violations of rules which have no real-world impact on safety; this adds costs for consumers and creates barriers to entry for small businesses which lack knowledge of the rules and budgets for lawyers who ensure compliance.
+Instead of bureaucracies of unaccountable government workers, enforcement would come from insurance company inspectors and adjusters whose employers have every incentive to be efficient, to address only real problems, and to penalize safety failures in the optimal amount.
 Federal Bureaucracies to Cut or Eliminate All of these organizations take your money at gunpoint and waste it.
 With their functions to be transferred either to other parts of the executive branch, or back to the states and people where they belong, the following federal agencies should be eliminated: Housing and Urban Development : This is properly the responsibility of state and local governments.
 This department’s programs make the housing market inefficient at taxpayer expense, and are notorious for subsidizing crime and disorder.
@@ -277,6 +279,6 @@ This would, in principle, allow them to be revived or uploaded when future techn
 This would happen because rich people invest some of their earnings while poorer families have to spend what they make.
 The dividend, as a flat payment, prevents this: the rich and poor get the same amount, so the rich end up paying more because they consume more.
 Flying a private jet causes much more emissions per person than flying coach or not at all, so a private jet user ends up paying more carbon tax, and so on. ↩︎ The limits are necessary to prevent abuses contrary to the purpose of the policy.
-The infertile can still benefit from the two-adoptee policy, which will also lead to fewer kids bouncing around foster care systems and more in stable, caring homes. ↩︎ See Table 7 in source, category 5-14. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
+The infertile can still benefit from the two-adoptee policy, which will also lead to fewer kids bouncing around foster care systems and more in stable, caring homes. ↩︎ See Table 7 in source, category 5-14. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments James O'Brien on Debate invitation Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

@@ -3,4 +3,4 @@ These included Manuel's motivation to run for office, taxes, teacher salaries, e
 Manuel was also thankful for questions from the Brandon Valley Journal.
 These included important issues of concern in District 2, legislation Manuel would prioritize, data centers, and paving the road to Burkman Elementary School.
 Readers will need a digital subscription to the BV Journal to read these answers .
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

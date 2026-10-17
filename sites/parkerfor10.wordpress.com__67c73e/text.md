@@ -30,4 +30,6 @@ Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
-Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Create your own website, free on WordPress.com.
+Create your own website.
+Start free

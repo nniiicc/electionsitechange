@@ -6,7 +6,7 @@ By thinking about the mechanisms of affordabili… See upcoming events Bert Mizu
 Senate A proven leader protecting Virginia's values and securing America's future.
 See Where I Stand Join the Campaign Fighting for Virginia Decades of service.
 A clear vision for Virginia families.
-Conservative Vision A clear conservative vision for lower taxes, limited government, and individual liberty.
+Virginia Values Committed to the principles that make Virginia strong: faith, family, and freedom.
 Learn More About Bert Featured Media Latest videos and podcast appearances from the campaign trail.
 Reid Revolution Full interview on the Reid Revolution podcast.
 Michael Tran Conversation with Michael Tran.

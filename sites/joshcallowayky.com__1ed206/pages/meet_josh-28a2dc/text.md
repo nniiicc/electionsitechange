@@ -8,4 +8,4 @@ Beyond the Capitol, Josh is deeply rooted in his community.
 He serves as a preacher, volunteer jail chaplain, music director, and pianist at Pleasant View Baptist Church.
 He also leads Hope Through Truth Ministries and the Hope Academy, a transitional living home for at-risk men.
 Josh and his wife Angela live in Irvington, KY, where they raised their five children and are blessed with five grandchildren.
-Contact Josh Calloway for State Representative Powered by CampaignPartner.com - Political Campaign Websites Home Meet Josh Contribute Volunteer Contact Close Menu
+Contact Josh Calloway for State Representative Powered by CampaignPartner.com Home Meet Josh Contribute Volunteer Contact Close Menu

@@ -5,4 +5,5 @@ Who is Sam Martin?
 Support the Campaign Join The Sanity Campaign No Widgets found in the Sidebar Alt!
 Join The Sanity Campaign If your interests include: Nextcloud administration OSINT, particularly media Writing or calling voters Local activities please contact us!
 Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. or Comment Email Name * First Last Email * Comment or Message Submit Ashe Theme by WP Royal .
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Comment Name Email Email * Comment or Message Submit Ashe Theme by WP Royal .

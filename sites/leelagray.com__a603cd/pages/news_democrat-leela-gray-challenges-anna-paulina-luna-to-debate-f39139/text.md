@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Sep 8 2026 PRESS RELEASE Democrat Leela Gray Challenges Anna Paulina Luna to Debate For Immediate Release Date: September 8, 2026 Contact: press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Sep 8 2026 PRESS RELEASE Democrat Leela Gray Challenges Anna Paulina Luna to Debate For Immediate Release Date: September 8, 2026 Contact: press@leelagray.com St.
 Petersburg, FL — With just 56 days before the election, Democratic nominee Leela Gray is challenging Anna Paulina Luna to a general election debate in Florida’s 13th Congressional District.
 “Luna represents everything that is wrong with Washington—voting to gut our healthcare and raise our costs, while benefiting herself and her donors in the process,” said Gray .
 “Voters deserve to hear where we both stand on the issues that matter most to this district.

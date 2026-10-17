@@ -34,4 +34,4 @@ Long Island is our home.
 Don't become a statistic.
 Join the fight to save our state!
 Get Involved Volunteer or Request a Lawn Sign!
-Stay Connected Facebook Instagram Follow on Instagram #ago 14 6 #ago 13 0 #ago 7 0 #ago 21 0 #ago 5 0 #ago 17 2 Meet Doug Priorities #WithSmith Volunteer RSVP Donate
+Stay Connected Facebook Instagram Follow on Instagram #ago 14 6 #ago 14 0 #ago 7 0 #ago 21 0 #ago 5 0 #ago 17 2 Meet Doug Priorities #WithSmith Volunteer RSVP Donate

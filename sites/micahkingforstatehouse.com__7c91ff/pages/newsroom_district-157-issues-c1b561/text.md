@@ -64,6 +64,13 @@ The issues facing District 157 are not simple.
 But they are solvable, if we elect someone who is willing to do the hard work, tell the truth, and put our community first.
 Give me the chance to do it.
 Explore more of Micah’s positions on agricultural policy , the cost of living , Smith State Prison and emergency services , and what legislators can actually accomplish .
+THE FIELD REPORT • PUBLIC SAFETY & ACCOUNTABILITY Follow Public Safety & State Prison Accountability Direct reports on corrections staffing, county law enforcement funding, and emergency infrastructure across rural Southeast Georgia.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Stay Informed Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • The Cost of Living Is Squeezing Our Families • Our Emergency Services Are Being Stretched Too Thin • Agriculture Is the Backbone of This District • Rural Healthcare Access Is a Crisis in Slow Motion • Education and Workforce Development • Responsive, Accountable Government • Why I Am Running Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

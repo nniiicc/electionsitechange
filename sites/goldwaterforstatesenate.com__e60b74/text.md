@@ -1,4 +1,4 @@
-top of page Home Meet John What I'm Fighting For Donate Events Contact Gallery Videos DONATE MEET JOHN JOHN GOLDWATER FOR MICHIGAN STATE SENATE DISTRICT 12 Standing up to Career Politicians and Corporate Special Interests For an Affordable.
+top of page Home Meet John What I'm Fighting For Donate Events get-in-touch Gallery Videos DONATE MEET JOHN JOHN GOLDWATER FOR MICHIGAN STATE SENATE DISTRICT 12 Standing up to Career Politicians and Corporate Special Interests For an Affordable.
 Achievable.
 American Dream.
 WHAT I'M FIGHTING FOR economic prosperity Things need to be not just affordable, but easily achievable!

@@ -4,4 +4,4 @@ Economic development, housing availability, reliable infrastructure, and access 
 State leaders must recognize that policies designed for urban areas do not always meet the needs of rural Kansas.
 Our community deserves a strong voice in Topeka, someone who does not toe the party line, and someone who brings solutions that reflect the unique challenges and opportunities of rural life.
 By investing in rural Kansas, we strengthen the entire state.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

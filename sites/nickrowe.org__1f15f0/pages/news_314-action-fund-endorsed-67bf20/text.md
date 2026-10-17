@@ -12,4 +12,4 @@ Throughout my career, I have relied on data-driven decision-making because real 
 That is the kind of leadership I will bring to Lansing: evidence over ideology, data over spin, and solutions grounded in reality.
 I’m grateful to 314 Action for their endorsement and for supporting candidates who believe in science, research, evidence, and intellectual honesty.
 Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

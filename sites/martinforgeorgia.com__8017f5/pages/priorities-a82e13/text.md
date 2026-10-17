@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 SETTING PRIORITIES, GETTING RESULTS As your State Representative, Chuck has led — and will continue to lead — on the issues that matter most to Alpharetta, Roswell, and Milton.
 His experience bringing our voice to the Capitol has taught him that results come from showing up, doing the homework, and getting things done — not from political noise.
 YOUR MONEY - Reducing the Property Tax Burden on Homeowners, Lowering the Income Tax Rate, and Returning Money to Georgia Taxpayers Given our current untenable economic situation, now more than ever, it’s important to keep Chuck working for us to reduce our tax burden.
@@ -37,4 +37,4 @@ As a senior member of the House, Chuck has developed a reputation for getting th
 Working across eight House committees means Chuck knows how to work with all members in the House and Senate to get things done at the Capitol, not just talk about it.
 “I firmly support the voting rights of all Americans.
 That means an electoral system that counts every lawful ballot and protects against fraud; a system where it is easy to vote and hard to cheat, and I stay focused on delivering exactly that.” — Rep.
-Chuck Martin HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+Chuck Martin HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

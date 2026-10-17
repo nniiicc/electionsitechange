@@ -18,5 +18,5 @@ Evaluate and Enhance Traffic Safety Programs: - Conduct regular evaluations of e
 Goodwin believes by implementing this comprehensive 6-point plan, authorities can work towards reducing the prevalence of repeat reckless driving offenses, improving road safety, and protecting the well-being of all road users.
 Collaboration, accountability, education, and technological advancements are key pillars in addressing this critical issue and promoting a culture of safe and responsible driving in communities.
 Home Meet Russell Issues GOODWIN RECKLESS DRIVING PLAN Volunteer Events Photos Yard Signs Contact 2026 Rep.
-Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Russell Issues 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com Home Meet Russell Issues 2026 Rep.
 Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Volunteer News Yard Signs Events Contact Close Menu

@@ -1,6 +1,6 @@
-0 Skip to Content Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
-CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
+0 Skip to Content Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Testimonials Voting How Can You Help?
 CONTACT ABOUT DAVID I am a lifelong resident of Wallingford and a son to the late State Representative Mary G Fritz and Bill Fritz.
 From a very young age, my parents instilled in me a strong sense of responsibility to others and taught me the importance of public serve- giving back to your community, being truthful in your words and actions and honoring your commitments.
 Growing up in a large family of six, I learned the invaluable lessons of compromise and importance of working through differences while still being supportive, loyal and unified.

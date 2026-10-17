@@ -34,7 +34,8 @@ Text STOP to opt out, HELP for help.
 Consent is not a condition of purchase.
 Terms and Conditions Apply , Privacy Policy .
 For questions, please reach out to info@voteforjackperry.com Paid for by Perry 2026, Stacey Dolan Treasurer.
-Approved by Jack Perry TELL JACK Join Us Campaign Events Join us on the campaign trail! news & press Latest Campaign Developments Statement Jack Perry Ready to Debate Sampson’s Record If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.
+Approved by Jack Perry TELL JACK Join Us Campaign Events Join us on the campaign trail! news & press Latest Campaign Developments Statement Perry Responds to Sampson Campaign Funding Claims If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.
+Read more Oct 16 2026 Statement Jack Perry Ready to Debate Sampson’s Record If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.
 Read more Oct 2 2026 PRESS RELEASE Prospect’s Savings Fell by Half.
 An Audit Is a Good First Step, Not the Finish Line The following is a statement from Jack Perry, candidate for Connecticut State Senate in the 16th District, on the Town of Prospect’s finances and the Council’s move toward an independent audit.
 Read more Jun 3 2026 PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday Governor Lamont, Working people across Connecticut are sending out a plea for economic relief.

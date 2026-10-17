@@ -1,9 +1,10 @@
 {
  "description": "Sample Issue",
  "final_url": "https://burnfinforkansas.com/issues/sample_issue",
- "fingerprint": "ca50eb0e68be871eaca3a4eebfbb143c0d0b4333",
+ "fingerprint": "3302e54c44f15b79e2a772cf93dde7910d9c9f28",
  "format": 3,
  "paid_for_by": "Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner",
+ "rendered": false,
  "title": "Strong Public Schools",
  "years_mentioned": []
 }

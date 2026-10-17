@@ -146,7 +146,7 @@ Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements P
 Now, she’s running against Scott Perry to be your champion in Congress.
 Support Janelle’s campaign by making a donation or signing up to volunteer today.
 Volunteer Donate Facebook X-twitter Instagram Contributions can be mailed to: Friends of Janelle Stelson P.O.
-Box 41, Lemoyne, PA 17043 Paid for by Friends of Janelle Stelson Copyright #.
+Box 41, Lemoyne, PA 17043 Frequently Asked Questions Paid for by Friends of Janelle Stelson Copyright #.
 All Rights Reserved.
 Privacy Policy.
 By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.

@@ -1,4 +1,4 @@
-Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Got Questions?
+Home Meet Julie Endorsements Q&A Videos/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Got Questions?
 Julie has participated in many forums and interviews.
 Here are her answer to some of the most common questions: Tell us a little about yourself.
 I am a mother to a 20yr old son and 9yr old daughter, I have noticed the education difference with an 11yr gap.
@@ -78,4 +78,4 @@ Small businesses and locally owned farms are going out of business.
 People are struggling to survive with the cost of everything continuing to rise.
 I will be a voice for the people over the party, vote in the peoples best interests and improve our daily lives.
 The government needs to be: of the people, by the people, for the people.
-Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu
+Contribute Issues Contact Videos/News Privacy Policy Meet Julie Q&A Vote Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com Home Issues Meet Julie Contact Videos/News Contribute Q&A Endorsements Vote Event Photos Yard Signs Close Menu

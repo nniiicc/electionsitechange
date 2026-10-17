@@ -10,4 +10,4 @@ He was first elected to the state Senate in 2014 and re-elected without oppositi
 It is an honor to be named Majority Floor Leader and I look forward to serving my colleagues in this new role.” Chambliss is a member of the senate’s Committee on Finance & Taxation General Fund, Committee on Government Affairs, Committee on Fiscal Responsibility and Economic Development and Committee on Children, Youth & Human Services for the 2019-2022 quadrennium.
 He is also the chair of the three-member Committee on Local Legislation (LL1).
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

@@ -13,4 +13,4 @@ Our Bodies don’t change as we cross state lines and neither should the laws go
 This is a choice that is between a woman, her doctor, and her God.
 Protect Constitutional Rights Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 Read More VOLUNTEER CONTRIBUTE VOTING INFO CONNECT WITH US Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Elizabeth Kirtley for Congress Powered by CampaignPartner.com - Political Websites Home Meet Elizabeth Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Elizabeth Kirtley for Congress Powered by CampaignPartner.com Home Meet Elizabeth Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

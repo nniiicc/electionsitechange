@@ -12,4 +12,4 @@ It's important to me since I'm running for office to support this that are doing
 1 Dec Monday, 4:41 PM · 2025 Rutherford Becomes Candidate for NC Senate Steve Rutherford becomes a candidate for NC Senate District 43 (Gaston County).
 This makes the start date for the campaign to get ready for a primary and ultimately for the November 3 2026 election.
 Later that evening Rutherford attended a swearing-in ceremony to show support for those that had won in earlier races.
-DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com - Political Websites Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

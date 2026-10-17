@@ -1,9 +1,10 @@
 {
  "description": "Becky Cash in the News",
  "final_url": "https://www.beckycashforindiana.com/news",
- "fingerprint": "89a62547a9ebff4fa60fb7204581bd319f4c5879",
+ "fingerprint": "6f276c20f5138288c705dd279c88f693de8216fc",
  "format": 3,
  "paid_for_by": "Paid for by Friends of Becky Cash Powered by CampaignPartner",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "2007",

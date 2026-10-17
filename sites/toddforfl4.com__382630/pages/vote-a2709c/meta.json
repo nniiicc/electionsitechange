@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.toddforfl4.com/vote",
- "fingerprint": "7cf7982bfc2e89a1c720b849cc8266f684869dcd",
+ "fingerprint": "b12ade362a164edb74e2ce834b40a1c24398ddf8",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

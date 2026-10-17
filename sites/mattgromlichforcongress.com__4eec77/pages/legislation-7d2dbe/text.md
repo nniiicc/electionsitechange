@@ -7,7 +7,7 @@ Interviews Math w/ Dr.
 Matt Get Involved Donate As an educator, researcher and problem solver, I believe leadership means listening, studying the challenges facing our communities, and developing real, workable solutions.
 I also understand how imperative it is to collaborate with other legislators.
 The legislation featured on this page reflects my commitment to turning the needs of Louisiana families into meaningful action, as well as demonstrating how efficient Congress can be when we support each other to achieve the same goal.
-My Day 1 Legislation Supporting Toddlers And Readiness for Tomorrow (START) Small Business Wage Bridge Act Legislation I Will Support Day 1 Artificial Intelligence Data Center Moratorium Act (H.R.9442) H.R.9442 imposes a moratorium on the construction of new data centers until legislation in enacted that safeguards the public from the dangers of artificial intelligence.
+My Day 1 Legislation Supporting Toddlers And Readiness for Tomorrow (START) Small Business Wage Bridge Gap Act Small Business Wage Bridge Act Legislation I Will Support Day 1 Artificial Intelligence Data Center Moratorium Act (H.R.9442) H.R.9442 imposes a moratorium on the construction of new data centers until legislation in enacted that safeguards the public from the dangers of artificial intelligence.
 Billionaires Income Tax Act (H.R.5427) H.R.5427 amends the IRS code of 1986 to eliminate tax loopholes that allow billionaires to defer tax indefinitely.
 It modifies over 30 tax provisions so that billionaires are required to pay taxes annually.
 Citizens Over Corporations Amendment This constitutional amendment would overturn Citizens United v.

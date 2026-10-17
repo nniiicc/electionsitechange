@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.peopleforpepper.com/view-endorsements",
- "fingerprint": "fd12ed85c8d64aa8e12e8efb33f755bee9ac5920",
+ "fingerprint": "bdc12ba6886657d4c153f21fa2bdebb02e7c5b84",
  "format": 3,
  "paid_for_by": "Paid for by The People for Pepper Powered by CampaignPartner",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": []
 }

@@ -37,4 +37,4 @@ My Commitment I’m running because families in District 128 deserve a represent
 I will fight for practical solutions that lower costs, expand access, and put people first.
 I’m not bought, I’m building.
 Help us build a healthier future for working families, seniors, parents, and children in District 128.
-Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

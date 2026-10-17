@@ -15,4 +15,4 @@ Living here has reinforced the values we share with our neighbors—faith, hard 
 It’s this strong sense of community and trust that inspired me to run for the District 25 State House of Representatives.
 I believe in giving back to a place that has given so much to my family, and in serving when others may not have the opportunity to do so.
 If elected, I will bring honest, conservative leadership to Pierre and work every day to represent the people of District 25 with integrity.
-Endorsements Yard Signs Events Contact Paid For by Nick Buchholz for South Dakota House Powered by CampaignPartner.com - Political Websites Home Meet Nick Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Contact Paid For by Nick Buchholz for South Dakota House Powered by CampaignPartner.com Home Meet Nick Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

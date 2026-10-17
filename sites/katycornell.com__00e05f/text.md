@@ -12,7 +12,7 @@ I'm proud to endorse Katy Cornell and confident she'll build on the foundation w
 Katy Cornell is all of these.
 She has energy and insight, and will represent all of us with integrity.
 I am grateful that Katy has stepped forward to lead and serve.” Bruce Dammeier Former State Senator.
-Former Pierce County Executive View Endorsements Hear From Katy ‹ 01 / 06 › Forum and Voters Guide League of Women Voters - Kitsap 1 Watch the forum here Key Peninsula Forum 2 Watch the forum here League of Women Voters - Tacoma & Pierce 3 Watch the Forum Here The Washington Standard - Voters Guide 4 Read the Voter Guide Article Together, we can build safer communities, strengthen families, support small businesses, and fix systems that are failing the very people they are meant to serve.
+Former Pierce County Executive View Endorsements Hear From Katy ‹ 01 / 10 › Candidate Forums & Conversations ▶ League of Women Voters - Kitsap Watch on YouTube ↗ ▶ League of Women Voters - Tacoma Watch on YouTube ↗ ▶ Key Peninsula Forum Watch on YouTube ↗ × Voters Guide The Washington Standard - Voters Guide Read the article Together, we can build safer communities, strengthen families, support small businesses, and fix systems that are failing the very people they are meant to serve.
 We can have both compassion and accountability.
 We can help more people with less waste.
 And we can restore common sense, safety, and hope to Washington State.

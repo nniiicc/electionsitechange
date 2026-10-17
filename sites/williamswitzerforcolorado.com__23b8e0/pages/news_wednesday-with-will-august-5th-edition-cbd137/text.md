@@ -24,4 +24,4 @@ Like so many other areas, we have some major crime, and public safety should be 
 My plan showcases 7 specific areas where HD30 needs focus.
 This not only will help our neighborhoods, but also shift important solutions to other parts of our state.
 If you haven’t read this specific policy or the others I released please go to: http://Williamswitzerforcolorado.com/issues Stay tuned as I am releasing more this week as well.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

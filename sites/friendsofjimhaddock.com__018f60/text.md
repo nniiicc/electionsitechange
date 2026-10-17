@@ -4,12 +4,14 @@ Tuesday October 27th from 5:30 to 7:30 at Rinaldi’s Cafe on Main St. in Old Fo
 Please see the flyer below for more details.
 Thank you as always for the consideration. ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 19 Shares: 0 Comments: 2 2 Comments Comment on Facebook Are you having tripe ? + Thank you to the Friends of Jim Haddock and Marty Flynn who came out to the recent meet the candidates night held in Old Forge.
+#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 22 Shares: 0 Comments: 2 2 Comments Comment on Facebook Are you having tripe ? + Thank you to the Friends of Jim Haddock and Marty Flynn who came out to the recent meet the candidates night held in Old Forge.
 The Democratic Committee of District 118 of Lackawanna County held the event and we greatly appreciated getting a chance to talk with so many constituents. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 101 Shares: 4 Comments: 12 12 Comments Comment on Facebook Congratulations.
-Everyone.
-We love you jimmy!!
-Great photos 😊😊 View more comments Friends of Jim Haddock are all invited to a free meet the candidates rally for Senator Marty Flynn and Representative Jim Haddock.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 106 Shares: 4 Comments: 12 12 Comments Comment on Facebook We love you jimmy!!
+Jim you have my vote.
+Not Shapiro Thank you Rep.
+Jim Haddock for all that you do for us in the 118th.
+Your hard work and dedication is very much appreciated.
+View more comments Friends of Jim Haddock are all invited to a free meet the candidates rally for Senator Marty Flynn and Representative Jim Haddock.
 Monday October 12th from 5:00 to 7:00 pm at Arcaro and Genell on 443 South Main St. in Old Forge Pa.
 The event is sponsored by The Lackawanna County Democratic Committee for District 118th.
 We hope to see you this Monday! ...

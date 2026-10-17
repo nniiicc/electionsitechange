@@ -54,7 +54,7 @@ He was co-chair of the Baltimore Co. local and Secretary of the Maryland State G
 Renaud was elected co-chair of the Maryland Green party on June 14, 2025.
 Renaud has run for State Delegate in District 43A with 4.06% in 2022, City Counsel w near 10% in 2024 and State Delegate in District 45 in 2026.
 Contact Get in Touch friendsofrenaudbrown@gmail.com Send Me a Message ← Back Thank you for your response. ✨ Name (required) Email (required) Website (required) Submit Δ Like Loading...
-Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,346 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,350 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
 Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
 Log in now.
 Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...

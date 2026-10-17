@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://gunther4assembly.com/vote",
- "fingerprint": "ae078c9278a748f35b4db83884d7870dc54e5b57",
+ "fingerprint": "37f8d6afba0319323266f4c84bff7efd0cc5e6d1",
  "format": 3,
  "paid_for_by": "Paid for by the gunther4assembly committee Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

@@ -16,4 +16,4 @@ He is an ambassador with the National Alzheimer’s Association and is also an H
 Lockett resides in Jessamine County with his wife, Amy.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Make a Donation Our campaign is powered by your donations. $# $# $# $1000 $2000 $3500 Other Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
-Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com Home About Matt News On the Issues Endorsements Contact Close Menu

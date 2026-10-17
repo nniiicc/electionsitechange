@@ -45,4 +45,4 @@ Ban any use of AI in grade school, as well as in government and by public employ
 It’s been pretty popular this year in the state legislature to quote Billy Preston with “Nothing from nothing leaves nothing”, when trying to sell us on AI centered economic development.
 But I say instead of rushing headlong into this nonsense because everyone else is, let’s take some advice from George Harrison.
 Think for yourself.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

@@ -7,8 +7,7 @@ Special guests include Mark Texeira, Dr.
 Edgardo Baez, and more.
 Doors open at 4:00 PM.
 The event runs from 5:00 PM to 6:00 PM.
-Register to attend at brandonherreraforcongress.com/earlyvoting.
-More Info Rally 19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST Join Brandon Herrera for a town hall at Parker’s Ice Cream in Fair Oaks Ranch.
+Register to attend at brandonherreraforcongress.com/earlyvoting/ More Info Rally 19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST Join Brandon Herrera for a town hall at Parker’s Ice Cream in Fair Oaks Ranch.
 Hear Brandon’s message and bring your questions!
 More Info Town Hall 21 Oct Maverick County Town Hall – Maverick County Lake Pavilion 6:30 PM - 7:30 PM CST Join Brandon Herrera for a town hall at the Maverick County Lake Pavilion in Eagle Pass.
 Hear Brandon’s message and bring your questions!

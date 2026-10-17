@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.teamellefson.com/yard-sign",
- "fingerprint": "23803c5700771effebd015d8d818ba764c0407b1",
+ "fingerprint": "e7ad7b9b29b2892699e1fd3bb393dfcfd4bb4b2e",
  "format": 3,
  "paid_for_by": "paid for by: Team Ellefson for 65B P",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

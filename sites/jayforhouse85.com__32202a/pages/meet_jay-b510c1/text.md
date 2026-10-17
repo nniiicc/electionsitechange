@@ -14,4 +14,4 @@ Jay has been involved in the America First movement throughout South Carolina an
 His voting record in the South Carolina House has been consistently conservative!
 Delivering on his promise, to bring conservative common sense to Columbia.
 Meet Jay at Events and Speaking Engagements!
-FACEBOOK Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu
+FACEBOOK Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

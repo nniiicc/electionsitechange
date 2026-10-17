@@ -1,4 +1,4 @@
-EN Inicio Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Participe Sea voluntario con Brian Cada puerta tocada y cada llamada hecha marcan la diferencia.
+EN Inicio Guía del votante Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Participe Sea voluntario con Brian Cada puerta tocada y cada llamada hecha marcan la diferencia.
 Cuéntenos cómo le gustaría ayudar y nos comunicaremos con usted con los siguientes pasos.
 Sus datos Nombre completo * Teléfono (opcional) Correo electrónico * ¿Cómo le gustaría ayudar?
 Seleccione todas las opciones que correspondan.
@@ -11,6 +11,6 @@ Message frequency may vary.
 Message & data rates may apply.
 Text HELP for assistance, reply STOP to opt out.
 Inscribirme como voluntario Política de privacidad | Términos y condiciones P.O.
-Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Guía del votante Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
 Todos los derechos reservados.
 Política de privacidad Términos

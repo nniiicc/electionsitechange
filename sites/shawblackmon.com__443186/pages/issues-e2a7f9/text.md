@@ -17,5 +17,5 @@ He believes that government revenue should be raised from taxing consumption, no
 He has and will continue to support fiscally conservative policies.
 Representative Blackmon’s priority is to cut spending, not raise taxes.
 He has followed through on these priorities by authoring a historic $1 billion dollar tax cut bill that will roll back Georgia’s income tax rate from 5.75% to 4.99% over six years.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

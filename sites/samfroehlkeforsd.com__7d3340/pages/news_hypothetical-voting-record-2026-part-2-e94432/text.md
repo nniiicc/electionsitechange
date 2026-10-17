@@ -72,4 +72,4 @@ HJR5001 in the next installment.
 Again, trying to listen to all the committee testimony, listen to all the floor debate, read all the bills.
 It takes time, and it’ll start taking longer when we get to the senate bills.
 Twice as much testimony and debate to get through.
-But hopefully I’ll get the next post out quicker than this one. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+But hopefully I’ll get the next post out quicker than this one. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

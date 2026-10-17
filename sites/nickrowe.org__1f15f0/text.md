@@ -14,4 +14,4 @@ Use of his/her military rank, job titles, and photographs in uniform does not im
 Air Force, the Department of Defense or any branch of U.S. government.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Election Day November 3, 2026 at 7:00 AM Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

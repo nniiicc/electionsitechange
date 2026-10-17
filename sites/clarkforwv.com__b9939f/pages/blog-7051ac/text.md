@@ -1,5 +1,10 @@
 top of page Home Blog About Contact Donate News More Use tab to navigate through the menu items.
-All Posts Endorsed by the West Virginia Farm Bureau!
+All Posts Endorsed by the West Virginia Business Community!
+Thank you to the West Virginia Business & Industry Council!
+The future is bright for West Virginia and we are on the move.
+The American Legislative Exchange Council ranks West Virginia 17th in its Rich States Poor States Index because of the forward-looking policies we have passed over the past several years.
+We've created positive policies that include reducing personal income tax rates and making WV a right to work state.
+#ago Endorsed by the West Virginia Farm Bureau!
 Our agriculture community is at the core of the work I do in Charleston.
 I'm proud to serve on the House Agriculture, Commerce and Tourism Committee and as the chair of the Jefferson County Agritourism Taskforce.
 Did you know that Jefferson County is home to 600 farms of which 96% are family-owned, many for multiple generations?
@@ -10,8 +15,5 @@ We share the same work in supporting our agricultural industry, economic develop
 #ago Proud to receive the WV Citizens Defense League Endorsement.
 Proud to receive the endorsement of the West Virginia Citizens Defense League.
 I remain a leading advocate in the West Virginia legislature, protecting our 2A rights!
-West Virginia Citizens Defense League #ago Endorsed by Education WV!
-Thank you to Education WV for their endorsement!
-Education is the cornerstone of our future and I am proud to be a leading advocate for all educators in our state.
-#ago wayne@clarkforwv.com ©# by Clark for WV.
+West Virginia Citizens Defense League #ago wayne@clarkforwv.com ©# by Clark for WV.
 Paid for by candidate. bottom of page

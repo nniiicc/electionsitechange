@@ -8,7 +8,19 @@ An effective conservative who delivers for rural communities and stands up to th
 Paul, Jared knows how to stand up for our values.
 Where Do I Vote ?
 Donate Your browser does not support the video tag.
-Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
+Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago 🇺🇸 The countdown to November 3rd is ON!
+Election Day is getting closer, and I want to take a moment to say THANK YOU to everyone who has been following along, engaging with our posts, and supporting this campaign!
+I really believe our momentum is at an all time high!
+Yesterday we hit 700 followers on the page!
+That’s an exciting milestone, but I know there are many more people throughout Senate District 13 who haven’t found our page yet.
+As we head into these final weeks, I want to keep sharing updates from around the district, talking about the issues that matter to our communities, and connecting with as many of you as possible.
+And that’s where YOU come in! 👍 LIKE our posts! 🔁 SHARE our updates so more people can see them! 👥 FOLLOW this page and invite your friends, family, and neighbors to follow along too!
+Every interaction helps keep the conversation going and introduces more people to what’s happening across SD13.
+Let’s keep building and working together as a TEAM!
+Thank you for being part of this journey.
+I appreciate each and every one of you! 🇺🇸 17 DAYS UNTIL ELECTION DAY! 🇺🇸 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
+See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 20 Shares: 3 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
 I spent nearly 20 years serving with the Sauk Rapids Fire Department as a firefighter and captain, and it was great to be back catching up with old friends and fellow firefighters!
 We couldn’t have asked for better weather, and the turnout was incredible!
 From the free pumpkins and vehicle extrication demonstrations to the kids getting to climb inside the fire trucks and explore all the equipment, there was something for everyone to enjoy.
@@ -29,7 +41,7 @@ Entry fee is $10.
 And honestly, if you have not yet become a massive fan of the hand-crafted cocktails that Mike and Rose have made famous, one sip and you'll be HOOKED.
 Old Fashioneds, Bee's Knees and more, handcrafted right in front of you.
 We'll see you Sunday. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 15 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 17 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Representative Isaac Schultz and Jeff Bertram, Stearns County Commissioner - District 3.
 #ago This past Thursday, I had the opportunity to speak at another important forum.
 This event was hosted by the Minnesota Transportation Alliance.
 It was a great opportunity to answer questions and have meaningful conversations about transportation funding at both the local and state levels.
@@ -50,9 +62,4 @@ I also want to express my sincere appreciation for our local law enforcement off
 Their dedication, professionalism, and willingness to put themselves in harm’s way do not go unnoticed.
 Thank you to all who work to protect our communities.
 Please stay safe, look out for one another, and keep everyone affected in your prayers. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 48 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Yesterday, we had the opportunity to take part in the Benton County Board Cookout, where we helped prepare and serve lunch for the hardworking employees of Benton County.
-We’re incredibly thankful for the men and women who show up every day to serve our communities and keep county services running.
-Their hard work, dedication, and commitment often happen behind the scenes, but they make a real difference in the lives of the people they serve.
-Thank you to all of our Benton County employees for everything you do.
-We appreciate you and the important role you play in making our county a great place to live, work, and raise a family! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 57 Shares: 2 Comments: 3 3 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 48 Shares: 4 Comments: 1 1 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy

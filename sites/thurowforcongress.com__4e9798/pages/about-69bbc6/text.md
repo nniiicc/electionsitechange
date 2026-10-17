@@ -1,4 +1,4 @@
-× Chip in to support Mike Thurow for Congress DONATE WITH ACTBLUE DONATE WITH NUMERO Or, sign up to volunteer ➔ Skip to Content Open Menu Close Menu Home About Events Platform 0 0 Volunteer Home About Events Platform 0 0 Volunteer Open Menu Close Menu Home About Events Platform Volunteer Meet Mike Thurow Mike Thurow grew up in Mequon, Wi, in a middle-class family where hard work and responsibility were expected.
+× Chip in to support Mike Thurow for Congress DONATE WITH ACTBLUE DONATE WITH NUMERO Or, sign up to volunteer ➔ Skip to Content Open Menu Close Menu Home About Events Platform Endorsements 0 0 Volunteer Home About Events Platform Endorsements 0 0 Volunteer Open Menu Close Menu Home About Events Platform Endorsements Volunteer Meet Mike Thurow Mike Thurow grew up in Mequon, Wi, in a middle-class family where hard work and responsibility were expected.
 His father, a U.S.
 Navy veteran, worked at Marquette Electronics, and his mother worked long hours as a nurse practitioner while raising three sons.
 From an early age, Mike saw how much effort it takes for working families to stay afloat.

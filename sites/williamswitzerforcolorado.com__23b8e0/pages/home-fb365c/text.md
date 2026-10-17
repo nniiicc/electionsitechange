@@ -16,4 +16,4 @@ I'm running to break it.
 Let me earn your vote.
 Let's flip HD30 for the future.
 Join the Campaign Become a Volunteer Click Here to Sign Up Support Our Campaign Make a Contribution Today Click Here to Contribute Need Voting Information?
-Register & Find Your Polling Location Click Here for Information Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Register & Find Your Polling Location Click Here for Information Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

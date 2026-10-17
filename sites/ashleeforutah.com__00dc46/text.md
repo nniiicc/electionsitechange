@@ -19,7 +19,10 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago A great community turnout tonight at the 5400 S Open House!
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago I hope you're planning to join us this evening!
+Guaranteed great company, great food, and an opportunity to talk with our neighbors about "what's on your plate" before the Legislative session.
+Thank you for hosting the community Brighter Steps ! ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago A great community turnout tonight at the 5400 S Open House!
 I loved reading through everyone's suggestions and wishes to be implemented into the corridor.
 Thank you to everyone that came out, and stay tuned for more updates and opportunities to make your voice hear #westsidebestside t #unityincommunity unity ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago HB210: Disabled Parking Amendments This bill originated from a constituent that is a disabled veteran who wanted to be able to park in ADA parking spots.
@@ -45,10 +48,6 @@ This portal is housed and maintained under the Department of Workforce Services.
 We know that stable employment is the first step to securing housing, paying back court fees, catching up on child support.
 We want to make sure that our neighbors starting over again have all the tools they need to continue their upwards trajectory.
 You can read the full bill here: share.google/1BB2UOcCqokgpK9zi ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Another great Trunk or Treat at Cougar Harmons!!
-Thank you to everyone that braved the rain to come and show us your cute costumes!!
-What a great way to kickoff Halloween festivities in the community.
-Thank you Kearns Community Committee and Harmons for hosting this fun event! 🎃👻🕷️🦇 ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

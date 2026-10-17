@@ -34,4 +34,4 @@ Insurance companies should certainly be allowed to make a profit, but not becaus
 Rod Pelton is Colorado State House Representative for House District 65, which includes several rural counties in Colorado’s eastern plains.
 He serves on Public and Behavioral Health and Human Services Committee.
 Add your expanded detail here.
-Next: Agriculture » Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu
+Next: Agriculture » Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com Home About Rod Committees News Issues Contribute Close Menu

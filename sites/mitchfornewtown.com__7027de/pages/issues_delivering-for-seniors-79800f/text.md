@@ -21,4 +21,4 @@ Cosponsor of 2021's PA 21-69 to deter age discrimination in hiring, Cosponsor / 
 Long-time advocate for Meal on Wheels as part of our seniors' 'safety net', providing more than nutritious meals, but regular 'wellness checks' for seniors living alone.
 (PA 19-157) Mitch is an advocate for our seniors, recognized by AARP & ALZ as a caregiver & legislator THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE! « Previous: LOCAL CONTROL Next: PUBLIC SAFETY, FIRST RESPONDERS & VETERANS » Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

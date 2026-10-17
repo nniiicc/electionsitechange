@@ -2,4 +2,4 @@ Home Meet Darla Priorities Endorsements Volunteer Events Contribute Events / Vir
 Together, we can make sure every voter hears directly from our campaign.
 Location virtual Get Driving Directions Add to calendar This event has passed Sign-ups are closed.
 Check the events page for what's coming up next.
-See upcoming events Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+See upcoming events Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

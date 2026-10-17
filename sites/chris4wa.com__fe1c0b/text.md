@@ -69,7 +69,7 @@ View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In 
 #ago John Lewis said it best: "the vote is the most powerful nonviolent change agent you have in a democratic society." 📬 Today, the U.S.
 Supreme Court blocked Trump's horrible plan to restrict our right to vote by mail in the fall elections.
 Our right to vote must remain sacred. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 493 Shares: 127 Comments: 46 46 Comments Comment on Facebook Chris Stearns for State Rep. is at King County Courthouse.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 493 Shares: 125 Comments: 46 46 Comments Comment on Facebook Chris Stearns for State Rep. is at King County Courthouse.
 #ago What a beautiful celebration of Recovery, Perseverance, Achievement, and Hope.
 I was honored to attend the most recent graduation ceremony for participants in the King County Drug Court graduation.
 What I witnessed was more than a ceremony.

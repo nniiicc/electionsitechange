@@ -7,8 +7,7 @@ As a mother of premature twins, former public school teacher, and a current Gray
 I am running for re-election because I care deeply about our community and the future of our state.
 I am committed and accountable to the needs of the residents and families here at home.
 If we have not yet met, reach out, I would love to connect with you!
-As I have my whole life, when life gets hard, I roll up my sleeves and work harder.
-Join Me info@laurafaverdias.com Laura Faver Dias has proudly served as State Representative since January 2023.
+As I have my whole life, when life gets hard, I roll up my sleeves and work harder. info@laurafaverdias.com Laura Faver Dias has proudly served as State Representative since January 2023.
 Paid for by People for Laura Faver Dias.
 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
 Facebook

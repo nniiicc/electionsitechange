@@ -6,4 +6,4 @@ I know firsthand the issues families, farmers, and our communities are facing.
 As a mom of young children and the wife of a firefighter, I chose to run for office to represent the interests of hard-working people and to restore the belief that government is about service, not serving personal interests.
 I will go to work for us.
 Make a Donation Our campaign is powered by your generosity. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com - Political Websites Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

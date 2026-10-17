@@ -14,4 +14,4 @@ This is more than a political race—it’s a commitment to protecting the famil
 Join David in bringing strength, integrity, and renewal to Illinois.
 Watch the video below to hear what Danielle Alexander (2027 mayoral candidate of Chicago) and founding partner of Chicago Flips Red has to say about Dave.
 Chicago Flips Red Endorses David Dewar Mike Great Again Illinois Family Action proudly Endorses David Dewar for the 35th District Illinois General Assembly Race.
-Click here to add your endorsement Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu
+Click here to add your endorsement Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

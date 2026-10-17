@@ -11,4 +11,4 @@ Caucus Convention vs Signatures Delegates are tasked with researching candidates
 I believe the caucus/convention system is the most fail safe way for Utah citizens to have the best candidates appear on the ballot.
 Candidates who gather signatures bypass the research and representation elements of the caucus system.
 Candidates who gather signatures lack faith in the delegates and our representative form of government.
-Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu
+Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

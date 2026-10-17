@@ -16,7 +16,10 @@ Main St. & W.
 Curtis St.
 Greenville 5:30-7PM ‍ ﻿‍ ﻿Falls Park, 601 S.
 Main St.
-Indivisible Clemson Area ﻿ ﻿Block Party for Democracy Pendleton Village Green 3PM ﻿ View Event → Oct 17 Pastors United for Action Unite Our Vote Rally and Candidate Forum Saturday, October 17, 2026 11:00 AM 4:00 PM Valley Brook Outreach Baptist Church (map) Google Calendar ICS Eunice will be at this forum including pastors, community leaders, and other candidates in Pelzer on Saturday, October 17.
+Indivisible Clemson Area ﻿ ﻿Block Party for Democracy Pendleton Village Green 3PM ﻿ View Event → Oct 17 Pastors United for Action Unite Our Vote Rally and Candidate Forum Saturday, October 17, 2026 11:00 AM 2:00 PM Valley Brook Outreach Baptist Church (map) Google Calendar ICS Eunice will be at this forum including pastors, community leaders, and other candidates in Pelzer on Saturday, October 17.
+Eunice is tentatively scheduled to speak at 12:40 PM EDT.
+This rally will also feature a special message from U.S.
+Senator Cory Booker.
 View Event → Oct 30 Democratic Candidates Meet & Greet Friday, October 30, 2026 5:00 PM 7:00 PM Jitters Brewing Company (map) Google Calendar ICS Eunice will be with candidate for Pickens County Council Russell Ogelsby and candidate for Central City Council Rosa Grayer at this meet & greet event at Jitters Brewing Company in Central on October 30.
 View Event → Oct 31 Greenville County Democrats Day of Action Saturday, October 31, 2026 12:00 AM 5:00 PM Google Calendar ICS Help Eunice and others reach voters and make a difference this November.
 Check back for more details soon!

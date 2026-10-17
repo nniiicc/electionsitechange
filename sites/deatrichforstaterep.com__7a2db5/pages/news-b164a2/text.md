@@ -46,4 +46,4 @@ Less hours worked requires less outside childcare assistance “This campaign is
 “Harrisburg should be working for us, — not the other way around,” The 123rd District generally includes parts of Pottsville, Girardville, Palo Alto, Port Carbon, New Philadelphia, Schuylkill Haven, St.
 Clair, New Castle Township, North Manheim, Norwegian, Wayne Township, and West Mahanoy Township.
 Media Contact: John Deatrich 570-579-5391 jadeatrich@outlook.com VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

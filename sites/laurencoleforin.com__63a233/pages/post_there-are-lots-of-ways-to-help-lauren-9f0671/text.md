@@ -1,4 +1,4 @@
-top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW All Posts There are lots of ways to help Lauren Lauren Cole Oct 1 # min read Updated: #ago Hi!
+top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW All Posts There are lots of ways to help Lauren Lauren Cole Oct 1 2 min read Updated: Oct 9 Hi!
 Since our last email, several people have reached out asking, “What else can I do to help Lauren?” The answer is: a lot. ❤️ Since Monday, you have helped us raise $# toward our $# goal for our final two mailers.
 Thank you!
 We still have $11,472.73 to go , and every bit helps.

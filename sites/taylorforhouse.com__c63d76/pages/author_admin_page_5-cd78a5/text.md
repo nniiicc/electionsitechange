@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Author: admin First Meet the Candidate Posted : Apr 3, 2024 in : Uncategorized by : admin We had our first Meet the Candidate get together on Wednesday, January 17th.
+Skip to content Home About Issues Press Get Involved DONATE Author: admin First Meet the Candidate Posted : Apr 3, 2024 in : Uncategorized by : admin We had our first Meet the Candidate get together on Wednesday, January 17th.
 We had a nice turnout and great conversations.
 A huge shout out to Martin Squier and Elizabeth Wilkens Squier for hosting our event!!
 September Update Posted : Oct 26, 2023 in : Uncategorized by : admin It has been a busy summer, time to catch everyone upon the campaign.

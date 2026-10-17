@@ -32,7 +32,14 @@ It is, however, a call for an honest conversation about the responsibilities pla
 If the State of Georgia expects counties to provide emergency medical services, law enforcement support, and other public resources for one of its most complex correctional facilities, then it should also ensure those counties have the funding and support necessary to protect both prison staff and the residents who call Tattnall County home.
 Our community should not have to choose between serving the state’s prison system and protecting its own citizens.
 That is a conversation long overdue.
-This is exactly why I launched my campaign for Georgia House District 157 —to ensure our local taxpayers stop subsidizing the state without representation.
+This is exactly why I launched my campaign for Georgia House District 157 - to ensure our local taxpayers stop subsidizing the state without representation.
+THE FIELD REPORT • PUBLIC SAFETY & ACCOUNTABILITY Follow Public Safety & State Prison Accountability Direct reports on corrections staffing, county law enforcement funding, and emergency infrastructure across rural Southeast Georgia.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Stay Informed Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • A Strain on Emergency Medical Services • The Safety of Our Community • The Financial Burden on Local Taxpayers • Supporting Our First Responders • A Conversation Worth Having Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

@@ -33,5 +33,5 @@ I also spent a year with the Contra Costa Civil Grand Jury, which I highly recom
 This is a type of administrative oversight of county, city, special district operations and reports are published on the internet.
 This is not to be confused with the criminal grand jury, which is secret.
 During that time, I became familiar with homelessness issues and the shameful failure of the California state government to resolve the root causes of homelessness.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

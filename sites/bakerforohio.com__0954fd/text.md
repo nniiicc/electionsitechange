@@ -10,4 +10,4 @@ Join the Movement!
 Be part of the campaign to put people over politics and make a difference in Ohio’s 52nd District.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 2026 Nov General Election Day Countdown!
-November 3, 2026 Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+November 3, 2026 Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

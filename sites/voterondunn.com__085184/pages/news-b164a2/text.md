@@ -403,4 +403,4 @@ Gobain Consent Decree Area POSTED ON: APRIL 18, 2022 - 1:49PM Important Informat
 Gobain Consent Decree Area: DES and St.
 Gobain Reach Agreement on Provision of Alternate Drinking Water.
 Please visit the DES - press link "PFAS Update" above.
-Read more Contribute Voter Information Endorsements Events Photos Contact TANK Privacy Policy Committee to Elect Ron Dunn Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement Voter Information Endorsements Privacy Policy Close Menu
+Read more Contribute Voter Information Endorsements Events Photos Contact TANK Privacy Policy Committee to Elect Ron Dunn Powered by CampaignPartner.com Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement Voter Information Endorsements Privacy Policy Close Menu

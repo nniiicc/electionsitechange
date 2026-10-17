@@ -1,4 +1,4 @@
-Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Issues Sandy Ibáñez is running for the Texas House because representation matters.
+Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Issues Sandy Ibáñez is running for the Texas House because representation matters.
 She believes that good leadership starts with listening not to political parties, but to people.
 Her priorities focus on finding practical, common-sense solutions that strengthen families, create opportunity, and ensure Fort Bend County continues to be a great place to live, work, and raise a family.
 Strong Schools and Educated Communities Every child deserves a safe, high-quality education and every teacher deserves the resources and respect to do their job well.
@@ -29,4 +29,4 @@ Sandy understands the human impact of policy and how decisions made in Austin af
 She believes it’s time to put people before party and service before politics.
 Sandy is committed to building bridges, listening to everyone, and finding common-sense solutions that make life better for working families, small businesses, and all who call this community home.
 Voter Information Texas House District 28 Endorse Sandy!
-Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com - Political Campaign Websites Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Close Menu
+Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Close Menu

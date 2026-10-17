@@ -500,13 +500,6 @@ Eric Jones has sold every one of his.
 What he has left is long-term and passive, fully disclosed on his public financial filing.
 It is the kind nobody trades on a tip.
 A stock trading ban, a 12-year term limit, an end to partisan gerrymandering, and getting money out of politics: that's how we start fixing a corrupt system.
-Is Eric Jones's own money a loan or a donation?
-Eric Jones's own money in this campaign is a donation.
-It is not a loan.
-Every dollar he has put in was given as a donation.
-He can't take it back, and he won't be paying himself back.
-Eric Jones is investing his own resources because it takes real resources to compete with corporate power and special interests, and he refuses to take their money.
-No corporate PAC money, no special interest money, and no foreign money.
 Why is Eric Jones funding his own campaign?
 Eric Jones funds his own campaign because self-funding allows for his independence.
 It cannot buy the seat.

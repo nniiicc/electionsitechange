@@ -58,6 +58,13 @@ Effingham County residents found out about the details of their county’s 25-ye
 Tattnall, Jeff Davis, Appling, and Evans County residents deserve better than that if and when a developer comes knocking here.
 Rural Georgia has long been treated as a place where outside interests, whether that is a utility conglomerate, a corporate data center developer, or Atlanta lawmakers who have never set foot in this district, can make decisions and let local taxpayers absorb the consequences.
 My commitment is simple: any large-load project proposed for this district gets full public transparency, real ratepayer protections written into state law, and local communities with a genuine voice before contracts are signed, not after.
+THE FIELD REPORT • DISTRICT 157 ECONOMY Tracking Utility Bills, Property Taxes & Living Costs Get independent briefings on state tax reform, rising power rates, and what Georgia lawmakers are doing to lower everyday household costs in rural communities.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Subscribe Free Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • Understanding the Scale of What’s Coming to Southeast Georgia – Why This Is Not Just Effingham County’s Problem • 1.

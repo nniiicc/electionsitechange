@@ -19,4 +19,4 @@ When rural families can get care close to home, when seniors can age in place, a
 By making smart investments and supporting the people who serve here, we can keep care local, reliable, and strong for every family in District 4 and throughout our state. 🌟 Back to Issues _____________________________________________________________________________________________________________________________ 📣 How You can Help Volunteer to Support Rural Health— knock on doors, make calls, join the team.
 S ign Up Contribute —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote « Previous: 🏛️ Strong Schools Next: ⚡Energy & Infrastructure » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote « Previous: 🏛️ Strong Schools Next: ⚡Energy & Infrastructure » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

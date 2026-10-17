@@ -2,4 +2,4 @@ top of page About Endorsements Issues Media News Press Releases Photos Videos RE
 VOLUNTEER Sign up for a shift to contact voters with the NM Dems!
 Sign up to volunteer for Teresa's campaign!
 Please check all activities you are interested in. * Required Phone Calls Canvassing Events Organizing/Office Work Fundraising Collect Petitions SUBMIT Thanks for submitting!
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

@@ -8,4 +8,4 @@ Rod and his wife of 40+ years are the proud parents of two grown daughters and g
 Preserving our society for future generations is what keeps him driven to make and maintain common-sense, ethical and practical legislation for our great state.
 He believes that we owe it to future generations to fight for the rights and freedoms that we’ve enjoyed.
 FIND A BILL WATCH & LISTEN VOTING INFO PUBLIC TESTIMONY CONTRIBUTE Get Updates Thank you for signing up!
-Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com Home About Rod Committees News Issues Contribute Close Menu

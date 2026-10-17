@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Apr 2 2026 PRESS RELEASE Brigadier General, (Ret) Leela Gray’s Campaign Raises $500,000 Cash on Hand and Decisive Momentum First Time Candidate Raises $561,000 in 56 Days Since Launch; Setting a Florida Fundraising Record FOR IMMEDIATE RELEASE April 2, 2026 Contact: press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Apr 2 2026 PRESS RELEASE Brigadier General, (Ret) Leela Gray’s Campaign Raises $500,000 Cash on Hand and Decisive Momentum First Time Candidate Raises $561,000 in 56 Days Since Launch; Setting a Florida Fundraising Record FOR IMMEDIATE RELEASE April 2, 2026 Contact: press@leelagray.com St.
 Petersburg, FL — Today, the Leela Gray for Congress campaign reports that in just 56 days, it received contributions totalling more than $561,000.
 Exhibiting the same discipline that defined her 30-year military career, Gray managed those funds responsibly, spending less than 11% on overhead and other expenses.
 Gray enters the next quarter with $500,000 cash on hand, while setting a record for any Dem. challenger's first quarter fundraising in Florida’s 13th Congressional District.¹ “When thousands of people open their wallets in a district that's been taken for granted, they are not just making a donation, they are making a demand: that someone finally show up, listen, and do the job the Constitution actually requires,” said Gray.

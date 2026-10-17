@@ -50,4 +50,4 @@ Support my mission today!
 Together we CAN win!
 Together we can bring back COMMON SENSE to Springfield!
 Vote for Christine McGovern for Illinois State Senate District 18!
-Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu
+Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

@@ -85,9 +85,9 @@ The contrast between Olympia's record and a local candidate promising fiscal dis
 She didn't just announce a platform — she has six years of votes, results, and relationships in the exact community she wants to represent.
 That is a different kind of credibility.
 4 The endorsements are real.
-Launching with the sole endorsements of both the KCGOP and the Senate Republican Campaign Committee — institutional backing this district hasn't seen in years — Kristina enters this race with momentum from day one.
+With the sole endorsements of both the KCGOP and the Senate Republican Campaign Committee, plus the backing of The Seattle Times Editorial Board — institutional support this district hasn't seen in years — Kristina enters this race with real momentum.
 The Closing Argument Kristina Soltys is not just the right candidate.
-She is the most electable Republican this district has seen in a decade. ✓ Won 62.3% against a 14-year incumbent — as a first-time candidate ✓ Re-elected without opposition after four years of results ✓ Six years on SR-516, housing, public safety, and fiscal discipline ✓ The district's most visible Ukrainian-American leader — in a district with 4,000+ Ukrainian residents ✓ Sole KCGOP and SRCC endorsements — institutional backing this district rarely sees Donate to the Campaign Home Is Worth Fighting For The 47th Deserves a Fighter.
+She is the most electable Republican this district has seen in a decade. ✓ Won 62.3% against a 14-year incumbent — as a first-time candidate ✓ Re-elected without opposition after four years of results ✓ Six years on SR-516, housing, public safety, and fiscal discipline ✓ The district's most visible Ukrainian-American leader — in a district with 4,000+ Ukrainian residents ✓ Sole KCGOP and SRCC endorsements, plus The Seattle Times — institutional backing this district rarely sees Donate to the Campaign Home Is Worth Fighting For The 47th Deserves a Fighter.
 Kristina Soltys has spent six years building the exact record this district needs — on public safety, fiscal discipline, transportation, and community.
 She knows the 47th not because she studied it, but because she raised her family here.
 Now she's ready to take that fight to Olympia.

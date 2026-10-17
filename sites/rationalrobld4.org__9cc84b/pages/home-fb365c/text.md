@@ -12,4 +12,4 @@ Send me to Olympia, and I’ll draw upon my education, work and life experience 
 I will seek solutions grounded in research while remembering Christian compassion.
 I’ll push for improving quality of life in Eastern Washington: quality education, affordable healthcare, reasonable housing, and safer communities.
 And I will never forget responsible government means spending is balanced with revenue.
-Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu
+Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

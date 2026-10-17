@@ -2,9 +2,12 @@
 This month and July, Major Erik Hoogstad and Chico Garcia are on the show to talk about The Salvation Army ARC in Iwilei!
 Schedule for June: June 20th June 27th Please support the Salvation Army ARC!
 #Hawaii #OurCommunityFirst #YbanezForKalihi #SalvationArmy #Olelo Previous Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst Next Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst You Might Also Like Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst YBANEZ - More Outreach for our Students!
-From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 YBANEZ 4 KALIHI - Support Local!
+#Kalihi #Hawaii #ourcommunityfirst Next Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst You Might Also Like Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing YBANEZ - Stay prepared for Tropical Cyclone Lala!
+Ybanez - Our Community First!
+#Kalihi #Hawaii #ourcommunityfirst YBANEZ - Mahalo Gov.
+Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
+Free Food Distribution at Kalihi Kai on October 31st!
+More Details to Follow!
 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.

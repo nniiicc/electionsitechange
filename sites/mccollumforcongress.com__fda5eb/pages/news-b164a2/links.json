@@ -28,6 +28,10 @@
 "href": "https://www.mccollumforcongress.com/"
 },
 {
+"text": "Capitol View: A Senate showdown and a cash rundown",
+"href": "https://view.connect.mpr.org/?vawpToken=GJMEHKMVDBJE3L225W6CFBHPQA.10204"
+},
+{
 "text": "Capitol View: The House is out until the election",
 "href": "https://view.connect.mpr.org/?vawpToken=CZPDBZSMNPNETM2CS53WHDI5PM.10203"
 },
@@ -68,10 +72,6 @@
 "href": "https://www.mccollumforcongress.com/"
 },
 {
-"text": "Klobuchar pushes AI safety bill as Trump and GOP House leaders downplay need for oversight",
-"href": "https://www.startribune.com/klobuchar-pushes-ai-safety-bill-as-trump-and-gop-house-leaders-downplay-need-for-oversight/601889903"
-},
-{
 "text": "Largest Federal Employee Union Endorses Minnesota’s Peggy Flanagan for U.S. Senate and Matt Little for U.S. House",
 "href": "https://www.afge.org/publication/largest-federal-employee-union-endorses-minnesotas-peggy-flanagan-for-us-senate-and-matt-little-for-us-house/"
 },
@@ -97,7 +97,7 @@
 },
 {
 "text": "Older Posts",
-"href": "https://www.mccollumforcongress.com/news?offset=1789635611209"
+"href": "https://www.mccollumforcongress.com/news?offset=1789643504532"
 },
 {
 "text": "Pentagon's 'disgusting' livestreamed execution plan provokes fierce backlash across political divide",
@@ -133,6 +133,10 @@
 },
 {
 "text": "Read More",
+"href": "https://view.connect.mpr.org/?vawpToken=GJMEHKMVDBJE3L225W6CFBHPQA.10204"
+},
+{
+"text": "Read More",
 "href": "https://www.afge.org/publication/largest-federal-employee-union-endorses-minnesotas-peggy-flanagan-for-us-senate-and-matt-little-for-us-house/"
 },
 {
@@ -157,14 +161,6 @@
 },
 {
 "text": "Read More",
-"href": "https://www.minnpost.com/elections/2026/09/the-challengers-why-it-will-be-hard-in-a-midterm-likely-to-herald-change-to-oust-a-congressional-incumbent-in-minnesota/"
-},
-{
-"text": "Read More",
-"href": "https://www.startribune.com/klobuchar-pushes-ai-safety-bill-as-trump-and-gop-house-leaders-downplay-need-for-oversight/601889903"
-},
-{
-"text": "Read More",
 "href": "https://www.thedailyagenda.com/p/morning-take-dfl-launches-major-state"
 },
 {
@@ -181,11 +177,11 @@
 },
 {
 "text": "Read More",
-"href": "https://www.womenspress.com/explainer-when-medicaid-changes-come-home-to-minnesota-with-visual-flyer/"
+"href": "https://www.thedailyagenda.com/p/morning-take-senate-showdown-heats"
 },
 {
-"text": "The Challengers: Why it will be hard, in a midterm likely to herald change, to oust a congressional incumbent in Minnesota",
-"href": "https://www.minnpost.com/elections/2026/09/the-challengers-why-it-will-be-hard-in-a-midterm-likely-to-herald-change-to-oust-a-congressional-incumbent-in-minnesota/"
+"text": "Read More",
+"href": "https://www.womenspress.com/explainer-when-medicaid-changes-come-home-to-minnesota-with-visual-flyer/"
 },
 {
 "text": "The House Democrats to watch on Appropriations next year",
@@ -254,5 +250,9 @@
 {
 "text": "morning take | Scores and Statments",
 "href": "https://www.thedailyagenda.com/p/morning-take-scores-and-statments"
+},
+{
+"text": "morning take | Senate Showdown Heats Up",
+"href": "https://www.thedailyagenda.com/p/morning-take-senate-showdown-heats"
 }
 ]

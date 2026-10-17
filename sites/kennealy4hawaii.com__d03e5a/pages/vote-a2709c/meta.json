@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.kennealy4hawaii.com/vote",
- "fingerprint": "879fe71c0f295d109a45c828bc6be97499453c84",
+ "fingerprint": "171da9ddfd77a8bff9410f588a5eb0043ce51a6d",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

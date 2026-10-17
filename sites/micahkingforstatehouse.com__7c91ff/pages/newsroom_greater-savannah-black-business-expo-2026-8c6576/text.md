@@ -17,6 +17,14 @@ We need to streamline regulations that hinder small business growth and ensure a
 Furthermore, by focusing on policies aimed at lowering living costs , we ensure that our local workforce is stable and that families have the disposable income necessary to support their local businesses.
 A rising tide lifts all boats, and the businesses I saw in Savannah are the rising tide of Southeast Georgia.
 Let’s make sure our state legislature gives them the support they need to succeed.
+THE FIELD REPORT • DISTRICT 157 DISPATCH Follow the Campaign for Georgia House District 157 Direct, honest dispatches from Micah King across Appling, Evans, Jeff Davis, and Tattnall Counties.
+No consultant fundraising blasts - just ground-truth trail updates.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 Dispatch Gallery Event Highlights About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • Connecting Policy to Profit Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.

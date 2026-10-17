@@ -8,10 +8,6 @@
 "href": "https://www.abbyfornewmexico.com/about-abby"
 },
 {
-"text": "Candidate Comparison",
-"href": "https://www.abbyfornewmexico.com/comparison"
-},
-{
 "text": "Contact",
 "href": "https://www.abbyfornewmexico.com/contact"
 },
@@ -28,8 +24,16 @@
 "href": "https://www.abbyfornewmexico.com/issues"
 },
 {
+"text": "Opponent Info",
+"href": "https://www.abbyfornewmexico.com/jahnelle-garcia"
+},
+{
 "text": "Volunteer",
 "href": "https://www.abbyfornewmexico.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.abbyfornewmexico.com/voting"
 },
 {
 "text": "[image: Abby Foster is for New Mexico]",
@@ -57,7 +61,15 @@
 },
 {
 "text": "[image]",
+"href": "https://afscme18.org/"
+},
+{
+"text": "[image]",
 "href": "https://dpnm-ejcaucus.org/"
+},
+{
+"text": "[image]",
+"href": "https://semillaaction.org/"
 },
 {
 "text": "[image]",

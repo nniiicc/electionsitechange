@@ -1,4 +1,4 @@
-top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog All Posts Press Releases Campaign Updates Announcements Search SLO County Leader Tom Bordonaro Jr.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Endorse Shannon News Events Blog All Posts Press Releases Campaign Updates Announcements Search SLO County Leader Tom Bordonaro Jr.
 Supports Shannon Kessler for Assembly Shannon Kessler Aug 31 1 min read Shannon Kessler for California Assembly District 30 is honored to announce the endorsement of San Luis Obispo County Assessor Tom Bordonaro Jr.
 Experience and accountability Bordonaro’s public service on the Central Coast reflects the value of local experience and accountable leadership.
 Kessler is running to bring practical, community-focused problem solving to Sacramento.

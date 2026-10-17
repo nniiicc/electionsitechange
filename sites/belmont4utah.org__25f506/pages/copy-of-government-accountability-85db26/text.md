@@ -1,4 +1,4 @@
-top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE Let's preserve OPEN SPACE in Cache Valley Our amazing open spaces contribute so much to our high quality of life in Cache Valley.
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact VOLUNTEER ENDORSE Let's preserve OPEN SPACE in Cache Valley Our amazing open spaces contribute so much to our high quality of life in Cache Valley.
 But we are losing open space quickly.
 If you have been in Cache Valley for the past few decades you have likely noticed the trend.
 People who have moved away from Cache Valley and moved back are shocked to see how quickly we are losing open space.

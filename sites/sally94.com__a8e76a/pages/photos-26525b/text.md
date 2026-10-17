@@ -42,5 +42,5 @@ Was delighted to share a table with Eunice Lehmacher, candidate for US House Dis
 Barbara Felder of St.
 George was at the next table over.
 She is a DCDP stalwart!
-Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

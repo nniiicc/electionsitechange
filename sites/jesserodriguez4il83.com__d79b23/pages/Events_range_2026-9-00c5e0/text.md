@@ -29,4 +29,4 @@ We urge you to pre-register for a table at ELECTION EXPO now by scanning or clic
 There is no fee for your participation, and you are welcome to send a surrogate to the event if you run into a conflict and are unable to attend.
 We have established Ground Rules to ensure a successful event, fairness to all candidates, and a nonpartisan, inclusive, family-friendly atmosphere.
 You will have the opportunity to review and agree to the Ground Rules during the sign-up process.
-Add your event description here More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Add your event description here More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

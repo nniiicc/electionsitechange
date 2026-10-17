@@ -4,4 +4,4 @@ Our seniors worked hard and contributed to these programs over their careers, an
 I am cosponsoring legislation that would expand Social Security benefits, increase the cost-of-living adjustment for seniors, and strengthen the solvency of the program.
 Further, I support investing in our caregiving workforce to support older adults and people with disabilities.
 Lastly, I voted for legislation to lower the cost and cap prescription drug costs and will continue to hold massive pharmaceutical companies accountable for the prices they set.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

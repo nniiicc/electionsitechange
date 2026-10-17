@@ -2,4 +2,4 @@ Meet Bradley Issues News Volunteer Contribute Events / Apple Butter Parade Apple
 Map West st Mt Vernon , MO (417) 737-1293 https://www.facebook.com/share/1EDapDWbf1/ Directions → Add to calendar This event has passed Sign-ups are closed.
 Check the events page for what's coming up next.
 See upcoming events VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com - Political Websites Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid by: Bos For 157, treasurer: Mercedes Bos Powered by CampaignPartner.com Home Meet Bradley Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

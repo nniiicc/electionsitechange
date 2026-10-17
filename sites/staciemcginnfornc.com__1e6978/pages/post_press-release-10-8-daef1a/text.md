@@ -1,4 +1,4 @@
-top of page ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS DONATE All Posts Search WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT #ago 4 min read CHARLOTTE, N.C. – Stacie McGinn, Republican nominee for Senate District 42, responds to her opponent Woodson Bradley’s lies to the Charlotte Observer as to why she missed the final vote on Iryna’s Law.
+top of page ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS DONATE All Posts Search WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT Oct 9 4 min read CHARLOTTE, N.C. – Stacie McGinn, Republican nominee for Senate District 42, responds to her opponent Woodson Bradley’s lies to the Charlotte Observer as to why she missed the final vote on Iryna’s Law.
 In the article, Senator Bradley claims, “I was ready to vote for the bill the morning it came on to the floor at 10 a.m.
 I had an excused absence to leave at 4 p.m. to attend Iryna’s Vigil, but voting was postponed and I was unable to stay any longer.
 If I had had the opportunity to vote for Iryna’s Law, I would have done so.

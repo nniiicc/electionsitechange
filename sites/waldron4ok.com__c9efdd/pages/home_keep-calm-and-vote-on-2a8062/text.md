@@ -14,4 +14,4 @@ Just like our first citizens, you have the power to determine the future of our 
 So, the next time someone starts yelling and being divisive, just smile and make a plan to vote on Election Day.
 And I’ll see you at the polls.
 John Waldron for Oklahoma 2020.
-Powered by CampaignPartner.com - Political Websites HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu
+Powered by CampaignPartner.com HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu

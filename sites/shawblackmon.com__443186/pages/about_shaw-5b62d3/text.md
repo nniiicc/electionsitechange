@@ -13,5 +13,5 @@ Shaw was elected to the 146 th District in 2015 and serves on Governmental Affai
 He also serves as Chair of the Ways & Means Committee as well as Ex-Officio on the Appropriations Committee.
 He will continue to focus on the issues near to his heart and his background – strengthening our defense community, enhancing education, and pushing for simple, smart, and effective government that stays out of your way so that Houston County will continue to grow and thrive for future generations.
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

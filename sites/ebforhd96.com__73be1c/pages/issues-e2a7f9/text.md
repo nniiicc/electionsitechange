@@ -9,5 +9,5 @@ Secure and Affordable Healthcare Read More O.
 Opportunities for Economic Growth and Development Read More N.
 No Vouchers Read More A.
 Accountability & Enforcement of Special Education "IEPs" Read More L.
-Livable Wages for All Texans Read More Contribute Volunteer Endorsements Yard Signs Events Contact Privacy Policy Paid for By Ebony Turner For House District 96 Campaign / Akilah Curtis, Treasurer Powered by CampaignPartner.com - Political Websites Press Releases/Statements Home Meet Ebony P.E.R.S.O.N.A.L.
+Livable Wages for All Texans Read More Contribute Volunteer Endorsements Yard Signs Events Contact Privacy Policy Paid for By Ebony Turner For House District 96 Campaign / Akilah Curtis, Treasurer Powered by CampaignPartner.com Press Releases/Statements Home Meet Ebony P.E.R.S.O.N.A.L.
 Issues Contribute Volunteer Yard Signs Events Endorsements Contact Privacy Policy Close Menu

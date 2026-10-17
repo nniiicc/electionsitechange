@@ -17,5 +17,5 @@ Representative Shaw Blackmon represents the citizens of District 146, which incl
 He was elected to the House of Representatives in 2015 and currently serves as the Chairman of the Ways & Means Committee.
 He also serves on the Appropriations Subcommittee on Transportation, Special Committee on Election Integrity, Economic Development & Tourism, Governmental Affairs, Insurance, Juvenile Justice, Rules, Special Rules and Small Business Development committees.
 He is also an Ex-Officio member of the full Appropriations Committee .
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

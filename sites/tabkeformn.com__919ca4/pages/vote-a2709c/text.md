@@ -8,6 +8,6 @@ Vote.
 Every election matters.
 Every vote matters.
 Make sure you’re registered to vote, choose how you’re going to vote, and track the status of your ballot.
-Check Voter REgistration Find Your Polling location Request Absentee Ballot Find Absentee Ballot Dropbox Check Absentee Ballot Status View your Sample ballot Get Voting Support Campaign Office 285 1st Ave.
+Check Voter REgistration Register to vote Find Your Polling location Request Absentee Ballot Find Absentee Ballot Dropbox Check Absentee Ballot Status View your Sample ballot Get Voting Support Campaign Office 285 1st Ave.
 E.
 Shakopee, MN 55379 quick links Volunteer Donate Yard Signs Vote About Issues Contact tabkebrad@gmail.com (952) 225-3124 Prepared and paid for by the Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379

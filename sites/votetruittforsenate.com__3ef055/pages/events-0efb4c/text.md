@@ -1,4 +1,4 @@
-Meet Carrie Events Issues News Volunteer Contribute Events #ago This Week This Month ‹ Previous Fri Oct 16 2026 - Sat Oct 16 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Coffee with Carrie at Vibe Coffee 118 N Lincoln Boulevard, Hodgenville, KY, 42748 Grab a cup and pull up a chair!
+Meet Carrie Events Issues News Volunteer Contribute Events #ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › 17 Oct Saturday, 9:00 AM – 10:30 AM Coffee with Carrie at Vibe Coffee 118 N Lincoln Boulevard, Hodgenville, KY, 42748 Grab a cup and pull up a chair!
 Carrie is hitting the road for a series of Coffee with Carrie stops at coffee shops across the district.
 It's a low key chance to meet her, share what's on your mind, and talk about what's happening in your community.
 No agenda, no speeches, just neighbors talking with neighbors over coffee.
@@ -11,4 +11,4 @@ Food, fun, and a whole lot of momentum.
 Bring your family, bring your friends, bring your neighbors.
 Let's finish strong!
 More info › CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
-News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

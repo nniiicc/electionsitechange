@@ -12,4 +12,4 @@ He's been a volunteer for many organizations in the Oxford Hills including the H
 In his free time, he enjoys coaching middle school Football and Boy's Lacrosse.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 Voter Information Yard Signs Events Contact Paid for by the candidate, not at taxpayer expense.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu
+Powered by CampaignPartner.com Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,4 @@
-Skip to content ShepardForNH Scott Shepard for State Representative Menu Home About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Volunteer Contact Donate Events Meet Scott, ask questions, share your concerns, and learn more about the campaign.
+Skip to content SHEPARD FOR NH Scott Shepard · State Representative Menu ☰ Home About Scott Issues NH Insights Events Volunteer Contact Donate Events Meet Scott, ask questions, share your concerns, and learn more about the campaign.
 Upcoming Events No events currently listed Please check back soon for upcoming campaign events.
 To invite Scott to speak with a group, attend a community event, or join a neighborhood conversation, please contact the campaign.
 Contact the Campaign Host an Event One of the most valuable ways to help the campaign is to host a small gathering.
@@ -6,8 +6,8 @@ That could mean inviting neighbors for coffee, hosting a backyard conversation, 
 You do not need to host a large event.
 Some of the best campaign conversations happen in small groups.
 Host an Event Invite Scott Scott is available to speak with local groups, civic organizations, neighborhood gatherings, and community members interested in New Hampshire’s future.
-Property taxes School funding Housing Workforce development Childcare Local control State budgeting Governance and problem-solving ShepardForNH Scott Shepard is running for NH State Representative in Strafford County District 4, representing Barrington and Strafford.
+Property taxes School funding Housing Workforce development Childcare Local control State budgeting Governance and problem-solving SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
 Facts.
 Strategy.
 Real Solutions.
-Get Involved Volunteer Donate Events Contact Campaign Announcement Follow NH Insights on Substack Facebook Spotify NH Insights on Apple Podcasts Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.

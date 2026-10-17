@@ -15,5 +15,6 @@ As with Stokesbary’s HB 1427, SB 5186 provides relief by increasing the income
 Income thresholds will be increased by $5,000, so those with adjusted incomes of $40,000 or less will now qualify for an exemption, and those with adjusted incomes of $45,000 or less will qualify for a deferral.
 Senate Bill 5186 was signed into law July 6.
 Next session, I plan to introduce another bill to help this program work even more efficiently for retirees on fixed incomes.
-In the News property tax seniors taxes More For You Drew Stokesbary receives NRA endorsement Endorsements Making state government more effective, efficient, and accountable In the News The Seattle Times recommends Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News property tax seniors taxes More For You Rep.
+Drew Stokesbary hosts town hall Saturday In the News Lawmakers concerned about auditor probe In the News Washington risks budgeting online sales tax revenue In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

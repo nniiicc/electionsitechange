@@ -1,4 +1,4 @@
-ES Home Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Back Privacy Policy Data Usage and SMS Opt-In Details We use the information provided through our SMS opt-in form solely to communicate campaign updates, volunteer coordination, and voter outreach related to Brian Calaway’s campaign.
+ES Home Voter Guide Events Issues Get Involved About Blog Contact Brian Request a Yard Sign Volunteer Back Privacy Policy Data Usage and SMS Opt-In Details We use the information provided through our SMS opt-in form solely to communicate campaign updates, volunteer coordination, and voter outreach related to Brian Calaway’s campaign.
 Consent to receive text messages is obtained via a clear opt-in process on our website where checkboxes are optional and not pre-checked .
 Data Security and Handling We implement industry-standard security measures to protect your personal data from unauthorized access, alteration, or disclosure.
 Access to your information is restricted to authorized campaign staff and subcontractors who require the data to perform support services.
@@ -37,6 +37,6 @@ Non-Sharing No mobile information will be shared with third parties/affiliates f
 Information sharing to subcontractors in support services, such as customer service, is permitted.
 All other use case categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 P.O.
-Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Paid for by Brian Calaway for Arizona House Quick Links About Brian Issues Voter Guide Events Blog Volunteer Contact Brian Follow Along campaign@briancalaway.com © # Brian Calaway for Arizona House.
 All rights reserved.
 Privacy Policy Terms

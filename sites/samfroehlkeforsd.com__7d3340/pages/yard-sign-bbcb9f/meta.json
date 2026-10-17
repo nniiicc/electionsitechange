@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign or a Highway Sign",
  "final_url": "https://www.samfroehlkeforsd.com/yard-sign",
- "fingerprint": "3b0479c511d02e0b3528819694eb1ad8c6613ead",
+ "fingerprint": "6e8f5cb3219274a5561a8ef2d347cd56bf367414",
  "format": 3,
  "paid_for_by": "Paid for by Sam Froehlke for House Powered by CampaignPartner",
+ "rendered": false,
  "title": "Request a Yard Sign or Highway Sign",
  "years_mentioned": []
 }

@@ -8,4 +8,4 @@ He believes leadership begins with listening—truly understanding the needs, ho
 Whether working alongside neighbors, supporting local initiatives, or helping solve complex issues, Jonathan strives to lead with compassion, clarity, and respect.
 Above all, he is committed to building a future where families feel supported, communities feel connected, and every individual has the opportunity to thrive.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Vote For Kennealy for Hawaii November 3, 2026 Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Vote For Kennealy for Hawaii November 3, 2026 Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

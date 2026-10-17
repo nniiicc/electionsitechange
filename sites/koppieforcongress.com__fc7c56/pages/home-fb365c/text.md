@@ -29,4 +29,4 @@ He grew up in a Christian family, married and had three sons, one daughter and t
 It's time to put an honest hard-working man in Congress who will tell you the truth and fight for you and your family's future.
 This time, vote for Chad Koppie!
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com - Political Campaign Websites Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu
+Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu

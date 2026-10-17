@@ -15,4 +15,4 @@ Written in." Political advertisement paid for and approved by Hamilton For Flori
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Home Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
 House of Representatives, Florida’s 25th Congressional District.
-Powered by CampaignPartner.com - Political Campaign Websites Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu
+Powered by CampaignPartner.com Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu

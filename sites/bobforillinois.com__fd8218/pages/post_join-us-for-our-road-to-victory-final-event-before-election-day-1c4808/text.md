@@ -7,7 +7,9 @@ Questions or special requests?
 Reach out directly to our campaign team at KAT@bobforillinois.com .
 Let's Finish Strong Together Your support and energy make the difference.
 Confirm your attendance today and help us bring home the victory.
-Confirm Your RSVP Now Recent Posts See All On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour 3 Weeks Left: Help Bob Fioretti Cross the Finish Line Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Confirm Your RSVP Now Recent Posts See All # Days Until Election Day: Your Illinois Voter Action Guide Official Voter Directive # DAYS LEFT The Office of the Attorney General Belongs to the People.
+Illinois stands at a critical juncture.
+The Attorney General is our state’s chief legal advocate—mandate On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour 3 Weeks Left: Help Bob Fioretti Cross the Finish Line EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

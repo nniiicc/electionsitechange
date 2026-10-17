@@ -1,5 +1,17 @@
 0 Skip to Content About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate New Page Open Menu Close Menu About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate New Page Open Menu Close Menu About Platform Folder: Inflation Back Regulation Tariffs Fed Reform USMCA Folder: More Topics Back Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate New Page News Articles, Interviews & Debates: U.S.
-Congressional Race AR District 1 Recent Interviews, Articles and Debates: Green and Parsons Discuss Economy, Privacy in District 1 Debate on ASU-TV - Jonesboro Right Now .
+Congressional Race AR District 1 Recent Interviews, Articles and Debates: 1st Congressional District debate turns feisty - Talk Business & Politics Parsons said 20,000 children have been killed in those strikes and 14,000 of them were 12 years old or younger.
+“I can’t believe you call yourself pro-life,” Crawford called him antisemite - Parsons said he is not an antisemite and Crawford “seems to be pro-tariff and pro-tax, which means anti-free enterprise.” Parsons said regulation and licensure reforms would help rural health institutions.
+Fuel prices, tariffs weigh heavily in east Arkansas’ US House race | Arkansas Advocate Green and Parsons Discuss Economy, Privacy in District 1 Debate on ASU-TV - Jonesboro Right Now .
+Inflation: Parsons wants to end the war in Iran (for fertilizer and diesel), end the trade ware and end tariffs.
+“The best way to help farmers includes ending the Iran war, stopping Trump trade wars and eliminating bureaucracy surrounding green cards and work visas.
+“There is a farm worker shortage right now,” Parsons said.
+“Whatever the size of that shortage is now, it’s going to be way worse if you continue to make it illegal to bring workers in.” Parsons said to address the rising cost of healthcare there needs to be more efforts aimed at tort reform to address the costs of litigation.
+Green and Parsons Discuss Economy, Privacy in District 1 Debate on ASU-TV - Jonesboro Right Now “If elected, I will donate my entire salary to local charities, and I have not accepted a dime in campaign donations,” Parsons stated.
+To help rural economies: Parsons suggested eliminating $181 billion in annual corporate welfare and cutting regulations.
+Parsons argued strongly against raising the federal minimum wage, asserting that artificial wage floors trigger severe unintended consequences.
+He proposed a policy to “neuter the Federal Reserve,” arguing they hold “the greatest long-term influence on inflation” due to their control over the money supply.
+“I want government to be at the lowest geographic level possible,” Parsons argued, stating that the federal government tends to “become bureaucratic, go crazy, [and be] exceptionally expensive”.
+Arkansas State University, Jonesboro Debate, Oct 8.
 The full debate is available at ON-DEMAND - U.S House of Representatives District 1 Political Debate - YouTube .
 Topics covered included: 1) Rural Economies ; Parsons: “To genuinely support rural economies, he proposed eliminating $181 billion in annual corporate welfare, arguing that these massive federal subsidies overwhelmingly benefit large corporations and put small rural businesses at a severe disadvantage.
 He also called for a drastic reduction in federal regulations, explaining that while giant corporations can afford teams of specialists to navigate complex rules, small local companies cannot.” 2) Minimum Wage: Parsons argued strongly against raising the federal minimum wage, asserting that artificial wage floors trigger severe unintended consequences.
@@ -14,7 +26,8 @@ To combat potential overreach, he proposed shifting the authority over surveilla
 The American public has been sold a “bill of goods” regarding the absolute necessity of a traditional four-year liberal arts degree.
 He criticized federal programs that blindly entice students into taking on massive debt without a guaranteed return on their investment.
 To fix the system, Parsons proposed that higher education institutions need more financial accountability. … holding universities financially liable would incentivize them to steer students toward “more productive” degrees and technical certifications that ensure graduates can actually earn a living.
-7) Reduce Regulations: Sugar Industry - the government dictates how much sugar each producer can make leading to sugar prices twice as high Fuel prices, tariffs weigh heavily in east Arkansas’ US House race | Arkansas Advocate .
+7) Reduce Regulations: Sugar Industry - the government dictates how much sugar each producer can make leading to sugar prices twice as high.
+Fuel prices, tariffs weigh heavily in east Arkansas’ US House race | Arkansas Advocate .
 This Oct 9 2026 article covers: 1) the war in Iran : “I want the United States to stop being the puppet of Israel,” Parsons said.
 “I want to end the war in Iran, and I would take any action that would try and reduce or end the war in Iran.” 2) U SMCA v NAFT A “You took a mediocre trade agreement in NAFTA and you made it worse with more regulations,” Parsons said.
 Crawford voted for USMCA with Nancy Pelosi and was supported by AFLCIO.

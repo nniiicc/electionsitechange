@@ -7,4 +7,4 @@ Any questions please contact Dani Deatrich at 570-205-8124 or send a message on 
 If you are unable to attend but would still like to donate please use this link https://politics.raisethemoney.com/en/jdeatrich THANK YOU FOR YOUR SUPPORT!!!
 More info › 17 Aug Monday, 9:00 AM – 5:00 PM Father and Sons Barbershop 8th Annual Back to School Community Kickback 202 North Centre Street, Pottsville, PA, 17901 Please come out to this wonderful local event and meet John!
 More info › VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

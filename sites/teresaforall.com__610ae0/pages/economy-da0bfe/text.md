@@ -22,4 +22,4 @@ As a working mom of three, I know this all too well.
 All New Mexicans deserve the time they need away from work when they have a child, get sick, or a family member is deployed in the military - and our families deserve access to quality, affordable child care for all of New Mexico’s children. ​ Small Businesses From traders along the Camino Real to Charlie’s Spic and Span in my hometown of Las Vegas, NM, small businesses are a vital part of our communities.
 As a former small business owner, I work to support small businesses, the backbone of our local economies, by cutting red tape, creating access to capital, and providing tax incentives for local businesses instead of giving handouts to large out-of-state corporations.
 I worked in Congress to pass the American Rescue Plan to provide emergency support for small businesses, venues, and restaurants in New Mexico, including forgivable loans and tax credits.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

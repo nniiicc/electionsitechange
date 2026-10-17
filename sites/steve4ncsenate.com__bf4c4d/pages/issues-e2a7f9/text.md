@@ -34,4 +34,4 @@ Veterans and seniors deserve reliable healthcare, housing stability, and access 
 I will always fight to make sure those who served and those who built this state are not left behind.
 Common-Sense Leadership in Raleigh North Carolina doesn’t need more noise—it needs leaders who listen, work across differences, and get things done.
 I’m running to bring common sense, accountability, and people-first leadership to Raleigh, focused on results instead of party politics.
-DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com - Political Websites Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu
+DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

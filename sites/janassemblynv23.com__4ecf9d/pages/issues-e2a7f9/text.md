@@ -32,4 +32,4 @@ Safe neighborhoods are the foundation of a thriving Nevada.
 A Furture We Build Together This campaign is about unity, opportunity and progress.
 Jan is ready to bring people together across generations to create a stronger more resilient Nevada.
 BECAUSE NEVADA DESERVES A VOICE THAT FIGHTS FOR ALL OF US!!!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

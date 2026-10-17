@@ -23,5 +23,11 @@ The IDs are used for purposes such as air travel and access to military bases an
 If signed into law, Illinois will join numerous states with similar processes, including California, Maryland, New Jersey, New York, Oregon and Colorado.
 The legislation also establishes standard, non-REAL ID-compliant ID cards for immigrants and restricts the sharing of driver information by prohibiting the use of data for immigration enforcement purposes.
 Immigration agents would be required to provide a court-issued warrant, order or subpoena to request the personally identifying information.
-Giannoulias’ office has implemented additional safeguards to ensure immigrant motorists are not eligible for a REAL ID and cannot be added to the voting rolls. -#- Other Press Releases Democrat Secretary of State Candidate Alexi Giannoulias Earns New Suburban and Labor Endorsements New Trier, Schaumburg Democrats and Six Unions Pledge Support for Former State Treasurer Keep Reading → Giannoulias Plan Would Allow Illinoisans to Choose Their Driver’s License Photo Proposal Would Establish New Fund for Transportation Safety Keep Reading → Giannoulias Releases First Spanish Language Video Former State Treasurer Exploring Run for Secretary of State Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Giannoulias’ office has implemented additional safeguards to ensure immigrant motorists are not eligible for a REAL ID and cannot be added to the voting rolls. -#- Other Press Releases Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Day.
+Keep Reading → Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show TVDL renewals will also be offered for the first time as well Keep Reading → Former Democrat Congressman Jerry Costello Endorses Giannoulias for SOS Former U.S.
+Rep.
+Jerry F.
+Costello announced his endorsement today for Democrat Secretary of State candidate Alexi Giannoulias in the 2022 election cycle Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

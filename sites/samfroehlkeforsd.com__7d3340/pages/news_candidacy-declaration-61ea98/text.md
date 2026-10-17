@@ -13,4 +13,4 @@ But any tax cut has to mean cutting spending, even where it hurts.
 Our needs must come before our wants, and we need to maintain local fire and ambulance services.
 We need to support our townships, and their upkeep.
 The taxes must be cut, and these needs take precedence over infinitely expanding school budgets.
-Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

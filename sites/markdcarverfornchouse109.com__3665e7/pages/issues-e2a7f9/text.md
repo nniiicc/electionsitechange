@@ -12,4 +12,4 @@ Read More First Responders Our communities would not be the same without the dil
 We must stand by those who risk life and limb in service of our great state.
 Read More Aviation More than a century ago, mankind took to the skies for the first time in this very state.
 In honor of this great achievement, I will strive to provide scholarships, tuition assistance, and vocational primary education to any and all young North Carolinians who dream of following in the footsteps of our state's most famous pair of brothers.
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

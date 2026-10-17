@@ -30,4 +30,8 @@ Serving our community is one of the greatest honors of my life, and I’m truly 
 This time of year reminds us of the things that matter most—family, faith, generosity, and the simple joy of gathering with the people we love.
 I hope your holidays are filled with peace, warmth, and meaningful moments, and that the new year brings health, happiness, and renewed hope to every household.
 Merry Christmas and happy holidays from my family to yours!
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 6 + 4 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 2 + 13 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

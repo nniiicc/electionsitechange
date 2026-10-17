@@ -31,4 +31,4 @@ If you'd like to join us, I encourage you to sign up for one of our volunteer op
 Together, we can bring new leadership to House District 30 and build a stronger future for the communities of Edgewater and Lakewood.
 Let’s flip the HD30 seat for the future.
 Together, we can Move Colorado Forward.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

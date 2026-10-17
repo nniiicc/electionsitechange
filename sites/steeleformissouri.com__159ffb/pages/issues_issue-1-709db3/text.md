@@ -1,4 +1,4 @@
-Skip navigation menu Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Lower the cost of Living Fully-Funded Schools Affordable Healthcare Respect the will of Missouri voters Steele for Missouri believes in Lower the cost of Living For far too many people these days - prosperity is out of reach.
+Skip navigation menu Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Lower the cost of Living Fully-Funded Schools Affordable Healthcare Respect the will of Missouri voters More Issues A-z Steele for Missouri believes in Lower the cost of Living For far too many people these days - prosperity is out of reach.
 But it doesn’t have to be that way.
 The cost of living is rising out of control, and there aren’t enough jobs that can even keep up with those rising prices, much less get ahead.
 We need to make sure that our families can make ends meet.

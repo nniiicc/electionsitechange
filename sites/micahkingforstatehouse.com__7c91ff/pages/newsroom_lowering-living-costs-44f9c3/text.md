@@ -48,6 +48,14 @@ By removing this red tape, we can attract new healthcare providers to Southeast 
 A Georgia that Works for Everyone Lowering the cost of living is not a partisan issue; it is a survival issue for the working families of District 157.
 We need a representative who will go to Atlanta and fight for your wallet, not for the special interests.
 Let’s make Georgia the absolute best state to raise a family, build a career, and enjoy a prosperous life.
+THE FIELD REPORT • DISTRICT 157 DISPATCH Follow the Campaign for Georgia House District 157 Direct, honest dispatches from Micah King across Appling, Evans, Jeff Davis, and Tattnall Counties.
+No consultant fundraising blasts - just ground-truth trail updates.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Join the Dispatch Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • The Hidden Costs of Rural Living • Concrete Steps to Lower the Cost of Living – 1.

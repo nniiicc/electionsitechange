@@ -61,6 +61,6 @@ Building a Better Georgia Together. $9 $26 $50 $100 Donate To Caitlyn Gegen Dona
 General Election Reminder Early voting begins October 13, 2026.
 Election Day Tuesday, November 3.
 Check your voter registration and make your plan to vote in the 2026 general election.
-Check Your Voter Registration Caitlyn Gegen For Congress Paid for by The Campaign Fund of Caitlyn Gegen About Solutions Values Events Press Donate Designed by rosecraftdesigns.com 2026 Take Me To The Top A Accessibility Accessibility & Translation Translate this page, adjust text size, or use read-aloud support.
+Check Your Voter Registration Caitlyn Gegen For Congress Paid for by The Campaign Fund of Caitlyn Gegen About Solutions Values Events Press Donate Designed by rosecraftdesigns.com 2026 Take Me To The Top Languages Accessibility & Translation Translate this page, adjust text size, or use read-aloud support.
 Translate English Spanish Hindi Korean Chinese Thai Vietnamese Urdu Display Mode Default Color Filters Text Zoom 100% 150% 200% Read Aloud Tab to navigate — focused text will be read aloud.
 Powered by Translate Original text Rate this translation Your feedback will be used to help improve Google Translate

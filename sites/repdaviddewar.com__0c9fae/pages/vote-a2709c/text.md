@@ -10,4 +10,4 @@ Go to the Illinois Policy Find Your Repreresentative page, enter your informatio
 Your result will display near the red arrow shown below.If incumbent Mary Gill is listed, you are in District 35.
 Tip: If you're on a computer, use your mouse wheel to zoom in on the map.
 On a mobile phone, you can pinch to zoom in and see how the district boundaries were drawn.
-More Helpful Links Verify Registration Status Register to Vote Request an Absentee Ballot Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu
+More Helpful Links Verify Registration Status Register to Vote Request an Absentee Ballot Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

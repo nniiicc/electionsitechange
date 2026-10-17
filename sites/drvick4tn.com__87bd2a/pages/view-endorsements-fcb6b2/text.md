@@ -14,5 +14,5 @@ Vick is a great man and has my vote Tucker Williams Tucker Williams Dr Vick will
 He is a devout Christian and a genuine person who will have the needs of his constituents at the forefront of his mind.
 I wholeheartedly believe without a shadow of a doubt Dr Robert C Vick will be an extraordinary leader who will lead Tennessee with honesty integrity and humbleness.
 Alex Wiseman Jenkins Click here to add your endorsement Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
-Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
+Vick for governor Powered by CampaignPartner.com Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

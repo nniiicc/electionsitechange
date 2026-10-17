@@ -10,7 +10,7 @@ I’ll never forget it.
 I’m voting for Andy Barr.
 Barr: I’m Andy Barr and I approve this message.
 ### Share this post: Facebook X Linkedin Email Previous post Bluegrass Brief: President Trump is Coming to Kentucky!
-Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
+Next post Barr Maintains Commanding Financial Advantage Over Booker Heading into Final Weeks of Senate Race Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
 Privacy Policy / Terms and Conditions Sign Up For press inquiries, please contact press@barrforsenate.com Mailing Address: PO Box 2059 Lexington, KY 40588 Paid for by Andy Barr for Senate Please provide your mobile phone to opt-in to Andy Barr for Senate campaign alerts, updates and news.
 By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
 Message frequency may vary.

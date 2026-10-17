@@ -5,4 +5,4 @@ Guests will enjoy live music, a complimentary drink from the Keep Easy and a fre
 Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table. $20- just coming for fun $35- Keepin' it Easy $50 - Make a change $75 - Making progess $100- Making changes Location 747 Yorkway Pl, Jenkintown, PA 19046 (610) 247-3965 Get Driving Directions Add to calendar This event has passed Sign-ups are closed.
 Check the events page for what's coming up next.
 See upcoming events Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

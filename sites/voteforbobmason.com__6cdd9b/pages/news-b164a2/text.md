@@ -145,4 +145,4 @@ During the pandemic the governor issued several decrees that worked to damage an
 Overall, it seems like the state’s legislature is more beholden to the teacher’s union and the trial lawyers than to the citizens of the state.
 Although these are the issues that concern Bob, he is asking residents of District 21 what issues are important to them by completing a short survey.
 The survey is available here .
-Read more Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

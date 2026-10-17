@@ -28,4 +28,4 @@ Read More Immigration I support President Trump and the border wall initiative .
 This protects Kentuckians from illegal drugs and criminals.
 Click below to learn more about my position.
 Read More Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
-Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com Home About Matt News On the Issues Endorsements Contact Close Menu

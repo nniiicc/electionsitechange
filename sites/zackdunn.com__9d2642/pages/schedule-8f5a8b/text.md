@@ -1,3 +1,3 @@
-Skip to content Home About Issues News Schedule Endorsements Volunteer Donate Home About Issues News Schedule Endorsements Volunteer Donate Donate Schedule of Events P.O.
+Skip to content Home About Issues News Endorsements Volunteer Events Donate Home About Issues News Endorsements Volunteer Events Donate Donate Events P.O.
 Box 592058 San Antonio, TX 78259 Info@ZackDunn.com (210) 960-0043 Paid for by Dunn for Texas.
 Home About Issues News Endorsements Volunteer Donate Instagram Facebook Linkedin X-twitter Youtube Spotify

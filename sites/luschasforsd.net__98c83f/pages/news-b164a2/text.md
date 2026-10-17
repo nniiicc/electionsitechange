@@ -40,4 +40,4 @@ Read more 11 Nov Tuesday, 2:07 PM · 2025 Letter to the Editor: Cell Phone Tower
 Read more 27 Feb Thursday, 1:34 PM · 2025 Manuel Testifies for SB219 Accept Cash at School Events Manuel testified in Pierre in support of SB219 so all families are able to attend their kids' school events.
 Read more 21 Jan Tuesday, 1:44 PM · 2025 Letter to the Editor: South Dakota Cash Bills Manuel and Susan write in to the Brandon Valley Journal about the 2025 South Dakota Cash Bills .
 Read more 24 Sep Tuesday, 1:39 PM · 2024 Letter to the Editor: Screen Time Ban Starts at Home Manuel and Susan write in to the Brandon Valley Journal about Screen Time and Kids .
-Read more Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Read more Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

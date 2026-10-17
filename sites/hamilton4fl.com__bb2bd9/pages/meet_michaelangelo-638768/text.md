@@ -36,4 +36,4 @@ For Michaelangelo, this campaign is about proving that where you start does not 
 Hamiltonian Republicanism and the future of the Republican Party and of America starts right here at home. " - Michaelangelo Hamilton, Future U.S.
 Representative (FL-25) ``` Home Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
 House of Representatives, Florida’s 25th Congressional District.
-Powered by CampaignPartner.com - Political Campaign Websites Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu
+Powered by CampaignPartner.com Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu

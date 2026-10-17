@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.garyclick.com/vote",
- "fingerprint": "44c023e09ddaae8d4595c10e31418b1e537840aa",
+ "fingerprint": "c809540a1694ed72807135bd151b43f35b827eae",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Online Voter Registration",
  "years_mentioned": [
   "2019",

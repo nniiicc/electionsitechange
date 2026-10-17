@@ -5,4 +5,4 @@ I’ve fought to protect Native American and Hispanic voters from gerrymandering
 I’ve taken my lifetime commitment of championing voting rights to Congress.
 I’ve worked on legislation to ensure that every American has an equal opportunity to vote and engage in our democracy, require secret money groups to disclose their donors, and end partisan gerrymandering.
 I will never stop fighting to restore democracy to the people, protect the full voting rights of every American, overturn Citizens United, and ensure elected officials work for the gente - not just the wealthy and powerful.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

@@ -14,4 +14,4 @@ Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 JOIN OUR LIST Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up Thank you!
-Back to Top Invite Home Privacy Policy Paid for by Jim Jordan for Congress
+Back to Top Videos Invite Home Privacy Policy Paid for by Jim Jordan for Congress

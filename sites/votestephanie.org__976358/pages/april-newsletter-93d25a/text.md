@@ -25,4 +25,8 @@ Empowering Future Leaders Too many students graduate without a clear understandi
 That’s why this past session, we established the Center for Civic Excellence at Utah State University to ensure future generations are equipped with the knowledge needed to uphold liberty, justice, and self-governance.
 By studying the foundational texts and ideas that shaped America and the Western world, students will gain a deeper appreciation for our nation’s values and institutions.
 This initiative is a commitment to preserving the freedoms we cherish and preparing the leaders of tomorrow.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 7 + 13 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 15 + 6 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

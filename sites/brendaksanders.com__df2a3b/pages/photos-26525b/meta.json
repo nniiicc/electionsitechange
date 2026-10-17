@@ -1,9 +1,10 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.brendaksanders.com/photos",
- "fingerprint": "40f695f7a5f9fcb1b040dfae9ff8d356ebc2dceb",
+ "fingerprint": "bd221ef3b31c8a25ccf90d27a1ed3483b4b3350a",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Photo Gallery",
  "years_mentioned": [
   "2008",

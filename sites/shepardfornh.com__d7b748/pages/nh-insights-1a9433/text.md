@@ -1,16 +1,25 @@
-Skip to content ShepardForNH Scott Shepard for State Representative Menu Home About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Volunteer Contact Donate NH Insights & Op-Eds Fact-based analysis, public commentary, and selected opinion writing on statewide issues.
-Before becoming a candidate, I created NH Insights to help New Hampshire residents better understand the policy choices facing the state.
-Through Substack, Facebook, podcasts, public commentary, and published op-eds, I have written and spoken about education, school funding, property taxes, housing, workforce development, childcare, local government, and the state budget.
-My goal has been to bring more facts, context, and practical analysis into public conversations that are too often dominated by slogans and political talking points.
-Read, Listen, and Follow NH Insights on Substack NH Insights on Facebook NH Insights on Spotify NH Insights on Apple Podcasts Campaign Announcement Scott Shepard Announces Campaign for NH State Representative I am running for New Hampshire State Representative in Strafford County District 4, representing Barrington and Strafford.
-This campaign grows out of the same work I have done through NH Insights: focusing on facts, understanding root causes, and working toward practical solutions.
-Read the Full Announcement Selected Writing and Analysis This section collects the main public pieces I want voters to see: selected op-eds, Substack analysis, and public social versions where available.
-Some op-eds are hosted on external news sites; where possible, I also link to public NH Insights or Facebook versions for easier access and sharing.
-Concord Monitor Op-Ed New Hampshire is arguing about K–12 education — but not asking the right questions This op-ed argues that New Hampshire’s education debate should start with deeper questions about local control, educational quality, value for money, risk, and whether the state is governing through strategy or recurring conflict.
-Read the op-ed → Read/share the public Facebook post → Concord Monitor Letter Brittle tax base: danger ahead This letter highlights the risk of New Hampshire’s narrow tax base, revenue volatility, business tax concentration, and the danger of shifting fiscal stress onto municipalities and local property taxpayers.
-Read the letter → Read/share the public NH Insights note → NH Insights School Strategy From Defense to Strategy This school strategy post argues that districts and education leaders should lead a more honest, forward-looking conversation about enrollment trends, fixed costs, student needs, public trust, and practical long-term strategies.
-Read the school strategy post → ShepardForNH Scott Shepard is running for NH State Representative in Strafford County District 4, representing Barrington and Strafford.
+Skip to content SHEPARD FOR NH Scott Shepard · State Representative Menu ☰ Home About Scott Issues NH Insights Events Volunteer Contact Donate Original analysis · Commentary · Op-eds NH Insights & Op-Eds A closer look at the evidence, assumptions, and tradeoffs behind New Hampshire policy.
+I started NH Insights to ask harder questions about the state’s choices — and to explain what the facts mean for families, taxpayers, schools, businesses, and towns.
+The articles below reflect my analysis and opinions.
+Scenario models explore what could happen under stated assumptions; they are not predictions of what will happen.
+Featured policy research What happens when the next recession arrives?
+NH INSIGHTS / STATE FINANCE Resilience is a policy choice.
+Revenue · Rainy Day Fund · Local taxpayers Recession scenario analysis Concord’s Safety Net Is Already Fraying My examination of New Hampshire’s unusual revenue structure asks whether reserves and other fiscal tools could absorb a severe recession — and how the resulting choices could affect public schools and local taxpayers.
+The analysis uses modeled scenarios.
+Its estimates are not forecasts.
+Read the full article on Substack ↗ Other selected work Education, taxes, and long-term planning.
+A selection of published essays and op-eds.
+External articles open in a new tab.
+School strategy · NH Insights From Defense to Strategy Why districts and education leaders should take the lead on student needs, enrollment trends, cost pressures, and sustainable approaches.
+Read the essay ↗ Concord Monitor · Op-ed New Hampshire is arguing about K–12 education — but not asking the right questions Making room for bigger questions about quality, local control, spending, and long-term direction.
+Read the op-ed ↗ Concord Monitor · Letter Brittle tax base: danger ahead Why revenue concentration and volatility deserve more attention — especially when fiscal stress is shifted to communities.
+Read the letter ↗ Explore more Read, listen, and follow NH Insights.
+More policy analysis and commentary are published through NH Insights on these platforms.
+Substack ↗ Facebook ↗ Spotify ↗ Apple Podcasts ↗ About this work Why research matters.
+NH Insights reflects the way I approach public questions: explain the evidence, identify tradeoffs, and stay open to better information.
+This work helped motivate my campaign for State Representative.
+Meet Scott → Explore my priorities SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
 Facts.
 Strategy.
 Real Solutions.
-Get Involved Volunteer Donate Events Contact Campaign Announcement Follow NH Insights on Substack Facebook Spotify NH Insights on Apple Podcasts Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.

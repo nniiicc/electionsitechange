@@ -6,4 +6,4 @@ Read More Housing We must work to expand affordable housing opportunities, suppo
 Read More Infrastructure Although we are currently behind our expected population increase, we have to invest in modernizing our roads, bridges, broadband access, and water systems so they meet the needs of today’s families and businesses.
 Read More Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

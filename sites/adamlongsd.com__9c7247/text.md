@@ -4,4 +4,4 @@ I believe that limited government is essential to preserving the liberty our fou
 Request a Yard Sign Click Here to Request a Sign Make a Donation I'm doing this for our kids and grandkids and I can't do this alone.
 Our campaign is powered by your donations.
 Thank you! $1000 $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Home Meet Adam Contribute Issues & Priorities Make Endorsement Endorsements Photos Contact Yard Signs Paid for by Long for SD Powered by CampaignPartner.com - Political Websites Home Meet Adam Issues & Priorities Make Endorsement Endorsements Contribute Volunteer Yard Signs Contact Close Menu
+Home Meet Adam Contribute Issues & Priorities Make Endorsement Endorsements Photos Contact Yard Signs Paid for by Long for SD Powered by CampaignPartner.com Home Meet Adam Issues & Priorities Make Endorsement Endorsements Contribute Volunteer Yard Signs Contact Close Menu

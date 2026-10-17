@@ -1,3 +1,3 @@
 Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Vote Donate Home About Issues News Endorsements Events Volunteer Contact Vote Donate Vote Voting Information Make a plan to vote!
-Election Day Tuesday, November 3, 2026 Early In-Person Voting October 13 - October 30, 2026 Absentee Ballot Request By October 23, 2026 Check if you're registered to vote Register to vote Request a Absentee Ballot Yard Sign Have any questions?
+Election Day Tuesday, November 3, 2026 Early In-Person Voting NOW - October 30, 2026 Absentee Ballot Request By October 23, 2026 Check if you're registered to vote Register to vote Request a Absentee Ballot Yard Sign Have any questions?
 Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

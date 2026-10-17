@@ -9,4 +9,4 @@ A state where everyone has access to safe, affordable housing . healthy, local f
 Contributions can be made through ActBlue by clicking on the Contribute button, or checks can be mailed to the Campaign Fund of Dee Gish for Vermont, PO Box 265, Sharon, VT 05065.
 Thank you for your support!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com - Political Websites Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu
+Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu

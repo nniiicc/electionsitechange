@@ -1,9 +1,10 @@
 {
  "description": "MICHAEL RIKER in the News",
  "final_url": "https://www.riker4pg.com/news",
- "fingerprint": "b642c5fc1a35692e870a53659148e5192d3cf14a",
+ "fingerprint": "6586f93e06c08c91f0a5f8a428c36e3f1f7f2b95",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "1984",

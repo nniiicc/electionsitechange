@@ -1,7 +1,7 @@
 top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
 Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
-Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE The Back Office Behind the Movement #ago 4 min read Fiscal sponsorship, nonprofit transparency, and the questions Nebraska should be asking Most people see the protest, the campus encampment, or the ballot initiative.
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE The Back Office Behind the Movement Oct 9 4 min read Fiscal sponsorship, nonprofit transparency, and the questions Nebraska should be asking Most people see the protest, the campus encampment, or the ballot initiative.
 What they rarely see is the financial and administrative infrastructure operating behind the scenes.
 That infrastructure often begins with something called fiscal sponsorship .
 Fiscal sponsorship allows a project without its own tax-exempt status to operate under an established nonprofit organization.

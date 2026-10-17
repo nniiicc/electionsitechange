@@ -19,4 +19,4 @@ Judy also worked on the team that created legislation that legalized medical mar
 Judy lives in Haverford Township with her husband, Brandon, their son, Ari, their chocolate lab Hershey, and their cat named Rabbit.
 She is a familiar face at community events, a regular presence in township parks, and a youth basketball coach.
 Deeply rooted in her community and energized by the opportunity to do more, Judy is ready to bring her experience, passion, and proven leadership to Harrisburg, fighting for strong public schools, reliable infrastructure, economic opportunity, and a government that works for everyone.
-Home Donate Events Take Action Voter Information Paid for by Friends of Judy Trombetta Powered by CampaignPartner.com - Political Campaign Websites Home Meet Judy Endorsements In the News Issues Priorities PA's 166th Events Donate Voter Information Take Action How to Help Yard Signs Close Menu
+Home Donate Events Take Action Voter Information Paid for by Friends of Judy Trombetta Powered by CampaignPartner.com Home Meet Judy Endorsements In the News Issues Priorities PA's 166th Events Donate Voter Information Take Action How to Help Yard Signs Close Menu

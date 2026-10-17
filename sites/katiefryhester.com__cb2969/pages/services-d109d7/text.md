@@ -1,4 +1,4 @@
-Skip to main content Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Constituent Services D﻿o you need support?
+Skip to main content Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Constituent Services D﻿o you need support?
 Do you have questions I can help you with?
 Taking care of our constituents is my number one job.
 We are committed to making sure government works for who it’s supposed to – you.

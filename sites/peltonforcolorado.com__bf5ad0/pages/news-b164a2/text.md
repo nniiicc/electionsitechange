@@ -145,4 +145,4 @@ We wish Laura well and congratulate her on a race well run.
 We look forward to having the support of all of the Republicans in the 65th Congressional District in the General Election in November.
 4 Mar Sunday, 9:10 AM · 2018 Republican Joins Race to Replace Jon Becker Read more 27 Feb Tuesday, 9:44 PM · 2018 Rod Pelton Announces Candidacy Rod Pelton announces he is a candidate for Colorado State House District 65.
 Read more FIND A BILL WATCH & LISTEN VOTING INFO PUBLIC TESTIMONY CONTRIBUTE Get Updates Thank you for signing up!
-Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com Home About Rod Committees News Issues Contribute Close Menu

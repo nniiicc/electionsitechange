@@ -16,5 +16,5 @@ Working alongside local community and faith-based groups, he has mobilized volun
 With Simon Glaser, you get a leader who stands up, speaks out, and fights for working people.
 Together, we can build a future that works for all of us.
 Help us win.
-Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

@@ -1,3 +1,3 @@
 Meet Bruce Issues News Volunteer Contribute News / Bruce Stabenow Launches Campaign for the 91st assembly district 12 May Tuesday, 2:04 PM · 2026 Bruce Stabenow Launches Campaign for the 91st assembly district This is where you'll put the expanded description for your news item or press release.
 You can edit this content from the "News" tab of the control panel.
-Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner.com - Political Websites Home Meet Bruce Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner.com Home Meet Bruce Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -8,4 +8,4 @@ Come show your support or just be social with these amazing Owensboro leaders!
 With just $20, you can help move this campaign one step closer to Frankfort and a future where every voice is heard, every family is supported, and every community has a seat at the table.
 This is people powered progress and it starts with us .
 More info › VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

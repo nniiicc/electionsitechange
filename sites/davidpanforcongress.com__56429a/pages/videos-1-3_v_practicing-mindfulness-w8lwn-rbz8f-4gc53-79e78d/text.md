@@ -2,7 +2,7 @@
 The video outlines his political priorities and the problems he wants to address as a congressional candidate.
 Previous UC Irvine Pro-Palestine Protest explanation | David Pan for Congress Next Public Comment to the Regents of the University of California - Dr.
 David Pan - November 15, 2023 You Might Also Like Public Comment to the Regents of the University of California - Dr.
-David Pan - November 15, 2023 David Pan’s Plans: Reforming Healthcare UC Irvine Pro-Palestine Protest explanation | David Pan for Congress Medicare for All: The Wrong Solution to America’s Health Care Crisis | David Pan The All-American Kid Newsletter Block This newsletter signup form needs a storage option.
+David Pan - November 15, 2023 UC Irvine Pro-Palestine Protest explanation | David Pan for Congress The All-American Kid Medicare for All: The Wrong Solution to America’s Health Care Crisis | David Pan David Pan’s Plans: Reforming Healthcare Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Stay in touch The latest from the campaign trail, straight to your inbox.
 First Name Last Name Email Address SUBSCRIBE Thank you!

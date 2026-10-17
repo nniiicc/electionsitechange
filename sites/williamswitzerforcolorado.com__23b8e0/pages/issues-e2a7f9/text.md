@@ -281,4 +281,4 @@ Sometimes we can not wait for bad policies to be introduced.
 We need to go on the offense as legislators to protect Colorado communities from laws that penalize success, savings, property ownership, and generational investment.
 I will continue to promise Coloradans my voice will establish clear boundaries against government overreach and out of control spending.
 It is time our elected leaders honor hard work and protect the legacy of Colorado's working families, entrepreneurs, and agricultural producers.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

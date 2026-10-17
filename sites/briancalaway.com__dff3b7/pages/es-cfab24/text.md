@@ -1,11 +1,12 @@
-EN Inicio Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Cámara de Arizona · 2026 EN ES Vote por Brian Calaway Un futuro más brillante La marea que sube levanta todos los barcos.
+EN Inicio Guía del votante Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado Cámara de Arizona · 2026 EN ES Vote por Brian Calaway Un futuro más brillante La marea que sube levanta todos los barcos.
 Creo que un futuro sostenible es muy posible para todos, y estoy listo para ponerme a trabajar por todos los habitantes de Arizona y por el país entero.
 Acompáñeme mientras trabajamos por un mundo más brillante.
 Juntos logramos más Juntos, nosotros el pueblo, logramos más de lo que cualquier persona podría lograr sola.
 Es hora de dejar atrás el partidismo y construir un mañana más fuerte.
 Un Arizona mejor para todos FDR habló de una Segunda Carta de Derechos Económicos.
 Creo que todos los ciudadanos tienen derechos básicos de los que no se habla lo suficiente, y que podemos hacerlos realidad si trabajamos juntos.
-Participe Responda la encuesta La postura de Brian Empleos y economía Salarios dignos y buenos empleos para cada habitante de Arizona Empleos y economía Arizona cuenta con talento de primer nivel en ingeniería, tecnología e innovación.
+Participe Responda la encuesta El día de la elección es el 3 de noviembre.
+Lea la guía del votante LD10 La postura de Brian Empleos y economía Salarios dignos y buenos empleos para cada habitante de Arizona Empleos y economía Arizona cuenta con talento de primer nivel en ingeniería, tecnología e innovación.
 Brian cree que podemos construir una economía que mantenga ese talento aquí y, al mismo tiempo, abra caminos reales para que cada habitante de Arizona participe, no solo unos cuantos afortunados. ▸ Apoyar a las pequeñas empresas y a los emprendedores locales reduciendo las trabas regulatorias ▸ Invertir en el desarrollo de la fuerza laboral y en capacitación alineada con las necesidades de la industria Ver la postura completa → Educación Escuelas con financiamiento completo y salarios justos para los maestros Educación Un estado que no financia bien sus escuelas está tomando prestado de su futuro.
 Arizona se ha ubicado constantemente entre los últimos lugares en gasto por alumno.
 Eso se acaba.
@@ -18,7 +19,7 @@ Su navegador no puede reproducir este video.
 Descárguelo en su lugar.
 Brian Calaway para la Cámara de Representantes de Arizona, Distrito Legislativo 10 · Candidato de Clean Elections The Brian Calaway Podcast Acompáñenos en la conversación Conversaciones a fondo con habitantes de Arizona sobre los temas que importan.
 Escúchelo en su plataforma de pódcast favorita.
-YouTube Podcast on Spotify Podcast on Amazon Music Queremos escucharle.
+Apple Podcasts YouTube X Podcast on Spotify Podcast on Amazon Music Queremos escucharle.
 No hay respuesta correcta ni incorrecta; solo su opinión sincera.
 En una escala del 1 al 10, ¿cuánto confía en que su gobierno local de Arizona resuelva los problemas que le importan?
 5 Neutral 1 — Ninguna confianza 10 — Confianza total No sé / no estoy seguro Comentarios, opiniones o sugerencias (opcional) Enviar mi respuesta Anónimo.
@@ -90,6 +91,6 @@ I consent to receive marketing text messages, about volunteer opportunities and 
 Message frequency may vary.
 Message & data rates may apply.
 Text HELP for assistance, reply STOP to opt out. Únase a la campaña Política de privacidad | Términos y condiciones P.O.
-Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Guía del votante Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
 Todos los derechos reservados.
 Política de privacidad Términos

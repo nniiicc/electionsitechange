@@ -56,4 +56,4 @@ HB 2350 - (Health) insurance coverage - Pap test for MEN and Prostrate exams for
 HB 2039 - (Health) Allows all private health data be made available to local health department - "purposes of preventing and controlling diseases, injury, or disability - allows Dept. of Public Health, Dept. of Human Services, and Dept. of Healthcare and Family Services to "adopt any rules necessary to implement the Act".
 HB 1286 - (Health) Creates co-ed multi-occupancy public bathrooms.
 Read more 2 Feb Friday, 7:47 PM · 2024 Parents Matter Coalition - Sign Petitions Today!
-Parents Matter Coalition: Signatures Needed! https://fb.watch/pZj-VArQtF/ Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu
+Parents Matter Coalition: Signatures Needed! https://fb.watch/pZj-VArQtF/ Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

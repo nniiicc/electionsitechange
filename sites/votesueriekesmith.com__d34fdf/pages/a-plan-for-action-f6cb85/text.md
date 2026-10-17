@@ -25,4 +25,4 @@ A Robust Economy & Thriving Business Center Safeguarding Our Children's Future T
 This includes transitioning to 100% clean and renewable energy and investing in sustainable infrastructure.
 Our children deserve clean air, safe water, and a stable climate for their lifetime and beyond.
 Vote Sue Rieke Smith for HD26.
-Share Your Voice: sue@votesueriekesmith.com | Follow Our Journey: @sueriekesmithforhd26
+Paid for the Committee to Elect Sue Rieke Smith

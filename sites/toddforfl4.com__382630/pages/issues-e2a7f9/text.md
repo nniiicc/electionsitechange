@@ -50,4 +50,4 @@ Rank choice voting removes the poison pill of 'Spoiler Candidates' from the duop
 If you support the Libertarian over the Republican or the Green over the Democrat, you as a voter rank them in your preferred order.
 This is obviously done at the state level, but I will support any effort that is ongoing to make this a reality for voters.
 More choice is more democracy.
-Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

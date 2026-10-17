@@ -1,10 +1,20 @@
 {
  "description": "",
  "final_url": "https://electdavina.com/",
- "fingerprint": "e34f88164620308c0b0db21dadc23f082c5b39c3",
+ "fingerprint": "d7c9aefa02377c352d69188d9afa7df31ddd9f12",
  "format": 3,
- "paid_for_by": "",
- "rendered": false,
+ "paid_for_by": "Paid for by Friends of Davina Duerr",
+ "rendered": true,
  "title": "Davina Duerr for State Representative · 1st Legislative District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

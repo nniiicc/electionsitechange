@@ -6,4 +6,4 @@ My endorsements include KY Fraternal Order of Police, NRA, KY Right to Life, CPA
 I humbly ask for your vote again and look forward to continuing to serve you as your State Representative!
 Make a Donation Our campaign is powered by your donations. $# $# $# $1000 $2000 $3500 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
-Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com Home About Matt News On the Issues Endorsements Contact Close Menu

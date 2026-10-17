@@ -19,4 +19,4 @@ No ghost campaign.
 Just a proven local leader with real-world experience who shows up, speaks out, and gets results.
 Dave Johnson: Built in the Bay Area.
 Fighting for the Bay Area.
-Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

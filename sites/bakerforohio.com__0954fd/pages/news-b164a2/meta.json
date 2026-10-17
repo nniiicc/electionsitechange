@@ -1,9 +1,10 @@
 {
  "description": "Mike Baker in the News",
  "final_url": "https://bakerforohio.com/news",
- "fingerprint": "ca375dd33db5a03807d286a3035718557692596e",
+ "fingerprint": "5d9de26090043fba78f538a41ede8efc69f4d47f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "2010",

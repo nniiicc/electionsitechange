@@ -27,21 +27,18 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Let’s create some big ballot-box energy. 🔥 Grab a friend and make your voices heard!
-Vote early October 19–November 1 or on Election Day, November 3. ✨ Vote for Michelle Embree Ku Democrat for State Representative!
-#yourvoice #vote early #vote #bigballot #landslide … See More See Less Play View Comments Like reaction Love reaction Reactions: 7 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Young adults shouldn’t have to put their future on hold.
-Young families shouldn’t have to stretch every dollar.
-And seniors shouldn’t have to worry about making ends meet.
-Everyone deserves a community they can afford to call home.
-That’s what we’re fighting for—and why Michelle Embree Ku asking for your vote.
-Vote Michelle Embree Ku Democrat for State Representative October 19 through November 1 or November 3!
-#SeniorLiving #seniorcare #families #affordable #trust #newtownct … See More See Less Play View Comments Like reaction Reactions: 6 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 12: Tax Relief Tax relief should mean more money in your pocket.
-Mitch Bolinsky voted no.
-Michelle Embree Ku will make affordability a priority—and vote for tax relief when we can.
-The difference is clear.
-Your vote makes it count.
-Look it up: PA 22-118 House Vote: www.cga.ct.gov/2022/VOTE/H/PDF/2022HV-00189-R00HB05506-HV.PDF Vote Michelle Embree Ku, Democrat for State Representative, 106th District.
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Good news, Newtown: early voting starts Monday, October 19 at the Municipal Center 3 Primrose St in Fairfield Hills! 🎉 That means you can skip the Election Day scramble, check "I voted” off your list, and help send Michelle Embree Ku to Hartford to keep fighting for our schools, our families, and our future.
+Grab a coffee, bring a friend, and make your vote count early.
+Michelle’s ready to show up for Newtown—let’s show up for her. 💙 #healthcare #schools #family #Leadership #newtownct #Connecticut #VoteEarly … See More See Less Play View Comments Like reaction Reactions: 8 Comments: 2 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Vote Michelle Embree Ku, Democrat for State Representative.
 Vote early October 19–November 1 or on Election Day, November 3.
-#TaxRelief #taxes #Affordability #representative #workingforyou #vote #newtownct #Connecticut … See More See Less Play View Comments Like reaction Love reaction Reactions: 12 Comments: 2 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Thank you Sean Scanlon #newtownct #Connecticut #healthcare … See More See Less Play View Comments Like reaction Reactions: 8 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 13: AI and Drones Fast-moving technology needs smart, responsible rules—not a wait-and-see approach.
+From protecting personal data to keeping dangerous drones out of state agencies’ hands, Michelle Embree Ku is focused on safety, accountability, and keeping pace with what’s next.
+She’ll always support practical protections that put Connecticut families first.
+And, that’s the difference.
+Vote Michelle Embree Ku, Democrat for State Representative.
+Vote early October 19–November 1 or on Election Day, November 3.
+#TheDifferenceIsClear #MichelleEmbreeKu #Newtown #CTpolitics And a reminder: today is the deadline to register by mail or online.
+You can still register in person during early voting or on Election Day.
+Look it up: PA 26-15; PA 25-1 www.cga.ct.gov/2026/VOTE/H/PDF/2026HV-00176-R00SB00005-HV.PDF Bipartisan 17 nos www.cga.ct.gov/2025/VOTE/H/PDF/2025HV-00027-R00HB07066-HV.PDF … See More See Less Play View Comments Like reaction Reactions: 13 Comments: 2 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

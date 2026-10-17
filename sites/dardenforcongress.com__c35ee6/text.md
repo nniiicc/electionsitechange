@@ -1,4 +1,4 @@
-0 Skip to Content Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English Back DONATE Running to Raise the Bar.
+0 Skip to Content Home Meet Darden The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden The Issues News Get Involved Media Kit English Back DONATE Running to Raise the Bar.
 DONATE Do you want to send a message to Congress?
 WATCH THE AD Click here to find out what congressional district you are in.
 Important Dates: Early voting for Primary: July 17-August 1, 2026 Primary Election: August 6, 2026 Early voting for General: October 14-October 29, 2026 General Election: November 3, 2026 Introduction Darden Copeland is a husband, father, brother, business owner and entrepreneur who believes the current political system is broken, and families across middle Tennessee deserve better.

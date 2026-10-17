@@ -7,7 +7,7 @@ Why Community Animal Care Matters in Queens Queens is a vibrant, diverse borough
 It’s the foundation of our communities, the backbone of local economies, and the key to stability for families and small businesses alike.
 Yet, too many residents in New York State Assembly District 38 face skyrocketing rents, limited options, and policies that don’t serve their needs.
 It’s time to rethink housing policies with a sharp focus on affordable housing strategies that create real, lasting local impact.
-I’m here to break down what #ago 4 min read Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
+I’m here to break down what Oct 9 4 min read Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
 It molds the minds of tomorrow’s leaders, workers, and citizens.
 Yet, our local schools face challenges that demand urgent action.
 I believe it’s time to transform local education with bold, essential reforms.

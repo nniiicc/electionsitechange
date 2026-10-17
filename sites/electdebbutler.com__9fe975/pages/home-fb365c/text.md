@@ -7,4 +7,4 @@ That legacy continues to inspire my work today.
 I look forward to continuing my service as we work together to guarantee a stellar public education for every child, build state-of-the-art infrastructure, and cultivate a culture that welcomes new businesses while supporting working families.
 While there is still much work to do to rebuild our state’s national reputation, I remain optimistic about North Carolina’s future and am committed to being part of that progress.
 Deb.
-CONTRIBUTE Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu
+CONTRIBUTE Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

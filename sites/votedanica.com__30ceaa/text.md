@@ -1,4 +1,4 @@
-Home Meet Danica Endorsements News Events Get Involved Contact Donate English en polski pl Español es עברית he 简体中文 zh русский ru Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Danica Hartenfels for State Representative ★ Trusted.
+Home Meet Danica Endorsements News Events Get Involved Contact Donate English en עברית he русский ru 简体中文 zh Español es polski pl Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Danica Hartenfels for State Representative ★ Trusted.
 Proven.
 Ready to Serve.
 A strong voice for working families and small businesses in Pennsylvania’s 189th District Meet Danica Donate Now Upcoming Events Get Involved A Leader for Real Life, Not Just Politics.
@@ -7,7 +7,13 @@ I'm a small business owner, mom, and lifelong Pennsylvanian.
 I know first hand the challenges of raising a family, running a business, and giving back to our community.
 I’m not a career politician.
 I’m one of you and I’m running for State Representative to bring your voice, your values, and your priorities to Harrisburg.
-Danica Hartenfels ★ Danica’s Priorities ★ A Voice for the 189th District Working Families First Support childcare, fair wages, and family success.
+Danica Hartenfels Get to Know Danica There's more to Danica Hartenfels than a name on the ballot.
+As a small business owner, mother, and dedicated community member, Danica understands the challenges facing local families and businesses.
+Through these videos, you'll get a closer look at who Danica is, what matters most to her, and why she's running to represent the 189th District.
+Take a few minutes to hear directly from Danica, learn about her experiences, and discover her vision for a stronger future for our community.
+Who is Danica Hartenfels?
+October 2026 Main St., Stroudsburg, PA October 2026 Holding local government accountable August 2026 Hear it from them.
+July 2026 Professionalism in Harrisburg February 2026 ★ Danica’s Priorities ★ A Voice for the 189th District Working Families First Support childcare, fair wages, and family success.
 Responsible Tax Use Demand accountability and transparency in Harrisburg.
 Support for Small Businesses Cut red tape and create opportunities for local entrepreneurs.
 Safe, Strong Communities Protect neighborhoods and back local law enforcement. ★ About Danica ★ Rooted in Our Community Born in East Stroudsburg and raised in Pike County, earned her Bachelor's from East Stroudsburg University, and a resident of Monroe County for more than 20 years, Danica has dedicated her career to hospitality, small business, and community service.

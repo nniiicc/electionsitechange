@@ -1,2 +1,2 @@
 Home Meet Michanna Events Endorsements Issues Volunteer Contribute Events #ago This Week This Month ‹ Previous Tue Dec 1 2026 - Thu Dec 31 2026 Next › No events in this range Try a different date range, or check back soon for new events.
-Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu
+Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

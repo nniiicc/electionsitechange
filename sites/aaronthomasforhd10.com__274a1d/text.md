@@ -1,4 +1,4 @@
-top of page Issues About Get Involved Contact More Use tab to navigate through the menu items.
+top of page Home Issues About Get Involved Contact More Use tab to navigate through the menu items.
 DONATE Log In PROGRESS WITH PURPOSE VOTE Aaron Thomas for House District 10 on November 3rd!
 Meet Aaron Dear Friends and Neighbors, ​ From the bottom of my heart, thank you! ​ To everyone who knocked doors with me, contributed what you could, offered a prayer, or simply took the time to share your concerns—thank you.
 You have reminded me why this race matters: because the hardworking families of Madison County deserve a representative who listens, understands, and fights for them.

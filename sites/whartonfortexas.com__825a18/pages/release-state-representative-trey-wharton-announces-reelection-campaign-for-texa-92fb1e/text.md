@@ -7,9 +7,9 @@ Wharton also supported legislation to cut red tape for Texas businesses, protect
 “We made serious progress, but our work isn’t done,” Wharton said.
 “I’m running for reelection to keep delivering conservative wins—defending our values, protecting our communities, and securing a stronger future for Texas.” ### Rep.
 Wharton Reelect Press Release Download Post navigation Previous post: Prev RELEASE: State Representative Trey Wharton to Open District Office in Huntsville June 25, 2025 Next post: Next RELEASE: Texas State Rep.
-Trey Wharton Appointed to House Select Committee on Health Care Affordability March 27, 2026 You May Also Like Posted February 13, 2025 in Political Issues RELEASE: Speaker Appoints Rep.
-Trey Wharton to Prominent Committees Posted March 27, 2026 in Political Issues RELEASE: Texas State Rep.
-Trey Wharton Appointed to House Select Committee on Health Care Affordability Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
+Trey Wharton Appointed to House Select Committee on Health Care Affordability March 27, 2026 You May Also Like Posted March 27, 2026 in Political Issues RELEASE: Texas State Rep.
+Trey Wharton Appointed to House Select Committee on Health Care Affordability Posted February 13, 2025 in Political Issues RELEASE: Speaker Appoints Rep.
+Trey Wharton to Prominent Committees Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
 Trey...
 March 27, 2026 RELEASE: State Representative ...
 July 1, 2025 RELEASE: State Representative ...

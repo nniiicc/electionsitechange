@@ -41,4 +41,4 @@ Carolyn Allen Retired School Teacher of 33 years & Cousin of Manuel Manuel and h
 In the short time that I have known him, I can tell he is a man of his word and is the right person at the right time to be our District 2 Representative.
 Ron Peterson Friend I’m proud to support my friend Manuel Luschas for House District 2.
 He is truly for the people and will work hard every day to represent the voices of our community.
-Erin Taggart Friend, Small Business Owner, Mom Click here to add your endorsement Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Erin Taggart Friend, Small Business Owner, Mom Click here to add your endorsement Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

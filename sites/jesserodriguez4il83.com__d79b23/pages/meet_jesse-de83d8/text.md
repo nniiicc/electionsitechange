@@ -42,4 +42,4 @@ Thanks for taking the time to read my introduction.
 I will elaborate on my positions on the issues page of this site.
 With your support, I will work hard to meet your expectations within the beliefs and core focus standards I have outlined above.
 Together, let's make Illinois a place we are proud to call home.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com Home Meet Jesse Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

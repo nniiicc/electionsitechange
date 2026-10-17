@@ -87,4 +87,4 @@ New representatives, can foster fresh perspectives and innovative solutions to l
 Term limits can diminish the sense of entitlement that some incumbents may feel, promoting a more competitive political environment where new candidates can emerge and challenge the status quo.
 Frequent turnover in elective office may reduce opportunities for corruption and the establishment of entrenched political networks, as new members are less likely to be influenced by long-standing relationships.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Friends of Rick Pressnell Powered by CampaignPartner.com - Political Campaign Websites Home Meet Rick Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Friends of Rick Pressnell Powered by CampaignPartner.com Home Meet Rick Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

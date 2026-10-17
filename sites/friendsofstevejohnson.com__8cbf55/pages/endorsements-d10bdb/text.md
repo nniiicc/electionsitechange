@@ -21,4 +21,4 @@ It's members are skilled in the construction and energy industries.
 League of Conservation Voters influence policy and hold politicians accountable to build a world with clean air, clean water, public lands, and a safe climate that are protected by a just and equitable democracy.
 The Mid Atlantic Pipe Trades Association is a collaboration of local unions, contractors and skilled tradesmen in the MD, DC and VA area.
 3P - Protect Perryman Penninsula is grassroots, community-based organization, striving to correct the developments in Perryman and throughout Harford County.
-Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com - Political Websites Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu
+Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu

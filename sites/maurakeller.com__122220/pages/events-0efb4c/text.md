@@ -1,4 +1,6 @@
-0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Events Oct 19 Newnan-Coweta Chamber of Commerce Candidate Forum Keller v.
+0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Events Oct 18 Alfred Wilson Funeral Home Volunteer Meet and Greet with Maura Keller in Carroll County Alfred Wilson Funeral Home Volunteer Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
+She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
+Read more → Alfred Wilson Funeral Home Volunteer Oct 19 Newnan-Coweta Chamber of Commerce Candidate Forum Keller v.
 Jack.
 October 19th.
 Stay tuned for more!
@@ -12,7 +14,9 @@ Read more → Campaign Calendar View Maura’s campaign calendar and keep scroll
 Check back frequently for an updated event schedule!
 Can’t find an event near you?
 Email us at maura@maurakeller.com or fill out our Contact Us form to enquire about speaking engagements.
-Oct 19 Elections Newnan-Coweta Chamber of Commerce Candidate Forum Monday, October 19, 2026 6:00 PM 7:00 PM Google Calendar ICS Keller v.
+Oct 18 Political Action , Volunteer , Fayette Meet and Greet with Maura Keller in Carroll County Sunday, October 18, 2026 1:00 PM 4:00 PM Alfred Wilson Funeral Home (map) Google Calendar ICS Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
+She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
+View Event → Oct 19 Elections Newnan-Coweta Chamber of Commerce Candidate Forum Monday, October 19, 2026 6:00 PM 7:00 PM Google Calendar ICS Keller v.
 Jack.
 October 19th.
 Stay tuned for more!

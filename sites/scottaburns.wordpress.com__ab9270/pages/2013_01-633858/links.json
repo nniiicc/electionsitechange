@@ -96,10 +96,6 @@
 "href": "https://scottaburns.wordpress.com/2020/02/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Happy New Year!!",
 "href": "https://scottaburns.wordpress.com/2013/01/01/happy-new-year/"
 },
@@ -285,6 +281,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

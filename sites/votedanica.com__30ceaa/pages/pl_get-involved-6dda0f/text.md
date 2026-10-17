@@ -1,4 +1,4 @@
-Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl עברית he 简体中文 zh English en Español es русский ru Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Zaangażuj się ★ Ta kampania działa dzięki ludziom takim jak Ty Twój głos, Twój czas, Twoje wsparcie – wszystko ma znaczenie.
+Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl עברית he русский ru 简体中文 zh Español es English en Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Zaangażuj się ★ Ta kampania działa dzięki ludziom takim jak Ty Twój głos, Twój czas, Twoje wsparcie – wszystko ma znaczenie.
 Razem możemy wprowadzić realne zmiany w Harrisburg.
 Kampanie nie są wygrane przez jedną osobę.
 Wygrywają je sąsiedzi, rodziny i przyjaciele, którzy pracują ramię w ramię dla wspólnej wizji.

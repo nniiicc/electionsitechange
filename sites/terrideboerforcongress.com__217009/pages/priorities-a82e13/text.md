@@ -18,10 +18,4 @@ Stop illegal immigration and human exploitation.
 Remove dangerous criminals who enter the country illegally.
 Reform the asylum process to restore order and fairness.
 Put the safety and security of American citizens first.
-Please provide your mobile phone to opt-in to Terri DeBoer for Congress campaign alerts, updates and news.
-By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
-Message frequency may vary.
-Msg&Data Rates May Apply.
-Reply STOP to cancel.
-Reply HELP for help.
-Privacy Policy Site design by Micah Plaisier Paid for by Terri DeBoer for Congress
+Site design by Micah Plaisier Paid for by Terri DeBoer for Congress

@@ -15,4 +15,4 @@ Check out my Instagram or Tiktok where I expand more on what I would like to del
 Ever since I was 8 years old I knew that my path to help the world become a better place was through Politics and that's exactly what I will do with your help!
 Join the movement to bring integrity and South Jersey pride to Congress.
 If elected, rest assure I will LISTEN to the People of South Jersey, and South Jersey WILL be heard!!!
-Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,7 @@
-Skip to content Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Facebook Instagram X-twitter Donate Category: Press Release Fact-Check: Wittman’s NICU Attack Ad on Shannon Taylor Rated FALSE As Victim’s Parent Calls for Ad to be Taken Down HENRICO, Va. — A new fact-check from 12 On Your Side (WWBT, Richmond) has rated Rep.
+Skip to content Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Facebook Instagram X-twitter Donate Category: Press Release FACT CHECK: Second Local Fact-Check Finds Wittman’s NICU Attack Ad on Shannon Taylor FALSE While Rating Her Ad TRUE HENRICO, Va. — Today, WAVY’s Truth Tracker rated Rep.
+Rob Wittman’s attack ad on Shannon Taylor’s handling of the Henrico NICU child abuse case as FALSE.
+This is the second time this week that Wittman’s ad was rated FALSE, following an earlier 12 On Your Side fact-check.
+Fact-Check: Wittman’s NICU Attack Ad on Shannon Taylor Rated FALSE As Victim’s Parent Calls for Ad to be Taken Down HENRICO, Va. — A new fact-check from 12 On Your Side (WWBT, Richmond) has rated Rep.
 Rob Wittman’s attack ad on Shannon Taylor’s handling of the Henrico NICU child abuse case as FALSE.
 NEW AD: Shannon Taylor Calls Out Rob Wittman for Cashing In on Data Center Stocks While Virginians’ Utility Bills Skyrocket HENRICO, Va. — Henrico’s top prosecutor Shannon Taylor released a new ad, “Cashing In,” which exposes how Rep.
 Rob Wittman is personally invested in the data center boom that is driving up utility rates for families across Virginia’s First Congressional District.
@@ -15,7 +18,7 @@ In response to this election year pivot, candidate for Congress in Virginia’s 
 Wittman continues to back the war despite the fact that it has resulted in the death of American servicemembers, has cost our country billions of dollars, and Virginians are forced to pay more at the gas pump and the grocery store.
 NEW AD: Prosecutor Shannon Taylor Launches First TV Ad Highlighting Support From Law Enforcement and Record of Keeping Virginians Safe Henrico, VA – Today, prosecutor Shannon Taylor launched her first general election TV ad in her campaign for Congress in Virginia’s 1st Congressional District.
 The ad, “Prosecutor,” spotlights her record keeping Virginians safe and her backing from law enforcement officers across the Commonwealth.
-ICYMI: “Rob Wittman Owns Shares In Energy Giant At The Center Of Proposed $67B Merger” Wittman has traded $2.5M worth of stocks during his time in Congress and refuses to say if he will sell shares of controversial energy company Henrico, VA – Henrico County’s top prosecutor Shannon Taylor slammed Rob Wittman for his active stock portfolio after new reporting from Dogwood revealed that he owns shares in NextEra Energy, which is looking to merge […] Next → Ready To GO?
+Next → Ready To GO?
 Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
 Consent is not a condition of donation.
 Msg & data rates may apply.

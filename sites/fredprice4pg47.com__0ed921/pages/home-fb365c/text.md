@@ -8,4 +8,4 @@ I’m not running for a title—I’m running to serve.
 District 47A deserves a delegate who will stand up, speak out, and get things done.
 Together, we can build a stronger, safer, and more prosperous future for our community.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com - Political Campaign Websites Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu
+Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu

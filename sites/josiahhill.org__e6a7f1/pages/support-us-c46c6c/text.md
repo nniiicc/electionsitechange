@@ -4,7 +4,7 @@ Support Us Get Involved Use your time and talents to support Josiah's campaign.
 Indicate your interests by filling out the forms below. ​ Sign up to Volunteer Host a Yard Sign You can pick up a standard size (18"x24") yard sign from the Stillwater DFL office located at 1395 Curve Crest Boulevard . ​ ​ Is your yard in a high visibility area? ​ ​ ​ Consider requesting a larger 2'x4' sign for your yard!
 Fill out the form below and we will have volunteers install one for you soon. ​ ​ ​ Indicate Your Interest in a Larger Yard Sign Donate Weekly Door Knocking Join us for weekly door knocking every Wednesday, Saturday, and Sunday through Election Day .
 The sign up forms for each week are shared out on our Facebook page .
-Reach out to Michael Garofalo (our Field Organizer from the House DFL Caucus) with any questions. ​ ​ Upcoming knocks: ​ Wednesday, 10/14 from 5-7p (•, Sat, 10/17 through Election Day • Get Out The Vote Contribute Holding onto this Democratic seat in District 33B is of critical importance.
+Reach out to Michael Garofalo (our Field Organizer from the House DFL Caucus) with any questions. ​ ​ Upcoming knocks: ​ Sat, 10/17 through Election Day • Get Out The Vote (•, Contribute Holding onto this Democratic seat in District 33B is of critical importance.
 Every dollar you give supports work to re-elect Josiah Hill to the Minnesota House so he can continue to work for you!
 Donate By Check Make it out to: Josiah Hill for House Send to: PO Box 932, Stillwater, MN 55082 Online Donate via card, Google Pay, or PayPal via ActBlue below.
 Click to Give Questions?

@@ -1,7 +1,8 @@
 Click Here To Donate Today!
-Close About Volunteer News Media Store Vote Contact Kurt Alme Raises More than $1.88 Million in Third Quarter FOR IMMEDIATE RELEASE October 12, 2026 Contact: press@almeforsenate.com BILLINGS, Mont. – Republican U.S.
+Close About Volunteer News Media Store Vote Contact Kurt Alme Raises More than $1.8 Million in Third Quarter FOR IMMEDIATE RELEASE October 16, 2026 Contact: press@almeforsenate.com Kurt Alme Raises More than $1.8 Million in Third Quarter Alme Led Q3 Fundraising, Doubled Opponents’ Cash on Hand BILLINGS, Mont. – Republican U.S.
 Senate candidate Kurt Alme raised more than $# million across hard-dollar entities in the third quarter.
 Alme ended quarter three with more than $# million in cash on hand across hard-dollar entities.
+Alme outraised every opponent combined in the third quarter and entered the final stretch with more than double his liberal opponents’ combined cash on hand.
 “Thanks to every supporter of our grassroots campaign built on Montana common sense, we’re heading into the final weeks of this race with real strength and surging momentum.
 Our message of making life more affordable, keeping our communities safe, and protecting our Montana way of life is clearly resonating with hardworking Montanans all across our state.
 We will keep pushing hard to earn the votes of all Montanans to secure victory and deliver the commonsense leadership Montana deserves,” said Kurt Alme.

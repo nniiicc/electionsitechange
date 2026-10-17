@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Jun 18 2026 PRESS RELEASE Congressman Pat Ryan Endorses Leela Gray for Florida’s 13th Congressional District FOR IMMEDIATE RELEASE DATE : June 18th, 2026 CONTACT : press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Jun 18 2026 PRESS RELEASE Congressman Pat Ryan Endorses Leela Gray for Florida’s 13th Congressional District FOR IMMEDIATE RELEASE DATE : June 18th, 2026 CONTACT : press@leelagray.com St.
 Petersburg, FL — Retired Brigadier General and Democratic congressional candidate Leela Gray received the endorsement of Congressman Pat Ryan (NY-18), Army veteran, West Point graduate, and member of the House Armed Services Committee.
 Ryan joins a growing list of veteran lawmakers and national leaders who have rallied behind Gray's campaign to bring accountable, grounded leadership to Florida's 13th Congressional District.
 "There are people who talk about service and there are people who have lived it," said Ryan.

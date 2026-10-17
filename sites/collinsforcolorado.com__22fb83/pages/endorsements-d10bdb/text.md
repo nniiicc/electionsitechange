@@ -113,18 +113,7 @@ I also commend Teddy Collins leadership roles at the Colorado Federal Firearms L
 Teddy Collins' commitment is not solely due to conservative values and principled leadership but is actually the result of his entrepreneurial spirit and personal struggles as a Colorado small business owner.
 Personally I know if it was not for the unrelenting commitment of Teddy Collins I would have lost my Federal Firearms License last year like so many other fellow firearms dealers and gunsmiths.
 My goal is to elect Teddy Collins to the Colorado Senate to be an equally strong voice against Senator Tom Sullivan and anti-gun liberals to preserve our Colorado Second Amendment Rights.
-I provide my full endorsement and personal gratitude to Teddy Collins.” Teller County Commissioner Dan Williams "Teddy will help bridge the urban and rural divide." “I wholeheartedly endorse Teddy Collins for Senate District 4.
-Teddy is a strong and articulate leader and a fierce defender of the Second Amendment and all our freedoms.
-He will be a much needed voice of reason and common sense at the Capitol.
-A champion for rural communities, water rights, ranching, and agriculture, Teddy will bring a principled conservative approach to the legislature at a time when it is needed most.
-As a business owner, community and civic leader, and respected Coloradan, he understands the real challenges facing families and local economies.
-Teddy is a steadfast advocate for freedom and liberty and is known across Colorado for standing up for what is right.
-As a legislator, he will not craft special interest bills behind closed doors.
-Instead, he will engage in meaningful stakeholder discussions, working closely with local and county officials and the residents most affected by policy decisions.
-Now more than ever, our legislature needs strong and principled leaders with courage, honor, and integrity.
-Teddy will help bridge the urban and rural divide and will focus on truly balancing the state’s budget rather than simply postponing tough decisions.
-I look forward to working with Teddy in the Senate next session and fighting alongside him for a better Colorado.
-Please join me in voting for Teddy Collins for Senate District 4.” Park County Commissioner District 2 Jason Gemmer "I believe Teddy's values and abilities will serve Colorado and District 4 well.” “Teddy Collins stands out to me for three qualities that make him the best choice for this office: charisma, tactical wit, and passion.
+I provide my full endorsement and personal gratitude to Teddy Collins.” Park County Commissioner District 2 Jason Gemmer "I believe Teddy's values and abilities will serve Colorado and District 4 well.” “Teddy Collins stands out to me for three qualities that make him the best choice for this office: charisma, tactical wit, and passion.
 As if in a pit of vipers or in the often-contentious arena of public service, charisma is essential to hold attention and build consensus.
 Tactical wit provides the quick thinking necessary to defend principles and respond effectively to challenges.
 Passion is the driving force that sustains focus and commitment day after day.

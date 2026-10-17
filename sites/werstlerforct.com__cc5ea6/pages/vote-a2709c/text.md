@@ -1,7 +1,7 @@
 Early voting starts Oct 19 — make your plan!
 Home About Platform Endorsements Vote VOLUNTEER How to Vote Your vote, your town, your plan.
 Everything you need to vote in the 35th District — Election Day is Tuesday, November 3.
-17 Days 23 Hours 25 Min 41 Sec Information from the Connecticut Secretary of the State and town registrars.
+16 Days 23 Hours 30 Min 36 Sec Information from the Connecticut Secretary of the State and town registrars.
 Always confirm your polling place at the state's lookup tool.
 Pick your town Ashford Chaplin Coventry Eastford Ellington Hampton Stafford Thompson Tolland Union Vernon Willington Woodstock Or choose from the list Select your town… Ashford Chaplin Coventry Eastford Ellington Hampton Stafford Thompson Tolland Union Vernon Willington Woodstock Your options Three ways to vote 1.
 Vote early in person Monday, Oct 19 through Sunday, Nov 1 , including weekends.

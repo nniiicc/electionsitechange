@@ -12,4 +12,4 @@ I can assure you I have and will always vote 'Nay" to state control of local zon
 I will continue to aggressively defend us from the outside influencers' efforts and majority party's pressure to change the character of single-family-zoned towns across CT, Newtown included.
 THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE! « Previous: EDUCATION Next: DELIVERING FOR SENIORS » Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

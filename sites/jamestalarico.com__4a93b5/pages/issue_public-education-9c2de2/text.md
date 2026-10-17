@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Public Education A Former Teacher Fighting for Public Schools James Talarico taught sixth grade on San Antonio’s West Side and led the fight against private school vouchers in the Texas House.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Public Education A Former Teacher Fighting for Public Schools James Talarico taught sixth grade on San Antonio’s West Side and led the fight against private school vouchers in the Texas House.
 He’ll keep public money in public schools, hire more teachers, raise teacher pay, and bring universal Pre-K to every Texas family.
 Before I ran for office, I was a public school teacher.
 I taught 6th-grade language arts on the Westside of San Antonio — one of Texas’s poorest zip codes.

@@ -1,9 +1,10 @@
 {
  "description": "Campaign Endorsement.",
  "final_url": "https://www.pachecoforthepeople.com/professional-endorsement",
- "fingerprint": "3862a8c1e4b92e2a61be9259ac7512a637631074",
+ "fingerprint": "24c1bba7994f2430a9571e45eeada8053a13ec3f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Professional Endorsement",
  "years_mentioned": [
   "2026"

@@ -12,4 +12,4 @@ Tragically, students are not being taught the principles that America was founde
 American exceptionalism is not taught like it once was and young people are being misinformed about the lure of socialism.
 This is a failure in our schools that must be addressed before future generation glean this knowledge through the same trial and error that has devastated other civilizations past and present.
 A sound and strong education is the key to any students future and to the future of society as a whole.
-Academic awareness and advancement will be a focus of my tenure in the Ohio legislature. « Previous: Pro Life Next: The Second Amendment » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+Academic awareness and advancement will be a focus of my tenure in the Ohio legislature. « Previous: Pro Life Next: The Second Amendment » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

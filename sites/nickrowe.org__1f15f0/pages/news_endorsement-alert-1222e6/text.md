@@ -8,4 +8,4 @@ Putting people first means protecting access to quality, affordable health care 
 A healthy community depends on a strong health care workforce—and a strong economy depends on people being healthy enough to work, raise their families, and contribute to their communities.
 I’m grateful for the Committee to Protect Health Care’s support, and I’ll continue fighting for a health care system that puts people before politics and patients before profits.
 Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
-Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Box 103 Richland MI 49083 Powered by CampaignPartner.com Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

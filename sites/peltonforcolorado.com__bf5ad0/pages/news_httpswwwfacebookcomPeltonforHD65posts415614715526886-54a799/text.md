@@ -34,4 +34,4 @@ In conclusion, I would be more than happy to get phone calls or emails and talk 
 I’m a common sense, Christian, constitutional, conservative, pro 2nd amendment candidate and I hope to gain your trust and support in the upcoming Caucuses, County Assemblies and, if you are chosen to be a delegate to the State Assembly for the 65th, your vote there.
 Be assured that although I’m from Cheyenne County, all of the eastern plains are important to me and I’ll fight as hard for everyone in the 65th as I do for Cheyenne County.
 God Bless.
-Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com Home About Rod Committees News Issues Contribute Close Menu

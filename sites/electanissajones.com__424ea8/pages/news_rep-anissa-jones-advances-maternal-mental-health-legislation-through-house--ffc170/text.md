@@ -27,4 +27,4 @@ Public health is often about quiet prevention rather than dramatic rescue.
 This bill leans into that philosophy—screen early, treat early, measure outcomes, and protect families before crisis becomes catastrophe.
 In a state working to improve maternal health outcomes, that is not just policy.
 That is infrastructure for stronger communities.
-Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

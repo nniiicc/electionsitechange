@@ -122,12 +122,13 @@ I therefore understand the sacrifices that may be required to preserve our democ
 And as a longtime federal prosecutor and constitutional lawyer, I know what levers states can pull to exert control over federal agents that act unlawfully.
 I will bring that unique level of service, experience, and expertise to our work in the coming two years defending the state against federal overreach.
 Sanctuary for Targeted Communities LGBTQIA+ and immigrant Washingtonians face growing threats from authoritarianism and hate–from federal attacks and ballot initiatives to surveillance, rising hate crimes, and economic vulnerability.
-In Washington, we need not just equality, but equity; not just civil rights protections, but also resources and funding to welcome those who are coming to our state as a sanctuary from oppressive federal overreach.
+Our state has also become a sanctuary for those whose abortion access rights are under attack in other states.
+In Washington, we need not just equality, but equity; not just civil rights protections, but also resources and funding to welcome those who are coming to our state as a sanctuary from oppressive federal and state overreach.
 As a former civil rights prosecutor during the Biden Administration who investigated hate crimes, including against the LGBTQIA+ community, and who also investigated federal agents for constitutional violations, I understand the urgency.
-I will: Advocate for aggressive data privacy safeguards and for freedom from AI mass surveillance.
-Support emergency funding for local organizations that provide shelter, resources, and assistance for LGBTQIA+ newcomers to our state.
+I will: Advocate for aggressive data privacy safeguards and for freedom from AI mass surveillance, to support our immigrant neighbors, LGBTQ+ youth seeking refuge, and women seeking access to medical care or abortion.
+Support emergency funding for abortion access and local organizations that provide shelter, resources, and assistance for LGBTQIA+ newcomers to our state.
 Support the No Hate in Washington State campaign to defeat Initiatives 1 and 638, which will appear on the ballot this fall.
-No student should be subjected to humiliating and invasive inspections.
+No student should be subjected to humiliating and invasive inspections, and trans kids deserve compassion and to not have the State rob local jurisdictions of the power to give those kids the opportunity to participate authentically in sports.
 Help ensure that all Washingtonians, regardless of their immigration status or identity, have access to affordable healthcare and are safe in medical facilities, schools, election offices, and workplaces.
 Support collective bargaining rights for farmworkers.
 Support divesting public funds from privately operated detention facilities.

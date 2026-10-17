@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE Category: Uncategorized Come Meet Rory Taylor Posted : Oct 13, 2026 in : Uncategorized by : admin Come meet Rory Taylor, candidate for Iowa House District 22, on Sunday, October 18, at 5:30 PM at the Legacy Clubhouse in Norwalk!
+Skip to content Home About Issues Press Get Involved DONATE Category: Uncategorized Come Meet Rory Taylor Posted : Oct 13, 2026 in : Uncategorized by : admin Come meet Rory Taylor, candidate for Iowa House District 22, on Sunday, October 18, at 5:30 PM at the Legacy Clubhouse in Norwalk!
 This is a great opportunity to get to know Rory, ask questions, share your concerns, and talk about the issues that matter most to our community.
 Your voice matters, and we hope… National Farm Safety & Health Week Posted : Sep 21, 2026 in : Uncategorized by : admin It’s National Farm Safety & Health Week, and harvest season is here!
 As our Iowa farmers are working long hours, let’s all do our part to keep them safe.

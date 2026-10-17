@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Sep 15 2026 PRESS RELEASE Leela Gray Releases First Ad in Toss-Up Race Against Anna Paulina Luna FOR IMMEDIATE RELEASE September 15, 2026 CONTACT : press@leelagray.com ST.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Sep 15 2026 PRESS RELEASE Leela Gray Releases First Ad in Toss-Up Race Against Anna Paulina Luna FOR IMMEDIATE RELEASE September 15, 2026 CONTACT : press@leelagray.com ST.
 PETERSBURG — Today, Retired Brigadier General Leela Gray’s campaign for Congress released its first general election ad, “Mission.” The spot highlights Gray’s 30 years of service in the Army as a stark contrast against Anna Paulina Luna’s record of corruption in Washington.
 The ad is on the airwaves with a six-figure buy, running on television and digital platforms throughout Florida’s 13th Congressional District.
 FL-13 now ranks among the nation’s top battleground races.

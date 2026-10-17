@@ -1,0 +1,3 @@
+Early Voting Kickoff Rally Registration Sunday, October 18, 2026 Doors Open 4 PM | Event 5 PM – 6 PM Crown Ridge Banquet Hall 6909 Camp Bullis Rd.
+Name (Required) First Last Email (Required) Phone (Required) Country Phone Number Address (Required) Street Address Address Line 2 City State / Province / Region ZIP / Postal Code Submit Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

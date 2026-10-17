@@ -16,4 +16,4 @@ We can and should take action to help lower costs and reduce living expenses for
 Kitchen table issues are those for a reason - issues that real families like mine and yours deal with every day.
 I am determined to focus on what is best for Iowa families, communities, and kids ." © # Dan Gosa.
 All Rights Reserved.
-Website Design by Server: Mirror1-A
+Website Design by Server: Mirror1-P

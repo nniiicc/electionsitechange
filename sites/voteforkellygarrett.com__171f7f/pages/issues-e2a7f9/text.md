@@ -16,4 +16,4 @@ Keeping Our Communities Safe Safe neighborhoods matter to everyone.
 I support strong, well resourced, and accountable public safety while also investing in prevention and community stability so families can feel secure where they live.
 Protecting Our Democracy Our democracy works best when every voice is heard and every vote counts.
 I will defend voting rights, support fair and transparent elections, and protect the integrity of our democratic process.
-Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

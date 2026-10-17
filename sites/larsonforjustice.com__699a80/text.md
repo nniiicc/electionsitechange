@@ -1,4 +1,12 @@
-About Meet Dave Dave's Record Why Dave?
+Voter Alert!
+Dave's Messages Dave's Story Dave's Record Voter Alert!! × Beware of misleading information being sent to voters across Washington by special interest groups.
+The attacks come from groups that want to control who sits on our state’s highest court.
+Dave’s real record reveals these attacks for what they are: a desperate attempt to keep and maintain power over your courts.
+That’s exactly why they’re targeting an independent voice like Dave.
+He has broad, diverse support from across the political spectrum, no political agendas, and just wants to be a justice that all people can be proud of.
+Don’t let these false political attacks decide this race.
+See the real record — straight from the source.
+Meet the Real Dave See His Messages to Voters No thanks, take me to the site About Meet Dave Dave's Record Why Dave?
 The Court's Role News & Media News & Press Media Gallery Get Involved Volunteer Supporter Toolkit Invite Dave Host an Event Endorse Dave Contact Donate About Meet Dave Dave's Record Why Dave?
 The Court's Role News & Media News & Press Media Gallery Get Involved Volunteer Supporter Toolkit Invite Dave Host an Event Endorse Dave Contact Donate ✓ Link copied to clipboard!
 Washington State Supreme Court — Position 5 · 2026 Experience.

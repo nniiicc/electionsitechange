@@ -1,4 +1,4 @@
-Get Involved Donate Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos Meet Leigh Leigh Wambsganss (womz-gonz) is running for State Senate to keep Texas strong and free, and fight for real affordability that lower taxes and commonsense policies bring.
+Get Involved Donate Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos a DONATE Meet Leigh Early Voting Locations Issues Endorsements Get Involved Videos Meet Leigh Leigh Wambsganss (womz-gonz) is running for State Senate to keep Texas strong and free, and fight for real affordability that lower taxes and commonsense policies bring.
 She is a mom, a business owner, a seasoned professional, and a volunteer with over 30 years of experience advocating for Texas families.
 Leigh knows what it’s like to struggle, to sacrifice, to not be sure the money will stretch to the end of the month, and to work hard for every opportunity.
 She didn’t inherit her success.

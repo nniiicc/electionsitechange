@@ -11,4 +11,4 @@ As a small business owner and advocate for the 2nd Amendment, Cal has long fough
 But now, as our politicians put special interests first, wastefully spend our tax dollars, and fail to respond to us, Cal is worried that we are not receiving the representation we need.
 That’s why he has offered himself as a candidate for the South Carolina House of Representatives – to promote job creation policies, improve our crumbling roads, reform education, lessen the tax burden on South Carolinians, eliminate wasteful spending, and provide us the representation we deserve.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

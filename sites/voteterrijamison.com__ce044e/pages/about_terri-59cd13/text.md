@@ -12,4 +12,4 @@ She also devoted considerable time, energy, and attention to issues related to e
 Along with her many other accomplishments, Judge Jamison is most proud of being a spouse to Ricardo “Ty” Gary, a retired Franklin County Deputy Sheriff who has started a new career as a realtor with E-Merge Realty.
 Their blended family includes three sons, Tremayne, Demetrius, and Sean, eight grandchildren, and one great-granddaughter.
 Support Judge Jamison Today!
-E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu
+E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

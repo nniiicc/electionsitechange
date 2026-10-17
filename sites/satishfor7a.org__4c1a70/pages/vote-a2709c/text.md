@@ -1,6 +1,6 @@
 You need to enable JavaScript to run this app. info@satishchapagain.com +1 (443) 760-8167 Follow: Home About Priorities Get Involved Vote Contact Donate Make Your Voice Heard Your plan to vote Voting in District 7A is easy.
 Here's everything you need to make sure your voice is counted in 2026.
-Countdown to Election Day November 3, 2026 17 Days 13 Hours 05 Minutes 55 Seconds Mark Your Calendar Key 2026 election dates General Election Day Tuesday, November 3, 2026 Polls open across Maryland.
+Countdown to Election Day November 3, 2026 16 Days 13 Hours 10 Minutes 15 Seconds Mark Your Calendar Key 2026 election dates General Election Day Tuesday, November 3, 2026 Polls open across Maryland.
 Make your plan to vote!
 Early Voting Thursday, October 22, 2026 through Thursday, October 29, 2026 Early voting centers are open 7 a.m. to 8 p.m.
 Official Resources Maryland State Board of Elections All links go to the official Maryland elections website.

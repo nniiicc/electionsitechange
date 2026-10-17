@@ -1,4 +1,4 @@
-Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voter Information Your voice matters and every vote makes a difference.
+Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Voter Information Your voice matters and every vote makes a difference.
 Below you will find key information to help you make your plan to vote in the upcoming elections.
 Voter Registration Make sure you are registered to vote and that your information is up to date.
 You can check your voter registration status or register to vote online or by mail.
@@ -11,4 +11,4 @@ Primary and General Election Dates Primary Election Day: Tuesday, March 3, 2026 
 On Election Day, you must vote at your assigned polling place.
 Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Where is my polling place?
 Voter Information Texas House District 28 Endorse Sandy!
-Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com - Political Campaign Websites Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Close Menu
+Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Voting Locations Close Menu

@@ -1,4 +1,4 @@
-0 Skip to Content Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English Back DONATE PRIVACY POLICY Last updated on June 18, 2026.
+0 Skip to Content Home Meet Darden The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden The Issues News Get Involved Media Kit English Back DONATE PRIVACY POLICY Last updated on June 18, 2026.
 Darden Copeland for Congress cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies to Darden Copeland for Congress only.

@@ -6,4 +6,4 @@ MEET TERESA Chip in to our campaign! $# $# $# $#,# $# $# $#,# Other If you’ve 
 PO Box 2675 Santa Fe, NM 87504 info@teresaforall.com Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 Contact Privacy Policy Join our campaign Sign up with your name and email address to receive news and updates.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

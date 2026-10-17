@@ -10,6 +10,8 @@ Rosa’s parents always stressed the importance of hard work, compassion for oth
 Read More Read More Standing Up for Connecticut For Rosa, her work has been and will always be about helping people.
 Since coming to Congress, she has built a reputation as a hard-working, passionate, and forthright advocate for her constituents.
 The Cost of Living Health Care Education Seniors Chip in $30 today for CT-03 $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Tomorrow, October 16, is the deadline to register to vote in Connecticut. 🗳️ Miss it?
+You’re still not...
 New Haven apizza >>> Like many of you, I was raised on these slices.
 I declared New Haven the pizza ...
 Young Americans are burdened with high costs.
@@ -28,8 +30,6 @@ Groceries up 32% since 2020.
 Coffee up 17%.
 Beef up double digits at its peak this year.
 This is not a blip�...
-Gas in CT is $4.46/gal up from $3.21 #ago...
-While Republicans handed the wealthiest $4.5 TRILLION in t...
 The Latest Updates View All News View All News Connecticut Labor Backs DeLauro NEWS Jul 20, 2026 DeLauro Receives American Federation of Teachers Lifetime Achievement Award NEWS Jul 20, 2026 Join Us.
 Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from the campaign.

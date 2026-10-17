@@ -1,4 +1,5 @@
-Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Senator Orr secures large grant for career tech equipment for local school district Written on September 4, 2026 .
+Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Bill sponsored in Senate by Senator Orr shaking up higher education Written on September 4, 2026 .
+Source: https://yellowhammernews.com/ua-system-trustees-put-tenured-professors-under-five-year-review-bar-faculty-senates-from-speaking-for-universities/ Senator Orr secures large grant for career tech equipment for local school district Written on September 4, 2026 .
 Source: https://www.yahoo.com/news/us/articles/career-academies-gets-350-000-231100226.html Senator Orr helpful with new Calhoun Aviation Maintenance Center Written on September 4, 2026 .
 Source: https://aldailynews.com/calhoun-community-college-opens-aviation-maintenance-technology-hangar-launches-program/ Decatur Daily supports Senator Orr’s efforts to put restraints on Flock cameras Written on August 24, 2026 .
 Source: https://www.decaturdaily.com/opinion/editorials/ Senator Orr secures funding for Career Academy equipment Written on August 24, 2026 .
@@ -7,6 +8,5 @@ Source: https://www.yahoo.com/news/us/articles/athens-state-president-gets-3-231
 Source: https://www.hartselleenquirer.com/2026/07/22/morgan-delegation-highlights-data-centers-budgets-local-projects/ ALDOT authorizes U.S.
 31 bridge study funding secured by Senator Orr Written on July 20, 2026 .
 Source: https://www.yahoo.com/news/us/articles/study-focus-three-possible-routes-035900286.html Senator Orr & Representative Stadthagen help with funding for baby box at Hartselle Health Park Written on July 14, 2026 .
-Source: https://whnt.com/news/decatur/hartselle-to-unveil-new-safe-haven-baby-box-at-hatselle-er/ Senator Orr discusses trail red-tape Written on July 14, 2026 .
-Source: https://www.yahoo.com/news/science/articles/planned-refuge-trail-could-expand-124100864.html 1 2 3 4 5 … 69 Mailing Address P.O.
+Source: https://whnt.com/news/decatur/hartselle-to-unveil-new-safe-haven-baby-box-at-hatselle-er/ 1 2 3 4 5 … 69 Mailing Address P.O.
 Box 305 Decatur, AL 35602 Montgomery Office Suite 730 | Alabama State House 11 South Union Street Montgomery, AL 36130-4600 Phone: (334) 261-0758 E-newsletter signup Field Offices Decatur 2124 6th Avenue SE, Suite 400 Decatur, AL 35601 Phone: (256) 260-2147 Huntsville Madison County Legislative Delegation 726 Madison Street | Huntsville, AL 35801 (256) 539-5441 Athens Limestone County Legislative Delegation 110 College Street, Suite E4 | Athens, AL 35611 (256) 262-9038 Copyright © Arthur Orr, Alabama State Senator Website Development by Red Sage Communications, Inc.

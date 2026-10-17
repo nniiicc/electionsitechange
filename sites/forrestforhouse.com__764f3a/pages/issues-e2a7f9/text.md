@@ -18,4 +18,4 @@ For far too long the federal government has tried to control education in South 
 Cal opposes Common Core and any attempt by the Federal government to dictate education in South Carolina.
 As our next State Representative, Cal will work to return education back to where it belongs – into the hands of parents, teachers, and local school districts.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

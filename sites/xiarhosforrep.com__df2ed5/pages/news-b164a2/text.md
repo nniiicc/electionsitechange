@@ -56,64 +56,87 @@ If you have any questions, please email my office at Steven.Xiarhos@mahouse.gov 
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 15th GO KNIGHTS!
-Tonight is the Sandwich Community Homecoming Event!
-Join everyone from 7 to 9 PM at Sandwich Middle High School for a community bonfire, music, games, and food trucks.
-Thank you to Sandwich Public Schools and the Blue Knights Gridiron Committee for bringing the community together.
-It’s a great night to support the students, the schools, and our Blue Knights!
-It’s FREE and open to everyone.
-Hope to see you there!
-LET’S GO KNIGHTS! 🇺🇸💙🏈👏🏻 #RepX #Fightin5th #CommonSenseLeadership #ProudAmerican #ServiceBeforeSelf #Sandwich #CapeCod #Massachusetts #MaPoli Sandwich Public Schools Sandwich Middle High School Sandwich Middle High School PTSA Group Blue Knights Gridiron ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 15th GOOD MORNING, HAPPY THANKFUL THURSDAY IN THE FIGHTIN’ FIFTH!
-Today, I’m thankful for the brave men and women in law enforcement who put their lives on the line every day to protect others.
-Yesterday, at our beautiful People’s House in Boston, 18 police officers were honored with the 2026 Trooper George L.
-Hanna Memorial Awards for Extraordinary Bravery, the Commonwealth’s highest law enforcement honor.
-These awards honor the memory of Massachusetts State Police Trooper George L.
-Hanna, who was killed in the line of duty in 1983.
-His family was there yesterday, as they are every year, to help keep his memory and legacy alive.
-I also want to thank Governor Healey and her office, Public Safety Commissioner Kwan, and the Executive Office of Public Safety for recognizing these heroes and helping keep Trooper Hanna’s memory and legacy alive.
-These awards are an important reminder of the courage, sacrifice, and service of the men and women who protect us every day.
-As a former police officer, the father of a police officer, and the father-in-law of a police officer, this is very personal to me.
-I know the sacrifices our law enforcement families make and the courage it takes to wear the badge.
-Today, and every day, I’m thankful for the brave men, women, and canines in law enforcement here in Massachusetts and across our great nation.
-CONGRATULATIONS to all 18 recipients.
-Thank you for your courage, your service, and for answering the call when others need you most!
-2026 TROOPER GEORGE L.
-HANNA MEMORIAL AWARD RECIPIENTS MEDAL OF HONOR • Officer Aurise Miedico, Burlington Police Department • Officer José R.
-Valenzuela, Boston Police Department • Officer Gerard Colpoys, Boston Police Department • Officer Steven Negron, Holyoke Police Department MEDAL OF VALOR • Detective Daniel Wall, Jr., Everett Police Department FALL RIVER POLICE DEPARTMENT • Sgt.
-Shane Galus • Sgt.
-Adam Talbot • Officer Mohammed Adelakun • Officer Collin Almeida • Officer Brandon Andrade • Officer Logan Arruda • Officer Taylor Carreiro • Officer Tre’Quan Gardner • Officer Nicholas Kennedy • Officer Jeffrey Louis • Officer Jimmie J.
-Page • Officer Christopher Silvia • Officer Jacob Swenson God bless and protect our first responders. 🇺🇸💙🐕🙏🏻🫡👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #BackTheBlue #CapeCod #Massachusetts #MaPoli Burlington Police Department Boston Police Department (Official) Holyoke Police Department Everett MA Police City of Fall River Police Department Executive Office of Public Safety and Security ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 14th WHAT A DAY AT MMA!
-Marinakis Hall Dedication Day I was so proud to be at our very own Massachusetts Maritime Academy today for the dedication of the beautiful new Marinakis Hall, a building where cadets will train, learn, and prepare to lead for generations to come.
-I was honored to provide a few remarks about how special this school is, its incredible history, and the deep connection between Greece and America.
-I even had the opportunity to speak briefly about my son, Nicholas, and remind everyone that life is precious.
-What a beautiful day celebrating an incredible $5 million donation from the Marinakis family, who traveled all the way from Greece with three van loads of family and friends to be here for this special occasion.
-As a proud Greek American and state representative of the Great Fightin’ Fifth, this day meant so much to me.
-The Greek American tradition of service, sacrifice, fighting for what we believe in, and giving back is something I hold close to my heart.
-We must never forget the price of freedom and the sacrifices made by so many that allow us to gather, learn, and build a better future.
-One of my special moments today was pinning Chairman Evangelos Marinakis with a pin featuring the Commonwealth of Massachusetts flag and the American flag, the same special pin we proudly wear in the People’s House.
-Now he will wear it on his journey back to Greece, a small token of our appreciation and a lasting connection between our Commonwealth and his family.
-Thank you to the Marinakis family, Admiral Francis X.
-McDonald, and the entire Massachusetts Maritime Academy team for making this day possible.
-We are so fortunate to have this world-renowned institution right here in our district and in the Commonwealth.
-WAY TO GO, MMA!
-GO BUCS! 🇺🇸🇬🇷😊⚓👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #GiveBack #Greece #USA #MMA #Bourne #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Bob Coughlin State Representative Hannah Kane Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp The Nicholas G.
-Xiarhos Memorial Fund ...
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 16th CONGRATULATIONS, HEIDI AND DAVE!
+What a GREAT morning in the great town of Sandwich, right here in the heart of the Fightin’ Fifth!
+Senator Dylan Fernandes and I had the pleasure of surprising everyone with citations from the Massachusetts House of Representatives and State Senate!
+We recognized Heidi Trottier, Director of the Sandwich Chamber of Commerce, for an outstanding year, all her hard work, and the many accomplishments she and her team have achieved.
+From growing membership to always being there for local businesses and the community, Heidi gives it her all, 24/7!
+We also presented Dave Sampson with a citation recognizing his years of service to the Sandwich Chamber as he wrapped up his time there.
+Dave continues to serve the town as a member and Chair of the Select Board, and we are grateful for everything he does for Sandwich!
+Great people, a great building, and a great morning celebrating two people who give so much back to their community.
+Keep up all the great work, Heidi and Dave, and thank you to everyone at the Sandwich Chamber of Commerce for all you do for our businesses and the town of Sandwich. 🇺🇸😊👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli Sandwich Chamber of Commerce Town of Sandwich, MA Sandwich Council on Aging Dylan Fernandes ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 16th A POWERFUL AND IMPORTANT MORNING WITH INDEPENDENCE HOUSE!
+Such a great and important morning at the annual Domestic Violence Awareness Breakfast at Margaritaville Resort in Hyannis.
+While I couldn’t stay for the entire event, I was so impressed by the information, the displays, and the important message being shared.
+The “Lightkeeper” concept was especially powerful.
+It reminds us to look beyond what we see and pay attention to what others may be experiencing behind closed doors.
+The interactive displays showed different forms of abuse, including financial abuse, technology-facilitated abuse, coercive control, and the impact of abuse on work and businesses.
+Be a lightkeeper who notices what others may not see.
+It was also heartbreaking to see the display honoring the Massachusetts victims of domestic violence who have lost their lives in 2026.
+Every name represents a life, a family, and a tragedy that reminds us why awareness, education, and action matter so much.
+As a former police officer and domestic violence specialist who has put batterers behind bars and stood up for women and survivors, this morning really hit home.
+Please take a few minutes to look through the pictures and learn more about the many forms domestic violence can take.
+Sometimes, recognizing the signs and speaking up can make all the difference.
+IF YOU OR SOMEONE YOU KNOW NEEDS HELP: Independence House 24-hour hotline: 800-439-6507 If you are in immediate danger, call 911.
+Law Enforcement Officers will be on the way.
+I’m always proud to see Lysetta Putnam, Executive Director, and her incredible team continuing this important work.
+I’m also proud to have served on the Independence House Board of Directors and to continue as an ambassador supporting their mission.
+Keep up the great work, Independence House!
+I look forward to seeing everyone next week at the ribbon-cutting ceremony for the new building.
+Let’s keep looking out for one another, raising awareness, and being the light someone may desperately need.
+God bless! 🇺🇸❤️🙏 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #DomesticViolenceAwareness #Barnstable #Bourne #Sandwich #CapeCod #Massachusetts #MaPoli Independence House, Inc.
+Hyannis, MA The National Network to End Domestic Violence National Domestic Violence Hotline Massachusetts State 911 ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
-October 14th WHAT A VIEW AT MASS MARITIME!
-A look inside the beautiful new Marinakis Hall and the incredible views from up top of our Massachusetts Maritime Academy campus, the Cape Cod Canal, Buzzards Bay, and beyond on this gorgeous Cape Cod day!
-This state-of-the-art training facility will help educate and prepare future generations of cadets for years and generations to come.
-So proud to have this outstanding institution right here in the Fightin’ Fifth!
-GO BUCS! 🇺🇸🇬🇷😊👏🏻👏🏻👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Bourne #MMA #GoBUCS #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp The Nicholas G.
-Xiarhos Memorial Fund ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
-October 14th GRAND OPENING AT MASS MARITIME!
-Proud to be at the grand opening of beautiful Marinakis Hall at our own Massachusetts Maritime Academy on General Taylor’s Point in Buzzards Bay!
-This incredible, multi-million-dollar training facility is another example of why Mass Maritime is one of the jewels of the Commonwealth and our nation.
-Proud to represent this outstanding institution in the Fightin’ Fifth!
-GO BUCS! 🇺🇸🇬🇷😊👏🏻👏🏻👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Bourne #MMA #GoBUCS #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Massachusetts Maritime Academy Alumni Association Βαγγέλης Μαρινάκης / Evangelos Marinakis Capital Martime & Trading Corp ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
+October 16th TODAY, WE STAND TOGETHER AGAINST DOMESTIC VIOLENCE.
+I’m here at the annual Independence House Domestic Violence Awareness Breakfast at Margaritaville in Hyannis.
+This is an incredibly informative and interactive event that reminds us how abuse can happen in many different ways and how, if left unchecked, it can tragically lead to death.
+Please take a moment to look at these displays, learn the warning signs, and remember that help is available.
+If you or someone you know needs help, please reach out.
+You are not alone, and we are here to help.
+Thank you to Independence House for the important work you do every single day.
+God bless. 🇺🇸🙏 #RepX #Fightin5th #CommonSenseLeadership #ProudAmerican #ServiceBeforeSelf #WearRedFriday #Barnstable #Sandwich #Bourne #DomesticViolenceAwareness #CapeCod #Massachusetts #MaPoli Independence House, Inc.
+Hyannis, MA ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 16th GOOD MORNING, HAPPY WEAR RED FRIDAY IN THE FIGHTIN’ FIFTH!
+It’s going to be a GREAT day!
+Please try to wear something RED today to Remember Everyone Deployed across our nation and around the world, serving and protecting America.
+We remember our brave troops, along with the families who are so proud of them and worry about them every single day.
+I know I’ll be wearing some RED today!
+A special shout-out to all our troops, past, present, and future.
+We are proud of you, we support you, and we thank you for your service and sacrifice!
+Have a fantastic Fightin’ Fifth Friday, everyone!
+Hope to see you somewhere in and around the district.
+God Bless 🇺🇸😊🫡 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ServiceBeforeSelf #WearRedFriday #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli Support Our Troops - Wear Red Friday's ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 15th THANKFUL THURSDAY HABITAT FOR HUMANITY OF CAPE COD!
+What an incredible day today at the West Dennis Yacht Club with Habitat for Humanity of Cape Cod and so many wonderful people making a difference!
+Habitat does so much more than build beautiful, energy-efficient homes.
+They build hope, security, peace, and a better future for families right here on Cape Cod.
+One young man, a high school student, stood up and stole our hearts.
+He shared how his family’s Habitat home has brought them something so important: peace.
+His mom sleeps better, his sister Schina sleeps through the night, and their family finally has a place where they feel safe, comfortable, and truly at home.
+His words said it all: “You did more than help build a house.
+You helped give our family peace.” That’s what Habitat is all about.
+Changing lives, one family at a time.
+It was also wonderful to see Lisa, who helped me understand the true meaning of Habitat’s mission several years ago.
+I first met Lisa when she was living in a tent in the middle of the dark state forest in Sandwich.
+Her story touched my heart and helped lead me to become a member of Habitat for Humanity of Cape Cod’s Board of Directors.
+Today, Lisa has her own beautiful, brand-new home in Wellfleet, thanks to Habitat.
+From a tent in the woods to a beautiful new home.
+That’s the kind of miracle we can make happen when people come together to help one another.
+I’ll never forget Lisa’s story.
+A special thank you to President and CEO Wendy Cullinan, who is wrapping up her years of service this year.
+Wendy, you have the biggest heart and a determination to help others that inspires everyone around you.
+We celebrated you today, and we are so grateful for everything you’ve done.
+We love you!
+It was also wonderful to see my friend and constituent Jason Goldstein recognized for his work through his small photography business, helping tell the stories of families whose lives have been changed by Habitat.
+Congratulations, Jason!
+You and your family deserve this recognition.
+Proud of you, my friend!
+Thank you to all the volunteers, donors, businesses, and everyone who makes this mission possible.
+This is what community is all about: people coming together, giving back, and making a real difference.
+Habitat for Humanity doesn’t just build houses.
+It builds hope, brings peace, and changes lives.
+God bless everyone involved in this incredible organization! 🇺🇸❤️🏡😊 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #ThankfulThursday #HabitatForHumanityCapeCod #GivingBack #CapeCod #Massachusetts #MaPoli Habitat for Humanity of Cape Cod Habitat for Humanity Jason Goldstein Photography ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.
 Nothing within this site is intended to communicate or imply the support or endorsement of any person or entity unless such an endorsement is stated explicitly.

@@ -34,7 +34,4 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Joe Kilduff Former Mayor of Plymouth "I am proud to endorse my good friend Peter Lumaj for Secretary of the State.
-Peter has long been a tireless advocate for bringing strong, conservative principles to our state government.
-His dedication to election integrity, transparency, and efficient public service is exactly what Connecticut needs.
-I have no doubt that, as our next Secretary of the State, Peter will work every day to safeguard our democratic process and serve the people of Connecticut with honor and conviction" View all endorsements →
+ENDORSED BY Jeff Caggiano Former Mayor of Bristol "The Secretary of the State interacts with a wide range of individuals, including voters, businesses, other government officials, and the public, requiring strong communication and interpersonal skills, which Peter has been able to demonstrate in his business and political experience." View all endorsements →

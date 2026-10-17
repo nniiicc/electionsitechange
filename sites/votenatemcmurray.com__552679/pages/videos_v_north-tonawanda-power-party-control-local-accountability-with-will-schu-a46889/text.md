@@ -11,8 +11,5 @@ The argument isn’t just about one issue.
 It’s about whether the broader system is working for the public—or for itself.
 If you care about Western New York, this is where it starts—not in Washington, but right here.
 Previous Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Next PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-Why Is Southern Ontario Doing Better Than Western New York?
-Volunteer and Sign Up for Updates!
+The Courage Gap in American Politics Next PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK You Might Also Like WE ARE AT A CROSSROADS IN WESTERN NEW YORK Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Volunteer and Sign Up for Updates!

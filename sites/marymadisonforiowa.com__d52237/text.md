@@ -7,7 +7,7 @@ Mary Madison has strong beliefs in the rights embedded in the humanity of every 
 There is much to do as your representative: I have been engaged in community listening sessions, to learn and bring the issues of importance to you, my neighbors, into the legislative work I do.
 Let’s be clear, that West Des Moines and the portion of Dallas county I represent, are great communities to call home!
 Celebrating our diversity and shared values will only continue to make all of Iowa a great place to live!
-Legislative committees Economic Growth and Technology Education Environmental Protection (Ranking Member) Transportation Justice System Appropriations Subcommittee International Relations Committee My PRIORITIES I support creative ways and incentives to grow small businesses.
+Legislative committees Economic Growth and Technology Education Environmental Protection (Ranking Member) Transportation Justice System Appropriations Subcommittee International Relations Committee (from 01/13/2025 - 11/13/2025) My PRIORITIES I support creative ways and incentives to grow small businesses.
 I support apprenticeships, a living wage, and safe, affordable child care.
 All of which strengthen working families.
 Strong Schools I believe working together we can have a strong public school; fully funded and supporting the rights of teachers, students, and parents working toward quality education.
@@ -49,7 +49,7 @@ Vote for Mary Madison!” A.S.Wells says: “As young undergraduate members of A
 Her laser focus, even then, broadened my attitude toward and deepened my understanding of the value of community of service.
 She was a leader, a team member, and a motivator.
 Through the years her leadership skills, her varied professional experience, and diverse volunteer work in community service have been put to excellent use to serve humanity and have prepared her to serve as a very highly qualified elected representative of the 31st District in Iowa.” Continue through the website to view official endorsements from Iowa’s best!
-Click to support this campaign At the Capitol Election Day Voter Registration & Absentee Ballots At Valley Junction meeting voters and celebrating Cinco de Mayo Women’s Health is a Human Right Women’s reproductive health is related to multiple human rights, including the right to life, the right to be free from torture, the right to health, the right to privacy, the right to education, and the prohibition of discrimination. -World Health Organization Candidate Forum: Speaking on the issues in Waukee Q and A at Democratic Candidate Forum held in Waukee IA Democrat Booth at The Iowa Fair Wearing Mary Madison for Iowa Tees!
+At the Capitol Election Day Voter Registration & Absentee Ballots At Valley Junction meeting voters and celebrating Cinco de Mayo Women’s Health is a Human Right Women’s reproductive health is related to multiple human rights, including the right to life, the right to be free from torture, the right to health, the right to privacy, the right to education, and the prohibition of discrimination. -World Health Organization Candidate Forum: Speaking on the issues in Waukee Q and A at Democratic Candidate Forum held in Waukee IA Democrat Booth at The Iowa Fair Wearing Mary Madison for Iowa Tees!
 Thank you Volunteers!
 Your continued support means everything!
 Looking Ahead Wing Ding!
@@ -64,4 +64,5 @@ Please contact us if you can help us spread the word!
 Thank you for your generous support!
 Submit the Form Below REGISTER to vote When it’s time to make the right choice, be prepared: Know your polling place.
 Know the issues and vote.
-REGISTER Thank you for being a voter Map of district 31 Click the Map to Zoom In Mary Madison for Iowa House District 31 Phone: 515-480-3162 Capitol Phone: (515) 281-3221 Email: Mary.Madison@legis.iowa.gov Chamber Address: State Capitol, Attn Representative Mary Madison, 1007 E Grand Ave, Des Moines, IA 50319 GET IN TOUCH Paid For By Mary Madison for Iowa
+REGISTER Thank you for being a voter Map of district 31 Click the Map to Zoom In Mary Madison for Iowa House District 31 Capitol Phone: (515) 281-3221 Email: Mary.Madison@legis.iowa.gov Chamber Address: State Capitol, Attn Representative Mary Madison, 1007 E Grand Ave, Des Moines, IA 50319 Please Note: Any mail you receive from me = NOT a taxpayer expense.
+GET IN TOUCH Paid For By Mary Madison for Iowa

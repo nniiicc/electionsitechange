@@ -14,7 +14,7 @@ That’s a career politician who has lost touch with the people he claims to rep
 I’m a Marine, a trial lawyer, a cancer survivor, and a father who lived paycheck to paycheck.
 I’ve put forward real solutions: including the Clean Hands Act to ban stock and crypto trading by members of Congress and impose a lifetime lobbying ban — because Washington needs accountability, not more of the same.
 "Massachusetts deserves better than 53 years of no results.
-I’m ready to deliver them." ### < Older Post JOHN DEATON will fight for what is right.
+I’m ready to deliver them." ### < Older Post Newer Post > JOHN DEATON will fight for what is right.
 Stay Connected Last Name Email Address Zip Code Thank you for signing up.
 We will continue to stay connected and share with you the latest from our campaign.
 Oops, there was an error sending your message.

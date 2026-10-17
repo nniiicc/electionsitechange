@@ -21,4 +21,4 @@ In District 4, that is taking the form of a proposed data center in southern Deu
 In this article I will try to describe my thoughts regarding the rapid industrialization we are facing.
 Read more 26 Nov Wednesday, 8:34 PM · 2025 Northeast Radio SD interview 2025-NOV-26 10 Oct Friday, 10:16 PM · 2025 Candidacy declaration I am declaring my candidacy for South Dakota's House of Representatives.
 It's time for an independent voice in Pierre.
-Read more Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Read more Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

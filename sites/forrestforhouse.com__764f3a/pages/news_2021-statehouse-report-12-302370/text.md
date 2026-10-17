@@ -31,4 +31,4 @@ Under these guidelines, anyone 16+ will be eligible to receive a COVID-19 vaccin
 Visit the interactive ‘Vaccination Dashboard by following this link, https://scdhec.gov/ covid19/covid-19-vaccination- dashboard . *Numbers updated March 30th.
 I'm at your service It is my honor to be of service to you and to serve District 39.
 If you need assistance navigating through the flow of information on COVID-19, navigating state government, or have any thoughts or concerns about what we are doing, please do not hesitate to contact me.
-Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

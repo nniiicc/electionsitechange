@@ -29,6 +29,10 @@
 },
 {
 "text": "Contribute",
+"href": "https://secure.actblue.com/donate/jonnyutah?refcode2=footer"
+},
+{
+"text": "Contribute",
 "href": "https://secure.actblue.com/donate/jonnyutah?refcode2=mobile-navbar&amount=37&recurring=false"
 },
 {
@@ -42,6 +46,10 @@
 {
 "text": "DONATE",
 "href": "https://secure.actblue.com/donate/jonnyutah?refcode2=countdown"
+},
+{
+"text": "Digital Business Card",
+"href": "https://dot.cards/jonnyutah4congress"
 },
 {
 "text": "Draper Senior Center Candidate Days",
@@ -78,6 +86,14 @@
 {
 "text": "Older →🪖 FIELD REPORT: Week beginning Sept 28th",
 "href": "https://jonnyutah4congress.com/latest-news/newsletters/field-report-week-beginning-sept-28th"
+},
+{
+"text": "Press Contact",
+"href": "mailto:press@jonnyutah4congress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jonnyutah4congress.com/privacy"
 },
 {
 "text": "Richfield Area Chamber of Commerce",
@@ -172,6 +188,10 @@
 "href": "https://www.youtube.com/watch?v=z9b3CEJfPYs&t=697s"
 },
 {
+"text": "[tooltip: Follow on Bluesky]",
+"href": "https://bsky.app/profile/jonnyutah4congress.bsky.social"
+},
+{
 "text": "[tooltip: Follow on Facebook]",
 "href": "https://www.facebook.com/jonnyutah4congress"
 },
@@ -180,12 +200,24 @@
 "href": "https://www.instagram.com/jonnyutah4congress"
 },
 {
+"text": "[tooltip: Follow on LinkedIn]",
+"href": "https://www.linkedin.com/in/jonnyutah4congress"
+},
+{
 "text": "[tooltip: Follow on Threads]",
 "href": "https://www.threads.net/@jonnyutah4congress"
 },
 {
 "text": "[tooltip: Follow on TikTok]",
 "href": "https://www.tiktok.com/@jonnyutah4congress"
+},
+{
+"text": "[tooltip: Follow on Twitter/X]",
+"href": "https://x.com/vote4jonnyutah"
+},
+{
+"text": "[tooltip: Follow on YouTube]",
+"href": "https://www.youtube.com/@jonnyutah4congress"
 },
 {
 "text": "careforkids@uaeyc.org",

@@ -25,4 +25,4 @@ Students who have money receive many opportunities to engage with the academic c
 The pandemic placed our economic challenges in stark contrast—thousands of Utah families and students struggled, while the billionaires padded their pockets.
 This stark reality made clear to me that we need candidates and representatives who will stand up for democracy, who will stand up against the tyranny of the wealthy, who will stand up for the masses oppressed by an unelected wealthy class.
 I hope to be that representative for Utah.
-Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com - Political Websites Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu

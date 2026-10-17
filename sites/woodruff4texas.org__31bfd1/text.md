@@ -41,18 +41,12 @@ Donate Now JP's Top 3 Personal Values Faith Family Accountability JP Woodruff’
 He plans to revive revenue in Texas by championing God’s entrepreneurial economy, empowering hardworking families through practical opportunities and spiritual strength.
 As the strongest supporter of faith, freedom, and family abundance, JP stands ready to restore prosperity and uphold the values that make Texas great.
 Donate Now Top 7 Policy Points A Clear Vision for Texas House District 92 01 Home Ownership 02 Property Tax Relief 03 Financial Independence 04 Election Integrity 05 Government Transparency 06 Skilled Trades 07 Faith, Family & Constitutional Liberties 08 Merit-Based Opportunities 09 H1B Visa Management 10 Free Speech Absolutist 10 Ways to Partner with JP Block Walking / Door Knocking Attend Our Events Tell Your Friends Host a Meet & Greet Poll Greeters / Watchers Phone Banking (Call/Text) Subscribe and Share Large Sign Distribution In-Kind Donations Daily Social Media Promotion of Campaign Material and Website I'm Ready To Help 10 Ways to Partner With JP Block Walking / Door Knocking Attend Our Events Tell Your Friends Host a Meet & Greet Poll Greeters / Watchers Phone Banking (Call/Text) Subscribe and Share Large Sign Distribution In-Kind Donations Daily Social Media Promotion of Campaign Material and Website I'm Ready To Help Donate& Volunteer " Ruff, Tough , & Hard To Bluff" Partner With JP Campaign Name JP Woodruff for HD92 Campaign Phone 817-271-6974 Email [email protected] Address TBA Where to Vote Any Tarrant County Polling Place, though we recommend voting in your own precinct when possible.
-First Name Last Name Phone * Email * Message By checking this box, I consent to receive campaign messages from JP Woodruff for Texas 92 .
-Message frequency varies; message & data rates may apply.
-Text HELP for assistance; reply STOP to opt out.
-By checking this box, I consent to receive campaign updates, volunteer opportunities, event invitations, fundraising messages, and other campaign-related communications from JP Woodruff for Texas 92 by email and/or phone call using the contact information I provide.
+First Name Last Name Email * Message By checking this box, I consent to receive campaign updates, volunteer opportunities, event invitations, fundraising messages, and other campaign-related communications from JP Woodruff for Texas 92 by email using the contact information I provide.
 I understand that I may opt out of these communications at any time.
 Contact Us Privacy Policy | Terms of Use Political ad paid for by JP Woodruff for Texas Partner With JP Campaign Name JP Woodruff for HD92 Campaign Phone 817-271-6974 Email [email protected] Address 2309 Balsam Dr.
 Ste.
 K304 Arlington TX 76006 Where to Vote Any Tarrant County Polling Place, though we recommend voting in your own precinct when possible.
-First Name Last Name Phone * Email * Message By checking this box, I consent to receive campaign messages from JP Woodruff for Texas 92 .
-Message frequency varies; message & data rates may apply.
-Text HELP for assistance; reply STOP to opt out.
-By checking this box, I consent to receive campaign updates, volunteer opportunities, event invitations, fundraising messages, and other campaign-related communications from JP Woodruff for Texas 92 by email and/or phone call using the contact information I provide.
+First Name Last Name Email * Message By checking this box, I consent to receive campaign updates, volunteer opportunities, event invitations, fundraising messages, and other campaign-related communications from JP Woodruff for Texas 92 by email using the contact information I provide.
 I understand that I may opt out of these communications at any time.
 Contact Us Privacy Policy | Terms of Use Political ad paid for by JP Woodruff for Texas YOUR VOTE IN DISTRICT 92 MATTERS Registration Deadline: October 3, 2026 Winning HD92 will require strong precinct-level organization, direct voter contact, and neighborhood outreach.
 Volunteer engagement and a clear local message that resonates across the district.
@@ -70,4 +64,4 @@ Many elections are decided by relatively small margins.
 YOUR vote, when combined with others, determines election outcomes.
 Every Vote Counts Did you know that more than 93,000 people are registered to vote in House District 92, yet nearly 41,000 registered voters did not cast a ballot in the last general election?
 Isn’t it time that you ensure that you have a voice in your future?
-Follow, Like & Share Copyright © # Woodruff4Texas Website paid for by JP Woodruff for Texas House Campaign Follow, Like & Share Copyright © # Woodruff4Texas Website paid for by JP Woodruff for Texas House Campaign Website Created by FvF, LLC (dba Freedom Marketing Agency)
+Follow, Like & Share Copyright © # Woodruff4Texas Website paid for by JP Woodruff for Texas House Campaign Follow, Like & Share Copyright © # Woodruff4Texas Privacy Policy | Terms of Use Website paid for by JP Woodruff for Texas House Campaign Website Created by FvF, LLC (dba Freedom Marketing Agency)

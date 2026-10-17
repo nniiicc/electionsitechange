@@ -1,7 +1,7 @@
 top of page Home About News and Events Latest News Upcoming Events Priorities Affordability Public Education Public Safety Environment & Energy Reproductive Rights Contact Get Involved Voting District Map Merch Donate NONPROFIT CEO.
 COMMUNITY ADVOCATE.
 PROVEN LEADER.
-Donate Donate $10 $50 $25 $100 $250 Other Chip in today to Lindsay's campaign!
+Donate Donate $10 $25 $50 $100 $250 Other Chip in today to Lindsay's campaign!
 Help us flip one of the most competitive seats in Indiana!
 Checks can be payable to Our Community for Lindsay Gramlich and mailed to PO Box 3863, 275 Medical Dr, Carmel, IN 46082 SIGN UP TO VOLUNTEER VOTING INFORMATION RECEIVE AN ABSENTEE BALLOT BY MAIL Stay updated on the campaign!
 Join our Mailing List! * Subscribe I'm running for Indiana House District 39 as a dedicated nonprofit CEO and mother who believes that Carmel and Westfield want a representative who will fight for bold solutions to today's problems .

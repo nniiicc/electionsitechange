@@ -9,4 +9,4 @@ A Class C Felony has a punishment range of one to 10 years in prison.
 The bill took two years to get passed out of the Legislature.
 Chambliss sponsored the bill when he found out no law in Alabama existed that banned the practice.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

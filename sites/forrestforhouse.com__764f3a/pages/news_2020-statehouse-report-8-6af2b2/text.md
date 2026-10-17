@@ -34,4 +34,4 @@ Special Guest The House met in Joint Session with the Senate on Wednesday to hea
 He praised South Carolina’s efforts to support veterans as well as it’s long legacy of service to country and freedom, noting that the state is home to eight military bases and has over 50,000 men and women currently serving in the military.
 He also pointed out that 38 Medal of Honor recipients have been South Carolinians.
 We should be proud of those who have answered the call of duty and stand behind them.
-If I could ever be of service to you please don't hesitate to reach out to me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+If I could ever be of service to you please don't hesitate to reach out to me. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

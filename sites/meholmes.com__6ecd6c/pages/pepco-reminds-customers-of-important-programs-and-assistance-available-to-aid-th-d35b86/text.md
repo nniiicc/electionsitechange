@@ -31,9 +31,7 @@ Find additional information by visiting pepco.com , on Facebook at facebook.com/
 Pepco’s mobile app is available at pepco.com/mobileapp .
 ### Pepco is a unit of Exelon Corporation (Nasdaq: EXC), the nation’s leading energy provider, with approximately 10 million customers.
 Pepco provides safe and reliable energy service to approximately 894,000 customers in the District of Columbia and Maryland.
-Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like Condo Buildings Are at Risk.
-So Is All Real Estate.
-July 10, 2021 The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 The Maryland House of Delegates November 6, 2020 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like The Maryland House of Delegates November 6, 2020 Holmes Enterprises LLC January 9, 2021 WUSA9 investigation prompts appraisal bias legislation, now a leading issue in Maryland’s gubernatorial race February 20, 2022 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
 Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
 A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
 Holmes, Jr.

@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts Who is Craig Shubert?
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED All Posts Who is Craig Shubert?
 Candidate for Ohio State Representative, District 34 Shubert for Ohio May 16 # min read Updated: #ago Craig Shubert.
 A Bold.
 Principled.

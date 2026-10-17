@@ -74,4 +74,4 @@ I support caps on fundraising in order to level the playing field, and full tran
 Protecting Voting Rights & Public Trust Voting rights must be protected at all costs because voting is the premise upon which all else is built.
 The " BIG LIFE " is incredible damaging because it undermines people's faith in the process.
 Once that faith is sufficiently eroded. we will be in dangerous territory.
-Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu
+Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

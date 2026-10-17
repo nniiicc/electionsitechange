@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 MEET CHUCK MARTIN MEE ﻿ T CHUCK BORN IN ALPHARETTA Chuck was born to Charles and Betty Martin in Alpharetta, Georgia, in 1961.
 ATTENDS THE UNIVERSITY OF GEORGIA Chuck graduated from the University of Georgia in 1983 with a BBA in Management Science and was a member of the 1980 National Championship football team.
 INTO THE CITY LIMITS Chuck moved into Fairfax on Rucker Road with Johnna, ran for Alpharetta City Council, and won in a four-person race.
@@ -16,4 +16,4 @@ Martin was appointed Chairman of the House Appropriations Committee –Public Sa
 He kept a watchful eye on expenditures while supporting our law enforcement officers and their efforts for criminal justice reform, like the Fulton County Drug Court offering non-violent offenders a second chance.
 APPOINTED CHAIRMAN OF HOUSE HIGHER EDUCATION COMMITTEE In 2019, Rep.
 Martin was appointed Chairman of the House Higher Education Committee, focusing on protecting and preserving the HOPE and Zell Miller Scholarships.
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

@@ -21,7 +21,7 @@ Eliminating HOME funding would push our communities backward at a time when we n
 It is time to raise our voices and remind lawmakers: strong communities start with strong homes.
 TLDR : The federal budget proposal cuts the HOME program, which has built over 1.3 million affordable homes nationwide.
 If it’s eliminated, rural Kentucky counties like Boone, Carroll, Franklin, Owen, Gallatin, and Kenton will lose critical funding for housing, making it even harder for families, seniors, and workers to find a place to call home.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 2, 2025 Posted in Uncategorized Post navigation Previous Post Previous post: Capital Indivisible: Standing Up for Kentucky Families Next Post Next post: Stella Pollard: The People’s Candidate for KY’s 20th Senate District Leave a Reply Cancel reply Comment Name Email Website Δ Stella for KY , Powered by WordPress.com .
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 2, 2025 Posted in Uncategorized Post navigation Previous Post Previous post: Capital Indivisible: Standing Up for Kentucky Families Next Post Next post: Stella Pollard: The People’s Candidate for KY’s 20th Senate District Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Stella for KY , Powered by WordPress.com .
 Discover more from Stella for KY Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...

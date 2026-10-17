@@ -4,4 +4,4 @@ David Mallory who was apart of the sit ins in Richmond Virginia and listen as he
 My takeaways is that it is important to not whitewash and sanitize our history in America no matter how sinister so that we may learn from these mistakes and prevent repeating them; and that If we want change in the world we need to be willing to fight for it.
 Change will not happen on it's own.
 Much like this campaign, we need to be the change we want to see in this world.
-Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

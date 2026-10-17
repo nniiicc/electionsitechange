@@ -1,4 +1,4 @@
-top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE Join us!
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact VOLUNTEER ENDORSE Join us!
 Everyone has something to contribute This campaign is all about community.
 It's about connecting with people, listening to the needs of the people in our community, and working together to build the type of world we want for today and future generations.
 There are so many ways for you to get involved and we will need the help of hundreds of people to start moving us in the right direction on the many issues facing our community here in Cache Valley.

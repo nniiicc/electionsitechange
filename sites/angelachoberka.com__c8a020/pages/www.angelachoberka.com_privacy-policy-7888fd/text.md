@@ -9,7 +9,9 @@ Msg frequency varies.
 You may reply STOP to opt out of messaging.
 Reply HELP for help.
 Msg & data rates may apply.
-Please review our Privacy Policy for additional information. beyond divides In a world increasingly defined by polarization and partisan politics, Angela refuses to be bound by ideological boundaries .
+Please review our Privacy Policy for additional information.
+Vote Voting Information Make a plan to vote!
+Election Day NOVEMBER 3 MAIL YOUR BALLOT BY Apply by May 15th DROP OFF BY 8 PM ON NOVEMBER 3 Check if you're registered to vote FIND A DROP BOX NEAR YOU IN PERSON VOTING LOCATIONS beyond divides In a world increasingly defined by polarization and partisan politics, Angela refuses to be bound by ideological boundaries .
 Despite our differences, we all share the same hopes and aspirations: a better future for our children, more affordable and attainable housing , access to high-quality education , and a cleaner environment .
 Let's come together and work towards solutions that benefit all members of our community.
 Join Angela in moving beyond divides and building a community where everyone has the opportunity to thrive .

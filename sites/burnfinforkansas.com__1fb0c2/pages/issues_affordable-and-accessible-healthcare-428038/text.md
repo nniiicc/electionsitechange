@@ -4,4 +4,4 @@ Communities struggle to attract businesses, families, and retirees when healthca
 The closure of rural hospitals and shortages of healthcare professionals threaten the long-term stability of many Kansas communities, and Garden City is not immune.
 Expanding Medicaid would bring Kansas tax dollars back into our state, help strengthen struggling healthcare facilities, and expand coverage for thousands of working Kansans who currently fall into coverage gaps.
 At the same time, we must continue pursuing innovative solutions that expand access to specialists and advanced care in our area.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

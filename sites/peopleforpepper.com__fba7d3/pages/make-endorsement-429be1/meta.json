@@ -1,9 +1,10 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.peopleforpepper.com/make-endorsement",
- "fingerprint": "6f440b678639dd16569271ebde20fc17ca655775",
+ "fingerprint": "545f479fa62b4111924d6ebd6901ec6206e9952a",
  "format": 3,
  "paid_for_by": "Paid for by The People for Pepper Powered by CampaignPartner",
+ "rendered": false,
  "title": "Make Endorsement",
  "years_mentioned": []
 }

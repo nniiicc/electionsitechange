@@ -19,4 +19,4 @@ The Alabama Wildlife Federation, established by sportsmen in 1935, is the stateâ
 The mission of the Alabama Wildlife Federation, a 501(c) 3 non-profit group supported by membership dues and donations, is to promote conservation and wise use of Alabamaâ€™s wildlife and related natural resources as a basis for economic and social prosperity.
 To learn more about AWF, including membership details, programs and projects, contact Alabama Wildlife Federation at 1-800-822-WILD or visit www.alabamawildlife.org.
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

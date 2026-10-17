@@ -19,4 +19,4 @@ Rather than adding unnecessary layers of regulation, Melissa believes the focus 
 She supports: Responsible gun ownership Strong background checks already in place Enforcement of current laws over creating new burdens Parental Rights: Parents—not the state—have the ultimate responsibility for their children.
 They decide: How and where children are educated- I support school choice Which faith or spiritual path to follow The moral and ethical values that guide their family Government has no place in raising children .
 Its role is to support families, not replace them. « Previous: Affordability Next: Public Safety » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
-Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Approved by Melissa Lindsey Powered by CampaignPartner.com Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

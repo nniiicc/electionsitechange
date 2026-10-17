@@ -17,4 +17,4 @@ As your representative I will sponsor and support legislation that Provides clea
 Prevents cities and counties from implementing or continuing “sanctuary city” policies that allow them to harbor dangerous criminal illegal aliens.
 Toughens laws relating to juvenile offenders.
 Provides more opportunities for behavioral health intervention, especially in drug and alcohol cases.
-Next: Taxing and Spending » Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Next: Taxing and Spending » Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

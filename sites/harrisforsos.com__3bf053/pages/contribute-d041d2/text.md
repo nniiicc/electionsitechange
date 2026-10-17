@@ -19,4 +19,4 @@ I will continue traveling across every county, listening to voters and once elec
 America First; Let’s unite.
 Drivers Focused, Let’s win!
 Donate Now!
-Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu
+Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

@@ -10,4 +10,4 @@ Thompson was joined by his wife Brittany, daughter Davis, mother Beth, State Rep
 Danny Bentley, and State Rep.
 Shane Baker (photo attached).
 Bentley recently announced his retirement from the Kentucky House’s 98th District at the end of his fourth term in December 2024.
-Contribute Meet Aaron Yard Signs Contact Paid for by Aaron Thompson for KY House PO Box 462, Greenup, KY 41144 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Aaron Issues Contribute Volunteer News Yard Signs Contact Close Menu
+Contribute Meet Aaron Yard Signs Contact Paid for by Aaron Thompson for KY House PO Box 462, Greenup, KY 41144 Powered by CampaignPartner.com Home Meet Aaron Issues Contribute Volunteer News Yard Signs Contact Close Menu

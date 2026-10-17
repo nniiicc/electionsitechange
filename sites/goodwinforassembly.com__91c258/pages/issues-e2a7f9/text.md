@@ -40,5 +40,5 @@ His plan focuses on creating a modern outdoor development featuring local and na
 This reimagined space would not only restore pride to the neighborhood, but also create jobs, increase economic activity, and improve public safety.
 Russell Goodwin is committed to turning challenges into opportunities—delivering real results and building a stronger, safer, and more prosperous District 12 for everyone.
 Read More Home Meet Russell Issues GOODWIN RECKLESS DRIVING PLAN Volunteer Events Photos Yard Signs Contact 2026 Rep.
-Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Russell Issues 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com Home Meet Russell Issues 2026 Rep.
 Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Volunteer News Yard Signs Events Contact Close Menu

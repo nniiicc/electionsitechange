@@ -2,4 +2,4 @@ Meet Sam Platform Yard Signs and Highway Signs News and Articles South Dakota st
 For less than half the cost of current health insurance premiums, the citizens of South Dakota could build and run their own hospitals, using them only at the cost of the annual membership.
 While other forms of state run health care try to control or replace traditional hospital systems, this plan would leave all existing hospitals, health service corporations, and insurance companies alone.
 The state would simply provide an affordable fair market alternative.
-Next: Encouraging independent health care » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu
+Next: Encouraging independent health care » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

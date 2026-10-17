@@ -13,4 +13,4 @@ As the coordinator of the New Fairfield Youth Field Hockey program, she expanded
 Melissa believes the current state government has lost sight of its fundamental responsibility: representing the will of the people with transparency and accountability.
 She is running to represent Connecticut's 24th Senate District to help restore common sense, strengthen local communities, and ensure that the voices of residents are heard in Hartford.
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
-Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Approved by Melissa Lindsey Powered by CampaignPartner.com Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

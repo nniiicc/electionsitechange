@@ -20,4 +20,4 @@ We the People, Not They the Politicians Dave the DEWAR (DOER), Gets it Done!
 Issue Comparison Upcoming Events!
 District Map Lets Support Police and REPEAL the Safe-T-Act House Bill 3653!
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

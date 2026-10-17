@@ -4,4 +4,4 @@ Register & Find Your Polling Location Click Here for Information Make North Caro
 Election Day is November 3, 2026 Early Voting is open Oct.
 15, 2026 - Oct.
 31, 2026 Register to Vote Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,6 @@
 Donate About About Eric endorsements issues Record VOTING Record Sponsored Legislation updates Contact Updates Straight answers about legislation, state government, and issues that affect our community.
+Non Response from GDOT Board Member re: Watkinsville Bypass Project October 16, 2026 GDOT Non-Response is not acceptable.
+Our GDOT Board Member's term ends during the next term and the winner of this election will decide who represents us in the future.
 Mailer: Support Commonsense Policies!
 August 31, 2026 This mailer, funded by a conservative dark money organization, makes weak attacks on votes that I am more than happy to discuss.
 In fact, my website already has vote explainers that go into detail about why I voted the way I did.

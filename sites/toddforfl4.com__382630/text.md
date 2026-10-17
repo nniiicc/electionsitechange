@@ -14,4 +14,4 @@ Other Key Issues Ending Government Corruption Securing Healthcare for All Americ
 Request a Yard Sign Click Here to Request a Sign Need Voting Information?
 Register & Find Your Polling Location Click Here for Information Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Make a Donation First support a local charity or mutual aid.
-Then if you can, I'd truly appreciate help in this endeavor. $# $# $# $# $# $# $1000 Other Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Then if you can, I'd truly appreciate help in this endeavor. $# $# $# $# $# $# $1000 Other Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

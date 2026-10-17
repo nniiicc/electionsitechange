@@ -28,4 +28,4 @@ Work with legislators to reduce fees for Seniors, Veterans and DMV customers Cre
 So on November 3, 2026 , I humbly ask for your vote to elect, Diane Harris , as your next Illinois Secretary of State .
 Let’s build a government that is faster, fairer, for all!
 We can win, together !
-Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu
+Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

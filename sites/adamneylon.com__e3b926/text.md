@@ -22,4 +22,4 @@ Our family.
 Our way of life.
 That’s why I’m running.
 Keep Waukesha winning.
-Election Day December 15, 2026 at 7:00 AM Donate To Support Adam For Waukesha County Executive $ 10 $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu
+Election Day December 15, 2026 at 7:00 AM Donate To Support Adam For Waukesha County Executive $ 10 $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu

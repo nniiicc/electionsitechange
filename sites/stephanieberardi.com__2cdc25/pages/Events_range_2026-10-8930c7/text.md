@@ -15,7 +15,9 @@ More info › 11 Oct Sunday, 1:00 PM – 4:00 PM POSTPONED -Sunday Funday Fundra
 Join us at Yorkway place in Jenkintown for a Sunday Funday Fundraiser at the coolest ally in the 154th!
 Suggested tickets $35.
 Guests will enjoy live music, a complimentary drink from the Keep Easy and a free gelato from Carminati Creamery.
-Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table. $20- just coming for fun $35- Keepin' it Easy $50 - Make a change $75 - Making progess $100- Making changes More info › 16 Oct Friday, 6:00 PM – 9:00 PM Garden Party at Calluna Plants and Gifts 2012 Paper Mill Raod, Oreland, PA, 19075 Join us for a special night of enchantment at Calluna Plants and Gifts on Friday, October 16, 2026 from 6pm-9pm.
+Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table. $20- just coming for fun $35- Keepin' it Easy $50 - Make a change $75 - Making progess $100- Making changes More info › 17 Oct Saturday, 5:00 PM – 8:00 PM POSTPONED!!!!
+Garden Party at Calluna Plants and Gifts 2012 Paper Mill Raod, Oreland, PA, 19075 POSTPONED UNTIL SATURDAY!
+Join us for a special night of enchantment at Calluna Plants and Gifts on SATURDAY, October 17, 2026 from 5pm-8pm.
 Come out and meet Stephanie Berardi in her happy place; a garden filled with plants, fire pits, music and food trucks, arts and crafts.
 Kids are welcome and free to attend.
 Supporters receive a complimentary small plant with ticket price of $35 or more.
@@ -23,4 +25,4 @@ R.S.V.P. to attend.
 Donate online or checks can be made payable to Friends of Stephanie Berardi.
 Pay what you can ticket: $20 - Best buds - just coming for the fun. $35*- Succulent sponsor- yes!
 I'd love a plant to take home. $50*- Plant lover- I love plants! $75*- Flower power $100*- Seeds of love More info › 19 Oct Monday, 7:00 PM – 9:00 PM Candidates Night Glenside Hall 1850 Easton Road, Glenside, PA, 19038 More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

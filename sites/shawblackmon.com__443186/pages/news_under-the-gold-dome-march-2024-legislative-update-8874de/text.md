@@ -39,5 +39,5 @@ In closing, with Sine Die now days away, the pace under the Gold Dome continues 
 The House will return to session on Tuesday, March 26 for Legislative Day 39.
 My colleagues and I will continue working tirelessly to implement simple, smart and effective policies for Georgia families and our communities.
 Please stay tuned for Sine Die updates.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

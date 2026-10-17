@@ -38,4 +38,4 @@ The good news is that the citizens of Brandon have another option to have their 
 There is a petition circulating to put the rezoning decision on the ballot for all Brandon residents to vote on.
 If you are concerned about a cell phone tower right across from two schools where more than 1,200 kids spent 7 hours of their day, please go to Laundry Evolved, 1302 E Rushmore Dr. in Brandon M, Tu, Th, F 8am-5pm, W 8am-2pm to sign the petition or send an email to manuelluschas@gmail.com to coordinate getting your signature on the petition.
 We need 400 signatures of registered Brandon residents by December 3 rd , 2025.
-Manuel Luschas, Brandon SD Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Manuel Luschas, Brandon SD Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

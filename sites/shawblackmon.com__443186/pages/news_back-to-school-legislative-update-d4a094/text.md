@@ -22,5 +22,5 @@ As always, we continue working to ensure simple, smart and effective government 
 Please do not hesitate to reach out should you need assistance or have any questions.
 Wishing students and families a safe, exciting and productive start back to the school year!
 Add your expanded detail here.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

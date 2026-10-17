@@ -3,9 +3,6 @@ Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 8:00 PM Google Calendar ICS Do your r
 Its up to us to get money out of politics!
 Grab your neighbors, friends, and family members and go vote!
 VOTE EARLY!
-View Event → Oct 16 Big Lake Twp Door Knocking Friday, October 16, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 17 Vote Early Protest!
 Saturday, October 17, 2026 12:30 PM 2:30 PM Pedestrian Bridge over Hwy 169 (map) Google Calendar ICS Pedestrian bridge over Hwy 169 in Elk River.
 Plenty of parking!
@@ -28,6 +25,9 @@ Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots availabl
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
+View Event → Oct 16 Big Lake Twp Door Knocking Friday, October 16, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 14 DFL SD27 Monthly Meeting Wednesday, October 14, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
@@ -170,8 +170,4 @@ School board/city council reports: Old Business Grants through Indivisible - Jil
 Update: Monarca training August 25th: Kat Brandtjen/Tessa Asper/Jonna Duke Update: Red and Rural Day of action 8/23 (Sam/Debbie) Discussion: Forum on healthcare, education, affordability?
 September?
 Location?
-Candidates (Doug?) and featured speaker SET UP A COMMITTEE TO WORK ON THIS or give this project up New Business People needed to attend County Board meetings through November - Catherine Harrison County Democracy Defense Team Emmer Townhall: Kristie Walker, Jodee View Event → Aug 3 Clear Lake Door Knocking Monday, August 3, 2026 5:00 PM 8:00 PM Clear Lake Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Mobilize Sign Up / Facebook Event Page 5:00-7:00 PM Neighborhood Door Knocking & Community Outreach 7:-00-8:00ish PM Clear Lake Council Meeting Gather at Clear Lake Hall before heading into the community to meet voters, listen to concerns, and discuss the issues that matter most to local families.
-Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-View Event → Paid for by Davenport for Minnesota House 27A
+Candidates (Doug?) and featured speaker SET UP A COMMITTEE TO WORK ON THIS or give this project up New Business People needed to attend County Board meetings through November - Catherine Harrison County Democracy Defense Team Emmer Townhall: Kristie Walker, Jodee View Event → Paid for by Davenport for Minnesota House 27A

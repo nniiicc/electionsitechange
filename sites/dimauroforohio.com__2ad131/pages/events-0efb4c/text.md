@@ -1,9 +1,7 @@
-0 Skip to Content Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate Open Menu Close Menu Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate Open Menu Close Menu Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate House Party in Support of Scott DiMauro Wednesday, Oct.
+0 Skip to Content Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate Open Menu Close Menu Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate Open Menu Close Menu Priorities About Scott House District 16 Endorsements Donate Volunteer Request a Sign Events Donate Upcoming Events: House Party in Support of Scott DiMauro Wednesday, Oct.
 21 6:30-8:30 p.m.
-Address available upon RSVP; event will be held in Fairview Park RSVP to: dimauroforohio@gmail.com Upcoming Events: Knock on Doors with Scott in Rocky River!
-Every Sunday through Nov.
-1 1 p.m. and 4 p.m.
-Address available upon RSVP Sign up here: https://www.mobilize.us/ohiowins/event/1024176/ Westlake Canvass for Poindexter & DiMauro Every Saturday through Oct.
-31 11 a.m. and 1 p.m.
-Meet at Panera Bread 26137 Detroit Road Westlake, OH 44145 Sign up here: https://www.mobilize.us/brianpoindexter/event/1025364/ Democratic Candidate for Ohio House District 16 DiMauro for Ohio Made with Squarespace Paid for by Friends of Scott DiMauro 27839 Ironwood Ct.
+Address available upon RSVP; event will be held in Fairview Park RSVP to: dimauroforohio@gmail.com Knock on Doors with Scott and other Democrats to Get Out the Vote in the West Shore!
+Every Saturday & Sunday through Nov.
+1 Multiple shifts each day Address available upon RSVP Sign up here: https://www.mobilize.us/ohiowins/event/1024176/ Weeknight GOTV Canvass for Brian Poindexter & Scott DiMauro in Bay Village Thursday October 22 and Thursday October 29 4:30 - 6:30 p.m.
+Address available upon RSVP Sign up here: https://www.mobilize.us/brianpoindexter/event/1065766/ Democratic Candidate for Ohio House District 16 DiMauro for Ohio Made with Squarespace Paid for by Friends of Scott DiMauro 27839 Ironwood Ct.
 Westlake, OH 44145 Contact: scott@dimauroforohio.com

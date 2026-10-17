@@ -13,4 +13,4 @@ FULL LEGALIZATION OF CANNABIS Hoosiers regularly spend millions in tax revenue t
 A regulated, adult-only cannabis market can generate revenue, create businesses and jobs, and allow Indiana to decide where those tax dollars can do the most good, here in Indiana.
 That tax revenue helps to fund schools, roads, mental health services, and even provide property tax relief.
 It’s well past time to keep that tax revenue home instead of helping to fund things that Hoosiers need, in other states.
-Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com - Political Websites Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

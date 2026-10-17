@@ -7,4 +7,4 @@ PRIMARY ELECTION - August 11, 2026 The primary election determines which candida
 GENERAL ELECTION - November 3, 2026 The winner of the general election will become the next representative for Minnesota House seat 65B.
 Voter Information Endorsements Yard Signs Make An Endorsement Events Contact Prepared and paid for by: Team Ellefson for 65B P.O.
 Box 7181 St.
-Paul, MN 55107 Powered by CampaignPartner.com - Political Websites Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu
+Paul, MN 55107 Powered by CampaignPartner.com Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Corruption & Democracy Getting Big Money Out of Politics Politics feels corrupt because it is.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Corruption & Democracy Getting Big Money Out of Politics Politics feels corrupt because it is.
 James Talarico hasn’t taken a dime of corporate PAC money since his first race in 2017.
 His anti-corruption agenda bans super PACs and corporate PACs, bans stock trading by members of Congress, and closes billionaire tax loopholes.
 Politics feels corrupt because it is.

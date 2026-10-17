@@ -54,4 +54,4 @@ I see it as home.
 I see the families trying to get ahead, the small business owners taking risks, the seniors who built these communities, and the next generation that deserves the same opportunities we were given.
 That's why I'm fighting for District 30.
 Together, we can Move Colorado Forward.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

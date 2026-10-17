@@ -1,7 +1,6 @@
 Skip to main content About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate Now Media & Press News & Press.
 Coverage, announcements, and press releases from the campaign.
-All In the News Press Releases Media Coverage In the News The Seattle Times In the News October 9, 2026 Seattle Times Editorial Board Endorses Kristina Soltys Legislators crafting next year's state budget will likely face another multibillion-dollar deficit.
-It's a crisis of the Democratic majority's own making, following years in which the ruling party has failed to confine its spending, even as tax revenues have kept growing.
+All In the News Press Releases Media Coverage In the News The Seattle Times In the News October 9, 2026 Seattle Times Editorial Board Endorses Kristina Soltys The Seattle Times Editorial Board endorsed Kristina Soltys for State Senate in the 47th District, pointing to years of Olympia overspending and the multibillion-dollar deficits it keeps creating.
 The Seattle Times Read Article → Kent Reporter In the News October 8, 2026 Local Leaders Gather in Kent for Fentanyl Solutions Event Kristina Soltys joined twelve local mayors, elected officials and community members in Kent for a Battlefield Addiction event focused on fentanyl, addiction, accountability and solutions — part of her ongoing commitment to public safety across the 47th District.
 Kent Reporter Read Article → Seattle Red / 770 AM In the News July 31, 2026 Soltys: 99.5% of doors are slamming on WA's income tax Covington City Councilmember Kristina Soltys heads into the August 4 primary as the only Republican on the ballot in the 47th Legislative District, betting that voters in Kent, Auburn and Covington have finally connected their shrinking paychecks to the people they keep sending to Olympia.
 Seattle Red / 770 AM Read Article → Kent Reporter In the News May 11, 2026 Kauffman vs.
@@ -76,7 +75,7 @@ The endorsement, granted by the KCGOP Endorsement Committee, recognizes Soltys a
 The 47th District, which includes Covington, Auburn, and Kent's East Hill, has changed hands between parties four times since 2006.
 Democratic incumbent Claudia Kauffman won the seat in 2022 by approximately 2,749 votes.
 Soltys has served on the Covington City Council since 2019, when she defeated a 14-year incumbent with 62% of the vote and ran unopposed in 2023.
-Her council record includes unanimous approval of a Flock Safety license plate reader program that has generated more than 60 investigative leads, and contributed to a 24% reduction in total crime from the 2022 peak — with burglaries down 56%.
+During her tenure, total crime in Covington fell 24% from its 2022 peak, with burglaries down 56%.
 "South King County families deserve a senator who has actually delivered results in this community, and I'm ready to take that record to Olympia.
 I'm grateful for the KCGOP's confidence, and I'm committed to running a campaign that earns support from every corner of this district." The 47th District Senate seat is a primary target for Republican pickup in 2026.
 Soltys is the only declared Republican candidate currently in the race.

@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Veterans Keeping Our Promise to Those Who Served Texas is home to more veterans than any other state, and James Talarico believes it’s time for this country to love them back.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Veterans Keeping Our Promise to Those Who Served Texas is home to more veterans than any other state, and James Talarico believes it’s time for this country to love them back.
 He’ll fully fund the VA, stop efforts to privatize it, cut mental health wait times, and help veterans and military families find housing, jobs, and care.
 Texas is home to more veterans than any other state in the nation.
 My brother-in-law, an Army doctor who served at Fort Hood, is one of them.

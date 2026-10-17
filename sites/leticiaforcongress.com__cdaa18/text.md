@@ -26,9 +26,6 @@ Message frequency varies.
 Text STOP to stop.
 For help, text HELP.
 See our Privacy Policy for more information.
-No special interests.
-No billionaires.
-Just us.
 FUEL THE FIGHT FOR TX-09 The other side is funded by the special interests raising your prices.
 We’re funded by the people paying them.
 Chip in today to send a fighter to Congress who’ll put working families first. $ 25 $ 100 $ 500 $ 1000 $ 3500 Other $ 25 $ 100 $ 500 $ 1000 $ 3500 Other Always fighting at your side.
@@ -43,7 +40,7 @@ Join the team Join Us Campaign Events I want you at my campaign and volunteer ev
 RSVP below!
 Block Walk with Leticia Gutierrez, Alejandra Salinas, & Rep.
 Morales in Brookline Park Brookline Park 3315 Real St, Houston, TX 77087 Join Leticia this Saturday for a Block Walk at Brookline Park.
-We’ll knock doors with City Council Member Alejandra Salinas and State Rep.
+We’ll knock doors with Houston City Council Member Alejandra Salinas and State Rep.
 Christina Morales to get out the vote.
 No experience needed — just bring comfortable shoes and a charged phone.
 RSVP Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder POLITICAL ADV.

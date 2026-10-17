@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 YOUR HOMETOWN VOICE.
 ABOUT CHUCK An Alpharetta native and Milton High School graduate, Chuck earned his BBA from the University of Georgia.
 He served as an Alpharetta Councilmember and Mayor before representing House District 49 in the state legislature.
@@ -8,4 +8,4 @@ Chuck is a respected leader and trusted voice at the State Capitol, and as Chair
 LEARN MORE LISTENING.
 SETTING PRIORITIES.
 GETTING RESULTS!
-YOUR CAPITOL YOUR MONEY YOUR SCHOOLS YOUR COMMUNITY New Paragraph YOUR HOME LEARN MORE HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+YOUR CAPITOL YOUR MONEY YOUR SCHOOLS YOUR COMMUNITY New Paragraph YOUR HOME LEARN MORE HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

@@ -20,10 +20,6 @@
 "href": "https://facebook.com/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Green Party of Michigan.",
 "href": "http://migreenparty.org"
 },
@@ -61,6 +57,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

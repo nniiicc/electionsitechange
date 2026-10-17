@@ -23,4 +23,4 @@ Instead of light-up signs on Uber and Lyft vehicles, the bill now requires rides
 Quote of the Week: “Abortions in South Carolina have consistently declined since Republicans have been the majority party.
 I am proud of the bill that passed this week and whether the Senate takes it up this year or next year, every time the House has passed something, we move closer to the goal of protecting life.” Rep.
 Gary Simrill, Majority Leader It's my honor and pleasure to serve you at the statehouse.
-You ca contact me at; calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+You ca contact me at; calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

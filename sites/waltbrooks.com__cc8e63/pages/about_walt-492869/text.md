@@ -14,4 +14,4 @@ I have learned so much and feel like I have been able to stand strong for conser
 There is always room for me to improve and I will do so.
 I take this responsibility seriously and will work my hardest to represent the people of Southern Utah and the principles of the Constitution.
 VOLUNTEER VOTING INFO I'd like a sign Get Updates Thank you for signing up!
-Committee to Elect Walt Brooks Powered by CampaignPartner.com - Political Websites Home About Walt News Previous Newsletters On the Issues Photo Gallery Contact Close Menu
+Committee to Elect Walt Brooks Powered by CampaignPartner.com Home About Walt News Previous Newsletters On the Issues Photo Gallery Contact Close Menu

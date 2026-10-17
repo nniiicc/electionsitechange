@@ -8,4 +8,4 @@ This culminated in northeast Colorado receiving 2.1 million dollars in January o
 I also worked on a community behavioral health continuum grant program that is going to use ARPA dollars that provides 90 million dollars for behavioral health grants in Colorado.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

@@ -1,4 +1,4 @@
-DONATE Safety.
+PRESS & MEDIA DONATE Safety.
 Sanity.
 Service.
 FIGHTING FOR YOU.
@@ -66,4 +66,4 @@ Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
-DONATE $50 $100 $250 $500 OTHER NAGEL FOR CONGRESS 8014 Olson Memorial Hwy #274, Golden Valley, MN 55427 PAID FOR BY NAGEL FOR CONGRESS Terms & Privacy Policy
+DONATE $50 $100 $250 $500 OTHER NAGEL FOR CONGRESS 8014 Olson Memorial Hwy #274, Golden Valley, MN 55427 PAID FOR BY NAGEL FOR CONGRESS Terms & Privacy Policy Press & Media

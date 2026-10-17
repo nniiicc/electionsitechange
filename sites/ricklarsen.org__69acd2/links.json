@@ -20,6 +20,10 @@
 "href": "https://secure.actblue.com/donate/stand-with-rick-larsen?express_lane=true&amount=50&refcode2=express-buttons"
 },
 {
+"text": "5,131,564 ballots",
+"href": "https://www.ricklarsen.org/2026/10/16/5131564-ballots/"
+},
+{
 "text": "A contribution of $27 helps cover the basic tools a volunteer relies on, including canvassing materials, data and voter contact resources, and the supplies needed to have meaningful conversations with voters across Northwest Washington.",
 "href": "https://secure.actblue.com/donate/stand-with-rick-larsen?recurring=&amount=%7B%7Bget%28%27ask%27%29%7D%7D&amounts=%7B%7Bget%28%27abamt_one%27%29%7D%7D%2C%7B%7Bget%28%27abamt_two%27%29%7D%7D%2C%7B%7Bget%28%27abamt_three%27%29%7D%7D%2C%7B%7Bget%28%27abamt_four%27%29%7D%7D%2C%7B%7Bget%28%27abamt_five%27%29%7D%7D&refcode2=%7B%7BDistributionId%7D%7D"
 },
@@ -60,10 +64,6 @@
 "href": "https://www.ricklarsen.org/"
 },
 {
-"text": "I support tough, upfront restrictions on data centers:",
-"href": "https://www.ricklarsen.org/2026/10/07/i-support-tough-upfront-restrictions-data-centers/"
-},
-{
 "text": "Issues",
 "href": "https://www.ricklarsen.org/priorities/"
 },
@@ -89,15 +89,15 @@
 },
 {
 "text": "READ MORE",
-"href": "https://www.ricklarsen.org/2026/10/07/i-support-tough-upfront-restrictions-data-centers/"
-},
-{
-"text": "READ MORE",
 "href": "https://www.ricklarsen.org/2026/10/13/will-you-be-able-join-us/"
 },
 {
 "text": "READ MORE",
 "href": "https://www.ricklarsen.org/2026/10/15/addressing-two-crises-once/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.ricklarsen.org/2026/10/16/5131564-ballots/"
 },
 {
 "text": "Rick Larsen is fighting to lower costs for hard-working families. Join our team of grassroots supporters today!",
@@ -145,11 +145,11 @@
 },
 {
 "text": "[image]",
-"href": "https://www.ricklarsen.org/2026/10/07/i-support-tough-upfront-restrictions-data-centers/"
+"href": "https://www.ricklarsen.org/2026/10/13/will-you-be-able-join-us/"
 },
 {
 "text": "[image]",
-"href": "https://www.ricklarsen.org/2026/10/13/will-you-be-able-join-us/"
+"href": "https://www.ricklarsen.org/2026/10/16/5131564-ballots/"
 },
 {
 "text": "[no text]",

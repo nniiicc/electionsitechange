@@ -20,4 +20,4 @@ Learn more about the photo ID requirement .
 Your Local Election Office Jasper County Clerk - Elections Jasper County Courthouse, 302 S.
 Main St., Room 103, Carthage, MO 64836 (417) 358-0413 jaspercountymo.gov/county-clerk Voting from outside Jasper County?
 Find your local election authority for polling places and absentee hours.
-Check Your Voter Registration Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Check Your Voter Registration Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

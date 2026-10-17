@@ -11,4 +11,4 @@ We encourage our users to be aware when they leave our site and to read the priv
 If you have any questions about this Privacy Policy, please contact us.
 VOLUNTEER CONTRIBUTE VOTING INFO What are YOUR priorities?
 Get Updates Thank you for signing up!
-News Letter to the Editor; Daily News Miner Meet PEPPER Contribute Priorities Endorsements Voter Information Yard Signs Photos Contact Privacy Policy Paid for by Pepper McFarland for House District 33 PO Box 55609 North Pole, AK 99705 Powered by CampaignPartner.com - Political Campaign Websites Home Meet PEPPER Priorities Contribute Photos Volunteer Yard Signs Contact Voter Information Endorsements Close Menu
+News Letter to the Editor; Daily News Miner Meet PEPPER Contribute Priorities Endorsements Voter Information Yard Signs Photos Contact Privacy Policy Paid for by Pepper McFarland for House District 33 PO Box 55609 North Pole, AK 99705 Powered by CampaignPartner.com Home Meet PEPPER Priorities Contribute Photos Volunteer Yard Signs Contact Voter Information Endorsements Close Menu

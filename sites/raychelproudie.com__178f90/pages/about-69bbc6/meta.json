@@ -1,12 +1,10 @@
 {
- "description": "Missouri State Representative Raychel Proudie (D-Ferguson)",
+ "description": "",
  "final_url": "https://www.raychelproudie.com/about",
- "fingerprint": "4f7c56ea9db1ae62e3211f138a85f07e1affe56e",
+ "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
  "format": 3,
- "paid_for_by": "Paid for by Friends of Raychel Proudie; MJ Hardin, Treasurer bottom of page",
- "title": "About | State Representative Raychel Proudie",
- "years_mentioned": [
-  "2021",
-  "2025"
- ]
+ "paid_for_by": "",
+ "rendered": false,
+ "title": "",
+ "years_mentioned": []
 }

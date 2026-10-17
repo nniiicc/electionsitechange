@@ -23,4 +23,4 @@ Throughout this session, my approach has remained consistent: practical problem-
 I am proud of the work I am doing on behalf of House District 18 and all North Carolinians.
 I remain committed to showing up, speaking out, and fighting for policies that move our state forward—together.
 Deb.
-Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu
+Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

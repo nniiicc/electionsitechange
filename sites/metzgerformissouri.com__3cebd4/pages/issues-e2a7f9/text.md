@@ -14,4 +14,4 @@ Respect the Voters.
 Tired of politicians who go to Jefferson City to fight on TV instead of solve problems.
 The people I scan at 3 a.m. don’t care which party gets credit.
 They care about the basics.
-Read More Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Read More Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

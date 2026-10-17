@@ -1,4 +1,4 @@
-top of page Rep.
+top of page Skip to Main Content Rep.
 Trish Ranson Home Request a Yard Sign Register to Vote About Issues Health Care Equal Opportunity Education People, Politics & Pints News Blog Merch More Use tab to navigate through the menu items.
 Donate 2026 Gear has dropped!
 Welcome to the one-stop-shop for all things Ranson!

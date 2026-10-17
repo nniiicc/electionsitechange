@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.buchholzforsd.com/yard-sign",
- "fingerprint": "bb3c8fa03599e43bb54a91d764c6275b8c71730a",
+ "fingerprint": "665cff4ce5e961ce8191d44fb44b3993f10027d9",
  "format": 3,
  "paid_for_by": "Paid For by Nick Buchholz for South Dakota House Powered by CampaignPartner",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

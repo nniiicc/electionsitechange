@@ -5,4 +5,4 @@ My work in Congress expands upon these experiences, because, when you think abou
 Invest in 21st century infrastructure.
 Read More EDUCATION Prioritize education to provide opportunity for all.
 Read More PROTECTING OUR LAND, AIR, AND WATER For generations to come ​ Read More SENIORS ​ ​ Read More GUN VIOLENCE Protect our communities and families from gun violence.
-Read More DEMOCRACY Strengthening our democracy and fighting to protect the right to vote. ​ Read More IMMIGRATION Champion a humane, comprehensive immigration policy. ​ Read More TRIBAL SOVEREIGNTY AND SELF DETERMINATION Read More PAID FOR BY TERESA FOR ALL bottom of page
+Read More DEMOCRACY Strengthening our democracy and fighting to protect the right to vote. ​ Read More IMMIGRATION Champion a humane, comprehensive immigration policy. ​ Read More TRIBAL SOVEREIGNTY AND SELF DETERMINATION Read More PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

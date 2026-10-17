@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.southjerseygrit.com/vote",
- "fingerprint": "e86194232d4d356b95d13753a942cf60682fd02e",
+ "fingerprint": "9eec2cc1a5ca00f35f82d8405196e7323869a0cf",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

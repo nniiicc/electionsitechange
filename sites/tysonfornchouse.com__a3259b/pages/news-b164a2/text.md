@@ -10,4 +10,4 @@ Tyson, the owner of Tyson Group Realtors in New Bern, served on the Craven Count
 “I love my hometown and I really love the people here.
 We have people from New York or Ohio or Colorado and a lot of them are just so skilled.
 They were professional people or they were already involved in arts and entertainment, and I just enjoy working with people like that.” Read more VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Committee to Elect Steve Tyson Powered by CampaignPartner.com - Political Campaign Websites Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu
+Committee to Elect Steve Tyson Powered by CampaignPartner.com Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu

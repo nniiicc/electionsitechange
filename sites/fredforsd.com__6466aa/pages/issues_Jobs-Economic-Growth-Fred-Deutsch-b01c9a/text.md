@@ -23,4 +23,4 @@ That means more resources for local schools, better infrastructure, and breathin
 Responsible development is how South Dakota doesn’t merely survive—it thrives. 🌟 Back to the Issues _____________________________________________________________________________________________________________________________ 📣 How You can Help Volunteer to Grow our Economy— knock on doors, make calls, join the team.
 S ign Up Contribute Today —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote « Previous: ⚡Energy & Infrastructure Next: 🧒 Protecting Children from Exploitation » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote « Previous: ⚡Energy & Infrastructure Next: 🧒 Protecting Children from Exploitation » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

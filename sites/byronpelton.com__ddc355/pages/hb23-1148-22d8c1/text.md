@@ -2,4 +2,4 @@ Home Meet Byron Contact Issues Agriculture Energy Saving You Money Law Enforceme
 Essentially this bill will help the people of Colorado to adapt to the rules that executive agencies may implement without having to worry that the rule will be amended or changed right after it is authorized.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

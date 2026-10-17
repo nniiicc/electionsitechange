@@ -4,4 +4,4 @@ To help you get started, we've compiled a list of state-by-state election inform
 We've also included links to some free tools below where your visitors can verify their voter registration status, register to vote, and request an absentee ballot.
 Verify your Voter Registration Status Register to Vote Request an Absentee Ballot VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 Voter Information Yard Signs Events Contact Paid for by the candidate, not at taxpayer expense.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu
+Powered by CampaignPartner.com Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu

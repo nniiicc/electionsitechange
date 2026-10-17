@@ -6,4 +6,4 @@ Montana has a similar policy being placed on the ballot in November 3rd.
 There are other ideas being discussed, mostly from the Democratic party side, here in Ohio to greatly reduce the corruption in State government.
 Next: Affordable Housing & Childcare » Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

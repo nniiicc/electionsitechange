@@ -1,4 +1,8 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News Sunflower State Journal • September 4, 2026 Holscher wins endorsement from AFL-CIO Democratic state Sen.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News New York Magazine • September 8, 2026 A Democratic Blue Wave Could Hit Governors' Races, Too Holscher has positioned herself on an issue that’s sweeping the heartland, proposing a moratorium on data centers (Masterson has been a data-center booster).
+She also opposed an increasingly unpopular sweetheart stadium deal for the Kansas City Chiefs, which Kelly had backed.
+Holscher may be stronger than she originally looked.
+Her base, conveniently, is in the rapidly growing and Democratic-trending suburb of Johnson County.
+Sunflower State Journal • September 4, 2026 Holscher wins endorsement from AFL-CIO Democratic state Sen.
 Cindy Holscher secured a key union endorsement Friday in the Kansas governor's race from the Kansas AFL-CIO, which praised her 100% voting record on the side of organized labor.
 Topeka Capital Journal • August 31, 2026 Kansas voters have the chance to break historical trends this election When Kansas voters fill out their ballots for the November 2026 general election, they will have the opportunity to break long-standing historical trends.
 A Democrat winning the U.S.

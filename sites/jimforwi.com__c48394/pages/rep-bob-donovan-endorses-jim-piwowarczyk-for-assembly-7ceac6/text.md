@@ -15,7 +15,7 @@ On Tuesday, Donovan, R-Greenfield, announced that he is running for reelection t
 However, due to the redrawing of legislative maps, he is seeking re-election in the 61st District instead of the 84th District.
 Piwowarczyk, who is supporting Donald Trump for president, is a lifelong conservative running on a platform of public safety, parents’ rights in schools, delivering tax cuts, and border security, among other issues.
 Post navigation Previous post: Prev Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly March 18, 2024 Next post: Next Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly April 18, 2024 You May Also Like Posted June 27, 2024 in Endorsements , News , Political Issues , ticker Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Barbara Dittrich Endorses Jim Piwowarczyk for Assembly March 18, 2024 Next post: Next Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly April 18, 2024 You May Also Like Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

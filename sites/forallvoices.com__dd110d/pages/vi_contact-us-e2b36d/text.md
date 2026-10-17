@@ -2,7 +2,12 @@ Bỏ qua nội dung DÀNH CHO ĐẠI HỘI ĐỒNG NĂM 2026 Khu vực bầu c�
 GÓP.
 HỢP TÁC VỚI CHÚNG TÔI.
 TÌNH NGUYỆN.
-Nhà Gặp Cristian Nền tảng Tình nguyện viên Bản đồ quận Sự tiếp xúc CHO MỌI GIỌNG NÓI 2026 Tìm kiếm LIÊN LẠC “Tôi đồng ý nhận các thông tin cập nhật về chiến dịch tranh cử và lời nhắc bỏ phiếu qua tin nhắn văn bản từ Cristian Morales For Congress.” https://sms.campaigninabox.com/contacts/6abd2a65504b7/subscribe-url Danh sách email Vui lòng thêm tôi vào danh sách email của bạn Email (Bắt buộc) Họ và tên (Bắt buộc) Đầu tiên Cuối cùng Điện thoại Công ty (nếu có) Thông điệp (Bắt buộc) Trình Δ Luôn thông báo Email (Bắt buộc) Đăng ký Δ Duy trì kết nối Tải xuống Tờ rơi Chiến dịch Chọn từ: Tiếng Anh Tiếng Tây Ban Nha Trung quốc Tiếng Nhật Tiếng Triều Tiên Tiếng Việt Liên hệ với chúng tôi Cristian Morales tranh cử vào Hạ viện năm 2026 3025 Artesia Blvd.
+Nhà Gặp Cristian Nền tảng Tình nguyện viên Bản đồ quận Sự tiếp xúc CHO MỌI GIỌNG NÓI 2026 Tìm kiếm LIÊN LẠC Sign Up for Text Updates Receive recurring campaign updates, event and volunteer information, and election reminders from Cristian Morales For Congress.
+Complete our dedicated text signup form to provide your mobile number and SMS consent. [Sign Up for Text Updates] Link that button to: https://sms.campaigninabox.com/contacts/6abd2a65504b7/subscribe-url “Message frequency varies.
+Message and data rates may apply.
+Reply STOP to opt out or HELP for help.
+Consent is not required to donate or volunteer.
+Submitting the general contact form below does not subscribe you to text messages.” SMS Privacy Policy https://sms.campaigninabox.com/contacts/6abd2a65504b7/subscribe-url/privacy-policy SMS Terms & Conditions Danh sách email Vui lòng thêm tôi vào danh sách email của bạn Email (Bắt buộc) Họ và tên (Bắt buộc) Đầu tiên Cuối cùng Điện thoại Công ty (nếu có) Thông điệp (Bắt buộc) Trình Δ Luôn thông báo Email (Bắt buộc) Đăng ký Δ Duy trì kết nối Tải xuống Tờ rơi Chiến dịch Chọn từ: Tiếng Anh Tiếng Tây Ban Nha Trung quốc Tiếng Nhật Tiếng Triều Tiên Tiếng Việt Liên hệ với chúng tôi Cristian Morales tranh cử vào Hạ viện năm 2026 3025 Artesia Blvd.
 #37 Torrance, CA 90504 info@forallvoices.com Được tài trợ bởi chiến dịch “Cristian Morales tranh cử vào Hạ viện năm 2026”.
 Mã số ủy ban: C00944405 Chính sách bảo mật và Điều khoản và Điều kiện về email và tin nhắn văn bản Tiếp cận © # Cristian Morales cho All Voices.
 Tất cả các quyền được bảo lưu.

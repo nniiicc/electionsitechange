@@ -1,6 +1,5 @@
 Randall Terry for Congress RANDALL TERRY VIRGINIA | DISTRICT 7 Learn more Meet Randall Scroll 01 · RANDALL TERRY | A LIFETIME OF SACRIFICE RANDALL TERRY FOUNDER OF OPERATION RESCUE, 2024 CONSTITUTION PARTY CANDIDATE FOR PRESIDENT, AND ARRESTED MORE THAN 50 TIMES FOR THE BABIES.
-02 · Our TV Ads Examples of Randall's ads, running in Virginia. ▶ Vote NO on Virginia's Amendment 1. ▶ President Trump, Republican party, you betrayed your base. ▶ President Trump, when you meet God...
-03 · Ending Slavery | Ending Child Labor | Women's Voting Rights | Fighting Anti-Semitism | Ending Segregation Every successful social revolution showed images of victims.
+02 · Our TV Ads Examples of Randall's ads, running in Virginia. ▶ Baby Harriet with Words ▶ The Beauty and the Horror ▶ Vote no amendment one 03 · Ending Slavery | Ending Child Labor | Women's Voting Rights | Fighting Anti-Semitism | Ending Segregation Every successful social revolution showed images of victims.
 01 An enslaved man with whip scars circa 1863 02 Breaker Boys at the Coal Mine circa 1911 03 Alice Paul Beaten For Trying to Vote circa 1913 04 US Senator Barkley at Buchenwald April 24th, 1945 05 Emmitt Till Killed By Racists August 28, 1955 04 · Baby Harriet To end abortion, we too must show the victims.
 05 · Make A Gift Today Say No to late term abortion in Virginia!
 With your help, Randall will reach millions of viewers with her unfiltered political ads.

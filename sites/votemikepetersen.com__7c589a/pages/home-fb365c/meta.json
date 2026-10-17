@@ -1,9 +1,10 @@
 {
  "description": "Official re-election campaign website for Utah State Representative Mike Petersen",
  "final_url": "https://www.votemikepetersen.com/home",
- "fingerprint": "a4b7c250ce1019865a6291f201b4da8d6e8d7f75",
+ "fingerprint": "a6f65aecf300d10530ebbc733190fab89c0df190",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner",
+ "rendered": false,
  "title": "A Voice for You!",
  "years_mentioned": []
 }

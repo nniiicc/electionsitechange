@@ -12,12 +12,13 @@ Economic Development Healthcare Housing Public Education Contact/Support Home Ab
 Economic Development Healthcare Housing Public Education Contact/Support My Motivation to Serve: I am a mother, wife, friend, businesswoman, advocate, and philanthropist.
 I am not a politician.
 Or shall we say, I wasn’t until I became angry enough to get off the sidelines and speak out and vote against the MAGA extremism we are seeing in today’s society.
-North Carolina is a purple state: 40% Independent, 30% Dem, and 30% GOP.
-In Guilford County, we are 39% Dem, 38% Independent, and 23% GOP ( source ).
-Let’s not let the minority extremes of the political party spectrum silence the majority in the middle.
-In the 2025-2026 session, I had a 96% attendance and proudly made 755 votes on behalf of my constituents, 68% with the GOP majority and 32% against .
-This is the exact average for our NC House Democratic members.
-I believe this shows my middle-of-the-road bipartisanship to support common-sense, decent legislation by my GOP colleagues while still being a big, loud NO vote against the extreme MAGA agenda and GOP dysfunction.
+I am a mother in America who is tired of seeing my children's public schools underfunded due to MAGA prioritizing private school vouchers for wealthy families rather than public schools that educate 84% of children across our state.
+I am a mother in America who is tired of seeing sweet, innocent children shot and killed due to MAGA caring more about their 2nd Amendment right than a child's right to life.
+The irony in that statement is not lost on me.
+I am a mother in America who is tired of seeing my gas, grocery, and utility bills skyrocket and my constituents struggle to live paycheck to paycheck due to MAGA caring more about billionaires and lobbyists from big corporations filling their campaign accounts.
+I am a mother.
+And I am tired.
+But I'm will continue to be a big, loud NO vote against the extreme MAGA agenda and GOP dysfunction until our country and state rids itself of this MAGA cult and the hatred, bigotry, sexism, racism, misinformation, disinformation, fraud, and corruption that comes with it.
 GOP dysfunction hurts us all: The inability to pass a budget for our state: Despite both the Senate and House controlled by the GOP, this dysfunction within their own party has devastating consequences to everyone across our state, particularly public teachers and state employees still waiting on well-deserved salary increases, constituents on Medicaid and their service providers who experienced painful cuts this fall, residents receiving SNAP benefits who are losing Federal funding and relying on our state to keep their families nourished. ( Learn more ) The dismantling of our Democracy: As seen by the horrific actions of the Trump administration and NC Republicans heeding Trump’s direct request to further gerrymander NC’s Congressional maps to win another GOP seat in the 2026 midterm.
 Our state went from an even 7-7 US delegation in 2022 to now a suspected 11-3 GOP-dominated delegation in 2026. ( Learn more ) The deadly loosening of gun safety regulations: Resulting in our communities being LESS safe.
 We have so far saved our state from a dangerous, deadly “Freedom to Carry NC” (SB50) , which would allow anyone age 18+ to carry a loaded, concealed handgun in public with NO permit and NO training.

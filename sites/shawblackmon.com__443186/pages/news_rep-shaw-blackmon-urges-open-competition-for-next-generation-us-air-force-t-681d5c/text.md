@@ -14,5 +14,5 @@ The makeshift measure the Air Force is currently employing does not bring the re
 As such, I urge the U.S.
 Department of Defense to immediately proceed with a tanker competition and hope that our state’s congressional leaders will act to support this step.” Representative Shaw Blackmon represents the citizens of District 146, which includes portions of Houston County.
 He was elected to the House of Representatives in 2015 and currently serves as the Chairman of the Ways & Means Committee.
-### View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+### View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

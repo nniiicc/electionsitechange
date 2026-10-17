@@ -16,4 +16,4 @@ Broadband Internet Usage ( H.4262 ): Another House Judiciary Subcommittee heard 
 Useful Link of the Week: Use this link to report a road maintenance request to the SC DOT.
 Please note that this link is for routine work requests.
 If you see something that causes an immediate danger to drivers, call 911 or *HP: http://dbw.scdot.org/ workrequest/ Keep up with the SC House GOP Caucus: https://www.facebook.com/ SCHouseGOP/ https://twitter.com/SCHouseGOP As always, its my honor and privilege to serve the people of SC House District 39.
-Don't hesitate to reach out if I can be of your service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Don't hesitate to reach out if I can be of your service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

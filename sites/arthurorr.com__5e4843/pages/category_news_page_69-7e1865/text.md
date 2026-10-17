@@ -1,4 +1,6 @@
-Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Senator Orr’s bill increasing unemployment compensation payments passes legislature Written on May 21, 2019 .
+Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Senator Orr’s bill to regulate pharmacy benefit managers could save consumers 30% on drug costs.
+Written on June 4, 2019 .
+Source: https:// www.decaturdaily.com/news/other_news/state_capital/legislature-moves-to-regulate-pharmacy-benefit-managers/article-22fa5224-f2c6-5309-9410-ecbe3ea0b862.html Senator Orr’s bill increasing unemployment compensation payments passes legislature Written on May 21, 2019 .
 May 15, 2019 Source: www.decaturdaily.com Sen.
 Arthur Orr once again pushing for payday lending reform Written on February 12, 2019 .
 Source: WHNT Read Article Teacher Pay Raise for FY2020 Budget Supported by Senator Orr Written on February 11, 2019 .

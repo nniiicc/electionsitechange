@@ -8,4 +8,4 @@ Without this funding, Elyria Schools could face larger class sizes, program cuts
 The district has demonstrated responsible financial management , operating efficiently and earning 20 consecutive clean audit awards , while not requesting new funding since 2010.
 Supporting Issue 19 is an investment in our students, community, and future .
 I encourage Elyria residents to vote YES on May 6, 2025 , to ensure our schools remain strong and continue providing excellent opportunities for our children.
-Read more Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Read more Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

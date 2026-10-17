@@ -2,9 +2,12 @@ Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follo
 Donate Follow us!
 Menu Join the team!
 Add your name to help send a proven problem-solver to Congress for the East Bay.
-First Name Email * Phone Number Join Us *By providing your cell phone number you consent to receive periodic campaign updates from Melissa Hernandez for Congress.
-Message & Data rates may apply.
-A Proven Leader for the East Bay Meet Melissa Melissa Hernandez is the daughter of migrant farmworkers, a working mom, and the first Latina Mayor of Dublin.
+First Name Email * Phone Number By providing your cell phone number, you consent to receive periodic text messages from Melissa Hernandez for Congress 2026.
+SMS Disclosure Message and data rates apply.
+Message frequency may vary.
+Text HELP for help or STOP to unsubscribe.
+View our Privacy Policy (/ privacy-policy /).
+Join Us A Proven Leader for the East Bay Meet Melissa Melissa Hernandez is the daughter of migrant farmworkers, a working mom, and the first Latina Mayor of Dublin.
 As Mayor, she kept Dublin financially strong without raising taxes, built housing at every level of affordability, and improved public safety.
 Now she's running for Congress to bring that same results-driven leadership to Washington.
 Read Melissa's Story Proudly Endorsed By Melissa is backed by the leaders our communities trust — members of Congress, state and local leaders, firefighters, and law enforcement across the Tri-Valley and East Bay.

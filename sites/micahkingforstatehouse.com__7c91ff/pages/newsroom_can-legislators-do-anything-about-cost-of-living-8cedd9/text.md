@@ -95,6 +95,13 @@ Addressing the cost of living is about ensuring that working families, retirees,
 Have thoughts on local taxes, utility bills, or household costs in District 157?
 I want to hear from you.
 Reach out directly through our get-involved page or connect with our team on the trail.
+THE FIELD REPORT • DISTRICT 157 ECONOMY Tracking Utility Bills, Property Taxes & Living Costs Get independent briefings on state tax reform, rising power rates, and what Georgia lawmakers are doing to lower everyday household costs in rural communities.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Subscribe Free Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents • The Economic Baseline in District 157 • Property Taxes: HB 581, Rollback Rates, and Assessment Mechanics – Standard Homestead Exemptions and HB 581 – Rollback Millage Rates and Procedural Transparency – What legislators can do • Groceries: The Regressive Local Sales Tax Trap – The State Exemption vs.

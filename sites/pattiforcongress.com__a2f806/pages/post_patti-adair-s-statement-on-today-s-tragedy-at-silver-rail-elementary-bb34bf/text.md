@@ -1,0 +1,6 @@
+top of page DONATE NOW TO SEND PATTI ADAIR TO CONGRESS HOME ABOUT JOIN PRIORITIES EVENTS ENDORSEMENTS MEDIA NEWS DONATE Patti Adair’s Statement on today’s tragedy at Silver Rail Elementary Patti Adair for Congress Press #ago 1 min read SISTERS, OR— Deschutes County Commissioner Patti Adair, candidate for Oregon’s 5th Congressional District, released this statement today: “My heart is shattered for the families, students, and victims of today’s horrific shooting at Silver Rail Elementary School in Bend, Oregon.
+I am praying for everyone impacted.
+No words can fully express the pain our community is feeling right now.
+I am temporarily suspending all campaign events to stand with those grieving and offer whatever support I can.” “This evening, I will join our community in mourning at the candlelight vigil at Drake Park in Bend at 6:30 p.m.
+Please keep the victims, their loved ones, and all first responders in your prayers during this difficult time.” ### Recent Posts See All Patti Adair Wins The Only Debate Janelle Bynum Agreed To Adair Will Support War Powers Resolution When Elected Bynum’s Medicare for All Plan Means Higher Taxes for Working-Class Oregonians DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE DONATE BY MAIL: Patti Adair for Congress, PO Box 54, West Linn, OR 97068.
+PAID FOR BY PATTI ADAIR FOR CONGRESS bottom of page

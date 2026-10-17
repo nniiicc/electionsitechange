@@ -14,4 +14,4 @@ WE CAN - Improve our daily quality of life.
 WE CAN - Rebuild our economy both locally and throughout our state.
 WE CAN - Work together to lower costs for the things we need, affordability is key. and WE WILL WIN - If we work together as neighbors, allies and partners in good faith.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Get Involved Events Photos Privacy Policy NETTER FOR CALIFORNIA STATE SENATE 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Priorities My Record My Vision My Promise Donate Contact Endorsements Voter Information Close Menu
+Get Involved Events Photos Privacy Policy NETTER FOR CALIFORNIA STATE SENATE 2026 Powered by CampaignPartner.com Home Meet Mike Priorities My Record My Vision My Promise Donate Contact Endorsements Voter Information Close Menu

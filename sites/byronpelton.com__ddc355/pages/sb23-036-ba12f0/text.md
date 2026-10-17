@@ -3,4 +3,4 @@ This will simplify and expedite the process so that our veterans get the care th
 Additionally, this bill will free the Division of Veterans Affairs from about 1,111 hours of unnecessary work, allowing time to assist Colorado Veterans with other matters.
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

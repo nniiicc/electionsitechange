@@ -9,4 +9,4 @@ She has helped open doors for women in nontraditional roles and strengthened saf
 Katie is also a trusted public safety advocate, working with suicide prevention organizations, certifying lifeguards, and training foster parents, workers, churches, and businesses in CPR, First Aid, AED, and water safety.
 Katie and Jeff have been married since 2009 and are proud parents and grandparents.
 She is running for State Senate to fight for safer communities, stronger local economies, and a future where every Alabama family can thrive.
-Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu
+Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

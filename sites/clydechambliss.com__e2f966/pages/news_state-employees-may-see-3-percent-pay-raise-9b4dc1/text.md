@@ -39,4 +39,4 @@ While the improved fiscal picture allowed legislators to be generous, election-y
 McArthur said that was fine with him.
 “I’ll take help from anyone and anybody in seeing the pay crisis addressed,” he said.
 “Certainly it’s an election year and if it influences people, we’re grateful for that, too.” Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

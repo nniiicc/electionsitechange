@@ -1,5 +1,5 @@
 top of page DONATE HOME MEET KEVIN BACKGROUND KEVIN'S CORNER ENDORSEMENTS VOLUNTEER MEDIA EVENTS MORE Use tab to navigate through the menu items.
-No events at the moment Subscribe to our newsletter • Don’t miss out!
+Upcoming Events Canvassing for Kevin Sat, Oct 17 Altair Park More info RSVP Canvassing for HD43 Sun, Oct 18 Douglas County Libraries: Highlands Ranc More info RSVP Multiple Dates Weekday Walks for Kevin Mon, Oct 19 Location is TBD More info RSVP Subscribe to our newsletter • Don’t miss out!
 Email * JOIN I want to subscribe to your mailing list.
 Kevin Leung is a community leader, small business owner, and education advocate running for Colorado State Senate District 30.
 After 36 years in Douglas County, Kevin has served as a Douglas County School Board Director and South Metro Fire Rescue Board member.

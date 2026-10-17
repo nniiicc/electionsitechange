@@ -20,4 +20,4 @@ I will challenge the state and local governments to empower people to move forwa
 Sign up for emails to keep up with the campaign, and if possible, please make a small donation to the campaign.
 NEWS DONATE VOLUNTEER VOTING INFO YARD SIGNS Get Updates Thank you for signing up!
 News League of Women Voters Forum Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs Close Menu

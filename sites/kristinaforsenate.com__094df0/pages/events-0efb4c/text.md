@@ -2,7 +2,7 @@ Skip to main content JavaScript is required for forms on this page.
 Please enable JavaScript or contact us directly .
 About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate Now Campaign Events Events & Appearances.
 Join Kristina across the 47th District.
-All Events Community Events Fundraisers Volunteer Events Upcoming Events Find Kristina Near You Host an Event Invite Kristina TBA TBA 2026 TBA To Be Announced Kristina will be hosting community events throughout the 47th District ahead of the August primary.
+All Events Community Events Fundraisers Volunteer Events Upcoming Events Find Kristina Near You Host an Event Invite Kristina TBA TBA 2026 TBA To Be Announced Kristina will be hosting community events throughout the 47th District ahead of the November general election.
 Sign up below to be the first notified when dates and locations are confirmed.
 Location TBA Date & Time TBA Details Coming Soon 📭 No events in this category yet.
 Check back soon or sign up below to get notified when events are announced.

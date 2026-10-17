@@ -8,4 +8,4 @@ If elected, I pledge to recuse myself from any votes where I have a personal or 
 I want to keep South Dakota a place for families to grow and live a free and inspired life - not to be controlled by mega-rich corporations.
 Please be sure to check out the Platform and Scorecard tabs for all the nitty-gritty details of my constitutional stance.
 May God Bless South Dakota and District 2.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

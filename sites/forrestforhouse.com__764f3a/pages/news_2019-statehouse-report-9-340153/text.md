@@ -17,4 +17,4 @@ Adding to South Carolina's recent international trade success, Palmetto State ex
 Representing a 7.5 percent increase year-over-year, 2018's export sales total ranks 14th among all states.
 While these record-breaking figures are great news for the state as a whole, they also indicate that our industry sectors are healthy and growing.
 Additional Links: https://www.thestate.com/news/politics-government/article227170734.html https://www.postandcourier.com/politics/sc-house-overwhelmingly-approves-education-overhaul-bill/article_a8b624ae-4039-11e9-9797-3ff01daed9d3.html As always, it's an honor and privilege to serve each and every one of you at the Statehouse.
-Please reach out to me if I can be of service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Please reach out to me if I can be of service. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

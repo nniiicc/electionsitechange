@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.knutsonforlegislature.com/vote",
- "fingerprint": "1d76a79805168cdbf724fc39c6dcef2c2ca15a57",
+ "fingerprint": "7eb550341a4354e2574f29b1986b83d36a9c4496",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

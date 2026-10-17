@@ -1,5 +1,6 @@
 Skip to primary content Skip to secondary content Powers for the People Debo Powers, Representative for Montana House District 3 Search Main menu Home About HD3 About Debo Powers Endorsements Issues Walk Card & Mailers Pictures Campaign Events Want to Help?
-Post navigation ← Older posts Newer posts → Meet Representative Debo Powers in West Glacier Posted on August 8, 2026 by Debo Powers Join us in West Glacier to meet Representative Debo Powers and ask questions about her work in the Montana Legislature.
+Post navigation ← Older posts Newer posts → Rep Powers raises the Flag Posted on August 22, 2026 by Debo Powers Representative Debo Powers raises the flag outside the North Fork Community Center north of Polebridge.
+Posted in News Meet Representative Debo Powers in West Glacier Posted on August 8, 2026 by Debo Powers Join us in West Glacier to meet Representative Debo Powers and ask questions about her work in the Montana Legislature.
 Posted in News Endorsed by AFL-CIO Posted on August 6, 2026 by Debo Powers Today, Representative Debo Powers was endorsed by the AFL-CIO because she can be counted on to support the rights of working people.
 Posted in News Heritage Days Parade Posted on July 26, 2026 by Debo Powers Rep Debo Powers (House District 3) and Paula Koch (candidate for House District 4) team up to walk in the Heritage Days Parade in Columbia Falls.
 Posted in News Gathering with Debo in Whitefish Posted on July 25, 2026 by Debo Powers Rep Powers speaking to supporters Summer evening gathering of Debo-supporters in Jan’s beautiful yard in Whitefish for “Happy Hour with Debo,” Supporters heard about how Democrats worked with moderate Republicans in the 2025 legislative session to continue Medicaid, increase funding for public schools, keep judicial elections nonpartisan, and lower residential property taxes.
@@ -16,12 +17,8 @@ Read her mailer here: New Affordability mailer-back Posted in News Rep Powers En
 She has spent her life in public service.
 This week, she was endorsed by the Montana Federation of Public Employees which includes Teacher Unions.
 Rep Powers has a 100% pro-public school voting record in the 2025 Montana Legislative Session.
-Posted in News Yard Signs start going up this week!
-Posted on April 15, 2026 by Debo Powers Richard Hildner putting up New Sign on Baker Avenue in Whitefish If you want a yard sign, contact debo@powersforthepeople.us for delivery!
-Get a Yard Sign for your yard!
-Posted in News Post navigation ← Older posts Newer posts → Recent Posts Rep.
+Posted in News Post navigation ← Older posts Newer posts → Recent Posts Teachers Writing Postcards Rep.
 Debo Powers speaking for Public Lands Speaking out for Hard-working Montanans A Party with a Purpose!
 Polebridge Gathering for Debo!
-Get Out the Vote Party in Polebridge!
 This website is paid for by: Powers for the People/Democrat/P.O.
 Box 792, Whitefish, MT 59937/Richard Hildner, Treasurer Proudly powered by WordPress

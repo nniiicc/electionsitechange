@@ -14,4 +14,4 @@ I have worked aggressively to bring awareness and solutions to the disproportion
 I will always be Accountable and never forget who I work for - the taxpayers in Senate District 1!
 Endorsements Photos Contact Paid for by Pelton for State Senate.
 Registered agent Marge Klein.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Byron Issues Endorsements Contribute News Contact Close Menu
+Powered by CampaignPartner.com Home Meet Byron Issues Endorsements Contribute News Contact Close Menu

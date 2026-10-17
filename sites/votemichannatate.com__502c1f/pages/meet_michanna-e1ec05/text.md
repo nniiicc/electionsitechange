@@ -19,4 +19,4 @@ She is a licensed attorney in South Carolina, having been admitted to the State 
 She is also licensed to practice in the U.S.
 District Court for South Carolina and the U.S.
 Court of Appeals for the 4th Circuit in Richmond, VA.
-Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu
+Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

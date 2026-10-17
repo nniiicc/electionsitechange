@@ -4,4 +4,4 @@ I will continue to be your champion, your fighter and above all else, your voice
 Matthew Martinez is dedicated to serving House District 62 but needs your help.
 Your contribution, big or small, can help him continue to advocate for important issues and be a strong voice for the district.
 With your support, we can make a real difference in our community. $10 $25 $50 $100 $250 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

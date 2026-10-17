@@ -9,4 +9,4 @@ Lucie Counties).
 2 - We need to undo the policies that have lead to the destruction of our nation.
 3 - We need to hold the leaders of this current administration responsible for the pain and suffering that they have caused.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

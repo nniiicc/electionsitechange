@@ -42,4 +42,4 @@ My Commitment I’m not running to manage decline.
 I’m running to help rebuild trust in public education, strengthen the schools our families rely on, and make sure every student in District 128 has the opportunity to succeed in a safe and supportive environment.
 I’m not bought, I’m building.
 Help us build a stronger future for students, teachers, and families in District 128.
-Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu
+Sign Up to Volunteer Chip In Today Back to Issues Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com Home Events HD-128 Issues Meet Desiree Close Menu

@@ -5,4 +5,4 @@ Mike also supports expanding early voting and vote-by-mail options , making it e
 Key Points: Oppose restrictive voter ID laws that create barriers to voting.
 Support fair district maps to eliminate gerrymandering.
 Expand early voting and vote-by-mail options for voter accessibility.
-Ensure secure and fair elections without unnecessary restrictions. « Previous: Government Transparency & Accountability Next: Healthcare Access & Lowering Costs » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Ensure secure and fair elections without unnecessary restrictions. « Previous: Government Transparency & Accountability Next: Healthcare Access & Lowering Costs » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

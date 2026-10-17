@@ -36,4 +36,4 @@ Tourism growth in the state has increased 50% increase since 2010, according to 
 Fact of the Week South Carolina is currently one of only fourteen states with a AAA credit rating according to Moody’s.
 Our debt level is 0.39% of state revenues which is 92% lower than our constitutionally set limit of 5%.
 It's my privelage to serve you at the SC Statehouse.
-You can contact me anytime: calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+You can contact me anytime: calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

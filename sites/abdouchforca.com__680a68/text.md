@@ -49,7 +49,7 @@ Contribute $100 Now → Prefer to mail a check?
 Get instructions here Please note that the maximum contribution per election (either primary or general) for individuals, businesses, and PACs is $5,900.
 2026 Election Resources California Voter Guide Review plain-English breakdowns of statewide ballot propositions and common-sense candidate ratings to help make your voice heard.
 Published independently by Reform California.
-Explore Voter Guide → Reform California's Guide Community Events Join Greg on the campaign trail Upcoming Events Preview Thu, Oct 15 DNA meeting The Mexico Cafe Details → Thu, Oct 15 Verdimont DNA Meeting 1725 Northpark Blvd Details → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
+Explore Voter Guide → Reform California's Guide Community Events Join Greg on the campaign trail Upcoming Events Preview Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → Sat, Oct 17 IE Live Marketnite Fall Festival 2450 Blake St Details → Sat, Oct 17 Coptober - Redlands Ranch Market Parking Lot Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
 Together, We Can Make a Difference.
 Stay Informed & Get updates on key issues and campaign events.
 A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.

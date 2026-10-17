@@ -1,6 +1,7 @@
 0 Skip to Content About Issues Press Releases Endorsements Our Work Vote Get Involved Events Meet & Greet Volunteer Get a Yard Sign Donate Open Menu Close Menu Donate About Issues Press Releases Endorsements Our Work Vote Get Involved Events Meet & Greet Volunteer Get a Yard Sign Open Menu Close Menu About Issues Press Releases Endorsements Our Work Vote Folder: Get Involved Back Events Meet & Greet Volunteer Get a Yard Sign Donate Información para votar Diferentes maneras para votar en las elecciones primarias Envío por correo o Dropbox para ausentes En Georgia, cualquier votante registrado puede solicitar una boleta de voto en ausencia.
 Una vez que la Oficina Electoral haya verificado su solicitud, se le enviará por correo una papeleta de voto ausente a su dirección.
-Envíe la papeleta completa por correo o entréguela personalmente en la Oficina de la Junta de Elecciones y Registro del Condado de Cobb. ¡Las solicitudes de boletas de voto en ausencia ya están abiertas y lo estarán hasta el 23 de octubre!
+Envíe la papeleta completa por correo o entréguela personalmente en la Oficina de la Junta de Elecciones y Registro del Condado de Cobb.
+Tambien puedes dejarlo en un “dropbox”, y puedes ver los locaciones aqui: https://www.cobbcounty.gov/elections/voting/advance-voting ¡Las solicitudes de boletas de voto en ausencia ya están abiertas y lo estarán hasta el 23 de octubre!
 Las boletas de voto en ausencia deben recibirse antes de las 7:00 p. m. del día de las elecciones.
 Si quieres solicitar una boleta de voto en ausencia por internet, puedes aplicar aqu í.
 Necesitarás una licencia de conducir de Georgia para aplicar en esta forma .

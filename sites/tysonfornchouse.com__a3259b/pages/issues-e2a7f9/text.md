@@ -42,4 +42,4 @@ During my tenure on the Board of Commission well over $500 Million was appropria
 This took years of planning and advocating.
 Very little happens in your district without a strong voice advocating on your behalf.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Committee to Elect Steve Tyson Powered by CampaignPartner.com - Political Campaign Websites Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu
+Committee to Elect Steve Tyson Powered by CampaignPartner.com Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu

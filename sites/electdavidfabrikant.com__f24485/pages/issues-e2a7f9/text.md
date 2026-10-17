@@ -8,4 +8,4 @@ Creating Homeless Shelters to Reintegrate People Back into Society Creating home
 Reorganizing Committee Assignments Based on Seniority Determining committee chairs based on seniority rather than party affiliation.
 Military 1.
 Taking care of our veterans.
-Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

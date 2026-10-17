@@ -32,4 +32,4 @@ Dog owners Adeleena and Yesenia said the special attention given to their projec
 They say they see a lot of abandoned dogs around town, but "every dog has a chance of being saved." "I think that what they need to know is that dogs are miracles and they need to help them a lot, and if they have a dog they need to take care of it," Adeleena said.
 Yesenia continued, "Because the dogs are there most of their life to do a lot of things.
 They're a big part of their life.
-It's just like having another family member in your family." Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+It's just like having another family member in your family." Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

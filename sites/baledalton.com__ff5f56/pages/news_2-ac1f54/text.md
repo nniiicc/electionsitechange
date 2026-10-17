@@ -1,4 +1,8 @@
-Skip to content The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs Facebook X-twitter Instagram Youtube DONATE The Latest Campaign Updates November 25, 2025 Bale Dalton, Naval Aviator and former NASA Chief of Staff, announces $# raised in just one week Sanford, FL – Bale Dalton, a distinguished Naval aviator and former NASA Chief of Staff, announced raising $200,000 in just one week since launching his campaign for Congress in Florida’s 7th Congressional district.
+Skip to content The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs Facebook X-twitter Instagram Youtube DONATE The Latest Campaign Updates January 8, 2026 Rep.
+Cory Mills Votes to Raise Floridians’ Health Care Costs — Again Sanford, FL – Today, the House of Representatives passed a bipartisan measure to lower the cost of health insurance premiums on the Affordable Care Act (ACA) marketplace.
+Rep.
+Cory Mills voted against the measure, even though 114,000 of his constituents rely on the ACA marketplace for coverage.
+Read More November 25, 2025 Bale Dalton, Naval Aviator and former NASA Chief of Staff, announces $# raised in just one week Sanford, FL – Bale Dalton, a distinguished Naval aviator and former NASA Chief of Staff, announced raising $200,000 in just one week since launching his campaign for Congress in Florida’s 7th Congressional district.
 This fundraising total puts Bale in a strong position to defeat Rep.
 Cory Mills, who reported just $134,000 cash on hand as of September 30.
 Read More November 19, 2025 Senator Bill Nelson endorses Bale Dalton in Florida’s 7th Congressional District Sanford, FL – Former U.S.

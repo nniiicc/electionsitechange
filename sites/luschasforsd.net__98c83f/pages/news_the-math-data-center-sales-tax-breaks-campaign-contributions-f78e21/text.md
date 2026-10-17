@@ -10,4 +10,4 @@ Assume each South Dakota Legislator has a $30k campaign budget.
 THE MATH WORKS!
 If they build more than one data center, THE MATH REALLY WORKS!
 References [1] 2025 SB177 and 2026 SB239 proposed tax break for data center legislation testimony.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

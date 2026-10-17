@@ -80,6 +80,10 @@
 "href": "https://twitter.com/intent/tweet?text=About+https%3A%2F%2Famandafornm.com%2Fabout%2F"
 },
 {
+"text": "Share via Telegram",
+"href": "https://t.me/share/url?url=https%3A%2F%2Famandafornm.com%2Fabout%2F&text=About"
+},
+{
 "text": "Take Action",
 "href": "https://amandafornm.com/take-action/"
 },

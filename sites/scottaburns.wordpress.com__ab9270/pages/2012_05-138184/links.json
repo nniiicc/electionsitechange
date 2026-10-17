@@ -104,10 +104,6 @@
 "href": "https://scottaburns.wordpress.com/2020/02/"
 },
 {
-"text": "Get started",
-"href": "https://wordpress.com/start/"
-},
-{
 "text": "Graduation",
 "href": "https://scottaburns.wordpress.com/2012/05/13/graduation/"
 },
@@ -301,6 +297,10 @@
 },
 {
 "text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Start free",
 "href": "https://wordpress.com/start/"
 },
 {

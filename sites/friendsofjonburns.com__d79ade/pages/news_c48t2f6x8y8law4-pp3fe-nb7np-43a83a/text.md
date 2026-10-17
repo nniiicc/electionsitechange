@@ -27,4 +27,4 @@ Significant wind impacts and power outages, as well as tornadoes and flash flood
 Please be prepared and tune in to your trusted local news sources for updates.
 Visit https://gema.georgia.gov/hurricanes for helpful information and resources on hurricane preparedness.
 Stay safe this weekend, everyone!
-My best, Speaker Jon Burns Emma Nunez Next Next North Georgia Tour + Hispanic Heritage Month JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY
+My best, Speaker Jon Burns Emma Nunez Previous Previous Get out the Vote + Georgia Ports Next Next North Georgia Tour + Hispanic Heritage Month JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

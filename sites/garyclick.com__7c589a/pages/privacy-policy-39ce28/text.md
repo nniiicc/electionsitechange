@@ -14,4 +14,4 @@ Cookies and Website Data: Our website and service providers may use cookies or s
 Your Choices: You may unsubscribe from email communications using the unsubscribe instructions provided in those communications.
 You may opt out of text messages by replying STOP.
 Contact: Questions regarding this privacy policy may be directed to the Committee to Elect Gary Click through the contact information provided on GaryClick.com.
-Last Updated: September 2026 The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu
+Last Updated: September 2026 The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

@@ -22,9 +22,9 @@ This year, she signed a bipartisan budget providing $1.4 billion in tax relief, 
 She has also helped eliminate nearly $1 billion in medical debt for approximately 700,000 Arizonans, lowered prescription drug costs through AZRx, worked to lower utility and housing costs, and expanded access to apprenticeships and community colleges that prepare Arizonans for good-paying jobs.
 Hobbs has also strengthened border security and public safety, including launching Task Force SAFE and Operation Desert Guardian to crack down on cartels and criminal organizations, stopping more than 18 million fentanyl pills from reaching Arizona communities, and delivering more than $215 million to local sheriffs and police departments to combat drug smuggling, human trafficking, and other border-related crimes.
 The campaign will continue expanding its Latino voter outreach and turnout operation through Election Day with additional paid media, mail, organizing, community events, Spanish-language communications, and direct voter contact across Arizona.
-Next Post Elect Katie Hobbs Campaign Announces Nearly $# Million Raised PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
+Next Post John Giles Votes Early in His Hometown of Mesa MESA - Today, former Mesa Mayor John Giles, Gov.
+Katie Hobbs' running mate, returned to his hometown of Mesa to cast his ballot in the 2026 Arizona general election.
+Joined by members of the Arizona Over Party...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

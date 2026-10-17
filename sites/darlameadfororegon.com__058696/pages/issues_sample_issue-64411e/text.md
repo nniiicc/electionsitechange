@@ -22,4 +22,4 @@ I will work to implement a more accessible and affordable healthcare system.
 I will seek creative solutions in Oregon to ensure everyone has access to affordable care when and where they need it, including reproductive and gender-affirming care.
 Healthcare is a HUMAN RIGHT.
 If elected, I will prioritize fixing healthcare for Oregonians.
-Next: Creating Local Economic Opportunity » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Next: Creating Local Economic Opportunity » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

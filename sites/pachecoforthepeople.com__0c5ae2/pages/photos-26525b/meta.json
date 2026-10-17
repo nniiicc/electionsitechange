@@ -1,9 +1,10 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.pachecoforthepeople.com/photos",
- "fingerprint": "2f0ba823d4071fe219eb8c432f603869612d1f6c",
+ "fingerprint": "8f7d32a49afcdf5f7e999225abdc87c01983707b",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

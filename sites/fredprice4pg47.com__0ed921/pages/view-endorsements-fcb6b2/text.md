@@ -4,4 +4,4 @@ These are the voices that matter most, and they are the reason I’m running.
 I believe leadership should be grounded in the community—not driven by special interests or outside agendas.
 My focus is simple: represent the people who live, work, and raise their families right here in District 47A.
 I will always put our community first—because that’s who I answer to.
-Click here to add your endorsement Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com - Political Campaign Websites Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu
+Click here to add your endorsement Endorsements Contact FRIENDS OF FRED PRICE Powered by CampaignPartner.com Home Meet FRED Issues Endorsements Contribute Volunteer Contact Close Menu

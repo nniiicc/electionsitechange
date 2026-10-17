@@ -1,5 +1,5 @@
 Skip to main content About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate Now Legal Privacy Policy.
-Last updated: April 2026 • Paid for by Friends of Kristina Contents 1.
+Last updated: October 17, 2026 • Paid for by Friends of Kristina Contents 1.
 Overview 2.
 Information We Collect 3.
 How We Use Your Information 4.
@@ -45,7 +45,8 @@ We do not store your full credit card or banking information on our servers — 
 By making a contribution through our donation page, you are also subject to Anedot's terms of service and privacy policy.
 You must be 18 years of age or older to make a contribution.
 Processing fees may apply and are subject to change at Anedot's discretion.
-All transactions are final and non-refundable.
+Contributions may be refunded where permitted, and will be refunded where required, under Washington State campaign finance law (Title 29B RCW) and the rules of the Public Disclosure Commission — including contributions that exceed applicable limits, come from prohibited sources, or are received for an election in which the candidate does not appear on the ballot.
+Payment processing fees may be non-refundable.
 Washington State and federal campaign finance law requires us to collect and publicly disclose certain donor information — including name, mailing address, employer, and occupation — for contributions above applicable reporting thresholds.
 By making a contribution, you acknowledge that this information may appear in public campaign finance filings.
 If you provide your email during the donation process, we may send you campaign-related communications.

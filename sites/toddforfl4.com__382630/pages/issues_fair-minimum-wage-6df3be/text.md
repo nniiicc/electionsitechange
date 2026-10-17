@@ -39,4 +39,4 @@ When a full-time job again pays enough to live where you work, and when getting 
 That’s not progressive.
 That’s not conservative.
 That’s American.
-Let’s restore the promise: work hard, get ahead, live with dignity. « Previous: Housing Affordability Next: Protect Free Speech » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu
+Let’s restore the promise: work hard, get ahead, live with dignity. « Previous: Housing Affordability Next: Protect Free Speech » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

@@ -1,15 +1,14 @@
-Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · Press Releases “Las Ganas de Superar”: New Spanish-Language Ads Highlight Gov.
+Meet Katie Meet John Store Join Email Signup Volunteer Text Message Updates Voter Information Updates Election Updates 2026 Press Releases In the News Contribute Latest News Campaign Updates In the News Press Releases In the News Press Releases Campaign Updates · In the News KOLD: Katie Hobbs and John Giles Host KidsCare Roundtable, Spotlighting Her Record of Delivering Affordable Healthcare October 14, 2026 TUCSON - Yesterday, Gov.
+Katie Hobbs and her running mate, former Mesa Mayor John Giles, sat down with pediatricians, medical professionals, school nurses, and healthcare advocates for a roundtable discussion on the importance of KidsCare and access to affordable healthcare.
+Read more below: KOLD: One-on-one...
+Read More Campaign Updates · Press Releases Katie Hobbs and John Giles Tour Ironworkers Local 75 October 14, 2026 PHOENIX - Today, Gov.
+Katie Hobbs and her running mate, former Mesa Mayor John Giles, toured the Ironworkers 75 facility, spoke with President of the Arizona Building Trades Council Jason Sangster and Apprenticeship Coordinator Aaron McDonald, met...
+Read More Campaign Updates · Press Releases “Las Ganas de Superar”: Nuevos anuncios en español destacan el historial de la gobernadora Hobbs reduciendo costos para las familias trabajadoras de Arizona October 14, 2026 PHOENIX - Hoy, la campaña de la gobernadora Katie Hobbs y el Comité Demócrata del Condado de Navajo lanzaron un nuevo anuncio en español, “Las Ganas de Superar,” que se transmite en televisión y radio y destaca su historial de dar resultados a las familias trabajadoras de Arizona...
+Read More Campaign Updates · Press Releases “Las Ganas de Superar”: New Spanish-Language Ads Highlight Gov.
 Hobbs’ Record of Cutting Costs for Arizona’s Working Families October 13, 2026 PHOENIX - Today, Gov.
 Katie Hobbs’ campaign and the Navajo County Democratic Committee released a new Spanish-language ad, “Las Ganas de Superar,” on television and radio, highlighting her record of delivering for Arizona’s working families so they can get ahead.
 The ad celebrates the work ethic and determination of...
-Read More Campaign Updates · Press Releases In New Digital Video, President Barack Obama Announces His Support for Katie Hobbs October 13, 2026 PHOENIX - Today, the 44th President of the United States, Barack Obama, announced his support of Gov.
-Katie Hobbs for re-election, citing her proven record of bringing people together to deliver results for Arizonans, including cutting taxes for veterans, small businesses, and working families, eliminating taxes on...
-Read More Campaign Updates · Press Releases Katie Hobbs and John Giles Host KidsCare Roundtable, Spotlighting Her Record of Delivering Affordable Healthcare October 12, 2026 TUCSON - Today, Gov.
-Katie Hobbs and her running mate, former Mesa Mayor John Giles, sat down with pediatricians, medical professionals, school nurses, and healthcare advocates for a roundtable discussion on the...
-Read More Campaign Updates · In the News ROUNDUP: Katie Hobbs Launches Seniors for Katie Coalition, Emphasizing Her Record of Delivering Affordable Healthcare and Housing for Seniors October 12, 2026 CASA GRANDE - Last week, Gov.
-Katie Hobbs and Mayor John Giles launched Seniors for Katie, a coalition consisting of senior leaders and community members working to re-elect her.
-Hobbs marked the launch in Casa Grande, alongside President of the Arizona Alliance for Retired Americans, Linda Somo, and Executive...
-Read More 1 2 3 4 … 37 First name SIGN UP!
+Read More 1 2 3 4 … 38 First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.
 No consent required to buy.

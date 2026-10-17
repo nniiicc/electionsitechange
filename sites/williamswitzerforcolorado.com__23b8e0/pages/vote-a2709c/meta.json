@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://williamswitzerforcolorado.com/vote",
- "fingerprint": "8ea3df28d437baa17ba45d198335e98c85d9be11",
+ "fingerprint": "a59eb3cf8be699a13aabaef4d185b11c81a23b27",
  "format": 3,
  "paid_for_by": "Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

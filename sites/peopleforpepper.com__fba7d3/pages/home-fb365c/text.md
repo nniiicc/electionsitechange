@@ -20,4 +20,4 @@ It's time for representation that doesn't leave working families holding the bil
 It's time for representation that fully funds the education of our kids: Indiana’s future.
 I'm asking for your vote on November 3rd.
 Learn more, volunteer, or chip in at peopleforpepper.com Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com - Political Websites Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

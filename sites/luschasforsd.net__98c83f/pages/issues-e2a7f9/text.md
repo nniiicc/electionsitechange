@@ -182,4 +182,4 @@ I support the following bills from the 2025 and 2026 legislative sessions: 2025 
 2026 SB 114 - Publication of ballot images and the cast vote record of automatic tabulating equipment.
 2026 SB 176 - Increase the period of time before which ballots and other election materials may be destroyed following an election from # days to 22 months.
 I do not support a requirement for a digital ID to be able to vote.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -2,12 +2,13 @@ Skip to Content 🗳️ Vote Early Early voting begins today across District 157
 Polling locations open in Baxley, Claxton, Hazlehurst & Reidsville.
 Vote Early Early voting is open today across HD-157!
 Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Dispatch Elections #District 157 #Elections #Bradley Anderson #Micah King #Tattnall County #Appling County #Evans County #Jeff Davis County Georgia House District 157 Candidates Guide: Micah King vs.
-Bradley Anderson (2026 Election) October 14, 2026 7 min read By Micah King Table of Contents • Quick Race Overview • The Candidates: Background & Public Service – Bradley B.
+Bradley Anderson (2026 Election) October 13, 2026 7 min read By Micah King Table of Contents • Quick Race Overview • The Candidates: Background & Public Service – Bradley B.
 Anderson (Republican Nominee) – Micah King (Democratic Nominee) • Where the Candidates Stand on Key Issues – 1.
 Rural Healthcare & Hospital Solvency – 2.
 Utility Bills, Power Rates & Data Center Growth – 3.
 Agriculture, Timber & Family Farm Taxes – 4.
-Constituent Access & Town Halls • District 157 Voting Logistics & Dates • The Choice for District 157 When voters across Appling, Evans, Jeff Davis, and Tattnall Counties cast their ballots in the 2026 General Election, they will decide who represents Southeast Georgia in the Georgia House of Representatives for the next two years.
+Constituent Access & Town Halls – 5.
+Early Childhood Education, Childcare & Working Families • District 157 Voting Logistics & Dates • The Choice for District 157 When voters across Appling, Evans, Jeff Davis, and Tattnall Counties cast their ballots in the 2026 General Election, they will decide who represents Southeast Georgia in the Georgia House of Representatives for the next two years.
 This seat has seen significant political transition this year.
 After ten years of service, incumbent Republican Representative Bill Werkheiser was defeated in the May 19, 2026 Republican primary by challenger Bradley Anderson.
 Voters now face a clear choice between two local residents with distinct backgrounds, experiences, and legislative visions: Micah King and Bradley B.
@@ -52,11 +53,23 @@ Constituent Access & Town Halls Representation in the Georgia General Assembly r
 Micah King’s Approach: King has pledged a strict open-door policy, promising to hold regular, quarterly town halls across Appling, Evans, Jeff Davis, and Tattnall Counties.
 The campaign formally invited Bradley Anderson to a joint candidate debate at the Glennville Town Hall on Saturday, October 17, 2026, keeping a reserved podium open for him to engage directly with constituents.
 Bradley Anderson’s Approach: Anderson has conducted traditional grassroots campaigning, meeting with constituents at community events, civic club meetings, and local small businesses throughout the district, emphasizing his established reputation and deep personal ties as a trusted local businessman.
+5.
+Early Childhood Education, Childcare & Working Families Accessible, affordable childcare and early learning opportunities are vital for working parents and local employers across Southeast Georgia.
+Micah King’s Approach: In his responses to the non-partisan GEEARS (Georgia Early Education Alliance for Ready Students) 2026 candidate survey, King called for targeted state investment in early childhood education, expanded rural childcare capacity, and funded after-school programs to ensure working parents can balance shift work with family life.
+Bradley Anderson’s Approach: Anderson has emphasized traditional conservative fiscal principles and local control for communities.
+According to the GEEARS 2026 candidate guide , Anderson did not submit responses to the coalition’s questionnaire.
 District 157 Voting Logistics & Dates Whether voting early or on Election Day, all registered voters across the district have multiple options to cast their ballots: In-Person Advance Voting Window: Tuesday, October 13 - Friday, October 30, 2026 Mandatory Saturday Voting Days: Saturday, October 17 & Saturday, October 24, 2026 Absentee Application Deadline: Friday, October 23, 2026 General Election Day: Tuesday, November 3, 2026 (7:00 AM - 7:00 PM) For detailed polling locations, contact information for county election boards, and voter identification rules, review our comprehensive District 157 Early Voting Guide .
 To verify your registration status and view your official precinct sample ballot, visit the official Georgia Secretary of State My Voter Page (mvp.sos.ga.gov) .
 The Choice for District 157 The representative elected to House District 157 will cast votes on the state budget, tax policy, healthcare access, and rural development that directly affect families in Baxley, Claxton, Glennville, Hazlehurst, Reidsville, and every community in between.
 Voters have a meaningful choice between two dedicated local leaders.
 Make your voice heard by participating in advance voting or casting your ballot on Tuesday, November 3.
+THE FIELD REPORT • VOTER ACCESS GUIDE Never Miss an Election Deadline or Town Hall in District 157 Receive non-partisan ballot translations, early voting schedules, and candidate comparisons sent straight to your inbox before you head to the ballot box.
+You're on the list!
+Check your inbox for a quick welcome note from Micah.
+We're glad to have you with us on the trail.
+Don't fill this out: Get Voter Updates Connecting... ✓ Direct trail updates & voter guides across Appling, Evans, Jeff Davis & Tattnall.
+No consultant spam.
+Unsubscribe anytime.
 About the Author Micah King Candidate for Georgia House District 157, former Glennville City Councilman, and Accredited Financial Counselor providing voter education across Appling, Evans, Jeff Davis, and Tattnall Counties.
 Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
@@ -65,7 +78,8 @@ Anderson (Republican Nominee) – Micah King (Democratic Nominee) • Where the 
 Rural Healthcare & Hospital Solvency – 2.
 Utility Bills, Power Rates & Data Center Growth – 3.
 Agriculture, Timber & Family Farm Taxes – 4.
-Constituent Access & Town Halls • District 157 Voting Logistics & Dates • The Choice for District 157 Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
+Constituent Access & Town Halls – 5.
+Early Childhood Education, Childcare & Working Families • District 157 Voting Logistics & Dates • The Choice for District 157 Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
 Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Policy They've Made It to Our Back Door: What AI Data Centers Mean for District 157 OpenAI's planned $20 billion, 4.4 million square foot data center in Effingham County is a warning sign for Southeast Georgia.
 Here's what residents of Evans, Jeff Davis, Tattnall, and Appling counties can do about power, water, and ratepayer costs.
 Read Dispatch → Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.

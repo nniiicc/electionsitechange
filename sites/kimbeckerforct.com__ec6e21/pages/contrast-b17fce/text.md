@@ -1,4 +1,4 @@
-top of page Home About Kim Volunteer Voter Information Endorsements Contrast Learn About Your Current Representative Be Informed, Then Vote Your Conscience on November 3rd When It Mattered, He Voted No Mark Anderson's record isn't hard to read.
+top of page Home About Kim Volunteer Voter Information Endorsements Contrast Learn About Your Current Representative, Mark Anderson Be Informed, Then Vote Your Conscience on November 3rd When It Mattered, Anderson Voted No Mark Anderson's record isn't hard to read.
 On the issues that shape daily life in Granby, New Hartford, Barkhamsted and Hartland, his answer is almost always no .
 Affordability : Free child care for families earning under $100,000.
 Savings help for first-time homebuyers.
@@ -28,8 +28,7 @@ Mark Anderson was one of 34 legislators to vote no .
 Voted Against Housing Our Neighbors Can Afford PA 25-49 created a first-time homebuyer savings program and grants for middle housing in towns under 50,000 people , which covers every town in the 62nd.
 Mark Anderson voted no .
 After the Governor's veto, a revised version came back as an emergency bill, and he voted against that too.
-Ideology Founded the CT Chapter of the National Federation of Republican Assemblies The Connecticut Republican Assembly (CTRA) positions itself as "the Republican wing of the Republican Party" and promotes 14 Principles that closely align with the Christian Nationalism movement.
-In 2021 CTRA established the " Mark W.
+Ideology Founded the CT Chapter of the National Federation of Republican Assemblies The Connecticut Republican Assembly (CTRA) positions itself as "the Republican wing of the Republican Party." In 2021 CTRA established the " Mark W.
 Anderson Leadership Award " in honor of its founder, and Mr.
 Anderson received the award that year.
 A later recipient was Peter Wolfgang , Executive Director of the Family Institute of Connecticut.
@@ -38,17 +37,17 @@ In 2023 he was one of only 12 House members to oppose the bipartisan budget.
 That budget included the largest middle-class income tax cut in Connecticut history, plus new funding for local schools.
 Voted Against Emergency Aid for Connecticut Nonprofits Special Act 25-2 sent emergency funding to community organizations, including Middlesex Hospital, Kids in Crisis, the Center for Children's Advocacy, refugee resettlement groups, LGBTQ+ youth programs and Planned Parenthood of Southern New England.
 Mark Anderson voted no.
-Civil Rights One of 19 Votes Against Protecting Long-Term Care Residents PA 25-17 bars nursing homes and long-term care facilities from discriminating against residents based on sexual orientation, gender identity or HIV status.
+Civil Rights Voted Against Absentee Voting for All In 2024, Connecticut voters approved a constitutional amendment to allow no-excuse absentee voting .
+PA 26-42 puts it into law.
+It also lets 17-year-olds who will turn 18 by Election Day vote early, and bans masks and law enforcement near polling places.
+Mark Anderson voted no.
+One of 19 Votes Against Protecting Long-Term Care Residents PA 25-17 bars nursing homes and long-term care facilities from discriminating against residents based on sexual orientation, gender identity or HIV status.
 Mark Anderson was one of 19 legislators to vote no.
 Voted Against Clear Limits on Immigration Enforcement in Schools and Local Policing PA 25-1 requires every school to name an administrator who handles any contact with federal immigration authorities.
 It also requires school safety plans to spell out how those interactions work, and protects staff who follow the rules.
 PA 25-29 extends the state's limits on detaining people for federal immigration requests to more state and local officials, while widening the list of serious crimes where cooperation is allowed.
 Mark Anderson voted against both.
 Voted Against Keeping Bail Arrests Out of Schools, Hospitals and Churches PA 25-25 prohibits bail bondsmen from apprehending people at schools, colleges, healthcare facilities and houses of worship .
-Mark Anderson voted no.
-Voted Against Absentee Voting for All In 2024, Connecticut voters approved a constitutional amendment to allow no-excuse absentee voting .
-PA 26-42 puts it into law.
-It also lets 17-year-olds who will turn 18 by Election Day vote early, and bans masks and law enforcement near polling places.
 Mark Anderson voted no.
 The Environment Scored 36% from the CT League of Conservation Voters Mark Anderson's 2026 CTLCV score fell to 36% , down from a four-year average of 59%.
 Kim has been endorsed by CTLCV for three elections in a row.

@@ -54,4 +54,4 @@ I always welcome your input — it helps guide my work on your behalf.
 Please don’t hesitate to reach out if you have questions, ideas, or concerns.
 Thank you for the honor of serving you in the South Carolina House of Representatives.
 I’ll continue fighting every day for the conservative values we share and the future South Carolina deserves.
-Sincerely, Cal 803-349-6741 Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Sincerely, Cal 803-349-6741 Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

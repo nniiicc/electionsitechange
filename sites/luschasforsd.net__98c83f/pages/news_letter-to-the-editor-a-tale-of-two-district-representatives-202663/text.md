@@ -18,4 +18,4 @@ Kull’s “Details from District 2” article in the BV Journal on 02/25/2026 w
 There is no mention of the topic of mega data centers despite the fact that on the Wednesday of the previous week there was a whole day of committee sessions filled with 8 bills pertaining to data centers.
 Given the obvious interest in the district in the process of bringing a mega data center to the Sioux Falls/Brandon area, it seems to me that this would have been worth mentioning.
 In conclusion, I think it is plain as daylight by now which one of our two District 2 Representatives is taking his job of listening to and representing his constituents seriously and which one is there to do the bidding of big corporate interests.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

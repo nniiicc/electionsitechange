@@ -1,0 +1,8 @@
+0 Skip to Content About Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Get Involved Events Volunteer 5K4JKT Request a Yard Sign Press DONATE NOW Open Menu Close Menu About Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Get Involved Events Volunteer 5K4JKT Request a Yard Sign Press DONATE NOW Open Menu Close Menu Folder: About Back Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Folder: Get Involved Back Events Volunteer 5K4JKT Request a Yard Sign Press DONATE NOW LIVE MUSIC • FOOD TRUCKS • PAY-WHAT-YOU-CAN REGISTRATION register here 1.4 m 5K Walk/RUN RUN 9:30 AM Bib Pickup SUNDAY OCT 25 10:30 AM Run Start CAN’T BE THERE IN PERSON?
+Registration & Race Start Kincaid Chalet WHY 1.4 MILES?
+In honor of the estimated 1,400 teachers leaving Alaska every year. pay what you can to register for race day!
+We want to run and walk with you, whether you donate $6.60, $27.98, or $46.00!
+Why these numbers, you ask?
+Under Dunleavy, Alaska’s base student allocation (BSA) of $6,600 per student is at the bottom of the $6-11k national range. $6.60 The Department of Education has projected/estimated that 2,798 fewer students are attending Alaska schools in 2026 compared to the previous year, partly because families are leaving our state. $27.98 To represent Dunleavy’s 46 career vetoes.
+Onward to a Governor who works with the legislature to pass bills to make Alaskan’s lives better! $46.00 FEATURING Holly Brooks Taylor Deal Galen Hecht Klaire Rhodes Luke Jager Tracen Knopp SIGN UP TO JOIN VIRTUALLY!
+SIGN UP FOR VIRTUAL RACE Anna Dalton Paid for by JKT for Alaska PO Box 2185 Sitka, AK 99835

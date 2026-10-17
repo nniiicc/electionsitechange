@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://burnfinforkansas.com/yard-sign",
- "fingerprint": "7b245cded155bda5f144768adcfd541ec048f2fd",
+ "fingerprint": "c3948e0aa500a86fc3f6fe0a05e927a46893a00a",
  "format": 3,
  "paid_for_by": "Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

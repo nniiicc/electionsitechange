@@ -18,4 +18,4 @@ Rhondalyn Randolph.
 Rev.
 Rhondalyn Randolph has demonstrated a remarkable dedication for her community.
 Her unique combination of integrity and commitment have brought great results that earned her respect from friends and colleagues alike." Tyler Wade Physician Tanya Lancaster Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

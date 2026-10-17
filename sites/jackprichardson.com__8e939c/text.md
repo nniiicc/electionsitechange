@@ -1,4 +1,4 @@
-Skip to content Bourne · Falmouth · Mashpee About Record My Opponent Priorities Endorsements Media Get involved {{ navGlyph }} Menu Donate About Record My Opponent Priorities Endorsements Media Get involved JR A fighter for us “Cape Codders are being priced out of the communities we built.
+{{ soundLabel }} Scroll ↓ Skip to content Bourne · Falmouth · Mashpee About Record My Opponent Priorities Endorsements Media Get involved {{ navGlyph }} Menu Donate About Record My Opponent Priorities Endorsements Media Get involved JR A fighter for us “Cape Codders are being priced out of the communities we built.
 We deserve better.” Jack is running for 3rd Barnstable State Representative to fight for the Bourne, Falmouth and Mashpee residents who deserve a fairer government that works for them, not the Billionaires.
 The Upper Cape wants homes and energy to be more affordable, the environment protected, and our immigrant neighbors to not have to live in fear of masked, lawless men.
 For 8 terms, our State House seat has been filled by a Republican who works directly against the district’s interests.

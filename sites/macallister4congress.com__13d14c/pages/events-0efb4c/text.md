@@ -22,4 +22,4 @@ Download the flyer Local Roots.
 Common Sense Results.
 U.S.
 Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 Mailing address Macallister for Congress P.O.
-Box 323, Mattapoisett, MA 02739 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top
+Box 323, Mattapoisett, MA 02739 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top Early Voting VOTE ✓ Open now · Oct 17–30 Early Voting Location Finder Search by address › ×

@@ -5,7 +5,7 @@ Chairman, House Judiciary, Rules and Administration A conservative who keeps his
 Bruce Skaug has cut wasteful spending, defended the Constitution, and fought for Idaho families in the statehouse.
 Let's finish the job.
 Donate Now Join the Team BRUCE SKAUG IDAHO HOUSE · DIST.
-10B Endorsed by Fraternal Order of Police National Rifle Association Idaho Chooses Life Sign Up For Campaign Updates Submit A RECORD YOU CAN TRUST Results, not rhetoric 0 Term serving District 10 in the Idaho House 0+ Bills carried into law (12+ his freshman year) 0 yrs On Nampa City Council, ranked a best-run U.S. city 0 Generation Idahoan, rooted in Canyon County Recognized for conservative leadership WHERE BRUCE STANDS Conservative leadership on the issues that matter The same principles that have guided every vote in the statehouse.
+10B Endorsed by Fraternal Order of Police National Rifle Association Idaho Chooses Life Sign Up For Campaign Updates Submit A RECORD YOU CAN TRUST Results, not rhetoric 3rd Term serving District 10 in the Idaho House 70+ Bills carried into law (12+ his freshman year) 6 yrs On Nampa City Council, ranked a best-run U.S. city 5th Generation Idahoan, rooted in Canyon County Recognized for conservative leadership WHERE BRUCE STANDS Conservative leadership on the issues that matter The same principles that have guided every vote in the statehouse.
 Taxes & the Economy Cut wasteful spending and lower property taxes so Idaho families can afford to live, work, and raise a family here.
 Constitutional Freedoms Defend free speech, religious liberty, and the Second Amendment against every attempt to erode our rights.
 Public Safety A law-and-order legislator.

@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.riker4pg.com/yard-sign",
- "fingerprint": "034d33761348ac3f248bab716286ad289b1b8cda",
+ "fingerprint": "0ad46e79d823877dbf653445c30a9fb34cf7300e",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -1,9 +1,10 @@
 {
  "description": "Taxes",
  "final_url": "https://www.sethfordelegate.com/issues/taxes",
- "fingerprint": "008b5cb9a984fe931f89c04142e2e61566143db8",
+ "fingerprint": "a312d575c928c9873574eba743c1daaf72589c72",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Taxes",
  "years_mentioned": []
 }

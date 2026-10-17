@@ -19,4 +19,4 @@ I’m not a career politician.
 I’ve worked in the private sector, in public service, and on the front lines.
 I’ve built things, led teams, and adapted to change.
 I’m running because I understand what makes Montana work and I know we can do better by putting people first, protecting our way of life, and making decisions based on common sense, not party politics.
-Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com - Political Websites Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu
+Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

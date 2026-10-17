@@ -1,5 +1,5 @@
 Home Meet Darla Priorities Endorsements Volunteer Events Contribute Events More events coming soon!
-#ago This Week This Month ‹ Previous Fri Oct 16 2026 - Sat Oct 16 2027 Next › 20 Oct Tuesday, 6:00 PM – 7:00 PM Meet and Greet and Fundraiser in Downtown Estacada Estacada, OR We have one more Meet & Greet before Election Day , and we’d love to see you there!
+#ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › 20 Oct Tuesday, 6:00 PM – 7:00 PM Meet and Greet and Fundraiser in Downtown Estacada Estacada, OR We have one more Meet & Greet before Election Day , and we’d love to see you there!
 Come meet Darla Mead , Clackamas County’s own local nurse running for the Oregon House of Representatives, District 51 .
 Join us for free pizza and root beer , share what matters most to you, and talk with Darla about the priorities that are important to our community and to Oregon.
 Location: Downtown Estacada- RSVP For location Bring your questions, your ideas, and a neighbor or friend.
@@ -14,4 +14,4 @@ Please come dressed in comfortable clothes and walking shoes.
 Please also bring a fully charged phone.
 We’ll see you then!
 Once you sign up you will get details of park in Canby we are meeting at.
-More info › Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Aug 24 2026 PRESS RELEASE Brig.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Aug 24 2026 PRESS RELEASE Brig.
 Gen.
 Leela Gray Releases Anti-Corruption Agenda in Race Against Anna Paulina Luna For Immediate Release Date: August 24, 2026 Contact: press@leelagray.com "We need to start holding Washington to the same standards of ethics and accountability we hold our military." St.
 Petersburg, FL — Today, Brigadier General (Ret.) Leela Gray announced the release of her Anti-Corruption Agenda, the first major policy rollout of her general election campaign against Anna Paulina Luna.

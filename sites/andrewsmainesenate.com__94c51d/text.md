@@ -6,4 +6,4 @@ Click Here for Information Help us hit $10,000 by January!
 Our campaign is powered by your donations. $9,250.00 of $10,000.00 $1000 $# $# $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 Voter Information Yard Signs Events Contact Paid for by the candidate, not at taxpayer expense.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu
+Powered by CampaignPartner.com Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -36,5 +36,9 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Giannoulias Works to Improve the Driver’s License Process for Immigrant Drivers Legislation includes safeguards to make roads safe and protects well-being of immigrant motorists Keep Reading → Secretary of state hopefuls focus on modernization, differ on fees By Jerry Nowicki | Capitol News Illinois For the first time since 1998, the secretary of state seat in Illinois will be an open one Keep Reading → Giannoulias’ Lauds First-in-the-Nation Legislation Limiting Use of Automatic License Plate Readers Legislation passed Illinois General Assembly; bans license plate readers from tracking individuals seeking abortion care Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts What if you got to pick your driver’s license photo?
+For a fee, Secretary of State hopeful Alexi Giannoulias would let you have multiple shots taken.
+Or you could even provide your own.
+Keep Reading Keep Reading → Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State Launches New Ad Announcing his Support for Former Democrat Treasurer and Their Fight for Worker Rights Keep Reading → How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office Illinois Secretary of State Alexi Giannoulias has completed his first # days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

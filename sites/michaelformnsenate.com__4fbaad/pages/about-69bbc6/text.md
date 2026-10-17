@@ -1,4 +1,4 @@
-top of page About Priorities Endorsements Contribute Contact Media DONATE Meet Senator Kreun About Michael State Senate - Minnesota Senate District 32 ​ Assistant Minority Leader, Minnesota Senate ​ Michael is a lifelong Minnesotan from East Grand Forks.
+top of page About Priorities Endorsements Voting Contribute Contact Media DONATE Meet Senator Kreun About Michael State Senate - Minnesota Senate District 32 ​ Assistant Minority Leader, Minnesota Senate ​ Michael is a lifelong Minnesotan from East Grand Forks.
 He and his wife Laura have lived in Blaine for 24 years.
 They raised their three children, Anders, Josie and Andrea here.
 He’s an attorney and the co-owner of a small business right here.
@@ -6,7 +6,8 @@ He learned his work ethic from a young age – working for his Parent’s small 
 He read meters, did lawn work and even drove a water truck.
 He was raised to value hard work and a good education.
 He participated in athletics and fine arts – graduated from Moorhead State University and The University of North Dakota School of Law before moving to Blaine.
-Professional Background Michael has served the People of Blaine, Ham Lake, Columbus and Lexington as Senator these past 4 years.
+Harry and Misty – the Kreun Family’s dogs – also call Blaine home.
+Like Michael, they are happy to greet everyone, though they may hope for a treat too ​ Professional Background Michael has served the People of Blaine, Ham Lake, Columbus and Lexington as Senator these past 4 years.
 Serving as Senator for SD32 has been the honor of a lifetime.
 Prior to this he also served on the Spring Lake Park School Board and the Coon Creek Watershed Board of Managers.
 Michael has also practiced law for over 23 years.

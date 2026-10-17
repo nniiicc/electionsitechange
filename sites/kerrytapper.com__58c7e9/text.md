@@ -20,4 +20,4 @@ Reproductive Freedom For All Michigan Announces their Endorsements for State Hou
 Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
 Request a Yard Sign Click Here to Request a Sign Make a Donation Our campaign is powered by your donations!
 Help us show the State Dems that our district is READY TO TURN BLUE!! $# $# $# $# $# $# $1225 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu
+Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

@@ -1,4 +1,6 @@
-Skip to content About Endorsements Get Involved News Issues Store Donate Latest News Nevada Values on Display: Former Lincoln County Sheriff Kerry Lee Endorses Cody K.
+Skip to content About Endorsements Get Involved News Issues Store Donate Latest News Nevada Agricultural Leader Bob Combs Endorses Cody K Whipple for Congress August 13, 2025 Las Vegas, NV – Cody K Whipple, Businessman, Rancher, and Republican candidate for Nevada’s 4th Congressional District, proudly announced today the endorsement of respected Nevada agricultural leader and businessman Bob Combs, founder of RC Farms in Las Vegas.
+Whipple is challenging career-politician and Democrat Congressman Steven Horsford.
+Combs, a fixture in Nevada’s farming community and known nationwide… Read more : Nevada Agricultural Leader Bob Combs Endorses Cody K Whipple for Congress Nevada Values on Display: Former Lincoln County Sheriff Kerry Lee Endorses Cody K.
 Whipple for Congress August 8, 2025 Nevada First.
 Public Safety Always.
 Lincoln County, NV—In a powerful show of support for Nevada’s future, retired Lincoln County Sheriff Kerry Lee has officially endorsed Cody K.

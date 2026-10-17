@@ -9,4 +9,4 @@ I want him to be an advocate for me because I know he’s the right person for t
 Alex Hales Band Director at Oak Canyon Junior High Tucker Smith is an articulate, talented, and passionate educator who is working hard to protect public schools and promote Utah interests.
 He listens well to our needs and puts people and principles ahead of party interests.
 I highly endorse Tucker Smith for Utah State Senate (District 23).
-Devan Jensen Author, Editor, and Former Precinct Chair Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com - Political Websites Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu
+Devan Jensen Author, Editor, and Former Precinct Chair Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Tucker Smith Powered by CampaignPartner.com Home About Tucker Issues Endorsements Contribute Opportunities News Events Contact Close Menu

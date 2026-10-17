@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://bakerforohio.com/view-endorsements",
- "fingerprint": "118f46b8f0bf8556074b6b85d6bde3a8031c06a6",
+ "fingerprint": "dccebdd0eac7ba6bff434367a36970947438e71b",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": []
 }

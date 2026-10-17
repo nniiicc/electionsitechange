@@ -35,4 +35,4 @@ Having known her for three decades, I have seen firsthand that she is a deeply g
 Helen has the endurance for the long haul and the heart to truly serve.
 I proudly endorse Helen Neville for Congress.
 Malea Jensen Dr.
-Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -12,4 +12,4 @@ If you are a U.S. citizen, at least 18 years old, and live in North Dakota, you 
 Anyone who has lived in North Dakota for # days prior to Election Day can vote.
 North Dakota does not require voter registration, but you do need to have a valid form of identification that can be used for voting.
 This means you should make sure you have proper identification with you before you go to the polls to vote.
-Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

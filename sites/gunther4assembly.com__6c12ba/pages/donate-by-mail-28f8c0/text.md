@@ -13,4 +13,4 @@ What’s the maximum an individual can contribute?
 Out-of-district donors can contribute a max of $# Please make sure your RESIDENTIAL ADDRESS is current at checkout so we can accurately report your contribution for potential matching funds.
 To donate via check , please mail your check paid to the order of "gunther4assembly" along with a contribution card (required) to: gunther4assembly P.O.
 Box 47 Shushan NY 12873 Download Contribution Card Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

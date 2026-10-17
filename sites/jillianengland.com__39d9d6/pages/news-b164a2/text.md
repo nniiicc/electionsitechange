@@ -4,6 +4,21 @@ Races Notes Substack Vote Donate Contact Bio Endorsements Notes from the Campaig
 This is how we keep the ideas alive and growing instead of letting the site sink into entropy.
 New notes appear here and are featured on the home page.
 Filter by topic All topics Clear Public safety Taxes & cost of living Energy & prosperity Homelessness & addiction Elections & ballot integrity Family & parental rights Principles & liberty Health systems Showing all 31 notes.
+October 16, 2026 — Can You Save 1,000 Lives?
+Homelessness & addiction · Public safety The curve is still compounding.
+The question is whether we bend it.
+Seattle’s visible homelessness crisis — tent cities, encampments, open drug use — is not a simple housing shortage.
+It is a self-reinforcing engine: addiction, fentanyl, and permissive policies that act as a migration magnet.
+Washington’s own counts show the scale.
+Statewide overdose deaths rose from 1,259 in 2019 to 3,458 in 2023 , then eased to 3,145 in 2024 (Washington State Department of Health, revised).
+On the opioid series in the model, deaths rose from 743 in 2018 to 2,489 in 2024 — 11,740 opioid deaths across those years — a pace that doubles in about 3.44 years .
+Linear spending cannot outrun that curve.
+Real Washington data, 2018–2024.
+Move the sliders for migration discouragement and enforcement.
+Watch the baseline and the policy line.
+See whether you can bend the curve.
+Can You Save 1,000 Lives? → · The diagnosis and the plan: Read the full paper → — Jillian England Candidate, Washington State Senate, 36th District Recurring support is what keeps these notes coming.
+Join the Golden Washington Monthly Sustainers — $25, $50, or $100 per month makes the daily habit possible.
 September 3, 2026 — Your Electric Bill Is Going Up — Then Your Rent Energy & prosperity · Taxes & cost of living Your electric bill is going up.
 Then your rent is going up.
 Seattle City Light has already approved 9.5 percent rate increases in both 2027 and 2028.
@@ -374,24 +389,6 @@ I’m Jillian England for State Senate, LD 36, Seattle Time to end the grift, bu
 Somebody has to say it. jillianengland.com Paid for by: Friends of Jillian England, P.O.
 Box 30064, Seattle, WA 98113 Recurring support is what keeps these notes coming.
 Join the Golden Washington Monthly Sustainers — $25, $50, or $100 per month makes the daily habit possible.
-June 23, 2026 — The Compounding Homelessness, Addiction & Overdose Problem in Seattle Homelessness & addiction · Public safety Seattle’s visible homelessness crisis— tent cities, encampments, open drug use — is not a simple housing shortage.
-It is a self-reinforcing compounding engine driven by addiction, fentanyl lethality + dependence, and permissive policies that act as a migration magnet.
-Large and growing baseline of active addicts.
-High-dependence synthetics keep survivors using while recruiting new ones.
-Net inflow because low-barrier shelters, harm-reduction without strong accountability, decriminalization signals, and generous services draw people from outside Seattle/King County.
-“Housing First” without sobriety requirements, resistance to clearing encampments, and limited enforcement against open-air drug markets create visible “success stories” that accelerate the next wave.
-Overdoses exploded (Washington statewide: 1,259 deaths in 2019 → 3,458 in 2023, four years; time-to-double ~2.7 years).
-More tent cities normalize public disorder.
-Businesses and residents leave or disengage.
-The pool grows multiplicatively through migration, new initiates, and survival of the current cohort.
-Linear spending cannot outrun exponential dynamics.
-The full diagnosis and concrete plan to break the cycle is here: Read the full paper: The Compounding Homelessness, Addiction & Overdose Problem in Seattle At the bottom of that paper you’ll find a new self-contained interactive policy model (with T_d / half-life).
-Tweak the sliders for migration discouragement and enforcement to watch how the compounding overdose trajectory changes over time.
-Recurring support is what keeps these notes and deeper papers coming.
-One-time donations are nice.
-Monthly sustainers let the daily habit — and real research — stay sustainable.
-Recurring support is what keeps these notes coming.
-Join the Golden Washington Monthly Sustainers — $25, $50, or $100 per month makes the daily habit possible.
 June 21, 2026 — Happy Father’s Day: Honoring the Quiet Strength That Builds Families Family & parental rights Happy Father’s Day to all the dads, grandpas, and father figures who make life stronger and brighter for their families.
 Today I’ve been reflecting on the beautiful differences that make us who we are.
 Women carry the very real physical challenges of cycles, pregnancy, and menopause.
@@ -488,6 +485,6 @@ Check back often.
 Read the full position statement Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 15, 2026 · Site version: 417f77e This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 16, 2026 · Site version: 2d57d4f This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

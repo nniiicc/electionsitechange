@@ -3,4 +3,4 @@ Her father was Mayor of her hometown, her mother was an executive in Girl Scouts
 Andrea's reason for challenging incumbent Jessica Caloza is that Jessica has only a 17% rating on the Freedom Index.
 Don't you want someone who will work to protect your freedoms?
 Common sense solutions to our problems!
-Lower taxes and regulations Quality education Crime must be prosecuted Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu
+Lower taxes and regulations Quality education Crime must be prosecuted Events Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com Home Meet Andrea Issues Contribute Volunteer Events Contact Close Menu

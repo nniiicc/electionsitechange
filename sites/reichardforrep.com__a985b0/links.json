@@ -1,38 +1,6 @@
 [
 {
-"text": "$10",
-"href": "https://www.reichardforrep.com/contribute?amount=10"
-},
-{
-"text": "$100",
-"href": "https://www.reichardforrep.com/contribute?amount=100"
-},
-{
-"text": "$1000",
-"href": "https://www.reichardforrep.com/contribute?amount=1000"
-},
-{
-"text": "$25",
-"href": "https://www.reichardforrep.com/contribute?amount=25"
-},
-{
-"text": "$250",
-"href": "https://www.reichardforrep.com/contribute?amount=250"
-},
-{
-"text": "$5",
-"href": "https://www.reichardforrep.com/contribute?amount=5"
-},
-{
-"text": "$50",
-"href": "https://www.reichardforrep.com/contribute?amount=50"
-},
-{
-"text": "$500",
-"href": "https://www.reichardforrep.com/contribute?amount=500"
-},
-{
-"text": "Campaign Websites",
+"text": "CampaignPartner.com",
 "href": "https://www.campaignpartner.com"
 },
 {
@@ -52,6 +20,10 @@
 "href": "https://www.reichardforrep.com/events"
 },
 {
+"text": "Follow Us On Facebook Here",
+"href": "https://www.facebook.com/profile.php?id=61585417107927"
+},
+{
 "text": "Fuel Our Fight For Only $5 | ActBlue Click Here to Contribute",
 "href": "https://secure.actblue.com/donate/chris-reichard-1"
 },
@@ -68,24 +40,12 @@
 "href": "https://www.reichardforrep.com/issues"
 },
 {
-"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
-"href": "https://www.reichardforrep.com/volunteer"
-},
-{
 "text": "Meet Chris",
 "href": "https://www.reichardforrep.com/meet_chris"
 },
 {
-"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
-"href": "https://www.reichardforrep.com/vote"
-},
-{
 "text": "News",
 "href": "https://www.reichardforrep.com/news"
-},
-{
-"text": "Other",
-"href": "https://www.reichardforrep.com/contribute"
 },
 {
 "text": "Photos",

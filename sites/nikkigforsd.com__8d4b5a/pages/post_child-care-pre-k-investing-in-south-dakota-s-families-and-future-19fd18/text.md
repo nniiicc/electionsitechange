@@ -27,6 +27,5 @@ Any approach to pre-K should give parents choices and strengthen, rather than un
 As someone who believes that the government should be accountable to the people it serves, I believe the best solutions will come from listening to South Dakota families and communities, reducing unnecessary barriers, and making sure resources are used effectively.
 Child care and pre-K aren't just investments in our children.
 They are investments in South Dakota's families and future workforce.
-Recent Posts See All Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat U.S.
-House Democratic Party Candidate sets economic priorities focused on affordability Contact Us Nikki G for SD P.O.
+Recent Posts See All South Dakota’s Democratic nominee for US House makes her case to voters Nikki Gronli sits down for an interview with Brian Allen Jackley, Gronli make case for open house seat Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

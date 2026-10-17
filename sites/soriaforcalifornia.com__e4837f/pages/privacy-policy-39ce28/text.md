@@ -30,7 +30,7 @@ You may receive an additional mobile message confirming your decision to opt out
 You understand and agree that the foregoing options are the only reasonable and exclusive methods of opting out.
 You also understand and agree that any other method of opting out, including but not limited to texting words or phrases other than those set forth above or verbally requesting to be removed from our list, is not a reasonable means of opting out.
 You may be subscribed to multiple Programs across different Short Codes or regular long code phone numbers, and therefore you must separately text or reply STOP to each Short Code or long code phone number from which you wish to unsubscribe.
-SUPPORT For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code, or email us at [support email].
+SUPPORT For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code, or email us at [email protected] .
 Please note that using this email address or texting “HELP” to the Program’s Short Code or long code is not an acceptable method of opting out of the Program.
 Opt-outs must be submitted in accordance with the procedures set forth above.
 PRIVACY EXCEPT AS OUTLINED IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.

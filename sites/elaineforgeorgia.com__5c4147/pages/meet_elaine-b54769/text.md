@@ -19,4 +19,4 @@ Through Optimist International I serve our local children through programs and a
 I am excited for the chance to serve Georgia House District 25!
 Together, we can keep our communities safe, help small businesses to start and flourish, and restore a woman’s right to make her own healthcare decisions with her family and her doctor, not politicians.
 Home Endorsements Voter Information Donate Contact Privacy Policy Friends of Elaine Padgett, Inc.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu
+Powered by CampaignPartner.com Home Meet Elaine Priorities Donate Endorsements Contact Voter Information District Map Close Menu

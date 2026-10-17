@@ -13,6 +13,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=107+north+4th+street+coeur+d%27alene%2C+idaho%2C+83814+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1138+east+poleline+avenue+post+falls%2C+idaho%2C+83854+united+states"
 },
 {
@@ -34,6 +38,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=1700+west+university+drive+boise%2C+idaho%2C+83725+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=190+west+hayden+avenue+hayden%2C+idaho%2C+83835+united+states"
 },
 {
 "text": "(map)",
@@ -62,10 +70,6 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=318+east+main+street+grangeville%2C+idaho%2C+83530+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=411+north+15th+street+coeur+d%27alene%2C+idaho%2C+83814+united+states"
 },
 {
 "text": "(map)",
@@ -209,10 +213,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Independent+Candidate+Forum+-+Coeur+d%27Alene&dates=20260910T220000Z%2F20260911T000000Z&location=411+North+15th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair++-+Moscow&dates=20260917T190000Z%2F20260918T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
 },
 {
@@ -261,10 +261,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260909T220000Z%2F20260910T000000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260916T220000Z%2F20260916T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
 },
 {
@@ -297,7 +293,15 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Coer+d%27Alene&dates=20261019T223000Z%2F20261020T003000Z&location=107+North+4th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Coeur+d%27Alene&dates=20261018T150000Z%2F20261018T170000Z&location=1527+Northwest+Boulevard%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Hayden&dates=20261018T173000Z%2F20261018T190000Z&location=190+West+Hayden+Avenue%2C+Hayden%2C+Idaho%2C+83835%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -389,10 +393,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg?format=ical"
 },
 {
@@ -465,10 +465,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.achillesforidaho.com/events/street-rallies-hailey?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa?format=ical"
 },
 {
@@ -485,7 +481,15 @@
 },
 {
 "text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-hayden?format=ical"
 },
 {
 "text": "ICS",
@@ -510,10 +514,6 @@
 {
 "text": "ICS",
 "href": "https://www.achillesforidaho.com/events/todd-event-voter-information-forum-rexburg?format=ical"
-},
-{
-"text": "Independent Candidate Forum - Coeur d'Alene",
-"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
 },
 {
 "text": "Inicio",
@@ -601,10 +601,6 @@
 },
 {
 "text": "Street Rallies - Hailey",
-"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
-},
-{
-"text": "Street Rallies - Hailey",
 "href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2"
 },
 {
@@ -636,8 +632,16 @@
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
 },
 {
+"text": "Todd Event - Meet & Greet - Coer d'Alene",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
+},
+{
 "text": "Todd Event - Meet & Greet - Coeur d'Alene",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "Todd Event - Meet & Greet - Hayden",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-hayden"
 },
 {
 "text": "Todd Event - Meet & Greet - Post Falls",
@@ -701,10 +705,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
-},
-{
-"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow"
 },
 {
@@ -746,10 +746,6 @@
 {
 "text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
-},
-{
-"text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
 },
 {
 "text": "View Event →",
@@ -797,7 +793,15 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
+},
+{
+"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-hayden"
 },
 {
 "text": "View Event →",
@@ -876,10 +880,6 @@
 "href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey"
 },
 {
-"text": "[image: Independent Candidate Forum - Coeur d'Alene]",
-"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
-},
-{
 "text": "[image: Latah County Fair - Moscow ]",
 "href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb"
 },
@@ -925,10 +925,6 @@
 },
 {
 "text": "[image: Street Rallies - Hailey]",
-"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
-},
-{
-"text": "[image: Street Rallies - Hailey]",
 "href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2"
 },
 {
@@ -954,6 +950,10 @@
 {
 "text": "[image: Todd Event - Meet & Greet - Coeur d'Alene]",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Hayden]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-hayden"
 },
 {
 "text": "[image: Todd Event - Meet & Greet - Post Falls]",
@@ -1018,6 +1018,10 @@
 {
 "text": "[no text]",
 "href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
+},
+{
+"text": "[no text]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
 },
 {
 "text": "[no text]",

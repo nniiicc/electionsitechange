@@ -1,4 +1,4 @@
-Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Issues Social Media, AI & Tech Keeping Kids Safe and Holding Platforms Accountable Predatory algorithms are profiting off our outrage.
+Skip to main content Skip to footer Opens in a new tab Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Meet James Why I’m Running Issues Vote Events Volunteer Store Contribute Contribute Issues Social Media, AI & Tech Keeping Kids Safe and Holding Platforms Accountable Predatory algorithms are profiting off our outrage.
 James Talarico will keep kids safe online, give parents more control over their children’s social media, and hold social media companies accountable without limiting free speech.
 Our government has a role to play in ensuring technology makes our lives easier, safer, and more productive.
 America should be the world’s innovation leader — but it shouldn’t come at the cost of our children’s safety, our workers’ livelihoods, or the reliability of the news we consume.

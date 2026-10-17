@@ -1,4 +1,4 @@
-Skip to content Home About Issues Education Traffic Relief Human Rights Criminal Justice Reform Innovation Election Integrity Environment Working Families Bipartisanship Tax & Budget Reform Healthcare Opioid Crisis Volunteer Contact Donate Home About Issues Education Traffic Relief Human Rights Criminal Justice Reform Innovation Election Integrity Environment Working Families Bipartisanship Tax & Budget Reform Healthcare Opioid Crisis Volunteer Contact Donate Join the Campaign!
+Skip to content Home About Issues Education Human Rights Criminal Justice Reform Innovation & Data Centers Election Integrity Traffic Relief Environment Working Families Bipartisanship Tax & Budget Reform Healthcare Opioid Crisis Volunteer Contact Donate Home About Issues Education Human Rights Criminal Justice Reform Innovation & Data Centers Election Integrity Traffic Relief Environment Working Families Bipartisanship Tax & Budget Reform Healthcare Opioid Crisis Volunteer Contact Donate Join the Campaign!
 I would like a yard sign.
 I will go door to door in my neighborhood.
 I will help at campaign events.
@@ -9,4 +9,4 @@ I will go door to door in my neighborhood.
 I will help at campaign events.
 I would like to make phone calls.
 I would like to make a donation.
-Senator Ed Setzler for Senate District 37 edsetzler@gmail.com (404) 630-8452 Twitter Facebook Privacy Policy © Ed Setzler for State Senate Committee #, All Rights Reserved
+Senator Ed Setzler for Senate District 37 edsetzler@gmail.com (404) 630-8452 Twitter Facebook-f Privacy Policy © Ed Setzler for State Senate Committee #, All Rights Reserved

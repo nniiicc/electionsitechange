@@ -23,4 +23,4 @@ Public safety and privacy aren’t opposites.
 We can protect both. → See the full record on Promises Made & Kept . 🌟 Back to Issues _____________________________________________________________________________________________________________________________ 📣 How You can Help Volunteer to Support Safe Communities— knock on doors, make calls, join the team.
 S ign Up Contribute —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote Next: 🌾Strengthen Agriculture » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote Next: 🌾Strengthen Agriculture » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

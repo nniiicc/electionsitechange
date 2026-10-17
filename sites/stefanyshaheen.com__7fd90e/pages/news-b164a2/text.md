@@ -1,4 +1,19 @@
-Menu Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate News & Updates News & Updates Show All In the News Press Releases Download Media Assets September 3, 2026 Press Releases 80+ New Hampshire Veterans Announce Support for Stefany Shaheen Manchester, N.H. – Highlighting her commitment to improving health care and support for veterans and their families, more than 80 New Hampshire Veterans are announcing their endorsement of Stefany Shaheen in New Hampshire’s first congressional district Democratic primary.
+Menu Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate News & Updates News & Updates Show All In the News Press Releases Download Media Assets October 9, 2026 In the News Stefany Shaheen condemns GOP-led Congress as 'rubber stamp' for Trump Congressional candidate Stefany Shaheen condemned “rubber stamp” U.S. lawmakers Oct.
+8 and blasted President Donald Trump’s increased personal wealth since taking his second oath of office last year. […] A voter in the Portsmouth Rotary Club questioned Trump’s income and how members of Congress can potentially intervene.
+Analyses of the president’s 2025 financial disclosure filing with the U.S.
+Office of Government Ethics found that he reported at least $2.2 billion in income during the year.
+“We have to pass laws that allow for criminal penalties when laws are violated, no matter who violates them, especially in the case of this personal profiteering,” Shaheen said.
+“I mean, I find it especially egregious the combination of the personal profiteering $2 billion on top of the tax breaks for billionaires, when Americans can’t afford to fill their home heating oil tanks this winter and they’re losing their health care.
+These are just the wrong priorities.” Read More October 12, 2026 In the News Jeffries calls New Hampshire seat key to House control U.S.
+House Minority Leader Hakeem Jeffries, who could soon become the next House speaker, campaigned Monday night with First Congressional District Democratic nominee Stefany Shaheen in her hometown of Portsmouth […] “This is an incredibly important seat, critical to taking back the majority in the House,” Jeffries said in remarks with Shaheen at the Portsmouth field office before a roomful of party activists.
+“We cannot achieve addition through subtraction.
+This is one of the closest open-seat races in the country.” Shaheen agreed that the Democrats holding onto the seat was essential.
+“We know the path to a Democratic majority in the House runs right through New Hampshire,” Shaheen said.
+Jeffries told reporters that Shaheen is a “principled public servant” who deserves to replace the four-term Democrat Pappas, who is running for the U.S.
+Senate.
+Read More October 14, 2026 In the News My Trump bribe goes to Shaheen!
+Just received my $90 midterms bribe — er, “Medicare Improvement Fund Payment” — from Trump.
+I thought he’d like to know that I immediately gave it to Stefany Shaheen, Democratic candidate for Congress in New Hampshire’s 1st District. — Jack Cheevers, East Hampstead Read More September 3, 2026 In the News 80+ New Hampshire Veterans Announce Support for Stefany Shaheen Manchester, N.H. – Highlighting her commitment to improving health care and support for veterans and their families, more than 80 New Hampshire Veterans are announcing their endorsement of Stefany Shaheen in New Hampshire’s first congressional district Democratic primary.
 These men and women answered a call to serve and deserve an equal commitment from the American people for their service.
 In Congress, Stefany will fight to get veterans quality health care close to home.
 “The Trump Administration cut veterans’ health care – laying off thousands of employees at the Department of Veterans Affairs – while spending billions of dollars on bombs, a ballroom and tax breaks for billionaires.

@@ -11,4 +11,4 @@ Food, fun, and a whole lot of momentum.
 Bring your family, bring your friends, bring your neighbors.
 Let's finish strong!
 More info › CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
-News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -12,4 +12,4 @@ It is time for disciplined leadership that prioritizes taxpayers, protects our c
 “We will listen.
 We will lead with integrity.
 And we will put District 38 first.” Eric Helvy invites residents, volunteers, and supporters to join the movement for accountable leadership and common-sense solutions.
-For more information, to volunteer, or to contribute, visit: www.helvyforgeorgia.com Media inquiries may be directed to: Press@helvyforgeorgia.com Voter Information Endorsements Yard Signs Events Photos Contact The Committee to Elect Eric Helvy Powered by CampaignPartner.com - Political Campaign Websites Home Meet Eric Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+For more information, to volunteer, or to contribute, visit: www.helvyforgeorgia.com Media inquiries may be directed to: Press@helvyforgeorgia.com Voter Information Endorsements Yard Signs Events Photos Contact The Committee to Elect Eric Helvy Powered by CampaignPartner.com Home Meet Eric Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

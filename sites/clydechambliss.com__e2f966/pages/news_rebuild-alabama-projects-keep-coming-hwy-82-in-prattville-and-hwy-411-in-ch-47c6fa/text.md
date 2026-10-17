@@ -17,4 +17,4 @@ Industry is a backbone of our economic engine, and I am pleased that Governor Iv
 Will Dismukes (R-Prattville), who represents this project’s district in the House, voted against the Rebuild Alabama Act.
 A freshman legislator, he is currently considering a run for the U.S.
 Senate, as reported by Yellowhammer Podcast Network’s “The Insider.” Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

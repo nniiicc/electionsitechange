@@ -56,4 +56,4 @@ At Forward, we are expected to admit them and work to rectify any harm we have c
 Learn more at ForwardParty.com Loading… Not Left.
 Not Right.
 FORWARD.
-Powered by w3.css ©# Paid for by the Forward Party of Utah
+Powered by w3.css ©# Paid for by the Forward Party of Utah Privacy Policy

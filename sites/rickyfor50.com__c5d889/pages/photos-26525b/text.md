@@ -15,4 +15,4 @@ Washington DC February 22, 2026 Workinging in our nation's Capitol to push legis
 Veterans Week February 22, 2026 Visit to Washington DC on Veterans Week to advocate for Veterans Rights.
 ICE Out Lakeland February 21, 2026 January 20, 2026 Sign Waving and walk out in front of Scott's Franklin's South Florida office.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

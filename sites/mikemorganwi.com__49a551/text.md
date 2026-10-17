@@ -11,6 +11,7 @@ We need strong investments in the classroom and accountability to ensure student
 Learn more about my education plan here .
 Let's protect citizens and especially children by holding criminals accountable for their actions.
 We must give law enforcement, fire, and EMS the proper levels of support to keep us safe.
+Learn more about my public safety plan here .
 Lower Taxes I will work to provide real affordability, especially property tax relief, to ensure you keep more of your hard-earned money.
 We must hold state government, municipalities and school districts more accountable for their spending and governance.
 Where I Stand: Strong Schools Safe Communities See my Facebook page for more details on issues and more.

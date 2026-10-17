@@ -24,4 +24,4 @@ Griffin Mathis I am Dr.
 Sharon Waddle, Coordinatorvif Preserving Diversity in America and I endorse Jessie Barcala because he stands firm for democracy and has great family values and leadership skills with integrity, justice and concern for all people.
 Sharon Waddle Psychologist/Preserving Diversity in America Lorrie Grinder Barbara Hicks Click here to add your endorsement Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

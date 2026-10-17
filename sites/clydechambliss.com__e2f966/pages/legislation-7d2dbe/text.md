@@ -44,4 +44,4 @@ No 2019-446) Municipal election registration - requires voters to register for m
 2015-157) Qualification revisions for certified public accountants - (SB118) (Act No.
 2015-163) Get Updates Thank you for signing up!
 Paid for By Clyde Chambliss Jr.
-PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

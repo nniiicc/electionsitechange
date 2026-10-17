@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.voteroneller.com/vote",
- "fingerprint": "8f1057214b1f622fbdc5b67ca7884b7aecb3cefa",
+ "fingerprint": "19f74c6a0957dce761f807b4076eebed2f9fc8a8",
  "format": 3,
  "paid_for_by": "Paid for by Ron Eller for Congress Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

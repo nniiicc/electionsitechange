@@ -21,5 +21,5 @@ Mental Health: Recognizing the critical need for well-supported, community-based
 Financial Stewardship: Believing that expertise in institutional management is necessary to manage state budgets responsibly and stay within our means.
 Degree Field/Focus Institution Year Doctorate of Education (Ed.D.) School Leadership East Tennessee State University (ETSU) 2004 Educational Specialist (Ed.S.) Administration & Supervision Lincoln Memorial University (LMU) 1997 Masters of Education (M.
 Ed) Administration & Supervision Lincoln Memorial University (LMU) 1996 Bachelor of Science (B.S.) Math & Science Education University of Tennessee-Knoxville (UTK) 1986 Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
-Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
+Vick for governor Powered by CampaignPartner.com Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

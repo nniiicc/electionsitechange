@@ -1,4 +1,5 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News Kansas City Star • October 15, 2026 Fourteen emails in 4 months: Records show Masterson’s work at alleged ‘no-show job’ State Sen.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 1 of 2 ← Back to News Kansas Reflector • October 16, 2026 Policy wins of GOP candidate for Kansas governor trace to national conservative network Holscher said in a statement that Masterson “spent years climbing the ranks of an insider group where corporate lobbyists sit side-by-side with pay-to-play politicians to write the laws they want passed." She likened the playbook to Brownback’s and linked the corporate donors behind ALEC to Masterson’s “no-show job” at Wichita State.
+Kansas City Star • October 15, 2026 Fourteen emails in 4 months: Records show Masterson’s work at alleged ‘no-show job’ State Sen.
 Cindy Holscher of Overland Park, the Democratic nominee for governor, said Masterson’s WSU employment arrangement represents “pay-to-play politics at its worst, with wealthy special interests handing the most powerful man in the Legislature a paycheck that only keeps growing, for a fake job with no responsibilities.” The New Republic • October 14, 2026 'Demonic Stuff': Kansas GOP Accuses Democrat of Being a Witch The state senator had seemingly drawn his conclusions from a series of playful TikTok videos posted by Holscher’s 20-year-old daughter, Maddie, who had shared clips of her and her mom brushing their teeth set to a song from the Wicked soundtrack.
 KCUR/NPR • October 13, 2026 In race for Kansas governor, Masterson and Holscher focus on taxes and education funding Holscher is emphasizing public education and other populist policies she argues have broad support among Kansans.
 That also includes recreational marijuana legalization and a focus on cutting property taxes.
@@ -14,10 +15,6 @@ Sunflower State Journal • September 9, 2026 Holscher introduces new general el
 HOLSCHER: So, what we’ve seen, too, is, again, this affordability crisis.
 As Kansas was looking at these issues and the Legislature was seeing what was going on, their response has been continued giveaways to billionaires and corporations, which leaves regular people behind.
 And so, when you hear people say, “The system’s being rigged against us,” yes, because, again, we’ve seen this just replaying of big giveaways, tax breaks for the wealthy, and, again, leaving regular folks behind.
-New York Magazine • September 8, 2026 A Democratic Blue Wave Could Hit Governors' Races, Too Holscher has positioned herself on an issue that’s sweeping the heartland, proposing a moratorium on data centers (Masterson has been a data-center booster).
-She also opposed an increasingly unpopular sweetheart stadium deal for the Kansas City Chiefs, which Kelly had backed.
-Holscher may be stronger than she originally looked.
-Her base, conveniently, is in the rapidly growing and Democratic-trending suburb of Johnson County.
 1 2 Older → Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.

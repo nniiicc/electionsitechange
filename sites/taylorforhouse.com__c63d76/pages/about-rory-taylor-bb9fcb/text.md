@@ -1,4 +1,4 @@
-Home About Issues Press Get Involved DONATE About Rory Taylor – Candidate for House District 22 Background : My name is Rory Taylor, and I am a candidate running for House District 22.
+Skip to content Home About Issues Press Get Involved DONATE About Rory Taylor – Candidate for House District 22 Background : My name is Rory Taylor, and I am a candidate running for House District 22.
 I was raised in Bevington, Iowa, and attended Martensdale-St.
 Mary’s Community Schools.
 After that, I went to Des Moines Area Community College for two years, earning an Associate of Arts Degree.

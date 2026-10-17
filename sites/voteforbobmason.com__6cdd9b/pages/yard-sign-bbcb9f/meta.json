@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://voteforbobmason.com/yard-sign",
- "fingerprint": "34ce37d82d75079c177ef4ea0fab151482e92ef5",
+ "fingerprint": "7bd6845f9708e88acccb5bd5d2a62ced5a932bf8",
  "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

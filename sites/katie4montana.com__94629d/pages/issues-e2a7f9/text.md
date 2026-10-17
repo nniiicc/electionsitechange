@@ -1,4 +1,4 @@
-Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote More Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Donate Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Donate My Priorities Affordability Limited Government Limited Government Montana deserves lower property taxes and a more affordable cost of living.
+Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements More Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements Donate Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements Donate My Priorities Affordability Limited Government Limited Government Montana deserves lower property taxes and a more affordable cost of living.
 I hope to deliver real, long-lasting relief by cutting back on unnecessary government spending.
 Additionally, I believe we should streamline costly, time-consuming, and often unnecessary regulations across various industries.
 This will help save time and money while promoting greater transparency and government accountability.

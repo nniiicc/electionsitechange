@@ -1,59 +1,56 @@
-Skip to content ShepardForNH Scott Shepard for State Representative Menu Home About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Volunteer Contact Donate Issues Practical priorities for Barrington, Strafford, and New Hampshire.
-Scott’s campaign begins with a practical question: What future are we building?
-New Hampshire’s challenges are connected.
-Schools, housing, childcare, workforce development, local control, state budgeting, and property taxes cannot be solved through slogans or isolated bills.
-My approach is guided by facts, strategy, and real solutions : using facts and data, defining problems clearly, understanding tradeoffs, stress-testing budgets, demanding fiscal accountability, and building the capacity to solve system-level problems.
-Strategic and Accountable Government Scott believes government should be measured by whether it can solve problems, not by how many bills it passes or how many headlines it generates.
-New Hampshire’s biggest challenges are system-level issues.
-Housing affects workforce.
-Childcare affects families and employers.
-School funding affects property taxes.
-State budget choices affect local communities.
-That means state government needs a more strategic, data-informed approach.
-Scott supports serious policy analysis, fiscal responsibility, measurable outcomes, transparency, long-term planning, and implementation discipline.
-New Hampshire needs less political theater and more problem-solving.
-Fiscal Responsibility and State Budgeting New Hampshire needs a state budget built for reality, not wishful thinking.
-That means stress-testing assumptions, planning for downturns, and being honest about long-term risks.
-Scott believes fiscal responsibility requires more than claiming state-level savings.
-It requires clear state-local accountability and a willingness to examine how decisions in Concord affect towns, schools, counties, and local taxpayers.
-When the state saves money by forcing local communities to pay more, that is not tax relief.
-It is simply moving the bill.
-Taxpayers deserve honesty about who pays and what consequences follow.
-Strong Public Schools and a Strategic Future New Hampshire’s public schools are among our state’s most important institutions, but they face significant challenges that require honest conversation and long-term planning.
-In many communities, the school-age population is shrinking while costs continue to rise.
-Schools face pressure from special education needs, staffing challenges, facility costs, transportation, fixed operations, chronic absenteeism, and changing demographics.
-At the same time, parents and taxpayers rightly expect strong academic outcomes and responsible use of public resources.
-Scott believes we need to move beyond the false choice between simply defending schools and simply cutting budgets.
-New Hampshire needs a strategic conversation about the future of public education — one that supports students and teachers while also addressing enrollment trends, academic performance, cost pressures, and long-term sustainability.
-A Strategic Path for Public Schools Scott’s school strategy work starts from a simple concern: if school districts and education leaders do not explain their challenges and propose practical long-term strategies, others will define the future for them.
-Academic performance matters.
-New Hampshire should continuously look for ways to improve student outcomes, particularly in literacy, mathematics, attendance, and readiness for life after high school.
-Strong schools require both investment and accountability.
-Demographic change must be planned for.
-Declining enrollment does not automatically reduce costs because many major expenses — buildings, transportation, specialized services, staffing, and operations — do not shrink quickly or evenly.
-Communities need facts and long-term planning, not annual budget battles built on incomplete information.
-Long-term sustainability requires collaboration.
-Local and state leaders should work together on realistic strategies: regional cooperation where it makes sense, shared services, careful administrative efficiencies, enrollment and facilities planning, stronger early learning connections, and better public communication about what schools can control and what they cannot.
-Scott believes New Hampshire can maintain strong public schools, improve academic outcomes, and manage costs responsibly.
-Doing so will require facts, strategy, and a willingness to address difficult issues before they become crises.
-Housing, Workforce, and Affordability New Hampshire cannot build a strong future if young families, workers, teachers, first responders, healthcare workers, and small business employees cannot afford to live here.
-Housing affordability affects nearly every other issue: school enrollment, workforce shortages, local tax bases, economic growth, and whether our children can stay in the communities where they grew up.
-Scott supports expanding attainable housing options, strengthening local planning tools, and connecting housing policy to workforce development, childcare, schools, property taxes, and community vitality.
-Workforce Development and Higher Education New Hampshire’s economy depends on people: skilled workers, small business owners, educators, healthcare workers, tradespeople, entrepreneurs, and young adults who can see a future here.
-Scott believes New Hampshire should treat education and workforce development as economic infrastructure — connected to housing, childcare, transportation, and the cost of living.
-That means building stronger connections between schools, colleges, employers, and career pathways, while helping young people stay in New Hampshire.
-Childcare and Early Learning Childcare and early learning are both family issues and economic issues.
-When parents cannot find or afford reliable care, they struggle to stay in the workforce.
-When children arrive at school without early support, schools are asked to solve problems that began years earlier.
-Scott supports practical strategies to expand childcare access, support working families, strengthen the early childhood workforce, and help children arrive at school ready to learn.
-Local Control and Community Capacity New Hampshire values local control.
-But local control only works when communities have the capacity, resources, and flexibility to solve problems.
-Too often, state government praises local control while limiting local options, shifting costs downward, or passing laws without funding implementation.
-That is not real local control.
-It is state avoidance.
-Barrington and Strafford deserve a representative who understands how state decisions show up in local budgets, local schools, local planning, and local tax bills.
-ShepardForNH Scott Shepard is running for NH State Representative in Strafford County District 4, representing Barrington and Strafford.
+Skip to content SHEPARD FOR NH Scott Shepard · State Representative Menu ☰ Home About Scott Issues NH Insights Events Volunteer Contact Donate Issues and priorities Do the work.
+Measure the results.
+Practical priorities for Barrington, Strafford, and New Hampshire.
+New Hampshire’s affordability, education, and fiscal challenges are connected.
+A solution that looks good in one budget can still shift costs to schools, towns, or families.
+I want state policy to begin with sound information, honest tradeoffs, and a clear plan for implementation — followed by measurable results.
+Choose an issue What would you like to explore?
+Budgets & property taxes Public schools Housing & infrastructure Workforce & childcare Local control & accountability 01 / FISCAL STEWARDSHIP Protect taxpayers from state cost shifts.
+A state budget is not responsible if it balances by pushing costs onto towns, schools, and local property taxpayers.
+New Hampshire needs to examine how state tax decisions interact with local bills — and prepare for the next recession before it arrives.
+Short-term savings should be judged against their long-term consequences.
+What I’d focus on Stress-test state budgets and revenue assumptions against plausible downturns.
+Evaluate reserve adequacy and establish credible contingency plans.
+Make state-to-local cost shifts visible and examine alternatives before they occur.
+Explain tax-policy tradeoffs rather than promising savings without identifying who pays.
+Read my state finance analysis → 02 / EDUCATION Strengthen public schools and student outcomes.
+Students need great schools.
+Taxpayers deserve accountability.
+Schools and state leaders should work together on both.
+Declining enrollment does not automatically translate into equivalent cost savings; transportation, specialized services, buildings, and other fixed costs take time to adjust.
+We need a constructive strategy that puts student learning at the center.
+What I’d focus on Improve literacy, math, attendance, and preparation for life after graduation.
+Make school spending and outcomes easier for parents and taxpayers to compare.
+Plan for enrollment changes, facilities, and special education costs.
+Explore shared services and regional cooperation where the evidence supports them.
+Read “From Defense to Strategy” ↗ 03 / HOUSING Make attainable housing possible.
+Housing costs shape whether young people stay, employers can hire, and communities can sustain essential services.
+Housing and infrastructure need to be planned together.
+Local leaders need practical tools to guide growth in ways that respect community character while creating more options for working families, seniors, and younger residents.
+What I’d focus on Support locally driven zoning and housing solutions that add choices.
+Help communities address the infrastructure needs that make growth possible.
+Connect housing planning to local fiscal conditions and workforce needs.
+Evaluate long-term impacts rather than making decisions one project at a time.
+04 / ECONOMIC OPPORTUNITY Connect education, childcare, and careers.
+New Hampshire’s future depends on people being able to work, raise families, build careers, and stay here.
+Schools, colleges, employers, training programs, childcare providers, and housing policy are parts of the same economic system.
+Working on them together can create clearer pathways from education into opportunity.
+What I’d focus on Expand high-school and college-to-career connections aligned with local jobs.
+Strengthen partnerships among employers, schools, colleges, and training programs.
+Address childcare capacity and workforce barriers that keep parents out of work.
+Measure whether investments improve the ability to live and work in New Hampshire.
+05 / ACCOUNTABILITY Make local control real.
+Towns need both the authority and the practical capacity to solve problems.
+I believe government should be limited where it should be, capable where it must be, and accountable everywhere.
+That requires thoughtful state-local partnerships and transparent measures of performance — not unfunded mandates or one-size-fits-all rules.
+What I’d focus on Examine the local consequences of state legislation before adoption.
+Support long-range capital and infrastructure planning.
+Set clear objectives for major programs and report on results.
+Find common ground on problems that do not fit neatly into party labels.
+Dig deeper Interested in the analysis behind these positions?
+Read NH Insights for context, assumptions, and longer explanations of New Hampshire’s policy choices.
+Read NH Insights → Ask Scott a question SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
 Facts.
 Strategy.
 Real Solutions.
-Get Involved Volunteer Donate Events Contact Campaign Announcement Follow NH Insights on Substack Facebook Spotify NH Insights on Apple Podcasts Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.

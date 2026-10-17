@@ -1,6 +1,5 @@
-0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate What I’m Fighting For Government should serve the people of Idaho, uphold constitutional principles, and address the challenges facing families and communities across our state.
-The issues we face are not impossible to solve.
-But they require leaders willing to listen, engage, and do the work Affordability Across Idaho, families are questioning whether they can continue to afford to live here, facing rising costs for groceries, wages, housing, and raising a family in the place they love.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Priorities Government should serve the people of Idaho, uphold constitutional principles, and address the challenges facing families and communities across our state.
+Affordability Across Idaho, families are questioning whether they can continue to afford to live here, facing rising costs for groceries, wages, housing, and raising a family in the place they love.
 Idahoans didn’t create the affordability crisis, and they deserve a governor focused on fixing it.
 Our governor boasts that Idaho is the least regulated state in America.
 How can this be true when we have the highest grocery tax in the country?
@@ -45,6 +44,8 @@ Data centers consume large amounts of power and water, and their noise pollution
 Idaho families deserve to trust that any data centers built in our state will not take away from the people who live there.
 Companies who want to build here should have to prove that the resources are available, that communities will not be negatively impacted, and that the construction makes sense for Idahoans, not just for billion-dollar companies and their shareholders.
 Future growth should serve Idahoans, and if it doesn’t, it should go elsewhere.
+This sentiment also applies to the ongoing talks about storing nuclear waste in Idaho.
+Read more about this issue here .
 Strong Communities Strong communities don't happen by accident.
 They are built by families, local leaders, small businesses, educators, and neighbors who care deeply about where they live.
 Government should support those efforts - not stand in their way.

@@ -55,4 +55,4 @@ CONTACT US If you have questions or comments about this notice, you may email us
 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it.
 To request to review, update, or delete your personal information, you may email us at matt@mattrobyforsd.com.
-Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Privacy Policy Terms and Conditions Paid for by Friends of Matt Roby Powered by CampaignPartner.com Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

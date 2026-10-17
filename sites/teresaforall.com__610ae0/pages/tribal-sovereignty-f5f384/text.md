@@ -4,4 +4,4 @@ In Congress, I serve as the top Democrat on the Indian Affairs Subcommittee and 
 But much more work needs to be done and we need to continue to fully invest in the Bureau of Indian Affairs (BIA), Bureau of Indian Education (BIE), Indian Health Service (IHS), and other key programs to provide infrastructure in Indian Country.
 I will also continue to support Tribes and Pueblos to compact and contract IHS and other programs.
 I am leading the fight in Congress to protect historic and sacred sites and to return stolen sacred items to their rightful Tribal owners.
-PAID FOR BY TERESA FOR ALL bottom of page
+PAID FOR BY TERESA FOR ALL Privacy policy bottom of page

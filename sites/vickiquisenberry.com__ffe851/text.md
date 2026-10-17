@@ -5,4 +5,4 @@ As with any successful venture, we need quality people to volunteer, share creat
 We are looking forward to working with you.
 With gratitude for your interest, Vicki Q Website paid for by Campaign Fund of Vicki Quisenberry Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 $1500 $2200 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 VOLUNTEER CONTRIBUTE Get Updates Thank you for signing up!
-Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com - Political Websites Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu
+Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

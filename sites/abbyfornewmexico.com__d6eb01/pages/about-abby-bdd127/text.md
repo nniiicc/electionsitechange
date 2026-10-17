@@ -1,4 +1,4 @@
-0 Skip to Content About Abby Issues Candidate Comparison Endorsements Volunteer Contribute Open Menu Close Menu About Abby Issues Candidate Comparison Endorsements Volunteer Contribute Open Menu Close Menu About Abby Issues Candidate Comparison Endorsements Volunteer Contribute About Abby Abby Foster is a mother of two raising her children in District 27.
+0 Skip to Content About Abby Issues Opponent Info Endorsements Voting Volunteer Contribute Open Menu Close Menu About Abby Issues Opponent Info Endorsements Voting Volunteer Contribute Open Menu Close Menu About Abby Issues Opponent Info Endorsements Voting Volunteer Contribute About Abby Abby Foster is a mother of two raising her children in District 27.
 She has spent years in the NE Heights helping turn out voters, supporting Democratic candidates and causes, and staying active in our community.
 She serves as a Ward Chair for the Democratic Party of Bernalillo County and graduated from Emerge New Mexico, which trains Democratic women to run for office and lead.
 Abby first became active in politics protesting for women’s rights in 2004.

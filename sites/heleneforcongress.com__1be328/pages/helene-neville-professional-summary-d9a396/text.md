@@ -38,4 +38,4 @@ I know how to make it work for people.
 In Congress, I will do exactly that.
 People don’t need more noise from Washington.
 They need genuine representation—leaders who understand how policy lands not on paper but in real kitchens, bank accounts, and bodies.
-What I bring to this race is lived leadership." Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+What I bring to this race is lived leadership." Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

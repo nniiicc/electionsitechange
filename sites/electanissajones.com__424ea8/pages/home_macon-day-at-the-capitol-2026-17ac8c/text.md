@@ -4,4 +4,4 @@ The presence of Macon leaders reinforced a core truth: meaningful progress happe
 Looking Ahead As the session moves forward, attention will continue to focus on: Budget negotiations Healthcare access Education funding Energy and utility regulation Public safety policy Representative Jones remains committed to delivering practical solutions, maintaining transparency, and ensuring that House District 143 continues to have a strong and effective voice under the Gold Dome.
 If you have questions about these bills or any issue affecting House District 143, please do not hesitate to contact my office.
 It is an honor to serve you at the Capitol.
-Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

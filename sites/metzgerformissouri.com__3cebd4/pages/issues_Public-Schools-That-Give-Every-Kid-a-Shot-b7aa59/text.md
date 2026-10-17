@@ -4,4 +4,4 @@ What I’ll fight for: Fully fund the public school formula — not just on pape
 Keep public dollars in public schools.
 Pay teachers competitively so we stop losing them to other states.
 Strong career and technical education that opens up real paths for kids who aren’t headed to a four-year college. « Previous: A Paycheck That Goes Far Enough Next: Serve All Missourians.
-Respect the Voters. » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Respect the Voters. » Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

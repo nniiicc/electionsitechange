@@ -28,6 +28,10 @@
 "href": "https://shepardfornh.com/contact"
 },
 {
+"text": "Contact the campaign",
+"href": "https://shepardfornh.com/contact"
+},
+{
 "text": "Donate",
 "href": "https://shepardfornh.com/donate"
 },
@@ -40,10 +44,6 @@
 "href": "https://shepardfornh.com/events"
 },
 {
-"text": "Facebook",
-"href": "https://www.facebook.com/profile.php?id=61576343832907&NH+Insights="
-},
-{
 "text": "Home",
 "href": "https://shepardfornh.com/"
 },
@@ -52,16 +52,16 @@
 "href": "https://shepardfornh.com/issues"
 },
 {
+"text": "NH Insights",
+"href": "https://shepardfornh.com/nh-insights"
+},
+{
 "text": "NH Insights & Op-Eds",
 "href": "https://shepardfornh.com/nh-insights"
 },
 {
-"text": "NH Insights on Apple Podcasts",
-"href": "https://podcasts.apple.com/us/podcast/nh-insights/id1873093008"
-},
-{
-"text": "NH Insights on Substack",
-"href": "https://substack.com/@nhinsights"
+"text": "NH Insights on Substack ↗",
+"href": "https://nhinsights.substack.com/"
 },
 {
 "text": "Other",
@@ -72,12 +72,8 @@
 "href": "https://shepardfornh.com/privacy"
 },
 {
-"text": "ShepardForNHScott Shepard for State Representative",
+"text": "SHEPARDFORNHScott Shepard · State Representative",
 "href": "https://shepardfornh.com/"
-},
-{
-"text": "Spotify",
-"href": "https://open.spotify.com/show/5yBriJXNan9fCsoC6q0iu8"
 },
 {
 "text": "Volunteer",

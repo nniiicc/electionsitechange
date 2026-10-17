@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Sep 9 2026 PRESS RELEASE Anna Paulina Luna Dodges Leela Gray's Debate Challenge For Immediate Release Date: September 9, 2026 Contact: press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Sep 9 2026 PRESS RELEASE Anna Paulina Luna Dodges Leela Gray's Debate Challenge For Immediate Release Date: September 9, 2026 Contact: press@leelagray.com St.
 Petersburg, FL — On Wednesday, FL-13 Democratic nominee and retired Army Brigadier General Leela Gray released the following statement as Anna Paulina Luna takes the stage at the Republican National Convention in Dallas and continues to dodge her general election debate challenge: “Still no word from Anna Paulina Luna on our debate challenge.
 Apparently Luna has time to boost her own profile at the RNC in Dallas, but cannot be bothered to answer to her constituents here in FL-13 on why she voted to take away their healthcare and make their groceries, gas, and housing more expensive.” Privacy Policy Terms Leela Gray is a former member of the United States Army and Army Reserve.
 Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or Department of Defense.

@@ -16,4 +16,4 @@ He will be ready on day one to pass legislation that help out all Minnesotans!
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Voter Information Endorsements Yard Signs Make An Endorsement Events Contact Prepared and paid for by: Team Ellefson for 65B P.O.
 Box 7181 St.
-Paul, MN 55107 Powered by CampaignPartner.com - Political Websites Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu
+Paul, MN 55107 Powered by CampaignPartner.com Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu

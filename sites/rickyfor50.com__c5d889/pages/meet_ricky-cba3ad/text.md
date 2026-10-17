@@ -70,4 +70,4 @@ Mi vida ha estado definida por el trabajo duro, el servicio y la convicción de 
 Eso es lo que he defendido siempre — y eso es exactamente por lo que lucharé en el Distrito 50.
 COMMUNITY ● INTEGRITY ● PROGRESS FLORIDA HOUSE DISTRICT 50 HELP IS ON THE WAY!
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

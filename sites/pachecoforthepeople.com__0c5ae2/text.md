@@ -12,4 +12,4 @@ Message and data rates may apply.
 Reply HELP for help or STOP to cancel.
 Your mobile information will not be sold or shared with third parties for promotional or marketing purposes.
 Thank you for signing up!
-Countdown to General Election November 3, 2026 November 3, 2026 at 7:00 AM Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+Countdown to General Election November 3, 2026 November 3, 2026 at 7:00 AM Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

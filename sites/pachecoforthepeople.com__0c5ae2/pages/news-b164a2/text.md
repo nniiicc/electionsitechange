@@ -23,4 +23,4 @@ There will be a primary.
 There will be discussion and an exchange of ideas.
 There are multiple candidates.
 I respectfully call on the news outlet to retract the incomplete article, conduct proper due diligence, and repost an accurate version.
-Thank you, Ed Pacheco Democratic Candidate for 9th Bristol District State Representative Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu
+Thank you, Ed Pacheco Democratic Candidate for 9th Bristol District State Representative Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

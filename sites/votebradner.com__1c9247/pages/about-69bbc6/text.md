@@ -1,4 +1,4 @@
-0 Skip to Content Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu Door Hanger Squad About Platform Endorsements Contact Volunteer DONATE NOW meet Rev.
+0 Skip to Content About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW Open Menu Close Menu About Platform Endorsements Contact Volunteer DONATE NOW meet Rev.
 Jonathan Bradner Raised in Northwest Ohio, Jonathan learned the value of hard work early, including one of his first jobs working on a pig farm.
 That experience instilled in him a deep respect for the grit and resilience of small-town communities.
 Before entering full-time ministry, he built a career in the hospitality industry, where he rose into leadership while advocating for fair wages and safer, more equitable workplaces for his coworkers.

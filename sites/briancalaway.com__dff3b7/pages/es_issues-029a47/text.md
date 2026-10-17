@@ -1,4 +1,4 @@
-EN Inicio Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado La plataforma completa de Brian La postura de Brian.
+EN Inicio Guía del votante Eventos Temas Participe Sobre Brian Blog Contacte a Brian Pida un letrero Voluntariado La plataforma completa de Brian La postura de Brian.
 Siete temas.
 Posturas concretas.
 Sin promesas vagas: solo aquello por lo que Brian luchará en Phoenix.
@@ -21,6 +21,6 @@ Brian luchará por las redes de protección y las políticas que den a los habit
 Brian no puede lograrlo sin usted.
 Cada hora de voluntariado y cada dólar nos acercan más a noviembre.
 Participe Únase a la campaña P.O.
-Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
+Box 20226 Mesa Arizona 85277 Pagado por Brian Calaway for Arizona House Enlaces rápidos Sobre Brian Temas Guía del votante Eventos Blog Voluntariado Contacte a Brian Síganos campaign@briancalaway.com © # Brian Calaway for Arizona House.
 Todos los derechos reservados.
 Política de privacidad Términos

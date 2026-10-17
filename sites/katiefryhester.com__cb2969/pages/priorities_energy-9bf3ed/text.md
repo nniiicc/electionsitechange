@@ -1,4 +1,4 @@
-Show Menu About Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Energy As a member of the Education, Energy, and the Environment (EEE) Committee , I have worked to address one of the most pressing challenges for Maryland families: the rising cost of energy.
+Show Menu Meet Katie About District 9 Priorities Services Volunteer Donate Yard Sign Spanish | Korean | Chinese twitter facebook instagram Skip to main content Energy As a member of the Education, Energy, and the Environment (EEE) Committee , I have worked to address one of the most pressing challenges for Maryland families: the rising cost of energy.
 Marylanders deserve reliable, affordable energy systems that are prepared for the future.
 I’ve worked to lower utility bills, strengthen oversight of utility spending, expand clean energy generation, and modernize our electric grid, ensuring Maryland is prepared for emerging challenges like data centers.
 Energy affordability is increasingly shaped by decisions made at PJM, the regional grid operator serving Maryland, DC, and 12 other states.

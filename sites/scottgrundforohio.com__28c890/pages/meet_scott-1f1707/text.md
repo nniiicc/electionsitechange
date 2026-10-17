@@ -9,4 +9,4 @@ First to help run a very remote shelter then, 2 months later,as part of special 
 For two weeks, 8+ hours a day, we met with and LISTENED to so many stories that resulted in us cutting through layers of bureaucracy and obtaining relief financially as well as for mental health issues.
 Photos Contact Yard Signs Voter Information Visit my Substack publication © #.
 All rights reserved.
-Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com - Political Campaign Websites Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu
+Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner.com Home Meet Scott Events Issues Yard Signs Contact Voter Information Close Menu

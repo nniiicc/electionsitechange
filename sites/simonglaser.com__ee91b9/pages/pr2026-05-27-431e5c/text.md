@@ -15,5 +15,5 @@ By focusing on getting relief to the people who really need it, we can create an
 This means more power into the hands of consumers that will then be able to afford more of the goods and services provided by main street.
 In the long run this is better for everyone, with far more winners, and far fewer losers.
 Besides, it was never meant to be a competition in the first place.
-Return to Press Releases DFL-Endorsed Simon Glaser Doubles Down On Delivering Real Change for Rochester Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+Return to Press Releases DFL-Endorsed Simon Glaser Doubles Down On Delivering Real Change for Rochester Join Our Movement Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

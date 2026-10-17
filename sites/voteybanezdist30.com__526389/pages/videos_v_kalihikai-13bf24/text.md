@@ -9,8 +9,8 @@ In Kalihi, we all come from complex backgrounds.
 I believe in second chances, I believe in giving back to the community.
 And I believe in speaking to everyone in it.
 #OurCommunityFirst #Kalihi #VoteYbanez4Kalihi #Hawaii Next Door to Door at Kuhio Park Terrace in Kalihi!
-You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ - Saturday, 7/25/2026 YBANEZ - Walk & Talk | Monday, August 3rd From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Are you registered to vote?
+You Might Also Like YBANEZ - Saturday, 7/25/2026 YBANEZ - Walk & Talk | Monday, August 3rd Moment of Self-Reflection from Amanda Ybanez Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i YBANEZ 4 KALIHI - Support Local!
+Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

@@ -17,4 +17,4 @@ I'm voting for Ron Dunn because I believe he has the necessary strength of chara
 Greg Huttula Ron Dunn is a true leader.
 He stands by his principles and will not waver.
 I don't always agree with Ron on all issues but he is willing to listen and respect my view point.
-Endorsement Friend Click here to add your endorsement Contribute Voter Information Endorsements Events Photos Contact TANK Privacy Policy Committee to Elect Ron Dunn Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement Voter Information Endorsements Privacy Policy Close Menu
+Endorsement Friend Click here to add your endorsement Contribute Voter Information Endorsements Events Photos Contact TANK Privacy Policy Committee to Elect Ron Dunn Powered by CampaignPartner.com Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement Voter Information Endorsements Privacy Policy Close Menu

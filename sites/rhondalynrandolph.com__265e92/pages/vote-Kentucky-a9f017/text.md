@@ -32,4 +32,4 @@ Register.
 Prepare.
 Vote.
 Every vote counts — and every voice matters. ➡️ Register to vote today: https://vrsws.sos.ky.gov/ovrweb Verify your Voter Registration Status Register to Vote Request an Absentee Ballot VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
-News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

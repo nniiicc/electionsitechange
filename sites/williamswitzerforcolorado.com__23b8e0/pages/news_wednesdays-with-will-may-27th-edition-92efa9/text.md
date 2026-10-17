@@ -27,4 +27,4 @@ Ways to participate: (1) Email your name/contact info to: william@williamswitzer
 (2) Register to volunteer on our website: https://www.williamswitzerforcolorado.com/volunteer (3) Show up to our Campaign Kickoff this Saturday!
 We’ll have signup sheets for specific volunteer events and ways you can get involved.
 The invitation with more information is below.
-Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

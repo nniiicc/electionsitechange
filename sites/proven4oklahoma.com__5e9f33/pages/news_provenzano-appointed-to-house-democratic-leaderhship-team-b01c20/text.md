@@ -12,4 +12,4 @@ Melissa Provenzano (D- Tulsa) Democratic Caucus Chair- Rep.
 Trish Ranson (D- Stillwater) Democratic Caucus Vice-Chair/Secretary- Rep.
 John Waldron (D-Tulsa) Democratic Floor Leader- Rep.
 Andy Fugate- (D- Del City) Assistant Democratic Floor Leader- Rep.
-Regina Goodwin (D- Tulsa) Democratic Whip- Mickey Dollens (D- Oklahoma City) Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu
+Regina Goodwin (D- Tulsa) Democratic Whip- Mickey Dollens (D- Oklahoma City) Provenzano for House District 79 2026 Powered by CampaignPartner.com Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

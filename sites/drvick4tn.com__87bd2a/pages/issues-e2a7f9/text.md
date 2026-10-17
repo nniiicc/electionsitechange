@@ -167,5 +167,5 @@ Thousands of Non-Christians attend or work in public schools.
 They need our prayers, but they don't need to lead our prayers.
 So as Chirstians, if we want to put real prayer back in schools, please pray for our schools, pray for the people that work in our schools that don't have a reationship with Christ.
 Allow the prayers of our churches and Christians outside the school enviroment, change the hearts of those in need of Chirst, inside the school enviroment, So in closing, PLEASE, "Put schools back in YOUR prayers!" Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
-Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
+Vick for governor Powered by CampaignPartner.com Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

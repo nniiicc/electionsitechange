@@ -3,7 +3,9 @@ State of the State Home About News Volunteer Donate Contact Family Law News Janu
 Let’s continue to prioritize positive change for students, working families and all Michiganders.
 Share: twitter facebook youtube Post navigation Previous post Introducing the 4 Pillars Project.
 Next post State Rep.
-Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour You May Also Like Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law Family News November 18, 2020 Richfield Early Learning Center Team free food give away Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour You May Also Like Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change.
+Family October 27, 2023 My deepest condolences to the Lewiston community.
+Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

@@ -9,4 +9,4 @@ Over more than three decades, she served in senior leadership roles across the U
 Army, including Deputy Surgeon for Clinical Operations with the Office of the Chief Army Reserve, Director of Reserve Medical Programs at the Department of Defense, and Brigade Commander of the AMEDD Professional Medical Command at Fort Gillem, Georgia.
 Her service earned honors including the Legion of Merit , Defense Meritorious Service Medal , and membership in the Order of Military Medical Merit .
 Voter Information Endorsements Photos Contact DONATIONS Paid for by Committee to Elect Pamela DeLancy for Congress.
-Powered by CampaignPartner.com - Political Campaign Websites DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu
+Powered by CampaignPartner.com DONATIONS Home Meet Pam The Veteran News Volunteer Contact Issues Endorsements Voter Information Close Menu

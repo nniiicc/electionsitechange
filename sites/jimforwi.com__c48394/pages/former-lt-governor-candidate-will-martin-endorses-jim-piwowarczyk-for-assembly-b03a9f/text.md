@@ -16,8 +16,7 @@ Piwowarczyk, who is supporting Donald Trump for president, is a lifelong conserv
 In addition to being a law enforcement officer and sergeant, he is a small business owner and real estate broker who lives in the Town of Erin.
 He was raised in Washington County.
 Wisconsin Right Now is the state’s leading conservative news site.
-Post navigation Previous post: Prev Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly April 18, 2024 Next post: Next Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly May 2, 2024 You May Also Like Posted May 24, 2024 in Endorsements , News , Political Issues , ticker Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows Posted March 18, 2024 in ticker , Endorsements , News Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly April 18, 2024 Next post: Next Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly May 2, 2024 You May Also Like Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

@@ -10,4 +10,4 @@ I became a US citizen in 2007.
 I believe that immigrants should enter the USA legally.
 They should speak English and study the blessing that is our Constitution.
 I do not support open borders or illegal immigration.
-Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu
+Paid for By: Manuel Luschas Powered by CampaignPartner.com Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

@@ -1,6 +1,14 @@
 36 th District Home About Priorities News Voting Get Involved Donate The Latest News & Updates Follow Bryan's latest conversations, local updates, and community posts straight from his social channels.
 Feed refreshes every 8 hours Follow Bryan Mr.
-302 BryanShupeDE · 10/15/2026 Praying for the safety of our Department of Elections employees and the first responders handling this situation.
+302 BryanShupeDE · 10/17/2026 A wonderful night celebrating faith, education, and the next generation at the Funding the Future dinner supporting Dela...
+A wonderful night celebrating faith, education, and the next generation at the Funding the Future dinner supporting Delaware Christian’s new campus!
+Thank you to Nicole Theis with Delaware Family Policy for inviting us to share in this special evening.
+It was encouraging to be su View on Facebook BryanShupeDE · 10/16/2026 Where are Delaware’s capital dollars going?
+According to the Cape Gazette, new state data shows a significant gap in Fis...
+Where are Delaware’s capital dollars going?
+According to the Cape Gazette, new state data shows a significant gap in Fiscal Year 2026 capital funding that could be mapped to specific locations: • New Castle County: $470 per person • Kent County: $186 per person • Sussex County: $ View on Facebook BryanShupeDE · 10/16/2026 Stronger Families: Protecting Parents, Children, and Your Freedoms As a husband and father, strengthening Delaware famil...
+Stronger Families: Protecting Parents, Children, and Your Freedoms As a husband and father, strengthening Delaware families is personal to me.
+My legislative record includes: Parental Rights — HB 319 (2022) I co-sponsored a constitutional amendment recognizing parents’ fundamenta View on Facebook BryanShupeDE · 10/15/2026 Praying for the safety of our Department of Elections employees and the first responders handling this situation.
 The pe...
 Praying for the safety of our Department of Elections employees and the first responders handling this situation.
 The people who administer our elections deserve a safe workplace.
@@ -40,21 +48,8 @@ Tune in to the livestream be View on Facebook BryanShupeDE · 10/13/2026 Next on
 This novel follows a mysterious older man whose quiet ac...
 Next on my reading list for 2026: Theo of Golden by Allen Levi.
 This novel follows a mysterious older man whose quiet acts of generosity change lives in a small Southern town—a story about kindness, connection, and the difference one person can make.
-What are you reading right no View on Facebook BryanShupeDE · 10/13/2026 Getting healthcare shouldn’t mean breaking the bank—or waiting months for an appointment.
-Delaware families deserve affo...
-Getting healthcare shouldn’t mean breaking the bank—or waiting months for an appointment.
-Delaware families deserve affordable care and more options.
-That means opening the door to competition, expanding access, and helping train the healthcare workers we need.
-Here’s what I’ve w View on Facebook BryanShupeDE · 10/12/2026 Healthier families start with what’s on the table!
-Thank you so much to CoastTV for visiting Farmacy Market and talking...
-Healthier families start with what’s on the table!
-Thank you so much to CoastTV for visiting Farmacy Market and talking with our co-owners about why we started the business and our continued mission to create a healthier community.
-Farmacy Market brings together fresh produce, qu View on Facebook BryanShupeDE · 10/12/2026 Help Delaware’s Future Agricultural Leaders Get to Spain!
-Four members of the Delaware FFA State Officer Team—including...
-Help Delaware’s Future Agricultural Leaders Get to Spain!
-Four members of the Delaware FFA State Officer Team—including our own Milford FFA members—are among just 75 state officers selected to participate in an international leadership seminar in Spain!
-This amazing opportunity w View on Facebook Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 17 Days 20 Hours 20 Minutes 13 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+What are you reading right no View on Facebook Together, We Will Save Delaware.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 16 Days 20 Hours 19 Minutes 58 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

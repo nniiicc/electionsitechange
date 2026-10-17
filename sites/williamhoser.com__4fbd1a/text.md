@@ -30,7 +30,7 @@ I understand and share this frustration.
 We are going to build a strong rural Vermont coalition so our voices are heard loud and clear!
 HOSER FOR THE HOUSE 〰️ HOSER FOR THE HOUSE 〰️ HOSER FOR THE HOUSE 〰️ ENDORSEMENTS "William Hoser understands what Vermont needs to grow: good-paying jobs, strong local businesses, and real opportunities for working families.
 He will bring a practical, community-focused approach to economic development in the Vermont House.
-I’m proud to endorse him.” - Vermont Treasurer, Mike Pieciak LETTERS TO THE EDITOR Nancy Richardson Arne Jonynas John Bond PA-C Leslie Thorsen About WILL Photo taken at Will’s childhood home.
+I’m proud to endorse him.” - Vermont Treasurer, Mike Pieciak LETTERS TO THE EDITOR Nancy Richardson Arne Jonynas John Bond PA-C Debra Reynolds Leslie Thorsen About WILL Photo taken at Will’s childhood home.
 Born and raised on a dairy farm.
 Chester resident for 31 years Raised 3 children in Chester Former owner of 2 local small businesses Local practicing PA for over 3 decades First PA elected as Chair of the Vermont Board of Medical practice.
 Testified in the State House on various healthcare issues Public service in state medical regulation ensuring the safety, welfare and protection of the public.

@@ -5,4 +5,4 @@ Voters deserve to know what’s happening at the Statehouse, and Mike will make 
 Key Points: Establish a public tracker for constituent concerns and legislative updates.
 Hold regular town halls and office hours to hear directly from voters.
 Push for ethics reforms to reduce government corruption.
-Ensure taxpayer money is spent responsibly and transparently. « Previous: Workers’ Rights & Strong Unions Next: Voting Rights & Fair Elections » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu
+Ensure taxpayer money is spent responsibly and transparently. « Previous: Workers’ Rights & Strong Unions Next: Voting Rights & Fair Elections » Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

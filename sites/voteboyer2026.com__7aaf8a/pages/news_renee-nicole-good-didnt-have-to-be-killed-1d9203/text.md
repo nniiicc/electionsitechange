@@ -16,4 +16,4 @@ We must protect one another.
 And we must respond by all democratic and judicial means: through the courts, lawful oversight, peaceful civic engagement, and the ballot box.
 District 82 deserves leadership that defends constitutional rights, supports families, and replaces fear with fairness.
 Dr.
-Arthur Boyer, EdD Candidate for State Representative, District 82 (D) Thank you for your donation https://secure.actblue.com/donate/dr--arthur-boyer-1 Voter Information Yard Signs Contact Photos Privacy Policy Vote Boyer 2026 Powered by CampaignPartner.com - Political Websites Home Meet Arthur Boyer On the Issues News Volunteer Contribute Voter Information Yard Signs Contact Photos Privacy Policy Close Menu
+Arthur Boyer, EdD Candidate for State Representative, District 82 (D) Thank you for your donation https://secure.actblue.com/donate/dr--arthur-boyer-1 Voter Information Yard Signs Contact Photos Privacy Policy Vote Boyer 2026 Powered by CampaignPartner.com Home Meet Arthur Boyer On the Issues News Volunteer Contribute Voter Information Yard Signs Contact Photos Privacy Policy Close Menu

@@ -14,5 +14,5 @@ They also save a lot of time when actually marking your ballot, whether for the 
 November 3 is the last day to return a ballot and the mail postmark must be November 3 or earlier.
 Be early, don't wait.
 If you are at the post office on November 3, ask for a manual postmark stamp.
-District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
 Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

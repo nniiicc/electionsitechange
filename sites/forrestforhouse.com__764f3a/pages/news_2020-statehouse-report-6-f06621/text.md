@@ -21,4 +21,4 @@ SC tourism supports one in every 10+ jobs and generates $1.8 billion in state an
 Did you know?
 Did you know you can file a damage claim to SCDOT?
 If your car is damaged because of a pothole or other roadblock that has been reported to SCDOT but has not been fixed you are eligible to file a report. https://www.scdot.org/travel/ pdf/DamageClaimForm.pdf Keep up with the SC House GOP Caucus: https://www.facebook.com/ SCHouseGOP/ https://twitter.com/SCHouseGOP It is my privilege and honor to serve the people of SC House District 39.
-Always feel free to reach out if I could be of service to you. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Always feel free to reach out if I could be of service to you. calforrest@schouse.gov Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

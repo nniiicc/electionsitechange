@@ -14,4 +14,4 @@ Voting is the most important way we do that.
 Read more 14 Jul Friday, 10:05 AM · 2017 Waldron Announces Candidacy for House District 77 John Waldron, Democrat from Tulsa, formally announces his candidacy for the State House of Representatives in House District 77, which covers portions of Tulsa, Catoosa, and Owasso.
 Read more CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
 News Keep Calm and Vote On Waldron Announces Candidacy for House District 77 John Waldron for Oklahoma 2020.
-Powered by CampaignPartner.com - Political Websites HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu
+Powered by CampaignPartner.com HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu

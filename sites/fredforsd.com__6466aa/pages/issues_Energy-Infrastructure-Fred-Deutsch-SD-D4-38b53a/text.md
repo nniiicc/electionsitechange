@@ -25,4 +25,4 @@ Every new street and utility line is an invitation for families to put down root
 That's what smart infrastructure does — it keeps our young people home and our communities alive. 🌟 Back to Issues _____________________________________________________________________________________________________________________________ 📣 How You can Help Volunteer to Strengthen Infrastructure— knock on doors, make calls, join the team.
 S ign Up Contribute —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote « Previous: 🚑Rural Healthcare Next: 📈Jobs & Growing South Dakota » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote « Previous: 🚑Rural Healthcare Next: 📈Jobs & Growing South Dakota » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

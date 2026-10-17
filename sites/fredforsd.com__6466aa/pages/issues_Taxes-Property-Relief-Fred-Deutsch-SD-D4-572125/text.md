@@ -14,4 +14,4 @@ Keeping the tax burden in check is about more than numbers — it’s about prot
 Email Volunteer— knock on doors, make calls, join the team.
 Sign Up Contribute —Every dollar helps us fight for District 4.
 Donate Now Vote —Register to Vote and get election info about District 4.
-Register to Vote « Previous: 🌾Strengthen Agriculture Next: 🏛️ Strong Schools » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu
+Register to Vote « Previous: 🌾Strengthen Agriculture Next: 🏛️ Strong Schools » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

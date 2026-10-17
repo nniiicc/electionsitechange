@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://voteartstresing.com/vote",
- "fingerprint": "3582b6edde997284d551933a784b6cf995a7efa7",
+ "fingerprint": "35533bf4b67964ea6ef5e41364b2d99a1b5f5641",
  "format": 3,
  "paid_for_by": "Paid for by Campaign for Art Stresing Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

@@ -9,4 +9,4 @@ I’m running to put 112th District families first with smart, environmentally s
 Data Center Invasion Mega Data Center Complex proposals are hammering our district.
 Read More School and Property Tax School and property taxes are skyrocketing.
 Read More Elections Confidence in our elections must be restored.
-Read More Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu
+Read More Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

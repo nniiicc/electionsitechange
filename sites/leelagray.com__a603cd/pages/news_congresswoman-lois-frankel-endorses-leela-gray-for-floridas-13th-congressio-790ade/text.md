@@ -17,7 +17,10 @@ NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
 NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 NEWS ARTICLE Gen.
 Leela Gray slams Rep.
 Luna for avoiding debate in Florida Congressional race NEWS ARTICLE Florida District 13 race enters final stretch before election NEWS ARTICLE LIVE With Rep.
-Crow and Leela Gray Jun 30 2026 PRESS RELEASE Congresswoman Lois Frankel Endorses Leela Gray for Florida's 13th Congressional District FOR IMMEDIATE RELEASE DATE : June 30th, 2026 CONTACT : press@leelagray.com St.
+Crow and Leela Gray PRESS RELEASE Leela Gray Launches New Ad “Auto Shop,” Focuses Closing Argument on Costs and Corruption PRESS RELEASE Army Brig.
+Gen.
+(Ret) Gray More than Doubles “Luxury Luna” Fundraising in Final Stretch PRESS RELEASE Six Current and Former Pinellas Leaders Endorse Leela Gray to Unseat Anna Paulina Luna NEWS ARTICLE Leela Gray on Her Campaign for Congress in Florida NEWS ARTICLE Leela Gray stresses blue-collar roots in ‘closing argument’ of CD 13 campaign NEWS ARTICLE Luna vs.
+Gray: Meet the candidates running for Congress in Florida's District 13 Jun 30 2026 PRESS RELEASE Congresswoman Lois Frankel Endorses Leela Gray for Florida's 13th Congressional District FOR IMMEDIATE RELEASE DATE : June 30th, 2026 CONTACT : press@leelagray.com St.
 Petersburg, FL — Today, retired Brigadier General and Democratic congressional candidate Leela Gray announced the endorsement of Congresswoman Lois Frankel (FL-22), co-chair of the House Democratic Women's Caucus and a senior member of Congress.
 "I am proud to endorse Leela Gray for Congress because she understands the struggles of working families — not from a textbook, but from a lifetime of hard work, service, and sacrifice,” said Frankel.
 “As a working mom, veteran, and proven leader who served our nation for 30 years in uniform and fought for veterans and economic opportunity here at home, Leela has the grit, experience, and heart to deliver for the people of Pinellas County.” "Congresswoman Frankel has spent her career delivering for working families and fighting for women to have a seat at the table,” said Gray.

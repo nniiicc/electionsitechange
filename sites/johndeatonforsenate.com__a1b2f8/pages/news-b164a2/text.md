@@ -1,4 +1,33 @@
-Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP John Deaton Puts People Over Politics in Debate Against Sen.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP John Deaton Condemns Ed Markey's Failure to Declare Iran a Greater Threat to U.S.
+Than Israel By Mark Steffan • October 16, 2026 FOR IMMEDIATE RELEASE October 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Markey Dodged on Dan Rea's 'Nightside' Thursday BOLTON, MA -- Massachusetts U.S.
+Senate candidate John Deaton condemned Senator Ed Markey's failure to state unequivocally that Iran is a greater threat to the United States than Israel.
+Markey dodged on Thursday night, instead declaring Iran a "threat" to affordability after a six-second pause live on-air.
+"Every Jewish resident in Massachusetts should know where Senator Markey places the value of their safety, and that's lower than the cost of getting himself reelected," said Deaton .
+"Massachusetts has been at the center of an alarming rise in antisemitic hate crimes, and still Senator Markey goes beyond the pale by insinuating that the Jewish nation of Israel is no less dangerous to the United States than Iran." Transcript of Markey's response (11:54 at iHeart podcasts ): REA: "I'm going to ask you the question that [Michigan Democratic U.S.
+Senate candidate] El-Sayed was asked, and he ducked: What's a bigger threat to the U.S., Israel or Iran?" MARKEY: "Well...
+I think that...
+Israel under the control of Bibi Netanyahu is obviously a problem, and I don't believe we should be sending any more military aid to Netanyahu--" REA: "No, I said a threat.
+To me the answer is obvious." MARKEY: "Well...
+Iran, as it sits right now, is not a military threat to us.
+It is a threat to our economy.
+The threat that Iran is posing to us is that Iran controls the Straight of Hormuz and Trump had not learned the lessons of history, that the Straight of Hormuz is where the price of energy is set, and the price of energy determines everything in the United states.
+That's what people are revolting against..." ### WHAT THEY ARE SAYING: Deaton 'Brought the Fire' and 'Made Markey Wince' in U.S.
+Senate Debate By Mark Steffan • October 16, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
+Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
+Ed Markey, stating: "Massachusetts families deserved answers tonight.
+After 53 years in office, Ed Markey still doesn’t have them.
+"I didn't hear a single substantial answer from Senator Markey about how he would deliver results in the next six years when he's failed to deliver those results for more than 50 years already.
+"I spent the debate talking about the real issues driving people out of this state: the highest electricity rates in the continental United States, housing that working families can no longer afford, and a cost of living that keeps getting worse.
+Senator Markey spent it defending a record that has failed to deliver results.
+"He’s had half a century.
+Massachusetts is still unaffordable for too many.
+That’s not progress.
+That’s a career politician who has lost touch with the people he claims to represent.
+"I’m not a career politician.
+I’m a Marine, a trial lawyer, a cancer survivor, and a father who lived paycheck to paycheck.
+I’ve put forward real solutions: including the Clean Hands Act to ban stock and crypto trading by members of Congress and impose a lifetime lobbying ban — because Washington needs accountability, not more of the same.
+"Massachusetts deserves better than 53 years of no results.
+I’m ready to deliver them." ### John Deaton Puts People Over Politics in Debate Against Sen.
 Ed Markey By Mark Steffan • October 13, 2026 FOR IMMEDIATE RELEASE October 13, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON -- Massachusetts U.S.
 Senate candidate John Deaton put people over politics in his first debate of the general election against Sen.
 Ed Markey, stating: "Massachusetts families deserved answers tonight.
@@ -248,43 +277,7 @@ Let’s debate the cost of staying in Massachusetts.
 If he’s proud of his record, he should defend it." Deaton has already shown up.
 Markey declined the June WBZ debate that Deaton attended.
 Deaton is prepared to debate Markey anywhere in the Commonwealth, as many times as voters deserve, before November.
-### Western Mass Deserves Debates Before the Ballots Go Out By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE July 10, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Deaton on Dems Debate: "It wasn't a debate, there were no solutions to people's problems." Restates his Challange for Five Single Issue Debates Massachusetts - John Deaton, candidate for US Senate. took to social media to respond to the first Democrat Primary debate between Congressman Seth Moulton and Senator Ed Markey.
-"It wasn't a debate, there were no solutions to people's problems.
-There were a lot of slogans, but no solutions," said Deaton, who was amused by their focus on avoiding real answers.
-He continued, “I hope they accept my ‘Five Single-Issue Debates Challenge.’ This format would give voters a full hour on each topic, allowing us to discuss foreign policy, solving the energy crisis, our housing agenda, the best plan for healthcare reform, and more.” John Deaton is a Republican candidate for U.S.
-Senate in Massachusetts, running as a voice for balance, accountability, and practical solutions for working families.
-### Deaton to Massachusetts Media: Set the Debate Dates Now.
-If Markey No-Shows, Roll Out the Empty Podium By Vincent Errichetti • September 23, 2026 FOR IMMEDIATE RELEASE September 23, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Ed Markey Shows Up Once Every Six Years.
-This Year, He Won't Even Do That. ﻿ "Massachusetts voters get one look at Ed Markey every six years, and this time he's decided they don't even deserve that." BOSTON — U.S.
-Senate candidate John Deaton today called on Massachusetts media outlets to stop waiting on Ed Markey, lock in firm general election debate dates, and put him on notice: show up, or face the same treatment Fox 2 in Detroit gave Mike Rogers last week, an empty podium while his opponent answers every question.
-"For most of his term, Ed Markey is a stranger to Massachusetts," Deaton said.
-"The only time voters here can count on seeing him is when he needs their votes every six years.
-Now it's reelection season, and he can't even be bothered to do that.
-He's out campaigning in other states for other candidates while ignoring the people he's supposed to represent.
-Why?
-Because he's so arrogant that he thinks this seat belongs to him.
-He doesn't think he has to show up, and he doesn't think he has to debate me." "Fifty years in Washington, and Ed Markey still won't defend his record.
-Massachusetts families are paying some of the highest electricity bills in the country.
-Young people can't afford a home.
-The system is broken, and he helped break it.
-He owes voters answers, and instead he's giving them his back." Deaton demanded that the state's major television stations, newspapers, and radio networks immediately announce specific dates, times, and formats for general election debates.
-"Here's the deal.
-If Markey refuses to appear, do exactly what Fox 2 did in Detroit (photo below).
-Leave his podium empty.
-Put my name on mine.
-Let me answer every question from the moderators and the public.
-Massachusetts media should not protect a career politician who won't face the voters he claims to represent." After the primary, Markey said he was "ready to debate Mr.
-Deaton." Since then he has made zero firm commitments, and he's spent his time campaigning everywhere except the state that elected him.
-"Ed Markey was 'ready' to debate me until it was time to actually do it," Deaton said.
-"This isn't complicated.
-Set the dates.
-Send the invitations.
-If he shows up, we debate.
-If he doesn't, the empty podium tells voters everything they need to know.
-Massachusetts media works for the voters, not for Ed Markey's travel schedule.
-Do your job.
-Call the debates.
-And if he runs, put that empty podium on every screen in this Commonwealth." ### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.
 General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.

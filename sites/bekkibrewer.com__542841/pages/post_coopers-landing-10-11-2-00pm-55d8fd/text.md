@@ -1,4 +1,4 @@
-top of page Home About Issues Events Contact DONATE All Posts Coopers Landing 10/11 @ 2:00pm future-focused #ago 1 min read Spend your Sunday afternoon on the river with the Brew Crew!
+top of page Home About Issues Events Contact DONATE All Posts Coopers Landing 10/11 @ 2:00pm future-focused Oct 9 1 min read Spend your Sunday afternoon on the river with the Brew Crew!
 Join Bekki Brewer , candidate for State Representative in District 44, and Bill Ellis , Democratic nominee for Boone County Associate Circuit Judge, Division IX, at Cooper's Landing for a relaxed meet & greet and an open Q&A.
 We'll be joined by special guest District 47 State Rep.
 Adrian Plank .

@@ -1,5 +1,9 @@
 [
 {
+"text": "Apple Podcasts",
+"href": "https://podcasts.apple.com/us/podcast/the-brian-calaway-podcast/id6816512247"
+},
+{
 "text": "Blog",
 "href": "https://www.briancalaway.com/es/blog"
 },
@@ -20,8 +24,16 @@
 "href": "https://www.briancalaway.com/es"
 },
 {
+"text": "El día de la elección es el 3 de noviembre. Lea la guía del votante LD10",
+"href": "https://www.briancalaway.com/es/voter-guide"
+},
+{
 "text": "Eventos",
 "href": "https://www.briancalaway.com/es/events"
+},
+{
+"text": "Guía del votante",
+"href": "https://www.briancalaway.com/es/voter-guide"
 },
 {
 "text": "Inicio",
@@ -116,6 +128,10 @@
 "href": "https://www.briancalaway.com/es/volunteer"
 },
 {
+"text": "X",
+"href": "https://x.com/BrianCalawayPod"
+},
+{
 "text": "YouTube",
 "href": "https://www.youtube.com/@TheBrianCalawayPodcast"
 },
@@ -132,7 +148,7 @@
 "href": "https://www.briancalaway.com/es"
 },
 {
-"text": "[image: Brian Calaway frente al micrófono — The Brian Calaway Podcast, en Apple Podcasts, YouTube, Spotify y Amazon Music]",
+"text": "[image: Brian Calaway y su copresentador frente a los micrófonos, con la bandera de Arizona de fondo — The Brian Calaway Podcast, en Apple Podcasts, YouTube, X, Spotify y Amazon Music]",
 "href": "https://www.youtube.com/@TheBrianCalawayPodcast"
 },
 {
@@ -170,6 +186,10 @@
 {
 "text": "[image: Vivienda asequible] Vivienda asequible Hogares seguros y al alcance de todos en todo el estado",
 "href": "https://www.briancalaway.com/es/issues#affordable-housing"
+},
+{
+"text": "[tooltip: Apple Podcasts]",
+"href": "https://podcasts.apple.com/us/podcast/the-brian-calaway-podcast/id6816512247"
 },
 {
 "text": "[tooltip: Facebook]",

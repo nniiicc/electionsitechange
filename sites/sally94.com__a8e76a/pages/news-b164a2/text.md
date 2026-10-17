@@ -70,5 +70,5 @@ Gil Gatch,” Hebert said.
 Gatch enjoys broad “legislative protection” from January to August, keeping him out of court, and his clients out of jail.
 Gatch, first elected in 2020, has never had a competitive general election and did not have an opponent in 2024.
 That changes today.
-Read more Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Read more Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com Home Sally!
 Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

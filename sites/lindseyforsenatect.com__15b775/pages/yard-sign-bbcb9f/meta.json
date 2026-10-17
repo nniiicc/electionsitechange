@@ -1,9 +1,10 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.lindseyforsenatect.com/yard-sign",
- "fingerprint": "d3a9d1f2ca372c915a6ab2ff3cdfe4bf26507365",
+ "fingerprint": "f54adeaad7ed759c7d9782c69dc02d99c9e7551b",
  "format": 3,
  "paid_for_by": "Paid for by Lindsey for Senate, Dustin Bingham Treasurer",
+ "rendered": false,
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -29,10 +29,4 @@ From out-of-control debt and rising inflation to dangerous border policies and g
 West Michiganders deserve selfless leadership that puts people before politics .
 For more than thirty years, families trusted me to forecast the weather.
 Now, I’m asking for their trust to help forecast a brighter future for West Michigan.
-Donate Get Involved Please provide your mobile phone to opt-in to Terri DeBoer for Congress campaign alerts, updates and news.
-By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
-Message frequency may vary.
-Msg&Data Rates May Apply.
-Reply STOP to cancel.
-Reply HELP for help.
-Privacy Policy Site design by Micah Plaisier Paid for by Terri DeBoer for Congress
+Donate Get Involved Site design by Micah Plaisier Paid for by Terri DeBoer for Congress

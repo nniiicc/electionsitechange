@@ -84,4 +84,4 @@ If it does this, California will follow and then, the rest of the nation.
 I've spent five decades watching the current system fail small businesses, family farms and working people in the North Country in slow motion.
 I believe New York has the chance to get this right and when elected, I intend to make sure the New York Health Act gets sponsored, debated and voted for on the floor of the New York State Assembly.
 If you'd like to go deeper on any of this - the funding model or the property tax analysis - I'm glad to point you to the sources.
-Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

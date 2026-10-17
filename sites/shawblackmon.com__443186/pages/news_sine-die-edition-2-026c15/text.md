@@ -22,5 +22,5 @@ This initiative aims to increase employment opportunities and create a more incl
 I'm proud of the progress we've made to improve the lives of Georgians.
 As always, we remain committed to ensuring simple, smart and effective government for families, taxpayers and House District 146.
 May God Bless you and the great state of Georgia.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

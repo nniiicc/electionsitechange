@@ -21,4 +21,4 @@ Anyone in South Carolina who has COVID-19-like symptoms can use the online syste
 Helpful Tip S.C. drivers with a suspended license may be able to reduce or clear their suspension during Amnesty Week from March 16-20.
 To participate, eligible drivers must bring a completed application to an SCDMV location during the week.
 Check your eligibility and find the application here.
-Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

@@ -1,5 +1,5 @@
 top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
-CruzNYC All Articles Search Rethinking Housing Policies for Local Impact: Affordable Housing Strategies That Work Ruben Cruz #ago 4 min read Housing is more than just shelter.
+CruzNYC All Articles Search Rethinking Housing Policies for Local Impact: Affordable Housing Strategies That Work Ruben Cruz Oct 9 4 min read Housing is more than just shelter.
 It’s the foundation of our communities, the backbone of local economies, and the key to stability for families and small businesses alike.
 Yet, too many residents in New York State Assembly District 38 face skyrocketing rents, limited options, and policies that don’t serve their needs.
 It’s time to rethink housing policies with a sharp focus on affordable housing strategies that create real, lasting local impact.

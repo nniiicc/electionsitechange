@@ -1,6 +1,8 @@
 Skip to content No MOE Corruption Moe Dimanche For Governor of Florida Menu Close Donate The Moe Dimanche Show Moe War Room Volunteer Constant Vigilance: What Made Moe?
 Judicial Corruption Lawfare Connect HOME Subscribe Log in X YouTube Instagram Facebook TikTok Donate The Moe Dimanche Show Moe War Room Volunteer Constant Vigilance: What Made Moe?
-Judicial Corruption Lawfare Connect HOME Subscribe Log in Category: Imperative 2.11.2026 10:12 AM The Day Santa Rosa County Stood Up for Kenlee, and the Missing Piece of the Puzzle On February 9th, 2026 the community gathered in front of the Santa Rosa County Courthouse to protest the kidnapping of Joy Zuraff’s daughter Kenlee by DCF as the fate of Joy’s parental rights were litigated behind closed doors.
+Judicial Corruption Lawfare Connect HOME Subscribe Log in Category: Imperative 10.16.2026 8:30 AM Hope Florida and the Grand Jury Findings Expunged: Moe’s Role This week, the President of the United States called for “leakers” to be executed.
+Leakers like the person who revealed the Grand Jury Presentment in the Hope Florida scandal before it was wiped out by a Florida Appeals Court.
+The… 2.11.2026 10:12 AM The Day Santa Rosa County Stood Up for Kenlee, and the Missing Piece of the Puzzle On February 9th, 2026 the community gathered in front of the Santa Rosa County Courthouse to protest the kidnapping of Joy Zuraff’s daughter Kenlee by DCF as the fate of Joy’s parental rights were litigated behind closed doors.
 Many people… 2.4.2026 12:47 PM MEDICAL KIDNAPPING: Joy Zuraff and the Case for Abolishing DCF The case for abolishing the Florida Department of Children and Families has garnered national attention, and is on the agenda of Florida gubernatorial candidate Moe Dimanche, after body cam footage surfaced of a Santa Rosa County mother named Joy Zuraff… 1.18.2026 11:47 AM Juro-Terrorism and Why Most Floridians Don’t Own a Home In the State of Florida, roughly 29% of homes are owned, mortgage-free.
 This means that most Floridians do not own their homes and may not be able to pass on ownership to their families.
 To make matters worse, Florida has… 1.10.2026 11:49 AM Taking the COVID Shots OFF the Market Moe’s pledge to fight back against irresponsible medical guidance.
@@ -9,9 +11,6 @@ Since I was a child at Sadler Elementary School, I knew that vaccines were prima
 Corruption Florida judges are corrupt to the core and their corruption is a cancer on our society as Floridians.
 Lawfare is real and these judges do immense harm to the public trust that allows our systems to function properly when We… 12.6.2024 10:30 AM SHUTTING DOWN THE 6 #NixTheSix is central to Moe’s campaign for Governor of the State of Florida.
 The 6th DCA is the epitome of too much government, and it was established without the consent of the People.
-It is abhorrently corrupt, and it will… 9.11.2018 10:32 PM Prison Reform TOWNHALL The People packed the theatre to hear about what really happens behind bars.
-Prison reform is a bipartisan issue that affects people in all walks of life.
-It’s an issue that should be central to the Florida gubernatorial race.
-The… Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Subscribe Loading Comments...
+It is abhorrently corrupt, and it will… 1 2 Next Page Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Subscribe Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website

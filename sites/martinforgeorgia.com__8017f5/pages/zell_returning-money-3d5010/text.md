@@ -1,4 +1,4 @@
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 YOUR MONEY Reducing the Property Tax Burden on Homeowners, Lowering the Income Tax Rate, and Returning Money to Georgia Taxpayers Given our current untenable economic situation, now more than ever, it’s important to keep Chuck working for us to reduce our tax burden.
 His focus over the years has been on providing more homeowner exemptions, lowering the income tax rate, and returning money to Georgia families.
 Lowering the cost of living in North Fulton has been a career-long priority, not with one bill, but with a sustained record of results: • HB 1437: Georgia’s Flat Income Tax (2022).
@@ -16,4 +16,4 @@ Chuck backed it as a key supporter in committee and on the House floor. • Home
 Chuck supported this year’s grant, delivering an additional $18,000 homestead exemption, saving homeowners about $500 each; this represents real savings on property tax bills for homeowners across HD 49. • Prior surplus refunds & gas tax relief.
 Since 2022, Governor Kemp’s office reports nearly $12 billion returned or saved for Georgia taxpayers through rebates, rate cuts, and gas tax suspensions, with Chuck’s support at every step.
 Chuck knows North Fulton families feel the squeeze of inflation driven by policies outside Georgia’s control, and he promises to keep working to reduce Georgians’ tax burden .
-HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES EARLY VOTING CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

@@ -50,13 +50,10 @@ Request → Volunteer Knock doors.
 Make calls.
 Show up for District 44.
 Sign Up → Want to work with the campaign — an internship, a role, or just to share your resume?
-Work with Saira → Latest News Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
+Work with Saira → Latest News Draper Paper Draper Paper: Understanding Ballot Measures on your Ballot Plus, your guide to FLIP the House October 16, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
 The only question is when.
 October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link Articles A Guide to Georgia Legislative Procedure and Redistricting Terms Breaking down the essential terms governing district mapmaking, voting rights, and statehouse procedures in Georgia.
-October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link Articles Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
-Rep.
-Saira Draper urges Georgians to verify their status and register before the cutoff.
-October 5, 2026 Share Facebook Bluesky Reddit Email X Copy Link View All News Subscribe Endorsed by Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
+October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link View All News Subscribe Endorsed by Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Reverend Timothy McDonald, III Pastor, First Iconium Baptist Church › Latino Victory Fund › Sherry Boston District Attorney Dekalb County › Rep.
 El-Mahdi Holly District 116 › Rep.

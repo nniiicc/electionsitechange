@@ -33,4 +33,4 @@ It is important to know that opposing points of view is not hate nor phobic.
 When we resort to slander or refuse to communicate with each other, progress to a better society will cease.
 Let’s all make a conscious effort to be committed to use more civility with social media, emails and our personal conversations.
 VOLUNTEER VOTING INFO I'd like a sign Get Updates Thank you for signing up!
-Committee to Elect Walt Brooks Powered by CampaignPartner.com - Political Websites Home About Walt News Previous Newsletters On the Issues Photo Gallery Contact Close Menu
+Committee to Elect Walt Brooks Powered by CampaignPartner.com Home About Walt News Previous Newsletters On the Issues Photo Gallery Contact Close Menu

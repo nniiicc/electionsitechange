@@ -9,4 +9,4 @@ I will seek solutions pertaining to high cost of property taxes, homeowners insu
 I will seek solutions for the protection of our natural resources, such as springs, lakes, rivers, wetlands, and green spaces.
 I will seek a solution to help return a local, responsible, and quality education for our children.
 A PEOPLE first solution requires the people to be involved!
-Paid for by Christopher Anger, CPF., State Representatives Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com - Political Websites Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu
+Paid for by Christopher Anger, CPF., State Representatives Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu

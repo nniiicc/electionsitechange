@@ -32,7 +32,7 @@ The Bottom Line Independence isn’t about being “in the middle”, it’s abo
 Washington has enough hyperpartisan voices clamoring for status via sensationalism.
 Washington needs a reset, an independent who isn’t controlled by either side.
 That’s how we break the system and give it back to the people.
-Previous A New Era in Education Next Healthcare That Works for People, Not Bureaucracies You Might Also Like Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Humane Immigration Reform and Border Security Statement of Belief: Honor God, Serve People The Thurgood Marshall Plan Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
+Previous A New Era in Education Next Healthcare That Works for People, Not Bureaucracies You Might Also Like The Thurgood Marshall Plan TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE Women’s Empowerment & A Fresh Take on Life and Choice Statement of Belief: Honor God, Serve People Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

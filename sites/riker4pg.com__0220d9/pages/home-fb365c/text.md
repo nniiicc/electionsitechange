@@ -4,4 +4,4 @@ I am proud to announce my candidacy for the Maryland House of Delegates District
 My passion for community service drives me to advocate for our children’s future, enhance our public schools, and create a safe, thriving community for all residents.
 A Life of Service Shapes My Leadership With 22 years of experience in the Prince George’s County Police Department and 3 on the United States Capitol Police, I bring a strong foundation of discipline, teamwork, and leadership to this role.
 Make a Donation $ # $ # $ # $ # $ # $ # $ 1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com - Political Campaign Websites Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu
+Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu

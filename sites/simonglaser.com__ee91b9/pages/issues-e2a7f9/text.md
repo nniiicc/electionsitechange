@@ -14,5 +14,5 @@ I will fight to ease and expand healthcare access, and rein in the out of contro
 Defending Rural MN From Big Tech Rural communities deserve a voice No one should be powerless when powerful interests bring their agenda to your doorstep.
 I support pausing new construction on hyperscale data centers until we’ve established thorough protections, review processes, and regulatory systems to ensure they do not threaten to destabilize rural livelihoods.
 Help us win.
-Get Involved Donate Meet Simon Issues Press Get Involved Donate Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
+Get Involved Donate Meet Simon Issues Press Get Involved Donate Radio Transcripts Public Photographs Paid for by Simon Glaser for Senate Committee P.O.
 Box 8155, Rochester MN 55903 MADE WITH SQUARESPACE

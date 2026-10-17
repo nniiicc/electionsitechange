@@ -18,7 +18,7 @@ The Issues View the Issues A Stand Against the Two-Party System Both parties hav
 I am not running against a Democrat or a Republican; I am running against the two-party system itself.
 As a U.S.
 Senator, I will work tirelessly to restore to the people of Iowa the political power that the parties have taken from them and to keep the national government out of the policymaking sphere our Constitution reserves for the states.
-View the Issues Volunteer Volunteering for a political campaign empowers citizens to actively shape the future of their community.
+Volunteer Volunteering for a political campaign empowers citizens to actively shape the future of their community.
 We need you to volunteer to help elect Thomas to represent Iowa in the U.S.
 Senate.
 Get Started Media Greene County Attorney recommends board of supervisors defy federal vaccine mandate Read more I fear for my country.

@@ -56,4 +56,4 @@ I enjoy, and am very proud to be a State Representative.
 I hope that the voters will see fit to allow me to remain as their representative into the 2027-28 term, and therefore I respectfully ask for your support on Election Day, November 3, 2026.
 (THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
 MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

@@ -1,3 +1,3 @@
 About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News News / Representing Newtown & Our State with Caring and Honor; A Testimonial from Platform to Employment Founder, Joe Carbone 5 Oct Friday, 9:57 AM · 2018 Representing Newtown & Our State with Caring and Honor; A Testimonial from Platform to Employment Founder, Joe Carbone Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

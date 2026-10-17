@@ -11,7 +11,7 @@ Maine has one of the highest tax burdens in the nation along with some of the hi
 Her opponent has been in Augusta for many years presiding over these very policies, and now thinks we should send him to Washington to fight for Mainers.
 I, for one, have seen all I care to see regarding how Troy Jackson fights for Mainers.
 Susan Collins is “Our Senator” and I believe she deserves your vote in November.
-Alan Dwelley Hermon Read the letter: Bangor Daily News Previous post Maine cannot afford to lose Susan Collins’ bipartisan voice in Washington | Opinion Next post Here’s how Susan Collins secured my vote | Letter Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Alan Dwelley Hermon Read the letter: Bangor Daily News Previous post Maine cannot afford to lose Susan Collins’ bipartisan voice in Washington | Opinion Next post PHOTO RELEASE: Senator Collins Visits the Fryeburg Fair Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

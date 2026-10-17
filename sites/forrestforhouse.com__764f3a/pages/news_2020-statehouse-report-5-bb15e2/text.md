@@ -25,4 +25,4 @@ All in a day’s work!
 Useful Link of the Week: It’s now easier to find state-funded childcare, just visit palmettoprek.org .
 The new website helps parents find free or nearly free childcare available near their home or workplace, whether in Head Start programs, state-funded full-day 4-year-old classes in public and private schools, or childcare centers that take taxpayer-funded vouchers.
 Programs like these helps make sure our children are ready for kindergarten!
-Keep up with the SC House GOP Caucus: https://www.facebook.com/ SCHouseGOP/ https://twitter.com/SCHouseGOP Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
+Keep up with the SC House GOP Caucus: https://www.facebook.com/ SCHouseGOP/ https://twitter.com/SCHouseGOP Forrest For House Powered by CampaignPartner.com Home About Cal Events News On the Issues Photo Gallery Contact Close Menu
