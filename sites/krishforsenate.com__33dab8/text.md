@@ -3,11 +3,12 @@ Senate District 49 Eden Prairie & Minnetonka Dr.
 Krish Dad, pediatrician, neighbor Running for our community November 3rd, 2026 I'm Dr.
 Krish Subrahmanian — a pediatrician, public health leader, Air National Guard flight surgeon, and your neighbor.
 I'm running for State Senate to fight for the basics that help families flourish: quality schools, clean water, accessible healthcare, and a democracy that works.
-ENDORSED BY Minnesota DFL Major Gen.
+ENDORSED BY Minnesota DFL Education Minnesota U.S.
+Rep.
+Kelly Morrison Major Gen.
 Dr.
 David Hamlar (ret.) Sen.
-Steve Cwodzinski Rep.
-Laurie Pryor (ret.) Alice Chen (Founder, Doctors for America) Mayor Ron Case See All A note from Krish When systems work, families flourish.
+Steve Cwodzinski Alice Chen (Founder, Doctors for America) Mayor Ron Case See All A note from Krish When systems work, families flourish.
 My positions are rooted in what I've seen during a lifetime of showing up on the front lines — and in what I believe about Minnesota: that we are our neighbor's fiercest advocate, that we protect each other, and that opportunity should be available to everyone.
 I'm asking for your trust because the basics that built my family — strong schools, public health, the chance to put down roots — are exactly what's under pressure right now.
 It’s time to defend them. — Krish Proudly DFL-endorsed Pediatrician · Dad · Neighbor Three things I'll fight for, every day.

@@ -8,4 +8,7 @@ I am incredibly grateful to everyone who contributed, especially those going thr
 We will never stop fighting for you.” In addition to donors from every county in the district, the campaign saw donations from over 4,500 unique donors, and over 5,300 total donations.
 More than 95% of donations were $100 or less, signaling strong grassroots support.
 The campaign took no money from corporate PACs and intends to keep it that way.
-### Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01). info@jakejohnsonforcongress.com Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.
+### Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01).
+Contact: info@jakejohnsonforcongress.com Donations: Checks can be mailed to PO Box 6295, Rochester, MN 55903.
+For wire / ACH information, please call or text our finance team at (507) 405-4650 or email eleanor@jakejohnsonforcongress.com .
+Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.

@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Fear is contagious.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Fear is contagious.
 But so is hope.
 “As a son of immigrants, I’ve seen powerful proof of the American dream at work, and I firmly believe we must do more to expand that dream for generations to come.
 That’s why I’ve worked hard to deliver real results for the people of Colorado’s 2nd District — strengthening consumer protections and ethics laws, supporting our public schools, protecting our public lands and more.

@@ -1,4 +1,4 @@
-top of page Colin Smith Utah Senate District 13 Candidate Home About Volunteer Events Blog Saving The Lake Donate Moving Forward Together NO MORE EXCUSES! ​ ​ Follow us on Instagram #District13 @forward.with.colin Load more Who is Colin Smith?
+top of page Colin Smith Utah Senate District 13 Candidate Home About Volunteer Events Blog Saving The Lake Donate Moving Forward Together NO MORE EXCUSES! ​ ​ Follow us on Instagram #District13 @wix Load more Who is Colin Smith?
 Tired of partisan bickering and political gridlock?
 Vote Colin Smith for Senate District 13 to take big swings for Utah.
 Colin Smith grew up in Michigan, raised by a single mother who put herself through graduate school.

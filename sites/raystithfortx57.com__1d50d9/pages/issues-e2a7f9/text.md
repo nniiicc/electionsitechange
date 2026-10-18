@@ -1,4 +1,4 @@
-top of page Skip to Main Content Meet Ray Issues Get Involved Contact More Use tab to navigate through the menu items.
+top of page Meet Ray Issues Get Involved Contact More Use tab to navigate through the menu items.
 DONATE Issues EDUCATION & WORKFORCE DEVELOPMENT Every child in Texas deserves a high-quality education and a pathway to opportunity.
 But right now, teachers are underpaid, classrooms are overcrowded, and students aren’t getting the resources they need to succeed.
 I will work to: Fully fund public education Support and retain great teachers Strengthen workforce & career training programs Build partnerships between schools, colleges & employers A strong workforce starts with strong schools — and both are essential to our future.

@@ -2,6 +2,10 @@ Skip to content Ryan Michael Kelly For Congress • NJ-03 About Issues Updates G
 Whether you have an hour, a skill, an idea, or simply want to help, there is a place for you in this campaign.
 Volunteer with Ryan Michael Kelly You’ll be taken to our secure volunteer signup form.
 We’ll only use your information to follow up about ways to get involved.
+Join Our Volunteer Discord Connect with other volunteers, coordinate events, share ideas, and help organize campaign activities across NJ-03.
+Whether you're interested in canvassing, social media, community outreach, or helping behind the scenes, you're welcome to join.
+Join the Volunteer Discord Discord is optional.
+You can also volunteer through the signup form above.
 Students & young volunteers High-school and college-age volunteers can find student-focused information, minor-volunteer consent materials, and a recommendation-request process on our student volunteer page.
 Student volunteer information There’s a place for you in this campaign Canvassing & literature Talk with neighbors, knock doors, and help distribute campaign literature across NJ-03.
 Events & community outreach Help at campaign and community events or introduce the campaign to organizations, neighbors, and local groups.

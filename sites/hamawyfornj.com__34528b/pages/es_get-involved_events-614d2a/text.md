@@ -1,4 +1,4 @@
-Saltar al contenido principal Se abre en una pestaña nueva Prioridades Sobre Adam Respaldos Participa Eventos Voluntariado Lista de Correo Planifica tu Voto Empleos Idioma: Español English Español 中文 हिन्दी Donar Idioma: Español English Español 中文 हिन्दी Donar Prioridades Sobre Adam Respaldos Participa Eventos Voluntariado Lista de Correo Planifica tu Voto Empleos Donar EN | ES | 中文 | हिन्दी Participa Próximos Eventos Qué Pasa Esta Semana sáb, 17 oct Sin eventos dom, 18 oct 11:30 Canvass in Princeton w/ Dr.
+Saltar al contenido principal Se abre en una pestaña nueva Prioridades Sobre Adam Respaldos Participa Eventos Voluntariado Lista de Correo Planifica tu Voto Empleos Idioma: Español English Español 中文 हिन्दी Donar Idioma: Español English Español 中文 हिन्दी Donar Prioridades Sobre Adam Respaldos Participa Eventos Voluntariado Lista de Correo Planifica tu Voto Empleos Donar EN | ES | 中文 | हिन्दी Participa Próximos Eventos Qué Pasa Esta Semana dom, 18 oct 11:30 Canvass in Princeton w/ Dr.
 Hamawy!
 14:00 Canvass in Plainfield!
 129 E 4th St · Plainfield, NJ 17:00 Canvass in Plainfield!
@@ -15,7 +15,10 @@ Hamawy!
 Virtual vie, 23 oct 17:30 Canvass in Trenton!
 Trenton, NJ 18:00 Phonebank for Dr.
 Hamawy!
-Virtual Todos los Eventos oct 18 domingo Canvass in Princeton w/ Dr.
+Virtual sáb, 24 oct 10:00 MPRC Coalition Rally and Canvass!
+Hejaz Tea and Coffee · Franklin Township, NJ 12:00 Canvass in Trenton!
+Trenton, NJ 14:00 Canvass in Ewing!
+Higgs Park · Ewing Township, NJ Todos los Eventos oct 18 domingo Canvass in Princeton w/ Dr.
 Hamawy!
 11:30–16:00 GMT-4 Join us for our Princeton Meet &amp; Greet on Sunday, October 18th from 12 pm to 2 pm.
 Address will be provided upon RSVP.

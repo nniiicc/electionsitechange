@@ -36,9 +36,12 @@ These challenges and setbacks have made life more difficult for me; however the 
 I understand the problem and I understand how to create a realistic solution.
 I will work hard to find common-sense policies that will benefit everyone, and work across the aisle to solve the problems our communities face.
 Let’s be courageous enough to choose change.
-Issues Data Center Regulations and Transparency We need to immediately get to work to put a pause on building data centers until we have strict regulations, transparency, and input from the public.
+Issues Data Center and BECI 765 Line Regulations and Transparency We need to immediately get to work to put a pause on building data centers until we have strict regulations, transparency, and input from the public.
+We also need to ensure that Wisconsin residents don’t lose their land, homes, farms, and livelihoods to the BECI 765 kV transmission lines.
+We need to ensure that Wisconsin needs these projects and that Wisconsinites don’t pay for them before they are approved.
 We must elect legislators who will stand up to big corporations and fight to protect our rural communities, our wilderness and waterways, and our farms.
-We need to ensure that companies building data centers pay their fair share of taxes from the beginning and throughout the entirety of the project and pay 100% of the costs to build, maintain, and use the facilities.
+We must end all subsidies and tax breaks for data centers.
+These wealthy corporations can start paying their own way for a change.
 Wisconsin residents should not foot the bill for building new infrastructure, upgrading the electrical grid, or increasing gas, water, and electric rates.
 Workers hired to build data centers should be paid union wages and should be local whenever possible.
 We must demand transparency in the process.
@@ -81,7 +84,7 @@ Rural schools are important to our kids, parents, homeowners, school staff, and 
 We must elect legislators who will work to restructure the way we fund our public schools so they can once again provide the great education that our kids deserve and attract and retain the best educators, while also lowering our property taxes.
 We can’t continue placing such a high tax burden on our homeowners and we can’t tax our retired people out of their homes.
 We can start by eliminating the school voucher program which has resulted in using taxpayer money to pay for students to go to private schools and has resulted in underfunding public schools and unaffordable property taxes.
-Affordable Housing Too many people in Wisconsin can’t afford their rent or to buy a home of their own.
+High Cost of Housing Too many people in Wisconsin can’t afford their rent or to buy a home of their own.
 The American dream of owning your own home is quickly disappearing.
 Many Wisconsinites are paying over 60% of their income on housing.
 Young people graduating from college or getting married and starting a family can’t afford housing.
@@ -120,6 +123,13 @@ Increased numbers of people enrolled on the plan can result in lower premiums an
 There is power with large numbers of people so that we can fight corporate price gauging.
 I support enforcing caps on the price of many necessary and lifesaving medications such as insulin and asthma inhalers, hospital price transparency, and prohibiting medical debt from being sent to collections or affecting credit scores.
 I also support regulations to prevent small hospitals and clinics from being purchased by equity firms which ultimately drive up prices and result in poor care and customer service.
+Supporting Farmers Farmers are facing too many economic hardships right now dealing with increasing prices due to tariffs, high fuel and utility costs, and monopolies in industries like meat packing, seeds, and fertilizers.
+We need to immediately get to work providing affordable healthcare and health insurance options for our farmers to help them in this difficult economy.
+I also support maintaining the use value assessment law to tax farmland based on its agricultural use and not the land’s market value.
+I also support renewing the ARIP or Agricultural Road Improvement Program to help maintain rural roads and continuing support for state grants and funding for producer-led watersheds, nitrogen management, and cover cropping programs to empower farmers to be independent and use their expertise and knowledge to help solve these problems.
+Our rural communities are like an ecosystem that depends on rural hospitals and schools, small businesses, family farms, and new families in order to thrive and be successful.
+Losing one part of the ecosystem negatively affects the entire community.
+We have been ignoring our rural communities for too long and it is time to start paying attention to them again.
 Cost of Living Crisis All Wisconsin residents deserve the opportunity to be happy, healthy, prosperous and safe in return for their hard work.
 When the working-class and middle-class are prosperous and have money to spend on goods and services in the local economy, everyone benefits.
 Small businesses, small farms, and big corporations will be more successful when everyday Wisconsinites have money to spend on their products.
@@ -140,11 +150,4 @@ Protecting our Natural Resources We must protect our beautiful Wisconsin wildern
 Many of us choose to live in Wisconsin to enjoy the variety of outdoor activities our natural resources allow us such as fishing, hunting, and hiking.
 We also have many small businesses that rely on outdoor activities and tourism.
 Our economy and quality of life depend on us prioritizing a healthy environment.
-Supporting Farmers Farmers are facing too many economic hardships right now dealing with increasing prices due to tariffs, high fuel and utility costs, and monopolies in industries like meat packing, seeds, and fertilizers.
-We need to immediately get to work providing affordable healthcare and health insurance options for our farmers to help them in this difficult economy.
-I also support maintaining the use value assessment law to tax farmland based on its agricultural use and not the land’s market value.
-I also support renewing the ARIP or Agricultural Road Improvement Program to help maintain rural roads and continuing support for state grants and funding for producer-led watersheds, nitrogen management, and cover cropping programs to empower farmers to be independent and use their expertise and knowledge to help solve these problems.
-Our rural communities are like an ecosystem that depends on rural hospitals and schools, small businesses, family farms, and new families in order to thrive and be successful.
-Losing one part of the ecosystem negatively affects the entire community.
-We have been ignoring our rural communities for too long and it is time to start paying attention to them again.
 Contact Me Donate! sasha@ripleyforwisconsin.com Sasha Ripley for Wisconsin, PO Box 113, Montello, WI 53949 Paid for by Sasha Ripley for Wisconsin

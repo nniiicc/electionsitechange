@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Joe Neguse for Colorado Get Updates!
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Joe Neguse for Colorado Get Updates!
 Subscribe to voting alerts and updates from the campaign.
 I’m fighting for the values we share, but I can’t do it alone.
 Chip In for Joe $# $# $# $# $# Other *If you've saved your information with ActBlue Express, your donation will go through immediately.

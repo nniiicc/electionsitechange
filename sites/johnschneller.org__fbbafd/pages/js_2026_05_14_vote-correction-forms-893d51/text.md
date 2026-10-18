@@ -4,5 +4,6 @@ Pictured below is John filling out a vote correction form.
 The forms are only given out by the House Clerk when a mistaken vote needs to be corrected.
 The vote was actually on a floor amendment that preceded the actual vote on CACR12, the Constitutional Amendment, which did not secure the 2/3 requirement to pass.
 Schneller Fills Out Vote Correction Form SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

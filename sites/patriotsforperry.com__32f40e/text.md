@@ -47,13 +47,5 @@ Learn More Defending Life Scott Perry believes firmly in the sanctity of Life �
 He makes exceptions for circumstances that involve rape, incest, and danger to the life of the mother.
 He opposes late-term and partial birth abortion, as well as forcing Taxpayers to fund abortion.
 Learn More Veterans As a Combat Veteran who served for nearly 40 years in uniform, Scott Perry knows and understands firsthand the sacrifices made by Veterans and their families to protect our safety, security, freedom, and liberty.
-Learn More The Latest From Facebook Scott Perry for Congress #ago SETTING THE RECORD STRAIGHT: My opponent shamelessly manipulates Veterans for her deceitful ads – alleging that I said all Democrats who serve in the military are insincere.
-I never said it or anything like it.
-I specifically and forcefully said “DEMOCRAT MEMBERS OF CONGRESS,” and I stand by it – with proof.
-My video below was posted in Dec.
-2025 (it was all over the place), after I’d been on a radio show about the Democrats’ “Seditious 6” video in which they urged military personnel to disobey orders from the Commander in Chief and chains of command (feel free to look it up).
-Democrat lawmakers openly called for Sedition; they’re hypocrites, their actions disgraceful and dishonorable, and they should be held accountable.
-The video I posted back then is below.
-To reiterate, Janelle Stelson is a lying fake and unfit to serve.
-1244 501 221 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+Learn More The Latest From Facebook Scott Perry for Congress #ago 120 10 3 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
 Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

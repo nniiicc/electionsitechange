@@ -26,5 +26,5 @@ We will be working diligently on behalf of your family, our district and the sta
 We hope you will take the opportunity to sign up here if you've not already done so.
 Thank you for the honor of allowing us to serve as your voice under the Gold Dome, as we work towards SIMPLE, SMART, AND EFFECTIVE government.
 May God bless you and may He continue to bless the great state of Georgia.
-View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
 View Our Privacy Policy Close Menu

@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Responsible Growth, Water, and Data Center Accountability Texas should welcome investment that strengthens our communities, but growth should not come at the expense of the people who already live here.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Responsible Growth, Water, and Data Center Accountability Texas should welcome investment that strengthens our communities, but growth should not come at the expense of the people who already live here.
 Large data centers and other intensive developments can place major demands on water, electricity, roads, emergency services, and neighboring property owners.
 Communities deserve the information and authority to decide whether a project fits, what protections are required, and who pays the costs it creates.
 Give Communities a Voice Before the Deal Is Done Residents should know about major projects before agreements are signed and construction begins.

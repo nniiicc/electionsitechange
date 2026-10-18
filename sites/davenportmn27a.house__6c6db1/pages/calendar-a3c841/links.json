@@ -405,10 +405,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sherburne+County+Indivisible+Meeting&dates=20260804T230000Z%2F20260805T020000Z"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Vote+Early+Protest%21&dates=20261017T173000Z%2F20261017T193000Z&location=19021+Freeport+Street%2C+Elk+River%2C+Minnesota%2C+55330%2C+United+States"
 },
 {
@@ -557,10 +553,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.davenportmn27a.house/calendar/vote-early-protest?format=ical"
 },
 {
@@ -674,10 +666,6 @@
 {
 "text": "SD27 Phone Bank (Virtual)",
 "href": "https://www.davenportmn27a.house/calendar/sd27-phone-bank-virtual-xlxdc-yzk6r-j255c"
-},
-{
-"text": "Sherburne County Indivisible Meeting",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting"
 },
 {
 "text": "Sign Up",
@@ -829,10 +817,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting"
-},
-{
-"text": "View Event →",
 "href": "https://www.davenportmn27a.house/calendar/vote-early-protest"
 },
 {
@@ -980,10 +964,6 @@
 "href": "https://www.davenportmn27a.house/calendar/sd27-phone-bank-virtual-xlxdc-yzk6r-j255c"
 },
 {
-"text": "[image: Sherburne County Indivisible Meeting]",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting"
-},
-{
 "text": "[image: Vote Early Protest!]",
 "href": "https://www.davenportmn27a.house/calendar/vote-early-protest"
 },
@@ -1034,9 +1014,5 @@
 {
 "text": "https://www.davenportmn27a.house/",
 "href": "https://www.davenportmn27a.house/"
-},
-{
-"text": "sherburnecountyindivisible@gmail.com",
-"href": "mailto:sherburnecountyindivisible@gmail.com"
 }
 ]

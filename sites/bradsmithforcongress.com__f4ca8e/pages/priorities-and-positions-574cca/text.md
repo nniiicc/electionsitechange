@@ -34,7 +34,7 @@ No community should be kept in the dark while these are being planned or left gu
 We need detailed regulatory hurdles, transparency requirements, and serious penalties for violations so citizens know they will not be harmed by these developments.
 We must protect our people and our environment, while enabling communities discuss and decide what is best for them.
 Projects that move forward should support skilled local union labor, with local prevailing wages.
-Flock/ALPR, Privacy, and Government Surveillance Technology must never give government unchecked power to track the movement of regular citizens.
+View full AI and Data Center Policies Flock/ALPR, Privacy, and Government Surveillance Technology must never give government unchecked power to track the movement of regular citizens.
 Automated license plate readers like Flock cameras may be useful for solving crimes but they also create searchable records of all our movements.
 Recent abuses, including here in Wisconsin, show the danger of deploying this technology without comprehensive legal protections.
 I support a moratorium on the use of automated license plate reader tech and networks until comprehensive privacy safeguards are in place.

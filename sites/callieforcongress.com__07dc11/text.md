@@ -30,7 +30,7 @@ From shoreline towns and farm roads to rural hospitals and veteran communities, 
 02 Rural hospitals Keep care close to home and stop families from driving hours for basic healthcare.
 03 Farms and small businesses Back the growers, makers, builders, and shop owners who keep local economies moving.
 04 Veterans and caregivers Fund the VA, honor service, and support the families doing care work every day.
-Upcoming events Find Callie on the road. ← → View all events When Oct 17, 2026 10:30 am Speaking No Kings Petoskey Hear Callie speak at the No Kings event Location Petosky, MI Arlington Park Gazebo When Oct 17, 2026 12:45 pm Speaking No Kings TC Hear Callie speak at the No Kings event Location Traverse City, MI Grand Traverse County Civic Center When Oct 18, 2026 1:00 pm – 5:00 pm Lunch & Canvassing Lunch with Callie & Canvassing Lunch from 1:00pm – 2:00pm Canvassing from 2:00pm – 4:00pm (optional) Back to the brewery from 4:00pm – 5:00pm Location Workshop Brewery 221 Garland St., Traverse City, MI Take action Pick your lane.
+Upcoming events Find Callie on the road. ← → View all events When Oct 18, 2026 1:00 pm – 5:00 pm Lunch & Canvassing Lunch with Callie & Canvassing Lunch from 1:00pm – 2:00pm Canvassing from 2:00pm – 4:00pm (optional) Back to the brewery from 4:00pm – 5:00pm Location Workshop Brewery 221 Garland St., Traverse City, MI Take action Pick your lane.
 Help move the First.
 01 Knock doors Talk with neighbors face to face and help the campaign reach voters before ballots are cast.
 Sign up 02 Make calls Join a phone bank from home or at a campaign stop and help identify supporters across MI-01.

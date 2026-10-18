@@ -1,6 +1,6 @@
 top of page Home Gregg's Message News & Media Endorsements Events Donate Family Get Involved Voting Contact Privacy Policy More Use tab to navigate through the menu items.
 LWV Candidate Forum Wed, Oct 21 | Indian River Senior Center The League of Women Voters of Sussex County, Delaware (LWVSCDE) is hosting a public forum for the candidates Gregg Lindner (D) and Dan Zitofsky (R) for Delaware House Representative District #4 Time & Location Oct 21, 2026, 7:00 PM EDT Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA About the event The League of Women Voters of Sussex County, Delaware (LWVSCDE) is hosting a public forum for the candidates for Delaware House Representative District #4 .
-The forum will be held on Thursday, October 21st from 7 p.m. - 8:30 p.m. at Millsboro Indian River Senior Center.
+The forum will be held on Wednesday, October 21st from 7 p.m. - 8:30 p.m. at Millsboro Indian River Senior Center.
 Questions for Candidates Those attending the event in person are asked to bring their legibly written questions so that they can be reviewed for submission to the candidates.
 Only questions legitimately directed to both candidates will be considered.
 Questions should be related to the office candidates are running for.

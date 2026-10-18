@@ -3,5 +3,6 @@ Don serves as President of the Across Iowa Chapter of the Iowa Council of the Un
 Leadership Through Advocacy and Access Through his leadership, Don works every day to make sure blind Iowans have the support and access they deserve—from voting and public services to community resources.
 He also shares important updates and resources through ICUB’s newsletter , helping to connect and strengthen the community he cares so deeply about.
 His dedication is a powerful reminder of how one person’s leadership and commitment can lift an entire community.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

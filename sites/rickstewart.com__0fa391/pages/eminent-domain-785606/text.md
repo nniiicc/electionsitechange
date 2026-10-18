@@ -60,9 +60,7 @@ Thank you for your thoughts.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
-Education Children learn best when they have great teachers Mental Health Everyone needs good mental health, why don’t we have it?
-Ethanol Ethanol may be a good idea.
-And it may not be.
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Education Children learn best when they have great teachers End the Drug War America’s second civil war needs to end Mental Health Everyone needs good mental health, why don’t we have it?
+Occupational licensing Occupational licensing – Iowa government run amok?
 Prev Previous Education Next End the Drug War Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

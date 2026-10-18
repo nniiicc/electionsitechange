@@ -18,9 +18,8 @@ Community Member "I support Emily because she prioritizes listening to constitue
 Community Member "Local ideas are what we need, vote for Emily." Dave M.
 Community Member Upcoming Events Meet Emily in the District From farm visits to town halls, Emily is showing up across District 15.
 Come say hello.
-View All Events Saturday, October 17, 2026 · 10:00 AM – 3:00 PM Chorman Airport Air Show, Fly-In & Car Show Chorman Airport (D74), 2057 Nine Foot Road, Greenwood, DE 19950 Aerobatics, a T-6 Texan warbird demonstration, the U.S.
-Naval Academy Parachute Team, and a classic car show. $10 per person, kids under 12 free.
-Rain date October 18.
+View All Events No events are on the calendar right now.
+Check back soon — new stops across District 15 are added regularly.
 Volunteer With Us Knock doors, make calls, host a sign — every hour you give moves District 15 forward.
 Sign Up to Volunteer Stay in the Loop Get campaign updates, event invites, and ways to help — straight to your inbox.
 Email address Join We respect your inbox.

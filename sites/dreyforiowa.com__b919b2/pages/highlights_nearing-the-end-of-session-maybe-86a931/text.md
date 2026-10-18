@@ -24,5 +24,6 @@ Remaining Legislation There are still policy bills, including some good, biparti
 These are bills that survived both funnels and are eligible for debate on the Senate floor but have not yet been called up by the majority leader.
 We’ve been ready for months to work on legislation that will actually help lower costs and make life more affordable for Iowans.
 Time will tell if Senate Republicans will join us and do the hard work on Iowans’ behalf.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

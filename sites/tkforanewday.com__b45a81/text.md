@@ -1,5 +1,6 @@
-Skip to content TK for a New Day Home About TK NewDay Vision Contact TK Events Links Vision for a NEW Day Tara Killen for MN Senate District 10 Minnesota’s 10th District deserves leadership that listens, learns, and lights the way forward.
-For far too long, we have leadership that does not represent us, but rather uses accusatory, fear-based rhetoric that escalates a policy disagreement into a moral and personal threat .
+Skip to content TK for a New Day Home About TK NewDay Vision Contact TK Events Links Vision for a NEW Day Tara Killen for MN Senate District 10 Minnesota’s 10th District deserves leadership that works for them!
+We deserve someone that gets things done … by listening, learning, and working across the aisle to get legislation passed.
+For far too long, we have leadership that does not represent us, but rather grandstands and uses accusatory, fear-based rhetoric that escalates a policy disagreement into a moral and personal threat .
 I’m Tara Killen – citizen, coach, and advocate for a more inspired kind of politics.
 This campaign is about renewal – restoring integrity, compassion, and common sense to public service.
 It’s about helping our communities build the kind of future they’d love to live in, together.

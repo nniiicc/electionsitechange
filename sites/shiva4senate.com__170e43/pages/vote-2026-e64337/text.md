@@ -3,7 +3,7 @@ I’ll also get two more pledges and ask them to each get two more pledges for D
 Please enable JavaScript in your browser to complete this form.
 Mobile * Providing a phone number here does not sign you up for text messages.
 To get campaign texts, use our text sign-up form .
-Email * Email Confirm Email First Name * Last Name * Name Name Referrer Zip * Submit Look Up Your Precinct Find out your Precinct Location.
+Email * Email Confirm Email First Name * Referrer Code Mobile Last Name * Zip * Submit Look Up Your Precinct Find out your Precinct Location.
 Look Up Register to Vote Have you registered to vote already?
 If not, you can register easily online with your driver’s license.
 Register to Vote Post navigation Our Fight for Truth Freedom Health.

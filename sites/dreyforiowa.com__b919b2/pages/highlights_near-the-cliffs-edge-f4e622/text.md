@@ -23,5 +23,6 @@ So, Republican lawmakers get some money to start filling in their deficit hole, 
 You should also care because this budget mess affects how the majority party plans to govern in the not-so-distant future.
 Senate Republicans introduced a bill that would let them take their ball and go home when they can’t pass a budget – like when negotiations get a little tougher under a divided government with a Democratic governor.
 If we’re not careful, the majority party will march us right off the fiscal cliff.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

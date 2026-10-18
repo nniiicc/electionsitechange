@@ -1,4 +1,4 @@
-top of page MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE PRIVACY POLICY OVERVIEW Campaign for Darryl Block (“We,” “Us,” or “Our”) respects your privacy.
+top of page VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE PRIVACY POLICY OVERVIEW Campaign for Darryl Block (“We,” “Us,” or “Our”) respects your privacy.
 This Privacy Policy describes the personal information We may collect through the Program, how We use that information, your rights regarding your information, and our data sharing restrictions required by U.S. wireless carriers, the CTIA, and the FCC.
 Mandatory Carrier Data Sharing Disclosure No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
 SMS opt-in data and consent obtained through this Program will not be shared with any third parties.
@@ -40,4 +40,4 @@ If any provision of this Policy is found unenforceable, the remaining provisions
 This Policy should be read together with the Program’s Terms & Conditions .
 CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
-Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page
+Website by: Clover’s Creative Strategy & Design VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

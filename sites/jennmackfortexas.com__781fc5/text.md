@@ -1,12 +1,9 @@
-Home About Issues News Donate Shop Contact Us Toggle Menu Write In Jenn Mack for Texas WRITE-IN CANDIDATE FOR TEXAS GOVERNOR Election Day 16 Days 20 Hours 23 Mins 45 Secs Register to Vote Contact Us Donate Together, let's rebuild constitutional government, give this nation back to the Lord, starting with Texas, and return power to the people.
+Home About Issues News Donate Shop Contact Us Toggle Menu Write In Jenn Mack for Texas WRITE-IN CANDIDATE FOR TEXAS GOVERNOR Election Day 15 Days 20 Hours 04 Mins 42 Secs Register to Vote Contact Us Donate Together, let's rebuild constitutional government, give this nation back to the Lord, starting with Texas, and return power to the people.
 Faith.
 Family.
 Freedom.
 This campaign is a movement to restore all three.
-17 OCT 17 2026 Temple, Texas Upcoming Event · Jenn Mack Speaks The Line in the Sand: An Appeal to Heaven Join Jenn Mack and fellow guest speakers for live music and straight talk in Temple, Texas.
-Bring your neighbors.
-Date Saturday, October 17, 2026 Time 3:30–6:30 PM Central Bold Republic Brewing Co.
-7070 Stonehollow Drive, Temple, TX 76502 Let us know you'll be there Get directions to Bold Republic Brewing Co. (opens Google Maps in a new tab) Add to your calendar Google Calendar Outlook Apple / .ics See the original announcement Jenn's Story A Texan Through and Through Jenn Mack Raphoon didn't come up through party machines or lobbyist circles.
+Jenn's Story A Texan Through and Through Jenn Mack Raphoon didn't come up through party machines or lobbyist circles.
 She came up the Texas way — through hard work, faith, and family.
 From building a career in technology to raising a family rooted in Texas values, Jenn has lived the challenges everyday Texans face.
 When she saw both parties putting politics ahead of people, she decided to run as an Independent — answering to no one but the people of Texas.

@@ -8,5 +8,6 @@ In floor debate, House Republicans spoke up against the budget plan for not cutt
 “New taxes are not the answer,” said Rep.
 Drew Stokesbary, R-Auburn.
 Read the article at KATU.com .
-In the News budget taxes More For You Washington State Farm Bureau endorses Stokesbary Endorsements Lawmakers concerned about auditor probe In the News Stokesbary sponsors Auburn student as page In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget taxes More For You Endorsed by Children’s Campaign Fund!
+Endorsements The Seattle Times Endorses Stokesbary for Reelection Endorsements Ferguson’s Attack on Our Constitutional Rights Current Events Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

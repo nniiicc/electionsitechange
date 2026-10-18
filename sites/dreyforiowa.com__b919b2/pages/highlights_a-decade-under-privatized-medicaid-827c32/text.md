@@ -8,5 +8,6 @@ A state auditor’s report showed a nearly-900% increase in illegal denials or v
 Providers – the hospitals and medical professionals we rely on – report that settling claims is now significantly more complicated.
 And families say that the overall quality of care has worsened.
 Ten years on, there is just simply no good reason to continue propping up this costly mistake.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

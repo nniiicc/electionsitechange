@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Meet Fatima Dr.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Meet Fatima Dr.
 Fatima La’Juan Muse is a medical family therapist, educator, small-business owner, and community advocate running for Texas House District 2.
 Born and raised in New Orleans, Louisiana, Fatima earned her bachelor’s degree in Speech Communications and Theater Arts from Dillard University, her master’s degree in Marriage, Couples, and Family Counseling from Southeastern Louisiana University, and her PhD in Medical Family Therapy from Saint Louis University School of Medicine.
 Her professional work has focused on helping individuals, couples, and families navigate difficult circumstances, with particular expertise in reproductive health and infertility.

@@ -76,13 +76,14 @@ Website Volunteer Join Team Aaron and help us reach every corner of the 88th Dis
 Sign Up Endorse Aaron Join your neighbors in supporting Aaron's campaign.
 Add Your Name Request a Yard Sign Show your support.
 Let your neighbors know you're standing with Aaron.
-Request Sign Latest News Press Releases More Press Releases In The News August 16, 2026 Ohio Education Association endorses Aaron Jones, giving him both of Ohio's major teachers unions in District 88 The Ohio Education Association has endorsed Democrat Aaron Jones in the race for Ohio House District 88, the campaign announced Friday, delivering the Tiffin city councilman the backing of the state’s largest educators union in a two-county district where public school funding has become a central campaign issue.
-Read Full Article April 20, 2026 Jones kicks off House campaign Tiffin City Councilmember Aaron Jones officially launched his campaign for Ohio's 88th House District on Thursday evening at Reino's Catering & Party Room in Downtown Tiffin, drawing a crowd of supporters from across Seneca and Sandusky counties.
-"I'm running because the people in this district deserve someone in Columbus who actually understands what it's like to clock in every day, make ends meet, and fight for your family," Jones said.
-The U.S.
-Army veteran and 20-year Toledo Molding & Die production supervisor spoke on priorities including local public schools, working families, water, and infrastructure.
-Read Full Article January 29, 2026 Democrat Aaron Jones announces candidacy for 88th District state rep A graduate of Clyde High School, he served four years in the U.S.
-Army before returning to Seneca County, where he and his wife Tracy raised their sons and are now grandparents.
-Jones said he is entering the race to represent working families who feel increasingly squeezed by rising costs, stagnant wages and political decisions made in Columbus that put politics ahead of practical solutions.
+Request Sign Latest News Press Releases More Press Releases In The News October 14, 2026 Click, Jones face off Candidates in the Ohio 88th House District race — Tiffin city councilman Aaron Jones, a Democrat, and Republican incumbent state Rep.
+Gary Click of Vickery — debated each other at Fremont Ross High School on Wednesday, Oct.
+14, 2026.
+The debate was moderated by the Sandusky Register and Tiffin Advertiser-Tribune and sponsored by the Greater Sandusky Partnership.
+Read Full Article October 13, 2026 Constitutional rights at stake, candidates warn at Fremont forum “Elected officials are supposed to be your voice.
+They should not be working against you,” Jones said.
+“They focus on themselves and how they can get rich.
+When they get into office, they turn their hearing aids off and do the opposite of what they should be doing.
+Nobody should get rich in office ... politicians need to shut their mouths and open their ears, and listen to the working-class people who are paying all the bills.” Read Full Article September 10, 2026 Aaron Jones calls for bipartisan limits on Flock cameras, AI surveillance in Ohio Democratic state House candidate Aaron Jones is calling for new limits on government use of Flock cameras and other AI-powered surveillance, pledging to pursue bipartisan legislation if elected to represent Seneca and Sandusky counties.
 Read Full Article Aaron Jones for State Representative Home • About • Priorities • Endorsements • Get Involved • Vote • Events • News • Donate info@jonesforohio.com Make checks payable to: Friends of Aaron Jones 250 Riverside Drive, Tiffin, OH 44883 PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
 Contact • Privacy Policy & Terms • Media PLEASE CONTRIBUTE Contribute to help elect Aaron Jones to the Ohio House of Representatives. $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.

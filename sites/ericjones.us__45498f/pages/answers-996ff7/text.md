@@ -618,10 +618,9 @@ His finances are public, and what he still holds is long-term and passive, the k
 Does Eric Jones own stocks?
 Eric Jones does not own any public stocks.
 He sold them all before he launched this campaign.
-What he still owns are portions of a few private businesses, like his wife's small business and Amwins.
-Amwins gives wholesalers access to health insurance, to make coverage more available and lower its cost.
+What he still owns are portions of a few private businesses, such as his wife's small business and Amwins — which gives wholesalers access to health insurance, to make coverage more available and lower its cost.
 Those holdings are long-term, passive, and fully disclosed on his public financial filing.
-None of them are stocks he could trade on inside information, which is exactly why he backs a ban on members of Congress trading stocks.
+None of them are stocks he could trade on inside information, which is exactly in line with his desire to ban Members of Congress from trading public stocks.
 Is Eric Jones's seat on the Maven Clinic board a conflict of interest?
 No.
 Eric Jones is not paid for his role at Maven Clinic, and he doesn't profit from serving there.

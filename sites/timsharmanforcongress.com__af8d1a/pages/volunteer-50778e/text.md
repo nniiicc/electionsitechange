@@ -1,4 +1,4 @@
 Virginia 8th District · Vote on November 3, 2026 Stay in Touch Home TIM SHARMAN — Independent Candidate for Congress, Virginia's 8th District 2026 for Congress Independent Candidate Government that works.
 Politics that doesn't get in the way.
-Volunteer Donate Campaign Rap Shop About Tim VA-08 Analysis Congress Can Lead Am I in VA-08 ?
+Volunteer In the News Donate Campaign Rap Shop About Tim VA-08 Analysis Congress Can Lead Am I in VA-08 ?
 English Español Get Involved Select all that apply: Introduce Tim to my community or organization Grace my property with a yard sign (get them now) — Please add your address Adorn my car with a magnetic bumper sticker (get them now) — Please add your address Host a meet-and-greet — I'll bring the wine Join Tim at community events Something else Full Name Email Address ZIP Code Phone (optional) Message (optional) COUNT ME IN Tim Sharman for Congress Virginia's 8th District · VOTE ON NOVEMBER 3, 2026 Paid for by Tim Sharman for Congress tim@timsharmanforcongress.com © # All rights reserved

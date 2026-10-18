@@ -1,16 +1,7 @@
 Skip navigation menu Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Join Us Upcoming Events Meet Michaela Barnett and ask your questions about her background, platform, and plans to deliver for TN-02.
 Looking for volunteer opportunities?
 Find them here .
-Jerri Green Empty Podium Townhall (featuring TN Brando and Michaela Barnett) University of Tennessee, Humanity and Social Sciences Building, HSS Room 123 1115 Volunteer Blvd, Knoxville, TN These will be open, unscripted forums to hear from Democratic Nominee for Governor Jerri Green on where she stands on the issues, and answer questions from voters.
-Anyone, no matter your background or who you voted for, is welcome to join us.
-This event will feature special guests CD-2 Candidate Michaela Barnett and Tennessee Brando, and is hosted by the UT Knoxville College Democrats.
-RSVP MB4TN GOTV RALLY West Hills Park 400 North Winston Road Join us for a GOTV Rally on Friday, October 17th at West Hills Park (11am–2pm).
-We'll be set up in the gazebo on the YMCA side.
-We've got a full morning planned with postcard writing stations, tabling from local campaigns, and a speaker program featuring candidates from across the ballot.
-Then, at 12:30 we're all heading out to canvass, so come ready to knock some doors!
-RSVP Michaela Barnett x Jerri Green Joint Tailgate Across from the Humanities and Social Sciences Building 1115 Volunteer Boulevard, Knoxville Come out and join Michaela and Jerri before the game for food, fellowship, and to get fired up!
-You'll also have the opportunity to snag some merchandise and literature if you want to help canvass the tailgate!
-RSVP Brunch Fundraiser at Kaizen Kaizen, 127 S Central St Knoxville, TN 37902 Come out to Kaizen in the Old City on Sunday, October 18 for a brunch fundraiser benefiting Michaela Barnett, our Democratic nominee for US House.
+Brunch Fundraiser at Kaizen Kaizen, 127 S Central St Knoxville, TN 37902 Come out to Kaizen in the Old City on Sunday, October 18 for a brunch fundraiser benefiting Michaela Barnett, our Democratic nominee for US House.
 Your ticket price helps Michaela's campaign reach more voters before election day!
 Please review the attached menu and choose your ticket based on an omnivore, gluten free, or plant-based meal.
 Tickets include tasty appetizers, your choice of entry, and delicious desserts.

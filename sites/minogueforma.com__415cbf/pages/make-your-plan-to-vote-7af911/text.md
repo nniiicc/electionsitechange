@@ -16,7 +16,7 @@ Track My Ballot Vote Early No need to wait until Election Day.
 Massachusetts offers two weeks of in-person early voting.
 Every city and town will have at least one early voting location, including voting hours on both weekends.
 Early Voting October 17 – October 30 Find My Early Voting Location & Hours Vote On Election Day Tuesday, November 3 Polls are open from 7 AM – 8 PM Find My Polling Place Questions?
-For official Massachusetts voting information, click here Meet Mike In The News Get Involved Donate Paid for by Mike Minogue for Governor Use of military images or rank does not imply endorsement by the U.S.
+For official Massachusetts voting information, click here Emergency Hotline Number: 617-231-9856 Meet Mike In The News Get Involved Donate Paid for by Mike Minogue for Governor Use of military images or rank does not imply endorsement by the U.S.
 Department of War or the U.S.
 Army.
 Please provide your mobile phone to opt-in to Mike Minogue for Governor campaign alerts, updates and news.

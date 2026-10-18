@@ -1,5 +1,5 @@
 top of page Home About Me Testimonials Blog Donate Contact A Challenge to all Men Aged 18 to 35 Anthony Kathol Oct 5 0 min read Rated NaN out of 5 stars.
-Tags: Kathol for District 27 State Senate Kathol4D27 #GOP #Republican #freedom Vote Red Celestine Stadnick for Senate #DSA Recent Posts See All Absentee Voting Starts Today!
+Tags: Kathol for District 27 State Senate Kathol4D27 #Republican #GOP #freedom Vote Red #DSA Celestine Stadnick for Senate Recent Posts See All Absentee Voting Starts Today!
 A Lesson From Repairing A Campaign Sign The DSA Wants to Burn It Down Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).

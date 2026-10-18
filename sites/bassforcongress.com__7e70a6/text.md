@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Take Back CD3 Fighting for Real Minnesotans and a Better Future Our borders were broken which allowed 15 Million illegals to pour into our Country.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Take Back CD3 Fighting for Real Minnesotans and a Better Future Our borders were broken which allowed 15 Million illegals to pour into our Country.
 Our jobs are disappearing.
 Our families can’t afford to stay.
 It’s time for leadership that puts Minnesotans first.
@@ -68,6 +68,6 @@ Get Involved Help us turn Minnesota Red!
 Contact Us Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

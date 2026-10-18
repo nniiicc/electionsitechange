@@ -1,0 +1,8 @@
+678 and moved its adoption.
+Seconded by Councilman Douglas Witte and approved with the following vote: AYES: Douglas Witte, Basil Wolfe, Brian Wilton, Marni McFadden-Lee, Ryan Kelly, Kevin Lynch NAYS: None ABSTAIN: None Ordinance #2007-801 (1st Reading and Introduction) Councilwoman Marni McFadden-Lee offered into the record Ordinance 2007-801 AMENDING CHAPTER 3-4.14 TREES AND SHRUBS OFFERED BY COUNCILWOMAN McFADDEN-LEE, SECONDED BY COUNCILMAN WITTE for First Reading and scheduled Second Reading & Public Hearing on 8/21/2007.
+Seconded by Councilman Douglas Witte and approved with the following vote: AYES: Douglas Witte, Brian Wilton, Marni McFadden-Lee, Kevin Lynch NAYS: Basil Wolfe, Ryan Kelly ABSTAIN: None Ordinance #2007-799 (2nd Reading and Public Comment) Councilman Douglas Witte offered Ordinance 2007-799 WEB FEES OFFERED OFFERED BY COUNCILMAN KELLY, SECONDED BY WITTE.
+ALL AYES for public hearing and seconded by Councilwoman Marni McFadden-Lee: Public Comment: NO PUBLIC COMMENlS Thereupon, Councilman Douglas Witte moved that all persons present had been given an opportunity to be heard, the Public Hearing should be closed.
+Seconded by Councilwoman Marni McFadden-Lee.
+Councilman Ryan Kelly offered Ordinance No.
+2007-799 for final adoption, seconded by Councilman Douglas Witte and approved with the following vote: AYES: Douglas Witte, Basil Wolfe, Brian Wilton, Marni McFadden-Lee, Ryan Kelly, Kevin Lynch NAYS: None ABSTAIN: None Ordinance #2007-800 (2nd Reading and Public Comment) Councilman Ryan Kelly offered Ordinance 2007-800 OUTSIDE DINING FEES OFFERED BY COUNCILMAN LYNCH for public hearing and seconded by Councilman Brian T.
+Wilton: Public Comment: None

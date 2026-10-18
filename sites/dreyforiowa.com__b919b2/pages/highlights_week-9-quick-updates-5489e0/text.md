@@ -17,5 +17,6 @@ You can find more information about the grants here.
 Fighting to Improve Iowa’s Water Quality This week, the Senate debated HF 2215, a bill relating to the Department of Natural Resources.
 Senate Democrats introduced an amendment that would have given the department more teeth to fight against polluters, in the hopes of curbing Iowa’s ongoing water quality issues.
 Ultimately, the amendment was ruled not germane to the bill and did not move forward.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

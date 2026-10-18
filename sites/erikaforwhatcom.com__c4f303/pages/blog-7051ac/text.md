@@ -1,4 +1,11 @@
-top of page About About Contact About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability All Posts Whatcom County Is Too Expensive.
+top of page About About Contact About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability All Posts Check My Record, Not the Mailer By now many of you have seen the mailers, TV ads and texts.
+They claim my campaign is funded by anti-abortion money, and they call me MAGA.
+Neither is true.
+Every dollar my campaign has raised is public record with the Washington Public Disclosure Commission.
+Anyone can look it up at pdc.wa.gov, and I’d encourage you to.
+The money my campaign is spending is being used to tell you who I am and how I will serve you– not to harm my opponent.
+So who is paying for these attack ads Dr.
+Erika Creydt #ago 2 min read Whatcom County Is Too Expensive.
 We Need More Affordability.
 Affordability has become one of the defining challenges facing Whatcom County.
 Campaign Staff Sep 28 6 min read What's Up With the Heart?
@@ -55,10 +62,4 @@ Erika Creydt has three kids who have attended Blaine schools in the past.
 Creydt said her kids switched to an online schooling program because of the Covid-19 pandemic.
 Creydt is a psychologist and clinical director of TouchStone Health Clinic in downtown Blaine.
 She has a doctorate in clinical psychology from the Adler School of Professional Psychology in Chicago.
-Q: Why Campaign Staff Jan 9 2 min read Dr.
-Erika Creydt interview (2024) Throwback to an interview a couple years ago when Dr.
-Creydt opened the Everson Youth Resource Center .
-Listen to the interview here .
-About the Youth Resource Center The Youth Resource Center (YRS) provides at-risk children, ages 5-17 and who reside in Whatcom County.
-We offer after-school activities such as arts, crafts, and sports, in addition to individual or group counseling.
-Further, on certain days, with the help of our Activity Companions, we provide special events Campaign Staff Jan 9 1 min read Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Q: Why Campaign Staff Jan 9 2 min read Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

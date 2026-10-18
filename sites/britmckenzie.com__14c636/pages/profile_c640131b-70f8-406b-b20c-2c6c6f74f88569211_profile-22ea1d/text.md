@@ -4,14 +4,14 @@ The bill would increase the amount to $7,771 for the 2024-2025 school year.
 Act 237-LEARNS Act Raises the minimum teacher salary to $50,000/year.
 It raises current teacher salaries (already making $50,000) by $2,000.
 Creates the Merit Teacher Incentive Fund providing bonuses of up to $10,000 Repeals...
-19 0 Jan 23, 2023 ∙ 1 min Weekly Column from the Arkansas House of Representatives 1-20-23 House members will enter the third week of the 2023 Regular Session on Monday.
+20 0 Jan 23, 2023 ∙ 1 min Weekly Column from the Arkansas House of Representatives 1-20-23 House members will enter the third week of the 2023 Regular Session on Monday.
 In the second week, several bills passed the House and are now making their way to the Senate.
 On Wednesday, the House passed HB1018.
 This bill will allow members of municipal fire department bomb squads to carry weapons while responding to bomb threats.
 The House also passed HB1086.
 This bill amends the law concerning parking privileges for a person with a disabled veteran special license plate.
 It states vehicles...
-18 0 Jan 23, 2023 ∙ 2 min Weekly Column from the Arkansas House of Representatives 1-13-23 The 2023 Regular Session is now underway.
+19 0 Jan 23, 2023 ∙ 2 min Weekly Column from the Arkansas House of Representatives 1-13-23 The 2023 Regular Session is now underway.
 The session began on Monday, January 9 when members of the 94th General Assembly took the oath of office.
 The House then elected Matthew J.
 Shepherd of El Dorado as the Speaker for the 94th General Assembly.
@@ -19,7 +19,7 @@ He is the first person in state history to be elected Speaker for a third term.
 Speaker Shepherd announced the chairs and vice chairs for committees.
 You can find the committee rosters HERE.
 On the second day of the session, the House and Senate...
-11 0 Load More Rep.
+12 0 Load More Rep.
 Brit McKenzie Writer 0 Followers 0 Following Follow More actions Profile More Use tab to navigate through the menu items. © # All Rights Reserved.
 P.O.
 BOX 2673 ROGERS, AR 72757 PAID FOR BY BRIT McKENZIE FOR ARKANSAS bottom of page

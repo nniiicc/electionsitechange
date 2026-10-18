@@ -36,9 +36,6 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts What if you got to pick your driver’s license photo?
-For a fee, Secretary of State hopeful Alexi Giannoulias would let you have multiple shots taken.
-Or you could even provide your own.
-Keep Reading Keep Reading → Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State Launches New Ad Announcing his Support for Former Democrat Treasurer and Their Fight for Worker Rights Keep Reading → How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office Illinois Secretary of State Alexi Giannoulias has completed his first # days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts African-American Leaders Rally Behind Giannoulias for Secretary of State Several Black elected officials – including state legislators, mayors and committeepersons – announced their support today for Democrat Alexi Giannoulias in the race for Illinois Secretary of State.
+Keep Reading → First-in-the-Nation Legislation to Prevent Book Bans Signed into Law Giannoulias initiated HB 2789 to protect the freedom of speech and support and unite libraries and librarians Keep Reading → Democrat Giannoulias Ends Fundraising Quarter with Approximately $3.5 Million on Hand Secretary of State Campaign Amasses Broad-Based Coalition of Support Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

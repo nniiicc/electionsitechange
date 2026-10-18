@@ -15,5 +15,6 @@ See the season dates below: ● Youth-only – residents only, age 15 and younge
 More than 37,000 high school seniors will receive information about the many higher education opportunities available to them and critical next steps to support their education.
 Each letter has QR codes linking the students directly to each college and university to complete the application process, as well as the applications to apply for federal and state financial aid opportunities.
 More information on planning and preparing for postsecondary education can be found on the Iowa Department of Education’s College & Career Preparation webpage.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

@@ -78,7 +78,12 @@ Gina and her family have been a constant, loving presence in our lives, helping 
 She is someone we know we can count on, and someone who genuinely cares about our community and our state.
 Gina is dedicated to making Alaska the best it can be, and we know she will always have the best interests of Alaskans at heart.
 If we can trust Gina with what matters most to us, our son, we wholeheartedly trust her to represent our community in the Alaska State House.
-We are proud to wholeheartedly endorse our friend, Gina Wall.” Mike & Ashley Bull Friends of Gina Gina’s Answers Gina answered all fifteen questions in the 2026 Alaska Voter Guide.
+We are proud to wholeheartedly endorse our friend, Gina Wall.” Mike & Ashley Bull Friends of Gina “We are proud to stand with our friend Gina Wall in her run for Alaska State House, District 24.
+If you want a leader who combines fiscal conservatism with a vision for Alaska’s future, Gina is your candidate.
+She is deeply committed to building a future in Alaska where young people have the opportunities and community roots they need to live, work, and stay.
+She also knows that strong communities start with great schools.
+Gina is committed to education policies that support and retain our educators, protect quality youth programs, and encourage hardworking families.
+Rooting for Alaskan families, grounded in her faith, ready to cross party lines to make a difference, we have no doubt that Gina Wall is the right choice!” Jade & Erin Beam Friends of Gina Gina’s Answers Gina answered all fifteen questions in the 2026 Alaska Voter Guide.
 Her opponents answered none.
 1.
 Bipartisanship 2.

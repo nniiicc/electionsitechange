@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Campaign Updates Mar 21, 2022 | In the News Congress could ban stock trading by its members.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Campaign Updates Mar 21, 2022 | In the News Congress could ban stock trading by its members.
 Do Colorado’s lawmakers support that idea?
 There’s momentum building in Congress to ban lawmakers from stock trading. . .
 “During the early stages, when we first introduced this bill, it did not have much support,” Neguse recalled.

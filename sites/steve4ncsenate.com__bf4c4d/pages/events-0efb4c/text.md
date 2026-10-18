@@ -1,3 +1,3 @@
 Home Meet Steve The Focus OUR Community Community 1 Community 2 Community 3 Community 4 Yard Signs Make Endorsement News Events More events coming soon!
-#ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Sun Oct 18 2026 - Mon Oct 18 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

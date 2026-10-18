@@ -19,8 +19,7 @@ If I am elected, I will represent all of us, including Eamon and Ryan and the pe
 It is about our local community, our families, our farms, our small businesses, our neighbors, and the future we are building together.
 I love this community, and I am deeply honored to have the opportunity to continue fighting for it.
 I will carry the voices, hopes, and concerns of the people of the 42nd District with me every step of the way, and I will work tirelessly to make sure our local voices are heard in Olympia.” Creydt, a clinical psychologist, is running to improve the quality of life for Whatcom County residents by reducing the cost of living, making housing more affordable, strengthening school funding, expanding access to healthcare providers, supporting local businesses, and creating more opportunities for living-wage jobs.
-Recent Posts See All Whatcom County Is Too Expensive.
+Recent Posts See All Check My Record, Not the Mailer Whatcom County Is Too Expensive.
 We Need More Affordability.
 What's Up With the Heart?
-Dr.
-Erika Creydt Advances to the General Election With Growing Grassroots Momentum Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

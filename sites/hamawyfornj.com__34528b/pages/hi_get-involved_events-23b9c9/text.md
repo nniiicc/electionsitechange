@@ -1,4 +1,4 @@
-मुख्य सामग्री पर जाएँ नए टैब में खुलता है प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर भाषा: हिन्दी English Español 中文 हिन्दी दान करें भाषा: हिन्दी English Español 中文 हिन्दी दान करें प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर दान करें EN | ES | 中文 | हिन्दी भाग लें आगामी कार्यक्रम इस सप्ताह क्या हो रहा है शनि, 17 अक्टू॰ कोई कार्यक्रम नहीं रवि, 18 अक्टू॰ 11:30 am Canvass in Princeton w/ Dr.
+मुख्य सामग्री पर जाएँ नए टैब में खुलता है प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर भाषा: हिन्दी English Español 中文 हिन्दी दान करें भाषा: हिन्दी English Español 中文 हिन्दी दान करें प्राथमिकताएँ परिचय समर्थन शामिल हों कार्यक्रम स्वयंसेवा मेलिंग सूची मतदान की योजना करियर दान करें EN | ES | 中文 | हिन्दी भाग लें आगामी कार्यक्रम इस सप्ताह क्या हो रहा है रवि, 18 अक्टू॰ 11:30 am Canvass in Princeton w/ Dr.
 Hamawy!
 2:00 pm Canvass in Plainfield!
 129 E 4th St · Plainfield, NJ 5:00 pm Canvass in Plainfield!
@@ -10,7 +10,10 @@ Hamawy! ऑनलाइन गुरु, 22 अक्टू॰ 5:00 pm Canvass i
 Leonardine Park · South River, NJ 6:00 pm Phonebank for Dr.
 Hamawy! ऑनलाइन शुक्र, 23 अक्टू॰ 5:30 pm Canvass in Trenton!
 Trenton, NJ 6:00 pm Phonebank for Dr.
-Hamawy! ऑनलाइन सभी कार्यक्रम अक्टू॰ 18 रविवार Canvass in Princeton w/ Dr.
+Hamawy! ऑनलाइन शनि, 24 अक्टू॰ 10:00 am MPRC Coalition Rally and Canvass!
+Hejaz Tea and Coffee · Franklin Township, NJ 12:00 pm Canvass in Trenton!
+Trenton, NJ 2:00 pm Canvass in Ewing!
+Higgs Park · Ewing Township, NJ सभी कार्यक्रम अक्टू॰ 18 रविवार Canvass in Princeton w/ Dr.
 Hamawy!
 11:30 am – 4:00 pm GMT-4 Join us for our Princeton Meet &amp; Greet on Sunday, October 18th from 12 pm to 2 pm.
 Address will be provided upon RSVP.

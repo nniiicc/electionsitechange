@@ -1,4 +1,4 @@
-Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 17, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
+Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 18, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
 If you do not agree to abide by the above, please do not use this service.
 Use License Permission is granted to temporarily download one copy of the materials on Peter Lumaj | Secretary of the State's website for personal, non-commercial transitory viewing only.
 This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials use the materials for any commercial purpose or for any public display attempt to reverse engineer any software contained on the website remove any copyright or other proprietary notations from the materials Disclaimer The materials on Peter Lumaj | Secretary of the State's website are provided on an 'as is' basis.
@@ -50,6 +50,7 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Sean Cleary State Central Member 16th District "There are few people in politics with the amount of conservative values and integrity as I know Peter Lumaj possesses.
-Regardless of political winds, Peter stands as a true conservative happy warrior taking the fight to increasingly radical liberals.
-The Republican Party is better for having Peter Lumaj tell his story and fight for our values." View all endorsements →
+ENDORSED BY Dominic Rapini 2022 Republican Secretary of the State candidate "As a former CTGOP candidate for Secretary of the State, I’ve seen firsthand the qualities required to serve as Connecticut’s chief elections officer.
+I’ve known Peter Lumaj for six years, and I’ve never met a more principled, committed conservative — a man whose love for the United States and for Connecticut is matched by his deep understanding of what it means to live without freedom.
+As someone who escaped a communist regime, Peter brings a rare and powerful perspective to this role, grounded in gratitude for democracy and a fierce defense of our republic.
+I wholeheartedly endorse Peter Lumaj for Secretary of the State of Connecticut." View all endorsements →

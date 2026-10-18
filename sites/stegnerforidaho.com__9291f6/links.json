@@ -4,6 +4,10 @@
 "href": "https://www.stegnerforidaho.com/cart"
 },
 {
+"text": "About John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
 "text": "Donate",
 "href": "https://www.stegnerforidaho.com/donate"
 },
@@ -18,6 +22,10 @@
 {
 "text": "Home",
 "href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.stegnerforidaho.com/meet-john"
 },
 {
 "text": "Media",

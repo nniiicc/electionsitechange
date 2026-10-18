@@ -19,7 +19,7 @@ I planned on raising my kids, doing good work, and staying out of it.
 But I kept watching things get worse — for families like mine, for people who needed systems that actually worked, for my kids who are going to inherit whatever we build or break right now.
 And I realized I couldn’t keep asking someone else to show up if I wasn’t willing to show up myself.
 I put myself through college while raising six kids, mostly on my own.
-I spent years doing direct advocacy work in domestic violence shelters and the DSHS Job Center — walking alongside people in some of the hardest moments of their lives.
+I spent years as a volunteer advocate in domestic violence shelters and job centers — walking alongside people in some of the hardest moments of their lives.
 I’ve been a Certified Peer Support Specialist.
 I’ve navigated the systems I’m now running to fix.
 I also live with lupus and Sjögren’s syndrome.
@@ -44,6 +44,6 @@ My priorities focus on protecting working-class families, expanding access and d
 I believe government should work for real people, in real life, every day.
 Social Icons Contact Info Address: Po Box 202 Cheney Wa 99004 Phone: 5095995719 Email: karinacampaign1@gmail.com Opening hours: 9AM - 5PM Copyright © # Karina Wallace for LD-9 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Zip code Join the campaign supporter list to receive updates, volunteer opportunities, and ways to help improve our community.
-Stay updated on campaign news I’m interested in volunteering Donate our code volunteer What issues matter most to you in our community?
+Name * First Last help to and Email * Zip code Join the campaign supporter list to receive updates, volunteer opportunities, and ways to help improve our community.
+Stay updated on campaign news I’m interested in volunteering Donate What issues matter most to you in our community?
 Join the Campaign CLOSE

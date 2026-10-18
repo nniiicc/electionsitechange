@@ -2,19 +2,17 @@ Skip to the page All hands on deck.
 All hands on deck with Samuel and Nancy Lacore.
 Canvasses every weekend to Election Day.
 Click here to canvass → Home About Samuel The issues Vote Get involved Menu Home About Samuel The issues Vote Get involved Give Help me build a new SC.
-Sign up and someone from the campaign will be in touch with a time and a place.
-Canvass with Samuel and Nancy Lacore.
-Nancy and I are one team at the doors.
+Admiral Nancy Lacore and I are one team at the doors.
 Pick the place nearest you and sign up for a shift with her campaign.
-Every shift on Nancy’s page Oct 17 Sat Sat, Oct 17.
-Goose Creek 9 a.m. to 6 p.m.
-Nancy will be there at noon.
-Sign up → Oct 17 Sat Sat, Oct 17.
-Mount Pleasant 9 a.m. to 6 p.m.
-Sign up → Oct 17 Sat Sat, Oct 17.
+Oct 18 Sun Sun, Oct 18.
+Goose Creek noon to 6 p.m.
+Sign up → Oct 18 Sun Sun, Oct 18.
+Mount Pleasant noon to 6 p.m.
+Sign up → Oct 18 Sun Sun, Oct 18.
 Phone bank from home 2 to 4 p.m.
 Sign up → , .
-Sign up → Nancy will be there Website What would you like to do?
+Sign up → Nancy will be there Every shift on Nancy’s page Website What would you like to do?
+Sign up and someone from the campaign will be in touch with a time and a place.
 Knock doors A Saturday morning, a list and a partner.
 Make calls From home, from a list.
 Host an event Invite your neighbors and I’ll come answer their questions.

@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Welcome!
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Welcome!
 Mitch for Newtown 2026 Jamison Bazinet For 14 years, it’s been an honor to serve you and our neighbors as Newtown’s State Representative.
 This is not a desk job, and certainly not a 9 to 5 commitment!
 Done well, a great Representative carries your values, along with the overall values of the community, forward and acts upon them in the formation of state policy.
@@ -12,7 +12,7 @@ I won't go into them here because each was personal.
 Your vote in November keeps the caring in Newtown, along with the bipartisan legislative work on issues that matter to you, like lowering energy costs, saying NO to tax increases, protecting local control & finding every possible way to restore Connecticut's affordability.
 Affordability matters - more so today than perhaps ever before .
 Every day, we contend with the nation’s 3rd highest overall tax burden, 2nd highest electric bills, and runaway costs of housing, medical & insurance.
-For 30-years, CT's majority party has used it's numbers to "nickel & dime" us with hidden taxes, Public Benefits abuse, fees, and compounding surcharges that add up faster than family earnings This must end and, in every session, I speak to Connecticut's growing unaffordability, and propose legislation to eliminate excessive spending, fees, and waste.
+For 30-years, CT's majority party has used it's numbers to "nickel & dime" us with hidden taxes, Public Benefits abuse, fees, and compounding surcharges that add up to outpace most individuals' and familes' earnings This must end and, in every session, I speak to Connecticut's growing unaffordability, and propose legislation to eliminate excessive spending, fees, and waste.
 I’ve never voted to raise our taxes , toll your rides to work, shopping trips, or out-of-town family - nor do I vote for any budget that doesn't balance without sleight of hand.
 Never have.
 Never will.
@@ -30,7 +30,7 @@ Reach out.
 My cell is 203-470-272 8 and email is Mitch@MitchForNewtown.com .** Be well.
 Stay safe.
 Spread only Kindness. - Mitch THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
-Mitch for Newtown su pports Local News and Local Businesses News 25 Feb Wednesday, 10:22 PM · 2026 Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
+Mitch f oMitch fr Newtown su pports Local News and Local Businesses News 25 Feb Wednesday, 10:22 PM · 2026 Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Add your news summary here.
 Read more 15 Feb Sunday, 12:15 AM · 2026 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm ews summary here.
 Read more 10 Feb Tuesday, 3:51 PM · 2026 Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Add your news summary here.
@@ -46,4 +46,4 @@ Read more VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS 
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

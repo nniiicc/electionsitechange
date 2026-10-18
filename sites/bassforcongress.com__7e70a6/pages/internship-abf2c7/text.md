@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Join Team Bass The Tyler Bass for Congress campaign is powered by volunteers who believe Minnesota deserves stronger leadership, lower taxes, safer communities, and greater economic opportunity.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Join Team Bass The Tyler Bass for Congress campaign is powered by volunteers who believe Minnesota deserves stronger leadership, lower taxes, safer communities, and greater economic opportunity.
 If you’re ready to make a difference, we need your help.
 Why Volunteer?
 This campaign isn’t funded by political insiders.
@@ -26,6 +26,6 @@ Join the Campaign Fill out the form below and we will contact you as soon as pos
 Visit Us Address: 2233 Hamline Ave N, Ste 616, Roseville, MN 55113 Hours: Mon-Fri 9:00AM - 5:00PM Phone: 763-309-9167 Email: Tyler@bassforcongress.com Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

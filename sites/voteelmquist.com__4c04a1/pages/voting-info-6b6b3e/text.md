@@ -3,13 +3,14 @@ Explore your options below.
 General Election Day Voting To vote on General Election Day, November 3rd, find your polling place here .
 Polls are open from 7 a.m. to 8 p.m.
 For additional information on polling place rules, time off to vote, and same day registration information, visit the Minnesota Secretary of State’s website.
-Early In Person In-person absentee voting begins September 18.
+Early In Person In-person absentee voting began September 18.
 Ramsey County voters can vote at the Ramsey County Elections Office, 90 Plato Blvd.
 W. in St.
 Paul, Monday through Friday from 8 a.m. to 4:30 p.m.
-Beginning October 16, voters can also vote at Ramsey County Library - Shoreview, 4560 Victoria St.
+Voters can also now vote at Ramsey County Library - Shoreview , 4560 Victoria St.
 N., Monday through Friday from 10 a.m. to 4 p.m.
-Additional Ramsey County voting locations are also available.
+Additional evening and weekend voting hours are available, along with other Ramsey County voting locations.
+Check the link below for all locations and hours.
 Find current locations and hours he r e .
 Early by Mail Any Minnesota voter can vote by mail.
 Request an absentee ballot online here .

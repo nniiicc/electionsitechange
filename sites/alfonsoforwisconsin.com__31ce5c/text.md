@@ -5,31 +5,21 @@ Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
 Privacy Policy ➔ Δ For Liberty For Opportunity For a Brighter Future Michael Alfonso will fight for the people of Wisconsin’s 7th District, protect our way of life, and always put America First.
 He’ll never back down to the Radical Left and will always uphold the values that built our state and nation — faith, community, and hard work.
-Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress #ago Faith, family, and hard work are lifelong values in the Northwoods.
-Those are the values I grew up with, the values that built Northern Wisconsin, and the values I'll defend in Washington every single day. 🇺🇸 ...
-See More See Less Alfonso touts faith, family and hard work www.antigojournal.com If elected, he will be the youngest member of Congress View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 15 Shares: 2 Comments: 2 2 Comments Comment on Facebook Alfonso for Congress #ago 😬😬 Hollywood liberal Jane Fonda endorsed my Democrat opponent, Fred Clark.
-The not-so-secret truth?
-Fred wants to force Wisconsinites into electric cars.
-He also called for Line 5, a key energy pipeline that heats homes and keeps energy costs down, to be shut down. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes wow angry 18 Shares: 0 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress #ago Great day to be from Wisconsin.
-Go Brewers! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 46 Shares: 0 Comments: 2 2 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 11 Oct 2109394596820361249 Baby Rosita’s first Packers game!
-One game in, and she’s already our little good luck charm.
-Go Pack Go and of course… the Bears still suck! 🧀🏈🟢 Twitter feed image.
+Trump Endorsed America First Conservative Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Alfonso for Congress #ago Thank you to Tom Emmer for Congress , Rudy for Indiana , Russell Fry , and Mike Bost for joining me on my district wide Dirt, Sweat, and Trades tour! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 21 Shares: 0 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress #ago Worked with Turning Point Action to help register voters at the University of Wisconsin–Stevens Point!
+If Republicans don’t start putting in the work and showing up on college campuses, we risk ceding the next generation, and our country, to Radical Left Democrats. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha angry 84 Shares: 7 Comments: 8 8 Comments Comment on Facebook Alfonso for Congress and Evita Duffy Alfonso #ago Evita Duffy Alfonso will always choose painting pumpkins over carving them 🎃🍂 ...
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love haha 454 Shares: 6 Comments: 18 18 Comments Comment on Facebook Load more X Michael Alfonso @MikeAlfonsoWI · 15h 2111503754486780048 Thank you to @tomemmer, @RudyYakym, @RussellFrySC, and @BostForCongress for joining me on my district wide Dirt, Sweat, and Trades tour!
+Tom Emmer @tomemmer Thanks to the next Congressman for Wisconsin’s Seventh Congressional District, @MikeAlfonsoWI, for having us in New Richmond today.
+In Congress, Michael will be a strong champion for American manufacturing and fight to bring more good-paying jobs to northern Wisconsin.
+#WI07, Reply on Twitter 2111503754486780048 1 Retweet on Twitter 2111503754486780048 5 Like on Twitter 2111503754486780048 35 X 2111503754486780048 Michael Alfonso @MikeAlfonsoWI · 16h 2111481406236836296 I worked with @TPAction to help register voters at the University of Wisconsin–Stevens Point!
+If Republicans don’t start putting in the work and showing up on college campuses, we risk ceding the next generation, and our country, to Radical Left Democrats.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2109394596820361249 14 Retweet on Twitter 2109394596820361249 50 Like on Twitter 2109394596820361249 869 X 2109394596820361249 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2109024197544415658 Had the chance to stop by Cummings Lumber Co. in Frederic on my Dirt, Sweat, and Trades Tour.
-Small mills like this used to be the norm in Northern Wisconsin, but overregulation and unfair trade policies have cost us some of these gems.
-In Congress, I'll work with President Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2109024197544415658 7 Retweet on Twitter 2109024197544415658 43 Like on Twitter 2109024197544415658 164 X 2109024197544415658 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2108923715907948741 I stopped at Henry Repeating Arms on my Dirt, Sweat, and Trades Tour.
-Wisconsin is blessed to have one of the nation's finest firearms manufacturers in Rice Lake and Ladysmith.
-I'm a 2A absolutist.
-I will always fight for your right to keep and bear arms.
+Reply on Twitter 2111481406236836296 13 Retweet on Twitter 2111481406236836296 29 Like on Twitter 2111481406236836296 139 X 2111481406236836296 Michael Alfonso @MikeAlfonsoWI · 18h 2111452145170198565 Evita will always choose painting pumpkins over carving them 🎃🍂 @evitaduffy_1 Twitter feed video.
+Reply on Twitter 2111452145170198565 5 Retweet on Twitter 2111452145170198565 16 Like on Twitter 2111452145170198565 161 X 2111452145170198565 Michael Alfonso @MikeAlfonsoWI · 20h 2111429317175685478 It was a privilege to visit Ascension Academy, a Christian school participating in Wisconsin’s Parental Choice Program.
+Thank you to @SenRomaineQuinn for arranging the tour!
+I'm a firm believer in school choice and letting parents decide what's best for their kids.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2108923715907948741 9 Retweet on Twitter 2108923715907948741 31 Like on Twitter 2108923715907948741 149 X 2108923715907948741 Michael Alfonso @MikeAlfonsoWI · 10 Oct 2108742527079567804 Big thanks to the Headwaters Builders Association and Wisconsin Builders Association for hosting me in Eagle River!
-Burdensome government regulations are driving up construction costs and putting the American Dream of homeownership out of reach for too many Wisconsin families.
-Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2108742527079567804 5 Retweet on Twitter 2108742527079567804 20 Like on Twitter 2108742527079567804 125 X 2108742527079567804 Load More Meet Michael Issues Endorsements Join the Team Paid for by Alfonso for Congress Donations to the Campaign can be Mailed To: Alfonso for Congress PO Box 447 Hudson, WI 54016 Privacy Policy
+Reply on Twitter 2111429317175685478 1 Retweet on Twitter 2111429317175685478 18 Like on Twitter 2111429317175685478 109 X 2111429317175685478 Load More Meet Michael Issues Endorsements Join the Team Paid for by Alfonso for Congress Donations to the Campaign can be Mailed To: Alfonso for Congress PO Box 447 Hudson, WI 54016 Privacy Policy

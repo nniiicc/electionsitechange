@@ -3,7 +3,16 @@ Fill it out · Vote Jillian England → Jillian England Home About Issues Can Yo
 Races Notes Substack Vote Donate Contact Bio Endorsements Notes from the Campaign Fresh observations, arguments, and updates — added regularly.
 This is how we keep the ideas alive and growing instead of letting the site sink into entropy.
 New notes appear here and are featured on the home page.
-Filter by topic All topics Clear Public safety Taxes & cost of living Energy & prosperity Homelessness & addiction Elections & ballot integrity Family & parental rights Principles & liberty Health systems Showing all 31 notes.
+Filter by topic All topics Clear Public safety Taxes & cost of living Energy & prosperity Homelessness & addiction Elections & ballot integrity Family & parental rights Principles & liberty Health systems Showing all 32 notes.
+October 17, 2026 — Amazing!
+Heroin is almost gone Homelessness & addiction · Public safety Amazing!
+I just find it insane that heroin ODs are just not happening anymore.
+Not a gram of smack to be found except among a few rich connoisseurs who prefer the exotic extract of the flower rather than the stinky extract of a petroleum refinery.
+Both roads ultimately go to the same address, but one is in a classic Cadillac.
+Can you save 1,000 lives?
+This is not an esoteric question.
+Bend the curve— We are not powerless. — Jillian England Candidate, Washington State Senate, 36th District Recurring support is what keeps these notes coming.
+Join the Golden Washington Monthly Sustainers — $25, $50, or $100 per month makes the daily habit possible.
 October 16, 2026 — Can You Save 1,000 Lives?
 Homelessness & addiction · Public safety The curve is still compounding.
 The question is whether we bend it.
@@ -485,6 +494,6 @@ Check back often.
 Read the full position statement Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 16, 2026 · Site version: 2d57d4f This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 17, 2026 · Site version: c7d9d9f-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

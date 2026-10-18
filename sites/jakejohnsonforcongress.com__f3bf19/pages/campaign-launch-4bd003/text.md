@@ -16,4 +16,7 @@ For 19 years, Jake has taught students from remedial math to AP Calculus to help
 Jake is a proud member of his union’s bargaining team, where he negotiates to raise wages and improve working conditions for over 1,000 teachers, nurses, and social workers in the district.
 Jake has also been active in his community, serving on the board of the financial literacy nonprofit Minnesota Jumpstart Coalition, and organizing for the recent school referendum in Rochester.
 Jake and his wife Molly live in Rochester with their four young boys.
-### Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01). info@jakejohnsonforcongress.com Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.
+### Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01).
+Contact: info@jakejohnsonforcongress.com Donations: Checks can be mailed to PO Box 6295, Rochester, MN 55903.
+For wire / ACH information, please call or text our finance team at (507) 405-4650 or email eleanor@jakejohnsonforcongress.com .
+Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.

@@ -5,5 +5,6 @@ If the federal government chooses, for whatever reason, not to approve the state
 Complicated SNAP restrictions that prevent Iowa families from purchasing certain – and often healthy – foods at the grocery store.
 The restrictions are not based on nutritional value – for example, families can buy a cup of fruit but cannot buy that same cup of fruit if it comes packaged with a spoon; Iowans cannot buy warm rotisserie chicken but can buy the same rotisserie chicken if it has been pulled from the bone, repackaged, and sold cold.
 Rather than making Iowans healthier, this bill will complicate successful program, push healthy options further out of reach, and endorse fringe medicinal treatments not based in science.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

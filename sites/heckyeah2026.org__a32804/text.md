@@ -1,6 +1,6 @@
-0 Skip to Content A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu A Lifetime of Work & Service Why I'm Running Issues Donate A Lifetime of Work & Service Why I'm Running Issues Donate Massachusetts Teachers Association (MTA) For Jen Heck AFL-CIO For Jen Heck Congressman Jim McGovern for Jen Heck IUOE Local 4 for Jen Heck SEIU Local 509 for Jen Heck Van Jones for Jen Heck UFCW Local 1445 for Jen Heck Young Democrats of Massachusetts for Jen Heck Progressive MA for Jen Heck Worcester-Fitchburg Building and Construction Trades Council for Jen Heck MA Voters for Animals, For Jen Heck Central MA AFL-CIO for Jen Heck Clean Water Action for Jen heck Teamsters for Jen Heck I’m a mother, small business owner, and award-winning filmmaker.
+0 Skip to Content A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu A Lifetime of Work & Service Why I'm Running Issues Donate A Lifetime of Work & Service Why I'm Running Issues Donate Massachusetts Teachers Association (MTA) For Jen Heck AFL-CIO For Jen Heck Congressman Jim McGovern for Jen Heck IUOE Local 4 for Jen Heck SEIU Local 509 for Jen Heck Van Jones for Jen Heck UFCW Local 1445 for Jen Heck Young Democrats of Massachusetts for Jen Heck Progressive MA for Jen Heck Worcester-Fitchburg Building and Construction Trades Council for Jen Heck MA Voters for Animals, For Jen Heck Central MA AFL-CIO for Jen Heck Clean Water Action for Jen heck Teamsters for Jen Heck I’m a working parent, a small business owner, and award-winning filmmaker.
 I grew up in Sutton and Grafton, built a successful career out in the world, and brought that experience home to raise my kids and serve the community that shaped me.
-I’m running now because I want my kids—and yours—to have a future here, and our communities deserve more than unmet needs and excuses.
+I’m running now because I want my kids—and yours—to have a future here, and our communities deserve more than unmet needs and excuses from career politicians who’ve had a decade to deliver and haven’t.
 Let’s talk accountability.
 Did you know our current representative ranks 42nd out of 43 long-serving legislators in budget earmarks brought home?¹ And it’s not about being in the minority party.
 Over the same decade, Republican Rep.
@@ -9,6 +9,7 @@ David Muradian in Grafton more than two and a half times as much.
 Meanwhile, our roads deteriorate, water safety remains a concern, and local needs go unmet.
 He may tell you to blame Beacon Hill, but he’s been part of Beacon Hill for more than a decade.
 Bringing resources home is the job.
+Our district is invisible.
 For 25 years, I’ve worked as an award-winning director and producer , including over a decade as a supervising producer on the long-running hit television series House Hunters International .
 Producing is a job that’s entirely about making things happen, listening to people, and finding the truth in complicated stories.
 From war zones to kitchen tables, I’ve asked hard questions, found common ground, and amplified the voices of others.

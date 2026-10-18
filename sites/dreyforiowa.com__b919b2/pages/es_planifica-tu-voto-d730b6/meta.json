@@ -1,9 +1,10 @@
 {
  "description": "Planifica tu voto en Sioux City: votación anticipada, por correo o en persona. Asegúrate de estar registrado y conoce tu distrito electoral.",
  "final_url": "https://dreyforiowa.com/es/planifica-tu-voto",
- "fingerprint": "ca353a100553c0e9f68f203ac285a1391b9fae56",
+ "fingerprint": "cf506fef21132f0938034b1abe0906d43909a2fe",
  "format": 3,
  "paid_for_by": "Paid for by Drey for Iowa",
+ "rendered": false,
  "title": "Planifica tu voto | Drey for Iowa",
  "years_mentioned": [
   "2002",

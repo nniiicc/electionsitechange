@@ -1,4 +1,4 @@
-Home About Me Issues & Policies vote@kripchak.com Mission Issues and Policies Mission Fighting for The People Michael Kripchak has been engaged in important conversations with residents of Ohio’s 33rd Senate District.
+Home About Me Issues & Policies Endorsements vote@kripchak.com Mission Issues and Policies Mission Fighting for The People Michael Kripchak has been engaged in important conversations with residents of Ohio’s 33rd Senate District.
 Michael Kripchak listens.
 He understands their concerns, Affordability, Accountability and Accessibility.
 Michael knows the impact an active State Senator can have to improve the lives of their constituents, but he also understands the possibilities an advocate can have outside of his role in Columbus.
@@ -25,4 +25,4 @@ You can help the cause by spreading the word, by talking to me and sharing your 
 To make all of this happen, I need your voice, I need your support.
 Michael L.
 Kripchak vote@kripchak.com Get in touch Your message was sent successfully.
-Send Message Paid for by Patriots for Kripchak © Copyright # Patriots for Kripchak
+Send Message Paid for by Patriots for Kripchak © Copyright # Kripchak for Ohio

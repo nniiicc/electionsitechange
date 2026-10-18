@@ -1,4 +1,4 @@
-Skip to content Home About Values Contact Donate Donate Donate Donate Home About Values Contact Contact Jerry Lonergan 4 KS State Rep Visit my Facebook page!
+Skip to content Home About Five Steps Contact Donate Donate Donate Donate Home About Five Steps Contact Contact Jerry Lonergan 4 KS State Rep Visit my Facebook page!
 PO Box 16 Salina, KS 67402 jl4kshouse@gmail.com Email me with questions, info on how to volunteer, or for a yard sign!
 Want to Donate?
 You can donate online using the button below or mail a check!

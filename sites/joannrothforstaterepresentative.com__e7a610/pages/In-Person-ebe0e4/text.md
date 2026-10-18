@@ -1,4 +1,11 @@
-About Jo Ann Issues In Person On Video Donate In Person - Events We had a wonderful evening at last night’s Martinis & Weenies fundraiser for the Museum of Ellinwood’s "Our Roof.
+About Jo Ann Issues In Person On Video Donate In Person - Events Over 3,000 No Kings Rallies held in our Nation Saturday, October 17.
+Kent spoke at the Pawnee County Democratic Party event on their Courthouse Square.
+Afterwards, when driving home, we made a detour to visit the grave of George McGill.
+When people say Adam Hamilton would be the first Democrat elected to the US Senate from Kansas in 94 years.
+Passage of time is being dated from 1932 election of George McGill.
+George moved from Iowa to Kansas at four years of age and was raised on a farm in Barton County.
+George McGill (1879-1963) is buried in the Pawnee Rock Cemetery.
+We had a wonderful evening at last night’s Martinis & Weenies fundraiser for the Museum of Ellinwood’s "Our Roof.
 Our History." campaign.
 Great food, good conversation, and time spent with people who care about fixing the leaky museum roof in order to preserve our community’s history.
 A big thank-you to everyone who came out to support the museum, and especially to the Historical Society members and Board volunteers who helped set up, prepare food, and clean up.

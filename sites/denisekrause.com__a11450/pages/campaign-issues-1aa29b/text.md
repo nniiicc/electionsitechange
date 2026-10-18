@@ -1,4 +1,4 @@
-555-555-555 Home Meet Denise Campaign Issues Endorsements Volunteer Contribute Home Why I Am Running What is in it for You Meet Denise Campaign Issues Volunteer Contribute Endorsements souvid Denise Krause: Her Vision for Oregon Oregon Families are Facing Major Crises Our country is at a breaking point.
+555-555-555 Home Meet Denise Campaign Issues In the Media Endorsements Volunteer Contribute Home Why I Am Running What is in it for You Meet Denise Campaign Issues In the Media Volunteer Contribute Endorsements souvid Denise Krause: Her Vision for Oregon Oregon Families are Facing Major Crises Our country is at a breaking point.
 Donald Trump and the most unqualified cabinet in the history of our country have taken us to the edge of killing democracy.
 They've ignored the rule of law and caused chaos in peaceful places all over our beautiful nation.
 Trump has re-rigged the system for himself and the ultra-wealthy to gain power and control over more money and things that were once held as sacred and untouchable.

@@ -3,7 +3,7 @@ Senate.
 His name won't be on the ballot — write it in on November 3, 2026.
 How to Vote → DECEMBER 7, 1787 THE FIRST STATE U.S.
 Senate — Delaware Travis Jack Stevens Declared Write-In Candidate for U.S.
-Senate Day 126 of 145 — Letter sent today Coons voted to send 1,000-lb bombs to Gaza → A new voice in Washington, not bought by Super PACs.
+Senate Day 127 of 145 — Letter sent today Coons voted to send 1,000-lb bombs to Gaza → A new voice in Washington, not bought by Super PACs.
 Accountability under the law, an end to forever wars, real rules for AI, and health care and housing for everyone. ★ Declared Write-In Candidate — Write TRAVIS JACK STEVENS on your ballot Chip In Now → Volunteer Our Platform Get in Touch Spread the word : Facebook X Bluesky LinkedIn Copy link About the Candidate A Delawarean by Choice, a Fighter by Nature Travis Jack Stevens is a registered nurse (since 2012) who spent years as a travel ICU nurse and served on the COVID front lines.
 He founded the CAMP Rehoboth Cares Committee and is a former Secretary of the Eastern Sussex Democrats.
 He's a people-funded write-in candidate for U.S.

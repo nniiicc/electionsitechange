@@ -8,5 +8,5 @@ Hardwick & Rep.
 Mazzie Christensen Present HB 434 Rep.
 Hardwick Presents SAPA - HB 1175 - Third Read on House Floor Rep.
 Hardwick Presenting SAPA: HB 1175 - Perfected on House Floor: Rep.
-Bill Hardwick Presenting SAPA: Feb 13, 2025 - HB 1175 Rep.
-Hardwick Presenting HB 701 PAID FOR BY BILL HARDWICK FOR MISSOURI, JOSH MIZE, TREASURER
+Hardwick Presenting HB 701 Rep.
+Bill Hardwick Presenting SAPA: Feb 13, 2025 - HB 1175 PAID FOR BY BILL HARDWICK FOR MISSOURI, JOSH MIZE, TREASURER

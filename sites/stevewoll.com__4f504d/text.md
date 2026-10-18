@@ -37,7 +37,7 @@ Click the Get Involved button at the top to tell us what you're interested in an
 Follow us.
 Please sign up below for our newsletter and use the l inks at the bottom to follow us on social media.
 Tell your friends and spread the word in whatever way you talk to them.
-Learn More Upcoming Events Mark your calendar Sat, Oct 17 No Kings Rally - Hampton Roads / Location is TBD RSVP Oct 17, 2026, 10:00 AM – 12:00 PM Location is TBD See All Date and time is TBD Door Knocking - Canvassing / Location is TBD RSVP Date and time is TBD Location is TBD Join us for canvassing your precinct.
+Learn More Upcoming Events Mark your calendar Date and time is TBD Door Knocking - Canvassing / Location is TBD RSVP Date and time is TBD Location is TBD Join us for canvassing your precinct.
 We'll train you, give you a turf map and a script, and send you out in pairs to talk to voters about Steve Woll and what he's running on.
 Date and time is TBD Veterans Listening Session with Steve Woll / Location is TBD RSVP Date and time is TBD Location is TBD These listening sessions are not campaign rallies.
 They are conversations.

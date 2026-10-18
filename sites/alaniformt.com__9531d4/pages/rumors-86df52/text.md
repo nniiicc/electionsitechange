@@ -1,9 +1,9 @@
 Skip to content Rumors, answered Heard something about Alani?
 Here’s the record.
 Mailers, TV ads and a lot of rumors.
-Here are the 52 claims we’ve tracked against her this campaign, each one answered with the record behind it.
+Here are the 56 claims we’ve tracked against her this campaign, each one answered with the record behind it.
 Jump to a rumor Mailers & TV ads Mailers TV ads Her service DD-214 FOIA Iraq Mortar fire Black Hawk Down Conviction rate Arrest numbers Inspector general Leaving active duty Hegseth Life coach 80 countries IJM Hawaii Treasurer Faith & choice Church Jesus Abortion Publisher Planned Parenthood The money Dark money Spoke out?
-Billionaire Outside PACs Wall Street texts Recruited by Republicans Plant & spoiler Real Democrat Unvetted Plant Spoiler Trump Party chair’s op-ed Advice The chair Republicans Abortion Poverty New to Montana Resources Bodnar Everything else ICE Gaza Poor people Lived in Montana Facebook Got a dirty-money mailer or saw one of their TV ads?
+Billionaire Outside PACs Wall Street texts Recruited by Republicans Plant & spoiler Real Democrat Unvetted Plant Spoiler Trump Party chair’s op-ed Advice The chair Republicans Abortion Poverty New to Montana Resources Bodnar Everything else ICE Gaza Poor people Lived in Montana Facebook Yeezy Redfern Extremists Family Got a dirty-money mailer or saw one of their TV ads?
 Seth Bodnar’s campaign and the super PACs backing him have flooded Montana with mailers and commercials about Alani.
 We put every one of them side by side with the facts.
 The church, the publisher and the “dark money” attacks The Planned Parenthood mailers The spliced quotes and the TV ads See the facts behind their claims → Watch the “Setting the Record Straight” videos → The rumors about her service Most of what’s on this page started as a post, a screenshot or a secondhand comment on social media, then got passed along until it sounded like fact.
@@ -163,13 +163,29 @@ The claim She loves the IDF and Mossad, so she sympathizes with crimes in Gaza.
 The record As a federal agent she worked with foreign partner agencies; that’s the job.
 Her position: stop underwriting the suffering in Gaza, condition and block arms transfers, and enforce the Leahy Law. [74] The claim She said poor people chose to be poor.
 The record It’s from a December 2025 coaching episode about a client household earning $300,000 a year that was still broke. [71] Her point was about mindset with money, and it wasn’t about Montanans struggling to get by.
-Her plan for working families is on her positions page . [28] The claim She’s only lived in Montana three years.
+Her plan for working families is on her positions page . [28] Another clip they use stops mid-thought.
+The next sentence: “But it’s how you respond to those things that indicates the quality of your life.” The claim She’s only lived in Montana three years.
 The record She grew up an Army and embassy kid, then served 21 years in the Air Force. [21] [4] Every home before Montana was picked by the military.
 Montana is the first place she chose.
 She has lived in Montana almost five years.
 The claim She has a “secret” Facebook account.
 The record It’s a privacy alias.
-After years of undercover work against child predators, she kept her real name off social media. [75] The record they can’t argue with 21 years in the U.S.
+After years of undercover work against child predators, she kept her real name off social media. [75] Seth’s campaign has now published the alias on its website.
+The claim She promoted an antisemitic rapper (the Yeezy shirt).
+The record It was a joke T-shirt from 2016, years before Ye’s antisemitic rants.
+Her husband wore a “Deez Nuts” shirt the same day.
+The claim She associates with a January 6th rioter (Sam Redfern).
+The record Alani doesn’t condone Sam Redfern’s past behavior.
+She does respect anyone doing that work.
+He’s an active supporter of I-194, the ballot measure to end dark money, and he has met with leaders across the spectrum, including former Gov.
+Brian Schweitzer and former congressional candidate Russell Cleveland, who posted their photo together from an I-194 event in Whitefish on October 7 ( photo ).
+Seth Bodnar is the last person who should complain about meeting across the aisle.
+On October 13 he invited President Trump to sit down with him: “I will come to meet you whenever and wherever your schedule allows.” ( his letter ) The claim She has “a pattern of associating with violent extremists and antisemites.” The record That’s the headline on a page Seth Bodnar’s campaign built about her ( archived copy ).
+Its evidence is the T-shirt and the interview above.
+The claim Her family is fair game.
+The record Seth’s campaign website now names and links to members of Alani’s family.
+If he thinks families are fair game, we disagree completely, and we condemn it.
+The record they can’t argue with 21 years in the U.S.
 Air Force.
 Retired as a lieutenant colonel on October 1, 2025.
 Special agent, Air Force Office of Special Investigations.

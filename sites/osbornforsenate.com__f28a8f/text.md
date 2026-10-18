@@ -7,7 +7,7 @@ Message frequency varies.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to unsubscribe.
-See Privacy Policy/Terms & Conditions 93 County tour Progress tracker Meet Dan Osborn My name is Dan Osborn and I’m running for U.S.
+See Privacy Policy/Terms & Conditions 93 County tour Progress tracker Visited Scheduled Next stop 93 County Tour – /93 counties visited Next stop Loading the schedule… See the full tour Meet Dan Osborn My name is Dan Osborn and I’m running for U.S.
 Senate in Nebraska.
 Every day, I roll up my sleeves and get to work, fixing what needs fixed.
 No institution in America needs fixing more than the United States Senate.

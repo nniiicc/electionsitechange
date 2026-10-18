@@ -4,6 +4,5 @@ Every door knocked and conversation had brings us closer to victory – so bring
 Whether it's your first time knocking doors or you're an experienced canvasser, we'll provide a short training and all the materials you need to hit the doors!
 Visit this Mobilize page to sign up for one or more shifts: https://www.mobilize.us/mobilize/event/1053561/ .
 Hosted by the DFL 2026 Coordinated Campaign.
-Previous Previous October 16 Legvold for Minnesota--phone banking in Northfield Next Next October 17 Legvold for Minnesota - Rosemount Door Knock with Senator Erin Maye Quade and Rep.
-Huot!
+Previous Previous October 16 Legvold for Minnesota--phone banking in Northfield Next Next October 20 Legvold for Minnesota - Farmington Door Knock!
 Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

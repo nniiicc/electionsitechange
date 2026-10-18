@@ -1,0 +1,18 @@
+Ir al contenido Ir al contenido Ir al pie de página Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Facebook LinkedIn X-Twitter Voluntario Colabora Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Kimberly Overman: « » para el Congreso Distrito 12 de Florida Recomendación Inicio » Noticias y eventos » Respaldos » Respaldos: Feminist Majority respalda a Kimberly Overman La organización «Feminist Majority» y el comité de acción política «Feminist Majority PAC» han dado su apoyo a Kimberly Overman como candidata al Congreso por el distrito 12 de Florida, destacando su trayectoria de servicio público.
+La organización «Feminist Majority» y el comité de acción política «Feminist Majority PAC» han dado su apoyo a Kimberly Overman como candidata al Congreso por el duodécimo distrito electoral de Florida.
+En su carta de apoyo, las organizaciones destacaron su trayectoria en el servicio público y su labor en favor de la vivienda asequible, la salud pública y las oportunidades económicas, como ejemplo del tipo de liderazgo centrado en las personas que necesita el Congreso.
+Feminist Majority también centró su respaldo en una cuestión pendiente: la Enmienda de Igualdad de Derechos (ERA).
+La organización sostiene que la ERA está a un voto del Congreso de convertirse en la 28.ª Enmienda, y que una mayoría demócrata podría aprobar la resolución conjunta que la ratifique.
+Overman ha situado la protección de los derechos de las mujeres y la libertad reproductiva en el centro de su campaña, y este respaldo refleja la confianza en que ella se haría cargo de esa lucha.
+Overman ejerció durante tres décadas como asesora financiera certificada antes de ocupar el cargo de concejala del condado de Hillsborough entre 2018 y 2022, incluido un año como presidenta.
+Posteriormente, ayudó a fundar el Consejo de Liderazgo en materia de Vivienda de Tampa Bay.
+Esa trayectoria —seguridad financiera, vivienda y salud pública— es lo que la organización Feminist Majority tuvo en cuenta en su decisión.
+### Contacto para los medios de comunicación: Overman para el Congreso – Distrito 12 de Florida 813-720-7719 4610 N Central Avenue Tampa, FL 33603 Vote@kimberlyoverman.com https://kimberlyoverman.com/ Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
+Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
+Colabora Este movimiento comienza contigo.
+Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
+Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.
+Voluntario Mantente informado Distrito 12 de Florida LinkedIn Instagram Enlaces Inicio Te presentamos a Kimberly Temas En las noticias Kimberly en Substack Comunicados de prensa Eventos Contacto Colabora Privacidad Ponte en contacto con nosotros vote@KimberlyOverman.com Overman al Congreso 4610 Central Avenue Tampa, FL 33603-3904 813-720-7719 © #.
+Todos los derechos reservados.
+Financiado por Overman para el Congreso Español English

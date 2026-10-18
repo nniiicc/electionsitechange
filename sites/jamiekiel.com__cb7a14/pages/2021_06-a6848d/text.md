@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=c0d5772bb8 News State Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b News State Rep.
 Kiel pushes for Franklin County church security ‘stand-your-ground’ protections on March statewide ballot One of the most vulnerable venues to mass shootings in recent years nationwide has been places of worship, specifically churches.
 Over the past several years, Rep.
 Lynn Greer (R-Rogersville) has attempted to push legislation that would allow churches to bolster protection against these threats Continue Reading Red Bay business receives $200K grant Rep.

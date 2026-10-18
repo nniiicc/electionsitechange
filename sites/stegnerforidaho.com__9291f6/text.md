@@ -1,25 +1,23 @@
-0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Leadership Idaho needs leaders who listen, solve problems, and serve the people they represent.
-I’m John Stegner.
-Lifelong Idahoan, former Idaho Supreme Court Justice, and principled leader running for Governor.
-Why I’m Running Across our state, families are asking if they can afford to stay here, build a career, raise a family, and access the healthcare and opportunities they need.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Meet John Stegner John Stegner is a lifelong Idahoan raised in Grangeville, former Latah County District Judge, and former Idaho Supreme Court Justice, whose career has been defined by service, responsibility, and a commitment to the Constitution.
+John is known throughout Idaho for his work pioneering drug and treatment courts - specialized courts that enable people to escape drug addiction and become contributing members of society, while simultaneously decreasing the costs of incarceration paid by taxpayers.
+Throughout his 26-year judicial career, he earned a reputation for thoughtful decision-making, constitutional integrity, and the willingness to stand by his convictions.
+John is running for Governor because he is frustrated by the state of politics in Idaho, and believes Idaho needs leaders who represent Idahoans.
+Learn more Standing on Principle Throughout my career, I've made decisions based on the Constitution, the facts, and what I believed was right.
+Not political pressure.
+Sometimes doing the right thing means standing alone, apart from others.
+But leadership isn't about doing what's easy; it's about doing what's right.
+As Governor, I'll bring that same commitment to serving the people of Idaho.
+About John Why I’m Running Across our state, families are asking if they can afford to stay here, build a career, raise a family, and access the healthcare and opportunities they need.
 For many, the answer is no.
 We have the highest grocery tax in the country.
 We have the highest incarceration rate of women in the country.
-We are creating systems that prevent Idahoans from thriving.
-Too many of our elected officials have stopped representing the people of Idaho.
+We are creating systems that prevent Idahoans from thriving because too many of our elected officials have stopped representing the people of Idaho.
 They ignore the rule of law and pretend following the Constitution is optional.
 I spent my entire career upholding the Constitution.
 It’s a responsibility I carried as a judge and as a Justice on the Idaho Supreme Court, and why I am running for Governor.
 I am not a career politician and I am not affiliated with a party.
 I answer to the people.
-Standing on Principle Throughout my career, I've made decisions based on the Constitution, the facts, and what I believed was right.
-Not political pressure.
-I am not endorsed or funded by any political party.
-Sometimes that meant standing alone, apart from others.
-But leadership isn't about doing what's easy.
-It's about doing what's right.
-As Governor, I'll bring that same commitment to serving the people of Idaho.
-Meet John Issues Affordability Families should be thriving in our state, not struggling to make ends meet.
+Issues Affordability Families should be thriving in our state, not struggling to make ends meet.
 Idahoans didn’t create the affordability crisis, but they deserve a governor focused on fixing it.
 Healthcare Access Idaho families deserve access to quality healthcare.
 We must address the challenges facing our healthcare system and strengthen access across our state.

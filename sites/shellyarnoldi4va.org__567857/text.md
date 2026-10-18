@@ -50,6 +50,10 @@ Safe Communities Stand with our first responders.
 Enforce the laws on the books.
 Keep Northern Virginia the kind of place families want to raise children and seniors want to retire.
 Upcoming Events All Events → Community WP Wise Traditions Conference Thu, Oct 15 · 8:00 PM 📍 Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA Details → Community LPNOVA Monthly After Hours Fri, Oct 16 · 6:00 PM 📍 Rocklands Barbeque & Grilling Company Details → Community Summit on Screen & Social Media Harms Wed, Oct 21 · 10:00 AM 📍 Washington, DC, USA Details → In the Media Shelly Speaks.
+Oct 15, 2026 · Arlington Now Shelly Arnoldi: Why you should vote for me We recently invited the candidates running for local office in the Nov.
+3 General Election to write a post about why Arlington residents should vote for them.
+Find information on how and where to vote here.
+Below is the unedited response from Shelly Arnoldi, who is running for House of Representatives 8th District.
 Sep 30, 2026 · Scott Tillman Term Limits: Questionable?
 Washington D.C. – U.S.
 Term Limits (USTL), the leader in the non-partisan national movement to limit terms for elected officials, praises 2026 U.S.

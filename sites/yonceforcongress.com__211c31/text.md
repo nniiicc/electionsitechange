@@ -6,8 +6,8 @@ Donate Volunteer Proudly endorsed Organizations standing with Eric.
 Emgage Action Florida Gun Sense Voter Defending Rural Florida National Organization for Women Jacksonville Democratic Progressive Caucus of Florida Center for Freethought Equality PAC American Small Business League Florida Environmental Caucus Our priorities $ Lower Costs Fighting inflation and lowering costs for Florida families. ◎ Strong Communities Investing in our communities and supporting local leaders. ★ Secure Our Future Protecting our freedoms and building a safer tomorrow. ▥ Limitless Opportunities Creating jobs and expanding opportunity for the next generation.
 On the campaign trail Meet us where you are.
 From town halls to neighborhood canvasses, every gathering is a chance to listen, connect, and move Florida’s Sixth forward.
-Explore all events Up next Fri, Oct 16 All Hands On Deck - Rally Prep Party!
-5:00 PM EDT · Marion Democratic Party Headquarters Meet Eric Rooted in Florida.
+Explore all events Up next Sun, Oct 18 Online Team Yonce Meetings- Sunday Edition!
+1:00 PM EDT · Virtual event Meet Eric Rooted in Florida.
 Focused on you.
 Eric Yonce is a business owner, community advocate, and progressive leader committed to serving Florida's 6th District.
 He believes public service starts with listening—and that strong communities grow when families, small businesses, and local leaders have the freedom to thrive.

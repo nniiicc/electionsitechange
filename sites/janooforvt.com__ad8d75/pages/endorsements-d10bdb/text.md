@@ -1,4 +1,4 @@
-Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Meet Amanda Volunteer Opportunities Town Hall State Tour VT Democratic Party Events News Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour VT Democratic Party Events News Endorsements Real power doesn’t live in party headquarters or donor networks.
+Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone and Text Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Meet Amanda Volunteer Opportunities Town Hall State Tour VT Democratic Party Events News Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour VT Democratic Party Events News Endorsements Real power doesn’t live in party headquarters or donor networks.
 It lives in our communities, our town halls, and the people who show up every day for the places they call home.
 That’s why this campaign isn’t collecting the standard slate of political endorsements.
 We’re earning one from every town in Vermont, all 252 of them.
@@ -89,7 +89,8 @@ Shira Sternberg Benson Annaleigh DeBoover Warehouse Supervisor Amanda Janoo brin
 Her work reflects a strong commitment to community‑driven development, and she helps localities build systems that are more adaptive, equitable, and future‑focused.
 With her experience, I trust that she will use data to guide her decisions, and I hope that she will support agricultural communities and manufacturing growth in Vermont.
 We need someone with a different perspective and background who can challenge the status quo within Vermont government.
-Berkshire Jayy Covert Margo Sherwood Realtor and Antique dealer Very impressed by her visit and messages at Enosburg s opera house meeting a few weeks ago Berlin Larry Novins Retired attorney her refreshing, realistic approach to the challenges our state faces.
+Berkshire Jayy Covert Community Organizer / Youth Leadership Development Amanda understands the need for state government decisions to be driven by local communities and contexts, with clear policy priorities that can create a Vermont where all of us can thrive!
+Margo Sherwood Realtor and Antique dealer Very impressed by her visit and messages at Enosburg s opera house meeting a few weeks ago Berlin Larry Novins Retired attorney her refreshing, realistic approach to the challenges our state faces.
 Suzanne Richman Life long educator and community chaplain.
 She is a pragmatic visionary and systems thinker willing to tackle long standing, unmet needs of Vermonters.
 She will push hard for accessible and free primary healthcare for all.
@@ -354,7 +355,18 @@ Partisan blaming is not helping & our problems are quickly compounding.
 Amanda Janoo is determined to preserve our VT way of life through collaboration, from town meeting up: Policy support for small business, sole proprietors, Mom-and-Pop shops, family farms, land stewards, sustainability pioneers, working folks (who actually live here) & the rural Independent Vermonters like me who simply want the freedom to work hard, live our own way, & have enough to live a peaceful dignified life on our own land.
 Please join me August 11th to Vote #AmandaJanoo In the primary.
 R.D.
-ENO Writer Her policy positions address the best interests of my town and of the state Calais Sophia Emigh Artist She’s fighting for causes that will support Vermonters in thriving here, not policies that will drive people out of the state due to unaffordable homes and healthcare and failing schools.
+ENO Writer Her policy positions address the best interests of my town and of the state Kerri Moll Clinical Social Worker, MSW, LICSW Amanda has the knowledge and experience economically to help our state and our citizens.
+She understands what it means to come from humble beginnings.
+Amanda has not forgotten the struggles of her own family.
+She is not a politician that has an agenda that directly benefits her, it benefits our state and our people.
+Amanda is the next generation of our state.
+A generation that has been held back due to the economic barriers they have faced, that have not been seen since the Great Depression.
+She herself knows what it is like to struggle to find housing and keep her head above the water financially in Vermont.
+We need people who have not forgotten this and have a realistic picture of what it means to try to survive in Vermont.
+We need to preserve the future of Vermont.
+We need to protect that future for generations to come.
+Amanda will do that.
+Calais Sophia Emigh Artist She’s fighting for causes that will support Vermonters in thriving here, not policies that will drive people out of the state due to unaffordable homes and healthcare and failing schools.
 With Amanda’s leadership I see Vermont becoming a model for community resilience.
 Without it I see us become a ghost state inhabited only by wealthy second home owners with no kids in sight.
 Sarah Gallagher Retired social worker I agree with her vision for Vermont.
@@ -589,6 +601,8 @@ She offers common sense ideas that address the root causes of these problems and
 Josie Leavitt Former Vermont State Representative, Development Director I'm endorsing Amanda because she's smart, innovative and has brought excitement back to the Governor's race.
 Dawn Pentenrieder retired Because she has a vision for change and change is what we need right now.
 We need concrete pathways to make Vermont more affordable and a place where people want to come raise their families Jenny Prince Food Systems / Podcast Producer Her platform is sane, inspiring, and gives me a sense of hope.
+Granville Mike Reiderer Non-Profit Administration Amanda brings ideas and energy to her candidacy that we haven’t seen for a long time.
+I appreciate her background as an economist, her progressive values, and her enthusiasm to make Vermonters’ lives better!
 Greensboro Jed Feffer Retired teacher I feel her platform is essential.
 Rosann Hickey Retired She seems most interested in and capable of making the real changes we need to rescue our state & country.
 We need new people and new ideas Naomi Ranz-Schleifer Media producer, public health and community development consultant Amanda has a vision for a future of Vermont that builds toward a quality of life for current AND future generations.
@@ -959,7 +973,16 @@ Randolph Center Mark Kelley Retired I believe a wellness economy is the best dir
 Readsboro Mary Oberly Retired Amanda believes in people power.
 We need to change the system that doesn't work for all.
 Amanda will lead us in making this change.
-Richmond Bruce Hennessey Farmer I believe that her solutions to housing, healthcare, climate change and financial equity are the key to a better future for Vermonters!
+Richford Brandy Sickles Administrative Coordinator It's time to have a governor who will meet with and listen to Vermonters.
+A governor with the knowledge of how to make Vermonters lives better not blame others for the problems we are facing.
+To have a vision for the future on how to build our communities from the ground up.
+How to increase healthcare access to all Vermonters.
+Its time for a new exciting governor with fresh ideas.
+Richmond Jeff Forward Retired Energy Consultant The problems in Vermont have only gotten worse over the past ten years of the current administration.
+Amanda will bring fresh eyes and new ideas for tackling health care, housing, climate change, energy affordability and a host of other issues.
+She will attract smart and motivated people to state government who will help her shape how we address these issues.
+Amanda is the change we need.
+Bruce Hennessey Farmer I believe that her solutions to housing, healthcare, climate change and financial equity are the key to a better future for Vermonters!
 Tom Lyle energy analyst for an electric utility We need new ideas, new leadership... and your connection with the Wellbeing Economy Alliance gives me hope we can get Vermont back on track to a brighter future.
 Mairead O’Reilly Attorney/Mom Her perspective on Vermont’s future is courageous and common sense.
 We need a governor who is focused on helping all Vermonters attain a dignified standard of living.

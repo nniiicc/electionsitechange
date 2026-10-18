@@ -87,6 +87,7 @@ This contribution is made from my own funds and not provided to me by another pe
 I am using my own personal credit or debit card, not a corporate, business, or another person’s card.
 I am not a federal contractor.
 Thank You For Your Support.
-Practical leadership that delivers for Monroe County and communities across NY-25.
+Mail a check Virginia McIntyre for Congress P.O.
+Box 64712 Rochester, NY 14624 Practical leadership that delivers for Monroe County and communities across NY-25.
 Campaign Meet Virginia Priorities The Plan Why Virginia On the Trail Get Involved Volunteer Donate Contact info@virginiamcintyreforcongress.com Monroe County, NY Legal Privacy Policy Terms & Conditions Paid for by Virginia McIntyre for Congress © # Virginia McIntyre for Congress.
 All rights reserved.

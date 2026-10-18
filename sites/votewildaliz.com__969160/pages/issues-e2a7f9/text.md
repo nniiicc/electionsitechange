@@ -9,7 +9,12 @@ That tax burden falls on New Haven families— on our property taxes, passed dow
 By law, the state has promised to pay cities 77% of what private colleges and hospitals would have paid in property taxes– but each year, we fall far short of this number.
 Mayor Elicker organized 28 mayors and first selectpeople across the state to petition to restructure PILOT — the basis of the tiered PILOT bill now bringing over $50 million more to New Haven every year.
 As state rep, Wildaliz will continue working across municipalities to make the state meet its statutory obligation to fully fund PILOT, so we can share the educational wealth in our community.
-Read about Mayor Elicker's endorsement → LOWER COSTS, GREATER OPPORTUNITY Bring down utility and energy costs Build affordable, energy-efficient housing Champion universal childcare, fully funded Bring tenants and landlords together for fair, stable rent Support the dignity of seniors aging in place Raise capital gains tax for those making over $1 million per year LOWER HOUSING COSTS Wildaliz supports the Department of Housing proposal capping rental increases for new landlords, they can’t increase rents beyond what tenants can reasonably pay.
+Read about Mayor Elicker's endorsement → SAFER STREETS, STRONGER NEIGHBORHOODS Fully staff open positions of New Haven Police and Fire Department Slow down our most dangerous state roads Fund crisis response & street outreach teams Back our Civilian Review Board FULLY STAFF OUR DEPARTMENTS Supporting our police and fire departments begins with getting them fully staffed.
+Wildaliz will support the new CBA with annual raises and increased starting salaries to make New Haven competitive with other cities.
+PREVENT TRAFFIC VIOLENCE State roads that cut through our communities are some of our most dangerous.
+Wildaliz will work with CTDOT and OSTA to lower speeds, add signals to crossings, and build sidewalks and bus shelters our neighborhoods have asked for over and over.
+SUPPORT CRISIS AND OUTREACH PROGRAMS Wildaliz will fight to support COMPASS and CTVIP to take mental health calls and conduct community outreach, allowing law enforcement to focus on investigating and preventing serious and violent crime.
+LOWER COSTS, GREATER OPPORTUNITY Bring down utility and energy costs Build affordable, energy-efficient housing Champion universal childcare, fully funded Bring tenants and landlords together for fair, stable rent Support the dignity of seniors aging in place Raise capital gains tax for those making over $1 million per year LOWER HOUSING COSTS Wildaliz supports the Department of Housing proposal capping rental increases for new landlords, they can’t increase rents beyond what tenants can reasonably pay.
 Wildaliz will also support SB 274, championed by Rep.
 Roland Lemar, to require LLC beneficial-ownership disclosure for landlords, so tenants and cities know who owns and profits from our buildings.
 She will also be a voice to amend the fair rent statute to extend Fair Rent Commission jurisdiction to low-income housing, so when a private equity company buys a development like Sunset Ridge and raises rates, the Commission can mediate.
@@ -33,11 +38,6 @@ Wildaliz will bring our community together to decide on its best use moving forw
 With imagination, we can make English Station the foundation of a more resilient, post-industrial future.
 TURN BROWNFIELD'S INTO GREENFIELDS DEEP's BiG grant program has no statute behind it.
 Let's codify BiG in state law, attach state bonding, and prioritize environmental justice communities like New Haven.
-SAFER STREETS, STRONGER NEIGHBORHOODS Fully staff open positions of New Haven Police and Fire Department Slow down our most dangerous state roads Fund crisis response & street outreach teams Back our Civilian Review Board FULLY STAFF OUR DEPARTMENTS Supporting our police and fire departments begins with getting them fully staffed.
-Wildaliz will support the new CBA with annual raises and increased starting salaries to make New Haven competitive with other cities.
-PREVENT TRAFFIC VIOLENCE State roads that cut through our communities are some of our most dangerous.
-Wildaliz will work with CTDOT and OSTA to lower speeds, add signals to crossings, and build sidewalks and bus shelters our neighborhoods have asked for over and over.
-BACK CRISIS AND OUTREACH WORKERS Wildaliz will fight to support COMPASS and CTVIP to take mental health calls and conduct community outreach, allowing law enforcement to focus on investigating and preventing serious crime.
 Moving New Haven Forward Connect with our campaign today.
 Join the Campaign: I’m in → You’re in!
 Welcome to Team Wildaliz — we’ll be in touch. contact@votebermudez.com Bermudez for NH Paid for by Bermudez for NH, Treasurer Shannon Raider Approved by Wildaliz Bermudez Wildaliz Bermudez Democrat for State Rep • 97th District

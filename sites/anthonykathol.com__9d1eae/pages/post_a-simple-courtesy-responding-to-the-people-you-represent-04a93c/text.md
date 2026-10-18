@@ -27,7 +27,7 @@ These are not merely campaign slogans; they are principles I believe should guid
 If elected as your next state senator, I will do my best to serve you faithfully, listen to your concerns, and respond when you reach out to me.
 I ask for your support and your vote on November 3, 2026.
 Take care, and God bless.
-Tags: Kathol for District 27 State Senate Political Accountability #votered Public Trust Government Accountability HB 1169 Transparency in Government South Dakota District 27 Performance Recent Posts See All A Challenge to all Men Aged 18 to 35 It Takes Teamwork Our Community Deserves Better Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Tags: Kathol for District 27 State Senate #votered Political Accountability Public Trust Government Accountability HB 1169 Transparency in Government South Dakota District 27 Performance Recent Posts See All A Challenge to all Men Aged 18 to 35 It Takes Teamwork Our Community Deserves Better Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

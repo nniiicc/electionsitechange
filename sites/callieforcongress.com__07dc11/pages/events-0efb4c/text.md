@@ -1,8 +1,5 @@
 Meet Callie Platform Endorsements Fire Jack Bergman Events Store Donate Navigate MI-01 Meet Callie Platform Endorsements Fire Jack Bergman Events Store Donate Callie Barr for Michigan's First District Campaign calendar Upcoming events See where Callie will be next, RSVP for public events, and invite the campaign to a community conversation near you.
-Schedule update No campaign events are published yet.
-We are locking in upcoming stops now.
-Please check back soon or invite the campaign to your community.
-Invite the campaign Bring Callie to your community Hosting a house party, union hall stop, or town conversation?
+When Oct 17, 2026 10:30 am Speaking No Kings Petoskey Hear Callie speak at the No Kings event Location Petosky, MI Arlington Park Gazebo When Oct 17, 2026 12:45 pm Speaking No Kings TC Hear Callie speak at the No Kings event Location Traverse City, MI Grand Traverse County Civic Center When Oct 18, 2026 1:00 pm – 5:00 pm Lunch & Canvassing Lunch with Callie & Canvassing Lunch from 1:00pm – 2:00pm Canvassing from 2:00pm – 4:00pm (optional) Back to the brewery from 4:00pm – 5:00pm Location Workshop Brewery 221 Garland St., Traverse City, MI Bring Callie to your community Hosting a house party, union hall stop, or town conversation?
 Send the campaign the basics and the team can follow up with availability, format, and turnout support.
 Invite the campaign × Enough is enough Help Callie fight for MI-01.
 A few dollars helps reach more voters with a message about lower costs, local jobs, rural healthcare, and a Congress that finally works for Northern Michigan. $10 $25 $50 Custom Paid for by Callie Barr for Congress PO Box 6921, Traverse City, MI 49696 The appearance of U.S.

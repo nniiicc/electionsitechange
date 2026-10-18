@@ -88,12 +88,14 @@ House Minority Leader Brad Jones — whose $275,000 in earmarks led all members 
 Late last year, the few Republican members of the House repeatedly blocked a spending bill with money for the emergency shelter system by using parliamentary maneuvering, ultimately forcing dozens of Democrats to attend an informal session to push it through.
 At the time, Mariano released statements accusing House Republicans of “obstructionism.” “I’ve been in the building long enough to know it’s a cause and effect,” Jones said, “even if it’s not stated.” Mariano’s office did not comment on the treatment of GOP budget amendments.
 Share this Post navigation PREVIOUS Previous post: Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Related Post Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Related Post Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+January 25, 2024 January 25, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
-“It is imperative Read More Read More Rep.
+Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
+Share this Read More Read More Rep.
 Holmes rolls to re-election in 6th Suffolk district Rep.
 Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
 Holmes Russell E.

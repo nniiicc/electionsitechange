@@ -12,14 +12,12 @@ SEE ALL ENDORSEMENTS Upcoming Events Multiple Dates Sat, Oct 17 GOTV Canvass, We
 Pick a shift when you sign up.
 The meeting spot comes with your confirmation.
 No experience needed: there's a short training and all materials are provided.
-Share Sat, Oct 17 GOTV Kick-off with Angie Craig, Sen.
-Seeberger and Jen Fox / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 1:00 PM Hastings (address sent when you sign up) Kick off Get Out the Vote with Rep.
-Angie Craig, Sen.
-Judy Seeberger and Jen Fox, then knock doors in Hastings.
-Open to first-time and experienced canvassers; training and materials provided.
-The address is sent when you sign up.
 Share Wed, Oct 21 DFL Leader Knock with Zack Stephenson / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 4:00 PM Hastings (address sent when you sign up) Knock doors with DFL House Leader Zack Stephenson and Jen Fox, 4 to 7pm in Hastings.
 The meeting spot comes with your confirmation.
+Share Multiple Dates Wed, Oct 21 Door Knock, Wednesdays 5pm / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 5:00 PM – 8:00 PM Hastings (address sent when you sign up) An after-work knock in Hastings.
+No experience needed.
+The meeting spot comes with your confirmation.
+You'll get a short walkthrough, a partner if you want one, and a list of houses.
 Share Load More ELECTION DAY IS NOVEMBER 3 Early voting is open now, in person or by mail.
 More early voting sites open Friday, October 16.
 Minnesota also registers voters at the polls on Election Day, so no one is turned away.

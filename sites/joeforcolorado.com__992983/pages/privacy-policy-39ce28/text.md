@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Privacy Policy INFORMATION THAT IS GATHERED FROM VISITORS In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Privacy Policy INFORMATION THAT IS GATHERED FROM VISITORS In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
 Where registration is required, the visitor’s email and a username will be stored on the server.
 HOW THE INFORMATION IS USED The information is used to enhance the vistor’s experience when using the website to display personalised content and possibly advertising.
 E-mail addresses will not be sold, rented or leased to 3rd parties.

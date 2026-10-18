@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety 2nd Amendment & Gun Violence Cindy is a strong believer in the Second Amendment of the Constitution of the United States.
+Search Menu Skip to content Home Cindy In Indy Donate/Volunteer/Contact Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety 2nd Amendment & Gun Violence Cindy is a strong believer in the Second Amendment of the Constitution of the United States.
 She does not believe that restrictive gun laws are the answer to curbing violent crime in America.
 Such measures only prevent law-abiding citizens from protecting themselves because criminals, by definition, do not follow the law.
 Cindy believes we must combat the culture of violence in society, and address the underlying mental health issues that contribute to this violence.

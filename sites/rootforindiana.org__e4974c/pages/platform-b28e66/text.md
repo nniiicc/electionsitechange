@@ -1,7 +1,7 @@
-0 Skip to Content Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Folder: Platform Back The Platform In the News Endorsements Folder: Get Involved Back Newsletter Volunteer Yard Sign Merch Events Folder: Voting Info Back Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Back Donate — The Platform — Kirsten’s platform is built on three commitments: care before crisis, stability for working families, and a government that works for everyone.
+0 Skip to Content Home Platform The Platform In the News Endorsements Get Involved Events Newsletter Volunteer Yard Sign Merch Voting Info Early Voting and Vote-by-Mail Ballotpedia Voter Guide Know Your Rights Contact Kirsten English Donate Open Menu Close Menu Home Platform The Platform In the News Endorsements Get Involved Events Newsletter Volunteer Yard Sign Merch Voting Info Early Voting and Vote-by-Mail Ballotpedia Voter Guide Know Your Rights Contact Kirsten English Donate Open Menu Close Menu Home Folder: Platform Back The Platform In the News Endorsements Folder: Get Involved Back Events Newsletter Volunteer Yard Sign Merch Folder: Voting Info Back Early Voting and Vote-by-Mail Ballotpedia Voter Guide Know Your Rights Contact Kirsten English Back Donate — The Platform — Kirsten’s platform is built on three commitments: care before crisis, stability for working families, and a government that puts people over profits.
 Every policy should answer at least one of these questions: Does it fix problems before they become more expensive?
-Does it help working families build a stable life?
-Does it make the government accountable to the people who pay for it?
+Does it protect working families and help them build a stable life?
+Does it make the government accountable to the people who pay for it instead of to corporations?
 Expand Public Healthcare Coverage When people cannot get care early, problems get worse, families suffer, emergency rooms fill up, and taxpayers pay more later.
 A state healthcare buy-in would help working families who make too much for current assistance programs but not enough to afford private insurance.
 It would also help small businesses that want to take care of their workers but can’t compete with the benefits large corporations can offer.
@@ -212,7 +212,7 @@ Banning disclosure agreements that keep taxpayers in the dark.
 Invest in Hoosiers, Not Foreign Governments Hoosier families are being told there is not enough money for schools, healthcare, childcare, infrastructure, and local services while state leaders are using public dollars to build special financial partnerships with the Israeli government and Israeli companies.
 I will oppose Governor Braun’s taxpayer-funded Israel partnerships, support divestment from Israeli government bonds and state investments tied to Israel, and continue to refuse money from AIPAC and AIPAC-aligned groups.
 Indiana’s money should work for working people here at home, not powerful foreign governments and well-connected corporations.
-Government That Works for Everyone Pay Incarcerated Workers Fairly If the goal of incarceration is accountability and rehabilitation, people need a real path back to responsibility.
+Government That Puts People Over Profit Pay Incarcerated Workers Fairly If the goal of incarceration is accountability and rehabilitation, people need a real path back to responsibility.
 People in prison should be held accountable, but they should not be forced to work for free.
 Kirsten will support legislation to pay incarcerated workers a fair wage.
 Fair wages would allow incarcerated people to: Pay restitution to victims.
@@ -280,6 +280,6 @@ Redirects resources toward trafficking, exploitation, coercion, and abuse.
 Protects survivors from arrest when they need help.
 Improves services for people leaving exploitation or violence.
 Focuses law enforcement on those who are harming, coercing, trafficking, or abusing others.
-Rights, Freedom, and Accountability Make an Impact #ago Kirsten has a plan to support Hoosiers through healthcare for all, ending corporate greed, keeping Hoosiers safe, and providing freedom and opportunity for all.
+Make an Impact #ago Kirsten has a plan to support Hoosiers through healthcare for all, ending corporate greed, keeping Hoosiers safe, and providing freedom and opportunity for all.
 Donate today to help our campaign reach every corner of District 21. $5 $20 $100 $10 $50 Other Root for Indiana Contact us: info@rootforindiana.org Follow us on social media!
 Paid for by Root for IN

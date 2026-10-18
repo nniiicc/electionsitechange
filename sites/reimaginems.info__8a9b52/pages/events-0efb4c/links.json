@@ -5,10 +5,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=104+south+applegate+street+winona%2C+mississippi%2C+38967+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=106+green+lee+avenue+mound+bayou%2C+mississippi%2C+38762+united+states"
 },
 {
@@ -73,10 +69,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=33853+mississippi+35+vaiden%2C+mississippi%2C+39176+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=40+mississippi+184+bude%2C+mississippi%2C+39630+united+states"
 },
 {
@@ -138,10 +130,6 @@
 {
 "text": "Bude Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
-},
-{
-"text": "Carroll County Meet and Greet",
-"href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "Centreville Meet and Greet",
@@ -221,10 +209,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Carroll+County+Meet+and+Greet&dates=20261006T171500Z%2F20261006T174500Z&location=33853+Mississippi+35%2C+Vaiden%2C+Mississippi%2C+39176%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Centreville+Meet+and+Greet&dates=20261014T190000Z%2F20261014T191500Z&location=North+Cosby+Street%2C+Centreville%2C+Mississippi%2C+39631%2C+United+States"
 },
 {
@@ -286,10 +270,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mayersville+Meet+and+Greet&dates=20261011T200000Z%2F20261011T201500Z&location=132+Court+Street%2C+Mayersville%2C+Mississippi%2C+39113%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montgomery+County+Meet+and+Greet&dates=20261006T180000Z%2F20261006T190000Z&location=104+South+Applegate+Street%2C+Winona%2C+Mississippi%2C+38967%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -365,10 +345,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet?format=ical"
 },
 {
@@ -434,10 +410,6 @@
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -516,10 +488,6 @@
 "href": "https://www.electbenniefoster.com/meetfoster"
 },
 {
-"text": "Montgomery County Meet and Greet",
-"href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
-},
-{
 "text": "Mound Bayou Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
 },
@@ -574,10 +542,6 @@
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
-},
-{
-"text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -646,10 +610,6 @@
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet"
-},
-{
-"text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -724,10 +684,6 @@
 "href": "https://www.electbenniefoster.com/events/bude-meet-and-greet"
 },
 {
-"text": "[image: Carroll County Meet and Greet]",
-"href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
-},
-{
 "text": "[image: Centreville Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/centreville-meet-and-greet"
 },
@@ -790,10 +746,6 @@
 {
 "text": "[image: Mayersville Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet"
-},
-{
-"text": "[image: Montgomery County Meet and Greet]",
-"href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
 },
 {
 "text": "[image: Mound Bayou Meet and Greet]",

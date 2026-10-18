@@ -11,9 +11,9 @@ Fix Our Roads by delivering Kern County’s fair share of funding for infrastruc
 Build New Housing and expand programs to help first-time homebuyers.
 Help Businesses create jobs that pay good wages and offer benefits for workers.
 SHOW YOUR SUPPORT!
-GET A FREE CAMPAIGN BUTTON Order Yours Today California Democratic Party “The California Democratic Party is proud to endorse Andrae Gonzales for State Assembly.
-Andrae is an experienced leader who has devoted his career to advocating and delivering for Kern County.
-As a State Assemblymember, he’ll be a strong voice in the resistance against the Trump Administration’s chaotic policies and will continue to put working people first.” More Endorsements ANDRAE’S RECORD Discover how Andrae Gonzales has positively impacted Bakersfield Ward 2 through innovative initiatives, community support, and a strong commitment to enhancing the local quality of life.
+GET A FREE CAMPAIGN BUTTON Order Yours Today International Union of Operating Engineers (IUOE) Local 12 “IUOE Local 12 is proud to stand with Andrae Gonzales just as he has stood with working families throughout his public service.
+He’s a leader who listens, cares, and is ready to make tough decisions to get results.
+We are confident that Andrae will fight for fairness, equality, and opportunity for Kern County.” More Endorsements ANDRAE’S RECORD Discover how Andrae Gonzales has positively impacted Bakersfield Ward 2 through innovative initiatives, community support, and a strong commitment to enhancing the local quality of life.
 Learn More Thank you for your donation!
 Home Register To Vote © Copyright # Andrae Gonzales.
 All rights reserved Paid for by Andrae Gonzales for Assembly 2026 FPPC ID# 1482477.

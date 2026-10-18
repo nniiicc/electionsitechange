@@ -97,6 +97,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=600+cedar+street+wallace%2C+idaho%2C+83873+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=619+irving+street+caldwell%2C+idaho%2C+83605+united+states"
 },
 {
@@ -313,6 +317,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Wallace&dates=20261020T210000Z%2F20261020T223000Z&location=600+Cedar+Street%2C+Wallace%2C+Idaho%2C+83873%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+the+Candidate+-+Payette&dates=20261016T000000Z%2F20261016T020000Z&location=127+North+Main+Street%2C+Payette%2C+Idaho%2C+83661%2C+United+States"
 },
 {
@@ -505,6 +513,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-wallace?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise?format=ical"
 },
 {
@@ -654,6 +666,10 @@
 {
 "text": "Todd Event - Meet & Greet - Sandpoint",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint"
+},
+{
+"text": "Todd Event - Meet & Greet - Wallace",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-wallace"
 },
 {
 "text": "Todd Event - Meet the Candidate - Payette",
@@ -817,6 +833,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-wallace"
+},
+{
+"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
 },
 {
@@ -948,6 +968,10 @@
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
 },
 {
+"text": "[image: Todd Event - Meet & Greet - Coer d'Alene]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
+},
+{
 "text": "[image: Todd Event - Meet & Greet - Coeur d'Alene]",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
 },
@@ -966,6 +990,10 @@
 {
 "text": "[image: Todd Event - Meet & Greet - Sandpoint]",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-sandpoint"
+},
+{
+"text": "[image: Todd Event - Meet & Greet - Wallace]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-wallace"
 },
 {
 "text": "[image: Todd Event - Meet the Candidate - Payette]",
@@ -1018,10 +1046,6 @@
 {
 "text": "[no text]",
 "href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
-},
-{
-"text": "[no text]",
-"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
 },
 {
 "text": "[no text]",

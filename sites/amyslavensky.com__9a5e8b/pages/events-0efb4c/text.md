@@ -5,8 +5,7 @@ Sign up for more details This event’s address is private.
 Sign up for more details, Sacramento, CA, 95834 Join us as we canvass for Dr.
 Pan for Congress, Sean Frame for State Senate and Amy Slavensky for Assembly.
 Let's ride the Blue Wave together!!
-Victory happens at the door, one conversation at a time… Show more RSVP #TeamAmy and #TeamMoe Joint Canvass in Citrus Heights Rusch Community Park 7801 Auburn Blvd, Citrus Heights, CA, 95610 The November 3rd general election is right around the corner, and we've got doors to knock!
-Join Team Amy and Moe Sarama for canvassing in Citrus Heights on Saturday, October 17th, from 9:30 AM - 1:0… Show more RSVP #TeamAmy and #TeamSean Joint Canvass with NorCal Gun Violence Prevention This event’s address is private.
+Victory happens at the door, one conversation at a time… Show more RSVP #TeamAmy and #TeamSean Joint Canvass with NorCal Gun Violence Prevention This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Gold River, CA, 95670 The November 3rd general election is right around the corner, and we've got doors to knock!
 Join Team Amy and Team Sean for canvassing in Gold River on Sunday October 18th, from 12:00 PM - 4:00 PM al… Show more RSVP #TeamAmy Phone and Text Banking (Virtual) Multiple Times Virtual Event Join us for virtual phone and text banking every Monday through Wednesday and help elect Amy Slavensky to the State Assembly, District 7!

@@ -24,13 +24,7 @@ T-Shirts, signs, and more!
 Show your support for John Croisant with official campaign merchandise.
 Every purchase helps us reach more voters across Oklahoma's First District.
 SUPPORT JOHN!
-1 day to the event Sat, Oct 17 Canvassing | East Tulsa / Pancho Anaya Bakery RSVP Oct 17, 2026, 10:00 AM – 2:00 PM Pancho Anaya Bakery, 11685 E 21st St, Tulsa, OK 74128, USA Join John Croisant and Amy Hossain to canvass East Tulsa!
-Speak to the community and engage with voters and encourage them to show up on November 3rd.
-1 day to the event Sat, Oct 17 Downtown Tulsa | TCDP Pride Booth / East 6th Street & South Frankfort Avenue RSVP Oct 17, 2026, 10:00 AM – 10:00 PM East 6th Street & South Frankfort Avenue, E 6th St & S Frankfort Ave, Tulsa, OK 74120, USA Join John Croisant and the Tulsa County Democratic Party at Downtown Tulsa Pride Festival.
-Work the booth and inform potential voters about the upcoming election and the John Croisant campaign.
-1 day to the event Sat, Oct 17 Jenks Chili Cook-off | John Croisant Booth / Jenks Veterans Park RSVP Oct 17, 2026, 10:00 AM – 5:00 PM Jenks Veterans Park, 305 S Birch St, Jenks, OK 74037 Join Team Croisant at the Jenks America Chili Cook-off Booth.
-Work the booth and inform potential voters about the upcoming election and the John Croisant campaign.
-2 days to the event Sun, Oct 18 Canvassing | Broken Arrow / Creekwood Elementary RSVP Oct 18, 2026, 1:00 PM – 4:00 PM Creekwood Elementary, 1301 E Albany St, Broken Arrow, OK 74012, USA Join John Croisant and Cathy Smythe to canvass Broken Arrow!
+Sun, Oct 18 Canvassing | Broken Arrow / Creekwood Elementary RSVP Oct 18, 2026, 1:00 PM – 4:00 PM Creekwood Elementary, 1301 E Albany St, Broken Arrow, OK 74012, USA Join John Croisant and Cathy Smythe to canvass Broken Arrow!
 Speak to the community and engage with voters and encourage them to show up on November 3rd.
 ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
 POLLS ARE OPEN 7 AM - 7 PM.

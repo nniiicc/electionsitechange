@@ -20,13 +20,13 @@ Get Involved Today!
 It is time to put America first, restore accountability, and build a stronger, more prosperous future for all Americans.
 Find out how you can get involved with our campaign.
 Join Now!
-Rudy on Social Rudy Yakym @RudyYakym · 29 Sep 2104934309421346915 After four weeks and eleven counties on the Hoosier Heartland Tour, one thing was clear: Hoosiers want common sense.
-Lower taxes.
-Secure borders.
-Safe communities.
-Hoosier values.
-With November almost here, chip in before our end-of-month deadline to help KEEP THE HOUSE RED and Twitter feed image.
-Reply on Twitter 2104934309421346915 6 Retweet on Twitter 2104934309421346915 0 Like on Twitter 2104934309421346915 0 Twitter 2104934309421346915 Load More Used for the like, share, comment, and reaction icons Facebook Posts Early voting is underway, Hoosiers!
-Cast your vote to keep the House RED and keep fighting for lower taxes, safer communities, and common sense.
-Find early voting locations and hours: indianavoters.in.gov/ … See More See Less #ago View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 109 Comments: 68 Shares: 6 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 68 Comments Comment on Facebook LOAD MORE Stay In Touch First Name (Required) Last Name (Required) Email (Required) Submit Paid for by Rudy for Indiana Rudy for Indiana 5776 Grape Road, PMB #176 Mishawaka, IN 46545 Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Rudy on Social Rudy Yakym @RudyYakym · 13h 2111579506020389057 Great to be out door knocking in St.
+Joseph County this morning with our fantastic Republican ticket.
+Had wonderful conversations with dozens of Hoosiers and encouraged them to get out and vote on or before November 3rd!
+Twitter feed image.
+Twitter feed image.
+Twitter feed image.
+Reply on Twitter 2111579506020389057 Retweet on Twitter 2111579506020389057 0 Like on Twitter 2111579506020389057 2 Twitter 2111579506020389057 Load More Used for the like, share, comment, and reaction icons Facebook Posts Great to be out door knocking in St.
+Joseph County this morning with our fantastic Republican ticket.
+Had wonderful conversations with dozens of Hoosiers and encouraged them to get out and vote on or before November 3rd! … See More See Less #ago View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 74 Comments: 16 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 16 Comments Comment on Facebook LOAD MORE Stay In Touch First Name (Required) Last Name (Required) Email (Required) Submit Paid for by Rudy for Indiana Rudy for Indiana 5776 Grape Road, PMB #176 Mishawaka, IN 46545 Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Privacy Policy Donate

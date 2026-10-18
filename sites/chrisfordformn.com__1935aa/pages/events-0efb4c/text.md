@@ -1,5 +1,6 @@
 0 Skip to Content About Priorities Endorsements Get Involved Get Involved Host a Yard Sign Events Donate Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Get Involved Host a Yard Sign Events Donate Press Releases Open Menu Close Menu About Priorities Endorsements Folder: Get Involved Back Get Involved Host a Yard Sign Events Donate Press Releases Jun 18 to Nov 1 Recurring Doorknocks!
 Thu, Jun 18, 2026 5:00 PM Sun, Nov 1, 2026 5:00 PM Google Calendar ICS Sign up to join Team Ford on the doors and hear from voters all across the district!
 View Event → Sep 22 to Oct 27 Recurring Tuesday Phone Banks Tue, Sep 22, 2026 6:00 PM Tue, Oct 27, 2026 7:00 PM Google Calendar ICS Join us every Tuesday from now until election day to hit the phones and have the critical conversations!
+View Event → Oct 24 to Nov 3 Get Out The Vote (GOTV) Sat, Oct 24, 2026 10:00 AM Tue, Nov 3, 2026 8:00 PM Google Calendar ICS Join the MN DFL Coordinated Campaign to knock doors, phone bank, and have the critical conversations with voters.
 View Event → Chris Ford for MN Prepared and paid for by the Chris Ford for MN committee.
 PO Box 490021, 10611 Baltimore St NE STE 100, Blaine, MN 55449.

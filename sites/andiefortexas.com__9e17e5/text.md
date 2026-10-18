@@ -18,9 +18,7 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Events Oct 17 OUToberfest 2026 What: Third annual OUToberfest 2026 , the Brazos Valley Pride Festival!
-Come check out the artisan market, food and drink vendors, local non-profit and community resources, big stage performances and more!
-When: Saturday, October 17, 12–4 pm Where: Astin Mansion, 506 W 26th St, Bryan, TX 77803 Who: Candidates Andie Ho (HD-12) & Paul Thomasson (SD-5) Read more → Oct 18 Speed Dating with the Candidates What: A fun and fast-paced Candidate Forum where candidates from various local races rotate to tables of voters to answer questions When: Sunday, October 18, 1–5 PM Where: Larry J.
+RSVP Upcoming Events Events Oct 18 Speed Dating with the Candidates What: A fun and fast-paced Candidate Forum where candidates from various local races rotate to tables of voters to answer questions When: Sunday, October 18, 1–5 PM Where: Larry J.
 Ringer Public Library , 1818 Harvey Mitchell Pkwy S, College Station, TX 77845 Cost: Free Read more → Andie for Texas Political advertisement paid for by Andie Ho.
 Copyright #.
 Contact andieforHD12@gmail.com

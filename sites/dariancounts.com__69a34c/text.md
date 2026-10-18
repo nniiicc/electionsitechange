@@ -1,5 +1,5 @@
 COUNTS .
-MI · District 29 Home About Issues Press Contact Volunteer Donate Medicare for All / Money Out of Politics Issue No.
+MI · District 29 Home About Issues Press Contact Volunteer Donate Vote Darian Counts · State Rep · Nov 3rd Medicare for All / Money Out of Politics / Fight Unwanted Data Centers / Fight Flock Cameras Issue No.
 01 fall 2026 DARIAN COUNTS State Rep Dist.
 29 Downriver son ready to fight for Michigan.
 Donate · ActBlue Volunteer Read the Platform Musician · Entrepreneur · Downriver Darian Counts is honored to be endorsed by § 01 The Story From the stage to the statehouse.
@@ -32,10 +32,16 @@ By treating corporations as people with virtually unlimited spending power, we'v
 Ending Citizens United isn't just a policy fix; it's a step toward restoring political equality.
 Making sure elected officials are accountable to the public, not to big donors.
 It says that democracy belongs to people, not to the highest bidders.
-Read more 04 Education That Competes Make public education globally competitive again.
-Modern curriculum, paid trades pathways, and funding to retain great teachers.
+Read more 04 Education That Competes We talk a lot about the importance of education, but our priorities tell a different story.
+We live in a country where ignorance is too often celebrated, even at the highest levels of government.
+It's time to put our money where our mouth is.
+We must properly fund our public schools, support our teachers and administrators, make higher education more affordable, and connect educational opportunities directly with local employers and job creators.
+Education isn't just an expense.
+It's an investment in our children, our workforce, and our future.
 Read more 05 Property Tax Relief for Seniors Lower property taxes for seniors so a lifetime of work doesn't get taxed out of a home.
 Protect fixed-income residents.
+Establish income-based property tax relief for seniors who've paid off their homes but have limited incomes.
+Waive taxes for qualifying low-income seniors and allow deferrals for those facing hardship, so no one loses a home they've spent a lifetime paying for just because they can't afford property taxes.
 Read more Stand With Darian Read it.
 Share it.
 Vote it.

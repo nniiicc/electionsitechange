@@ -5,35 +5,47 @@ Follow Follow Follow First elected in 2018 , Brian has proudly represented Distr
 He is guided by unwavering core values of integrity, transparency, and accountability, and is deeply committed to serving with honesty and openness.
 Every action he takes is focused on faithfully representing the priorities and values of the community he serves.
 MEET BRIAN Please help me continue my tireless fight for Freedom and Liberty by Donating here.
-DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,454 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer My heartfelt thanks to everyone who joined me last night for an incredible evening at the Waterfront.
-To those who could not attend but contributed financially, thank you for standing with me.
-Your generosity and encouragement mean more than you know.
-Special thanks to our conservative rockstar, Kim Klacik; my D31 team—Nic Kipke, LaToya Nkongolo, and Mike Jacobs; Nathan Volke; and my Freedom Caucus colleagues Matt Morgan, Mark Fisher, and Robin Grammer.
-Above all, thank you to my beautiful wife, Kristie, and our son, Ty, my friends and family whose love and support make everything I do possible.
-I am deeply grateful for the people standing beside me and the community I have the honor to serve.
-Thank you for believing in me and in the freer, safer, more prosperous Maryland we are working to build together.
-Edit note: added photo from event ...
-See More See Less #ago View Comments likes love 43 Comments: 2 Shares: 4 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 2 Comments Comment on Facebook + Load more  Brian Chisholm Follow 848 1,836 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 9 Oct 2108409120776663523 When Maryland Democrats show us who they are, believe them: ➡️ 92 voted to pass the Community Trust Act and restrict ICE cooperation ➡️ Democrats killed Fairness in Girls’ Sports — again — so biological males can compete against our daughters ➡️ Democrats rushed a special Twitter feed image.
-Reply on Twitter 2108409120776663523 Retweet on Twitter 2108409120776663523 24 Like on Twitter 2108409120776663523 51 X 2108409120776663523 Brian Chisholm @Chisholmstrong · 6 Oct 2107334140190208430 Decisions that shape our communities deserve transparency, scrutiny, and a public voice.
-Earlier this evening, Delegate Brian Chisholm stayed through hours of County Council testimony to stand up for his constituents and speak against Bill 61-26, a sweeping revision of zoning Twitter feed video.
-Reply on Twitter 2107334140190208430 Retweet on Twitter 2107334140190208430 0 Like on Twitter 2107334140190208430 8 X 2107334140190208430 Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 5 Oct 2107127624040366223 According to just about every poll in the 2026 cycle, "affordability" is the TOP concern for voters.
-It's been our concern as well.
-It's why we could not vote for a Maryland budget in any of the last 4 years because it was balanced on tax and fee increases like the illustrated Twitter feed image.
-Reply on Twitter 2107127624040366223 Retweet on Twitter 2107127624040366223 19 Like on Twitter 2107127624040366223 51 X 2107127624040366223 Load More  Brian Chisholm Follow 848 1,836 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 9 Oct 2108409120776663523 When Maryland Democrats show us who they are, believe them: ➡️ 92 voted to pass the Community Trust Act and restrict ICE cooperation ➡️ Democrats killed Fairness in Girls’ Sports — again — so biological males can compete against our daughters ➡️ Democrats rushed a special Twitter feed image.
-Reply on Twitter 2108409120776663523 Retweet on Twitter 2108409120776663523 24 Like on Twitter 2108409120776663523 51 X 2108409120776663523 Brian Chisholm @Chisholmstrong · 6 Oct 2107334140190208430 Decisions that shape our communities deserve transparency, scrutiny, and a public voice.
-Earlier this evening, Delegate Brian Chisholm stayed through hours of County Council testimony to stand up for his constituents and speak against Bill 61-26, a sweeping revision of zoning Twitter feed video.
-Reply on Twitter 2107334140190208430 Retweet on Twitter 2107334140190208430 0 Like on Twitter 2107334140190208430 8 X 2107334140190208430 Retweet on Twitter Brian Chisholm Retweeted Maryland Freedom Caucus @MDFreedomCaucus · 5 Oct 2107127624040366223 According to just about every poll in the 2026 cycle, "affordability" is the TOP concern for voters.
-It's been our concern as well.
-It's why we could not vote for a Maryland budget in any of the last 4 years because it was balanced on tax and fee increases like the illustrated Twitter feed image.
-Reply on Twitter 2107127624040366223 Retweet on Twitter 2107127624040366223 19 Like on Twitter 2107127624040366223 51 X 2107127624040366223 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,454 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer My heartfelt thanks to everyone who joined me last night for an incredible evening at the Waterfront.
-To those who could not attend but contributed financially, thank you for standing with me.
-Your generosity and encouragement mean more than you know.
-Special thanks to our conservative rockstar, Kim Klacik; my D31 team—Nic Kipke, LaToya Nkongolo, and Mike Jacobs; Nathan Volke; and my Freedom Caucus colleagues Matt Morgan, Mark Fisher, and Robin Grammer.
-Above all, thank you to my beautiful wife, Kristie, and our son, Ty, my friends and family whose love and support make everything I do possible.
-I am deeply grateful for the people standing beside me and the community I have the honor to serve.
-Thank you for believing in me and in the freer, safer, more prosperous Maryland we are working to build together.
-Edit note: added photo from event ...
-See More See Less #ago View Comments likes love 43 Comments: 2 Shares: 4 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 2 Comments Comment on Facebook + Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
+DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,456 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
+Question 3 isn’t on your sample ballot?
+Maryland Dems want to redraw the map AND keep you from noticing.
+VOTE NO before it’s too late. ...
+See More See Less #ago View Comments likes love haha wow angry 157 Comments: 59 Shares: 82 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 59 Comments Comment on Facebook Play Load more  Brian Chisholm Follow 851 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 10h 2111592838316384604 Nothing to see here, move along.
+Matt Morgan @MattMorgan29A Neighboring states have an Inspector General.
+Maryland doesn't.
+Why?
+The Office of Legislative Audits flagged over $3 billion in federal funds the state can't document across eight agencies.
+Maryland ranks 42nd in fiscal responsibility, with a $25.7 billion hole and a D grade.
+I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 0 Like on Twitter 2111592838316384604 1 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 16h 2111499630672499062 Wait...
+Question 3 isn’t on your sample ballot?
+Maryland Dems want to redraw the map AND keep you from noticing.
+VOTE NO before it’s too late.
+Twitter feed video.
+Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 9 X 2111499630672499062 Brian Chisholm @Chisholmstrong · 15 Oct 2110765205940510967 I fight for your wallet.
+They fire back with lies.
+Here’s the record they hoped you wouldn’t see.
+Watch and share.
+Twitter feed video.
+Reply on Twitter 2110765205940510967 Retweet on Twitter 2110765205940510967 0 Like on Twitter 2110765205940510967 1 X 2110765205940510967 Load More  Brian Chisholm Follow 851 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 10h 2111592838316384604 Nothing to see here, move along.
+Matt Morgan @MattMorgan29A Neighboring states have an Inspector General.
+Maryland doesn't.
+Why?
+The Office of Legislative Audits flagged over $3 billion in federal funds the state can't document across eight agencies.
+Maryland ranks 42nd in fiscal responsibility, with a $25.7 billion hole and a D grade.
+I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 0 Like on Twitter 2111592838316384604 1 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 16h 2111499630672499062 Wait...
+Question 3 isn’t on your sample ballot?
+Maryland Dems want to redraw the map AND keep you from noticing.
+VOTE NO before it’s too late.
+Twitter feed video.
+Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 9 X 2111499630672499062 Brian Chisholm @Chisholmstrong · 15 Oct 2110765205940510967 I fight for your wallet.
+They fire back with lies.
+Here’s the record they hoped you wouldn’t see.
+Watch and share.
+Twitter feed video.
+Reply on Twitter 2110765205940510967 Retweet on Twitter 2110765205940510967 0 Like on Twitter 2110765205940510967 1 X 2110765205940510967 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,456 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
+Question 3 isn’t on your sample ballot?
+Maryland Dems want to redraw the map AND keep you from noticing.
+VOTE NO before it’s too late. ...
+See More See Less #ago View Comments likes love haha wow angry 157 Comments: 59 Shares: 82 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 59 Comments Comment on Facebook Play Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
 We were able to come to a verbal agreement for repayment.
 I am waiting on email documentation of our agreement and from there God willing I do expect all to be resolved with no further issues!
 I truly want to thank you and anyone on staff who assisted with helping me on this.

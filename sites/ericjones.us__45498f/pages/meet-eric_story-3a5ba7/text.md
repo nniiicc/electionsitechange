@@ -166,15 +166,14 @@ That includes my own party.
 Democrats have spent too long protecting the people writing the checks, and then wondering why nobody believes us.
 About the money in this campaign I'm mostly paying for this myself.
 Most of the money in this campaign is mine.
-Given as donations, not loans.
-I can't take it back.
 I'm investing my own resources into this race — because you need real resources to compete with corporate powers and special interests.
+Self-funding also enables me to be independent from the same corporations, special interests, and foreign interests.
 The rest of our campaign's funds come from individual people who chose to give it.
 No corporate PACs.
 No lobbyists.
 No special interests, and nothing from a foreign government.
 Real people who believe in me, in our campaign's ideas, and in our shared vision for the future.
-And not one donor accounts for more than 0.1% of our campaign funds.
+And not one outside donor accounts for more than 0.1% of our campaign funds.
 I've also had help from political leaders who believe in what I'm doing.
 They have provided guidance, contacts to build a team, donors, and some sense of how all of this works.
 Most of the people who ought to be running for office have neither the money nor those kinds of connections.

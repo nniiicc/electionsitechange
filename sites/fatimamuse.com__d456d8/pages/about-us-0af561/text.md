@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Get Involved There are plenty of ways to help the campaign, whether you have a few hours, can lend a hand at an event, or simply want to help spread the word.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Get Involved There are plenty of ways to help the campaign, whether you have a few hours, can lend a hand at an event, or simply want to help spread the word.
 Volunteer Help with campaign events, voter outreach, phone calls, canvassing, and other activities across Hunt, Hopkins, and Van Zandt counties.
 Host a Gathering or Community Conversation Bring together neighbors, friends, or members of your community for a conversation with Fatima about District 2.
 Invite Fatima or Contact the Campaign Have a question, want to share something happening in your community, or want to invite Fatima to an event or meeting?

@@ -13,12 +13,13 @@ Holmes said he hasn’t had a challenger in some time and having a challenger he
 Who knew we could raise $90,000 in four months?
 I didn’t know that, but that’s what we did.
 I thank Haris (Hardaway) for putting his name on the ballot.
-I’m better and the district is better because of it.” Share this Post navigation PREVIOUS Previous post: Minority leaders put legislative agenda behind thoughts and prayers NEXT Next post: Trinity’s project at 150 Centre St. wins BPDA board support Related Post Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+I’m better and the district is better because of it.” Share this Post navigation PREVIOUS Previous post: Minority leaders put legislative agenda behind thoughts and prayers NEXT Next post: Trinity’s project at 150 Centre St. wins BPDA board support Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+Citizens Bank filling a void at Blue Hill Ave. and Morton St.
+January 25, 2024 January 25, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
-“It is imperative Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.

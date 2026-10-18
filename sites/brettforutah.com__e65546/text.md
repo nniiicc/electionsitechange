@@ -1,4 +1,4 @@
-0 Skip to Content Home About Open Menu Close Menu Home About Open Menu Close Menu Home About Your neighbor, Brett Nielsen FOR UTAH HOUSE OF REPRESENTATIVES Saratoga Springs | Lehi | Eagle Mountain Why I’m running for office.
+0 Skip to Content Home About Articles and Stances SLT Article Candidate Questionnaire LWV Candidate Questionnaire Ballotpedia Candidate Questionnaire Network of Utah Moderates Candidate Comparison Open Menu Close Menu Home About Articles and Stances SLT Article Candidate Questionnaire LWV Candidate Questionnaire Ballotpedia Candidate Questionnaire Network of Utah Moderates Candidate Comparison Open Menu Close Menu Home About Folder: Articles and Stances Back SLT Article Candidate Questionnaire LWV Candidate Questionnaire Ballotpedia Candidate Questionnaire Network of Utah Moderates Candidate Comparison Your neighbor, Brett Nielsen FOR UTAH HOUSE OF REPRESENTATIVES Saratoga Springs | Lehi | Eagle Mountain Why I’m running for office.
 What I’ll do.
 Reduce class sizes.
 Fewer kids per teacher, quality education.
@@ -46,4 +46,5 @@ Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out.
 Text HELP for support or email: info@brettforutah.com.
-For more info visit: brettforutah.com/privacy-policy In the News Backlash Erupts in Utah County After 23-Year-Old Becomes Deputy Clerk — KSL Utah County Clerk Adjusts Title, Role of Appointed Staffer — KSL Conservative Influencer's Utah County Elections Job Raises Concerns — Salt Lake Tribune info@brettforutah.com 801.413.3480 Contact Info Paid for by Brett for Utah PRIVACY POLICY
+For more info visit: brettforutah.com/privacy-policy In the News Nielsen is open with his stances, Hansen is not. - Salt Lake Tribune Nielsen is open with voters, Hansen declined to answer. - Ballotpedia Nielsen answers League of Women Voter's questions, Hansen did not. - LWV Networ of Utah Moderates describes Nielsen as a principled leader with a focus on policy.
+Backlash Erupts in Utah County After 23-Year-Old Becomes Deputy Clerk — KSL Utah County Clerk Adjusts Title, Role of Appointed Staffer — KSL Conservative Influencer's Utah County Elections Job Raises Concerns — Salt Lake Tribune brett@brettforutah.com 801.413.3480 Contact Info Paid for by Brett for Utah PRIVACY POLICY

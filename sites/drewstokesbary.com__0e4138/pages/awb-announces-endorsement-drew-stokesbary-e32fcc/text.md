@@ -10,7 +10,5 @@ The Association of Washington Business is Washington’s oldest and largest stat
 AWB serves as both the state’s chamber of commerce and the manufacturing and technology association.
 Ninety percent of AWB members employ fewer than 100 people, and over half employ fewer than 10.
 For more about AWB, visit www.awb.org .
-Endorsements More For You Rep.
-Stokesbary’s first bill passes in state House In the News National Federation of Independent Business endorses Drew Stokesbary Endorsements Endorsed by Stand for Children!
-Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You Washington State Farm Bureau endorses Stokesbary Endorsements The News Tribune Endorses Stokesbary Again Endorsements The Seattle Times Endorses Stokesbary for Reelection Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

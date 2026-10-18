@@ -25,5 +25,6 @@ If we want Iowa to be known for strong public education, we need funding proposa
 Supporting the Future of Iowa’s Educational System Iowa should be a top state for valuing education, but to get there, we need to continue investing and make thoughtful policy decisions.
 If you’d like to make a difference, feel free to get in contact with me.
 I truly value hearing from the voices of our district, and fully believe we can solve this issue together.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

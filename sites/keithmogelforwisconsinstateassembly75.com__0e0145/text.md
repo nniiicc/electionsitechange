@@ -1,6 +1,6 @@
 Skip to content Keith Mogel for State Assembly Policy About Endorsements Donate Get Your Yard Sign Here!
 Election Day is November 3rd, 2026!
-More info here Join Keith for a Town Hall Forum on the 8th!
+More info here Join Keith for a Town Hall Forum on the 19th!
 Keith Mogel for Wisconsin State Assembly District 75 For too long, the Northern Assembly districts have been ignored by Madison.
 It is time for a true voice to head to Madison to protect our interests.
 I’m running for State Assembly because Northern Wisconsin deserves a leader who knows how to fight for the things we deserve: Funding for Rural Schools , Roads , and Healthcare , Local Authority for Local Issues , a Healthy Environment , and Affordable Cost of Living . → Why am I running?

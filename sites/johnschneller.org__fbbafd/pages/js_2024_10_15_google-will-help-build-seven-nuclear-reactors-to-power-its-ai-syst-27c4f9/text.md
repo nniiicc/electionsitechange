@@ -13,5 +13,6 @@ It’s the first agreement of its kind.” Google suggested that “…The first
 Other reactors will be deployed by 2035.
 All totaled, the deal will funnel 500 megawatts of power to the company’s AI technologies—enough to power a midsize city.” Google will help build seven nuclear reactors to power its AI systems (yahoo.com) Search our site for ‘nuclear’ to see other articles on this subject.
 SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

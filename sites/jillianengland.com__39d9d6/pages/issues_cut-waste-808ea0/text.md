@@ -16,6 +16,6 @@ We choose practical reality over political fantasy.
 Together, we can make Washington golden. — Jillian England Candidate for Washington State Senate, Legislative District 36 Donate Now to Cut the Waste Next Issue: Norse Home: Preserving Affordable Senior Housing → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 16, 2026 · Site version: 2d57d4f This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 17, 2026 · Site version: c7d9d9f-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News KEY ISSUES Mitch is NEWTOWN'S VOICE of REASON in Hartford. - Mitch puts partisanship aside for the sake of our community. - Courage to make tough decisions & fix CT's fiscal problems. - Mitch is an advocate for our seniors, as recognized by AARP & ALZ. - Compassionate... standing-up for vulnerable community members.
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News KEY ISSUES Mitch is NEWTOWN'S VOICE of REASON in Hartford. - Mitch puts partisanship aside for the sake of our community. - Courage to make tough decisions & fix CT's fiscal problems. - Mitch is an advocate for our seniors, as recognized by AARP & ALZ. - Compassionate... standing-up for vulnerable community members.
 AFFORDABILITY - When Do We Say Enough?
 I've never voted to raise your taxes , impose tolls, or slam you with fees that are nothing more than another way to tax you.
 I never will.
@@ -18,4 +18,4 @@ Endorsed by statewide law enforcement associations, Read More VOTING INFO 14 YEA
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

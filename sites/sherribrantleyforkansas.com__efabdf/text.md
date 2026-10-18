@@ -4,8 +4,7 @@ Advocate.
 Leader.
 I am a lifelong educator, passionate about our schools, committed to the success of our students, dedicated to finding real tax relief, and providing strong leadership for Kansas.
 I believe in God, family, and country.
-DON'T FORGET...register to vote by October 13, 2026.
-Register to vote Vote in the General Election on November 3rd.
+Vote in the General Election on November 3rd.
 If we don't, we lose!
 Information Discover my committee assignments, voting record, and supported legislation, demonstrating my dedication to effective service.
 Kansas House of Representatives We appreciate your feedback!

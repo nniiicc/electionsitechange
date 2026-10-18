@@ -1,4 +1,4 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy WELCOME to the Re-Elect Republican State Representative Craig Fishbein campaign website.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO WELCOME to the Re-Elect Republican State Representative Craig Fishbein campaign website.
 I am seeking to continue to represent the 90th General Assembly District which covers most of Wallingford, and all of Middlefield.
 I am presently the House Ranking Member (meaning the House Republican Leader) of the Judiciary Committee, as well as a member of the Public Safety & Security Committee, and the Regulations Review Committee.
 I am also a founding member of the Connecticut General Assembly Conservative Caucus, presently serve as its Chairman, and was previously its Vice-Chair for four years.
@@ -10,6 +10,5 @@ I hope you join me in support of those mutually desirable goals.
 For additional information about myself and the campaign, please feel free to select one of the categories under the menu bar.
 THANK YOU for visiting this site!
 Polls close in...
-November 3, 2026 at 8:00 PM News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
-MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+November 3, 2026 at 8:00 PM VOTER INFO News ENDORSED by the FRIENDS OF CT SPORTSMEN Backing Our First Responders Listening to Local Manufacturers Standing With Those Who Answer The Call Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Fishbein for Connecticut - Jo-Anne L.
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO Close Menu

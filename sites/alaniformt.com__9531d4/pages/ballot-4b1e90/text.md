@@ -1,10 +1,10 @@
 Skip to content November 3, 2026 Your Montana Ballot Six kinds of races, three statewide ballot questions.
 Two minutes and you'll know all of it.
-Ballots mail Oct 9 · Election Day Nov 3 Check your registration → Federal races Everyone votes U.S.
+Federal races Everyone votes U.S.
 Senate Alani Bankhead Retired Air Force Lt Col.
 Former federal supervisory special agent.
 No corporate PAC money.
-On the record on 114 of 118 issues.
+On the record on 126 of 130 issues.
 Where she stands Compare all four Debates Also running: Kurt Alme (R) · Seth Bodnar (I) · Kyle Austin (L) Western Montana only U.S.
 House · MT-01 Sam Forstag Labor leader and former smokejumper from Missoula.
 The Democratic nominee.

@@ -12,5 +12,6 @@ As Offshore Wind Struggles, is Advanced Nuclear a Viable Plan B for Eastern Stat
 Apr 1, 2025 Commentary on article by Representative Schneller: The article below neglects to point out that House Science Technology and Energy Committee (Of which I am a member) Chairman, Michael Vose, has guided Committee and full House efforts to bring Nuclear options to the...
 Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
 Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

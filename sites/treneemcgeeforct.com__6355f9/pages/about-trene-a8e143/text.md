@@ -16,6 +16,6 @@ Additionally, in 2021, Treneé joined the board of Pro-Black, Pro-Life, a non-pr
 She proudly identifies as a member of Dems for Life.
 The daughter of Pastors Paris & Denya McGee Sr., Treneé is a lifelong West Haven resident.
 She has a passion for her community and uses her voice every day to advocate for her fellow residents and serve the 116th district.
-A people-funded campaign proudly participating in Connecticut's Citizens' Election Program.
 Paid for by Re-Elect Treneé McGee, Patrick Leigh, Treasurer.
-Approved by Treneé McGee. bottom of page
+Approved by Treneé McGee.
+A people-funded campaign proudly participating in Connecticut's Citizens' Election Program. bottom of page

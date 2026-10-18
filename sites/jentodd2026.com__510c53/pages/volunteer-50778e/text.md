@@ -1,4 +1,4 @@
-Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Volunteer Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Volunteer Register today to join us for our bi-weekly Volunteer Zooms!
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Volunteer Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Volunteer Register today to join us for our bi-weekly Volunteer Zooms!
 Wed.
 Zooms at Noon!
 MOre options to volunteer!

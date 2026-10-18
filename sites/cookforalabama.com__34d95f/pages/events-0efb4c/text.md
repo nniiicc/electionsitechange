@@ -1,12 +1,5 @@
 Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Platform Events Volunteer Endorsements Contact District 43 Store Donate Join Us Meet Taylor Get out and meet Taylor at one of these events or schedule a virtual one-on-one meeting through the contact info at the bottom of the page!
-Virtual Panel Discussion TikTok Join me and other candidates for an online panel hosted by Sarah DeArmond and Zachary Mallory!
-Canvassing with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.
-We are powered by people, and canvassing is the most effective way to reach voters.
-During this event, volunteers will go door-to-door to introduce residents to Taylor Cook, share his vision for District 43, and make sure voters know what’s at stake in this election.
-Whether this is your first time canvassing or you’ve volunteered before, we will provide a brief training before we begin.
-You’ll receive a list of homes to visit, talking points, and everything you need to feel comfortable speaking with voters.
-Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
-RSVP No Kings: Vote Early Birmingham Railroad Park 1600 1st Ave S Birmingham, AL 35233 Oak Mountain State Park Harvest Festival Oak Mountain State Park 200 Terrace Drive Pelham, AL 35124 Lit Dropping with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
+Lit Dropping with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
 We are powered by people, and lit dropping is the most efficient physical way to reach voters.
 Whether this is your first time lit dropping or you’ve volunteered before, we will provide a brief training before we begin.
 We'll coordinate which homes to go to and provide everything you need to make it a smooth experience.

@@ -4,6 +4,7 @@ Msg & data rates may apply.
 Msg frequency may vary.
 Reply “STOP” to opt-out and “HELP” for help.
 View our Privacy Policy and Terms and Conditions for more information.
+Enable JavaScript to submit this form.
 Weekly Volunteer Schedule vote@isaiahforkansas.com © #.
 All rights reserved.
 Paid for by Isaiah for Kansas, Robert Norman, Treasurer.

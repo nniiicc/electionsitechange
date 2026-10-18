@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Second Amendment & Public Safety I support the Second Amendment rights of law-abiding Texans while also supporting practical measures that promote responsible firearm ownership and community safety.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Second Amendment & Public Safety I support the Second Amendment rights of law-abiding Texans while also supporting practical measures that promote responsible firearm ownership and community safety.
 Protect Lawful Gun Ownership I oppose blanket firearm bans and broad confiscation policies aimed at responsible gun owners.
 Public-safety policy should focus on people who actually pose a threat or violate the law rather than treating lawful gun ownership itself as the problem.
 Use the Public-Safety Tools Texas Already Has After reviewing the situations that red-flag laws are generally intended to address, I am not convinced Texas needs a separate red-flag law at this time.

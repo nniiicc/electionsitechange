@@ -1,9 +1,10 @@
 {
  "description": "Discover the Maureen Mooney biography, detailing her political career and service in the New Hampshire House of Representatives.",
  "final_url": "https://votemooney.com/biography",
- "fingerprint": "6753b918a8f6206b7ea53b86aec2e69632bef6d8",
+ "fingerprint": "60ec1db6874aadf41484af5fe060fb5ebd6db5bd",
  "format": 3,
  "paid_for_by": "Paid for by Maureen Mooney for State Representative, P",
+ "rendered": false,
  "title": "Biography",
  "years_mentioned": [
   "1997",

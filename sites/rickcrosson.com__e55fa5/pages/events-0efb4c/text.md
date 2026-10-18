@@ -1,4 +1,3 @@
-Skip to content Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Events Hosting Appearances List Calendar October 2026 SAT 17 11:00 am – 12:30 pm Appearance Forestville Town Hall Forestville Town Hall, 7705 CR-H, Forestville, WI Join Rick Crosson for Congress at his Forestville stop of his “Showing Up” Town Hall Tour.
-Rick will be joined by Assembly District 1 candidate, Renee Paplham and State Senate District 1 candidate, Mark Becker.
-Bring y… More Info Google Calendar Apple Calendar Outlook (.ics) No events match your filters. ← Prev Next → ✕ Support Rick Crosson for Congress Choose an amount to continue securely to ActBlue. $5 $25 $50 $100 $250 Other Website Policies P.O.
+Skip to content Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Events No upcoming events found.
+Support Rick Crosson for Congress Choose an amount to continue securely to ActBlue. $5 $25 $50 $100 $250 Other Website Policies P.O.
 Box 11321, Green Bay, WI 54307 info@rickcrosson.com Paid For by Rick Crosson for Congress Website Powered by WordPress and Built by Daniel Mulladzhanov

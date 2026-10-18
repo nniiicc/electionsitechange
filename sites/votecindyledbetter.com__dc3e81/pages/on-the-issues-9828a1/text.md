@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety On The Issues: Facts over Politics I believe good public policy begins with facts, not politics.
+Search Menu Skip to content Home Cindy In Indy Donate/Volunteer/Contact Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety On The Issues: Facts over Politics I believe good public policy begins with facts, not politics.
 We all have personal beliefs and values that shape our perspectives, and I am no exception.
 I am firmly pro-life, support school choice, and believe in protecting our Second Amendment rights.
 But having principles does not mean being unwilling to consider other perspectives.

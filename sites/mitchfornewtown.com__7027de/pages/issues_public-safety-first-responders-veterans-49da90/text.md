@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ PUBLIC SAFETY, FIRST RESPONDERS & VETERANS PUBLIC SAFETY, FIRST RESPONDERS & VETERANS - First Responders and Veterans deserve our support and respect.
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ PUBLIC SAFETY, FIRST RESPONDERS & VETERANS PUBLIC SAFETY, FIRST RESPONDERS & VETERANS - First Responders and Veterans deserve our support and respect.
 Rep.
 Bolinsky is committed to our safety and restoring law & order around our state.
 Endorsed by statewide law enforcement associations, he supports law enforcement and will not give-in to Progressive reforms, like the 2019 "Police Accountability Act" which removed officers' "qualified immunity" protections, making frivolous prosecution possible.
@@ -26,4 +26,4 @@ Endorsed by POACT (Police Officers Association of CT), CT Fraternal Order of Pol
 You have my word, I will only work with integrity & respect on both sides of the aisle to make your life better.
 THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE! « Previous: DELIVERING FOR SENIORS Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

@@ -8,6 +8,6 @@ Made it easier for college graduates to qualify for state loan forgiveness progr
 Created a family caregiver tax credit for residents caring for a loved one.
 Ensuring everyone has access to quality care Maximized federal funding for health care Supported systemic hospital changes to address rising costs Increasing protections for our children Increased fines for anyone who gives a vape to kids and strengthened penalties for stores that sell cannabis to a minor.
 Made it easier for kids who age out of foster care to access services, including special education programs.
-Stopped the practice of handcuffing kids under 14 A people-funded campaign proudly participating in Connecticut's Citizens' Election Program.
-Paid for by Re-Elect Treneé McGee, Patrick Leigh, Treasurer.
-Approved by Treneé McGee. bottom of page
+Stopped the practice of handcuffing kids under 14 Paid for by Re-Elect Treneé McGee, Patrick Leigh, Treasurer.
+Approved by Treneé McGee.
+A people-funded campaign proudly participating in Connecticut's Citizens' Election Program. bottom of page

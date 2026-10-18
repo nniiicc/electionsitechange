@@ -6,11 +6,10 @@ For the perfect fit, we recommend ordering one size larger than your usual size.
 This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
 Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
 Weight N/A Related products Quick View Help Deploy Malloy!
-Unisex classic embroidered tee $ 17.00 – $ 23.50 Price range: $17.00 through $23.50 Select options This product has multiple variants.
+Low-profile baseball cap $ 22.00 Select options This product has multiple variants.
 The options may be chosen on the product page Quick View Help Deploy Malloy!
-Unisex classic tee $ 20.50 – $ 31.00 Price range: $20.50 through $31.00 Select options This product has multiple variants.
-The options may be chosen on the product page Quick View Help Deploy Malloy!
-Yard sign $ 19.00 – $ 25.50 Price range: $19.00 through $25.50 Select options This product has multiple variants.
-The options may be chosen on the product page Quick View Help Deploy Malloy!
-Rocks glass $ 20.75 Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Flip straw water bottle $ 34.83 Quick View Help Deploy Malloy!
+Spiral notebook $ 19.43 Quick View Help Deploy Malloy!
+Women’s Relaxed T-Shirt $ 26.00 – $ 31.50 Price range: $26.00 through $31.50 Select options This product has multiple variants.
+The options may be chosen on the product page Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
 Copyright # Gerald Malloy for US Congress, Limited Contact for the campaign volunteer@deploymalloy.com PO Box 103 Perkinsville, VT 05151 802-263-5405 Media Request Privacy Policy Paid for by Gerald Malloy for US Congress , Limited Privacy Settings Youtube Consent to display content from - Youtube Vimeo Consent to display content from - Vimeo Google Maps Consent to display content from - Google Spotify Consent to display content from - Spotify Sound Cloud Consent to display content from - Sound Save Cart Overview

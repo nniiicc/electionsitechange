@@ -10,7 +10,7 @@ She served as a supervisory special agent with the Air Force Office of Special I
 2004 to 2013 Commissioned through Air Force ROTC, May 2004, with her sister.
 She was commissioned in May 2004 through Air Force ROTC at The Pennsylvania State University and entered active duty that July.
 Her early career was in personnel and readiness at Lajes Field in the Azores, followed by section command at Tinker Air Force Base.
-In 2008 she cross-trained into Special Investigations, completing the Criminal Investigator Training Program and the Basic Special Investigators Course, and served as an OSI operations officer at Misawa Air Base, Japan, where she was one of the Air Force's first agents trained for Internet Crimes Against Children task force work.
+In 2008 and 2009 she cross-trained into Special Investigations, completing the Criminal Investigator Training Program and the Basic Special Investigators Course, and served as an OSI operations officer at Misawa Air Base, Japan, where she was one of the Air Force's first agents trained for Internet Crimes Against Children task force work.
 While at Misawa, she deployed with Special Operations to neutralize Al Qaeda leaders.
 She then served as Chief of AFOSI Research, Development and Acquisition in Quantico, Virginia, leading the counter-intelligence mission that kept spies and terrorists from getting access to our most classified research and technologies.
 2013 to 2016 Pentagon security detail.

@@ -1,12 +1,12 @@
 Skip navigation menu About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate Join Us for Upcoming Events Get the Details: Become a Voting Member in the Democratic Party Virtual Event 🔥 WE ARE THE PARTY — you, me, us. 🔥 If we want a stronger Democratic Party, it’s on us to build it.
 No one is coming to fix it for us.
 If we want it to fight harder for our values, then we have to … Show more RSVP Help Power LD10 Democrats — Grassroots Fundraising Drive Multiple Times Virtual Event https://bit.ly/LD10SafetyFundraiser62726 Help Power LD10 Democrats — Grassroots Fundraising Drive Real organizing takes real resources—and in LD10, we’re building it together.
-Right now, we have supporters stepping up in a big way: for eve… Show more RSVP GOTV - Help Voters at the Vote Center Multiple Times Mesa Community College - Red Mountain Campus 7110 E McKellips Rd, Southside of Mesquite Loop - Northside of Campus.
-Mesa, AZ, 85207 🌟 Join our volunteers in NE Mesa as we talk to voters about critical ballot measures, candidates, and judges on the ballot! 🌟 We’re tabling at our local Vote Centers, handing out voter guides, and … Show more RSVP Neighborhood Fall Chili Party & Meet-and-Greet This event’s address is private.
+Right now, we have supporters stepping up in a big way: for eve… Show more RSVP Neighborhood Fall Chili Party & Meet-and-Greet This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Gilbert, AZ, 85296 Please RSVP to Kristen Mandly (602.692.3855) Sign up to participate in the Chili Cook-off or bring a dish to share.
 We will have mini pumpkins for the kids to decorate.
-Address provided upon RSVP RSVP LD 14 Democrats Monthly Meeting Multiple Times Fuse Flex Space 2700 S Gilbert Rd Suite 5, Chandler, AZ, 85286 Join LD 14 Democrats at our Monthly Meeting!
+Address provided upon RSVP RSVP GOTV - Help Voters at the Vote Center Multiple Times Mesa Community College - Red Mountain Campus 7110 E McKellips Rd, Southside of Mesquite Loop - Northside of Campus.
+Mesa, AZ, 85207 🌟 Join our volunteers in NE Mesa as we talk to voters about critical ballot measures, candidates, and judges on the ballot! 🌟 We’re tabling at our local Vote Centers, handing out voter guides, and … Show more RSVP LD 14 Democrats Monthly Meeting Multiple Times Fuse Flex Space 2700 S Gilbert Rd Suite 5, Chandler, AZ, 85286 Join LD 14 Democrats at our Monthly Meeting!
 Stay up to date on what's happening in your district, and hear from some pretty amazing speakers.
 Meeting from 7:00 - 8:15 PM.
 Social at 6:30 PM.

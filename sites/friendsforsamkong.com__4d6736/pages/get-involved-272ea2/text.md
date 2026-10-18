@@ -1,4 +1,4 @@
-top of page Skip to Main Content Home About Priorities Campaign Community Support Gallery Get Involved More Use tab to navigate through the menu items.
+top of page Home About Priorities Campaign Community Support Gallery Get Involved More Use tab to navigate through the menu items.
 If you wish to donate, you can send a check payable to "Friends for Sam Kong" at ​ Representative Sam Kong 98-818 F Kaonohi St.
 Aiea, HI 96701 ​ To volunteer, send an email to friendsforsamkong@gmail.com .
 Please put "VOLUNTEER" in the subject line.

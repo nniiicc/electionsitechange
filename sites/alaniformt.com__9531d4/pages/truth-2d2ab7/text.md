@@ -3,7 +3,19 @@ He thinks you’re too dumb to check.
 Prove him wrong.
 What his campaign and his super PACs said, side by side with what’s true.
 What Seth says His super PAC’s mailers The TV ads Every rumor, answered More videos on our YouTube channel → What Seth is saying about her Seth Bodnar himself: his own campaign videos, his own ad, his own interviews.
-They said “Alani Bankhead belonged to a pro-MAGA mega church that promotes anti-choice and anti-LGBTQ+ views.” Bodnar campaign video, Sept.
+Seth’s campaign built a whole page about her.
+Read it yourself ( archived copy , in case it disappears).
+They said Her “sister worked at the church,” with a link to a family member’s LinkedIn page.
+Seth Bodnar campaign website, October 2026 Out of bounds The truth Now he’s going after her family.
+Seth’s campaign is now naming and linking to members of the candidate’s family.
+If Seth thinks families are fair game in politics, we disagree completely, and we condemn it.
+Run against her record.
+They said “A pattern of associating with violent extremists and antisemites .” Seth Bodnar campaign website, October 2026 False The truth Their proof is a joke T-shirt from 2016 and one interview.
+The interview was with the founder and president of the Montana Veterans Association.
+Alani built her career putting child predators in prison.
+They said Everything happening to you “is actually happening because you created that .” Seth Bodnar campaign website, October 2026 Cut off The truth They stopped mid-thought.
+Her next sentence: “But it’s how you respond to those things that indicates the quality of your life.” (Humble Warrior Ep.
+76, 11:21) They said “Alani Bankhead belonged to a pro-MAGA mega church that promotes anti-choice and anti-LGBTQ+ views.” Bodnar campaign video, Sept.
 22, 2026 False The truth She stopped going before Trump was ever president.
 As a teenager She started going there.
 2011 and 2014 Back off and on when the Air Force stationed her in D.C.
@@ -158,9 +170,9 @@ Montana is the first place she chose.
 Seth: about eight years, all in Missoula.
 A joke “Promoted an antisemitic rapper.” A joke T-shirt from 2016, years before Ye’s antisemitic rants.
 Her husband wore a “Deez Nuts” shirt the same day.
-Twisted “Met with a January 6th MAGA influencer.” She met a man known for sitting down across the aisle.
-We won’t defend his record.
-Common ground is how anything gets done.
+Twisted “Met with a January 6th MAGA influencer.” Alani doesn’t condone Sam Redfern’s past behavior, and she respects anyone doing the work to change.
+He backs I-194 to end dark money and has met leaders across the spectrum.
+Seth Bodnar invited President Trump to sit down with him.
 And his big promise about himself They said He’ll negotiate for committee assignments the same way every other senator does.
 His answer when asked whether an independent who refuses to caucus can be effective.
 Newsweek, July 12, 2026 Not how it works The truth Senators don’t negotiate their own seats.

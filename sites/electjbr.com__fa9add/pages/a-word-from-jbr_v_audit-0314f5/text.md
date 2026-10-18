@@ -14,4 +14,4 @@ I definitely support the audit, and I think we need far more transparency in our
 So that's my opinion on the audit.
 That's where I stand.
 Thanks for listening.
-Previous Halifax's recent water shutoffs You Might Also Like Another Reason I support Labor Unions Being an Inaugural Member of American Service Fellowship at Harvard Moderating a Truman National Security Project Panel 25th Anniversary of 9/11 Uptick in ICE activity across the South Shore Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Previous Halifax's recent water shutoffs You Might Also Like Uptick in ICE activity across the South Shore Yet another school shooting today Being an Inaugural Member of American Service Fellowship at Harvard Halifax's recent water shutoffs One reason I support Labor Unions Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

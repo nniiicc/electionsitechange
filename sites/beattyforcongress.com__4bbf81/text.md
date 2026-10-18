@@ -39,10 +39,11 @@ Read More Mar 22 $26+ million for Central Ohio The Third Congressional District 
 Read More Feb 19 Save Voters Act Voting is a permanent guarantee that is the very lifeblood of our nation.
 As the Representative of Ohio’s Third Congressional District and the Chair of the Congressional Black Caucus, Representative Joyce Beatty is committed to doing everything in her power toward making it… Read More Feb 09 For the People Your voice is your vote, and your vote is your power.
 Our democracy must serve all Americans, and generations of civil rights activists like Congressman John Lewis fought to make sure every citizen has the opportunity to make their voice heard.
-Republicans in Congress and in… Read More Sign Up Stay Connected facebook.com/JoyceBeattyforCongress twitter.com/JoyceBeatty instagram.com/JoyceBeattyforCongress Joyce Beatty for Congress #ago Great to be in Kansas with the Black Caucus of the DNC!
+Republicans in Congress and in… Read More Sign Up Stay Connected facebook.com/JoyceBeattyforCongress twitter.com/JoyceBeatty instagram.com/JoyceBeattyforCongress Joyce Beatty for Congress #ago Great day today in Charlotte, North Carolina with Governor and soon to be Senator Roy Cooper .
+Wonderful to get to catch up with friends Chairwoman Clayton and Congresswoman Adams.
+Go VOTE! ...
+See More See Less Photo Joyce Beatty for Congress #ago Great to be in Kansas with the Black Caucus of the DNC!
 Thank you Chair Virgie Rollins for having me. ...
 See More See Less Photo Joyce Beatty for Congress #ago Join us on October 31st for our Annual Get out the Vote Rally -- Souls to the polls weekend.
 RSVP here: www.mobilize.us/ohiowins/event/1059580/ ...
-See More See Less Photo Joyce Beatty for Congress #ago A great weekend at Central States Homecoming.
-Thank you to all who attended and lovely spending time with Governor Wes Moore and future Governor Amy Acton. ...
 See More See Less Photo

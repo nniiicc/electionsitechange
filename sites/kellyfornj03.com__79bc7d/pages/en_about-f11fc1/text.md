@@ -7,7 +7,7 @@ Public service started early I was first elected to municipal office in New Jers
 That experience taught me that public service means listening, understanding budgets, answering questions, and being accountable for decisions that affect a community.
 I later left New Jersey to attend law school, but the lessons of local government stayed with me: show up, explain what you are doing, and remember who you work for.
 Kelly during his service on the Lake Como Borough Council in his early twenties.
-Education, teaching, and continuing to learn After local government, I continued my education while teaching at colleges in New Jersey, including Mercer County Community College.
+Explore the documented 2007 Borough Council record → Education, teaching, and continuing to learn After local government, I continued my education while teaching at colleges in New Jersey, including Mercer County Community College.
 That is also where I met my wife, Catherine.
 We were both teaching in different academic programs and eventually began building our lives together while continuing our graduate and doctoral studies.
 My academic background shaped how I approach public problems: listen carefully, study the evidence, be honest about tradeoffs, and focus on what actually works.

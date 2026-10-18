@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Taxes, Spending & Accountability Texans should be able to expect two things from state government: responsible use of their tax dollars and an honest explanation of who pays for new policies.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Taxes, Spending & Accountability Texans should be able to expect two things from state government: responsible use of their tax dollars and an honest explanation of who pays for new policies.
 My standard is simple: identify the funding, protect taxpayers, and do not pass the bill otherwise.
 Provide Meaningful Property-Tax Relief I support meaningful property-tax relief for homeowners, seniors, working families, farmers, ranchers, and small-business owners.
 But tax relief should not come by starving public schools or essential local services.

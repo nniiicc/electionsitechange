@@ -8,6 +8,10 @@
 "href": "https://shepardfornh.com/contact"
 },
 {
+"text": "Browse featured research",
+"href": "https://shepardfornh.com/nh-insights#featured-articles"
+},
+{
 "text": "Campaign Announcement",
 "href": "https://shepardfornh.com/announcement"
 },
@@ -56,12 +60,8 @@
 "href": "https://shepardfornh.com/privacy"
 },
 {
-"text": "Read NH Insights",
-"href": "https://shepardfornh.com/nh-insights"
-},
-{
-"text": "Read NH Insights →",
-"href": "https://shepardfornh.com/nh-insights"
+"text": "Read NH Insights articles →",
+"href": "https://shepardfornh.com/nh-insights#featured-articles"
 },
 {
 "text": "SCORE",

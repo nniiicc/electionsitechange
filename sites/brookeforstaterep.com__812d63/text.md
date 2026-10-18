@@ -7,7 +7,16 @@ A practical, people-first voice for Derby, Hamden, Orange, and Woodbridge.
 Brooke is ready to protect local control, lower everyday costs, and bring nearly three decades of service to Hartford.
 Get Involved View Priorities Vote Tuesday November 3, 2026 Our towns.
 Our voice.
-Brooke for State Representative Oct 17, 2026 FRIDAY.
+Brooke for State Representative Oct 18, 2026 ORANGE, YOU DO NOT DISAPPOINT!
+You showed up, opened your doors, shared your thoughts, and welcomed me onto your porches!
+The reception, conversations, and support have been incredible!
+And let me tell you… Orange has A...
+Open Post Visit Page Brooke for State Representative Oct 17, 2026 A COLOR RUN?
+You KNOW I was there!
+What a FUN day at the AMSB Color Run!
+So many smiling faces, amazing kids, colorful chaos, and great energy!
+A HUGE thank you to Dan DelPrete and the PTO for putting together such a fa...
+Open Post Visit Page Brooke for State Representative Oct 17, 2026 FRIDAY.
 WE MADE IT!!!
 What a week!
 Let's recap… 🩷 Went through THREE pink Sharpies writing handwritten welcome notes to our newest 114th neighbors.
@@ -20,8 +29,6 @@ Message me and l'll get you on the list.
 Brooke for State Rep - District 114 #DerbyCT #HamdenCT #OrangeCT #WoodbridgeCT...
 Open Post Visit Page Brooke for State Representative Oct 13, 2026 Another weekend in the books! ❤️ Family time, apple picking at #maccifarm lots of laughs, and of course… more door knocking!
 One thing I've really enjoyed about this experience is the conversations happening on people's...
-Open Post Visit Page Brooke for State Representative Oct 12, 2026 #HotTake #CTPolitics #Connecticut #brookeforstaterep #PeopleOverPolitics #CommonSenseGovernment #ConnecticutFamilies #AffordabilityMatters #GovernmentAccountability #YourVoiceMatters Open Post Visit Page Brooke for State Representative Oct 12, 2026 Here are a few Connecticut issues I’m watching this week: Rising gas prices are putting more pressure on families.
-With prices climbing rapidly, Connecticut has activated protections against excessive gasoline pricing,...
 Open Post Visit Page BROOKE IS 30 YEARS SOCIAL WORKER & ADVOCATE Nearly 30 years helping young people and families.
 MOTHER OF THREE Raising three children in the Amity school district.
 BUSINESS OWNER CO-OWNED CT YOUTH RESOURCES Supporting at-risk youth and families.

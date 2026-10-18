@@ -19,8 +19,8 @@ Taxpayers deserve accountability.
 Schools and state leaders should work together on both.
 Declining enrollment does not automatically translate into equivalent cost savings; transportation, specialized services, buildings, and other fixed costs take time to adjust.
 We need a constructive strategy that puts student learning at the center.
-What I’d focus on Improve literacy, math, attendance, and preparation for life after graduation.
-Make school spending and outcomes easier for parents and taxpayers to compare.
+What I’d focus on Define and enact a long-term education strategy that improves student outcomes, controls costs, and helps schools adapt to changing needs.
+Identify what works in New Hampshire schools and help districts adopt successful, cost-effective practices.
 Plan for enrollment changes, facilities, and special education costs.
 Explore shared services and regional cooperation where the evidence supports them.
 Read “From Defense to Strategy” ↗ 03 / HOUSING Make attainable housing possible.
@@ -53,4 +53,4 @@ Read NH Insights → Ask Scott a question SHEPARD FOR NH Scott Shepard is a Demo
 Facts.
 Strategy.
 Real Solutions.
-Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.

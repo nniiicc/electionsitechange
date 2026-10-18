@@ -4,4 +4,4 @@ From reactions to commentary by Nick Cannon on the Democratic Party, to the reco
 As a candidate for Congress in South Carolina, Zyon shared his perspective on the challenges facing local communities and how those issues connect to broader political movements across the country.
 The conversation highlighted his commitment to engaging with real concerns, bridging divides, and bringing fresh, thoughtful leadership to the table.
 Tune in to hear insights you don’t want to miss, and join the conversation.
-Previous The Type Of Candidate I Am You Might Also Like Speaking at Friendship Baptist Church Lexington County Democratic Convention Aiken County Democratic Convention The Type Of Candidate I Am No Kings Rally Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Previous The Type Of Candidate I Am You Might Also Like Lexington County Democratic Convention Speaking at Mount Anna Baptist Church 6th Annual Greek Fest The Type Of Candidate I Am New Times Require New Leadership Meet Zyon Khalifa Platform Volunteer Privacy Policy

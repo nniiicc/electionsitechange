@@ -1,54 +1,28 @@
-Close Donate Today Catherine Cullen State Representative Principles.
-Integrity.
-Experience.
-Proven leadership.
-A steady voice for our community.
-Ready to keep delivering.
-Donate Today Campaign Updates Meet Catherine A Trusted Rio Rancho Leader Catherine Cullen is a trusted leader and lifelong public servant who is running for re-election as State Representative.
-During her time in office, she has built a reputation for thoughtful leadership, hard work, and putting people first.
-Catherine believes government works best when it listens, solves real problems, and stays focused on results.
-Her record reflects that commitment.
-Dedicated to New Mexico As your State Representative, Catherine has focused on practical solutions that strengthen families, support local businesses, and protect the quality of life we value in New Mexico.
-She brings experience, consistency, and a clear sense of responsibility to the job — and she’s asking for your support to continue that work.
-A Record Worth Continuing “I’m running for re-election to keep moving our community forward, safer neighborhoods, a stronger economy, and schools that give every child a fair shot.
-I’m grateful for the trust you’ve placed in me, and I’m ready to keep earning it.” Priorities A proven focus on what matters most Catherine Cullen is running for re-election to continue the work she’s been doing for our community, protecting public safety, supporting families, and making thoughtful investments in New Mexico’s future.
-Lower Costs for Working New Mexicans Rising costs hit families first.
-As a State Representative, Catherine Cullen has focused on responsible budgeting and practical policies that help keep everyday expenses manageable.
-She supports efforts to reduce unnecessary fees, oppose tax increases that fall on working families, and promote smart use of state resources.
-Her goal is simple: help New Mexicans keep more of what they earn while maintaining essential public services.
-Safer Streets and Support for Law Enforcement Safe communities are the foundation of a strong state.
-Catherine supports law enforcement officers who put their lives on the line every day and believes accountability and public safety go hand in hand.
-She has worked to ensure police and first responders have the tools, training, and support they need, while backing laws that protect victims and strengthen community trust.
-Supporting Economic Development in Rio Rancho Economic growth doesn’t happen by accident.
-Catherine has worked to support local employers, attract new investment, and create an environment where businesses can grow and hire locally.
-By focusing on infrastructure, workforce readiness, and smart development, she helps ensure Rio Rancho continues to be a place where families can find good jobs close to home.
-Strong Schools That Put Kids First Education should prepare students for life, not just tests.
-Catherine supports schools, teachers, and parents by advocating for accountability, student achievement, and practical learning opportunities.
-She believes families deserve a voice in education decisions and that schools should focus on outcomes that help students succeed after graduation — whether that’s college, career training, or the workforce.
-Career and Technical Education and Trade Programs Not every path looks the same, and that’s a good thing.
-Catherine is a strong supporter of career and technical education, apprenticeships, and trade programs that lead directly to well-paying jobs.
-These programs give students real skills, strengthen the workforce, and help employers find trained workers right here in New Mexico.
-Protecting Quality of Life for Families and Seniors Quality of life means safe neighborhoods, accessible services, and strong communities.
-Catherine supports policies that help families and seniors remain independent, healthy, and connected.
-From community resources to thoughtful planning, she works to protect what makes New Mexico a great place to live at every stage of life.
-Roads and Infrastructure That Work for the Future Good infrastructure keeps communities moving and economies growing.
-Catherine has supported investments in roads, bridges, and public infrastructure that improve safety and reliability.
-She believes long-term planning matters and that infrastructure dollars should be spent wisely to benefit both current residents and future generations.
-Improving Access to Local, Quality Healthcare Access to healthcare close to home is critical.
-Catherine works to support local providers, protect rural healthcare access, and strengthen the healthcare workforce.
-She understands that families shouldn’t have to travel far to get quality care and supports policies that improve access while controlling costs.
-Higher-Paying Jobs and Workforce Growth A strong economy depends on a skilled workforce.
-Catherine supports initiatives that attract higher-paying jobs, invest in worker training, and help people advance in their careers.
-By aligning education, training, and economic policy, she works to create opportunity that lasts — not just short-term gains.
-Sign Up For Campaign Updates First Name * Last Name * Email * Phone Zip Code * SMS Consent I would like to receive text messages from The Committee to Elect Catherine Cullen.
-Submit By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts including possible fundraising solicitations, updates, and other important information from The Committee to Elect Catherine Cullen.
-By participating, you agree to the terms & privacy policy for messages from The Committee to Elect Catherine Cullen to the phone number you provide.
-Message frequency may vary.
-Msg & data rates may apply.
-Reply HELP for help or STOP to opt-out at any time.
-Email us at info@cullen4nm.com for assistance.
-SMS information is not rented, sold, or shared.
-View Privacy Policy and Terms & Conditions .
-Contact Catherine Have a question, concern, or idea?
-Catherine wants to hear from you.
-Name * Email * Message * Send message Mail Contributions to: 7820 Enchanted Hills Blvd NE, STE A 154 Rio Rancho, NM 87144 Paid for by the Committee To Elect Catherine Cullen Home Meet Catherine Priorities Campaign Updates Contact Follow Us Privacy Policy Terms & Conditions
+Close Meet Catherine Record & Results Priorities Get Involved Contact Donate SERVICE.
+ACCOUNTABILITY.
+RESULTS.
+A Record of Service.
+Delivering Results for Rio Rancho.
+Rooted in our schools, invested in our families, and delivering proven, bipartisan results for Rio Rancho in Santa Fe.
+Meet Catherine View Her Record Rio Rancho is Home.
+Public service isn't theoretical for Catherine.
+It is rooted in the neighborhoods where she raised her family, served on the school board, and worked alongside teachers, parents, and small business owners.
+In Santa Fe, she brings that roll-up-your-sleeves local grounding to the Roundhouse, championing legislation that protects neighborhood security, strengthens classrooms, and preserves the distinct character of Rio Rancho.
+"True representation doesn’t begin in Santa Fe.
+It starts by listening to families, neighbors, and the people who call Rio Rancho home." Catherine Cullen Meet Catherine A First-Term Record for Rio Rancho Proven, tangible delivery for working families and neighborhood priorities.
+See Catherine's First-Term Record Education Classroom Rigor & Teacher Support Sponsored targeted legislation on evidence-based literacy instruction, teacher licensure modernizations, educator retirement security, and transparent student graduation reporting.
+Public Safety Modern First Responder Resources Delivered actionable public safety legislation, strengthened racketeering statutes against retail theft rings, and secured critical subscriber funding for statewide emergency radio communications.
+Healthcare & Workforce Clinical Care & Mental Health Access Supported critical medical malpractice reform to retain local physicians in Sandoval County and enacted the Social Work Licensure Interstate Compact to recruit mental health providers.
+Capital Investments Secured $5M Directed to 39 projects across 2025 and 2026, supporting schools, public safety, infrastructure, parks, libraries, and community facilities in Rio Rancho and Sandoval County. $400K Library & Families Loma Colorado Main Library Children’s Area Construction • 2025 $350K School Safety Vista Grande Elementary Intercom System Replacement • 2026 $250K Public Safety Rio Rancho Police Department Vehicle Purchases • 2026 Focused on What Matters Most Four core commitments driving Catherine's ongoing legislative agenda for Rio Rancho families.
+View All Priorities 01 Public Safety & First Responders Modern communications, rapid crisis response times, and steadfast equipment funding for local law enforcement and firefighters.
+02 Public Education & Literacy Direct classroom funding, lowering administrative burdens on educators, and investing in proven early reading interventions.
+03 Affordability & Economy Protecting working family household budgets, lowering prescription healthcare costs, and attracting durable high-wage employers.
+04 Accessible Healthcare Keeping doctors and specialists practicing in Sandoval County, expanding local clinic access, and lowering prescription drug and out-of-pocket costs.
+Standing With Catherine Backed by frontline first responders and local leaders who know Rio Rancho.
+Rio Rancho Police & Communications Association Rio Rancho Firefighters - IAFF Local 4877 Gregg Hull Former Mayor, City of Rio Rancho Bob Tyler City Councilor, Rio Rancho Join Catherine's Team A winning campaign is powered by neighbors talking to neighbors across Rio Rancho.
+Pick the pathway that fits your schedule.
+Sign Up to Volunteer Request a Yard Sign Host a Meet & Greet Donate to the Campaign Stay Informed & Connected Receive concise legislative briefings, community town hall dates, and volunteer alerts.
+First Name * Last Name * Email Address * ZIP Code * Mobile Phone (Optional) Join the Team By providing your contact information, you agree to receive campaign updates from the Committee to Elect Catherine Cullen.
+Message and data rates may apply.
+Reply STOP to cancel at any time.
+Meet Catherine Record & Results Priorities Get Involved Contact Donate Paid for by the Committee to Elect Catherine Cullen 7820 Enchanted Hills Blvd NE, STE A 154, Rio Rancho, NM 87144 © # Committee to Elect Catherine Cullen Privacy Policy Terms & Conditions

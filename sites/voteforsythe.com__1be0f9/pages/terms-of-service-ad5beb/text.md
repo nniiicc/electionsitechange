@@ -1,5 +1,5 @@
 Meet Jessica Issues Successes!
-Volunteer Endorsements Media Campaign Swag Contribute Terms of Service Terms & Conditions Friends of Forsythe 1.
+Volunteer Endorsements Media Video Campaign Swag Contribute Terms of Service Terms & Conditions Friends of Forsythe 1.
 By opting in to receive text messages from Friends of Forsythe , you consent to receive voter contact, donation asks, and informational messages 2.
 You can cancel the SMS service at any time.
 Just text "STOP" to the short code.

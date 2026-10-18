@@ -10,7 +10,7 @@ Only in Las Vegas can a girl who lived in a campground on Boulder Highway become
 Read More ​ Upcoming Events Visit with Venicia Questions about our District?
 Want to discuss issues in our Community?
 Let's talk!
-The Next Visit with Venicia Monday, October 5, 2026 Whitney Recreation Center 11:30 - Senior Bingo East Las Vegas Democratic Club Next Meeting TBD ​ WHY I'M RUNNING Las Vegas has been my home now for over thirty-four years and I'm running for re-election to Nevada Assembly District 18 to ensure east Las Vegas families have the opportunities they need to build a good life, with affordable housing, well-paying jobs, and quality education for their families.
+The Next Visit with Venicia Monday, October 19, 2026 Whitney Recreation Center 11:30 - Senior Bingo East Las Vegas Democratic Club Next Meeting TBD ​ WHY I'M RUNNING Las Vegas has been my home now for over thirty-four years and I'm running for re-election to Nevada Assembly District 18 to ensure east Las Vegas families have the opportunities they need to build a good life, with affordable housing, well-paying jobs, and quality education for their families.
 My father was a firefighter and my mother sold Tupperware to make ends meet.
 After my father retired from the New York City Fire Department, we couldn’t afford to live in New York any longer so we moved.
 A lot.

@@ -44,7 +44,7 @@ But I believe in Maine, and I believe in the people of this state.
 I believe in your decency, hard work, and determination to build a better future for your families.
 That is why I’m running.
 To make sure the people of Maine have a Governor who sees them, listens to them, and fights for them.
-Events Oct 17 October 17, 2026 For a Better Maine Walking Tour: Farmington October 17, 2026 Read more → October 17, 2026 Oct 21 October 21, 2026 For a Better Maine Walking Tour: Portland and South Portland October 21, 2026 Read more → October 21, 2026 Oct 22 October 22, 2026 Meet Rick at Mast Landing October 22, 2026 Read more → October 22, 2026 INDEPENDENT FOR A BETTER MAINE Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Events Oct 21 October 21, 2026 For a Better Maine Walking Tour: Portland and South Portland October 21, 2026 Read more → October 21, 2026 Oct 22 October 22, 2026 Meet Rick at Mast Landing October 22, 2026 Read more → October 22, 2026 INDEPENDENT FOR A BETTER MAINE Contact Bennett for Governor info@BennettForGovernor.com P.O.
 Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
 This is your movement.
 We can’t do it without your help.

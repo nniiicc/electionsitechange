@@ -9,6 +9,8 @@ Payment details are not retained by this website.
 District lookup tool The "Am I in District 70?" address checker converts the address you type into map coordinates using Photon, a third-party geocoding service operated by komoot.
 Your address is sent to that service to perform the lookup, subject to its own privacy practices; this website never saves, stores, or shares the addresses you enter, and no address is associated with your identity.
 If you prefer not to use a third-party lookup, you can check your districts directly at indianavoters.in.gov .
+Video thumbnails Preview images for Sarah's YouTube videos on the home page load directly from YouTube's image servers, which receive your IP address and browser information to deliver them.
+YouTube does not set cookies when serving these images, and no video player is embedded on this site; videos open on YouTube only if you click one.
 Analytics Accessibility We are committed to making this website accessible to all visitors.
 If you experience any difficulty accessing content on this site, please contact us at me@sarahblessing.com and we will do our best to provide the information you need in an accessible format.
 Contact Questions about this policy can be sent to me@sarahblessing.com .

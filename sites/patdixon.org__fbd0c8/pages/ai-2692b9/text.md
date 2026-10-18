@@ -33,7 +33,7 @@ As I tell students every year, if you want to make the world better have a baby.
 Any time you hear the term “regulation”, understand there are 3 forms of it.
 Do not jump to the last one as the only solution without considering the first 2.
 Bookmark .
-Free Market Sustainability Property Tax 3 Comments Kyra Johnson July 14, 2026 at 17:00 AI development, being that it is unregulated right now, should be paused.
+Free Market Sustainability Property Tax 4 Comments Kyra Johnson July 14, 2026 at 17:00 AI development, being that it is unregulated right now, should be paused.
 We are rushing to become the biggest and the best in this field, which is what we Texans do obviously, but it can’t be denied that where these facilities are popping up the quality of life for the people around them goes down.
 I think deflating the “fears” people have about AI is not a good way to go about this topic.
 There are a few main companies driving the expansion of data centers and just looking at the owners of these companies you can guess that they do not have the best interest of the people and are only interested in how much money they will get by expanding and taking up our land.
@@ -51,5 +51,11 @@ When you look at the effects data centers are already having on our strained wat
 In addition and as a point of fact, the US has 45% of the total data centers globally.
 Texas itself has about as many data centers as the entire country of Canada.
 How many more data centers do we need before we actually look at how they are effecting our citizens?
-Reply Pingback: AI Data Centers Leave a Reply Cancel reply Your email address will not be published.
+Reply Pingback: AI Data Centers caleb October 16, 2026 at 18:57 AI is a massive problem.
+I’m a artist and these companies scraped my images and many others without my permission.
+It is a total violation of copyright law and personal liberty.
+Now these scammers go around with their photo splicing machine and do whatever they want with our images, using our work to try their hardest to replace us.
+AI is a cancer and needs to be stopped.
+The more anti AI you are the more likely I am to vote for you.
+Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

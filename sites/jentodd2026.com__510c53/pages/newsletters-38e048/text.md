@@ -1,5 +1,5 @@
-Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
-Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Weekly Campaign News!
+Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Weekly Campaign News!
 October 13, Tuesdays with Team Todd What are your Town Hall Questions?
 What's New : DIY Town Hall - Send your questions!
 Phone Banks are now on Sunday , Monday , and Wednesday !

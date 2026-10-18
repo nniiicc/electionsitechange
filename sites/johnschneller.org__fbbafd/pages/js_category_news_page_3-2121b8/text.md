@@ -1,4 +1,6 @@
-john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page NH Legislature Votes to End Vehicle Inspections Jul 3, 2025 NH House Republicans voted to end mandatory vehicle inspections, demanding that you personally maintain responsibility for your vehicle while allowing YOU to retain more of YOUR hard earned income.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Income Tax Vote Exposes Clear Divide in Concord Mar 31, 2026 On March 5, New Hampshire Republicans brought forward a constitutional amendment that would have permanently banned a state income tax.
+While we may disagree on many issues, both big and small, no greater distinction exists between the representatives you send to...
+NH Legislature Votes to End Vehicle Inspections Jul 3, 2025 NH House Republicans voted to end mandatory vehicle inspections, demanding that you personally maintain responsibility for your vehicle while allowing YOU to retain more of YOUR hard earned income.
 The number of states requiring safety inspections has dropped...
 As Offshore Wind Struggles, is Advanced Nuclear a Viable Plan B for Eastern States?
 Apr 1, 2025 Commentary on article by Representative Schneller: The article below neglects to point out that House Science Technology and Energy Committee (Of which I am a member) Chairman, Michael Vose, has guided Committee and full House efforts to bring Nuclear options to the...
@@ -10,11 +12,7 @@ Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-
 Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which...
 Democrats Are About to Make California Gas Even More Expensive Nov 4, 2024 “On Nov.
 8, three days after Election Day, the California Air Resources Board, a notionally independent agency whose appointees are controlled by the Democratic Party,” will likely implement stringent new fuel standards next year.
-The University of...
-European Nations Back Nuclear Power Ahead of Major Climate Summit Oct 23, 2024 Now Europe is unified in its embrace of Nuclear Power.
-The Granite State should be a leader and NOT a follower.
-What would it take to push New Hampshire into energy security and the future?
-REPUBLICAN LEADERSHIP and hard work!
-European nations back nuclear power ahead... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+The University of... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

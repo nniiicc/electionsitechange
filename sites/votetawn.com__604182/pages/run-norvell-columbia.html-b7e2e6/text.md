@@ -19,4 +19,4 @@ That is where Tawn starts, and it is what she heard from people in Norvell and C
 Ten miles of showing up, listening, and saying plainly where she stands.
 Saturday, October 10th • 3.75 miles Norvell • 6.25 miles Columbia Norvell and Columbia are done.
 Invite Tawn to the next community.
-Invite Tawn Donate Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg All Communities →
+Invite Tawn Donate Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg Next Leg →

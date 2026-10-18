@@ -32,8 +32,28 @@
 "href": "https://data.bls.gov/timeseries/CUUR0000SA0"
 },
 {
+"text": "(BLS, 2026b)",
+"href": "https://www.bls.gov/news.release/cpi.nr0.htm"
+},
+{
+"text": "(BLS, 2026c)",
+"href": "https://download.bls.gov/pub/time.series/ap/"
+},
+{
+"text": "(Bernanke & Blanchard, 2023)",
+"href": "https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/"
+},
+{
 "text": "(Bureau of Labor Statistics [BLS], 2026)",
 "href": "https://download.bls.gov/pub/time.series/cu/cu.data.15.USMedical"
+},
+{
+"text": "(CBO, 2025a)",
+"href": "https://github.com/US-CBO/cbo-data"
+},
+{
+"text": "(CBO, 2025b)",
+"href": "https://www.cbo.gov/system/files/2025-08/61367-Distributional-Effects.pdf"
 },
 {
 "text": "(CBO, 2026)",
@@ -46,6 +66,10 @@
 {
 "text": "(CMS, 2024)",
 "href": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
+},
+{
+"text": "(CRS, 2026b)",
+"href": "https://www.congress.gov/crs-product/IN12662"
 },
 {
 "text": "(Centers for Disease Control and Prevention [CDC], 2025)",
@@ -76,12 +100,44 @@
 "href": "https://comptroller.texas.gov/transparency/reports/cash-report/2020/cash-report-2020.pdf"
 },
 {
+"text": "(Congress.gov, 2021)",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/1319/all-actions"
+},
+{
+"text": "(Congress.gov, 2022)",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5376/all-actions"
+},
+{
+"text": "(Congress.gov, 2025)",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1/all-actions"
+},
+{
+"text": "(Congressional Budget Office [CBO], 2021)",
+"href": "https://www.cbo.gov/system/files/2021-02/56970-Outlook.pdf"
+},
+{
+"text": "(Congressional Budget Office [CBO], 2022)",
+"href": "https://www.cbo.gov/system/files/2022-08/58357-Graham.pdf"
+},
+{
 "text": "(Congressional Budget Office [CBO], 2026)",
 "href": "https://www.cbo.gov/publication/62756"
 },
 {
+"text": "(Congressional Research Service [CRS], 2026)",
+"href": "https://www.congress.gov/crs-product/IN12662"
+},
+{
+"text": "(Congressional Research Service [CRS], 2026a)",
+"href": "https://www.congress.gov/crs-product/R48290"
+},
+{
 "text": "(EIA, 2026a)",
 "href": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T09.01"
+},
+{
+"text": "(EIA, 2026b)",
+"href": "https://www.eia.gov/pressroom/releases/press590.php"
 },
 {
 "text": "(EIA, 2026b)",
@@ -90,6 +146,10 @@
 {
 "text": "(EIA, 2026c)",
 "href": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W"
+},
+{
+"text": "(Federal Reserve Bank of New York [FRBNY], 2026)",
+"href": "https://www.newyorkfed.org/research/policy/gscpi"
 },
 {
 "text": "(Finegold & Gunja, 2014)",
@@ -136,8 +196,24 @@
 "href": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres"
 },
 {
+"text": "(ITEP, 2026b)",
+"href": "https://www.itep.org/wp-content/uploads/US-and-state-estimates-download-for-Trump-Taxes-and-Costs.xlsx"
+},
+{
+"text": "(Institute on Taxation and Economic Policy [ITEP], 2026a)",
+"href": "https://itep.org/impact-of-trump-policies-on-taxes-and-consumer-costs-2026/"
+},
+{
 "text": "(Internal Revenue Service [IRS], n.d.)",
 "href": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision"
+},
+{
+"text": "(Internal Revenue Service [IRS], n.d.)",
+"href": "https://www.irs.gov/affordable-care-act/individuals-and-families/questions-and-answers-on-the-premium-tax-credit"
+},
+{
+"text": "(Jordà et al., 2022)",
+"href": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/03/why-is-us-inflation-higher-than-in-other-countries/"
 },
 {
 "text": "(KFF, 2026)",
@@ -236,12 +312,28 @@
 "href": "https://guides.loc.gov/presidents-portraits/chronological"
 },
 {
+"text": "(Minton et al., 2026)",
+"href": "https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html"
+},
+{
+"text": "(National Bureau of Economic Research [NBER], 2023)",
+"href": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions"
+},
+{
 "text": "(OMB, 2026)",
 "href": "https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/"
 },
 {
 "text": "(Office of Management and Budget [OMB], 2026)",
 "href": "https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/"
+},
+{
+"text": "(Office of the Clerk, U.S. House of Representatives, 2021)",
+"href": "https://clerk.house.gov/Votes/202172"
+},
+{
+"text": "(Office of the Clerk, U.S. House of Representatives, 2022)",
+"href": "https://clerk.house.gov/Votes/2022420"
 },
 {
 "text": "(Plano ISD, n.d.)",
@@ -266,6 +358,10 @@
 {
 "text": "(San Antonio ISD, 2024)",
 "href": "https://www.saisd.net/article/2202429"
+},
+{
+"text": "(Shapiro, 2022)",
+"href": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/06/how-much-do-supply-and-demand-drive-inflation/"
 },
 {
 "text": "(TEA, 2012)",
@@ -388,6 +484,10 @@
 "href": "https://journals.senate.texas.gov/"
 },
 {
+"text": "(U.S. Bureau of Labor Statistics [BLS], 2025)",
+"href": "https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error/cu-income-quintiles-before-taxes-2024.xlsx"
+},
+{
 "text": "(U.S. Bureau of Labor Statistics [BLS], 2026)",
 "href": "https://data.bls.gov/timeseries/CUUR0000SA0"
 },
@@ -402,6 +502,10 @@
 {
 "text": "(U.S. Bureau of Labor Statistics [BLS], 2026a)",
 "href": "https://data.bls.gov/timeseries/APU000074714"
+},
+{
+"text": "(U.S. Bureau of Labor Statistics [BLS], 2026a)",
+"href": "https://download.bls.gov/pub/time.series/cu/"
 },
 {
 "text": "(U.S. Census Bureau, 2025a)",
@@ -422,6 +526,10 @@
 {
 "text": "(U.S. Department of the Treasury, 2026)",
 "href": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/"
+},
+{
+"text": "(U.S. Energy Information Administration [EIA], 2026a)",
+"href": "https://www.eia.gov/pressroom/releases/press584.php"
 },
 {
 "text": "(U.S. Energy Information Administration [EIA], 2026c)",
@@ -724,6 +832,10 @@
 "href": "https://data.bls.gov/timeseries/APU000074714"
 },
 {
+"text": "bls.gov",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
 "text": "bls.gov/cpi",
 "href": "https://www.bls.gov/cpi/"
 },
@@ -876,6 +988,14 @@
 "href": "https://capitol.texas.gov/tlodocs/89R/fiscalnotes/html/HB00002F.htm"
 },
 {
+"text": "https://clerk.house.gov/Votes/202172",
+"href": "https://clerk.house.gov/Votes/202172"
+},
+{
+"text": "https://clerk.house.gov/Votes/2022420",
+"href": "https://clerk.house.gov/Votes/2022420"
+},
+{
 "text": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2019/jan/foundation.php",
 "href": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2019/jan/foundation.php"
 },
@@ -904,6 +1024,14 @@
 "href": "https://datatools.ahrq.gov/meps-ic/"
 },
 {
+"text": "https://download.bls.gov/pub/time.series/ap/",
+"href": "https://download.bls.gov/pub/time.series/ap/"
+},
+{
+"text": "https://download.bls.gov/pub/time.series/cu/",
+"href": "https://download.bls.gov/pub/time.series/cu/"
+},
+{
 "text": "https://download.bls.gov/pub/time.series/cu/cu.data.15.USMedical",
 "href": "https://download.bls.gov/pub/time.series/cu/cu.data.15.USMedical"
 },
@@ -912,8 +1040,16 @@
 "href": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/"
 },
 {
+"text": "https://github.com/US-CBO/cbo-data",
+"href": "https://github.com/US-CBO/cbo-data"
+},
+{
 "text": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres",
 "href": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres"
+},
+{
+"text": "https://itep.org/impact-of-trump-policies-on-taxes-and-consumer-costs-2026/",
+"href": "https://itep.org/impact-of-trump-policies-on-taxes-and-consumer-costs-2026/"
 },
 {
 "text": "https://journals.house.texas.gov/",
@@ -1040,6 +1176,10 @@
 "href": "https://www.austinisd.org/press-releases/2025/11/21/austin-isd-board-approves-24-state-mandated-turnaround-plans-school"
 },
 {
+"text": "https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error/cu-income-quintiles-before-taxes-2024.xlsx",
+"href": "https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error/cu-income-quintiles-before-taxes-2024.xlsx"
+},
+{
 "text": "https://www.bls.gov/cpi/data.htm",
 "href": "https://www.bls.gov/cpi/data.htm"
 },
@@ -1048,8 +1188,28 @@
 "href": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202608.xlsx"
 },
 {
+"text": "https://www.bls.gov/news.release/cpi.nr0.htm",
+"href": "https://www.bls.gov/news.release/cpi.nr0.htm"
+},
+{
+"text": "https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/",
+"href": "https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/"
+},
+{
 "text": "https://www.cbo.gov/publication/62756",
 "href": "https://www.cbo.gov/publication/62756"
+},
+{
+"text": "https://www.cbo.gov/system/files/2021-02/56970-Outlook.pdf",
+"href": "https://www.cbo.gov/system/files/2021-02/56970-Outlook.pdf"
+},
+{
+"text": "https://www.cbo.gov/system/files/2022-08/58357-Graham.pdf",
+"href": "https://www.cbo.gov/system/files/2022-08/58357-Graham.pdf"
+},
+{
+"text": "https://www.cbo.gov/system/files/2025-08/61367-Distributional-Effects.pdf",
+"href": "https://www.cbo.gov/system/files/2025-08/61367-Distributional-Effects.pdf"
 },
 {
 "text": "https://www.cdc.gov/nchs/data/hestat/hestat114.htm",
@@ -1062,6 +1222,46 @@
 {
 "text": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical",
 "href": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
+},
+{
+"text": "https://www.congress.gov/bill/117th-congress/house-bill/1319/all-actions",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/1319/all-actions"
+},
+{
+"text": "https://www.congress.gov/bill/117th-congress/house-bill/5376/all-actions",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5376/all-actions"
+},
+{
+"text": "https://www.congress.gov/bill/119th-congress/house-bill/1/all-actions",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1/all-actions"
+},
+{
+"text": "https://www.congress.gov/crs-product/IN12662",
+"href": "https://www.congress.gov/crs-product/IN12662"
+},
+{
+"text": "https://www.congress.gov/crs-product/R48290",
+"href": "https://www.congress.gov/crs-product/R48290"
+},
+{
+"text": "https://www.eia.gov/pressroom/releases/press584.php",
+"href": "https://www.eia.gov/pressroom/releases/press584.php"
+},
+{
+"text": "https://www.eia.gov/pressroom/releases/press590.php",
+"href": "https://www.eia.gov/pressroom/releases/press590.php"
+},
+{
+"text": "https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html",
+"href": "https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html"
+},
+{
+"text": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/03/why-is-us-inflation-higher-than-in-other-countries/",
+"href": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/03/why-is-us-inflation-higher-than-in-other-countries/"
+},
+{
+"text": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/06/how-much-do-supply-and-demand-drive-inflation/",
+"href": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/06/how-much-do-supply-and-demand-drive-inflation/"
 },
 {
 "text": "https://www.fwisd.org/about/betterspaces",
@@ -1086,6 +1286,14 @@
 {
 "text": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision",
 "href": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision"
+},
+{
+"text": "https://www.irs.gov/affordable-care-act/individuals-and-families/questions-and-answers-on-the-premium-tax-credit",
+"href": "https://www.irs.gov/affordable-care-act/individuals-and-families/questions-and-answers-on-the-premium-tax-credit"
+},
+{
+"text": "https://www.itep.org/wp-content/uploads/US-and-state-estimates-download-for-Trump-Taxes-and-Costs.xlsx",
+"href": "https://www.itep.org/wp-content/uploads/US-and-state-estimates-download-for-Trump-Taxes-and-Costs.xlsx"
 },
 {
 "text": "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
@@ -1134,6 +1342,14 @@
 {
 "text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2024-25.pdf",
 "href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2024-25.pdf"
+},
+{
+"text": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+"href": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions"
+},
+{
+"text": "https://www.newyorkfed.org/research/policy/gscpi",
+"href": "https://www.newyorkfed.org/research/policy/gscpi"
 },
 {
 "text": "https://www.pisd.edu/about-our-district/long-range-facility-plan/approved-plan",

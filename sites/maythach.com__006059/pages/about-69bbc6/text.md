@@ -32,4 +32,4 @@ Listen First I am committed to ensuring that all voices of District 61 are heard
 Act With Care I am committed to the priorities that matter most to the people of District 61 and to work towards practical solutions for our community.
 Report Results I am committed to transparent leadership, ensuring the decision-making process is clear and easy to understand.
 Translate Page Select a language to translate this page using Google Translate.
-May Thach Paid for by May Thach, Democrat, for Florida House of Representatives District 61 Explore Meet May Contact Voting Resources Vote by Mail Register to Vote Confirm your district Take Action Donate Now Join the movement and stay connected to campaign updates.
+May Thach Paid for by May Thach, Democrat, for Florida House of Representatives District 61 Explore Meet May Contact Privacy Policy Voting Resources Vote by Mail Register to Vote Confirm your district Take Action Donate Now Join the movement and stay connected to campaign updates.

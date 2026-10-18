@@ -1,4 +1,4 @@
-0 Skip to Content Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Michael Bowles for House District 25 DONATE Michael Bowles is the common sense Conservative running for Alaska House District 25.
+0 Skip to Content Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Rank Bowles First for House District 25 DONATE Michael Bowles is the common sense Conservative running for Alaska House District 25.
 It’s time to stand on courage and bring our State back to more conservative values.
 Integrity, honesty, and accountability are needed now more than ever.
 Vote November 3, 2026 Early voting starts October 19, 2026 Michael will work hard with a conservative approach to: Protect Life Protect your 2nd Amendment rights Lower government spending & lower taxes Fight for your full statutory PFD Support natural resource development Bring term limits to the State House & Senate Support agriculture & food security Ensure Veterans are always taken care of Learn where Michael stands on the issues here Your voice matters Your support will go a long way in helping me shift our House and State back towards more conservative values this November.
@@ -19,9 +19,9 @@ Meet Michael More about Michael How to Vote Early voting is October 19th through
 Place your early vote at the Mat-Su Borough Building at 350 E Dahlia Ave in downtown Palmer, Monday through Friday 8am to 5pm.
 Election Day is November 3rd!
 Polling places will be open 7am through 8pm.
-Rank Bowles First! learn more here Endorsements Valley Republican Women of Alaska Seth Gruber Major Mike Mixon (ret) Stand for Health Freedom Eric and Shan Johnson, Northwoods Lodge White Rose Action Pastor Scott Phillips Father Randy Hillman (opinion of Father Hillman, not the Anglican Churches of Alaska) Donna Anthony Mike Coons Sally Pollen District 29 Republicans Letter of Support Bryan Cherry Dr.
+Rank Bowles First! learn more here Endorsements Valley Republican Women of Alaska Seth Gruber, CEO & Founder of White Rose Action Major Mike Mixon (ret) AJ Hurley, National Outreach Director for White Rose Action Eric and Shan Johnson, Northwoods Lodge White Rose Action Pastor Scott Phillips Stand for Health Freedom Father Randy Hillman (opinion of Father Hillman, not the Anglican Churches of Alaska) Donna Anthony Mike Coons District 29 Republicans Letter of Support Sally Pollen Alaska Right to Life Bryan Cherry Dr.
 Cheri M.
-Ruiz Carol Carman Alaska Right to Life Stay Up to Date.
+Ruiz Carol Carman Stay Up to Date.
 Sign up with your email and phone number to receive news and updates about Michael’s campaign.
 By submitting this form and signing up for texts, you consent to receive campaign updates, event reminders, and fundraising solicitations from Michael Bowles for Alaska at the number provided.
 Donations will be solicited.
@@ -31,4 +31,5 @@ Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
 Privacy Policy & Terms of Use can be found at https://www.electmichaelbowles.com/privacy-policy .
-Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645
+Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Rank Bowles First!
+Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645

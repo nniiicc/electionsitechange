@@ -1,9 +1,10 @@
 {
  "description": "Read the Friends of James Julius campaign website privacy policy.",
  "final_url": "https://www.james4pa.com/privacy-policy.html",
- "fingerprint": "39d5229f1f950450b3310dfa43262f59f324db1e",
+ "fingerprint": "21cdd22828a178e7aade3de24aebb944167183a7",
  "format": 3,
  "paid_for_by": "Paid for by Friends of James Julius Media Resources Privacy Policy Terms & Conditions © # James Julius",
+ "rendered": false,
  "title": "Privacy Policy | Friends of James Julius",
  "years_mentioned": [
   "2024"

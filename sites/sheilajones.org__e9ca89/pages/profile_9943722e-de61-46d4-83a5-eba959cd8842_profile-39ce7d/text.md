@@ -4,5 +4,5 @@ The House of Representatives along with the Senate, make up our state lawmaking 
 Furloughed employees stop working during a shutdown and aren’t paid until the end of the shutdown.
 Excepted employees continue to work, but similarly are not paid until after the shutdown is over.
 33 0 Apr 14, 2024 ∙ 2 min 2023 Sponsored/Co-sponsored Georgia Legislation Here are the bills that I have sponsored and co-sponsored during the 2023 Legislative Session.
-69 0 Load More Sheila Jones Writer 0 Followers 0 Following Representative for D60 Follow More actions Profile Events More Use tab to navigate through the menu items.
+70 0 Load More Sheila Jones Writer 0 Followers 0 Following Representative for D60 Follow More actions Profile Events More Use tab to navigate through the menu items.
 Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

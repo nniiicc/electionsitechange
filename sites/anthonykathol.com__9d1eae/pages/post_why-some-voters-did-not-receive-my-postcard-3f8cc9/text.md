@@ -24,7 +24,7 @@ We need to identify where these discrepancies are occurring and work to get our 
 So, if you did not receive my postcard in the mail, here is an electronic copy.
 I would appreciate your vote on November 3rd.
 Have a great day!
-Tags: Kathol for District 27 State Senate Kathol4D27 #GOP #Republican #votered Election Security Protecting the South Dakota Way of Life Accurate Voter Registration Records Recent Posts See All One of the Best Days on the Campaign Trail A Summer of Parades Across District 27 Campaign Signs are UP!
+Tags: Kathol for District 27 State Senate Kathol4D27 #Republican #GOP #votered Protecting the South Dakota Way of Life Election Security Accurate Voter Registration Records Recent Posts See All One of the Best Days on the Campaign Trail A Summer of Parades Across District 27 Campaign Signs are UP!
 Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).

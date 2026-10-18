@@ -8,7 +8,7 @@ I'm running because I believe District 6 deserves a representative who will list
 I'll always be accessible, thoughtful, and committed to doing what's best for Wolfeboro and Tuftonboro—not what's best for politics.
 Together, we can strengthen our public schools, support local businesses, protect our lakes and forests, make New Hampshire more affordable for working families, and preserve the qualities that make our communities such wonderful places to live.
 I'd be honored to earn your trust—and your vote.
-Thoughtful Leadership: Conversations with Deirdre Frequently Asked Questions What office is Deirdre running for?
+Thoughtful Leadership: Conversations with Deirdre View larger ↗ View larger ↗ View larger ↗ View larger ↗ View larger ↗ View larger ↗ ← Scroll to explore → Close × FAQs What office is Deirdre running for?
 Deirdre McEachern is running for the New Hampshire House of Representatives in Carroll County, District 6, which includes Wolfeboro and Tuftonboro.
 Why is Deirdre running?
 Deirdre is running because she believes Wolfeboro and Tuftonboro deserve a representative who listens, brings practical solutions and works constructively on local concerns.

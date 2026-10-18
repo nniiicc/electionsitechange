@@ -9,7 +9,7 @@ In the 2026 Ohio Primary Election, thousands of citizens across Auglaize, Darke,
 Whether you voted for me, supported other candidates, or simply showed up to make your voice heard, thank you.
 Active civic engagement is the foundation of a healthy republic, and every ballot cast strengthens our community.
 My campaign for the Ohio House of Representatives...
-49 0 Apr 17, 2026 ∙ 2 min A vote is a vote… but earning it changes everything.
+50 0 Apr 17, 2026 ∙ 2 min A vote is a vote… but earning it changes everything.
 Earlier this week at the candidate forum in the 84th District, a woman in the audience shared during Q&A that she used to be a Republican but had become disillusioned with the current party.
 She wasn’t much of a fan of the Democratic Party either.
 Yet she said she would be voting for me, simply because I wasn’t a Republican.

@@ -21,7 +21,7 @@ An initiative is needed to restore women’s freedom, because this legislature i
 Enough Democrats defeating Republicans could turn that around, but that might that may take a while.
 Will you help turn the tide?
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Protecting whom?
-From whom? → Home, Not So Sweet Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Create a free website or blog at WordPress.com.
+From whom? → Home, Not So Sweet Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Create your own website, free on WordPress.com.

@@ -1,6 +1,4 @@
-Skip navigation menu Meet Angela Issues Get Involved Events Contact Donate Meet Angela Issues Get Involved Events Contact Donate Join Us Campaign Events Canvass in West Haven!
-Help us reach voters in West Haven!
-RSVP Canvass in Roy!
+Skip navigation menu Meet Angela Issues Get Involved Events Contact Donate Meet Angela Issues Get Involved Events Contact Donate Join Us Campaign Events Canvass in Roy!
 Help us reach voters in Roy!
 RSVP Canvass in West Haven!
 Help us reach voters in West Haven!

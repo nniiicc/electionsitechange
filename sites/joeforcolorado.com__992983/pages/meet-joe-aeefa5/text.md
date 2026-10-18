@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Joe represents Colorado’s 2nd District in the U.S.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Joe represents Colorado’s 2nd District in the U.S.
 House of Representatives, and is the first African-American elected to serve in Congress in Colorado’s 150-year history.
 He is the lead Democrat on the Subcommittee for Federal Lands, and served as a House prosecutor in the second impeachment trial of President Trump following the January 6th attack on our nation’s Capitol.
 Joe represents Colorado’s 2nd District in the U.S.

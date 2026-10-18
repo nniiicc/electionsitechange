@@ -2,7 +2,7 @@ top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Iss
 I was glad to answer.
 These are your questions, and my answers are straight from me, in my own words, on the issues that matter most to our district.
 I hope you’ll take a look. https://www.whro.org/elections/2026-09-17/kiggans-and-luria-rematch-where-the-candidates-stand#/virgini...
-4 0 Oct 15, 2026 ∙ 1 min WAVY Candidate Questionnaire Navy veteran.
+6 0 Oct 15, 2026 ∙ 1 min WAVY Candidate Questionnaire Navy veteran.
 Scientist.
 Independent.
 I answered WAVY 10’s questions on the issues facing Hampton Roads.

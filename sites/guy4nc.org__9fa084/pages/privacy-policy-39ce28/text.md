@@ -1,4 +1,4 @@
-Skip to content 919-213-9099 Facebook-f Twitter Envelope Meet Meet the Candidate US House District 4 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Expanded Housing Market Restorative Justice Electoral Reform — Independent Voters Electoral Reform — Instant Runoff Voting Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Guy Meilleur For US House 4 Privacy Policy Your privacy is important to us.
+Skip to content Donate Go Enter Keyword Guy Meilleur For US House 4 Privacy Policy Your privacy is important to us.
 It is PAID FOR BY FreeNC policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, guy4nc.org, and other sites we own and operate.
 Personal information is any information about you which can be used to identify you.
 This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information about how you use a website or online service.

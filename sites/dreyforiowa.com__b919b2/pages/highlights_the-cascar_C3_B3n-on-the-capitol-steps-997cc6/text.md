@@ -8,5 +8,6 @@ That high school Spanish class, and subsequent college major, was probably one o
 My accent is far from perfect and I struggle with some dialects more than others but there is no thrill like the one I get from a native Spanish speaker recognizing my effort to connect and meeting me somewhere between charades and Spanglish.
 Finding this uncrushed cascarón on Easter Sunday on the steps of the Capitol felt like a nudge from the Creator to stay hopeful for the luck and blessings that can be found in the most unlikely of places.
 If you celebrated Easter, I hope that you found your own version of a blessing.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

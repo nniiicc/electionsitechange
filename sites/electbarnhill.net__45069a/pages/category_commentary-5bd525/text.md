@@ -1,4 +1,6 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Category: Commentary Oct 16 electbarnhill 0 Comment Your Nevada Voting Guide: Who Runs the Election and What to Check Before You Vote Early voting in Nevada’s general election runs from Saturday, October 17, through Friday, October 30, and Election Day is Tuesday, November 3.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Category: Commentary Oct 17 electbarnhill 0 Comment You Shouldn’t Need a Law Degree to Start a Business, or a Federal Lawsuit to Get an Answer Before early voting began, the Nevada Appeal asked every candidate for Secretary of State the same questions.
+Two of us answered: Secretary Cisco Aguilar and me.
+If you’re deciding Oct 16 electbarnhill 0 Comment Your Nevada Voting Guide: Who Runs the Election and What to Check Before You Vote Early voting in Nevada’s general election runs from Saturday, October 17, through Friday, October 30, and Election Day is Tuesday, November 3.
 You shouldn’t need a law degree, a Oct 13 electbarnhill 0 Comment How Nevada Polling Works and What It Can Tell Us A Nevada poll can show a close race in the morning and a different result on Election Day.
 That is not necessarily a contradiction.
 Understanding how Nevada polling works Oct 12 0 Comment What Election Observer Rights Mean for Nevada Voters Election observer rights help Nevada voters see how ballots are handled, counted, and reviewed while protecting voter privacy and orderly polling places.
@@ -20,10 +22,7 @@ Sep 16 electbarnhill Comments 4 You’re Not Undecided.
 You’re Unrepresented.
 If you’ve felt politically homeless lately, you’re not alone — and you’re not the problem.
 You might want lower taxes and less waste.
-You might disagree with your neighbor Sep 12 electbarnhill Comments 6 Voter ID Is Coming.
-Let’s Talk About Making It Actually Work For People.
-The question that isn't settled is implementation — and this is where I hear from Nevadans of every stripe.
-Not "should we have ID," but "can I actually get Posts pagination Page 1 Page 2 Next page More Announcements The Court Asked Who Has a Stake in My Lawsuit.
+You might disagree with your neighbor Posts pagination Page 1 Page 2 Next page More Announcements The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 (October 8, 2026) I’ve Asked the Court to Rule on My E-Filing Request (October 6, 2026) Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer (October 5, 2026) While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster (September 30, 2026) Why Donate to a Nevada Independent Candidate?
 (September 28, 2026) A Small Procedural Fight, With a Bigger Point Behind It (September 14, 2026) Service Is Complete.
@@ -34,6 +33,6 @@ Aguilar (September 4, 2026) Who Will Protect Your Vote?
 (August 23, 2026) Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?
 (June 16, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (19) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (20) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

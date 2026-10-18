@@ -15,10 +15,10 @@ The hypocrisy of the Democratic candidate and his phalanx of Democratic party ha
 Worthless platform rhetoric revealed for what it is.
 Clearly he’s a fast learner!
 And let’s face it, if it really was just about preventing an R from winning, or getting the best representation in the State House for Orange-Caledonia, that is much more attainable by getting fully behind the innately qualified independent candidate, Susan Culp.
-Tony O’Meara Newbury, VT Journal Opinion October 7th, 2026 Recent Posts See All In support of Culp Peggy Hewes Newbury, VT Well, I am breaking my own rule here.
+Tony O’Meara Newbury, VT Journal Opinion October 7th, 2026 Recent Posts See All Orange-Caledonia Needs Experienced Leader Joanne O'Meara Newbury VT Orange-Caledonia Needs Experienced Leader Susan Culp, Independent candidate for the Orange-Caledonia House seat has the credentials and experience needed to represent this d In support of Culp Peggy Hewes Newbury, VT Well, I am breaking my own rule here.
 As an employee of the Town of Newbury, albeit in a very minor capacity, I’ve avoided making public my political positions.
 But I feel impe Why we support Susan Culp for the Vermont House M.
 Robin Barone and Sydney Lea Newbury, Vt.
 Voters in the Orange Caledonia district have a unique choice in candidates to represent them in the Vermont House of Representatives this year.
-It’s great Join me in supporting Susan Culp Marvin Harrison Newbury, VT I’m encouraging voters in Newbury, Groton and Topsham to take the time and effort to get to know Susan Culp and her positions on issues affecting Vermonters that need thoug (802) 866-0058 culpforvermont@gmail.com PO Box 211 Newbury, VT 05051 PAID FOR BY CULP FOR VERMONT Share © # by Culp for Vermont.
+It’s great (802) 866-0058 culpforvermont@gmail.com PO Box 211 Newbury, VT 05051 PAID FOR BY CULP FOR VERMONT Share © # by Culp for Vermont.
 Powered and secured by Wix bottom of page

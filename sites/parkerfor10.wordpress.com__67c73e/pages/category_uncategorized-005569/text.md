@@ -30,7 +30,7 @@ They demand absolute party loyalty to their extreme platform, and censure any me
 What they certainly are NOT is an all-purpose dispute resolution tool.
 When we see guns pulled out during an argument over a parking spot, or a flea market purchase, for heaven’s sake, we are… April 4, 2024 Our Schools Idaho has had the worst funded schools in the US for years.
 Combined with the legislature’s reluctance to spend any money on the public good, we also have the requirement for a supermajority (60%) to pass any local school bond.
-This means that many small school districts have been unable to fund repairs or replacements… Create a free website or blog at WordPress.com.
+This means that many small school districts have been unable to fund repairs or replacements… Blog at WordPress.com.
 Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Create your own website, free on WordPress.com.

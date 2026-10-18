@@ -1,4 +1,4 @@
-Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Get in Touch Whether you have a question, want to volunteer, or need a yard sign, we're here to listen.
+Home How to Vote Issues Events News Volunteer Contact Donate Get in Touch Whether you have a question, want to volunteer, or need a yard sign, we're here to listen.
 Contact Us Our campaign is powered by the people of Ohio's 9th District.
 Reach out to our team using the information below or fill out the form.
 Campaign Headquarters Fremont, Ohio Phone +1 419-637-4419 Email kathymckinstrycampaign@gmail.com Follow Us Send a Message Have a question or comment?

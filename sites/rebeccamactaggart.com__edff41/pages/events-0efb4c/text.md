@@ -1,12 +1,12 @@
-0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Oct 17 No Kings Rally - October 17 Saturday, October 17, 2026 12:00 PM 1:00 PM Washington County Courthouse (map) Google Calendar ICS Because no one person gets to decide our leaders before voters do.
-On October 17th, join your fellow Americans in local events across the country as we get out the early vote and say it loud: no thrones, no crowns, no kings.
-View Event → Oct 24 Canvassing Drive in Donora Saturday, October 24, 2026 10:00 AM 11:30 AM Palmer Park (map) Google Calendar ICS Ten days before the election, the conversations that matter most happen on front porches.
+0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Oct 24 Canvassing Drive in Donora Saturday, October 24, 2026 10:00 AM 11:30 AM Palmer Park (map) Google Calendar ICS Ten days before the election, the conversations that matter most happen on front porches.
 Join Rebecca MacTaggart and fellow volunteers at Pavilion #1 in Palmer Park.
 There you can get your walk list and spend the afternoon talking with Donora neighbors about what's at stake for House District 48.
 View Event → Oct 24 Signs and Sweets in Palmer Park Saturday, October 24, 2026 12:00 PM 2:00 PM Google Calendar ICS A yard sign is one of the simplest ways to help Rebecca to win House District 48.
 It only takes a minute to put up and keeps working every day until Election Day.
 Stop by Palmer Park’s Pavilion #1 at noon, grab a sign or two, and meet Rebecca.
 The first 100 guests get a treat from Olivia Walker’s May Contain Nuts Bake Shop, just down the road in Elrama.
+View Event → Oct 17 No Kings Rally - October 17 Saturday, October 17, 2026 12:00 PM 1:00 PM Washington County Courthouse (map) Google Calendar ICS Because no one person gets to decide our leaders before voters do.
+On October 17th, join your fellow Americans in local events across the country as we get out the early vote and say it loud: no thrones, no crowns, no kings.
 View Event → Oct 14 Meet the Candidates Night - LWV & NAACP Wednesday, October 14, 2026 6:30 PM 8:00 PM Washington High School (map) Google Calendar ICS The League of Women Voters of Washington County and the NAACP Washington Branch are holding a “Meet the Candidates Night” 6:30 pm, October 14, 2026, at Washington High School.
 The event is hosted by the school’s Student Life Group.
 View Event → Oct 11 Pregame Fill Up Lunch at the Croatian Club in Donora Sunday, October 11, 2026 12:00 PM 2:00 PM American Croatian Citizens Club (map) Google Calendar ICS Meet Rebecca, find out what kind of state representative she wants to be, and fill up for the Steelers game at 1pm!

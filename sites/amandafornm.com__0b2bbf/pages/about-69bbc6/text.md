@@ -7,6 +7,6 @@ Amanda is running for Secretary of State to bring her lived and professional exp
 Serving Doña Ana County as Clerk has been one of the greatest privileges of my life.
 As a native New Mexican, I continue to be deeply committed to our community and all of the important responsibilities the clerk’s office is tasked with.
 I am fortunate to work with an exceptional staff that works hard every day to ensure Doña Ana County residents receive the services they deserve.
-Amanda López Askin Download Media Kit Download Media Kit Share on Facebook Share on Twitter Share on Blue Sky Share via Telegram Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Amanda López Askin Download Media Kit Download Media Kit Share on Facebook Share on Twitter Share on Blue Sky Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
 Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

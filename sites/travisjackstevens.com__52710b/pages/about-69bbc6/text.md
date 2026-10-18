@@ -2,7 +2,8 @@ Home About Platform News Contact Volunteer Donate Write-In Candidate Travis Jack
 Senate.
 His name won't be on the ballot — write it in on November 3, 2026.
 How to Vote → With CAMP Rehoboth Chorus.
-About Travis Hi, I'm Travis I'm Travis Jack Stevens, and I'm running for U.S.
+About Travis A Place for Umul, Part 1 Why I'm running, followed by a parable in two parts.
+A Place for Umul, Part 2 Hi, I'm Travis I'm Travis Jack Stevens, and I'm running for U.S.
 Senate in Delaware as a write-in.
 My name won't be printed on your ballot.
 On November 3, I'm asking you to write it in yourself.

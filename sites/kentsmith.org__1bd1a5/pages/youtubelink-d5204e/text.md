@@ -1,6 +1,7 @@
-top of page DONATE Home About Videos Priorities Endorsements Get Involved Ohio Senator Kent Smith Ohio Senator Kent Smith Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Now Playing Michigan voters have an opportunity to get politics out of their utility bills.
+top of page DONATE Home About Videos Priorities Endorsements Get Involved Ohio Senator Kent Smith Ohio Senator Kent Smith Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Now Playing Two things continue to increase in Ohio: gas prices & Early Voting totals.
+We update both this week.
+01:57 Play Video Now Playing Michigan voters have an opportunity to get politics out of their utility bills.
 Ohio should too.
 02:32 Play Video Now Playing From books to license plates, this week we celebrate the impact of Dolly Parton in the Buckeye State 02:11 Play Video Now Playing An audit of the PUCO said your bill is too high because of a lack of new generation.
 We explain it.
-02:29 Play Video Now Playing What makes America great is the peaceful transfer of power, a lesson which remains relevant today.
-02:30 Play Video PAID FOR BY KENT SMITH COMMITTEE SendKentBackToColumbus@gmail.com bottom of page
+02:29 Play Video PAID FOR BY KENT SMITH COMMITTEE SendKentBackToColumbus@gmail.com bottom of page

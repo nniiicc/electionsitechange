@@ -3,7 +3,8 @@ I’m grateful to have local leaders like Richard in my corner as I work to make
 I voted for property tax relief for homeowners, and I’m fighting for bigger homeowner tax credits and hard limits Endorsed by the Polish American Police Association “I’m honored to receive the endorsement of the Illinois Polish American Police Association!
 Thank you for your support and for the work you do to serve and protect our communities.
 Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas “A front-door conversation turned into new friends joining us on the campaign trail!
-While knocking on doors in Hoffman Estates with Village Trustee Gary Pilafas, we met some neighbors who Darby Hills Earns Chicago Tribune Endorsement for State Senate State Senator Darby Hills has earned the Chicago Tribune Editorial Board’s endorsement in the race for Illinois’ 26th Senate District, with the board highlighting her willingness to work across the Prev Previous Endorsed by the Polish American Police Association Next Voted for Property Tax Relief Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+While knocking on doors in Hoffman Estates with Village Trustee Gary Pilafas, we met some neighbors who [Chicago Tribune Endorsement] Editorial: Darby Hills for Illinois 26th Senate District This north suburban district stretches from Palatine and Barrington north to Lake County municipalities including Lake Zurich, Hawthorn Woods and Wauconda.
+Republican Darby Hills, 50, was appointed to the seat Prev Previous Endorsed by the Polish American Police Association Next Voted for Property Tax Relief Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

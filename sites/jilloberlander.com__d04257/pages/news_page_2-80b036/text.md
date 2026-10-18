@@ -1,4 +1,5 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • September 26, 2026 Jill Has A Senior Agenda Grounded in Compassion Older residents deserve security, independence and dignity.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • October 1, 2026 We need a strong voice for reproductive rights At a moment when fundamental rights are being stripped away state by state, Connecticut needs legislators who show up ready to fight.
+I’m asking for… Read more… Letter to the Editor • September 26, 2026 Jill Has A Senior Agenda Grounded in Compassion Older residents deserve security, independence and dignity.
 Jill has the experience, judgment and values to turn these goals into responsible, compassionate public policy.
 Read more… Newsletter • September 24, 2026 They have our backs.
 We should have theirs.
@@ -14,6 +15,5 @@ As your state senator, I’ll be a strong advocate for reasonable gun safety law
 I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption… Read more… Newsletter • August 27, 2026 A strong start to the school year There’s something special about the start of a new school year — new teachers, new classrooms, new friends and so much possibility ahead.
 This year,… Read more… Newsletter • August 20, 2026 Protecting Long Island Sound Clean water isn’t just an environmental issue.
 It’s about public health, our local economy, property values, and the quality of life we enjoy here.
-We… Read more… Editorial • August 19, 2026 Zoning and development decisions should be made locally I oppose the six-story, 176-unit development proposed for Western Junior Highway in Greenwich’s Byram neighborhood.
-The project appears dramatically out of proportion with the surrounding… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+We… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

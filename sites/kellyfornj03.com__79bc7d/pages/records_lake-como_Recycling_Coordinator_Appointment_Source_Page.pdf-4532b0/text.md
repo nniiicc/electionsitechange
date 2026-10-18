@@ -1,0 +1,5 @@
+15 RESOLUTION NO.
+2007-7 WHEREAS, Mayor Michael Ryan has appointed Ryan M.
+Kelly TO THE POSITION OF RECYCLING COORDINATOR FOR THE BOROUGH OF LAKE COMO FOR ONE YEAR, COMMENCING JANUARY 3, 2007, TERMINATING JANUARY I 2008.
+Dated: 1/2/2007 Michael Ryan, Mayor Louise A.
+Mekosh, RMC, CMC, CMFO Borough Clerk/Administrator L& -;;;;;;;r; .,

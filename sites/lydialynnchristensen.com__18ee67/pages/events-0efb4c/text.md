@@ -4,9 +4,7 @@ Donate Now × Lydia Christensen Michigan's Unchained Voice Home About Issues Eve
 Town halls, canvassing events, and community meetings - open to everyone.
 Upcoming Events 📅 Event Weekly Organizing Meeting 🖥️ Virtual 🔁 Recurring 📅 Every Sunday 🕐 11:00 AM Our weekly campaign organizing call - open to all volunteers and supporters.
 Coordinate canvassing, signature drives, outreach, and more.
-Join from anywhere in Michigan. 📅 Add to Calendar 📅 Event Urban Neighborhood Initiatives Annual Trunk or Treat 📅 Saturday, October 17, 2026 🕐 12:00 PM – 3:00 PM 📍 Springdale Green Playlot, Detroit, MI 48209 Lydia was invited to host an outreach table at Urban Neighborhood Initiatives’ Annual Trunk or Treat, an annual neighborhood Halloween event where more than 300 families attend.
-Campaign attendance is not yet confirmed.
-Co-hosted with Urban Neighborhood Initiatives 📅 Add to Calendar ▼ Show Past Events (23) Invite Lydia to Your Event Hosting a community gathering, town hall, or local event?
+Join from anywhere in Michigan. 📅 Add to Calendar ▼ Show Past Events (24) Invite Lydia to Your Event Hosting a community gathering, town hall, or local event?
 Invite Lydia to attend.
 Fill out the form below and her team will be in touch.
 Your Name * Your Email * Organization or Group (optional) Event Name * Event Date * Event Time (optional) Expected Attendance (optional) Event Location * Tell Us About Your Event * Send Invitation Lydia Christensen Michigan's Unchained Voice Running for U.S.

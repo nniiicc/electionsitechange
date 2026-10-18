@@ -31,4 +31,5 @@ Let's Stay In Touch Sign up with your email address to receive news and updates 
 First Name Last Name Email Address Sign Up We respect your privacy.
 Thank you!
 Remember to vote November 3!
-Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645
+Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Rank Bowles First!
+Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645

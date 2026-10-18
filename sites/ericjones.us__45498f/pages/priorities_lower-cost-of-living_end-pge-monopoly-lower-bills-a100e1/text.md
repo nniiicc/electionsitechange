@@ -51,6 +51,4 @@ The bottom line No one should have to pull on a second sweatshirt because the he
 Your bill should reflect the honest cost of keeping your lights on — nothing more.
 Let communities build their own power, drag the hidden charges into the light, hold the executives accountable, and end the bailouts, and we can do the thing they’ve told you is impossible: make the bill go down .
 That starts by sending someone to Washington the monopoly doesn’t own — someone who fights to lower your bills, not to protect PG&E’s profit.
-All Policies Next Policy Return to Top SOURCES California residential electricity prices are among the highest in the nation (second only to Hawaii in recent federal data): U.S.
-EIA — Electric Power Monthly, Table 5.6.A, “Average Price of Electricity to Ultimate Customers by End-Use Sector, by State” SMUD’s published rate comparison — its rates are among the lowest in California, on average more than 50% lower than neighboring PG&E’s (the basis for “a fraction of what we do”): SMUD — How our rates compare Contributions to Thompson from the PG&E PAC (the “#1 in Congress” figure, computed from FEC records on file): FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+All Policies Next Policy Return to Top

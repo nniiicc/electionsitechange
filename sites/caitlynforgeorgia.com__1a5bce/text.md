@@ -14,7 +14,8 @@ The Epstein Class Pays Their Fair Share The Epstein Class needs to pay their fai
 If the government properly taxed the Epstein Class, we could use the extra funds to pay for social programs that would benefit everyone.
 Hold the President Accountable Congress needs to take its power back and reinstitute the system of checks and balances it was meant to contribute to.
 I will fight to help Congress to take back its war and taxation powers.
-Support Our Campaign See All 18 Priorities Georgia's 9th Congressional District The Data Doesn't Lie The stakes are real for working families across North Georgia. $0 Trillion transferred from bottom 90% to top 1% since 1973 0 Lives saved annually with universal healthcare 0% Of young workers living paycheck to paycheck #0 Georgia's maternal mortality rank in the nation Building A Better Georgia Together.
+Support Our Campaign See All 18 Priorities Georgia's 9th Congressional District The Data Doesn't Lie The stakes are real for working families across North Georgia.
+0 Trillion transferred from bottom 90% to top 1% since 1973 0 Lives saved annually with universal healthcare 0 Of young workers living paycheck to paycheck 0 Georgia's maternal mortality rank in the nation Building A Better Georgia Together.
 Get Involved Join Our Team ↗ Fight for working families and help build a stronger future for Georgia's 9th District.
 Join Our Team Contribute to the Campaign ↗ Support Caitlyn Gegen for Congress as we protect human rights and advocate for universal healthcare.
 Contribute Events in the District ↗ Join Caitlyn Gegen for Congress across Georgia's 9th Congressional District.

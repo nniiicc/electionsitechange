@@ -1,4 +1,4 @@
-Home About Me Issues & Policies vote@kripchak.com Michael L.
+Home About Me Issues & Policies Endorsements vote@kripchak.com Michael L.
 Kripchak About Me Who will go?
 Send me!
 Michael L.

@@ -28,6 +28,7 @@ And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
 Next Why Is Southern Ontario Doing Better Than Western New York?
-You Might Also Like I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
-WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-PODCAST CLIP: THEY DIDN’T EVEN SHOW UP North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
+WE ARE AT A CROSSROADS IN WESTERN NEW YORK Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Volunteer and Sign Up for Updates!

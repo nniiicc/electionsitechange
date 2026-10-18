@@ -40,8 +40,7 @@ Get involved.
 Make your voice heard.
 Because if we don’t shape the future of this region, someone else will.
 Previous I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Next PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-Why Is Southern Ontario Doing Better Than Western New York?
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Volunteer and Sign Up for Updates!
+PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK PODCAST CLIP: THEY DIDN’T EVEN SHOW UP I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!

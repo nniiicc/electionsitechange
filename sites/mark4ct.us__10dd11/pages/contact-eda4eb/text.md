@@ -4,4 +4,4 @@ Please contact me so that we can discuss ways that I might be able to help.
 Get updates and news via email Opt in to get updates and news via text messages Please add me to your list of supporters Subject: Message: Submit Voter Information Endorsements Contact Privacy Policy Paid for by Mark4CT, Mary Zlotnick,Treasurer.
 Approved by Mark W.
 Anderson.
-Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu
+Powered by CampaignPartner.com Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu

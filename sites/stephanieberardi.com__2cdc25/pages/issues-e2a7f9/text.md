@@ -48,4 +48,4 @@ Firefighters should NEVER go out there and fight a fire without getting compensa
 Emergency Responders should never go without overtime pay when they are called into action.
 That's why i will fight to make sure they have the resources and compensation that they deserve.
 Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
-Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu
+Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

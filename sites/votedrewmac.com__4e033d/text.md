@@ -4,13 +4,12 @@ Meanwhile, the average household income is roughly half of what is required to q
 Read More Evening Edition: State Senator Balances Needs Of A Rural District January 24, 2025 It happens in Washington D.C. all the time but also in state legislatures, political decisions are often made down the party lines with members voting with the official policy or opinion of one’s political party.
 What happens when those policies work for cities but not for the rural districts of a state?
 That challenge could not be showcased better than in Washington State, which ranks second in the nation for agricultural production but also has cities like Seattle and Spokane to care for.
-Read More More News Drew MacEwen Follow 2,078 3,108 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 8 Oct 2108208022988488732 Thank you Refuse and Recycling association for your support!
+Read More More News Drew MacEwen Follow 2,079 3,104 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 14 Oct 2110166088361365639 Folks- make no mistake- they are coming for all of your wallets Jim Brunner @Jim_Brunner Jamie Pedersen, the Senate Majority Leader has repeatedly said - including in an interview for my article - that he favors a broader income tax & reducing/reforming other taxes.
+Reply on Twitter 2110166088361365639 Retweet on Twitter 2110166088361365639 0 Like on Twitter 2110166088361365639 5 Twitter 2110166088361365639 Drew MacEwen @DrewMacEwen · 8 Oct 2108208022988488732 Thank you Refuse and Recycling association for your support!
 Twitter feed image.
 Reply on Twitter 2108208022988488732 Retweet on Twitter 2108208022988488732 0 Like on Twitter 2108208022988488732 1 Twitter 2108208022988488732 Drew MacEwen @DrewMacEwen · 7 Oct 2107909716940886381 Thank you food industry for your support!
 Twitter feed image.
 Reply on Twitter 2107909716940886381 Retweet on Twitter 2107909716940886381 0 Like on Twitter 2107909716940886381 0 Twitter 2107909716940886381 Drew MacEwen @DrewMacEwen · 6 Oct 2107500059369820332 Thank you to the Hospitality industry for your support !
 Twitter feed image.
-Reply on Twitter 2107500059369820332 Retweet on Twitter 2107500059369820332 0 Like on Twitter 2107500059369820332 1 Twitter 2107500059369820332 Drew MacEwen @DrewMacEwen · 5 Oct 2107137132188106979 Thank you law enforcement for your support!
-Twitter feed image.
-Reply on Twitter 2107137132188106979 Retweet on Twitter 2107137132188106979 0 Like on Twitter 2107137132188106979 1 Twitter 2107137132188106979 Load More Paid for by Committee to Re-elect Drew MacEwen PO Box 651 UNION, WA 98592 Drew MacEwen is a former member of the United States Navy Force.
+Reply on Twitter 2107500059369820332 Retweet on Twitter 2107500059369820332 0 Like on Twitter 2107500059369820332 1 Twitter 2107500059369820332 Load More Paid for by Committee to Re-elect Drew MacEwen PO Box 651 UNION, WA 98592 Drew MacEwen is a former member of the United States Navy Force.
 Use of Drew MacEwen’s military rank, job titles, and photographs in uniform does not imply endorsement by the Navy or the Department of Defense. © # Committee to Re-elect Drew MacEwen | Privacy Policy

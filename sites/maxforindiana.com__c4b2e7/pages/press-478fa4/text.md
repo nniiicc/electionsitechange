@@ -1,5 +1,22 @@
 MAX ENGLING Media Kit Back to Home For Reporters & Editors Press Media Inquiries For interview requests, statements, or fact checks, contact the campaign. info@maxforindiana.com @MaxForIndiana Photos & Video Official campaign photos and B-roll are free to download and use in coverage.
-Open the Media Kit Announcements Press Releases October 15, 2026 · Indianapolis, Indiana Engling to Bayh: Drop the Lies, Explain the Money and Your 2014 Voter Registration Republican candidate for Indiana Secretary of State Max Engling today pushed back against Beau Bayh’s desperate, false campaign attacks, calling them a pattern of claims designed to distract voters from the Bayh family’s corruption.
+Open the Media Kit Announcements Press Releases October 17, 2026 · Indianapolis, Indiana Engling to Bayh: Redact the Advertisement or Face a Lawsuit Republican candidate for Indiana Secretary of State Max Engling today demanded that Beau Bayh withdraw his latest attack ad and correct its false claim about Engling’s driving record, or face a lawsuit.
+Max Engling has never been charged with or convicted of reckless driving.
+Yet Bayh’s advertisement features a police officer claiming Engling has been convicted of that offense eight times, which is libelous.
+Engling’s driving record includes eight speeding tickets, the most recent from #ago, all traffic infractions, not misdemeanor charges or convictions.
+To be clear, for Beau Bayh to utilize a sheriff's deputy, Scott Robinett, to suggest he was convicted 8 times of “reckless driving,” which starts off as a misdemeanor and can be escalated, is defamation on its face.
+A law enforcement officer who has been in the field for 40 years knows the difference between speeding tickets and the charge of reckless driving, and chose to state a blatant lie at the :08 to :10 portion of the advertisement.
+He also said Max has been investigated for this issue more than eight times, again a statement not tied to fact.
+“Beau Bayh can spend money repeating this claim, but he cannot produce a reckless driving charge against me because there isn’t one,” Engling said.
+“If Beau has evidence, release it.
+Otherwise, pull the ad and tell Hoosiers the truth.” The Engling campaign called on Bayh to identify the specific record supporting the allegation, remove the false claim from his campaign advertising, and publicly correct the record.
+“This is a straightforward question of accuracy, and Beau owes voters a straightforward answer,” Engling said.
+“An attack ad is no substitute for evidence.
+Putting an accusation on television doesn’t turn it into a fact.” Engling said the false allegation raises serious questions about the judgment Bayh would bring to an office responsible for maintaining accurate records and administering essential public services.
+“The Secretary of State’s office runs on accuracy, accountability, and public trust,” Engling said.
+“If Beau expects Hoosiers to trust him with that responsibility, he should demonstrate that he can get the facts right in his own advertising, and correct them when he gets them wrong.” Engling said his campaign will continue focusing on protecting Indiana’s elections, combating business fraud, and making the office an effective partner for Hoosier businesses.
+“I’m prepared to defend my record and debate my plans for this office,” Engling said.
+“But voters deserve a debate grounded in facts.
+Beau should explain what he would do as Secretary of State instead of making claims about charges that never happened.” Learn more at maxforindiana.com ### October 15, 2026 · Indianapolis, Indiana Engling to Bayh: Drop the Lies, Explain the Money and Your 2014 Voter Registration Republican candidate for Indiana Secretary of State Max Engling today pushed back against Beau Bayh’s desperate, false campaign attacks, calling them a pattern of claims designed to distract voters from the Bayh family’s corruption.
 “Beau keeps repeating false claims that I'm a multimillionaire profiting from data centers and insider trading.
 This is unequivocally false; I have no connection to either, and the four stocks I own are worth less than $50,000 total, and I have never sold them,” Engling said.
 “The lies don’t end, and it's shameful that the media will not report on how his false and separate attacks are baseless and frankly disqualifying.

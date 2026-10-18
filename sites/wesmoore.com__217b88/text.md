@@ -18,10 +18,9 @@ WES WES ARUNA ARUNA Donate to Fuel Our Re-Election Fight This campaign is powere
 Will you chip in $10, $20, or whatever you can afford to support Governor Moore and LG Miller’s re-election campaign today! $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER If you've saved your information with ActBlue Express, your donation will go through immediately.
 GET INVOLVED Wes and Aruna believe that no matter where you start in life, you deserve an equal opportunity to succeed – a job you can raise a family on and the chance to create wealth for you and your family.
 Volunteer with Moore-Miller!
-Follow us on Instagram Watch Our Latest Videos THE LATEST FROM THE CAMPAIGN NEWS AND PRESS NEWS AND PRESS Thankful for God’s grace and another year of life.
-#48 https://t.co/tZybq2DlO5 #ago I am so proud to stand alongside .@jessicafeldmark, a real partner in our fight for progress.
-Howard County knows they ...
-#ago Gov.
+Follow us on Instagram Watch Our Latest Videos THE LATEST FROM THE CAMPAIGN NEWS AND PRESS NEWS AND PRESS It was an honor to be at the Ploughmen and Fishermen Fundraiser in Prince George’s and to celebrate a true giant: Lead...
+#ago Thankful for God’s grace and another year of life.
+#48 https://t.co/tZybq2DlO5 #ago Gov.
 Moore Rolled Out 3 Union Endorsements, Brought Relief To Farmers, Froze Toll Increases, Cracked Down On Juvenile Ca...
 #ago Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
 TAKE ACTION By providing your phone number and opting-in, you agree to receive periodic automated text messages about donating and voter contact.

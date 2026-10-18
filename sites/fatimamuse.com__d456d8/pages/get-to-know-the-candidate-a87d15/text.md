@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Meet Fatima Read More Dr.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Meet Fatima Read More Dr.
 Fatima La’Juan Muse is a medical family therapist, educator, small-business owner, and community advocate running for Texas House District 2.
 Born and raised in New Orleans, Louisiana, Fatima earned her bachelor’s degree in Speech Communications and Theater … Endorsements & Distinctions Read More Throughout this campaign, organizations and community leaders have endorsed or recognized Fatima’s candidacy for Texas House District 2.
 This page lists those endorsements and candidate distinctions according to how each organization has described its support.

@@ -1,4 +1,4 @@
-Skip to content 984-275-4593 Envelope Donate Go Enter Keyword The temperament and experience to understand our community and help it succeed I was born and raised in Arkansas.
+Skip to content 984-275-4593 Envelope Donate Go Meet Meet the Candidate NC House 39 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Take Action Donate Volunteer When & Where to Vote Enter Keyword The temperament and experience to understand our community and help it succeed I was born and raised in Arkansas.
 I got my electrical engineering degree from Rose-Hulman Inst.
 Of Technology in Terre Haute IN.
 I met my wife, Kathy, there where she was attending college in the same town.

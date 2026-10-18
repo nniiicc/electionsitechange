@@ -2,5 +2,5 @@ Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Pl
 As a candidate for Congress in South Carolina’s 2nd District, he highlights how a new generation brings fresh perspectives, lived experiences, and a deeper understanding of today’s challenges.
 The world is changing, and our leadership should too.
 This campaign is about stepping forward with new energy, new ideas, and a commitment to building a future that reflects the people of today, not the past.
-Next The Type Of Candidate I Am You Might Also Like No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
-113 The Type Of Candidate I Am Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Next The Type Of Candidate I Am You Might Also Like The Type Of Candidate I Am No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
+113 Meet Zyon Khalifa Platform Volunteer Privacy Policy

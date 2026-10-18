@@ -1,4 +1,4 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy In 1983, I graduated from Sheehan High School, and thereafter briefly attended Southern Connecticut State University.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO In 1983, I graduated from Sheehan High School, and thereafter briefly attended Southern Connecticut State University.
 In 1985, I left college to pursue a career in retail management working for Caldor, and then Bradlees.
 In 1994, prompted by a lack of employment potential from having not obtained a college degree, I returned to school, enrolling at (then) Quinnipiac College.
 By that time, my wife Rhonda and I were first time home buyers, living in Brentwood Condominiums in Wallingford.
@@ -54,6 +54,5 @@ As with locally, as a State Representative, I have continued to seek smaller gov
 I will continue to do so in Hartford if the voters of the 90th General Assembly District allow me the opportunity to continue to serve them there.
 I enjoy, and am very proud to be a State Representative.
 I hope that the voters will see fit to allow me to remain as their representative into the 2027-28 term, and therefore I respectfully ask for your support on Election Day, November 3, 2026.
-(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
-MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) VOTER INFO News ENDORSED by the FRIENDS OF CT SPORTSMEN Backing Our First Responders Listening to Local Manufacturers Standing With Those Who Answer The Call Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Fishbein for Connecticut - Jo-Anne L.
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO Close Menu

@@ -10,8 +10,7 @@ We rode down to the river so Alex could talk about some potential solutions that
 She’s part of a brand new organization called Water for Whatcom, which is advocating for collaborative water resource management solutions for our county.
 Alex wants Whatcom County to invest in tangible solutions will benefit everyone- our farms, communities and the salmon.
 With the adjudication underway, the best thing we can do is work together to find solutions that prevent the flooding in the winters and drought in the summers to help protect some of Whatcom County's greatest assets.
-Recent Posts See All Whatcom County Is Too Expensive.
+Recent Posts See All Check My Record, Not the Mailer Whatcom County Is Too Expensive.
 We Need More Affordability.
 What's Up With the Heart?
-Dr.
-Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

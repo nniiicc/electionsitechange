@@ -3,7 +3,14 @@ Search Donate Democratic Nominee · Indiana House District 70 Sarah Blessing Fig
 Teacher.
 Neighbor.
 Advocate for rural Indiana.
-Donate Volunteer Show your support Get the campaign t-shirt Harrison County Dems put together an official Sarah Blessing t-shirt, printed locally on demand.
+Donate Volunteer Watch Sarah Sarah Blessing for Indiana on YouTube Short, straight-talk videos from Sarah on the issues facing District 70.
+Subscribe so you don't miss the next one.
+Is life extra hard right now?
+You are not alone.
+Do you want a data center in your backyard?
+Me either!
+Both political parties are corrupt!
+Subscribe on YouTube See all videos → Show your support Get the campaign t-shirt Harrison County Dems put together an official Sarah Blessing t-shirt, printed locally on demand.
 Wear it knocking doors, at events, or just around town.
 (Indiana law bars campaign apparel near polling places, so save it for outside that 50-foot line on Election Day.) Order the t-shirt → Visit the Harrison County Dems store → July 4, 2026 · A message from Sarah Happy 250th, America I believe it’s time to confront one of the biggest lies in politics.
 The lie is that we should fear or hate our neighbors just because they vote differently than we do.
@@ -39,14 +46,14 @@ We never save or store your address; the lookup is processed by a third-party ge
 See the full list of towns and ZIP codes in District 70 → In her own words Hear from Sarah Long before this campaign, Sarah co-founded Project Next Media — an independent Indiana newsroom built on the idea that taking the fear, hate, and division out of the news lets neighbors hear each other again.
 You can listen, watch, and read what she's been doing across Southern Indiana.
 The Roundtable Sarah's long-form interview series — local candidates, veterans, teachers, and community leaders, in their own words.
-Watch on Project Next → On YouTube Town halls, candidate conversations, and dispatches from Southern Indiana.
-Subscribe on YouTube → The newsletter Weekly writing on the races, issues, and people shaping Indiana — straight to your inbox.
+Watch on Project Next → On YouTube Campaign videos on Sarah's own channel, plus town halls, candidate conversations, and dispatches from Southern Indiana on Project Next.
+Sarah Blessing for Indiana → Project Next → The newsletter Weekly writing on the races, issues, and people shaping Indiana — straight to your inbox.
 Read on Substack → Election 2026 Interview Series Jacob Dufour of the Washington County Times sits down with Sarah on putting regular Hoosiers ahead of corporate interests — Medicaid, rural hospitals, public schools, and tax breaks for data centers.
 Read the interview Side by side on the issues Kevin King at Rage against Tyranny compares Sarah and her opponent across five issues — education, healthcare, constituent engagement, priorities, and endorsements.
 Read the article "Unpacking Sarah Blessing" Kevin King's long-form interview with Sarah at Rage against Tyranny — her path from the classroom, the families who shaped her run, and the priorities she'd take to the statehouse.
 Read the interview Do ordinary people still have a voice?
 Sarah sits down with Kate Hess Pace, executive director of Hoosier Action, on how regular Hoosiers build community power and get heard — on Project Next .
-Watch the conversation ‹ › Proudly endorsed Neighbors standing with Sarah AFGE District 6 Indiana Rural Summit Center for Freethought Equality Gun Sense Voter NASW Indiana PACE On the trail Out in District 70 Every vote earned is a door knocked, a handshake shared, a neighbor heard.
+Watch the conversation ‹ › Proudly endorsed Neighbors standing with Sarah AFGE District 6 Indiana Rural Summit Center for Freethought Equality Gun Sense Voter On the trail Out in District 70 Every vote earned is a door knocked, a handshake shared, a neighbor heard.
 Join the campaign Whether you can knock doors, make calls, chip in a few dollars, or just share the message with a neighbor — every bit helps us win District 70.
 Donate Volunteer Paid for and authorized by Sarah Blessing for State House.
 Site About Issues Ask Sarah Events Voting Info Am I in District 70?

@@ -10,7 +10,7 @@ Click an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join the Team Help create a better Georgia .
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Code Mobile ZIP ZIP Code * Mobile Phone Get Updates By providing your cell phone number, you consent to receive periodic campaign updates from Shawn for Georgia, including by automated text message.
+Mobile Email Name Name * First Last Email * ZIP Code * Mobile Phone Get Updates By providing your cell phone number, you consent to receive periodic campaign updates from Shawn for Georgia, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
 Privacy Policy .

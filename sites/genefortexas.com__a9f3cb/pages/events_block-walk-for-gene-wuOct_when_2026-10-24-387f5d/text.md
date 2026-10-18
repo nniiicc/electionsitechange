@@ -1,10 +1,10 @@
-Skip to content District 137 · Texas House Gene Wu Democrat for Texas House Meet Gene Issues Events Get Involved Donate ← All events Canvass Block Walk for Gene Wu Every Saturday, Oct 17 – Oct 31 · 9:00am-11:30am 3 dates — pick yours in the RSVP Campaign HQ 9798 Bellaire Blvd.
+Skip to content District 137 · Texas House Gene Wu Democrat for Texas House Meet Gene Issues Events Get Involved Donate ← All events Canvass Block Walk for Gene Wu Every Saturday, Oct 24 – Oct 31 · 9:00am-11:30am 2 dates — pick yours in the RSVP Campaign HQ 9798 Bellaire Blvd.
 Houston, TX 77036 Get directions Join us for a block walk to remind voters about this November's election and to re-elect Representative Gene Wu.
 We'll begin by meeting at the campaign office for a brief training and materials pickup.
 From there, we'll carpool or drive to our assigned turf locations to knock doors and talk with voters.
 Where we're walking Every door we knock is a neighbor reached.
 Come walk your streets with us.
-See where we're walking across the district Full walk map → RSVP Pick your dates — come to as many as you like Count me in for all 3 dates Sat, Oct 17 · 9:00am-11:30am 6 left Sat, Oct 24 · 9:00am-11:30am 7 left Sat, Oct 31 · 9:00am-11:30am 7 left Bringing friends?
+See where we're walking across the district Full walk map → RSVP Pick your dates — come to as many as you like Count me in for all 2 dates Sat, Oct 24 · 9:00am-11:30am 7 left Sat, Oct 31 · 9:00am-11:30am 7 left Bringing friends?
 0 1 2 3 4 5 Send me campaign updates by email (and text if I added my number).
 Count me in Can't make this one?
 See all events → New here?

@@ -7,5 +7,6 @@ As she put it, the greatest national security threat to our country is the erosi
 A Call to Step Forward I had the honor of sitting with Senator Slotkin during the event, and I left feeling deeply inspired by her clarity and conviction.
 Her message was a powerful reminder that this is not a moment to sit back and wait for change, we are the ones who must step forward.
 Together, we have the responsibility to fight for our state and for working families, and I know we are ready to meet that moment.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

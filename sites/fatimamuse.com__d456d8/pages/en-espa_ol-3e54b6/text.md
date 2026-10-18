@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact En Español Conoce a Fatima La Dra.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store En Español Conoce a Fatima La Dra.
 Fatima La’Juan Muse es terapeuta en Terapia Familiar Médica, educadora, propietaria de una pequeña empresa y defensora de la comunidad.
 Es candidata a la Cámara de Representantes de Texas por el Distrito 2, que incluye los condados de Hunt, Hopkins y Van Zandt.
 Nacida y criada en Nueva Orleans, Luisiana, Fatima obtuvo su licenciatura en Comunicación Oral y Artes Teatrales de Dillard University, su maestría en Consejería Matrimonial, de Pareja y Familiar de Southeastern Louisiana University, y su doctorado en Terapia Familiar Médica de Saint Louis University School of Medicine.

@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Work Order — Minnesota Taxpayers FILE NO.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Work Order — Minnesota Taxpayers FILE NO.
 CD3-FRAUD-2026 FRAUD ACCOUNTABILITY PLAN FOR MINNESOTA'S 3RD DISTRICT MINNESOTA USED TO BE KNOWN FOR THE TWINS, THE WOLVES, THE VIKINGS AND THE LYNX.
 NOW WE’RE KNOWN FOR FRAUD.
 Nearly a billion dollars has walked out the door of Minnesota’s autism, disability, and adult day-care programs — while the people running those programs collect government checks the size of a small business loan, with none of the accountability a real loan would require.
@@ -62,6 +62,6 @@ In Congress, I’ll make sure taxpayer money is earned the same way — or it do
 Back To The Campaign VOLUNTEER TO HELP Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

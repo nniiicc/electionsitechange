@@ -15,5 +15,5 @@ We are voting for Susan Culp.
 She is by far the best qualified candidate in this race, and we encourage others to support her as well.
 M.
 Robin Barone and Sydney Lea, Newbury, Vt.
-Valley News October 12, 2026 Tags: Susan Culp Orange Caledonia District Independent voice for rural Vermont Susan Culp 2026 midterm election Recent Posts See All Join me in supporting Susan Culp Marvin Harrison Newbury, VT I’m encouraging voters in Newbury, Groton and Topsham to take the time and effort to get to know Susan Culp and her positions on issues affecting Vermonters that need thoug (802) 866-0058 culpforvermont@gmail.com PO Box 211 Newbury, VT 05051 PAID FOR BY CULP FOR VERMONT Share © # by Culp for Vermont.
+Valley News October 12, 2026 Tags: Susan Culp Orange Caledonia District Independent voice for rural Vermont 2026 midterm election Susan Culp Recent Posts See All Join me in supporting Susan Culp Marvin Harrison Newbury, VT I’m encouraging voters in Newbury, Groton and Topsham to take the time and effort to get to know Susan Culp and her positions on issues affecting Vermonters that need thoug (802) 866-0058 culpforvermont@gmail.com PO Box 211 Newbury, VT 05051 PAID FOR BY CULP FOR VERMONT Share © # by Culp for Vermont.
 Powered and secured by Wix bottom of page

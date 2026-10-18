@@ -22,9 +22,7 @@ I also break down the biggest stories of the week, including Elon Musk’s growi
 And finally, a little sports talk: GO KNICKS!
 Previous NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-Next WE ARE AT A CROSSROADS IN WESTERN NEW YORK You Might Also Like PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-Why Is Southern Ontario Doing Better Than Western New York?
-North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Volunteer and Sign Up for Updates!
+Next WE ARE AT A CROSSROADS IN WESTERN NEW YORK You Might Also Like NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+PODCAST CLIP: THEY DIDN’T EVEN SHOW UP North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Volunteer and Sign Up for Updates!

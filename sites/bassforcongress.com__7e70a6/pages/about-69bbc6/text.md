@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin About Tyler Bass Built By Hard Work.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin About Tyler Bass Built By Hard Work.
 Nobody Handed Me Anything.
 From a small town in southern Minnesota to building multiple companies from scratch — this is my story, in full.
 1.
@@ -97,11 +97,33 @@ I earned my general contractor’s license and now run Cities Exteriors, where w
 Cities Exteriors General contracting — concrete, gutters, and exterior projects across the Twin Cities. citiesexteriors.com → Present.
 Why I'm Running I've Watched Our Jobs Disappear.
 I'm Done Watching.
-I grew up in rural Minnesota and watched immigration change our factory towns firsthand.
+Legal Immigration, Fair Opportunity, and Accountability for All I grew up in rural Minnesota and watched immigration change our factory towns firsthand.
 Right out of college, I applied for a job at Hormel Foods and was turned down.
-Weeks later, a police officer pulled over an undocumented worker near the plant and — as a courtesy — told him a raid was planned for Monday morning, so he and his friends wouldn’t show up to work.
-No raid ever happened.
-But 45 workers didn’t show up that day anyway.
+Weeks later, I heard about an incident in which a police officer reportedly pulled over an undocumented worker near the plant and told him a raid was planned for Monday morning.
+The raid never happened, but 45 workers reportedly did not show up that day.
+That experience shaped how I think about immigration, jobs, and fairness in America.
+Protect American Workers and Support Legal Immigration I believe in legal immigration, secure borders, and a fair shot for American workers.
+The working class should never be passed over for jobs they want and are qualified to do.
+Americans who are willing to work hard deserve the opportunity to build a future for themselves and their families.
+At the same time, businesses need workers, including for difficult and physically demanding jobs.
+We can address those labor needs without encouraging illegal employment or allowing employers to bypass our laws.
+A Better System for Legal Employment I want to explore creating a government-supported online labor-matching system where eligible immigrants can apply for legal authorization to work in industries that struggle to fill physically demanding positions.
+Similar to how the H-1B program connects employers with eligible foreign workers in certain occupations, this proposed system could allow businesses to search for applicants, verify their eligibility, and hire through a legal process with appropriate wage standards and worker protections.
+Such a system could help employers find workers, provide immigrants with a legal pathway to employment, and reduce incentives for illegal labor.
+It must also protect American workers from unfair competition and ensure that employers follow wage and labor laws.
+We should be able to meet legitimate workforce needs while putting American workers first and upholding the rule of law.
+Stop Fraud Wherever It Exists Fraud is wrong regardless of who commits it, which political party is involved, or where the money goes.
+Taxpayers deserve accountability, transparency, and responsible management of public funds.
+I believe we must investigate credible allegations of fraud, hold those responsible accountable, and protect vulnerable communities from exploitation.
+No organization, individual, or political party should be above scrutiny.
+Our tax dollars belong to the people who earn them.
+Every dollar lost to fraud is a dollar that cannot be used to support the communities and services that taxpayers depend on.
+Bringing Our Country Together I believe we can secure our borders, support legal immigration, protect American workers, fight fraud, and come together as a nation.
+We do not have to hate one another to solve our problems.
+We need honest conversations, practical solutions, and leaders willing to put the American people ahead of political interests.
+I am Tyler Bass, and I am running for U.S.
+Congress in Minnesota’s Third Congressional District to fight fraud, protect working families, support legal immigration, and bring common sense and accountability back to Washington.
+It’s time for a government that works for the people who work hard every day.
 People like me — and mothers who need formula for their kids, single dads trying to make rent, hardworking Minnesotans of every background — need those jobs.
 Tim Walz and the far-left have run this state for 20 years, and working families have paid the price the entire time.
 I’ve witnessed it firsthand, from the Hormel parking lot to my own neighborhood in Minnetonka.
@@ -116,6 +138,6 @@ Tyler Bass Join The Fight Get In Touch Fill out the form below and we will conta
 Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

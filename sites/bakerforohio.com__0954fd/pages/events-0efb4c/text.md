@@ -1,3 +1,3 @@
 Meet Mike Issues News Volunteer Yard Signs Contribute Events More events coming soon!
-#ago This Week This Month ‹ Previous Sat Oct 17 2026 - Sun Oct 17 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Sun Oct 18 2026 - Mon Oct 18 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

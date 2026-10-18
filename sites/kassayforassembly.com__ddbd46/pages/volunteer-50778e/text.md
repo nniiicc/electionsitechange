@@ -7,12 +7,7 @@ Join one, two, or all dates!
 CALL COMMUNITY MEMBERS Assemble, Display, or Deliver Lawn Sign​s Join us at the Democratic Headquarters to assemble lawn signs, take one to display on your property or to give to your neighbor to display!
 Stop by the Headquarters whenever we're open to pick one up for yourself or to assemble signs for properties around the district.
 REQUEST A LAWN SIGN Write Postcards Coming soon!
-Show Support at a Meet the Candidates Event 1.
-September 28th, 7:30pm , with the Coram Civic Association at the Coram Fire Department Community Building (303 Middle Country Rd, Coram NY 11727) ​ 2.
-October 5th, 7:00pm , with the Three Village Civic Association at the Setauket Fire Department (190 Main St, Setauket NY 11733) ​ 3.
-October 12th, 6:30pm , with the Port Jefferson Civic Association at the Port Jefferson Free Library (100 Thompson St, Port Jefferson NY 11777) ​ ​ 4.
-October 15th, 7:00pm , with the Centereach and Selden Civic Associations (Centereach Fire Department at 9 South Washington Ave, Centereach) ​ 5.
-October 21st, 12:00pm , with the Three Village Chamber of Commerce at the Holiday Inn Express Stony Brook (3131 Nesconset Hwy, Centereach NY 11720) Sign up for our Mailing List Be the first to know about events by signing up for our mailing list: FIRST NAME LAST NAME EMAIL PHONE ADDRESS SKILLS By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Show Support at a Meet the Candidates Event ​ October 21st, 12:00pm , with the Three Village Chamber of Commerce at the Holiday Inn Express Stony Brook (3131 Nesconset Hwy, Centereach NY 11720) Sign up for our Mailing List Be the first to know about events by signing up for our mailing list: FIRST NAME LAST NAME EMAIL PHONE ADDRESS SKILLS By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

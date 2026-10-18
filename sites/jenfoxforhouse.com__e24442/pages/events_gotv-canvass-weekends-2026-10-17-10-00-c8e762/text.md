@@ -3,5 +3,5 @@ DONATE GOTV Canvass, Weekends Sat, Oct 17 | Hastings (address sent when you sign
 Pick a shift when you sign up.
 The meeting spot comes with your confirmation.
 No experience needed: there's a short training and all materials are provided.
-RSVP Time & Location Oct 17, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Other dates Sun, Oct 18, 10:00 AM Sat, Oct 24, 10:00 AM Sun, Oct 25, 10:00 AM View all 5 dates RSVP Share this event GET INVOLVED Your support changes the game!
+Registration is closed See other events Time & Location Oct 17, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Other dates Sun, Oct 18, 10:00 AM Sat, Oct 24, 10:00 AM Sun, Oct 25, 10:00 AM View all 4 dates Share this event GET INVOLVED Your support changes the game!
 DONATE YARD SIGNS VOLUNTEER SUBSCRIBE Home About Me Events Donate Newsletter Gallery Prepared and paid for by the Jen Fox for House Committee PO Box 492, Hastings MN 55033 PO Box 492 Hastings, MN 55033 jenfoxforhouse@gmail.com bottom of page

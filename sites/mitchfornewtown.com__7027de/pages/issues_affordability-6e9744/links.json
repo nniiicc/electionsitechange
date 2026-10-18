@@ -8,6 +8,10 @@
 "href": "https://www.mitchfornewtown.com/affordabilty"
 },
 {
+"text": "CK HERE",
+"href": "https://www.mitchfornewtown.com/voting-information"
+},
+{
 "text": "CampaignPartner.com",
 "href": "https://www.campaignpartner.com"
 },
@@ -22,10 +26,6 @@
 {
 "text": "Home",
 "href": "https://www.mitchfornewtown.com/"
-},
-{
-"text": "Join the Team",
-"href": "https://www.mitchfornewtown.com/join-the-team"
 },
 {
 "text": "Key Issues",
@@ -60,7 +60,11 @@
 "href": "https://www.mitchfornewtown.com/privacy-policy"
 },
 {
-"text": "THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!",
+"text": "THERE ARE 3 WAYS TO VOTE THIS YEAR - CLI",
+"href": "https://www.mitchfornewtown.com/voting-information"
+},
+{
+"text": "TO LEARN MORE!",
 "href": "https://www.mitchfornewtown.com/voting-information"
 },
 {

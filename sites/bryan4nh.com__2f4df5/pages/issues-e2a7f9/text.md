@@ -8,7 +8,7 @@ Cost of Living, Housing & Property Taxes The rising cost of housing, property ta
 Bryan opposes a broad-based tax on earned income.
 He supports restoring a modified Interest and Dividends Tax with substantially higher exemptions, such as $25,000 for individuals and $50,000 for couples, as one way to reduce the state's reliance on property taxpayers.
 He also supports helping communities remove unnecessary barriers to new housing while preserving local decision-making, environmental protections, and community character.
-Healthcare & Mental Health Access to quality healthcare and mental health services is especially important in rural communities, where finding a provider or getting an appointment can be difficult.
+Read Bryan's Full Plan → Healthcare & Mental Health Access to quality healthcare and mental health services is especially important in rural communities, where finding a provider or getting an appointment can be difficult.
 Bryan has spent more than a decade as a licensed social worker specializing in anxiety and trauma, and he understands how important timely care can be.
 Bryan believes people should be able to get the care they need without unnecessary barriers.
 In Concord, he'll bring his professional experience to discussions about strengthening healthcare and mental health services for New Hampshire families.
@@ -31,10 +31,10 @@ Bryan believes state government should work with towns rather than impose one-si
 Bryan supports protecting the right of eligible citizens to vote while maintaining election integrity.
 He believes voting requirements should verify eligibility without creating unnecessary barriers for lawful voters.
 He'll bring the same approach to Concord that he's used throughout his career: listening first, finding common ground, and working with people who may see things differently.
-Protecting Our Lakes, Forests, and Water Why this matters to me I'm a licensed social worker, a father, and a Moultonborough resident since 2013.
-Before I worked in mental health, I studied outdoor education and adventure leadership and worked in outdoor programs for young people.
-In recent summers, cyanobacteria warnings have become more common on lakes across the Lakes Region, and that worries me, because our lakes are central to how we live here.
-This isn't an abstract issue for District 3.
-Clean water is the reason people move here, the reason visitors come, and a big part of what supports property values and local jobs.
-Leadership That Listens Quick Links Home About Bryan Issues FAQ Contact Get Involved Get Involved Donate Follow Bryan Facebook-f Instagram Icon-linkedin Paid for by Friends of Bryan Randolph Fiscal Agent Bryan Randolph 9 Brick Kiln Rd.
+Protecting Our Lakes, Forests, and Water Our lakes, forests, and clean water are central to life in Madison, Moultonborough, and Tamworth.
+They support our communities, local economy, and quality of life.
+Bryan understands the importance of protecting these natural resources for future generations, especially as cyanobacteria blooms, development pressures, and water-quality concerns continue to grow.
+Bryan supports dependable state funding for lake and watershed protection, stronger support for local conservation efforts, and assistance with septic system upgrades.
+He also supports protecting shoreland regulations, safeguarding the Ossipee Aquifer, and expanding local renewable-energy opportunities while keeping costs fair for ratepayers.
+Read Bryan's Full Plan → Leadership That Listens Quick Links Home About Bryan Issues FAQ Contact Get Involved Get Involved Donate Follow Bryan Facebook-f Instagram Icon-linkedin Paid for by Friends of Bryan Randolph Fiscal Agent Bryan Randolph 9 Brick Kiln Rd.
 Moultonborough, NH 03254

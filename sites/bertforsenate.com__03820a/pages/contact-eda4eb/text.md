@@ -8,7 +8,7 @@ Message and data rates may apply.
 Msg frequency varies.
 Reply HELP for help.
 You can opt out at any time by replying STOP to any message sent from us.
-Message * 0/1000 Verify you're human * 9 + 2 = ?
+Message * 0/1000 Verify you're human * 1 + 3 = ?
 Send Message Email info@bertforsenate.com Want to Volunteer?
 Join our team of dedicated volunteers and help make a difference in Virginia.
 Sign Up to Volunteer Follow Bert on Social Media Candidate for U.S.

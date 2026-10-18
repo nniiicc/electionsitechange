@@ -2,5 +2,5 @@
 Every conversation we have brings us one step closer to our goal, and we need your energy to keep the momentum going.
 Join us every Tuesday from now until election day!
 Sign up here: https://mobilize.us/s/UzjZsJ Previous Previous June 18 Recurring Doorknocks!
-Chris Ford for MN Prepared and paid for by the Chris Ford for MN committee.
+Next Next October 24 Get Out The Vote (GOTV) Chris Ford for MN Prepared and paid for by the Chris Ford for MN committee.
 PO Box 490021, 10611 Baltimore St NE STE 100, Blaine, MN 55449.

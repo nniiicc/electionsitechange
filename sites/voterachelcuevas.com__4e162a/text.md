@@ -36,7 +36,7 @@ Today Rachel lives in Alburtis with her husband and two children.
 Meet Rachel Putting our community first means making decisions that reflect the real lives of the people who live here, not politics as usual in Harrisburg.
 I’m running because I believe our community deserves leadership that shows up, listens, and works alongside residents to solve problems.
 We need stronger support for our schools, more affordable housing options, accessible and reliable health care, and policies that help working families get ahead instead of fall behind.
-Endorsements Josh Shapiro Governor of Pennsylvania Bob Brooks PA-07 Congressional Candidate Susan Wild Former PA-07 Congresswoman View All Endorsements Latest News Events Sample Rachel Cuevas wins Democratic Primary for Pennsylvania House District 187!
+Endorsements Josh Shapiro Governor of Pennsylvania Bob Brooks PA-07 Congressional Candidate Susan Wild Former PA-07 Congresswoman View All Endorsements Latest News Events Rachel Cuevas wins Democratic Primary for Pennsylvania House District 187!
 July 29, 2026 Read more View All News Stay Connected Get campaign updates, event announcements, and opportunities to help elect Rachel.
 First name Last name Email ZIP code Phone (optional) [PLACEHOLDER — campaign-approved SMS consent disclosure required before this field goes live] Join Team Rachel Help Build a Fairer, Stronger Future $10 — opens ActBlue in a new tab $25 — opens ActBlue in a new tab $50 — opens ActBlue in a new tab $100 — opens ActBlue in a new tab $250 — opens ActBlue in a new tab Other — opens ActBlue in a new tab × Sample Endorsement Rachel Cuevas for PA State Representative State Representative — District 187 · Fair.
 Local.

@@ -32,4 +32,4 @@ Show your support for Robyn’s campaign with the latest merch.
 Online merch sales end soon!
 Get your campaign items now!
 Spread the Love!
-Order Today  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy
+Order Today  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

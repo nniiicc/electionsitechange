@@ -26,5 +26,6 @@ Iowans will pay the price for the majority party’s budget mismanagement.
 Here’s the bottom line: Iowans don’t want this.
 Republican lawmakers are rushing this bill through the process, trampling over procedural rules they agreed to, in the hopes that you won’t notice and you won’t know who to blame when your healthcare costs go up again.
 Senate Democrats are laser-focused on affordability, and that means, unlike the majority party, we’ll continue to fight for policies that actually lower your costs, not raise them even higher.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

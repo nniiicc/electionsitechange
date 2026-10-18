@@ -672,4 +672,4 @@ We'll be bringing all the races and information to you.
 But the most important part, get out and vote.
 If you don't vote, you don't have a voice.
 I'm Christine James, 9 59 WATD. [Station ID jingle] Next CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like Powder Point Bridge My work to build the Pembroke Community Center I would be the FIRST WOMAN elected to this seat My thoughts on the audit Halifax's recent water shutoffs Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like Being an Inaugural Member of American Service Fellowship at Harvard I would be the FIRST WOMAN elected to this seat 25th Anniversary of 9/11 Yet another school shooting today My work to build the Pembroke Community Center Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

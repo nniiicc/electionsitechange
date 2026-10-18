@@ -29,4 +29,4 @@ The duo combined juggling and comedy to educate children about the importance of
 As Jay juggled items, Leslie snatched them out of the air, and when finished she had filled up a plastic bag of recyclable products that often end up thrown away.
 The first Earth Day was held in Washington, D.C., in 1970 to call attention to the declining health of the planet.
 The zoo has made Earth Day celebrations an annual tradition since 1990 to help current and future generations learn how to be better stewards of the Earth.
-Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

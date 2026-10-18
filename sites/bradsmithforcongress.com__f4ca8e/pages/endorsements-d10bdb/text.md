@@ -4,10 +4,22 @@ Wisconsin AFL-CIO The Wisconsin State AFL-CIO represents union members in the st
 A democratically elected body dedicated to representing the interests of all working people at the state and local level.
 Service Employers International Union Wisconsin The Service Employees International Union (SEIU), is a union of about 2 million diverse members in healthcare, the public sector and property services who believe in and fight for our Vision for a Just Society: where all workers are valued and all people respected—no matter where we come from or what color we are; where all families and communities can thrive; and where we leave a better and more equitable world for generations to come.
 SMART Local 18 SMART (the International Association of Sheet Metal, Air, Rail, and Transportation Workers) is a 21st-century labor Union dedicated to protecting and improving the quality of life for men and women working in sheet metal, shipyards, manufacturing and transportation across the U.S. and Canada.
+Teamsters Joint Council 39 The Teamsters are America’s largest, most diverse union.
+In 1903, the Teamsters started as a merger of the two leading team driver associations.
+These drivers were the backbone of America’s robust economic growth, but they needed to organize to wrest their fair share from greedy corporations.
+Today, the union’s task is exactly the same.
+American Postal Workers Union The APWU represents more than 200,000 USPS employees and retirees, and nearly 2,000 private-sector mail workers.
+For more than four decades, APWU has fought for dignity and respect on the job for the workers we represent, as well as for decent pay and benefits and safe working conditions.
+As an AFL-CIO affiliate, the APWU supports the struggle for social and economic justice for all working families.
+American Federation of Government Employees AFGE represents over 820,000 workers in nearly every agency of the federal and D.C. governments, spread across over 900 local unions.
+Our members are nurses, correctional officers, doctors, Social Security professionals, TSA agents, law enforcement officers, park rangers, and so much more.
+While we represent almost every type of federal employee, the agencies with the highest memberships are the Department of Veterans Affairs, the Social Security Administration, the Department of Defense, and the Department of Homeland Security.
 IBEW Local 494 IBEW Local 494 is a labor union representing approximately 2700 members.
 Local 494 is committed to improving the working conditions and providing employment to all electrical workers in the counties that it serves: Milwaukee, Waukesha, Washington, Ozaukee, Fond du Lac, and Sheboygan.
 ATU Local 998 The Amalgamated Transit Union – the largest labor union representing transit and allied workers in the U.S. and Canada – fights for the interests of its hard-working members and promotes mass transit.
 Local 998 represents bus operators and mechanics in Milwaukee and Sheboygan.
+American Federation of Teachers The AFT is a union of professionals that champions fairness; democracy; economic opportunity; and high-quality public education, healthcare and public services for our students, their families and our communities.
+We are committed to advancing these principles through community engagement, organizing, collective bargaining and political activism, and especially through the work our members do.
 Sierra Club Sierra Club is the largest and most influential grassroots environmental organization in the country.
 For more than 130 years, we’ve been working to promote clean energy, safeguard the health of our communities, protect wildlife, and preserve our remaining wild places through grassroots activism, public education, lobbying, and legal action.
 National Organization for Women The National Organization for Women is dedicated to its multi-issue and multi-strategy approach to women’s rights, and is the largest organization of feminist grassroots activists in the United States.

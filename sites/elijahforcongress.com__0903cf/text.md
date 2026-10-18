@@ -19,7 +19,7 @@ Ryan and his wife, Tasha, have raised their two boys in Seminole County.
 As a long-time Florida resident of 20 years — 14 of them in District 7 — he is committed to fighting for conservative Florida values.
 Family is the foundation of our strong communities in Central Florida.
 Ryan is active in his church and believes in protecting family values.
-Where Ryan Stands Endorsements Ryan has earned the support of Florida’s governor, both of the district’s sheriffs, and members of Florida’s congressional delegation.
+Where Ryan Stands Endorsements Ryan has earned the support of Florida’s governor, 11 Florida sheriffs, and members of Florida’s congressional delegation.
 Ron DeSantis Governor of Florida Mike Chitwood Volusia County Sheriff Dennis Lemma Seminole County Sheriff Mike Haridopolos U.S.
 Representative, Florida’s 8th District Anna Paulina Luna U.S.
 Representative, Florida’s 13th District See All Endorsements Key Objectives Focused on Florida and supporting a conservative agenda.

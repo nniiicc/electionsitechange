@@ -1,15 +1,9 @@
 top of page Meet Jen Issues Endorsements Events Get Involved Vote Gallery More Use tab to navigate through the menu items.
 DONATE EVENTS Help Jen Connect to 41B!
-Multiple Dates Sat, Oct 17 GOTV Canvass, Weekends / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Get Out the Vote shifts in Hastings at 10am, 12pm, 3pm and 5pm.
+Multiple Dates Sun, Oct 18 GOTV Canvass, Weekends / Hastings (address sent when you sign up) RSVP Oct 18, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Get Out the Vote shifts in Hastings at 10am, 12pm, 3pm and 5pm.
 Pick a shift when you sign up.
 The meeting spot comes with your confirmation.
 No experience needed: there's a short training and all materials are provided.
-Share Sat, Oct 17 GOTV Kick-off with Angie Craig, Sen.
-Seeberger and Jen Fox / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 1:00 PM Hastings (address sent when you sign up) Kick off Get Out the Vote with Rep.
-Angie Craig, Sen.
-Judy Seeberger and Jen Fox, then knock doors in Hastings.
-Open to first-time and experienced canvassers; training and materials provided.
-The address is sent when you sign up.
 Share Wed, Oct 21 DFL Leader Knock with Zack Stephenson / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 4:00 PM Hastings (address sent when you sign up) Knock doors with DFL House Leader Zack Stephenson and Jen Fox, 4 to 7pm in Hastings.
 The meeting spot comes with your confirmation.
 Share Multiple Dates Wed, Oct 21 Door Knock, Wednesdays 5pm / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 5:00 PM – 8:00 PM Hastings (address sent when you sign up) An after-work knock in Hastings.

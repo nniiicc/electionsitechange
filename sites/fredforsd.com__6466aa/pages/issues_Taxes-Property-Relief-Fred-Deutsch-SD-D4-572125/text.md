@@ -4,8 +4,7 @@ But leaning on sales tax increases to fund property tax relief is not a reliable
 Consumption tax revenue rises and falls with the economy, and a plan built on it can leave homeowners exposed again the next time collections soften.
 It also did little for those who rent, and for the farmers and ag landowners who make up a huge share of District 4, since this relief is built mainly around owner-occupied homes. 🛠️ Fred’s Plan A senior property tax exemption for homeowners earning under $75,000 a year — that covers roughly 70% of South Dakota's senior homeowners.
 An agricultural circuit breaker that caps assessed-value increases when commodity prices spike, so a good year for grain or cattle prices doesn't turn into a property tax bill you can't cash flow.
-A hard cap on levy growth, so local taxing bodies can't quietly outpace what families can actually afford.
-A DOGE-style, line-by-line review of state spending before we ask taxpayers to fund new relief programs with another tax increase — find the savings first, then decide what still needs new revenue.
+A hard cap on levy growth, so local taxing bodies can't quietly outpace what families can actually afford..
 If I'm sent back to Pierre, this is the plan I'll be pushing. ✅Progress So Far Backed South Dakota's largest sales-tax cut in history, SB 137 (2024).
 Supported bills that reduced the maximum school levies, directly easing property tax pressure on homeowners SB 59 (2022).
 Supported legislation to tighten levy caps and bring predictability to taxpayers. → See the full record on Promises Made & Kept 💡Why This Matters Property taxes shouldn’t push families off their land or force seniors to sell their homes.

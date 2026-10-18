@@ -30,7 +30,7 @@ D.A.
 Roehrig D.A.
 Roehrig Use Public Money to Defend Our Lives!
 To Vote for D.A.
-Roehrig Election News Party News Contact WCP: 2026 Working Class Party in 2026 On Capitalism's Wars Use This Election All Campaigns Michigan: 2026 Maryland: 2026 Illinois: 2026 VOTE411 for Ed Hershey in Illinois Posted by: admin #ago The League of Women Voters posted its VOTE411 voter guide with candidate information including that of Ed Hershey , Working Class Party candidate for U.S.
+Roehrig Election News Party News Contact WCP: 2026 Working Class Party in 2026 On Capitalism's Wars Use This Election All Campaigns Michigan: 2026 Maryland: 2026 Illinois: 2026 VOTE411 for Ed Hershey in Illinois Posted by: admin 2 weeks, #ago The League of Women Voters posted its VOTE411 voter guide with candidate information including that of Ed Hershey , Working Class Party candidate for U.S.
 Congress in the 4th district of Illinois.
 Ed's responses to the League's survey may be viewed on the VOTE411 web site, as well as compared to the other candidates' responses, below.
 VOTE411 for U.S.

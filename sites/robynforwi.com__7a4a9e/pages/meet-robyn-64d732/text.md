@@ -25,4 +25,4 @@ She has developed a reputation as one of the most in-demand photographers in Mil
 She attributes her success in business to her love for, understanding of, and dedication to people.
 Robyn at Home An active member of her community, Robyn is an avid outdoor runner, Hank Aaron trail rider, Legacy Gym enthusiast, food truck fan, dedicated theater buff, and lives in Wauwatosa with her husband (a professor) and their two children (who are awesome).
 The Vining family takes turns snuggling their lovable boxer, Coco.
-Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy
+Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy

@@ -14,5 +14,6 @@ We have confirmed the overwhelming majority of the governor’s appointees.
 But, in the course of our deliberative process, we found a few appointees with whom we had serious concerns.
 A few of those appointees failed to receive the necessary votes for confirmation.
 Our Reasoning wasn’t Political, but Practical Senate Democrats will continue to mind the People’s business in the Iowa Senate and ensure that the men and women appointed to serve in these important roles are both qualified and effective.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

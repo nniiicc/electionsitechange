@@ -101,8 +101,4 @@ View Event → Apr 18 Vanderburgh County Canvassing - Phonebanking is also an op
 Saturday, April 18, 2026 12:00 PM 3:00 PM Campaign Office (map) Google Calendar ICS Let's talk to our neighbors about Mary Allen!
 We will meet at the campaign office and then go out to canvass in Vanderburgh County.
 Phonebanking opportunities will be available this day as well.
-View Event → Apr 17 Coffee with a Candidate Friday, April 17, 2026 1:00 PM 2:30 PM Impressed Coffee shop (map) Google Calendar ICS Lets get coffee and talk about the real issues facing the 8th district.
-Come meet Mary!
-Bring your friends and your questions.
-We would love to see you.
 View Event → REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

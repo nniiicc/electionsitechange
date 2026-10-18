@@ -17,4 +17,9 @@ Learn More Keep Washington Competitive Protect taxpayers, support small business
 Learn More Why I'm Running I’m running for State Senate because Whatcom County families, farmers, businesses, and students deserve a strong voice in Olympia.
 I’ll fight for practical solutions that lower costs, improve access to mental health care, support our schools, protect our farmland, and keep Washington a place where families and businesses can thrive.
 Together, we can build a stronger future for Whatcom County.
-Meet Erika It’s Time for Common Sense Leadership Get Involved Donate Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Meet Erika Where I Stand on Abortion The people of this state have spoken clearly that they want abortion to remain legal and accessible in Washington.
+I respect that and will not go against a vote of the people.
+That said, the reasons most women give for choosing to end a pregnancy are economic.
+And if that's her only choice, then that really is no choice at all.
+We need to do more to assist women in crisis pregnancies so they have real options.
+It’s Time for Common Sense Leadership Get Involved Donate Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

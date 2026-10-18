@@ -1,4 +1,4 @@
-top of page DONATE HERE Meet Lauren Road to Prosperity Voter Info Get Involved Events News Another Candidate Forum And Another No-Show Incumbent edauer18 #ago 1 min read Updated: #ago Hosted by Women for Kansas, U.S.
+top of page DONATE HERE Meet Lauren Road to Prosperity Voter Info Get Involved Events News Another Candidate Forum And Another No-Show Incumbent edauer18 Oct 10 # min read Updated: #ago Hosted by Women for Kansas, U.S.
 Congressional candidates gathered October 10 with voters to discuss key election issues including federal spending, taxes/tariffs, war powers, affordability, and immigration.
 Lauren Reinhold addressed the common concern of affordability affecting everyone across the Big First, citing high prices on goods and the pattern of lowering taxes for the wealthy.
 She argued against allowing corporations unfettered ability to fund politics, which has entrenched corruption in Washington, and drowned out the will of the people.

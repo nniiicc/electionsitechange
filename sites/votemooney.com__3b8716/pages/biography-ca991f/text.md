@@ -14,7 +14,7 @@ Maureen received her Bachelor of Arts degree in Political Science from The Thoma
 From 2009-2014, she was the Associate Dean of a history completion college established by the Massachusetts School of Law as an innovative undergraduate program for nontraditional students seeking admittance to law school.
 From 2014-2020, she held leadership positions at the second largest "bricks and mortar" charter school in New Hampshire, which focuses on a mission of character, leadership, history and liberty for grades 6-12.
 Upon her departure in 2020, the school named its library after her.
-Maureen serves on the Advisory Board of the Academy of the Holy Family in Baltic, Connecticut and is a Trustee of The Thomas More College of Liberal Arts where she was the Corporate Secretary for 15 years.
+Maureen serves on the Advisory Board of the Academy of the Holy Family in Baltic, Connecticut and was a Trustee of The Thomas More College of Liberal Arts where she was the Corporate Secretary for 15 years.
 In 2017, she was the first alumna of Thomas More College to receive its highest honor, the Thomas More Medal, for exemplary service and support to the school.
 Maureen has been a member of and held various positions in local, county, and state party committees including chairman of the Platform Committee (2002), secretary of the party (2001-2007), and delegate to the Republican National Convention (2008).
 Since 2000, Merrimack voters have repeatedly elected her a Delegate to the N.H.

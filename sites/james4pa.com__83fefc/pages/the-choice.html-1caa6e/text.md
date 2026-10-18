@@ -3,7 +3,10 @@ This is the James Julius campaign’s comparison of the candidates for Pennsylva
 Explore James’s policy priorities , his background , and the source material below.
 My opponent is running for the Pennsylvania House.
 Why does so much of her campaign sound like a race for Congress?
-A Different Focus My opponent is focused on Washington.
+October 16 Candidate Forum Hear the questions.
+Compare the answers.
+Watch the full District 45 forum with James Julius and Brittany Bloam, read the complete working transcript, and jump directly to individual questions and answers.
+Watch the Forum & Read the Transcript A Different Focus My opponent is focused on Washington.
 I’m focused on us.
 A state representative should begin with the people and communities of the district: listening, helping constituents navigate state government, and working on the decisions Harrisburg can make close to home.
 I am running to serve you—the people of District 45—with a practical agenda for affordability, opportunity, infrastructure, public safety, equal justice for preborn children, and accountable government.
@@ -46,7 +49,7 @@ Read My Local Agenda Get Involved Contribute Born here.
 Raised here.
 Raising his family here.
 Running to serve District 45.
-Explore About James Local Agenda The Choice District 45 Endorsements Voter Resources Campaign FAQ Connect Get Involved Volunteer Request a Yard Sign Contribute campaign@james4pa.com Facebook X YouTube A name you know.
+Explore About James Local Agenda The Choice Candidate Forum District 45 Endorsements Voter Resources Campaign FAQ Connect Get Involved Volunteer Request a Yard Sign Contribute campaign@james4pa.com Facebook X YouTube A name you know.
 A legislator you can trust.
 Join a campaign focused on serving the people of District 45.
 Get Involved Paid for by Friends of James Julius Media Resources Privacy Policy Terms & Conditions © # James Julius.

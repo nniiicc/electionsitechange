@@ -1,4 +1,4 @@
-top of page MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE people Before politics Join the Movement Full name Phone Email Zip Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from The Campaign For Darryl Block.
+top of page VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE people Before politics Join the Movement Full name Phone Email Zip Code By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from The Campaign For Darryl Block.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
@@ -23,4 +23,4 @@ PLAY NOW JOIN TEAM BLOCK COMMUNITY STARTS WITH US Darryl believes the best ideas
 Join the campaign and help shape a stronger future for House District 36.
 MAKE A DONATION UPCOMING EVENTS CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
-Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page
+Website by: Clover’s Creative Strategy & Design VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

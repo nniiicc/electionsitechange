@@ -12,7 +12,7 @@ Electronic communication By using this website or communicating with us by elect
 Intellectual property We or our licensors own and control all of the copyright and other intellectual property rights in the website and the data, information, and other resources displayed by or accessible within the website.
 4.1 All the rights are reserved Unless specific content dictates otherwise, you are not granted a license or any other right under Copyright, Trademark, Patent, or other Intellectual Property Rights.
 This means that you will not use, copy, reproduce, perform, display, distribute, embed into any electronic medium, alter, reverse engineer, decompile, transfer, download, transmit, monetize, sell, market, or commercialize any resources on this website in any form, without our prior written permission, except and only insofar as otherwise stipulated in regulations of mandatory law (such as the right to quote).
-Jordan J Herrera Terms and Conditions October 13, 2026 5.
+Jordan J Herrera Terms and Conditions October 18, 2026 5.
 Newsletter Notwithstanding the foregoing, you may forward our newsletter in the electronic form to others who may be interested in visiting our website.
 6.
 Third-party property Our website may include hyperlinks or other references to other party’s websites.
@@ -33,7 +33,7 @@ You are responsible for maintaining the confidentiality of passwords and account
 You must not allow any other person to use your account to access the website because you are responsible for all activities that occur through the use of your passwords or accounts.
 You must notify us immediately if you become aware of any disclosure of your password.
 After account termination, you will not attempt to register a new account without our permission.
-Jordan J Herrera Terms and Conditions October 13, 2026 9.
+Jordan J Herrera Terms and Conditions October 18, 2026 9.
 Refund and Return policy 9.1 Right of withdrawal You have the right to withdraw from this contract within 14 days without giving any reason.
 The withdrawal period will expire after 14 days from the day on which you acquire, or a thirdparty other than the carrier and indicated by you acquires, physical possession of the goods.
 To exercise your right of withdrawal, you must inform us of your decision to withdraw from this contract by an unequivocal statement.
@@ -49,7 +49,7 @@ The deadline is met if you send back the goods before the period of 14 days has 
 We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest.
 You will have to bear the direct cost of returning the goods.
 You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics, and functioning of the goods.
-Jordan J Herrera Terms and Conditions October 13, 2026 Please note that there are some legal exceptions to the right to withdraw, and some items can therefore not be returned or exchanged.
+Jordan J Herrera Terms and Conditions October 18, 2026 Please note that there are some legal exceptions to the right to withdraw, and some items can therefore not be returned or exchanged.
 We will let you know if this applies in your particular case.
 10.
 Idea submission Do not submit any ideas, inventions, works of authorship, or other information that can be considered your own intellectual property that you would like to present to us unless we have first signed an agreement regarding the intellectual property or a non-disclosure agreement.
@@ -67,7 +67,7 @@ We make no warranty that: this website or our products or services will meet you
 Nothing on this website constitutes or is meant to constitute, legal, financial or medical advice of any kind.
 If you require advice you should consult an appropriate professional.
 The following provisions of this section will apply to the maximum extent permitted by applicable law and will not limit or exclude our liability in respect of any matter which it would be unlawful or illegal for us to limit or to exclude our liability.
-In no event will we be liable for Jordan J Herrera Terms and Conditions October 13, 2026 any direct or indirect damages (including any damages for loss of profits or revenue, loss or corruption of data, software or database, or loss of or harm to property or data) incurred by you or any third party, arising from your access to, or use of, our website.
+In no event will we be liable for Jordan J Herrera Terms and Conditions October 18, 2026 any direct or indirect damages (including any damages for loss of profits or revenue, loss or corruption of data, software or database, or loss of or harm to property or data) incurred by you or any third party, arising from your access to, or use of, our website.
 Except to the extent any additional contract expressly states otherwise, our maximum liability to you for all damages arising out of or related to the website or any products and services marketed or sold through the website, regardless of the form of legal action that imposes liability (whether in contract, equity, negligence, intended conduct, tort or otherwise) will be limited to the total price that you paid to us to purchase such products or services or use the website.
 Such limit will apply in the aggregate to all of your claims, actions and causes of action of every kind and nature.
 13.
@@ -88,7 +88,7 @@ You may not use this website in violation of export laws and regulations of Unit
 16.
 Assignment You may not assign, transfer or sub-contract any of your rights and/or obligations under these Terms and conditions, in whole or in part, to any third party without our prior written consent.
 Any purported assignment in violation of this Section will be null and void.
-Jordan J Herrera Terms and Conditions October 13, 2026 17.
+Jordan J Herrera Terms and Conditions October 18, 2026 17.
 Breaches of these Terms and conditions Without prejudice to our other rights under these Terms and Conditions, if you breach these Terms and Conditions in any way, we may take such action as we deem appropriate to deal with the breach, including temporarily or permanently suspending your access to the website, contacting your internet service provider to request that they block your access to the website, and/or commence legal action against you.
 18.
 Force majeure Except for obligations to pay money hereunder, no delay, failure or omission by either party to carry out or observe any of its obligations hereunder will be deemed to be a breach of these Terms and conditions if and for as long as such delay, failure or omission arises from any cause beyond the reasonable control of that party.
@@ -102,7 +102,7 @@ Language These Terms and Conditions will be interpreted and construed exclusivel
 All notices and correspondence will be written exclusively in that language.
 22.
 Entire agreement These Terms and Conditions, together with our privacy statement and cookie policy, constitute the entire agreement between you and Jordan J Herrera in relation to your use of this website.
-Jordan J Herrera Terms and Conditions October 13, 2026 23.
+Jordan J Herrera Terms and Conditions October 18, 2026 23.
 Updating of these Terms and conditions We may update these Terms and Conditions from time to time.
 It is your obligation to periodically check these Terms and Conditions for changes or updates.
 The date provided at the beginning of these Terms and Conditions is the latest revision date.
@@ -118,4 +118,4 @@ Contact information This website is owned and operated by Jordan J Herrera.
 You may contact us regarding these Terms and Conditions through our contact page.
 26.
 Download You can also download our Terms and Conditions as a PDF.
-Jordan J Herrera Terms and Conditions October 13, 2026
+Jordan J Herrera Terms and Conditions October 18, 2026

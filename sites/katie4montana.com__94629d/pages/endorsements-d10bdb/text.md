@@ -1,4 +1,4 @@
-Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements More Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements Donate Home Issues Contact FIND YOUR DISTRICT Donate Register To Vote Endorsements Donate Katie is Endorsed and supported by "Young Montanans like Katie give me a real hope for the future of this state.
+Home Issues Contact Donate Register To Vote Endorsements More Home Issues Contact Donate Register To Vote Endorsements Donate Home Issues Contact Donate Register To Vote Endorsements Donate Katie is Endorsed and supported by "Young Montanans like Katie give me a real hope for the future of this state.
 I am proud to call her a colleague and a friend, and I am proud to endorse her.
 I ask the voters of House District 80 to send her to the Legislature on November 3." -John J.
 Looney Sr.

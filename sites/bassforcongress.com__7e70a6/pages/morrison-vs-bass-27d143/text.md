@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin CD3 — THE RECORD Bass vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin CD3 — THE RECORD Bass vs.
 Morrison Same district.
 Two very different records.
 Here's the side-by-side, sourced and straight — no spin.
@@ -31,6 +31,6 @@ We'll always tell you where it comes from.
 DONATE LEARN MORE Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

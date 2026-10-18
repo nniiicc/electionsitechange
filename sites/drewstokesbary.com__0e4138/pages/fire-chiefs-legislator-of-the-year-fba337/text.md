@@ -11,6 +11,5 @@ Drew Stokesbary , R-Auburn, has been recognized for his work in Olympia to prese
 “For several years, he has been there for the Fire Chiefs, listening carefully to our issues and advocating for stronger public safety measures.” Robertson added, “Our job is to keep our communities safe and Rep.
 Stokesbary has become an important partner by leading the effort on passage on several important bills which help us.
 Whether it is leading the charge on initiatives to help firefighters in their jobs, or modernize our administrative statute to save taxpayers money, Rep.
-Stokesbary has listened, researched, and worked to get those bills passed.” Awards good government public safety More For You Stokesbary launches campaign for 31st District state Representative In the News Auburn’s Stokesbary elected to state House In the News The Seattle Times recommends: Rep.
-Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary has listened, researched, and worked to get those bills passed.” Awards good government public safety More For You Washington State Farm Bureau endorses Stokesbary Endorsements We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Washington risks budgeting online sales tax revenue In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

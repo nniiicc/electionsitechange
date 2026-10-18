@@ -4,11 +4,7 @@ OCT 18 2026 Upcoming Sunday Ice Cream with Ken - East Providence Time 3:30 - 5:0
 Location Sacred Cow Scoop Shop at Munroe Dairy 187 N.
 Brow Street East Providence Event details Join Us for Ice Cream with Ken!
 Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
-Get directions Sunday Ice Cream with Ken - East Providence OCT 20 2026 Upcoming Tuesday WPRO Radio Gubernatorial Debate Time 9:00 - 10:00 a.m.
-Location WPRO Radio Event details Hosted by Bill Bartholomew of Bartholomewtown.
-Video will also be recorded.
-The full debate will be posted on YouTube, with clips shared on social media.
-OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Event details If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
+Get directions Sunday Ice Cream with Ken - East Providence OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Event details If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
 Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart TV app Register to attend Tuesday WPRI Channel 12 Gubernatorial Debate OCT 22 2026 Upcoming October 22 Conversation with Ken - Warwick Time 6:00 - 8:00pm Location Brewed Awakenings, Warwick 1316 Bald Hill Road Warwick Event details Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.
@@ -28,7 +24,11 @@ Past appearance OCT 13 2026 Completed Tuesday Conversation with Ken - Portsmouth
 Location The Valley Inn 2221 West Main Road Portsmouth Event details Pizza.
 Cash Bar.
 Ken speaks at 6:30 p.m.
-No R.S.V.P. required Get directions Tuesday Conversation with Ken - Portsmouth Past appearance OCT 12 2026 Completed Monday Woonsocket Autumnfest Parade Time 9:30 - 11:30 a.m.
+No R.S.V.P. required Get directions Tuesday Conversation with Ken - Portsmouth Past appearance OCT 13 2026 Completed Tuesday WPRO Radio Gubernatorial Debate Time 9:00 - 10:00 a.m.
+Location WPRO Radio Event details Hosted by Bill Bartholomew of Bartholomewtown.
+Video will also be recorded.
+The full debate will be posted on YouTube, with clips shared on social media.
+Past appearance OCT 12 2026 Completed Monday Woonsocket Autumnfest Parade Time 9:30 - 11:30 a.m.
 Location Festival: WW II Memorial Park 40 Snow Street Woonsocket Event details Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
 The parade is the closing event of the festival weekend, with the park open until about 6:00 pm after the parade Get directions View event details Past appearance OCT 11 2026 Completed Sunday Federal Hill Columbus Day Parade Time 11:00 a.m. - 1:00 p.m.
 Event details The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.

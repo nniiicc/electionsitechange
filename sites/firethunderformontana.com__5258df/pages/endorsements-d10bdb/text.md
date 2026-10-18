@@ -12,4 +12,4 @@ Representing House District 61.
 Representative Zooey Zephyr Democrat from Missoula.
 Representing House District 95.
 Bozeman Mayor Joey Morrison Bozeman City Commissioner Emma Bode Support Katie’s Campaign!
-Get a Yard Sign Donate Sign up to Canvas Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59
+Get a Yard Sign Donate Sign up to Canvass Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59

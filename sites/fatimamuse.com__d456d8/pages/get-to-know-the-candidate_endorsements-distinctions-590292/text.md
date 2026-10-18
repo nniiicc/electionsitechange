@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact 1 2 Endorsements & Distinctions 1 2 Throughout this campaign, organizations and community leaders have endorsed or recognized Fatima’s candidacy for Texas House District 2.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store 1 2 Endorsements & Distinctions 1 2 Throughout this campaign, organizations and community leaders have endorsed or recognized Fatima’s candidacy for Texas House District 2.
 This page lists those endorsements and candidate distinctions according to how each organization has described its support.
 Endorsed By • Center for Freethought Equality • Mothers Against Greg Abbott • National Democratic Redistricting Committee and Chairman Eric H.
 Holder Jr. — 2026 Democracy Defender • Blue Horizon Texas Candidate Distinctions • Mental Health Now Candidate • 2026 Moms Demand Action Gun Sense Candidate Campaign Milestone More than doubled the Democratic primary vote compared to the previous election cycle.

@@ -1,4 +1,4 @@
-top of page MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE Terms of Service 1.
+top of page VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE Terms of Service 1.
 Agreement to Terms Campaign for Darryl Block (“Campaign for Darryl Block,” “Darryl Block for Florida House District 36,” “We,” “Us,” or “Our”) offers a mobile messaging program (the “Program”) subject to these Mobile Messaging Terms & Conditions (the “Terms”).
 By opting into or participating in any of Our Programs, you accept and agree to these Terms, including your agreement to resolve disputes through binding, individual-only arbitration as described in the Dispute Resolution section below.
 MODIFICAITON OF TERMS We reserve the right to revise these Terms at any time.
@@ -56,4 +56,4 @@ The parties waive any right to a jury trial or participation in any class action
 Governing Law These Terms are governed by the laws of the State of Florida and applicable federal law, including the Telephone Consumer Protection Act (TCPA), 47 U.S.C. § 227, and regulations promulgated by the FCC.
 CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
 ALL RIGHTS RESERVED.
-Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page
+Website by: Clover’s Creative Strategy & Design VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

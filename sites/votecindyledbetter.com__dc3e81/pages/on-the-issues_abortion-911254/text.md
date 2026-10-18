@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety A Right to Life Abortion is a human rights issue of our time.
+Search Menu Skip to content Home Cindy In Indy Donate/Volunteer/Contact Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety A Right to Life Abortion is a human rights issue of our time.
 Abortion is a moral issue that has been made political.
 The politics of abortion has taken away the dignity of a woman by making a statement that the capacity for motherhood is a liability.
 Abortion, in political terms, is not healthcare.

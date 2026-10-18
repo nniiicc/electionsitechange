@@ -1,5 +1,5 @@
 Meet Jessica Issues Successes!
-Volunteer Endorsements Media Campaign Swag Contribute Privacy Privacy Policy Last Updated: October 9, 2023 This Privacy Policy explains how FRIENDS OF FORSYTHE (“ Committee”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “Site”).
+Volunteer Endorsements Media Video Campaign Swag Contribute Privacy Privacy Policy Last Updated: October 9, 2023 This Privacy Policy explains how FRIENDS OF FORSYTHE (“ Committee”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “Site”).
 You can contact us by emailing INFO@VOTEFORSYTHE.COM We may change this Privacy Policy from time to time.
 If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification).
 We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.

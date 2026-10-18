@@ -1,5 +1,5 @@
 #YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no The Lawsuit Is Filed: Barnhill v.
-Aguilar electbarnhill Sep 04, 2026 0 8 Comments Two weeks ago I told you I intended to file.
+Aguilar electbarnhill Sep 04, 2026 0 10 Comments Two weeks ago I told you I intended to file.
 I’ve filed.
 On September 4, 2026, my campaign filed a federal civil action against Secretary of State Francisco V.
 Aguilar in the U.S.
@@ -75,15 +75,15 @@ Latest update: The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 I took the Secretary of State to federal court to protect your vote.
 Has your candidate?
-Get to know me · Join the campaign · Donate Share: Categories: Announcements 8 thoughts on “The Lawsuit Is Filed: Barnhill v.
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 10 thoughts on “The Lawsuit Is Filed: Barnhill v.
 Aguilar” Pingback: Nevadans for Barnhill - Barnhill Sues Nevada Secretary of State Over Voter Rolls Pingback: Service Is Complete.
 Here’s What Comes Next in Barnhill v.
 Aguilar. - Nevadans for Barnhill Pingback: Vote for Independent Nevada Candidates, Not the Lesser Evil Pingback: Rural Voting Access in Nevada: Secure and Simple for Every County Pingback: Barnhill Opposes Aguilar's Motion to Stay, Moves to Consolidate NVRA Suit Pingback: Volunteer for a Nevada Political Campaign - Nevadans for Barnhill Pingback: Pro Se Electronic Filing Delays in Barnhill v.
-Aguilar Pingback: Public Trust Starts With Elections Done Right - Nevadans for Barnhill Post navigation Previous Previous post: Service Is Complete.
+Aguilar Pingback: Public Trust Starts With Elections Done Right - Nevadans for Barnhill Pingback: I’ll Hold My Office to the Same Standard I Held Theirs - Nevadans for Barnhill Pingback: You Shouldn’t Need a Law Degree to Start a Business, or a Federal Lawsuit to Get an Answer - Nevadans for Barnhill Post navigation Previous Previous post: Service Is Complete.
 Here’s What Comes Next in Barnhill v.
 Aguilar.
 Next Next post: Who Will Protect Your Vote? footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (15) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (20) Policy Positions (19) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

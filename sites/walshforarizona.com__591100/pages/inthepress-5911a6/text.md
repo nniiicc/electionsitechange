@@ -15,7 +15,7 @@ Our ballots are being delivered this week, and we Gilbert residents have a real 
 We have #ago 1 min read Walsh supports increased accountability for ESAs Gilbert reader weighs in on LD 14 Senate race By Doris Karls | Gilbert OPINION — Education is foundational to our community and economy, which is why I am voting for Stephanie Walsh for State Senate to represent Legislative District 14.
 She will provide a strong and consistent voice supporting our public schools.
 Stephanie is endorsed by Save Our Schools Arizona and by the Gilbert Chamber of Commerce.
-She clearly understands and articulates the connection between a vibrant an #ago 2 min read Stephanie Walsh endorsed by the Forward Party!
+She clearly understands and articulates the connection between a vibrant an Oct 11 2 min read Stephanie Walsh endorsed by the Forward Party!
 The Forward Party is about people over partisanship and building a better path forward.
 For more information on the Forward Party and what they look for in candidates, click the link below.
 Oct 8 1 min read Watch Stephanie at the Arizona Clean Elections Debate Check out: Oct 8 1 min read A tale of two candidates in LD 14: Biggs’ political name versus Walsh’s career experience Check out the Capital Times: Oct 8 1 min read ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.

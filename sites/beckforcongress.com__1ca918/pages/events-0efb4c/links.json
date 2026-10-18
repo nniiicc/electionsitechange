@@ -1,14 +1,6 @@
 [
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=+muskego%2C+wi+"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=1040+north+vel+r.+phillips+avenue+milwaukee%2C+wisconsin%2C+53203+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=120+north+main+street+west+bend%2C+wisconsin%2C+53095+united+states"
 },
 {
@@ -73,10 +65,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=n63w23217+main+st+unit+101++sussex%2C+wi+53089+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=n6885+high+point+road+beaver+dam%2C+wisconsin%2C+53916+united+states"
 },
 {
@@ -124,10 +112,6 @@
 "href": "https://www.beckforcongress.com/beck-campaign-receives-mental-health-now-designation"
 },
 {
-"text": "Beck for Congress Fundraiser",
-"href": "https://www.beckforcongress.com/events/beck-for-congress-fundraiser"
-},
-{
 "text": "Blue 5th Coalition Launches with 14 Candidates",
 "href": "https://www.beckforcongress.com/blue-5th-coalition-launches-with-14-candidates"
 },
@@ -138,10 +122,6 @@
 {
 "text": "Brookfield Farmer's Market",
 "href": "https://www.beckforcongress.com/events/brookfield-farmers-market-7rht5-686hy-egld8"
-},
-{
-"text": "Coffee Talk Sussex",
-"href": "https://www.beckforcongress.com/events/6xfo0wi3nhzyz9duir0funhazq06j0"
 },
 {
 "text": "Contribute",
@@ -188,10 +168,6 @@
 "href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee-46zm5-59a59"
 },
 {
-"text": "Forward for Wisconsin Rally: Milwaukee!",
-"href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee"
-},
-{
 "text": "Forward for Wisconsin Rally: Waukesha!",
 "href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee-46zm5"
 },
@@ -205,19 +181,11 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beck+for+Congress+Fundraiser&dates=20260807T000000Z%2F20260807T020000Z&location=Muskego%2C+WI"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brookfield+Farmer%27s+Market&dates=20260815T123000Z%2F20260815T133000Z&location=16900+Gebhardt+Road%2C+Brookfield%2C+Wisconsin%2C+53005%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brookfield+Farmer%27s+Market+&dates=20261017T123000Z%2F20261017T133000Z&location=16900+Gebhardt+Road%2C+Brookfield%2C+Wisconsin%2C+53005%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+Talk+Sussex&dates=20260801T150000Z%2F20260801T160000Z&location=N63W23217+Main+St+Unit+101%2C++Sussex%2C+WI+53089%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -242,10 +210,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Forward+for+Wisconsin+Rally%3A+Elkhorn%21&dates=20260816T160000Z%2F20260816T170000Z&location=203+East+Walworth+Street%2C+Elkhorn%2C+Wisconsin%2C+53121%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Forward+for+Wisconsin+Rally%3A+Milwaukee%21&dates=20260812T213000Z%2F20260813T000000Z&location=1040+North+Vel+R.+Phillips+Avenue%2C+Milwaukee%2C+Wisconsin%2C+53203%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -337,10 +301,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.beckforcongress.com/events/6xfo0wi3nhzyz9duir0funhazq06j0?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.beckforcongress.com/events/aauw-meet-the-candidates-wam2w?format=ical"
 },
 {
@@ -350,10 +310,6 @@
 {
 "text": "ICS",
 "href": "https://www.beckforcongress.com/events/audebon-days-parade?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.beckforcongress.com/events/beck-for-congress-fundraiser?format=ical"
 },
 {
 "text": "ICS",
@@ -422,10 +378,6 @@
 {
 "text": "ICS",
 "href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee-46zm5?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee?format=ical"
 },
 {
 "text": "ICS",
@@ -541,10 +493,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.beckforcongress.com/events/6xfo0wi3nhzyz9duir0funhazq06j0"
-},
-{
-"text": "View Event →",
 "href": "https://www.beckforcongress.com/events/aauw-meet-the-candidates"
 },
 {
@@ -554,10 +502,6 @@
 {
 "text": "View Event →",
 "href": "https://www.beckforcongress.com/events/audebon-days-parade"
-},
-{
-"text": "View Event →",
-"href": "https://www.beckforcongress.com/events/beck-for-congress-fundraiser"
 },
 {
 "text": "View Event →",
@@ -618,10 +562,6 @@
 {
 "text": "View Event →",
 "href": "https://www.beckforcongress.com/events/fired-up-to-vote"
-},
-{
-"text": "View Event →",
-"href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee"
 },
 {
 "text": "View Event →",
@@ -716,10 +656,6 @@
 "href": "https://www.beckforcongress.com/events/audebon-days-parade"
 },
 {
-"text": "[image: Beck for Congress Fundraiser]",
-"href": "https://www.beckforcongress.com/events/beck-for-congress-fundraiser"
-},
-{
 "text": "[image: Beck for Congress]",
 "href": "https://www.beckforcongress.com/"
 },
@@ -730,10 +666,6 @@
 {
 "text": "[image: Brookfield Farmer's Market]",
 "href": "https://www.beckforcongress.com/events/brookfield-farmers-market-7rht5"
-},
-{
-"text": "[image: Coffee Talk Sussex]",
-"href": "https://www.beckforcongress.com/events/6xfo0wi3nhzyz9duir0funhazq06j0"
 },
 {
 "text": "[image: DAD & Lake Country Dems Lunch]",
@@ -758,10 +690,6 @@
 {
 "text": "[image: Forward for Wisconsin Rally: Elkhorn!]",
 "href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee-46zm5-59a59"
-},
-{
-"text": "[image: Forward for Wisconsin Rally: Milwaukee!]",
-"href": "https://www.beckforcongress.com/events/forward-for-wisconsin-rally-milwaukee"
 },
 {
 "text": "[image: Forward for Wisconsin Rally: Waukesha! ]",

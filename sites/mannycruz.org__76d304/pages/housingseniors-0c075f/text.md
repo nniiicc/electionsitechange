@@ -1,4 +1,4 @@
-top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+top of page Skip to Main Content Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
 Housing and Seniors We are facing a housing crisis in Salem.
 I’ll fight for more affordable homeownership and rental assistance programs.
 I’ll secure funds to stop senior property tax increases and provide quality affordable long-term and in-home care.​ As your next State Representative: I’ll support affordable homeownership programs to build wealth and promote opportunities to own, and I’ll work to ensure that rental assistance programs are available when crisis strikes.

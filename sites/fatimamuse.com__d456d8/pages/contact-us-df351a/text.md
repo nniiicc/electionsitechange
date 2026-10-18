@@ -1,1 +1,1 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Contact Address PO Box 495, Commerce, Texas Email [email protected] Follow Me Merchant Policies Legal Notice Paid for by Muse for TX HD 2
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Contact Address PO Box 495, Commerce, Texas Email [email protected] Follow Me Merchant Policies Legal Notice Paid for by Muse for TX HD 2

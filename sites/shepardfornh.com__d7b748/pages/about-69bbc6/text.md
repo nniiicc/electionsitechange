@@ -7,18 +7,12 @@ I’m a retired scientist and technology executive.
 Today, I apply that same habit of careful analysis to local government, volunteer work, and New Hampshire public policy.
 I’m running for State Representative in Strafford County District 4 because the decisions made in Concord have real consequences for Barrington and Strafford — from school funding and property taxes to housing and opportunities for the next generation.
 My approach: listen closely, understand the facts, identify root causes, evaluate options, and be accountable for what works.
-See my priorities → Ask me a question Scott Shepard · Barrington, New Hampshire Experience Research discipline.
-Leadership experience.
-Local service.
-Science and strategy Learn, test, improve.
-I earned a PhD in Genetics.
-Scientific training taught me to ask better questions, weigh evidence, examine assumptions, and revise conclusions when the facts change.
-Business leadership From vision to execution.
-My career as a technology executive focused on organizational performance and large-scale transformation.
-Achieving results required listening, building workable plans, and measuring outcomes.
-Local government Know what towns face.
-I serve on Barrington’s Planning Board and Advisory Budget Committee and chair its Capital Improvement Program Committee.
-These roles put state-local tradeoffs in practical perspective.
+See my priorities → Ask me a question Scott Shepard · Barrington, New Hampshire Experience Experience at a Glance Research, leadership, public service, and mentoring inform how I approach problems.
+Research Science & evidence PhD in Genetics.
+Trained to test assumptions, ask better questions, and change course when facts warrant.
+Business leadership Strategy & execution Retired technology executive experienced in leading teams, turning strategy into action, and measuring results.
+Local government Town budgets & planning Barrington Planning Board and Advisory Budget Committee member; chair of the Capital Improvement Program Committee.
+Community service Mentoring & service Current SCORE business mentor and Waypoint Host Home volunteer; TREDS participant and former CASA volunteer.
 Current town service Serving Barrington, one decision at a time.
 These roles involve the land use, budgets, and capital investments that shape the town’s future.
 Planning Board · Member Land use and planning I serve on Barrington’s Planning Board, which reviews land-use proposals and works within the town’s planning and zoning framework.
@@ -35,13 +29,13 @@ Stakeholders share information and discuss economic issues such as housing, work
 Community · Current and past service Waypoint Host Home and CASA My wife and I volunteer with Waypoint’s Host Home program.
 I previously served as a Court Appointed Special Advocate (CASA), advocating for children involved in the court system.
 I also publish research and commentary through NH Insights, examining fiscal policy, education, and other issues affecting New Hampshire.
-Read NH Insights → What guides me Government should be limited where it should be, capable where it must be, and accountable everywhere.
+Read NH Insights articles → What guides me Government should be limited where it should be, capable where it must be, and accountable everywhere.
 Smaller is not the same as better.
 What matters is whether government can do its essential work effectively, responsibly, and transparently.
 Get in touch Let’s talk about what matters here.
 Questions, disagreements, local concerns, and good ideas are all welcome.
-Contact the campaign → Read NH Insights SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
+Contact the campaign → Browse featured research SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
 Facts.
 Strategy.
 Real Solutions.
-Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.

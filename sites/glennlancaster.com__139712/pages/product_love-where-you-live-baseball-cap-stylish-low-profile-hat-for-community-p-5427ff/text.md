@@ -11,7 +11,7 @@ It’s not necessary to soak the whole item.
 For hard to clean spots use a soft bristled brush.
 Weight N/A Add a Review Cancel reply Your email address will not be published.
 Required fields are marked * Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
-Type in the text displayed above Related products High Lakes Coffee Blend (Light Roast) $ 19.54 Love Where You Live Unisex T-Shirt – Heart Design $ 15.51 – $ 22.08 Price range: $15.51 through $22.08 Spiral Notebook – Ruled Line $ 10.06 Cascades Coffee Blend (Medium-Dark Roast) $ 19.54 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+Type in the text displayed above Related products Ceramic Mug, (11oz) $ 6.24 High Lakes Coffee Blend (Light Roast) $ 19.54 Unisex Jersey Short Sleeve Tee $ 14.11 – $ 25.55 Price range: $14.11 through $25.55 Unisex Short Sleeve Tee $ 13.84 – $ 19.74 Price range: $13.84 through $19.74 Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
 All rights reserved.
 Services by burnett media group .
 Hosting by Hostdoodle .

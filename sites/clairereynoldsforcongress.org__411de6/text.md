@@ -1,4 +1,5 @@
-Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate They say a democrat can't win in west texas But what if we did?
+Skip navigation menu Early Voting Starts Monday, October 19, 2026!
+Meet Claire News Issues Press Kit Get Involved Español Donate They say a democrat can't win in west texas But what if we did?
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your mobile number, you consent to receive periodic campaign updates from Claire Reynolds for Congress.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.

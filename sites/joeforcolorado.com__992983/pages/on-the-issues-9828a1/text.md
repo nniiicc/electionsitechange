@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up On the Issues Public Lands Public lands are at the heart of Colorado’s economy, our commitment to sustainability and our way of life.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store On the Issues Public Lands Public lands are at the heart of Colorado’s economy, our commitment to sustainability and our way of life.
 As the first Coloradan to serve as Chairman of the U.S.
 House Subcommittee on National Parks, Forests and Public Lands, Joe is committed to preserving Colorado’s treasured public spaces, investing in our outdoor recreation economy, safeguarding wildlife and biodiversity and tackling western wildfires.
 Early in his tenure, he shepherded his public lands package — the Colorado Outdoor Recreation and Economy Act (CORE Act) — through the U.S.

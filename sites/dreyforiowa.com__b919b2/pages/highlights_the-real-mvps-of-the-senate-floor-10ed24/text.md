@@ -18,5 +18,6 @@ Fair.
 I was also called out for my standing advice to Pages to never apologize to me, which has now turned into them finding increasingly creative ways to apologize to me anyway.
 Why Senate Pages Matter to the Legislative Process It was one of those nights that I will remember fondly.
 These young people are paying attention, asking questions, and bringing fresh perspective into a space that can certainly use more of it - they make this place better just by being in it.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

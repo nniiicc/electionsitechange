@@ -5,7 +5,8 @@ Rep.
 Neeley and Mayor Neeley welcomes VP...
 Home About News Volunteer Donate Contact Election News October 7, 2024 by webmaster 0 Comments Representative Cynthia Neeley welcomes Vice President, Kamala Harris to Flint, Michigan for her rally.
 Watch the full rally video below after the gallery.
-Share: twitter facebook youtube Post navigation Previous post Attending the 2024 Democratic National Convention You May Also Like Family News March 1, 2021 Flint mayor, state rep promote free community college program for Michigan residents News Priorities & Structure October 13, 2023 Black Women in Michigan Politics Luncheon 2023 Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Share: twitter facebook youtube Post navigation Previous post Attending the 2024 Democratic National Convention You May Also Like Election News October 19, 2020 Today we stand UNITED to encourage everyone to get out and VOTE Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change.
+Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

@@ -10,7 +10,7 @@ IF YOU’RE READY TO FIGHT FOR A BETTER FUTURE WITH PATRICK, WILL YOU DONATE TO 
 DONATE TODAY DONATE TODAY DONATE TODAY JOIN THE MOVEMENT.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Name * First Last By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Name * First Last Name By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.

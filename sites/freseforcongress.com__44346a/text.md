@@ -2,7 +2,7 @@ Common sense for Contra Costa Frese For Congress Make California affordable.
 Better schools.
 Safer streets.
 Common sense.
-Donate Volunteer from your phone Instagram X Facebook Reddit YouTube TikTok Can't give money?
+Donate Join the Digital Door Knockers Instagram X Facebook Reddit YouTube TikTok Can't give money?
 Post in your town's Facebook and Nextdoor groups.
 That's the whole ask.
 Help this campaign without spending a dime I'm not asking for a check.
@@ -13,9 +13,11 @@ Are you better off?
 They win because most people never hear there's another choice.
 You can fix that from your phone.
 1.
-Join the Digital Volunteers.
+Join the Digital Door Knockers.
+It's door knocking from your couch.
 Every so often I email you a post for your town's Facebook and Nextdoor groups.
-You paste it and answer the comments in your own words.
+You copy it, paste it, and answer the comments in your own words.
+One paste reaches more living rooms than a Saturday of canvassing.
 2.
 Follow, like, comment, repost.
 Every one puts a post in front of your neighbors.
@@ -27,7 +29,7 @@ Everyone says they want money out of politics.
 Here's your chance to prove it.
 No PACs, no big donors, no consultants.
 A campaign that isn't bought can't be sold.
-Join the Digital Volunteers Nobody should get rich, or grow old, running your government Clean Up Congress Congress was never meant to be a career, and you certainly shouldn’t get rich from it.
+Join the Digital Door Knockers Nobody should get rich, or grow old, running your government Clean Up Congress Congress was never meant to be a career, and you certainly shouldn’t get rich from it.
 You should be there to serve.
 The career grifters have turned it into a job with a pension, and the outcome for you stopped mattering a long time ago. - 8-year term limits.
 Congress was never meant to be a career. - Ban members of Congress from trading stocks. - No budget, no pay. - Close the revolving door.

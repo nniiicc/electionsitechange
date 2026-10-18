@@ -13,7 +13,7 @@ For too long, politics has been filled with the same voices repeating the same t
 I’m running for Congress in District 4 because I believe it’s time for fresh ideas, authentic leadership, and the courage to actually do the work.
 I’ve spent my life outside of Washington, serving, healing, and building where help was needed most.
 And I believe that’s where real leadership begins.
-Support Our Campaign With A Contribution THANK YOU FOR YOUR DONATION!
+Support Our Campaign THANK YOU FOR YOUR CONTRIBUTION!
 If They Could Have Fixed It, They Would Have.
 We need to focus on policy, not politics.
 And, the debt is not good politics.

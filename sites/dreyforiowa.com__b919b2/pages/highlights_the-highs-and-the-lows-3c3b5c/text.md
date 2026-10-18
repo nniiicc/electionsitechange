@@ -10,5 +10,6 @@ Janet Petersen filed an amendment that would have completely eliminated the stat
 The exemption in SF 2489 would no longer be necessary because child sexual abuse survivors wouldn’t have a time limit on when they could seek justice.
 But despite fitting within the same code section and addressing the relevant topic, the amendment was ruled out of order by the Senate president, and we never got a chance to vote on it.
 You take the wins when you can get them around here – and SF 2489 certainly is a win – but I think we’d all love to get to a point where the legislative highs aren’t mirrored so often with lows.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

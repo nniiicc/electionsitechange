@@ -22,5 +22,6 @@ It was published on Amazon in March 2026 and is already in the Douglas County Li
 However, my SOLUTIONS BLUEPRINT contains many solutions that are not in the book.
 I invite you to learn more about my background by reading Chapter 1 of RAISE the ZONE for free at: https://powerupbooks.com/chapter-one Thank you for your time and attention.
 Raise the zone for a coherent Colorado!
-Jeff Peckman [Photo of left - April 30, 2008] Copyright © # jeffpeckman.com - All Rights Reserved.
+Jeff Peckman [Photo on left - April 30, 2008.
+Credit: Jeff Peckman] Copyright © # jeffpeckman.com - All Rights Reserved.
 Powered by

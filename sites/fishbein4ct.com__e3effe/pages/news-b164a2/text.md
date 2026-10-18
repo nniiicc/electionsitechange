@@ -1,4 +1,8 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 15 Oct Thursday, 6:13 PM · 2026 Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Honored to participate in this morning's Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO 17 Oct Saturday, 12:22 PM · 2026 ENDORSED by the FRIENDS OF CT SPORTSMEN The Friends of CT Sportsmen was established to lend its voice to the chorus of stakeholders seeking to support the conservation, preservation and improvement of Connecticut’s natural resources.
+I am proud to receive their endorsement of my re-election campaign for State Representative.
+16 Oct Friday, 12:18 PM · 2026 Backing Our First Responders 16 Oct Friday, 10:12 AM · 2026 Listening to Local Manufacturers This week, I was the only local elected official who joined members of the Connecticut Business and Industry Association (CBIA) for two stops on their 2026 Manufacturing Tour for a behind-the-scenes look at some of Connecticut’s leading manufacturers, including Ulbrich Stainless Steel and Specialty Metals Inc., and BYK Additives in Wallingford.
+Having industry-leading manufacturers like these located right here is a tremendous boost for Wallingford, and it's always a pleasure to meet with the people and businesses that help keep our town and state moving forward through continued innovation, employment, investment, and volunteerism in the community.
+15 Oct Thursday, 10:07 AM · 2026 Standing With Those Who Answer The Call 14 Oct Wednesday, 6:13 PM · 2026 Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Honored to participate in this morning's Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum.
 Our discussions ranged from business climate, tax policy, education funding, and even warrantless surveillance by law enforcement.
 I very much appreciated listening to these small business owners, and learning more about them.
 11 Oct Sunday, 5:52 PM · 2026 Seeking Support From the Federal Government For A Local Infrastructure Project Wallingford's John Street Bridge serves a vital function for many local businesses.
@@ -63,6 +67,9 @@ In the meantime, I think it advisable to bring the appropriate state administrat
 In 2026, through my leadership on the Judiciary Committee, I was able to get passed Public Act 26-95, which adds a six-month license suspension for any driver who fails to stop for a school bus three or more times.
 Connecticut does not often get tougher on dangerous behavior, but this session, at least in this regard, it did.
 I also tried to tighten up our laws against animal abuse (HB5566) which I was able to get approved by the Committee, however once it got to the House, was deemed unacceptable by my Democrat colleagues.
+1 Oct Thursday, 12:56 PM · 2026 ENDORSED by the Connecticut Citizens Defense League (CCDL) The Connecticut Citizens Defense League is a non-partisan, grassroots organization devoted to advocating rights affirmed by the Constitutions of the United States of America and the State of Connecticut.
+They are especially dedicated to protecting the unalienable right of all citizens to keep and bear arms, for the defense of both self and state, through public enlightenment and legislative action.
+I am proud to have them endorse my re-election campaign.
 22 Sep Tuesday, 10:29 PM · 2026 Affordability Matters!
 Wherever I go, one issue is of most concern: Affordability.
 State government should be prudent with its spending, recognizing that the money being spent comes from hard-working tax payers.
@@ -263,21 +270,5 @@ Parisi Town Council Chambers.
 In Middlefield, it will take place at the Middlefield Community Center.
 20 Oct Sunday, 3:10 PM · 2024 Doorknocking Across the District!
 (10/19/2024) 157 doors over 9.7 miles today!
-# MiddlefieldCT #WallingfordCT #Election2024 #Fishbein4CT 19 Oct Saturday, 3:01 PM · 2024 Putting Our Communities First 17 Oct Thursday, 2:58 PM · 2024 Guided By Fundamental Principles 15 Oct Tuesday, 2:51 PM · 2024 You Deserve A Government You Can Trust Government at every level should work for the people, not the other way around.I'm running for re-election to continue to serve as your effective government watchdog.
-I will always hold state government accountable, protect your wallet from excessive spending and unnecessary waste, and demand transparency from bureaucrats and elected officials.
-You deserve a government that you can trust.
-14 Oct Monday, 9:48 AM · 2024 Candidate Profile from Patch.com HERE is a link to my candidate profile on Patch.com.
-Read more 12 Oct Saturday, 9:25 AM · 2024 SAFETY is a Top Priority It was recently reported that deaths on CT roadways have skyrocketed, from a low of 195 in 2019, to 366 in 2022, and 316 in 2023.
-With three months still left in 2024, we are already at 250.
-I have fought for safer roadways, and will continue to do so.
-10 Oct Thursday, 6:28 PM · 2024 ENDORSED by the FRIENDS OF CT SPORTSMEN This group was established to lend its voice to the chorus of stakeholders seeking to support the conservation, preservation and improvement of Connecticut's natural resources, and committed to educating the next generation of Connecticut sportsmen to become stewards of responsible wildlife and natural resource conservation.
-I am proud to receive their endorsement of my re-election!
-2 Oct Wednesday, 7:10 PM · 2024 A FREE RAFFLE at Celebrate Wallingford this weekend!
-During the pandemic, the difficulty of running a restaurant was brought into focus, and many suffered.
-Some even closed.
-This weekend, at Celebrate Wallingford, eight lucky winners will receive a $25.00 gift certificate to a Wallingford restaurant.
-FREE to enter!
-See you there!
-(The weather is supposed to be GREAT!) News Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Seeking Support From the Federal Government For A Local Infrastructure Project EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
-MORE Information About Local Amazon Delivery Drones Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+# MiddlefieldCT #WallingfordCT #Election2024 #Fishbein4CT 19 Oct Saturday, 3:01 PM · 2024 Putting Our Communities First 17 Oct Thursday, 2:58 PM · 2024 Guided By Fundamental Principles VOTER INFO News ENDORSED by the FRIENDS OF CT SPORTSMEN Backing Our First Responders Listening to Local Manufacturers Standing With Those Who Answer The Call Attending the Middlesex Chamber of Commerce (Durham/Middlefield Division)'s 2026 Annual Candidate Forum Fishbein for Connecticut - Jo-Anne L.
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO Close Menu

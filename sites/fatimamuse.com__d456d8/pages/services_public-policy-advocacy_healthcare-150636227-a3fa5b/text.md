@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Healthcare & Reproductive Health Healthcare should not depend on whether someone lives in a major city or a rural community.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Healthcare & Reproductive Health Healthcare should not depend on whether someone lives in a major city or a rural community.
 My healthcare policy focuses on protecting rural providers, expanding affordable coverage, strengthening maternal and mental healthcare, and helping Texans build families through responsible infertility coverage.
 Protect Rural Healthcare and Expand Access Rural Texans should be able to get basic medical care without unreasonable travel or months-long waits.
 I support expanding access to affordable healthcare and protecting rural hospitals, clinics, physicians, nurses, therapists, and other providers who keep local communities healthy.

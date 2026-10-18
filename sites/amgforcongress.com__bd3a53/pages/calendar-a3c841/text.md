@@ -1,30 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 17 TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026 Saturday, October 17, 2026 8:30 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
-Join members of Team AMG and the Big Bend Filipino American Association in experiencing Filipino & Asian food, culture, live music, games & community.
-View Event → Oct 17 Blountstown Goat & Pioneer Day Saturday, October 17, 2026 9:00 AM 3:00 PM Sam Atkins Park (map) Google Calendar ICS NOTE: This event starts at 8AM Central/9AM Eastern.
-Amanda will be there with members of Team AMG!
-Goat Day is one of the largest arts & craft festivals across the panhandle!
-Held annually on the third Saturday in October, the event is coordinated in conjunction with the Panhandle Pioneer Settlement's Pioneer Day, just across the park.
-Arts, crafts, entertainment, demonstrations, food, and goats - what more could you ask for?!
-All proceeds go towards local college scholarships.
-View Event → Oct 17 TEAM AMG/VOLUNTEERS: No King's Voting Rights Rally Saturday, October 17, 2026 10:00 AM 12:00 PM Florida Historic Captiol (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
-Team AMG will be at No King’s Voting Rights Rally outside of the Florida Historic Capitol!
-Sponsored by Indivisible Tallahassee, Tallahassee League of Women Voters, FL ACLU, Leon Co.
-Indivisible, Tallahassee ALERT, and others.
-View Event → Oct 17 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 17, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: This event was rescheduled from October 10 due to Hurricane Isaias and starts at 9AM Central/10AM Eastern.
-Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 17 from 10:00 AM to 4:00 PM!
-This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
-If you are searching for the perfect fall day trip in North Florida, PumpkinFest 2026 is it.
-View Event → Oct 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest Saturday, October 17, 2026 2:00 PM 5:00 PM Wakulla County Extension Arena (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
-Amanda will be there with members of Team AMG!
-Fun for people and pups!
-Halloween costume contest event for dogs!
-How it works: 1- Dream up a costume for your dog!
-2 - Want to get in on the costume fun?
-You can dress in a matching or coordinated theme contest.
-3 - Check in with 4-H at the Wakulla Extension Arena between 2 and 2:30 PM.
-The $5 registration fee (payable by cash or check on site) for contest entries helps cover recognition items & contest costs.
-View Event → Oct 18 Franklin County Meet & Greet Sunday, October 18, 2026 2:00 PM 3:30 PM Gibson Inn (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
+Oct 18 Franklin County Meet & Greet Sunday, October 18, 2026 2:00 PM 3:30 PM Gibson Inn (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
 Join Amanda for a meet and greet on the front porch of the historic Gibson Inn in Apalachicola!
 Stop by on Sunday, October 18, from 2:00–3:30 PM ET to meet Amanda, hear about her plans to lower costs, cut government waste, and bring accountability back to Washington, and share what matters most to you and your community.
 View Event → Oct 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event Sunday, October 18, 2026 4:00 PM 5:30 PM Greater Bethel AME Church (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Amanda will participate in Here Am I: Songs for the Work Ahead , a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
@@ -56,6 +31,31 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest Saturday, October 17, 2026 2:00 PM 5:00 PM Wakulla County Extension Arena (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
+Amanda will be there with members of Team AMG!
+Fun for people and pups!
+Halloween costume contest event for dogs!
+How it works: 1- Dream up a costume for your dog!
+2 - Want to get in on the costume fun?
+You can dress in a matching or coordinated theme contest.
+3 - Check in with 4-H at the Wakulla Extension Arena between 2 and 2:30 PM.
+The $5 registration fee (payable by cash or check on site) for contest entries helps cover recognition items & contest costs.
+View Event → Oct 17 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 17, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: This event was rescheduled from October 10 due to Hurricane Isaias and starts at 9AM Central/10AM Eastern.
+Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 17 from 10:00 AM to 4:00 PM!
+This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
+If you are searching for the perfect fall day trip in North Florida, PumpkinFest 2026 is it.
+View Event → Oct 17 TEAM AMG/VOLUNTEERS: No King's Voting Rights Rally Saturday, October 17, 2026 10:00 AM 12:00 PM Florida Historic Captiol (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
+Team AMG will be at No King’s Voting Rights Rally outside of the Florida Historic Capitol!
+Sponsored by Indivisible Tallahassee, Tallahassee League of Women Voters, FL ACLU, Leon Co.
+Indivisible, Tallahassee ALERT, and others.
+View Event → Oct 17 Blountstown Goat & Pioneer Day Saturday, October 17, 2026 9:00 AM 3:00 PM Sam Atkins Park (map) Google Calendar ICS NOTE: This event starts at 8AM Central/9AM Eastern.
+Amanda will be there with members of Team AMG!
+Goat Day is one of the largest arts & craft festivals across the panhandle!
+Held annually on the third Saturday in October, the event is coordinated in conjunction with the Panhandle Pioneer Settlement's Pioneer Day, just across the park.
+Arts, crafts, entertainment, demonstrations, food, and goats - what more could you ask for?!
+All proceeds go towards local college scholarships.
+View Event → Oct 17 TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026 Saturday, October 17, 2026 8:30 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
+Join members of Team AMG and the Big Bend Filipino American Association in experiencing Filipino & Asian food, culture, live music, games & community.
 View Event → Oct 15 Wakulla Chamber of Commerce Business After Hours Thursday, October 15, 2026 5:30 PM 7:30 PM Barn's Spirits and Liquor (map) Google Calendar ICS NOTE: This event starts at 4:30PM Central/5:30PM Eastern.
 Join Amanda at the Wakulla County Chamber of Commerce’s October Business After Hours, hosted by Barn’s Spirits in Panacea!
 Stop by on Thursday, October 15, from 5:30–7:30 PM ET to connect with Amanda, local business owners, and community leaders for an evening of conversation about supporting small businesses and strengthening Wakulla County’s local economy.
@@ -139,19 +139,5 @@ View Event → Sep 26 Jacob City Day Parade Saturday, September 26, 2026 12:00 P
 Amanda will be attending with members of Team AMG.
 On Saturday, September 26, the festivities continue with the Jacob City Day Parade at 11:00 AM.
 The parade will travel along Jackson Street and conclude at Jacob City Veterans Memorial Park, where the celebration will continue throughout the afternoon.
-View Event → Sep 26 TEAM AMG/VOLUNTEERS: Experience Asia Festival Saturday, September 26, 2026 10:00 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern Team AMG members and volunteers will be staffing a table at the Tallahassee Experience Asia Festival.
-Come say hi, grab a sign, or pick up AMG literature!
-The Asian Coalition of Tallahassee (ACT) presets its annual Experience Asia Festival for 2025 on Saturday, September 27th from 10 a.m. to 6 p.m. at Tom Brown Park.
-Featuring free admission, the family-friendly festival celebrates the diversity of Asian and Asian Pacific cultures through performances, demonstrations, cuisine, crafts, and more View Event → Sep 26 TEAM AMG/VOLUNTEERS: Panacea Blue Crab Festival Saturday, September 26, 2026 10:00 AM 5:00 PM Woolley Park (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
-Members of Team AMG will be tabling at the festival!
-The fun starts with the 10 AM parade on Coastal Highway, followed by a full day at Woolley Park featuring live entertainment, DJ Butch, Studio 88 Dancers, Tallahassee Rhythm Collective, Mountain Dew Cloggers, bounce houses & dry slides, the Mullet Toss, Kids Crab Race, food, local vendors and more!
-View Event → Sep 25 Perry Smokin' in the Pines BBQ Festival Friday, September 25, 2026 4:00 PM 7:00 PM 203 Forest Park Drive Perry, Florida, 32348 United States (map) Google Calendar ICS NOTE: This event starts at 3PM Central/4PM Eastern.
-Amanda will be attending with members of Team AMG!
-Taylor County, Florida is home to one of the largest and most popular BBQ Festivals in the state and southeastern United States!
-Learn More: https://www.smokininthepinesbbq.com/ View Event → Sep 24 Amanda Green for Congress Rally Thursday, September 24, 2026 5:30 PM 7:00 PM Proof Brewery (map) Google Calendar ICS NOTE: This event starts at 4:30PM Central/5:30PM Eastern North Florida, let’s rally 💙🇺🇸 Join us at Proof in Tallahassee on September 24 for an evening all about bringing folks together, building momentum, and fighting for the representation North Florida deserves.
-View Event → Sep 23 6th Annual Ray Charles Birthday Picnic Wednesday, September 23, 2026 5:00 PM 6:00 PM Haffye Hays Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
-Amanda will be attending with members of Team AMG!
-Hot Tamale hosts a friendly and informal picnic to celebrate the birthday of Ray Charles in his hometown of Greenville, FL!
-Amanda will attend with members of Team AMG.
 View Event → TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

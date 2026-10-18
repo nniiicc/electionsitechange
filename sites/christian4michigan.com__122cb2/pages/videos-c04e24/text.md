@@ -1,5 +1,5 @@
 Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Videos Get Involved Donate Donate Videos Campaign updates, interviews, and messages from Christian.
-October 15, 2026 Interview: Christian Vukosevich running for Michigan's 5th Christian Vukasovich Running for U.S.
+October 15, 2026 Interview: Christian Vukasovich running for Michigan's 5th August 28, 2026 Interview: Christian Vukasovich on JTV's Bart Hawley Show June 6, 2026 Interview: Vukasovich on WLEN's This Week in Lenawee Christian Vukasovich Running for U.S.
 Congress, Michigan's 5th District Common Sense.
 Michigan Values.
 A Voice for All of Us.

@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=c0d5772bb8 News Governor signs Senate Bill 1, bans ballot harvesting Governor Kay Ivey on Wednesday signed Senate Bill 1, sponsored by Sen.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b News Governor signs Senate Bill 1, bans ballot harvesting Governor Kay Ivey on Wednesday signed Senate Bill 1, sponsored by Sen.
 Garlan Gudger and Rep.
 Jamie Kiel, which will strengthen the fairness and integrity of Alabama elections.
 Upon signing the bill banning ballot harvesting, the governor issued the following statement: “Here in Alabama, we are committed to ensuring our elections are free and fair.

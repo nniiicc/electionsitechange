@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact FATIMA LA’JUAN MUSE FOR TEXAS HOUSE DISTRICT 2 Hunt • Hopkins • Van Zandt Balanced enough to listen.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store FATIMA LA’JUAN MUSE FOR TEXAS HOUSE DISTRICT 2 Hunt • Hopkins • Van Zandt Balanced enough to listen.
 Bold enough to fight.
 Brave enough to lead.
 Meet Fatima Dr.

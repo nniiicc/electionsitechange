@@ -43,7 +43,7 @@ Public Land Montana’s public lands are the foundational bedrock of our state�
 These lands are to be protected, cherished, explored, and preserved, not sold off to out of state developers or private interests looking to fence off what is rightfully ours. ​ I believe that keeping public lands in public hands is non-negotiable.
 I will always stand as a fierce line of defense against any attempt to transfer public lands into private control.
 But protection is only half the battle, we must ensure these places remain open and accessible. ​ I am committed to fighting tirelessly for the public access and responsible stewardship required to keep our outdoor heritage alive.
-We have a duty to manage these resources wisely so that the generations coming up behind us can’t hunt, fish, camp, and hike on the exact same ground we do today.
+We have a duty to manage these resources wisely so that the generations coming up behind us can hunt, fish, camp, and hike on the exact same ground we do today.
 I will never stop fighting to keep them open, public, and free.
 Affordable Healthcare Affordable healthcare is a basic human necessity, not just a policy debate.
 Fieldwork with Montana families shows that those battling cancer are often forced to make the impossible choice between paying for rent and groceries or vital medication.

@@ -2,6 +2,7 @@
 Now is the time for change, not business as usual.
 Michael Bowles knows he will face many challenges in Juneau, but he is ready to fight for you.
 Learn here where he stands on the issues.
+Rank Bowles First on November 3!
 PROTECTING LIFE IN ALASKA Article 1 of the Alaska Constitution Guarantees the Right to Life Alaska’s Constitution is dedicated to the principle that all persons have a natural right to life, liberty, and the pursuit of happiness.
 We must protect the right to life for all Alaskans from conception until natural death, because without life, there is no liberty, and without liberty, there is no pusuit of happiness.
 WHERE ALASKA STANDS Alaska currently has no gestational limit on abortion.
@@ -188,4 +189,5 @@ Michael will not vote for it.
 Michael Bowles is your common sense Conservative running for Alaska House District 25.
 Integrity, honesty, and accountability are needed now more than ever.
 Vote November 3, 2026 Early voting begins October 19, 2026 Rank Bowles First!
-Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645
+Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Rank Bowles First!
+Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645

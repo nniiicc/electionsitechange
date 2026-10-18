@@ -6,7 +6,10 @@ Samuel is the Democratic candidate for State House District 99.
 Traffic Power bills AI Flock cameras Corruption Traffic The fix for I-526 has no money and no start date.
 3 times voters here have taxed themselves to pay for roads: $143 million in 2008, $273 million in 2014, $587 million in 2022.
 54% more traffic on Clements Ferry Road from I-526 to Jack Primus Road since 2015.
-My plan is another way to get there, by ferry, bus or rail.
+Fix I-526.
+Then give us another way around.
+I’ll work with Columbia, Washington and the neighborhoods along the interstate to find the money.
+And I’d make the builders who bring the traffic pay their share of the roads, a rush-⁠hour ferry and trains on the tracks we already have.
 Find your road on the map Sources SCDOT, Request for Proposals S-305-25, Addendum 2, January 2025.
 Berkeley County, One Cent Sales Tax.
 SCDOT traffic counts, station 270.

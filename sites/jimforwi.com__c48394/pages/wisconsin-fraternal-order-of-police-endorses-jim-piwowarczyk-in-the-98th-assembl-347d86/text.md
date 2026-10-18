@@ -7,8 +7,7 @@ According to Windorff, FOP looks forward to “working together to promote polic
 “I share their commitment to improving public safety in Wisconsin and the district, and I will be a strong voice for law enforcement in the Legislature.” Piwowarzcyk has received the support of other top law enforcement leaders, having previously been endorsed by both the Waukesha and Washington County Sheriffs, Eric Severson and Marty Schulteis.
 He was also endorsed by the Washington County Deputy Sheriffs Association, former Attorney General candidate Eric Toney, and Washington County DA Mark Bensen, among others.
 The 98 th Assembly District encompasses Hartford, Erin, Lisbon, Sussex, Merton, and Richfield.
-Post navigation Previous post: Prev VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY August 6, 2024 Next post: Next Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly November 4, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY August 6, 2024 Next post: Next Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly November 4, 2024 You May Also Like Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

@@ -1,2 +1,2 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Host a Gathering or Community Conversation Bring together neighbors, friends, or members of your community for a conversation with Fatima about District 2.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Host a Gathering or Community Conversation Bring together neighbors, friends, or members of your community for a conversation with Fatima about District 2.
 Contact Address PO Box 495, Commerce, Texas Email [email protected] Follow Me Merchant Policies Legal Notice Paid for by Muse for TX HD 2

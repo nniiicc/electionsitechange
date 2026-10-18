@@ -27,8 +27,7 @@ I am committed to doing that work with integrity and representing every person i
 Together, we can improve Whatcom County’s economy and make it a more affordable place to live and run a business.” Dr.
 Erika Creydt is a clinical psychologist, local business owner and elected member of the Blaine School Board.
 She is running for Washington State Senate in the 42nd Legislative District to improve housing affordability, lower the cost of living, strengthen public schools, expand access to healthcare, support local businesses, attract living-wage employers and bring greater accountability to Olympia.
-Recent Posts See All Whatcom County Is Too Expensive.
+Recent Posts See All Check My Record, Not the Mailer Whatcom County Is Too Expensive.
 We Need More Affordability.
 What's Up With the Heart?
-Dr.
-Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

@@ -20,7 +20,7 @@ He is running on a platform of getting tough on immigration, improving the econo
 You can learn more about him here .
 Don Pridemore , 77, a former legislator, is also running.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 Next post: Next Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly May 3, 2024 You May Also Like Posted March 5, 2024 in News Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 Next post: Next Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly May 3, 2024 You May Also Like Posted May 24, 2024 in Endorsements , News , Political Issues , ticker Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

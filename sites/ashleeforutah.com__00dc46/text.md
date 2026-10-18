@@ -19,35 +19,14 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago I hope you're planning to join us this evening!
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Thank you to everyone that joined today to help me connect with my community to remind everyone to get their ballots in, and Vote for Ashlee Matthews! 😎 Check out the recommendations for judge retention at: Judges.Utah.Gov Find your closest drop box by visiting: saltlakecounty.gov/clerk/elections/vote-by-mail/ballot-drop-box-locations/ ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Thank you Jackie Martin for the interview and opportunity to answer some really great questions! www.facebook.com/share/v/14q6CtyGwCS/ ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Thank you Laborers Local 295 for coming out to help remind my neighbors to vote - and Vote Ashlee Matthews! 😎 ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Grateful for the amazing community I have the honor to represent, and the support that they have given on this campaign - and beyond. 💚💛 #ashleeforutah 🐝 #HD37 #electmoremoms #westsidebestside ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago I hope you're planning to join us this evening!
 Guaranteed great company, great food, and an opportunity to talk with our neighbors about "what's on your plate" before the Legislative session.
 Thank you for hosting the community Brighter Steps ! ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago A great community turnout tonight at the 5400 S Open House!
-I loved reading through everyone's suggestions and wishes to be implemented into the corridor.
-Thank you to everyone that came out, and stay tuned for more updates and opportunities to make your voice hear #westsidebestside t #unityincommunity unity ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago HB210: Disabled Parking Amendments This bill originated from a constituent that is a disabled veteran who wanted to be able to park in ADA parking spots.
-Because the criteria for qualifying for an ADA parking permit requires a mobility disability, but military disability does not (things like PTSD, tinnitis, asthma, etc), we worked with both the Department of Military and Veteran Affairs + the Disability Law Center to come up with solution.
-First, we addressed the permits for those with permanent disability and created a permanent placard so they weren't required to go back in to the DMV to renew it every couple of years (it seemed unnecessary since the disability has already been confirmed as being permanent).
-The bill also asked state owned buildings to create Veteran specific parking spots near the ADA parking spots.
-This bill passed unanimously in every committee and floor vote and went info effect July 1, 2024 You can read the full bill here: share.google/MGS6KpyCCcaFqT6Gf You can see the new placards in action here: www.tiktok.com/t/ZTyKkDcxT/ ...
-See More See Less TikTok · Emma 👩🏼‍🦽‍➡️ www.tiktok.com View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
-In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
-In this job, YOU are my boss.
-I'd love to hear what I can do to better serve our District.
-HB418: Student Offender Reintegration Amendments This bill requires input from the victim of a physical/sexual crime when reintegration plans are being made by the school District before the peer offender can be reintegrated back into their home school.
-It's crucial that our students feel safe at school, especially after they have been a victim of a crime, so that they can stay focused on their grades and rebuilding their confidence.
-If adjustments need to be made, it shouldn't be the victim that has to make all the accommodations.
-This victim protection bill took effect July 1, 2024.
-You can read the full text of the bill here: share.google/yTULsdcAuKowhU1kI ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Ashlee, what have you even done for the District since you've been elected?" is a question I'm happy to answer.
-In my day job I have performance evaluations regularly where my boss and I go over what I'm doing to make sure that what I'm doing is what they need me to do.
-I'm this job, YOU are my boss.
-I'd love to hear what I can do to better serve our District.
-HB181: Offender Employment Amendments This bill created an online portal that connected individuals that are currently incarcerated and about to be released with jobs that they are eligible for, even with a criminal record.
-This portal is housed and maintained under the Department of Workforce Services.
-We know that stable employment is the first step to securing housing, paying back court fees, catching up on child support.
-We want to make sure that our neighbors starting over again have all the tools they need to continue their upwards trajectory.
-You can read the full bill here: share.google/1BB2UOcCqokgpK9zi ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

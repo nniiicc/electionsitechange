@@ -4,5 +4,6 @@ Microsoft has expressed a desire to purchase energy produced by the Constellatio
 With its anticipated reopening, the facility is also set to be renamed the Crane Clean Energy Center.” Microsoft has likely concluded that the fastest path to securing a large source of energy is to contract a restart of an existing facility rather than pound its way through an antiquated Nuclear Regulatory Commission (NRC).
 Let us hope that this is a precursor to accelerated availability of a cheap and reliable source of clean, renewable energy for Granite Staters as we explore a long-term energy plan for our future.
 DC residents can now power homes with 100% nuclear energy – Washington Examiner SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

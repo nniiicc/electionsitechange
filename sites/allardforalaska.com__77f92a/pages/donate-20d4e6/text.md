@@ -4,4 +4,4 @@ Not tax deductible.
 CAN'T GIVE?
 STAND UP INSTEAD.
 A name on the board and a sign on your street are worth real money to this campaign.
-GET ON THE BOARD → 116 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577
+GET ON THE BOARD → 118 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577

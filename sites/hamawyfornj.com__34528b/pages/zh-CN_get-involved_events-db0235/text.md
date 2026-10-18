@@ -1,4 +1,4 @@
-跳到主要内容 在新标签页中打开 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 语言: 中文 English Español 中文 हिन्दी 捐款 语言: 中文 English Español 中文 हिन्दी 捐款 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 捐款 EN | ES | 中文 | हिन्दी 参与其中 即将举行的 活动 本周活动 10月17日周六 暂无活动 10月18日周日 11:30 Canvass in Princeton w/ Dr.
+跳到主要内容 在新标签页中打开 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 语言: 中文 English Español 中文 हिन्दी 捐款 语言: 中文 English Español 中文 हिन्दी 捐款 优先议题 关于 背书 参与 活动 志愿服务 邮件列表 投票计划 工作机会 捐款 EN | ES | 中文 | हिन्दी 参与其中 即将举行的 活动 本周活动 10月18日周日 11:30 Canvass in Princeton w/ Dr.
 Hamawy!
 14:00 Canvass in Plainfield!
 129 E 4th St · Plainfield, NJ 17:00 Canvass in Plainfield!
@@ -10,7 +10,10 @@ Hamawy! 线上 10月22日周四 17:00 Canvass in South River!
 Leonardine Park · South River, NJ 18:00 Phonebank for Dr.
 Hamawy! 线上 10月23日周五 17:30 Canvass in Trenton!
 Trenton, NJ 18:00 Phonebank for Dr.
-Hamawy! 线上 全部活动 10月 18日 星期日 Canvass in Princeton w/ Dr.
+Hamawy! 线上 10月24日周六 10:00 MPRC Coalition Rally and Canvass!
+Hejaz Tea and Coffee · Franklin Township, NJ 12:00 Canvass in Trenton!
+Trenton, NJ 14:00 Canvass in Ewing!
+Higgs Park · Ewing Township, NJ 全部活动 10月 18日 星期日 Canvass in Princeton w/ Dr.
 Hamawy!
 GMT-4 11:30–16:00 Join us for our Princeton Meet &amp; Greet on Sunday, October 18th from 12 pm to 2 pm.
 Address will be provided upon RSVP.

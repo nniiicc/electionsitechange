@@ -10,4 +10,4 @@ Property taxes School funding Housing Workforce development Childcare Local cont
 Facts.
 Strategy.
 Real Solutions.
-Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.

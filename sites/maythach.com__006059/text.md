@@ -9,4 +9,4 @@ Fully investing in our education system She supports higher salaries for teacher
 Putting people before corporate interests She supports investment in our local small businesses, standing up for our workers, and protecting our local freedom to make decisions for ourselves.
 An inclusive democracy She supports expanding voter access, increasing government transparency, and ensuring every community has a voice.
 Translate Page Select a language to translate this page using Google Translate.
-May Thach Paid for by May Thach, Democrat, for Florida House of Representatives District 61 Explore Meet May Contact Voting Resources Vote by Mail Register to Vote Confirm your district Take Action Donate Now Join the movement and stay connected to campaign updates.
+May Thach Paid for by May Thach, Democrat, for Florida House of Representatives District 61 Explore Meet May Contact Privacy Policy Voting Resources Vote by Mail Register to Vote Confirm your district Take Action Donate Now Join the movement and stay connected to campaign updates.

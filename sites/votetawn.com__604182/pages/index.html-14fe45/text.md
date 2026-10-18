@@ -1,7 +1,7 @@
 Running for YOU About Issues Hear Tawn Events Vote Endorsements Get Involved Endorse Donate T Running for YOU About Issues Hear Tawn Events Vote Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
 Lifelong Michigander.
 Common-sense conservative leadership for Washtenaw and Jackson Counties.
-JOIN THE CAMPAIGN Running for YOU | 137.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
+JOIN THE CAMPAIGN Running for YOU | 146.3 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
 She and her husband Gerry have been married 37 years, and have made Northfield Township their home since 2015.
 She previously served as Northfield Township Trustee from 2016 to 2020.
 Tawn currently serves as Vice-Chair of the Washtenaw County Republican Committee (elected by precinct delegates), sits on the Executive Committee of the 6th Congressional District Republican Committee, and was a delegate to the 2024 Republican National Convention.
@@ -12,7 +12,7 @@ Michigan Senate District 14 Tawn Beliger is running to represent the communities
 Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment In the Senate She will support legislation to protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and protect the Second Amendment for law-abiding gun owners.
 On abortion: The Michigan Constitution (Article I, Section 28) protects the right to elective abortion until viability.
 Tawn will work within those constitutional guidelines — not outside them — to support protections for the unborn, support for mothers, and common-sense safeguards after viability.
-Learn more Right to Life — Concise Summary → Right to Life — Full Statement → On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
+Learn more Right to Life — Concise Summary → Right to Life — Full Statement → On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Rives & Blackman · First and Second Amendments, and prayer → Education Excellence Empower parents, expand school choice, and demand accountability.
 In the Senate She will support legislation that puts parents — not bureaucrats — at the center of education, expands school choice, and requires honesty and accountability in the classroom.
 In 2023, Democratic lawmakers weakened Michigan’s teacher evaluation laws, cutting the required weight of student performance data from 40% to 20%, dropping the requirement to use standardized test results, and reopening the system to union bargaining.
 Even before the change, districts rated nearly all teachers “effective” while student scores kept falling.
@@ -47,10 +47,10 @@ Watch the interview → 40 DAYS FOR LIFE · ANN ARBOR Faith in life On September
 She shared why she is pro-life and why Lansing still has work to do after viability.
 Watch her remarks → Upcoming Events Come meet Tawn and show your support!
 ONGOING Tawn Running for YOU Tawn is running in every city, township, and village in Senate District 14.
-Latest: Norvell and Columbia Townships, 10 miles on October 10.
-3.75 in Norvell, 6.25 in Columbia.
-Faith in God first.
-Norvell & Columbia run → See the route → SUNDAY, October 11th Fill A Row Friends & Family Sunday 10:30 AM Calvary Baptist Church.
+Latest: Rives and Blackman Townships, about 8.5 miles October 16–17.
+3.5 in Rives, 5 in Blackman.
+First and Second Amendments, and prayer.
+Rives & Blackman run → See the route → SUNDAY, October 11th Fill A Row Friends & Family Sunday 10:30 AM Calvary Baptist Church.
 Barbecue dinner provided, cider and doughnuts, bounce houses and a playground for the kids.
 All are welcome.
 7527 Whitmore Lake Rd TUESDAY, October 13th Turning Point Action Super Chase — Washtenaw 11:00 AM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.

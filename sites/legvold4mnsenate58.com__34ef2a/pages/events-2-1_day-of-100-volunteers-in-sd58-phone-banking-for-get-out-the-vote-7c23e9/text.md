@@ -5,6 +5,5 @@ One hour shifts are available between 10am and 7pm.
 Take as many shifts as you like or stop in and take a list home with you.
 You'll need to bring a computer and your own phone, but we will provide space, and desks/chairs plus snacks and food throughout the day.
 Go to this Mobilize page to sign up for your shift(s) and find out where the work location is: https://www.mobilize.us/legvold-for-mn-senatedfl/event/1062185/ .
-Previous Previous October 17 Legvold for Minnesota - Rosemount Door Knock with Senator Erin Maye Quade and Rep.
-Huot!
+Previous Previous October 23 Legvold for Minnesota - Rosemount Door Knock!
 Next Next October 24 Day of 100 Volunteers in SD58: Write Post Cards for Get Out the Vote Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

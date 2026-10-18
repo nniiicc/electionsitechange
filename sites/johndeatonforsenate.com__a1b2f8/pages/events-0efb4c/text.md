@@ -7,9 +7,6 @@ VFW Post 1105 215 Mt.
 Auburn St, Watertown, MA 02472 Sunday, October 18th, 2026 10:00 a.m.
 Florian Hall 55 Hallet St, Dorchester, MA 02124 Tuesday, October 20th, 2026 7:00 p.m.
 Rainbow Adult Center 103 Freeport St, Dorchester, MA 02122 Thursday, October 22nd, 2026 11:00 a.m. and 6:00 p.m.
-West on Centre 1732 Centre St, West Roxbury, MA 02132 Sunday, October 11th, 2026 6:00 p.m.
-Kelley Square Pub 84 Bennington St, Boston, MA 02128 Friday, October 16th, 2026 5:00 p.m. ﻿ VFW Post 1105 215 Mt.
-Auburn St, Watertown, MA 02472 Sunday, October 18th, 2026 10:00 a.m.
 Florian Hall 55 Hallet St, Dorchester, MA 02124 Tuesday, October 20th, 2026 7:00 p.m.
 Rainbow Adult Center 103 Freeport St, Dorchester, MA 02122 Thursday, October 22nd, 2026 11:00 a.m. and 6:00 p.m.
 WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.

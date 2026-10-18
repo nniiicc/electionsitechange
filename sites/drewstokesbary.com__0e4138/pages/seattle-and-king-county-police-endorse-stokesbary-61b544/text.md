@@ -5,5 +5,5 @@ In their endorsement letter, COMPAS wrote: You are – and have always been – 
 I’m incredibly grateful to have the support of the state’s major law enforcement organizations.
 In addition to COMPAS, I’ve been endorsed by WACOPS (representing city and county law enforcement guilds around the state) and the Washington State Patrol Troopers Association (representing WSP troopers).
 Endorsements endorsement public safety union More For You Rep.
-Stokesbary updates City of Sumner on state issues In the News The News Tribune profiles House Position 1 race In the News The Times recommends Drew Stokesbary for the 31st District’s vacant House seat Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Early Endorsement from Stand for Children Endorsements Sumner hosts open house to discuss Traffic Ave. funding In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

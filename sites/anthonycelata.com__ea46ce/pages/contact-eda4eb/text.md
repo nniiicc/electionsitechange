@@ -6,4 +6,4 @@ We are having problems with the "Send us a message" box to the right.
 Thank you for your support.
 Send us a message Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * or Message Name Email * Comment or Message Submit
+Name Comment Email Name * Email * Comment or Message Submit

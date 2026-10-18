@@ -9,6 +9,6 @@ November 13, 2025 Uncategorized Hello World!
 We sent in the proper forms to the Texas Ethics Commission and sent the intent to run to the Secretary.
 Those are the big two first legal steps that allow us to formally announce a candidacy.
 That was actually the easy part.
-The challenge will be collecting signatures from 500 independent voters in District 115… « Previous Page Blog at WordPress.com.
+The challenge will be collecting signatures from 500 independent voters in District 115… « Previous Page Create a free website or blog at WordPress.com.
 Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

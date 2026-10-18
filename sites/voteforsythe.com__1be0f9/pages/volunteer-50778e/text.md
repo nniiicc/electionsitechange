@@ -1,5 +1,5 @@
 Meet Jessica Issues Successes!
-Volunteer Endorsements Media Campaign Swag Contribute Volunteer Join the Team!
+Volunteer Endorsements Media Video Campaign Swag Contribute Volunteer Join the Team!
 Join our people powered campaign!
 No experience canvassing, no problem.
 Want a yard sign, we got you.

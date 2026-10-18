@@ -1,4 +1,4 @@
-0 Skip to Content Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Folder: Meet Lynne Back About Values Folder: Get Involved Back Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Rebuild WNC Recruit.
+0 Skip to Content Home Priorities Cost of Living Plan Rebuild WNC Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Folder: Meet Lynne Back About Values Folder: Get Involved Back Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Rebuild WNC Recruit.
 Train.
 Retain.
 A skilled trades pilot to put Western North Carolinians to work rebuilding Western North Carolina.
@@ -15,7 +15,8 @@ Western North Carolina lost about 19,000 jobs in the month after Helene, accordi
 After Hurricane Florence, by comparison, the eastern North Carolina construction workforce grew for three straight quarters.[2] Local governments in the region are also short on staff and resources.[3] What I want to do I propose a small pilot that trains 100 Western North Carolinians for skilled jobs tied to Helene recovery and the region's longer term infrastructure needs.
 The idea is simple: help people finish training that already exists, remove the practical barriers that keep them from completing it, and connect them directly to paid apprenticeships and jobs in recovery work.
 Training could include heavy equipment operation, commercial driving, diesel technology, surveying and civil engineering support, welding, electrical work, plumbing, HVAC, carpentry, masonry, utility line work and related construction skills.
-Jobs could be with NCDOT, local governments, utilities, nonprofit recovery organizations or private contractors doing approved public infrastructure and housing recovery work.ext goes here How it fits with what already exists This pilot does not create a new school or a new bureaucracy.
+Jobs could be with NCDOT, local governments, utilities, nonprofit recovery organizations or private contractors doing approved public infrastructure and housing recovery work.
+How it fits with what already exists This pilot does not create a new school or a new bureaucracy.
 It would plug into the network we already have: Blue Ridge Community College, A-B Tech and the other Western North Carolina community colleges, along with NCWorks, ApprenticeshipNC and Good Jobs WNC.
 Good Jobs WNC is an important foundation.
 The coalition spans 23 counties, 11 community colleges and 48 employer partners, and recently announced $3.2 million in grants to the region's colleges to help connect 1,200 residents to good jobs over three years.[4] Those grants focus on building and expanding training programs across health care, manufacturing and the skilled trades.
@@ -35,7 +36,8 @@ But aid varies a lot by program type.
 The Next NC Scholarship covers students in degree, diploma and certificate programs who meet income and financial need limits, including household income of $80,000 or less.[8] Many of the fastest routes into recovery work, such as commercial driving or short term equipment and trades credentials, are noncredit workforce programs.
 Those generally do not qualify for Pell Grants or Next NC.
 The state's Short Term Workforce Development Grant helps, but it is capped at $750 per course.[9] That gap is why the pilot would use existing aid first, then cover remaining tuition and fees.
-It would also pay for the costs that often keep people from finishing: tools, safety equipment, transportation and child care.ription How the pilot would work Who is eligible: 100 adults who live in North Carolina counties covered by the federal Helene major disaster declaration, with priority for Western North Carolina residents.
+It would also pay for the costs that often keep people from finishing: tools, safety equipment, transportation and child care.
+How the pilot would work Who is eligible: 100 adults who live in North Carolina counties covered by the federal Helene major disaster declaration, with priority for Western North Carolina residents.
 Enrollment: Three cohorts enrolled over three years.
 Commitment: After training, participants agree to work at least two years in an approved recovery, infrastructure or housing repair job in Western North Carolina.
 Changing between approved employers would count.

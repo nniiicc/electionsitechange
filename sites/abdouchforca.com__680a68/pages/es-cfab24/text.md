@@ -44,7 +44,7 @@ Contribuir $100 ahora → ¿Prefiere enviar un cheque?
 Obtenga instrucciones aquí Tenga en cuenta que la contribución máxima por elección (ya sea primaria o general) para personas individuales, empresas y comités de acción política (PAC) es de $5,900.
 Recursos Electorales 2026 Guía Electoral de California Consulte recomendaciones claras y sencillas sobre las propuestas de ley de California y evaluaciones de candidatos de sentido común.
 Publicado independientemente por Reform California.
-Ver Guía Electoral → Guía de Reform California Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Detalles → Sat, Oct 17 IE Live Marketnite Fall Festival 2450 Blake St Detalles → Sat, Oct 17 Coptober - Redlands Ranch Market Parking Lot Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
+Ver Guía Electoral → Guía de Reform California Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Sat, Oct 17 IE Live Marketnite Fall Festival 2450 Blake St Detalles → Sat, Oct 17 Coptober - Redlands Ranch Market Parking Lot Detalles → Thu, Oct 22 Small Business Summit Elks Lodge - San Bernardino Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
 Juntos podemos marcar la diferencia.
 Manténgase informado y reciba actualizaciones sobre temas clave y eventos de campaña.
 Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.

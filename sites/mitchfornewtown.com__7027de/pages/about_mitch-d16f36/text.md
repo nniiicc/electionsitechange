@@ -1,10 +1,10 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News All About Mitch State Rep Mitch Bolinsky is seeking his eightth term as "Newtown's Voice in Hartford", in the Connecticut General Assembly, proudly and passionately representing his hometown with integrity, common sense and reason.
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News All About Mitch State Rep Mitch Bolinsky is seeking his eightth term as "Newtown's Voice in Hartford" in the Connecticut General Assembly, proudly and passionately representing his hometown with integrity, common sense and a record of results..
 He is an Assistant Republican Leader, serving on the legislature’s powerful Appropriations Committee, Education Committee, Select Committee for Special Education and the Aging Committee, on which he leads as its "Ranking Member".
 His caucus work includes being a founding member of the legislature's I/DD (Intellectual & Developmental Disabilities) Caucus, CT's Rare Disease Caucus, Animal's Rights Caucus, Firefighter / EMS Caucus, and School Safety Caucus.
 Representative Bolinsky is dedicated to providing caring constituent service to the children, families, seniors and businesses in town.
 His focus on working across the aisle to facilitate economic development, innovate in special education, introduce choice to senior care, and job creation through internship and vocational training access are parts of his celebrated work, having earned him legislative achievement awards, advocacy recognition, and high ranks for bipartisan impact while serving the 106th District.
 Some highlights of Rep.
-Bolinsky’s accomplishments in office have included : Initiated legislation forming CT's Rare Disease Council, focusing resources to improving outcomes for children, adults & families.
+Bolinsky’s recent accomplishments include : Initiated legislation forming CT's Rare Disease Council, focusing resources to improving outcomes for children, adults & families.
 Collectively, the rare disease community is mighty.
 Secured a $6-mill.
 Pandemic Relief Grant for CT's Children's Museums, including Newtown's EverWonder, to ensure ongoing operations despite revenue lost to mandated closure.
@@ -30,20 +30,21 @@ Serving as an active advocate for children and adults with autism and intellectu
 Honored by SEPTO & Decoding Dyslexia.
 Repeatedly preserved Newtown’s historic Horse Guard.
 Secured millions of dollars in state grants for school safety, indoor air quality, infrastructure & local projects including Sandy Hook Streetscape, Hawleyville Sewers and Fairfield Hills Streetscape.
-Prior Public Service Newtown Legislative Council Newtown Legislative Council, Finance & Administration Subcommittee Newtown Legislative Council, Ordinance Subcommittee; Vice Chairman Newtown Economic Development Commission (2 terms) Newtown Board of Ethics (2 terms) Local Justice of the Peace (currently joining happy couples) Earlier Career Prior to elected office, Rep.
+Prior Public Service Newtown Legislative Councilman Newtown Legislative Council, Finance & Administration Subcommittee Newtown Legislative Council, Ordinance Subcommittee; Vice Chairman Newtown Economic Development Commission (2 terms) Newtown Board of Ethics (2 terms) Newtown Justice of the Peace (10-years joining happy couples) Earlier Career Prior to elected office, Rep.
 Bolinsky worked more than 30 years in the private sector, including five years as Principal of M-Vision Insights, a marketing and regulatory affairs consultancy.
 In that role he helped advise and provide research and analytical insights to small and mid-sized businesses, primarily operating or investing in the American automotive industry.
 From 2007 to 2010, Rep.
 Bolinsky was Director of Marketing & Regulatory Affairs at IDQ/Interdynamics.
-During that time, he co-authored state and federal legislation to reduce the effects of global-warming, even developing an industry-first recycling program for automotive refrigerant products.
+During that time, he co-authored California and federal legislation to reduce the effects of global-warming, developing an innovative, industry-first recycling program for automotive refrigerant products.
 His work was written into Congress’ bipartisan American Clean Energy & Security Act of 2009.
-As liaison for Automotive Refrigeration Products Institute (ARPI), he partnered with industry peers, legislators, U.S. & state EPA entities, consumer advocacy & environmental groups, achieving positive outcomes.
-Previously, he was a Senior Product Manager at ITW/Permatex from 2002 to 2007.
+As liaison for Automotive Refrigeration Products Institute (ARPI), he partnered with industry peers, legislators, U.S. & state EPA entities, consumer advocacy & environmental groups to reduce GHGs 99%.
+In 2008, he rewrote a 55-page section of California Assembly Bill AB-32, Global Warming Solutions Act of 2006.
+Prior to that, he was Senior Product Manager at ITW/Permatex from 2002 to 2007.
 Rep.
 Bolinsky resides in Newtown with his wife of 41 years, Luisa.
-Their daughter, Rachel is a UConn grad, and is a practicing mental-health provider, licensed by the State of CT.
+Their daughter, Rachel is a UConn grad, and a practicing mental-health provider, licensed by the State of CT.
 She is married to Adam.
-Their son, Matthew, earn his Juris Doctorate, Cum Laude from GWU School of Law, is a member of the DC and New York Bar Associations, and is a practicing monetary-policy attorney in the Big Apple.
+Their son, Matthew, earned graduated Cum Laude from GWU School of Law with a Juris Doctorate, is a member of the DC and New York Bar Associations, and is a practicing monetary-policy attorney in the Big Apple.
 He is engaged to marry Sophia.
 Luisa and Mitch are incredibly proud of the fine people their children have grown to be.
 THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
@@ -51,4 +52,4 @@ VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS NEWS Polls
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

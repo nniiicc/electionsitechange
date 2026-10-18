@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Campaign Updates Aug 17, 2025 | Campaign Updates Neguse leads opposition to proposed NOAA cuts that would shut down Colorado labs Colorado Congressman Joe Neguse is trying to convince his colleagues in the U.S.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Campaign Updates Aug 17, 2025 | Campaign Updates Neguse leads opposition to proposed NOAA cuts that would shut down Colorado labs Colorado Congressman Joe Neguse is trying to convince his colleagues in the U.S.
 House and Senate to oppose the White House’ proposed cuts to the National Oceanic and Atmospheric Administration.
 Read More Aug 17, 2025 | Campaign Updates Joe Neguse embraces key role in fight against Trump U.S.
 Rep.

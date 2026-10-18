@@ -8,8 +8,7 @@ We also get into the lack of major investment in Niagara County despite generati
 At some point, people have to stop blaming everyone else and ask: after decades in power, what exactly have these leaders built?
 A wide-ranging conversation about regional decline, cross-border comparisons, infrastructure, politics, and whether Western New York still has a path forward.
 Previous THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Next Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics IS NATE A RADICAL COMMUNIST?
+The Courage Gap in American Politics You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) WE ARE AT A CROSSROADS IN WESTERN NEW YORK IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-Volunteer and Sign Up for Updates!
+PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!

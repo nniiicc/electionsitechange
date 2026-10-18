@@ -17,4 +17,4 @@ Deadline to Request an Absentee Ballot – Indefinitely Confined and Military Oc
 If a voter is indefinitely confined , or military and not away from home, your absentee ballot request must be received by your municipal clerk no later than 5:00 p.m. on October 30, 2026.
 In-Person Absentee Voting period October 20, 2026, possibly through November 1, 2026 Voters can possibly request and vote an absentee ballot in-person in their municipal clerk’s office through November 1, 2026.
 Office hours vary by municipality.
-Some municipal offices may not offer additional in-person absentee hours Check MyVote or contact your municipal clerk for absentee voting hours.  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy
+Some municipal offices may not offer additional in-person absentee hours Check MyVote or contact your municipal clerk for absentee voting hours.  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy

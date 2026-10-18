@@ -5,7 +5,8 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-President Obama to Join Abdul El-Sayed on the Campaign Trail Press Release October 6, 2026 MICHIGAN – On October 24th, President Barack Obama will campaign with Dr.
+WATCH: Featuring Testimonial From Survivor Of Opioid Crisis, New Ad Slams Big Pharma “Champion” Mike Rogers Press Release October 6, 2026 Michigander Who Battled Opioid Addition: “Started Addiction At A Young Age.
+It Was The Opioids That I Really Couldn’t Get Away From… The Politicians Did It, As We’re Left To Deal With The Fallout.” Mike Rogers … President Obama to Join Abdul El-Sayed on the Campaign Trail Press Release October 6, 2026 MICHIGAN – On October 24th, President Barack Obama will campaign with Dr.
 Abdul El-Sayed, Secretary Jocelyn Benson, and other Democrats in Michigan.
 “I cannot wait to welcome former President Barack Obama back to Michigan,” said Abdul. … ICYMI: Dr.
 Abdul El-Sayed Joins FOX News and MS NOW For Conversations On The Cost Of Living Crisis, Trump’s Illegal War In Iran, and Our Broken Healthcare System Press Release October 6, 2026 Yesterday, Dr.
@@ -27,9 +28,7 @@ Abdul El-Sayed for U.S.
 Senate, … ICYMI: Dr.
 Abdul El-Sayed Joins Higher Learning to Share His Vision for Michigan’s Future Press Release October 2, 2026 “We could build a campaign just on the notion that your government should be doing good things for you, not bad things for other people.” MICHIGAN – Dr.
 Abdul El-Sayed joined Higher Learning with Van Lathan … ICYMI: Mike Rogers Touts Supposed Healthcare Plan to Address Crisis He Helped Cause Press Release October 1, 2026 MICHIGAN – Today, a new report from the Detroit Metro Times highlighted the blatant hypocrisy in Mike Rogers’ new healthcare plan—namely that he helped create the very problems he promises to fix.
-As a self-declared “champion” … NEW AD: “500” Events Across Michigan Press Release October 1, 2026 Abdul: “You know, I’ve done over 500 events across Michigan and wherever I go, I see the same thing.
-Too many places left behind, a rigged economy, and corrupt politicians.
-MICHIGAN – Today, the Abdul for … « Previous 1 2 3 4 5 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+As a self-declared “champion” … « Previous 1 2 3 4 5 … 29 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

@@ -33,7 +33,17 @@ A NO vote Keeps the current tax system.
 Kehoe, say eliminating the income tax makes Missouri more competitive and lets workers keep more of every paycheck.
 Opponents — including groups backed by the Missouri Realtors — argue it authorizes the largest sales-tax expansion in state history without further voter approval and could shift costs onto everyday purchases.
 Worth knowing: in June, the Western District Court of Appeals ruled the legislature's original summary insufficient and rewrote the ballot language voters will see, adding explicit mention of the sales-tax expansion.
-Research it yourself Official ballot language & fiscal note — Missouri Secretary of State Ballotpedia: Amendment 5 Missouri Independent: how the courts rewrote the Amendment 5 summary KCUR: what YES and NO mean on each amendment 60-second voter survey Anonymous · tap only · goes straight to Jill — nothing published.
+Research it yourself Official ballot language & fiscal note — Missouri Secretary of State Ballotpedia: Amendment 5 Missouri Independent: how the courts rewrote the Amendment 5 summary KCUR: what YES and NO mean on each amendment 6 Limits on Changing Voter-Passed Measures What it does A citizen-initiated amendment that makes initiative and referendum "fundamental rights." Once voters pass a measure by petition, the legislature could not change any part of it unless 80% of the House and 80% of the Senate vote to send the change back to another statewide vote.
+This applies to measures passed by petition since 2010.
+It also bars laws that would stop courts from rewriting ballot summaries, including fiscal note summaries.
+A YES vote Adds these limits to the Missouri Constitution.
+A NO vote Keeps the legislature's current power to amend voter-passed laws.
+Background The Missouri Supreme Court placed Amendment 6 on the ballot on September 3 after rejecting challenges to its form.
+The official fiscal note estimates no costs or savings.
+Senator Carter's position: Vote NO on Amendment 6 I support your right to petition your government.
+I oppose locking laws in place so they can't be fixed.
+Under Amendment 6, even a small fix — a typo, or a problem nobody saw coming — would need 80% of both chambers and another statewide election.
+Research it yourself Full text of Amendment 6 — Missouri Secretary of State Official ballot language & fiscal note — Missouri Secretary of State Missouri Independent: voters will decide limits on lawmakers rewriting ballot measures 60-second voter survey Anonymous · tap only · goes straight to Jill — nothing published.
 QUESTION 1 OF 4 What’s your biggest concern at the state level? 🏠 Property taxes 💡 Utility bills 🌾 Farmland & ag 🏫 Schools & kids 🚨 Public safety ❤️ Healthcare How important are these to your family? (tap up to 3) 🏠 Property taxes 💡 Utility bills 🌾 Farmland & ag 🏫 Schools & kids 🚨 Public safety ❤️ Healthcare Next → The four amendments — how are you leaning?
 Amd 1 Parks & conservation tax renewal YES NO Not sure Amd 2 Elected county assessors YES NO Not sure Amd 4 Citizen petition rules YES NO Not sure Amd 5 Income tax phase-out YES NO Not sure Next → Skip — still reading up on them Do you plan to vote early and skip the lines? 🗳️ Yes — early / absentee 📅 Election Day, Nov 3 🤔 Not sure yet Thank you — your voice is in .
 This helps Jill represent SD-32.

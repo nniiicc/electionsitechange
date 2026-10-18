@@ -1,4 +1,7 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Video • October 15, 2026 Debate: League of Women Voters Greenwich Watch the League of Women Voters Greenwich State Senate candidates debate.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • October 17, 2026 Stand Up for Democracy.
+Vote for Jill Oberlander.
+Democracy needs Jill’s kind of patient, practical, reasoned leadership.
+It also needs government that earns our confidence by addressing the problems we live with: rising… Read more… Video • October 15, 2026 Debate: League of Women Voters Greenwich Watch the League of Women Voters Greenwich State Senate candidates debate.
 Read more… Newsletter • October 15, 2026 People over politics Lately, politics have become too much about picking a side.
 That’s not how I approach public service.
 Read more… Letter to the Editor • October 12, 2026 Oberlander understand strong schools require more than good intentions Jill knows we don’t have to choose between strong schools and responsible spending.
@@ -9,6 +12,5 @@ And the record shows her… Read more… Letter to the Editor • October 8, 202
 On Election Day, let’s send a leader to Hartford who will put the… Read more… Newsletter • October 8, 2026 Ready to work for you I care deeply about our district, and I want to do the work — every day — to make it an even better place to… Read more… Video • October 7, 2026 Round Hill Association debate Watch Jill answer the tough questions at the Round Hill Association’s State Senate candidates debate.
 Read more… Letter to the Editor • October 7, 2026 Joe Kelly gets the math wrong You’d think someone running on his energy background would know this charge has been a credit since May.
 Read more… Letter to the Editor • October 5, 2026 Politics needs more pragmatism I think we need more independent, pragmatic thinkers in our State Senate today.
-I want representation in Hartford focused on getting things done, not scoring points. … Read more… Newsletter • October 1, 2026 We need a strong voice for reproductive rights At a moment when fundamental rights are being stripped away state by state, Connecticut needs legislators who show up ready to fight.
-I’m asking for… Read more… 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+I want representation in Hartford focused on getting things done, not scoring points. … Read more… 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

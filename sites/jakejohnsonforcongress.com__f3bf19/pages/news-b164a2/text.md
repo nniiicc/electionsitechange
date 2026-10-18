@@ -1,6 +1,11 @@
-Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments PRESS RELEASE Brad Finstad took $23,000 linked to the CCP.
+Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments PRESS RELEASE Retired Police Chief Tim Sletten supports Jake Johnson Tim Sletten, who spent more than 30 years in law enforcement in Red Wing, penned a letter saying Jake is the right person to represent southern Minnesota.
+Read more Oct 17 2026 PRESS RELEASE Brad Finstad just took more money from Google and Syngenta Per new FEC reports, Finstad took more money from Google, which is building a data center in Pine Island, and Syngenta, a Chinese state-owned corporation that bought farmland in Goodhue County.
+Read more Oct 16 2026 PRESS RELEASE Jake Johnson decisively wins second debate with Brad Finstad Finstad once again defended the tariffs and the Iran War, and he refused to commit to holding a public town hall.
+You can watch the full debate here .
+Read more Oct 13 2026 PRESS RELEASE Brad Finstad took $23,000 linked to the CCP.
 Jake is calling on him to give it back.
 Finstad cashed a check from a lobbyist for a Chinese data center company just # days after voting to fast-track data centers.
+Read more Oct # 2026 PRESS RELEASE Jake Johnson hosts roundtable with veterans in Austin Jake Johnson hosted a roundtable with veterans in Austin, hearing their worries about recent funding challenges for veterans’ healthcare, concerns about the Iran War, and other important issues.
 Read more Oct 10 2026 PRESS RELEASE Jake Johnson Wins KEYC Debate With a Clear Plan to Lower Costs in Southern Minnesota Jake drew sharp contrasts with Rep.
 Brad Finstad on tariffs, rural health care, data centers, and town halls, and Jake made a strong case for how he’ll lower costs in Congress.
 Read more Oct 8 2026 PRESS RELEASE Congressman Brad Finstad is running a TV ad with a fake photo of Jake Johnson KSTP and ABC 6 News reported the image “never happened” and “raises questions about AI”, and HuffPost interviewed the veteran and small business owner who was removed.
@@ -169,4 +174,7 @@ Read more May 16 2025 PRESS RELEASE Rochester And Byron Teachers Union Leaders E
 Read more May 7 2025 PRESS RELEASE Local Teacher's Grassroots Campaign for Congress Raises Over $100K on First Day Jake Johnson, a public school teacher from southern Minnesota, launched his campaign to challenge Congressman Brad Finstad on Thursday, April 17th.
 Donors contributed over $# during the course of the first day.
 Read more Apr 18 2025 PRESS RELEASE Jake Johnson Announces Grassroots Campaign for Congress to Fight for Working People and Represent Southern Minnesotans Jake Johnson : “D.C. politicians like Brad Finstad are jacking up our bills while gutting Social Security and Medicaid.
-I’m excited to hold a town hall in every county in our district to hear how we can make government work for regular people.” Read more Apr 17 2025 Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01). info@jakejohnsonforcongress.com Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.
+I’m excited to hold a town hall in every county in our district to hear how we can make government work for regular people.” Read more Apr 17 2025 Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01).
+Contact: info@jakejohnsonforcongress.com Donations: Checks can be mailed to PO Box 6295, Rochester, MN 55903.
+For wire / ACH information, please call or text our finance team at (507) 405-4650 or email eleanor@jakejohnsonforcongress.com .
+Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.

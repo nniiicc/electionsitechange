@@ -1,8 +1,8 @@
 Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin FOLLOW THE MONEY Kelly Morrison's Stock Trades She was elected to serve CD3.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin FOLLOW THE MONEY Kelly Morrison's Stock Trades She was elected to serve CD3.
 Here’s what she’s actually been doing with her portfolio since January 2025 — fully sourced, no exaggeration needed.​ 116 TOTAL TRADES $6.0M TOTAL VOLUME 54 COMPANIES 16 MONTHS IN OFFICE Most people in the Third District don’t have a financial adviser making dozens of trades on their behalf while they’re at work.
 They have a paycheck, a mortgage, and a lot of questions about whether the people in Washington are looking out for them or for themselves.
 When it comes to Kelly Morrison, the public record gives those questions plenty of material.
@@ -119,6 +119,6 @@ WAIT UNTIL I GO TO WORK FOR YOU!
 Let's work together to tackle the fraud!
 Paid for by Tyler Bass For Congress Menu Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Home Donate Now!
 Morrison vs.
-Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Request A Yard Sign Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

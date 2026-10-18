@@ -101,7 +101,9 @@ The home place 21 years after I had left the farm.
 The west side of the home after resided by the landlord after many years of shingles falling off the home.
 The last official photo of the home I grew up in before my mom moved to town (August 13, 2008).
 My last official day on the farm before my mom moved to town (August 13, 2008).
-Recent Posts See All A Letter to a Son: What it means to have a Dad A Simple Courtesy: Responding to the People You Represent KOTA Territory News Interview Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Recent Posts See All If a classic automobile could talk, what would it say?
+Pheasant Hunting Season Begins: Celebrating South Dakota’s Cultural Heritage.
+A Letter to a Son: What it means to have a Dad Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

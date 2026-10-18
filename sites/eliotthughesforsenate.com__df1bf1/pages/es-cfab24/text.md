@@ -1,23 +1,30 @@
-Home Volunteer English Connecticut’s 3rd Senate District East Hartford East Windsor South Windsor Ellington Volunteer Why I Am Running ↓ Campaign Message WHY I AM RUNNING I’m running in the Republican primary for the 3th Senate District in Connecticut because too many families are struggling to keep up.
-For years, we have heard Connecticut is becoming too expensive, taxes keep climbing, and our communities need leaders who listen.
-I will work for affordability, strong public schools and parental choice, local control, economic opportunity, and accountable limited government.
-I believe state government should be transparent, responsive to the people it serves, and focused on practical results.
-Decisions made at the Capitol should reflect the real priorities of our towns.
-By prioritizing fiscal discipline, protecting taxpayers, and ensuring every parent has a meaningful voice, we can build a stronger, more prosperous future for our families and local businesses.
-Explore Priorities ↓ Policy Priorities THOUGHTFUL, DISCIPLINED DECISIONS Policies should reflect the needs, values, and concerns of the people they serve.
-The campaign will pursue thoughtful, disciplined decisions centered on the fundamentals of our communities.
-01 Make our state more affordable Reduce income and property tax burdens, rein in state spending, and protect household budgets from rising everyday costs.
-02 Raise the quality of education and expand parental choice Support strong public schools, empower families with educational options, and uphold parental rights in every classroom.
-03 Strengthen communities while respecting local control Respect municipal decision-making, defend local zoning and community leadership, and invest in essential local infrastructure.
-04 Reinvigorate our business base and expand opportunity Promote a predictable, pro-growth regulatory environment that sparks private investment, fosters good jobs, and supports small businesses.
-05 Demand accountable, limited government Protect personal liberty and privacy, eliminate administrative waste, increase legislative transparency, and ensure government remains strictly accountable to citizens.
-About Eliott Meet eliot t Eliott Hughes is a servant leader, problem solver, and advocate for the people of Connecticut—and that's exactly the kind of leadership our state needs today .
-For nearly 30 years, he has built a career as an engineer, executive, and leader, helping organizations solve complex challenges, develop future leaders, and deliver meaningful results.
-Throughout his professional journey with organizations including Northrop Grumman, Hartford HealthCare, and Aetna/CVS Health, Eliott has earned a reputation for bringing together diverse perspectives, building strong teams, and turning innovative ideas into practical solutions.
-What sets him apart is not simply his experience, but the way he leads—with a servant's heart, an empathetic ear, and a commitment to understanding the needs of others.
-Whether mentoring emerging leaders, improving business operations, or addressing difficult organizational challenges, Eliott believes leadership begins with listening, serving, and putting people first.
-Grounded in integrity, accountability, and a desire to leave every organization and community stronger than he found it, he is committed to bringing that same approach to serving the people of Connecticut.
-Family & Community MEET THE HUGHES FAMILY Strong communities begin with strong families.
+Volunteer English Tired of rising costs and feeling unheard in Hartford?
+Eliott Hughes is the experienced local leader ready to fight for affordability, parental rights, and common-sense government that actually listens.
+Connecticut’s 3rd Senate District East Hartford East Windsor South Windsor Ellington Join the Campaign Fighting For ↓ Problems to Solve Connecticut families are being squeezed Taxes, fees, energy bills, and everyday costs keep climbing while too many voices get ignored at the Capitol.
+It’s time for change.
+01 Cost of Living Crisis Connecticut is becoming too expensive.
+Families are struggling to keep up with taxes, fees, and bills that rise faster than paychecks.
+02 Parental Rights Under Pressure Parents should decide what’s best for their children — public school, private, or homeschool.
+That choice belongs to families, not the government.
+03 Voices Ignored Too often, residents who show up to speak are shut out, and bills pass anyway.
+East Hartford, East Windsor, Ellington, and South Windsor deserve to be heard.
+About Eliott Meet eliot t A Servant Leader Who Gets Results For nearly 30 years, Eliott Hughes has solved complex problems as an engineer and executive at Northrop Grumman, Hartford HealthCare, and Aetna/CVS Health.
+He knows how to bring people together, cut through bureaucracy, and deliver real outcomes.
+A longtime South Windsor resident with his wife Keilani and their three children, Eliott is deeply rooted in the district.
+He serves through Emmanuel Baptist Church and leads in American Heritage Girls and Trail Life USA — investing in the next generation with character and service.
+He leads with integrity, accountability, and a commitment to listen first.
+Not more politics — better results for the families and small businesses of Senate District 3.
+The Plan A Clear Path Forward 01 Make Connecticut More Affordable Fight rising costs, reduce unnecessary fees, support small businesses, and explore practical energy solutions.
+02 Protect Your Freedoms & Rights Defend parental rights in education and ensure government serves people — not the other way around.
+03 Restore Accountability Bring transparency and common-sense leadership.
+Listen before legislating.
+Put District 3 first.
+What’s at Stake If we keep the status quo, costs keep rising, parents lose more say in their children’s education, and local voices stay muted in Hartford.
+With Eliott Hughes, we get a stronger, more affordable district where families thrive and government actually listens.
+Ready to Start making better decisions Together?
+Join Eliott on November 3, 2026.
+Volunteer, spread the word, and help elect a leader who serves families and small businesses in East Hartford, East Windsor, Ellington, and South Windsor.
+Contact the Campaign Family & Community MEET THE HUGHES FAMILY Strong communities begin with strong families.
 Our towns thrive when parents are empowered, children have access to exceptional education, and local neighborhoods remain safe, welcoming places to build a life.
 Every child in Connecticut deserves the opportunity to flourish.
 By supporting local schools, youth programs, and community-led initiatives, we invest directly in the leaders and innovators of tomorrow.

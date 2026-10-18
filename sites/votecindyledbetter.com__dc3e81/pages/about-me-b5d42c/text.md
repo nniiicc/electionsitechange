@@ -1,4 +1,4 @@
-Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety Meet Cindy Dr.
+Search Menu Skip to content Home Cindy In Indy Donate/Volunteer/Contact Meet Cindy On The Issues: Facts over Politics 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Energy and Data Centers Healthcare Public Safety Meet Cindy Dr.
 Cindy Ledbetter, Psychiatric Nurse Practitioner Cindy has her doctorate in nursing specializing in mental health.
 She has over 30 years of medical, business, and administrative experience.
 She has managed both for-profit and not-for-profit organizations, has worked in retail management, and has had ownership of a small manufacturing firm and a restaurant.

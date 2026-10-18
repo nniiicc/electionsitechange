@@ -1,4 +1,4 @@
-Skip to content Home About Values Contact Donate Donate Donate Donate Home About Values Contact Jerry for the Prairie I am running for Kansas House District 71, located in the northeast part of Saline County.
+Skip to content Home About Five Steps Contact Donate Donate Donate Donate Home About Five Steps Contact Jerry for the Prairie I am running for Kansas House District 71, located in the northeast part of Saline County.
 I am an independent thinker and experienced problem-solver who looks forward to meeting Kansans and listening to their stories and the challenges they face.
 It is time to abandon divisiveness and work together to create realistic solutions that deliver opportunities today and tomorrow for all Kansans.
 There are three main focuses I have that I want to provide a voice for in the Kansas House: Good Jobs Salina out-performed the U.S. and Kansas in job creation in the third quarter of 2025.

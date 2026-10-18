@@ -11,4 +11,5 @@ Hosting events!
 This would give everyone a chance to meet with and come talk to me!
 Ultimately, asking for money is a huge ask.
 But I can't do this without you.
-Donate through ActBlue Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form
+Donate through ActBlue Enable JavaScript to submit this form.
+Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form

@@ -69,63 +69,60 @@ FOREVER FOURTEEN.
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 16th TONIGHT IN SANDWICH!
-Join us tonight from 5:30–7:30 PM at the Sandwich Center for Active Living for an important community event recognizing Substance Use Prevention Month.
-Learn about prevention, connect with local resources, hear from keynote speaker Kevin Rosario, and explore the Hidden in Plain Sight trailer to help parents recognize potential warning signs.
-There will be activities for kids and teens, pizza, and refreshments!
-Continuing to together to educate, prevent, and protect our kids.
-Please share and spread the word!
-Hope to see you! 🇺🇸😊 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmerican #CommonSenseLeadership #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #ProtectTheCape #MaPoli Town of Sandwich, MA Sandwich Council on Aging Sandwich Police Department Barnstable Police Department ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 16th CONGRATULATIONS, HEIDI AND DAVE!
-What a GREAT morning in the great town of Sandwich, right here in the heart of the Fightin’ Fifth!
-Senator Dylan Fernandes and I had the pleasure of surprising everyone with citations from the Massachusetts House of Representatives and State Senate!
-We recognized Heidi Trottier, Director of the Sandwich Chamber of Commerce, for an outstanding year, all her hard work, and the many accomplishments she and her team have achieved.
-From growing membership to always being there for local businesses and the community, Heidi gives it her all, 24/7!
-We also presented Dave Sampson with a citation recognizing his years of service to the Sandwich Chamber as he wrapped up his time there.
-Dave continues to serve the town as a member and Chair of the Select Board, and we are grateful for everything he does for Sandwich!
-Great people, a great building, and a great morning celebrating two people who give so much back to their community.
-Keep up all the great work, Heidi and Dave, and thank you to everyone at the Sandwich Chamber of Commerce for all you do for our businesses and the town of Sandwich. 🇺🇸😊👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli Sandwich Chamber of Commerce Town of Sandwich, MA Sandwich Council on Aging Dylan Fernandes ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 16th A POWERFUL AND IMPORTANT MORNING WITH INDEPENDENCE HOUSE!
-Such a great and important morning at the annual Domestic Violence Awareness Breakfast at Margaritaville Resort in Hyannis.
-While I couldn’t stay for the entire event, I was so impressed by the information, the displays, and the important message being shared.
-The “Lightkeeper” concept was especially powerful.
-It reminds us to look beyond what we see and pay attention to what others may be experiencing behind closed doors.
-The interactive displays showed different forms of abuse, including financial abuse, technology-facilitated abuse, coercive control, and the impact of abuse on work and businesses.
-Be a lightkeeper who notices what others may not see.
-It was also heartbreaking to see the display honoring the Massachusetts victims of domestic violence who have lost their lives in 2026.
-Every name represents a life, a family, and a tragedy that reminds us why awareness, education, and action matter so much.
-As a former police officer and domestic violence specialist who has put batterers behind bars and stood up for women and survivors, this morning really hit home.
-Please take a few minutes to look through the pictures and learn more about the many forms domestic violence can take.
-Sometimes, recognizing the signs and speaking up can make all the difference.
-IF YOU OR SOMEONE YOU KNOW NEEDS HELP: Independence House 24-hour hotline: 800-439-6507 If you are in immediate danger, call 911.
-Law Enforcement Officers will be on the way.
-I’m always proud to see Lysetta Putnam, Executive Director, and her incredible team continuing this important work.
-I’m also proud to have served on the Independence House Board of Directors and to continue as an ambassador supporting their mission.
-Keep up the great work, Independence House!
-I look forward to seeing everyone next week at the ribbon-cutting ceremony for the new building.
-Let’s keep looking out for one another, raising awareness, and being the light someone may desperately need.
-God bless! 🇺🇸❤️🙏 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #DomesticViolenceAwareness #Barnstable #Bourne #Sandwich #CapeCod #Massachusetts #MaPoli #ProtectTheCape Independence House, Inc.
-Hyannis, MA The National Network to End Domestic Violence National Domestic Violence Hotline Massachusetts State 911 ...
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 18th GOOD MORNING, HAPPY CAPE COD, FIGHTIN’ FIFTH!
+It’s going to be a beautiful, bright and sunshiny Sunday on Cape Cod, and I can’t think of a better way to spend the morning than supporting our K9 heroes!
+TODAY IS THE FIRST ANNUAL K9 5K IN BOURNE!
+Join us at Bourne Middle School for opening ceremonies at 9 AM, with the 5K kicking off at 10 AM.
+It’s a loop course through the neighborhood, starting and finishing right at the school.
+We’ll have prizes, our hero K9s, K9 handlers, and a whole lot of support for the men, women, and four-legged heroes who serve and protect us every day.
+These dogs put their lives on the line for us.
+This is our chance to say THANK YOU to these incredible K9s and their handlers and show them how much our community appreciates everything they do.
+I’m proud to support our K9s and their handlers, and I hope you’ll join us for this special event.
+SEE YOU AT 9 AM IN BOURNE! 🇺🇸💙 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Police #Military #K9 #Barnstable #Bourne #Sandwich #CapeCod #Massachusetts #MaPoli #ForSean K9 PTSD Center Healing Dakota K9 Flexx and Retired/Police K9 Mr.
+Warner.
+K9 Kitt Foundation Nero Our K9 Hero Rehoboth K9 Edo Yarmouth Police Dept.
+Braintree Police Department Springfield Police Department Massachusetts State Police The Nicholas G.
+Xiarhos Memorial Fund ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 17th THANK YOU!
+Today, while I was out putting up campaign signs in Buzzards Bay, my heart stopped when I saw two little dogs with leashes running loose in the street near Mezza Luna Restaurant on the busy main road.
+I pulled over, jumped out, and tried to catch them before they got hit by a car.
+Another man came running over, and when I asked if they were his dogs, he said, “No, I’m trying to catch them, too!” Then a wonderful waitress from Mezza Luna came running out to help.
+The three of us worked together to guide the dogs safely back toward the parking lot.
+Thankfully, we spotted a yellow pickup truck with the driver’s door wide open, and the dogs went right back inside.
+We shut the door and made sure they were safe.
+I went inside Leo’s Restaurant next door and asked if anyone owned the yellow truck.
+A gentleman jumped right up and came outside.
+He was so thankful to have his two dogs back!
+He explained that the door on his older truck had apparently come open for the second time.
+I didn’t get everyone’s names, but I want to say THANK YOU to that gentleman and the wonderful waitress who jumped in to help.
+We all worked together, and those two little dogs are safe tonight!
+That’s how Buzzards Bay rolls!
+Great people, two great restaurants side by side, and folks who stop what they’re doing to help others.
+Today, that meant helping save two little dogs.
+Have a wonderful Saturday night, everyone.
+Hope to see you tomorrow morning at 9 AM at Bourne Middle School for the K9 PTSD Run in the great town of Bourne!
+Dogs rule! 🇺🇸❤️🐶🐶🐾🐾😊 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ProudAmerican #Barnstable #Bourne #Sandwich #BuzzardsBay #Dogs #CapeCod #Massachusetts #MaPoli MEZZA LUNA RESTAURANT K9 PTSD Center ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 17th DONE!
+MISSION ACCOMPLISHED!
+Signs are up at all three early voting locations in Barnstable, Bourne, and Sandwich, along with signs in supporters’ yards!
+I also had a chance to vote early in person, and it was great!
+No lines, and everyone was very gracious.
+Early in-person voting works!
+If you haven’t voted yet and want to vote early in person, you have the next two weeks.
+Here’s where to go if you live in the Fightin’ Fifth: BARNSTABLE: The Town Hall Annex on Main Street in Hyannis SANDWICH: The Sandwich Center for Active Living on Quaker Meeting House Road BOURNE: The Bourne Veterans Memorial Community Center on Main Street in Buzzards Bay Please take the time to vote, whether early in person, by mail, or on Election Day.
+Have a wonderful day, Cape Cod!
+Thank you for your support.
+Proud to be your State Representative!
+God bless 🇺🇸😊🗳️👏🏻 #RepX #Fightin5th #CommonSenseLeadership #ProudAmerican #ServiceBeforeSelf #Vote #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli Town of Barnstable Town of Sandwich, MA ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
-October 16th TODAY, WE STAND TOGETHER AGAINST DOMESTIC VIOLENCE.
-I’m here at the annual Independence House Domestic Violence Awareness Breakfast at Margaritaville in Hyannis.
-This is an incredibly informative and interactive event that reminds us how abuse can happen in many different ways and how, if left unchecked, it can tragically lead to death.
-Please take a moment to look at these displays, learn the warning signs, and remember that help is available.
-If you or someone you know needs help, please reach out.
-You are not alone, and we are here to help.
-Thank you to Independence House for the important work you do every single day.
-God bless. 🇺🇸🙏 #RepX #Fightin5th #CommonSenseLeadership #ProudAmerican #ServiceBeforeSelf #WearRedFriday #Barnstable #Sandwich #Bourne #DomesticViolenceAwareness #CapeCod #Massachusetts #MaPoli Independence House, Inc.
-Hyannis, MA ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 16th GOOD MORNING, HAPPY WEAR RED FRIDAY IN THE FIGHTIN’ FIFTH!
-It’s going to be a GREAT day!
-Please try to wear something RED today to Remember Everyone Deployed across our nation and around the world, serving and protecting America.
-We remember our brave troops, along with the families who are so proud of them and worry about them every single day.
-I know I’ll be wearing some RED today!
-A special shout-out to all our troops, past, present, and future.
-We are proud of you, we support you, and we thank you for your service and sacrifice!
-Have a fantastic Fightin’ Fifth Friday, everyone!
-Hope to see you somewhere in and around the district.
-God Bless 🇺🇸😊🫡 #RepX #Fightin5th #ProudAmerican #CommonSenseLeadership #ServiceBeforeSelf #WearRedFriday #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli Support Our Troops - Wear Red Friday's ...
+October 17th Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 17th GOOD MORNING, HAPPY SATURDAY, CAPE COD!
+Early voting in person begins TODAY all across the Commonwealth, including right here in the three great towns I’m proud to represent: Barnstable, Bourne, and Sandwich!
+Your vote matters!
+Whether you’ve already voted by mail, plan to vote early in person, or will vote on Election Day, November 3rd, please take the time to make your voice heard.
+I’d be honored to earn your vote so I can continue serving you, our communities, and the Commonwealth.
+Proud to be your Representative in the Great Fightin’ Fifth!
+Have a GREAT Cape Cod Saturday!
+God bless! 🇺🇸😊🗳️ #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Barnstable #Bourne #Sandwich #Vote #CapeCod #Massachusetts #MaPoli Town of Barnstable Town of Sandwich, MA ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.

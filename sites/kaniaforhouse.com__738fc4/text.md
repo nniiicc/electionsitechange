@@ -1,4 +1,5 @@
-About Schedule Issues In the News Contact DONATE Working together for Minnesota.
+About Schedule Issues In the News Contact DONATE Rooted in community.
+Ready to serve.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.

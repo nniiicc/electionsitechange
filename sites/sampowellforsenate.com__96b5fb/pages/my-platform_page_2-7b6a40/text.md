@@ -1,4 +1,42 @@
-Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform My Platform “Clothed and in their right mind…” I told you a little about my background.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform My Platform Don’t look away It’s exhausting.
+And I know that most just want to look away.
+“I just can’t deal with politics” But this isn’t politics.
+It’s the soul of a nation that is rotting from the inside.
+It’s the soul of a rotting corpse making its last hurrah.
+We turned the other way when Emmett Till was tortured and killed.
+We turned the other way at the lynchings and vicious cruelty of slavery.
+We turned the other way when husbands locked their wives in asylums for disagreeing with them I want to say, “It’s just politics.” But that seems like the privilege of an older white male.
+They aren’t coming after me yet.
+I’m not LGBTQ.
+I’m not Mexican or Native.
+I’m not brown-skinned.
+I’m not a child, not Palestinian, not POC, not a woman.
+It’s only privilege that gives me the choice to look away.
+But something in me can’t.
+My enemies tell me that it is just because I crave attention.
+But I think I can do without that attention.
+My body just wants to sit in my library and read.
+I didn’t want to flee my home and my church.
+But something in me can’t keep quiet.
+I just can’t watch human beings suffer unseen and unheard.
+I can’t say, “No one notices you.
+Neither do I notice you.
+Be warmed and fed.” It seems to me that we are experiencing the last hurrah of a horrible past.
+We are experiencing the full-on hatred of weak white men whose power is challenged, whose world-view proved as flimsy as a spider’s web, falling apart while feasting on the blood of prey.
+Eventually it collapses.
+It is exposed.
+It falls to ruin.
+The mouth of the wicked is never satisfied.
+47 will never be satisfied.
+He will continue to consume and destroy, demanding more and more accolades and statues seeking to fill the emptiness of desperate narcissism.
+It never gets enough, and eventually the web collapses.
+It seems to me this is what is happening.
+The spirit that drove the puritans to kill and banish the outsiders, the spirit that bought and sold humans, the spirit that whipped the maidens and the field-workers for fun, the spirit that tortured and killed the uppity ones, the spirit that locked the wives away and raped the boys and girls – that spirit is giving its last dying, murderous gasp.
+Don’t look away now.
+The web is collapsing.
+Your vote this year is absolutely crucial.
+We can’t look away.
+Author Sam Powell Posted on July 26, 2026 Categories Uncategorized Leave a comment on Don’t look away “Clothed and in their right mind…” I told you a little about my background.
 I was the 2nd son of 6 boys in a fundamentalist, Christian nationalist church.
 We feared hippies, people of color, people with long hair and people who voted McGovern over Nixon.
 We called them communists.

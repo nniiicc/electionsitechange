@@ -1,4 +1,5 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • August 13, 2026 An independent voice with a seat at the table I’m a middle child and a redhead, so naturally I’m a little feisty.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Editorial • August 19, 2026 Zoning and development decisions should be made locally I oppose the six-story, 176-unit development proposed for Western Junior Highway in Greenwich’s Byram neighborhood.
+The project appears dramatically out of proportion with the surrounding… Read more… Newsletter • August 13, 2026 An independent voice with a seat at the table I’m a middle child and a redhead, so naturally I’m a little feisty.
 I think that will come in handy in Hartford.
 Why?
 Because my… Read more… Newsletter • August 6, 2026 A better commute is possible Connecticut needs to prioritize transportation — both our trains and our roads.
@@ -11,7 +12,5 @@ And now this week, Eversource filed… Read more… Newsletter • July 9, 2026 
 Read more… Newsletter • July 2, 2026 Happy 4th of July Nearly #ago, a group of Americans came together to found a country based on principles that, at the time, were considered extraordinary… Read more… TV Appearance • June 27, 2026 Jill on Power and Politics Don’t miss Jill’s appearance on News 12’s Power and Politics with Mark Sudol.
 They discussed why Jill’s running, her legal background and even ventured into… Read more… Newsletter • June 25, 2026 What America means to my family I learned what public service looks like by watching my parents and grandparents live it every day.
 My father, a Vietnam veteran and Bronx OB-GYN,… Read more… Newsletter • June 18, 2026 Congratulations, Class of 2026!
-As graduation ceremonies take place this week across Greenwich, Stamford, and New Canaan, I want to extend my heartfelt congratulations to the Class of 2026… Read more… Radio appearance • June 17, 2026 Jill on the Lisa Wexler Show Lisa Wexler spoke with Jill about her path to public service, new legislation, fiscal discipline, and the 36th State Senate District.
-Take a listen.
-Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+As graduation ceremonies take place this week across Greenwich, Stamford, and New Canaan, I want to extend my heartfelt congratulations to the Class of 2026… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

@@ -1,4 +1,8 @@
-0 Skip to Content About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Lisa District 31 Get Involved Priorities Voting Endorsements Folder: Learn More Back Stories Data Center Nicole Contact CONTRIBUTE Voting Election Day Tuesday, November 3, 2026, 7am-7pm Absentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
+0 Skip to Content About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Stories Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Lisa District 31 Get Involved Priorities Voting Endorsements Folder: Learn More Back Stories Data Center Nicole Contact CONTRIBUTE Voting Election Day Tuesday, November 3, 2026, 7am-7pm Expanded Early Voting Saturday, October 17—Saturday, October 31 There are 20 Early Voting Convenience Centers in Bernalillo County.
+Early Voting centers are open from Monday through Saturday, 10am to 7pm.
+All Early Voting Locations can be found here .
+The Early Voting Location closest to House District 31 is: Holly Plaza, 6600 Holly Ave NE.
+Suite: Suite B6, Albuquerque, NM 87113 Absentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
 It is easy to request your absentee ballot online .
 Ballots will be mailed out beginning on October 6.
 On Tuesday, October 6, you can also vote In-Person (Absentee) at the Clerk’s Annex at 1500 Lomas Blvd NW , Suite A .
@@ -10,11 +14,7 @@ Hand deliver your absentee ballot to any Early or Election Day polling site begi
 Drop off your absentee ballot at any of the six ballot drop-off locations in Bernalillo County, found here .
 All absentee ballots must be received by 7:00 p.m. on Election Day, Tuesday, November 3.
 Tuesday, October 27, 2026 is the last day we recommend mailing a ballot back to our office.
-Expanded Early Voting Saturday, October 17—Saturday, October 31 There are 20 Early Voting Convenience Centers in Bernalillo County.
-Early Voting centers are open from Monday through Saturday, 10am to 7pm.
-All Early Voting Locations can be found here .
-The Early Voting Location closest to House District 31 is: Holy Plaza, 6600 Holly Ave NE.
-Suite: Suite B6, Albuquerque, NM 87113 Register to Vote Same Day Registration (SDR) opens at all Early or Election Day voting locations.
+Register to Vote/Same Day Registration Same Day Registration (SDR) opens at all Early or Election Day voting locations.
 Please bring proper ID toupdate your voter registration or to register to vote.
 Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
 Election Day Tuesday, November 3, 2026, 7am-7pm There are 72 Voting Locations in Bernalillo County.

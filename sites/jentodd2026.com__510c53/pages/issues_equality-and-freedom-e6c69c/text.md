@@ -1,4 +1,4 @@
-Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Equality and Freedom Immigration Equality and Freedom Families across this district don’t all look the same, but we all share the same needs: safety, stability, and opportunity.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Equality and Freedom Immigration Equality and Freedom Families across this district don’t all look the same, but we all share the same needs: safety, stability, and opportunity.
 In this campaign and, if elected to Congress, my focus is on strengthening families, not labeling or stigmatizing them.
 As a nurse and a mom, I’ve seen firsthand that dignity and respect aren’t abstract values; they’re what keep people safe, healthy, and supported.
 I’ve also seen what happens when people are told, directly or indirectly, that their lives matter less than others.

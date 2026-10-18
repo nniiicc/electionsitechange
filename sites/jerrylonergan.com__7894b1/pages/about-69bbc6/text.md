@@ -1,4 +1,4 @@
-Skip to content Home About Values Contact Donate Donate Donate Donate Home About Values Contact My Background High School Graduation Grain Sampler Wedding Graduation, Work, and a Wedding I graduated from Sacred Heart High School in my hometown of Salina, KS.
+Skip to content Home About Five Steps Contact Donate Donate Donate Donate Home About Five Steps Contact My Background High School Graduation Grain Sampler Wedding Graduation, Work, and a Wedding I graduated from Sacred Heart High School in my hometown of Salina, KS.
 I didn’t have initial college success and could not pass the draft physical due to football surgeries.
 I worked as a laborer for seven years building grain bins, serving as a grain sampler, working the night shift on a truck dock, and working at a pre-cast concrete plant.
 Then I met and married my wife, Nancy Repp.

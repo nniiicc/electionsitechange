@@ -11,7 +11,7 @@ I’m grateful to have local leaders like Richard in my corner as I work to make
 Thank you for your support and for the work you do to serve and protect our communities.
 Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas “A front-door conversation turned into new friends joining us on the campaign trail!
 While knocking on doors in Hoffman Estates with Village Trustee Gary Pilafas, we met some neighbors who Prev Previous Do You Know Where to Vote?
-Next Door Knocking in Hoffman Estates with Village Trustee Gary Pilafas Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+Next [Chicago Tribune Endorsement] Editorial: Darby Hills for Illinois 26th Senate District Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

@@ -38,4 +38,3 @@ Learn More About The Bill Here Contact Me More than happy to answer any question
 Please use this form to send me an email and I will follow up with you as soon as I can.
 We need Volunteers!
 Just select “YES” on the “I’D LIKE TO VOLUNTEER” option and send us your contact information and we’ll follow up with you on how best you can help us out!
-Will Campbell for Texas House of Representatives District 109 South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

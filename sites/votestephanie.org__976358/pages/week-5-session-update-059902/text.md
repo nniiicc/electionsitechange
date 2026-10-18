@@ -33,4 +33,8 @@ Let the countdown begin!
 Educating the Future This week, the House passed HB381 Civics Education Amendments.
 This bill bolsters civics education by adding a social studies graduation requirement, requiring specific civics-related instruction, and removing outdated testing mandates.
 By focusing on comprehensive civics education, we strive to prepare students for active and informed participation in our democratic processes.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 11 + 12 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts Back to School: Supporting Teachers, Student Success & Empowering Parents!
+Best Overall State, Savings Across the Board, Digital Transparency, and More!
+250 Years of Freedom and Prosperity!
+Leading the Nation, Energy Wins, and More!
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 7 + 10 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

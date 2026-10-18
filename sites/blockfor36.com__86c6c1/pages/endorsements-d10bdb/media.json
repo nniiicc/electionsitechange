@@ -45,6 +45,7 @@
 "img://static.wixstatic.com/media/6c8408_d8ae3c7aa25c4a92a5f1713bdfedb2e5~mv2.jpeg",
 "img://static.wixstatic.com/media/6c8408_da6f0f6d8e97492a98c3632c70fff26b~mv2.png",
 "img://static.wixstatic.com/media/6c8408_e2a167e208a24794a9a57ebb78def8ae~mv2.png",
+"img://static.wixstatic.com/media/6c8408_fa707809029f40f8832e8ad9f0a92e79~mv2.png",
 "img://static.wixstatic.com/media/6c8408_fc317d9bf58a410ca961a684cde34a8d~mv2.jpg",
 "img:enc_avif",
 "img:h_1080",
@@ -54,6 +55,7 @@
 "img:h_1920",
 "img:h_2400",
 "img:h_447",
+"img:h_455",
 "img:h_480",
 "img:h_499",
 "img:h_601",
@@ -78,5 +80,6 @@
 "img:quality_auto/6c8408_c747a0a5744543f9811d18331ddce493~mv2.png",
 "img:quality_auto/6c8408_c7836cbc5c154bad99fbfb443d68a071~mv2.png",
 "img:quality_auto/6c8408_d8ae3c7aa25c4a92a5f1713bdfedb2e5~mv2.jpeg",
+"img:quality_auto/6c8408_fa707809029f40f8832e8ad9f0a92e79~mv2.png",
 "img:quality_auto/6c8408_fc317d9bf58a410ca961a684cde34a8d~mv2.jpg"
 ]

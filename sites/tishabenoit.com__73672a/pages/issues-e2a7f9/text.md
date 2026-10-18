@@ -66,6 +66,7 @@ I reject that choice.
 Border security means adequate Border Patrol personnel, technology, physical barriers where they're effective, surveillance, roads and infrastructure, and stopping fentanyl, trafficking and criminal organizations from entering this country.
 Arizona understands this better than Washington because we live with the consequences.
 But our immigration system itself also needs reform.
+Creating opportunities instead of dependency on welfare empowers people to live with dignity and prosperity in their own countries, reducing the need to enter the United States illegally.
 Someone who wants to immigrate legally shouldn't have to navigate a dysfunctional system for years while people who ignore the process move ahead of them.
 We need faster immigration courts, faster decisions on asylum claims, stronger verification systems and a modern legal immigration system that responds to America's workforce needs.
 And Congress needs to do its job.

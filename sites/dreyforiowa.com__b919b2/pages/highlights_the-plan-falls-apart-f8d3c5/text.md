@@ -26,5 +26,6 @@ It would authorize a “continuing appropriation,” or essentially locking in s
 They’d get to blame the new governor for a deficient budget even though THEY walked away from the negotiating table.
 There are millions of Iowans who rely on the choices made at the Capitol, and this isn’t how a responsible legislature governs.
 It’s time for the majority party to admit their mistake, abandon this failed plan, and work to correct course for the people we all serve.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

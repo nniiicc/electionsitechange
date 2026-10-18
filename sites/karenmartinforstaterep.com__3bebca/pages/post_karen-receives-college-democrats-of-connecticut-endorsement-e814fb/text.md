@@ -8,7 +8,7 @@ Her priorities include making Connecticut more affordable, expanding access to h
 “Connecticut’s young people bring energy, new ideas, and an important perspective to public service,” Karen said.
 “As State Representative, I will listen to their concerns and work to make East Haven a place where the next generation can afford to live, work, build careers, and raise families.” Karen looks forward to working with the College Democrats of Connecticut to engage students and young voters throughout the campaign.
 Karen proudly thanks CDCT’s Executive Board, chapter leaders, and members for their endorsement and their commitment to building a stronger future for East Haven and Connecticut.
-Recent Posts See All Karen Receives CT Against Gun Violence Endorsement!
-Join us on Wednesdays...Notes for Votes!
-Rescheduled Grand Opening - East Haven DTC Headquarters!
+Recent Posts See All Karen Says Vote Early!
+Karen Receives Connecticut Citizen Action Group (CCAG) Endorsement!
+Karen Receives CT Against Gun Violence Endorsement!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

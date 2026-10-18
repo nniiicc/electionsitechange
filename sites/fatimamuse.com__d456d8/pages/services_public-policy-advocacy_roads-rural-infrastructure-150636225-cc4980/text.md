@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Roads & Rural Infrastructure Some roads get attention because they carry thousands of cars a day.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Roads & Rural Infrastructure Some roads get attention because they carry thousands of cars a day.
 Others get ignored because they run through a small town, a rural community, or the neighborhood that never seems to make it to the top of the list.
 R3 is for those roads.
 The Rural Road Revitalization Plan would help repair existing neighborhood streets and local roads in small towns, rural communities, unincorporated areas, and historically underserved neighborhoods where residents have lived with potholes, deteriorating pavement, and temporary patches for years.

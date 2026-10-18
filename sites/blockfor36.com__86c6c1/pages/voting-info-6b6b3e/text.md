@@ -1,0 +1,3 @@
+top of page VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE NOVEMBER 3, 2026 MAKE YOUR VOICE HEARD VOTE EARLY Monday, October 19 - Sunday, November 1 7:00 AM - 7:00 PM ELECTION DAY Tuesday, November 3, 2026 7:00 AM - 7:00 PM PLAN YOUR VOTE CONTRIBUTIONS CAN BE MAILED TO: 3949 Lone eagle place sanford, fl 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
+ALL RIGHTS RESERVED.
+Website by: Clover’s Creative Strategy & Design VOTE MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

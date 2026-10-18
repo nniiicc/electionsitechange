@@ -5,7 +5,10 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-ICYMI: Dr.
+New Ad: “Electronica” Lays Out Dr.
+Abdul El-Sayed’s Plan To Protect Michiganders From AI Press Release October 17, 2026 Dr.
+Abdul El-Sayed: “Big AI is spending big against me, because I’m for taking them on.” MICHIGAN – Today, the Abdul for Senate campaign released “Electronica,” a new digital ad highlighting Dr.
+Abdul El-Sayed’s plan to … ICYMI: Dr.
 Abdul El-Sayed and Congresswoman Alexandria Ocasio-Cortez Barnstorm Michigan’s Upper Peninsula Press Release October 16, 2026 MICHIGAN – Yesterday, Dr.
 Abdul El-Sayed and Congresswoman Alexandria Ocasio-Cortez joined Michiganders for events across the Upper Peninsula, stopping in to speak to a crowd of over 400 Escanaba, over 450 in Iron Mountain, and over … Dr.
 Abdul El-Sayed Responds to JD Vance: “We Believe in an America Big Enough for All of Us.” Press Release October 15, 2026 MICHIGAN – This evening, at a rally in Marquette, MI with over 1,300 Yoopers in attendance, Dr.
@@ -22,8 +25,7 @@ Abdul El-Sayed because he is the only candidate that will put Michigan first MIC
 Abdul El-Sayed and host Kristen Welker.
 The sitdown—which took place ahead of a town hall in Mount Pleasant—touched on … NEW AD: President Barack Obama Expresses His Support For Dr.
 Abdul El-Sayed’s Campaign Press Release October 12, 2026 President Obama: “I’m asking you to support Abdul El-Sayed for the United States Senate.
-Abdul’s a doctor, and he’s taken on special interests to fight for good jobs, better healthcare, and lower costs.” MICHIGAN – Today, … NEW AD: WAR Press Release October 10, 2026 Abdul: “Trump’s war abroad costs taxpayers a billion dollars a day” “Our schools crumble, our factories shutter, our gas prices skyrocket.
-But when they want war, billion dollar blank checks.” MICHIGAN – Today, the Abdul for … Load More 1 2 3 … 28 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Abdul’s a doctor, and he’s taken on special interests to fight for good jobs, better healthcare, and lower costs.” MICHIGAN – Today, … Load More 1 2 3 … 29 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

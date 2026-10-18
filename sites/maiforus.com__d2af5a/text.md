@@ -33,6 +33,6 @@ Good Jobs for Working Families Mai will fight for jobs that pay a living wage, s
 Human Rights, Even When It’s Hard Mai will fight to end the genocide in Gaza, reject AIPAC money, and invest our tax dollars in health care, housing, and jobs at home—not endless wars abroad.
 Safer Communities Mai will fight to free our neighborhoods from the terror of masked ICE agents and militarized law enforcement.
 She will work to fix our broken immigration system and protect our freedoms.
-Learn more Get A Lawn Sign × GET YOUR SHIRT Mai Vang Shows Up for Working Families Get the Facts About Mai In the News Are you in the NEW DISTRICT 7?
+Learn more Get A Lawn Sign × GET YOUR SHIRT Mai Vang Shows Up for Working Families Get the Facts About Mai In Her Own Words Mai Vang on CapRadio Insight with Vicki Gonzalez Mai Vang on The Majority Report with Sam Seder Mai Vang on Chopping Wood w/ Jess Craven Mai Vang on Breaking Point Mai Vang Interview with KCRA Ashley Zavala Mai Vang on Hasan Piker’s Twitch Stream WATCH HIGHLIGHTS FROM THE DEBATE In the News Are you in the NEW DISTRICT 7?
 The new CA7 includes the communities of: Sacramento Elk Grove South Sacramento Lodi Placerville Galt El Dorado Hills CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
 Suite 201, Sacramento, CA 95815

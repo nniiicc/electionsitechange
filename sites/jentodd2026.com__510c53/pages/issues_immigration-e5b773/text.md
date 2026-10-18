@@ -1,4 +1,4 @@
-Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Equality and Freedom Immigration Immigration Just saying the word “immigration” can turn a conversation into a confrontation these days.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Images and video Donate Equality and Freedom Immigration Immigration Just saying the word “immigration” can turn a conversation into a confrontation these days.
 I don't believe it has to.
 We can secure our borders, enforce our immigration laws, and still treat people with fairness and basic human dignity.
 We can believe people who are here without legal status must follow our laws and believe everyone deserves due process.

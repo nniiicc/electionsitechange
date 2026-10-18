@@ -1,5 +1,5 @@
 Home MEET JOSH Join the Team!
-Endorsements DONATE Vote No on Amendment 3 MEET JOSH When I ran for my first term in 2020, Rose was four and JJ was two.
+Endorsements DONATE MEET JOSH When I ran for my first term in 2020, Rose was four and JJ was two.
 We’ve added two more kids since then - Rebekah and Michael.
 But my reason for running hasn’t changed - How can I preserve the freedoms and opportunities I had for my children?
 How can I make Missouri the best place possible for them to grow up in, raise a family in, or find a job in?
@@ -15,4 +15,4 @@ Together, we live in the Diamond Crest subdivision in Smithville.
 Copyright © # Hurlbert for Missouri.
 All Rights Reserved.
 PAID FOR BY HURLBERT FOR MISSOURI, ASHLEY HURLBERT, TREASURER.
-Powered by GoDaddy Website Builder
+Powered by

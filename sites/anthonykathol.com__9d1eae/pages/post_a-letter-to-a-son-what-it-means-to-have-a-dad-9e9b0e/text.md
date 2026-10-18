@@ -52,7 +52,7 @@ Love, Your son, Anthony Source: (1) Chamie, J.
 (2025, January 13).
 America’s single-parent households and missing fathers .
 N-IUSSP.
-Retrieved on October 15, 2026, from https://www.niussp.org/family-and-households/americas-single-parent-households-and-missing-fathers/ Tags: Kathol for District 27 State Senate #GOP #Republican Parenting Raising a child Families without a father Fatherhood Recent Posts See All Celebrating My Mom’s 85th Birthday Real Men Love Babies A "Privileged" Upbringing on the Farm Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Retrieved on October 15, 2026, from https://www.niussp.org/family-and-households/americas-single-parent-households-and-missing-fathers/ Tags: Kathol for District 27 State Senate #Republican #GOP Parenting Raising a child Families without a father Fatherhood Recent Posts See All Celebrating My Mom’s 85th Birthday Real Men Love Babies A "Privileged" Upbringing on the Farm Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

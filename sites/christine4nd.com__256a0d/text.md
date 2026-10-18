@@ -1,4 +1,4 @@
-Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs We all want to do what we can for our great state of North Dakota.
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues Fargo Candidate Forum News Volunteer Contact Contribute Yard Signs October 17, 2026 We all want to do what we can for our great state of North Dakota.
 Learn more about our campaign and the ways you can help.
 Principled.
 Experienced.

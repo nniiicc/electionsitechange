@@ -19,5 +19,6 @@ Throughout the month, the Iowa Department of Education will be sharing stories t
 The Association of Community College Trustees (ACCT) has also created a toolkit with ideas and resources to help celebrate all month long.
 National Prescription Drug Take Back Day On Saturday, April 25 , individuals will have the opportunity to dispose of unused or expired prescription drugs at locations in communities throughout the country in a safe, convenient, and responsible way.
 Find a location near you .
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

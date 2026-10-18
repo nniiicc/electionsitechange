@@ -1,4 +1,4 @@
-Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Around the District The best way to understand District 2 is to spend time in its communities and listen to the people who call them home.
+Home About Priorities En Español Get Involved Contact Store DONATE DONATE Home About Priorities En Español Get Involved Contact Store Around the District The best way to understand District 2 is to spend time in its communities and listen to the people who call them home.
 Here are some of the people, places, and campaign moments from across Hunt, Hopkins, and Van Zandt counties.
 Dive Deeper Into My Vision Meet Fatima Read More Dr.
 Fatima La’Juan Muse is a medical family therapist, educator, small-business owner, and community advocate running for Texas House District 2.

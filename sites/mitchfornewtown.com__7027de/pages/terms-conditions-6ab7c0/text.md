@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Terms & Conditions By requesting, joining, agreeing to, enrolling in, signing up for, acknowledging, or otherwise consenting to receive one or more text messages from [SENDER] (“Sender”, “we”, “us”, “our”) through Sender’s messaging platform (“Platform”), you accept these Terms & Conditions (“Opt-In”).
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Terms & Conditions By requesting, joining, agreeing to, enrolling in, signing up for, acknowledging, or otherwise consenting to receive one or more text messages from [SENDER] (“Sender”, “we”, “us”, “our”) through Sender’s messaging platform (“Platform”), you accept these Terms & Conditions (“Opt-In”).
 Opting In: You authorize Sender to use auto dialer or non-auto dialer technology to send text messages to the cell phone number associated with your Opt-In (i.e., the number listed on the Opt-In form or instructions, or, if none, the number from which you send the Opt-In, or, if none, the number on file for the account associated with your Opt-In).
 You also authorize Sender to include marketing content in any such messages.
 You do not have to Opt-In or agree to Opt-In as a condition of purchase of any of Sender’s offerings.
@@ -26,4 +26,4 @@ By using or engaging with the Platform, you acknowledge and agree that you are n
 By using or engaging with the Platform, you also acknowledge and agree that you are permitted by your jurisdiction’s applicable laws, rules, and regulations to use and/or engage with the Platform.
 Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu
+Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

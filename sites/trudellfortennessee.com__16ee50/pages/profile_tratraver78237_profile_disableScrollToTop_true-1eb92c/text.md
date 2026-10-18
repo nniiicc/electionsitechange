@@ -10,4 +10,4 @@ In this blog post, we will explore the importance of supporting public schools, 
 Hilary Trudell's mission stands as a beacon of hope for those who believe in equality and justice for all.
 By volunteering for her cause, you can play a vital role in defending civil rights and making a tangible difference in your community.
 This blog post will explore the importance of civil rights, the impact of volunteering, and how you can get involved in Hilary...
-13 0 bottom of page
+14 0 bottom of page

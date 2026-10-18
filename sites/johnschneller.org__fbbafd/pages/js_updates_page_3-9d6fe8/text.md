@@ -1,4 +1,8 @@
-john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Stop Press!
+Trump Pledges to Revive PA-to-NY Constitution Pipeline Feb 17, 2025 I hope all Bedfordites have adequate heating at a reasonable cost to heat their homes this winter.
+As I knocked on many doors this summer and fall to ask what concerns my fellow Bedfordites, high and volatile energy costs were at the top of the list.
+I share that...
+Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
 Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which...
 Democrats Are About to Make California Gas Even More Expensive Nov 4, 2024 “On Nov.
 8, three days after Election Day, the California Air Resources Board, a notionally independent agency whose appointees are controlled by the Democratic Party,” will likely implement stringent new fuel standards next year.
@@ -27,8 +31,7 @@ Lower taxation stimulates...
 Amazon Gets Involved Oct 16, 2024 Now Amazon is getting in the game.
 We can bring Nuclear energy to New Hampshire along with more robust natural gas solutions and we can bring them sooner rather than later.
 I will immediately propose a bipartisan effort to make this happen.
-This no longer takes...
-On Energy: Google Will Help Build Seven Nuclear Reactors to Power Its AI Systems Oct 15, 2024 Google understands exactly what should be at the cornerstone of New Hampshire’s forward-looking energy program.
-We can SOLVE our energy cost problem as well as ensure New Hampshire’s energy security if we simply deploy a number of Small Nuclear Reactors.... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+This no longer takes... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

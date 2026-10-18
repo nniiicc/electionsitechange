@@ -2,11 +2,18 @@ About Issues Media Events Get Involved Shop Donate About Issues Media Events Get
 Speak out.
 Meet Eric, connect with neighbors, and help build the people-powered movement Florida’s Sixth deserves.
 06 Florida Get involved Campaign calendar Select a highlighted day to see where Team Yonce will be next.
-October 2026 Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1 17 4 18 4 19 20 3 21 22 3 23 2 24 3 25 4 26 27 3 28 29 3 30 1 31 3 Days with campaign events Selected date Friday, October 16, 2026 1 event 5:00 PM EDT – 7:00 PM EDT All Hands On Deck - Rally Prep Party! ● Marion Democratic Party Headquarters Event details 🚨 ALL HANDS ON DECK! 🚨 We’re getting ready to VOTE EARLY, organize, and WIN! 💪🇺🇸 Join us for a Rally Prep Party as we get everything ready for democracy — stuffing bags, making signs, and building the energy we need to hit the ground running! 🎨 Bag Stuffing + Sign Making for Democracy📅 Friday, October 16⏰ 5–7 PM📍 970 SW 6th Ave, Suite 108, Ocala Bring your friends, bring your energy, and bring your creativity!
-Whether you’re a longtime volunteer or brand new to the team, there’s a place for you. 🔥 Let’s get organized.
-Let’s get loud.
-Let’s get out the vote!
-ALL HANDS ON DECK! 🗳️💙 RSVP now Not seeing an event near you?
+October 2026 Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 3 19 20 3 21 22 3 23 2 24 3 25 4 26 27 3 28 29 3 30 1 31 3 Days with campaign events Selected date Sunday, October 18, 2026 3 events 1:00 PM EDT – 2:00 PM EDT Online Team Yonce Meetings- Sunday Edition! ● Virtual event Event details Team Yonce Assemble!
+Whether you are in the district or helping long distance, here's a chance to connect and learn what is going on and how you can help!
+We will have volunteer briefings every Sunday at 1 pm via Zoom!
+Bring a friend and get ready to fire Randy Fine and elect Eric Yonce!
+RSVP now 4:00 PM EDT – 7:00 PM EDT Canvass | St Johns | St Augustine Shores ● Dunkin' Event details Join us on in St Johns County as we head out to fight for democracy!
+These events are a chance to organize and train anyone who is new to canvassing 🙂 If you have already been trained, this is an opportunity to stop by to pick up more supplies, but you are welcome to knock on doors on your own schedule!
+Ongoing Schedule: Sundays @ 4 pm, meet at the Dunkin' in front of the St Augustine Shores Tuesdays @ 5pm, meet at the Kookaburra Dondi on A1A &amp; Dondanville Road Saturday 9/19 &amp; 9/26 More dates coming soon!
+Get ready beforehand by downloading the Minivan app and creating an ActionID account - Google Play Store - Apple App Store Be sure to wear comfy shoes and dress for outside weather 🌞 The location is chosen as a point of contact and does not signify an endorsement.
+Please be aware of where you park, utilizing public parking if available, and look for anybody in a Yonce shirt after arriving!
+RSVP now 6:00 PM EDT – 7:00 PM EDT Phonebank | Virtual | Sundays ● Virtual event Event details Join Team Yonce Sundays at 6pm over Zoom to learn how to phone bank and make calls with the Eric Yonce campaign!
+Eric Yonce is running for US House of Representatives in Florida's 6th Congressional District.
+Learn more about Eric Yonce here: yonceforcongress.com Get involved with the campaign here: act.yonceforcongress.com RSVP now Not seeing an event near you?
 Help bring the movement to your community.
 Volunteer with us Support the campaign Prefer to donate by mail?
 Please mail donation checks to: Eric Yonce for U.S.

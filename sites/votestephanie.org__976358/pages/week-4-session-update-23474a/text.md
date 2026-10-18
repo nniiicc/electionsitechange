@@ -31,4 +31,4 @@ Honoring Seraph Young Recent Posts Back to School: Supporting Teachers, Student 
 Best Overall State, Savings Across the Board, Digital Transparency, and More!
 250 Years of Freedom and Prosperity!
 Leading the Nation, Energy Wins, and More!
-Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 11 + 15 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 11 + 5 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

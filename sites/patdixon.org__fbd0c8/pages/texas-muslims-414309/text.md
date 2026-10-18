@@ -16,7 +16,7 @@ The organizers say it is paid for by tickets salesf or the event, and similar Ch
 Every Texan is an individual with the same rights as every other Texan.
 If you have not harmed others, the governor of Texas should recognize your liberty and defend your rights.
 Bookmark .
-Exonerate Robert Roberson Non-Partisan Redistricting 7 Comments Ariel June 6, 2026 at 01:08 “There is a perception that Muslims are not native and are terrorists.” This is NOT a perception, but an unmitigated fact.
+Exonerate Robert Roberson Non-Partisan Redistricting 8 Comments Ariel June 6, 2026 at 01:08 “There is a perception that Muslims are not native and are terrorists.” This is NOT a perception, but an unmitigated fact.
 They will lie to your face to protect their political ideology and mask it as a “religion” while politicians like Pat Dixon try to defend it under our Constitution, knowing good and well that no muslim respects our Constitution, let alone ANY American laws, traditions, culture, etc… Trying to equate muslims to Americans is wrong on so many levels.
 Their intent is not to assimilate and become “good, upstanding Americans”, but to lie remorselessly while politicians give them free reign over us and they will stay silent until they have outbred Americans and then they will attack and dominate us.
 If you or anyone else believes otherwise, you are fooling yourselves into believing a horrendous lie!
@@ -52,5 +52,5 @@ Reply Charly W.
 September 3, 2026 at 19:04 There are many people who are native to the US and are Muslim.
 What a hateful thing to spew.
 Reply patdixon September 3, 2026 at 19:11 Charly, I assume you oppose the statement from Ariel and support my policy statement?
-Reply Pingback: Biblical Principles Pingback: Clarifications on “Texas Muslims” Leave a Reply Cancel reply Your email address will not be published.
+Reply Pingback: Biblical Principles Pingback: Clarifications on “Texas Muslims” Sajjad Nasir October 16, 2026 at 17:12 Pat the issue with “Apostasy” that when a Muslim leaves that faith and is so posed to be killed is not a black and white issue and Scholars says it not when a person leaves the faith. it is a different issue https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

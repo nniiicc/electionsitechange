@@ -24,11 +24,16 @@ NC State, May 2026; Post and Courier.
 The Senate’s vote: SC Daily Gazette, May 5, 2025.
 Last year the Senate voted to make data centers pay their own way.
 The House took that out.
+Guess who pays instead.
+I’m running for the House to fix that and protect your pocketbook.
 Traffic The fix for I-526 has no money and no start date.
 Hanahan Daniel Island Cainhoy North Charleston Mount Pleasant Cooper River Wando River I-526 Clements Ferry Road North Rhett Ave.
 Don Holt Bridge Hwy 41 As in 2015 7,500 more a day, or over Pick a road to see its traffic.
 2025 2015 2025 2030 Counted by the state 2030, and still no plan.
-I-526 Virginia Avenue to Clements Ferry Road, over the Don Holt Bridge I-26 to Rivers Avenue Rivers Avenue to North Rhett Avenue North Rhett Avenue to Virginia Avenue Virginia Avenue to Clements Ferry Road, over the Don Holt Bridge Clements Ferry Road to Seven Farms Drive Seven Farms Drive to Long Point Road, over the Wando bridge South of I-526 I-526 to Jack Primus Road Jack Primus Road to Cainhoy Road Cainhoy Road to Reflectance Road Reflectance Road to Highway 41 The Wando to Clements Ferry Road Clements Ferry Road to Baldwin Corner Road The county line to Yeamans Hall Road Yeamans Hall Road to North Pointe Industrial Boulevard North Pointe Industrial Boulevard to Red Bank Road Highland Park Road to Yeamans Hall Road Yeamans Hall Road to the county line The county line to North Rhett Avenue 75,200 vehicles a day in 2025, up from 68,900 in 2015 2015 2025 2030 My plan is another way to get there, by ferry, bus or rail.
+I-526 Virginia Avenue to Clements Ferry Road, over the Don Holt Bridge I-26 to Rivers Avenue Rivers Avenue to North Rhett Avenue North Rhett Avenue to Virginia Avenue Virginia Avenue to Clements Ferry Road, over the Don Holt Bridge Clements Ferry Road to Seven Farms Drive Seven Farms Drive to Long Point Road, over the Wando bridge South of I-526 I-526 to Jack Primus Road Jack Primus Road to Cainhoy Road Cainhoy Road to Reflectance Road Reflectance Road to Highway 41 The Wando to Clements Ferry Road Clements Ferry Road to Baldwin Corner Road The county line to Yeamans Hall Road Yeamans Hall Road to North Pointe Industrial Boulevard North Pointe Industrial Boulevard to Red Bank Road Highland Park Road to Yeamans Hall Road Yeamans Hall Road to the county line The county line to North Rhett Avenue 75,200 vehicles a day in 2025, up from 68,900 in 2015 2015 2025 2030 Fix I-526 .
+Then give us another way around.
+I’ll work with Columbia, Washington and the neighborhoods along the interstate to find the money.
+And I’d make the builders who bring the traffic pay their share of the roads, a rush-⁠hour ferry and trains on the tracks we already have.
 Every road’s count, 2015 to 2025 Replacing the Don Holt is part of a $4 billion plan with nobody named to pay for it.
 SCDOT traffic counts, station 2517.
 The Daniel Island News, May 1, 2024.

@@ -1,4 +1,5 @@
-0 Skip to Content Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE How to Vote When is the election?
+0 Skip to Content Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE Open Menu Close Menu Issues How to Vote Volunteer Meet Michael DONATE How to Vote Rank Bowles First!
+When is the election?
 1 Election Day is November 3, 2026.
 Polls are open from 7am to 8pm.
 Find your Polling Place here.
@@ -13,4 +14,5 @@ What about Rank Choice Voting?
 Be sure to “Rank the Red” in all races and Vote YES on ballot 2 to remove rank choice voting from Alaska!
 What else is on the ballot?
 4 View the sample District 25 ballot here.
-Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645
+Meet Michael Volunteer Donate Contact Issues How to Vote CONNECT info@electmichaelbowles.com Privacy Policy Terms of Service Rank Bowles First!
+Alaska House of Representatives District 25 Serving the Greater Palmer Area Palmer, Lazy Mountain, Butte, South Knik River Paid for by Michael Bowles For Alaska PO Box 2264 Palmer, AK 99645

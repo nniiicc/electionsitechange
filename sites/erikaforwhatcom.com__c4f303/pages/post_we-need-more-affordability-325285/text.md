@@ -70,7 +70,6 @@ Together, they determine whether a family can afford to build a stable life in W
 My approach is to look at those pressures together: increase housing supply responsibly, strengthen opportunities for living-wage employment, improve access to healthcare and education, and demand greater accountability for how state government spends taxpayer dollars.
 This will help make Whatcom County a place where people can afford to live, work, raise a family, build a career, and retire.
 I am running to represent Democrats, Independents, and Republicans alike and I am committed to supporting policies that improve quality of life for everyone in the 42nd District.
-Recent Posts See All What's Up With the Heart?
+Recent Posts See All Check My Record, Not the Mailer What's Up With the Heart?
 Dr.
-Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Dr.
-Erika Creydt Advances to the General Election With Growing Grassroots Momentum Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page
+Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About About Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

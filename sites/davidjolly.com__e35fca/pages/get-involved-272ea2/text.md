@@ -8,10 +8,10 @@ Volunteer Knock on doors, make calls, register voters.
 Plug in with the team organizing near you.
 Volunteer → Join a coalition From veterans and union workers to Gen-Z and Hispanos con Jolly, find your community in the movement.
 Join → Join your county team Find your county and join the team organizing right where you live.
-Find your county → This week across Florida Here are some of the ways to help this week.
-Knock doors or make calls, Friday, Saturday and Sunday, across Florida and from anywhere.
+Find your county → This weekend across Florida Here are some of the ways to help this weekend.
+Knock doors or make calls, Saturday and Sunday, across Florida and from anywhere.
 Pick a county on the map, or take a phone bank you can join from your couch.
-See every event this week Every door.
+See every event this weekend Every door.
 Every call.
 Every conversation.
 That's how this is won.

@@ -21,7 +21,8 @@ Tom is a husband, father, grandfather, and longtime community volunteer who beli
 He plans to hold regular open office hours and build strong partnerships with cities and towns to address housing affordability, strengthen public health and healthcare access, and ensure every child feels welcome and supported in our public schools.
 At a moment when many people feel unheard, Tom is running to bring thoughtful, steady leadership and a deep commitment to service to the 9th Norfolk District.
 Voting Information Make a plan to vote!
-Election Day November 3 Early In-Person Voting October 17 - 30 Mail-in Voting Apply by October 24 Check if you're registered to vote Register to vote Request a mail ballot Early voting locations See what's on your ballot VOTE411.org Team Tom Needs You!
+Election Day November 3 Early In-Person Voting October 17 - 30 Mail-in Voting Request by October 27, 5 PM Check if you're registered to vote Register to vote by October 24 Request a mail ballot Early voting locations See what's on your ballot VOTE411.org When, Where, How do I Vote?
+Team Tom Needs You!
 HELP TOM WIN!
 Canvass with Tom!
 Sign up here to knock on doors with Tom from now until November 3rd.

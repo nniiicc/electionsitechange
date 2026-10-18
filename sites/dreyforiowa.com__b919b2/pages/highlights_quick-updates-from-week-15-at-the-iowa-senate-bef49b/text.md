@@ -20,5 +20,6 @@ Liquid products, such as cough syrup, should be securely sealed in their origina
 As part of the National Prescription Drug Take Back program, the DEA also collects vaping devices and e-cigarettes with their batteries removed.
 For more information or to find a site near you, visit dea.gov/takebackday .
 Bike to Work Day Join the Siouxland Chamber of Commerce for Bike to Work Day on May 15 at 10 Pierce Street for a free commuter breakfast, health & fitness vendors, giveaways, and prize drawings from 6:30 to 8:30 am.
-Share this post Keep reading Headed to Overtime in the Iowa Senate Reflections on the Iowa Legislative Session info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

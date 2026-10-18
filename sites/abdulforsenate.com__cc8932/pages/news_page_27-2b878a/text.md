@@ -5,29 +5,37 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-Dr.
-Abdul El-Sayed to Launch “Open Our Healthcare” Townhall Tour Across Michigan Press Release October 14, 2025 ANN ARBOR, MI – With open enrollment looming, premiums set to skyrocket, and Republicans refusing to offer relief for the oncoming catastrophe they’ve created, millions of Michiganders are at risk of being priced out of their … El-Sayed Campaign Raises $1.77 Million in Q3, Sustains Grassroots Momentum Across Michigan Press Release October 13, 2025 Abdul’s Q3 haul shows deep, consistent grassroots support, with #% of donations under $# ANN ARBOR, MI – Today, U.S.
-Senate candidate Dr.
-Abdul El-Sayed announced $# million raised in the third quarter of 2025, driven … Abdul Blasts Mike Rogers’ call for a federal invasion of Detroit: “Go back to Florida, Mike.” Press Release September 4, 2025 ANN ARBOR, MI – Tonight, U.S.
+El-Sayed Campaign Breaks the Mold With Early College Football TV Buy Press Release December 19, 2025 MICHIGAN – Tonight, Abdul El-Sayed’s campaign will become the first in Michigan’s U.S.
+Senate primary to go up on TV, launching an ad buy during highly-viewed college football bowl games – a savvy move that demonstrates the dynamism … Abdul El-Sayed Earns Key Endorsements from Michigan State Representatives Myers Phillips, Hope, and Neeley Press Release December 11, 2025 DETROIT, MI – Today, U.S.
+Senate candidate Abdul El-Sayed announced the endorsements of three key Michigan State Representatives: Tonya Myers Phillips (District 7, Detroit), Kara Hope (District 74, Lansing and Delhi Township) and Cynthia Neeley (District 70, Flint).
+Their support brings Abdul’s total Statehouse endorsements … ICYMI: Dr.
+Abdul El-Sayed Publishes Guardian Op-Ed on Medicare For All Meeting the Moment Press Release December 10, 2025 ANN ARBOR, MI – Yesterday, Dr.
+Abdul El-Sayed published an op-ed in the Guardian arguing that Democrats can meet this moment by passing Medicare for All.
+As Republicans remain determined to tear down our already broken system, Democrats must … Dr.
+Abdul El-Sayed Releases New Video Highlighting the Burden and Absurdity of American Medical Debt Press Release December 10, 2025 ANN ARBOR, MI – Today, Dr.
+Abdul El-Sayed released a new video highlighting the absurdity of medical debt in America by simply crossing the river into Windsor, Canada.
+Americans hold staggering $225 billion in medical debt while many Canadians … ICYMI: Senator Bernie Sanders and MI Senate Candidate Abdul El-Sayed Host Healthcare Town Hall Press Release December 3, 2025 WASHINGTON, D.C. – Last night, Dr.
+Abdul El-Sayed and Senator Bernie Sanders were joined by over 20,000 Americans tuning in to discuss the future of our healthcare system, at a time when Republicans are gutting Medicaid, doubling insurance premiums … Congresswoman Pramila Jayapal Endorses Abdul El-Sayed for U.S.
+Senate Press Release December 3, 2025 ANN ARBOR, MI – Today, Congresswoman Pramila Jayapal (WA-7) endorsed Abdul El-Sayed for U.S.
+Senate.
+The Congresswoman represents Seattle and the surrounding areas, serving her fifth term in Congress.
+Congresswoman Jayapal serves as the Chair Emeritus of the Congressional Progressive Caucus after … Andy Levin Endorses Abdul El-Sayed for U.S.
+Senate Press Release November 18, 2025 DETROIT, MI – Former Congressman and longtime labor champion Andy Levin endorsed Abdul El-Sayed for U.S.
+Senate in a joint op-ed published in The Detroit News.
+Levin represented Michigan’s 9th Congressional District, encompassing parts of Oakland and Macomb counties, from 2019-2023.
+“The … Abdul El-Sayed Endorses “MOP Up Michigan” and “Invest in MI Kids” Ballot Initiatives Press Release November 13, 2025 ANN ARBOR, MI – Today, U.S.
+Senate candidate Abdul El-Sayed announced support for two statewide ballot initiatives in Michigan.
+MOP (Money Out of Politics) Up Michigan would ban regulated utility monopolies like DTE and Consumers Energy … ICYMI: Rev.
+Horace Sheffield III Endorses Abdul El-Sayed for U.S.
+Senate Press Release November 13, 2025 DETROIT, MI – On Saturday, November 8, U.S Senate candidate Dr.
+Abdul El-Sayed received the endorsement of Detroit political powerhouse and community advocate Rev.
+Horace Sheffield III.
+Rev.
+Sheffield announced his endorsement live on his weekly show “Wake-Up Call”, with Abdul as the guest.
+Following … VIDEO: Abdul El-Sayed Highlights Michigan Coast Guard Veteran, Speaks Out Against VA Layoffs Press Release November 11, 2025 MICHIGAN – This morning, U.S.
 Senate Candidate Dr.
-Abdul El-Sayed released the following statement in response to candidate Mike Rogers’ call for a federal invasion of Detroit: “Serving the City of Detroit as its health … El-Sayed Campaign Raises Thousands for Medical Debt Relief in Northern Michigan Press Release August 6, 2025 U.S.
-Senate candidate boosts local organizers’ efforts to cancel medical debt in Michigan’s GOP-held CD1 ANN ARBOR, MI – In a bold break from political convention, Dr.
-Abdul El-Sayed announced today that his campaign raised over … Peace Action Backs Abdul El-Sayed for Michigan’s Open U.S.
-Senate Seat Press Release July 30, 2025 Nation’s largest grassroots peace organization says “Abdul’s voice is a rare necessity” ANN ARBOR, MICHIGAN – Today, U.S.
-Senate candidate Abdul El-Sayed announced the endorsement of Peace Action, the nation’s largest grassroots peace organization.
-“Peace Action is proud … U.S.
-Senate Candidate Abdul El-Sayed Announces $# Million Raised In Under Three Months Press Release July 8, 2025 Over 22,000 donations from 17,000 individual donors.
-8,000 Michigan miles traveled.
-Zero corporate PACs.
-ANN ARBOR, MICHIGAN – Today, U.S.
-Senate candidate Abdul El-Sayed announced $# million raised in the second quarter of 2025 in the 75 … Michigan State Representatives and Local Leaders Endorse Abdul El-Sayed for U.S.
-Senate Press Release May 8, 2025 Momentum builds as key elected officials back Abdul’s campaign DETROIT, MI – U.S.
-Senate candidate Abdul El-Sayed is proud to announce endorsements from several Michigan State Representatives and local leaders, reflecting the growing grassroots momentum behind … Wayne County Executive Warren Evans and Flint Mayor Sheldon Neeley Endorse Abdul El-Sayed for U.S.
-Senate Press Release May 3, 2025 Top local leaders back Abdul’s people-powered campaign for U.S.
-Senate DETROIT, MI – U.S.
-Senate candidate Abdul El-Sayed is proud to announce the endorsement of Wayne County Chief Executive Warren Evans and Flint Mayor Sheldon Neeley. … Abdul El-Sayed Launches Campaign for U.S.
-Senate Press Release April 17, 2025 El-Sayed to run on a people-first platform rooted in Michigan grit and All-American values ANN ARBOR, MI – Abdul El-Sayed announced his candidacy for Michigan’s open Senate seat this morning.
-In a launch video, El-Sayed – … « Previous 1 … 25 26 27 Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Abdul E-Sayed released a moving new video honoring Tony Hall, a Coast Guard veteran living in Central Michigan – one of the first responders to the Edmund Fitzgerald tragedy #ago.
+In … « Previous 1 … 25 26 27 28 29 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

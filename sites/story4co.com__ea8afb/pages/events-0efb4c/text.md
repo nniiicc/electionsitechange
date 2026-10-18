@@ -169,7 +169,4 @@ They’re calling on supporters to join them in reaching out to the community, s
 Your involvement is crucial to ensuring these conversations reach as many people as possible.
 Register HERE to join us.
 See you there!
-View Event → Sep 6 5:30 PM 17:30 Beverages and Bites on Sep.
-6th Friday, September 6, 2024 5:30 PM 7:00 PM 17:30 19:00 Google Calendar ICS You’re invited! 🎉 I’m honored to be supported in my campaign for re-election with an exciting fundraising event graciously hosted by Bethlynn Maxwell and Stephen Reed!
-I hope you’ll join us for some beverages and bites on Friday, September 6th from 5:30-7:00 PM.
-RSVP HERE FOR LOCATION: https://forms.gle/u3pUhVrMSRn4ZdRZ6 View Event → Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+View Event → Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 720-772-9874 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

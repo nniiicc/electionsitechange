@@ -1,5 +1,5 @@
 Meet Jessica Issues Successes!
-Volunteer Endorsements Media Campaign Swag Contribute Successes!
+Volunteer Endorsements Media Video Campaign Swag Contribute Successes!
 SUCCESSES & NEWS Jessica believes in transparency and accountability.
 Here are some highlights and successes she lead on as an elected official.
 Tenant Protections Successfully advocated for the following: - # days notice for increases above #% - # days for increases above #% - Social security number cannot be required to apply for a rental home - Renters on a fixed income like social security can adjust their rent due date WA's First Public Drone Show Successfully advocated for a drone show/light show in the City's Derby Days festivities as a replacement for fireworks benefiting the environment, pets, community members with PTSD, and victims of school shootings.

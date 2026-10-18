@@ -20,5 +20,6 @@ Department of Justice for an estimated $2,000,000 in FY 2025 Byrne Justice Assis
 The State of Iowa’s JAG application to the U.S.
 Department of Justice aims to strategically support drug and crime reduction priorities and is posted for public viewing on ODCP’s website.
 Comments may be emailed to wiggins@dps.state.ia.us through May 10, 2026.
-Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Share this post Keep reading Ope!
+Let Me Just Answer Your Questions Quick Updates from Week 15 at the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
 Paid for by Drey for Iowa. | Privacy Policy

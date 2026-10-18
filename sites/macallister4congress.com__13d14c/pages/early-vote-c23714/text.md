@@ -1,5 +1,8 @@
-Home About Solutions Events Media Get Involved Yard Sign Ballot Positions Donate How to Vote BALLOT POSITIONS ☰ Ride the Wave · Early voting Oct 17–30 Find your early-voting spot Tell us where you live.
-We show you the site, the hours and a map — for your town, in one step.
+Home About Solutions Events Media Get Involved Yard Sign Ballot Positions Donate How to Vote BALLOT POSITIONS ☰ Ride the Wave · Early voting Oct 17–30 Early voting is open.
+Find your site.
+Type your address.
+Get your town’s early-voting site, hours and a map in seconds.
+Open through Friday, Oct 30.
 Find your early-voting spot Name Email Street address — town and ZIP too We couldn’t place that address — pick your town Yes, email me my early-voting map and share kit, plus occasional updates from Tyler Macallister for Congress.
 I can unsubscribe at any time.
 Show me my map We use your address only to find your town’s early-voting site.

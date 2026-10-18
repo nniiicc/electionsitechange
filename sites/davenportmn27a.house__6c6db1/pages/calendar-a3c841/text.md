@@ -3,11 +3,7 @@ Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 8:00 PM Google Calendar ICS Do your r
 Its up to us to get money out of politics!
 Grab your neighbors, friends, and family members and go vote!
 VOTE EARLY!
-View Event → Oct 17 Vote Early Protest!
-Saturday, October 17, 2026 12:30 PM 2:30 PM Pedestrian Bridge over Hwy 169 (map) Google Calendar ICS Pedestrian bridge over Hwy 169 in Elk River.
-Plenty of parking!
-Bring your voting signs!
-Mobilize Sign Up ‍ ‍ View Event → Oct 18 Meet Doug Chapin Sunday, October 18, 2026 1:00 PM 3:00 PM 11445 Brenda Boulevard Becker, Minnesota, 55308 United States (map) Google Calendar ICS Join Doug Chapin and Vanessa Davenport in Becker for an open community conversation!
+View Event → Oct 18 Meet Doug Chapin Sunday, October 18, 2026 1:00 PM 3:00 PM 11445 Brenda Boulevard Becker, Minnesota, 55308 United States (map) Google Calendar ICS Join Doug Chapin and Vanessa Davenport in Becker for an open community conversation!
 No political knowledge required.
 Just curiosity, questions, and a shared interest in building a stronger community together.
 Light refreshments will be provided.
@@ -25,7 +21,11 @@ Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots availabl
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
-View Event → Oct 16 Big Lake Twp Door Knocking Friday, October 16, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+View Event → Oct 17 Vote Early Protest!
+Saturday, October 17, 2026 12:30 PM 2:30 PM Pedestrian Bridge over Hwy 169 (map) Google Calendar ICS Pedestrian bridge over Hwy 169 in Elk River.
+Plenty of parking!
+Bring your voting signs!
+Mobilize Sign Up ‍ ‍ View Event → Oct 16 Big Lake Twp Door Knocking Friday, October 16, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
@@ -162,12 +162,4 @@ We are not here to talk at you, we are here to listen.
 Stop by, say hello, and share what matters to you.
 Orono Park, 18599 Gary St.
 NW, Elk River I’ll try a short Facebook Live during the event for anyone who can’t make it.
-View Event → Aug 4 Sherburne County Indivisible Meeting Tuesday, August 4, 2026 6:00 PM 9:00 PM Google Calendar ICS Via Zoom.
-Reach out to sherburnecountyindivisible@gmail.com if you would like to attend.
-AGENDA Candidate introductions/comments: Leadership team: Updates from Indivisible regional and national – Debbie Russell Treasurer’s report – Jill Rudnitski (absent – balance is around $350.
-August matching campaign with National) Events Coordinator – Jodee McCallum Mutual Aid – Dannie McConaughay/Kat Brandtjen Member Outreach and Recruitment – we are still looking to fill this spot!
-School board/city council reports: Old Business Grants through Indivisible - Jill Recap/Debrief: Wright/Sherburne Pride event on July 18th - Jodee Recap/Debrief: ACLU/Brainerd Lakes Indivisible event – Julie VanDover Update: SCI Picnic August 17th at Orono Park - Jodee Update: Jonna Duke training People Power in Action: An Introduction to Nonviolent Direct Action (NVDA) September?
-Update: Monarca training August 25th: Kat Brandtjen/Tessa Asper/Jonna Duke Update: Red and Rural Day of action 8/23 (Sam/Debbie) Discussion: Forum on healthcare, education, affordability?
-September?
-Location?
-Candidates (Doug?) and featured speaker SET UP A COMMITTEE TO WORK ON THIS or give this project up New Business People needed to attend County Board meetings through November - Catherine Harrison County Democracy Defense Team Emmer Townhall: Kristie Walker, Jodee View Event → Paid for by Davenport for Minnesota House 27A
+View Event → Paid for by Davenport for Minnesota House 27A

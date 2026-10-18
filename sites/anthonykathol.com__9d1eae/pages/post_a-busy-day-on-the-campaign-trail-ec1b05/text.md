@@ -18,7 +18,7 @@ A special thank-you to everyone hosting my campaign signs!
 I appreciate you keeping an eye on them throughout this vast district.
 Running a campaign across an area the size of Connecticut and Rhode Island combined is no small undertaking, and your support makes a real difference.
 Have a great week, everyone, and thank you for following my campaign!
-Tags: Kathol for District 27 State Senate Kathol4D27 #GOP #Republican Vote Red KOTA Territory News Rapid City Dinosaur Park Recent Posts See All Join me on the Kathol for District 27 State Senate Campaign "Freedom Train" One of the Best Days on the Campaign Trail It Takes Teamwork Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Tags: Kathol for District 27 State Senate Kathol4D27 #Republican #GOP Vote Red KOTA Territory News Rapid City Dinosaur Park Recent Posts See All Join me on the Kathol for District 27 State Senate Campaign "Freedom Train" One of the Best Days on the Campaign Trail It Takes Teamwork Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

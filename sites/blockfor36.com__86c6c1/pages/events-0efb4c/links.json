@@ -37,7 +37,15 @@
 },
 {
 "text": "Details",
+"href": "https://www.darrylblock.com/event-details/knock-the-block-canvass"
+},
+{
+"text": "Details",
 "href": "https://www.darrylblock.com/event-details/phone-bank-with-florida-dems"
+},
+{
+"text": "Details",
+"href": "https://www.darrylblock.com/event-details/pool-party-meet-and-greet"
 },
 {
 "text": "ENDORSEMENTS",
@@ -89,15 +97,7 @@
 },
 {
 "text": "RSVP",
-"href": "https://www.darrylblock.com/event-details/knock-the-block-canvass"
-},
-{
-"text": "RSVP",
 "href": "https://www.darrylblock.com/event-details/knock-the-block-canvass-1"
-},
-{
-"text": "RSVP",
-"href": "https://www.darrylblock.com/event-details/pool-party-meet-and-greet"
 },
 {
 "text": "Register to Vote",
@@ -106,6 +106,10 @@
 {
 "text": "Terms & Conditions",
 "href": "https://www.darrylblock.com/accessibility-statement"
+},
+{
+"text": "VOTE",
+"href": "https://www.darrylblock.com/voting-info"
 },
 {
 "text": "Vote by Mail",

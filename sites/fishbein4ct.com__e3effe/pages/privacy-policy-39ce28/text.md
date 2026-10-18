@@ -1,4 +1,4 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Privacy Policy Revised: September 23, 2026 Thank you for interacting with Fishbein for Connecticut (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO Privacy Policy Revised: September 23, 2026 Thank you for interacting with Fishbein for Connecticut (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about our policy, or our practices regarding your personal information, please contact us at info@fishbein4ct.com.
 When you visit our website https://fishbein4ct.com/ and use our services, you trust us with your personal information.
@@ -98,4 +98,4 @@ The updated version will be indicated by an updated &quot;Revised&quot; date and
 If we make material changes, we may notify you by prominently posting a notice of such changes or by sending a notification.
 We encourage you to review this privacy policy frequently.
 If you have any questions or comments about this policy, you may contact us at: info@fishbein4ct.com Fishbein for Connecticut - Jo-Anne L.
-Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy VOTER INFO Close Menu

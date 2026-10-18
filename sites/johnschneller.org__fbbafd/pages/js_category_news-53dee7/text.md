@@ -1,4 +1,7 @@
-john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Endorsed by NHLA Oct 8, 2026 I am pleased to announce that I was recently endorsed by the New Hampshire Liberty Alliance.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Two More Weeks!
+Oct 17, 2026 Meet John at the transfer station where he campaigns every weekend.
+Pictured below (2 and 3) with wife Doreen, and fellow Candidate Pete Kujawski. [click for larger...
+Endorsed by NHLA Oct 8, 2026 I am pleased to announce that I was recently endorsed by the New Hampshire Liberty Alliance.
 What does that mean?
 In short, I share my fellow Granite Staters’ value of Liberty and more… “On behalf of the New Hampshire Liberty Alliance, I’m...
 Candidates Corner 2026 Aug 27, 2026 John sat down with Ray Chadwick for a interview on Bedford’s community television station.
@@ -15,8 +18,7 @@ In fact, we have a microreactor company right here in NH, StarCube.
 The...
 Great River Hydro Visit Jun 19, 2026 This is a visit to Granite River Hydro with the House of Representatives Science Technology and Energy Committee.
 Hydro is an important part of our energy mix, generating roughly 5% of our electricity.
-This precious, always on natural resource, goes far beyond energy...
-Power Must Be Reliable, Not Fashionable Jun 1, 2026 This Union Leader OpEd by House Science, Technology and Energy Committee Chairman, Representative Michael Vose, eloquently states the problems with solar versus more reliable and efficient (denser) energy sources such as natural gas and nuclear energy.
-As a... « Older Entries SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+This precious, always on natural resource, goes far beyond energy... « Older Entries SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Two More Weeks!
+October 17, 2026 Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

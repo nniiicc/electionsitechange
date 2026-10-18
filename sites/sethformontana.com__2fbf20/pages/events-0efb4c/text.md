@@ -1,8 +1,4 @@
-Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
-Can't make it to an in-person canvass?
-Knock doors right w… Show more Griz Gameday Tailgate - Missoula Lot Z, Outside the Campus Rec Center RSVP here Swing by our Griz Tailgate to meet fellow Seth supporters!
-Join us for somet… Show more Knock doors with Seth Bodnar and Hope Walz 10/17 Southside Park, 411 W College St, Bozeman, MT 59715, USA RSVP here !
-Come knock doors with Seth Bodnar and Hope Walz this Saturd… Show more Big Timber Meet and Greet 101 W 2nd Ave, Big Timber, MT 59011, USA RSVP here !
+Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Big Timber Meet and Greet 101 W 2nd Ave, Big Timber, MT 59011, USA RSVP here !
 Join Seth for a reception in Big Timber on Saturday, October 17, at 5:00 PM!
 Gather with friends … Show more Hamilton Meet and Greet 1436 S 1st St, Hamilton, MT 59840, USA RSVP: here !
 Join Seth for a reception in Hamilton on Sunday, October 18, at 5:00 PM!
@@ -13,7 +9,9 @@ Join Seth Bodnar for a Butte Town Hall on Tuesday, October 20, 5:30-7:00pm!
 Hear from Seth and ask questions … Show more Thursdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP Show more Billings Door Knocking RSVP here !
 Knock doors with us in Billings on Saturday, October 24!
 Show more Maternal Health Candidates Forum Eagle Seeker Community Center, 1125 Broadwater Ave, Billings, MT 59102, USA Doors open at 4:30pm.
-This forum will bring together community members, healthcare providers, tribal health advocates, doulas, and families from across Montana to hear candidate positions and solution… Show more Bobcats Gameday Tailgate - Bozeman MSU Tailgate spot #57/#58 RSVP here !
+This forum will bring together community members, healthcare providers, tribal health advocates, doulas, and families from across Montana to hear candidate positions and solution… Show more Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
+Can't make it to an in-person canvass?
+Knock doors right w… Show more Bobcats Gameday Tailgate - Bozeman MSU Tailgate spot #57/#58 RSVP here !
 Swing by our Bobcat Tailgate to meet fellow Seth supporters!
 Join us for so… Show more Missoula Saturday Canvass Launch Multiple Times 426 N Higgins Ave, Missoula, MT 59802, USA RSVP here !
 Knock doors with us in Missoula every Saturday!

@@ -20,7 +20,7 @@ Let’s keep building and working together as a TEAM!
 Thank you for being part of this journey.
 I appreciate each and every one of you! 🇺🇸 17 DAYS UNTIL ELECTION DAY! 🇺🇸 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
 See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 20 Shares: 3 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 24 Shares: 5 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
 I spent nearly 20 years serving with the Sauk Rapids Fire Department as a firefighter and captain, and it was great to be back catching up with old friends and fellow firefighters!
 We couldn’t have asked for better weather, and the turnout was incredible!
 From the free pumpkins and vehicle extrication demonstrations to the kids getting to climb inside the fire trucks and explore all the equipment, there was something for everyone to enjoy.
@@ -28,7 +28,7 @@ Having spent so many years in the fire service, I know firsthand the time, dedic
 It’s wonderful to see so many families come out to support these men and women and learn more about what they do.
 A huge thank you to the Sauk Rapids Fire Department and everyone who helped put on another fantastic open house.
 I’m proud to have been part of this department and will always appreciate the people who continue to serve our community! 🇺🇸🚒 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #FirstResponders #SaukRapidsMN #Community #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 63 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago A little friendly competition and some great chili sounds like a perfect Sunday afternoon!
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 65 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago A little friendly competition and some great chili sounds like a perfect Sunday afternoon!
 I’m looking forward to joining Tanja Goering as a guest judge for the Watkins Lions Club’s First Annual Chili Cook-Off!
 Come on out to The Store Saloon in St.
 Nick this Sunday, October 18th, from 1–3 PM for some delicious chili, good company, and community fun!

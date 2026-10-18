@@ -20,6 +20,10 @@
 "href": "https://secure.actblue.com/donate/kirsten-root-1"
 },
 {
+"text": "Early Voting and Vote-by-Mail",
+"href": "https://www.rootforindiana.org/vote-plan"
+},
+{
 "text": "Endorsements",
 "href": "https://www.rootforindiana.org/endorsements"
 },
@@ -44,10 +48,6 @@
 "href": "https://www.rootforindiana.org/"
 },
 {
-"text": "Host a Yard Sign",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSeYr6Wn4mZ-xzzNKjGXZAOWAib2-IHKczpRlBxjQrornMbrHQ/viewform"
-},
-{
 "text": "In the News",
 "href": "https://www.rootforindiana.org/in-the-news"
 },
@@ -64,24 +64,12 @@
 "href": "https://www.rootforindiana.org/campaignupdates"
 },
 {
-"text": "Order Merch",
-"href": "https://secure.actblue.com/donate/rootforinmerch"
-},
-{
 "text": "The Platform",
 "href": "https://www.rootforindiana.org/the-platform"
 },
 {
 "text": "Volunteer",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSeNNoa6kqrUDhmhkTVXYLDue0B63D6W1lmHSqQ1WAF3PyMTjQ/viewform"
-},
-{
-"text": "Volunteer",
 "href": "https://www.rootforindiana.org/volunteers"
-},
-{
-"text": "Voter Registration",
-"href": "https://www.in.gov/sos/elections/voter-information/register-to-vote/"
 },
 {
 "text": "Yard Sign",
@@ -106,5 +94,9 @@
 {
 "text": "[no text]",
 "href": "https://youtube.com/@rootforin?si=1o1lEgsleGnf67OT"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLScTj5oeQzWlRbLZLMX9jzHNo_u1DIGxLbCCq-X8KjLmQ5PSPA/viewform",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScTj5oeQzWlRbLZLMX9jzHNo_u1DIGxLbCCq-X8KjLmQ5PSPA/viewform"
 }
 ]

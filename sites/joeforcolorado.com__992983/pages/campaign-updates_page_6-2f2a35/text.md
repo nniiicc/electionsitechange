@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Campaign Updates May 27, 2021 | Campaign Updates TRAIL MIX | Joe Neguse lands atop rankings of most-effective lawmakers It’s hard to miss Joe Neguse these days.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Campaign Updates May 27, 2021 | Campaign Updates TRAIL MIX | Joe Neguse lands atop rankings of most-effective lawmakers It’s hard to miss Joe Neguse these days.
 Already a regular on cable news shows during his first term, the Lafayette Democrat’s turn as a House impeachment manager in former President Donald Trump’s second Senate trial earlier this year sent his profile soaring.
 On Thursday at the White House, as President Joe Biden announced a series […] Read More Feb 22, 2021 | Campaign Updates US Rep.
 Joe Neguse prioritizes public lands, wildfire response in 2021 House agenda U.S.

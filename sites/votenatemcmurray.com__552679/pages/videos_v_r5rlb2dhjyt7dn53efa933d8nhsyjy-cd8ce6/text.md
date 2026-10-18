@@ -27,6 +27,5 @@ It’s another reminder that freedom of religion means freedom for everyone.
 Previous IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
 Next I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
-PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Volunteer and Sign Up for Updates!
+PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics WE ARE AT A CROSSROADS IN WESTERN NEW YORK Volunteer and Sign Up for Updates!

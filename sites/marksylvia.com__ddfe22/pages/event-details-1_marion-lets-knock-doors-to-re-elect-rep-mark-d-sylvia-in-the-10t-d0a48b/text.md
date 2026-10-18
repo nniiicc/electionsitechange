@@ -1,0 +1,14 @@
+top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer!
+News Events Join Us More Use tab to navigate through the menu items.
+Marion: Let's knock doors to Re-Elect Rep.
+Mark D.
+Sylvia in the 10th Bristol!
+Sun, Oct 25 | Marion https://www.mobilize.us/marksylvia/event/1054613/ RSVP Time & Location Oct 25, 2026, 12:00 PM – 2:00 PM Marion, Marion, MA, USA Last available date About the event Join Team Sylvia as we knock doors across the 10th Bristol!
+Whether you’re a longtime supporter or getting involved for the first time, this is a great opportunity to take action and help us re-elect State Representative Mark D.
+Sylvia!!
+Training will be provided.
+Please bring your fully charged phone.
+We suggest wearing comfortable shoes and sunblock and bringing your water bottle.
+Can't join us this time?
+Add your name to our volunteer list, and an organizer will reach out.
+Show More RSVP Share this event Paid for by the Sylvia Committee bottom of page

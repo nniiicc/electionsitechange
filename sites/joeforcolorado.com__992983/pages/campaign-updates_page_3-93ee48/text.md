@@ -1,6 +1,6 @@
-Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Get Involved Donate Now We need your help!
 Donate now to support Joe Neguse's fight for all Coloradans!
-Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Campaign Updates Jan 12, 2024 | In the News This US representative from Colorado passed the most bills in Congress last term Out of 435 U.S.
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Store Campaign Updates Jan 12, 2024 | In the News This US representative from Colorado passed the most bills in Congress last term Out of 435 U.S.
 House members, Colorado Rep.
 Joe Neguse came in top of the class for the 117th congress, at least when it came to getting bills signed into law, according to the website GovTrack.us.
 The Boulder Democrat had 13 bills passed into law, either as stand-alone legislation or incorporated into larger packages, a […] Read More Jan 12, 2024 | In the News Colorado’s Joe Neguse leads US House with most bills signed into law last Congress Joe Neguse is on a roll.

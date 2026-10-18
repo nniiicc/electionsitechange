@@ -1,9 +1,10 @@
 {
  "description": "Look up whether your Indiana address is in House District 70. The district covers parts of Harrison, Washington, and Floyd counties — including Corydon, Palmyra, Greenville, Milltown, New Salisbury, and Lanesville.",
  "final_url": "https://www.sarahblessing.com/am-i-in-district-70/",
- "fingerprint": "763386872fd2d07e10701c458f7d7d7b51ac42ea",
+ "fingerprint": "0c7719f0c1803b029aa22a42d0b8f9aa308465b1",
  "format": 3,
  "paid_for_by": "authorized by Sarah Blessing for State House",
+ "rendered": false,
  "title": "Am I in Indiana House District 70? Address Lookup",
  "years_mentioned": [
   "2020",

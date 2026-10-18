@@ -10,12 +10,12 @@ Honor: The honor code at West Point is crystal clear, “A cadet will not lie, c
 I will not tolerate that behavior.
 Country : I took an oath to support and defend the constitution against all enemies, foreign and domestic.
 I always perceived the greatest threat to be foreign, but it is clear with right-wing attacks on our democracy, women’s healthcare, and our ability to keep guns off our streets, we must stand up to domestic extremists.
-What Pat fights for Leveling the Playing Field Working families and small businesses are suffering.
+What Pat fights for Affordable Working families and small businesses are suffering.
 Pat has fought greedy corporations, cut taxes, and brought jobs to New York.
-Keep Reading Protecting our Foundational Freedoms Pat took an oath to protect and defend our Constitution from all enemies, foreign and domestic.
-With our democracy and women’s right to healthcare under threat from extremists...
-Keep Reading Keeping our Community Safe Keeping our communities safe is the core role of government.
+Keep Reading Safe Keeping our communities safe is the core role of government.
 Pat understands that we must tackle public safety both short term and long term to secure our communities.
+Keep Reading Free Pat took an oath to protect and defend our Constitution from all enemies, foreign and domestic.
+With our democracy and women’s right to healthcare under threat from extremists...
 Keep Reading View all priorities Pat's Story Pat is a fifth-generation Ulster County native, decorated combat veteran, small business owner, US Congressman, and Fmr.
 County Executive who lives in Gardiner with his wife Rebecca and two young children, Theo and Cameron.
 Pat’s life has been shaped by a desire to serve his community.
@@ -25,7 +25,11 @@ After graduating from Kingston High School, Pat began his service to our communi
 After leaving the military, he founded a small technology company, which grew to over 150 employees.
 As an executive, Pat managed a $25 million annual budget and worked to build partnerships with government and nonprofit organizations.
 He implemented worker-focused policies like paid family leave and created a jobs training program for veterans without college degrees, equipping them with tech skills to ensure they had high-paying jobs.
-Elected in 2019, Pat served as Ulster County Executive until 2022, leading the county through a once-in-a-century pandemic, spearheading the effort to transform the former IBM site after decades of sitting dormant, providing direct financial relief to small businesses and residents, building supportive and affordable housing, and re-investing in mental health services – all while never raising taxes.
+Elected in 2019, Pat served as Ulster County Executive until 2022, leading the county through a once-in-a-century pandemic, providing direct financial relief to small businesses and residents, building supportive and affordable housing, and re-investing in mental health services – all while never raising taxes.
+In 2022, he was elected to represent New York’s 18th Congressional District.
+He sits on the House Armed Services Committee and Transportation and Infrastructure Committee, and founded the Democratic Veterans Caucus and Monopoly Busters Caucus.
+Every day, Pat is working to lower your utility costs, build more housing, make health care affordable, and keep our communities safe.
+He is taking on greedy corporations like UnitedHealth and Central Hudson who are jacking up your prices to pad their own profits and fighting to clean up corruption in Washington.
 As a cadet, Pat learned and lived by the West Point motto: Duty, Honor, Country.
 Pat’s running for Congress to bring that ethos to Washington, where it is desperately needed.
 Duty means that whether you are leading troops in combat, leading a small business, or leading a county, you have a duty to deliver – there is no excuse for failure.

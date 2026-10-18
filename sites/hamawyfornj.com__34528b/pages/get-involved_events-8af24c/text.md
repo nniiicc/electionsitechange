@@ -1,4 +1,4 @@
-Skip to main content Opens in a new tab Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Language: English English Español 中文 हिन्दी Donate Language: English English Español 中文 हिन्दी Donate Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Donate EN | ES | 中文 | हिन्दी Get Involved Upcoming Events What's Happening This Week Sat, Oct 17 No events Sun, Oct 18 11:30 AM Canvass in Princeton w/ Dr.
+Skip to main content Opens in a new tab Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Language: English English Español 中文 हिन्दी Donate Language: English English Español 中文 हिन्दी Donate Priorities About Endorsements Get Involved Events Volunteer Mailing List Plan to Vote Careers Donate EN | ES | 中文 | हिन्दी Get Involved Upcoming Events What's Happening This Week Sun, Oct 18 11:30 AM Canvass in Princeton w/ Dr.
 Hamawy!
 2:00 PM Canvass in Plainfield!
 129 E 4th St · Plainfield, NJ 5:00 PM Canvass in Plainfield!
@@ -15,7 +15,10 @@ Hamawy!
 Virtual Fri, Oct 23 5:30 PM Canvass in Trenton!
 Trenton, NJ 6:00 PM Phonebank for Dr.
 Hamawy!
-Virtual All Events Oct 18 Sunday Canvass in Princeton w/ Dr.
+Virtual Sat, Oct 24 10:00 AM MPRC Coalition Rally and Canvass!
+Hejaz Tea and Coffee · Franklin Township, NJ 12:00 PM Canvass in Trenton!
+Trenton, NJ 2:00 PM Canvass in Ewing!
+Higgs Park · Ewing Township, NJ All Events Oct 18 Sunday Canvass in Princeton w/ Dr.
 Hamawy!
 11:30 AM – 4:00 PM EDT Join us for our Princeton Meet &amp; Greet on Sunday, October 18th from 12 pm to 2 pm.
 Address will be provided upon RSVP.

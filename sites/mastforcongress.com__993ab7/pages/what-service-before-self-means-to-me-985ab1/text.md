@@ -17,9 +17,9 @@ I was given another chance at life sixteen years ago.
 I intend to use every day of it fighting for the country I love and the community I am honored to serve.
 Help us finish the mission.
 Stand with me today and donate to defend Florida’s future.
-Related Posts: 8 Months Until Election Day March 9, 2022 Army Corps Cover Up EXPOSED!
-January 14, 2022 Support America First With New Merchandise!
-November 23, 2021 Major Progress: Why I’m Taking Our Clean Water Fight to the Airwaves October 14, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: The Made in America Era is Back But We Have to Protect It April 10, 2026 Mast Launches Campaign In FL-21 April 25, 2022 Joe Biden’s words are as hollow as his head and his heart.
+September 5, 2021 Tell The Senate: Pass Trump’s One Big, Beautiful Bill!
+May 22, 2025 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

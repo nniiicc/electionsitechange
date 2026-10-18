@@ -1,1 +1,1 @@
-
+top of page Home About Me Search Results DONATE Donate Oklahoma House District 12 • Wagoner County • praterforok@gmail.com © # Paid for by Tiffany Prater for Oklahoma 2026 Search this site Events (3) Other Pages (2) 3 results found with an empty search Sort By: Best Match Campaign Support Music Concert March 20, 2026 | 3:29 PM Tulsa, OK 74136, USA Tickets: $0.00 Tea with Your Candidate Event March 20, 2026 | 3:29 PM 321 S Boston Ave Suite 103, Tulsa, OK 74103, USA Community Town Hall & Discussion Event March 20, 2026 | 3:29 PM Tulsa, OK 74134, USA bottom of page

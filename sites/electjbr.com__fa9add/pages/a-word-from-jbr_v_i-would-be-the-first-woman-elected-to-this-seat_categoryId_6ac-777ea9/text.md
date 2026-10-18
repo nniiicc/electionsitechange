@@ -5,4 +5,5 @@ I think it's well past time that we moved toward a little bit more parity there.
 I would be so honored to have the privilege of being the first woman to represent this district, and I hope I can earn your vote.
 Early voting starts on October 17th and runs through October 30th, and election day is November 3rd.
 Come on out, support my campaign, and let's get another woman elected to Beacon Hill.
-Previous Yet another school shooting today Next My work to build the Pembroke Community Center You Might Also Like My work to build the Pembroke Community Center Another Reason I support Labor Unions Being an Inaugural Member of American Service Fellowship at Harvard Moderating a Truman National Security Project Panel My thoughts on the audit Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Previous Yet another school shooting today Next My work to build the Pembroke Community Center You Might Also Like Powder Point Bridge Moderating a Truman National Security Project Panel CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Yet another school shooting today My thoughts on the audit Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

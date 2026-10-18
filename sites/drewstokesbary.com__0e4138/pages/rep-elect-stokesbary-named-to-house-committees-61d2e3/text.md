@@ -9,6 +9,6 @@ The House Judiciary Committee considers a wide variety of subjects involving civ
 “I campaigned on the idea of funding education first, and serving on the Appropriations Committee will allow me to work collaboratively with other legislators to ensure that our schools are funded adequately and fairly.” Stokesbary is an attorney and graduate of Duke University and Notre Dame Law School.
 He lives in south Auburn with his wife, Ashley, and their 7-month-old son, Jackson.
 The 31st Legislative District includes the communities of Auburn, Bonney Lake, Buckley, Carbonado, Edgewood, Enumclaw, Lake Tapps, South Prairie, Sumner and Wilkeson.
-In the News legislature More For You Auburn Republican Drew Stokesbary seeking House seat In the News Rep.
-Stokesbary takes oath, begins work for 31st District In the News Stokesbary sponsors Auburn student as page In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News legislature More For You My 2018 Re-Election Campaign Current Events Ferguson’s Attack on Our Constitutional Rights Current Events Rep.
+Stokesbary takes oath, begins work for 31st District In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

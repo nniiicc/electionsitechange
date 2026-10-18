@@ -1,4 +1,4 @@
-0 Skip to Content Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE MONTANA HOUSE DISTRICT 59 Fighting for dignity, justice, and affordability for all Montanans Donate Now Where I stand Meet Katie Fire Thunder Katie is a lifelong Montanan — born and raised here, an MSU graduate, and building her career here ever since.
+0 Skip to Content Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE Open Menu Close Menu Priorities Endorsements Contact DONATE MONTANA HOUSE DISTRICT 59 Fighting for dignity, justice, and affordability for all Montanans Donate Now Where I stand Newsletter / Yard Sign Meet Katie Fire Thunder Katie is a lifelong Montanan — born and raised here, an MSU graduate, and building her career here ever since.
 In January, she was unanimously appointed by the Gallatin County Commission to fill the vacant seat in House District 59.
 For those who know her, neither the choice to step up nor the support behind it came as a surprise.
 Katie has long been a community organizer .
