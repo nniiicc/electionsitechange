@@ -1,4 +1,4 @@
-Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 18, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
+Skip to main content Home About News Resources Get Involved Open menu Terms of Service Last updated: October 19, 2026 Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
 If you do not agree to abide by the above, please do not use this service.
 Use License Permission is granted to temporarily download one copy of the materials on Peter Lumaj | Secretary of the State's website for personal, non-commercial transitory viewing only.
 This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials use the materials for any commercial purpose or for any public display attempt to reverse engineer any software contained on the website remove any copyright or other proprietary notations from the materials Disclaimer The materials on Peter Lumaj | Secretary of the State's website are provided on an 'as is' basis.
@@ -50,7 +50,13 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Dominic Rapini 2022 Republican Secretary of the State candidate "As a former CTGOP candidate for Secretary of the State, I’ve seen firsthand the qualities required to serve as Connecticut’s chief elections officer.
-I’ve known Peter Lumaj for six years, and I’ve never met a more principled, committed conservative — a man whose love for the United States and for Connecticut is matched by his deep understanding of what it means to live without freedom.
-As someone who escaped a communist regime, Peter brings a rare and powerful perspective to this role, grounded in gratitude for democracy and a fierce defense of our republic.
-I wholeheartedly endorse Peter Lumaj for Secretary of the State of Connecticut." View all endorsements →
+ENDORSED BY Henri Martin State Senator 31st District "Peter Lumaj has lived the American Dream.
+He loves our country and our state, and I am proud to call him a friend.
+Connecticut is a national embarrassment when it comes to election integrity.
+The Bridgeport ballot stuffing video went viral, prompting news outlets across the nation to mock the fraud.
+Yet under one-party rule in Connecticut, Democrats have zero interest in making reforms that will restore public confidence in our elections.
+The embarrassments and the fraud that have made Connecticut a national punchline will continue until we elect different leaders.
+As our new Secretary of the State, Peter Lumaj will make those reforms his top priority.
+He will be a voice for the people of our state who are sick and tired of the seemingly endless voter fraud in Connecticut.
+I wholeheartedly endorse Peter Lumaj.
+He will be an excellent Secretary of the State and will work tirelessly to restore trust and integrity in our elections." View all endorsements →

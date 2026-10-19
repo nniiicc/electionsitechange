@@ -5,7 +5,8 @@ The two-bill package of legislation is designed to increase penalties for firing
 Democrat State Reps.
 Cynthina Neeley of Flint and Amos O’Neal of Saginaw introduced the bills in honor of 3-year-old Messiah Williams of Flint, who died from when suspects opened fire on his residence in October 2020.
 Picture Courtesy of ABC12.com See the full story on ABC12.com: https://www.abc12.com/news/politics/house-criminal-justice-committee-holds-hearing-on-messiahs-law/article_0527801a-228a-11ef-b748-ebb6bb80ddf2.html Share: twitter facebook youtube Post navigation Previous post My deepest condolences to the Lewiston community.
-Next post Meet the Candidates: Michigan’s 70th House District – Cynthia Neeley You May Also Like Law News Rights & Obligations January 4, 2021 HB6235, introduced into law by 34th District State Representative Cynthia Neeley News Priorities & Structure Rights & Obligations September 24, 2020 Neeley stands up for Michigan Drivers Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Next post Meet the Candidates: Michigan’s 70th House District – Cynthia Neeley You May Also Like News January 26, 2022 Cynthia Neeley on Gov.
+Whitmer’s State of the State Address Family News March 25, 2021 We Introduced bills for EQUAL pay for everyone Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

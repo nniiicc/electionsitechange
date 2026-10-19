@@ -1,0 +1,5 @@
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events GOTV Door Knocking with Joseph McClusky Sunday, October 25, 2026 10:00 AM 2:00 PM Google Calendar ICS The final week is here!
+With November 3rd just around the corner, now is the time to make every conversation count.
+Join us in reaching voters, sharing what this campaign stands for, and building the momentum we need to cross the finish line strong!
+Training and a walking buddy can be provided!
+Shifts from 10:00 AM-2:00 PM, 2:00 PM-4:00 PM and 4:00 PM-6:00 PM https://www.mobilize.us/mccluskyformi/event/1068403/ Previous Previous October 24 GOTV Kick Off with Mallory McMorrow Next Next October 31 Halloween Canvassing with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

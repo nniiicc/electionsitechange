@@ -5,10 +5,12 @@ Drug and treatment courts enable people to escape drug addiction and become cont
 Raised in Grangeville, John spent his youth working in grain elevators and around the agricultural communities that helped shape his understanding of responsibility, perseverance, and service to others.
 After graduating from Grangeville High School, John attended Whitman College before earning his law degree from the University of Idaho.
 He worked his way through school, married the love of his life, had three daughters, and began building a legal career in Lewiston.
-John then went on to serve 21 years as a District Judge in Moscow before serving five years on the Idaho Supreme Court.
-Throughout his judicial career, he earned a reputation for thoughtful decision-making, constitutional integrity, and the willingness to stand by his convictions.
+John was then appointed to the judiciary by Governor Phil Batt and went on to serve 21 years as a District Judge in Moscow.
+In 2018 he was appointed to the Idaho Supreme Court by Governor Butch Otter.
+He left the courts in 2023 to work as a mediator.
+Throughout his judicial career, John earned a reputation for thoughtful decision-making, constitutional integrity, and the willingness to stand by his convictions.
 Today, John R.
-Stegner is running for Governor because he believes Idaho deserves leadership that remains accountable to the people it serves.
+Stegner is running for Governor because he believes Idaho needs leadership that remains accountable to the people it serves.
 Rooted in Idaho John and his wife of 45 years, Laurie, have spent their lives building a family, serving their community, and investing in Idaho.
 While John served as a Judge, Laurie spent 35 years teaching in public schools.
 Like many Idaho families, they've watched loved ones pursue opportunities beyond Idaho.

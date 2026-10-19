@@ -1,7 +1,5 @@
-top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
-COME MEET REBECCA Southern Highlands Fall Festival!
-Sat, Oct 17 Goett Family Park The Southern Highlands Fall Festival is right around the corner and I have a table!
-Hope to see you there, -Rebecca Share RSVP Come join me for Tacos!
+top of page Rebecca's Record Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+COME MEET REBECCA Come join me for Tacos!
 Tue, Oct 20 Mountain's Edge Regional Park Anyone want Free Tacos?
 Come join me for a fun and FREE event on Tuesday, October 20th from 5PM AM – 8PM at Mountain's Edge Regional Park!
 I’d love for you to stop by, grab some tacos, and share what’s on your mind.

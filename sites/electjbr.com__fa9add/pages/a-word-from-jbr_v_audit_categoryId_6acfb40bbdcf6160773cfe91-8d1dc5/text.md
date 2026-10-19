@@ -14,4 +14,4 @@ I definitely support the audit, and I think we need far more transparency in our
 So that's my opinion on the audit.
 That's where I stand.
 Thanks for listening.
-Next Halifax's recent water shutoffs You Might Also Like Powder Point Bridge Yet another school shooting today I would be the FIRST WOMAN elected to this seat WATD 95.9 - Sixth Plymouth District Political Forum Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Next Halifax's recent water shutoffs You Might Also Like Being an Inaugural Member of American Service Fellowship at Harvard WATD 95.9 - Sixth Plymouth District Political Forum Halifax's recent water shutoffs Another Reason I support Labor Unions Moderating a Truman National Security Project Panel Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

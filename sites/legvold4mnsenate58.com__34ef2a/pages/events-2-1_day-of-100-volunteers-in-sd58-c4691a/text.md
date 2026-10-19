@@ -1,0 +1,5 @@
+0 Skip to Content Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Back to All Events Day of 100 Volunteers in SD58 Saturday, October 24, 2026 10:00 AM 6:00 PM Google Calendar ICS Join the Mark Legvold for Minnesota campaign in this epic all-day push to Get Out the Vote in Northfield and Farmington in Senate District 58 .
+You can door knock, phone bank, write post cards, distribute lawn signs, assembly literature packets for door knockers, or provide snacks to the volunteers.
+You pick!
+Previous Previous October 23 Legvold for Minnesota - Rosemount Door Knock!
+Next Next October 24 Day of 100 Volunteers in SD58: Phone Banking for Get Out the Vote Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

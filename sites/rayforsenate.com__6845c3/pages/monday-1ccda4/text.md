@@ -9,9 +9,8 @@ If you have a business in the area that I am in and would like me to stop in, pl
 Also, if I appear to be missing an area, please let me know.
 If this format appears popular, and you choose me to represent you in the Senate, I would like to keep it going throughout my term as well.
 I can’t represent you well if you can’t find me.
-See you soon, Ray I will be walking along Galaxie Avenue between 147th St.
-W. and 157th St.
-W. between 4 and 6pm on Monday, October 12th.
+See you soon, Ray I will be at the corner of Cedar Ave and 150th St.
+W. from 4pm to 6pm on Monday, October 19th.
 Your Common Sense Conservative, Independent Republican choice for Minnesota Senate District 56.
 It’s simple, are you better off now than you were eight years ago?
 Raymond Petersen is an honorably discharged veteran of the United States Navy.

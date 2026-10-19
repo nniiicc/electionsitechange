@@ -82,6 +82,24 @@ From a family of 21 children to a fight for 13 million, every step of my journey
 I’m not asking for your vote because of my story; I’m asking for your vote because of my vision to Renovate the American Dream.
 Read it and envision it.
 Then join me as we start a new political movement to the middle.
+The American Center Party What it is The American Center Party is being formed here in Illinois as a state party.
+It is not connected to any other organization that uses a similar name.
+Why we formed it Illinois makes it harder to run outside the two major parties, and the numbers explain why we chose a party rather than an independent campaign.
+An independent candidate for U.S.
+Senate in Illinois must gather 25,000 signatures to reach the ballot.
+A Republican or Democratic candidate needs at least 5,000.
+Forming a new party required the same 25,000 signatures, so the work at the start was identical.
+The difference is what happens afterward.
+If the new party’s U.S.
+Senate candidate earns more than 5% of the vote in the general election, it becomes an established party for statewide offices.
+Future statewide candidates would need at least 5,000 signatures under the established party rules, the same minimum as the two major parties.
+A Senate result alone would not establish the party for district or local offices.
+Running as an independent would not have earned that party status, no matter how strong the showing.
+That is why the party exists.
+It is a way to do the hard work once and change the road ahead for every election that follows.
+What we stand for The American Center Party is a vision driven party.
+We intend to put forward a vision in every election, whether at the city level, the state level or the national level, and to address the problems Americans face every day.
+Where there is no vision, the people perish.
 Family reunion, Chicago, 1990 — my father with nearly all of his children.
 I am at the far left in the patterned swimwear.
 Move to the Middle We are officially on the ballot.

@@ -1,6 +1,6 @@
 top of page HUBERT DELANY for STATE REPRESENTATIVE Home Meet Hubert Issues Voting Info News + Updates Support Us Contact More Use tab to navigate through the menu items.
-DONATE ABSENTEE BALLOTS REGISTER TO VOTE VOTE NOV 5 General Election for District 144 NEWS Hubert Delany: Continuing the Work Stamford's 2024 General Election Hubert D.
-Delany State Representative 144th District On February 1st, 2022 I was sworn in at our capitol as the State Representative of Connecticut's 144th District and promised to do my utmost to uphold your faith in our constitution and in our government.
+DONATE ABSENTEE BALLOTS REGISTER TO VOTE NEWS Hubert D.
+Delany State Representative 144th District Hubert Delany: Continuing the Work Stamford's 2024 General Election On February 1st, 2022 I was sworn in at our capitol as the State Representative of Connecticut's 144th District and promised to do my utmost to uphold your faith in our constitution and in our government.
 In the months since, I've been able to work with lawmakers, community leaders and residents to uphold and expand my campaign promises of Investing in Education, Lowering the Cost of Living , Revitalizing Our Economy , Protecting Our Seniors and, Fighting for Veterans and First Responders.
 I am proud of the ways we've been able to create change in Stamford, but the work is not done.
 This year, Election Day is on November 5th .
@@ -18,8 +18,9 @@ Now the city has 3: ‘We’ve come a long way “I aim to serve as an example t
 READ MORE Patch Bysiewicz Touts CT's 'Summer At The Museum' Program In Stamford "...we are working together to take care of the things that matter to people, like their children, their families, their love of learning, and ultimately, their happiness." READ MORE Discovering Amistad Governor Lamont Chooses the Amistad as Backdrop for Historic Bill Signing Ceremony in New London Governor Lamont signed Public Act 22-128, which established "Juneteenth Independence Day" as a Legal Holiday in Connecticut.
 READ MORE The Stamford Advocate ​ Stamford’s Memorial Day parade is this Sunday.
 Here’s everything you need to know “Everyone is going to be coming out to be able to show that the city of Stamford honors and remembers.” READ MORE THE STAMFORD ADVOCATE Gov.
-Lamont pledges to take in Ukrainian refugees if asked: CT ‘will do the right thing’ “We took refugees from Afghanistan when there was a need, and if there is a need from Ukraine as well, then absolutely we will do the right thing." - Governor Ned Lamont READ MORE keep up with on social JOIN THE CAMPAIGN meet hubert stay connected Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
-All are welcome. volunteer Paid for by Hubert Delany for State Representative.
+Lamont pledges to take in Ukrainian refugees if asked: CT ‘will do the right thing’ “We took refugees from Afghanistan when there was a need, and if there is a need from Ukraine as well, then absolutely we will do the right thing." - Governor Ned Lamont READ MORE keep up with on social JOIN THE CAMPAIGN meet hubert stay connected VOTE NOV 3 General Election for District 144 Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
+All are welcome.
+Volunteer Paid for by Hubert Delany for State Representative.
 Jim Fleischer, Treasurer.
 Website Designed by T'kheya Yisrael, Approved by Hubert Delany.
 Disclaimer: Sgt.

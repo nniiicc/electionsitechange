@@ -1,4 +1,4 @@
-0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Join Team Joe Miller at Second Saturdays in Lorain!
+0 Skip to Content Issues Meet Joe Events Contact Endorsements Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Endorsements Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Endorsements Joe's Listening Tour DONATE Back to All Events Join Team Joe Miller at Second Saturdays in Lorain!
 Saturday, August 8, 2026 10:45 AM 3:00 PM Broadway Avenue, Lorain OH (map) Google Calendar ICS Spend part of your Saturday with Team Joe Miller as we meet voters at one of downtown Lorain's biggest community events.
 We'll be talking with residents, sharing campaign literature, and answering questions about Joe's campaign.
 Second Saturdays brings downtown Lorain to life with local vendors, live entertainment, family-friendly activities, and unique shops and restaurants.

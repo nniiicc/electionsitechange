@@ -1,7 +1,7 @@
 0 Skip to Content VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Issues What challenges need the most attention right now?
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+Folder: About Back Meet me Issues Data centers In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Issues What challenges need the most attention right now?
 SARAH: People are struggling to pay their bills.
 The federal government’s recklessness has led to folks paying more for all sorts of things, from food to health care to gasoline.
 Democrats in the Legislature have worked to keep necessities affordable.

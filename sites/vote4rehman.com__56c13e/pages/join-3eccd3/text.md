@@ -12,6 +12,8 @@ Keep one vote for someone you trust.
 Make your second vote independent.
 On your ballot, look for Saif Rehman Unaffiliated Maryland lists independent candidates as “Unaffiliated.” Same person, same campaign.
 That is the word printed next to my name.
+Five names for two seats.
+Mine is the last one, and the only unaffiliated name on the ballot for the Maryland General Assembly this year.
 Before you vote Make sure your vote counts.
 These go straight to the Maryland State Board of Elections.
 No sign-up, nothing collected by this campaign — whoever you end up voting for.

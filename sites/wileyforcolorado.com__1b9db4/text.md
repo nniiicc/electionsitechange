@@ -1,5 +1,5 @@
 New Merch Available!
-Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate James Wiley James Wiley James Wiley James Wiley Restoring Trust in Our Elections TALK TO US DONATE Core Values Sovereignty Sovereignty Sovereignty Coloradans control their own destiny.
+Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Core Values Sovereignty Sovereignty Sovereignty Coloradans control their own destiny.
 All American men are Kings and each woman a Queen.
 The state exists only at the will and pleasure of We the Sovereign People of this land.
 Liberty Sovereignty Sovereignty Individual freedom and economic liberty for every Coloradan.

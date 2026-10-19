@@ -1,4 +1,4 @@
-top of page About Rob Delivered Priorities Get Involved Events Endorsements More Use tab to navigate through the menu items.
+top of page About Rob Delivered Priorities Get Involved Events Endorsements News More Use tab to navigate through the menu items.
 DONATE Get Involved This campaign is a team effort.
 If you'd like to help, please fill out this form.
 You Belong on Team Kupec!

@@ -1,9 +1,8 @@
 MARY BELK FOR STATE HOUSE Home Meet Mary The Latest CONTRIBUTE The Committee to Elect Mary Belk Online Contribution Your Support Counts!
 Every dollar I raise will be spent to turn out progressive voters and elect Democrats in tough House races across the state.
 Your support is crucial to both of those missions.
-Thank you! ?
-Take future action with a single click.
-Log in or Sign up for Fast Action Contribution Information One-Time Monthly Would you consider giving monthly? $# $# $# $# $# $# Other $ Duration (Optional) - Duration - Until The Election Until I Contact You I'd like to help cover the transaction fees for my donation.
+Thank you!
+Contribution Information One-Time Monthly Would you consider giving monthly? $# $# $# $# $# $# Other $ Duration (Optional) - Duration - Until The Election Until I Contact You I'd like to help cover the transaction fees for my donation.
 My total amount will be $#.# .
 Contact Information First Name Last Name Street Address Postal Code City State - State - AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY AS GU MP PR VI FM MH PW AA AE AP Email Home Phone (Optional) Yes, sign me up for email updates.
 (Optional) Employer Information This information is required by NC state law.

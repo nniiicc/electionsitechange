@@ -20,6 +20,10 @@ Where I stand on the issues.
 Where I stand on the issues.
 Where I stand on the issues.
 Where I stand on the issues.
+Eight Veterans, Two Parties, One Table: My Report From the Veterans Town Hall & Roundtable Eight veterans running for office, Republicans and Democrats, sat at one table in Sandy and spent two hours answering to Utah veterans.
+Here's the full video, who said what, where we agreed, and where we didn't.
+One Door, Every Answer: Introducing the Utah Veterans Ombudsman and Accountability Act I announced the Utah Veterans Ombudsman and Accountability Act at the October 14 veterans town hall.
+Here's the whole bill: one front door for veterans and families, every request tracked to an answer, and a public report card grading the VA and the state.
 We Are Building Data Centers Blind Utah has figured out how to incentivize data centers before figuring out how to govern them.
 I’m proposing a two-year statewide moratorium on new development so we can write the rules first: protect our water, power grid, air, neighborhoods, and taxpayers; require transparency around public incentives; and make sure communities have a real voice.
 This isn’t a ban on the digital future.
@@ -59,17 +63,7 @@ People live with that extraction every day Labor, cost of living, and economic f
 That is the center of how I think about the economy.
 Growth that looks good on a spreadsheet while leaving working people exhausted, insecure, and one emergency away from collapse is not success.
 It is deferred failure.
-Too much of our economic conversation lives in abstraction— markets, productivity, efficiency— with LGBTQ equality, pluralism, and human dignity My position on LGBTQ equality begins with a line I am not willing to blur: human dignity is not negotiable.
-It is not conditional.
-It is not something to be weighed against political convenience, public discomfort, or someone else’s theology.
-Equal protection under the law is not a favor granted by the majority.
-It is a baseline obligation of government.
-Utah has a long history of what gets called “compromise” on LGBTQ issues.
-Sometimes that has meant good-faith coalition-bui Civil liberties, public safety, and the rule of law I take constitutional rights seriously across the board, not selectively.
-Rights are not real if they apply only when they are convenient, popular, or reserved for whoever happens to hold the majority that year.
-The Constitution is not a prop for a campaign speech.
-It is a set of limits on power.
-And it matters most in exactly those moments when power would rather forget those limits exist— when people are afraid, when the public is angry, and when looking away would be easie If you’ve made it all the way down here, thank you.
+Too much of our economic conversation lives in abstraction— markets, productivity, efficiency— with If you’ve made it all the way down here, thank you.
 Truly.
 That tells me something important about you— that you care enough about the future of our community and our state to engage deeply, not just skim headlines, slogans, or political theater.
 What you’ve read here is not meant to be a document carved in stone.

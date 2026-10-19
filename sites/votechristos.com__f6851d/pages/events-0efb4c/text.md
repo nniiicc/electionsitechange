@@ -1,18 +1,18 @@
-0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Events Oct 24 Door Knocking (Eagan 11) Saturday, October 24, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://us.list-manage.com/Vfd6Qe1rmE1?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
+0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Events Oct 24 Door Knocking - Oct 24 Saturday, October 24, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://www.mobilize.us/dflcc/event/1053564/ If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
 You can either join one of our big group door knocks or go out on your own.
 (We’ll create a set list of neighbors for you to contact either through a paper list or electronically.) We go out into the community for group door knocks every Saturday at 10AM.
 But, you can pick up the materials and do it on your own time if Saturday mornings don’t work for you.
 Better yet, we can deliver the door knocking/literature hanging materials right to you!
 (No shipping charges included - what a bargain. ;) For our group door knocks, we will set a meeting place in advance near the portion of the district where we’ll be door knocking/literature hanging on that particular day.
 We’ll send information as to the exact location once you let us know that you’re coming!
-View Event → Oct 31 Door Knocking (Eagan 12) Saturday, October 31, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://us.list-manage.com/mPCgTsaBEwQ?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
+View Event → Oct 31 Door Knocking - Oct 31 Saturday, October 31, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://www.mobilize.us/dflcc/event/1053564/ If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
 You can either join one of our big group door knocks or go out on your own.
 (We’ll create a set list of neighbors for you to contact either through a paper list or electronically.) We go out into the community for group door knocks every Saturday at 10AM.
 But, you can pick up the materials and do it on your own time if Saturday mornings don’t work for you.
 Better yet, we can deliver the door knocking/literature hanging materials right to you!
 (No shipping charges included - what a bargain. ;) For our group door knocks, we will set a meeting place in advance near the portion of the district where we’ll be door knocking/literature hanging on that particular day.
 We’ll send information as to the exact location once you let us know that you’re coming!
-View Event → Nov 1 Door Knocking (Eagan 17) Sunday, November 1, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://us.list-manage.com/IdItufcekEa?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
+View Event → Nov 1 Door Knocking - Nov 1 Sunday, November 1, 2026 10:00 AM 10:00 AM Google Calendar ICS Sign up here: https://www.mobilize.us/dflcc/event/1053564/ If you like having great conversations with neighbors, you can help us meet and greet and knock the doors as well.
 You can either join one of our big group door knocks or go out on your own.
 (We’ll create a set list of neighbors for you to contact either through a paper list or electronically.) We go out into the community for group door knocks every Saturday at 10AM.
 But, you can pick up the materials and do it on your own time if Saturday mornings don’t work for you.

@@ -11,5 +11,5 @@ Your voice is the most powerful tool we have.
 Let's get out there, meet our neighbors, and share our vision for the future!
 Click on this Mobilize link to sign up and find out the rally location: https://www.mobilize.us/mobilize/event/1064474/ Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
-Previous Previous October 17 Get Out The Vote Doorknock in Northfield Next Next October 21 Legvold for Minnesota - Empire Door Knock!
+Previous Previous October 17 Get Out The Vote Door Knock in Northfield Next Next October 21 Legvold for Minnesota - Empire Door Knock!
 Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

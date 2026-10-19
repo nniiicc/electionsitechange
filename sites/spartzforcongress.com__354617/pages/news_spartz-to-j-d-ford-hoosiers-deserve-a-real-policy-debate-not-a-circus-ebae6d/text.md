@@ -12,4 +12,4 @@ Ford should be prepared to do the same and substantiate his accusations against 
 Two television stations have offered to host.
 I am ready for either—or both.
 Why is J.D. hiding?” Why is J.D.
-Ford lying about Victoria Spartz Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061
+Ford lying about Victoria Spartz Spartz Daughters 2026 Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061

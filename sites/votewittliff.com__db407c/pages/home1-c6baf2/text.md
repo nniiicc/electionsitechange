@@ -1,4 +1,4 @@
-top of page Home Issues Volunteer Endorsements Voting Media Donate As a DSS Special Agent, I conducted complex criminal investigations all over the world and protected three U.S.
+top of page Home Issues Volunteer Endorsements Voting Media Albert Wittliff Landing Page Donate As a DSS Special Agent, I conducted complex criminal investigations all over the world and protected three U.S.
 Secretaries of State.
 My duties took me from serving in Iraq to managing embassy security programs, protecting U.S. athletes and coaches at the Athens Olympics, and safeguarding world leaders like the Dalai Lama and various foreign ministers.
 These high-stakes diplomatic environments required me to utilize my negotiation and tactical command skills.

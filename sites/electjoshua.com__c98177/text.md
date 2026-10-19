@@ -28,7 +28,7 @@ Right now the state is unfriendly to companies both small and large — the larg
 We need to finish the Columbia Basin Project, protect our dams, and develop new energy policies that let Central Washington flourish.
 04 Stop the Farmers' & Ranchers' Downfall Over the last decade, state agencies and legislators have waged a campaign of unconstitutional abuse against farmers and ranchers — driving thousands of farms out of business, pushing suicide rates 400% above the average citizen, and making family farming and ranching unprofitable.
 05 Public Schools We're spending ever-larger sums while math and reading scores fall year after year — all while parents' rights are limited and boys continue to compete in girls' sports and locker rooms.
-06 Affordable Housing Supply Washington needs 50,000 housing units a year, and we're building only 20,000.
+06 Creating 1st Time Homebuyer Opportunities Washington needs 50,000 housing units a year, and we're building only 20,000.
 The shortage keeps prices high and hurts our economy — driven by extreme regulation and absurd green mandates that raise the cost to build by 30%.
 I'll fight to lower building costs and put more families into homes.
 07 Taxes We have a spending problem — on things Washingtonians don't even want.

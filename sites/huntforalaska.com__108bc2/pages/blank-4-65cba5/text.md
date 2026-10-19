@@ -17,7 +17,7 @@ Individuals may contribute up to $3,300 per election to a federal candidate comm
 Paid for by Hunt for State Senate.
 Contributions are not tax deductible.
 Must be U.S. citizen or a lawful permanent resident.
-Submit Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Submit Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

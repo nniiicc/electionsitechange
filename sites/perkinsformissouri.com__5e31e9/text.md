@@ -1,5 +1,5 @@
 0 Skip to Content Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE MEET MARY ANN PERKINS Your candidate for State Representative for District 100.
-What makes Mary Ann the best choice for State Representative?
+On The Ballot November 3rd What makes Mary Ann the best choice for State Representative?
 Mary Ann Perkins believes in government by the people and for the people - just like we were taught in school.
 She knows that the people in power have a duty to respect the power of the people, and that's what she will do as your State Representative.
 Meanwhile, the incumbent's voting record shows how out of touch he is: He brags about supporting education, but in reality he sends our tax dollars to private schools and he votes against funding our public schools and Dolly Parton's Imagination Library.

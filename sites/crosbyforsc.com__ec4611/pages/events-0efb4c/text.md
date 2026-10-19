@@ -1,5 +1,4 @@
-Skip navigation menu Meet Katie Platform Events Volunteer Contact Donate Meet Katie Platform Events Volunteer Contact Donate Join Us Campaign Events Candidates Meet and Greet Towne Tavern 9789 Charlotte Hwy Indian Land, SC 29707 Meet Your Democratic Candidates: Dr.
-Jermaine Johnson - Governor Vincent Coe - Treasurer Tiffany Boozer - Comptroller General Mallor Dittmer - US Congressional District 5 Katie Crosby - SC House District 44 Knock on Doors with Katie RSVP for location Get out the vote!
+Skip navigation menu Meet Katie Platform Events Volunteer Contact Donate Meet Katie Platform Events Volunteer Contact Donate Join Us Campaign Events Knock on Doors with Katie RSVP for location Get out the vote!
 Training provided.
 Join us to get a button!
 Knock on Doors with Katie RSVP for location Get out the vote!

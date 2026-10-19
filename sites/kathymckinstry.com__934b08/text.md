@@ -1,6 +1,6 @@
 Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Independent Candidate for U.S.
 Congress — Ohio District 9 Write-In Kathy McKinstry "Write the Name.
-Make the Change." How to Vote Supporter Form Countdown to Election Day 15 Days 13 Hours 49 Mins 11 Secs Campaign Updates Stay up to date with the latest news, events, and announcements from the trail.
+Make the Change." How to Vote Supporter Form Countdown to Election Day 14 Days 13 Hours 54 Mins 34 Secs Campaign Updates Stay up to date with the latest news, events, and announcements from the trail.
 April 2026 May Day Rising: Official Campaign Launch Set for May 1 On Friday, May 1, 2026, Kathy McKinstry will officially launch her campaign on May Day—a day recognized across the world as a symbol of the power, dignity, and unity of working people.
 Read More March 18, 2026 A New Choice for Ohio: Officially Added to the Ballot Today marks a defining milestone.
 Kathy McKinstry has been officially added to the ballot—securing her place in the democratic process and affirming that this campaign is a movement in motion.

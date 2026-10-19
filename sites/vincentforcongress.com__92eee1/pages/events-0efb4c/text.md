@@ -1,10 +1,6 @@
 Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate Join Us Upcoming Campaign Events W e can't wait to meet you at these Public Events.
 John also welcomes invitations to your club, church, or community event — just click here and provide the details.
-Get Out The Vote Rally Myrtle Beach Train Depot 851 Broadway St Myrtle Beach SC 29577 All Aboard!!!
-Join John at our Get Out The Vote Rally in Myrtle Beach.
-Let's celebrate the campaign and prepare for Early Voting.
-No RSVP required.
-RSVP Election Early Voting All Counties across the Great 8 Check out https://scvotes.gov/voters/early-voting/ to find your early voting location.
+Election Early Voting All Counties across the Great 8 Check out https://scvotes.gov/voters/early-voting/ to find your early voting location.
 Early Voting: Oct 19th - Oct 31st, closed Sunday.
 Early voting locations are open 8:30 AM - 6:00 PM Election Day Your Polling Place Get out and VOTE for John Vincent for Congress.
 Polls are open 7:00 AM - 7:00 PM.

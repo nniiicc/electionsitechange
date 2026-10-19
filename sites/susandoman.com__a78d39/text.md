@@ -1,10 +1,9 @@
 Skip navigation menu Home About Issues Videos Volunteer Endorsements Contact kentucky house District 27 ELECTION: TueSDAY, Nov 3, 2026 Vote for Transparency and Common Sense in Meade County & Radcliff Home About Issues Videos Volunteer Endorsements Contact kentucky house District 27 ELECTION: TueSDAY, Nov 3, 2026 Vote for Transparency and Common Sense in Meade County & Radcliff Mother.
 Veteran.
 Public Servant.
-Watch Susan’s introduction—with Maisie getting into the act!
-Select WATCH ALL VIDEOS for this video and more.
-“I have served on the Meade County Planning and Zoning Commission since 2022, so I’ve witnessed first-hand what needs to be done to preserve our community as the place we love to call home.
-What we don’t need is elected officials ruining Meade County and Radcliff by shoving projects through in secrecy.” LEARN MORE ▶ WATCH ALL VIDEOS ▶ my priorities Affordability Families in Meade County and Radcliff are feeling squeezed.
+Get to know Susan Doman—with a little help from Maisie.
+Watch her video introduction.
+MEET SUSAN & MAISIE ▶ WATCH ALL VIDEOS ▶ LEARN MORE ▶ my priorities Affordability Families in Meade County and Radcliff are feeling squeezed.
 Groceries cost more.
 Gas costs more.
 Everything costs more.

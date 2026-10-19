@@ -62,7 +62,7 @@ Every child deserves a school that sees their potential instead of defining them
 That is not just education policy.
 It is an investment in Utah’s economy, our communities, our democracy, and the generations that will come after us.
 Education is where the future begins, and dignity is how we build it.
-Recent Posts See All We Are Building Data Centers Blind Medical cannabis, patient dignity, and regulatory accountability A vision for the future that is bold enough to matter Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Recent Posts See All Eight Veterans, Two Parties, One Table: My Report From the Veterans Town Hall & Roundtable One Door, Every Answer: Introducing the Utah Veterans Ombudsman and Accountability Act We Are Building Data Centers Blind Howells for Utah HD39 We can only achieve success in this campaign with your support.
 Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
 Every dollar matters!
 Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

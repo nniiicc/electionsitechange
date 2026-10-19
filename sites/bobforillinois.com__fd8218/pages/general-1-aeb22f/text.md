@@ -9,8 +9,9 @@ Join the commission!
 JOIN NOW Radio Chicago Contrarian sat down with Bob Fioretti this week for an important conversation about the future of Illinois and his campaign for Attorney General.
 In this interview, hear Bob’s clear plan to restore accountability, strengthen public safety, and return the Attorney General’s Office to serving the people, not political insiders.
 Listen in to learn how Bob Fioretti would lead the office if elected this November. ​ Listen HERE A Conversation That Defines Resilience and Purpose ​ Bob Fioretti, candidate for IL Attorney General, recently joined the "Boys from Bridgeport" AM radio show for a compelling, deeply personal conversation that connects lived experience with public service. ​ ​ Listen to the full recorded show and hear the voice of experience, strength, and forward-focused purpose.
-Listen HERE Campaign Announcement View Bob Fioretti's official announcement to run for Illinois Attorney General! ​ ​ ​ ​ Podcast 1: The SAFE-T Act & the Future of Public Safety Podcast 2 : Special Edition- Angel Families Watch HERE Podcast 3 : The IL Attorney General's Real Power Watch HERE Check out our latest interview!
-Watch: Illinois News Channel To play, press and hold the enter key.
+Listen HERE Campaign Announcement View Bob Fioretti's official announcement to run for Illinois Attorney General! ​ ​ ​ ​ LISTEN IN!
+Podcast 1: The SAFE-T Act & the Future of Public Safety Podcast 2 : Special Edition- Angel Families Watch HERE Podcast 3 : The IL Attorney General's Real Power Watch HERE Check out our latest interview!
+Watch: Illinois News Channel Watch: Polish Daily News To play, press and hold the enter key.
 To stop, release the enter key.
 EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.

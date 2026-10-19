@@ -1,4 +1,4 @@
-0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate OUR PLATFORM LOWER THE RENT Public housing over private profit.
+0 Skip to Content Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate OUR PLATFORM LOWER THE RENT Public housing over private profit.
 Each month, one in three Bronx households faces the same impossible math: more than half their income gone to rent, leaving little for groceries, transportation, or a moment of rest.
 When rent takes everything, even a small setback can put us in a financial emergency.
 The urgency of the crisis calls for a bold new vision: housing built for people’s needs, not corporate profit.

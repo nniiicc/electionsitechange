@@ -4,10 +4,10 @@ Berger said.
 "I look forward to seeing what proposals the committees pursue and working with the members to usher their priorities over the finish line." Joint legislative committees are comprised of members from both the Senate and the House of Representatives, wherein each chamber selects a chairman from their own chamber to serve as a co-chair for each committee.
 “I’m honored to be appointed to serve on these interim oversight committees for the 2025-26 session,” said Lazzara.
 “These committees will be hard at work studying key issues that impact our state’s future.
-I look forward to bringing Eastern North Carolina’s voice to the table and advancing policies that strengthen public safety, infrastructure, and economic opportunity.” ### Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+I look forward to bringing Eastern North Carolina’s voice to the table and advancing policies that strengthen public safety, infrastructure, and economic opportunity.” ### Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

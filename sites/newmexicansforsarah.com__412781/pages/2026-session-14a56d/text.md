@@ -1,7 +1,7 @@
 0 Skip to Content VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate 2026 legislative recap REP.
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+Folder: About Back Meet me Issues Data centers In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate 2026 legislative recap REP.
 SILVA’S ASSIGNED COMMITTEES: ﻿﻿House Appropriations and Finance Committee ﻿﻿House Tax and Revenue Committee BUDGET AND TAX HIGHLIGHTS Dedicated $254 million to lowering out-of-pocket healthcare costs, including keeping marketplace insurance premiums affordable due to federal cuts.
 Allocated $3 million for the state-level expansion of the Supplemental Nutrition Assistance Program (SNAP) amid federal cuts to vital programs.
 Dedicated $130 million to address housing shortages, homelessness, and tribal housing issues, including funding for regional housing projects, new housing infrastructure.

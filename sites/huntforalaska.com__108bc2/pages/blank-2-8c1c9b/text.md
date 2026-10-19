@@ -18,7 +18,7 @@ Please let us know here.
 Submit Why Volunteers Matter Campaigns aren’t won by politicians.
 They’re won by people who decide to step up.
 If you’ve ever thought things need to change—this is your moment.
-Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

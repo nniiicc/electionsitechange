@@ -13,10 +13,10 @@ Thank you to NCRLA for this recognition!
 NC BORDER PROTECTION ACT Illegal immigration is a public safety crisis.
 That’s why I’m co-sponsoring Senate Bill 153 – the NC Border Protection Act – which we passed in the Senate earlier this month.
 State law enforcement WILL work with ICE No more sanctuary cities shielding criminals Taxpayer benefits go to citizens, not illegal aliens By passing this important legislation, we are strengthening law & order, supporting law enforcement officers, and protecting North Carolina families.
-Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

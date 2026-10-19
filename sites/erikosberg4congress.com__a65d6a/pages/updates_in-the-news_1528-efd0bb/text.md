@@ -8,7 +8,6 @@ House in Minnesota’s 7th District pits longtime issue organizer Michelle Fisch
 Frankly, Fischbach has not represented the 7th District well.
 Her first priority remains toeing the party line in Washington rather than representing and supporting her district’s people and businesses.
 Even some Republicans are concerned about Fischbach, as she faced multiple rounds in the 7th District Convention in April before winning the party‘s 2026 endorsement.
-Read Original Article 0 Likes 0 Shares 0 0 0 0 Related Articles In The News Osberg challenges Fischbach’s record in sole CD7 debate October 16, 2026 - by Erik Osberg In The News Osberg, Schierer, Skogen rally to full house at Bigwood April 13, 2026 - by Erik Osberg In The News WATCH: Rep.
-Fischbach, challenger Osberg face off in Minnesota U.S.
-House debate October 15, 2026 - by Erik Osberg Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Read Original Article 0 Likes 0 Shares 0 0 0 0 Related Articles In The News Douglas County DFL presents candidates to represent Alexandria area June 29, 2026 - by Erik Osberg In The News Congressional District 7 DFL endorses Erik Osberg of Wadena for US House April 25, 2026 - by Erik Osberg In The News Meet Erik Osberg, candidate for U.S.
+House in Minnesota’s 7th District October 13, 2026 - by Erik Osberg Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
 Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

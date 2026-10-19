@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=6e310bf4fa Privacy Policy Home Privacy Policy Privacy Policy Your privacy is important to us.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b5e30c6eec Privacy Policy Home Privacy Policy Privacy Policy Your privacy is important to us.
 This Privacy Policy outlines the types of information we collect, how we use it, and the safeguards we have in place to protect your personal data when you interact with our website https://paulbaileyfortn.com/.
 By using our website, you consent to the practices described in this policy.
 1.

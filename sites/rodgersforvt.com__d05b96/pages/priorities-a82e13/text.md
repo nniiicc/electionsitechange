@@ -1,4 +1,4 @@
-top of page Skip to Main Content CHIP IN $25 NOW TO RE-ELECT JOHN RODGERS HOME ABOUT PRIORITIES JOIN DONATE JOHN'S PRIORITIES John left the Democratic Party because he believed it had lost touch with the needs of working Vermonters.
+top of page CHIP IN $25 NOW TO RE-ELECT JOHN RODGERS HOME ABOUT PRIORITIES JOIN DONATE JOHN'S PRIORITIES John left the Democratic Party because he believed it had lost touch with the needs of working Vermonters.
 While Montpelier continued to grow government and increase spending, the cost of living kept rising for the people expected to pay the bill.
 John believes Vermont deserves practical leadership focused on affordability, accountability, and common sense.
 Making Vermont More Affordable John believes Vermont should be a place where working families can afford to live, build a career, and retire. ​ Too many Vermonters are being squeezed by rising property taxes, higher energy costs, increasing health insurance premiums, and the growing cost of everyday life.

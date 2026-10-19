@@ -39,10 +39,10 @@ I’ve had the opportunity to see firsthand his dedication to Onslow County and 
 He’s worked hard, earned the respect of his peers, and I’m proud to call him a friend.
 This is well deserved — and I know he will serve on the bench with integrity and fairness.
 We’re all very proud of you, Judge Naylor.
-Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

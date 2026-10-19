@@ -9,7 +9,7 @@ Across America, solidly red districts are flipping blue because when authoritari
 Utah can the next state to take a stand.
 If you believe that a fundamentally brighter future for Utah is something worth fighting for then help me fight .
 Anything counts!
-CAMPAIGN GOAL $3,033.31 of $10,000 RAISED SO FAR Support ThE Mission Your Contribution Matters Running a campaign, even a small one like this, can be expensive.
+CAMPAIGN GOAL $3,073.31 of $10,000 RAISED SO FAR Support ThE Mission Your Contribution Matters Running a campaign, even a small one like this, can be expensive.
 I'm not a business owner or property-developer looking to get into politics to further enrich myself.
 I'm a working-class homeowner and public employee.
 My future is inherently entwined with that of Cedar City and the people who live here.

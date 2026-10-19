@@ -44,6 +44,8 @@ Brady has also said he’ll work to improve the education of risky teenage drive
 Good.
 That’s why this office is more important than many Illinoisans think.
 Read the endorsement in the Chicago Tribune here.
-Related Posts Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State Illinois International Alliance of Theatrical Stage Employees (IATSE) Locals voted this week to endorse former State Treasurer Alexi Giannoulias for Illinois Secretary of State.
-Keep Reading → Giannoulias Releases New Campaign Ad Featuring Congressman Jesús “Chuy” García Highlights Progressive Support for 2022 Secretary of State Campaign Keep Reading → Secretary of State Giannoulias Visits Peoria Driver Services Facility Meets with staff to discuss office modernization efforts to empower employees and improve services Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Digital IDs will become available this year for Illinois residents.
+Here’s what to know.
+The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
+Secretary Keep Reading → Secretary of State Giannoulias reveals rejected vanity plates in 2022 Small percentage prohibited for violating the state’s vehicle code Keep Reading → Together Today we launched our first Spanish Language video – “Together.” Illinois’ Latino community plays a vital role in the prosperity of our State and serves Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

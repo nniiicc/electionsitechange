@@ -9,7 +9,7 @@ Receive a $75 refund for the first $75 you donate, $150 for a couple.
 Only for those who are eligible to vote in Minnesota and only one refund application may be filed per year.
 Find out more here .
 2026 PCR Contribution Form Donate Now!
-Events Events Oct 17 October 17, 2026 – October 18, 2026 Heaser for House Door Knock October 17, 2026 – October 18, 2026 Read more → October 17, 2026 – October 18, 2026 Oct 21 October 21, 2026 Heaser for House Door Knock October 21, 2026 Read more → October 21, 2026 Oct 22 October 22, 2026 Heaser for House Door Knock October 22, 2026 Read more → October 22, 2026 Oct 24 October 24, 2026 – November 3, 2026 Get Out the Vote Door Knock October 24, 2026 – November 3, 2026 Read more → October 24, 2026 – November 3, 2026 Nov 3 November 3, 2026 Election Day!
+Events Events Oct 21 October 21, 2026 Heaser for House Door Knock October 21, 2026 Read more → October 21, 2026 Oct 22 October 22, 2026 Heaser for House Door Knock October 22, 2026 Read more → October 22, 2026 Oct 24 October 24, 2026 – November 3, 2026 Get Out the Vote Door Knock October 24, 2026 – November 3, 2026 Read more → October 24, 2026 – November 3, 2026 Nov 3 November 3, 2026 Election Day!
 Time to Vote!
 November 3, 2026 Read more → November 3, 2026 Donate Now!
 Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.

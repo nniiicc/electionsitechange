@@ -1,4 +1,4 @@
-Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS GET INVOLVED VOLUNTEER VOTE EVENTS CONTACT SONYA Facebook Instagram HOUSING & THE UNHOUSED Housing is a basic need.
+Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS LOCAL, STATE & FEDERAL ORGANIZATIONS WRITTEN GET INVOLVED VOLUNTEER VOTE CONTACT SONYA Facebook Instagram Priorities HOUSING & THE UNHOUSED Housing is a basic need.
 There is a housing shortage, and we have prioritized profit over people.
 We need to address the impact that private equity and short-term rentals are having on our housing market and, in turn, on our neighbors who are facing a financial crisis that will have an impact on their housing.
 I support building affordable and subsidized housing, modest single-family homes, senior housing, and creating or funding programs that will provide resources to keep people housed.
@@ -36,4 +36,4 @@ We need more mental health services and wraparound services to help families who
 We need to find a way to collaborate across our region and our state on flood mitigation efforts, since flooding does not stop at the town line.
 We all need to pitch in to do our part to make sure that the future is bright for everyone.
 Paid for by Sonya Spaulding for Barre City, 88 Delmont Ave.
-Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS GET INVOLVED Toggle child menu VOLUNTEER VOTE EVENTS CONTACT SONYA
+Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS Toggle child menu LOCAL, STATE & FEDERAL ORGANIZATIONS WRITTEN GET INVOLVED Toggle child menu VOLUNTEER VOTE CONTACT SONYA

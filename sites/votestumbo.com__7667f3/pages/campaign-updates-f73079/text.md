@@ -1,6 +1,9 @@
 Countdown loading...
 Home About David Endorsements Campaign Updates Media Join the Fight On The Road Latest updates and highlights from the campaign trail across South Carolina, where we’ve been, who we’ve met, and what we’re hearing from communities across the state.
-October 17, 2026 Yesterday was a busy day on the campaign trail!
+October 18, 2026 What a great day on the stump down in Beaufort County on Friday with ...
+What a great day on the stump down in Beaufort County on Friday with Senator Darline Graham and our other fellow South Carolina Republican nominees!
+Remember get out and VOTE RED, starting with early voting tomorrow morning October 19 thru October 31, or on Election Day on November 3rd!
+Find your county early voting locations here: https://scvotes.gov/voters/early-voting/ LINK October 17, 2026 Yesterday was a busy day on the campaign trail!
 Yesterday was a busy day on the campaign trail!
 I enjoyed joining the McCormick GOP for their postcard party in support of State Rep.
 Daniel Gibson’s re-election campaign, followed by a great evening at the Union County Republican Party Rally.
@@ -40,12 +43,5 @@ What an impressive group of sharp young men and women who care deeply about the 
 They have incredibly bright futures ahead of them, and I’m grateful for the opportunity to spend some time with them!
 Thank you to Adrian Cain for the invitation and for the opportunity to speak alongside you.
 I appreciate all you’re doing to encourage and invest in the next generation of conservative leaders.
-LINK September 17, 2026 Experience matters.
-Experience matters.
-I’ve spent my career as a prosecutor, working alongside law enforcement and handling the cases that impact our communities.
-It’s experience built in the courtroom and proven through years of putting criminals behind bars.
-As your next Attorney General, I won’t need on-the-job training.
-I know what it takes to enforce the law, protect our communities, and stand with the men and women who keep us safe.
-I’ll be ready on Day One to get to work for the people of South Carolina.
 LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
 Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

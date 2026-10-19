@@ -1,5 +1,8 @@
 top of page DONATE GET INVOLVED Krista Magaw Home About Issues News Volunteer Events Contact More Use tab to navigate through the menu items.
-Krista Magaw FOR OHIO HOUSE DISTRICT 71 Latest News Sep 28, 2026 Krista Magaw Endorsed by Ohio Association of Professional Firefighters ​ Read More Aug 25, 2026 Krista Magaw Endorsed by Teamsters Ohio D.R.I.V.E President Patrick J.
+Krista Magaw FOR OHIO HOUSE DISTRICT 71 Latest News Oct 16, 2026 Support Magaw for the 71st Letter to the Editor Read More Sep 8, 2026 Dean, Magaw to square off again XENIA — This November will not be the first time Democrat Krista Magaw’s name is listed on the same race as incumbent Rep.
+Levi Dean (R-Xenia).
+Read More Aug 11, 2026 Ohio school funding and school-based health Ohio schools underfunded by $2.75 billion Read More Oct 15, 2026 Magaw makes second bid for Ohio House seat Yellow Springer Krista Magaw is again asking voters to send her to Columbus — and asking what they need from the state when she gets there.
+Read More Sep 28, 2026 Krista Magaw Endorsed by Ohio Association of Professional Firefighters ​ Read More Aug 25, 2026 Krista Magaw Endorsed by Teamsters Ohio D.R.I.V.E President Patrick J.
 Darrow writes "After careful consideration and your representations to support working men and women in general and those issues affecting Teamster families in particular, TEAMSTERS OHIO D.R.I.V.E is proud to announce that it has endorsed your candidacy." Read More Aug 5, 2026 Krista Magaw Endorsed by Trades Council "Krista Magaw has truly shown that she listens to our communities,” writes David C.
 Cox, Trades Council, Executive Secretary and Treasurer.
 Read More May 29, 2026 Krista Magaw Endorsed by Matriots "I am honored to have the support of the Matriots.

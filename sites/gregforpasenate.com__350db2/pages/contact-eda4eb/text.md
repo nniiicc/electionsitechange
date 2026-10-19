@@ -3,7 +3,7 @@ Please provide ALL requested information.
 We verify your information prior to responding.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last below Mobile Number Comment or Message * Email * Mobile Phone Number Enter your Mobile Number so that we can also TEXT you a message if necessary.
+Name * First Last below check ZipCode Comment or Message * Email * Mobile Phone Number Enter your Mobile Number so that we can also TEXT you a message if necessary.
 If you do NOT have a Mobile Phone, please provide your landline number.
 Indicate the type of Phone Number below.
 This Phone Number is my: * Mobile Phone Home Phone Work Phone Not Provided Select ONE Kindly check the boxes below to authorise us to contact you.

@@ -40,16 +40,20 @@
 "href": "https://secure.anedot.com/cloudforcongress/cloudwebdonate"
 },
 {
+"text": "Economy and Jobs",
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+},
+{
 "text": "Election Info",
 "href": "https://www.cloudforcongress.com/election-info-2026/"
 },
 {
-"text": "Family Values",
+"text": "Family ValuesNext",
 "href": "https://www.cloudforcongress.com/vision/family-values/"
 },
 {
-"text": "Family ValuesNext",
-"href": "https://www.cloudforcongress.com/vision/family-values/"
+"text": "Health Care",
+"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "Home",
@@ -69,15 +73,11 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/family-values/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
-},
-{
-"text": "Religious Liberty",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "Volunteer",
@@ -97,11 +97,11 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/family-values/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "[no text]",

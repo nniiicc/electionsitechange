@@ -1,0 +1,9 @@
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-Fundraiser Lunch-ALEXANDRIA Available times Thursday, Oct 22, 12:30PM - 1:30PM — sign up on Mobilize (opens in a new tab) Where Junior League of Alexandria · Alexandria · LA About this event # 🍽️ FUNDRAISER LUNCH WITH JAMIE DAVIS!
+## Alexandria, Let's Do Lunch 💚 Join us for a **fundraiser lunch** with **Jamie Davis**, Democratic nominee for U.S.
+Senate, in Alexandria!
+Spend the afternoon with Jamie as he talks about his **Louisiana First** campaign for jobs, affordability, and rural Louisiana.
+Every contribution helps get Jamie's message to voters across the state in the final stretch of this race. 🙌 --- 🗓️ **Thursday, October 22** ⏰ **12:30 PM** 📍 **Junior League of Alexandria** 1005 Bayou Place, Alexandria, LA 71303 --- ## 🎒 Good to Know - 🍽️ Lunch will be served - 💵 This is a fundraiser, and your contribution supports the campaign - 🗳️ Early voting runs October 20 – 27, so make your plan to vote - 👨‍👩‍👧 Bring a friend, a neighbor, or a family member - 🌐 Learn more at https://jamieforlouisiana.com --- *Paid for by Jamie Davis for U.S.
+Senate.
+PO Box 55, Ferriday, LA 71334.* RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

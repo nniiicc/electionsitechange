@@ -1,7 +1,4 @@
-0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Oct 18 Canvass with Tatiana in North Beacon Hill & Central Beacon Hill!
-Sunday, October 18, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in North Beacon Hill & Central Beacon Hill!
-All information is in the attached Mobilize link.
-View Event → Oct 19 Canvass with Tatiana in Othello & New Holly!
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Language Access Get Involved Oct 19 Canvass with Tatiana in Othello & New Holly!
 Monday, October 19, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Othello & New Holly!
 All information is in the attached Mobilize link.
 View Event → Oct 20 2026 A&NH/PI General Candidate Forum Tuesday, October 20, 2026 5:15 PM 7:00 PM Wing Luke Museum (map) Google Calendar ICS Join Tatiana as she participates in the the 14th annual A&NH/PI General Election Candidate Forum hosted by ACRS, Chinese Information Services Center, Interim CDA, ReWa, South Seattle Emerald, and Wing Luke Museum.
@@ -44,6 +41,9 @@ All information is in the attached Mobilize link.
 View Event → Nov 2 to Nov 3 Election Day GOTV With Tatiana!
 Mon, Nov 2, 2026 9:00 AM Tue, Nov 3, 2026 8:00 PM Google Calendar ICS Join Tatiana for everything from phone banking to knocking on doors in the final stretch of the campaign!
 Click the Mobilize link to sign up for a volunteer shift with us.
+View Event → Oct 18 Canvass with Tatiana in North Beacon Hill & Central Beacon Hill!
+Sunday, October 18, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in North Beacon Hill & Central Beacon Hill!
+All information is in the attached Mobilize link.
 View Event → Oct 17 Get Out The Vote! - Ballot Drop Canvass Saturday, October 17, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
 All information is in the attached Mobilize link.
 View Event → Oct 15 Canvass with Tatiana in the Central District!

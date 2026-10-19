@@ -24,6 +24,10 @@
 "href": "https://www.jordan4texas.com/cart"
 },
 {
+"text": "About",
+"href": "https://www.jordan4texas.com/about"
+},
+{
 "text": "Contact",
 "href": "https://www.jordan4texas.com/volunteer"
 },
@@ -44,12 +48,20 @@
 "href": "https://www.jordan4texas.com/endorsements"
 },
 {
+"text": "FAQ",
+"href": "https://www.jordan4texas.com/faq"
+},
+{
 "text": "Get Involved!",
 "href": "https://www.jordan4texas.com/volunteer"
 },
 {
 "text": "Investing in Our Potential",
 "href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "Issues",
+"href": "https://www.jordan4texas.com/issues"
 },
 {
 "text": "JOrdan’s Priorities",
@@ -60,10 +72,6 @@
 "href": "https://www.jordan4texas.com/volunteer"
 },
 {
-"text": "Jordan's Priorities",
-"href": "https://www.jordan4texas.com/priorities"
-},
-{
 "text": "Learn more",
 "href": "https://www.jordan4texas.com/about"
 },
@@ -72,8 +80,8 @@
 "href": "https://www.jordan4texas.com/priorities"
 },
 {
-"text": "Meet Jordan",
-"href": "https://www.jordan4texas.com/about"
+"text": "Priorities",
+"href": "https://www.jordan4texas.com/priorities"
 },
 {
 "text": "Standing Up to Bullies",

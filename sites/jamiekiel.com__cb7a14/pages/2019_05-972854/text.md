@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b News TV Interview – Capitol Journal We report on the House taking up a lottery bill today and it failing an early procedural motion.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=2f1c44e3e9 News TV Interview – Capitol Journal We report on the House taking up a lottery bill today and it failing an early procedural motion.
 We also report on the Senate taking up the General Fund budget.
 And we’re joined by Rep.
 Jamie Kiel of Russellville, who will discuss the education budget being debated at a House committee public Continue Reading Northwest Alabama RC&D grant to improve technology in RHS classrooms The Northwest Alabama Resource Conservation and Development (RC&D) Council recently gave $10,320.51 to Russellville High School in Franklin County.

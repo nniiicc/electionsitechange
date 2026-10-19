@@ -7,4 +7,4 @@ Individuals: Max $1,940 total.
 Companies/Entities: Max $1,940 total per organization.
 If contributing on behalf of a business, please use the full business name in the donor name field.
 Do not combine contributions from multiple sources to circumvent the limit.
-Contributions are not tax-deductible. get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made in Vermont by Kenneth Sekuterski Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook
+Contributions are not tax-deductible. get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made by NEQ Media Group Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook

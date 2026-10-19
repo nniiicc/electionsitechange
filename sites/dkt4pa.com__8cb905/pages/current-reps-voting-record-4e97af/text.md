@@ -15,7 +15,8 @@ Grants for Fire Departments Voted “No” on House Bill 2446, the $30 million F
 The House passed the bill 105–96.
 Full Voting Record on Grants for Fire Departments Advocates for the promotion of grant opportunities for first responders, boroughs and township, community growth, and home safety improvements.
 Plans to create public grant teams to assist with grant identification, writing, and maintenance.
-A staunch supporter of first responders for decades through legal assistance and fundraising, she seeks to strengthen our volunteer fire departments through grant writing opportunities. * Site created by candidate; all resources paid by DKamberTodd4PA. © 2026 Deirdre Kamber Todd.
+A staunch supporter of first responders for decades through legal assistance and fundraising, she seeks to strengthen our volunteer fire departments through grant writing opportunities.
+Courtesy of www.BillTrack50.com For More Information on Mako's Voting Record, visit https://www.palegis.us/ * Site created by candidate; all resources paid by DKamberTodd4PA. © 2026 Deirdre Kamber Todd.
 All rights reserved.
 Statements on this site approved by candidate.
 PAC contributions may come from individuals, LLCs, partnerships and other PACs; in PA, corporations cannot contribute to PACs.

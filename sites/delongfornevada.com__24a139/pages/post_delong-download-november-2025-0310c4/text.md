@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 All Posts Search DeLong Download November 2025 Nov 1, 2025 2 min read Hello Friends, As we head into the holiday season with Thanksgiving, Christmas, Hannukah, and New Year’s, I wish everyone a blessed rest of the year.
 This past weekend on November 1 st , the Nevada Day parade brought out tens of thousands of people to Carson City.
 We had amazing weather for the event!

@@ -1,5 +1,4 @@
-About Schedule Issues In the News Contact DONATE Rooted in community.
-Ready to serve.
+About Schedule Issues In the News Contact DONATE Leadership you can trust.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.
@@ -21,8 +20,8 @@ District 3A needs a bipartisan representative at the Capitol.
 I have decades of experience bringing people together across parties and communities to fight natural disasters, keep us safe, and deliver real results.
 Share a priority by completing the Contact Us form below. > Donations help us reach voters across District 3A with events, materials, and outreach.
 DONATE TODAY Schedule Upcoming events and opportunities to meet the campaign.
-International Falls Door Knock October 18 • 12:00 pm - 6:00 pm Meet at Smokey Bear Park at 12:00 and 3:00 pm On Line Sign-Up: Event Details Silver Bay Door Knock October 19 • 2:00 pm - 6:30 pm • Silver Bay Public Library, 9 Davis Dr, Silver Bay, MN 55614, USA Meet at the Silver Bay Public Library Parking lot for a Silver Bay Door Knock!
-IFalls Door Knock October 21 • 1:00 pm - 6:00 pm • Smokey Bear Park, 214 6th Ave #2336, International Falls, MN 56649, USA Meet Aaron at Smokey Bear Park for an International Falls Door Knock!
+Silver Bay Door Knock October 19 • 2:00 pm - 6:30 pm • Silver Bay Public Library, 9 Davis Dr, Silver Bay, MN 55614, USA Meet at the Silver Bay Public Library Parking lot for a Silver Bay Door Knock!
+Sign up here: Event Details IFalls Door Knock October 21 • 1:00 pm - 6:00 pm • Smokey Bear Park, 214 6th Ave #2336, International Falls, MN 56649, USA Meet Aaron at Smokey Bear Park for an International Falls Door Knock!
 Tommy Rukavina dinner October 24 • 4:00 pm - 7:00 pm • Eveleth, MN 55734, USA Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.
 Contact Us Have a question, an idea, or want to connect with the campaign?
 We’d love to hear from you.

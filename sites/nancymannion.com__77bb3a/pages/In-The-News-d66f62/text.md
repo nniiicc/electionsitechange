@@ -1,6 +1,12 @@
 Donate Home Meet Nancy Priorities Endorsements Events News ▾ News & Press Newsletters Volunteer Contact Us Donate News & Press Campaign announcements, press releases, interviews, and media coverage from across Pennsylvania’s 11th Congressional District.
 Press Releases Latest Press Release August 19, 2026 · Lancaster, PA PA AFL-CIO Endorses Nancy Mannion, Democrat for Pennsylvania’s 11th District Endorsement recognizes Mannion’s consistent support of policies to improve the lives of Pennsylvania families.
-Read the Release → In the News WGAL News 8 Media Coverage Who is Nancy Mannion?
+Read the Release → In the News VIDEO Campaign moment A Musical Surprise for Nancy at Central Market ocal musician Antoine Cameron, “The Pianoman,” surprised Nancy with an original song while the team was setting up at Central Market.
+A special moment worth sharing!
+Watch → York Daily record Media Coverage Can this ER nurse unseat five-term Republican U.S.
+Rep.
+Lloyd Smucker?
+The York Daily Record profiles Nancy Mannion’s campaign for Pennsylvania’s 11th Congressional District, covering her views on rising living costs, health care, and the challenges of running against five-term incumbent Lloyd Smucker.
+Read More → WGAL News 8 Media Coverage Who is Nancy Mannion?
 Meet the Democratic candidate for Pennsylvania's 11th District Nancy Mannion, a former emergency nurse and health care executive, is running as a Democrat to represent Pennsylvania's 11th Congressional District, which includes Lancaster County and part of York County.
 Read More → PODCAST Interview From the ER to Congress: Why This Nurse Is Running for Office Listen to Nancy Mannion talk about healthcare, service, and her campaign for PA-11.
 Listen → FOX43 Media Coverage 2026 Pennsylvania Election Guide Coverage of the race for Pennsylvania’s 11th Congressional District.

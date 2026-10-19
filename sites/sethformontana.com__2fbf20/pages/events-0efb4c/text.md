@@ -1,6 +1,4 @@
-Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Big Timber Meet and Greet 101 W 2nd Ave, Big Timber, MT 59011, USA RSVP here !
-Join Seth for a reception in Big Timber on Saturday, October 17, at 5:00 PM!
-Gather with friends … Show more Hamilton Meet and Greet 1436 S 1st St, Hamilton, MT 59840, USA RSVP: here !
+Skip navigation menu MAKE YOUR PLAN TO VOTE VOTER CHECKLIST About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Hamilton Meet and Greet 1436 S 1st St, Hamilton, MT 59840, USA RSVP: here !
 Join Seth for a reception in Hamilton on Sunday, October 18, at 5:00 PM!
 Gather with friends who s… Show more Missoula Town Hall Tamarack Brewing Co, 231 W Front St, Missoula, MT 59802, USA RSVP here !
 Join Seth for a Town Hall in Missoula on Monday, October 19th at Tamarack Brewing (231 W Front St, Missoula… Show more Phonebank for Seth Bodnar – Tuesdays & Thursdays Multiple Times Sign up here !

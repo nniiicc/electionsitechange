@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News YES OR NO, CAIT CONLEY?
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate News YES OR NO, CAIT CONLEY?
 TWO NEW LAWLER ADS ASK THE QUESTION SHE WOULD NOT ANSWER FOR THE GORMANS September 30, 2026 Jessica and Tom Gorman, whose daughter Sheridan was murdered in March, tell her story in “Protect.” In “How Many,” Congressman Lawler asks how many more lives must be lost to sanctuary policies.
 Both follow a debate where Conley would not give the Gormans a yes or no on the policy her own website endorses.
 LAWLER ROUTS CAIT CONLEY IN THEIR FIRST DEBATE.
@@ -21,5 +21,5 @@ LAWLER’S LABOR DAY: TWENTY UNIONS ENDORSE CONGRESSMAN MIKE LAWLER FOR REELECTI
 With the eleven law enforcement unions announced last month, more than thirty unions now back his campaign.
 ON THE FIFTH ANNIVERSARY OF ABBEY GATE, BIDEN NSC COUNTERTERRORISM DIRECTOR CAIT CONLEY SAID NOTHING August 27, 2026 Thirteen American service members were murdered by an ISIS-K suicide bomber at Kabul airport on August 26, 2021, while Cait Conley was serving as a director for counterterrorism on President Biden’s National Security Council staff.
 Yesterday, as the White House proclaimed a national day of commemoration and the country honored the fallen, Conley said nothing.
-Five years on, she has never publicly addressed the Biden administration’s handling of the withdrawal. « Previous Next » Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Five years on, she has never publicly addressed the Biden administration’s handling of the withdrawal. « Previous Next » Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

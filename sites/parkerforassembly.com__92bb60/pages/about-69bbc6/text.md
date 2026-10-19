@@ -1,4 +1,4 @@
-Home About Contribute Volunteer Lawn Signs Home About Contribute Volunteer Lawn Signs More Home About Contribute Volunteer Lawn Signs Home About Contribute Volunteer Lawn Signs ABOUT LYNN PARKER Lynn Parker, a lifelong community leader, small business owner and experienced advocate for youth and addiction services, formally announced his candidacy for the 123rd State Assembly District in the 2026 election.
+Home About Contribute Volunteer How to Vote Home About Contribute Volunteer How to Vote More Home About Contribute Volunteer How to Vote Home About Contribute Volunteer How to Vote ABOUT LYNN PARKER Lynn Parker, a lifelong community leader, small business owner and experienced advocate for youth and addiction services, formally announced his candidacy for the 123rd State Assembly District in the 2026 election.
 The District is comprised of the City of Binghamton and Towns of Union and Vestal.
 This seat will be up for grabs for the first time in decades following the retirement of longtime incumbent Donna Lupardo.
 “I’m running for State Assembly to give our community a new voice at the State Capital.

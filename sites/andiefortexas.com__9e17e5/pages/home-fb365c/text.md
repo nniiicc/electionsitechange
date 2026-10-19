@@ -18,7 +18,8 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Events Oct 18 Speed Dating with the Candidates What: A fun and fast-paced Candidate Forum where candidates from various local races rotate to tables of voters to answer questions When: Sunday, October 18, 1–5 PM Where: Larry J.
-Ringer Public Library , 1818 Harvey Mitchell Pkwy S, College Station, TX 77845 Cost: Free Read more → Andie for Texas Political advertisement paid for by Andie Ho.
+RSVP Upcoming Events Summary Block This block has no content yet.
+Items you add to the page connected to this block will display here.
+Events Andie for Texas Political advertisement paid for by Andie Ho.
 Copyright #.
 Contact andieforHD12@gmail.com

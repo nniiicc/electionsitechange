@@ -120,9 +120,9 @@ Adelphi, MD 11:30am-1pm View Event → Apr 24 7:00 PM 19:00 Lewisdale Community 
 View Event → Jan 25 1:00 PM 13:00 Weekend Canvass Saturday, January 25, 2014 1:00 PM 5:00 PM 13:00 17:00 Hyattsville, MD (map) Google Calendar ICS Talking to neighbors in our community is how we will win this election.
 Join Deni and the team to go door to door to talk to voters in District 2!
 View Event → Jan 23 6:30 PM 18:30 Fundraiser for Diana Fennell Thursday, January 23, 2014 6:30 PM 9:30 PM 18:30 21:30 Fratelli's (map) Google Calendar ICS Would love to see you there, too!
-View Event → HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in the last 20 years in Hyattsville .
-She is on the side of working families and immigrants.
-The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+ year old overcrowding school problem—, and the construction of 2 new libraries——one to be delivered in 2021 and one in design.
+View Event → HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in Hyattsville in the last 20 years.
+She stands with working families and immigrants.
+The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+-year-old overcrowding school problem—and the construction of 2 new libraries—Hyattsville Library, which is now open, and Langley Park Library, still under consideration.
 Committed to What We Started Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe for Updates Sign up with your email address to receive news and updates.

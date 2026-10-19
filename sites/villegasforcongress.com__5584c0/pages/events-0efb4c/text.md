@@ -25,20 +25,7 @@ Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Fresno, CA, 93722 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
 Please join us to knock on doors in Fresno to ensure we elect Randy to Congress!
-If you’ve never canvassed before… Show more RSVP Knock on Doors for Randy Villegas in Hanford!
-Multiple Times This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Hanford, CA, 93230 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
-Please join us to knock on doors in Hanford to ensure we elect Randy to Congress!
-If you’ve never canvassed befor… Show more RSVP Knock Doors for Randy Villegas in Delano!
-Multiple Times This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Delano, CA, 93215 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
-Please join us to knock on doors in Delano to ensure we elect Randy to Congress!
-Please make sure to bring your w… Show more RSVP Phonebank for Randy Villegas!
-Multiple Times Virtual Event Join the Villegas for Congress team for our Sunday phonebanks.
-We'll be calling voters in District 22 to earn their votes for the November 3rd election.
-Each phone bank will begin with a training on … Show more RSVP Get Your Randy Villegas Yard Sign NOW in Hanford!
+If you’ve never canvassed before… Show more RSVP Get Your Randy Villegas Yard Sign NOW in Hanford!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Hanford, CA, 93230 We are excited to announce that we have Randy Villegas yard signs available NOW in our Tulare office!
@@ -72,11 +59,19 @@ Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Arvin, CA, 93203 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
 Please join us to knock on doors in Arvin to ensure we elect Randy to Congress!
-Please make sure to bring your wa… Show more RSVP Phonebank for Randy Villegas!
+Please make sure to bring your wa… Show more RSVP Knock on Doors for Randy Villegas in Hanford!
+Multiple Times This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details, Hanford, CA, 93230 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
+Please join us to knock on doors in Hanford to ensure we elect Randy to Congress!
+If you’ve never canvassed befor… Show more RSVP Phonebank for Randy Villegas!
 Multiple Times Virtual Event Join the Villegas for Congress team for our Thursday phonebanks.
 We'll be calling voters in District 22 to earn their votes for the November 3rd election.
 Each phone bank will begin with a training o… Show more RSVP Halloween Futbol Fiesta 601 Mondavi Way, Bakersfield, CA, 93312 Join us for a pick-up soccer game with Randy Villegas, co-hosted by Pasala 661.
 Bring your Halloween costumes with you as we play some spooky soccer!
-RSVP Canvass (Knock on Voters Doors) in Hanford Kings County Democratic Office 621 N Irwin St, Hanford, CA, 93230 It’s time to talk to voters in CD22 about the exciting community-based candidacy of Randy Villegas!
+RSVP Phonebank for Randy Villegas!
+Multiple Times Virtual Event Join the Villegas for Congress team for our Sunday phonebanks.
+We'll be calling voters in District 22 to earn their votes for the November 3rd election.
+Each phone bank will begin with a training on … Show more RSVP Canvass (Knock on Voters Doors) in Hanford Kings County Democratic Office 621 N Irwin St, Hanford, CA, 93230 It’s time to talk to voters in CD22 about the exciting community-based candidacy of Randy Villegas!
 Help us build grassroots power and defend democracy.
 Join us in going door-to-door talking to voters… Show more RSVP Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

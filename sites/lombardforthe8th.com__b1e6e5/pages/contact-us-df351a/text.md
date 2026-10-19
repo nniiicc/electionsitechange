@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Sign Up.
+0 Skip to Content Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Sign Up.
 Stay Informed.
 Help the Campaign.
 Home Paid for by Lombard for the 8th.

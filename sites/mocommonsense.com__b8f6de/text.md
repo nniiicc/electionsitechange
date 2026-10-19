@@ -16,17 +16,12 @@ I love this state.
 Missouri is home to the best sports teams, great universities and beautiful landscapes.
 We have the benefit of being centrally located, on the Missouri and Mississippi Rivers, with seven distinct geographical regions in our state.
 I'm a little biased, but I'm especially fond of our great floating rivers and streams in the southern region.
-I'm running for the 10th District in the Missouri Senate, recently vacated by T 1 min read Fall Season Fall has arrived, pumpkins are out and voting season is just around the corner!
-There is a lot going on in October, so here is a quick rundown of all the events you might want to visit.
-Oct.
-3 - Paynesville Homecoming 1-3 pm Laborers and Farmers Rally St.
-Charles Oct.
-4 - Callaway County Dems BBQ - Memorial Park 4 -6 pm Oct.
-8 - NAACP Forum in Fulton Oct.
-10 - Clarksville Applefest Oct.
-16 - Fulton Homecoming Oct.
-17 - Louisiana Colorfest Oct.
-21 - Lincoln University Town H 1 min read John Wells Meet the Blogger MoCommonSense.com is the second edition of the once popular virtual destination for Wells' writings.
+I'm running for the 10th District in the Missouri Senate, recently vacated by T 1 min read Participate in the process As we enter the last few weeks of this election cycle, you'll have a few more opportunities to hear directly from your candidates.
+I encourage you to take part.
+If you have questions about who to vote for, get out and participate in the process.
+Meet them, ask questions, weigh whether or not they would be a good representative for you.
+I'll be on the road a lot this week giving voters all across Senate District 10 a chance to meet and talk with me.
+Join us at one of these sto 1 min read John Wells Meet the Blogger MoCommonSense.com is the second edition of the once popular virtual destination for Wells' writings.
 Topics vary from energy to ecology, politics to policy, morals, values and Missouri common sense.
 Harry S Truman, the greatest American president from the Show Me State, once said, "The Buck Stops Here." Time for accountability in the Missouri Legislature.
 Too many times in the last decade, the people have had to do it themselves.

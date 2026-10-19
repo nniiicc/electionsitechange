@@ -2,12 +2,13 @@ Skip to content Donate now to send Dr.
 Annie to the U.S.
 Senate STAND WITH Dr.
 Annie ANdrews Choose any amount.
-If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Sun, Oct 18 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Mon, Oct 19 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
 Annie Andrews See details Mon, Oct 19 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!
 This event’s address is private.
 Sign up for more details See details Mon, Oct 19 @ 12:00–3:00 PM EDT Team Annie In Person Phone Bank - Columbia This event’s address is private.
 Sign up for more details See details Tue, Oct 20 @ 9:30–11:00 AM EDT Union County Town Hall with Dr.
-Annie Andrews New Chapel See details View More Events View More Events POWERED BY PEOPLE.
+Annie Andrews New Chapel See details Tue, Oct 20 @ 5:00–6:00 PM EDT Bamberg County Meet & Greet with Dr.
+Annie Andrews City of Refuge Ministries See details View More Events View More Events POWERED BY PEOPLE.
 NOT PACS. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Courage and common sense Email Address Zip Code Phone Number (Optional) .
 By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Dr.

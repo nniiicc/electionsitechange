@@ -1,4 +1,4 @@
-Baker for Ohio About Platform Events Get Involved Contact Donate Legal Privacy Policy Last updated: March 2026 Effective Date: March 1, 2026.
+Baker for Ohio About Platform Events Get Involved Contact Donate Legal Privacy Policy Last updated: October 18, 2026 Effective Date: October 18, 2026.
 Citizens for Baker (the "Campaign"), operated with technology provided by National AI Systems LLC ("NIS").
 1.
 Who We Are Citizens for Baker is the authorized campaign committee for Stacie Baker, candidate for Ohio Senate District 3.
@@ -9,13 +9,13 @@ Information We Collect We collect the following categories of personal informati
 We do not collect or store payment card information.
 3.
 How We Use Your Information We use the information we collect to: Contact you about campaign events, volunteer opportunities, and campaign updates Send text messages and/or voice calls if you have provided consent (see TCPA Consent below) Coordinate volunteer and yard sign activities Comply with federal and Ohio campaign finance reporting requirements Improve our website and outreach effectiveness 4.
-TCPA Consent & Text/Voice Communications By providing your phone number and checking the consent checkbox on our forms, you expressly consent to receive marketing and promotional text messages from Citizens for Baker at the phone number provided.
+TCPA Consent & Text/Voice Communications By providing your phone number and checking the consent checkbox on our forms, you expressly consent to receive text messages about fundraising solicitations, voter engagement, volunteer engagement, and election information from Citizens for Baker at the phone number provided.
 Message frequency varies.
 Message and data rates may apply.
 To opt out of text messages at any time, reply STOP to any message.
 For help, reply HELP .
 Consent is not a condition of any purchase or support.
-Your mobile information will not be sold or shared with third parties for promotional or marketing purposes.
+Your mobile information and opt in will not be sold or shared with third parties for promotional or marketing purposes.
 5.
 ActBlue Disclaimer Online donations to Citizens for Baker are processed through ActBlue ( actblue.com ), an independent third-party platform.
 Donation transactions, including payment card data, are subject to ActBlue's Privacy Policy and Terms of Service.

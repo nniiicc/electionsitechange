@@ -1,17 +1,10 @@
 {
  "description": "",
  "final_url": "https://www.anthonylyon.com/meet-anthony",
- "fingerprint": "ebafe2bd76cd524654127655780cbf746aa76912",
+ "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
  "format": 3,
  "paid_for_by": "",
- "rendered": true,
- "title": "Meet Anthony Lyon",
- "years_mentioned": [
-  "2016",
-  "2018",
-  "2022",
-  "2023",
-  "2024",
-  "2025"
- ]
+ "rendered": false,
+ "title": "",
+ "years_mentioned": []
 }

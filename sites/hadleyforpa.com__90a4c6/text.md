@@ -7,8 +7,12 @@ Oct 19 Register by Monday, October 19 New voters and anyone who moved.
 Make my plan to vote Check my registration Find my polling place Invest in Hadley Not right now New Ad Where she comes from Her roots in the Pittsburgh region, and her plans for what comes next.
 30 seconds Vote Voter Action Center Make your plan to vote.
 Everything you need to register, request a mail ballot, and find your polling place in District 44.
-Countdown to Election Day Election Day • November 3, 2026 -- Days to Go Tuesday, November 3, 2026 Register to Vote Start Check Your Registration Verify Request a Mail‑In Ballot Apply Find Your Polling Place Locate Oct 19 Register to Vote By Last day to register, or to update your address if you have moved.
-Deadline Save Oct 27 Request Mail Ballot By Completed ballots must be received by 8 PM on Election Day, not just postmarked.
+Make your plan to vote.
+Everything you need to check your registration, request a mail ballot, and find your polling place in District 44.
+Countdown to Election Day Election Day • November 3, 2026 -- Days to Go Tuesday, November 3, 2026 Register to Vote Start Check Your Registration Verify Request a Mail‑In Ballot Apply Find Your Polling Place Locate Make Your Plan to Vote Start Oct 19 Register to Vote By Last day to register, or to update your address if you have moved.
+Deadline Save Registration Closed Not sure you are registered?
+Check your status before you vote.
+Closed Check status Oct 27 Request Mail Ballot By Completed ballots must be received by 8 PM on Election Day, not just postmarked.
 Deadline Save Nov 3 Election Day Polls open 7 AM to 8 PM.
 In line by 8?
 You can still vote.

@@ -1,4 +1,4 @@
-Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Campaign , Events , Issues , Legislation/Bills 3 Things You Can Do for Equality October 7, 2026 ruthhardy There are three things you can do this week to show up for equality & justice for all Vermonters, especially queer youth in our community: Listen, March, and Vote!
+Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Events , Issues , Campaign , Legislation/Bills 3 Things You Can Do for Equality October 7, 2026 ruthhardy There are three things you can do this week to show up for equality & justice for all Vermonters, especially queer youth in our community: Listen, March, and Vote!
 LISTEN: Transmission of Truth Podcast The first episode of a youth-led podcast, Transmission of Truth is out this week.
 The show was created by Outright Vermont youth organizers to make space for transgender Vermonters to tell their own stories.
 The inaugural episode is about policy and I’m honored to be a part of it.
@@ -24,6 +24,6 @@ Listen – March – Vote!
 Thank you for showing up and doing your part!
 Discover more from Ruth for Vermont Subscribe to get the latest posts sent to your email.
 Type your email… Subscribe Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Previous post Everywhere, All of the Time Next post Salisbury Free Public Library 125th Birthday Facebook Instagram Recent Posts Homer Hulbert Memorial Dedication Salisbury Free Public Library 125th Birthday 3 Things You Can Do for Equality Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe Loading Comments...
+Post navigation Previous post Everywhere, All of the Time Next post Salisbury Free Public Library 125th Birthday Facebook Instagram Recent Posts Let’s Catch Up: Vote, Listen, Watch, Write Homer Hulbert Memorial Dedication Salisbury Free Public Library 125th Birthday Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

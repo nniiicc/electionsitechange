@@ -17,7 +17,7 @@ He believes that Utah's 3rd district embodies both rugged independence and deep 
 Expanded Bio “I’m not a career politician nor a lawyer.
 I am an engineering scientist and educator.
 I identify problems and work to solve them, not make problems and promise to solve them.” Kent and his wife, Cherise Kent is an avid outdoorsman IMG_4146 Kent and his wife, Cherise 1/20 “I am not taking any corporate PAC money.
-Representative Maloy can not say the same.” Want to get involved?
+Representative Maloy cannot say the same.” Want to get involved?
 Join our Team Donate Learn more about Kent Key Issues The Constitution Our Constitution, the Bill of Rights, and the foundational promise of life, liberty, and the pursuit of happiness are sacred.
 These are not slogans, they are guardrails that keep us on the path to a better future.
 Once elected, I will proudly take the oath to “preserve, protect and defend the Constitution of the United States”.

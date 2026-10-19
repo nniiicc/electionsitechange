@@ -1,12 +1,16 @@
-0 Skip to Content Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Jen McEwen A Senator for These Times About Jen Senator Jen McEwen represents Duluth in the Minnesota State Senate.
-She serves as the Chair of the Senate Labor Committee , Vice Chair of the Senate Environment and Natural Resources Policy and Legacy Finance Committee , and is a member of the Senate Transportation Committee and the Senate Energy Committee .
-She is a founding member of the legislature’s Minnesota Health Plan Caucus, which advocates for universal public health care coverage for all Minnesotans regardless of employment status.
-She is also a founding member of the legislature’s Reproductive Freedom Caucus, and was the lead author of the Protect Reproductive Options (PRO) Act that codified the legal right to an abortion in Minnesota state statutes.
-This fortified reproductive rights in Minnesota as federal rights and protections were taken away.
-Jen spearheaded and led the 2023 Omnibus Labor package, hailed as transformational for unions and workers in Minnesota, and included banning captive audience meetings, voiding non-compete clauses, expanding teacher bargaining power, extending earned sick and safe time to every Minnesota worker, and strengthening common sense worker safety laws, among a number of other initiatives.
-She also successfully established a massive funding initiative for the statewide replacement of all residential lead service lines in Minnesota, and led the Senate in correcting a historical wrong by finally allowing hourly school workers like kitchen staff, bus drivers, and paraprofessionals to receive unemployment insurance when they are laid off.
-Prior to serving in the Minnesota Senate, Jen served as an attorney representing workers with disability claims against insurance companies and served as board chair of the Damiano Center.
-Vision -- Passion -- Integrity Newsletter Block This newsletter signup form needs a storage option.
+0 Skip to Content Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Jen McEwen A Senator for These Times About Jen — Vision — Passion — Integrity — The richest 1% of Minnesotans now own nearly a third of all the wealth in our state.
+This level of outrageous wealth inequality is not normal, and it should not be acceptable to any of us.
+Meanwhile, many Minnesotans are faced with housing insecurity, and unaffordable childcare and health insurance.
+Too often we are told that we don’t have the money to meet these needs.
+That’s not true.
+We live in a wealthy state, in the wealthiest nation to ever exist on the planet.
+The problem is our extreme wealth inequality.
+I am working to increase taxes on the rich .
+Last year I introduced S.F.
+2290, and in the bill’s hearing we showed that simply by taxing the top #% of earners in Minnesota just #% more, we would raise over a billion dollars each year to go toward the public goods we desperately need.
+I am committed to building a future where we all enjoy the basic dignities we deserve : affordable housing and childcare, reduced property taxes, and healthcare for all as a human right.
+It will take all of us, rising up and demanding better from our elected officials regardless of party, to get there.
+Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign Up to Receive Campaign Updates First Name Last Name Email Address Sign Up We respect your privacy.
 Thank you!

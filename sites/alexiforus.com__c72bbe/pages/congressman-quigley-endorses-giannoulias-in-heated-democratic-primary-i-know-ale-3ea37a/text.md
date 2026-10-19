@@ -36,6 +36,11 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts African-American Leaders Rally Behind Giannoulias for Secretary of State Several Black elected officials – including state legislators, mayors and committeepersons – announced their support today for Democrat Alexi Giannoulias in the race for Illinois Secretary of State.
-Keep Reading → First-in-the-Nation Legislation to Prevent Book Bans Signed into Law Giannoulias initiated HB 2789 to protect the freedom of speech and support and unite libraries and librarians Keep Reading → Democrat Giannoulias Ends Fundraising Quarter with Approximately $3.5 Million on Hand Secretary of State Campaign Amasses Broad-Based Coalition of Support Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Giannoulias Secures LIUNA Support for Secretary of State Bid Democrat candidate for Illinois Secretary of State Alexi Giannoulias has secured a key statewide labor endorsement from the Laborers’ International Union of North America (LIUNA).
+Keep Reading → Giannoulias Earns Illinois Federation of Teachers’ Endorsement for Secretary of State Statewide 100,000+ Member Organization Supports Democrat in 2022 Keep Reading → Alexi Giannoulias backed by retiring U.S.
+Rep.
+Bobby Rush and supporters of Ald.
+Pat Dowell in bid for secretary of state SPRINGFIELD — Days after announcing he will step down from his congressional seat, veteran U.S.
+Rep.
+Bobby Rush announced Friday he will endorse Alexi Giannoulias Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

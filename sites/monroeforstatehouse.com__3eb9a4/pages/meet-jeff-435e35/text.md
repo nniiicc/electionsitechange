@@ -1,4 +1,4 @@
-top of page HOME MEET JEFF THE ISSUES NEWS GET INVOLVED DONATE Meet Jeff Jeff Monroe’s roots run deep in rural Alabama.
+top of page HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED DONATE Meet Jeff Jeff Monroe’s roots run deep in rural Alabama.
 Since 2001, Jeff and his wife Cindy Tubbs Monroe have lived in Chambers County.
 He spent his formative years in the Moody area, graduating from St.
 Clair County High School.
@@ -35,4 +35,4 @@ Improvements in these three pillars are the foundation for enhancing the Quality
 Jeff has been married to Cindy Tubbs Monroe since 2001.
 They are the parents of Carlie Tubbs Price and Emile Monroe Milam, sons-in-law Nick Price and Brandon Milam; and the grandparents of Emma Anthony, Leigha Anthony, Cooper Price, Marli Price, and Sophie Price; Sarah, Jace, and John Milam.
 They attend Church of the Highlands in Opelika.
-Privacy Policy HOME MEET JEFF THE ISSUES NEWS GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page
+Privacy Policy HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page

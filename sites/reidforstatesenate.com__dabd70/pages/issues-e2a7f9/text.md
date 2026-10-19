@@ -16,7 +16,7 @@ As State Senator, I will advance policies that expand housing choices, respect l
 My Opponent An overview of some of his votes over the years AFFORDABILITY BILLS 2026 Senate Bill 1: STATE BUDGET ADJUSTMENTS He voted against free breakfast and lunch for kids in school.
 He voted against universal pre-k.
 He voted against making child care more affordable.
-He voted against a tax-free week to buy school supplies.
+He voted against making school supplies tax-free.
 Put together with 2025 House Bill 7287: STATE BUDGET APPROPRIATION AND IMPLEMENTER: He voted against $660M in municipal aid increases in the biennium budget, money that could have significantly reduced property taxes in our district.​ EMERGENCY STATE RESPONSE RESERVE 2025 House Bill 8003: FUNDS TO ADDRESS REDUCTIONS IN FEDERAL FUNDING He voted against providing food and retaining healthcare coverage for tens of thousands of residents, arguing a one-time fix was not a solution.
 DOMESTIC VIOLENCE BILLS 2026 Senate Bill 485: EXPANDING THE ADDRESS CONFIDENTIALITY PROGRAM He voted against letting domestic violence victims keep their home address out of public record.
 2025 House Bill 7287: STATE BUDGET APPROPRIATION AND IMPLEMENTER He voted against funding for the domestic violence hotline.

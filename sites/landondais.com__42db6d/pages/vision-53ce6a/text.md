@@ -21,6 +21,10 @@ Landon's Campaign to End Veterans' Poverty fights for the housing, jobs, benefit
 06 · HEALTH CARE Care everyone can reach Affordable, preventive health care close to home, and standing with the nurses and health workers who care for our communities.
 07 · EVERY NEW YORKER COUNTED If you're not counted, you're not heard The census decides our representation and our fair share of funding.
 That is why Landon secured funding to build a dedicated state office focused on the census, and why he will keep fighting until every New Yorker — in every neighborhood — is counted.
+08 · FIXING E-ZPASS An E-ZPass Bill of Rights An E-ZPass Bill of Rights for New Yorkers.
+Clear notice before fees pile up, a fair way to dispute mistakes, and no surprise penalties that turn a toll into a debt.
+09 · YOUTH SPORTS Make youth sports affordable Every kid deserves a spot on the team.
+Lower the cost of leagues, fields and equipment so no family has to choose between paying the bills and their child's game.
 A stronger tomorrow starts here.
 Join the Movement LANDON DAIS | ASSEMBLY MEMBER | DISTRICT 77 Instagram Facebook X Paid for by Landon Dais for NY Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

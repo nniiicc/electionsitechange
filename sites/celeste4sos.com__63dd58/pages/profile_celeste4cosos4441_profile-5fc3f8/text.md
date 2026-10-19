@@ -1,7 +1,7 @@
 top of page Home Meet Priorities News Newsletters Events Help Donate Celeste Landry Admin 0 Followers 0 Following Candidate for Colorado Secretary of State Follow More actions Profile Profile Join date: Jun 2, 2026 Posts (35) Oct 13, 2026 ∙ 2 min Week 35: The "mass media" campaign Dear Colorado Voter, It’s been a busy week!
 Wed, Oct 7 – City Matters* podcast out of CO Springs https://open.spotify.com/episode/1WaDgyYrsKIYGccXh98iFy Thurs, Oct 8 – New campaign literature* now prominently posted on my website’s home page Fri, Oct 9 – Kalshi https://kalshi.com/markets/kxsecstateco/co-secstate/kxsecstateco-26 Sat, Oct 10 – Colorado Politics’ only-major-party-candidates debate.
 My supporters and I showed up to tell the world that I’m a candidate and was being excluded by a...
-4 0 Oct 7, 2026 ∙ 2 min Week 34: The campaign is now in the Spending Money phase Dear Colorado Voter, With 4 weeks left, I am now spending the money that you all have so generously donated.
+7 0 Oct 7, 2026 ∙ 2 min Week 34: The campaign is now in the Spending Money phase Dear Colorado Voter, With 4 weeks left, I am now spending the money that you all have so generously donated.
 A billboard on I-25.
 New campaign literature so I can succinctly introduce myself.
 Online advertising.

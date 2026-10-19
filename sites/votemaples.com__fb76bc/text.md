@@ -5,7 +5,7 @@ Jon Maples is the Republican candidate for Florida House District 87, bringing a
 Across northern Palm Beach County, families are feeling the pressure of rising insurance costs, higher property taxes, growing congestion, and increasing affordability challenges.
 Residents deserve leadership that understands these realities firsthand and focuses on practical solutions instead of growing bureaucracy.
 As a husband, father, and Palm Beach County business leader, Jon Maples knows Florida’s future depends on strong families, economic opportunity, public safety, and accountable government that stays connected to the people it represents.
-Meet Jon Donate Focused on What Matters Most Families across District 87 continue to face: Rising property taxes Higher insurance premiums Affordability challenges Traffic congestion and infrastructure concerns Pressure on local waterways and public resources State government should focus on practical solutions that improve everyday life for Florida residents instead of delaying action on issues affecting local communities.
+Meet Jon Get Involved Focused on What Matters Most Families across District 87 continue to face: Rising property taxes Higher insurance premiums Affordability challenges Traffic congestion and infrastructure concerns Pressure on local waterways and public resources State government should focus on practical solutions that improve everyday life for Florida residents instead of delaying action on issues affecting local communities.
 # : # : # : # Days until Election Day Every Vote Counts for HD 87.
 The future of Palm Beach County is on the ballot this November 3rd.
 Make sure your voice is heard!
@@ -22,4 +22,4 @@ Together, The Maples’s built their careers, raised their family, and put down 
 Jon is a financial planner in Palm Beach Gardens and Kristi is a science teacher at The King’s Academy.
 Jon and his family live in Jupiter’s Abacoa neighborhood and enjoy playing pickleball and board games together.
 Learn About Jon Maples Stay Connected With Jon Maples Learn more about Jon's priorities, explore campaign updates, follow media coverage, and stay informed about the issues shaping Florida House District 87 and communities across Palm Beach County.
-Media & Updates Follow Jon on Instagram Stay Informed Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.
+Get Involved Follow Jon on Instagram Stay Informed Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

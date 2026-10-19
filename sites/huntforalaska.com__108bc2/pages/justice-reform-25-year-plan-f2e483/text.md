@@ -45,7 +45,7 @@ Successful Reentry Focus Employer tax credits for hiring formerly incarcerated i
 Partnerships with housing nonprofits to prevent homelessness after release.
 Alaska's justice system won't fix itself.
 Be part of the team to put Alaska first.
-Donate $25 Donate $50 Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Donate $25 Donate $50 Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

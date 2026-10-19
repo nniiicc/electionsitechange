@@ -5,4 +5,5 @@ My opponent has filed legislation in the statehouse that would enable and allow 
 This is something I also strongly oppose.
 This is not something that most people want, and as your state legislator, I would never support such a thing.
 My thoughts are with everybody in those communities that are being terrorized right now, and I hope that we see a quick end to this activity.
-Previous One reason I support Labor Unions Next Being an Inaugural Member of American Service Fellowship at Harvard You Might Also Like Powder Point Bridge My thoughts on the audit 25th Anniversary of 9/11 One reason I support Labor Unions Halifax's recent water shutoffs Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Previous One reason I support Labor Unions Next Being an Inaugural Member of American Service Fellowship at Harvard You Might Also Like CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Yet another school shooting today My work to build the Pembroke Community Center One reason I support Labor Unions 25th Anniversary of 9/11 Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

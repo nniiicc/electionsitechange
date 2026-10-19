@@ -13,6 +13,5 @@ I really want to thank all six legislators for the 31st and 25th Districts who w
 Drew Stokesbary , Rep.
 Melanie Stambaugh and Senator Pam Roach .
 You can read the Mayor’s full letter here .
-In the News legislature transportation More For You Bills sponsored by Rep.
-Stokesbary signed into law In the News Tacoma News Tribune picks Stokesbary Endorsements Improving the Traffic Avenue bridge above Highway 410 In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News legislature transportation More For You Construction industry backs Stokesbary Endorsements Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

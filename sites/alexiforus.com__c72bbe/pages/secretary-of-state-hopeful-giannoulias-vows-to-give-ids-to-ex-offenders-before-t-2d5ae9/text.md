@@ -7,8 +7,11 @@ Senate candidate also plans to eliminate the short-term correctional release car
 Other states — such as Florida, Oklahoma and Missouri — have already streamlined the process for IDs for people awaiting release from prison, according to a news release announcing Giannoulias’ policy proposal.
 Former Gov.
 Bruce Rauner signed legislation into law in late 2016 meant to make it easier for people leaving prisons to get a state identification card, but that process can be harder for those who don’t have access to the required birth certificate or Social Security card.
-Continue Reading at Chicago Sun Times Related Posts Pat Dowell Endorses Giannoulias for Secretary of State Former Illinois Secretary of State candidate and Alderman Pat Dowell announced today that she is endorsing former Illinois State Treasurer Alexi Giannoulias for the Democratic nomination Keep Reading → Alexi Giannoulias: 5 additives in ultraprocessed food put us at risk.
-Illinois wants to change that.
-Paint primer is how Consumer Reports describes titanium dioxide — the powdery chemical that whitens salad dressings, smooths chocolate and makes candy brighter.
-New state Keep Reading → Giannoulias and Ford: Eliminate Illinois’ Air Freshener Law Democrats Push to Amend State Law to Curb Pretextual Stops that Target Minorities Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Continue Reading at Chicago Sun Times Related Posts Voting Rights Keep Reading → Trust Happy New Year!
+I hope you and your family are safe and healthy.
+Since word has gotten out about my interest in running for Illinois Keep Reading → Can license plate data be used against women seeking an abortion?
+Illinois Secretary of State Alexi Giannoulias is backing what he says is a first-in-the-nation bill to outlaw sharing or selling license plate data for women seeking abortions.
+He fears this data could be weaponized as some states try to criminalize helping someone get an abortion.
+NBC News’ Anne Thompson explains more.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

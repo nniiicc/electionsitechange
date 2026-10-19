@@ -1,5 +1,6 @@
-Early voting starts Oct 19 — make your plan!
-Home About Platform Endorsements Vote VOLUNTEER Legal Terms and Conditions Text Messaging Terms & Conditions By signing up for text message updates, you agree to receive political text messages from Werstler26 at the mobile number you provided.
+Early voting is open through Sunday, Nov 1.
+Find your location here!
+Home About Platform Endorsements Vote VOLUNTEER Terms and Conditions Text Messaging Terms & Conditions By signing up for text message updates, you agree to receive political text messages from Werstler26 at the mobile number you provided.
 Message frequency may vary based on your interactions, upcoming events, or important notices from Werstler26.
 Message and data rates may apply depending on your mobile carrier plan.
 For assistance, reply HELP or email us at ethan@werstlerforct.com .

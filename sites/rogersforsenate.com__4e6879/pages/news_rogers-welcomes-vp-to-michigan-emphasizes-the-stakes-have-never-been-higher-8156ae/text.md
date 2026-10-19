@@ -58,7 +58,7 @@ Let's get this done.
 Let's win for the country.
 We're going to win.
 Thank you, everybody.” Learn more about Mike Rogers and his plans to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Next Next AD: MICHIGAN CAN’T AFFORD ABDUL EL-SAYED MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous MIKE ROGERS OPENS NEW CAMPAIGN OFFICE IN THE HEART OF DETROIT Next Next AD: MICHIGAN CAN’T AFFORD ABDUL EL-SAYED MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

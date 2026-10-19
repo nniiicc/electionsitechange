@@ -1,0 +1,61 @@
+0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 9/17/26 Scott Petty 9/17/26 Capitol View: The House is out until the election By Brian Bakst and Peter Cox, MPR News “ Minnesota is in for a Washington shuffle no matter how November turns out.
+Democratic U.S.
+Rep.
+Angie Craig is exiting the House and will leave her spot as the top Democrat on the House Agriculture Committee.
+U.S.
+Sen.
+Amy Klobuchar, the DFL nominee for governor, would give up the ranking member title on the companion Senate Agriculture Committee if she wins her race.
+Sen.
+Tina Smith, who is retiring, had held ranking member positions on a couple of Senate subcommittees.
+Republican U.S.
+Rep.
+Pete Stauber is looking to move up the ladder.
+He is currently chairman of the Subcommittee on Energy and Mineral Resources but is looking to be the top Republican (either chair or ranking member depending on which party has the majority) on the full Committee on Natural Resources.
+The current chair must step aside due to term limits.
+The dean of Minnesota’s delegation, Democratic Rep.
+Betty McCollum, is her party’s top figure on the Subcommittee on Defense Appropriations and would continue in that role if reelected, a spokesperson for her confirmed.
+The most-visible Republican Minnesota has in Washington, Republican Rep.
+Tom Emmer, also has a lot riding on November given his role as House majority whip.” Read More Scott Petty 9/17/26 Scott Petty 9/17/26 Klobuchar pushes AI safety bill as Trump and GOP House leaders downplay need for oversight By Sydney Kashiwagi, The Minnesota Star Tribune “Among Minnesota Democrats, Rep.
+Angie Craig is in the process of joining a bipartisan working group that’s being put together on AI.
+Rep.
+Betty McCollum said she plans to support a bill by Rep.
+Greg Cesar and Sen.
+Bernie Sanders that would permanently ban the development of a ‘superintelligent’ AI and put a temporary pause on any advanced AI development until federal safety rules have been established.” Read More Scott Petty 9/17/26 Scott Petty 9/17/26 The Challengers: Why it will be hard, in a midterm likely to herald change, to oust a congressional incumbent in Minnesota By Ana Radelat, MinnPost “Like many Republicans running for all types of office in Minnesota this year, Wikstrom, 64, is raising the issue of fraud in social service programs in the state, which Rep.
+Betty McCollum, as a federal lawmaker, had no direct control of.” Read More Scott Petty 9/16/26 Scott Petty 9/16/26 morning take | Flanagan Launches General Ad By Blois Olson, morning take “ MATERIALS: via Rep.
+Betty McCollum advisory, VERBATIM: ‘Congresswoman Betty McCollum and Congressman Matt Van Epps (R-TN) introduced the Critical Materials Future Act.
+This bipartisan, bicameral legislation would establish a pilot program at the Department of Energy to financially support domestic critical material processing projects. … It [grants] the Secretary of Energy the authority and funding to deploy innovative financial mechanisms, such as contracts for differences and advanced market commitments, within this sector.” Read More Scott Petty 9/15/26 Scott Petty 9/15/26 House Bill Aims to Boost Critical Minerals Processing in US By Benjamin Hernandez, Bloomberg Law “The Critical Materials Futures Act, cosponsored by Reps.
+Betty McCollum (D-Minn.) and Matt Van Epps (R-Tenn.), would authorize the secretary of energy to “deploy innovative financial mechanisms” to boost the supply of minerals such as graphite, nickel, and cobalt that are used in such items as smartphones, electric vehicle batteries, solar panels, and wind turbines.” Read More Scott Petty 9/11/26 Scott Petty 9/11/26 US Rep.
+Betty McCollum remembers 9/11, 25 years later By Mary Murphy, Forum News Service via Pioneer Press “The congresswoman, who was in Washington that day, is the only member of Minnesota’s 2001 delegation still serving today.” Read More Scott Petty 9/10/26 Scott Petty 9/10/26 Trump's $5,000 dividend promise draws backlash, legal questions By Mike Manzoni, FOX 9 “Democratic Congresswoman Betty McCollum, dean of Minnesota’s congressional delegation, called it a ‘desperate gimmick.’” Read More Scott Petty 9/3/26 Scott Petty 9/3/26 With 3 Federal Bills in Play, Hopes are High for Full Gluten Labeling By Wendy Mondello, Allergic Living “Celiac Safety Act of 2026 (HR 9048): Would require any product to list “gluten-containing grains,” defined as wheat, barley, rye or any crossbred hybrids (such as triticale) as major allergens.
+Introduced in the U.S.
+House of Representatives in May 2026 by Representatives Emanuel Cleaver and Betty McCollum.” Read More Scott Petty 9/2/26 Scott Petty 9/2/26 Minnesota Primary Sets November Matchups From Ramsey County To Statewide Races By Damian Goebel, Community Reporter “In the 4th Congressional District, longtime DFL U.S.
+Rep.
+Betty McCollum defeated challenger Aswar Rahman with about 86% of the vote.
+Republican Paul Wikstrom won his party’s nomination with about 73%, setting up a McCollum-Wikstrom contest in November.” Read More Scott Petty 9/2/26 Scott Petty 9/2/26 U.S.-Canada trade war looms as issue in Minnesota midterm elections By Ana Radelat, MinnPost “‘Canada is not the 51st state,’ Rep.
+Betty McCollum, D-4th District, said on X. ‘It’s a sovereign, democratic nation — and one of our closest allies.
+We share history, culture, and borders.
+They are a treasured neighbor, friend, and close ally.
+President Trump’s decision to bully Canada and impose steep tariffs is a huge mistake, and all of us will pay for it.’ McCollum joined Rep.
+Kelly Morrison, D-3rd District, and about 80 other House Democrats in sending a letter to Trump that urged an end to the trade war.” Read More Scott Petty 9/2/26 Scott Petty 9/2/26 U.S.
+Congress: Lawful Hemp Protection Act Gains Two New Bipartisan Cosponsors By Anthony Martinelli, The Marijuana Herald “Representatives James Baird (R-IN) and Betty McCollum (D-MN) formally joined H.R.
+9830 as cosponsors this week.
+Their additions give the bill support from four Republicans and four Democrats.” Read More Scott Petty 9/2/26 Scott Petty 9/2/26 morning take | More Per Pupil $, No Tax Increase By Blois Olson, morning take “ RESPONSE: via DFL Rep.
+Betty McCollum statement, McCOLLUM: ‘I voted for this bipartisan continuing resolution to keep the federal government operating through December 11th because Americans deserve certainty that the government services they rely on will be there for them. … Americans cannot afford a government shutdown on top of President [ Donald ] Trump ’s failure to address the rising cost of living.’” Read More Scott Petty 9/1/26 Scott Petty 9/1/26 Congress-passed bill to avert shutdown omits funds for Trump-class battleship By Svetlana Shkolnikova, Stars and Stripes “Rep.
+Betty McCollum of Minnesota, the top Democrat on the committee’s defense subpanel, noted Tuesday that the legislation also does not include any of the administration’s requested supplemental funding for the war in Iran.” Read More Scott Petty 9/1/26 Scott Petty 9/1/26 House passes funding stopgap, averting government shutdown in October By Valerie Insinna, Breaking Defense “Rep.
+Betty McCollum, ranking member of the House Appropriations defense subcommittee, praised the bill for its exclusion of Iran war funding. ‘I am very proud that this bill for the CR does not have funding that the president requested in his supplemental for the war in Iran, which was his war of choice,’ she said on the House floor ahead of passage.” Read More Scott Petty 8/26/26 Scott Petty 8/26/26 morning take | Third Party Hope By Blois Olson, morning take “ TODAY: DFL Rep.
+Betty McCollum will host a roundtable on health care affordability in St.
+Paul at 10:30 a.m.” Read More Scott Petty 8/20/26 Scott Petty 8/20/26 morning take | Walz Tries to Shape Legacy By Blois Olson, morning take “ VACCINES: via Rep.
+Kelly Morrison advisory, VERBATIM: “Representative Kelly Morrison (MN-03) joined almost 90 of her colleagues in demanding President [Donald] Trump rescind his dangerous executive order that urges schools to reduce the number of required vaccines for children.” Other lawmakers who signed the letter include Reps.
+Angie Craig , Betty McCollum and Ilhan Omar plus Sen.
+Tina Smith .” Read More Scott Petty 8/19/26 Scott Petty 8/19/26 Walz moves to ban copper-nickel mining near Boundary Waters By Torey Van Oot, Axios “DFL U.S.
+Rep.
+Betty McCollum, who has pushed for years for a federal ban, praised Walz's move as ‘bold leadership… that protects the pristine waters of the Boundary Waters and its watershed.’” Read More Scott Petty 8/18/26 Scott Petty 8/18/26 Minnesota’s Walz Bars Boundary Waters Mines, Rebuffing Trump (2) By Benjamin Hernandez, Bloomberg Law “Rep.
+Betty McCollum (D.
+Minn.) also commended the move, saying in a statement that Congress should now seek to pass her legislation — H.R.
+588 — ‘to provide a permanent federal protection for this national treasure.’” Read More Scott Petty 8/18/26 Scott Petty 8/18/26 Walz throws up new roadblock to mining near Boundary Waters By Hannah Northey and Ian M.
+Stevenson, E&E News by POLITICO “Democratic Rep.
+Betty McCollum of Minnesota in a statement said she supported Walz’s decision and called on Congress to pass legislation to permanently protect the Boundary Waters.
+McCollum and other Democrats have floated language in the past to ban mining near the wilderness area. ‘The danger of copper mining to our clean water is clear and overwhelming: 100% of copper mines have failed, leading to polluted water,’ McCollum said.” Read More Scott Petty 8/18/26 Scott Petty 8/18/26 Refugees from Myanmar lose TPS protections, sparking fear in Minnesota’s Karen community By Andrew Hazzard, Sahan Journal “Minnesota Democratic Rep.
+Betty McCollum, who serves as the co-chair of the Burma Caucus, has been critical of the decision. ‘If it’s unsafe for Americans to travel to Burma, then it’s unsafe for those who have fled the country and been given protected status to return home — where they could be killed, imprisoned, or interned,’ McCollum said in a statement.” Read More Newer Posts Older Posts Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+(651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
+Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

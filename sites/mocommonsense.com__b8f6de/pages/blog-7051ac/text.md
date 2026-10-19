@@ -9,7 +9,12 @@ I love this state.
 Missouri is home to the best sports teams, great universities and beautiful landscapes.
 We have the benefit of being centrally located, on the Missouri and Mississippi Rivers, with seven distinct geographical regions in our state.
 I'm a little biased, but I'm especially fond of our great floating rivers and streams in the southern region.
-I'm running for the 10th District in the Missouri Senate, recently vacated by T mocommonsense Apr 1 1 min read Fall Season Fall has arrived, pumpkins are out and voting season is just around the corner!
+I'm running for the 10th District in the Missouri Senate, recently vacated by T mocommonsense Apr 1 1 min read Participate in the process As we enter the last few weeks of this election cycle, you'll have a few more opportunities to hear directly from your candidates.
+I encourage you to take part.
+If you have questions about who to vote for, get out and participate in the process.
+Meet them, ask questions, weigh whether or not they would be a good representative for you.
+I'll be on the road a lot this week giving voters all across Senate District 10 a chance to meet and talk with me.
+Join us at one of these sto mocommonsense #ago 1 min read Fall Season Fall has arrived, pumpkins are out and voting season is just around the corner!
 There is a lot going on in October, so here is a quick rundown of all the events you might want to visit.
 Oct.
 3 - Paynesville Homecoming 1-3 pm Laborers and Farmers Rally St.
@@ -26,15 +31,6 @@ I believe he should resign.
 But at the very least, we should vote him out of office in the next election.
 There has to be consequences for bad behavior, and that has to come from us, the voters.
 It is OUR job to hold elected officials to account, and that's why it's so important for everyone to vote.
-We have to send a message - we mocommonsense Sep 13 1 min read Race to the finish We are now just two months from the election.
-This whole process has been a whirlwind.
-Seems like there's not enough time to get all the things I wanted to do done.
-And will it be enough?
-Does any of it matter?
-I think so.
-If nothing else, people can see that we're trying.
-We're out among the people, because that's what we purport to be doing - representing the people.
-So, we're listening, observing, asking questions.
-There is a new generation of Missourians coming of age, an mocommonsense Aug 30 1 min read Wells for Missouri - MoCommonSense.com Donate to Wells for Missouri Senate Campaign through Act Blue.
+We have to send a message - we mocommonsense Sep 13 1 min read Wells for Missouri - MoCommonSense.com Donate to Wells for Missouri Senate Campaign through Act Blue.
 Contact Phone: 573-356-5926 Email: mocommonsense@gmail.com Holts Summit, MO Find me on Social Media: Privacy Policy Accessibility Statement ©# mocommonsense.com.
 Powered and secured by Wix. bottom of page

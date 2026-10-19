@@ -3,12 +3,6 @@ Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 8:00 PM Google Calendar ICS Do your r
 Its up to us to get money out of politics!
 Grab your neighbors, friends, and family members and go vote!
 VOTE EARLY!
-View Event → Oct 18 Meet Doug Chapin Sunday, October 18, 2026 1:00 PM 3:00 PM 11445 Brenda Boulevard Becker, Minnesota, 55308 United States (map) Google Calendar ICS Join Doug Chapin and Vanessa Davenport in Becker for an open community conversation!
-No political knowledge required.
-Just curiosity, questions, and a shared interest in building a stronger community together.
-Light refreshments will be provided.
-Other local DFL House & Senate candidates have been invited to participate.
-RSVP Today!
 View Event → Oct 21 Orrock Door Knocking Wednesday, October 21, 2026 4:00 PM 7:00 PM Orrock Township Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Mobilize Signup Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: TBD Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
@@ -21,6 +15,12 @@ Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots availabl
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
+View Event → Oct 18 Meet Doug Chapin Sunday, October 18, 2026 1:00 PM 3:00 PM 11445 Brenda Boulevard Becker, Minnesota, 55308 United States (map) Google Calendar ICS Join Doug Chapin and Vanessa Davenport in Becker for an open community conversation!
+No political knowledge required.
+Just curiosity, questions, and a shared interest in building a stronger community together.
+Light refreshments will be provided.
+Other local DFL House & Senate candidates have been invited to participate.
+RSVP Today!
 View Event → Oct 17 Vote Early Protest!
 Saturday, October 17, 2026 12:30 PM 2:30 PM Pedestrian Bridge over Hwy 169 (map) Google Calendar ICS Pedestrian bridge over Hwy 169 in Elk River.
 Plenty of parking!
@@ -151,15 +151,4 @@ Also, if you do not wish to use your personal number, please download an app lik
 It’s free.
 It may seem silly, but studies have shown that knocking on doors and meeting voters directly is one of the most effective ways to ensure that people stay engaged in their communities and vote in elections.
 We need your help to get more door knockers!
-Time: 5-7PM Candidates: Vanessa Davenport (27A), Charles McConaughay (House 27B), and Brandon Van Dover (Senate 27) Google Meet joining info: Video call link: https://meet.google.com/ijb-goba-vje Or dial: ‪(US) +1 320-515-2075‬ PIN: ‪118 452 244‬# More phone numbers: https://tel.meet/ijb-goba-vje?pin=5740453514030 View Event → Aug 5 Leashes Off, Conversations On Wednesday, August 5, 2026 6:00 PM 8:00 PM Orono Dog Park (map) Google Calendar ICS No speeches.
-No agenda.
-Just conversation.
-Mobilize Sign Up / Facebook Event Page Join me at the Orono Dog Park for a relaxed afternoon.
-Bring your dog or just yourself.
-Bring the kids too!
-Keenan and I are running to protect our community and make sure rural families aren’t left carrying the burden.
-We are not here to talk at you, we are here to listen.
-Stop by, say hello, and share what matters to you.
-Orono Park, 18599 Gary St.
-NW, Elk River I’ll try a short Facebook Live during the event for anyone who can’t make it.
-View Event → Paid for by Davenport for Minnesota House 27A
+Time: 5-7PM Candidates: Vanessa Davenport (27A), Charles McConaughay (House 27B), and Brandon Van Dover (Senate 27) Google Meet joining info: Video call link: https://meet.google.com/ijb-goba-vje Or dial: ‪(US) +1 320-515-2075‬ PIN: ‪118 452 244‬# More phone numbers: https://tel.meet/ijb-goba-vje?pin=5740453514030 View Event → Paid for by Davenport for Minnesota House 27A

@@ -122,7 +122,7 @@ After 5 years of service half of the debt should be written off.
 After a further 5 years - 10 years in total - the remaining debt should be written off.
 Many, but not all, such hires will stay on after their debt is written off because they have experienced the many benefits of smaller town life, the life I have lived for the past 25 years.
 My health care proposals are: -Preventive health screenings for adults -Doctor visits, prescriptions, and dental care free up to age 14 -Pregnancy care from prenatal checkups to labor, delivery and postpartum care Fertility treatment HOUSING: There is an urgent need for more housing in the U.S. and a need for an increased percentage of home ownership and a decrease in the average age of the first-time home buyer.
-If elected, I will be very focused on providing first homes for thousands of people in the 8th district.
+If elected, I will be very focused on providing first homes for thousands of people in the 4th district.
 I have a plan with some innovative features.
 So many people are paying rents of from $1,000 up to $2,000 per month.
 My plan would provide homes for less than $1,000 per month.

@@ -37,17 +37,32 @@ Cowboys had few material possessions so were instead focused on enjoying God’s
 Public officials acting on behalf of regular folks must keep their priorities in the proper order.
 Know Where To Draw The Line Everyone has a personal limit on what you will say, do, or allow to happen in your personal or professional life.
 Because of the potential risk to our society, however, public officials have a greater obligation to recognize, respect, and ensure accountability for violations of the boundaries.
-Partisanship undermines this responsibility by expecting inaction for violations supported by the party. your independent choice Download Video Likely voters in South Dakota urgently need to know Mike Rounds has been in Washington too long.
-He’s a career politician who answers to special interests, even when it hurts South Dakota.
-Rounds raised more from data center and tech groups than from South Dakota donors ( here ).
-He let his top staffer lobby for Facebook, who is trying to build a data center in South Dakota while he was paid more than $150,000 a year as senior Senate aide ( here ).
-Rounds is one of Washington’s top backers of data centers, his campaign is funded by data center companies, and Rounds voted to fast-track data center construction that lets them take our water and raise our utility bills.
-Voters need to see and hear this message on broadcast, cable, streaming, and YouTube.
-The next thing voters need to know is that at a time where there is rampant corruption in Washington from career politicians, Rounds leads the entire Senate in charter flight spending, $350,000 ahead of the next senator ( here ) over the last two years and has spent over $1.3 million in private charter flights to travel to his home in South Dakota since 2021 .
-He’s charged taxpayers $5 million for his travel and taken $2 million in campaign cash from special interests.
-Lastly, South Dakota need to understand Mike Rounds has been in Washington too long and is out for himself.
-He violated the law against insider trading by failing to report up to $5 million stock trades while in office.
-Now he’s selling out South Dakota families and farmers, handing Big Tech more land and tax breaks for data centers while our utility bills go up.
+Partisanship undermines this responsibility by expecting inaction for violations supported by the party. your independent choice Download Video October 18, 2026 – Please check back regularly for updates Likely voters in South Dakota in segmented messages urgently need to know: First, Mike Rounds is a career politician who answers to special interests, even when it hurts South Dakota.
+Rounds voted to cut Medicaid funding, while giving $70 billion in tax breaks to build data centers that take our water and raise our utility bills.
+He then raised more from data center and tech groups than from South Dakota donors ( here ).
+He let his most trusted confidant, lobby for Facebook, who is trying to build a hyper scale data center in South Dakota while simultaneously paid more than $150,000 a year by Mike Rounds with your tax payer dollars ( here ).
+Voters need to see and hear this message on broadcast, cable, streaming, YouTube, and Meta.
+The next thing voters need to know is that while corruption is rampant in DC, Rounds leads the entire Senate in charter flight travel.
+He spent $350,000 ahead of the next senator ( here ) over the last two years.
+Rounds has spent over $1.3 million in private charter flights to travel to his home in South Dakota since 2021 .
+While most South Dakotans complain about driving to Sioux Falls to make their flights, Sen.
+Rounds’ doesn’t do that.
+He just charges taxpayers millions for his flights from Pierre ( here ).
+Voters need to see and hear this message on broadcast, cable, streaming, YouTube, and Meta.
+Lastly, South Dakotans know, but need to be reminded that there is a history of corruption with Mike Rounds after being a career politician for 35 years, that has continued since he got to Washington.
+His scandals dates back to his days as Governor (see Gear Up and EB5 scandals) He violated the law against insider trading by failing to report up to $5 million stock trades while in office.
+His net worth increased 500% while in office.
+His campaign is bankrolled by the same corporate PACs that have business before the Committees he sits on.
+Voters also need to know that Brian is an INDEPENDENT veteran who is fighting to lower costs and root out corruption in DC.
+He served in the Navy and then retired from the Air Force as a Lt.
+Colonel after 26 years of total service.
+As a military prosecutor and ethics advisor in the Air Force, his job was to prevent and prosecute corruption in the military.
+His anti-corruption platform includes: Term Limits Eliminating Corporate PACs and Limiting all PAC spending Banning individual stock trading by Senators and Congressmen.
+Brian registered to vote at 18 as an Independent and has pledged not to caucus with Democrats or Republicans or vote for Chuck Schumer for leader.
+He believes that independents can serve as a balance, break the deadlock, and play an important watchdog role in the Senate.
+Voters need to see and hear this message on broadcast, cable, streaming, YouTube, and Meta.
+On streaming and Youtube, conservative leaning voters in South Dakota need to know that Brian is also earning the support of Republicans who are angry at the corruption in Washington, the prices they pay at the pump and the grocery store.
+Currently, Mike Rounds is running from President Trump .
 Back To All Policies Sign Nominating Petition Donate to Campaign Get Involved Register to Vote What I Believe What I Stand For Get Involved Information and Resources PO Box 404 Hot Springs, SD 57747 Paid for by Bengs for South Dakota.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 By providing your phone number, you agree to receive political and/or donation-related text messages from Bengs for Senate.

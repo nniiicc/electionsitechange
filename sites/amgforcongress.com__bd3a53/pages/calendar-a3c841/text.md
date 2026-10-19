@@ -1,10 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 18 Franklin County Meet & Greet Sunday, October 18, 2026 2:00 PM 3:30 PM Gibson Inn (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
-Join Amanda for a meet and greet on the front porch of the historic Gibson Inn in Apalachicola!
-Stop by on Sunday, October 18, from 2:00–3:30 PM ET to meet Amanda, hear about her plans to lower costs, cut government waste, and bring accountability back to Washington, and share what matters most to you and your community.
-View Event → Oct 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event Sunday, October 18, 2026 4:00 PM 5:30 PM Greater Bethel AME Church (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Amanda will participate in Here Am I: Songs for the Work Ahead , a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
-The event will bring together candidates, community organizations, and voters to encourage civic participation and help voters learn more about the candidates ahead of the November election.
-View Event → Oct 19 EARLY VOTING STARTS Monday, October 19, 2026 8:30 AM 7:00 PM Google Calendar ICS EARLY VOTING STARTS IN: Bay | Calhoun | Gadsden | Jefferson | Leon | Walton View Event → Oct 21 FAMU Homecoming Booster Basket Raffle Block Party Wednesday, October 21, 2026 5:00 PM 8:00 PM Patricia's Boutique (map) Google Calendar ICS NOTE: This event starts 4PM Central/5PM Eastern.
+Oct 19 EARLY VOTING STARTS Monday, October 19, 2026 8:30 AM 7:00 PM Google Calendar ICS EARLY VOTING STARTS IN: Bay | Calhoun | Gadsden | Jefferson | Leon | Walton View Event → Oct 21 FAMU Homecoming Booster Basket Raffle Block Party Wednesday, October 21, 2026 5:00 PM 8:00 PM Patricia's Boutique (map) Google Calendar ICS NOTE: This event starts 4PM Central/5PM Eastern.
 Amanda and Team AMG will be at this Block Party for FAMU’s Homecoming week celebrations.
 View Event → Oct 22 EARLY VOTING STARTS Thursday, October 22, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Jackson View Event → Oct 24 EARLY VOTING STARTS Saturday, October 24, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Franklin | Gulf | Holmes | Liberty | Madison | Taylor | Wakulla | Washington View Event → Oct 24 King Tree Parade Saturday, October 24, 2026 8:30 AM 10:30 AM Dowtown Perry (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
 Amanda will join the community in Perry for the annual King Tree Parade during the Florida Forest Festival weekend.
@@ -31,6 +26,11 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event Sunday, October 18, 2026 4:00 PM 5:30 PM Greater Bethel AME Church (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Amanda will participate in Here Am I: Songs for the Work Ahead , a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
+The event will bring together candidates, community organizations, and voters to encourage civic participation and help voters learn more about the candidates ahead of the November election.
+View Event → Oct 18 Franklin County Meet & Greet Sunday, October 18, 2026 2:00 PM 3:30 PM Gibson Inn (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
+Join Amanda for a meet and greet on the front porch of the historic Gibson Inn in Apalachicola!
+Stop by on Sunday, October 18, from 2:00–3:30 PM ET to meet Amanda, hear about her plans to lower costs, cut government waste, and bring accountability back to Washington, and share what matters most to you and your community.
 View Event → Oct 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest Saturday, October 17, 2026 2:00 PM 5:00 PM Wakulla County Extension Arena (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
 Amanda will be there with members of Team AMG!
 Fun for people and pups!
@@ -131,13 +131,5 @@ Young professionals are helping shape the future of Bay County—and the decisio
 Political Pulse gives Bay County's young professionals the opportunity to hear directly from candidates seeking local office about the issues that matter to their generation.
 View Event → Sep 27 Meet & Greet at Mosey's Downtown Sunday, September 27, 2026 4:00 PM 6:00 PM Mosey's Downtown (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Join us for a meet and greet with Amanda Marie Green!
 Have your questions answered, check your voter registration, get registered to vote (Oct 5th is deadline to register to vote in this election!), and know that your voice/your vote matters.
-View Event → Sep 26 Panama City Oktoberfest Festival Saturday, September 26, 2026 4:00 PM 10:00 PM Panama City Center for the Arts (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
-Amanda will be attending with members of Team AMG.
-September 26, 2026 from 3:00 PM – 9:00 PM at Downtown Panama City on Harrison Ave from East 5th Street to Beach Drive.
-The Main Stage will be located on the Panama City Center for the Arts lawn, located at 19 East 4th Street.
-View Event → Sep 26 Jacob City Day Parade Saturday, September 26, 2026 12:00 PM 2:00 PM Jacob City (map) Google Calendar ICS NOTE: This event starts at 11AM Central/ 12PPM Eastern Celebrate community, music, food, and family fun during Jacob City Day, happening September 25–26 in Jacob City, Florida!
-Amanda will be attending with members of Team AMG.
-On Saturday, September 26, the festivities continue with the Jacob City Day Parade at 11:00 AM.
-The parade will travel along Jackson Street and conclude at Jacob City Veterans Memorial Park, where the celebration will continue throughout the afternoon.
 View Event → TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News NEW LAWLER AD HIGHLIGHTS MEDICAID REFORMS THAT PROTECT THE SYSTEM FOR CITIZENS AND TAXPAYERS.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate News NEW LAWLER AD HIGHLIGHTS MEDICAID REFORMS THAT PROTECT THE SYSTEM FOR CITIZENS AND TAXPAYERS.
 DOES CAIT CONLEY SUPPORT UNDOING THEM AND GIVING BENEFITS TO ILLEGAL IMMIGRANTS?
 October 9, 2026 In “My Dad,” Congressman Lawler talks about losing his father to cancer and the reforms he voted for to keep Medicaid there for the families who depend on it.
 New limits on federal Medicaid for non-citizens took effect October 1, preventing abuse of the system by those in the country illegally.
@@ -22,5 +22,5 @@ In June, the Justice Department sued the state Department of Health and the cont
 Medicaid has to be there for those families, and every dollar paid for someone enrolled in two states, or for someone who has died, is a dollar that never reaches those who need it most,” said Lawler for Congress Campaign Manager Ciro Riccardi .
 “Cait Conley has spent this campaign attacking the legislation that put these protections in place.
 Does she want Washington to stop checking whether people are enrolled in Medicaid in two states at once?
-Does she want taxpayers back on the hook for 90 percent of Medicaid expenses for illegal immigrants?” ### Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Does she want taxpayers back on the hook for 90 percent of Medicaid expenses for illegal immigrants?” ### Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

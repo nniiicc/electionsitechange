@@ -15,4 +15,4 @@ Michigan Values.
 A Voice for All of Us.
 Quick Links Meet Christian Christian's Values Endorsements Events News Videos Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
 All rights reserved.
-Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113 BESbswy
+Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

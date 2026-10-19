@@ -1,4 +1,4 @@
-top of page About Rob Delivered Priorities Get Involved Events Endorsements More Use tab to navigate through the menu items.
+top of page About Rob Delivered Priorities Get Involved Events Endorsements News More Use tab to navigate through the menu items.
 DONATE About Me GROWING UP I am originally from a small mill town in eastern Connecticut.
 Both of my parents began their careers as teachers.
 In the 1970’s my dad left teaching to become a corrections officer.

@@ -1,7 +1,10 @@
 Skip to content Donate Online Donate By Mail Request Yard Sign About Contact Home Media Platform Donate Online Donate by mail About Contact Home Media Platform TENNESSEE IS READY TO HIRE A FARMER TENNESSEE IS READY TO HIRE A FARMER FIND OUT THE LATEST FROM CHARLIE HATCHER’S CAMPAIGN!
 The latest videos about Charlie, the race, and Charlie’s plan for Tennessee.
-Hatcher for Congress Follow 206 190 Former Agriculture Commissioner and fifth-generation dairy farmer Charlie Hatcher is running for Congress in Tennessee’s 5th District to put America First.
-Hatcher for Congress @HatcherforTN · 13 Oct 2109841971720167539 Great day in Dyersburg at the Rural America Roundtable with the honorable Stephen Vaden, Senator Paul Rose, Representative Rusty Grills, Representative Chris Hurt and Mayor Eric Maupin.
+Hatcher for Congress Follow 207 190 Former Agriculture Commissioner and fifth-generation dairy farmer Charlie Hatcher is running for Congress in Tennessee’s 5th District to put America First.
+Hatcher for Congress @HatcherforTN · 10h 2111909653101842548 "As a farmer, you cannot afford to be absent from the job.
+Your family and your business depend on action, hard work and determination to find solutions.
+When something goes unexpectedly on the farm, which happens more often than not, you have to move fast to solve the problem.
+Reply on Twitter 2111909653101842548 Retweet on Twitter 2111909653101842548 0 Like on Twitter 2111909653101842548 2 X 2111909653101842548 Hatcher for Congress @HatcherforTN · 13 Oct 2109841971720167539 Great day in Dyersburg at the Rural America Roundtable with the honorable Stephen Vaden, Senator Paul Rose, Representative Rusty Grills, Representative Chris Hurt and Mayor Eric Maupin.
 We had a great crowd and a productive discussion about the challenges and opportunities Twitter feed image.
 Reply on Twitter 2109841971720167539 Retweet on Twitter 2109841971720167539 1 Like on Twitter 2109841971720167539 3 X 2109841971720167539 Hatcher for Congress @HatcherforTN · 12 Oct 2109697690250760200 As a farmer, I know farming is more than a job.
 It’s a way of life built on faith, hard work, sacrifice, and generations of dedication.
@@ -21,11 +24,4 @@ Thank you to everyone Twitter feed image.
 Twitter feed image.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2108896074928738679 1 Retweet on Twitter 2108896074928738679 1 Like on Twitter 2108896074928738679 6 X 2108896074928738679 Hatcher for Congress @HatcherforTN · 9 Oct 2108355603244483015 Great discussion this morning with Westhaven residents!
-I appreciated the opportunity to listen, answer questions, and share why I’m running for Congress.
-We welcomed lots of new supporters and handed out a lot of yard signs and plenty of hats.
-Thank you to Mike Ryan for Twitter feed image.
-Twitter feed image.
-Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2108355603244483015 1 Retweet on Twitter 2108355603244483015 1 Like on Twitter 2108355603244483015 3 X 2108355603244483015 Load More Facebook X Instagram PO Box 1 College Grove, TN 37046 Paid for by Charlie Hatcher for Congress
+Reply on Twitter 2108896074928738679 1 Retweet on Twitter 2108896074928738679 1 Like on Twitter 2108896074928738679 6 X 2108896074928738679 Load More Facebook X Instagram PO Box 1 College Grove, TN 37046 Paid for by Charlie Hatcher for Congress

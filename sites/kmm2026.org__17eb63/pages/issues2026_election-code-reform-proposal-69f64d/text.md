@@ -15,7 +15,7 @@ This logic is no longer valid due to the donor class and corporations having con
 Despite the different campaign rhetoric and partisan talking points featured in the corporate media, there is actually little difference between the two major parties because they are both financially dependent on the donor class and major corporations.
 The two major parties offer only a choice in brand identity and divisive social issues — not a choice in meaningful economic policies.
 Given that neither establishment party will adopt policies to reduce economically inequality or meaningfully improve the prospects for working and middle class families, we should reform the electoral process to restore the public's power in our democracy.
-The major reforms of the election process I am proposing are ranked-choice voting, limiting gerrymandering, and a statewide primary system for four parties and independents.
+The major reforms of the election process I am proposing are a non-partisan redistricting commission, ranked-choice voting, limiting gerrymandering, and a statewide primary system for four parties and independents.
 I also believe other important goals of Election Code reform are to create a more positive and productive voting experience; allowing a wider range of viewpoints into the electoral debate; and reducing the divisiveness and polarization of election campaigns.
 Election Reform Proposal To accomplish these goals, I propose these reforms: All persons not disqualified from voting who receive a state issued identification should also be registered to vote in the county of the person’s address given in the identification.
 In each polling district there should be at least one voting machine for each one hundred eligible voters residing within the polling district and a sufficient number of polling places to prevent long lines and to have convenient locations.
@@ -28,7 +28,7 @@ The candidate with the highest preference score would be elected or be the nomin
 Electronic voting machines should be operated solely by published open-source software and should record voter selections electronically and generate two identical, clearly legible, paper print-outs of the voter’s selections.
 One print-out is for the election polling place supervisor and the other print-out is for the voter to keep and to permit one or more third party exit poll service to read and tally votes for the exit poll.
 Exit polls should be conducted in a clearly marked location convenient to the polling place exit.
-Electoral district boundaries should generally be rectangular in shape and the area should not be less than half the perimeter.
+Electoral district boundaries should be drawn by a non-partisan redistricting commission for competitive elections, generally be rectangular in shape and the area should not be less than half the perimeter.
 The ratio of area and perimeter units, using the same number base, should not be less than 0.5 using the formula: 4π * area / perimeter^2 .
 In the case where an irregular boundary line, such as a river or an existing municipal limit, makes a rectangular shape impractical, the ratio should be calculated by using a line connecting the two endpoints of the irregular boundary as part of the perimeter.
 The first district map drawn should be a square centered on the capital building in Austin, Texas.
@@ -87,7 +87,7 @@ The opportunities for gerrymandering are reduced by specifying requirements for 
 I propose using the " Polsby–Popper test " which is the most frequently used mathematical test to measure the possibility of gerrymandered electoral districts and basically says that the district area must be at least half of the district perimeter.
 The best way to eliminate gerrymandering is to use a proportional representation system, as proposed in the Texas Green Party platform but I think that change would be too difficult to pass the Legislature.
 The goal is to put the voters back in charge of elections and not mathematical purity.
-It is probably also necessary to create a non-partisan electoral districting commission with its priority being to draw competitive districts following the shape requirements.
+It is also necessary to create a non-partisan electoral districting commission with its priority being to draw competitive districts following the shape requirements.
 Given the proclivity of elected representatives to use gerrymandering, it is necessary to have a constitutional amendment that creates a non-partisan electoral district commission and mandates the method of drawing electoral districts.
 The Election System Needs to Change In previous eras, political parties consisted of vast networks of people at local, state, and national levels, allowing parties to serve as central organizing entities within local communities. . . .
 Today’s political parties perform a much less integral mediating function.
@@ -114,8 +114,9 @@ Use your vote to make a difference The more votes that I receive in the 2026 ele
 Vote for Kevin McCormick for Lieutenant Governor.
 Regards Previous article: Rural Investment Proposal Prev Next article: Property Tax Reform Proposal Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
 Trusted by Texans.
-Bo French, Jon Rosenthal battle over culture, job duties in bid to regulate the oil and gas industry Tracking the money raised and spent in the U.S.
-Senate race between James Talarico and Ken Paxton U.S.
+Hakeem Jeffries to campaign in Texas on behalf of Bexar County congressional candidate Johnny Garcia Greg Abbott raked in $# million from data center-related donors as he called for regulations U.S.
 Right to Know RSS Pursuing truth and transparency for public health FOI documents on origins of Covid-19, gain-of-function research and biolabs Before COVID, an NIH lab chief proposed making a SARS-like bat virus more infectious FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
 Distribute it fairly.
-Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS Energy efficiency is our secret weapon FedEx makes record-setting electric vehicle investment Texas Farm Bureau RSS Ruling favors Clay County landowners opposing reservoir Regional meetings connect young farmers, ranchers across Texas USDA releases 2026 cash rents for Texas cropland, pastureland
+Create a greener world for all.
+Women as Stewards in Governance of Commons “Tortured” or “Torturer”? – Corporate Media Fail to Ask the Question Reporting Texas RSS Feed not found.
+EnvironmentAmerica -- Texas RSS Energy efficiency is our secret weapon FedEx makes record-setting electric vehicle investment Texas Farm Bureau RSS Ruling favors Clay County landowners opposing reservoir Regional meetings connect young farmers, ranchers across Texas USDA releases 2026 cash rents for Texas cropland, pastureland

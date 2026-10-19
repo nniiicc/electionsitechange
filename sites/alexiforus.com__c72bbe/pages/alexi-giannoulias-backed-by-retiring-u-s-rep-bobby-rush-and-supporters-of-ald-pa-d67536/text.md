@@ -7,5 +7,10 @@ Bobby Rush announced Friday he will endorse Alexi Giannoulias for the Democratic
 Giannoulias also picked up backing from many big-name supporters of Ald.
 Pat Dowell, a former opponent who dropped out of the secretary of state’s race to run for Rush’s congressional seat.
 Dowell, however, has not said who she will endorse.
-Keep Reading Related Posts Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State Launches New Ad Announcing his Support for Former Democrat Treasurer and Their Fight for Worker Rights Keep Reading → Giannoulias Issues First 100-Days Report Outlining Major Accomplishments “Getting it Done” Report Features Achievements to Modernize the Office Keep Reading → Democrat Giannoulias Earns AFSCME Endorsement for Secretary of State CHICAGO – Democratic Nominee for Illinois Secretary of State Alexi Giannoulias today received the endorsement and campaign support of AFSCME, the nation’s largest public services employees Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Keep Reading Related Posts Giannoulias Expands Services Area at Deerfield DMV Express services for north suburban residents start today Keep Reading → Trust Happy New Year!
+I hope you and your family are safe and healthy.
+Since word has gotten out about my interest in running for Illinois Keep Reading → Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Day.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

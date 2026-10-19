@@ -1,4 +1,4 @@
-top of page Skip to Main Content Mike Freiberg For State Senator Endorsements Media Issues Voting Donate Events Accomplishments Menu I’ve spent countless hours talking to residents of District 43, and I hear consistent messages.
+top of page Mike Freiberg For State Senator Endorsements Media Issues Voting Donate Events Accomplishments Menu Close I’ve spent countless hours talking to residents of District 43, and I hear consistent messages.
 People in the Northwest Metro want affordable lives, quality healthcare, strong schools, safe communities, and a government they can trust.
 Unfortunately, federal policies continue to drive up costs and create uncertainty.
 Donald Trump’s reckless war in the Middle East is costing taxpayers billions, his tariffs cost families an average of $1700 last year, and cuts will see 450,000 Minnesotans lose essential food support. ​ As costs rise across the country for housing, groceries, energy, healthcare, and other essentials of everyday life, I’m working to put more money back in your pocket and make Minnesota more affordable.
@@ -16,4 +16,4 @@ Fraud steals resources from the people who need them most and undermines trust.
 We created an Independent Office of Inspector General to investigate and prevent fraud across state programs.
 It’s time to ban any politician convicted of fraud in Minnesota from running for office again, and prohibit anyone convicted of fraud from receiving state money again. ​ With your support, I can continue fighting for these priorities.
 Contact Mike Email: freibergforsenate@gmail.com Address: PO Box 27366, Golden Valley, MN 55427 ​ Prepared and paid for by Freiberg for Senate, PO Box 27366, Golden Valley, MN 55427.
-Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Close bottom of page
+Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments Endorsements Media Issues Voting Donate Events Accomplishments bottom of page

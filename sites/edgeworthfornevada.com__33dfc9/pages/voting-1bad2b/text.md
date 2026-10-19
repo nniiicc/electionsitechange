@@ -1,4 +1,4 @@
-top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Rebecca's Record Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 2026 Voting Guide IF YOU HAVE ANY QUESTION ON HOW TO SAFELY AND SECURELY VOTE PLEASE REACH OUT TO ME.
 I AM ALWAYS HERE TO HELP!
 702-268-9921 Rebecca@Edgeworthfornevada.com Check your Registration Register to vote!

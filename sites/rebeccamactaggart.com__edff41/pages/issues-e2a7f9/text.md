@@ -1,7 +1,7 @@
 0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN People First.
 Always.
 Issues Where Rebecca stands, spelled out in plain terms.
-Campaign Finance Economy, Jobs and Wages Education Healthcare Local Control Campaign Finance People First.
+Campaign Finance Economy, Jobs and Wages Education Healthcare Local Control Property Taxes Campaign Finance People First.
 Money Out.
 The money that decides an election almost never arrives with a name on it.
 It moves from one group to the next, and lands in your mailbox with a name that tells you nothing.
@@ -59,7 +59,7 @@ Pennsylvania is working to fix this.
 The state has started putting real money into an adequacy formula that sends the most help to the schools that need it the most.
 But progress has been slow, and small and rural communities are still waiting.
 Our schools need to be ready to give every student the tools to compete, whether that means college, a trade, or a career in a field that did not exist ten years ago.
-Education Defending Blueprints & Head Start The Head Start program has been helping helping kids in Washington County for decades.
+Education Defending Blueprints & Head Start The Head Start program has been helping kids in Washington County for decades.
 The last year and a half has been rough though.
 An early version of the federal budget would have eliminated Head Start entirely, despite its positive impacts.
 It will be threatened again.
@@ -81,6 +81,19 @@ For a family or a small business, that is real money.
 For a billion-dollar corporation, it is a rounding error.
 When the penalty for breaking local rules costs less than a company spends on coffee, communities do not have real enforcement power.
 That has to change.
+Property Taxes Make the Ads Pay Nobody likes ads.
+They interrupt your videos, clog your feed, and follow you from one website to the next.
+We are all getting buried in them.
+But they’re everywhere, and the companies selling them, like Meta and Google, make a fortune doing it.
+If we can’t get rid of the ads, let’s make them pay for something.
+Rebecca supports the proposals to finally tax digital advertising sold by the biggest tech companies, with the money going toward property tax relief.
+It's the same thing we do with other products we don't love.
+We tax them so they're still useful.
+That means real help for families and seniors who worry about their tax bills.
+It does something else, too.
+For years, those same tech giants have pulled advertising dollars away from our local news outlets, the people who cover city council and school board meetings and high school sports.
+When local news disappears, nobody is left watching how our tax dollars get spent.
+Leveling the playing field gives our community news organizations a better chance to compete.
 Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.

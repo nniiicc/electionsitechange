@@ -1,5 +1,5 @@
 Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer The best way to support Stephanie and our local businesses is to come out to one of our really fun events.
 Get a change to hang out in a cool space, with some awesome neighbors, and get to know Stephanie in a relaxed setting.
 October 10, 2026- Rock and Roll Fundraiser at Studio 4 Recording, Conshohocken 4pm-7pm October 11, 2026- Block Party at Yorkway Place, Jekintown 1pm-4pm October 16, 2026- Calluna Plants and Gifts Garden Party, Oreland 6pm-9pm See our events page for more info.
-#ago This Week This Month ‹ Previous Sun Oct 18 2026 - Mon Oct 18 2027 Next › 19 Oct Monday, 7:00 PM – 9:00 PM Candidates Night Glenside Hall 1850 Easton Road, Glenside, PA, 19038 More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
+#ago This Week This Month ‹ Previous Mon Oct 19 2026 - Tue Oct 19 2027 Next › 19 Oct Monday, 7:00 PM – 9:00 PM Candidates Night Glenside Hall 1850 Easton Road, Glenside, PA, 19038 More info › Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
 Powered by CampaignPartner.com Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

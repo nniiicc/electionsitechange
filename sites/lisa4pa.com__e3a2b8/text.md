@@ -3,7 +3,7 @@ Common sense.
 And compassion.
 Lisa won the Democratic primary with overwhelming turnout.
 Now she is the nominee to take on Brian Smith this November.
-Meet Lisa Get Involved General Election -- Days -- Hours -- Mins -- Secs November 3, 2026 Election Day November 3, 2026 Register by October 19, 2026 Mail ballot deadline October 27, 2026 Polls open 7 AM - 8 PM Bold Leadership Common Sense Healthcare for All Fund Our Schools Protect Our Water Fair Economy District 66 First 30+ Years of Service Bold Leadership Common Sense Healthcare for All Fund Our Schools Protect Our Water Fair Economy District 66 First 30+ Years of Service 0 Years in Healthcare 0 PA Min.
+Meet Lisa Get Involved General Election -- Days -- Hours -- Mins -- Secs November 3, 2026 Election Day November 3, 2026 Apply for mail ballot 5 PM, Oct 27 Mail ballots due 8 PM, Nov 3 Polls open 7 AM - 8 PM Bold Leadership Common Sense Healthcare for All Fund Our Schools Protect Our Water Fair Economy District 66 First 30+ Years of Service Bold Leadership Common Sense Healthcare for All Fund Our Schools Protect Our Water Fair Economy District 66 First 30+ Years of Service 0 Years in Healthcare 0 PA Min.
 Wage Since 2009 0 Paid Sick Days Required 0 Our District Deserves Better Lisa Gourley · District 66 Meet Lisa A career of caring.
 Ready to lead.
 Lisa Gourley didn't learn about healthcare from a textbook.
@@ -43,21 +43,22 @@ Every dollar fuels door knocks, yard signs, and the ground game we need to flip 
 Pick an amount. $10 $25 $50 $100 $250 $500 Donate Any Amount Secure.
 Powered by ActBlue.
 Paid for by Friends of Lisa Gourley.
-Your Vote Matters Voter Action Center Everything you need to make your voice heard on November 3.
-Register to Vote New voter or moved recently?
-Register online in minutes.
-Deadline: October 19.
-Register now Request Mail Ballot Vote from home.
-Request your mail-in ballot before October 27.
+Your Vote Matters Voter Action Center Registration for November is closed.
+Here is how to vote by mail, early in person, or at your polling place on November 3.
+Vote Early in Person Apply, vote, and return your mail ballot in one visit to your county election office.
+Deadline: 5 PM, October 27.
+Jefferson County: 155 Main St., Brookville Indiana County: 825 Philadelphia St., Indiana How it works Request Mail Ballot Vote from home.
+Apply by 5 PM, October 27.
+Your county must receive your ballot by 8 PM on Election Day.
+A postmark is not enough.
 Request ballot Find Your Polling Place Know where to go on election day.
 Polls open 7 AM to 8 PM.
-Find location Check Registration Already registered?
-Verify your info is current and correct.
+Find location Check Registration Confirm your registration is active before you head to the polls.
 Check status Volunteer Knock doors.
 Make calls.
 Help Lisa flip District 66.
 Get involved Donate Every dollar funds door knocks, yard signs, and the ground game.
-Chip in Oct 19 Register by Last day to register for general Oct 27 Ballot deadline Last day to request mail ballot Nov 3 Election Day Polls open 7 AM - 8 PM Nov 3 General election Flip District 66 Endorsed Backed by leaders who know the fight.
+Chip in Oct 27 Apply by 5 PM Last day to request a mail ballot Oct 27 Vote early by 5 PM Last day to vote at your county office Nov 3 Ballots due 8 PM Mail ballots must arrive, not just be postmarked Nov 3 Election Day Polls open 7 AM - 8 PM Endorsed Backed by leaders who know the fight.
 Lisa is earning endorsements from organizations that share her values.
 PSEA-PACE Political Action Committee for Education More endorsements coming soon.
 Brian Smith (R) District 66 The Wall of Receipts His record.
@@ -106,7 +107,7 @@ Lisa Gourley PA House District 66 Democrat for PA State House, District 66.
 A nurse.
 A fighter.
 Ready to serve.
-Explore About Lisa Issues Support Take Action Donate Volunteer Voter Action Center Register to Vote Contact Us Paid for by Friends of Lisa Gourley.
+Explore About Lisa Issues Support Take Action Donate Volunteer Voter Action Center Voting Info Contact Us Paid for by Friends of Lisa Gourley.
 Not authorized by any candidate or candidate's committee. · Designed by Muth Consulting Group Back to top Serving all of District 66: Punxsutawney · Brookville · Brockway · Reynoldsville · Sykesville · Summerville · Big Run · Falls Creek · Marion Center · Cherry Tree · Glen Campbell · Smicksburg · Plumville · Ernest · Corsica · Timblin · Worthville · Punxsutawney · Brookville · Brockway · Reynoldsville · Sykesville · Summerville · Big Run · Falls Creek · Marion Center · Cherry Tree · Glen Campbell · Smicksburg · Plumville · Ernest · Corsica · Timblin · Worthville · Support Lisa Gourley Paid for by Friends of Lisa Gourley Lisa Gourley PA House 66 Red Box Return to Site The record on Brian Smith A public resource on the voting record and public statements of the three-term Republican incumbent in House District 66.
 NOTICE: The following is publicly available information compiled and published by Friends of Lisa Gourley and made freely available to the public.
 It consists of public voting records, public statements, and press releases issued by the named official.
@@ -131,4 +132,4 @@ Sources Rep.
 Brian Smith official press release, January 7, 2026: repsmith.com Rep.
 Brian Smith official press release, October 30, 2024: repsmith.com Rep.
 Brian Smith official statement, September 11, 2025: repsmith.com Paid for by Friends of Lisa Gourley Compiled from public records.
-Last updated November 2026.
+Last updated October 2026.

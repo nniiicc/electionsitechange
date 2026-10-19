@@ -7,7 +7,7 @@ Information We Collect When you use our contact, volunteer, yard sign, or donati
 If you make a donation, our payment processor also collects the billing information necessary to process that transaction.
 How We Use Your Information We use the information you provide to respond to your inquiries, send you campaign updates and event reminders by email or text message (only if you've opted in), fulfill yard sign requests, coordinate volunteer activities, and process donations.
 Text Messaging Program If you provide your phone number and check the text messaging opt-in box on our contact form, you consent to receive text messages from JulieQ4Utah, including campaign updates, event reminders, and get-out-the-vote messages, which may be sent using an autodialer.
-Donations may be solicited in these messages.
+Donations will not be solicited in these messages.
 Message frequency varies — up to once per day through Election Day (November 3), and up to once per month thereafter.
 Message and data rates may apply.
 You may opt out of text messages at any time by replying STOP to any message.
@@ -20,7 +20,7 @@ Your Choices You may unsubscribe from email updates using the link included in t
 You may also contact us at any time to ask that we update or remove your information.
 Terms & Conditions These Terms & Conditions apply to your use of this website and to our text messaging program.
 Message types: campaign updates, event reminders, volunteer and yard sign coordination, and get-out-the-vote messages.
-Donations may be solicited.
+Donations will not be solicited.
 Message frequency: up to once per day through Election Day (November 3), and up to once per month thereafter.
 Message & data rates may apply.
 Opt-out: reply STOP at any time to stop receiving text messages.

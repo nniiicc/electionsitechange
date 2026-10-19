@@ -19,13 +19,14 @@ CONNECT WITH US Stay updated on campaign news and events.
 Follow us on social media and sign up for our newsletter.
 ISSUE REPORT Share your concerns and priorities with us.
 Your voice matters in making Colorado a better place.
-Upcoming Events Multiple Dates Sun, Oct 18 Mo & Manny Get Out The Vote Sundays / 8 Sebring Ln RSVP Oct 18, 2026, 10:00 AM – 2:00 PM 8 Sebring Ln, 8 Sebring Ln, Johnstown, CO 80534, USA Every upcoming Sunday until the election we have a joint Mo & Manny Canvass twice a day, for the areas of Johnstown, Milliken & Mead.
-Our gracious host Debbie will be our meeting hub in Johnstown and from here we will GET OUT THE VOTE for Mo & Manny Rutinel and flip HD64 and CD8 for the people!
-Multiple Dates Sat, Oct 24 Greeley Saturday Canvassing Hub / RSVP for Location RSVP Oct 24, 2026, 11:30 AM – 12:30 PM RSVP for Location Every Saturday till Election Day we have a West Greeley Canvassing Hub starting at 11:30AM going till 12:30PM.
+Upcoming Events Multiple Dates Sat, Oct 24 Greeley Saturday Canvassing Hub / RSVP for Location RSVP Oct 24, 2026, 11:30 AM – 12:30 PM RSVP for Location Every Saturday till Election Day we have a West Greeley Canvassing Hub starting at 11:30AM going till 12:30PM.
 Sign up to receive the location and then show up and grab a turf with other volunteers!
 This is part of our final Get Out The Vote push, and we need all hands on deck to flip HD64 for Mo!
 Multiple Dates Sun, Oct 25 Mo & Manny Get Out The Vote Sundays / 8 Sebring Ln RSVP Oct 25, 2026, 10:00 AM – 2:00 PM 8 Sebring Ln, 8 Sebring Ln, Johnstown, CO 80534, USA Every upcoming Sunday until the election we have a joint Mo & Manny Canvass twice a day, for the areas of Johnstown, Milliken & Mead.
 Our gracious host Debbie will be our meeting hub in Johnstown and from here we will GET OUT THE VOTE for Mo & Manny Rutinel and flip HD64 and CD8 for the people!
+Multiple Dates Sat, Oct 31 Greeley Saturday Canvassing Hub / RSVP for Location RSVP Oct 31, 2026, 11:30 AM – 12:30 PM RSVP for Location Every Saturday till Election Day we have a West Greeley Canvassing Hub starting at 11:30AM going till 12:30PM.
+Sign up to receive the location and then show up and grab a turf with other volunteers!
+This is part of our final Get Out The Vote push, and we need all hands on deck to flip HD64 for Mo!
 Load More HOUSE DISTRICT 64 MAP ARE YOU IN DISTRICT 64?
 Mead Berthoud ​Johnstown West Greeley Miliken HOME MEET MO DOWER ENDORSEMENTS PLATFORM GET INVOLVED DONATION EVENTS ​ACCESSIBILITY STATEMENT More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: Terms & Conditions Privacy Policy Accessibility Statement © # MO4COLORADO Paid for by Mo4Colorado Linnea Reckase Registered Agent bottom of page

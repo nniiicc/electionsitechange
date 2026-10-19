@@ -44,7 +44,7 @@ I don't care if a viewpoint is liberal, conservative, or anything in between—i
 I will take this fight to Washington every single day.
 The public square has changed.
 Our commitment to freedom must not.
-Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

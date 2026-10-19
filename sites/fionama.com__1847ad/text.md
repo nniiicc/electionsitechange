@@ -39,9 +39,10 @@ She understands the physical, emotional, and financial toll this profession take
 Fiona has fought to strengthen retirement security, protect survivor benefits, and ensure firefighters have the support they deserve.
 Firefighters know Fiona Ma stands with us, and we are proud to stand with her.” - Brian K.
 Rice, President, California Professional Firefighters.
-California Professional Firefighters More Endorsements Instagram 🌎🐋💚 Thank you Jiah Miesel, Founder of San Diego Ea # days until Election Day!
-Thank you Chloe for y Hawthorne Councilwoman Katrina Manning is joining Art brings people and communities together! 🎨✨ Tha 🔎 Mystery Solved! 💰🎓 Our amazing volunteer Youth 18 more days until Election Day!!
-Honored to have Grateful to have the support of California State S Thank you, Senator John Laird, for supporting my c Load More Follow on Instagram 58 Counties: Fiona Ma Highlights Kern County’s Agriculture, Energy and Community Spirit Fiona Ma’s 58 Counties series spotlights Kern County’s ranching heritage, small businesses and evolving energy economy.
+California Professional Firefighters More Endorsements Instagram 🪔✨ Celebrating the Light Within!
+Happy Pre-Diwali! 🌈🎉 Happy 40th Anniversary to BAYMEC (Bay Area Muni 🎉 Congratulations to the Asian Pacific Islander Am 🏡🎉 A Historic Treasure Returns to Fair Oaks!
+Afte 🥋🐉 Congratulations to Dragon Rhythm Shaolin Kung F Celebrating the creativity and talent of Ekaterina 🌎🐋💚 Thank you Jiah Miesel, Founder of San Diego Ea # days until Election Day!
+Thank you Chloe for y Load More Follow on Instagram 58 Counties: Fiona Ma Highlights Kern County’s Agriculture, Energy and Community Spirit Fiona Ma’s 58 Counties series spotlights Kern County’s ranching heritage, small businesses and evolving energy economy.
 Read More » October 11, 2026 San Francisco Examiner Profiles Fiona Ma’s Business-Friendly Vision for California The San Francisco Examiner profiles Fiona Ma’s approach to business growth, higher education, housing and economic development.
 Read More » October 10, 2026 Spectrum News Interviews Fiona Ma on Her Vision for Lieutenant Governor Fiona Ma joins Spectrum News’ Inside the Issues to discuss her campaign and vision for California Lieutenant Governor.
 Read More » October 10, 2026 IgniteIt, GreenState and Marijuana Moment Cover Fiona Ma’s Call for Cannabis Reform Coverage from IgniteIt, GreenState and Marijuana Moment highlights Fiona Ma’s call to bring stakeholders together around reforming California’s cannabis framework.

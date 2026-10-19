@@ -1,8 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Platform Where I Stand Fiscal Responsibility "The national debt has more than tripled since Mark Warner took office.
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Platform Where I Stand Fiscal Responsibility "The national debt has more than tripled since Mark Warner took office.
 Back then he said he would lead the way to balancing the budget, but he's joined the Democratic leadership in Washington to enact a tax-and-spend agenda.
 In the Senate, I will focus on balancing the budget to protect future generations from financial ruin." Affordability "Mark Warner voted for higher taxes that would cost the average Virginia family more than $3,600 a year.
 In the Senate, I will lower the tax on selling your home, lower the tax burden on Virginia families, and help bring down the cost of living." Defending Our Military "As a four-time combat veteran with 41 years in uniform, I understand the difficult issues facing veterans, their families and survivors.

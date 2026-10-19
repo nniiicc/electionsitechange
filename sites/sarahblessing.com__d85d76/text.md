@@ -5,11 +5,11 @@ Neighbor.
 Advocate for rural Indiana.
 Donate Volunteer Watch Sarah Sarah Blessing for Indiana on YouTube Short, straight-talk videos from Sarah on the issues facing District 70.
 Subscribe so you don't miss the next one.
+What gets you out of bed each morning?
 Is life extra hard right now?
 You are not alone.
 Do you want a data center in your backyard?
 Me either!
-Both political parties are corrupt!
 Subscribe on YouTube See all videos → Show your support Get the campaign t-shirt Harrison County Dems put together an official Sarah Blessing t-shirt, printed locally on demand.
 Wear it knocking doors, at events, or just around town.
 (Indiana law bars campaign apparel near polling places, so save it for outside that 50-foot line on Election Day.) Order the t-shirt → Visit the Harrison County Dems store → July 4, 2026 · A message from Sarah Happy 250th, America I believe it’s time to confront one of the biggest lies in politics.

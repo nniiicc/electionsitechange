@@ -6,7 +6,7 @@ Across America, solidly red districts are flipping blue because Americans value 
 Utah can be next.
 If you believe that a fundamentally different future for Utah is something worth fighting for then help me do that.
 No amount is too little !
-CAMPAIGN GOAL $3,033.31 of $10,000 Raised So FAR UTAH POLITICS DESERVES BETTER IT'S TIME TO GET CORPORATE POLITICIANS OUT Volunteer Donate Reach Out Register to Vote Meet Thomas LIFELONG INDEPENDENT My name is Thomas Loveheart.
+CAMPAIGN GOAL $3,048.31 of $10,000 Raised So FAR UTAH POLITICS DESERVES BETTER IT'S TIME TO GET CORPORATE POLITICIANS OUT Volunteer Donate Reach Out Register to Vote Meet Thomas LIFELONG INDEPENDENT My name is Thomas Loveheart.
 I’m a local resident, worker, Christian, and homeowner here in Cedar City.
 Like many of us, I wasn’t born in Utah—I discovered it, fell in love, and decided to make my life here.
 My family has lived here for decades, and spending summers visiting them has been a very special part of my life since I was little.

@@ -1,4 +1,4 @@
-0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Campaign Statement Trump's Homeland Security Raid on Rep.
+0 Skip to Content Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate Campaign Statement Trump's Homeland Security Raid on Rep.
 Ilhan Omar's Home Is a Blatantly Racist, Politically Motivated Attack October 12, 2026 Bronx, NY — On the morning of October 12th, federal officers raided Minnesota Rep.
 Ilhan Omar’s home.
 Andre Easton, Bronx teacher, father, and socialist candidate running for New York's 15th Congressional District, issued the following statement in response: “Early this morning, Trump's Homeland Security agents raided Rep.

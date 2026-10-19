@@ -28,8 +28,8 @@
 "href": "https://www.americanprogress.org/article/medicaid-cuts-would-threaten-rural-hospitals/"
 },
 {
-"text": "Check Registration Already registered? Verify your info is current and correct. Check status",
-"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Registering-to-Vote.aspx"
+"text": "Check Registration Confirm your registration is active before you head to the polls. Check status",
+"href": "https://www.pa.gov/agencies/vote/voter-registration/check-my-registration-status"
 },
 {
 "text": "City & State PA",
@@ -84,16 +84,8 @@
 "href": "https://www.psea.org/PACE"
 },
 {
-"text": "Register to Vote",
-"href": "https://www.vote.pa.gov"
-},
-{
-"text": "Register to Vote New voter or moved recently? Register online in minutes. Deadline: October 19. Register now",
-"href": "https://www.vote.pa.gov/Register"
-},
-{
-"text": "Request Mail Ballot Vote from home. Request your mail-in ballot before October 27. Request ballot",
-"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+"text": "Request Mail Ballot Vote from home. Apply by 5 PM, October 27. Your county must receive your ballot by 8 PM on Election Day. A postmark is not enough. Request ballot",
+"href": "https://www.pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot"
 },
 {
 "text": "States United Democracy Center",
@@ -106,6 +98,14 @@
 {
 "text": "Volunteer Knock doors. Make calls. Help Lisa flip District 66. Get involved",
 "href": "mailto:lisalistens26@gmail.com"
+},
+{
+"text": "Vote Early in Person Apply, vote, and return your mail ballot in one visit to your county election office. Deadline: 5 PM, October 27. Jefferson County: 155 Main St., BrookvilleIndiana County: 825 Philadelphia St., Indiana How it works",
+"href": "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/mail-ballot-before-election-day"
+},
+{
+"text": "Voting Info",
+"href": "https://www.vote.pa.gov"
 },
 {
 "text": "[image: APSCUF/CAP, Association of Pennsylvania State College and University Faculties]",

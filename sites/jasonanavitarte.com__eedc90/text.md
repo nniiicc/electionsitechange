@@ -22,18 +22,22 @@ I will work with each county to advocate for new businesses to come to our area.
 As I stated in the education section, we must have a workforce available to encourage new businesses to come and that starts with offering educational classes that will train our students in the skills needed for future jobs.
 Having broadband that is accessible to all of the district is essential to economic development.
 2023 Legislative Updates Week 1 Legislative Update Week 2 Legislative Update Week 3 Legislative Update Week 4 Legislative Update Week 6 Legislative Update Week 7 Legislative Update Week 8 Legislative Update Week 9 Legislative Update Follow me on Twitter Jason R.
-Anavitarte Follow 17,480 2,336 Husband.
+Anavitarte Follow 17,481 2,333 Husband.
 Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
 Go Jackets! 🐝 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; GA Senate Republicans @GASenateGOP · 13h 2111614749284741165 # days until Election Day.
+Anavitarte Retweeted ; GA Senate Republicans @GASenateGOP · 13h 2111979209828511800 With # days left to go until Election Day, Sen.
+Marty Harbin from District 16 has a simple message for his neighbors this election: get out and vote.
+"America is great because America is good.
+And when America ceases to be good, she will cease to be great." Sen.
+Harbin's Twitter feed video.
+Reply on Twitter 2111979209828511800 Retweet on Twitter 2111979209828511800 1 Like on Twitter 2111979209828511800 3 Twitter 2111979209828511800 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; GA Senate Republicans @GASenateGOP · 18 Oct 2111614749284741165 # days until Election Day.
 Big news from the courtroom this week: the 11th Circuit sided with Georgia and cleared the way for SB 351, our law requiring social media platforms to verify ages and get a parent's okay before a child under 16 opens an account.
 Majority Leader Jason Twitter feed video.
-Reply on Twitter 2111614749284741165 Retweet on Twitter 2111614749284741165 2 Like on Twitter 2111614749284741165 4 Twitter 2111614749284741165 Retweet on Twitter Jason R.
+Reply on Twitter 2111614749284741165 Retweet on Twitter 2111614749284741165 2 Like on Twitter 2111614749284741165 5 Twitter 2111614749284741165 Retweet on Twitter Jason R.
 Anavitarte Retweeted ; Rick Jackson @RickJacksonGA · 16 Oct 2111080982480863660 When the job got hard, Keisha walked away.
 Dereliction and disgrace.
 Twitter feed video.
-Reply on Twitter 2111080982480863660 Retweet on Twitter 2111080982480863660 116 Like on Twitter 2111080982480863660 368 Twitter 2111080982480863660 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Georgia Tech Football @GeorgiaTechFB · 16h 2111567786849993131 .@Trelain2raw BREAKS FREE 💨 📺 @accnetwork #StingEm 🐝 Twitter feed video.
-Reply on Twitter 2111567786849993131 Retweet on Twitter 2111567786849993131 5 Like on Twitter 2111567786849993131 74 Twitter 2111567786849993131 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE
+Reply on Twitter 2111080982480863660 Retweet on Twitter 2111080982480863660 116 Like on Twitter 2111080982480863660 367 Twitter 2111080982480863660 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

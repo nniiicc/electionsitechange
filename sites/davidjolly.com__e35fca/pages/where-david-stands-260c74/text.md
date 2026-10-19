@@ -32,6 +32,8 @@ It's personal.
 In short David Jolly believes protecting Florida's… The 2026 Florida Governor’s Race The 2026 Florida Governor's Race Who is running, every date that matters, and how to make your voice… Republicans for Jolly Principles Over Party.
 Join the movement In short David Jolly's position is grounded in principles over party affiliation.… David Jolly’s Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent THE PLAN, IN PLAIN ENGLISH David Jolly's Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent… Data Centers DATA CENTERS Florida's voters are saying no.
 David Jolly is listening.
-A moratorium on hyperscale data centers, issued… About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+A moratorium on hyperscale data centers, issued… The truth about Byron Donalds’ ads The truth about Byron's ads There will be more ads.
+More attacks.
+More money spent trying to tell… About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
 All rights reserved.
 Built with AVM

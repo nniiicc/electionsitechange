@@ -6,7 +6,39 @@ For decades, their polices have done absolutely nothing to help New Yorkers.
 From AFFORDABILITY pretty much encompasses everything My opponent’s idea of affordability is to just build more affordable housing - anywhere and everywhere.
 Mine is to make life itself affordable — by restoring fiscal sanity.
 This means scrutinizing our state budget, cutting waste and fraud, and controlling ou r spending.
-THE BUDGET NY Democrats have a pattern of taxing us instead of reducing spending and being fiscally res ponsible .
+THE BUDGET MY BUDGET: Fiscal Responsibility and Taxpayer Accountability New York’s budget has grown by roughly $100 billion over the past six years.
+My question is simple: Where has all that money gone, and are taxpayers getting the results they deserve?
+I would push for a comprehensive, independent audit of state programs to identify waste, fraud, abuse, and duplication.
+We need to examine not just how much we spend, but whether programs are working, whether they meet their goals, and whether the money is reaching the people it is intended to help.
+We must also end nonessential taxpayer-funded benefits for people who are in this country illegally, to the fullest extent permitted by law.
+New Yorkers are struggling with the costs of housing, healthcare, education, and everyday living expenses.
+Taxpayers should not be expected to shoulder additional costs for publicly funded housing assistance, healthcare, college financial aid, and legal services for those here illegally while working families struggle to make ends meet.
+I would push for a comprehensive accounting of these expenditures, identify which programs are discretionary, and pursue legislation to end state-funded benefits and subsidies where legally permissible.
+We also need to restore fiscal discipline.
+That means setting priorities, eliminating ineffective programs, requiring competitive contracting and strong oversight, and making agencies justify increases in spending.
+New ongoing expenses must have a sustainable funding source—not be built on optimistic revenue projections or one-time money.
+We must live within our means, just as families and businesses have to do.
+I want to protect essential services, but every agency should be accountable for its spending.
+Taxpayers deserve transparent budgets, measurable results, and a government that treats their money as carefully as they treat their own.
+My priorities as an Assemblymember 1.
+Follow the money.
+Publish clear, accessible reports showing where funds were spent, who received them, and what outcomes were achieved.
+Build on New York’s existing public spending database to make government expenditures easier to track.
+2.
+Close the loop on audits.
+Audit findings must lead to corrective action, with deadlines and public tracking of whether agencies implement recommendations.
+3.
+Protect taxpayers from unchecked contracts.
+Maintain competitive bidding and independent oversight, with narrowly defined exceptions and public explanations when normal safeguards are bypassed.
+4.
+Review immigration-related spending.
+Conduct a comprehensive accounting of state and local expenditures associated with services for people here illegally, including housing assistance, healthcare, education-related programs, financial aid, and legal services.
+Identify discretionary spending and pursue an end to nonessential taxpayer-funded benefits where legally permissible.
+5.
+Plan beyond the next election.
+Require multiyear financial plans, realistic revenue forecasts, and adequate reserves so New York is prepared for economic downturns and changes in federal funding.
+Taxpayers deserve an independent accounting of the increase in spending—and proof that every dollar is necessary, effective, and sustainable.
+NY Democrats have a pattern of taxing us instead of reducing spending and being fiscally res ponsible .
 We must live within our means just like we do in our own households.
 S tate audit including every department as well as counties Audit all social services to find and eliminate fraud Eliminate all funding for illegal aliens Break up energy monopolies No county bailouts Control spending Prudent fiscal planning Restore fiscal sanity ensure our district gets the funding it has been promised and deserves, especially for infrastriucture energy and electricity HOUSING no affordable housing quotas mandated by the state or county no take over of local zoning or engineering neighborhoods limit big business from buying single family homes Gov.
 Kathy Hochul is pushing a plan to build more housing in the state by overriding restrictive suburban zoning laws , but the move faces pushback from municipal leaders who say it smacks of government overreach.

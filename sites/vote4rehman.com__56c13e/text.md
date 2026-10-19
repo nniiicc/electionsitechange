@@ -15,6 +15,8 @@ When you look down the ballot for my name, the word beside it will not say Indep
 Here is exactly what to look for.
 On your ballot, look for Saif Rehman Unaffiliated Maryland lists independent candidates as “Unaffiliated.” Same person, same campaign.
 That is the word printed next to my name.
+Five names for two seats.
+Mine is the last one, and the only unaffiliated name on the ballot for the Maryland General Assembly this year.
 THE ISSUES Four Things I Will Work On Each one starts with a number you can check, explains the mechanism that produced it, and names a fix with who pays for it.
 Staying In The Home You Own Maryland advertises a pension exclusion worth up to $40,600.
 For most middle-class retirees it is worth almost nothing, because it is cut dollar for dollar by Social Security.
@@ -26,23 +28,25 @@ Every year it gets a hearing.
 Every year the committee never takes a vote, so it never reaches the floor.
 Howard and Montgomery both built aging-in-place credits without waiting for the state.
 Annapolis has not done its part.
-Remove the Social Security offset so the pension exclusion is worth what the state says it is worth Cap homestead taxable assessment growth at inflation for primary residences, which protects retirees and young families alike Require a recorded committee vote on any bill that has had a hearing, so nothing dies four years running without anyone going on record Utility Bills BGE is asking to raise your bill again while asking regulators to raise its guaranteed profit.
+Remove the Social Security offset so the pension exclusion is worth what the state says it is worth Cap homestead taxable assessment growth at inflation for primary residences, which protects retirees and young families alike Require a recorded committee vote on any bill that has had a hearing, so nothing dies four years running without anyone going on record Utility Bills BGE is asking to raise your bill again while asking regulators to raise its return.
 About 290,000 of its customers were already behind in March.
-The request is $156 million, roughly $8 more per month, and a guaranteed return raised from 9.5% to 10.4%.
-Gas delivery rates have more than tripled since 2010 while BGE profits went from $147 million in 2010 to $527 million in 2024.
+The request is $156 million, roughly $8 more per month, and a requested return of 10.4%, up from 9.5%.
+Gas delivery rates have more than tripled since 2012, according to the Office of People's Counsel.
+Before Exelon acquired BGE in 2012, it never cleared $150 million in a year.
+In 2024 it earned $527 million.
 The reason is the formula: regulators set rates on what a utility spends, so spending more is how it earns more.
 Nothing in that formula pays anyone to hold your bill down.
-Damascus and Clarksburg see the same pattern from Pepco.
+Damascus and Clarksburg are served by Potomac Edison, which has its own increase pending before the same commission.
 Convert the rate formula from cost-plus to performance-based, so utilities earn more only when outages and costs go down Make large new power users pay their own connection and capacity costs instead of spreading them across every household The record is open now: hearings are in November and the decision comes in January, and residents can file comments today Every School Dollar Howard County spends $21,512 per student and Montgomery County $21,349, fourth and fifth highest in Maryland.
 Counties are already $1.4 billion above their required share.
 This is not an argument about whether to fund schools.
 We fund them at among the highest levels in the state, and most of it comes from local property taxpayers in both halves of this district.
 It is an argument about accounting.
 Neither system publishes a clear, comparable, plain English statement of what share of each dollar actually reaches a classroom, and no one in Annapolis requires one.
-Require both county systems to publish a standardized quarterly classroom-dollar tracker No vote from me on any state emergency education appropriation until that transparency floor exists Stable, predictable funding for teachers instead of annual crisis budgets A Vote You Can Check More than a million unaffiliated Marylanders could not vote in the closed June primary, including 20,089 here.
+Require both county systems to publish a standardized quarterly classroom-dollar tracker No vote from me on any state emergency education appropriation until that transparency floor exists Stable, predictable funding for teachers instead of annual crisis budgets A Vote You Can Check More than a million unaffiliated Marylanders could not vote in either party's June primary, including 20,089 here.
 Only 12,144 ballots were cast in this district that day.
 Every other candidate on this ballot needed a party to get here.
-I gathered signatures by hand instead, and four other unaffiliated candidates who tried the same route this year did not meet the requirement.
+I gathered signatures by hand instead, and I am the only unaffiliated candidate on the ballot for the General Assembly this year.
 That is not a boast.
 It is the reason no caucus has a claim on my vote, and it is why I can promise something none of them can: I will vote against a bad bill written by people who agree with me.
 Open Maryland's primaries so no voter is locked out of a decisive election again Publish the reason for every vote I cast, in plain English, the week I cast it Co-sponsor with anyone whose fix works, and say so publicly when it comes from the other side See the numbers and the sources HOW I WILL GOVERN A delegate with no caucus has to build a majority every time.
@@ -64,7 +68,7 @@ THE ROAD TO NOVEMBER This Campaign Is Built on Front Porches All year, this camp
 No party machine.
 Just neighbors, face to face.
 The next steps belong to you.
-# Days to Election 4 Days to early voting Same-day registration available Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
+# Days to Election 3 Days to early voting Same-day registration available Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
 You Have Two Votes.
 I am not asking you to change how you vote.
 Two candidates on this ballot are running as a pair and two more are running as a pair, and all four want both of your votes.

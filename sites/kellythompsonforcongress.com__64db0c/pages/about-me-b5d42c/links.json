@@ -68,10 +68,6 @@
 "href": "https://indianavoters.in.gov"
 },
 {
-"text": "[email protected]",
-"href": "mailto:contact@kellythompsonforcongress.com"
-},
-{
 "text": "[image: Facebook]",
 "href": "https://www.facebook.com/kellyforcongress"
 },
@@ -98,5 +94,9 @@
 {
 "text": "[image: X]",
 "href": "https://x.com/KellyForIN03"
+},
+{
+"text": "contact@kellythompsonforcongress.com",
+"href": "mailto:contact@kellythompsonforcongress.com"
 }
 ]

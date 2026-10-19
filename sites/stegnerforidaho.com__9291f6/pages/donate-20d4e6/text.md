@@ -1,7 +1,11 @@
 0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Idaho is Worth Fighting For This campaign began with a simple belief: Idaho deserves better than the status quo.
 If you share that belief, I'd be honored to have your support.
 Your contribution helps us connect with voters across the state and continue building a campaign rooted in service, integrity, and accountability.
-Frequently Asked Questions Is my donation tax-deductible?
+You can donate by doing any one of the following: Click the DONATE button below to open a new window and enter your information there.
+Fill out the embedded form beneath the DONATE button.
+Send a check to Stegner for Idaho, P.O.
+Box 86, Boise ID 83701.
+DONATE Frequently Asked Questions Is my donation tax-deductible?
 Unfortunately, no.
 Donations to political campaigns are not tax deductible.
 Where does my donation go?

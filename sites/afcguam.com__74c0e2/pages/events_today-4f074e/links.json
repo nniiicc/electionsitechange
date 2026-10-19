@@ -40,6 +40,10 @@
 "href": "https://afcguam.com/volunteer-sign-up/"
 },
 {
+"text": "Last Day to Register to Vote in General Election",
+"href": "https://afcguam.com/event/last-day-to-register-to-vote-in-general-election/"
+},
+{
 "text": "List",
 "href": "https://afcguam.com/events/list/"
 },
@@ -49,7 +53,7 @@
 },
 {
 "text": "Next Day",
-"href": "https://afcguam.com/events/2026-10-19/"
+"href": "https://afcguam.com/events/2026-10-20/"
 },
 {
 "text": "Outlook 365",
@@ -65,7 +69,7 @@
 },
 {
 "text": "Previous Day",
-"href": "https://afcguam.com/events/2026-10-17/"
+"href": "https://afcguam.com/events/2026-10-18/"
 },
 {
 "text": "[image: Alicia for Congress]",
@@ -73,18 +77,14 @@
 },
 {
 "text": "[tooltip: Next day]",
-"href": "https://afcguam.com/events/2026-10-19/"
+"href": "https://afcguam.com/events/2026-10-20/"
 },
 {
 "text": "[tooltip: Previous day]",
-"href": "https://afcguam.com/events/2026-10-17/"
+"href": "https://afcguam.com/events/2026-10-18/"
 },
 {
 "text": "iCalendar",
 "href": "webcal://afcguam.com/?post_type=tribe_events&ical=1&eventDisplay=list"
-},
-{
-"text": "next upcoming events",
-"href": "https://afcguam.com/events/2026-10-19/"
 }
 ]

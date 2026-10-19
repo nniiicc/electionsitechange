@@ -1,5 +1,5 @@
 Press Releases/Statements Meet Ebony P.E.R.S.O.N.A.L.
-Issues Contribute EARLY VOTING STARTS IN October 19, 2026 at 7:00 AM My name is Ebony Turner and I am running for Texas House District 96.
+Issues Contribute My name is Ebony Turner and I am running for Texas House District 96.
 I am a 25-year practicing attorney.
 My 2nd job out of law school was at Texas Legislative Council drafting bills for the Members of the Texas Legislature.
 While I have legislative experience drafting hundreds of bills, some of which became laws, the main reason I'm running is my son, Isaiah.

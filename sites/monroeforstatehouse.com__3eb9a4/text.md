@@ -1,4 +1,4 @@
-top of page HOME MEET JEFF THE ISSUES NEWS GET INVOLVED DONATE A Lifetime of Service.
+top of page HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED DONATE A Lifetime of Service.
 A Commitment to Alabama.
 JOIN OUR MOVEMENT Be a Part of Something Big – Join Our Movement .
 Let Jeff know your thoughts, concerns, and desires for the future of District 37.
@@ -22,4 +22,4 @@ Reliable Infrastructure As a small business owner in a rural community, Jeff und
 He’ll push for practical, long-term investments that connect our communities and support growth, without leaving small towns behind.
 Investing in Where We Live Schools, parks, and local gathering places build pride, connection, and a place where the next generation wants to stay and raise families.
 These investments open doors for jobs, education, tele-health, and economic growth across District 37.
-Privacy Policy HOME MEET JEFF THE ISSUES NEWS GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page
+Privacy Policy HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page

@@ -14,9 +14,9 @@ SHEPARD FOR NH does not directly collect or store credit card information throug
 Contribution information may be subject to campaign finance reporting requirements.
 External Links This website may link to external websites and platforms.
 SHEPARD FOR NH is not responsible for the privacy practices, content, or policies of external websites.
-Campaign Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.
+Campaign Disclaimer Paid for by SHEPARD FOR NH, 97 Birch Lane, Barrington, NH 03825, Scott Shepard, Treasurer.
 SHEPARD FOR NH Scott Shepard is a Democratic candidate for New Hampshire State Representative, Strafford County District 4 — Barrington and Strafford.
 Facts.
 Strategy.
 Real Solutions.
-Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, 97 Birch Lane, Barrington, NH 03825, Scott Shepard, Treasurer.

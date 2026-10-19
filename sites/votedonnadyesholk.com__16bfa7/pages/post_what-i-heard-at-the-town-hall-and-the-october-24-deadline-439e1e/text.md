@@ -1,4 +1,4 @@
-top of page Vote Donna Dye Sholk New York State Assembly About Priorities Get Involved Vote Contact Events Blog DONATE SUBSCRIBE All Articles Search What I heard at the town hall, and the October 24 deadline Donna Dye Sholk #ago 5 min read What I heard at the town hall On September 29 I joined Stand Up Lockport at the Kenan Center for a forum on the NYSEG rate case.
+top of page Vote Donna Dye Sholk New York State Assembly About Priorities Get Involved Vote Contact Events Blog DONATE SUBSCRIBE All Articles Search What I heard at the town hall, and the October 24 deadline Donna Dye Sholk Oct 11 5 min read What I heard at the town hall On September 29 I joined Stand Up Lockport at the Kenan Center for a forum on the NYSEG rate case.
 It was nonpartisan, and when the host asked everyone who had seen a bill over $1,000 this year to stand up, a lot of people stood.
 The Union-Sun & Journal covered it if you want the short version: https://www.lockportjournal.com/news/local_news/tips-on-checking-utility-bills-shared-at-stand-up-lockport-forum/article_4b43cdcf-4218-415f-a4e6-34e38b859e4e.html Here is the short version of what's on the table.
 NYSEG has asked the Public Service Commission for a 35% increase, almost all of it on the delivery side of your bill.
@@ -86,4 +86,6 @@ Tuesday evenings in Lockport, 5:30 to 9:00 Saturday and Sunday mornings in Lockp
 Pick a shift that fits and email volunteer@votedonnadyesholk.com, or just show up.
 If every person reading this brought one friend to one shift, we would cover the district before Election Day.
 That's the whole plan.
-Thank you, Donna Recent Posts See All On the trail: parades, the fair, and knocking on doors SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page
+Thank you, Donna Recent Posts See All Early voting starts Saturday.
+Here is where to go.
+On the trail: parades, the fair, and knocking on doors SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page

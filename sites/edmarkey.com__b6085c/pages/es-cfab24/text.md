@@ -4,15 +4,12 @@ Total Asegurado para MA: $14,579,629,529.01 Conoce a Ed Luchar por la clase trab
 Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
 SABER MÁS Avales Lo último Donar Tu apoyo marca la diferencia. $10 $25 $50 $100 $250 Otro importe Si has guardado tu información de pago con ActBlue Express, tu donación se realizará inmediatamente.
 Haga clic aquí para hacer una donación fuera de línea .
-Redes sociales Siga Ed Markey 14 horas hace Este noviembre, haremos oír nuestras voces con fuerza y claridad: ¡No hay reyes en este país! ¡Elaboremos un plan—registremnos, votem temprano y asistamos a la democracia! ¡Vamos!
-Retweet en Twitter 211159693209444868 10 Como en Twitter 2111596932099444868 Compartir 2111596932099444868 Siga Ed Markey 18 horas hace No hay reyes en Massachusetts.
+Redes sociales Siga Ed Markey 19 horas hace En enero, nuestro primer objetivo es restaurar todo: los recortes en salud, investigación, proyectos de energía limpia, todo lo que necesitamos para construir una nación mejor y más brillante para todos los estadounidenses.
+11 Retweet en Twitter 2111868134323785741 37 Como en Twitter 2111868134323785741 Compartir 2111868134323785741 Siga Ed Markey 2 días hace Este noviembre, haremos oír nuestras voces con fuerza y claridad: ¡No hay reyes en este país! ¡Elaboremos un plan—registremnos, votem temprano y asistamos a la democracia! ¡Vamos!
+5 Retweet en Twitter 211159693209444868 30 Como en Twitter 2111596932099444868 Compartir 2111596932099444868 Siga Ed Markey 2 días hace No hay reyes en Massachusetts.
 No hay reyes en Estados Unidos.
 Estamos luchando para proteger nuestra democracia contra los dictadores. ¡Haz que tu voz sea escuchada y vota este noviembre!
-72 Re-tuitado en Twitter 2111531344677237190 446 Como en Twitter 2111531344677237190 Compartir 2111531344677237190 Siga Ed Markey 22 horas hace Medicare para todos.
-Vivienda asequible.
-Derecho a votar.
-Este noviembre, debemos conseguir una mayoría progresista y luchar por los trabajadores de todo el país.
-7 Re-tuitado en Twitter 2111472474869137754 46 Como en Twitter 2111472474869137754 Compartir 2111472474869137754 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
+87 Re-tuitado en Twitter 2111531344677237190 510 Como en Twitter 2111531344677237190 Compartir 2111531344677237190 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
 UU.
 1 de septiembre de 2026 Esta noche, Ed Markey ganó las primarias demócratas para el Senado de los EE.
 UU., asegurando la nominación demócrata y avanzando a las elecciones generales de noviembre.

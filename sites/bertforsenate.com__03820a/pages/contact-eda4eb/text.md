@@ -1,14 +1,14 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Get in Touch Contact Us Send a Message Name * Email * Phone (optional) I consent to receive SMS on this number By submitting your phone number, you are authorizing Bert for Senate 2026 to send you Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages and notifications.
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Get in Touch Contact Us Send a Message Name * Email * Phone (optional) I consent to receive SMS on this number By submitting your phone number, you are authorizing Bert for Senate 2026 to send you Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages and notifications.
 You agree to the terms & privacy policy for messages from Bert for Senate 2026 to the phone number you provide.
 Message and data rates may apply.
 Msg frequency varies.
 Reply HELP for help.
 You can opt out at any time by replying STOP to any message sent from us.
-Message * 0/1000 Verify you're human * 1 + 3 = ?
+Message * 0/1000 Verify you're human * 9 + 4 = ?
 Send Message Email info@bertforsenate.com Want to Volunteer?
 Join our team of dedicated volunteers and help make a difference in Virginia.
 Sign Up to Volunteer Follow Bert on Social Media Candidate for U.S.

@@ -1,5 +1,5 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b GET INVOLVED There are several ways to get involved in the Jamie Kiel Campaign.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=2f1c44e3e9 GET INVOLVED There are several ways to get involved in the Jamie Kiel Campaign.
 Sign up below!
 Name * First Last Phone * Email * Ways I Can Help Door-to-Door Phone Calls Special Events Get a Yard Sign Yard Sign Setup Host a "Meet & Greet" Other Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

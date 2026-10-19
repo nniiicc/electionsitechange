@@ -1,4 +1,4 @@
-top of page About Rob Delivered Priorities Get Involved Events Endorsements More Use tab to navigate through the menu items.
+top of page About Rob Delivered Priorities Get Involved Events Endorsements News More Use tab to navigate through the menu items.
 DONATE Delivering For Western Minnesota FIGHTING TO SAVE YOU MONEY In the State Senate, I have prioritized lowering costs and letting you keep more of your money.
 Delivered an average of $1,600 in property tax relief for Minnesota homeowners Secured the largest Social Security tax cut in state history, eliminating state taxes on benefits for nearly all Minnesota seniors $1 billion in rebates to middle-class families across Minnesota Championed Minnesota’s digital right to repair law so you can affordably fix your phone, laptop, or appliance Tackling Fraud The State must be good stewards of your money.
 The fraud that has occurred is unacceptable and during the entirety of my first term I have worked to put guardrails in place to protect your money.

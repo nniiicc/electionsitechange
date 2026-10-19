@@ -1,4 +1,4 @@
-Skip navigation menu Early Voting Starts Monday, October 19, 2026!
+Skip navigation menu Early Voting Started Monday, October 19, 2026!
 Meet Claire News Issues Press Kit Get Involved Español Donate They say a democrat can't win in west texas But what if we did?
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your mobile number, you consent to receive periodic campaign updates from Claire Reynolds for Congress.
 Txt HELP for help, STOP to end.
@@ -37,8 +37,8 @@ Scroll around on the map and find out!
 Red : Unchanged | Blue : Added | Gray: Removed Look up my address Check your home address!
 (Thanks to the kind folks at TX-11 Outpost for this map and lookup widget) If you find yourself in a new and unfamiliar district, well, thank a Texas Republican at the polls.
 Who's ENdorsing Claire now?
-Claire Reynolds for TX-11 Texas AFL-CIO COPE Mothers Against Greg Abbott The 134 PAC National Women's Political Caucus Austin American-Statesman Her Bold Move Pflugerville Area Democrats Wait,What?!
-Lone Star Left Leander Women For Progress Black Girls Politickin Liberal Austin Democrats Indivisible Highland Lakes NorthEast Travis County Democrats Progressive Voters' Network All My Leftists Live In Texas Save Our Public Schools sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By providing your mobile number, you consent to receive periodic campaign updates from Claire Reynolds for Congress.
+Claire Reynolds for TX-11 Texas AFL-CIO COPE Mothers Against Greg Abbott Austin Chronicle Austin American-Statesman Pflugerville Area Democrats The 134 PAC National Women's Political Caucus Her Bold Move Lone Star Left Leander Women For Progress Wait,What?!
+Black Girls Politickin Liberal Austin Democrats Indivisible Highland Lakes NorthEast Travis County Democrats Progressive Voters' Network All My Leftists Live In Texas Save Our Public Schools sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By providing your mobile number, you consent to receive periodic campaign updates from Claire Reynolds for Congress.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
 Submit Make checks payable to: Claire Reynolds for Congress P.O.

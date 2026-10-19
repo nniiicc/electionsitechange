@@ -3,7 +3,7 @@ Contribute to Mary’s campaign today.
 Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 MA R Y PE L T O L A We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Continue to website Skip to content Alaska First.
-Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Call for Artists Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer My Story 1 / 7 I’m Mary Peltola I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News MA R Y PE L T O L A Salmon Run Store Donate Donate Menu MA R Y PE L T O L A Close Donate Volunteer My Story 1 / 7 I’m Mary Peltola I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
 I grew up on the Kuskokwim, fishing salmon with my father.
 Buzzy and I raised our seven kids here and spent long summer days at fish camp.
 Fishing with family is where Alaskans learn life’s lessons.

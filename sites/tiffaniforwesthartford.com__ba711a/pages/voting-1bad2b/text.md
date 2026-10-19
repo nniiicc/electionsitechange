@@ -1,7 +1,10 @@
 top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 “The vote is precious.
 It is almost sacred.
-It is the most powerful non-violent tool we have in a democracy.” — Congressman John Lewis 18th DISTRICT POLLING LOCATIONS District 1-2: King Philip Middle School, 100 King Philip Drive District 2: Bristow Middle School, 34 Highland Street District 3: Town Hall, 50 South Main Street Not sure of your polling location?
+It is the most powerful non-violent tool we have in a democracy.” — Congressman John Lewis EARLY VOTING In this election, you can vote early and avoid lines on Election Day.
+Below are the details for early voting. ​ Date: October 19 - November 1 Time: 10:00 a.m. to 6:00 p.m.
+Extended Hours: October 27 and October 29.
+(8:00 a.m. to 8:00 p.m) Location: West Hartford Town Hall (50 South Main Street) ​ ​ ​ ​ 18th DISTRICT POLLING LOCATIONS District 1-2: King Philip Middle School, 100 King Philip Drive District 2: Bristow Middle School, 34 Highland Street District 3: Town Hall, 50 South Main Street Not sure of your polling location?
 This District Map might be useful.
 Or, look up your information here .
 CHECK VOTER REGISTRATION It takes less than 30 seconds to check your registration status using the State of Connecticut's Voter Registration Lookup .

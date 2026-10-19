@@ -138,7 +138,7 @@ We do not celebrate sacrifice and then look away from its consequences.
 We build systems that honor service with substance, recognize human complexity, and plan for the long term.
 A just state meets veterans where they are, not where it is most convenient.
 Expanding the Utah Department of Veterans and Military Affairs into a stronger, well-funded, and empowered advocate is how we begin closing the distance between promises and reality— and make sure no Utah veteran is left alone inside that gap.
-Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Recent Posts See All Eight Veterans, Two Parties, One Table: My Report From the Veterans Town Hall & Roundtable One Door, Every Answer: Introducing the Utah Veterans Ombudsman and Accountability Act We Are Building Data Centers Blind Howells for Utah HD39 We can only achieve success in this campaign with your support.
 Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
 Every dollar matters!
 Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

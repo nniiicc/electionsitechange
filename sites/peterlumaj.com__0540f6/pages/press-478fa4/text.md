@@ -3,7 +3,7 @@ Download Media Kit Media Contact Press Releases Latest campaign news and stateme
 Official Campaign Photos Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Logos & Brand Assets Campaign Logo Package Complete logo package including primary logo, variations, and usage guidelines.
 Logo assets will be available soon.
 Complete Media Kit Download everything in one convenient package including photos, logos, and fact sheets.
-Download Complete Media Kit (ZIP) Last updated: October 18, 2026 Media Contacts Press Office Media Relations press@peterlumaj.com General Inquiries info@peterlumaj.com Submit Media Inquiry Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
+Download Complete Media Kit (ZIP) Last updated: October 19, 2026 Media Contacts Press Office Media Relations press@peterlumaj.com General Inquiries info@peterlumaj.com Submit Media Inquiry Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
 Yes, I would like to receive text messages By providing your phone number and checking this box, you are consenting to receive Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages from Lumaj 2026.
 Donations will not be solicited.
 Message frequency varies.
@@ -19,7 +19,6 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Dominic Rapini 2022 Republican Secretary of the State candidate "As a former CTGOP candidate for Secretary of the State, I’ve seen firsthand the qualities required to serve as Connecticut’s chief elections officer.
-I’ve known Peter Lumaj for six years, and I’ve never met a more principled, committed conservative — a man whose love for the United States and for Connecticut is matched by his deep understanding of what it means to live without freedom.
-As someone who escaped a communist regime, Peter brings a rare and powerful perspective to this role, grounded in gratitude for democracy and a fierce defense of our republic.
-I wholeheartedly endorse Peter Lumaj for Secretary of the State of Connecticut." View all endorsements →
+ENDORSED BY Sean Cleary State Central Member 16th District "There are few people in politics with the amount of conservative values and integrity as I know Peter Lumaj possesses.
+Regardless of political winds, Peter stands as a true conservative happy warrior taking the fight to increasingly radical liberals.
+The Republican Party is better for having Peter Lumaj tell his story and fight for our values." View all endorsements →

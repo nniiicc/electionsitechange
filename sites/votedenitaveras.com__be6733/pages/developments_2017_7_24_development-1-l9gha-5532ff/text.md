@@ -8,9 +8,9 @@ Construction on the multifamily building began in Fall 2016.
 Construction of the townhouses and two-over-twos is expected to begin once the majority of the multifamily building is complete.
 All construction is scheduled to be completed by October 2018.
 The Edition is a realization of what was intended in the passing of the Prince George's Plaza Transit District Overlay Zone.
-Source: http://www.hyattsville.org/669/The-Edition-at-Kiplinger July 29, 2017 / Guest User / Comment / Source Guest User Rainier Manor II Safeway at University Town Center HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in the last 20 years in Hyattsville .
-She is on the side of working families and immigrants.
-The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+ year old overcrowding school problem—, and the construction of 2 new libraries——one to be delivered in 2021 and one in design.
+Source: http://www.hyattsville.org/669/The-Edition-at-Kiplinger July 29, 2017 / Guest User / Comment / Source Guest User Rainier Manor II Safeway at University Town Center HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in Hyattsville in the last 20 years.
+She stands with working families and immigrants.
+The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+-year-old overcrowding school problem—and the construction of 2 new libraries—Hyattsville Library, which is now open, and Langley Park Library, still under consideration.
 Committed to What We Started Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe for Updates Sign up with your email address to receive news and updates.

@@ -1,8 +1,5 @@
 0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Check out our upcoming events!
-Oct 18 Door Knock for Matt Norris with House DFL Floor Leader Jamie Long Sunday, October 18, 2026 4:00 PM 6:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris with House DFL Floor Leader Jamie Long!
-Register here so we know you’re coming.
-We’ll launch at 4 pm from the Lino Lakes DFL Action Center.
-View Event → Oct 21 Door Knock for Matt Norris Wednesday, October 21, 2026 4:00 PM 6:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
+Oct 21 Door Knock for Matt Norris Wednesday, October 21, 2026 4:00 PM 6:00 PM Lexington Athletic Complex (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 Register here so we know you’re coming.
 We’ll meet by the big red barn at the Lexington Athletic Complex in Blaine.
 View Event → Oct 21 October 21 Phone Banking for Matt (Virtual) Wednesday, October 21, 2026 6:30 PM 8:30 PM Google Calendar ICS Volunteers will meet online for a brief training before jumping on the phones.
@@ -46,6 +43,9 @@ We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am,
 View Event → Nov 2 Door Knock for Matt Norris Monday, November 2, 2026 10:00 AM 7:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 Register here so we know you’re coming.
 We’ll be launching door knocks from the Lino Lakes DFL Action Center at 10 am, 12 pm, 3 pm, and 5 pm.
+View Event → Oct 18 Door Knock for Matt Norris with House DFL Floor Leader Jamie Long Sunday, October 18, 2026 4:00 PM 6:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris with House DFL Floor Leader Jamie Long!
+Register here so we know you’re coming.
+We’ll launch at 4 pm from the Lino Lakes DFL Action Center.
 View Event → Oct 17 Door Knock for Matt Norris Saturday, October 17, 2026 10:00 AM 12:00 PM Lino Lakes DFL Action Center (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 Register here so we know you’re coming.
 We’ll launch at 10 am from the Lino Lakes DFL Action Center.
@@ -180,12 +180,6 @@ Sign up below to join us!
 View Event → Oct 22 10/22/2022 Literature Drop: Morning Saturday, October 22, 2022 10:00 AM 12:00 PM Google Calendar ICS Meet Your Blaine and Lexington Community!
 Volunteers will meet for a brief training before heading out to deliver literature on Matt’s campaign in the area.
 Bring your charged GPS capable phone!
-Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
-Sign up below to join us!
-View Event → Oct 16 10/16/2022 Phone Bank for Team Norris Sunday, October 16, 2022 6:00 PM 8:30 PM Online! (map) Google Calendar ICS Connect with Your Blaine and Lexington Community!
-Volunteers will meet online for a brief training before jumping on the phones.
-You must have your own computer and phone to complete this volunteer opportunity!
-This opportunity is 100% virtual.
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
 View Event → Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.

@@ -48,10 +48,6 @@
 "href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
 {
-"text": "Health Care",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
-},
-{
 "text": "Home",
 "href": "https://www.cloudforcongress.com/"
 },
@@ -60,12 +56,16 @@
 "href": "https://www.mintandvine.com"
 },
 {
-"text": "National Defense",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
-},
-{
 "text": "PrevAgriculture and Property Rights",
 "href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
+},
+{
+"text": "Pro-Life",
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
+},
+{
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
 },
 {
 "text": "Read More »",
@@ -73,11 +73,11 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
 },
 {
-"text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"text": "The 2nd Amendment",
+"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
 },
 {
 "text": "Volunteer",
@@ -93,15 +93,15 @@
 },
 {
 "text": "[image]",
+"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
+},
+{
+"text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/health-care/"
-},
-{
-"text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/pro-life/"
 },
 {
 "text": "[no text]",

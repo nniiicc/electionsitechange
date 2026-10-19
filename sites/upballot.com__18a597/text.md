@@ -105,8 +105,8 @@ This human being risked becoming a human popsicle because there was no housing.
 Being unhoused is usually a symptom of something larger going on with the person systemically.
 This community is in need of an elected official who empathizes with their situation and works to create empowering paths to a thriving existence.
 We owe them better policies, not more politics.
-Continue Reading See All Issues Elizabeth 'Lilly'’s Upcoming Events October 18 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
-Louis View Event October 24 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
+Continue Reading See All Issues Elizabeth 'Lilly'’s Upcoming Events October 24 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event October 25 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
+Louis View Event October 31 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event See All Events Support Elizabeth 'Lilly' Fuchs’s Campaign for Missouri Donate Now Friends for Fuchs 4228A Wyoming Street, St.
 Louis, Missouri 63116 tel:314-323-0584 | lillyforthelou@gmail.com Bethany Berger, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

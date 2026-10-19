@@ -27,7 +27,14 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) What’s on the ballot?
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 15: Flooding and Storms Newtown deserves leaders who prepare for the challenges we can see coming.
+After the 2024 flooding, Michelle Embree Ku advocated for recovery efforts—and she has continued to listen as neighbors, farms, and local businesses work to rebuild and move forward.
+The impacts did not end when the water receded.
+The choice for Newtown is clear: Michelle will fight to give our towns the tools they need to respond to flooding, storms, and climate impacts, while protecting the wildlife and environment that make our community special.
+And, that’s the difference.
+Vote Michelle Embree Ku, Democrat for State Representative.
+Vote early October 19–November 1 or on Election Day, November 3.
+Look it up: PA 25-33 www.cga.ct.gov/2025/VOTE/H/PDF/2025HV-00200-R00SB00009-HV.PDF bipartisan 33 nos #TheDifferenceIsClear #NewtownCT #MichelleEmbreeKu #CTPolitics #ClimateResilience #ProtectOurEnvironment #LocalLeadership … See More See Less Play View Comments Like reaction Love reaction Reactions: 12 Comments: 2 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) What’s on the ballot?
 The freedom to make our own healthcare decisions—and leaders who’ll fight to protect it.
 This election, don’t leave your future in someone else’s hands.
 Make a plan.
@@ -35,13 +42,7 @@ Bring a friend.
 Vote.
 Vote for Michelle Embree Ku, Democrat for State Representative.
 Vote early October 19–November 1 or on Election Day, November 3.
-#healthcare #democracy #freedom #leadership #vote … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 22 Comments: 4 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 4 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Pop quiz: What connects education, housing, health care, energy, and the environment?
-Answer is in the comments… #healthcare #Energy #environment #education #housing … See More See Less View Comments Like reaction Love reaction Reactions: 7 Comments: 4 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 4 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear — Day 14: Privacy on Our Roads New technology should make our community safer—not turn everyday drives into a record of where we’ve been.
-Newtown deserves clear rules on what data license plate readers collect, how long it’s kept, and who can see it.
-Public safety and personal privacy are not opposites.
-And, that’s the difference.
-Vote Michelle Embree Ku, Democrat for State Representative.
-Vote early October 19–November 1 or on Election Day, November 3.
-Look it up: PA 26-14 www.cga.ct.gov/2026/VOTE/H/PDF/2026HV-00175-R00SB00397-HV.PDF #TheDifferenceIsClear #MichelleEmbreeKu #NewtownCT #CTpolitics … See More See Less Play View Comments Like reaction Reactions: 10 Comments: 2 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+#healthcare #democracy #freedom #leadership #vote … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 40 Comments: 5 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 5 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Pop quiz: What connects education, housing, health care, energy, and the environment?
+Answer is in the comments… #healthcare #energy #environment #education #Housing … See More See Less View Comments Like reaction Love reaction Reactions: 9 Comments: 5 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 5 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

@@ -77,19 +77,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 17, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
-Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 17, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
-Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
-See more details Riverside Farmers Market (Reno) October 18, 2026 8:00 am - 1:00 pm Idlewild Park, 2055 Idlewild Dr/Ct, Reno, NV Weekly Sunday farmers market at Idlewild Park.
-Local produce, vendors, community gathering.
-Good relaxed public mingling spot.
-(Also typically runs the prior Sunday Oct 11.) See more details Reno Antique Faire October 18, 2026 10:00 am - 4:00 pm North Virginia Street / Downtown Reno (near Arch) Large outdoor antique and vintage market on North Virginia Street in downtown Reno (third Sunday monthly).
-150+ vendors, food trucks, free admission.
-High foot traffic public event.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 18, 2026 7:00 pm - 10:00 pm See more details October 19, 2026 I'll be in Reno from 10/12 to 10/20!
+See more details 26 27 28 29 30 31 October 19, 2026 I'll be in Reno from 10/12 to 10/20!
 October 19, 2026 7:00 pm - 10:00 pm See more details October 20, 2026 Carson City Republican Women Meeting (nearby) October 20, 2026 11:00 am - 1:00 pm Casino Fandango Grand Ballroom, 3800 South Carson Street, Carson City, NV 89701 Carson City Republican Women monthly meeting.
 Cost $25.
 Location: Casino Fandango Grand Ballroom, 3800 South Carson Street, Carson City, NV 89701 (approx.
@@ -199,19 +187,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 17, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
-Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 17, 2026 7:00 pm - 10:00 pm See more details October 18, 2026 McQueen Craft Faire (Reno) October 16, 2026 10:00 am - October 18, 2026 4:00 pm Robert McQueen High School, Reno, NV 40th Annual McQueen Craft Faire at Robert McQueen High School.
-Multi-day craft and vendor fair – community-oriented public event with good opportunities to mingle.
-See more details Riverside Farmers Market (Reno) October 18, 2026 8:00 am - 1:00 pm Idlewild Park, 2055 Idlewild Dr/Ct, Reno, NV Weekly Sunday farmers market at Idlewild Park.
-Local produce, vendors, community gathering.
-Good relaxed public mingling spot.
-(Also typically runs the prior Sunday Oct 11.) See more details Reno Antique Faire October 18, 2026 10:00 am - 4:00 pm North Virginia Street / Downtown Reno (near Arch) Large outdoor antique and vintage market on North Virginia Street in downtown Reno (third Sunday monthly).
-150+ vendors, food trucks, free admission.
-High foot traffic public event.
-See more details I'll be in Reno from 10/12 to 10/20!
-October 18, 2026 7:00 pm - 10:00 pm See more details October 19, 2026 I'll be in Reno from 10/12 to 10/20!
+See more details 26 27 28 29 30 31 October 19, 2026 I'll be in Reno from 10/12 to 10/20!
 October 19, 2026 7:00 pm - 10:00 pm See more details October 20, 2026 Carson City Republican Women Meeting (nearby) October 20, 2026 11:00 am - 1:00 pm Casino Fandango Grand Ballroom, 3800 South Carson Street, Carson City, NV 89701 Carson City Republican Women monthly meeting.
 Cost $25.
 Location: Casino Fandango Grand Ballroom, 3800 South Carson Street, Carson City, NV 89701 (approx.

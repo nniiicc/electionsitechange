@@ -1,4 +1,4 @@
-top of page Skip to Main Content HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
 Here is where I stand on the Issues This page lays out where I stand on the issues that matter most to our community—from affordability, education, and healthcare to civil liberties, the environment, and good governance.
 It’s a clear, plain-language look at my policy positions, the values that guide them, and how I think about solving real problems with an eye toward dignity, accountability, and the long term.
 Short on time?

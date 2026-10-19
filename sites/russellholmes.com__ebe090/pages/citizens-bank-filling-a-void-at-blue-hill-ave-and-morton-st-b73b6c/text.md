@@ -11,17 +11,14 @@ Share this Post navigation PREVIOUS Previous post: Trinity’s project at 150 Ce
 House leaders scored big Related Post The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
-Share this Read More Read More Rep.
-Holmes rolls to re-election in 6th Suffolk district Rep.
-Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
+Share this Read More Read More In closed-door budget process, Mass.
+House leaders scored big In closed-door budget process, Mass.
+House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:37 am State Rep.
-Russell Holmes was re-elected on Tuesday as he dominated his Democratic challenger Haris Hassan Hardaway, winning 75 percent of the vote in the Sixth Suffolk district, which includes Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 5:44 am <p>By Samantha J.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:23 am Rep.
-Russell Holmes is ready to start screaming again over police reform bill.
-Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
-The state must do something, Read More Read More “I Work for You.” You're my neighbors.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

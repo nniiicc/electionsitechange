@@ -5,7 +5,7 @@ Energy policy plays a crucial role in attracting businesses, creating jobs, and 
 It’s not just about keeping the lights on; it’s about ensuring the economy has a sustainable future.
 This was evident during a recent meeting with the Southern Aroostook Development Corporation.
 We discussed a major data...
-29 0 Mar 20, 2026 ∙ 3 min Trust in Government Starts with Transparency Most people, regardless of political affiliation, agree on at least one thing: government should be transparent.
+30 0 Mar 20, 2026 ∙ 3 min Trust in Government Starts with Transparency Most people, regardless of political affiliation, agree on at least one thing: government should be transparent.
 It is one of those rare ideas that brings nearly everyone together.
 Ask ten people what they want from government, and you will get ten different answers.
 Ask those same ten people if they want transparency, and suddenly you have a unanimous vote.

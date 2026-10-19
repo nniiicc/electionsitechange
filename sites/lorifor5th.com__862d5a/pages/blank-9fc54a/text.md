@@ -1,4 +1,4 @@
-top of page HOME WHY I'M RUNNING LORI PLATFORM THE DISTRICT ENDORSEMENTS More Use tab to navigate through the menu items.
+top of page Skip to Main Content HOME WHY I'M RUNNING LORI PLATFORM THE DISTRICT ENDORSEMENTS More Use tab to navigate through the menu items.
 Privacy Policy Information we collect We collect information you provide directly (for example, through volunteer, contact, donation, and sign‑up forms), such as your name, email address, phone number, mailing address, and any messages you send. ​ ​ How we use your information We use your information to: Send campaign updates, event information, and volunteer opportunities.
 Respond to questions or requests you submit.
 Improve our website and outreach.

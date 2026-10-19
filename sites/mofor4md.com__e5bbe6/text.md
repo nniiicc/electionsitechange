@@ -17,6 +17,7 @@ As a Delegate for District 9A in the Maryland House of Delegates, Fitzgerald Mof
 He also plans to provide tax relief to businesses to create more jobs.
 He plans to prioritize pragmatic solutions regarding energy policy to bring down the cost of living for everyday ratepayers.
 As a delegate, Fitzgerald will be 100% committed to resolving our broken juvenile justice system.
+A native Marylander fighting for District 9A.
 Endorsements Trent Kittleman Former Delegate 9A "Fitzgerald, you have 100% of my support and endorsement.
 I will do everything I can to support you.
 I believe you will be an excellent representative for our district." Gail Bates Former State Senator 9A "I believe Fitzgerald Mofor represents the positive values of our state and nation.

@@ -4,6 +4,14 @@
 "href": "https://www.alexisforcolorado.com/cart"
 },
 {
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
 "text": "Endorsements",
 "href": "https://www.alexisforcolorado.com/endorsements"
 },
@@ -16,8 +24,20 @@
 "href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
 },
 {
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
 "text": "Media",
 "href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
 },
 {
 "text": "Voting Guide",

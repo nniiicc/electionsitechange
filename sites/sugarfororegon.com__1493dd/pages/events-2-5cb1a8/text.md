@@ -3,11 +3,7 @@ Events Volunteer Contact Donate Home About Priorities Endorsements News Yard Sig
 Events Volunteer Contact Donate Join Us Campaign Events From canvassing to phone banking, there's always a way to get involved!
 Volunteer for Michael Sugar Virtual Event Interested in helping elect Michael Sugar to Salem?
 Every volunteer makes a real impact.
-Whether you're knocking on doors, making phone calls, sending texts, or helping bundle campaign literature, you… Show more RSVP Canvass in Oregon City w/ Michael Sugar for State House Multiple Times This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Oregon City, OR, 97045 Go door to door in Oregon City to talk to voters about Michael Sugar for State House!
-The last time this seat was open, the margin was 181 votes out of 30,000, a very small margin.
-Canvassing is a cru… Show more RSVP Canvass in Oregon City w/ Michael Sugar for State House This event’s address is private.
+Whether you're knocking on doors, making phone calls, sending texts, or helping bundle campaign literature, you… Show more RSVP Canvass in Oregon City w/ Michael Sugar for State House This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Oregon City, OR, 97045 Go door to door in Oregon City to talk to voters about Michael Sugar for State House!
 The last time this seat was open, the margin was 181 votes out of 30,000, a very small margin.

@@ -12,7 +12,7 @@ Amy Acton MEET AMY Amy Acton’s Journey Dr.
 Amy Acton grew up in Youngstown, Ohio under difficult circumstances.
 But that made Amy tough – and now, Amy is running for governor to fight for every Ohio family that’s struggling today.
 LEARN MORE LEARN MORE ISSUE Reducing Costs for Ohio Families Read More ISSUE Cleaning Up Corruption Read More ISSUE Improving Ohio’s Education Read More ISSUE Lowering the Cost of Health Care Read More ISSUE Growing Ohio Jobs and Businesses Read More ISSUE Standing Up for Workers Read More ISSUE Building Safer Communities Read More ISSUE Ensuring Reproductive Freedom Read More ISSUE Aging in place Read More PRIORITIES FOR OHIO PRIORITIES FOR OHIO $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount CHIP IN TODAY Donate now to Stand with Amy If you’ve saved your payment info with ActBlue Express, your donation will go through immediately.
-THE LATEST UPDATES My ActOn Lowering Costs Agenda begins on day one. https://t.co/w8wUX4ruVu #ago Incredibly honored to have President Obama's support in this fight.
+THE LATEST UPDATES My number one priority is lowering costs for Ohioans. https://t.co/x0pMzzOTg0 #ago Incredibly honored to have President Obama's support in this fight.
 October 13, 2026 Press Releases Oct 17, 2026 What Ohioans Are Saying: “Ramaswamy’s record raises serious concerns” TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.

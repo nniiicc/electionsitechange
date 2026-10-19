@@ -11,10 +11,9 @@ RIGHTS Principled leadership focusing on education and civil rights.
 Join the Winning Team Help us spread the message across the entire state.
 Every contribution helps us keep this ad on the airwaves and brings us closer to a fairer Illinois.
 Choose Your Impact $10 $25 $50 $ OTHER JOIN US!
-VOLUNTEER FOR BOB Recent Posts See All # Days Until Election Day: Your Illinois Voter Action Guide Official Voter Directive # DAYS LEFT The Office of the Attorney General Belongs to the People.
+VOLUNTEER FOR BOB Recent Posts See All Veteran Police Commander Bill Kushner Endorses Bob Fioretti for Illinois Attorney General # Days Until Election Day: Your Illinois Voter Action Guide Official Voter Directive # DAYS LEFT The Office of the Attorney General Belongs to the People.
 Illinois stands at a critical juncture.
-The Attorney General is our state’s chief legal advocate—mandate On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour Join Us for Our Road to Victory Final Event before Election Day!
-EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+The Attorney General is our state’s chief legal advocate—mandate On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

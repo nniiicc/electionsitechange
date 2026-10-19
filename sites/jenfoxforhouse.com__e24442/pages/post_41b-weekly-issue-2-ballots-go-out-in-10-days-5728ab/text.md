@@ -3,14 +3,10 @@ DONATE All Articles Search 41B Weekly, Issue 2: Ballots go out in 10 days jenfox
 Issue 2 covered the Operating Engineers Local 49 endorsement, the three dates that decide this seat (absentee ballots September 18, early in-person voting October 16, Election Day November 3), the 375th Fox sign going into a yard, and a door knock schedule that now runs four days a week: Wednesday at 5, Thursday at 5, Saturday at 11 and Sunday at 2.
 Read Issue 2 as it was emailed New issues go out most weeks.
 Subscribe here .
-Recent Posts See All 41B Weekly, Issue 7: Three weeks to go Sent Monday, October 12, 2026.
-Issue 7 covered the October 13 pre-registration deadline, this week's door knocks from Spiral Brewery and Park High School, the ask to wear a Jen Fox shirt, and early vo 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
+Recent Posts See All 41B Weekly, Issue 8: Tell one neighbor why Sent Sunday, October 18, 2026.
+Issue 8 asked readers to tell one neighbor why they support Jen, listed this week's door knocks and GOTV shifts, and covered early voting through Monday, November 2.
+41B Weekly, Issue 7: Three weeks to go Sent Monday, October 12, 2026.
+Issue 7 covered the October 13 pre-registration deadline, this week's door knocks, the ask to wear a Jen Fox shirt, and early voting opening at Hastings City Hall on Oct 41B Weekly, Issue 6: Thank you, and one deadline Sent Monday, October 5, 2026.
 Issue 6 opened with a thank-you to everyone who filled Hastings City Hall for the September 30 candidate forum.
-It then covered the October 13 deadline to pre-register to It's my birthday!
-Here is my ask.
-Hi neighbor, Today is my birthday.
-I am spending it at work, which feels about right for this stage of a campaign.
-Our campaign needs your help!
-In 64 days this district picks a state representative.
-GET INVOLVED Your support changes the game!
+It then covered the October 13 deadline to pre-register to GET INVOLVED Your support changes the game!
 DONATE YARD SIGNS VOLUNTEER SUBSCRIBE Home About Me Events Donate Newsletter Gallery Prepared and paid for by the Jen Fox for House Committee PO Box 492, Hastings MN 55033 PO Box 492 Hastings, MN 55033 jenfoxforhouse@gmail.com bottom of page

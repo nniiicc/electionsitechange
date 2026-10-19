@@ -35,10 +35,10 @@ Marine Corps by Operation Homefront .
 Hannah’s story is a powerful reminder that service extends beyond those who wear the uniform.
 From navigating her father's 16 deployments to founding a club that supports fellow military students, Hannah has turned challenges into leadership and compassion for others.
 We thank her family for their sacrifice and commend Hannah for representing Onslow County and all of North Carolina with such strength and character.
-READ MORE >>> Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+READ MORE >>> Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

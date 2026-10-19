@@ -1,4 +1,4 @@
-Home Volunteer English Español ( Spanish ) Volunteer Your time and talents can make a real difference.
+Volunteer English Español ( Spanish ) Volunteer Your time and talents can make a real difference.
 Every volunteer plays an important role in helping our campaign connect with voters and strengthen our community.
 Whether you have one hour a month or several hours a week, there is a place for you.
 CHOOSE YOUR TEAM Voter Outreach Door-to-Door Canvassing Visit neighbors, share Eliott's message, and invite them to support our campaign.

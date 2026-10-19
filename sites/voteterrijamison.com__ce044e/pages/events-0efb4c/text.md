@@ -3,5 +3,5 @@ Want to host a house party fundraiser?
 Contact Millie Vaughan at millie@sstrategiesconsulting.com.
 Want Judge Jamison as a keynote speaker?
 Contact her campaign at jamison4judge@gmail.com.
-#ago This Week This Month ‹ Previous Sun Oct 18 2026 - Tue Nov 17 2026 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Mon Oct 19 2026 - Wed Nov 18 2026 Next › No events in this range Try a different date range, or check back soon for new events.
 E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

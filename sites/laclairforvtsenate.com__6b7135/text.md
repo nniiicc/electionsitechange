@@ -5,4 +5,4 @@ Learn More rob laclair Native Vermonter , former State Rep, and small business o
 Rob knows what it takes to make Vermont work for everyone.
 About Governor Approved It's clear that Vermont needs more balanced representation.
 Rob LaClair is a commonsense, mainstream candidate who will work with me to pass the commonsense, mainstream policies that will make Vermont more affordable.
-Governor Phil Scott get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made in Vermont by Kenneth Sekuterski Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook
+Governor Phil Scott get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made by NEQ Media Group Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook

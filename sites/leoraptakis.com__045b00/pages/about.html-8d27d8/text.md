@@ -28,7 +28,7 @@ Kent County Daily Times, April 25th 2016 Fought to bring penalties for leaving a
 Won passage of legislation to increase the time served for those convicted of first and second degree murder.
 The only Coventry legislator who responded to elevator breakdowns at Woodland Manor to resolve the crisis .
 NEWSROOM State Senator Raptakis News Feed Hellenic Issues HOME | ABOUT | AGENDA | NEWSROOM | EVENTS | DONATE | SOCIAL | ARCHIVES | CONTACT Newsroom DONATE GET INVOLVED Thank You for Your Support!
-"No One's Voice but Ours" State House Contact Number: 401-276-5567 * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
+"No One's Voice but Ours" * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
 Please review Privacy Policy.
 Your Zip Code * Enter your zip code of residence.
 I agree to receiving marketing and promotional materials Opt-In * Please Note: Donations require employer's company name, and donor's residential address. ©# | ALL RIGHTS RESERVED.

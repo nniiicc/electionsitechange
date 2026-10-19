@@ -13,12 +13,12 @@ Connecticut deserves an election system with integrity and a Secretary of the St
 November 3 is approaching fast.
 Please reach out at Info@PeterLumaj.com to get involved in our campaign, volunteer, and help spread our message.
 Together, we can win this!
-Sincerely, Peter Lumaj Share this: Related Articles # Days Until Election Day: Get Ready with Our GOTV App!
+Sincerely, Peter Lumaj Share this: Related Articles Early Voting Starts Tomorrow!
+The moment we've been working toward is here.
+Early voting in Connecticut starts tomorrow, Monday, October 19!
+# Days Until Election Day: Get Ready with Our GOTV App!
 With just # days until Election Day, November 3rd is quickly approaching!
-Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
-Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
-Last weekend, we joined fellow Republicans for the annual Guilford Fair parade.
-We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ... ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
+Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections. ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
 Yes, I would like to receive text messages By providing your phone number and checking this box, you are consenting to receive Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages from Lumaj 2026.
 Donations will not be solicited.
 Message frequency varies.

@@ -9,9 +9,9 @@ University Town Center (UTC) is a multi-billion dollar mixed-use hub featuring 1
 Groundbreaking Prince George’s County Officials, ECHO Realty executives, and representatives from the City of Hyattsville officially broke ground on the Safeway site on May 7, 2015.
 Source: http://www.hyattsville.org/549/Safeway-at-University-Town-Center July 29, 2017 / Deni Taveras / Comment / Source Deni Taveras Kiplinger Development at Editor's ...
 Takoma Langley Crossroads Transit ...
-HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in the last 20 years in Hyattsville .
-She is on the side of working families and immigrants.
-The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+ year old overcrowding school problem—, and the construction of 2 new libraries——one to be delivered in 2021 and one in design.
+HOME / ABOUT DENI / ACHIEVEMENTS / ISSUES / NEWS / EVENTS / DONATE / Vote Deni Taveras 2026 Transformational Change Agent Named the most consequential politician in Hyattsville in the last 20 years.
+She stands with working families and immigrants.
+The facts and her deeds speak for themselves: $10 billion in infrastructure investments in District 2, 9 District 2 schools in the pipeline for construction—3 of which will be delivered by 2024, finally addressing the 50+-year-old overcrowding school problem—and the construction of 2 new libraries—Hyattsville Library, which is now open, and Langley Park Library, still under consideration.
 Committed to What We Started Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe for Updates Sign up with your email address to receive news and updates.

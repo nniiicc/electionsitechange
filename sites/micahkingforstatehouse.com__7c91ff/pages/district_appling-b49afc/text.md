@@ -4,8 +4,7 @@ Vote Early Early voting is open today across HD-157!
 Locations & Hours → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Appling County County Seat: Baxley 18,444 Population 1818 Est.
 Community Profile Key details for Appling County "Timber, turpentine history, rural healthcare gaps" Key Communities Baxley Graham Surrency Odum Empire Take Action Represent Appling County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Appling County, join our grassroots movement today.
-Volunteer Here Donate Appling County Forecast Live Data Forecast currently unavailable.
-Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Appling County Forecast Live Data #ago Partly cloudy 66° 50° Mon, Oct 19 Clear sky 68° 50° Tue, Oct 20 Clear sky 73° 47° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

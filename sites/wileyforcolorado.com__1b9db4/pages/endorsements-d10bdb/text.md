@@ -1,5 +1,5 @@
 New Merch Available!
-Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate Endorsements I’ve known James Wiley for quite a while and have had the opportunity to work with him extensively.
+Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Endorsements I’ve known James Wiley for quite a while and have had the opportunity to work with him extensively.
 Through that experience, I’ve come to know the kind of man he truly is: principled, knowledgeable, and deeply committed to the integrity of our elections.
 Teddy Collins - Candidate, Colorado Senate District James Wiley has the vision, energy & courage to return integrity to Colorado’s election system.
 Join me in illuminating the SOS office with ‘the red flame of liberty’ to return our elections to a process we can trust.

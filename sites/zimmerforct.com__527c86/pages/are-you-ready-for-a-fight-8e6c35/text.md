@@ -1,6 +1,6 @@
 Get your lawn sign!
 CLICK HERE Updates Campaign News Videos In the Press Platform Events Contact Updates Campaign News Videos In the Press Platform Events Contact Are you ready for a fight?
-Mar 06, 2026 1 min read Content Table of Contents Table of Contents × Are you ready for a fight?
+Mar 07, 2026 1 min read Content Table of Contents Table of Contents × Are you ready for a fight?
 I am.
 Over the next several days and weeks, I’ll be sharing more about my platform and priorities.
 But first, I wanted you to hear it directly from me: I’m running for State Senate.

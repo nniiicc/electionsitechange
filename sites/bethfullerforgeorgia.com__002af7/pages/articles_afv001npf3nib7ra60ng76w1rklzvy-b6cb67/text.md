@@ -9,5 +9,5 @@ It could also create political cover for Republican lawmakers who privately supp
 Brian Kemp, a vocal opponent of Medicaid expansion.
 “I think that the leadership change in the governor’s office will open so many doors, and it may give Republicans at the Legislature some space to navigate maybe in a different way,” Fuller said. … [Candidates] and legislators said Georgia could take steps toward becoming a place where everyone can readily access preventive care, mental health resources, and comprehensive pregnancy support.
 “People deserve to be able to be taken care of when they’re sick,” Fuller said, “and they deserve to be able to access care for their family.” Originally published by Courier Georgia at https://couriergeorgia.com/news/medicaid-expansion-hinges-on-more-than-the-governors-race/ .
-Case Norton Next Next How Beth Fuller went from CDC contractor to campaigning for office info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Case Norton Previous Previous Candidate Q&A: State House District 53 Next Next How Beth Fuller went from CDC contractor to campaigning for office info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
 Box 566273, Atlanta, GA 31156

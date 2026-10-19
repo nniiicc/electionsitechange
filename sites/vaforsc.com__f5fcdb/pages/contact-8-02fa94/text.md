@@ -1,4 +1,4 @@
-top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Events Contact Donate Shop Merch More Use tab to navigate through the menu items.
+top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Contact Donate Shop Merch More Use tab to navigate through the menu items.
 Let's Chat Email mcleanforsc@gmail.com Social Media First Name Last Name Email Message Send Thanks for submitting!
 Get In Touch mcleanforsc@gmail.com P.
 O.

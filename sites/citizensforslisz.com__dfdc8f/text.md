@@ -3,7 +3,14 @@ She's a lifelong Callaway County voice for working families, family farms, and t
 Make a Donation Meet Jessica 🗳️ Make your vote count in 2026 Counting down to the next election — Days Register / Check Make sure you're registered at your current address.
 Register to Vote Vote by Mail See if you're eligible for a mail-in or absentee ballot.
 Absentee Info Find Your Polling Place Look up where to vote on Election Day in Callaway County.
-Find My Location Aug 4, 2026 — Primary Election Nov 3, 2026 — General Election What This Campaign Is About Families First, Community Always Two promises I intend to keep for the people of District 49.
+Find My Location Aug 4, 2026 — Primary Election Nov 3, 2026 — General Election Watch the Ads Hear it from Jessica Every ad is in Jessica's own voice.
+Press play on any one. :30 Ad The Drive Callaway County has had no hospital since 2022, and the nearest emergency room is thirty minutes away.
+Jessica tells why she refused to sign off on denying someone cancer treatment at Missouri Medicaid, and how she'll work to bring emergency care back within reach. :30 Ad Show Me If a data center comes to Callaway County, who pays for the power?
+Jessica wants proof, in writing, that our electric bills won't go up, because we can't afford to pay for someone else's data center. :30 Ad The Next Generation Jessica's family pays to farm, and they keep farming so her son can too.
+Any data center that comes here has to pay its own way and push no farmer off the land. :30 Ad Callaway County, Not Silicon Valley Jessica went to school here, gave birth here, and everybody knows her dad.
+She wants Callaway County to stay Callaway County, with our water, our land, and our way of life protected. :30 Ad The Signature At Missouri Medicaid, Jessica couldn't put her name on turning someone down for cancer treatment.
+In Jefferson City, before she votes on any bill, she'll ask what it does to families like yours.
+What This Campaign Is About Families First, Community Always Two promises I intend to keep for the people of District 49.
 Families First Before I cast a vote, I'll ask one thing: is this good for families here at home?
 What we pay for groceries, what healthcare costs, how we fund our schools.
 On all of it, the people of Callaway County come first.

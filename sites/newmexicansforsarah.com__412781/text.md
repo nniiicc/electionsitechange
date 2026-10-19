@@ -1,7 +1,7 @@
 0 Skip to Content VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Protecting our freedoms Stay updated on my work for House District 53! * indicates required Email address * First name * Last name * Phone Number (optional) LEARN MORE About me • Issues Session recaps: 2025 • 2026 KTAL interview Source New Mexico questionnaire My stance on Project Jupiter VOTING Here’s everything you need to know.
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+Folder: About Back Meet me Issues Data centers In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Protecting our freedoms Stay updated on my work for House District 53! * indicates required Email address * First name * Last name * Phone Number (optional) LEARN MORE About me • Issues Session recaps: 2025 • 2026 KTAL interview Source New Mexico questionnaire My stance on data centers VOTING Here’s everything you need to know.
 I come from a family of farmers and mechanics: I’m working to hold data centers accountable: Connect I’m a straight-shooter.
 I’ll always listen and discuss your concerns with you.
 Reach out to me anytime at 575-343-2029 or sarah.silva@nmlegis.gov .

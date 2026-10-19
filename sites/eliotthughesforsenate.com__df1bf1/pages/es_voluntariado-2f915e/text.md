@@ -1,4 +1,4 @@
-Página de destino Voluntariado Español English ( Inglés ) Voluntariado Su tiempo y talento pueden marcar una verdadera diferencia.
+Voluntariado Español English ( Inglés ) Voluntariado Su tiempo y talento pueden marcar una verdadera diferencia.
 Cada voluntario desempeña un papel importante para ayudar a nuestra campaña a conectar con los votantes y fortalecer nuestra comunidad.
 Ya sea que disponga de una hora al mes o de varias horas a la semana, hay un lugar para usted.
 ELIJA SU EQUIPO Captación de votantes Visitas puerta a puerta Visite a los vecinos, comparta el mensaje de Eliott e invítelos a apoyar nuestra campaña.

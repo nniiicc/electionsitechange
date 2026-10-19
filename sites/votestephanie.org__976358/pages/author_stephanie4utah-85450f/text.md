@@ -150,4 +150,4 @@ By pairing strong fiscal discipline with these common-sense cuts, we are ensurin
 Best Overall State, Savings Across the Board, Digital Transparency, and More!
 250 Years of Freedom and Prosperity!
 Leading the Nation, Energy Wins, and More!
-Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 4 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Interim is Here – Get Involved in the Process!  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 3 + 12 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

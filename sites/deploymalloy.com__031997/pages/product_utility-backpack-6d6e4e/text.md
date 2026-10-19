@@ -3,9 +3,9 @@ Share Description Additional information Express your style with a backpack that
 It provides spacious compartments, a secure laptop pocket, and a comfy fit to keep you ready for work, weekend trips, and last-minute adventures. • 100% polyester • Fabric weight: 9.73 oz./yd.² (330 g/m²) • Capacity: 4.3 gallons (16.1 l) • Maximum weight limit: 11.02 lbs (5 kg) • Spacious main compartment with multiple pockets • 2 front pockets • Mesh pockets on both sides • Hidden back pocket • Zippered laptop pocket • Adjustable straps • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
 Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
 Weight 0.03 lbs Related products Quick View Help Deploy Malloy!
-Hardcover bound notebook $ 17.00 Quick View Help Deploy Malloy!
 Spiral notebook $ 19.43 Quick View Help Deploy Malloy!
-Deploy Malloy Unisex t-shirt $ 22.00 – $ 30.00 Price range: $22.00 through $30.00 Select options This product has multiple variants.
+Deploy Malloy Dad hat $ 24.50 Quick View Help Deploy Malloy!
+Women’s Relaxed T-Shirt $ 26.00 – $ 31.50 Price range: $26.00 through $31.50 Select options This product has multiple variants.
 The options may be chosen on the product page Quick View Help Deploy Malloy!
 Skater Dress $ 63.61 – $ 65.61 Price range: $63.61 through $65.61 Select options This product has multiple variants.
 The options may be chosen on the product page Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

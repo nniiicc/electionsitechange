@@ -1,4 +1,4 @@
-Vote for Troy Redler Home Contact Dedicated Leadership for South Dakota District 17 House of Representatives Empowering our community with common sense solutions Learn More Vote Republican Troy Redler for House on November 2nd Click HERE Support the Campaign: Join Us in Driving Meaningful Change Today Meet Troy Redler Dedicated Republican candidate for South Dakota House of Representatives.
+Vote for Troy Redler Home Contact Dedicated Leadership for South Dakota District 17 House of Representatives Empowering our community with common sense solutions Learn More Vote Republican Troy Redler for House on November 3rd Click HERE Support the Campaign: Join Us in Driving Meaningful Change Today Meet Troy Redler Dedicated Republican candidate for South Dakota House of Representatives.
 Experienced pharmacist and business owner.
 Community leader committed to service and growth.
 Family-oriented, married with four children.
@@ -46,4 +46,4 @@ Error Bad respond Join Troy Redler in building a brighter future for South Dakot
 Paid for by Troy Redler for House of Representatives © Copyright # Network Solutions, LLC.
 All rights reserved.
 All registered trademarks herein are the property of their respective owners.
-Vote Republican Troy Redler for House on November 2nd
+Vote Republican Troy Redler for House on November 3rd

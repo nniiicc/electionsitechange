@@ -4,10 +4,6 @@
 "href": "https://www.gonzaloduran.nyc/events/list/"
 },
 {
-"text": "Action and Accountability: Combating Crime in Our Neighborhoods",
-"href": "https://www.gonzaloduran.nyc/event/action-and-accountability-combating-crime-in-our-neighborhoods/"
-},
-{
 "text": "Animal Issues",
 "href": "https://www.gonzaloduran.nyc/animal-issues/"
 },
@@ -56,16 +52,24 @@
 "href": "https://www.gonzaloduran.nyc/category/event-photos/"
 },
 {
+"text": "Export .ics file",
+"href": "https://www.gonzaloduran.nyc/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.gonzaloduran.nyc/events/list/?outlook-ical=1"
+},
+{
 "text": "Gonzalo Duran",
 "href": "https://www.gonzaloduran.nyc/"
 },
 {
-"text": "Gonzalo Duran to Participate in N.A.R.E.B. Political Advocacy Day",
-"href": "https://www.gonzaloduran.nyc/event/gonzalo-duran-to-participate-in-n-a-r-e-b-political-advocacy-day/"
-},
-{
 "text": "Gonzalo In The Press",
 "href": "https://www.gonzaloduran.nyc/category/gonzalo-in-the-press/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.gonzaloduran.nyc%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Health",
@@ -84,8 +88,20 @@
 "href": "https://www.gonzaloduran.nyc/events/month/"
 },
 {
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.gonzaloduran.nyc%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Gonzalo+Duran+Events+Archive+-+Gonzalo+Duran"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.gonzaloduran.nyc%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Gonzalo+Duran+Events+Archive+-+Gonzalo+Duran"
+},
+{
 "text": "Press Release",
 "href": "https://www.gonzaloduran.nyc/category/press-release/"
+},
+{
+"text": "Previous Events",
+"href": "https://www.gonzaloduran.nyc/events/list/?eventDisplay=past"
 },
 {
 "text": "Proudly powered by WordPress",
@@ -96,12 +112,12 @@
 "href": "https://www.gonzaloduran.nyc/safety/"
 },
 {
-"text": "Save the Bronx Rally",
-"href": "https://www.gonzaloduran.nyc/event/save-the-bronx-rally/"
-},
-{
 "text": "Scheduled Events",
 "href": "https://www.gonzaloduran.nyc/events/"
+},
+{
+"text": "The Bronx Conservative Party – County Meeting",
+"href": "https://www.gonzaloduran.nyc/event/the-bronx-conservative-party-county-meeting/"
 },
 {
 "text": "Transportation",
@@ -152,19 +168,11 @@
 "href": "https://www.gonzaloduran.nyc/"
 },
 {
-"text": "[image: N.A.R.E.B Political Advocacy Day]",
-"href": "https://www.gonzaloduran.nyc/event/gonzalo-duran-to-participate-in-n-a-r-e-b-political-advocacy-day/"
-},
-{
-"text": "[image: NYPD and Ambulance at a scene]",
-"href": "https://www.gonzaloduran.nyc/event/action-and-accountability-combating-crime-in-our-neighborhoods/"
-},
-{
-"text": "[image: Save the Bronx Rally flyer with Gonzalo Duran and Curtis Sliwa]",
-"href": "https://www.gonzaloduran.nyc/event/save-the-bronx-rally/"
-},
-{
 "text": "[tooltip: Previous Events]",
 "href": "https://www.gonzaloduran.nyc/events/list/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.gonzaloduran.nyc/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

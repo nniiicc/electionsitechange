@@ -74,7 +74,8 @@ She stands firm in the fight for affordability on the side of the working class.
 I have no sympathy for the millionaires of this country exploiting the community spirit, hard work ethic, and natural beauty of Vermont.
 No one should be able to own multiple homes while Vermonters face the greatest housing crisis on record.
 It is this type of inequality and privledge I want to see stamped out, and Amanda is the right person for the Job!
-Pauline Schneider Bennington Nora Dyer-Murphy Student When I asked Amanda about her vision for affordable housing in Vermont and her solution to solve the homeless crisis, she mentioned free, public housing.
+Pauline Schneider Bennington Susan P Borden Economist Amanda brings the vision, the skills, the energy, the “can do“, the stamina, optimism, boundless kindness, and a new generation of leadership so needed in Vermont.
+Nora Dyer-Murphy Student When I asked Amanda about her vision for affordable housing in Vermont and her solution to solve the homeless crisis, she mentioned free, public housing.
 This solution radically empowers impoverished people and gets them out of poverty in surefire ways.
 Matthew Desmond, a sociologist who studied housing, has been advocating for public housing for almost a decade.
 It’s refreshing to see a candidate bring that up.
@@ -614,6 +615,9 @@ Guilford Nancy Braus Retired I have not felt this excited about a candidate sinc
 It's exciting to be able to work for someone who I respect and who truly listens to Vermonters everywhere she goes.
 Sharon A Cohen Homesteader, writer She has creative solutions for vermonts problems Chuck Collins researcher Her commitment to building an affordable Vermont that works for everyone.
 Her smart policy positions and willingness to get out and meet lots of Vermonters --and her principled campaign.
+Mary Wallace Collins Realtor Because I believe we can make bold moves to help our population here in Vermont have a better life with healthy social safety nets and have less burdens on the many with a robust tax on those who have the ability to pay more.
+Housing, healthcare, education are my top priorities.
+Our young people need a way into home ownership or at least affordable rents - our supply of housing is lacking.
 Nancy Detra retired teacher Because of her platform Ellie Goldfarb Retired nurse Vt needs to be at the forefront of change-reproductive freedom, universal healthcare Brad Heck Educator and Filmmaker I am tired of voting AGAINST things.
 Amanda is someone I can excitedly vote FOR!
 Eric Hoyer Cannabis cultivator I like her platform and would like to Learn more about her.
@@ -738,7 +742,7 @@ I want future generations to be able to live here and raise families in tight co
 Marshfield JAMES S.
 ARISMAN Attorney She’s smart, has great energy, and good ideas.
 She won’t manage Vermont’s decline.
-Sue and John Morris Editors Amanda advocates for progressive values, aligned with people's needs rather than the monied elite.
+Judith Henkin Retired We need a government that understands Vermonters, and will work towards the betterment of all Sue and John Morris Editors Amanda advocates for progressive values, aligned with people's needs rather than the monied elite.
 Andrew Perchlik Vermont State Senator, Clean Energy Program Manager She is the best candidate and has the economic knowledge and moral integrity to lead Vermont to a more prosperous future for all.
 Nick Takamine Consultant I love Amanda’s courage to believe we can build a better world, here in Vermont.
 Middlebury Molly Anderson professor She is standing behind very important policy measures that I support.
@@ -1004,7 +1008,9 @@ Nothing is getting better under Scott's leadership.
 Susan Kersavage Erin Knight Maggie Rice Richard Smith Internet Activist As a digital rights activist, and after meeting Amanda during Pride Fest 2026, I feel that Amanda is the right move for Vermont.
 I feel she has the potential to free vermont from the clutches of Private Equity, and big AI corporations poisoning our communities.
 If we are gonna remain the land of the free, We need someone who refuses to sell out.
-And if anyone can do it, its Vermont Ryegate Gail Brown Retired Because I feel Governor Scott is not in touch with the people like he used to be.
+And if anyone can do it, its Vermont Rutland Town Diane Theresa Mayo Occupational Therapist, hospice volunteer, Reiki Practitioner Her platform addresses my concerns regarding affordability for housing and healthcare and inclusion for all and civil rights for the LGBTQ community Barbara Pulling Retired!
+She's what Vermont needs at this time!
+Ryegate Gail Brown Retired Because I feel Governor Scott is not in touch with the people like he used to be.
 He was too hardcore with his insistence about the school districts… Stephen Davie school custodian I'm hoping she can help implement a sane healthcare initiative Donna Waelter Retired It's time for a change and Amanda has the policies and the energy we need now in Vermont.
 Salisbury Julie Conason Shaftsbury MaryJane Sarvis Designer/artist Amanda’s plans and presence at a recent meeting in Bennington totally impressed me.
 She totally understands the huge economic disparities in Vermont and has concrete plans on addressing them.
@@ -1037,7 +1043,9 @@ We need a leader who will fight against the MAGA corruption that is raising pric
 South Burlington Earl Aguila Noam Sandino Almeleh Retired attorney Amanda has the knowledge, skills and commitment to make Vermont government work better for all Vermonters.
 John Boyer Health & Wellness Confidence in her ability to build new knowledge that will benefit Vermont.
 Elissa Galvez Shai Jones Lawrence Kupferman Retired Good positions, multi cultural support.
-James Marc Leas Patent lawyer I liked her yes answers to the JVP survey, which I helped to draft Julia Long Ronald Miller Debbie New Community Organzier for energy democracy Because she is about power for the people.
+James Marc Leas Patent lawyer I liked her yes answers to the JVP survey, which I helped to draft Julia Long Gene Mechanic Retired I am impressed by Amanda's background and motivation to improve the lives of working families.
+It is crucial that we elect government officials who will strive to better the lives of of all our people rather than focus on the their and the wealthy friends, supporters and acolytes own power and wealth.
+Ronald Miller Debbie New Community Organzier for energy democracy Because she is about power for the people.
 Roberta G.
 Nubile Meghan O’Hara Brenda Patoine Matthew Vigneau Labor Organizer and Church Choir Director Amanda has bold, optimistic, forward-looking ideas to confront the problems that face our state.
 We need a governor who does more than admire problems and admonish opponents.

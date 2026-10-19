@@ -1,9 +1,10 @@
 Skip to content Rumors, answered Heard something about Alani?
 Here’s the record.
 Mailers, TV ads and a lot of rumors.
-Here are the 56 claims we’ve tracked against her this campaign, each one answered with the record behind it.
+Here are the 59 claims we’ve tracked against her this campaign, each one answered with the record behind it.
 Jump to a rumor Mailers & TV ads Mailers TV ads Her service DD-214 FOIA Iraq Mortar fire Black Hawk Down Conviction rate Arrest numbers Inspector general Leaving active duty Hegseth Life coach 80 countries IJM Hawaii Treasurer Faith & choice Church Jesus Abortion Publisher Planned Parenthood The money Dark money Spoke out?
-Billionaire Outside PACs Wall Street texts Recruited by Republicans Plant & spoiler Real Democrat Unvetted Plant Spoiler Trump Party chair’s op-ed Advice The chair Republicans Abortion Poverty New to Montana Resources Bodnar Everything else ICE Gaza Poor people Lived in Montana Facebook Yeezy Redfern Extremists Family Got a dirty-money mailer or saw one of their TV ads?
+Billionaire Outside PACs Wall Street texts Recruited by Republicans Plant & spoiler Real Democrat Unvetted Plant Spoiler Trump Party chair’s op-ed Advice The chair Republicans Abortion Poverty New to Montana Resources Bodnar Billings canvass Who they worked for Paid?
+Timesheets Everything else ICE Gaza Poor people Lived in Montana Facebook Yeezy Redfern Extremists Family Got a dirty-money mailer or saw one of their TV ads?
 Seth Bodnar’s campaign and the super PACs backing him have flooded Montana with mailers and commercials about Alani.
 We put every one of them side by side with the facts.
 The church, the publisher and the “dark money” attacks The Planned Parenthood mailers The spliced quotes and the TV ads See the facts behind their claims → Watch the “Setting the Record Straight” videos → The rumors about her service Most of what’s on this page started as a post, a screenshot or a secondhand comment on social media, then got passed along until it sounded like fact.
@@ -153,6 +154,23 @@ Two weeks after winning the primary, she asked him to leave the race.
 She pointed to the gender-discrimination lawsuit from his time as University of Montana president, which settled for $350,000, and argued the Democratic Party has to have a candidate on the ballot, so he should be the one to step aside. [73] It’s the same argument party insiders then spent four months making to her.
 Read the campaign’s full Oct.
 12 response to Shannon O’Brien, with every source: alaniformt.com/pr-2026-10-12 .
+The Billings canvass A letter in the Billings Gazette on Oct.
+18 said the campaign “exploits working people” and didn’t pay the people who knocked doors in Billings.
+The campaign hired a vendor, Sole Strategies, to run that canvass, and paid it in full before the first door.
+The campaign’s full statement, with the contract language, is at alaniformt.com/pr-2026-10-18 .
+The claim The canvassers worked for the campaign.
+The record They worked for Sole Strategies.
+The contract states: “All canvassers and internal Sole Strategies staff are not employees of the campaign, they are contractors employed by Sole Strategies.” The claim The campaign didn’t pay the people who knocked doors.
+The record The campaign paid Sole the full amount on Sept.
+1, two weeks before the first door was ever knocked.
+That amount covers “Canvasser pay… Payroll and HR” per the signed contract.
+Paying the crew was Sole’s job.
+The claim The campaign knows what the canvassers were paid and is hiding it.
+The record The campaign has never seen those numbers.
+The contract states Sole “is happy to provide timesheets upon request.” The campaign asked for them in writing twice, and Sole refused.
+If anyone who knocked doors in Billings wasn’t paid in full by Sole, the campaign has asked them to reach out directly at press@alanibankheadforsenate.com so the campaign can work to make it right for them, even if Sole Strategies has not.
+Read the campaign’s full Oct.
+18 statement: alaniformt.com/pr-2026-10-18 .
 Everything else Every one of these started the same way: a clip, a screenshot or a secondhand post, passed along until it sounded like a fact.
 None of them came with a document.
 Alani’s record does.

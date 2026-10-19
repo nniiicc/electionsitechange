@@ -1,4 +1,4 @@
-Skip to content Meet Guillermo The Valley Promise Endorsements Our District Media News Contact Me Join Team Guillermo Get a yard sign Give Join Give Menu Privacy Policy Last updated: September 7, 2026 Overview Welcome to the official website (the “Site”) of Guillermo Gonzalez For Senate 2026 (“Guillermo Gonzalez For Senate 2026,” “we,” “us,” or “our”).
+Skip to content Meet Guillermo The Valley Promise Endorsements Our District Media News How to Vote Polls close in… Contact Me Join Team Guillermo Get a yard sign Give Join Give Menu Privacy Policy Last updated: September 7, 2026 Overview Welcome to the official website (the “Site”) of Guillermo Gonzalez For Senate 2026 (“Guillermo Gonzalez For Senate 2026,” “we,” “us,” or “our”).
 Please note the distinction between our privacy practices in connection with your visit to the Site and our services.
 This Privacy Policy, as amended from time to time, outlines our practices and the practices of any affiliates who link to this Privacy Policy regarding the online collection, use, and disclosure of information you provide when using our Site, as well as data we collect through our services.
 We may update this Privacy Policy periodically.
@@ -94,6 +94,6 @@ Participation in any financial-incentive or bona fide loyalty program is optiona
 You may withdraw from a program at any time.
 If you ask us to delete your personal information, we may be unable to provide some or all program benefits when those benefits rely on information covered by your deletion request.
 Contact Us If you have questions about this Privacy Policy, please contact: Guillermo Gonzalez For Senate 2026 Attn: Counsel 5300 California Ave., Ste.
-250 Bakersfield, CA Email: info@gonzalezforsenate.com Restore the promise of the Valley Join Team Guillermo Give Follow Guillermo The campaign Meet Guillermo The Valley Promise Endorsements Our District Media In the News Take part Join Team Guillermo Get a yard sign Give Contact Me More See what you'd save Privacy Policy Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026.
+250 Bakersfield, CA Email: info@gonzalezforsenate.com Restore the promise of the Valley Join Team Guillermo Give Follow Guillermo The campaign Meet Guillermo The Valley Promise Endorsements Our District Media In the News Take part How to Vote Polls close in… Join Team Guillermo Get a yard sign Give Contact Me More See what you'd save Privacy Policy Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026.
 All rights reserved.
 Privacy Policy ← →

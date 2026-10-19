@@ -8,7 +8,7 @@ Adaptive to Automation: Designed to remain stable as our workforce and technolog
 Longer Lives: Structured to reflect modern healthcare and increased longevity.
 Economic Realities: Built to navigate and thrive within new global and local financial shifts.
 Building an Alaska that works for all generations.
-Donate Now Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Donate Now Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

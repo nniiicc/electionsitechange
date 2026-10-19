@@ -1,7 +1,7 @@
 Skip to main content Meet Josh The Platform Events Media Get Involved Store Donate Donate Menu Meet Josh The Platform Events Media Get Involved Store Donate 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 9/22/2026 September 22 - 10/18/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 9/22/2026 September 22 - 10/19/2026 Now Select date.
 September 2026 Tue 22 Hannibal Indivisible September 22 @ 6:00 pm - 7:30 pm Willow Street Christian Church 404 Willow St, Hannibal, MO, United States Hannibal IndivisibleWillow Street Christian Church404 Willow StHannibal, MO 63401 Thu 24 Terra Vox Winery Fundraiser September 24 @ 6:00 pm - 9:00 pm Winery Fundraiser for Josh Smead Join us at TerraVox Winery on Thursday, September 24 for an evening in support of Josh Smead for Congress, featuring a silent auction.
 Doors open at 5:30 PM, and the event begins at 6:00 PM.
 TerraVox Winery19310 NW Farley Hampton Rd #3Kansas City, MO 64153 Reserve Your Spot Fri 25 Liberty Fall Festival September 25 @ 11:00 am - September 26 @ 6:00 pm Liberty Fall Festival Join Team Smead at the Liberty Fall Festival in historic downtown Liberty.

@@ -2,14 +2,17 @@ Skip to content Skip to content Welcome Meet Russell Priorities Partnership Part
 Holmes Russell E.
 Holmes | 0 Comment | 11:34 am Categories: News The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
 Share this Post navigation PREVIOUS Previous post: Cote Village: A Victory for Hope over Blight NEXT Next post: ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
+Holmes’s wire cutters Related Post Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
+One measure, pushed by state Representative Russell Holmes, Read More Read More In closed-door budget process, Mass.
+House leaders scored big In closed-door budget process, Mass.
+House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
-“It is imperative Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Holmes | 0 Comment | 5:44 am <p>By Samantha J.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More “I Work for You.” You're my neighbors.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

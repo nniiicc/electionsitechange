@@ -1,7 +1,7 @@
 {
  "description": "About Mitch Bolinsky, candidate for Newtown's State Representative",
  "final_url": "https://www.mitchfornewtown.com/about_mitch",
- "fingerprint": "60ebc2662f49ce15f0b309d063c4512fafd09d51",
+ "fingerprint": "9a109e286b862bb5209fa2064650992806176458",
  "format": 3,
  "paid_for_by": "Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer",
  "rendered": false,
@@ -13,7 +13,10 @@
   "2008",
   "2009",
   "2010",
+  "2020",
+  "2021",
   "2023",
+  "2024",
   "2025",
   "2026"
  ]

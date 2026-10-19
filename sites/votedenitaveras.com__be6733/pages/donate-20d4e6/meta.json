@@ -1,17 +1,15 @@
 {
  "description": "Donate to help support Deni in her run for reelection to MD State Delegate, representing legislative District 47B.",
  "final_url": "https://votedenitaveras.com/donate",
- "fingerprint": "f6ccba35b7e855b3d8d5033b03a89cbb3ccf2bc2",
+ "fingerprint": "d595a4f2e48c03debb4ba24629639d1b8159aebe",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "DONATE — Vote Deni Taveras 2026",
  "years_mentioned": [
-  "2021",
   "2023",
   "2024",
   "2026",
-  "2029",
-  "2031",
-  "2034"
+  "2027"
  ]
 }

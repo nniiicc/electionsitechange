@@ -1,4 +1,4 @@
-top of page Home Issues Volunteer Endorsements Voting Media Donate ENDORSEMENTS Former Mayor of Houston ANISE PARKER Former United States Representative ADAM KINZINGER State Rep.
+top of page Home Issues Volunteer Endorsements Voting Media Albert Wittliff Landing Page Donate ENDORSEMENTS Former Mayor of Houston ANISE PARKER Former United States Representative ADAM KINZINGER State Rep.
 HD 144 MARY ANN PEREZ Harris County Constable Precinct 1 ALAN ROSEN Former CCISD Board Trustee At-Large Position B ANN HAMMOND Harris County Commissioner Precinct 2 ADRIAN GARCIA Harris County District Attorney SEAN TEARE Harris County Constable Precinct 2 JERRY GARCIA Houston City Council Member ​At-Large Position 5 SALLIE ALCORN State Rep.
 HD 137 Chair, House Democratic Caucus GENE WU State Rep.
 HD 135 Candidate for Railroad Commissioner JON ROSENTHAL State Rep.

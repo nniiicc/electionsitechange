@@ -1,4 +1,4 @@
-555-555-555 Home Meet Denise Campaign Issues In the Media Endorsements Volunteer Contribute Home Why I Am Running What is in it for You Meet Denise Campaign Issues In the Media Volunteer Contribute Endorsements souvid "Oregon families are facing major crises.
+555-555-555 Home Meet Denise Campaign Issues In the Media Endorsements Volunteer Contribute Home TEST Home Why I Am Running What is in it for You Meet Denise Campaign Issues In the Media Volunteer Contribute Endorsements souvid "Oregon families are facing major crises.
 If we don't act now, we'll lose generations of hard-won progress.
 We need a thriving Oregon, one that protects our progress & builds prosperity for all." The status quo allows corporations to get away without paying their fair share, it lets people take advantage of the system, and it lulls us into complacency.
 One Night Only!

@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 All Posts Search Delong for Nevada NEWSLETTER June 2024!
 Jun 28, 2024 3 min read Welcome to the beginning of Summer!
 We made through the state primary!

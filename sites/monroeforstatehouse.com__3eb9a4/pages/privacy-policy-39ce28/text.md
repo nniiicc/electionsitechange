@@ -1,4 +1,4 @@
-top of page HOME MEET JEFF THE ISSUES NEWS GET INVOLVED DONATE Privacy Policy for Friends of Jeff Monroe At Friends of Jeff Monroe, accessible from https://www.MonroeForStateHouse.com/ one of our main priorities is the privacy of our visitors.
+top of page HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED DONATE Privacy Policy for Friends of Jeff Monroe At Friends of Jeff Monroe, accessible from https://www.MonroeForStateHouse.com/ one of our main priorities is the privacy of our visitors.
 This Privacy Policy document contains types of information that is collected and recorded by Friends of Jeff Monroe and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in the Friends of Jeff Monroe.
@@ -43,4 +43,4 @@ Thus, we advise you to review this page periodically for any changes.
 We will notify you of any changes by posting the new Privacy Policy on this page.
 These changes are effective immediately, after they are posted on this page.
 Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Privacy Policy HOME MEET JEFF THE ISSUES NEWS GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page
+Privacy Policy HOME MEET JEFF THE ISSUES NEWS GO VOTE GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page

@@ -14,7 +14,7 @@ Rusty is committed to protecting hospitals, clinics, nursing homes, ambulance se
 Rusty believes we must recognize their service, strengthen support systems, and encourage future generations to get involved. ​ STRENGTHENING AGRICULTURE Farmers, ranchers, and rural businesses deserve stability.
 Rusty supports creative, practical solutions that help strengthen supply chains, support local economies, and protect the future of agriculture in southern Minnesota. " I would vote for Poppa.
 He makes good decisions.
-I know him and I trust him " --- Rusty's 8-year old granddaughter Join the Campaign Donate Minnesota residents who contribute can receive up to $75 refund for an individual or $150 refund for a couple filing joint income tax returns. ​ All donations are welcome!
+I know him and I trust him " --- Rusty's 8-year old granddaughter Endorsed by Minnesota Farmers Union PAC ​​ Education Minnesota ​ Friends of the Boundary Waters ​ DFL Rural Caucus ​ DFL Join the Campaign Donate Minnesota residents who contribute can receive up to $75 refund for an individual or $150 refund for a couple filing joint income tax returns. ​ All donations are welcome!
 There is a $# cap on contributions from an individual.
 Learn More Your support makes a real difference.
 Whether you can donate, volunteer, or simply share our message with friends and neighbors — every bit helps bring strong rural representation to St.

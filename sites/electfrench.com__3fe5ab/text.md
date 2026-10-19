@@ -42,7 +42,7 @@ He defends our right to practice our religion and protects religious liberty and
 Fighting for French Backed by Organizations and Leaders We Trust President Donald Trump Sarah Huckabee Sanders Arkansas Governor Leslie Rutledge Arkansas Lt.
 Governor Tim Griffin Arkansas Attorney General John Boozman U.S.
 Senator (AR) Tom Cotton U.S.
-Senator (AR) House Conservatives Fund Arkansas Right to Life AGPAC ARKANSAS FARM BUREAU A+ Rating in 2025 on the National Pro-Life Scorecard A+ Rating NRA-PVF US Chamber of Commerce Alliance 4 American Leadership Meet French French Hill is the Chairman of the U.S.
+Senator (AR) House Conservatives Fund Arkansas Right to Life AGPAC ARKANSAS FARM BUREAU A+ Rating in 2025 on the National Pro-Life Scorecard A+ Rating NRA-PVF US Chamber of Commerce Alliance 4 American Leadership National Wildlife Federation Action Fund Meet French French Hill is the Chairman of the U.S.
 House Committee on Financial Services.
 As chair, he directs and leads six subcommittees and appointed task forces and leads 30 Republican members of the committee.
 He works in a bipartisan fashion with the 24 Democratic members.

@@ -1,4 +1,4 @@
-top of page Home Upcoming Events Issues Voter Resources In the News Endorsements Volunteer "Long Island has reached a pivotal moment.
+top of page Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements Volunteer "Long Island has reached a pivotal moment.
 We need proven leadership to take our district and our state through unprecedented challenges .
 Instead of politicians who focus on divisive rhetoric, we deserve a proactive public servant who is ready to represent the voices of her community.
 I believe in the great potential of good governance , and the importance of representatives who bring practical , local experience to the decision-making dialogues in Albany- and that's why I'm running ." - Rebecca Kassay DONATE TODAY Meet Rebecca Entrepreneur.
@@ -29,5 +29,5 @@ Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.
-View Privacy Policy Submit THANKS FOR SUBMITTING REQUEST A LAWN SIGN DONATE TODAY @KassayforAssembly Home Upcoming Events Issues Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
+View Privacy Policy Submit THANKS FOR SUBMITTING REQUEST A LAWN SIGN DONATE TODAY @KassayforAssembly Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
 PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY.COM bottom of page

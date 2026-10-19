@@ -1,4 +1,4 @@
-top of page Home Upcoming Events Issues Voter Resources In the News Endorsements Volunteer Be a Part of Team Kassay!
+top of page Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements Volunteer Be a Part of Team Kassay!
 Join us at upcoming events, help us reach your neighbors, or come show your support at a Meet the Candidates Event Knock on Doors We need your help to reach your neighbors this fall!
 All election season we need volunteers to knock doors, let voters know what Rebecca has been able to deliver for our community, talk about what we still need to accomplish for our neighbors, and help get out the vote.
 Whether you’ve volunteered before or this is your first time, everyone is welcome!
@@ -15,5 +15,5 @@ Reply "STOP" to opt-out & "HELP" for help.
 View Privacy Policy Submit THANKS FOR SUBMITTING Donate!
 Any Amount, Any Time Tons of gratitude to those who have already donated, and thanks-in-advance to those who are willing to donate any amount to support this re-election campaign to continue bringing public service back to politics!
 DONATE TODAY Get Social with Us!
-Interacting with our social media content by liking, reposting, sharing, or commenting helps our pages be seen by more people. @KassayforAssembly Home Upcoming Events Issues Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
+Interacting with our social media content by liking, reposting, sharing, or commenting helps our pages be seen by more people. @KassayforAssembly Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
 PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY.COM bottom of page

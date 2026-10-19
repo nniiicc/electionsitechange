@@ -19,8 +19,8 @@ Receive training and compensation while ensuring fair, transparent, and accurate
 Contact your local County Clerk or Board of Elections to submit your application immediately.
 Have Questions or Need Voter Assistance?
 Our campaign team is here to help you navigate registration, find your polling place, and learn more about Bob Fioretti’s vision for Illinois.
-Email: Teamfioretti@bobforillinois.com | Phone: 773-828-9696 Contribute to Bob for Illinois Recent Posts See All On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour Join Us for Our Road to Victory Final Event before Election Day!
-3 Weeks Left: Help Bob Fioretti Cross the Finish Line EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Email: Teamfioretti@bobforillinois.com | Phone: 773-828-9696 Contribute to Bob for Illinois Recent Posts See All Veteran Police Commander Bill Kushner Endorses Bob Fioretti for Illinois Attorney General On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour Join Us for Our Road to Victory Final Event before Election Day!
+EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

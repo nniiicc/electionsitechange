@@ -4,5 +4,5 @@ In honor of the estimated 1,400 teachers leaving Alaska every year. pay what you
 We want to run and walk with you, whether you donate $6.60, $27.98, or $46.00!
 Why these numbers, you ask?
 Under Dunleavy, Alaska’s base student allocation (BSA) of $6,600 per student is at the bottom of the $6-11k national range. $6.60 The Department of Education has projected/estimated that 2,798 fewer students are attending Alaska schools in 2026 compared to the previous year, partly because families are leaving our state. $27.98 To represent Dunleavy’s 46 career vetoes.
-Onward to a Governor who works with the legislature to pass bills to make Alaskan’s lives better! $46.00 FEATURING Holly Brooks Taylor Deal Galen Hecht Klaire Rhodes Luke Jager Tracen Knopp SIGN UP TO JOIN VIRTUALLY!
-SIGN UP FOR VIRTUAL RACE Anna Dalton Paid for by JKT for Alaska PO Box 2185 Sitka, AK 99835
+Onward to a Governor who works with the legislature to pass bills to make Alaskan’s lives better! $46.00 FEATURING Olympian Holly Brooks Taylor Deal Olympian Kate Grace Klaire Rhodes Olympian Luke Jager Tracen Knopp USATF Champion Anna Dalton SIGN UP TO JOIN VIRTUALLY!
+SIGN UP FOR VIRTUAL RACE Paid for by JKT for Alaska PO Box 2185 Sitka, AK 99835

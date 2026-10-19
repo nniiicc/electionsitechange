@@ -9,7 +9,7 @@ Senator Sally Harrell Georgia’s 40th District Volunteer Sally’s campaign is 
 Join us!
 VOLUNTEER Show your Support Request a yard sign!
 A volunteer will deliver it to your house and pick it up after the election.
-YARD SIGN Follow Sally Sally’s Senate Snapshop Election 2026 issue 08 Oct 2026 Early voting starts next week (eeek!), which means that in less than a month, all votes will be cast, and the consequenc...
-Sally’s Senate Snapshot 2026 - Campaign Edition 16 Sep 2026 Campaign Edition Sally's Senate Snapshot 2026 - Special Session Sine Die 25 Jun 2026 The Headlines Don’t Quite Catch It Sally's Senate Snapshot 2026 - Special Session 2 21 Jun 2026 Flexing our Muscles Sally's Senate Snapshot 2026 - Special Session 1 18 Jun 2026 The Show Begins Sally’s Runoff Recommendations 2026 05 Jun 2026 2026 Run-Off Recommendations Read more © # Paid for by The Committee to Elect Sally Harrell.
+YARD SIGN Follow Sally Sally’s Senate Snapshot 2026 Election Edition #3 18 Oct 2026 Early Voting is Underway Sally’s Senate Snapshop 2026 Election Issue 08 Oct 2026 Early voting starts next week (eeek!), which means that in less than a month, all votes will be cast, and the consequenc...
+Sally’s Senate Snapshot 2026 - Campaign Edition 16 Sep 2026 Campaign Edition Sally's Senate Snapshot 2026 - Special Session Sine Die 25 Jun 2026 The Headlines Don’t Quite Catch It Sally's Senate Snapshot 2026 - Special Session 2 21 Jun 2026 Flexing our Muscles Sally's Senate Snapshot 2026 - Special Session 1 18 Jun 2026 The Show Begins Read more © # Paid for by The Committee to Elect Sally Harrell.
 Designed by Benton Creative .
 Facebook Twitter Mail Scroll to top

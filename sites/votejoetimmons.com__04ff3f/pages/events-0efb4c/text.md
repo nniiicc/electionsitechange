@@ -1,5 +1,5 @@
 top of page DONATE Meet Joe Priorities Endorsements Latest News Events Menu Close DONATE FEATURED EVENTS FILTER EVENTS TYPE Any START DATE END DATE clear filters APPLY FILTERS EVENTS ALL UPCOMING EVENTS NO UPCOMING EVENTS FOUND.
-#ago TODAY @ 5 PM Birch Bay Block Walk BLAINE, WA READ MORE UPCOMING WED, OCT 21 @ 11:30 PM Birch Bay Block Walk BLAINE, WA READ MORE This Weekend SAT, OCT 24 @ 6 PM Everson Block Walk EVERSON, WA READ MORE This Weekend SUN, OCT 25 @ 6 PM Ferndale Block Walk FERNDALE, WA READ MORE UPCOMING WED, OCT 28 @ 11:30 PM Ferndale Block Walk FERNDALE, WA READ MORE LET'S GO!
+UPCOMING WED, OCT 21 @ 11:30 PM Birch Bay Block Walk BLAINE, WA READ MORE This Weekend SAT, OCT 24 @ 6 PM Everson Block Walk EVERSON, WA READ MORE This Weekend SUN, OCT 25 @ 6 PM Ferndale Block Walk FERNDALE, WA READ MORE UPCOMING WED, OCT 28 @ 11:30 PM Ferndale Block Walk FERNDALE, WA READ MORE LET'S GO!
 SIGN UP TO JOIN THE TEAM EMAIL CELL PHONE SIGN UP FIRST NAME By providing your cell phone number you consent to receive recurring updates from Vote Joe Timmons, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.

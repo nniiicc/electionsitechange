@@ -1083,4 +1083,20 @@ Malcolm Kenyatta, Ryan Bizzarro, Frank Burns, Joseph Hohenstein, Stephen Kinsey,
 July 28, 2022 abc27WHTM Continue Reading Phoenixville Area Senior Center secures $125,000 in state funding “This grant will help the Phoenixville Area Senior Center use the upstairs part of their building through HVAC renovations,” said state Rep.
 Melissa Shusterman.
 “This means the center will have more space to provide additional services.
-I’m glad to see our tax dollars invested in a community center helping seniors stay healthy, active and connected.” August 11, 2022 Daily Local News Continue Reading
+I’m glad to see our tax dollars invested in a community center helping seniors stay healthy, active and connected.” August 11, 2022 Daily Local News Continue Reading Introducing Young Women to the Electrical Trade: $394,383 Awarded to “Rosie’s Girls” Program HARRISBURG, PA — State Reps.
+Jennifer O’Mara and Melissa Shusterman this week announced Apprentice Training for the Electrical Industry was awarded $394,383 for a program introducing young women to the electrical trade.
+“This program is a great way to give the young women in Southeastern Pennsylvania hands-on training in a career field once dominated by men,” Shusterman said.
+“I applaud the effort by Apprentice Training for the Electrical Industry to recruit women into the trades workforce.
+I am happy to see the state invest in a program that will help give young women more professional opportunities.” July 16, 2022 ChesCo Continue Reading Lawmakers move state abortion amendment closer to 2023 vote In the lengthy House debate, Rep.
+Melissa Shusterman, D-Chester, called the proposal “extreme and extremely cruel to women.” “This takes away individual liberties, a woman’s right to control her life,” Shusterman said.
+“My right to control my life, my sister’s right to control her life.
+And it allows for political and religious leaders to insert their radical, uninformed beliefs in the doctor’s office.” July 8, 2022 AP News Continue Reading DelVal Lawmakers Weigh In on 2022-2023 State Budget “As always, my top priorities for this budget season are families, education, and economic development,” Rep.
+Melissa Shusterman (D-Paoli).
+“Our state is currently sitting on an $8.5 billion dollar surplus.
+It’s time to start investing that money in hard-working Pennsylvanians, and Gov.
+Wolf has proposed a budget that will do just that.
+It includes a Child and Dependent Care tax credit, to reduce the financial burden of childcare on working families and would enable parents to rejoin the workforce without worrying about how to pay for expensive care.
+“Additionally, the proposed budget includes increased investment in education, which will provide much-needed property tax relief for homeowners, as well as continuing to ensure our graduates are prepared for the jobs of tomorrow.
+Both priorities will holistically improve our state’s economic climate which will spur more business investment and create better-paying jobs,” said Shusterman.
+June 28, 2022 DV Journal Continue Reading PENNSYLVANIA’S ORIGINAL 'ROSIE THE RIVETER' MAKES MASKS TO PROMOTE, HONOR WWII WORK Jan 14, 2020 USA Today Continue Reading OP/ED: SUPPORTING THOSE WHO CARE FOR OUR LOVED ONES: COVID-19 AND THE DSP CRISIS May 16, 2020 Unionville Times Continue Reading PHOENIXVILLE GETS $495K IN GRANTS FOR SCHOOL SAFETY Feb 28, 2020 Patch Continue Reading VIOLENCE IN PENNSYLVANIA DISTRICT COURTS: WHAT'S BEING DONE TO KEEP THE PUBLIC SAFE Feb 10, 2020CBS21 Continue Reading AS LAWMAKERS RETURN TO HARRISBURG, ACTIVISTS FOCUS ON ‘RED FLAG’ GUN BILL Sept 7, 2019 PA Post Continue Reading TREDYFFRIN-AREA STATE REP.
+CANDIDATE: END GERRYMANDERING NOW Jan 1, 2018 Tredyffrin Patch Continue Reading About | Endorsements Melissa in the News | Volunteer | Contact Paid for by Friends of Melissa Shusterman

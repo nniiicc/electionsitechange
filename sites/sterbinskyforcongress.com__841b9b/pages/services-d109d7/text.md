@@ -73,5 +73,5 @@ No.
 This campaign is funded by everyday Arizonans and Americans who want practical solutions to the issues affecting our daily lives.
 Media Press Kit Want more information or to volunteer?
 First name * Last name * Email * Phone * Are you in the District?
-Multi choice I would like to help knock doors I want a yard sign I would like to host a house party for Dani Message Submit Privacy Policy Terms & Conditions Accessibility Statement Info@SterbinskyforCongress.com Sterbinsky for Congress P.O.
+Multi choice I would like to help knock doors I want a yard sign (sorry, we are all out) I would like to host a house party for Dani I want a t-shirt (please add size and address to message) Message Submit Privacy Policy Terms & Conditions Accessibility Statement Info@SterbinskyforCongress.com Sterbinsky for Congress P.O.
 Box 76, Wittmann, AZ 85361 Paid for by Sterbinsky for Congress | Approved by Danielle Sterbinsky Policy Volunteer Endorsers Contact Privacy Policy Policy Volunteer Endorsers Contact Privacy Policy bottom of page

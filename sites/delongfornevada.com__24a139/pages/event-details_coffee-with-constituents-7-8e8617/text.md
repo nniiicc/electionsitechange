@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 Coffee with Constituents Sat, Sep 27 | Tahoe Natural Cafe I would love for you to join me for a cup of coffee this Saturday.
 I would love to meet you and the coffee is on me!
 Saturday, September 27th Tahoe Natural Cafe 10105 Veterans PKWY Registration is closed See other events Time & Location Sep 27, 2025, 9:00 AM – 10:00 AM Tahoe Natural Cafe, 10105 Veterans Pkwy Unit C, Reno, NV 89521, USA About the event Come have a cup of coffee on Rich and bring your questions!

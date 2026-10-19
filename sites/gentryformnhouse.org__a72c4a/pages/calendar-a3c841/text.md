@@ -1,9 +1,4 @@
-0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 18 Door knock in Nowthen Sunday, October 18, 2026 1:00 PM 3:00 PM Nowthen Memorial Park (map) Google Calendar ICS We will be out door knocking in Nowthen early Sunday afternoon.
-Make sure to bring a charged phone, bottle of water and your walking shoes.
-We will make sure you have everything you need to knock doors with us!
-Make sure to sign up so we know you will be joining us.
-We will be meeting in the parking lot of Nowthen Memorial Park.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 19 Door knock in Otsego Monday, October 19, 2026 4:30 PM 6:30 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Monday afternoon.
+0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 19 Door knock in Otsego Monday, October 19, 2026 4:30 PM 6:30 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Monday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
@@ -30,6 +25,11 @@ Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
 We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 18 Door knock in Nowthen Sunday, October 18, 2026 1:00 PM 3:00 PM Nowthen Memorial Park (map) Google Calendar ICS We will be out door knocking in Nowthen early Sunday afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of Nowthen Memorial Park.
 Doorknock for Keenan Gentry · Mobilize View Event → Oct 16 Door knock in Elk River Friday, October 16, 2026 5:00 PM 7:00 PM Lions John Weicht Park (map) Google Calendar ICS We will be out door knocking in Elk River Friday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
@@ -163,14 +163,7 @@ Stop by, say hello, and share what matters to you.
 Vanessa will try a short Facebook Live during the event for anyone who can’t make it.
 Leashes Off, Conversations On: Elk River · Mobilize View Event → Aug 4 Night to Unite Tuesday, August 4, 2026 6:00 PM 8:00 PM Elk River & Nowthen (map) Google Calendar ICS Night to Unite is a nationwide, annual event that offers residents a unique opportunity to get to know their neighbors, chat with local law enforcement and public officials, and ultimately build a safer community.
 I will be attending my local Night to Unite event in my own neighborhood before visiting Nowthen for theirs as well.
-View Event → Aug 2 Coffee and Convo Sunday, August 2, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
-Get to know me and why I'm running for seat 30B.
-Would you like to discuss what matters to you most?
-Bring your questions, concerns, and ideas.
-We will also be collection for Mutual Aid.
-If you have anything you would like to donate, bring that along.
-We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
-Coffee and Conversation with Keenan Gentry · Mobilize View Event → Newsletter Block This newsletter signup form needs a storage option.
+View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.
 Email Address Sign Up Thank you!

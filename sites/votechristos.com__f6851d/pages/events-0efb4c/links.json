@@ -40,18 +40,6 @@
 "href": "https://votechristos.com/events/door-knocking-burnsville-6"
 },
 {
-"text": "Door Knocking (Eagan 11)",
-"href": "https://votechristos.com/events/door-knocking-eagan-11"
-},
-{
-"text": "Door Knocking (Eagan 12)",
-"href": "https://votechristos.com/events/door-knocking-eagan-12"
-},
-{
-"text": "Door Knocking (Eagan 17)",
-"href": "https://votechristos.com/events/door-knocking-eagan-17"
-},
-{
 "text": "Door Knocking (Eagan 2)",
 "href": "https://votechristos.com/events/door-knocking-eagan-2"
 },
@@ -70,6 +58,18 @@
 {
 "text": "Door Knocking (Eagan 9)",
 "href": "https://votechristos.com/events/door-knocking-eagan-9"
+},
+{
+"text": "Door Knocking - Nov 1",
+"href": "https://votechristos.com/events/door-knocking-nov-1-2026"
+},
+{
+"text": "Door Knocking - Oct 24",
+"href": "https://votechristos.com/events/door-knocking-oct-24-2026"
+},
+{
+"text": "Door Knocking - Oct 31",
+"href": "https://votechristos.com/events/door-knocking-oct-31-2026"
 },
 {
 "text": "Endorsements",
@@ -101,18 +101,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+11%29&dates=20261024T150000Z%2F20261024T150000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+12%29&dates=20261031T150000Z%2F20261031T150000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+17%29&dates=20261101T160000Z%2F20261101T160000Z"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+2%29&dates=20260829T150000Z%2F20260829T160000Z"
 },
 {
@@ -130,6 +118,18 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+9%29&dates=20261017T150000Z%2F20261017T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+-+Nov+1&dates=20261101T160000Z%2F20261101T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+-+Oct+24&dates=20261024T150000Z%2F20261024T150000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+-+Oct+31&dates=20261031T150000Z%2F20261031T150000Z"
 },
 {
 "text": "Google Calendar",
@@ -177,18 +177,6 @@
 },
 {
 "text": "ICS",
-"href": "https://votechristos.com/events/door-knocking-eagan-11?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://votechristos.com/events/door-knocking-eagan-12?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://votechristos.com/events/door-knocking-eagan-17?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://votechristos.com/events/door-knocking-eagan-2?format=ical"
 },
 {
@@ -206,6 +194,18 @@
 {
 "text": "ICS",
 "href": "https://votechristos.com/events/door-knocking-eagan-9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://votechristos.com/events/door-knocking-nov-1-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://votechristos.com/events/door-knocking-oct-24-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://votechristos.com/events/door-knocking-oct-31-2026?format=ical"
 },
 {
 "text": "ICS",
@@ -257,18 +257,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://votechristos.com/events/door-knocking-eagan-11"
-},
-{
-"text": "View Event →",
-"href": "https://votechristos.com/events/door-knocking-eagan-12"
-},
-{
-"text": "View Event →",
-"href": "https://votechristos.com/events/door-knocking-eagan-17"
-},
-{
-"text": "View Event →",
 "href": "https://votechristos.com/events/door-knocking-eagan-2"
 },
 {
@@ -286,6 +274,18 @@
 {
 "text": "View Event →",
 "href": "https://votechristos.com/events/door-knocking-eagan-9"
+},
+{
+"text": "View Event →",
+"href": "https://votechristos.com/events/door-knocking-nov-1-2026"
+},
+{
+"text": "View Event →",
+"href": "https://votechristos.com/events/door-knocking-oct-24-2026"
+},
+{
+"text": "View Event →",
+"href": "https://votechristos.com/events/door-knocking-oct-31-2026"
 },
 {
 "text": "View Event →",
@@ -324,18 +324,6 @@
 "href": "https://votechristos.com/events/door-knocking-burnsville-6"
 },
 {
-"text": "[image: Door Knocking (Eagan 11)]",
-"href": "https://votechristos.com/events/door-knocking-eagan-11"
-},
-{
-"text": "[image: Door Knocking (Eagan 12)]",
-"href": "https://votechristos.com/events/door-knocking-eagan-12"
-},
-{
-"text": "[image: Door Knocking (Eagan 17)]",
-"href": "https://votechristos.com/events/door-knocking-eagan-17"
-},
-{
 "text": "[image: Door Knocking (Eagan 2)]",
 "href": "https://votechristos.com/events/door-knocking-eagan-2"
 },
@@ -354,6 +342,18 @@
 {
 "text": "[image: Door Knocking (Eagan 9)]",
 "href": "https://votechristos.com/events/door-knocking-eagan-9"
+},
+{
+"text": "[image: Door Knocking - Nov 1]",
+"href": "https://votechristos.com/events/door-knocking-nov-1-2026"
+},
+{
+"text": "[image: Door Knocking - Oct 24]",
+"href": "https://votechristos.com/events/door-knocking-oct-24-2026"
+},
+{
+"text": "[image: Door Knocking - Oct 31]",
+"href": "https://votechristos.com/events/door-knocking-oct-31-2026"
 },
 {
 "text": "[image: Farmer-Labor Picnic]",
@@ -384,16 +384,8 @@
 "href": "https://us.list-manage.com/BCxOEUZiDQM?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
 },
 {
-"text": "https://us.list-manage.com/IdItufcekEa?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
-"href": "https://us.list-manage.com/IdItufcekEa?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
-},
-{
 "text": "https://us.list-manage.com/MdzYOksgdSo?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
 "href": "https://us.list-manage.com/MdzYOksgdSo?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
-},
-{
-"text": "https://us.list-manage.com/Vfd6Qe1rmE1?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
-"href": "https://us.list-manage.com/Vfd6Qe1rmE1?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
 },
 {
 "text": "https://us.list-manage.com/_FiSuZkSX3v?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
@@ -408,12 +400,12 @@
 "href": "https://us.list-manage.com/_m0JycsSY0x?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
 },
 {
-"text": "https://us.list-manage.com/mPCgTsaBEwQ?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
-"href": "https://us.list-manage.com/mPCgTsaBEwQ?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
-},
-{
 "text": "https://us.list-manage.com/ot0K8wjfiEX?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de",
 "href": "https://us.list-manage.com/ot0K8wjfiEX?e=dad8a2fda4&c2id=4788600024a8a5873baaf43f5ffca5de"
+},
+{
+"text": "https://www.mobilize.us/dflcc/event/1053564/",
+"href": "https://www.mobilize.us/dflcc/event/1053564/"
 },
 {
 "text": "votechristos@gmail.com",

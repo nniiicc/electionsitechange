@@ -22,9 +22,7 @@ I also break down the biggest stories of the week, including Elon Musk’s growi
 And finally, a little sports talk: GO KNICKS!
 Previous NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
-WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-Volunteer and Sign Up for Updates!
+You Might Also Like WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Why Is Southern Ontario Doing Better Than Western New York?
+Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Volunteer and Sign Up for Updates!

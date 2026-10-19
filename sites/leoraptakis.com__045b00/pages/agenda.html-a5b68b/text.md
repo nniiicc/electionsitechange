@@ -8,7 +8,7 @@ Fought against special interest deals in the state budget, including the increas
 Promoted a sensible Minimum Wage Bill to tie increases in the minimum wage to the Consumer Price Index, giving workers steady increases year-to-year and allowing businesses to plan for gradual hikes.
 Supported phase-out of the auto tax to put more money back in taxpayers pockets.
 HOME | ABOUT | AGENDA | NEWSROOM | EVENTS | DONATE | SOCIAL | ARCHIVES | CONTACT Newsroom DONATE GET INVOLVED Thank You for Your Support!
-"No One's Voice but Ours" State House Contact Number: 401-276-5567 * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
+"No One's Voice but Ours" * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
 Please review Privacy Policy.
 Your Zip Code * Enter your zip code of residence.
 I agree to receiving marketing and promotional materials Opt-In * Please Note: Donations require employer's company name, and donor's residential address. ©# | ALL RIGHTS RESERVED.

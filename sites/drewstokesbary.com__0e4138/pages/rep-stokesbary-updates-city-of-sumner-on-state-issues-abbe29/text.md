@@ -5,5 +5,7 @@ He noted that when he scheduled the update, he though they’d be done already, 
 Both are on hold while legislators wrangle with the Operating Budget, but when they do go through, Sumner is (so far) in good position for funding for flood protection and perhaps transportation.
 Thank you, Rep.
 Stokesbary !
-In the News budget flooding legislature transportation More For You The News Tribune endorses Stokesbary Endorsements Washington risks budgeting online sales tax revenue In the News Stokesbary launches campaign for 31st District state Representative In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget flooding legislature transportation More For You Rep.
+Stokesbary calls on auditor to resign In the News TNT Endorses: Keep Rep.
+Stokesbary Endorsements Ferguson’s Attack on Our Constitutional Rights Current Events Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

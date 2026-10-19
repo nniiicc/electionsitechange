@@ -10,8 +10,11 @@ Your donation helps sustain the organizing and voter-mobilization work that powe
 Contact Us To reach out to the campaign directly please click here .
 If you need to contact Jon Ossoff for official Senate purposes (including direct help with your issue, agency assistance, or a question about Senate activities), please reach out to his Senate office here.
 CONTACT CONTACT In the News The Latest Updates Follow Jon on Twitter and Bluesky to learn about his work for Georgia.
-FOLLOW FOLLOW I am calling on Congressman Mike Collins to disband his convoy captains program, which now has repor...
-October 16, 2026 Sometimes, when you are living through and taking part in history, you don't always fully recognize ...
+FOLLOW FOLLOW United for Georgia.
+Atlanta.
+10.28.26.
+RSVP here: unitedforgeorgia.com October 18, 2026 Donald Trump was in Dalton yesterday… oblivious to the collapse of his presidency.
+A crowd smaller...
 #ago LATEST ON MIKE COLLINS LATEST ON MIKE COLLINS Donate Today to Support Our Work We’re supporting candidates in crucial elections — resourcing, mobilizing, organizing, and using the groundbreaking tools and strategies that were vital to our victory in Georgia. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 SIGN UP Join the Team By providing your mobile number, you consent to receive periodic campaign updates from Jon Ossoff for Senate.
 Txt HELP for help, STOP to end.

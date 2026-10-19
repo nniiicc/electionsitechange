@@ -1,4 +1,4 @@
-Skip navigation menu Early Voting Starts Monday, October 19, 2026 Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire Request a yard sign !
+Skip navigation menu Early Voting Started Monday, October 19, 2026 Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire Request a yard sign !
 Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire Request a yard sign !
 Hi!
 I’m Claire Reynolds and I’m the Democratic candidate for U.S.

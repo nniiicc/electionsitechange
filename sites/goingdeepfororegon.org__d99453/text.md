@@ -23,7 +23,7 @@ Helens (1889) 13,817 Scappoose (1921) 8,010 Vernonia (1891) 2,374 WASHINGTON COU
 Ballots are due by 8 PM on November 3.
 Dropbox locator starts...
 Register to vote Check Voter Status Drop Box Locator Proudly Endorsed By A short description about the people and organizations who are endorsing me.
-Jeff Merkley US Senator Oregon League of Conservation Voters Ron Frame Willamette Week Willamette Week See All Endorsements Join Us Events If we're going to win this thing, we're going to need your help.
+Jeff Merkley US Senator Oregon League of Conservation Voters Ron Frame Chair, Banks School Board Willamette Week Willamette Week See All Endorsements Join Us Events If we're going to win this thing, we're going to need your help.
 Join us at one of our next events.
 Media September 21, 2026 Willamette Week Interview Fall 4:00 PM See event info Voter Outreach April 7, 2026 Columbia County Democratic Party 7PM - 8PM See event info Media April 16, 2026 Willamette Week interview, Spring 11 AM See event info Events Updates In The News Here's what I'm up to on the campaign trail and in the news.
 News Article May 11, 2026 Hike Lava Canyon on Mt.

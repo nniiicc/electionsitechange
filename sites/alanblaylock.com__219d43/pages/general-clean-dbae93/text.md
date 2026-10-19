@@ -1,4 +1,4 @@
-top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS Donate Privacy Policy This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Alan Blaylock Campaign websites that display this policy AlanBlaylock.com.
+top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS VOTING Donate Privacy Policy This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Alan Blaylock Campaign websites that display this policy AlanBlaylock.com.
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.

@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News LAWLER’S LABOR DAY: TWENTY UNIONS ENDORSE CONGRESSMAN MIKE LAWLER FOR REELECTION September 9, 2026 Building trades, Teamsters, rail and transit, maritime, and federal employee unions back Lawler.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate News LAWLER’S LABOR DAY: TWENTY UNIONS ENDORSE CONGRESSMAN MIKE LAWLER FOR REELECTION September 9, 2026 Building trades, Teamsters, rail and transit, maritime, and federal employee unions back Lawler.
 With the eleven law enforcement unions announced last month, more than thirty unions now back his campaign.
 Pearl River, NY — September 8, 2026… Today, Congressman Mike Lawler (NY-17) announced that twenty labor unions have endorsed his reelection campaign, a coalition that runs from the building trades and the Teamsters to the unions whose members run the region’s trains, crew the nation’s ships, move the mail, and staff the federal government.
 Combined with the eleven law enforcement unions that endorsed Lawler on August 17, more than thirty unions now stand behind his campaign.
@@ -33,5 +33,5 @@ He co-led the Warehouse Worker Protection Act (H.R.
 4896).
 In August, he brought Secretary of Labor Keith Sonderling to the Hudson Valley to meet with the Westchester-Putnam Building Trades Council.
 Since taking office, Lawler has secured more than $80 million in community project funding and federal investment for the Hudson Valley.
-### Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+### Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

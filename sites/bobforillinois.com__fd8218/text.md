@@ -3,7 +3,7 @@ LEARN MORE Bob Fioretti, a dedicated leader and advocate for justice, brings dec
 With a strong commitment to civil rights, education, and public safety, Bob is prepared to lead with integrity and independence.
 His proven track record as a respected attorney and former Chicago alderman demonstrates his unwavering dedication to serving the people of Illinois .
 LEARN MORE DONATE TODAY MAKE A DIFFERENCE Change starts with people like you. ​ Together, we can do more.
-Check out our latest interview!
+Check out our latest endorsement!
 Play Ball for Illinois: Listen to Bob’s New Radio Ad! juneteenth press to zoom IMG_3877 press to zoom press to zoom juneteenth press to zoom 1/6 JOIN US IN MAKING A DIFFERENCE Your time and skills as a can empower our community and support our vision for justice and fairness.
 Together, we can create a future for all.
 JOIN OUR VOLUNTEER GROUP EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.

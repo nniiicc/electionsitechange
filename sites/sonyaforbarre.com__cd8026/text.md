@@ -1,4 +1,4 @@
-Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS GET INVOLVED VOLUNTEER VOTE EVENTS CONTACT SONYA Facebook Instagram Sonya grew up in Orange and went to Orange Center School.
+Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS LOCAL, STATE & FEDERAL ORGANIZATIONS WRITTEN GET INVOLVED VOLUNTEER VOTE CONTACT SONYA Facebook Instagram Sonya Spaulding Sonya grew up in Orange and went to Orange Center School.
 Her grandparents lived down the road, and her Gram took care of her after school while her parents were working.
 Her family heated their home with firewood, and she spent many a fall day splitting and stacking it.
 Her dad was hired by John Miles as a delivery driver fresh out of Spaulding High School.
@@ -23,4 +23,4 @@ Sonya will not shy away from hard work because she has never known another way.
 Sonya wants to represent Barre City because she believes in this community and she believes in Vermont.
 Sonya wants to keep working hard to care for people, make sure they can take advantage of every opportunity, and help us all grow and flourish.
 Paid for by Sonya Spaulding for Barre City, 88 Delmont Ave.
-Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS GET INVOLVED Toggle child menu VOLUNTEER VOTE EVENTS CONTACT SONYA
+Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS Toggle child menu LOCAL, STATE & FEDERAL ORGANIZATIONS WRITTEN GET INVOLVED Toggle child menu VOLUNTEER VOTE CONTACT SONYA

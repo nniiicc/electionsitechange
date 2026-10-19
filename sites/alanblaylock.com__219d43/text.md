@@ -1,4 +1,4 @@
-top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS Donate Alan Blaylock “Big government doesn’t build prosperity, freedom does,” Blaylock said.
+top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS VOTING Donate Alan Blaylock “Big government doesn’t build prosperity, freedom does,” Blaylock said.
 “Families, businesses, and faith thrive when taxes are low, streets are safe, and bureaucrats stay out of the way.”​ A Plan for an Affordable, Safe, and Strong Texas Tackling the Cost of Living & Holding Insurance Companies Accountable ​ The skyrocketing cost of everyday essentials, from groceries to utilities, is stretching family budgets to their limits.
 Hardworking families are doing everything right, yet wages are struggling to keep pace with reality. ​ Holding Insurance Companies Accountable: Home and car insurance rates have spiraled out of control.
 In Austin, Alan will champion consumer protection, demand transparency from major insurance carriers, and push for state oversight to stop arbitrary, unjustified rate hikes.

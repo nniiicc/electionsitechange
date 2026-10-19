@@ -15,7 +15,7 @@ Freedom of speech does not eliminate public accountability.
 All children deserve leadership that reflects the principles of fairness, dignity, and inclusion.
 EVERYONE IS WELCOMED HERE Diversity is not the threat.
 Exclusion is.
-Share this post: Sign up for blog updates!
+Share this post: Categories All Posts Announcements News Official Statement What I'm Hearing Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

@@ -1,11 +1,13 @@
 {
  "description": "The latest news articles, interviews, and press releases from Blake.",
  "final_url": "https://blakegendebienforcongress.com/news/",
- "fingerprint": "1e8d99e26156567adb1b2ccff4154d41cdc5cb05",
+ "fingerprint": "4f58b2ff9ad6f12eb4fc99b8a5a767d8e6cc417b",
  "format": 3,
  "paid_for_by": "Paid for by Blake for The North Country General Inquiries: info@blakeforny",
+ "rendered": false,
  "title": "In The News | Blake Gendebien for Congress",
  "years_mentioned": [
+  "2024",
   "2026"
  ]
 }

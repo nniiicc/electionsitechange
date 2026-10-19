@@ -1,9 +1,11 @@
-Home About Endorsements Connect Volunteer Contribute Home About Endorsements Connect Volunteer Contribute About Nicole A resident of Kailua-Kona for 3 decades, Nicole has been serving as your State Representative since 2012.
+Home About Endorsements Connect Volunteer Contribute Home About Endorsements Connect Volunteer Contribute About Nicole Future State Representative!
+Nicole at age 3.
+A resident of Kailua-Kona for 3 decades, Nicole has been serving as your State Representative since 2012.
 Nicole was born on the mainland, but moved overseas as a baby.
 She grew up abroad moving from country to country every few years due to her parents’ career in the foreign service.
 She found her home on Hawaii Island in 1996.
 Before becoming involved in local politics, Nicole was a teacher and school administrator at Hawaii Montessori School in Kona.
-Nicole first became involved in politics while in graduate school studying planning and environmental policy.
+Teaching at Hawaii Montessori School in 1998 Nicole first became involved in politics while in graduate school studying planning and environmental policy.
 In 2012, she worked at the State Legislature and had the opportunity to see government in action in person.
 After working at the legislature, it became clear that government must be changed from the inside and made more transparent and accountable.
 With the encouragement of colleagues, friends, and family, Nicole made the leap and decided to run for office.

@@ -1,7 +1,8 @@
 Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Exclusive: Alexi Giannoulias Reveals Why He Decided to Run for Secretary of State After nearly 50 years of service, Illinois Secretary of State Jessie White will not be on next year’s ballot, leaving room for a heated Democratic primary to take shape.
 One of four candidates vying to fill the space is Alexi Giannoulias, who emerged with an early lead in endorsements and campaign contributions.
-Keep Reading Related Posts Giannoulias Campaign Ends 2021 Strong with $4+ Million on Hand End-of-Year Fundraising Total Reflects Democrat’s Broad-Based Support Across Illinois Keep Reading → Giannoulias Joins Organ Donor Recipients and Families to Highlight the Need for Donation Secretary Marks National Donate Life Month with Campaign to Boost Donor Registration Keep Reading → Alexi Giannoulias: 5 additives in ultraprocessed food put us at risk.
-Illinois wants to change that.
-Paint primer is how Consumer Reports describes titanium dioxide — the powdery chemical that whitens salad dressings, smooths chocolate and makes candy brighter.
-New state Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Keep Reading Related Posts Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State Launches New Ad Announcing his Support for Former Democrat Treasurer and Their Fight for Worker Rights Keep Reading → Giannoulias Earns Illinois Teamsters Endorsement Joint Council 25 Represents 100,000 members Keep Reading → Can license plate data be used against women seeking an abortion?
+Illinois Secretary of State Alexi Giannoulias is backing what he says is a first-in-the-nation bill to outlaw sharing or selling license plate data for women seeking abortions.
+He fears this data could be weaponized as some states try to criminalize helping someone get an abortion.
+NBC News’ Anne Thompson explains more.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

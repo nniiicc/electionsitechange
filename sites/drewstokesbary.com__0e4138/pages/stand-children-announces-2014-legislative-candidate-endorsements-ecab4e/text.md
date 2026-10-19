@@ -11,6 +11,6 @@ Protect local control of school funding.
 In a time when education dollars are scarce, the legislature turned down control of more than $40 million last year because they refused to include student test scores as only one factor among many in teacher evaluations – a policy that a vast majority of Washington voters support.
 Read more at stand.org .
 Endorsements More For You Rep.
-Stokesbary updates City of Sumner on state issues In the News Sumner Mayor thanks Rep.
-Stokesbary for Traffic Ave. funding In the News My 2018 Re-Election Campaign Current Events Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary introduces bill to preserve flood control funding In the News Drew Stokesbary receives NRA endorsement Endorsements Rep.
+Stokesbary files bill to address leaves of absence by elected officials In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

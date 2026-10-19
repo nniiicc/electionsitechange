@@ -2,17 +2,7 @@ Skip to content About Chris Meet Chris Endorsements In the Community Vote Regist
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List Month Day #ago Now Now - 10/20/2026 October 20 Select date.
-October 2026 Sun 18 Searcy: Door Knocking for Chris Jones October 18 @ 12:00 pm - 4:00 pm Yancey Park 950 Skyline Dr, Searcy, AR, United States Join Team Jones for door knocking in Searcy!
-Bring water, a charged phone, and wear comfortable walking shoes.
-Holden Jones, one of our great volunteers will be your main point of contact - 501-380-5871 Meet up at Yancey Park in Searcy!
-Sun 18 Volunteer: GOTV Rally and Birthday Celebration October 18 @ 1:00 pm - 5:30 pm Little Rock Little Rock, AR, United States Sign up to volunteer to help with the GOTV Rally and Birthday Celebration with Jasmine Crockett!
-Volunteers will help with set up, crowd control, takedown and cleanup, and directing attendees where to go!
-Sun 18 Canvassing with Team Jones!
-October 18 @ 5:30 pm - 7:30 pm Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States Join Team Jones as we knock on doors in Pulaski County!
-Canvassing begins with a brief training at our Little Rock office, followed by hitting the road to talk with voters about Chris Jones.
-We highly recommend bringing a friend with you!
-Bring your phone fully charged, and wear comfortable walking shoes!
-We will be […] Mon 19 Little Rock: March to the Polls October 19 @ 7:00 am - 8:45 am Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States 🥾 DAY ONE.
+October 2026 Mon 19 Little Rock: March to the Polls October 19 @ 7:00 am - 8:45 am Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States 🥾 DAY ONE.
 WE’RE MARCHING! 🗳️ Join Chris Jones at 7 am at our Little Rock campaign office for our March to the Polls kickoff!
 We will have light breakfast, coffee, and walk down the street around 7:30 am to kick off Day 1 of voting!
 Mon 19 Volunteer: Precinct Presence October 19 @ 8:00 am - 6:00 pm Arkansas's 2nd Congressional District AR, United States Join Team Jones at various precincts across the district on Day 1 of Voting, October 19th, Election Day, or both!
@@ -38,7 +28,22 @@ Trainings are Monday-Friday at 12 pm and 6 pm.
 If you would like more training or practice sessions, let us know!
 Tue 20 Virtual Phone and Text Bank Training with Team Jones!
 October 20 @ 12:00 pm - 12:30 pm Help Team Jones make calls and texts to voters and supporters!
-This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file The Future We Want for Arkansas Starts Here.
+This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
+Trainings are Monday-Friday at 12 pm and 6 pm.
+If you would like more training or practice sessions, let us know!
+Tue 20 In-Person Phone and Text Bank Training October 20 @ 3:00 pm - 4:00 pm Chris Jones for Congress LR Office 921 W Markham St, Little Rock, AR, United States Come get trained on how to phone and text bank at our Little Rock Office!
+We will assist you in setting up your account and go over how to make calls and texts to future voters and supporters.
+Tue 20 Canvassing with Team Jones!
+October 20 @ 5:30 pm - 7:30 pm Chris Jones Campaign Office 921 W Markham St, Little Rock, AR, United States Join Team Jones as we knock on doors in Pulaski County!
+Canvassing begins with a brief training at our Little Rock office, followed by hitting the road to talk with voters about Chris Jones.
+We highly recommend bringing a friend with you!
+Bring your phone fully charged, and wear comfortable walking shoes!
+We will be […] Tue 20 Virtual Phone and Text Bank Training with Team Jones!
+October 20 @ 6:00 pm - 7:00 pm Help Team Jones make calls and texts to voters and supporters!
+This is one of the most crucial ways we talk to voters about Chris, and connect supporters to the campaign.
+Trainings are Monday-Friday at 12 pm and 6 pm.
+If you would like more training or practice sessions, let us know!
+Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file The Future We Want for Arkansas Starts Here.
 Be part of the team that turns possibility into progress and carries this movement forward.
 Volunteer Donate Via ActBlue Donate Via GoodChange To make a donation via mail, please mail checks to: P.O.
 Box 21803, Little Rock, AR 72221 Facebook X-twitter Instagram Youtube Contact Volunteer Donate Paid for by the Committee to Elect Chris Jones LR Office Headquarters: 921 W Markham St., Little Rock, AR 72201 LR Office Hours: Monday-Friday 9am-6pm, Saturday 9am-12pm Phone: 501-396-9455 P.O.

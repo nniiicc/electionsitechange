@@ -15,5 +15,5 @@ We share the same work in supporting our agricultural industry, economic develop
 #ago Proud to receive the WV Citizens Defense League Endorsement.
 Proud to receive the endorsement of the West Virginia Citizens Defense League.
 I remain a leading advocate in the West Virginia legislature, protecting our 2A rights!
-West Virginia Citizens Defense League #ago wayne@clarkforwv.com ©# by Clark for WV.
+West Virginia Citizens Defense League Oct 11 wayne@clarkforwv.com ©# by Clark for WV.
 Paid for by candidate. bottom of page

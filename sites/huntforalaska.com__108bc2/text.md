@@ -37,10 +37,10 @@ Read Justice Plan 1st Amendment in the Digital Age Protecting free speech and en
 Read Digital Rights Plan Powering Rural Alaska Driving practical hybrid microgrids to lower long-term energy costs and strengthen our rural villages.
 Read Rural Energy Plan Trust, Transparency & Equal Voice Restoring public trust by limiting insider influence and making government open and accountable to everyday Alaskans.
 Read Trust & Transparency Plan Plan for Alaska’s Families This plan is not intended to be the final answer on universal child care in Alaska.
-Read Trust & Transparency Plan Plan for Safe, Secure, Fair and Accessible Alaska Elections Our election system belongs to the people of Alaska, not to political parties, candidates, special interests, or government officials.
-Read Trust & Transparency Plan Protect the Permanent Fund The Alaska Permanent Fund is one of the greatest investments our state has ever made.
+Read Plan for Alaska's Families Plan for Safe, Secure, Fair and Accessible Alaska Elections Our election system belongs to the people of Alaska, not to political parties, candidates, special interests, or government officials.
+Read Plan for Alaska Elections Protect the Permanent Fund The Alaska Permanent Fund is one of the greatest investments our state has ever made.
 It belongs to all generations of Alaskans, including the children who have not been born yet.
-Read Trust & Transparency Plan “Alaska's future will NOT be built by one person.
+Read Permanent Fund Plan “Alaska's future will NOT be built by one person.
 It WILL be built by thousands of Alaskans working together.” William Hunt Put Alaska First.
 Protect Our Future.
 Alaska's future won't fix itself.
@@ -55,7 +55,7 @@ We want to hear from our fellow Alaskans.
 Whether you have feedback, questions about our vision for Alaska’s future, media inquiries, or are interested in joining our volunteer mission, please reach out using the included form, or the contact information below.
 Together, we are building a campaign for every Alaskan.
 Email: whunt3420@gmail.com ​ Mail: William Hunt PO Box 57009 North Pole, AK 99705 ​ Phone: 907.978.5995 More Info First name * Last name * Email * Phone Optional but recommended What are you reaching out about?
-Add your text Submit Endorsement : Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Add your text Submit Endorsement : Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

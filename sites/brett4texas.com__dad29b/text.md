@@ -1,9 +1,9 @@
-0 Skip to Content Voting Information Volunteer Donate About Endorsements Socials Open Menu Close Menu Voting Information Volunteer Donate About Endorsements Socials Open Menu Close Menu Voting Information Volunteer Donate About Endorsements Socials Meet Brett Robinson Democratic candidate for State Representative District 130 A proud graduate from the University of Houston Masters of Public Administration program, Brett has been a Cypress resident for 16 years.
+0 Skip to Content Voting Information Volunteer Donate About Endorsements Socials Open Menu Close Menu Voting Information Volunteer Donate About Endorsements Socials Open Menu Close Menu Voting Information Volunteer Donate About Endorsements Socials Meet Brett Robinson Democratic nominee for State Representative District 130 A proud graduate from the University of Houston Masters of Public Administration program, Brett has been a Cypress resident for 17 years.
 He grew up in the community attending Black Elementary, Goodson Middle School, and graduated from Cypress Woods High School in 2018.
 With an interest in policy research and implementation, Brett is always looking for ways to improve our everyday lives.
-Brett was motivated to take action when Texans lost their reproductive freedom.
-His opponent is the author of the controversial abortion ban, which is harming women and doctors alike.
-Determined to hold his opponent accountable, Brett is shedding light on this extremism and providing his community with an alternative on the ballot.
+In the Texas House, Brett will fight for the working class.
+He currently serves as a Registered Behavior Technician where he develops the life, social, and school readiness skills of kids with autism.
+You can reach him at brett4texas@gmail.com or 832-639-2265.
 Learn More Make your voice heard!
 Early Voting: October 19th thru October 30th Election Day: November 3rd Voting Information Brett’s Priorities Restore Reproductive Freedom “My top priority is to restore reproductive freedom, which includes the right to IVF and contraception.
 We just recently had a fifty-year precedent overturned with the Dobbs decision, and we are seeing states all over the nation attacking women's autonomy.

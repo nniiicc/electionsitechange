@@ -25,16 +25,16 @@ Annapolis has not matched them.
 SOLUTIONS Remove the Social Security offset from the pension exclusion, so the break Maryland advertises to retirees is worth what the state says it is worth Cap year-over-year homestead taxable assessment growth at the rate of inflation for primary residences, which protects retirees and young families on both sides of the county line Require a recorded committee vote on any bill that has received a hearing, so a fix cannot die four years running without a single member going on record Phase the 2024 and 2025 vehicle registration increases back over three years, paid for by tightening MDOT discretionary fee authority and capping dealer processing fees A neighbor who has paid into this county for forty years should not have to leave the house they raised their family in because the carrying cost outran a fixed income.
 The counties saw that and acted.
 The state has had four chances and has not taken a vote.
-Utility Bills and Who Pays For The Grid THE PROBLEM BGE has asked regulators for $156 million more, about $8 per month on a typical bill, and at the same time asked to raise its guaranteed return from 9.5% to 10.4%.
+Utility Bills and Who Pays For The Grid THE PROBLEM BGE has asked regulators for $156 million more, about $8 per month on a typical bill, and at the same time requested a return of 10.4%, up from 9.5%.
 About 290,000 BGE customers were already behind on their bills in March 2026.
-WHAT VOTERS ARE FEELING Gas delivery rates have more than tripled since 2010 and electric delivery has nearly doubled, while BGE profits went from $147 million in 2010 to $527 million in 2024.
-Pepco, which serves Damascus and Clarksburg, follows a similar pattern.
-Both are subsidiaries of the same parent company.
+WHAT VOTERS ARE FEELING Since Exelon acquired BGE in 2012, gas delivery rates have more than tripled and electric delivery rates have nearly doubled, according to the Office of People's Counsel.
+Before that acquisition, BGE never cleared $150 million in profit in a year.
+In 2024 it earned $527 million.
+Damascus and Clarksburg are served by a different utility, Potomac Edison, which has its own increase pending before the same commission.
 The reason is the formula, not the villain.
 Maryland regulators set utility rates on a cost-plus basis: the utility is allowed to earn a percentage return on what it spends.
 Spending more is therefore how it earns more.
-Regulators can push back case by case, and in August 2026 they did, cutting Pepco's request from $119.8 million to $50.9 million and rejecting one project as imprudent.
-Montgomery County bills still went up about 2.25%, roughly $3.94 a month, effective August 29.
+Regulators can push back case by case, and they have: in December 2025 they cut a BGE request from $152 million to $77 million.
 Winning one argument at a time is not the same as fixing the incentive, and the incentive is a design choice Annapolis can change.
 The same formula decides who pays when the grid has to be expanded.
 If the cost of new capacity is spread across every household instead of charged to the customer who caused it, your bill absorbs someone else's expansion.
@@ -62,21 +62,23 @@ Families here pay among the highest local school taxes in Maryland and have earn
 A Vote You Can Actually Check THE PROBLEM More than one million unaffiliated Marylanders, 1,005,402 of them, were locked out of the closed primary on June 23.
 In District 9A 20,089 voters are unaffiliated.
 That is now the second largest bloc in this district, and not one of them could vote in either party's primary.
-Only 12,144 ballots were cast in this district that day, so more voters here were shut out of the primary than took part in it.
+Only 12,144 ballots were cast in this district that day, so more voters here were shut out of the party primaries than took part in them.
 In 2022 the second District 9A delegate seat was decided by 113 votes out of 66,168 cast.
 WHAT VOTERS ARE FEELING Every other candidate on this ballot reached it through a party nomination.
 I reached it by gathering signatures by hand, door to door.
-Four other unaffiliated candidates across Maryland tried the same route this year and none of them met the signature requirement.
+I am the only unaffiliated candidate on the ballot for the General Assembly this year.
 I am not raising that as a boast.
 I am raising it because it is the entire mechanical reason I can make a promise the others cannot: no caucus has a claim on my vote, so no leadership office can require me to kill a good bill or carry a bad one.
 I will vote against a bad bill written by people I agree with, and I will say why.
 The closed primary is the same problem one step earlier.
-Turnout on June 23 was 24% here, and the 20,089 unaffiliated voters in this district were not among them, because Maryland does not let them be.
+Turnout on June 23 was 24% here.
+In Howard County, unaffiliated voters had nothing on the June ballot at all.
+In Damascus and Clarksburg, they could vote only in the school board race.
 When the real decision happens in a room that many of your neighbors are not allowed to enter, the general election becomes a formality and the people locked out are the ones with no party.
 That is a structural problem, not a partisan one, and it is fixable by statute.
 SOLUTIONS Open Maryland's primaries so no voter is shut out of the election that actually decides the seat Publish the reason for every vote I cast, in plain English, in the week I cast it, including the votes constituents will disagree with Require fiscal notes on every new revenue bill to show three spending reductions considered and rejected, so spending discipline comes before new revenue Sunset new fees at five years with mandatory legislative reauthorization, so fees stop becoming permanent through administrative renewal An independent answers to one group, and it is the one that lives here.
 That is worth something only if you can check it, which is why the commitment to publish every vote matters more than any slogan on this page.
-Sources: Maryland Public Service Commission and Maryland Matters (BGE rate case, $156 million request, 9.5% to 10.4% return, roughly 290,000 customers in arrears as of March 2026, hearings November 2026, decision expected end of January 2027); Baltimore Sun (BGE delivery rates and profits, 2010 to 2024); Maryland Public Service Commission and Maryland Matters (Pepco rate order, August 2026, $119.8 million requested and $50.9 million approved, about $3.94 per month and 2.25% in Montgomery County, effective August 29, 2026); Maryland Department of Assessments and Taxation and the Maryland MVA fee schedule (homestead assessment cap and vehicle registration); Maryland Department of Legislative Services, Public School Funding, Per Pupil State and Local, fiscal 2025 (Howard $21,512 ranked 4th and Montgomery $21,349 ranked 5th, from the same table); Maryland State Board of Elections, Official Turnout by Party and Legislative District (District 9A primary ballots cast June 23 2026, and District 9A registration by party as of July 2026); District 9A unaffiliated registration of 20,089 from the April 2026 district voter file and the August 2026 Voter Registration Activity Report (1,005,402 active unaffiliated statewide); Maryland Department of Legislative Services (budget outlook); Maryland Association of Counties (county contributions above the required Blueprint share, July 2026); Maryland State Board of Elections (2026 certified candidate list and the 2022 certified District 9A result).
+Sources: Maryland Public Service Commission and Maryland Matters (BGE rate case, $156 million request, 9.5% current and 10.4% requested return, roughly 290,000 customers in arrears as of March 2026, hearings November 2026, decision expected end of January 2027); Office of People's Counsel, as reported by The Baltimore Banner, January 2026 (delivery rates since 2012 and BGE earnings before 2012); Exelon fourth-quarter and full-year 2024 earnings release (BGE 2024 net income); Maryland Public Service Commission (BGE reconciliation, December 2025, $152 million requested and $77 million approved); Potomac Edison Maryland retail tariff (towns served, including Damascus and Clarksburg); Maryland Department of Assessments and Taxation and the Maryland MVA fee schedule (homestead assessment cap and vehicle registration); Maryland Department of Legislative Services, Public School Funding, Per Pupil State and Local, fiscal 2025 (Howard $21,512 ranked 4th and Montgomery $21,349 ranked 5th, from the same table); Maryland State Board of Elections, Official Turnout by Party and Legislative District (District 9A primary ballots cast June 23 2026, and District 9A registration by party as of July 2026); District 9A unaffiliated registration of 20,089 from the April 2026 district voter file and the August 2026 Voter Registration Activity Report (1,005,402 active unaffiliated statewide); Maryland Department of Legislative Services (budget outlook); Maryland Association of Counties (county contributions above the required Blueprint share, July 2026); Maryland State Board of Elections (2026 certified candidate list and the 2022 certified District 9A result).
 Every numerical claim on this page can be checked by any District 9A resident with an internet connection.
 If you find one that is wrong, email the campaign and it gets corrected on this page.
 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.

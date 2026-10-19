@@ -1,5 +1,6 @@
 Kristin Meyer for HD 50 About Issues Compare Candidates NEW Blog Get Involved Donate Blog Updates and perspectives from Kristin and the campaign.
-August 10, 2026 Utah Knows How to Make Government Work for Developers.
+October 19, 2026 Why I’m a Mental Health Now Candidate I’m committed to making mental healthcare easier to access and afford, supporting young people, strengthening our workforce, and improving crisis response.
+Read more → August 10, 2026 Utah Knows How to Make Government Work for Developers.
 Why Not Working Families?
 Utah families are paying more for taxes, utilities and infrastructure.
 I followed the money behind public development financing and found a system that works a lot harder for developers than it does for the rest of us.

@@ -1,7 +1,7 @@
-36 th District Home About Priorities News Voting Get Involved Donate Get Involved Stand With Bryan Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 15 Days 20 Hours 04 Minutes 15 Seconds Polls open 7am – 8pm on November 3 Volunteer Yard Sign Contact Join the Movement Volunteer Signup Help us reach more voters and win this fight.
+36 th District Home About Priorities News Voting Get Involved Donate Get Involved Stand With Bryan Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 14 Days 20 Hours 10 Minutes 33 Seconds Polls open 7am – 8pm on November 3 Volunteer Yard Sign Contact Join the Movement Volunteer Signup Help us reach more voters and win this fight.
 First Name Last Name Email Phone Zip Code City How would you like to help?
 Sign Me Up Or Fuel the Fight Today Donate Now Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 15 Days 20 Hours 04 Minutes 16 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 14 Days 20 Hours 10 Minutes 34 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

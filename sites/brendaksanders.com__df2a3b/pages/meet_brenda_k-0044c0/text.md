@@ -24,7 +24,10 @@ Notwithstanding the above-described misfortunes, I am concerned about the danger
 I want to sponsor major efforts to make sure the federal minimum wage is at 25.00 or more, and that it continues to rise regularly and simultaneous to cost of living increases.
 Additionally, I will sponsor bills that will promote the passage of laws that will provide for a lineage based six-figure payment of cash reparations to the current descendants of the slaves that were forced to work without compensation.
 The slave workforce helped to build our nation's current economy.
-Lastly, I will sponsor a bill that will provide for the payment of a monthly payout of $1,200 to qualifying citizens to make up for the loss of job opportunities brought on by the advent of artificial intelligence technology.
+The concept of paying reparations is not new.
+In 1988, President Ronald Reagan signed a bill into law that provided for reparations to be paid to the descendants of Japanese Americans who were interred during WW2.
+The reparations payments were for $20,000.
+Lastly, I will sponsor a bill that will provide for the payment of a monthly payout of $1,000 to qualifying citizens, to make up for the loss of job opportunities brought about by the advent of artificial intelligence technology.
 I have a proven track record of leadership as a trial attorney, judge, and as an advocate for social change.
 If elected, I would like to start my Congressional career by sponsoring a bill to declare Election Day a federal holiday.
 I would like to clear as many obstacles to voting as possible.
@@ -33,9 +36,10 @@ The right to vote must be expanded and preserved at all costs!!
 I am also will continue to strenuously advocate for laws that will preserve our rights to a chemical free environment.
 I want to also sponsor amendments to the Violence Against Women Act to include the prosecution of government officials that offend and abuse the rights of women!
 We deserve more protection from our government!
-Please also visit me at https://Instagram.com/brendaksanders4thepeople and https://Instagram.com/brendak.sanders to learn more about me.
+Please also visit me at brendaksanders.com; https://Instagram.com/brendaksanders4thepeople and https://Instagram.com/brendak.sanders to learn more about me.
 Thank you for taking the time.
-Please feel free to mail a contribution to my campaign mailing address at 4501 Woodward Avenue, Suite 101-B, #117, Detroit, Michigan 48201.
+Please feel free to donate on my website.
+Also you may mail a contribution to my campaign mailing address at 4501 Woodward Avenue, Suite 101-B, #117, Detroit, Michigan 48201.
 I will see you on or before November 3, 2026.
 Thank you once again!
 Thank you in advance!

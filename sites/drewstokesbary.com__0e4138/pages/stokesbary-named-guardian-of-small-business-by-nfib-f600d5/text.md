@@ -4,5 +4,7 @@ NFIB is “the voice of small business, advocating on behalf of America’s smal
 Here’s what NFIB’s Washington State Director had to say: Ask every member of the Washington State Legislature if he or she is a friend of small business, and you will get 147 yesses.
 Watch them when it comes time to prove it, and you’ll find 44 whose actions matched their words.
 I’m proud that my voting record on small business issues indeed matches my rhetoric!
-Awards More For You State Patrol Troopers endorse Drew Stokesbary Endorsements Unanimous endorsement from State Patrol Troopers Association Endorsements Let’s reform Washington’s most regressive tax In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards More For You Stokesbary wins AWC “City Champion Award” Awards TNT: Who can best represent voters in WA’s 31st Legislative District?
+The choice is clear (2022) Endorsements TNT Endorses: Keep Rep.
+Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -10,5 +10,5 @@ The Attorney General’s suggestion that assault weapons are at the center of gu
 It’s clear that he has decided to prioritize the goals of fringe anti–gun special interest groups over what is honest, constitutional, and best for our state.
 Our right to protect our families and our loved ones predates our state’s legislature.
 So I am happy to be, and will always remain, a resolute defender of our Second Amendment .
-Current Events More For You Auburn’s Stokesbary elected to state House In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Current Events More For You Sumner hosts open house to discuss Traffic Ave. funding In the News Lawmakers concerned about auditor probe In the News Transparency in the Governor’s Office In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

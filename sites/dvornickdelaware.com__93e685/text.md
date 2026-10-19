@@ -1,7 +1,7 @@
 top of page • Serving Sussex. • Protecting Communities. • Spending Wisely.
 About Platform Contact Vote!
-DONATE VOLUNTEER GET YARD SIGNS Don't let one party control YOUR decisions and money in Dover. ​ “There is no such things as a moderate tax,” said Gene Dvornick in answer to a candidate forum question about introducing a sales tax in Delaware. ​ “I do not oppose affordable housing.
-I oppose rushed through legislation," he said about the Housing for Every Delawarean Act (SB 23). ​ "Ensure fair share of realty transfer tax that leaves RD 20 returns here," Gene said when asked about his priority for services to keep pace with unprecedented growth. ​ "As one of the fastest growing areas in the State, this district generates significant realty transfer tax revenue.
+DONATE VOLUNTEER GET YARD SIGNS Don't let one party control YOUR decisions and money in Dover. ​ “There is no such things as a moderate tax,” said Gene Dvornick in answer to a candidate forum question about introducing a sales tax in Delaware. ​ ​ “I do not oppose affordable housing.
+I oppose rushed through legislation," he said about the Housing for Every Delawarean Act (SB 23). ​ ​ ​ "As one of the fastest growing areas in the State, this district generates significant realty transfer tax revenue.
 Currently, the same amount that goes out from RD 20 is not fairly returned to it," said Dvornick in a LWV forum. ​ Gene Dvornick is exactly the type of leader the people of a growing 20th District deserve as their voice and vote in Legislative Hall.
 He will bring balance to Dover. ​ 40-year volunteer firefighter.
 Current Milton Chief.

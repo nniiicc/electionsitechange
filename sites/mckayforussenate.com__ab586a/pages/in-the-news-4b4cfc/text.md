@@ -1,19 +1,16 @@
 MENU DONATE DONATE × Home Meet Ray McKay Right Direction Events News Join / Contact DONATE FOLLOW RAY NEWS Recent Updates Raymond T McKay Verified account Follow McKay for U.S.
-Senate - RI McKay for Senate Inc US Army Veteran ** Constitutional Conservative Retweet on Twitter Raymond T McKay Retweeted Mor Edge Insight Verified account @moredge_insight · 17 Oct More violence, and more massacres of entire Christian villages and communities.
+Senate - RI McKay for Senate Inc US Army Veteran ** Constitutional Conservative Retweet on Twitter Raymond T McKay Retweeted Mor Edge Insight Verified account @moredge_insight · 16 Oct This Christian toddler is now an orphan.
+His mother was murdered by Muslims in Nigeria for the crime of being Christian.
+Where are all the protesters?
+Where are the “but the children” activists and podcasters?
+Why do the media and politicians remain silent?
+Oh right… they Reply on Twitter 2111196723427393912 Retweet on Twitter 2111196723427393912 12022 Like on Twitter 2111196723427393912 21229 X 2111196723427393912 Retweet on Twitter Raymond T McKay Retweeted Ted Cruz Verified account @tedcruz · 17 Oct We are witnessing Islamists right now burning Paris because Europe has committed cultural suicide.
+We should look to France as foreshadowing for what America faces if we don’t stop this here.
+We are fighting to save our nation.
+Reply on Twitter 2111593216784916859 Retweet on Twitter 2111593216784916859 15880 Like on Twitter 2111593216784916859 72960 X 2111593216784916859 Raymond T McKay Verified account @mckay_senate · 18 Oct I am honored for the support and endorsement of the Guardian Fund. @NRSC @RIGOPChairman @RIGOPNCM @rigopncw @foxnewspolitics @FoxNews @NEWSMAX @wpro @GeneValicenti @TedNesi @FitzProv @GoLocalProv @kathyprojo Reply on Twitter 2111671990440345934 Retweet on Twitter 2111671990440345934 Like on Twitter 2111671990440345934 2 X 2111671990440345934 Retweet on Twitter Raymond T McKay Retweeted Mor Edge Insight Verified account @moredge_insight · 17 Oct More violence, and more massacres of entire Christian villages and communities.
 Islamists in Nigeria charge through a Christian village on motorbikes with AK47s firing on and murdering Christian villagers.
 This is a daily occurrence, and yet western media remains silent.
-Men, Reply on Twitter 2111438429003059570 Retweet on Twitter 2111438429003059570 1401 Like on Twitter 2111438429003059570 1995 X 2111438429003059570 Retweet on Twitter Raymond T McKay Retweeted Adam Porat Verified account @aport300 · 17 Oct @MorEdge_Insight Islamic jihadists massacre Christians daily from Nigeria to Syria, but the press hides it because victims aren’t useful to their narrative.
-Reply on Twitter 2111462957439946895 Retweet on Twitter 2111462957439946895 8 Like on Twitter 2111462957439946895 71 X 2111462957439946895 Retweet on Twitter Raymond T McKay Retweeted Vic Mellor For Congress RI Verified account @vicmellorforri · 14 Oct Hasbro filed the paperwork this week.
-587 Rhode Island jobs.
-Their last day in Pawtucket is December 24.
-A toy company.
-Christmas Eve.
-You cannot write it better than that and I take no pleasure in any of it.
-Hassenfeld Brothers started in Providence in 1923 and incorporated Reply on Twitter 2110415779569004708 Retweet on Twitter 2110415779569004708 30 Like on Twitter 2110415779569004708 104 X 2110415779569004708 Retweet on Twitter Raymond T McKay Retweeted Vic Mellor For Congress RI Verified account @vicmellorforri · 14 Oct Seth Magaziner says my health care plan funds Wall Street.
-Let's talk about Wall Street.
-A health savings account costs a few dollars a month in fees, and the account is in your name.
-Your money, your card, your balance, and whatever you don't spend is still yours next year.
-Reply on Twitter 2110468607788323132 Retweet on Twitter 2110468607788323132 20 Like on Twitter 2110468607788323132 49 X 2110468607788323132 Load More FIGHTING FOR RHODE ISLAND Donate today to help fund Team McKay! $ 50 $ 100 $ 250 $ 500 $ 1,000 $ 3,500 $ 7,000 OTHER Home Meet Ray McKay Right Direction Events News Join / Contact Donate Paid for by McKay for Senate Inc.
+Men, Reply on Twitter 2111438429003059570 Retweet on Twitter 2111438429003059570 2537 Like on Twitter 2111438429003059570 3786 X 2111438429003059570 Load More FIGHTING FOR RHODE ISLAND Donate today to help fund Team McKay! $ 50 $ 100 $ 250 $ 500 $ 1,000 $ 3,500 $ 7,000 OTHER Home Meet Ray McKay Right Direction Events News Join / Contact Donate Paid for by McKay for Senate Inc.
 TEXT 4017954401.
 By contacting McKay For Senate, Inc via text, you consent to receive informational text message responses in relation to your initial communication.
 Message frequency varies.

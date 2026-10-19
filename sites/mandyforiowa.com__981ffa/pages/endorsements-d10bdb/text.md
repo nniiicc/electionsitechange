@@ -1,0 +1,2 @@
+top of page Home About Endorsements Issues Connect Donate Menu Close MY ENDORSEMENTS Iowa Federation of Labor AFL-CIO Iowa State Education Association 314 Action Fund Central Iowa Building and Construction Trades Council Iron Workers Local #67 LiUNA International Union of Operating Engineers local No 234 International Brotherhood of Electrical Workers local union 347 Democratic Legislative Campaign Committee Dallas County Democrats © # PAID FOR BY MANDY NEWTON ROSENOW FOR IOWA.
+Privacy Policy Home About Endorsements Issues Connect Donate bottom of page

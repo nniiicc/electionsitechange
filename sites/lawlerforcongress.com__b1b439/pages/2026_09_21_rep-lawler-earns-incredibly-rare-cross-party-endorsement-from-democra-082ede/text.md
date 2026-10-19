@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News Rep.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate News Rep.
 Lawler Earns “Incredibly Rare” Cross-Party Endorsement from Democratic Rep.
 Jared Golden September 21, 2026 Lawler calls their bipartisan working relationship “a model for what Congress should be” Pearl River, NY — September 21, 2026 — Congressman Mike Lawler today welcomed the “incredibly rare” endorsement of Democratic Congressman Jared Golden of Maine , and said their relationship – built on bipartisan cooperation, moderation, and putting people before party – is a model of how Congress should operate.
 Rep.
@@ -17,5 +17,5 @@ Lawler .
 “Not only is that attack inconsistent with the facts, but it’s rendered even more absurd and unserious when I earn endorsements like this one, from a principled, moderate Democrat like Jared Golden who knows that is not remotely true.
 Sadly, Cait Conley doesn’t know anything about bipartisanship.
 She is running as a paint-by-numbers, partisan rubberstamp who agrees with Kathy Hochul’s dangerous Sanctuary State policies, doesn’t have the courage to disavow Zohran Mamdani and Democratic Socialists, and who just last week promised to drag the country into two more years of gridlock by coming out in favor of impeaching the President and other members of his Administration if she is elected.
-The Hudson Valley deserves better.” ### Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+The Hudson Valley deserves better.” ### Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

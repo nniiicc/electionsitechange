@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Francis Lombard, is the Democrat running for State Representative for the 8th District of the Connecticut House of Representatives.
+0 Skip to Content Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Francis Lombard, is the Democrat running for State Representative for the 8th District of the Connecticut House of Representatives.
 District 8 includes all of Columbia and Coventry, and parts of Bolton, Lebanon, and Tolland.
 Raised in a Massachusetts small business family, Francis’ political outlook was shaped by the struggles of the Great Recession.
 This experience reinforced his belief that government must do more than talk about the challenges facing working families and instead, must deliver real results.

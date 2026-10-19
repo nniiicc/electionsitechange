@@ -1,4 +1,4 @@
-top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Rebecca's Record Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 Coffee with your Assemblywoman Sun, Nov 01 | Aware Coffee Each and every month Rebecca holds a coffee for her constituents.
 Come out for some great conversation and grab a cup of coffee on Rebecca RSVP Time & Location Nov 01, 2026, 10:00 AM – 12:00 PM Aware Coffee, 9475 S Rainbow Blvd #140, Las Vegas, NV 89139, USA About the event Join me for treats and a conversation!
 I’d love to hear from you directly about the issues that matter most to our community.

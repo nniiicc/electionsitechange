@@ -1,33 +1,32 @@
-0 Skip to Content Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate platform Video Protect Rights.
-Not Privilege.
-Our nation’s founders deliberately included the phrase “a more perfect union” in the Preamble of the U.S.
-Constitution to reflect a commitment to building a stronger, more effective government.
-Perfection was never the goal—progress was.
-It is an ongoing pursuit of justice, peace, opportunity, and liberty for all.
-The phrase represents not a destination, but a promise: that the United States must continuously strive to become fairer, stronger, and more representative of its people.
-Today, Americans across the political spectrum agree—something is fundamentally broken in our government.
-For decades, the system has too often served oligarchs and the privileged few rather than everyday families.
-Make no mistake: both political parties have failed.
-The real issue is a widespread misunderstanding of government’s core purpose.
-It is time to return to the principle of a government by the people and for the people .
-That is why I am running for the Utah House of Representatives—to protect rights, not privilege .
-Davis County and our surrounding communities face serious challenges: a struggling economy, income inequality, taxation pressures, rising healthcare costs, and an education system in need of reform.
-The Great Salt Lake has reached historic lows.
-Our air quality ranks among the worst in the nation.
-Institutions meant to protect our livelihoods have been weakened or dismantled.
-Law and order are no longer balanced, and due process is increasingly out of reach for too many in our communities.
-I have proudly lived in House District 14 since 2014 with my wife and our three children.
-Professionally, I have worked as a digital media creator specializing in marketing, public relations, and organizational communications in support of Utah businesses.
-I am running because someone must—and because I deeply care about protecting and strengthening the community my family calls home.
-Utah stands at a critical moment.
-Democracy itself feels fragile, yet I believe many across our state still want to defend it.
-For too long, however, Utah has repeated a cycle of electing misinformed leaders and those who have embraced dangerous rhetoric disconnected from the will of the people.
-It is time for change.
-Utah must acknowledge that clinging to the status quo has failed.
-Supporting “the lesser of two evils” within the same party has only preserved a broken system.
-When elected officials prioritize party loyalty over public service—when they “toe the line” rather than listen—the voices of the people are left unheard.
-Our community deserves better.
-And together, we can build it.
+0 Skip to Content Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate platform Video A Better Economy.
+Stronger Education.
+Accountable Government.
+Utah families deserve an economy that works for them, schools that prepare the next generation, and a government that treats taxpayer dollars with responsibility and transparency.
+We cannot keep addressing the same problems every election cycle without changing the policies that contribute to them.
+Economy: Make Affordability Possible Utah has a tax structure that deserves a closer look.
+We need comprehensive audits and greater transparency to ensure our tax dollars are being used effectively and that the burden on working families is fair.
+Supporting a free-market economy doesn’t mean subsidizing businesses that rely on low wages while taxpayers absorb the cost through public assistance programs.
+We should incentivize better wages, strengthen workers’ earning power, support small businesses, and create an economy where more families can afford to live, work, and thrive.
+Affordability begins with the ability to earn a living wage.
+Education: Students and Teachers First Our education system needs greater financial transparency and a commitment to putting resources where they make the greatest difference: in classrooms.
+We must audit existing expenditures, evaluate how funding is allocated, and redirect appropriations where necessary to better support teachers and students.
+By strengthening existing programs, investing in early education intervention, and working toward smaller K–3 classroom sizes, we can improve educational outcomes without automatically turning to additional taxes.
+Our priority should be making sure education dollars are actually working for our schools.
+Government Accountability: Strengthening Public Trust Taxpayers deserve to know how their money is spent, who benefits from legislative decisions, and whether elected officials are working in the public interest.
+That means stronger ethics standards, independent oversight, transparent budgeting, and accountability for those entrusted with public office.
+Government should work for the people, not special interests or political agendas.
+Responsible leadership means evaluating what works, correcting what doesn’t, and putting community needs ahead of political convenience.
+Legislative Initiatives These commitments will guide the legislation I intend to pursue: Pay Equity Act: Promote fair compensation, greater pay transparency, and equal opportunities in the workplace.
+Education Dollars at Work Act: Improve education funding transparency, redirect resources toward classrooms, and advance smaller K–3 class sizes.
+Public Integrity and Ethical Governance Act: Strengthen legislative ethics, financial disclosures, oversight, and accountability.
+Effective Educators Discretion Act: Give educators greater flexibility and discretion to meet the needs of their students.
+Taxpayer First and Fiscal Responsibility Act: Improve government spending oversight, evaluate existing tax structures, and prioritize responsible use of public funds.
+Strengthening Humanity Act: Advance policies that protect human dignity, promote equal treatment, and ensure our laws reflect the needs of the communities we serve.
+Fair Sentencing Standards Act: Promote consistent, equitable sentencing standards, strengthen judicial accountability, and ensure penalties are appropriate, fair, and applied without unnecessary disparities.
+This isn’t about growing government or tearing down our economic system.
+It’s about making the systems we already have work better for the people who pay for them.
+Utah deserves leadership focused on solutions, not political talking points.
+It’s time to put people first.
 Donate Videos Economy.
 Education.
 Environment.

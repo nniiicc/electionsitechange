@@ -2,14 +2,14 @@ Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Co
 Please stop by if you're free, to ask me anything and let me know your concerns.
 Email me at campaign@juliedahlberg.com if you would like to set up a visit when I'm in your community.
 Check back for updates & new events.
-OCTOBER 5 - 8 AUSTIN VISITS All day SOUTH AUSTIN Event Details OCTOBER 5 - 8 AUSTIN VISITS 8 to 9 AM: Coffee & Conversation at Merfolk's Specialty Coffee, 490 S.
-Congress Ave., Suite 304C, Austin 9 AM to 3 PM: Neighborhood visits.
-6:...
-Event Details All day SOUTH AUSTIN FRIDAY, OCTOBER 9 GUADALUPE COUNTY FAIR PARADE 10 AM Austin Street Market, 414 N.
-Austin St., Seguin Event Details FRIDAY, OCTOBER 9 GUADALUPE COUNTY FAIR PARADE We'll be joining the Guadalupe County Republican Party float #51.
-Food & Candidate Meet & Greet at 11:30 AM following the parade at Austin S...
-Event Details 10 AM Austin Street Market, 414 N.
-Austin St., Seguin FRIDAY, OCTOBER 9 PLANT BINGO IN LA VERNIA 6 PM Windmill Farm Winery, 2836 FM 775, La Vernia FRIDAY, OCTOBER 9 PLANT BINGO IN LA VERNIA 6 PM Windmill Farm Winery, 2836 FM 775, La Vernia SATURDAY, OCTOBER 10 FLORESVILLE PEANUT FESTIVAL PARADE 10 AM Floresville Event Details SATURDAY, OCTOBER 10 FLORESVILLE PEANUT FESTIVAL PARADE We'll be joining the Wilson County Republican Party float #92 10 AM Floresville SATURDAY, OCTOBER 10 BUDA MARKET DAYS 1 PM The Playground @Niederwald, 7400 Neiderwald Strasse SATURDAY, OCTOBER 10 BUDA MARKET DAYS 1 PM The Playground @Niederwald, 7400 Neiderwald Strasse More Events News & Articles Political Ad.
+MONDAY, OCTOBER 19 ZAPATA: EARLY VOTING POLL GREETING 8 AM ZAPATA MONDAY, OCTOBER 19 ZAPATA: EARLY VOTING POLL GREETING 8 AM ZAPATA MONDAY, OCTOBER 19 LAREDO: EARLY VOTING POLL GREETING 11 AM LAREDO MONDAY, OCTOBER 19 LAREDO: EARLY VOTING POLL GREETING 11 AM LAREDO TUESDAY, OCTOBER 20 PANNA MARIA: LET FREEDOM RING DINNER 5:30 PM PANNA MARIA HALL, 1912 FM 81, PANNA MARIA Event Details TUESDAY, OCTOBER 20 PANNA MARIA: LET FREEDOM RING DINNER Hosted by the Karnes County Republican Women.
+For tickets, contact Rita Jordan at 210-844-0728 5:30 PM PANNA MARIA HALL, 1912 FM 81, PANNA MARIA TUESDAY, OCTOBER 27 AUSTIN: NO MUTE ON ELECTIONS | TURN UP THE VOTE 11 AM - 1 PM CIVIC PLAZA OUTSIDE ST.
+ED'S CARRIAGE HOUSE, 3001 S.
+CONGRESS AVE, AUSTIN Event Details TUESDAY, OCTOBER 27 AUSTIN: NO MUTE ON ELECTIONS | TURN UP THE VOTE Candidate meet & greet, live music & bi-partisan panel.
+Presented by The Kozmetsky Center & St.
+Ed's Civics Lab 11 AM - 1 PM CIVIC PLAZA OUTSIDE ST.
+ED'S CARRIAGE HOUSE, 3001 S.
+CONGRESS AVE, AUSTIN News & Articles Political Ad.
 Pd. by Julie Dahlberg for Texas Senate Campaign.
 Copyright © # Julie for Texas Senate - All Rights Reserved.
 Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS

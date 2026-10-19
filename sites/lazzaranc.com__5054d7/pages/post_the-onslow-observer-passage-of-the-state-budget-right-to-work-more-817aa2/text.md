@@ -44,9 +44,10 @@ It was great to see The Stanley Cup on display at the NC General Assembly!
 Congratulations again to the Carolina Hurricanes on bringing hockey's greatest trophy back to North Carolina for the first time in 20 years.
 What a special moment for our state and for Canes fans everywhere.
 Go Canes!
-Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects NEWS: Lazzara Joins Local Leaders for Ribbon Cutting of Carolina Museum of the Marine JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

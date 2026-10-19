@@ -22,9 +22,9 @@ We should be replacing bureaucracy with opportunity and putting proven, discipli
 Veterans did not stop being an asset to this country when they took off the uniform.
 Their next mission may be on America’s highways, moving the freight that keeps our economy running.
 My job is to make sure Washington does not stand in their way.
-Related Posts: Help Elect More Veterans September 3, 2021 Homeless Veterans & The Border.
-Let’s Talk About It… May 13, 2024 We Did It: Escorts For Honor Flights Resume May 9, 2022 Brian Has Been Busy!
-March 19, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Brian Has Been Busy!
+March 19, 2021 Homeless Veterans & The Border.
+Let’s Talk About It… May 13, 2024 We Did It: Escorts For Honor Flights Resume May 9, 2022 Help Elect More Veterans September 3, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

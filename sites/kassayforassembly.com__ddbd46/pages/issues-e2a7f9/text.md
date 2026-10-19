@@ -1,4 +1,4 @@
-top of page Home Upcoming Events Issues Voter Resources In the News Endorsements Volunteer Here in Assembly District 4, we face some big Issues Here's what Rebecca has to say about some of our communities' most pressing problems.
+top of page Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements Volunteer Here in Assembly District 4, we face some big Issues Here's what Rebecca has to say about some of our communities' most pressing problems.
 Between her work as environmental educator, ten years of experience growing a small business, and four years of service as an elected Trustee and Deputy Mayor in Port Jefferson Village, Rebecca's experience helped her to deliver for our needs from day one in Albany.
 She's ready to build on that momentum in her second term, bringing home what we need to make our communities safer, healthier, and more affordable for our neighbors.
 Affordability _ Supporting Our Veterans _ Supporting Our Volunteer First Responders Artificial Intelligence and Data Centers Government Transparency & Accessibility Environmental Conservation Public Safety & Crime Prevention Children and Families _ Education _ Physical and Mental Health Services Small Business _ Transportation Infrastructure Senior Citizens _ Reproductive Health _ Green Energy _ Standing Up Against Hate and Discrimination Animals' Rights _ Consumer Protections _ Community Engagement _ Affordability New Yorkers are facing rising costs, and families deserve a government that works to make everyday life more affordable.
@@ -187,5 +187,5 @@ Whether they’re connecting with folks who happen to be passing by on their way
 Throughout the year, she hosts additional annual events alongside local partners, such as blood drives, veterans resource fairs, a summer safety and family fun event at West Meadow Beach, and more!
 These events are free and aim to strengthen and celebrate our community.
 She looks forward to continuing to serve our district through unique, engaging programming.
-REQUEST A LAWN SIGN DONATE TODAY @KassayforAssembly Home Upcoming Events Issues Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
+REQUEST A LAWN SIGN DONATE TODAY @KassayforAssembly Home Upcoming Events Issues Rebecca Delivers Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
 PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY.COM bottom of page

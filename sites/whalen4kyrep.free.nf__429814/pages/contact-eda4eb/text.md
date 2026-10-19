@@ -1,1 +1,1 @@
-This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support
+Skip to content Home About Platform Get Involved About Get Involved Home Platform Get Involved Get involved Follow the campaign Facebook William Whalen 4 KY Rep Instagram @whalen4ky Donate to our campaign Sign up to help at whalen4ky@gmail.com OR Donate to our cause

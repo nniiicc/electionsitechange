@@ -33,21 +33,21 @@ Part 1 / Part 2 The Color Ink Defense.
 Part 1 / Part 2 / Video Why so many courts?
 Part 1 / Part 2 I’ve also posted some frequently asked questions on Facebook, along with my answers.
 Here are links to those posts: Will there be a debate to help voters decide between candidates?
-What endorsements do you have?
-Will you be a pro-life judge?
-What do you think of term limits?
-What do you think about “Right to Repair” laws?
-What is your opinion about license-plate-reading cameras?
+What endorsements do I have?
+Will I be a pro-life judge?
+What do I think of term limits?
+What do I think about “Right to Repair” laws?
+What is my opinion about license-plate-reading cameras?
 Who are the “Law Dogs”?
-What are your views on data centers?
+What are my views on data centers?
 When should a prior court decision be overturned?
-Do you go to church?
-What in your career prepared you best for the Supreme Court?
-Will there be a debate to help voters decide between the candidates?
+Do I go to church?
+What in your career prepared me best for the Supreme Court?
+Which cases shaped me most as a lawyer?
 Am I less partisan than the incumbent, or just more subtle?
 Press Coverage and More Resources I’ve been interviewed several times throughout the campaign.
 I hope that this third-party coverage of the election helps you decide how to cast your vote.
-North Dakota Monitor, April 7: Watford City attorney to challenge Tufte for North Dakota Supreme Court seat Plain Talk ND, May 1: Video Interview KFGO, May 10: News and Views KFYR, May 14: Dakota Mornings with Michael Bell North Dakota Monitor, September 21: North Dakota Supreme Court races are nonpartisan, but Republicans play a big role Ballotpedia League of Women Voters, Vote411 What does “nonpartisan” mean?
+Ballotpedia League of Women Voters, Vote411 North Dakota Monitor, April 7: Watford City attorney to challenge Tufte for North Dakota Supreme Court seat Plain Talk ND, May 1: Video Interview KFGO, May 10: News and Views KFYR, May 14: Dakota Mornings with Michael Bell North Dakota Monitor, September 21: North Dakota Supreme Court races are nonpartisan, but Republicans play a big role KFGO, October 6: Afternoons Live with Tyler Axness KFYR, October 14: Dakota Mornings with Michael Bell What does “nonpartisan” mean?
 For everyone, it means that no political party labels appear on the ballot.
 For me, it goes far deeper.
 I am genuinely nonpartisan.

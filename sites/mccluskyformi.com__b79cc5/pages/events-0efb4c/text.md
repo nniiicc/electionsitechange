@@ -1,9 +1,18 @@
-0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 24 GOTV Kick Off with Mallory McMorrow Saturday, October 24, 2026 10:00 AM 2:00 PM Google Calendar ICS Early voting starts today in person and it is time to Get Out The Vote!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 19 GOTV Door Knocking with Joseph McClusky Monday, October 19, 2026 10:00 AM 2:00 PM Google Calendar ICS T-2 Days!
+Join us in reaching voters, sharing what this campaign stands for, and chasing every vote so we can cross the finish line strong!
+Training and a walking buddy can be provided!
+Shifts from 10:00 AM-2:00 PM, 2:00 PM-4:00 PM and 4:00 PM-6:00 PM https://www.mobilize.us/mccluskyformi/event/1068404/ View Event → Oct 24 GOTV Kick Off with Mallory McMorrow Saturday, October 24, 2026 10:00 AM 2:00 PM Google Calendar ICS Early voting starts today in person and it is time to Get Out The Vote!
 Join us on the doors this Saturday with special guest Mallory McMorrow.
 Every vote counts and we need you to help us get across the finish line.
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051803/ View Event → Oct 31 Halloween Canvassing with Joseph McClusky Saturday, October 31, 2026 11:00 AM 2:00 PM Google Calendar ICS Join us on the doors this Halloween to help us get out the vote!
+Training and a walking buddy can be provided!
+Shifts from 10:00 AM-2:00 PM, 2:00 PM-4:00 PM and 4:00 PM-6:00 PM https://www.mobilize.us/mccluskyformi/event/1051803/ View Event → Oct 25 GOTV Door Knocking with Joseph McClusky Sunday, October 25, 2026 10:00 AM 2:00 PM Google Calendar ICS The final week is here!
+With November 3rd just around the corner, now is the time to make every conversation count.
+Join us in reaching voters, sharing what this campaign stands for, and building the momentum we need to cross the finish line strong!
+Training and a walking buddy can be provided!
+Shifts from 10:00 AM-2:00 PM, 2:00 PM-4:00 PM and 4:00 PM-6:00 PM https://www.mobilize.us/mccluskyformi/event/1068403/ View Event → Oct 31 Halloween Canvassing with Joseph McClusky Saturday, October 31, 2026 10:00 AM 2:00 PM Google Calendar ICS Join us on the doors this Halloween to help us get out the vote!
 Only 4 more days until Election Day!
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051838/ View Event → Nov 3 Poll Greeting for Joseph McClusky Tuesday, November 3, 2026 7:00 AM 8:00 PM Google Calendar ICS Help us connect with voters on Election Day by volunteering as a poll greeter!
+Training and a walking buddy can be provided!
+Shifts from 10:00 AM-2:00 PM, 2:00 PM-4:00 PM and 4:00 PM-6:00 PM https://www.mobilize.us/mccluskyformi/event/1051838/ View Event → Nov 3 Poll Greeting for Joseph McClusky Tuesday, November 3, 2026 7:00 AM 8:00 PM Google Calendar ICS Help us connect with voters on Election Day by volunteering as a poll greeter!
 You’ll welcome voters, share more information about Joseph, and encourage people to make their voices heard.
 Poll greeters must remain at least 100 feet away from the polls.
 We’re looking for volunteers for two key shifts: Morning: 7–9 AM Evening: 5–8 PM Even if you can only volunteer for part of a shift, we’d love your help!

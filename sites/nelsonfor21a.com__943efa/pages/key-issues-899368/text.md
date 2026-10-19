@@ -28,6 +28,13 @@ Strong volunteer services keep our communities safe.
 Standing Up for Agriculture & Rural Economies Agriculture drives our rural communities, but farmers, ranchers, and small businesses continue to face uncertainty from unstable markets, rising costs, and supply chain challenges.
 Rusty understands that while Minnesota cannot control every national or global issue impacting agriculture, state leaders still have a responsibility to seek creative, practical ways to improve stability and support rural economies.
 He believes rural communities deserve leadership focused on common-sense solutions that help local businesses, farms, and families continue to thrive. ​ Rusty is committed to listening to the concerns of rural communities and advocating for policies that help communities remain strong, sustainable, and prepared for future generations.
+Rusty on Education Schools are the lifeblood of a thriving community; large, small, or very small.
+As a constitutional obligation to provide public education, school funding has not kept up with inflation.
+And there are federal education mandates that are grossly underfunded.
+At the state level, the legislature can start by removing unfunded state mandates and give school districts the flexibility to move dollars between funding “pots” so that needs are met.
+Passage of this year’s constitutional amendment regarding the permanent school fund is very important.
+It will help a bit; perhaps enough to keep up with soaring diesel prices.
+The funding formula needs to be adjusted, and school funding should reflect the priority that it is for us and for our future.
 Listening to the People of District 21A Rusty’s campaign is built on a simple belief: Problems can be solved when people work together with respect, honesty, and a shared commitment to their communities.
 Rusty knows we have to stop being angry with each other.
 Left, right, or center - insults and anger get us nowhere.

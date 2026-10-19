@@ -9,15 +9,17 @@ In 2009, Mary Ann was elected to the Houston Community College Board of Trustees
 As a trustee, Mary Ann worked hard to move HCC and her community forward by partnering with area employers to ensure the programs reflected the needs of the current workforce and community.
 She worked with area schools and community groups to develop programs to keep students in school and on a path to higher education.
 During her first term in the Texas House, Mary Ann was named Freshman of the Year by the bipartisan Legislative Study Group and continues to work across the aisle to move Texas forward.
-State Representative Mary Ann Perez Grateful to have the endorsement of Paola Gonzalez as I run for re-election!
+State Representative Mary Ann Perez I’m truly grateful to have the endorsement of Crystal Dávila!
+Thank you, Crys, for your confidence in me!
+#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez Grateful to have the endorsement of Paola Gonzalez as I run for re-election!
 Thank you, Paola, for your continued support!
-#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am proud to have the endorsement of Monica Flores Richart!
+#txlege #HD144 #TeamMaryAnn 6 Likes Posted: #ago State Representative Mary Ann Perez I am proud to have the endorsement of Monica Flores Richart!
 Thank you, Monica, for standing with me!
-#txlege #HD144 #TeamMaryAnn 3 Likes Posted: #ago State Representative Mary Ann Perez I am grateful to have the support of Eva Loredo as I run for re-election.
+#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am grateful to have the support of Eva Loredo as I run for re-election.
 Thank you, Eva, for your trust and support over the years!
 #txlege #HD144 #TeamMaryAnn 1 Comments 4 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post Today, I attended the Port Houston Appreciation Day Business Expo & Luncheon, hosted by the Houston East End Chamber of Commerce.
 It was an honor to lead the Pledge of Allegiance and join local businesses and community leaders to recognize ...
-12 Likes Posted: #ago State Representative Mary Ann Perez I am proud to earn the endorsement of the Texas Society of Professional Engineers!
+13 Likes Posted: #ago State Representative Mary Ann Perez I am proud to earn the endorsement of the Texas Society of Professional Engineers!
 Texas is a national leader in jobs and innovation, and I look forward to continuing to work with professional engineers on critical infrastructure, public health, safety, ...
 3 Likes Posted: #ago State Representative Mary Ann Perez I’m so very grateful to have the endorsement of my dear friend, Dr.
 Adriana Tamez!
@@ -37,8 +39,6 @@ Visit harrisvotes.com/vote-centers for vote center locations near you.
 #txlege #HD144 #TeamMaryAnn # Comments # Likes Posted: #ago State Representative Mary Ann Perez I am honored to have the endorsement of the TXBIZ PAC!
 I will continue working to advance policies that support Texas businesses, create jobs, and strengthen our state’s economy.
 #txlege #HD144 #TeamMaryAnn 6 Likes Posted: #ago State Representative Mary Ann Perez State Representative Mary Ann Perez State Representative Mary Ann Perez updated their profile picture.
-17 Likes Posted: #ago State Representative Mary Ann Perez It is an honor to have the continued support of Council Member Cynthia Piña as I run for re-election.
-Thank you, Council Member Piña, for believing in me!
-#txlege #HD144 #TeamMaryAnn 13 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+17 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
 Adv.
 Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

@@ -1,7 +1,7 @@
 Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Governor Abbott Touts Jobs Growth and Promotes Affordability Agenda in McAllen Learn More Governor Abbott Joined Tarrant County Law Enforcement to Highlight Public Safety Efforts Learn More Governor Abbott Energizes Republicans at the Republican Party of Brazos County Barbecue Dinner and Celebration Learn More ‹ › Issues Affordability Public Safety Education First Dogs of Texas Follow Governor Abbott Instagram X Facebook YouTube Follow on Instagram governorabbott Governor of Texas.
 Husband to @TexasFLCA.
 Our lives are not defined by our challenges, but by how we respond to them.
-A bet’s a bet!
+Gina Hinojosa supports Higher Taxes for ALL Texans A bet’s a bet!
 Hook ‘em, @rondesantis!
 Our lives are not defined by our challenges, but b Hey @governorkevinstitt, I bet you a case of Lone Hey Texas, call Gina Hinojosa’s office and ask her Texas DPS and the FBI stopped a planned attack on Now that’s what you call Texas Fight!
 Excited to cheer on the Longhorns against Ohio Sta We are one unified Texas.
@@ -11,8 +11,7 @@ DFW stopped plans to install additional Islamic wu My directive has halted up to
 H Do you have what it takes?
 Can you create the nex New data centers are being paused.
 Data centers m Radical Democrats are selling socialism.
-Texas isn Every day, data centers are announcing their compl Last night, for the first time ever, ALL statewide Kachow ⚡️🔥🛞 Texans come first.
-Load More Follow on Instagram Greg Abbott @GregAbbott_TX Tough laws & strong law enforcement have reduced crime.
+Texas isn Every day, data centers are announcing their compl Last night, for the first time ever, ALL statewide Kachow ⚡️🔥🛞 Load More Follow on Instagram Greg Abbott @GregAbbott_TX Tough laws & strong law enforcement have reduced crime.
 Statewide crime is down 3 straight years: 3.3% in 2023 8.2% in 2024 13% in 2025 We made bail tougher, backed law enforcement, and targeted violent repeat offenders.
 Three straight years of lower crime prove those policies work, and Texans are safer because of them.
 Greg Abbott @GregAbbott_TX New data centers are being paused.

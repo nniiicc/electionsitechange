@@ -82,7 +82,7 @@ We can work to reduce abortions, protect good-faith medical care and approach di
 The future is not about forcing women into one outcome.
 It is about building a Texas where choosing life is a real and sound choice.
 The future looks like valuing life in practice, not just for politics’ sake.
-Previous Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Next Statement of Belief: Honor God, Serve People You Might Also Like The Thurgood Marshall Plan A New Era in Education Humane Immigration Reform and Border Security A Breakthrough Brief: Thrivability for Small Business TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE STAY UPDATED Let’s Build the Future Together.
+Previous Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Next Statement of Belief: Honor God, Serve People You Might Also Like Independence from Party Control TEXAS-FIRST TECH: AI, DATA CENTERS & TEXAS’S FUTURE A New Era in Education A Breakthrough Brief: Thrivability for Small Business Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

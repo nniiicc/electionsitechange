@@ -40,10 +40,6 @@
 "href": "https://halesformissouri.com/product/green-necklace/"
 },
 {
-"text": "Grey Polo $65.00",
-"href": "https://halesformissouri.com/product/grey-polo/"
-},
-{
 "text": "Home",
 "href": "https://halesformissouri.com"
 },
@@ -68,6 +64,10 @@
 "href": "https://halesformissouri.com/privacy/"
 },
 {
+"text": "Product with Sizes $70.00",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
+},
+{
 "text": "Sale! [image: Green Necklace]",
 "href": "https://halesformissouri.com/product/green-necklace/"
 },
@@ -77,7 +77,7 @@
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/grey-polo/"
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "Shop",
@@ -104,12 +104,12 @@
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
 {
-"text": "[image: Grey Polo]",
-"href": "https://halesformissouri.com/product/grey-polo/"
-},
-{
 "text": "[image: Hales for Missouri]",
 "href": "https://halesformissouri.com/"
+},
+{
+"text": "[image: Product with Sizes]",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
 "text": "[image: Support the Party]",

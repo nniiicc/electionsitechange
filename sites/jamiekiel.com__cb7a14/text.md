@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b Conservative Small Town Businessman LET'S GET TO WORK!
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=2f1c44e3e9 Conservative Small Town Businessman LET'S GET TO WORK!
 Thank you for checking out my campaign website.
 We are running a grassroots campaign of smaller government, improving education, and creating a climate to bring jobs to Northwest Alabama.
 But I need your help!

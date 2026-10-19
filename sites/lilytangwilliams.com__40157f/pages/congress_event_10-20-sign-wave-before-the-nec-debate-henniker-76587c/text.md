@@ -1,0 +1,5 @@
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/20 – Sign Wave Before the NEC Debate – Henniker October 20 @ 6:00 pm - 7:00 pm « 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua 10/20 – General Debate – New England College, Henniker, 7pm » Tuesday, 10/20 – 6:00 PM to 7:00 PM Public common across from the Putnam Center, New England College, 10 Weare Road, Henniker, NH Join Lily and Team Lily for a sign wave in the hour before the NEC general election debate.
+Signs are provided.
+Email CM@lily4congress.com to let us know you are coming.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 20 Time: 6:00 pm - 7:00 pm Event Category: Events « 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua 10/20 – General Debate – New England College, Henniker, 7pm » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

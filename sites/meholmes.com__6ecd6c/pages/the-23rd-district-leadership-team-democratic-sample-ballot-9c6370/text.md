@@ -2,8 +2,9 @@ Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues Distri
 Holmes, Jr.
 PO Box 1631 Upper Marlboro, MD 20773 HolmesDelegate23@gmail.com By Authority: Friends of Marvin E.
 Holmes, Jr.
-Pam Mufungizu, Treasurer Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like What’s Your Home Worth?
-A WUSA9 investigation into appraisal bias July 10, 2022 2021 College Scholarship Application February 7, 2021 The Marlton Quarterly September 4, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Pam Mufungizu, Treasurer Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like 2021 Legislative Wrap Pp July 22, 2021 What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 Delegate Holmes statement on the insurrection in DC.
+January 9, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
 Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News What’s Your Home Worth?
 A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments Stakeholder roundtable – Part ii March 3, 2022 / 0 Comments By Authority: Friends of Marvin E.
 Holmes, Jr.

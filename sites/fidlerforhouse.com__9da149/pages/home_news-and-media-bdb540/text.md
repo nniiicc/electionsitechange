@@ -4,7 +4,7 @@ Used for the like, share, comment, and reaction icons Jennifer Fidler #ago Last 
 I traveled to the best area in all the south, which is Gulf Shores!
 We were able to show off our beautiful area to 20 + legislators from other states.
 Thank you Speaker Ledbetter for allowing me this opportunity and assuring that Alabama is the host state in years 2026-2029. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 47 Shares: 1 Comments: 2 2 Comments Comment on Facebook Jennifer Fidler #ago 🚨 FREE Fraud Prevention Seminar!
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 53 Shares: 1 Comments: 2 2 Comments Comment on Facebook Jennifer Fidler #ago 🚨 FREE Fraud Prevention Seminar!
 I’m teaming up with the Alabama Securities Commission and other state and local agencies to help District 94 residents protect themselves and their families from scams, identity theft, and financial fraud. 📅 Thursday, October 29, 2026 🕠 5:30 p.m. 📍 Magnolia Springs Community Hall 14775 Oak Street, Magnolia Springs, AL 36555 Learn how to recognize warning signs, avoid common scams—including those targeting seniors—and know where to turn for help.
 Presenters will include Nick Vonderau with the Alabama Securities Commission, James Roberson with the South Alabama Regional Planning Commission, the Better Business Bureau, Baldwin County Sheriff’s Office, Kristi Hagood with the District Attorney’s Office and others.
 Bring your questions, invite a friend or family member, and join us for this helpful community event!

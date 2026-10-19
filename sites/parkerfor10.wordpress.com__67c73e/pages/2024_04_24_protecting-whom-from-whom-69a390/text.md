@@ -40,7 +40,7 @@ You protect them by teaching them, from the earliest possible age, what parts of
 You empower them to say NO, and to raise hell if that NO is not honored.
 And you back them up with social and legal power.
 None of this shielding-the-good-old-boys-network stuff.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Is Anyone Listening? → Worse than Deja Vu Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Create a free website or blog at WordPress.com.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Is Anyone Listening? → Worse than Deja Vu Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Create your own website, free on WordPress.com.

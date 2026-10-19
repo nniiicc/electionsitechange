@@ -4,8 +4,9 @@ I am going to be for my entire community no matter what whether you are Democrat
 We are all going through some degree of struggle in Kalihi and I am the type of representative that will be for my entire community and look for different solutions together.
 #Kalihi #Hawaii #OurCommunityFirst #VoteYbanez4Kalihi Previous Free Food Distribution at Kalihi Kai on October 31st!
 More Details to Follow!
-Next Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing You Might Also Like Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 YBANEZ - Stay prepared for Tropical Cyclone Lala!
-YBANEZ - Saturday, 7/25/2026 YBANEZ 4 KALIHI - Support Local!
+Next Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing You Might Also Like YBANEZ - Walk & Talk | Monday, August 3rd Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ - More Outreach for our Students!
+"Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy YBANEZ - Mahalo Gov.
+Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.

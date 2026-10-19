@@ -1,6 +1,13 @@
 Meet Dione Issues Key Moments Opal's Legacy Endorsements Volunteer Media Is This My District?
 Get Involved Donate Now Breaking News Former Vice President Kamala D.
-Harris Endorses Dione Sims for Congress Read the official announcement Deadline: Monday, October 5, 2026 Hand-deliver your completed application to the appropriate county office by Monday, October 5, 2026, to vote in the November 3 general election.
+Harris Endorses Dione Sims for Congress Read the official announcement Texas Early Voting Tracker Follow reported early-voting participation across Texas through VoteHub.
+Candidate preferences are modeled estimates, not election results.
+Reporting may lag.
+Statewide figures do not establish outcomes in individual congressional districts.
+View Texas tracker Official Texas voting information Source: VoteHub, in partnership with L2.
+Visit the tracker for its latest figures and update time.
+Read VoteHub’s methodology Links open in a new tab.
+Deadline: Monday, October 5, 2026 Hand-deliver your completed application to the appropriate county office by Monday, October 5, 2026, to vote in the November 3 general election.
 Or mail it, postmarked on or before October 5.
 If you are mailing on the deadline day, ask for a manual postmark at a USPS retail counter.
 This guide covers hand-delivery and mailing of completed applications.

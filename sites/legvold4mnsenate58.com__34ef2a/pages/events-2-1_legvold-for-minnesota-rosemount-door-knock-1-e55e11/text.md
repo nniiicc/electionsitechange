@@ -12,4 +12,4 @@ Let's get out there, meet our neighbors, and share our vision for the future!
 Click on this Mobilize link to find out the assembly location and to let us know you’re coming: https://www.mobilize.us/mobilize/event/1064479/ Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 Previous Previous October 22 Legvold for Minnesota - Farmington Door Knock!
-Next Next October 24 Day of 100 Volunteers in SD58: Phone Banking for Get Out the Vote Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Next Next October 24 Day of 100 Volunteers in SD58 Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

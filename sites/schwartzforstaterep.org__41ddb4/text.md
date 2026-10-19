@@ -54,11 +54,13 @@ Where do I vote?
 Where do I vote?
 Where do I vote?
 Make An Impact Today Make An Impact Today Support our mission by contributing a donation.
-Support our mission by contributing a donation. $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# Other Other Other Other Contact Ian Reach out for any reason.
+Support our mission by contributing a donation. $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# $# Other Other Other Other Contact Ian Contact Ian Reach out for any reason.
 Share a concern, ask a question or find out how to help.
 Reach out for any reason.
 Share a concern, ask a question or find out how to help.
-Name Email Topic Select… I have a question I want to help out I want a yard sign I want to meet Ian Just saying hi Message Please fill out all fields Paid for by Friends of Ian Schwartz.
-Social Facebook Instagram TikTok LinkedIn X/Twitter Contact Email Back to top Paid for by Friends of Ian Schwartz.
-Paid for by Friends of Ian Schwartz.
-Social Facebook Instagram TikTok LinkedIn X/Twitter Contact Email Back to top
+Name Email Topic Select… I have a question I want to help out I want a yard sign I want to meet Ian Just saying hi Message Please fill out all fields Enable JavaScript to submit this form.
+Sign Up For Texts Sign Up For Texts Sign Up For Texts Sign Up For Texts Paid for by Friends of Ian Schwartz.
+Social Facebook Instagram TikTok LinkedIn X/Twitter Contact Email Back to top Privacy Policy Paid for by Friends of Ian Schwartz.
+Privacy Policy Paid for by Friends of Ian Schwartz.
+Social Facebook Instagram TikTok LinkedIn X/Twitter Contact Email Back to top Privacy Policy Paid for by Friends of Ian Schwartz.
+Social Facebook Instagram TikTok LinkedIn X/Twitter Contact Email Back to top Privacy Policy

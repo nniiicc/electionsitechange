@@ -25,7 +25,7 @@ I believe meaningful progress happens when people from different sectors come to
 As I reflect on my work throughout 2026, I remain committed to a comprehensive approach to public policy—one that integrates economic development, workforce advancement, equitable access to opportunity, responsible legislation, international engagement, and community well-being.
 I believe sustainable economic growth is achieved through thoughtful policymaking, strong partnerships, and a shared commitment to ensuring that every Delawarean has the opportunity to succeed.
 This work continues to guide my vision for Delaware's future: an economy that is innovative, inclusive, globally competitive, and built on opportunity for every individual, every business, and every community.
-Share this post: Categories All Posts Announcements News Official Statement What I'm Hearing Sign up for blog updates!
+Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts Regarding Comments from School Board Member Elena Brenner Oct 14, 2026 I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

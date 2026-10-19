@@ -20,7 +20,7 @@
 "href": "https://secure.actblue.com/donate/votejewebsite"
 },
 {
-"text": "Check if you're registered to vote",
+"text": "Check voter registration and where to vote",
 "href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
 },
 {
@@ -38,6 +38,10 @@
 {
 "text": "Issues",
 "href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://secure.actblue.com/donate/31-20watchparty"
 },
 {
 "text": "Learn More",
@@ -62,10 +66,6 @@
 {
 "text": "RUN! website builder",
 "href": "https://designedtorun.com"
-},
-{
-"text": "Register to vote",
-"href": "https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN"
 },
 {
 "text": "Request a mail ballot",
@@ -122,9 +122,5 @@
 {
 "text": "[no text]",
 "href": "https://www.youtube.com/@VoteJustinEarly"
-},
-{
-"text": "here",
-"href": "https://secure.actblue.com/donate/31-20watchparty"
 }
 ]

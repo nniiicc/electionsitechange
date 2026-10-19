@@ -35,6 +35,10 @@ Jóvenes que aprenden, trabajan y lideran Escuelas fuertes, laboratorios STEAM, 
 Buenos empleos y pequeños negocios Caminos sindicales y vocacionales, y el apoyo que los negocios locales necesitan para crecer.
 Dignidad para personas mayores y veteranos Acabar con la pobreza entre los veteranos y cumplir nuestras promesas a quienes construyeron Nueva York y a quienes la sirvieron.
 Atención médica al alcance de todos Atención preventiva y asequible, cerca de casa, para cada neoyorquino.
+Arreglar E-ZPass Una Carta de Derechos de E-ZPass para los neoyorquinos.
+Aviso claro antes de que se acumulen los cargos, una forma justa de disputar errores y no más multas sorpresa que convierten un peaje en una deuda.
+Deportes juveniles al alcance de todos Cada niño merece un lugar en el equipo.
+Bajemos el costo de ligas, canchas y equipo para que ninguna familia tenga que elegir entre pagar las cuentas y el partido de su hijo.
 CONOCE A LANDON Con raíces en Nueva York, trabajando por Nueva York.
 Landon Dais es esposo, padre de dos hijos y propietario de vivienda en Highbridge, donde sirve como entrenador voluntario del equipo de béisbol de sus hijos.
 Antes de servir en la Asamblea, trabajó en la construcción del nuevo Yankee Stadium y ejerció como abogado ayudando a crecer a pequeños negocios y organizaciones sin fines de lucro.

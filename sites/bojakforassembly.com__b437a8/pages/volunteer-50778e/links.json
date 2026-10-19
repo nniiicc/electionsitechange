@@ -9,10 +9,6 @@
 },
 {
 "text": "Click Here",
-"href": "https://bojak-for-assembly.solidarity.tech/phonebank-for-bojak-with-tax-the-rich"
-},
-{
-"text": "Click Here",
 "href": "https://www.bojakforassembly.com/"
 },
 {
@@ -48,16 +44,8 @@
 "href": "https://www.bojakforassembly.com/privacy-policy"
 },
 {
-"text": "RSVP: FRIDAYS",
-"href": "https://bojak-for-assembly.solidarity.tech/friday-canvassing"
-},
-{
 "text": "RSVP: Mondays",
 "href": "https://bojak-for-assembly.solidarity.tech/monday-canvassing"
-},
-{
-"text": "RSVP: Saturdays",
-"href": "https://bojak-for-assembly.solidarity.tech/westside-saturdaymorning-canvass"
 },
 {
 "text": "RSVP: Sundays",
@@ -70,6 +58,10 @@
 {
 "text": "RSVP: Tuesdays",
 "href": "https://bojak-for-assembly.solidarity.tech/tuesday-hamburg-canvasses"
+},
+{
+"text": "RSVP: fridays",
+"href": "https://bojak-for-assembly.solidarity.tech/friday-canvassing"
 },
 {
 "text": "VOLUNTEER",

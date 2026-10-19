@@ -1,5 +1,8 @@
 top of page Home About Me Testimonials Blog Donate Contact Blog The Importance of Freedom in Choices: A Day with Anthony Kathol at Dairy Queen State Senate Candidate Anthony Kathol makes a trip to his local Dairy Queen and discusses the importance of free enterprise.
-Anthony Kathol Jul 17 3 min read Featured Blog Post Pheasant Hunting Season Begins: Celebrating South Dakota’s Cultural Heritage.
+Anthony Kathol Jul 17 3 min read Featured Blog Post Who said that?
+District 27 State Senate Candidate Anthony Kathol knows your time is valuable, so I have done the necessary research for you.
+Check out this 2-minute video game and have a little fun guessing which candidate made each statement.
+#ago Pheasant Hunting Season Begins: Celebrating South Dakota’s Cultural Heritage.
 South Dakota State Senate Candidate Anthony Kathol shares a special greeting and message to all pheasant hunters.
 #ago Enjoying the Journey Across District 27 State Senate Candidate Anthony Kathol takes a moment to stop and observe the beauty of District 27 while putting up campaign signs.
 Sep 11 A Lesson From Repairing A Campaign Sign As he repairs a campaign sign, District 27 State Senate Candidate Anthony Kathol reflects on what it means to "fix" current legislation rather than burning down the entire system.

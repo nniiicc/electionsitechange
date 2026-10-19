@@ -37,10 +37,10 @@ These efforts also translated into $14.75 million in local tax revenue, saving e
 A win for every family in Onslow County!
 HURRICANE PREPAREDNESS It's hurricane season — now’s the time to prepare: Secure outdoor items Check your emergency kit Know your evacuation zone Stay tuned in to local updates Stay safe & stay ready, North Carolina.
 Learn more at www.ReadyNC.gov .
-Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

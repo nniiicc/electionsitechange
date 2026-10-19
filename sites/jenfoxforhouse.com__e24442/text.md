@@ -8,16 +8,14 @@ Taking on PFAS contamination, nitrate pollution and aging pipes without putting 
 Closing the loopholes that leave programs exposed, and showing Minnesotans where their tax money goes. ​ LEADERSHIP YOU CAN TRUST.
 Present, responsive, and working for you, not for lobbyists.
 50 ORGANIZATIONS BEHIND JEN Labor, farm, environmental, health care and community groups across Minnesota are behind this campaign, including the Minnesota Farm Bureau, the Minnesota Professional Fire Fighters, Education Minnesota, the Minnesota AFL-CIO, Conservation Minnesota and the Committee to Protect Health Care.
-SEE ALL ENDORSEMENTS Upcoming Events Multiple Dates Sat, Oct 17 GOTV Canvass, Weekends / Hastings (address sent when you sign up) RSVP Oct 17, 2026, 10:00 AM – 7:00 PM Hastings (address sent when you sign up) Get Out the Vote shifts in Hastings at 10am, 12pm, 3pm and 5pm.
-Pick a shift when you sign up.
-The meeting spot comes with your confirmation.
-No experience needed: there's a short training and all materials are provided.
-Share Wed, Oct 21 DFL Leader Knock with Zack Stephenson / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 4:00 PM Hastings (address sent when you sign up) Knock doors with DFL House Leader Zack Stephenson and Jen Fox, 4 to 7pm in Hastings.
+SEE ALL ENDORSEMENTS Upcoming Events Wed, Oct 21 DFL Leader Knock with Zack Stephenson / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 4:00 PM Hastings (address sent when you sign up) Knock doors with DFL House Leader Zack Stephenson and Jen Fox, 4 to 7pm in Hastings.
 The meeting spot comes with your confirmation.
 Share Multiple Dates Wed, Oct 21 Door Knock, Wednesdays 5pm / Hastings (address sent when you sign up) RSVP Oct 21, 2026, 5:00 PM – 8:00 PM Hastings (address sent when you sign up) An after-work knock in Hastings.
 No experience needed.
 The meeting spot comes with your confirmation.
 You'll get a short walkthrough, a partner if you want one, and a list of houses.
+Share Multiple Dates Thu, Oct 22 Door Knock, Thursdays 5pm / Hastings (address sent when you sign up) RSVP Oct 22, 2026, 5:00 PM – 7:00 PM Hastings (address sent when you sign up) A two-hour evening knock in Hastings.
+Sign up through the field team's form and they'll send the meeting spot, a turf packet and a partner.
 Share Load More ELECTION DAY IS NOVEMBER 3 Early voting is open now, in person or by mail.
 More early voting sites open Friday, October 16.
 Minnesota also registers voters at the polls on Election Day, so no one is turned away.

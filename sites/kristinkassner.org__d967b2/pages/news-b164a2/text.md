@@ -1,5 +1,13 @@
 2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
-Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/14/26 News Kristin Kassner 10/14/26 Letter: Kassner Puts in the Work for Georgetown Small towns in the 2nd Essex district like Georgetown have real needs.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/16/26 News Kristin Kassner 10/16/26 Municipal Lawyers group Honors Rep.
+Kassner as Legislator of The Year, Its First Since 2019 A statewide association of municipal attorneys has named state Rep.
+Kristin Kassner its Legislator of the Year, an honor the group hasn’t given out in seven years, according to a news release from Kassner’s office.
+The Massachusetts Municipal Lawyers Association (MMLA) presented the award to Kassner, D-Ipswich, at its annual conference in New Bedford on Oct.
+1, the release said.
+The group gives the award only occasionally, it was last handed out in 2019.
+MMLA President Christopher L.
+Brown said in the release, Kassner has worked “tirelessly and collaboratively” with local officials and helped give cities and towns a stronger voice on Beacon Hill, particularly on land use issues, the release said.
+Read More News Kristin Kassner 10/14/26 News Kristin Kassner 10/14/26 Letter: Kassner Puts in the Work for Georgetown Small towns in the 2nd Essex district like Georgetown have real needs.
 Kristin Kassner has done her homework, knows those needs, and has spent much of her adult life addressing them.
 They range from keeping housing for younger and older residents to protecting our land and water supply.
 She consistently does something you don’t often see in a politician: she listens - to you, your neighbors, and town officials in the 2nd Essex District.
@@ -78,8 +86,6 @@ Kristin Kassner Read More News Kristin Kassner 6/19/26 News Kristin Kassner 6/19
 Kristin Kassner and BioConnects New England, hosted the North Shore Community Leadership Summit on its Ipswich campus earlier this month.
 “A key part of planning for our future is bringing people together to learn from one another, to see what’s possible, to understand where our work intersects, and to identify opportunities to enrich, protect, and strengthen our communities and our region.
 This is the work that sparks new ideas, new collaborations, and new opportunities.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 6/15/26 News Kristin Kassner 6/15/26 Summit Explores Building Pathways to Biotech Careers BioConnects New England, in partnership with New England Biolabs and the Office of State Representative Kristin Kassner, hosted a “North Shore Community Leadership Summit,” focused around expanding biotechnology throughout the North Shore region of Massachusetts.
-“We want to ensure that any biotech development on the North Shore continues to be thoughtful, transparent, and aligned with the town’s goals, and having more of these conversations, and pursuing more of these collaborations, will make that possible.” - Rep.
 Kristin Kassner Read More Older Posts Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

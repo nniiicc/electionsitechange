@@ -1,4 +1,4 @@
-555-555-555 Home Meet Denise Campaign Issues In the Media Endorsements Volunteer Contribute Home Why I Am Running What is in it for You Meet Denise Campaign Issues In the Media Volunteer Contribute Endorsements souvid Denise Krause: Her Vision for Oregon Oregon Families are Facing Major Crises Our country is at a breaking point.
+555-555-555 Home Meet Denise Campaign Issues In the Media Endorsements Volunteer Contribute Home TEST Home Why I Am Running What is in it for You Meet Denise Campaign Issues In the Media Volunteer Contribute Endorsements souvid Denise Krause: Her Vision for Oregon Oregon Families are Facing Major Crises Our country is at a breaking point.
 Donald Trump and the most unqualified cabinet in the history of our country have taken us to the edge of killing democracy.
 They've ignored the rule of law and caused chaos in peaceful places all over our beautiful nation.
 Trump has re-rigged the system for himself and the ultra-wealthy to gain power and control over more money and things that were once held as sacred and untouchable.
@@ -7,7 +7,7 @@ The campaign of greed and fear must be stopped, and I'll work in the State Senat
 At the same time, Oregon families are facing major crises.
 If we don't act now, we'll lose generations of hard-won progress.
 We need a thriving Oregon, one that protects our progress and builds prosperity for all.
-I'm asking for your support and your vote to send me to Salem to tackle these critical issues head-on, and work with shareholders, stakeholders, and Oregon families to find real solutions that work for you.
+I'm asking for your support and your vote to send me to Salem to tackle these critical issues head-on, and work with stakeholders and Oregon families to find real solutions that work for you.
 Crisis 1: Access to Quality Healthcare & Behavioral Health Services Many Southern Oregon families struggle to get the healthcare they need because services are too far away, too expensive, or simply not available, especially for mental health, addiction support, and medical specialists.
 Not only does this take a toll on the human lives that are directly affected, but it also creates a healthcare system that leads to a lower quality of care for everyone, worse health outcomes, and higher costs for everyone.
 As your senator, I'll work to stabilize the Oregon Health Plan, push for expanded access to affordable quality healthcare for all Oregonians, more providers in rural areas, and affordable options to ensure everyone gets the help they deserve.

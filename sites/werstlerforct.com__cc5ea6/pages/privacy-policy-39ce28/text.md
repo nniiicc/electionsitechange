@@ -1,5 +1,6 @@
-Early voting starts Oct 19 — make your plan!
-Home About Platform Endorsements Vote VOLUNTEER Legal Privacy Policy “Werstler26” ("we", "us", or "our") operates the “Ethan Werstler for State Senate” website (https://werstlerforct.com/) (the "Service").
+Early voting is open through Sunday, Nov 1.
+Find your location here!
+Home About Platform Endorsements Vote VOLUNTEER Privacy Policy “Werstler26” ("we", "us", or "our") operates the “Ethan Werstler for State Senate” website (https://werstlerforct.com/) (the "Service").
 This privacy policy explains how we collect, use, protect, and disclose information from users of our website.
 Information Collection We collect a variety of information from and about our users in order to provide, improve, and personalize our services.
 The types of information we collect include but are not limited to: First and Last Name Phone Number Email Address Address Usage Data Methods of Collection We collect information in several ways: Directly from You: When you register on our site, place an order, subscribe to our newsletter, fill out a form, subscribe to newsletters, make purchases, or contact customer support.

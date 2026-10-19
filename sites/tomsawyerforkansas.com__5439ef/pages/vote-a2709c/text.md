@@ -4,9 +4,10 @@ Polls on Tuesday open at 6 am and close at 7pm.
 Click on the button below to find your polling place and to see a sample ballot.
 Remember you must bring a photo ID with you to vote.
 Can voters request a mail-in ballot?
-No.
-October 29 was the last day to request a mail ballot.
-You must vote at your assigned polling place on Tuesday, November 5.
+Yes.
+October 27 is the last day to request a mail ballot.
+You can also vote early in person at the Advanced Learning Library, October 19 to October 30, Monday through Friday from 8 am to 5pm or on Saturday, October 31, from 9 am to 1 pm.
+If you wait until Election day, You must vote at your assigned polling place on Tuesday, November 3.
 What are Tom Sawyer's key focus areas?
 Tom Sawyer's key focus areas include tax relief, job creation, healthcare, and education.
 How can individuals contact Tom Sawyer?

@@ -2,4 +2,4 @@
 Wesley cannot do this alone.
 We’re knocking doors, talking to our neighbors, and reaching out to the disenfranchised and disconnected.
 This will take all of us.
-Candidate for Indiana State Representative, District 83 Email: wesleyhaffenden@proton.me Paid for by Wesley Haffenden for State Representative
+SIGN UP Candidate for Indiana State Representative, District 83 Email: wesleyhaffenden@proton.me Paid for by Wesley Haffenden for State Representative

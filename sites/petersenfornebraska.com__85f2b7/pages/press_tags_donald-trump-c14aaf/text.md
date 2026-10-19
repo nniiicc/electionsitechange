@@ -1,0 +1,8 @@
+top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
+Where Does Your Election Data Go?
+NBC News Investigation Stealing Military Votes?
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE All Posts Updates Press Releases In The News Videos Endorsements Scott Petersen Signs Vice President Vance’s Pledge to Protect Americans from Fraud, Calls for Greater Election Transparency Scott Petersen signs Vice President JD Vance’s pledge to protect Americans from fraud, calling for stronger government accountability, secure elections, and greater transparency in federal campaign finance.
+Petersen also highlights FECVisual.com, a new tool empowering Americans to examine political contributions and identify potential irregularities.
+Press Releases Scott Petersen #ago 4 min read RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+All Rights Reserved.
+Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

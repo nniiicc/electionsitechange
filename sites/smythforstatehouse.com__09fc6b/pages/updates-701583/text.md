@@ -3,7 +3,10 @@ Campaign Free Yard Signs Now Available — Request Yours Today Campaign yard sig
 Show your support for Joey Smyth for State House District 30A with a free yard sign — no contribution required.
 Request one through our online shop and a volunteer will deliver it to your door, or pick one up locally.
 It's one of the easiest ways to help build momentum heading into the final stretch before Election Day on November 3.
-Sep 2026 Read more → All Updates Distinction Jun 2026 Joey Smyth Named a 2026 Moms Demand Action Gun Sense Candidate Joey Smyth has been awarded the 2026 Moms Demand Action Gun Sense Candidate distinction in recognition of his advocacy for gun safety and education.
+Sep 2026 Read more → All Updates Community Oct 2026 Joey to Speak at SD30 DFL Town Hall in St.
+Michael Join Joey along with Doug Chapin (CD6) and Leah Temple (SD30) for a DFL Candidate Town Hall on Tuesday, October 20 from 6:45–7:45 PM at St.
+Michael City Hall — meet the candidates and discuss the issues that matter to you.
+Distinction Jun 2026 Joey Smyth Named a 2026 Moms Demand Action Gun Sense Candidate Joey Smyth has been awarded the 2026 Moms Demand Action Gun Sense Candidate distinction in recognition of his advocacy for gun safety and education.
 This distinction is given to candidates who demonstrate a commitment to common-sense policies that keep our families, schools, and communities safe.
 Joey is proud to stand with parents, educators, and survivors working to prevent senseless tragedies and to advance responsible gun safety and education in Minnesota.
 Endorsement Aug 2026 Northern Midwest Regional Council of Carpenters Endorses Joey Smyth The Northern Midwest Regional Council of Carpenters — representing tens of thousands of skilled carpenters and allied construction workers across Minnesota and the Upper Midwest — has endorsed Joey Smyth for State House District 30A.

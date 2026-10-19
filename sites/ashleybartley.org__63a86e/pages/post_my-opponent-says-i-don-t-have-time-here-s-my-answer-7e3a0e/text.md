@@ -52,5 +52,5 @@ We don't know what else she'll throw at us but we're ready.
 I promise we'll continue to stay above it all.
 We won't be stoop to her level but we will point out clear policy differences.
 Please help us sprint to the finish line with a donation today.
-DONATE TO THE CAMPAIGN HERE Recent Posts See All Peter Leduc: Join me in voting for Bartley for Vermont State Senate Independent Representative Jed Lipsky backs Ashley for State Senate!
-The Vermont Police Association Endorses Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page
+DONATE TO THE CAMPAIGN HERE Recent Posts See All Jolene Green: Support for Ashley Bartley for VT Senate Peter Leduc: Join me in voting for Bartley for Vermont State Senate Independent Representative Jed Lipsky backs Ashley for State Senate!
+Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

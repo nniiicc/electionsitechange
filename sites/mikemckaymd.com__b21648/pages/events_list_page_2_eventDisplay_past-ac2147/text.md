@@ -15,9 +15,7 @@ Thu 27 Join State Senate Candidate Mike McKay For Scenic Trip Through Western Ma
 Climb Aboard A Steam Train Through Scenic Western Maryland While Enjoying Scotch And Cigars!
 Deluxe Coach & Cash Bar- $100 Per Ticket Premium Experience (Cigar And Scotch)- $175 Per Ticket Western Maryland Scenic Railroad 13 Canal St, Cumberland, MD 21502 October 27th | 7:00-9:30pm Check In 6:00-6:30pm To purchase tickets, click here.
 For […] September 2023 Fri 15 Mike McKay’s 5th Annual Golf Tournament September 15, 2023 @ 11:00 am - 5:00 pm Rocky Gap Golf Course 16701 Lakeview Road NE, Flintstone, MD, United States Mike McKay's 5th Annual Golf Tournament Friday, September 15th 11:00am | 11:40am "Shotgun Start" Rocky Gap Golf Course 16701 Lakeview Road NE, Flintstone, MD To purchase tickets, click here.
-For information on tournament and event sponsorships, click here.
-To print a physical form, click here.
-Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Menu Home Legislation Meet Mike Privacy Policy Links Volunteer Events Office Contact Get in touch Citizens to Elect Mike McKay 407 Washington Street Cumberland, Maryland 21502 *By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Mike McKay for State Senate.
+For […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Menu Home Legislation Meet Mike Privacy Policy Links Volunteer Events Office Contact Get in touch Citizens to Elect Mike McKay 407 Washington Street Cumberland, Maryland 21502 *By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Mike McKay for State Senate.
 Message and data rates may apply.
 Text “STOP” to opt-out.
 Terms & conditions/privacy policy apply.

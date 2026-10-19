@@ -1,1 +1,2 @@
-Due to frustration with the local and state Democratic parties, I am currently not campaigning for office.
+Checking your browser before accessing art4tn.com Please wait for up to 5 seconds...
+Please check that your browser supports JavaScript and that it is enabled in the browser settings.

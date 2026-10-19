@@ -2,8 +2,10 @@ About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit
 One WV.
 Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Supporter Toolkit Download campaign resources and help spread the word across West Virginia.
 Rachel Policy Flyer A one-page overview of Rachel’s background, priorities, and election dates for sharing online or printing to distribute.
-Download Image Download PDF Posters & Printables Download an image to share online or a print-quality 11 × 17 PDF for posters and flyers.
-She Can Win Campaign poster encouraging supporters to help elect Rachel.
+Download Image Download PDF Posters & Printables Download an image to share online or a print-quality PDF for posters and flyers.
+Community Portrait Illustrated portrait celebrating family, education, justice, music, and community.
+Download Image Download PDF Amplify West Virginia Illustrated portrait of Rachel at the microphone, celebrating creativity, confidence, and using your voice for West Virginia.
+Download Image Download PDF She Can Win Campaign poster encouraging supporters to help elect Rachel.
 Download Image Download PDF Data Centers Campaign poster about the costs of AI and data center development.
 Download Image Download PDF Send in the Pooper Scooper Campaign poster about cleaning up government and protecting public resources.
 Download Image Download PDF Rachel Color Poster Bright illustrated campaign poster featuring Rachel and her priorities.

@@ -1,12 +1,9 @@
-Willie E.
-Burton for State Representative Dist.
+Willie Burton for State Representative Dist.
 9 Michigan's Ninth District will be better with Burton, because Burton means business!
-Skip to content Home Contribute Contact Us Meet Willie Burton Updates & Endorsements Helpful Contacts Meet Willie Burton Meet Willie E.
-Burton Candidate for State Representative – District 9 Three-Time Detroit Police Commissioner, District 5 A Voice for Justice.
+Skip to content Home Contribute Contact Us Meet Willie Burton Updates & Endorsements Helpful Contacts Meet Willie Burton Meet Willie Burton Candidate for State Representative – District 9 Three-Time Detroit Police Commissioner, District 5 A Voice for Justice.
 A Record of Results.
 A Vision for the People.
-Willie E.
-Burton is a lifelong Detroiter and public servant who made history as the youngest Police Commissioner in the United States .
+Willie Burton is a lifelong Detroiter and public servant who made history as the youngest Police Commissioner in the United States .
 Elected by the people of Detroit’s Fifth District, Willie has spent years fighting for accountability, safety, and opportunity in every neighborhood—and now he’s running to represent District 9 in the Michigan House of Representatives .
 Proven Leadership on the Police Commission Approved the rollout of body-worn cameras citywide, ensuring both police and residents are protected by an unbiased record of events.
 Backed Project Green Light, expanding real-time crime prevention at over 310 local businesses.
@@ -34,15 +31,12 @@ I am a 60 year old white female living in Eastpointe and I am truly terrified of
 Unarmed people from all walks of life, black, white, male, female, are being gunned down all over this country by out of control cops.
 Maybe instead of repeatedly blaming things like what happened to Officer Doss on mental illness, perhaps the blame could be on the fact that people are afraid of cops, especially black men, and they react to protect their own lives.
 Reply Joeysawyer says: July 19, 2019 at 3:08 pm Thank God for people like you who understand the Constitution the Fourth amendment the right to privacy keep up the good work from a white rural American in Oklahoma Reply Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Search Search for: Useful Links Instagram My Facebook Michigan House of Representatives Official Board of Police Commissioners Site Updates & Endorsements The Detroit News Endorses Willie Burton!
-Willie Burton to Participate in Eastside Candidate Forum 7-18-2026 Willie Burton Earns Endorsement from Teamsters Local 299 Willie Burton Earns Endorsement from ATU Local 26 Archives Archives Select Month October 2026 (1) July 2026 (3) May 2026 (1) October 2025 (1) August 2025 (2) July 2025 (1) June 2025 (1) May 2025 (1) June 2024 (1) November 2019 (1) June 2019 (1) May 2019 (1) February 2019 (2) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) May 2018 (1) April 2018 (2) February 2018 (1) December 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) May 2017 (1) April 2017 (2) February 2017 (1) January 2017 (1) October 2016 (1) July 2016 (1) May 2016 (1) April 2016 (1) April 2015 (1) March 2015 (1) January 2015 (1) March 2014 (1) February 2014 (2) Categories Categories Select Category Board of Police Commissioners Body Cams Business Detroit City Council District 5 Endorsements Events Honors Human Resources Issues mental health Networking People Response Times State Representative Election Uncategorized Use of Force Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Meta Create account Log in Entries feed Comments feed WordPress.com Campaign related items PAID FOR BY WILLIE BURTON FOR MI Detroit Mi 48207 October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Willie E.
-Burton for State Representative Dist.
+Willie Burton to Participate in Eastside Candidate Forum 7-18-2026 Willie Burton Earns Endorsement from Teamsters Local 299 Willie Burton Earns Endorsement from ATU Local 26 Archives Archives Select Month October 2026 (1) July 2026 (3) May 2026 (1) October 2025 (1) August 2025 (2) July 2025 (1) June 2025 (1) May 2025 (1) June 2024 (1) November 2019 (1) June 2019 (1) May 2019 (1) February 2019 (2) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) May 2018 (1) April 2018 (2) February 2018 (1) December 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) May 2017 (1) April 2017 (2) February 2017 (1) January 2017 (1) October 2016 (1) July 2016 (1) May 2016 (1) April 2016 (1) April 2015 (1) March 2015 (1) January 2015 (1) March 2014 (1) February 2014 (2) Categories Categories Select Category Board of Police Commissioners Body Cams Business Detroit City Council District 5 Endorsements Events Honors Human Resources Issues mental health Networking People Response Times State Representative Election Uncategorized Use of Force Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Meta Create account Log in Entries feed Comments feed WordPress.com Campaign related items PAID FOR BY WILLIE BURTON FOR MI Detroit Mi 48207 October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Willie Burton for State Representative Dist.
 9 Blog at WordPress.com.
-Subscribe Subscribed Willie E.
-Burton for State Representative Dist.
+Subscribe Subscribed Willie Burton for State Representative Dist.
 9 Sign me up Have a WordPress.com account?
 Log in now.
-Willie E.
-Burton for State Representative Dist.
+Willie Burton for State Representative Dist.
 9 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

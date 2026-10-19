@@ -37,7 +37,15 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/17/2026 @ 5:06 pm New Mexico, expanded early voting begins TODAY! 🗳️ I’m working to earn your vote, and I’m asking you to turn that support into action.
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/18/2026 @ 4:11 pm GET OUT THE VOTE TODAY. 🗳️ WE CAN’T WIN WITHOUT YOU.
+If you’re ready for change, help make it happen.
+Bring a friend, bring your family, and cast your vote for Gregg Hull.
+Early ...
+Posted: 10/17/2026 @ 10:36 pm 🗳️ VOTE TODAY, NEW MEXICO!
+Only THREE Saturdays of early voting remain—including today: October 17, 24, and 31.
+The last day to vote early is October 31!
+Find your voting locatio...
+Posted: 10/17/2026 @ 5:06 pm New Mexico, expanded early voting begins TODAY! 🗳️ I’m working to earn your vote, and I’m asking you to turn that support into action.
 Make your plan, bring a friend, and cast you...
 Posted: 10/17/2026 @ 2:01 pm For nearly 20 years, Officer James has dedicated his life to protecting his community.
 He knows the families he serves, the neighborhoods he patrols, and the challenges they face. ...
@@ -57,12 +65,7 @@ Posted: 10/15/2026 @ 11:32 pm I am getting ready to go live from Hobbs for our s
 I hope you'll join me live on Facebo...
 Posted: 10/15/2026 @ 6:53 pm New Mexico is where we raise our families, carry on our traditions, and build a life we’re proud of.
 We come from different communities, but we share a love for this place—and a r...
-Posted: 10/15/2026 @ 3:22 pm Hobbs, let’s talk tonight!
-I want to hear what’s on your mind and answer your questions about New Mexico’s future.
-Bring a friend, pull up a chair, and join the conversation. 📅 T...
-Posted: 10/14/2026 @ 11:57 pm We are LIVE in Carlsbad for a WE ARE New Mexico Town Hall.
-Want to support our campaign?
-Donate at GreggHull.com Let's get to work.
+Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.

@@ -10,7 +10,16 @@ As an AmeriCorps VISTA with Utah Refugee Services and a longtime community advoc
 Learn More About Me My Priorities I’m running for the Utah Legislature because I’ve lived the experiences our lawmakers write laws about—experiences that shaped my values and why I care so deeply about dignity, opportunity, and service.
 This election is about real priorities: making sure people have a fair shot at opportunity, that families can access the resources they need to succeed, and that our communities are strong, inclusive, and built to last.
 That means expanding access to education, supporting economic stability, and making sure everyday voices are part of the decisions that shape our future.
-What I'll Work On: Education & Opportunity Affordability & Stability Strong Communities & Working Families K–12 Higher Ed Workforce & Talent Development Lifelong Learning​ Housing Cost of Living Healthcare Economic Stability Public Safety & Infrastructure Community Involvement Local Investment Support Working Class Families Learn More Learn More Learn More If You Believe Families Deserve a Stronger Voice at the Capitol - Join Me.
+What I'll Work On: Education & Opportunity K–12 Higher Ed Workforce & Talent Development Lifelong Learning​ Learn More Affordability & Stability Housing Cost of Living Healthcare Economic Stability Learn More Strong Communities & Working Families Public Safety & Infrastructure Community Involvement Local Investment Support Working Class Families Learn More A Stronger Voice for Our Community Play Video Play Video 00:15 Building a Brighter Future for Our Children The decisions we make today shape tomorrow's opportunities for our children, families, and future generations.
+Play Video Play Video 00:15 Putting People First Leadership should be about listening, understanding, and making decisions that reflect the needs of the people.
+Play Video Play Video 00:15 Making Life More Affordable From everyday expenses to the cost of raising a family, affordability matters to the people who call our community home.
+Play Video Play Video 00:15 More Than a Leader.
+Your Neighbor.
+A personal connection to the community, shared values, and an understanding of the challenges local families face.
+Play Video Play Video 00:15 Making Every Dollar Count Responsible spending and thoughtful priorities help ensure taxpayer dollars are used where they matter most.
+Play Video Play Video 00:15 A Stronger Voice for Our Community Every community deserves to be heard.
+Bringing local voices and everyday concerns to the forefront.
+If You Believe Families Deserve a Stronger Voice at the Capitol - Join Me.
 This campaign is built by people who care about real priorities—strong schools, affordable healthcare, good jobs, and a government that listens.
 Join us, chip in today, and help bring real-life leadership to the Legislature.
 Join The Team Get in Touch For inquiries or to learn more about the campaign, please feel free to reach out! info@lillianbowles.com 801-901-3833 Elect Lillian Bowles PO Box 394 Riverton, UT 84065 © # Lillian Bowles Privacy Policy Accessibility Statement bottom of page

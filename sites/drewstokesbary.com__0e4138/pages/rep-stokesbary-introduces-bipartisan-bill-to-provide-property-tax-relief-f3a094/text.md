@@ -15,7 +15,5 @@ Efforts to provide property tax relief for senior citizens have received broad b
 Together I believe we can get this bill to the governor, and address a growing issue for senior citizens and many others in Washington.” House Bill 1427 was referred to the House Finance Committee, which considers issues relating to state and local revenues.
 A public hearing has been scheduled for 8 a.m.
 Friday.
-In the News bills legislature property tax taxes More For You Business group officially endorses Drew Stokesbary Endorsements Council of Metropolitan Police and Sheriffs unanimously endorse Rep.
-Stokesbary Endorsements Rep.
-Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News bills legislature property tax taxes More For You Washington Fire Chiefs “Legislator of the Year” Awards The Seattle Times Endorses Stokesbary for Reelection Endorsements Construction industry backs Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

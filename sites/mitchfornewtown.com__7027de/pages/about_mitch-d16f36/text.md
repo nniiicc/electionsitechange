@@ -1,28 +1,32 @@
-About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News All About Mitch State Rep Mitch Bolinsky is seeking his eightth term as "Newtown's Voice in Hartford" in the Connecticut General Assembly, proudly and passionately representing his hometown with integrity, common sense and a record of results..
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News All About Mitch State Rep Mitch Bolinsky is seeking his eighth term as "Newtown's Voice of Reason in Hartford" in Connecticut General Assembly's 106th House District, proudly and passionately representing his hometown with integrity, common sense and a record of results..
 He is an Assistant Republican Leader, serving on the legislature’s powerful Appropriations Committee, Education Committee, Select Committee for Special Education and the Aging Committee, on which he leads as its "Ranking Member".
 His caucus work includes being a founding member of the legislature's I/DD (Intellectual & Developmental Disabilities) Caucus, CT's Rare Disease Caucus, Animal's Rights Caucus, Firefighter / EMS Caucus, and School Safety Caucus.
 Representative Bolinsky is dedicated to providing caring constituent service to the children, families, seniors and businesses in town.
 His focus on working across the aisle to facilitate economic development, innovate in special education, introduce choice to senior care, and job creation through internship and vocational training access are parts of his celebrated work, having earned him legislative achievement awards, advocacy recognition, and high ranks for bipartisan impact while serving the 106th District.
 Some highlights of Rep.
-Bolinsky’s recent accomplishments include : Initiated legislation forming CT's Rare Disease Council, focusing resources to improving outcomes for children, adults & families.
+Bolinsky’s recent accomplishments include : In 2026: Championed Aging-in Place policy choices for seniors to remain safely in their homes.
+(PA 26-74) Secured perpetual, no-cost license, plus state and federal approvals to cross RR right-of-way for construction for Phase I of Newtown's Rails-to-Trails Recreational Trail, and secured a $170,000 DEEP Recreational Trail Construction Grant.
+Brought Alzheimer's Association's 2026 & future Western CT Walks to End ALZ to Newtown's Fairfield Hills Endorsed by the CT Business & Industry Assoc.
+(CBIA); the National Federation of Independent Businesses (NFIB); the Association of Retired Teachers of CT (ARTC); the 17,000-member Connecticut Association of Realtors; The Fraternal Order of Police (FOP), the Police Officers Association of CT (POACT), and the Independent Party of Connecticut.
+In 2025: Co-introduced major award-winning, prescription drug affordability bill.
+(PA 25-167) Buildout of Award-Winning Aging-in-Place policy, Added Long-Term-Care Ombudsmen & Aging Service Navigators to CT's five Area Agencies on Aging.
+(PA 25-16) Conserved ‘6 Commerce Rd’, preventing apartments next to a local Animal Sanctuary.
+(SA 25-15) Saved Newtown's historic Second Company Governor's Horse Guard from Military Department budget axe.
+In 2024: Expanded Medicaid to cover biomarker testing / early detection of dementias & cancers.
+(PA 24-50) Co-sponsored legislation to provide property tax exemption to disabled veterans.
+(PA 24-46) Lead Republican on “Speaker’s bill”, expanding access to home-based senior care.(PA 24-39) Led on “Governor’s bill”, to improve nursing home oversight and quality of life.(24-141) $3.5-million Indoor Ait Quality Grant for Newtown Public Schools.
+2.6-million special grant for Sandy Hook Permanent Memorial in 2021: Co-foun ded CT Office of Dyslexia & Reading Disabilities within Dept. of Education & Autism Spectrum Disorder Unit within Social Services to su pport children who learn differently. ( PA 21-168) Initiated legislation forming CT's Rare Disease Council, focusing resources to improving outcomes for children, adults & families.
 Collectively, the rare disease community is mighty.
-Secured a $6-mill.
-Pandemic Relief Grant for CT's Children's Museums, including Newtown's EverWonder, to ensure ongoing operations despite revenue lost to mandated closure.
-EverWonder's "Pandemic Response" included virtual programming and "At Home Enrichment Kits" to engage homebound kids.
-They came through for our community.
-Telling their "story" convinced Appropriations colleagues to come through for them.
+In 2020: Secured a $6-million Pandemic Relief Grant for CT's 9 Children's Museums, including Newtown's EverWonder, to ensure ongoing operations despite revenue lost to mandated pandemic closures.
 Addressed CT's chronic Blood Shortage, working with local families & Red Cross, expanding donor eligibility to include healthy 16-year-olds, with parental consent.
 In following year, cosponsored update to expand collection of Plasma products, needed by many for antibody therapies.
 Modified CT Motor Vehicle Safety statutes in support of federal guidance to require seat belt usage by occupants in the back seat of CT vehicles.
 Estimated to save 17 lives a year on CT highways.
 Collaborated on four straight No Tax Increase, Compromise Budgets, positioning CT to now have more than $4-Billion in budget reserves.
 The terms "fiscal-guardrails, and "budget sustainability", mean "balanced".
-In 2023, this allowed Connecticut to CUT taxes - a nice change; Introduced legislation to prevent Governor's mid-year cuts to Educational & Municipal state revenue.
-Restored #M Newtown Education funds after Governor's cut; killed plan to hit Newtown with #M state pension debt; restored #M municipal cuts - Averting local property tax hikes.
+In 2023, this allowed Connecticut to CUT taxes - a nice change; Restored #M Newtown Education funds after Governor's cut; killed plan to hit Newtown with #M state pension debt; restored #M municipal cuts - Averting local property tax hikes.
 Co-sponsored expanded use of Domestic Abuser registries for women and families; Ended Dual Arrest requirement of in Domestic Violence complaints.
-Endorsed by the CT Business & Industry Assoc.
-(CBIA); the National Federation of Independent Businesses (NFIB); the Association of Retired Teachers of CT (ARTC); the 17,000-member Connecticut Association of Realtors; The Fraternal Order of Police (FOP), the Police Officers Association of CT (POACT), and the Independent Party of Connecticut.
-Privacy protections & considerations for local families and first responders after 12/14.
+Earlier: Privacy protections & considerations for local families and first responders after 12/14.
 Secured public hearing for local voices in the Common Core implementation debate to express children, parents & teachers concerns about state testing practices & student data privacy.
 Championed landmark “CARE Act” for seniors in Connecticut.
 Honored by AARP CT & national.

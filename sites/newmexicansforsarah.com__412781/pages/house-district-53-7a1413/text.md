@@ -1,7 +1,7 @@
 0 Skip to Content VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate About House District 53 Growth is one of the primary issues the residents and communities in our district are grappling with.
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+Folder: About Back Meet me Issues Data centers In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate About House District 53 Growth is one of the primary issues the residents and communities in our district are grappling with.
 House District 53 includes Chaparral, the largest unincorporated community in New Mexico, which is located on the Texas border north of El Paso.
 It officially has around 16,000 residents but local officials believe the population is closer to 26,000 and will top Alamogordo’s within 10 years.
 About 15 people move to Chaparral every week.

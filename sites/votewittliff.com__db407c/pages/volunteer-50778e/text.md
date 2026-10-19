@@ -1,12 +1,13 @@
-top of page Home Issues Volunteer Endorsements Voting Media Donate GET CONNECTED FIRST NAME * LAST NAME * EMAIL * PHONE * ADDRESS * I'D LIKE TO * Stay in Touch Set Up Signs Knock on Doors Make Phone Calls Host a House Party Anything you need!
-COMMENT * Submit Upcoming Volunteer Opportunities 📅Saturday, Oct.
-10th,10:00 @ Brummerhop Park (2520 Repsdorph Rd, Seabrook, TX 77586) - Block Walk 📅Sunday, Oct.
-11th, 3:30 @ University Baptist Church (16106 Middlebrook Drive Houston TX 77059) - Block Walk 📅Monday, Oct.
-12th, 3:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Phone Bank 📅Wednesday, Oct.
-14th, 4:30 @ Circle Park (Park Circle, Shoreacres, TX 77571) - Block Walk 📅Saturday, Oct.
-17th, 10:00 @ Weber Elementary (11955 Blackhawk Blvd, Houston, TX 77089) - Block Walk 📅Sunday, Oct.
-18th, 2:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Day of Action Block Walk, Phone Bank, and Lit Drop 📅Monday, Oct.
-19th, 3:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Phone Bank Pol.
+top of page Home Issues Volunteer Endorsements Voting Media Albert Wittliff Landing Page Donate GET CONNECTED FIRST NAME * LAST NAME * EMAIL * PHONE * ADDRESS * I'D LIKE TO * Stay in Touch Set Up Signs Knock on Doors Make Phone Calls Host a House Party Anything you need!
+COMMENT * Submit Upcoming Volunteer Opportunities 📅Monday, Oct.
+19th, 3:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Phone Bank 📅 Wednesday, Oct.
+21st, 4:30 @ Clear Lake City Rec Center (16511 Diana Lane, Houston, TX 77062) - Block Walk 📅 Sunday, Oct.
+25th, 3:30 @ St.
+Luke the Evangelist Catholic Church (11011 Hall Rd, Houston, TX 77089) - Block Walk 📅 Monday, Oct.
+26th, 3:00-7:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Phone Bank; drop-in for an hour or two in the time window 📅 Wednesday, Oct.
+28th, 4:30 @ Banerji Plastic Surgeon (135 Water St, Webster, TX 77598) 📅 Sunday, Nov.
+1st, 3:30 @ Pipers Meadow Rec Center (15920 Pipers View Dr, Webster, TX 77598) - Block Walk 📅 Monday, Nov.
+2nd, 3:00-7:00 @ Bay Area Democratic HQ (17301 El Camino Real, Houston, TX 77058) - Phone Bank; drop-in for an hour or two in the time window Pol.
 Adv. paid for by Vote Wittliff TX129 © # Albert Wittliff Campaign.
 All rights reserved.
 Albert Wittliff for State Rep.

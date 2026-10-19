@@ -5,6 +5,6 @@ As an independent State Representative, I don't endorse lightly or along party l
 Ashley is exactly that kind of leader.
 I've seen her not just reach across the aisle, but sit in it, making sure every voice is heard, not just the loudest ones.
 Residents of the Chittenden-North Senate District would be lucky to have Ashley serve them as their State Senator.
-Recent Posts See All Peter Leduc: Join me in voting for Bartley for Vermont State Senate My opponent says I don’t have the time to be a Senator.
+Recent Posts See All Jolene Green: Support for Ashley Bartley for VT Senate Peter Leduc: Join me in voting for Bartley for Vermont State Senate My opponent says I don’t have the time to be a Senator.
 Here’s my answer.
-The Vermont Police Association Endorses Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page
+Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

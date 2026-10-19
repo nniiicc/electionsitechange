@@ -14,15 +14,14 @@ Donate now A little something Get the Reba's Law magnet.
 As a native Nevadan, Melissa is proud of what we have accomplished together, from passing Reba's Law to celebrating 250 years of American freedom.
 Reba's Law raised penalties for severe animal cruelty and stands up for the animals who cannot speak for themselves.
 Chip in today and we will send you this commemorative magnet as a thank you for standing with the campaign.
-Chip in and get the magnet Stay connected Get campaign updates.
-Join the list for news from the campaign, event invitations, and ways to help in Henderson and across District 22.
-Do not fill this out if you are human: Text Message Opt-In Yes, I agree to receive text messages.
-By checking this box and providing my phone number, I am consenting to receive calls and recurring SMS/MMS messages, including artificial, pre-recorded, autodialed and automated calls and texts, to that number from Melissa Hardy and Committee to Elect Melissa Hardy.
+Chip in and get the magnet Stay connected Contact Our Campaign Sign up for campaign news, events, and ways to help re-elect Melissa Hardy in Nevada Assembly District 22.
+Enter your email to get updates, and add your mobile number if you would like to receive campaign text messages.
+Do not fill this out if you are human: Text Message Opt-In By checking this box and providing my phone number, I agree to receive recurring informational text messages from the Committee to Elect Melissa Hardy, including campaign updates, event invitations and volunteer opportunities.
 Msg&data rates may apply.
-Message Frequency Varies.
-Donations will be solicited.
+Message frequency varies.
 Reply HELP for help, STOP to end.
-Terms & conditions and privacy policy apply.
-I agree Sign up We respect your privacy and never share your information.
+Consent is not a condition of any purchase or contribution.
+Terms & conditions and privacy policy apply: hardy4nevada.com/privacy-policy Yes, text me campaign updates.
+Sign up View our Terms & conditions and privacy policy .
 Nevada State Assemblywoman for District 22, serving Henderson and the Las Vegas valley.
 X FB IG Explore About Melissa Issues Endorsements Privacy Policy Donate Contact Melissa@Hardy4Nevada.com (702) 329 7936 Paid for by the Committee to Elect Melissa Hardy © 2026 Committee to Elect Melissa Hardy

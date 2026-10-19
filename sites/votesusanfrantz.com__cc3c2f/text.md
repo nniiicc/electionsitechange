@@ -44,7 +44,7 @@ Reply “STOP” to opt-out & “HELP” for help.
 View Privacy Policy for more info.
 JOIN NOW Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Number Last Address First Name * Last Name * Email Address * Phone Number Disclaimer By providing your telephone number and checking this box, you consent to receive calls and text messages.
+First Name * Last Name * Email Address * Email Disclaimer Layout Phone Number Disclaimer By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

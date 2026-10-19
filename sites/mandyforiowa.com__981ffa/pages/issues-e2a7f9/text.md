@@ -1,4 +1,4 @@
-top of page Home About Issues Connect Donate Menu Close MY PRIORITIES Too many Iowans are struggling with the rising cost of groceries, housing, childcare, elder care, and health care.
+top of page Home About Endorsements Issues Connect Donate Menu Close MY PRIORITIES Too many Iowans are struggling with the rising cost of groceries, housing, childcare, elder care, and health care.
 We must find practical ways to ease these burdens so families and communities can thrive.
 That includes lowering the cost of living, expanding access to affordable childcare and elder care, and strengthening and diversifying Iowa’s economy to better withstand economic changes.
 MAKE IOWA MORE AFFORDABLE Iowa’s public schools were once among the best in the nation.
@@ -13,4 +13,4 @@ Early detection saves lives and reduces long-term health care costs.
 ADDRESS IOWA'S RISING CANCER RATES Clean water is essential for healthy families, strong communities, and a thriving economy.
 Iowa must increase water testing, improve accountability, and implement stronger solutions to protect water quality across the state.
 PROTECT CLEAN WATER AND PUBLIC HEALTH © # PAID FOR BY MANDY NEWTON ROSENOW FOR IOWA.
-Privacy Policy Home About Issues Connect Donate bottom of page
+Privacy Policy Home About Endorsements Issues Connect Donate bottom of page

@@ -1,4 +1,11 @@
-0 Skip to Content Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Open Menu Close Menu Open Menu Close Menu Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Thoughts on the previous weeks events and conversations 10/13/2026 I have never placed too much value in the debate process.
+0 Skip to Content Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Open Menu Close Menu Open Menu Close Menu Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Thoughts on the previous weeks events and conversations 10/19/2026 We hear a lot of politicians using the word “bipartisanship” during election season.
+When they say it, they want you to think “moderate,” though they are usually some of the most extreme members of the parties.
+Remember that we have a $40 Trillion national debt costing the average American household approximately $7,800 per year in interest due to “bipartisanship.” Slavery lasted nearly a century in America due to “bipartisanship,” and it took the creation of a new party, the Republican party, to end it.
+I consider myself “non-partisan,” or an “Independent Republican.” I will always do what is best for the people and the country regardless of what the political parties want.
+As I have said many times, Republicans and the Republican Party are not the same thing, Democrats and the Democratic Party are not the same thing.
+The parties are special interest groups made up of some of the people that believe roughly the same things.
+My nomination to be the Republican Nominee for the general election came from the people during the primary election, not the party.
+10/13/2026 I have never placed too much value in the debate process.
 It has always seemed superficial to me, more about appearance than substance.
 I want candidates that are thoughtful, not showmen.
 That said, I know that others do want debates, so I participated in the October 7th Apple Valley Chamber of Commerce Candidate Forum.

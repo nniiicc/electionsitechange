@@ -1,10 +1,6 @@
 [
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=+mountain+home%2C+id+"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=+nampa%2C+id+"
 },
 {
@@ -58,10 +54,6 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=205+south+6th+avenue+caldwell%2C+idaho%2C+83605+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=2206+north+cole+road+boise%2C+idaho%2C+83704+united+states"
 },
 {
 "text": "(map)",
@@ -120,10 +112,6 @@
 "href": "http://maps.google.com?q=n+3rd+st++bellevue%2C+id+83313+"
 },
 {
-"text": "(map)",
-"href": "http://maps.google.com?q=s+3rd+ave+hailey%2C+id+83333+"
-},
-{
 "text": "0",
 "href": "https://www.achillesforidaho.com/cart"
 },
@@ -138,10 +126,6 @@
 {
 "text": "Ada County Sign Waving - Garden City",
 "href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city"
-},
-{
-"text": "Air Force Appreciation Day Parade - Mountain Home",
-"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
 },
 {
 "text": "Assert Your Independence",
@@ -201,15 +185,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Air+Force+Appreciation+Day++Parade+-+Mountain+Home&dates=20260912T163000Z%2F20260912T183000Z&location=Mountain+Home%2C+ID"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Bellevue&dates=20260919T200000Z%2F20260920T020000Z&location=N+3rd+St+%2C+Bellevue%2C+ID+83313"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Hailey&dates=20260912T160000Z%2F20260913T020000Z&location=S+3rd+Ave%2C+Hailey%2C+ID+83333"
 },
 {
 "text": "Google Calendar",
@@ -257,10 +233,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Postcard+Writing+Event+-+Boise&dates=20260914T180000Z%2F20260914T220000Z&location=2206+North+Cole+Road%2C+Boise%2C+Idaho%2C+83704%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spud+Day+-+Shelley&dates=20260919T150000Z%2F20260919T230000Z&location=230+North+Park%2C+Shelley%2C+Idaho%2C+83274%2C+United+States"
 },
 {
@@ -297,10 +269,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Coer+d%27Alene&dates=20261019T223000Z%2F20261020T003000Z&location=107+North+4th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Coeur+d%27Alene&dates=20261018T150000Z%2F20261018T170000Z&location=1527+Northwest+Boulevard%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
 },
 {
@@ -318,6 +286,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26+Greet+-+Wallace&dates=20261020T210000Z%2F20261020T223000Z&location=600+Cedar+Street%2C+Wallace%2C+Idaho%2C+83873%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+%26amp%3B+Greet+-+Coeur+d%27Alene&dates=20261019T223000Z%2F20261020T003000Z&location=107+North+4th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -356,16 +328,8 @@
 "href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue"
 },
 {
-"text": "Hispanic Heritage Month - Hailey",
-"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
-},
-{
 "text": "Hispanic Heritiage Month - Carey",
 "href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey"
-},
-{
-"text": "ICS",
-"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6?format=ical"
 },
 {
 "text": "ICS",
@@ -382,10 +346,6 @@
 {
 "text": "ICS",
 "href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home?format=ical"
 },
 {
 "text": "ICS",
@@ -438,10 +398,6 @@
 {
 "text": "ICS",
 "href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise?format=ical"
 },
 {
 "text": "ICS",
@@ -596,10 +552,6 @@
 "href": "https://www.achillesforidaho.com/polticas"
 },
 {
-"text": "Postcard Writing Event - Boise",
-"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
-},
-{
 "text": "Press Inquiry‍ ‍",
 "href": "mailto:press@achillesforidaho.com"
 },
@@ -644,7 +596,7 @@
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
 },
 {
-"text": "Todd Event - Meet & Greet - Coer d'Alene",
+"text": "Todd Event - Meet & Greet - Coeur d'Alene",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
 },
 {
@@ -685,10 +637,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
-},
-{
-"text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m"
 },
 {
@@ -702,10 +650,6 @@
 {
 "text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city"
-},
-{
-"text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
 },
 {
 "text": "View Event →",
@@ -758,10 +702,6 @@
 {
 "text": "View Event →",
 "href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a"
-},
-{
-"text": "View Event →",
-"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
 },
 {
 "text": "View Event →",
@@ -884,16 +824,8 @@
 "href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise"
 },
 {
-"text": "[image: Air Force Appreciation Day Parade - Mountain Home]",
-"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
-},
-{
 "text": "[image: Hispanic Heritage Month - Bellevue]",
 "href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue"
-},
-{
-"text": "[image: Hispanic Heritage Month - Hailey]",
-"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
 },
 {
 "text": "[image: Hispanic Heritiage Month - Carey]",
@@ -932,10 +864,6 @@
 "href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing"
 },
 {
-"text": "[image: Postcard Writing Event - Boise]",
-"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
-},
-{
 "text": "[image: Spud Day - Shelley]",
 "href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m"
 },
@@ -968,10 +896,6 @@
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-athol"
 },
 {
-"text": "[image: Todd Event - Meet & Greet - Coer d'Alene]",
-"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
-},
-{
 "text": "[image: Todd Event - Meet & Greet - Coeur d'Alene]",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coeur-dalene"
 },
@@ -994,6 +918,10 @@
 {
 "text": "[image: Todd Event - Meet & Greet - Wallace]",
 "href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-wallace"
+},
+{
+"text": "[image: Todd Event - Meet &amp; Greet - Coeur d'Alene]",
+"href": "https://www.achillesforidaho.com/events/todd-event-meet-greet-coer-dalene"
 },
 {
 "text": "[image: Todd Event - Meet the Candidate - Payette]",

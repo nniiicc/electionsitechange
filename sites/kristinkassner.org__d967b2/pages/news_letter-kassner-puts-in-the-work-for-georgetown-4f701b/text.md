@@ -8,6 +8,7 @@ Her 20 years working for local government as an urban planner prepared her with 
 We need this person who has worked hard serving the residents of 2nd Essex County.
 Kristin Kassner is that person.
 I’m voting for her, and I hope readers will, too.
-Bob Watts Georgetown Kristin Kassner https://kristinkassner.org Next Next Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Bob Watts Georgetown Kristin Kassner https://kristinkassner.org Previous Previous Municipal Lawyers group Honors Rep.
+Kassner as Legislator of The Year, Its First Since 2019 Next Next Letter: Kassner Named Massachusetts Legislator of the Year by Municipal Lawyers Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

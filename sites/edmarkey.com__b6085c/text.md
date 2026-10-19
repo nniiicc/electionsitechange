@@ -3,18 +3,15 @@ Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endor
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
-Social Media Follow Ed Markey #ago This November, we're going to make our voices heard loud and clear: No Kings in this country.
+Social Media Follow Ed Markey #ago In January, our first order of business is to restore everything—cuts to healthcare, research, clean energy projects—everything we need to build a better, brighter nation for all Americans.
+11 Retweet on Twitter 2111868134323785741 37 Like on Twitter 2111868134323785741 Share 2111868134323785741 Follow Ed Markey #ago This November, we're going to make our voices heard loud and clear: No Kings in this country.
 Make a plan—register, vote early, and show up for democracy.
 Let's go.
-Retweet on Twitter 2111596932099444868 10 Like on Twitter 2111596932099444868 Share 2111596932099444868 Follow Ed Markey #ago No Kings in Massachusetts.
+5 Retweet on Twitter 2111596932099444868 30 Like on Twitter 2111596932099444868 Share 2111596932099444868 Follow Ed Markey #ago No Kings in Massachusetts.
 No Kings in America.
 We are out fighting to protect our democracy from dictators.
 Make your voice heard and vote this November.
-72 Retweet on Twitter 2111531344677237190 446 Like on Twitter 2111531344677237190 Share 2111531344677237190 Follow Ed Markey #ago Medicare for All.
-Affordable housing.
-Voting rights.
-This November, we need to secure a progressive majority and fight for working people across the country.
-7 Retweet on Twitter 2111472474869137754 46 Like on Twitter 2111472474869137754 Share 2111472474869137754 The Latest Ed Markey Wins Democratic Primary For U.S.
+87 Retweet on Twitter 2111531344677237190 510 Like on Twitter 2111531344677237190 Share 2111531344677237190 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.

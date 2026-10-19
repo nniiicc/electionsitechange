@@ -10,15 +10,15 @@ For the full discussion on YouTube, click here .
 (V ideo starts at 4:15 mark.) WHY I'M RUNNING My background and call to serve READ MORE WHERE I STAND My approach to the issues READ MORE LET'S DO THIS TOGETHER Volunteer | Donate | Merch READ MORE 45% of Americans identify as Independent.
 A RECORD HIGH.
 45% of U.S. adults identify as political independents, making them the largest political voting bloc in the United States.
-Source: Gallup — January 12, 2026 MOST VOTERS ARE INDEPENDENT.
-THE SYSTEM ISN'T.
-Under Michigan law, major-party candidates for State Senate can qualify for the ballot with as few as 500 signatures or by paying a $100 filing fee.
-Independent candidates don't get those options.
-To appear on the ballot, I had to collect at least 1,500 valid signatures in 180 days, in person and directly from registered voters—with no option to pay my way onto the ballot.
-That's not a level playing field, and it's why you almost never see Independent candidates on the ballot.
-The system is actually built to favor two parties.
-(Fact: Every currently serving Michigan State Senator and virtually every one of their opponents in the last election opted to pay the $100 fee rather than gathering signatures to qualify for the ballot.*) THIS IS YOUR CAMPAIGN, TOO.
-DIRECT TO VOTERS So I went directly to the people because that's the only way an Independent campaign can even exist.
+Source: Gallup — January 12, 2026 WHAT DOES IT MEAN TO BE INDEPENDENT?
+Being politically independent means taking every issue at face value and making decisions based on facts, data, and understanding who will be directly impacted.
+There is no base to cater to.
+There is no national office telling me what to say or how to vote. ​ Instead of jumping on conference calls with partisan colleagues, my decisions will be influenced by conversations with those in the district most affected by our laws: teachers, nurses, small business owners, the elderly, and so many others. ​ Most importantly, I'm running as an Independent because the current two-party system puts party interests over people.
+In fact, current state senators in Lansing vote with the majority of their respective parties an average of 95% of the time, according to records compiled by MichiganVotes.org. ​ As your state senator, I would only be accountable to the people in my district, instead of any party bosses.
+Period. ​ People over party.
+Every time.
+THIS IS YOUR CAMPAIGN, TOO.
+DIRECT TO VOTERS I went directly to the people to get on the ballot because that's the only way an Independent campaign can even exist.
 Thousands of conversations.
 Across communities.
 Across party lines.
@@ -26,11 +26,9 @@ Front porches.
 Kitchen tables.
 Festivals.
 Sidewalks.
-Talking to everyone. ​ WHAT I HEARD My signatures came from people across the political spectrum—because most people aren't nearly as divided as our politics make it seem.​ ​ And that's the point.
-The problem isn't the people.
-It's the system.
+Talking to everyone. ​ WHAT I HEARD My 1500+ required petition signatures came from people across the political spectrum—because most people aren't nearly as divided as our politics make it seem.​ ​ And that's the point: It's easier to connect with people without the bias of partisanship.
 FOR THOSE LEFT OUT This campaign isn't about left versus right.
-It's about the people who feel left out.​ ​ If you feel like no one truly represents you, you're not alone. * Source: Michigan Bureau of Elections, official 2022 candidate filing records (most recent State Senate election cycle; see "Method" column for each candidate for State Senate).
+It's about the people who feel left out.​ ​ If you feel like no one truly represents you, this campiagn was built with you in mind.
 Philippe September 2017 MAKE YOUR VOICE HEARD.
 GET INVOLVED Opportunities, media inquiries, or volunteer opportunities?
 CONTACT US Philippe Cicchini for Michigan State Senate District 9 Paid for by: Philippe Cicchini for Michigan State Senate P.O.

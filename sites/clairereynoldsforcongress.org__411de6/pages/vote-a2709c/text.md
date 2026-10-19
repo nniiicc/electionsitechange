@@ -1,13 +1,13 @@
-Skip navigation menu Early Voting Starts Monday, October 19, 2026!
+Skip navigation menu Early Voting Started Monday, October 19, 2026!
 Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate Make a plan to vote!
 Texas Republicans have spent years making voting difficult.
 If you run into any problems , reach out to voting@clairereynoldsforcongress.org or call 866-OUR-VOTE (866-687-8683).
 1 Registration PAST The voter registration deadline in Texas was October 5, 2026 .
 Texas does not automatically register you, or automatically update your registration when you move.
 The easiest way to check your registration is at the Texas Secretary of State website.
-2 Vote Early October 19-30 Early, in-person voting in TX-11 is available, often at several places in your county.
-You do not need to vote in your own precinct during early voting, but you must vote in your county of residence.
-Most counties offer weekend voting hours on October 24.
+2 Vote Early NOW Early, in-person voting in TX-11 has begun, and runs through October 30th.
+All counties in TX-11 offer weekend voting hours on Saturday and Sunday.
+Check below to see your county's times and locations.
 Early voting is always best.
 3 Election Day November 3 Election Day is November 3.
 You can, and certainly should, vote early, but if you cannot (or if you like hanging out in lines with your neighbors), you can vote in person on Tuesday, November 3, 2026.
@@ -23,7 +23,7 @@ We don't know what the future holds.
 What if your car dies on the morning of November 3 and your closest polling place is 30 miles away?
 What if you win the lottery and are whisked away on a fabulous beach vacation in November?
 What if some local official decides to militarize the polling places on Election Day?
-Pick an early voting day, pretty much any time between October 19 and October 30 (and, depending on your county, the Saturday in there as well), to give yourself an hour or so to get in, vote, and get out.
+Pick an early voting day, pretty much any time between October 19 and October 30 , and give yourself an hour or so to get in, vote, and get out.
 Locate your polling place .
 We've compiled a list of official polling place listings for all twenty counties that TX-11 covers.
 Note that early voting polling places and Election Day polling places are often different polling places .
@@ -67,7 +67,7 @@ But what if we did?
 Polling Places TX-11 Across Twenty Counties The alphabetized list below are the official websites for polling place information.
 Do not trust AI or other websites!
 Note that hours and locations often differ between Early Voting and Election day.
-In may counties, you must vote in your own precinct on Election Day.
+In many counties, you must vote in your own precinct on Election Day.
 If in doubt, call your county clerk's office, or 1-866-OUR-VOTE .
 Brown County (Early Voting and Election Day): https://www.browncountytx.gov/page/brown.Elections#ContentPlaceHolder4_ContentRepeater4_ctl00_4_lblTitle_4 (Click to expand "November 3rd, 2026 General Election", then click "POLLING LOCATIONS") Burnet County (Early Voting): https://www.burnetcountytexas.org/1564/Early-Voting-Schedule Burnet County (Election Day): https://www.burnetcountytexas.org/1331/Polling-Locations Coke County (Early Voting and Election Day): https://www.co.coke.tx.us/page/coke.Elections (click to expand "November 3, 2026 Election") Coleman County (Early Voting): https://www.colemancounty.gov/page/Election.EarlyVoting Coleman County (Election Day): https://www.colemancounty.gov/page/Election.Day.Info Concho County (Early Voting and Election Day): https://newtools.cira.state.tx.us/page/concho.Elections (Scroll to "POLLING LOCATIONS") Ector County (Early Voting): https://www.ectorcountytx.gov/DocumentCenter/View/3184/EARLY-VOTING-SCHEDULE Ector County (Election Day): https://www.ectorcountytx.gov/DocumentCenter/View/3185/ELECTION-DAY-VOTE-CENTERS Glasscock County (Early Voting and Election Day): http://www.co.glasscock.tx.us/page/Elections-2026 Irion County (Early Voting and Election Day): https://www.co.irion.tx.us/DocumentCenter/View/444/Notice-of-General-Election-of-November-3-2026-PDF (PDF only) Kimble County (Early Voting and Election Day): https://www.co.kimble.tx.us/page/Elections Llano County (Early Voting and Election Day): https://www.llanocounty.gov/page/Elections Mason County (Early Voting and Election Day): https://newtools.cira.state.tx.us/page/mason.Elections#ContentPlaceHolder4_ContentRepeater4_ctl00_3_ContentRepeater1_3_WidgetBox_0 McCulloch County (Early Voting and Election Day): https://www.co.mcculloch.tx.us/upload/page/0654/2026.%2011-3%20General%20Election/Nov%203%20NOTICE%20OF%20ELECTION.pdf (if you have questions, call the county main line at (325)-597-0733) Menard County (Early Voting and Election Day): https://www.co.menard.tx.us/page/menard.Elections (scroll down to "Important Election Dates 2025-2026") Midland County (Early Voting and Election Day): https://votemidlandtx.gov/election-information/voting-locations/ Runnels County (Early Voting and Election Day: https://www.runnelscounty.org/page/runnels.Elections (scroll down to "2026 Elections- March Primary, Run off and November 3") San Saba County (Early Voting and Election Day): https://www.co.san-saba.tx.us/page/sansaba.Elections (click to expand "NOVEMBER 3, 2026 GENERAL ELECTION") Sterling County (Early Voting and Election Day): https://www.sterlingcotx.gov/upload/page/0106/Nov%203.%202026%20Election%20Hours.pdf (PDF only) Tom Green County (Early Voting and Election Day): https://www.tomgreencountytx.gov/upload/page/0097/docs/2026/110326pollingplacesandhourstentative_updated.pdf (PDF only) Travis County (Early Voting and Election Day): https://votetravis.gov/current-election-information/current-election/#polling-locations Williamson County (Early Voting): https://www.wilcotx.gov/DocumentCenter/View/21132/EV-Polling-Locations_Nov_3_2026 (PDF only) Williamson County (Election Day): https://www.wilcotx.gov/DocumentCenter/View/21133/ED-Polling-Locations_Nov_3_-2026 (PDF only) Sign up to Get Involved We are in this together, and we need your help.
 We would love for you to join our fight to improve the lives of all Texans in District 11.

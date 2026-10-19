@@ -5,8 +5,7 @@ Home About News Volunteer Donate Contact Family October 27, 2023 by webmaster 0 
 Passing common sense gun legislation is our responsibility as lawmakers to ensure our constituents are safe.
 We don’t have to live this way no matter who we are, what we look like, or where we come from, none of us desire to be plagued by #GunViolence .Our hearts and prayers are with the Lewiston community.
 Share: twitter facebook youtube Post navigation Previous post Rep.
-Cynthia Neeley Thriving Together with the NAACP Next post House Criminal Justice Committee holds hearing on Messiah’s Law You May Also Like Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change.
-Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Cynthia Neeley Thriving Together with the NAACP Next post House Criminal Justice Committee holds hearing on Messiah’s Law You May Also Like Family News March 1, 2021 Flint mayor, state rep promote free community college program for Michigan residents Family News Rights & Obligations February 22, 2021 Commemorating History Makers Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

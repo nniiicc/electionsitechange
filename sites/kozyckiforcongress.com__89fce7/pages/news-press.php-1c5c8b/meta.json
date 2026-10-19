@@ -1,7 +1,7 @@
 {
  "description": "Press releases, media coverage, and press contact for the Tony Kozycki for Congress campaign in Georgia's 7th District.",
  "final_url": "http://kozyckiforcongress.com/news-press.php",
- "fingerprint": "0d677a45d9cd7af845aa05ce3bba90b93b157342",
+ "fingerprint": "910d6b062040b88407bacfd239a0aa5fdcfcd341",
  "format": 3,
  "paid_for_by": "Paid for by Kozycki for Congress",
  "rendered": false,
@@ -9,9 +9,11 @@
  "years_mentioned": [
   "2017",
   "2020",
+  "2022",
   "2023",
   "2025",
   "2026",
-  "2027"
+  "2027",
+  "2028"
  ]
 }

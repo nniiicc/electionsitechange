@@ -1,9 +1,10 @@
 {
  "description": "Some info for campaign event Some info for campaign event",
  "final_url": "https://miller4ncsenate.org/event/campaign-kickoff/",
- "fingerprint": "77869c20c6ebced183d8e5bf9364dc7e987b72bd",
+ "fingerprint": "20b71adeeda3f2632265a00025850dd1660b3386",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Campaign Kickoff | Miller 4 NC Senate",
  "years_mentioned": [
   "2024"

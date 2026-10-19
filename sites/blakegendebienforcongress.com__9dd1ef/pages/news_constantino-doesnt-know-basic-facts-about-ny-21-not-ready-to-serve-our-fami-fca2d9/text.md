@@ -1,0 +1,16 @@
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate CONSTANTINO DOESN’T KNOW BASIC FACTS ABOUT NY-21, NOT READY TO SERVE OUR FAMILIES ON DAY ONE October 15, 2026 Press Release FOR IMMEDIATE RELEASE Friday, October 16, 2026 CONTACT press@blakeforny.com CONSTANTINO DOESN’T KNOW BASIC FACTS ABOUT NY-21, NOT READY TO SERVE OUR FAMILIES ON DAY ONE As Cook moves NY-21 another step toward Gendebien, Constantino can’t name the district’s largest city, can’t explain the federal budget, and won’t say whether Canada is an ally LISBON, N.Y. — The Cook Political Report today moved New York’s 21st Congressional District from “Likely Republican” to “Lean Republican,” its second shift toward Blake Gendebien in three weeks.
+Cook cited the trade war with Canada, which has hit the North Country harder than almost anywhere in the country.
+The same week, Constantino sat for an interview with reporter Jake Lahut .
+Asked to name the most populous city in NY-21, he said: “I don’t know, ask Grok.” Asked the difference between mandatory and discretionary spending, he answered, “Mandatory means mandatory, and discretionary means discretionary,” then told the reporter, “You tell me.” Asked whether Canada is still an ally, the best he could offer was, “I would hope so.” His defense?
+“I’m not required to have an answer.” Anthony calls himself “nobody’s man but yours,” but he takes his orders from Donald Trump and Roger Stone , and North Country families are paying for it.
+Heating oil in New York is at record highs , with a single tank now costing $1,558, nearly $600 more than this time last year, and a full winter of heat on track to cost families $2,504.
+Blake Gendebien has spent 22 months in every corner of this district talking to farmers, veterans, nurses, and union members about $6.50 diesel, heating oil, and hospitals cutting services.
+That is why two independent polls show him ahead, why he has the backing of the Police Conference of New York, more than 20 unions, and 84,000 donors, and why the forecasters keep moving this race his way.
+“Anthony Constantino wants to represent this district and can’t name its biggest city, can’t explain the budget he’d vote on, and won’t say whether Canada is our ally,” said Michael Waller, Campaign Manager.
+“He says he’s not required to have an answer.
+In 18 days, North Country voters will give him one.” ### Blake and his wife Carmen have raised their three sons on Twin Mill Farms in Lisbon, milking 500 cows and farming 1200 acres.
+Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
+For the past 10 years, Blake has served as Vice Chair of the Cooperative Board of Agri-Mark, representing the interests of farmers from across the region.
+He is a former member of the Lisbon Central School Board and was a longtime junior varsity basketball coach.
+Blake is committed to being a bipartisan leader who will lower costs, save our rural healthcare, and end the corruption in Washington.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

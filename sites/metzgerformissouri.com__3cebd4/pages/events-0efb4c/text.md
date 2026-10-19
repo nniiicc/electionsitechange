@@ -1,5 +1,5 @@
 Meet Aaron Issues News Volunteer Yard Signs Contribute Events More events coming soon!
-#ago This Week This Month ‹ Previous Sun Oct 18 2026 - Mon Oct 18 2027 Next › 21 Oct Wednesday, 6:00 PM – 7:30 PM Joplin Town Hall with Missi Hesketh 1601 S Maiden Ln, Joplin, MO, 64801 Join Aaron Joseph Metzger, candidate for Missouri State Representative in District 161, as a special guest at Missi Hesketh’s Joplin Town Hall.
+#ago This Week This Month ‹ Previous Mon Oct 19 2026 - Tue Oct 19 2027 Next › 21 Oct Wednesday, 6:00 PM – 7:30 PM Joplin Town Hall with Missi Hesketh 1601 S Maiden Ln, Joplin, MO, 64801 Join Aaron Joseph Metzger, candidate for Missouri State Representative in District 161, as a special guest at Missi Hesketh’s Joplin Town Hall.
 Missi is running for U.S.
 Congress in Missouri’s 7th District, and this stop is part of her “Missouri Is Not For Sale” Tour through all 10 counties of the district.
 Come ask questions, share what’s on your mind, and hear from both candidates about the issues that matter to Joplin.

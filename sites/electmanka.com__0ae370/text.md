@@ -33,24 +33,29 @@ Dhingra has advocated for behavioral health bills, support for domestic Read Mor
 Access to healthcare, housing, education, broadband and childcare are some of the longstanding barriers that became even more apparent over the last year and a half.
 Sen.
 Manka Dhingra Read More Follow @ElectManka on the campaign trail: Join the campaign on social media to hear the latest directly from Manka!
-Follow Manka Dhingra #ago Lightbox link for post with description Vote early and drop off your ballots at the ...
+Follow Manka Dhingra #ago Lightbox link for post with description "Love thy neighbor" a simple yet profound message...
+"Love thy neighbor" a simple yet profound message from Rick Steves at the Hopelink dinner.
+Always excited to support the incredible mission of Hopelink in working with our neighbors to reduce poverty.
+I challenge everyone to show the spirit of Rick's message and engage in at ... least one act of generosity and selflessness this week towards a stranger.
+Feel free to tell us about it in the comments.
+29 10 Share 1283135171724918_1490278592916683 Follow Manka Dhingra #ago Lightbox link for post with description Vote early and drop off your ballots at the ...
 Vote early and drop off your ballots at the ballot boxes.
 Thank you to everyone who showed up today to fight for our democracy.
-#NoKings 265 279 Share 1283135171724918_1489173006360575 Follow Manka Dhingra #ago Lightbox link for post with description Want to keep girls playing sports?
+#NoKings 336 366 Share 1283135171724918_1489173006360575 Follow Manka Dhingra #ago Lightbox link for post with description Want to keep girls playing sports?
 Stop putting...
 Want to keep girls playing sports?
 Stop putting barriers to them playing.
 Vote No on I-638.
 The Columbian's Editorial Board urges voters to reject I-638, a measure the board sees as "mean-spirited and promoting an ugly double-standard, as it applies only to girls and not ... boys." More than 150,000 school age girls do not have regular family doctors.
 Under I-638 they will have to be sex inspected by a stranger at a clinic, or suffer the embarrassment and humiliation of being inspected during group physicals in front of others at a school gym.
-#NoHateWAState 266 865 Share 1283135171724918_1488115836466292 Follow Manka Dhingra #ago Lightbox link for post with description We have many opportunities to flip red ...
+#NoHateWAState 283 919 Share 1283135171724918_1488115836466292 Follow Manka Dhingra #ago Lightbox link for post with description We have many opportunities to flip red ...
 We have many opportunities to flip red legislative seats to Blue this November.
 Excited to support Carolina Mejia, Stacy Willoughby, Diana Perez and Maria Littlesun.
 Thank you to Electing Women Alliance, Vote Run Lead, and Progress Alliance of Washington for your support.
-#VoteBlue 45 109 Share 1283135171724918_1486611993283343 Follow Manka Dhingra #ago Lightbox link for post with description Honored to support Michael Shepard for State...
+#VoteBlue 46 123 Share 1283135171724918_1486611993283343 Follow Manka Dhingra #ago Lightbox link for post with description Honored to support Michael Shepard for State...
 Honored to support Michael Shepard for State Senate and engage with the Sikh community in Whatcom County.
 Thank you Executive Satpal Sidhu for your leadership and support.
-#VoteBlue 10 8 Share 1283135171724918_1485608743383668 Follow Manka Dhingra #ago Lightbox link for post with description The more you learn about Initiative 638, the more...
+#VoteBlue 10 9 Share 1283135171724918_1485608743383668 Follow Manka Dhingra #ago Lightbox link for post with description The more you learn about Initiative 638, the more...
 The more you learn about Initiative 638, the more you will realize how harmful it is.
 We cannot allow this in our Washington where we value each and every person.
 Vote No!
@@ -68,7 +73,4 @@ When people learn that there are less ... than 10 trans school athletes in the e
 356 1K Share 1283135171724918_1481979303746612 Follow Manka Dhingra #ago Lightbox link for post with description As the federal government continues to desimate...
 As the federal government continues to desimate public health, in this Washington we can still get our insurance covered vaccine schedule based on science and data.
 Please get your flu and Covid vaccines ASAP.
-#VaccinesSavesLives 387 764 Share 1283135171724918_1478569637420912 Follow Manka Dhingra #ago Lightbox link for post with description Responsibility for rape is with the rapist....
-Responsibility for rape is with the rapist.
-Thank you Sexual Violence Center Cork for this graphic.
-5.4K 97 Share 1283135171724918_1474479164496626 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct
+#VaccinesSavesLives 387 764 Share 1283135171724918_1478569637420912 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct

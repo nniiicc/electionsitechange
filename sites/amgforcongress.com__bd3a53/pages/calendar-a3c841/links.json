@@ -141,10 +141,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=jackson+road+jacob+city%2C+florida%2C+32431+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=quincy%2C+fl"
 },
 {
@@ -345,10 +341,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Jacob+City+Day+Parade&dates=20260926T160000Z%2F20260926T180000Z&location=Jackson+Road%2C+Jacob+City%2C+Florida%2C+32431%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=King+Tree+Parade&dates=20261024T123000Z%2F20261024T143000Z&location=428+North+Jefferson+Street%2C+Perry%2C+Florida%2C+32347%2C+United+States"
 },
 {
@@ -374,10 +366,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Panacea+Community+Garden+Farmers+Market&dates=20261003T120000Z%2F20261003T130000Z&location=7+Clark+Drive%2C+Panacea%2C+Florida%2C+32346%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Panama+City+Oktoberfest+Festival&dates=20260926T200000Z%2F20260927T020000Z&location=19+East+4th+Street%2C+Panama+City%2C+Florida%2C+32401%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -529,10 +517,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.amgforcongress.com/calendar/jacob-city-day-parade?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/king-tree-parade?format=ical"
 },
 {
@@ -558,10 +542,6 @@
 {
 "text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/panacea-community-garden-farmers-market?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.amgforcongress.com/calendar/panama-city-oktoberfest-festival?format=ical"
 },
 {
 "text": "ICS",
@@ -604,10 +584,6 @@
 "href": "mailto:info@amgforcongress.com"
 },
 {
-"text": "Jacob City Day Parade",
-"href": "https://www.amgforcongress.com/calendar/jacob-city-day-parade"
-},
-{
 "text": "King Tree Parade",
 "href": "https://www.amgforcongress.com/calendar/king-tree-parade"
 },
@@ -638,10 +614,6 @@
 {
 "text": "Panacea Community Garden Farmers Market",
 "href": "https://www.amgforcongress.com/calendar/panacea-community-garden-farmers-market"
-},
-{
-"text": "Panama City Oktoberfest Festival",
-"href": "https://www.amgforcongress.com/calendar/panama-city-oktoberfest-festival"
 },
 {
 "text": "Priorities",
@@ -777,10 +749,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.amgforcongress.com/calendar/jacob-city-day-parade"
-},
-{
-"text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/king-tree-parade"
 },
 {
@@ -806,10 +774,6 @@
 {
 "text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/panacea-community-garden-farmers-market"
-},
-{
-"text": "View Event →",
-"href": "https://www.amgforcongress.com/calendar/panama-city-oktoberfest-festival"
 },
 {
 "text": "View Event →",
@@ -952,10 +916,6 @@
 "href": "https://www.amgforcongress.com/calendar/havana-mainstreet-26th-annual-pumpkinfest"
 },
 {
-"text": "[image: Jacob City Day Parade]",
-"href": "https://www.amgforcongress.com/calendar/jacob-city-day-parade"
-},
-{
 "text": "[image: King Tree Parade]",
 "href": "https://www.amgforcongress.com/calendar/king-tree-parade"
 },
@@ -982,10 +942,6 @@
 {
 "text": "[image: Panacea Community Garden Farmers Market]",
 "href": "https://www.amgforcongress.com/calendar/panacea-community-garden-farmers-market"
-},
-{
-"text": "[image: Panama City Oktoberfest Festival]",
-"href": "https://www.amgforcongress.com/calendar/panama-city-oktoberfest-festival"
 },
 {
 "text": "[image: TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest]",

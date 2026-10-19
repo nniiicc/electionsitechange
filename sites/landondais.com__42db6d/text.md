@@ -36,6 +36,10 @@ Young people who learn, earn and lead Strong schools, STEAM labs, the arts and c
 Good jobs and small business Union and vocational pathways, and the support local businesses need to grow.
 Dignity for seniors and veterans Ending veterans' poverty and keeping our promises to those who built New York and those who served it.
 Health care everyone can reach Affordable, preventive care close to home for every New Yorker.
+Fixing E-ZPass An E-ZPass Bill of Rights for New Yorkers.
+Clear notice before fees pile up, a fair way to dispute mistakes, and no surprise penalties that turn a toll into a debt.
+Make youth sports affordable Every kid deserves a spot on the team.
+Lower the cost of leagues, fields and equipment so no family has to choose between paying the bills and their child's game.
 MEET LANDON Rooted in New York — Working for New York.
 Landon Dais is a husband, a father of two and a Highbridge homeowner who coaches his sons' baseball team.
 Before serving in the Assembly, he worked in construction on the new Yankee Stadium, then built a law practice helping small businesses and nonprofits grow.

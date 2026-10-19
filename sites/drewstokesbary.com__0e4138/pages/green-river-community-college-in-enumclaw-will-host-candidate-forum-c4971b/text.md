@@ -18,6 +18,6 @@ Election day is Tuesday, Nov.
 Ballots will be distributed to voters in mid-October.
 The political forum is jointly sponsored by Green River Community College and the Enumclaw Chamber of Commerce.
 GRCC’s Enumclaw campus is at the corner of Griffin Avenue and Porter Street.
-In the News debate More For You Lawmakers concerned about auditor probe In the News Rep.
-Stokesbary votes ‘no’ on House budget In the News Making state government more effective, efficient, and accountable In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News debate More For You Auburn’s Stokesbary elected to state House In the News Endorsed by Stand for Children!
+Endorsements Rep.-elect Stokesbary named to House committees In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

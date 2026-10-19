@@ -1,7 +1,7 @@
-Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments Become Involved Questions from People Like You, Answered in Depth!
-Addressing Question About the 2020 Presidential Election Volunteer Here!
+Home About FAQ Contact us The Forum 👎Socialism Endorsements & Commitments Become Involved Questions from People Like You, Answered in Depth!
+Addressing Question About the 2020 Presidential Election The Denver Decides Senate District 34 Forum Volunteer Here!
 Let's Get the Word Out!
-Blogs Use this space to elaborate on the ideas introduced Shareable Blog Link Use this space to elaborate on your headline Sharable Blog Link Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments We use cookies Manage preferences Necessary cookies Functional cookies Functional cookies enable the website to provide enhanced functionality and personalization.
+Blogs Use this space to elaborate on the ideas introduced Shareable Blog Link Use this space to elaborate on your headline Sharable Blog Link Home About FAQ Contact us The Forum 👎Socialism Endorsements & Commitments We use cookies Manage preferences Necessary cookies Functional cookies Functional cookies enable the website to provide enhanced functionality and personalization.
 They may be set by us or by third party providers whose services we have added to our sites.
 If you do not allow these cookies then some or all of these services may not function properly.
 Targeting cookies Performance cookies Performance cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.

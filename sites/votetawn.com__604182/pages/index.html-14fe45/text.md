@@ -33,7 +33,10 @@ On the route Leg 5 · Jobs & Economic Freedom → Local Control Restore local co
 Decisions about zoning, schools, and community life should be made by neighbors — not by bureaucrats in Lansing.
 In the Senate She will support legislation that returns those decisions to cities and townships.
 She is already showing up in every community so Lansing hears from the people who live there.
-On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Veterans Honor those who served.
+On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Data Centers Local control • No taxpayer subsidies • Communities decide In the Senate She will support legislation that keeps data-center decisions with cities and townships and protects communities from being bullied by corporations.
+Communities should be able to allow them, limit them, or ban them — the same local control she has argued for on schools, zoning, and unfunded mandates.
+Data centers that are approved should provide their own power so they do not strain the local grid or raise rates for everyone else, and they should not receive taxpayer money.
+Hear Tawn League of Women Voters Forum · Data Centers (starts at 3:06) → On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Brooklyn Village · Keep Decisions Local → Veterans Honor those who served.
 Keep the promises made to the men and women who wore the uniform.
 In the Senate She will support legislation for veterans’ care, opportunity, and respect — and to cut the red tape that stands between them and what they were promised.
 On the route Leg 9 · Support Veterans → Freedom Township · Because of People Like You → Public Safety Support law enforcement and keep our communities safe.
@@ -41,23 +44,19 @@ In the Senate She will support legislation that backs the men and women who keep
 On the route Leg 4 · Public Safety & Crime → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
 In the Senate She will support legislation that defends informed consent and medical freedom, keeps parents in charge of their children’s care, and rejects one-size-fits-all health mandates from Lansing.
 On the route Leg 14 · Make Michigan Healthy Again → Read the full platform on Leg 15 or see the whole route .
-Hear Tawn Two short looks at where she stands — in her own words.
+Hear Tawn Hear Tawn in her own words.
 WEMU · WASHTENAW UNITED Michigan Senate candidate Tawn Beliger Tawn sat down with Decky Alexander on WEMU’s Washtenaw United about the 14th District race and what she wants to do in Lansing.
 Watch the interview → 40 DAYS FOR LIFE · ANN ARBOR Faith in life On September 27, Tawn spoke at the Seven Sundays Interfaith Jericho March.
 She shared why she is pro-life and why Lansing still has work to do after viability.
-Watch her remarks → Upcoming Events Come meet Tawn and show your support!
+Watch her remarks → LEAGUE OF WOMEN VOTERS District 14 Candidate Forum Tawn took part in the League of Women Voters forum for Senate District 14.
+She talked about lowering costs, energy mandates, election integrity, and local control.
+Watch the forum → Upcoming Events Come meet Tawn and show your support!
 ONGOING Tawn Running for YOU Tawn is running in every city, township, and village in Senate District 14.
 Latest: Rives and Blackman Townships, about 8.5 miles October 16–17.
 3.5 in Rives, 5 in Blackman.
 First and Second Amendments, and prayer.
-Rives & Blackman run → See the route → SUNDAY, October 11th Fill A Row Friends & Family Sunday 10:30 AM Calvary Baptist Church.
-Barbecue dinner provided, cider and doughnuts, bounce houses and a playground for the kids.
-All are welcome.
-7527 Whitmore Lake Rd TUESDAY, October 13th Turning Point Action Super Chase — Washtenaw 11:00 AM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
-Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 RSVP → TUESDAY, October 13th Tawn Beliger Meet & Greet 6:00 PM – 8:00 PM Come meet Tawn, ask a question, and bring a neighbor.
-Dexter’s Pub 8114 Main St Dexter, MI 48130 FRIDAY, October 16th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
-Meet at Jackson GOP Headquarters 209 E.
-Washington Ave, Suite 320 Jackson, MI 49201 WEDNESDAY, October 21st Trunk or Treat St.
+Rives & Blackman run → See the route → TUESDAY, October 20th Turning Point Action Super Chase — Washtenaw 11:00 AM – 12:00 PM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
+Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 Event details → Add to calendar → WEDNESDAY, October 21st Trunk or Treat St.
 Louis Center 5:00 PM – 7:00 PM Decorated trunks, a haunted house, and a community dinner.
 Free and open to all ages.
 Come meet the St.
@@ -65,7 +64,8 @@ Louis Center residents and staff.
 St.
 Louis Center 16195 W Old US Hwy 12 Chelsea, MI 48118 Event details → FRIDAY, October 23rd Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
-Washington Ave, Suite 320 Jackson, MI 49201 THURSDAY, October 29th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
+Washington Ave, Suite 320 Jackson, MI 49201 TUESDAY, October 27th Turning Point Action Super Chase — Washtenaw 11:00 AM – 12:00 PM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
+Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 Event details → Add to calendar → THURSDAY, October 29th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
 Washington Ave, Suite 320 Jackson, MI 49201 TUESDAY, November 3, 2026 Election Day Polls open 7:00 a.m. – 8:00 p.m.
 Early voting In-person early voting: October 24 through November 1 Absentee ballots are available starting September 24.

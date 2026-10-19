@@ -31,7 +31,7 @@ Delivering Value, Stopping the Crime Taxpayers in Southwest Washington deserve f
 Accepting a crippled three-lane design for nearly fifteen billion dollars is a crime against taxpayers.
 I’m Representative John Ley, and I’m fighting to deliver real value for your transportation dollars, stop the runaway spending, and shut down this boondoggle.
 I’ll keep you updated as we uncover even more details about where your money is going.
-Brent Spence Bridge Bridge Too Low I-5 Interstate Bridge Replacement Joe Cortright Light Rail ODOT Ruby Junction taxpayer ripoff TriMet WSDOT by John Ley previous The $17 Billion IBR Taxpayer Rip-Off: Unpacking the Scene of the Crime Help me fight for the people and common sense solutions.
+Brent Spence Bridge Bridge Too Low I-5 Interstate Bridge Replacement Joe Cortright Light Rail ODOT Ruby Junction taxpayer ripoff TriMet WSDOT by John Ley previous The $17 Billion IBR Taxpayer Rip-Off: Unpacking the Scene of the Crime next Skyview girls’ courage is contagious Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

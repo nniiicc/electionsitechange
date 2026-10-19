@@ -1,10 +1,6 @@
 ★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Where to find us Upcoming Appearances Meet Ken at upcoming campaign stops and community events across Rhode Island.
 Invite Ken to your event Please contact Michelle Conway at michelle@blockforgovernor.com .
-OCT 18 2026 Upcoming Sunday Ice Cream with Ken - East Providence Time 3:30 - 5:00 p.m.
-Location Sacred Cow Scoop Shop at Munroe Dairy 187 N.
-Brow Street East Providence Event details Join Us for Ice Cream with Ken!
-Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
-Get directions Sunday Ice Cream with Ken - East Providence OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Event details If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
+OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Event details If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
 Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart TV app Register to attend Tuesday WPRI Channel 12 Gubernatorial Debate OCT 22 2026 Upcoming October 22 Conversation with Ken - Warwick Time 6:00 - 8:00pm Location Brewed Awakenings, Warwick 1316 Bald Hill Road Warwick Event details Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.
@@ -20,7 +16,11 @@ Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
 Get directions Register to attend On the campaign trail Past Appearances A look back at recent campaign stops and community events.
-Past appearance OCT 13 2026 Completed Tuesday Conversation with Ken - Portsmouth Time 6:00 - 8:00 p.m.
+Past appearance OCT 18 2026 Completed Sunday Ice Cream with Ken - East Providence Time 3:30 - 5:00 p.m.
+Location Sacred Cow Scoop Shop at Munroe Dairy 187 N.
+Brow Street East Providence Event details Join Us for Ice Cream with Ken!
+Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
+Get directions Sunday Ice Cream with Ken - East Providence Past appearance OCT 13 2026 Completed Tuesday Conversation with Ken - Portsmouth Time 6:00 - 8:00 p.m.
 Location The Valley Inn 2221 West Main Road Portsmouth Event details Pizza.
 Cash Bar.
 Ken speaks at 6:30 p.m.

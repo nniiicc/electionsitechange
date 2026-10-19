@@ -1,7 +1,6 @@
 Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Contact Donate Meet Cyndi Priorities Events Store Volunteer Contact Donate Join Cyndi as she travels across Oklahoma!
 The Munson Minivan Tour Campaign Events Join Us For Events Around the State!
-Southside OKC Meet and Greet Cantera Event Center 1 SE 59th St Suite E Oklahoma City, OK 73129 Join Cyndi Munson in Southside Oklahoma City at the Cantera Event Center to hear about her vision for the future of Oklahoma as Governor!
-RSVP Tulsa Meet and Greet She Brews Coffee 1 N Lewis Ave Tulsa, OK 74110 Join Cyndi Munson in Tulsa at SheBrews Coffee Roasters to hear about her vision for the future of Oklahoma as Governor!
+Tulsa Meet and Greet She Brews Coffee 1 N Lewis Ave Tulsa, OK 74110 Join Cyndi Munson in Tulsa at SheBrews Coffee Roasters to hear about her vision for the future of Oklahoma as Governor!
 RSVP Miami Meet and Greet Chapters 31 N Main St Miami, OK 74354 Join Cyndi Munson in Miami at Chapters to hear about her vision for the future of Oklahoma as Governor!
 RSVP Jay Meet and Greet Chamber of Commerce 538 W Krause St Jay, OK 74346 Join Cyndi Munson in Jay at the Chamber of Commerce to hear about her vision for the future of Oklahoma as Governor!
 RSVP Pryor Meet and greet Open Door Venue 23 N Vann St.
@@ -15,6 +14,8 @@ RSVP Pauls Valley Meet and Greet Reynolds Recreation Center Multi-Purpose Room 1
 RSVP Purcell Meet and Greet Multi-Purpose Center 1400 Chandler Rd Purcell, OK 73080 Join Cyndi Munson in Purcell at the Multi-Purpose Center to hear about her vision for the future of Oklahoma as Governor!
 RSVP Weatherford Meet and Greet Lucille's Roadhouse 1301 N Airport Rd Weatherford, OK 73096 Join Cyndi Munson in Weatherford at Lucille's Roadhouse to hear about her vision for the future of Oklahoma as Governor!
 RSVP Edmond Meet and Greet Edmond Festival Market Place 26 W 1st St Edmond, OK 73003 Join Cyndi Munson in Edmond at the Festival Market Place to hear about her vision for the future of Oklahoma as Governor!
+RSVP Norman Meet and Greet Location Coming Soon!
+Join Cyndi Munson in Norman to hear about her vision for the future of Oklahoma as Governor!
 RSVP Midwest City Meet and Greet Skydance Brewing Co.
 231 W McArthur Dr Midwest City, OK 73110 Join Cyndi Munson in Midwest City at Skydance Brewing to hear about her vision for the future of Oklahoma as Governor!
 RSVP Guthrie Meet and Greet Oklahoma Territorial Museum 406 E Oklahoma Ave Guthrie, OK 73044 Join Cyndi Munson in Guthrie at the Oklahoma Territorial Museum to hear about her vision for the future of Oklahoma as Governor!
@@ -25,8 +26,7 @@ RSVP Jenks Meet and Greet Location Coming Soon!
 Join Cyndi Munson in Jenks to hear about her vision for the future of Oklahoma as Governor!
 RSVP Pawhuska Meet and Greet Location Coming Soon!
 Join Cyndi Munson in Pawhuska to hear about her vision for the future of Oklahoma as Governor!
-RSVP Bartlesville Meet and Greet Location Coming Soon!
-Join Cyndi Munson in Bartlesville to hear about her vision for the future of Oklahoma as Governor!
+RSVP Bartlesville Meet and Greet Old Washington Courthouse 501 SE Frank Phillips Blvd Bartlesville, OK 74003 Join Cyndi Munson in Bartlesville at the Old Courthouse to hear about her vision for the future of Oklahoma as Governor!
 RSVP Tulsa Meet and Greet Location Coming Soon!
 Join Cyndi Munson in Tulsa to hear about her vision for the future of Oklahoma as Governor!
 RSVP Event Request Want Cyndi To Speak At Your Event?

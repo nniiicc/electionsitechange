@@ -36,6 +36,6 @@ Pennsylvanians over Profits means breaking corporate control, connecting Pennsyl
 View more Mental Health & Addiction Reform Pennsylvania spends over $3 billion on prisons while chronically underfunding addiction treatment, cycling people through jails instead of providing care.
 Our loved ones cycle through jails and homelessness in their struggles with addiction and mental health.
 Pennsylvanians over Profits means treatment over incarceration, expanded mental health services, and recovery over punishment and profit.
-View more Join Us Campaign Events Wayne County Dems Fall 652 Roadside Clean Up 375 Dunn Rd Honesdale, PA 18431 652 Roadside Cleanup.
-See Website for details: https://www.mobilize.us/waynecountypademocraticparty/event/929446/ RSVP Support Our Campaign As a first-time candidate, I don't have the establishment connections or big-money donors.
+View more Join Us Campaign Events There are no upcoming events.
+Support Our Campaign As a first-time candidate, I don't have the establishment connections or big-money donors.
 Your contribution helps us reach voters who are ready for change! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other kyle@pennsylvaniansoverprofits.com Powered by RUN! website builder Paid for by the Committee To Elect Kyle Devlin You need to enable JavaScript to run this app.

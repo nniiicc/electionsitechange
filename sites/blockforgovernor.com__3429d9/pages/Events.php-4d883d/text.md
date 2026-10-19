@@ -1,6 +1,4 @@
-Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Ice Cream with Ken - East Providence Join Us for Ice Cream with Ken!
-Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
-WPRI Channel 12 Gubernatorial Debate If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events WPRI Channel 12 Gubernatorial Debate If you’d like to watch the debate in person, a limited number of tickets are now available online at WPRI.com.
 Watch the debate live on Channel 12 WPRI, on WPRI.com or on the WPRI 12+ smart TV app Conversation with Ken - Warwick Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.
@@ -13,6 +11,8 @@ East Bay Chamber Gubernatorial Forum Admission is free and open to the public.
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
+Ice Cream with Ken - East Providence Join Us for Ice Cream with Ken!
+Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
 Conversation with Ken - Portsmouth Pizza.
 Cash Bar.
 Ken speaks at 6:30 p.m.

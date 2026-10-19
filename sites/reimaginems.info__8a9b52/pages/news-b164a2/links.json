@@ -5,6 +5,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1012+market+street+port+gibson%2C+mississippi%2C+39150+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=106+green+lee+avenue+mound+bayou%2C+mississippi%2C+38762+united+states"
 },
 {
@@ -33,10 +37,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1655+sunset+drive+grenada%2C+mississippi%2C+38901+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=169+north+1st+street+gloster%2C+mississippi%2C+39638+united+states"
 },
 {
@@ -62,6 +62,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=28434+highway+32+oakland%2C+mississippi%2C+38948+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=314+sgt+prentiss+drive+natchez%2C+mississippi%2C+39120+united+states"
 },
 {
 "text": "(map)",
@@ -94,6 +98,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=633+u.s.+82+west+indianola%2C+mississippi%2C+38751+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=657+river+road+fayette%2C+mississippi%2C+39069+united+states"
 },
 {
 "text": "(map)",
@@ -172,6 +180,10 @@
 "href": "https://www.facebook.com/reimaginems/"
 },
 {
+"text": "Fayette Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/fayette-meet-and-greet"
+},
+{
 "text": "Folder: About",
 "href": "https://www.electbenniefoster.com/about"
 },
@@ -225,6 +237,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fayette+Meet+and+Greet&dates=20261018T203500Z%2F20261018T205000Z&location=657+River+Road%2C+Fayette%2C+Mississippi%2C+39069%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gloster+Meet+and+Greet&dates=20261014T193000Z%2F20261014T194500Z&location=169+North+1st+Street%2C+Gloster%2C+Mississippi%2C+39638%2C+United+States"
 },
 {
@@ -237,19 +253,11 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grenada+County+Meet+and+Greet&dates=20261006T193000Z%2F20261006T213000Z&location=1655+Sunset+Drive%2C+Grenada%2C+Mississippi%2C+38901%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hollandale+Meet+and+Greet&dates=20261016T153000Z%2F20261016T160000Z&location=123+East+Avenue+South%2C+Hollandale%2C+Mississippi%2C+38748%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Indianola+Meet+and+Greet&dates=20261010T220000Z%2F20261010T223000Z&location=633+U.S.+82+West%2C+Indianola%2C+Mississippi%2C+38751%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Itta+Bena+Meet+and+Greets&dates=20261007T203000Z%2F20261007T211500Z"
 },
 {
 "text": "Google Calendar",
@@ -277,7 +285,15 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Natchez+Meet+and+Greet&dates=20261018T211500Z%2F20261018T223000Z&location=314+Sgt+Prentiss+Drive%2C+Natchez%2C+Mississippi%2C+39120%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oakland+Meet+and+Greet&dates=20261009T170000Z%2F20261009T171500Z&location=28434+Highway+32%2C+Oakland%2C+Mississippi%2C+38948%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Port+Gibson+Meet+and+Greet&dates=20261018T193000Z%2F20261018T194500Z&location=1012+Market+Street%2C+Port+Gibson%2C+Mississippi%2C+39150%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -286,10 +302,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sardis+Meet+and+Greet&dates=20261009T193000Z%2F20261009T194500Z&location=420+East+Lee+Street%2C+Sardis%2C+Mississippi%2C+38666%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tchula+Meet+and+Greets&dates=20261007T191500Z%2F20261007T200000Z"
 },
 {
 "text": "Google Calendar",
@@ -318,10 +330,6 @@
 {
 "text": "Greenwood Meet and Greets",
 "href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets"
-},
-{
-"text": "Grenada County Meet and Greet",
-"href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
 },
 {
 "text": "Hollandale Meet and Greet",
@@ -361,6 +369,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/fayette-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3?format=ical"
 },
 {
@@ -377,19 +389,11 @@
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/hollandale-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets?format=ical"
 },
 {
 "text": "ICS",
@@ -417,15 +421,19 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/natchez-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet?format=ical"
+"href": "https://www.electbenniefoster.com/events/port-gibson-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
-"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet?format=ical"
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -460,10 +468,6 @@
 "href": "https://www.instagram.com/fosterforcongress"
 },
 {
-"text": "Itta Bena Meet and Greets",
-"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
-},
-{
 "text": "JSU Homecoming Walkthrough",
 "href": "https://www.electbenniefoster.com/events/jsu-homecoming-walkthrough"
 },
@@ -492,6 +496,10 @@
 "href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
 },
 {
+"text": "Natchez Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/natchez-meet-and-greet"
+},
+{
 "text": "Oakland Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
 },
@@ -504,6 +512,10 @@
 "href": "https://www.electbenniefoster.com/policies"
 },
 {
+"text": "Port Gibson Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/port-gibson-meet-and-greet"
+},
+{
 "text": "Questions & Answers",
 "href": "https://www.electbenniefoster.com/questions-answers"
 },
@@ -514,10 +526,6 @@
 {
 "text": "Sardis Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
-},
-{
-"text": "Tchula Meet and Greets",
-"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
 "text": "Tunica Meet and Greet",
@@ -561,6 +569,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/fayette-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
 },
 {
@@ -577,19 +589,11 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
-},
-{
-"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/hollandale-meet-and-greet"
 },
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet"
-},
-{
-"text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
 "text": "View Event →",
@@ -617,15 +621,19 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/natchez-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet"
+"href": "https://www.electbenniefoster.com/events/port-gibson-meet-and-greet"
 },
 {
 "text": "View Event →",
-"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -700,6 +708,10 @@
 "href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet"
 },
 {
+"text": "[image: Fayette Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/fayette-meet-and-greet"
+},
+{
 "text": "[image: Gloster Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/gloster-meet-and-greet"
 },
@@ -712,20 +724,12 @@
 "href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets"
 },
 {
-"text": "[image: Grenada County Meet and Greet]",
-"href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
-},
-{
 "text": "[image: Hollandale Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/hollandale-meet-and-greet"
 },
 {
 "text": "[image: Indianola Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet"
-},
-{
-"text": "[image: Itta Bena Meet and Greets]",
-"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
 "text": "[image: JSU Homecoming Walkthrough]",
@@ -752,8 +756,16 @@
 "href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
 },
 {
+"text": "[image: Natchez Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/natchez-meet-and-greet"
+},
+{
 "text": "[image: Oakland Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
+},
+{
+"text": "[image: Port Gibson Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/port-gibson-meet-and-greet"
 },
 {
 "text": "[image: Rolling Fork Meet and Greet]",
@@ -762,10 +774,6 @@
 {
 "text": "[image: Sardis Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
-},
-{
-"text": "[image: Tchula Meet and Greets]",
-"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
 "text": "[image: Tunica Meet and Greet]",

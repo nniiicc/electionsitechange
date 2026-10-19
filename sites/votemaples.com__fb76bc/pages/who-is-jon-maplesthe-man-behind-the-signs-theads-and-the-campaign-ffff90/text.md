@@ -17,7 +17,7 @@ Ask Jon about Bella and you’ll quickly discover where his heart is.
 He’s a proud girl dad who treasures his family and the ordinary moments that make life meaningful.
 The Maples family lives in Abacoa, where they love their neighborhood, their close relationships with neighbors, and the sense of community they’ve found.
 At home, life includes their small dog and the familiar routines of family life.
-On Sundays, you’ll find Jon worshipping at friends and members of his faith community.
+On Sundays, you’ll find Jon worshipping at church alongside friends and members of his faith community.
 His Christian faith is foundational to his character, but he understands that representing a community means serving people from every background and walk of life.
 For Jon, integrity, compassion, humility, and service aren’t campaign words.
 They’re personal responsibilities.

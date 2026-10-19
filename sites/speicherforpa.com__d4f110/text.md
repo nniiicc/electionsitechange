@@ -30,8 +30,13 @@ Collaborate with local organizations to monitor environmental hazards and ensure
 Our Home The 15th District Pennsylvania’s 15th House District covers 32 municipalities across western Beaver County and western Washington County.
 Click the map to zoom.
 Beaver County Washington County Standing with Sydney Endorsements Make a Plan Voter Action Center -- Days -- Hours -- Minutes -- Seconds Until Election Day: Tuesday, November 3, 2026.
-Registration and mail ballot deadlines are posted at vote.pa.gov .
-Register to Vote Check My Registration Request a Mail Ballot Trouble with the form?
+Deadlines and voting rules are posted at vote.pa.gov .
+Registration for the November 3 election closed on October 19.
+Check that your registration is active, and request a mail ballot by Tuesday, October 27.
+Register to Vote Check My Registration Request a Mail Ballot Apply online through the Pennsylvania Department of State.
+Requests are due by Tuesday, October 27.
+Apply for a Mail Ballot Completed mail ballots must reach your county election office by 8 PM on November 3.
+Trouble with the form?
 Use the state portal at vote.pa.gov .
 Find Your Polling Place Look up where you vote on Election Day before you head out.
 Deadlines and Rules Deadlines, ID rules, and county election office contacts.

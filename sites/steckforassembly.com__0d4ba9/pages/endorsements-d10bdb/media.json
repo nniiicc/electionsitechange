@@ -1,6 +1,8 @@
 [
 "alt:/images/footer-logo.png|footer logo",
 "alt:/images/header-sign.png|Phil Steck for Assembly",
+"img:&type=webp",
+"img:/component/ajax/",
 "img:/images/footer-logo.png",
 "img:/images/header-sign.png",
 "img:/media/yootheme/cache/04/planned-parenthood-action-logo-0439419a.jpg",
@@ -48,5 +50,9 @@
 "img:/media/yootheme/cache/f1/Formal_web3-f1e27062.webp",
 "img:/media/yootheme/cache/f3/Greater%20Capital%20Region%20Building%20%20Construction%20Trades%20Logo-f36680c6.webp",
 "img:/media/yootheme/cache/f3/PCNY%20CF-f3b7be0b.webp",
-"img:/media/yootheme/cache/f7/NYLCV-f74f2dc0.webp"
+"img:/media/yootheme/cache/f7/NYLCV-f74f2dc0.webp",
+"img:100&hash=91af8412",
+"img:100&hash=e5d0d532",
+"img:125",
+"img:249"
 ]

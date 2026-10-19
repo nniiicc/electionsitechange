@@ -7,7 +7,7 @@ SUPPORTING LOCAL FAMILIES Quality prenatal and postnatal care for the mother and
 Renewable energy jobs are an important part of the economic mix that includes mining, logging, and oil and gas, and high-speed internet.
 The Western UP is the most beautiful place on earth.
 Our shorelines, forests, and local communities provide us with a great quality of life.
-Celebrating 250 years of patriots Happy Fourth of July from Greenland, MI Ontonagon Listening to the people of Ontonagon.
+The Choice is Clear 2 Mile Road Bruce Crossing, MI Lake Superior and the Canal Big Annie Statue We celebrate the strength of Big Annie in fighting for worker rights Iron Mountain, MI Ironwood, MI Juggling so many things Ojibway Correctional Facility Watersmeet, MI and Land O Lakes, WI Jacobsville, MI Celebrating our Finnish Lutheran history Isle Royale Queen IV Copper Harbor, MI Torch Lake Cleanup Celebrating 250 years of patriots Happy Fourth of July from Greenland, MI Ontonagon Listening to the people of Ontonagon.
 Losing our Emergency Rooms This is what’s left of our Emergency Room in Ontonagon.
 Veteran Group Endorsement Veterans pledge allegiance to the constitution.
 A summary of the Rural Summit 2026 The Michigan Democratic Party Rural Caucus hosted the 20265 Rural Summit in Onaway, MI.

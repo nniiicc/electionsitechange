@@ -1,4 +1,6 @@
-Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Wildfires, forgotten lessons and the price of neglect Issues September 12, 2026 by John Ley Rep.
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Washington state’s rainy day fund won’t help fire victims Issues September 12, 2026 by John Ley Poor fiscal management is one culprit Monday, August 10, 2026, Clark County Today Rep.
+John Ley 18th Legislative District In the past two legislative sessions, Olympia Democrats pushed through the...
+Read more Wildfires, forgotten lessons and the price of neglect Issues September 12, 2026 by John Ley Rep.
 John Ley says there’s simply too much fuel waiting to burn Sunday, August 9, 2026, Clark County Today Rep.
 John Ley for Clark County Today Wildfires are devouring more...
 Read more Rep.
@@ -18,10 +20,7 @@ Read more Brockmann Campus must open Issues Solutions June 26, 2026 by John Ley 
 Read more The IBR shell game for TriMet at Ruby Junction Issues June 9, 2026 by John Ley Rep.
 John Ley discusses the $320 million expense for an unneeded ‘upgrade’ to Gresham maintenance facility Rep.
 John Ley 18th Legislative District, as published in Clark County Today The Interstate...
-Read more WA needs more electricity generation & transmission Issues June 7, 2026 by John Ley New Power to the People is a must!
-The 2026 NW Gas Association’s Annual Conference was informative!
-It confirmed much of what I have learned for the past 18 months...
-Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News The $14 Billion Crime Scene: Why the I-5 Interstate Bridge Project Is Taxpayer Insanity The $17 Billion IBR Taxpayer Rip-Off: Unpacking the Scene of the Crime Unpacking Olympia's New Income Tax: What Revenue Bureaucrats Are Planning and Why Voters Must Act Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Skyview girls’ courage is contagious The $14 Billion Crime Scene: Why the I-5 Interstate Bridge Project Is Taxpayer Insanity The $17 Billion IBR Taxpayer Rip-Off: Unpacking the Scene of the Crime Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

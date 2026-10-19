@@ -1,4 +1,4 @@
-About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ AFFORDABILITY AFFORDABILITY - When Do We Say Enough?
+About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ AFFORDABILITY AFFORDABILITY - When Do We Say "Enough!"?
 I've never voted to raise your taxes , impose tolls, or slam you with fees that are nothing more than another way to tax you.
 I never will.
 It's funny that my opponent thinks that's a bad thing.
@@ -21,8 +21,7 @@ Our state government broke it's promises, working outside the 2024 & 2026 budget
 In both years, 900 to 1,000 page "Appropriations Bills" came to the floor, as little as 30-minutes before being called for deliberation and votes.
 Hiding inside were hundreds of never-before seen "repurposings" of taxpayer money in 2026, and of federal relief money in 2024 to pay for non-pandemic overspending, by way of federal pandemic relief funds intended to reimburse electric utilities for the revenue lost to the governor's 4-year shut-off moratorium with dollars intended to pay public benefits.
 The result appeared on our August 1, 2024 electric bills.
-THERE ARE 3 WAYS TO VOTE THIS YEAR - CLI YOU and I were then , and had your elecric utility bill you directly.
-CK HERE t TO LEARN MORE!
+THERE ARE 3 WAYS TO VOTE THIS YEAR - CLI CK HERE TO LEARN MORE!
 Next: EDUCATION » Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
 Powered by CampaignPartner.com About Mitch Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

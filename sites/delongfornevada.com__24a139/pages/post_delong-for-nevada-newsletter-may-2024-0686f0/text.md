@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 All Posts Search DeLong For Nevada Newsletter May 2024 May 16, 2024 3 min read I cannot believe we are in the middle of May!
 Where did April go?
 We are now 4 weeks away from the state’s primary election on June 11th.

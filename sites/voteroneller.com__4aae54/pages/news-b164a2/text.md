@@ -1,4 +1,11 @@
-Meet Ron Issues News Volunteer Swag Contribute News Latest updates from the campaign: 9 Oct Friday, 2:27 PM · 2026 Has Congress Become a Retirement Home?
+Meet Ron Issues News Volunteer Swag Contribute News Latest updates from the campaign: 18 Oct Sunday, 7:12 PM · 2026 Three Candidates Running for Mississippi’s 2nd Congressional District Seat Voters in Mississippi’s 2nd Congressional District will choose among three candidates in the Nov.
+3 general election, with longtime Democratic incumbent U.S.
+Rep.
+Bennie Thompson facing Republican Ron Eller and independent candidate Bennie Foster.
+Read more 18 Oct Sunday, 7:10 PM · 2026 Congressional Candidate Ron Eller Stresses Change, "3 E’s" Platform During Rolling Fork Stop Republican congressional candidate Ron Eller brought his campaign for Mississippi’s 2nd District to Rolling Fork, emphasizing a platform built on term limits, economic overhauls, and his signature "3 E's" strategy.
+Eller, a retired military medical officer, cardiac surgery physician assistant, and small business owner, is challenging long-term Democratic incumbent Bennie Thompson and independent Bennie Foster.
+Eller did not hold back on his stance regarding congressional longevity, proudly identifying as a proponent of term limits.
+Read more 9 Oct Friday, 2:27 PM · 2026 Has Congress Become a Retirement Home?
 Steve Gaines welcomes Ron Eller, Mississippi State Chair for U.S.
 Term Limits, former Army captain and Republican congressional candidate, to discuss the growing debate over the age of lawmakers and congressional term limits.
 Eller argues that incumbency advantages discourage competition and keep longtime politicians in Washington, and explains his support for a constitutional amendment establishing term limits.

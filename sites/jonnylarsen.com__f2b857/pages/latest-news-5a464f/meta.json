@@ -1,12 +1,16 @@
 {
  "description": "Campaign news, press releases, and media coverage for Jonny Larsen's 2026 Congressional race in Utah's 4th District.",
  "final_url": "https://jonnyutah4congress.com/latest-news",
- "fingerprint": "005fca26766300d3453bb8e3c2281f53a1dcda50",
+ "fingerprint": "d6847604c176505011fbd9e306e7de151bc8be3a",
  "format": 3,
  "paid_for_by": "Paid For By Jonny Larsen For Congress",
  "rendered": true,
  "title": "Latest News | Jonny Larsen For Congress",
  "years_mentioned": [
+  "2000",
+  "2004",
+  "2024",
+  "2025",
   "2026"
  ]
 }

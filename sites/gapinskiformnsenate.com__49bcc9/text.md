@@ -8,7 +8,15 @@ An effective conservative who delivers for rural communities and stands up to th
 Paul, Jared knows how to stand up for our values.
 Where Do I Vote ?
 Donate Your browser does not support the video tag.
-Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago 🇺🇸 The countdown to November 3rd is ON!
+Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 is with Dawn Loberg for House and Tanja Goering for MN.
+#ago Yesterday was another great day of door knocking with our SD13 Republican team!
+With Election Day getting closer, we’re working hard to get out into our communities, connect with voters, listen to their concerns, and talk about the issues that matter most to the families of Central Minnesota.
+A HUGE thank you to everyone who gave up part of their Saturday to help knock on doors and spread the word.
+Your time, energy, and dedication mean so much!
+And thank you to everyone who took a few minutes to visit with us along the way.
+Those conversations are what grassroots campaigning is all about!
+We’re getting closer to November 3rd, and we’re not slowing down! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes 25 Shares: 4 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago 🇺🇸 The countdown to November 3rd is ON!
 Election Day is getting closer, and I want to take a moment to say THANK YOU to everyone who has been following along, engaging with our posts, and supporting this campaign!
 I really believe our momentum is at an all time high!
 Yesterday we hit 700 followers on the page!
@@ -20,7 +28,7 @@ Let’s keep building and working together as a TEAM!
 Thank you for being part of this journey.
 I appreciate each and every one of you! 🇺🇸 17 DAYS UNTIL ELECTION DAY! 🇺🇸 www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
 See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 24 Shares: 5 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 26 Shares: 5 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago What a great day at the Sauk Rapids Fire Department Open House this past Saturday! 🚒🍂 This event is always a special one for me.
 I spent nearly 20 years serving with the Sauk Rapids Fire Department as a firefighter and captain, and it was great to be back catching up with old friends and fellow firefighters!
 We couldn’t have asked for better weather, and the turnout was incredible!
 From the free pumpkins and vehicle extrication demonstrations to the kids getting to climb inside the fire trucks and explore all the equipment, there was something for everyone to enjoy.
@@ -55,11 +63,4 @@ These antiquated systems not only create unnecessary work and delays for employe
 In a time when so much information is available at our fingertips and Minnesotans expect government to work efficiently, our state systems need to catch up.
 We need modern technology, stronger safeguards, and greater accountability to protect taxpayer dollars while making sure assistance reaches the people it is intended to serve. www.gapinskiformnsenate.com #mnleg #MNSenate #District13 #MNFraud #MNPolitics #Vote2026 #mnvotes #GOP #gapinskiformnsenate ...
 See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 26 Shares: 2 Comments: 6 6 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Recent reports of threats surrounding local sporting events are deeply concerning.
-Our schools and athletic events should be places where students, families, and communities can come together without fear for their safety.
-My thoughts and prayers are with our students, families, coaches, and everyone affected by these concerns.
-I also want to express my sincere appreciation for our local law enforcement officers who work every day to keep our communities safe.
-Their dedication, professionalism, and willingness to put themselves in harm’s way do not go unnoticed.
-Thank you to all who work to protect our communities.
-Please stay safe, look out for one another, and keep everyone affected in your prayers. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 48 Shares: 4 Comments: 1 1 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 26 Shares: 2 Comments: 6 6 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy

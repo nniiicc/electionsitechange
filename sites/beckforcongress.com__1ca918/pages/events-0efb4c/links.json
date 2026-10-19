@@ -9,6 +9,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=13001+west+north+avenue+brookfield%2C+wisconsin%2C+53005+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=132+north+main+street+west+bend%2C+wisconsin%2C+53095+united+states"
 },
 {
@@ -265,6 +269,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SOPHIA+Candidate+Forum&dates=20261019T233000Z%2F20261020T003000Z&location=13001+West+North+Avenue%2C+Brookfield%2C+Wisconsin%2C+53005%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sweets+%26amp%3B+Treats+with+Dems+%26amp%3B+Friends&dates=20260919T233000Z%2F20260920T013000Z"
 },
 {
@@ -401,6 +409,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.beckforcongress.com/events/sophia-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.beckforcongress.com/events/washington-county-fair-6m427-s45z7-34ygt-xrpcn?format=ical"
 },
 {
@@ -482,6 +494,10 @@
 {
 "text": "Press Kit",
 "href": "https://www.beckforcongress.com/press-kit"
+},
+{
+"text": "SOPHIA Candidate Forum",
+"href": "https://www.beckforcongress.com/events/sophia-candidate-forum"
 },
 {
 "text": "Sweets & Treats with Dems & Friends",
@@ -590,6 +606,10 @@
 {
 "text": "View Event →",
 "href": "https://www.beckforcongress.com/events/meet-the-candidates-kw4c9-3ramk"
+},
+{
+"text": "View Event →",
+"href": "https://www.beckforcongress.com/events/sophia-candidate-forum"
 },
 {
 "text": "View Event →",
@@ -742,6 +762,10 @@
 {
 "text": "[image: Muskego Action Team]",
 "href": "https://www.beckforcongress.com/events/event-one-rg2bh-mx2wm-3ea3j-43le2-86chz-bz5dj-anes3-ys832-92bdy-d3lcx"
+},
+{
+"text": "[image: SOPHIA Candidate Forum]",
+"href": "https://www.beckforcongress.com/events/sophia-candidate-forum"
 },
 {
 "text": "[image: Sweets &amp; Treats with Dems &amp; Friends]",

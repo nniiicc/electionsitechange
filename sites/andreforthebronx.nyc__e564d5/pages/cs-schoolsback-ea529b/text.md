@@ -1,4 +1,4 @@
-0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Campaign Statement Every School Year, We Send Our Students Back Into a System In Crisis.
+0 Skip to Content Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate Open Menu Close Menu Join Us Canvassing News About Platform Endorsements Merch Donate Campaign Statement Every School Year, We Send Our Students Back Into a System In Crisis.
 August 28, 2026 Bronx, NY — Andre Easton, father of three and socialist candidate running for New York's 15th Congressional District, has been a New York City public school teacher for 14 years, 12 of those in the South Bronx.
 On August 28th, he issued the following statment: “In two weeks, Bronx K–12 students go back to school.
 So do I.

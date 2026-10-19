@@ -11,6 +11,5 @@ I’ll stand up for policies that keep costs down so your paycheck goes further 
 We need to support teachers, invest in classrooms, and make sure public dollars strengthen public education — not weaken it.
 Learn More Honest Government Government should work for and lift up the people who pay for it.
 I’ll fight waste, demand accountability, and focus on policies that improve everyday life.
-Ideology should never compromise results. learn more Are You Registered to Vote?
-“Too many families are working harder and still falling behind.
+Ideology should never compromise results. learn more Check Your Registration and Sample Ballot “Too many families are working harder and still falling behind.
 I’m running to focus on results — lowering costs, strengthening schools, and bringing everyday voices to Little Rock.” Sign-up to Volunteer Today · Sign-up to Volunteer Today · Sign-up to Volunteer Today · Paid for By Mitchell Smith For AR 13

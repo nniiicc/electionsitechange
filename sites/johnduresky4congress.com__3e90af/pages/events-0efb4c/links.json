@@ -13,10 +13,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=175+rodeo+trail+road+okanogan%2C+washington%2C+98840+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=210+south+columbus+avenue+goldendale%2C+washington%2C+98620+united+states"
 },
 {
@@ -38,14 +34,6 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=507+knight+street+richland%2C+washington%2C+99352+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=660+columbia+point+drive+richland%2C+washington%2C+99352+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=6826+burden+boulevard+pasco%2C+washington%2C+99301+united+states"
 },
 {
 "text": "(map)",
@@ -102,10 +90,6 @@
 {
 "text": "Blue Wave Flippin' Fundraiser",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser"
-},
-{
-"text": "Canvassing Event (Tri-Cities)",
-"href": "https://www.johnduresky4congress.com/events/canvass-event-sept12"
 },
 {
 "text": "Canvassing Event (Tri-Cities)",
@@ -229,10 +213,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Tri-Cities%29&dates=20260912T163000Z%2F20260912T200000Z&location=660+Columbia+Point+Drive%2C+Richland%2C+Washington%2C+99352%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Tri-Cities%29&dates=20260919T163000Z%2F20260919T200000Z&location=713+Jadwin+Avenue%2C+Richland%2C+Washington%2C+99352%2C+United+States"
 },
 {
@@ -321,15 +301,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Okanogan+County+Fair&dates=20260912T210000Z%2F20260913T000000Z&location=175+Rodeo+Trail+Road%2C+Okanogan%2C+Washington%2C+98840%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Omak+Chamber+of+Commerce+Candidate+Forum&dates=20260930T003000Z%2F20260930T023000Z&location=108+N+Main%2C+Omak%2C+WA%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+Session&dates=20260917T003000Z%2F20260917T030000Z&location=6826+Burden+Boulevard%2C+Pasco%2C+Washington%2C+99301%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -382,10 +354,6 @@
 {
 "text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/canvass-event-sept12?format=ical"
 },
 {
 "text": "ICS",
@@ -477,10 +445,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/okanogan-county-fair?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum?format=ical"
 },
 {
@@ -498,10 +462,6 @@
 {
 "text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/phonebanking-session-oct7?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/phonebanking-session-sept16?format=ical"
 },
 {
 "text": "ICS",
@@ -564,10 +524,6 @@
 "href": "https://www.youtube.com/playlist?list=PL6pHcbVJ2q0FBsPPWI3e-qEfNSdVVJwBc"
 },
 {
-"text": "Okanogan County Fair",
-"href": "https://www.johnduresky4congress.com/events/okanogan-county-fair"
-},
-{
 "text": "Omak Chamber of Commerce Candidate Forum",
 "href": "https://www.johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum"
 },
@@ -586,10 +542,6 @@
 {
 "text": "Phonebanking Session",
 "href": "https://www.johnduresky4congress.com/events/phonebanking-session-oct7"
-},
-{
-"text": "Phonebanking Session",
-"href": "https://www.johnduresky4congress.com/events/phonebanking-session-sept16"
 },
 {
 "text": "Phonebanking Session",
@@ -622,10 +574,6 @@
 {
 "text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser"
-},
-{
-"text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/canvass-event-sept12"
 },
 {
 "text": "View Event →",
@@ -717,10 +665,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/okanogan-county-fair"
-},
-{
-"text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum"
 },
 {
@@ -738,10 +682,6 @@
 {
 "text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/phonebanking-session-oct7"
-},
-{
-"text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/phonebanking-session-sept16"
 },
 {
 "text": "View Event →",
@@ -810,10 +750,6 @@
 {
 "text": "[image: Blue Wave Flippin' Fundraiser]",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser"
-},
-{
-"text": "[image: Canvassing Event (Tri-Cities)]",
-"href": "https://www.johnduresky4congress.com/events/canvass-event-sept12"
 },
 {
 "text": "[image: Canvassing Event (Tri-Cities)]",
@@ -908,10 +844,6 @@
 "href": "https://www.johnduresky4congress.com/events/meet-the-candidate-john-duresky-at-moonshot-brewing-tuesday-sept-22"
 },
 {
-"text": "[image: Okanogan County Fair]",
-"href": "https://www.johnduresky4congress.com/events/okanogan-county-fair"
-},
-{
 "text": "[image: Omak Chamber of Commerce Candidate Forum]",
 "href": "https://www.johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum"
 },
@@ -930,10 +862,6 @@
 {
 "text": "[image: Phonebanking Session]",
 "href": "https://www.johnduresky4congress.com/events/phonebanking-session-oct7"
-},
-{
-"text": "[image: Phonebanking Session]",
-"href": "https://www.johnduresky4congress.com/events/phonebanking-session-sept16"
 },
 {
 "text": "[image: Phonebanking Session]",

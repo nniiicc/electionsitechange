@@ -1,9 +1,9 @@
-Skip to content Sunday, October 18, 2026 Lauren Nelson for Senate P.O.
+Skip to content Monday, October 19, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: Important Issues Important Issues Videos I am on a mission for the people and families of District 18 Editor October 30, 2024 View More I am on a mission for the people and families of District 18 Education Important Issues Videos I pledge to support K-12 students and teachers Editor October 16, 2024 Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
 You will also… View More I pledge to support K-12 students and teachers Education Important Issues Videos Unwavering support for K-12 Education.
-Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More Unwavering support for K-12 Education.
+Editor October 16, 2024 “As your state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for District… View More Unwavering support for K-12 Education.
 Education Important Issues Videos My commitment to the students and teachers will be unwavering.
-Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More My commitment to the students and teachers will be unwavering.
+Editor October 16, 2024 “As your state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for District… View More My commitment to the students and teachers will be unwavering.
 Education Important Issues Videos If the discussion for education must focus around one word, let that word be AND, not OR.
 Editor October 16, 2024 K-12 Education: AND, not OR.
 View More If the discussion for education must focus around one word, let that word be AND, not OR.
@@ -13,4 +13,9 @@ When I look around… View More I pledge to protect our right to keep and bear a
 Important Issues Platform Videos I pledge to stand strong for Life.
 Editor May 26, 2024 Every child deserves to be safe and loved — and our state law should reflect that!
 I will ALWAYS vote to defend the unborn here… View More I pledge to stand strong for Life.
-Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top
+Search Search FaceBook You Need to Know I pledge to keep Government Local and for the people.
+October 15, 2026 I support economic development that is true & local October 15, 2026 I support limiting Government.
+Controls should be kept closest to the people.
+October 15, 2026 I support Property Rights.
+I will work to diligently protect the private property rights of all South Dakota citizens.
+October 15, 2026 Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

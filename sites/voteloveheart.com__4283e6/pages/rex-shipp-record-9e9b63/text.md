@@ -20,7 +20,7 @@ Education advocates worried the bills vague language limited academic freedom, v
 This bill would have ended the ability of localities to implement Ranked Choice Voting.
 RCV helps voters choose the best candidate in elections, undermining the two-party system by allowing voters to rank all the candidates in an election from favorite to least favorite, with their vote automatically transferring to their next favorite candidate if their first favorite candidate cannot secure the votes required to win.
 2024 HB 261 - Voted Yes.
-This bill would have taken away the right of the unhoused to possess a firearm in a homeless shelter, in direct violation of the Second Amendment of the United States Constitution. ​ 2020 HB 271 - Voted Yes.
+This bill rolls back civil rights progress under the guise of "neutrality" by forcing public universities to shutter identity-based cultural resource centers and ban the words "diversity, equity, and inclusion," perpetuating systemic inequality and createing a chilling effect on free speech, ultimately widening economic and educational opportunity gaps for underrepresented communities across the state. ​ 2020 HB 271 - Voted Yes.
 This bill would have taken away the right of the unhoused to possess a firearm in a homeless shelter, in direct violation of the Second Amendment of the United States Constitution. ​ 2021 HB 102 - Voted No.
 This bill, signed into law 3/16/21, provided continuation of contraceptive care to inmates. ​ 2021 HB 31 - Voted No.
 This bill would have created a workgroup to study issues related to unaccompanied minors in autonomous vehicles. ​ 2021 HB 18 - Voted No originally.

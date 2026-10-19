@@ -1,4 +1,4 @@
-top of page Home Issues Volunteer Endorsements Voting Media Donate ISSUES Fund Public Education Kids deserve fully funded public schools.
+top of page Home Issues Volunteer Endorsements Voting Media Albert Wittliff Landing Page Donate ISSUES Fund Public Education Kids deserve fully funded public schools.
 Public dollars belong in public schools.
 That means investing in teachers, securing safe campuses, and ensuring every child in HD 129 — and across the state — has access to a quality education.
 Our future depends on it. ​ Raise pay for teachers and staff Base per-student funding on total enrollment, not attendance Expand access to full-day Pre-K Ensure no child goes hungry at school Repeal vouchers which funnel tax dollars to unaccountable private schools Lower Home Insurance Costs Brighter futures start with fair coverage.

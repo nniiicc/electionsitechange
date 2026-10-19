@@ -1,4 +1,4 @@
-Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Endorsements Contact My Bills Donate Running a campaign costs money, and I’m humbly asking for your financial support to afford all the things that go into a campaign.
+Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Contact Endorsements My Bills Donate Running a campaign costs money, and I’m humbly asking for your financial support to afford all the things that go into a campaign.
 Campaign signs cost ~$5.00 each, and I’ll be putting up large billboards around the district so will need to purchase wood, screws, and large banners.
 There will be costs associated with printing campaign literature and donation envelopes, postcards, and postage.
 Additionally, I’ll have print and media advertising costs and bills associated with mandatory state campaign reporting.

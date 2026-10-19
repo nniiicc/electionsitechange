@@ -45,4 +45,4 @@ Real safety means caring for people, not ignoring the challenges they face.
 Healthcare Every citizen should have access to affordable and reliable healthcare without long travel times or overwhelming costs.
 I support strengthening and restoring the Affordable Care Act so people can manage health concerns and still maintain a good quality of life.
 Where i stand Power This Campaign Foward!
-Privacy Policy | Terms and Conditions
+Privacy Policy | Terms and Conditions Play audio Loading…

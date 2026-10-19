@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact District 8 Voter Info Are you wondering if you live in the Connecticut House of Representative’s 8th District?
+0 Skip to Content Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact District 8 Voter Info Are you wondering if you live in the Connecticut House of Representative’s 8th District?
 If you live in the towns of Coventry and Columbia you live in the 8th District.
 If you live in Bolton, Lebanon and Tolland, parts of your town are in the 8th District.
 Use the Connecticut General Assembly Find Your Legislator Tool below to determine if you live in the 8th District.

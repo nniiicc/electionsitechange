@@ -51,7 +51,7 @@ Where They Don’t Fit Well Small, isolated villages with low electrical loads a
 The regulatory and security overhead alone would exceed the economic benefits for a community of a few hundred people.
 Strategic Conclusion We will keep an eye on SMR development for our industrial hubs, but we will not wait for 'magic bullets'.
 Our focus remains on the Hybrid Microgrid model because it provides immediate relief and local control for the villages that need it most.
-Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

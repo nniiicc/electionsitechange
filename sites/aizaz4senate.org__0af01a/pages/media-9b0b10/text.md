@@ -9,21 +9,21 @@ Read Full Article → The Globe, Georgia Gwinnett College November 2015 Our Very
 The article highlights his journey from enlisting in the Air Force to achieving a 4.0 GPA and building networks for a future in politics.
 Read Full Article → Photo Gallery Moments from the campaign trail and the community.
 Leadership starts with listening.
-Building bridges at the Georgia General Assembly.
-Bringing District 7 together.
-Listening to the families of District 7.
-Meeting neighbors, one handshake at a time.
-Real conversations.
-Real solutions.
-Earning every vote — one neighbor at a time.
-Honoring the rich heritage of District 7.
-Showing up where decisions get made — City Hall.
+Standing with proven leaders at the gala.
+Putting in the work at the State Capitol.
 Rooted in community.
 Ready to serve.
-Putting in the work at the State Capitol.
+Bringing District 7 together.
+Earning every vote — one neighbor at a time.
 Proudly representing Gwinnett under the Gold Dome.
 Honored to stand with Senator Ed Harbison on the Senate floor.
-Standing with proven leaders at the gala.
+Showing up where decisions get made — City Hall.
+Real conversations.
+Real solutions.
+Meeting neighbors, one handshake at a time.
+Honoring the rich heritage of District 7.
+Building bridges at the Georgia General Assembly.
+Listening to the families of District 7.
 Previous slide Next slide Pause slideshow Follow the Campaign Facebook Follow us → X (Twitter) Follow us → Instagram Follow us → YouTube Follow us → TikTok Follow us → Aizaz Shaikh for State Senate Paid for by Aizaz 4 Senate, Inc.
 Home About Issues Get Involved Sign Up Privacy Policy Terms & Conditions © # Aizaz 4 Senate, Inc.
 All rights reserved.

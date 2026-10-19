@@ -240,7 +240,7 @@ Let it grow.
 But let it come here under rules written by Utahns, for Utah, with the expectation that if you want to become part of our future, you also accept a responsibility to the people and resources making that future possible.
 We write the rules first.
 Then we build.
-Drew Howells Candidate for Utah House District 39 Recent Posts See All Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability A vision for the future that is bold enough to matter Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Drew Howells Candidate for Utah House District 39 Recent Posts See All Eight Veterans, Two Parties, One Table: My Report From the Veterans Town Hall & Roundtable One Door, Every Answer: Introducing the Utah Veterans Ombudsman and Accountability Act Education Is Where the Future Begins Howells for Utah HD39 We can only achieve success in this campaign with your support.
 Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
 Every dollar matters!
 Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

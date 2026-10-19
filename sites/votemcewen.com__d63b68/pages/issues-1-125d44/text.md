@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Issues The richest 1% of Minnesotans now own nearly a third of all the wealth in our state.
+0 Skip to Content Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Meet Jen Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Issues The richest 1% of Minnesotans now own nearly a third of all the wealth in our state.
 This level of outrageous wealth inequality is not normal, and it should not be acceptable to any of us.
 Meanwhile, many Minnesotans are faced with housing insecurity, and unaffordable childcare and health insurance.
 Too often we are told that we don’t have the money to meet these needs.

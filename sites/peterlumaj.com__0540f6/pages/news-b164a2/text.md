@@ -1,7 +1,10 @@
 Skip to main content Home About News Resources Get Involved Open menu News & Updates Stay informed with the latest news, updates, and insights from Peter Lumaj's campaign for Secretary of the State.
-Featured Story # Days Until Election Day: Get Ready with Our GOTV App!
+Featured Story Early Voting Starts Tomorrow!
+The moment we've been working toward is here.
+Early voting in Connecticut starts tomorrow, Monday, October 19!
+Read Full Story → October 18, 2026 # Days Until Election Day: Get Ready with Our GOTV App!
 With just # days until Election Day, November 3rd is quickly approaching!
-Read Full Story → October 11, 2026 Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
+Read More → Oct 11 Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
 Read More → Oct 4 Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
 Last weekend, we joined fellow Republicans for the annual Guilford Fair parade.
 We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ...
@@ -33,7 +36,13 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Mike Fitzpatrick State Central Member 4th District "In the more than ten years I have known Peter Lumaj, he has not only remained a consistent and principled conservative, but has always been there to support fellow Republicans year after year.
-Whether it was a candidate for statewide office or a local candidate in a small town, Peter has provided both his time and his financial support to fellow Republicans.
-In 2026 Connecticut Republicans will need a unified team of principled leaders to win and then more importantly the talent to make real change once in office.
-For both of those challenges, Peter Lumaj is the ideal candidate for the Secretary of the State this election." View all endorsements →
+ENDORSED BY Henri Martin State Senator 31st District "Peter Lumaj has lived the American Dream.
+He loves our country and our state, and I am proud to call him a friend.
+Connecticut is a national embarrassment when it comes to election integrity.
+The Bridgeport ballot stuffing video went viral, prompting news outlets across the nation to mock the fraud.
+Yet under one-party rule in Connecticut, Democrats have zero interest in making reforms that will restore public confidence in our elections.
+The embarrassments and the fraud that have made Connecticut a national punchline will continue until we elect different leaders.
+As our new Secretary of the State, Peter Lumaj will make those reforms his top priority.
+He will be a voice for the people of our state who are sick and tired of the seemingly endless voter fraud in Connecticut.
+I wholeheartedly endorse Peter Lumaj.
+He will be an excellent Secretary of the State and will work tirelessly to restore trust and integrity in our elections." View all endorsements →

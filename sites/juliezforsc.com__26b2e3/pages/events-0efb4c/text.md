@@ -4,21 +4,21 @@ Julie Z for SC: Anytime Phonebank Multiple Times Virtual Event https://www.openv
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Flip the Future Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/6E2C66Q-891946 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
-Help us make… Show more RSVP Julie Z for SC: Autodialer Phonebank Multiple Times This event’s address is private.
+Help us make… Show more RSVP Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
+District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
+Help us make… Show more RSVP Julie Z for SC: Autodialer Phonebank This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Columbia, SC, 29201 Julie Zimmerman is running to represent South Carolina House District 71.
-District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
-Help us make… Show more RSVP Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Election Day Greeters Multiple Times House District 71 Irmo, SC, 29063 Join Team Julie Z for SC on Election Day November 3rd and greet voters.
 We are looking for volunteers to cover a voting location to wave signs, greet voters in line, and help us keep track of how ele… Show more RSVP Volunteer TODAY: Help ELECT DEMS Virtual Event There has never been a more critical time to join in the fight to help South Carolina Democrats win!
 Please let us know how you can join our effort.
-RSVP Team Richland County Canvassing Crew and Doors Team Multiple Times Richland County Democratic Party 805 Calhoun St, Columbia, SC, 29201 Come out and support our SC Democrats running to represent Columbia and surrounding Richland County areas.
-We are knocking on doors to have conversations with our Democratic neighbors about the issues… Show more RSVP Flip the Future 'In-Person' Phone Bank Multiple Times 805 Calhoun St, Columbia, SC, 29201 Make phone calls with others at the RCDP Office.
+RSVP Flip the Future 'In-Person' Phone Bank Multiple Times 805 Calhoun St, Columbia, SC, 29201 Make phone calls with others at the RCDP Office.
 We'll use a phone bank that assists you in dialing the numbers and doesn't show your personal information or phone number.
 Bring your phone and lapto… Show more RSVP Build the Bench: Volunteer Action Night Multiple Times RCDP Office 805 Calhoun St, Columbia, SC, 29201 Get ready for the November 3rd Midterm Elections!
 Join us on Thursday evenings for action and information packed volunteer sessions.
-Each session is designed to support and empower you as a volunteer… Show more RSVP Young Democrats of the Central Midlands - General Meeting Multiple Times This event’s address is private.
+Each session is designed to support and empower you as a volunteer… Show more RSVP Team Richland County Canvassing Crew and Doors Team Multiple Times Richland County Democratic Party 805 Calhoun St, Columbia, SC, 29201 Come out and support our SC Democrats running to represent Columbia and surrounding Richland County areas.
+We are knocking on doors to have conversations with our Democratic neighbors about the issues… Show more RSVP Young Democrats of the Central Midlands - General Meeting Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Lexington, SC, 29072 Join the Young Democrats of the Central Midlands covering Richland and Lexington County areas.
 Our meetings are regularly on the second and fourth Wednesdays of each month.

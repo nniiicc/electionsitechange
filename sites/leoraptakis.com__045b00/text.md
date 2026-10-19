@@ -12,7 +12,7 @@ Read More LEARN MORE Senator Leonidas P.
 Raptakis A Record of Reform Sen.
 Raptakis Ranked number l out of 32 democratic senators by the RI Freedom Index to protect taxpayers...
 Read More LEARN MORE HOME | ABOUT | AGENDA | NEWSROOM | EVENTS | DONATE | SOCIAL | ARCHIVES | CONTACT Newsroom DONATE GET INVOLVED Thank You for Your Support!
-"No One's Voice but Ours" State House Contact Number: 401-276-5567 * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
+"No One's Voice but Ours" * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
 Please review Privacy Policy.
 Your Zip Code * Enter your zip code of residence.
 I agree to receiving marketing and promotional materials Opt-In * Please Note: Donations require employer's company name, and donor's residential address. ©# | ALL RIGHTS RESERVED.

@@ -37,12 +37,13 @@ She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Bran
 Read more → October 18, 2026 Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
 Jack.
 October 19th.
-Stay tuned for more!
+Newnan.
+5 PM.
 Read more → October 19, 2026 Oct 20 October 20, 2026 Texting Tuesdays with Maura Keller October 20, 2026 Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
 Read more → October 20, 2026 Oct 25 October 25, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County October 25, 2026 Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
-Read more → October 25, 2026 Oct 30 October 30, 2026 End of 2026 Early Voting October 30, 2026 Early voting starts October 13th and ends October 30th.
+Read more → October 25, 2026 Oct 26 October 26, 2026 Fall Fundraiser: Early Vote Energy with Maura Keller for Congress October 26, 2026 Join Maura Keller for Congress at Awkward Brewing on Monday, October 26th for our Fall Fundraiser “Early Vote Energy.” Read more → October 26, 2026 Oct 30 October 30, 2026 End of 2026 Early Voting October 30, 2026 Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
 Read more → October 30, 2026 Nov 1 November 1, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County November 1, 2026 Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.

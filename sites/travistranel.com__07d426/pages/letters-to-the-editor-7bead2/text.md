@@ -11,9 +11,5 @@ Take pride in you letter and make the most of your opportunity to advocate whate
 Focus on relevant issues in the news, particularly those that were recently published in the paper you are writing.
 If possible, cite a specific article or letter you are responding to.
 The more recent your topic made news the more likely you are to be published.
-Subject Your Message Contact Tranel For Assembly | PO Box 111 | Platteville, WI 53818 608-778-5567 travis@travistranel.com Page likes: 2,086 (opens in a new tab) Tranel for Assembly (opens in a new tab) VOTE - Travis Tranel - NOV 3 Tranel for Assembly #ago Beautiful fall weather, great friends, and an amazing crowd in Prairie du Chien today!
-It was such a joy to connect with so many Crawford County supporters at the Octoberfest Parade.
-Team Tranel is truly thankful for the warm welcome and all the positive energy.
-What a perfect way to close out the parade season as we head toward Election Day on November 3rd.
-We would greatly appreciate your vote! ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Locations Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact © # Travis Tranel for 49th Assembly - All Rights Reserved Authorized and Paid for by Tranel for Assembly, Rosie Bechen, Treasurer
+Subject Your Message Contact Tranel For Assembly | PO Box 111 | Platteville, WI 53818 608-778-5567 travis@travistranel.com Page likes: 2,086 (opens in a new tab) Tranel for Assembly (opens in a new tab) VOTE - Travis Tranel - NOV 3 Tranel for Assembly #ago Thx for all of the help! ...
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Locations Home The Issues In the News About Travis 49th District Map Letters to the Editor Contact © # Travis Tranel for 49th Assembly - All Rights Reserved Authorized and Paid for by Tranel for Assembly, Rosie Bechen, Treasurer

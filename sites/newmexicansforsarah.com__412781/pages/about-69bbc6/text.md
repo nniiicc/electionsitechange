@@ -1,7 +1,7 @@
 0 Skip to Content VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-About Meet me Issues In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
-Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Meet ME Growing up in a Mesilla Valley farming community instilled in me the values of honesty, integrity, hard work, and optimism.
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+About Meet me Issues Data centers In the media Connect Sign up Donate Session recaps 2025 session 2026 session About HD53 English Donate Open Menu Close Menu VOTE!
+Folder: About Back Meet me Issues Data centers In the media Connect Sign up Donate Folder: Session recaps Back 2025 session 2026 session About HD53 English Back Donate Meet ME Growing up in a Mesilla Valley farming community instilled in me the values of honesty, integrity, hard work, and optimism.
 I’m fighting to protect the freedoms that help us turn our hopes into reality — like the freedom to decide whether and when to grow our families, to support and enjoy time with our loved ones, to care for them when they’re sick without losing jobs, and to let our kids be kids and come home safely from school.
 As your state representative, this means, after meeting a woman whose mother died in Chaparral while waiting for help, that I secured $5 million to build a new public safety facility that will include an ambulance bay.
 And I worked with doctors who live and work in Las Cruces, Chaparral and beyond to successfully reform our state’s medical malpractice laws so they can keep their practices open and serving you.

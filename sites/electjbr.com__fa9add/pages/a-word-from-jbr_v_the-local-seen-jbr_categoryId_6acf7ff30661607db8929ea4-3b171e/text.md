@@ -126,4 +126,4 @@ Join this team to get us across the finish line.
 And please vote for me on November 3rd.
 Thank you.
 Previous CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like I would be the FIRST WOMAN elected to this seat Another Reason I support Labor Unions Being an Inaugural Member of American Service Fellowship at Harvard Halifax's recent water shutoffs 25th Anniversary of 9/11 Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative You Might Also Like WATD 95.9 - Sixth Plymouth District Political Forum Moderating a Truman National Security Project Panel 25th Anniversary of 9/11 One reason I support Labor Unions Another Reason I support Labor Unions Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

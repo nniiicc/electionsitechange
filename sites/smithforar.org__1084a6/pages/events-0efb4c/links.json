@@ -65,6 +65,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=801+southeast+8th+street+bentonville%2C+arkansas%2C+72712+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=901+southwest+14th+street+bentonville%2C+ar%2C+72712+united+states"
 },
 {
@@ -121,7 +125,7 @@
 },
 {
 "text": "Donate",
-"href": "https://smithforar.org/donate"
+"href": "https://secure.actblue.com/donate/mitchell-smith-1"
 },
 {
 "text": "Downtown Rogers Fundraiser",
@@ -130,6 +134,10 @@
 {
 "text": "Election Day",
 "href": "https://smithforar.org/events/election-day"
+},
+{
+"text": "Election Night Watch Party",
+"href": "https://smithforar.org/events/election-night-watch-party"
 },
 {
 "text": "Events",
@@ -225,6 +233,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Night+Watch+Party&dates=20261104T013000Z%2F20261104T034500Z&location=801+Southeast+8th+Street%2C+Bentonville%2C+Arkansas%2C+72712%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Friday+Community+Hours+-+Bentonville+Brewing&dates=20260717T223000Z%2F20260717T233000Z&location=901+Southwest+14th+Street%2C+Bentonville%2C+AR%2C+72712%2C+United+States"
 },
 {
@@ -277,6 +289,30 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+24+%E2%80%93%26nbsp%3BBenton+County+Lit+Drops%21&dates=20261024T160000Z%2F20261024T180000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+24+AM+Session+%E2%80%93+Benton+County+GOTV&dates=20261024T150000Z%2F20261024T170000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+24+PM+Session+%E2%80%93+Benton+County+GOTV&dates=20261024T180000Z%2F20261024T200000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+31+%E2%80%93%26nbsp%3BBenton+County+Lit+Drops%21&dates=20261031T160000Z%2F20261031T180000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+31+AM+Session+%E2%80%93%26nbsp%3BBenton+County+GOTV&dates=20261031T150000Z%2F20261031T170000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oct.+31+PM+Session+%E2%80%93+Benton+County+GOTV&dates=20261031T180000Z%2F20261031T200000Z&location=1504+West+Walnut+Street%2C+Rogers%2C+Arkansas%2C+72756%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pints+for+Progress&dates=20260916T213000Z%2F20260917T000000Z&location=4204+South+JB+Hunt+Drive%2C+Rogers%2C+Arkansas%2C+72758%2C+United+States"
 },
 {
@@ -317,6 +353,14 @@
 },
 {
 "text": "ICS",
+"href": "https://smithforar.org/events/benton-county-lit-drops-tsawa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/benton-county-lit-drops?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://smithforar.org/events/benton-county-volunteer-training?format=ical"
 },
 {
@@ -338,6 +382,10 @@
 {
 "text": "ICS",
 "href": "https://smithforar.org/events/election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/election-night-watch-party?format=ical"
 },
 {
 "text": "ICS",
@@ -428,6 +476,22 @@
 "href": "https://smithforar.org/events/the-hub-gotv-arkansas?format=ical"
 },
 {
+"text": "ICS",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px-fdtm3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-m6kcz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv?format=ical"
+},
+{
 "text": "Issues",
 "href": "https://smithforar.org/home"
 },
@@ -438,6 +502,30 @@
 {
 "text": "No Kings National Day of Protest",
 "href": "https://smithforar.org/events/no-kings-march-28"
+},
+{
+"text": "Oct. 24 AM Session – Benton County GOTV",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv"
+},
+{
+"text": "Oct. 24 PM Session – Benton County GOTV",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px"
+},
+{
+"text": "Oct. 24 – Benton County Lit Drops!",
+"href": "https://smithforar.org/events/benton-county-lit-drops"
+},
+{
+"text": "Oct. 31 AM Session – Benton County GOTV",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-m6kcz"
+},
+{
+"text": "Oct. 31 PM Session – Benton County GOTV",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px-fdtm3"
+},
+{
+"text": "Oct. 31 – Benton County Lit Drops!",
+"href": "https://smithforar.org/events/benton-county-lit-drops-tsawa"
 },
 {
 "text": "Pints for Progress",
@@ -477,6 +565,14 @@
 },
 {
 "text": "View Event →",
+"href": "https://smithforar.org/events/benton-county-lit-drops"
+},
+{
+"text": "View Event →",
+"href": "https://smithforar.org/events/benton-county-lit-drops-tsawa"
+},
+{
+"text": "View Event →",
 "href": "https://smithforar.org/events/benton-county-volunteer-training"
 },
 {
@@ -498,6 +594,10 @@
 {
 "text": "View Event →",
 "href": "https://smithforar.org/events/election-day"
+},
+{
+"text": "View Event →",
+"href": "https://smithforar.org/events/election-night-watch-party"
 },
 {
 "text": "View Event →",
@@ -588,6 +688,22 @@
 "href": "https://smithforar.org/events/the-hub-gotv-arkansas"
 },
 {
+"text": "View Event →",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv"
+},
+{
+"text": "View Event →",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px"
+},
+{
+"text": "View Event →",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px-fdtm3"
+},
+{
+"text": "View Event →",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-m6kcz"
+},
+{
 "text": "[image: 22nd Annual NWA Pride Weekend]",
 "href": "https://smithforar.org/events/nwa-pride-weekend"
 },
@@ -630,6 +746,10 @@
 {
 "text": "[image: Election Day]",
 "href": "https://smithforar.org/events/election-day"
+},
+{
+"text": "[image: Election Night Watch Party]",
+"href": "https://smithforar.org/events/election-night-watch-party"
 },
 {
 "text": "[image: Friday Community Hours - Bentonville Brewing]",
@@ -686,6 +806,30 @@
 {
 "text": "[image: No Kings National Day of Protest]",
 "href": "https://smithforar.org/events/no-kings-march-28"
+},
+{
+"text": "[image: Oct. 24 AM Session – Benton County GOTV]",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv"
+},
+{
+"text": "[image: Oct. 24 PM Session – Benton County GOTV]",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px"
+},
+{
+"text": "[image: Oct. 24 –&nbsp;Benton County Lit Drops!]",
+"href": "https://smithforar.org/events/benton-county-lit-drops"
+},
+{
+"text": "[image: Oct. 31 AM Session –&nbsp;Benton County GOTV]",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-m6kcz"
+},
+{
+"text": "[image: Oct. 31 PM Session – Benton County GOTV]",
+"href": "https://smithforar.org/events/time-for-action-benton-county-gotv-7w9px-fdtm3"
+},
+{
+"text": "[image: Oct. 31 –&nbsp;Benton County Lit Drops!]",
+"href": "https://smithforar.org/events/benton-county-lit-drops-tsawa"
 },
 {
 "text": "[image: Pints for Progress]",

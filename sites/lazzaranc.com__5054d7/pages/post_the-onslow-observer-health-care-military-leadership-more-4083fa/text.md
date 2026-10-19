@@ -41,9 +41,10 @@ My prayers are with his family, his Jacksonville Police Department family, and e
 Rest easy, my friend.
 Godspeed, XY.
 Jacksonville will never forget you.
-Recent Posts See All The Onslow Observer: Passage of the State Budget, Right to Work, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Passage of the State Budget, Right to Work, & More...
 NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects NEWS: Lazzara Joins Local Leaders for Ribbon Cutting of Carolina Museum of the Marine JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

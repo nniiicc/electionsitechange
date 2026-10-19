@@ -14,7 +14,7 @@ You also have a very specific and clear goal of what you will do and fight for w
 The association provides “representation to deputies of the Washington County Sheriff’s Department,” according to its website.
 For more information, see: https://jimforwi.com/.
 Post navigation Previous post: Prev Washington Co.
-Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 Next post: Next Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 You May Also Like Posted May 16, 2024 in Endorsements , News , ticker Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted May 24, 2024 in Endorsements , News , Political Issues , ticker Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism June 7, 2024 Next post: Next Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 You May Also Like Posted March 11, 2024 in Endorsements , News , ticker Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly Posted May 16, 2024 in Endorsements , News , ticker Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

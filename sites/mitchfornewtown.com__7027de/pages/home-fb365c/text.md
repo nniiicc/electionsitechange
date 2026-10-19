@@ -30,7 +30,7 @@ Reach out.
 My cell is 203-470-272 8 and email is Mitch@MitchForNewtown.com .** Be well.
 Stay safe.
 Spread only Kindness. - Mitch THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
-Mitch f oMitch fr Newtown su pports Local News and Local Businesses News 25 Feb Wednesday, 10:22 PM · 2026 Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
+Mitch for Newtown su pports Local News and Local Businesses News 25 Feb Wednesday, 10:22 PM · 2026 Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Add your news summary here.
 Read more 15 Feb Sunday, 12:15 AM · 2026 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm ews summary here.
 Read more 10 Feb Tuesday, 3:51 PM · 2026 Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Add your news summary here.

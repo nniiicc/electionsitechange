@@ -1,14 +1,16 @@
 Skip to content Search for: About District 144 Priorities Endorsements Volunteer Donate Search for: About District 144 Priorities Endorsements Volunteer Donate About District 144 Priorities Endorsements Volunteer Donate Search for: Home districtadmin 2026-02-27T14:12:59-06:00 “Thank you for allowing me to represent you in the Texas House.
 It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign “Thank you for allowing me to represent you in the Texas House.
-It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign LEGISLATIVE PRIORITIES Consumer Protection Education Healthcare Flood Mitigation & Infrastructure Learn more about Mary Ann’s Priorities MAKE A CONTRIBUTION $10 $25 $50 $100 $250 Other STAY CONNECTED With Us On Social Media State Representative Mary Ann Perez Grateful to have the endorsement of Paola Gonzalez as I run for re-election!
+It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign LEGISLATIVE PRIORITIES Consumer Protection Education Healthcare Flood Mitigation & Infrastructure Learn more about Mary Ann’s Priorities MAKE A CONTRIBUTION $10 $25 $50 $100 $250 Other STAY CONNECTED With Us On Social Media State Representative Mary Ann Perez I’m truly grateful to have the endorsement of Crystal Dávila!
+Thank you, Crys, for your confidence in me!
+#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez Grateful to have the endorsement of Paola Gonzalez as I run for re-election!
 Thank you, Paola, for your continued support!
-#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am proud to have the endorsement of Monica Flores Richart!
+#txlege #HD144 #TeamMaryAnn 6 Likes Posted: #ago State Representative Mary Ann Perez I am proud to have the endorsement of Monica Flores Richart!
 Thank you, Monica, for standing with me!
-#txlege #HD144 #TeamMaryAnn 3 Likes Posted: #ago State Representative Mary Ann Perez I am grateful to have the support of Eva Loredo as I run for re-election.
+#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am grateful to have the support of Eva Loredo as I run for re-election.
 Thank you, Eva, for your trust and support over the years!
 #txlege #HD144 #TeamMaryAnn 1 Comments Tx message call 📱 4 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post Today, I attended the Port Houston Appreciation Day Business Expo & Luncheon, hosted by the Houston East End Chamber of Commerce.
 It was an honor to lead the Pledge of Allegiance and join local businesses and community leaders to recognize ...
-12 Likes Posted: #ago State Representative Mary Ann Perez I am proud to earn the endorsement of the Texas Society of Professional Engineers!
+13 Likes Posted: #ago State Representative Mary Ann Perez I am proud to earn the endorsement of the Texas Society of Professional Engineers!
 Texas is a national leader in jobs and innovation, and I look forward to continuing to work with professional engineers on critical infrastructure, public health, safety, ...
 3 Likes Posted: #ago State Representative Mary Ann Perez I’m so very grateful to have the endorsement of my dear friend, Dr.
 Adriana Tamez!
@@ -38,12 +40,9 @@ Thank you, Council Member Piña, for believing in me!
 Augustine Catholic Church Bazaar!
 Good food, music, games, and time catching up with neighbors.
 It was great seeing everyone!
-#txlege #HD144 21 Likes Posted: #ago State Representative Mary Ann Perez Honored to be endorsed by TREPAC!
+#txlege #HD144 22 Likes Posted: #ago State Representative Mary Ann Perez Honored to be endorsed by TREPAC!
 I’m grateful for the support of Texas REALTORS® and their work to support homeownership, protect private property rights, and strengthen our local economy.
 I look forward to continuing to work toward policies that help Texas ...
-17 Likes Posted: #ago State Representative Mary Ann Perez I’m grateful to have the endorsement of Council Member Mauro Barrera as I run for re-election.
-Thank you, Council Member Barrera, for your confidence in me!
-#txlege #HD144 #TeamMaryAnn 3 Comments https://www.facebook.com/reel/1570438974421416 https://www.youtube.com/watch?v=ofkHrK6P3wE&t=761s No No No No No No No No No No No No No No No No No No No No ...
-7 Likes Posted: #ago STAY INFORMED With The Latest Community News First Name * Last Name Email * Subscribe Δ Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+17 Likes Posted: #ago STAY INFORMED With The Latest Community News First Name * Last Name Email * Subscribe Δ Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
 Adv.
 Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

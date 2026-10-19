@@ -1,4 +1,4 @@
-0 Skip to Content Meet Jordan Jordan's Priorities Endorsements DONATE Open Menu Close Menu DONATE Meet Jordan Jordan's Priorities Endorsements Open Menu Close Menu Meet Jordan Jordan's Priorities Endorsements DONATE Jordan’s Priorities Standing Up to Bullies I’ve spent my life on the front lines, from hospital rooms to 4th-grade classrooms.
+0 Skip to Content About Priorities Endorsements Issues FAQ DONATE Open Menu Close Menu DONATE About Priorities Endorsements Issues FAQ Open Menu Close Menu About Priorities Endorsements Issues FAQ DONATE Jordan’s Priorities Standing Up to Bullies I’ve spent my life on the front lines, from hospital rooms to 4th-grade classrooms.
 I’ve learned that whether it’s a playground or the State Capitol, bullies always use the same playbook: they target those they think won't fight back.
 In Austin, I won’t just be another vote; I’ll be a teacher who knows how to stand his ground.
 I’m going there to take back our communities future, call out the fouls, and make sure that the people of this district finally have a representative who isn’t afraid to look a bully in the eye and say 'enough.

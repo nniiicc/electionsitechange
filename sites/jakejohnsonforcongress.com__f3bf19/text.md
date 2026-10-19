@@ -1,6 +1,6 @@
 Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Solving Problems for Southern Minnesota Jake is a math teacher and father of four running for Congress to bring down costs, take on corruption, and invest in our small towns.
 Priorities Donate About Priorities Town Halls Knock Doors News Volunteer Events Donate Solving Problems for Southern Minnesota Jake is a math teacher and father of four running for Congress to bring down costs, take on corruption, and invest in our small towns.
-Priorities Donate Watch an unedited town hall: Click here Jake Johnson is a math teacher who knows when the costs are adding up.
+Priorities Donate Watch a town hall and debate: WATCH AN ENTIRE, UNEDITED TOWN HALL WATCH AN ENTIRE, UNEDITED DEBATE Jake Johnson is a math teacher who knows when the costs are adding up.
 Jake grew up in Stewartville with ten siblings, as the son of a garbage man and a meter reader.
 Jake worked hard to make it into the middle class, supported along the way by his church community, public programs, and great teachers, which inspired him to become a teacher.
 For the past 20 years, Jake has taught high school math in Rochester, helping students solve tough problems and discover what they’re capable of.

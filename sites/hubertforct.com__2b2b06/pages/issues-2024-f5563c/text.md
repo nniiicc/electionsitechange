@@ -12,8 +12,9 @@ Lewis Connecticut Voting Rights Act , the nation’s most comprehensive state-le
 WHERE IS MY POLLING SITE? am i in district 144?
 FIND OUT ELECTION day PREP The election is quickly approaching!
 Use the links below to make sure you're ready and able to vote! register to vote apply for an absentee ballot join the campaign connect on social Follow the Hubert for CT campaign on your favorite social platforms to stay-up-to date on news and important information!
-Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
-All are welcome. volunteer Paid for by Hubert Delany for State Representative.
+VOTE NOV 3 General Election for District 144 Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
+All are welcome.
+Volunteer Paid for by Hubert Delany for State Representative.
 Jim Fleischer, Treasurer.
 Website Designed by T'kheya Yisrael, Approved by Hubert Delany.
 Disclaimer: Sgt.

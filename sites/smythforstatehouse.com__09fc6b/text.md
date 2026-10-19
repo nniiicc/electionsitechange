@@ -5,13 +5,17 @@ Government should work for you.
 I'm running for State House to put people first.
 I will fight for Accountability, Affordability, and Accessibility.
 It's time to bring common-sense back to politics.
-Donate Now Get Involved Get campaign updates straight to your inbox Subscribe Election Day · November 3, 2026 Countdown to Election Day 16 Days 01 Hours 36 Minutes 36 Seconds Every door, every conversation, every vote counts.
+Donate Now Get Involved Get campaign updates straight to your inbox Subscribe Election Day · November 3, 2026 Countdown to Election Day 15 Days 01 Hours 37 Minutes 53 Seconds Every door, every conversation, every vote counts.
 Join the team and help us win District 30A.
-District 30A Voter Resource Guide Local-first solutions Transparent budgeting Accessible services Community listening Results you can measure Latest Updates View all → Campaign Sep 2026 Free Yard Signs Now Available Show your support with a free Joey Smyth yard sign — request one through our shop and a volunteer will deliver it to your door.
+District 30A Voter Resource Guide Local-first solutions Transparent budgeting Accessible services Community listening Results you can measure Latest Updates View all → Community Oct 2026 Joey to Speak at SD30 DFL Town Hall in St.
+Michael Meet Joey along with Doug Chapin (CD6) and Leah Temple (SD30) on Tuesday, October 20 from 6:45–7:45 PM at St.
+Michael City Hall.
+Campaign Sep 2026 Free Yard Signs Now Available Show your support with a free Joey Smyth yard sign — request one through our shop and a volunteer will deliver it to your door.
 Endorsement Aug 2026 Northern Midwest Regional Council of Carpenters Endorses Joey Smyth The Northern Midwest Regional Council of Carpenters — representing tens of thousands of skilled carpenters across Minnesota — has endorsed Joey for District 30A.
 Endorsement Aug 2026 SEIU Minnesota State Council Endorses Joey Smyth SEIU Minnesota State Council — uniting janitors, security officers, health care workers, and public service workers — has endorsed Joey for District 30A.
 Endorsement Aug 2026 MAPE Endorses Joey Smyth The Minnesota Association of Professional Employees — 15,000+ state professionals — has endorsed Joey for District 30A.
-View all updates → Events View all → Our District Explore Minnesota House District 30A and find your local resources.
+View all updates → Events View all → Oct 20 SD30 DFL Town Hall - St.
+Michael St Michael City Hall - North Chamber Room, 11800 Town Center Dr, Saint Michael, MN 55376 · 6:45 PM – 7:45 PM CDT Our District Explore Minnesota House District 30A and find your local resources.
 MN House District 30A Albertville · St.
 Michael · Otsego · Hanover Stay in the Loop Get campaign updates, event invitations, and priority progress reports delivered to your inbox.
 Subscribe We respect your privacy.

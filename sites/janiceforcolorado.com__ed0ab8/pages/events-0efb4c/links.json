@@ -297,10 +297,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Loveland+-+Listening+Tour+2026&dates=20260108T000000Z%2F20260108T010000Z"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Loveland+Meet-and-Greet&dates=20260912T200000Z%2F20260912T213000Z&location=Loveland%2C+CO+80538"
 },
 {
@@ -461,10 +457,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.janiceforcolorado.com/events/listening-jan-7a?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.janiceforcolorado.com/events/listening-jan-7b?format=ical"
 },
 {
@@ -498,10 +490,6 @@
 {
 "text": "Knock Doors with Team Marchman",
 "href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
-},
-{
-"text": "Loveland - Listening Tour 2026",
-"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
 },
 {
 "text": "Loveland Meet-and-Greet",
@@ -650,10 +638,6 @@
 {
 "text": "View Event →",
 "href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
-},
-{
-"text": "View Event →",
-"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
 },
 {
 "text": "View Event →",
@@ -816,10 +800,6 @@
 "href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
 },
 {
-"text": "[image: Loveland - Listening Tour 2026]",
-"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
-},
-{
 "text": "[image: Loveland Meet-and-Greet]",
 "href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet"
 },
@@ -870,10 +850,6 @@
 {
 "text": "https://secure.actblue.com/donate/listening_tour_estes",
 "href": "https://secure.actblue.com/donate/listening_tour_estes"
-},
-{
-"text": "https://secure.actblue.com/donate/listening_tour_loveland",
-"href": "https://secure.actblue.com/donate/listening_tour_loveland"
 },
 {
 "text": "https://secure.actblue.com/donate/listening_tour_wellington",

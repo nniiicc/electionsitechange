@@ -6,7 +6,7 @@ Ben Keathley explains how over 300,000 Missourians are taking advantage of the s
 But one I'm most proud of is the senior property tax freeze.
 Passed not once but twice.
 The original measure in 2023 and the expansion bill in 2024.
-Since we passed the expansion, over 300 #ago 1 min read MO Tax Relief Now Endorses Rep.
+Since we passed the expansion, over 300 Oct 11 1 min read MO Tax Relief Now Endorses Rep.
 Ben Keathley.
 MO Tax Relief Now Endorses Tax Fighter Ben Keathley.
 Property tax reform is a #1 priority.

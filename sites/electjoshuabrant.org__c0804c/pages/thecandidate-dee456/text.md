@@ -219,7 +219,7 @@ Vision For The Future Joshua Brant envisions a future America that serves the ne
 He believes in an America where the needs of the many need not be weighed against the needs of the few.
 Most importantly, he believes in a strong, virtuous, and United States of America.
 “Why settle for GREAT when we can Do Better?” ~Joshua Brant Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
-Type your email… Subscribe Recent posts Response to Alting Statement Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Paid for by the Committee to Elect Joshua Brant .
+Type your email… Subscribe Recent posts Brant says he values transparency running for State Senate | City State | purdueexponent.org Response to Alting Statement Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate Communicate MERCH Endorsements & Pledges Paid for by the Committee to Elect Joshua Brant .
 Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website

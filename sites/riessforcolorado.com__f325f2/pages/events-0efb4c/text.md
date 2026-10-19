@@ -6,8 +6,21 @@ For more information, visit https://www.montezumagop.com/ See More 21 August 202
 For more information, please visit https://archuletarepublicans.org/ See More Naomi Riess is following a robust travel schedule across HD59 to meet with as many residents as possible.
 For more information about any events listed below, feel free to send an email to info@riessforcolorado.com For updates and all events, please sign up for the newsletter.
 Missed an issue?
-Visit the Archive: Browse the Newsletter Archive 20 Oct 11:30 a.m.
-Southwest Republican Women's Lunch Durango La Plata County 16 Oct 7:00 a.m.
+Visit the Archive: Browse the Newsletter Archive 3 Nov 5:30 p.m.
+GOP Hosted Election Day Watch Party Durango La Plata County Coming Soon 1 Nov 9:00 a.m.
+GOP Hosted VFW4031 Veteran Breakfast Durango La Plata County See More 30 Oct 7:00 a.m.
+Toastmasters Durango La Plata County 29 Oct 5:30 p.m.
+Ballot Round Up Calling - Montezuma Cortez Montezuma County Coming Soon 28 Oct 5:30 p.m.
+Ballot Round Up Calling - Archuleta Pagosa Archuleta County Coming Soon 27 Oct 5:30 p.m.
+Ballot Round Up Calling - La Plata & San Juan Durango La Plata County See More 24 Oct 11:30 a.m.
+Candidate Sign & Flag Waving Event Durango La Plata County Coming Soon 24 Oct 9:00 a.m.
+Mission Ready Veterans Resource Fair Durango La Plata County See More 23 Oct 8:00 a.m.
+Veterans Friday Coffee Durango La Plata County 22 Oct 5:30 a.m.
+Jeff Hurd Countdown to Victory Durango La Plata County 21 Oct 8:00 a.m.
+Club 20 Caucus - Virtual Durango La Plata County 20 Oct 7:00 p.m.
+Durango Gun Club Durango La Plata County 20 Oct 11:30 a.m.
+Southwest Republican Women's Lunch Durango La Plata County 17 Oct 11:30 a.m.
+Candidate Sign & Flag Waving Event Durango La Plata County See More 16 Oct 7:00 a.m.
 Toastmasters Durango La Plata County 15 Oct 5:30 p.m.
 Archuleta County GOP Mtg.
 Pagosa Archuleta County 14 & 15 Oct 11:30 a.m.

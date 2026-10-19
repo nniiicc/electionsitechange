@@ -1,10 +1,7 @@
-0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Upcoming Events Oct 18 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA Sunday, October 18, 2026 2:00 PM 3:00 PM Google Calendar ICS Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
-We will meet to provide training and materials for your chosen candidate.
-All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.
-If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!
-This event will launch from a local restaurant.
-Address will be provided upon registration.
-View Event → Oct 18 North Fulton Candidate Meet and Greet: Sandy Springs Sunday, October 18, 2026 4:30 PM 6:30 PM Google Calendar ICS View Event → Oct 22 RoWR to The Door Canvass with Beth Fuller for House District 53 Thursday, October 22, 2026 6:00 PM 8:00 PM Google Calendar ICS Join Roswell Women Rising and Beth Fuller, candidate for House District 53, on Thursday, October 22 for an evening of knocking doors for democracy!
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Upcoming Events Oct 21 Come Meet Us | Atlanta Democrats with Beth Fuller Wednesday, October 21, 2026 7:00 PM 8:30 PM Google Calendar ICS Join us in Buckhead to connect with fellow Atlanta Democrats, meet like-minded neighbors, and learn how you can help build Democratic momentum in the 2026 elections.
+This week we will be joined by Beth Fuller, candidate for GA House D53.
+Bring a friend and get involved!
+View Event → Oct 22 RoWR to The Door Canvass with Beth Fuller for House District 53 Thursday, October 22, 2026 6:00 PM 8:00 PM Google Calendar ICS Join Roswell Women Rising and Beth Fuller, candidate for House District 53, on Thursday, October 22 for an evening of knocking doors for democracy!
 We'll kick off at 6:00 PM in the Roswell Cultural Arts Center parking lot.
 No canvassing experience needed.
 We'll provide training and supplies, and we'll pair new volunteers with experienced canvassers.
@@ -13,7 +10,32 @@ Roswell Women Rising (RoWR) is 400+ local women building a strong, inclusive com
 When we're not knocking doors, we get together every month for speakers and local charity drives, plus weekly coffee meetups.
 Everyone is welcome at this canvass, and if you like what you see, come roar with us!
 Email roswellwomenrising@gmail.com to get connected.
-View Event → Oct 25 Canvass in HD 53 with Georgia Majority Sunday, October 25, 2026 1:00 PM 3:00 PM Google Calendar ICS View Event → Oct 25 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA Sunday, October 25, 2026 2:00 PM 3:00 PM Google Calendar ICS Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
+View Event → Oct 24 Canvass for Beth Fuller, Sheila Edwards, & Peter Hubbard with Necessary Trouble Georgia Saturday, October 24, 2026 10:00 AM 1:00 PM Google Calendar ICS Join Necessary Trouble Georgia to canvass for Beth Fuller, Sheila Edwards, and Peter Hubbard!
+Whether you’ve canvassed before or this is your first time, we’ll provide a quick training and make sure you have everything you need before heading out in teams.
+No prior experience needed.
+This is how real campaigns are built, neighbor to neighbor and block by block.
+View Event → Oct 24 to Nov 3 Ground Game Georgia — Get Out the Vote in House District 53!
+Sat, Oct 24, 2026 10:00 AM Tue, Nov 3, 2026 6:00 PM Google Calendar ICS Get Out the Vote in House District 53!
+Election Day is November 3, and we're coming together to help our neighbors make their voices heard!
+Join volunteers across House District 53 for coordinated Get Out the Vote canvassing.
+Whether this is your first time knocking on doors or you've been doing it for years, everyone is welcome.
+Training and materials are provided.
+Upcoming Canvassing Shifts Saturday, October 24 10 AM–1 PM | 1–4 PM | 4–6 PM | 6–8 PM Sunday, October 25 1–4 PM | 4–6 PM | 6–8 PM Saturday, October 31 10 AM–1 PM | 1–4 PM | 4–6 PM | 6–8 PM Sunday, November 1 1–4 PM | 4–6 PM | 6–8 PM Monday, November 2 10 AM–1 PM | 1–4 PM | 4–6 PM | 6–8 PM Tuesday, November 3 — Election Day 7–10 AM | 10 AM–1 PM | 1–4 PM | 4–6 PM All times are Eastern.
+Meeting locations and additional details will be provided after registration.
+What to bring: Comfortable shoes, weather-appropriate clothing, and a fully charged phone.
+No experience necessary!
+Ready to Join Us?
+SIGN UP FOR A CANVASSING SHIFT Choose the date and time that works for you.
+We'd love to see you out there!
+View Event → Oct 24 Canvass Sandy Springs with Beth Fuller and Kevin Abel Saturday, October 24, 2026 1:00 PM 4:00 PM Google Calendar ICS Join us to knock doors in the community with Beth Fuller (HD 53) and Kevin Abel (SD 14)!
+Whether you’ve canvassed before or this is your first time, we’ll provide a quick training and make sure you have everything you need before heading out in teams.
+No prior experience needed.
+This is how real campaigns are built, neighbor to neighbor and block by block.
+View Event → Oct 25 Canvass in HD 53 with Georgia Majority Sunday, October 25, 2026 1:00 PM 3:00 PM Google Calendar ICS Join us to knock doors in the community for Beth Fuller, Kevin Abel and Georgia Majority for Gun Safety!
+Whether you’ve canvassed before or this is your first time, we’ll provide a quick training and make sure you have everything you need before heading out in teams.
+No prior experience needed.
+This is how real campaigns are built, neighbor to neighbor and block by block.
+View Event → Oct 25 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA Sunday, October 25, 2026 2:00 PM 3:00 PM Google Calendar ICS Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
 We will meet to provide training and materials for your chosen candidate.
 All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.
 If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!
@@ -22,6 +44,12 @@ Address will be provided upon registration.
 View Event → Nov 1 Canvass with Beth Fuller and RaShaun Kemp!
 Sunday, November 1, 2026 1:00 PM 4:00 PM Google Calendar ICS Join us for a canvass with Beth Fuller and Senator RaShaun Kemp!
 We'll be knocking doors in Sandy Springs to make sure we get out the vote and flip a crucial seat in Georgia!
+View Event → Oct 18 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA Sunday, October 18, 2026 2:00 PM 3:00 PM Google Calendar ICS Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
+We will meet to provide training and materials for your chosen candidate.
+All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.
+If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!
+This event will launch from a local restaurant.
+Address will be provided upon registration.
 View Event → Oct 14 Meet & Greet with Beth Fuller for Georgia Wednesday, October 14, 2026 6:00 PM 8:00 PM Google Calendar ICS Join us for a Meet & Greet with Beth Fuller, candidate for Georgia State House District 53.
 Hear about why she is running for the State House and her policy priorities, and she'll answer your questions and listen to your thoughts on how we can make Georgia a better place to live for everyone.
 This event is located in Buckhead.

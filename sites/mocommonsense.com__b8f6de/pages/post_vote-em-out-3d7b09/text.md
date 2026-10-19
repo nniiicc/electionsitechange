@@ -23,9 +23,8 @@ The logic seemed to mesh well with the attitude of Missourians.
 You see, those Wells for Missouri Hi, I'm John Wells, lifelong Missourian.
 I love this state.
 Missouri is home to the best sports teams, great universities and beautiful landscapes.
-We have the benefit of being centrally located, on t Fall Season Fall has arrived, pumpkins are out and voting season is just around the corner!
-There is a lot going on in October, so here is a quick rundown of all the events you might want to visit.
-Oct.
-3 - Payne Wells for Missouri - MoCommonSense.com Donate to Wells for Missouri Senate Campaign through Act Blue.
+We have the benefit of being centrally located, on t Participate in the process As we enter the last few weeks of this election cycle, you'll have a few more opportunities to hear directly from your candidates.
+I encourage you to take part.
+If you have questions about who to vote Wells for Missouri - MoCommonSense.com Donate to Wells for Missouri Senate Campaign through Act Blue.
 Contact Phone: 573-356-5926 Email: mocommonsense@gmail.com Holts Summit, MO Find me on Social Media: Privacy Policy Accessibility Statement ©# mocommonsense.com.
 Powered and secured by Wix. bottom of page

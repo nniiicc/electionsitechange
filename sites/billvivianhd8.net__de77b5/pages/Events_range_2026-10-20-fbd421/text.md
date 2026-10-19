@@ -1,0 +1,5 @@
+Meet Bill Issues News Volunteer Contribute Events MEET & MINGLE with 2026 CANDIDATES Saturday, March 14th, 10am-Noon $# per person at door or Anedot donation https://secure.anedot.com/lcrcc/2026candidatemingle Informal receiving-line format for individual introductions to all the candidates and friendly conversations throughout the morning.
+Beverages and snacks provided.
+2645 Suzanne Way, Eugene, OR #ago This Week This Month ‹ Previous Tue Oct 20 2026 Next › No events in this range Try a different date range, or check back soon for new events.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Lane County Ballots Mailed and in the Box Condolences to Bend Families U of O Ducks Football Game with Signs & Eugene Police LookOut Eugene-Springfield Article Eugene Blue Protest includes Bill Vivian Sign Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

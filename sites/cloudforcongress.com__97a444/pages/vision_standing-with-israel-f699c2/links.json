@@ -12,10 +12,6 @@
 "href": "https://www.cloudforcongress.com/about-michael/"
 },
 {
-"text": "Agriculture and Property Rights",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
-},
-{
 "text": "Cloud Victory Fund",
 "href": "https://secure.anedot.com/cloud-victory-fund/donate"
 },
@@ -48,6 +44,14 @@
 "href": "https://www.cloudforcongress.com/vision/energy-and-trade/"
 },
 {
+"text": "Family Values",
+"href": "https://www.cloudforcongress.com/vision/family-values/"
+},
+{
+"text": "Health Care",
+"href": "https://www.cloudforcongress.com/vision/health-care/"
+},
+{
 "text": "Home",
 "href": "https://www.cloudforcongress.com/"
 },
@@ -56,16 +60,8 @@
 "href": "https://www.mintandvine.com"
 },
 {
-"text": "Pro-Life",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
-},
-{
 "text": "Pro-LifeNext",
 "href": "https://www.cloudforcongress.com/vision/pro-life/"
-},
-{
-"text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
 },
 {
 "text": "Read More »",
@@ -73,7 +69,11 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
+"href": "https://www.cloudforcongress.com/vision/family-values/"
+},
+{
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "Volunteer",
@@ -89,15 +89,15 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
-},
-{
-"text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/energy-and-trade/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
+"href": "https://www.cloudforcongress.com/vision/family-values/"
+},
+{
+"text": "[image]",
+"href": "https://www.cloudforcongress.com/vision/health-care/"
 },
 {
 "text": "[no text]",

@@ -18,10 +18,10 @@ Reliable high-speed internet is essential for education, healthcare, small busin
 READ MORE >>> ONSLOW COUNTY SHERIFF’S OFFICE CITIZENS ACADEMY Want a behind-the-scenes look at what it takes to serve and protect Onslow County?
 The Onslow County Sheriff’s Office Citizens Academy is now accepting applications for its Spring 2026 session — and spots are filling fast!
 This 10-week program gives residents a hands-on look at the daily work of deputies, including: ✅ Ride-alongs with deputies ✅ Tours of the Detention Center and 911 Center ✅ Meetings with the local District Attorney and a judge There are only 12 seats left, and enrollment is first-come, first-served.
-LEARN MORE >>> Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+LEARN MORE >>> Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

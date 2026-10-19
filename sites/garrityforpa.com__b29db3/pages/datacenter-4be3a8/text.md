@@ -46,7 +46,10 @@ See our Privacy Policy and Terms here .
 Sign the Petition Pennsylvania Communities First Pennsylvanians working together for the common good have built strong communities across the Commonwealth, achieving remarkable accomplishments and inspiring pride.
 Raising Hope in Pennsylvania Campaign launch Honor the legacy of freedom William Penn established by sharing the best about the community you love and are proud to call home.
 Share what you love about the commonwealth: Full Name (Required) Email (Required) Link to Your Video ...Or Upload a File Accepted file types: mp4, mov, m4v, webm, Max. file size: 48 MB.
-Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Every election is an opportunity to shape the future of our Commonwealth.
+Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Josh Shapiro turned his back on Pennsylvania’s small businesses and Veterans organizations to sell out to his donors in the casino industry.
+Josh Shapiro may not think they’re worth fighting for, but I do.
+#GarrityRichey https://t.co/PmMN4gF6M5 View Post on X → @GarrityForPA #ago Here’s your daily reminder that Josh Shapiro chose his friends in the casino business over PA vets and small businesses.
+#JoshShapiro #skillgames https://t.co/ofEbX5VOZz View Post on X → @GarrityForPA #ago Every election is an opportunity to shape the future of our Commonwealth.
 Whether you’re voting early or heading to the polls on Election Day, have a plan and make your voice count!
 #GarrityRichey https://t.co/i6IlfbahnR View Post on X → @GarrityForPA #ago Happy Columbus Day!
 Pennsylvania is home to generations of proud Italian-American families whose faith, hard work, traditions, and love of country have helped build our communities and strengthen our Commonwealth.
@@ -68,12 +71,7 @@ View Post on X → @GarrityForPA #ago Four years ago, @joshshapiropa promised ev
 Did you get yours?
 I didn’t!
 My administration will deliver $250 for each of the 3 summer driving months to provide gas relief.
-View Post on X → @GarrityForPA #ago Tonight on the debate stage, I’ll be setting the record straight on Josh Shapiro’s failed record throughout his decades-long tenure as a career politician.
-But before I step on stage, I want to hear from you.
-What issues matter most to your family?
-What do you want the Governor to answer for tonight?
-Take 30 seconds and tell me: https://t.co/Krq42ieITK View Post on X → @GarrityForPA #ago Pennsylvanians deserve an insurance system that works for them, not against them.
-#GarrityRichey https://t.co/JNslfBrE4g View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
 All Rights Reserved.
 Garrity for PA 4075 Linglestown Rd.
 #119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.

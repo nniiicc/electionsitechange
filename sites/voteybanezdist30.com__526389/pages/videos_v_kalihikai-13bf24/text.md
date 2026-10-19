@@ -9,11 +9,10 @@ In Kalihi, we all come from complex backgrounds.
 I believe in second chances, I believe in giving back to the community.
 And I believe in speaking to everyone in it.
 #OurCommunityFirst #Kalihi #VoteYbanez4Kalihi #Hawaii Next Door to Door at Kuhio Park Terrace in Kalihi!
-You Might Also Like YBANEZ - Mahalo Gov.
+You Might Also Like YBANEZ - Saturday, 7/25/2026 YBANEZ - Tropical Cyclone LALA | Friday, August 14th YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-"Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ 4 KALIHI - Support Local!
-Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst Are you registered to vote?
+YBANEZ - Walk & Talk | Monday, August 3rd A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

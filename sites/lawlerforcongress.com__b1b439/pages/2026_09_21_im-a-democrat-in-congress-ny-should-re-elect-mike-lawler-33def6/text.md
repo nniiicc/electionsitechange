@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News I’m a Democrat in Congress.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate News I’m a Democrat in Congress.
 NY should re-elect Mike Lawler.
 September 21, 2026 By Congressman Jared Golden USA Today I spent eight years in Congress, and I won’t pretend they were easy ones.
 When I announced last fall that I would not seek reelection, I wrote about the incivility and plain nastiness that are now common in our politics, and about a Congress that too often rewards ego and division over patience and determination.
@@ -58,5 +58,5 @@ Maine’s lobstermen can tell you how much it matters.
 Jared Golden represents Maine’s 2nd Congressional District in the U.S.
 House of Representatives.
 He is a Marine Corps veteran of the wars in Iraq and Afghanistan.
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

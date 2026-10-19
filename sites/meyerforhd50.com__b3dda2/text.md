@@ -24,7 +24,9 @@ I'll listen to them and fight for public schools that can keep up with our growi
 See UEA-PAC's recommended candidates Family & Disability Support Real Support for Families, Not Just Promises I'm raising a son on the autism spectrum, and my sister lives with a permanent disability in a full-time care facility.
 Our family knows how exhausting it is to navigate waitlists and piece together support from systems that do not talk to each other.
 I'll push for adequate funding for disability providers, shorter waitlists, and real coordination between schools, Medicaid programs, and community services.
-Eagle Mountain By the Numbers Our Population Exploded.
+Mental Health Is a Priority I’m proud to be a Mental Health Now candidate.
+If elected to the Utah House, I will work to make mental healthcare easier to access and afford, strengthen support for young people, and help families get care before a crisis.
+Read My Priorities Eagle Mountain By the Numbers Our Population Exploded.
 Our Infrastructure Didn't.
 Eagle Mountain grew from roughly 3,000 residents in 2000 to more than 64,000 today.
 Our roads, schools, and water systems have not kept up, and working families are being asked to absorb the consequences.

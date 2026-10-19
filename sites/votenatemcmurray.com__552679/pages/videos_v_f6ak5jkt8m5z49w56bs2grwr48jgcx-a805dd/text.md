@@ -28,7 +28,6 @@ And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
 Next Why Is Southern Ontario Doing Better Than Western New York?
-You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-Volunteer and Sign Up for Updates!
+You Might Also Like WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Volunteer and Sign Up for Updates!

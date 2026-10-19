@@ -13,7 +13,15 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=160+martin+luther+king+junior+drive+newnan%2C+georgia%2C+30263+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=250+lee+street+fayetteville%2C+georgia%2C+30214+united+states"
 },
 {
 "text": "(map)",
@@ -24,8 +32,8 @@
 "href": "https://maurakeller.com/cart"
 },
 {
-"text": "Alfred Wilson Funeral Home",
-"href": "http://maps.google.com?q=116+cleghorn+street+villa+rica%2C+georgia%2C+30180+united+states"
+"text": "Awkward Brewing",
+"href": "http://maps.google.com?q=250+lee+street+fayetteville%2C+georgia%2C+30214+united+states"
 },
 {
 "text": "Back",
@@ -120,6 +128,10 @@
 "href": "https://maurakeller.com/events/canvass-09-30"
 },
 {
+"text": "Central Educational Center",
+"href": "http://maps.google.com?q=160+martin+luther+king+junior+drive+newnan%2C+georgia%2C+30263+united+states"
+},
+{
 "text": "Contact",
 "href": "https://maurakeller.com/contact"
 },
@@ -158,6 +170,10 @@
 {
 "text": "Events",
 "href": "https://maurakeller.com/events"
+},
+{
+"text": "Fall Fundraiser: Early Vote Energy with Maura Keller for Congress",
+"href": "https://maurakeller.com/events/early-vote-energy"
 },
 {
 "text": "Fayette",
@@ -273,6 +289,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Fundraiser%3A+Early+Vote+Energy+with+Maura+Keller+for+Congress&dates=20261026T230000Z%2F20261027T020000Z&location=250+Lee+Street%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+and+Canvass+with+Maura+Keller+%7C+Muscogee+County&dates=20261010T210000Z%2F20261010T230000Z&location=1501+13th+Street%2C+Columbus%2C+Georgia%2C+31901%2C+United+States"
 },
 {
@@ -281,7 +301,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Newnan-Coweta+Chamber+of+Commerce+Candidate+Forum&dates=20261019T230000Z%2F20261020T000000Z"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Newnan-Coweta+Chamber+of+Commerce+Candidate+Forum&dates=20261019T220000Z%2F20261019T224500Z&location=160+Martin+Luther+King+Junior+Drive%2C+Newnan%2C+Georgia%2C+30263%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -294,10 +314,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Start+of+2026+Early+Voting%21&dates=20261013T140000Z%2F20261014T000000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260908T223000Z%2F20260909T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -421,6 +437,10 @@
 },
 {
 "text": "ICS",
+"href": "https://maurakeller.com/events/early-vote-energy?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://maurakeller.com/events/early-voting-end?format=ical"
 },
 {
@@ -466,10 +486,6 @@
 {
 "text": "ICS",
 "href": "https://maurakeller.com/events/texting-tuesdays-9-29?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://maurakeller.com/events/texting-tuesdays-9-8?format=ical"
 },
 {
 "text": "ICS",
@@ -525,15 +541,15 @@
 },
 {
 "text": "Read more →",
+"href": "https://maurakeller.com/events/early-vote-energy"
+},
+{
+"text": "Read more →",
 "href": "https://maurakeller.com/events/early-voting-end"
 },
 {
 "text": "Read more →",
 "href": "https://maurakeller.com/events/election-day-2026"
-},
-{
-"text": "Read more →",
-"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
 },
 {
 "text": "Read more →",
@@ -578,10 +594,6 @@
 {
 "text": "Texting Tuesdays with Maura Keller",
 "href": "https://maurakeller.com/events/texting-tuesdays-9-29"
-},
-{
-"text": "Texting Tuesdays with Maura Keller",
-"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
 },
 {
 "text": "Texting and Postcard Writing Party with Maura Keller",
@@ -685,6 +697,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://maurakeller.com/events/early-vote-energy"
+},
+{
+"text": "View Event →",
 "href": "https://maurakeller.com/events/early-voting-end"
 },
 {
@@ -730,10 +746,6 @@
 {
 "text": "View Event →",
 "href": "https://maurakeller.com/events/texting-tuesdays-9-29"
-},
-{
-"text": "View Event →",
-"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
 },
 {
 "text": "View Event →",
@@ -856,6 +868,14 @@
 "href": "https://maurakeller.com/events/early-voting-end"
 },
 {
+"text": "[image: Fall Fundraiser: Early Vote Energy with Maura Keller for Congress]",
+"href": "https://maurakeller.com/events/early-vote-energy"
+},
+{
+"text": "[image: Fall Fundraiser: Early Vote Energy with Maura Keller for Congress] Oct 26",
+"href": "https://maurakeller.com/events/early-vote-energy"
+},
+{
 "text": "[image: Maura Keller]",
 "href": "https://maurakeller.com/"
 },
@@ -865,10 +885,6 @@
 },
 {
 "text": "[image: Meet and Greet with Maura Keller in Carroll County]",
-"href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
-},
-{
-"text": "[image: Meet and Greet with Maura Keller in Carroll County] Oct 18",
 "href": "https://maurakeller.com/events/meet-and-greet-10-18-villa-rica"
 },
 {
@@ -910,10 +926,6 @@
 {
 "text": "[image: Texting Tuesdays with Maura Keller]",
 "href": "https://maurakeller.com/events/texting-tuesdays-9-29"
-},
-{
-"text": "[image: Texting Tuesdays with Maura Keller]",
-"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
 },
 {
 "text": "[image: Texting Tuesdays with Maura Keller] Oct 20",

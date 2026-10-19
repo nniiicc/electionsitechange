@@ -3,9 +3,8 @@ Please bring proper ID toupdate your voter registration or to register to vote.
 Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
 Expanded Early Voting Saturday, October 17—Saturday, October 31 There are 22 Early Voting Convenience Centers in Sandoval County.
 Most Early Voting centers are open from Monday through Saturday, 10am to 7pm.
-All Early Voting Locations can be found here .
-The Early Voting Locations closest to House District 57 are: Sandoval County Admin Building at 1500 Idalia Road, Bernalillo, NM 87004 Our Lady Queen of Angels, 1701 Tulip Rd.
-SE, Rio Rancho, NM 87124 Living Word Church, 1901 17th Ave NE, Rio Rancho, NM, 87144 bsentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
+All Early Voting Locations can be found here . [ NOTE: Community of Joy Lutheran Church is no longer an Early Vote site.] The Early Voting Locations closest to House District 57 are: Sandoval County Admin Building at 1500 Idalia Road, Bernalillo, NM 87004 Our Lady Queen of Angels, 1701 Tulip Rd.
+SE, Rio Rancho, NM 87124 Living Word Church, 1901 17th Ave NE, Rio Rancho, NM, 87144 Absentee Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
 It is easy to request your absentee ballot online .
 Ballots are now being mailed out.
 You can also now vote In-Person (Absentee) at the Sandoval County Administration Offices, Bureau of Elections.

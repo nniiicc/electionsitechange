@@ -25,7 +25,8 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Giannoulias Earns Illinois Federation of Teachers’ Endorsement for Secretary of State Statewide 100,000+ Member Organization Supports Democrat in 2022 Keep Reading → Did You Know?
-When people think of the Secretary of State’s office, they naturally think of driver’s licenses.
-But the Secretary of State plays a variety of critical Keep Reading → Democratic Secretary of State candidate Alexi Giannoulias gains edge in getting AFL-CIO backing with endorsement from Illinois Federation Teachers The Illinois Federation of Teachers has endorsed former state Treasurer Alexi Giannoulias’ bid for the Democratic nomination for secretary of state in next year’s primary, Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Digital IDs will become available this year for Illinois residents.
+Here’s what to know.
+The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
+Secretary Keep Reading → Giannoulias: New Legislation Aims to End the Stigma for Immigrant Drivers; Make Illinois Roads Safer Legislation will allow state to issue standardized licenses to legally licensed immigrant motorists Keep Reading → First-in-the-Nation Legislation to Prevent Book Bans Approved by General Assembly House Bill 2789 passes Senate today Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

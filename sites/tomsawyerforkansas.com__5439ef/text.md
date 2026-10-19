@@ -1,6 +1,6 @@
 Skip to main content Tom Sawyer for Kansas Tom Sawyer for Kansas Home About Tom Sawyer Tom Sawyer Shares Our Values Tom Sawyer fighting to cut our taxes SB 1 2024 Special Session Tax Cuts Tom Sawyer fights for jobs in Wichita Tom Sawyer reforming Kansas Contact Donate District Events Videos Find your polling place VOTE VOTE EARLY IN PERSON Welcome to Tom Sawyer for Kansas As Kansas State Representative for the 95th District, I am dedicated to serving the people of Wichita with integrity and commitment.
 My goal is to ensure that your voice is heard and that we work together to build a stronger, more vibrant community.
-Services Community Outreach Community Outreach: Engaging with residents through district events and communication to build trust and unity in the community.
+VOTE EARLY at the Advanced Learning Library Services Community Outreach Community Outreach: Engaging with residents through district events and communication to build trust and unity in the community.
 Tom Sawyer holds town hall meetings, sends out newsletters, surveys the district, posts updates on key legislation on social media, and is active in our community.
 Tom Sawyer 2026 Voting Record Every Recorded Vote Tom Sawyer 2025 Voting Record Every Recorded Vote Tom Sawyer 2022 Voting Record Every recorded vote Media Relations Media Relations: Using social media & working with local media to keep the public informed and improve transparency through accurate information.
 Tom Sawyer led the fight to get all Kansas Legislative meetings broadcast live on You Tube.

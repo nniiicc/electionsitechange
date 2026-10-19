@@ -1,0 +1,3 @@
+Skip to content Home About Issues News Volunteer Home About Issues News Volunteer Donate Instagram Facebook Spartz Daughters 2026 Click image to play latest TV ad.
+Spartz Daughters 2026 Spartz to J.D.
+Ford: Hoosiers Deserve a Real Policy Debate, Not a Circus Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061

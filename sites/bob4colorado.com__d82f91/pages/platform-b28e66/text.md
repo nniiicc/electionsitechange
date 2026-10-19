@@ -1,4 +1,4 @@
-top of page Skip to Main Content About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
+top of page About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
 DONATE A Good Governance Champion!
 Bob has been an independent voice in the legislation for good governance, transparency, and the Rule of Law. ​​ Fought to reform county commissioner election systems for large counties to make them more representative and responsive to voters; Fought to require all state government grants and tax credits to be published and accessible on a public website to tamp down on insider privileges over state programs; Fought to hold the entire legislature accountable for decades long bipartisan violations of Colorado's Sunshine and open meeting laws (an effort that led a former GOP Senate Majority leader to publicly comment: "It took courage...to blow the whistle on this practice.").
 First-term Democrats challenge decades of illegal meetings ​ ​ Public Safety Public Safety includes law enforcement, fire mitigation, AND mental health.

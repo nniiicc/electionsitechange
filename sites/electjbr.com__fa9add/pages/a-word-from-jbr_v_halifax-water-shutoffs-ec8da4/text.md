@@ -8,5 +8,5 @@ In many communities in the South Shore, there are also PFAS or forever chemicals
 As your state representative, I will work to ensure that we get the state funding we need to replace aging pipes, to deal with PFAS contaminants, and to ensure that our water quality meets the highest standards.
 We can do it and we can do it without always putting the burden on taxpayers every time an emergency comes up.
 As your state rep, I'll work to do just that.
-Previous Moderating a Truman National Security Project Panel Next My thoughts on the audit You Might Also Like Another Reason I support Labor Unions Candidate Interview: Jessica Rushing, Candidate for the 6th Plymouth District Being an Inaugural Member of American Service Fellowship at Harvard CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Powder Point Bridge Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Previous Moderating a Truman National Security Project Panel Next My thoughts on the audit You Might Also Like I would be the FIRST WOMAN elected to this seat One reason I support Labor Unions CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Powder Point Bridge Being an Inaugural Member of American Service Fellowship at Harvard Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

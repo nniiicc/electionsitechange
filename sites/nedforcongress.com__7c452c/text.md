@@ -1,7 +1,6 @@
-Skip to content PRESS RELEASES MEDIA COVERAGE 606-791-1141 606-791-1141 PRESS RELEASES MEDIA COVERAGE Upcoming events Crab Orchard, KY.
-10/17 NOON - Join us Saturday in downtown Fleming Neon for a James Butler barbecue picnic - free Crab Orchard, KY.
-10/17 5:00 PM - Join us at the Broughtontown Community Center for a candidate forum Whitesburg, KY.
-10/20 5:00 PM - Join us for a candidate forum at the Harry Caudill Library Lexington, KY.
+Skip to content PRESS RELEASES MEDIA COVERAGE 606-791-1141 606-791-1141 PRESS RELEASES MEDIA COVERAGE Donate Upcoming events Whitesburg, KY.
+10/20 5:00 PM - Join us for a candidate forum at the Harry Caudill Library Somerset, KY.
+10/22 6:30 PM - Join us for a candidate forum at the Somerset Farmers Market Lexington, KY.
 10/26 Ned will be on "Kentucky Tonight" at the KET studio Pikeville, KY.
 10/31 9:00-11:00 AM - We'll be at the Carl D.
 Perkins Memorial Breakfast hosted by the Pike County Democratic Women's Club on Saturday at Brothers Wright Distilling Co. in The Reserve on the 2nd Floor.

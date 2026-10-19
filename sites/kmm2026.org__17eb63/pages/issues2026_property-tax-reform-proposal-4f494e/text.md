@@ -79,8 +79,9 @@ The more people who vote for me in the November 2026 election, the more likely i
 Vote for Kevin McCormick for Texas Lieutenant Governor in November 2026.
 Regards Previous article: Election Code Reform Proposal Prev Next article: Health Care Proposal Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
 Trusted by Texans.
-Bo French, Jon Rosenthal battle over culture, job duties in bid to regulate the oil and gas industry Tracking the money raised and spent in the U.S.
-Senate race between James Talarico and Ken Paxton U.S.
+Hakeem Jeffries to campaign in Texas on behalf of Bexar County congressional candidate Johnny Garcia Greg Abbott raked in $# million from data center-related donors as he called for regulations U.S.
 Right to Know RSS Pursuing truth and transparency for public health FOI documents on origins of Covid-19, gain-of-function research and biolabs Before COVID, an NIH lab chief proposed making a SARS-like bat virus more infectious FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
 Distribute it fairly.
-Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS Energy efficiency is our secret weapon FedEx makes record-setting electric vehicle investment Texas Farm Bureau RSS Ruling favors Clay County landowners opposing reservoir Regional meetings connect young farmers, ranchers across Texas USDA releases 2026 cash rents for Texas cropland, pastureland
+Create a greener world for all.
+Women as Stewards in Governance of Commons “Tortured” or “Torturer”? – Corporate Media Fail to Ask the Question Reporting Texas RSS Feed not found.
+EnvironmentAmerica -- Texas RSS Energy efficiency is our secret weapon FedEx makes record-setting electric vehicle investment Texas Farm Bureau RSS Ruling favors Clay County landowners opposing reservoir Regional meetings connect young farmers, ranchers across Texas USDA releases 2026 cash rents for Texas cropland, pastureland

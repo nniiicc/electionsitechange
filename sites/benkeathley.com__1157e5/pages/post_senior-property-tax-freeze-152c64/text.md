@@ -1,6 +1,6 @@
 top of page Meet Ben Goals Get Involved Donate!
 Ben Explains Notifications My Subscriptions Groups Members Use tab to navigate through the menu items.
-DONATE Now Accepting: BTC Log In All Posts Search Senior Property Tax Freeze #ago 1 min read Senior Property Tax Freeze 300,000+ Missourians Saving Rep.
+DONATE Now Accepting: BTC Log In All Posts Search Senior Property Tax Freeze Oct 11 1 min read Senior Property Tax Freeze 300,000+ Missourians Saving Rep.
 Ben Keathley explains how over 300,000 Missourians are taking advantage of the senior property tax freeze across 90 different counties.
 "These last four years, as your state representative, I have many accomplishments I'm proud of.
 But one I'm most proud of is the senior property tax freeze.

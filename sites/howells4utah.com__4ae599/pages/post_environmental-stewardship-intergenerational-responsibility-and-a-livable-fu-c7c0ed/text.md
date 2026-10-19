@@ -173,7 +173,7 @@ We borrow it from our descendants.
 They will not judge us by our slogans, our press releases, or the promises we made when consequences were still far away.
 They will judge us by what still works, what still flows, what still breathes, and what we chose to protect when we had the chance.
 My commitment as a legislator is to govern as if the future matters, because it does.
-Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Recent Posts See All Eight Veterans, Two Parties, One Table: My Report From the Veterans Town Hall & Roundtable One Door, Every Answer: Introducing the Utah Veterans Ombudsman and Accountability Act We Are Building Data Centers Blind Howells for Utah HD39 We can only achieve success in this campaign with your support.
 Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
 Every dollar matters!
 Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

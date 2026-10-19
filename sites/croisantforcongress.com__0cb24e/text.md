@@ -24,9 +24,7 @@ T-Shirts, signs, and more!
 Show your support for John Croisant with official campaign merchandise.
 Every purchase helps us reach more voters across Oklahoma's First District.
 SUPPORT JOHN!
-Sun, Oct 18 Canvassing | Broken Arrow / Creekwood Elementary RSVP Oct 18, 2026, 1:00 PM – 4:00 PM Creekwood Elementary, 1301 E Albany St, Broken Arrow, OK 74012, USA Join John Croisant and Cathy Smythe to canvass Broken Arrow!
-Speak to the community and engage with voters and encourage them to show up on November 3rd.
-ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
+No events at the moment ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
 POLLS ARE OPEN 7 AM - 7 PM.
 EARLY VOTING: October 28 - 30 from 8 am - 6 pm OR October 31 from 8 am - 2 pm CHECK YOUR VOTER REGISTRATION ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
 POLLS ARE OPEN 7 AM - 7 PM.

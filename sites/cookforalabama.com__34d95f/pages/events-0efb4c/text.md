@@ -1,10 +1,5 @@
 Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Platform Events Volunteer Endorsements Contact District 43 Store Donate Join Us Meet Taylor Get out and meet Taylor at one of these events or schedule a virtual one-on-one meeting through the contact info at the bottom of the page!
-Lit Dropping with Taylor Meet in the Sprouts Parking Lot 5265 US-280 Birmingham, AL 35242 Join Taylor Cook for State House 43 as we go door to door with literature to get Taylor's name in front of as many voters as possible.
-We are powered by people, and lit dropping is the most efficient physical way to reach voters.
-Whether this is your first time lit dropping or you’ve volunteered before, we will provide a brief training before we begin.
-We'll coordinate which homes to go to and provide everything you need to make it a smooth experience.
-Your time and energy will help us build the grassroots movement needed to win in November and bring real leadership to District 43.
-RSVP 2026 General Election Voter Registration Deadline Alabama This is the LAST DAY to register to vote in the 2026 General Election, so please register if you have not so you can send me to Montgomery to fight for you!
+2026 General Election Voter Registration Deadline Alabama This is the LAST DAY to register to vote in the 2026 General Election, so please register if you have not so you can send me to Montgomery to fight for you!
 Please check your voter registration before this date as the current Secretary of State has been purging voter rolls and there have been numerous instances of active voters being removed.
 Social Media Live w/Guest TBD Virtual on Social Media Come join us weekly on Monday's at 7pm to discuss various questions and answer yours!
 Hoover Democrats - October Meeting The Tributary Center 3196 Highway 280 Birmingham, AL 35243 Canvassing with Taylor TBD Join Taylor Cook for State House 43 as we knock doors, meet voters, and talk with our neighbors about the future of our community.

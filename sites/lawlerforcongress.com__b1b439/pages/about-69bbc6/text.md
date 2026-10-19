@@ -1,4 +1,4 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Meet Mike Congressman Mike Lawler proudly represents New York’s 17th Congressional District, which includes a large swath of the Hudson Valley.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Meet Mike Congressman Mike Lawler proudly represents New York’s 17th Congressional District, which includes a large swath of the Hudson Valley.
 The 17th District includes all of Rockland and Putnam Counties, as well as portions of Westchester and Dutchess Counties.
 In the House, Mike serves on the prestigious House Financial Services Committee and the House Committee on Foreign Affairs.
 A lifelong New Yorker, Mike grew up in Rockland County, graduated from Suffern High School, and was the Valedictorian of his graduating class at Manhattan College.
@@ -12,5 +12,5 @@ In Congress, Mike has: Championed the Social Security Fairness Act, which restor
 Before Congress, Mike served in the New York State Assembly representing the 97th District, where he served on the Committees on Aging, Banks, Education, Housing, and as the Ranking Member on Governmental Operations.
 In the NYS Assembly, he secured historic funding increases for Hudson Valley schools, delivered tax relief for middle-class families, and fought for law enforcement and first responders.
 He also served as Deputy Town Supervisor in Orangetown and as a Senior Advisor to the Westchester County Executive.
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Home About Issues Endorsements News Volunteer Signs Events Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

@@ -2,17 +2,13 @@
 Together.
 Why Am I Running for State Senator in DISTRICT 53?
 Dear Neighbors, These last few years have been challenging – for all of us.
-A dangerous pandemic, political violence, an uncertain economy, ICE’s unconstitutional occupation of our streets, and deeply divisive politics have dominated headlines, disrupted our lives, and sown distrust.
+A dangerous pandemic, political violence, an uncertain economy, and deeply divisive politics have dominated headlines, disrupted our lives, and sown distrust.
 But in conversations with my neighbors, even through these challenging times, I’ve become even more convinced that we are surrounded by kind, talented, innovative, and generous people.
 And I have great faith that when good people work together, there’s nothing we can’t achieve for the betterment of our community.
 As a person with nearly 20 years of experience in state government and as local school board member, I have the knowledge and experience to collaboratively find solutions to many issues facing our community – whether moving legislation through the process, diving deep within the bureaucracy of state government, or partnering with neighbors to find the right approach.
-I am running for State Senator in Senate District 53 to be a bridge builder and to deliver, real tangible results for immigrants, our constitutional rights, cost of living crisis, educational achievement, affordable and accessible health care, environmental stewardship, and government effectiveness.
+I am running for State Senator in Senate District 53 to be a bridge builder and to deliver, real tangible results to address the cost of living crisis, educational achievement, affordable and accessible health care, environmental protection, and government effectiveness.
 In these turbulent times, we need someone who can hit the ground running to make Minnesota better for decades to come.
-As our State Senator, I will: Stand up for immigrants and push back on federal overreach - ICE’s untrained occupying force is harming our neighbors and tearing at the fabric of our community.
-ICE needs to leave now.
-When ICE began Operation Metro Surge, I hosted 5 community gatherings with over 500 people to ensure people knew their rights and how to provide mutual aid.
-As your Senator, I will demand that Renee Good and Alex Pretti’s killings are investigated and will work to hold the federal government accountable.
-Fight to ensure neighbors and families can afford their lives –Big corporations and billionaires have concentrated immense wealth and power, while working people have seen their wages remain flat, costs rise, and economic insecurity increase.
+As our State Senator, I will: Fight to ensure neighbors and families can afford their lives –Big corporations and billionaires have concentrated immense wealth and power, while working people have seen their wages remain flat, costs rise, and economic insecurity increase.
 As our State Senator, I’ll work to ensure that all those who work hard are treated fairly, earn a living wage, and have the security they need to care for their families.
 And I will take every step to lower costs for families by standing up to billionaires to unrig the economy.
 Build a “Better Offer” – Together. – In this time of chaos and cruelty on the national level, it is not enough to resist the rise in authoritarianism, we must also offer an alternative – a better offer.

@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Solutions not Slogans.
+0 Skip to Content Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Open Menu Close Menu Home Issues Endorsements Experience Chart Voter Info Contact Solutions not Slogans.
 As I talk with families across the district, I keep hearing the frustration, “Politicians love to give speeches about what they are going to do, but they get awfully quiet when you ask them how they're going to get it done.” The math has to add up, and the details matter.
 Constituents deserve real plans based on economic reality, not just empty promises.
 That's why my campaign is focused on not only the issues and challenges our District faces, but exploring viable solutions that can provide economic relief to as many of our residents as possible.

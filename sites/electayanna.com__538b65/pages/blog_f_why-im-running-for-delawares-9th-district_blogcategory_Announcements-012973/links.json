@@ -5,7 +5,15 @@
 },
 {
 "text": "All Posts",
+"href": "https://electayanna.com/blog"
+},
+{
+"text": "All Posts",
 "href": "https://electayanna.com/blog?blogcategory=Announcements&blog=y"
+},
+{
+"text": "Announcements",
+"href": "https://electayanna.com/blog?blogcategory=Announcements"
 },
 {
 "text": "Blog",
@@ -22,6 +30,14 @@
 {
 "text": "I’m pro-worker and pro-opportunity.Oct 5, 2026",
 "href": "https://electayanna.com/blog/f/i%E2%80%99m-pro-worker-and-pro-opportunity?blogcategory=Announcements"
+},
+{
+"text": "News",
+"href": "https://electayanna.com/blog?blogcategory=News"
+},
+{
+"text": "Official Statement",
+"href": "https://electayanna.com/blog?blogcategory=Official+Statement"
 },
 {
 "text": "Privacy Policy",
@@ -42,6 +58,10 @@
 {
 "text": "Volunteer",
 "href": "https://electayanna.com/volunteer"
+},
+{
+"text": "What I'm Hearing",
+"href": "https://electayanna.com/blog?blogcategory=What+I%27m+Hearing"
 },
 {
 "text": "[image: Elect Ayanna]",

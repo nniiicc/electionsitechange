@@ -14,10 +14,10 @@ We must continue the fight to ensure the American freedoms that Charlie Kirk cha
 MORE SUPPORT FOR LAW ENFORCEMENT Last week, we backed the badge in a real way — unanimously passing the Back the Blue Pay Act in the NC Senate.
 This legislation delivers $3,000 bonuses and significant raises for the men and women who keep our communities safe.
 I’m always proud to stand with law enforcement.
-Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

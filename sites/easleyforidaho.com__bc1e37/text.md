@@ -1,13 +1,13 @@
 top of page Home Issues Join Us!
 District & Voting Information Events Donate Log In Real Leadership for District 22 Idaho Karlie Easley for State Senate Amanda Easley for House Seat 22B Donate to Karlie Donate to Amanda South Boise, Meridian and Nampa Get campaign updates from Amanda & Karlie Stay up to date with our latest news and events by signing up for our newsletter.
-Upcoming Events Multiple Dates Sun, Oct 18 Door knocking with the Easleys / Location is TBD RSVP Oct 18, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
-Multiple Dates Tue, Oct 20 Door knocking with the Easleys / Location is TBD RSVP Oct 20, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
+Upcoming Events Multiple Dates Tue, Oct 20 Door knocking with the Easleys / Location is TBD RSVP Oct 20, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
 Multiple Dates Wed, Oct 21 Phone Banking with the Easleys - GOTV / RSVP on mobilize for link RSVP Oct 21, 2026, 11:30 AM – 1:00 PM RSVP on mobilize for link Help us Get Out the Vote - call and make sure people have a plan to vote from the comfort of your home.
 Every Wednesday over lunch.
 Thu, Oct 22 Coffee with Candidates District 22 - Alchemist / Alchemist Coffee Overland RSVP Oct 22, 2026, 9:00 AM – 10:00 AM Alchemist Coffee Overland, 10650 W Overland Rd, Boise, ID 83709, USA Casual stop by event.
 No RSVP needed.
 Come say hi and tell us what matters to you!
 Multiple Dates Sat, Oct 24 Door knocking with the Easleys / Location is TBD RSVP Oct 24, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
+Multiple Dates Sun, Oct 25 Door knocking with the Easleys / Location is TBD RSVP Oct 25, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
 Thu, Oct 29 Coffee with Candidates District 22 - Starbucks / Starbucks Coffee Company Learn more Oct 29, 2026, 10:00 AM – 11:00 AM Starbucks Coffee Company, 1870 S Meridian Rd, Meridian, ID 83642, USA Casual stop by event.
 No RSVP needed.
 Come say hi and tell us what matters to you!

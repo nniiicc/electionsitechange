@@ -1,5 +1,5 @@
 New Merch Available!
-Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Donate Restore Trust in Colorado Elections …… ……….
+Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo More Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Home About Issues Background Videos Endorsements Exhibitions Volunteer Contact Elections Eli test demo Donate Restore Trust in Colorado Elections …… ……….
 Man vs Machine Transparent.
 Citizen-controlled.
 Paper-based.

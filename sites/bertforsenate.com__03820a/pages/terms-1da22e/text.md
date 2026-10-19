@@ -1,8 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Terms & Conditions Effective Date: January 16, 2026 On this page Overview 1.
 Use of Website and Services 2.
 10DLC Compliance 3.
 Privacy and Data Use 4.

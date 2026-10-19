@@ -1,9 +1,10 @@
 {
  "description": "A user-friendly site for a congressional campaign featuring drag-and-drop image uploads and a simple donation form.",
  "final_url": "https://heslopforcongress.com/",
- "fingerprint": "363815092562b3db7bd4b672235c5a189c1c6185",
+ "fingerprint": "a5d7e8086316046e8c6aaf685691d96b304bfe9a",
  "format": 3,
  "paid_for_by": "Paid for by Heslop for Congress",
+ "rendered": false,
  "title": "Support Your Candidate with Ease | political website",
  "years_mentioned": [
   "2008",

@@ -1,4 +1,4 @@
-Baker for Ohio About Platform Events Get Involved Contact Donate Legal Terms of Service Last updated: March 2026 Effective Date: March 1, 2026.
+Baker for Ohio About Platform Events Get Involved Contact Donate Legal Terms of Service Last updated: October 18, 2026 Effective Date: October 18, 2026.
 Please read these Terms of Service carefully before using this website.
 1.
 Acceptance of Terms By accessing or using the website located at staciebakerforohio.org (the "Site"), you agree to be bound by these Terms of Service.
@@ -11,7 +11,15 @@ The Campaign is registered with the Ohio Secretary of State and complies with al
 3.
 Use of the Site You agree to use this Site only for lawful purposes and in a manner that does not infringe the rights of others.
 Specifically, you agree not to: Submit false, misleading, or fraudulent information through any form on the Site Impersonate any person or entity or misrepresent your affiliation Attempt to gain unauthorized access to any part of the Site or its servers Use automated tools, bots, or scrapers to access or collect data from the Site Interfere with or disrupt the integrity or performance of the Site Use the Site in any way that violates applicable federal, state, or local law 4.
-Volunteer & Contact Submissions By submitting a form on this Site (including volunteer signups, yard sign requests, or general contact forms), you acknowledge that: The information you provide is accurate and truthful You consent to being contacted by the Campaign via email, phone, or text (subject to your stated preferences and applicable law) Your submission does not constitute a binding agreement or guarantee of any specific campaign action 5.
+Volunteer & Contact Submissions By submitting a form on this Site (including volunteer signups, yard sign requests, or general contact forms), you acknowledge that: The information you provide is accurate and truthful You consent to being contacted by the Campaign via email, phone, or text (subject to your stated preferences and applicable law) Your submission does not constitute a binding agreement or guarantee of any specific campaign action 4a.
+SMS Terms By providing your cell phone number, you agree to receive texts to your number from Citizens For Baker.
+Texts will include messages about fundraising solicitations, Voter engagement, volunteer engagement, and election information.
+Msg frequency varies.
+Reply STOP to opt-out.
+Reply HELP for help or more information.
+Msg and data rates may apply.
+Privacy Policy can be found here: https://www.staciebakerforohio.org/privacy.html .
+5.
 Donations Donations to Citizens for Baker are processed through ActBlue, an independent third-party platform.
 By making a donation, you agree to ActBlue's Terms of Service and Privacy Policy in addition to these Terms.
 The Campaign complies with all federal and Ohio contribution limits and disclosure requirements.

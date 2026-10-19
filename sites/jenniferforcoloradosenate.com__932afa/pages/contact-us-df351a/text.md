@@ -1,4 +1,4 @@
-Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments Become Involved Let’s Connect and Champion Our Rights Together !
+Home About FAQ Contact us The Forum 👎Socialism Endorsements & Commitments Become Involved Let’s Connect and Champion Our Rights Together !
 Your Voice Matters!
 Join Jennifer in the fight for freedom!
 We want to hear your thoughts and ideas for a brighter District 34 Reach Out to Us!
@@ -7,7 +7,7 @@ Afghanistan (+ 93 ) 🇦🇫 Aland Islands (+ 358 ) 🇦🇽 Albania (+ 355 ) �
 Virgin Islands (+ 1 ) 🇻🇮 Uganda (+ 256 ) 🇺🇬 Ukraine (+ 380 ) 🇺🇦 United Arab Emirates (+ 971 ) 🇦🇪 United Kingdom (+ 44 ) 🇬🇧 United Republic of Tanzania (+ 255 ) 🇹🇿 United States (+ 1 ) 🇺🇸 Uruguay (+ 598 ) 🇺🇾 Uzbekistan (+ 998 ) 🇺🇿 Vanuatu (+ 678 ) 🇻🇺 Vatican City State (+ 39 ) 🇻🇦 Venezuela (+ 58 ) 🇻🇪 Vietnam (+ 84 ) 🇻🇳 Wallis and Futuna (+ 681 ) 🇼🇫 Western Sahara (+ 212 ) 🇪🇭 Yemen (+ 967 ) 🇾🇪 Zambia (+ 260 ) 🇿🇲 Zimbabwe (+ 263 ) 🇿🇼 Message * Send We’re here to listen.
 Drop us a message above!
 Your feedback helps drive our movement to empower families and restore liberty.
-Home About FAQ Contact us Blogs 👎Socialism Endorsements & Commitments We use cookies Manage preferences Necessary cookies Functional cookies Functional cookies enable the website to provide enhanced functionality and personalization.
+Home About FAQ Contact us The Forum 👎Socialism Endorsements & Commitments We use cookies Manage preferences Necessary cookies Functional cookies Functional cookies enable the website to provide enhanced functionality and personalization.
 They may be set by us or by third party providers whose services we have added to our sites.
 If you do not allow these cookies then some or all of these services may not function properly.
 Targeting cookies Performance cookies Performance cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.

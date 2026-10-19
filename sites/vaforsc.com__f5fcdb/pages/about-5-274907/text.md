@@ -1,4 +1,4 @@
-top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Events Contact Donate Shop Merch More Use tab to navigate through the menu items.
+top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Contact Donate Shop Merch More Use tab to navigate through the menu items.
 Meet Virginia I am proud to call Lyman home, but my journey started as an "Army brat," learning early on the values of discipline, sacrifice, and the diversity of the American experience.
 Those early lessons shaped my worldview and led me to a life rooted in my faith and community service.
 After earning my B.A. from Winthrop University and my Master’s from The Theological Seminary at Philadelphia, I returned to South Carolina to put my values into action.

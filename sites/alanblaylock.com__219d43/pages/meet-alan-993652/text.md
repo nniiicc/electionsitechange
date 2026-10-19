@@ -1,4 +1,4 @@
-top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS Donate Meet Alan Dedicated to Tarrant County families Alan Blaylock is a husband, father, local businessman, and former Fort Worth City Councilman who believes state government should work for the hardworking families who keep Texas strong.
+top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS VOTING Donate Meet Alan Dedicated to Tarrant County families Alan Blaylock is a husband, father, local businessman, and former Fort Worth City Councilman who believes state government should work for the hardworking families who keep Texas strong.
 For Alan Blaylock, Tarrant County isn’t just a spot on a map, it’s home.
 Raised right here in Fort Worth, Alan learned early on the values of hard work, personal responsibility, and community service.
 It’s where he and his wife chose to build their lives, raise their family, and grow a successful business. ​ Alan understands that effective leadership means setting clear priorities, making disciplined decisions, and delivering results within real-world budgets and timelines.

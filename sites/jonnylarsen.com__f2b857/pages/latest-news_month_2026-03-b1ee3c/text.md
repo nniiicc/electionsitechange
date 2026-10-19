@@ -1,0 +1,15 @@
+You need to enable JavaScript to run this app.
+STORE About Jonny The Commitment Take Action Latest News Contribute About Jonny The Commitment Take Action Latest News Contribute STORE ES Latest News Stay Updated All In the News Press Releases Newsletters ← Newer: April 2026 Newer: Apr 2026 All months ▾ 2026 October 2026, 23 items 23 September 2026, 6 items 6 August 2026, 2 items 2 July 2026, 6 items 6 June 2026, 7 items 7 May 2026, 1 item 1 April 2026, 4 items 4 March 2026, 3 items 3 February 2026, 3 items 3 2025 November 2025, 1 item 1 July 2025, 1 item 1 Older: February 2026 Older: Feb 2026 → March 2026 3 items IN THE NEWS March 23, 2026 Jonny Larsen Interview on KSVC 980 AM KSVC 980 AM - Mid Utah Radio Jonny Larsen joins Dylan and Porter on KSVC 980 AM in Sevier County to discuss his campaign for Utah's 4th Congressional District, his background as a Marine Corps veteran, and the issues that matter most to Utah families.
+Your browser does not support audio playback.
+Visit Source → PRESS RELEASE March 13, 2026 Press Release: Candidate Condemns VA Plan to Strip Rights From Homeless Veterans - Jonny Larsen Candidate for UT-04 VA/DOJ signed agreement with no congressional review.
+Senate Veterans' Affairs Committee was blindsided.
+Read More → IN THE NEWS March 10, 2026 2026 Midterm Elections: Here Are the Utahns Running for Congress The Salt Lake Tribune The Tribune's rundown of every Utahn running for Congress lists Larsen as a Marine Corps infantry veteran who studied math and physics and has worked as a health care systems administrator.
+Read More → ← Newer: April 2026 Newer: Apr 2026 All months ▾ 2026 October 2026, 23 items 23 September 2026, 6 items 6 August 2026, 2 items 2 July 2026, 6 items 6 June 2026, 7 items 7 May 2026, 1 item 1 April 2026, 4 items 4 March 2026, 3 items 3 February 2026, 3 items 3 2025 November 2025, 1 item 1 July 2025, 1 item 1 Older: February 2026 Older: Feb 2026 → Back to top ↑ Support the Commitment Click an option to get started.
+If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
+Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
+Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.
+By providing your cell phone number you consent to receive recurring updates from Jonny Larsen For Congress, including by automated text message.
+Text STOP to end.
+Msg & Data rates may apply. © #–# Jonny Larsen For Congress.
+All rights reserved.
+Paid For By Jonny Larsen For Congress

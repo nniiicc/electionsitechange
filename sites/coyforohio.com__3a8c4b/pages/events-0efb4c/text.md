@@ -1,19 +1,4 @@
-0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Upcoming Events Oct 18 North Royalton "Flip the South" Canvass Launch Sunday, October 18, 2026 1:00 PM 3:00 PM Memorial Park (map) Google Calendar ICS Join the teams for Poindexter, Coy, and Scheff for a day of engaging with neighbors and connecting with voters across the district.
-We’ll be out talking with our neighbors, listening to their concerns, and sharing more about our candidates and their campaigns.
-Please bring a charged phone and a good pair of walking shoes.
-Water will be available in the office prior to heading to doors.
-Training is available before heading door to door, and no experience is necessary.
-We hope you can join us!
-This event is off the record.
-Reporters interested in covering the Poindexter campaign should contact: press@poindexterforcongress.com Sign up here!
-View Event → Oct 18 Strongsville "Flip the South" Canvass Launch Sunday, October 18, 2026 1:00 PM 3:00 PM Bonnie Park (map) Google Calendar ICS Join the teams for Poindexter, Coy, and Scheff for a day of engaging with neighbors and connecting with voters across the district.
-We’ll be out talking with our neighbors, listening to their concerns, and sharing more about our candidates and their campaigns.
-Please bring a charged phone and a good pair of walking shoes.
-Water will be available in the office prior to heading to doors.
-Training is available before heading door to door, and no experience is necessary.
-We hope you can join us!
-This event is off the record.
-Reporters interested in covering the Poindexter campaign should contact: press@poindexterforcongress.com Sign up here View Event → Oct 24 Olmsted Falls Canvass Launch Saturday, October 24, 2026 10:00 AM 11:00 AM Google Calendar ICS Join Megan Coy as we canvass Olmsted Falls at 10:00 am on October 24th.
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Upcoming Events Oct 24 Olmsted Falls Canvass Launch Saturday, October 24, 2026 10:00 AM 11:00 AM Google Calendar ICS Join Megan Coy as we canvass Olmsted Falls at 10:00 am on October 24th.
 Location to be announced at a later date.
 Even if you have no experience canvassing, all are welcome!
 Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.
@@ -26,6 +11,21 @@ View Event → Nov 3 Support Megan Coy on Election Day!
 Tuesday, November 3, 2026 6:30 AM 7:30 PM Google Calendar ICS The Cuyahoga County Democratic Party is looking for volunteers to stand at a polling location on election day on behalf of Megan Coy!
 We ask you to fill out this form provided by the Cuyahoga County Democratic Party along with our form below so we can have an acurate count of who signed up on behalf of our campaign.
 Please fill out this form here!
+View Event → Oct 18 Strongsville "Flip the South" Canvass Launch Sunday, October 18, 2026 1:00 PM 3:00 PM Bonnie Park (map) Google Calendar ICS Join the teams for Poindexter, Coy, and Scheff for a day of engaging with neighbors and connecting with voters across the district.
+We’ll be out talking with our neighbors, listening to their concerns, and sharing more about our candidates and their campaigns.
+Please bring a charged phone and a good pair of walking shoes.
+Water will be available in the office prior to heading to doors.
+Training is available before heading door to door, and no experience is necessary.
+We hope you can join us!
+This event is off the record.
+Reporters interested in covering the Poindexter campaign should contact: press@poindexterforcongress.com Sign up here View Event → Oct 18 North Royalton "Flip the South" Canvass Launch Sunday, October 18, 2026 1:00 PM 3:00 PM Memorial Park (map) Google Calendar ICS Join the teams for Poindexter, Coy, and Scheff for a day of engaging with neighbors and connecting with voters across the district.
+We’ll be out talking with our neighbors, listening to their concerns, and sharing more about our candidates and their campaigns.
+Please bring a charged phone and a good pair of walking shoes.
+Water will be available in the office prior to heading to doors.
+Training is available before heading door to door, and no experience is necessary.
+We hope you can join us!
+This event is off the record.
+Reporters interested in covering the Poindexter campaign should contact: press@poindexterforcongress.com Sign up here!
 View Event → Oct 17 Berea Canvass with Megan Coy and Courtney Scheff Saturday, October 17, 2026 10:00 AM 11:00 AM Berea Library (map) Google Calendar ICS Join Megan Coy and Courtney Scheff as we canvass Berea at the Berea Branch ( 7 Berea Commons, Berea, Ohio 44017 ) at 10:00 am on October 17th.
 Even if you have no experience canvassing, all are welcome!
 Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.

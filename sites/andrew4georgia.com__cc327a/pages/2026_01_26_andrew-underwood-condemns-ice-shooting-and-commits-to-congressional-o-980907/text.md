@@ -10,4 +10,4 @@ Term Limits Amendment of three two-year House terms and two six-year Senate term
 He joins a small list of candidates in this election that are fully committed to keeping Congress accountable.
 U.S.
 Term Limits is a nonpartisan non-profit advocating… Read More Andrew Underwood Signs Pledge From U.S.
-Term Limits Organization Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-89701a @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer
+Term Limits Organization Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-f91bc @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer

@@ -37,10 +37,10 @@ We’ve made real advancements, and I’m determined to keep driving policies th
 RECOGNIZING RETIREMENT OF JACKSONVILLE PD OFFICER JAMES “XY” BROWN It was an honor to recognize and celebrate Officer James “XY” Brown of the Jacksonville Police Department as he retired after 68 years of remarkable service.
 A WWII Veteran of the U.S.
 Army before joining JPD, Officer Brown is believed to have been the longest-serving police officer in the United States — and North Carolina is grateful for his example.
-His unwavering commitment to protecting our children and serving our community is an inspiration to all. 🇺🇸 Recent Posts See All The Onslow Observer: Health Care, Military Leadership, & More...
+His unwavering commitment to protecting our children and serving our community is an inspiration to all. 🇺🇸 Recent Posts See All The Onslow Observer: Property Taxes, NASA Astronaut Visit, & More...
+The Onslow Observer: Health Care, Military Leadership, & More...
 The Onslow Observer: Passage of the State Budget, Right to Work, & More...
-NEWS: N.C.
-General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
+JOIN TEAM LAZZARA Provide your information below to receive important e-mail updates from Team Lazzara: By providing your telephone number and email, you consent to receive calls and text messages from us.
 Msg & data rates may apply.
 Msg frequency may vary.
 You can reply "STOP" at any time to opt-out and "HELP" for assistance.

@@ -13,11 +13,10 @@ We do not publish volunteer contact information on the public website.
 Questions about my positions The question box uses automated processing to provide answers from the candidate’s stated positions.
 Your question and relevant campaign material may be processed by the service providers that support this feature.
 Please do not include sensitive personal information in your question.
-Questions that need further review and any perspective you choose to share are kept privately for the campaign.
-The question box does not request your email address or phone number and does not offer individual replies at this time.
-Please leave contact details out of your question and input.
-Submitting your perspective does not enroll you in campaign updates or text messages.
-Private submissions are not published in the question box.
+When you submit a question, we collect your email address so we can reply to you.
+We use it to answer your question and to handle your message.
+Members of the campaign team and the service providers that send our email handle it as part of that work.
+We never sell it, and we do not add you to campaign marketing or text message lists unless you ask us to separately.
 Email and text-message choices Recurring campaign text messages are sent only when you separately and affirmatively opt in.
 Message frequency varies.
 Message and data rates may apply.

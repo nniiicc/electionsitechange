@@ -3,7 +3,7 @@ District 9A comes second.
 That ends here.
 The District Is Paying the Price In 2025 Maryland closed a $3.3 billion gap with roughly $2 billion in new revenue, about $1.6 billion of it new taxes and fees, a figure from the Department of Legislative Services.
 Vehicle registration rose 78% in two years.
-BGE gas delivery rates have more than tripled since 2010 while its profits went from $147 million in 2010 to $527 million in 2024.
+BGE gas delivery rates have more than tripled since 2012, according to the Office of People's Counsel, and BGE earned $527 million in 2024.
 Maryland is among the three most expensive states in the country for auto insurance.
 Howard County spends $21,512 per student, the fourth highest in Maryland, and counties statewide are already $1.4 billion above their required share under the Blueprint.
 Both halves of District 9A carry their school systems largely on local property taxpayers, and neither system publishes a comparable, plain-English account of how much of each dollar reaches a classroom.

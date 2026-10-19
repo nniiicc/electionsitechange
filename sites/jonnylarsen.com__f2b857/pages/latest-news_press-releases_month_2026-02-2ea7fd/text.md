@@ -1,0 +1,12 @@
+You need to enable JavaScript to run this app.
+STORE About Jonny The Commitment Take Action Latest News Contribute About Jonny The Commitment Take Action Latest News Contribute STORE ES Press Releases Stay Updated All In the News Press Releases Newsletters ← Newer: March 2026 Newer: Mar 2026 All months ▾ 2026 October 2026, 1 item 1 September 2026, 2 items 2 June 2026, 2 items 2 May 2026, 1 item 1 April 2026, 1 item 1 March 2026, 1 item 1 February 2026, 2 items 2 February 2026 2 items PRESS RELEASE February 28, 2026 Jonny Larsen Condemns Unconstitutional Strike on Iran, Calls on Utahns to Take Action at the Ballot Box Marine combat veteran and Utah 4th District candidate condemns Trump's military strikes against Iran without Congressional approval.
+Read More → PRESS RELEASE February 19, 2026 Marine Combat Veteran Jonny Larsen Urges Utah Veterans to Oppose New VA Rule That Could Reduce Disability Compensation Larsen calls on veterans and families to submit public comments against a new VA rule that rates veterans based on medication effectiveness rather than actual condition severity.
+Read More → ← Newer: March 2026 Newer: Mar 2026 All months ▾ 2026 October 2026, 1 item 1 September 2026, 2 items 2 June 2026, 2 items 2 May 2026, 1 item 1 April 2026, 1 item 1 March 2026, 1 item 1 February 2026, 2 items 2 Back to top ↑ Support the Commitment Click an option to get started.
+If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
+Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
+Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.
+By providing your cell phone number you consent to receive recurring updates from Jonny Larsen For Congress, including by automated text message.
+Text STOP to end.
+Msg & Data rates may apply. © #–# Jonny Larsen For Congress.
+All rights reserved.
+Paid For By Jonny Larsen For Congress

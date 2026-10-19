@@ -9,11 +9,10 @@ Congress should also declare certain cartels as Foreign Terrorist Organizations 
 Finally, Texas needs to stand up to the lack of the federal governments interest in controlling the border.
 As a sovereign state, Texas should increase the number of Department of Public Safety personnel on the border to do what the federal government refuses to do.
 Learn more...
-Health Care The federal government, when putting the government between you and your doctor, made a wreck of our health insurance system.
-As a result, Texans are Read More » Economy and Jobs Small businesses around our communities are major job creators and the fuel of our Texas economy — we need to keep them alive and healthy.
-Read More » Federal Spending and Debt The fiscal health of our nation is in complete jeopardy.
-Both parties have failed to produce a balanced budget within a broken system.
-Congressman Cloud is constantly thinking about our children and grandchildren and the America they will inherit.
+National Defense Providing for the common defense is the first and most important legitimate Constitutional responsibility of our federal government.
+China now has the world’s largest navy.
+Read More » Pro-Life A foundational moral principle in our nation is the understanding that every life has value.
+Michael believes life begins at conception and will continue to Read More » Energy and Trade Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.
 Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Paid for by Cloud for Congress All Rights Reserved 2026 .

@@ -1,4 +1,7 @@
-0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/16/26 Scott Petty 10/16/26 morning take | Senate Showdown Heats Up By Blois Olson, morning take “ CD4: DFL Rep.
+0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/18/26 Scott Petty 10/18/26 Democrats want to curb Trump’s power with House majority.
+This is their greatest tool By Sudiksha Kochi, The Hill “Another area Democrats will be focused on is defense funding, especially as the war with Iran has cost the U.S. billions of dollars.
+Rep.
+Betty McCollum (D-Minn.), ranking member of the House Appropriations Subcommittee on Defense, argued that Congress needs to ‘get back to parity between nondefense and defense spending.’” Read More Scott Petty 10/16/26 Scott Petty 10/16/26 morning take | Senate Showdown Heats Up By Blois Olson, morning take “ CD4: DFL Rep.
 Betty McCollum raised $# with $# on hand.” Read More Scott Petty 10/16/26 Scott Petty 10/16/26 Capitol View: A Senate showdown and a cash rundown By Brian Bakst, Peter Cox and Dana Ferguson, MPR News “Betty McCollum [Incumbent] [4th Congressional District] DFL [Cash on Hand as of 07/01] $498,697 [Raised] $# [in Q3] [Cash on Hand as of 10/01] $497,207” Read More Scott Petty 10/14/26 Scott Petty 10/14/26 morning take | DFL Launches Major State Senate Buy By Blois Olson, morning take “ TODAY: via news advisory from Rep.
 Betty McCollum, McCollum will host a SNAP roundtable in the East Metro.
 WHO: Congresswoman Betty McCollum ; Washington County Commissioner Bethany Cox ; Ramsey County Commissioner Mai Chong Xiong ; Kate Weeks , Assistant Commissioner, Economic Opportunity and Youth Services; Andy Brown , Vice President of Communications and Engagement, Metropolitan Area Association on Aging; Rachel Holmes Director of Advocacy & Community Engagement, The Food Group” Read More Scott Petty 10/9/26 Scott Petty 10/9/26 The House Democrats to watch on Appropriations next year By Samantha Handler and John Bresnahan, Punchbowl news “Rep.
@@ -59,24 +62,7 @@ I remain hopeful that members of Congress will act to pass legislation that supp
 Memo: AI doomers, Minnesota farmers lobby Congress By Ana Radelat, MinnPost “Reps.
 Kelly Morrison, D-3rd District; Angie Craig, D-2nd District; and Betty McCollum, D-4th District, were among 100 Democrats who signed a letter this week to Speaker Mike Johnson, R-La., urging him to keep the U.S.
 House — which was about recess until after the Nov.
-3 election — in session until Congress approves an AI bill. ‘To our children who will have read a post-apocalyptic history, 'Why Congress Slept' — likely written by agentic AI — our inaction will be inexplicable and unforgivable,’ the letter said.” Read More Scott Petty 9/17/26 Scott Petty 9/17/26 Capitol View: The House is out until the election By Brian Bakst and Peter Cox, MPR News “ Minnesota is in for a Washington shuffle no matter how November turns out.
-Democratic U.S.
-Rep.
-Angie Craig is exiting the House and will leave her spot as the top Democrat on the House Agriculture Committee.
-U.S.
-Sen.
-Amy Klobuchar, the DFL nominee for governor, would give up the ranking member title on the companion Senate Agriculture Committee if she wins her race.
-Sen.
-Tina Smith, who is retiring, had held ranking member positions on a couple of Senate subcommittees.
-Republican U.S.
-Rep.
-Pete Stauber is looking to move up the ladder.
-He is currently chairman of the Subcommittee on Energy and Mineral Resources but is looking to be the top Republican (either chair or ranking member depending on which party has the majority) on the full Committee on Natural Resources.
-The current chair must step aside due to term limits.
-The dean of Minnesota’s delegation, Democratic Rep.
-Betty McCollum, is her party’s top figure on the Subcommittee on Defense Appropriations and would continue in that role if reelected, a spokesperson for her confirmed.
-The most-visible Republican Minnesota has in Washington, Republican Rep.
-Tom Emmer, also has a lot riding on November given his role as House majority whip.” Read More Older Posts Thank you for visiting my campaign website.
+3 election — in session until Congress approves an AI bill. ‘To our children who will have read a post-apocalyptic history, 'Why Congress Slept' — likely written by agentic AI — our inaction will be inexplicable and unforgivable,’ the letter said.” Read More Older Posts Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 (651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
 Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

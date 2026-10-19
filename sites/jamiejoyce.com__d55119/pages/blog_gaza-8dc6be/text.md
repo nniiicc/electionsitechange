@@ -35,7 +35,7 @@ What makes this confusing is that TrackAIPAC still lists the incumbent as endors
 Again, many folks think this organization is “dovish,” and because they likewise advocate for democracy and peace, those people argue that the Jstreet endorsement and this money shouldn’t be a problem.
 However, I think it is a problem.
 I think it’s a slap in the face to Palestinians and a betrayal of American citizens.
-I think any congressperson with integrity should refuse all money from any PAC that is “Pro-another-country,” let alone Israel which is committing a genocide.
+I think any congressperson with integrity should refuse all money from any PAC that is “Pro-another-country,” let alone Israel which is committing a genocide (more on this later).
 Although the Congresswoman has been vocal about Gaza and Palestine online and off, as it is said - talk is cheap, and money isn’t.
 She gave back some of the money (her net is still $26k according to OpenSecrets; though I haven’t personally combed through her FEC filings since she refunded some of the money).
 But why take it in the first place?
@@ -90,20 +90,27 @@ From what I can see, the incumbent is allowed to vote with her conscience in thi
 She won’t speak out against Jeffries or the party line.
 That seems to be the case currently.
 And I think this is more of what we can expect: supporting the establishment which is resoundingly led by AIPAC-funded members.
-So, this may be the moment at which some people may call me anti-semitic, because I would refuse any Pro-Israel PAC money, openly talk about the undue influence of Israel in our politics, call what’s happening in Gaza a genocide, agree that Netanyahu is a war criminal, and in my bill, The MAD Act, I both aggressively exempt Israel from investigative protections in Title VII and argue that AIPAC should register under FARA in Title IV .
+So, this may be the moment at which some people may call me anti-semitic, because I would refuse any Pro-Israel PAC money, openly talk about the undue influence of the state of Israel in our politics, call what’s happening in Gaza a genocide, agree that Netanyahu is a war criminal, and in my bill, The MAD Act, I both aggressively exempt Israel from investigative protections in Title VII and argue that AIPAC should register under FARA in Title IV .
 But no, I am not anti-semitic.
+I harbor nothing but affection for people and their right to their faiths, and this includes the Jewish faith, Jewish people, and Israeli people - who deserve freedom, safety, and the right to participate in political processes.
 Anyone who knows me knows that.
 I even have a small, documented history of supporting Jewish causes: specifically, the preservation of endangered Jewish dialects, which I was quoted in JWeekly about in 2021.
-Being critical of Israel is not anti-semetic.
+Being critical of the state of Israel is not anti-semetic.
 This isn’t a Jewish ideological PAC.
 It is a Pro-Israel ideological PAC.
+This is a foreign nation.
+Accepting money oriented towards promoting the interests of a foreign nation is a conflict of interest at best.
 And in case you’re upset at me while reading this, please remember: it should be ok to criticize both our own government and any foreign government.
 I repeat: it is ok to criticize both our own government and any foreign government.
-That doesn’t mean I have any ill-feelings towards Israeli people, and especially not towards Jewish people.
-I do, however, feel great disappointment when anyone in elected office accepts money that is “pro” another nation.
-And I am disgusted by any member of Congress who takes money from Israel-aligned organizations at this time.
-Despite the incumbent raising so much more money than I have, I would rather lose this election than take blood money.
+We should all feel great disappointment when anyone in elected office accepts money that is “pro” another nation.
+And I am disgusted by any member of Congress who takes money from Israel-aligned organizations at this time - because statements from high-ranking Israeli officials make it clear that there is exterminist intent for Gaza.
+The numbers of deaths and the percentage of the population may be lower than previous genocides like in Rwanda and the Holocaust, but we also live in a more modern society in which we can observe intent and action in more real time and start opposing it earlier - unlike in the past, in which such tragedies had to grow so large before they were eventually noticed.
+Now, news travels faster and the Overton window about what constitutes genocide has and should shift.
+We should all be grateful to live in a global culture in which such loss of human life is considered absolutely intolerable.
+Despite the incumbent raising so much more money than I have, I would rather lose this election than take Pro-Israel money.
+Jewish Americans are welcome to participate in every area of American political life, but through PACs which are explicitly “Pro-Israel” is not something I support.
 If Israel wanted to improve its image and relationship to the United States in earnest, it should invest this money in good causes, in charity, in food for Gaza - not in trying to control seats in Congress.
+Especially when their debt-to-GDP ratio suggests they can afford to maintain their own Iron Dome.
 I don’t know if it’s pernicious paranoia on the part of Israel out of self-defense or what, but I do know that Palestine should be free.
 Yours in service, Jamie Jamie Joyce Previous Previous The Incumbent Refused to Debate Me Four Times In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
 In tests we performed, they bias towards incumbents.

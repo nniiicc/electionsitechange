@@ -57,10 +57,9 @@ He embodies the values of justice, integrity, and accountability.
 As Attorney General, he will work tirelessly to ensure that every voice is heard and every citizen is protected.
 Join us in supporting a candidate who truly cares about the future of our state.
 Your vote for Bob Fioretti is a vote for a brighter, more just Illinois.
-Recent Posts See All # Days Until Election Day: Your Illinois Voter Action Guide Official Voter Directive # DAYS LEFT The Office of the Attorney General Belongs to the People.
+Recent Posts See All Veteran Police Commander Bill Kushner Endorses Bob Fioretti for Illinois Attorney General # Days Until Election Day: Your Illinois Voter Action Guide Official Voter Directive # DAYS LEFT The Office of the Attorney General Belongs to the People.
 Illinois stands at a critical juncture.
-The Attorney General is our state’s chief legal advocate—mandate On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour Join Us for Our Road to Victory Final Event before Election Day!
-EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+The Attorney General is our state’s chief legal advocate—mandate On the Trail: Debates in Alton & Galesburg, WSIU Interview, and Charleston Tour EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

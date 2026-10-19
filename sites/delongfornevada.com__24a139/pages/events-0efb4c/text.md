@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 EVENT CALENDAR ​ Coffee with your Assemblyman Fri, Aug 07 Raley's Market I am holding a coffee hour with constituents on, Saturday, August 8th at 9:00am, but at a new location!
 Please meet me at the Raley’s market on Wedge Parkway and Mount Rose Highway.
 I have reserved the community location in the southeast corner of the store.

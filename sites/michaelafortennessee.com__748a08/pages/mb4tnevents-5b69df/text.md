@@ -1,12 +1,7 @@
 Skip navigation menu Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Join Us Upcoming Events Meet Michaela Barnett and ask your questions about her background, platform, and plans to deliver for TN-02.
 Looking for volunteer opportunities?
 Find them here .
-Brunch Fundraiser at Kaizen Kaizen, 127 S Central St Knoxville, TN 37902 Come out to Kaizen in the Old City on Sunday, October 18 for a brunch fundraiser benefiting Michaela Barnett, our Democratic nominee for US House.
-Your ticket price helps Michaela's campaign reach more voters before election day!
-Please review the attached menu and choose your ticket based on an omnivore, gluten free, or plant-based meal.
-Tickets include tasty appetizers, your choice of entry, and delicious desserts.
-Seating will be community style, so come excited to connect with your neighbors!
-RSVP Campbell County Town Hall Campbell County Senior Citizen Center 102 S 8th St, LaFollete, TN 37766 Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
+Campbell County Town Hall Campbell County Senior Citizen Center 102 S 8th St, LaFollete, TN 37766 Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
 On Thursday, October 22nd, Michaela Barnett is showing up to answer them.
 Join us at the Campbell County Senior Citizen Center for a town hall where you can ask Michaela directly about healthcare, infrastructure, affordability, and what real representation looks like for TN-02.
 Registration is encouraged, but not required to attend.

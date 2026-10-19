@@ -12,7 +12,7 @@ Sen.
 Raptakis "Always There for YOU " Reminder: Donations require the employer's company name and the donor's residential address.
 Thank you.
 2026 PRINT FORM* HOME | ABOUT | AGENDA | NEWSROOM | EVENTS | DONATE | SOCIAL | ARCHIVES | CONTACT Newsroom DONATE GET INVOLVED Thank You for Your Support!
-"No One's Voice but Ours" State House Contact Number: 401-276-5567 * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
+"No One's Voice but Ours" * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
 Please review Privacy Policy.
 Your Zip Code * Enter your zip code of residence.
 I agree to receiving marketing and promotional materials Opt-In * Please Note: Donations require employer's company name, and donor's residential address. ©# | ALL RIGHTS RESERVED.

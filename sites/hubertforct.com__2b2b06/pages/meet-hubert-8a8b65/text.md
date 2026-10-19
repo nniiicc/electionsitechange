@@ -1,5 +1,5 @@
 top of page HUBERT DELANY for STATE REPRESENTATIVE Home Meet Hubert Issues Voting Info News + Updates Support Us Contact More Use tab to navigate through the menu items.
-DONATE ABSENTEE BALLOTS REGISTER TO VOTE VOTE NOV 5 General Election for District 144 Meet Hubert Born in the city of Stamford, Connecticut, Hubert learned what it meant to serve from growing up in a civic-minded household with strong values.
+DONATE ABSENTEE BALLOTS REGISTER TO VOTE Meet Hubert Born in the city of Stamford, Connecticut, Hubert learned what it meant to serve from growing up in a civic-minded household with strong values.
 The great-grandson of Hubert T.
 Delany, Martin Luther King Jr’s attorney, Hubert was raised to believe that the best way to uplift a community is to celebrate its diversity.
 Hubert also believes that it is important to fight for what’s right.
@@ -14,11 +14,12 @@ He was awarded the Army Commendation Medal for helping to champion diversity in 
 He was also awarded the Army Volunteer Service Medal for leading initiatives to promote military absentee voting.
 Hubert has served with various units from Fort Bragg and around the world, including the XVIII Airborne Corps, First Special Forces Command (Airborne), and US Army Europe. ​ The Home Front Across the spectrum, Hubert has served his city and his neighbors in various ways.
 He has volunteered to help the patriotic and special events commission inspire the Stamford Patriotic spirit, and he has led the way to champion new policies for our city within Caroline Simmons’ transitional government.
-An Oath When Hubert became a Soldier he swore to defend the United States and the U.S.
+When Hubert became a Soldier he swore to defend the United States and the U.S.
 Constitution from all enemies foreign and domestic.
 Now that he’s home Hubert is running to become the Connecticut State Representative for District 144, so he can continue to do what he has always done - fight for our community.
-JOIN THE CAMPAIGN donate to help stay connected Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
-All are welcome. volunteer Paid for by Hubert Delany for State Representative.
+An Oath JOIN THE CAMPAIGN donate to help stay connected VOTE NOV 3 General Election for District 144 Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
+All are welcome.
+Volunteer Paid for by Hubert Delany for State Representative.
 Jim Fleischer, Treasurer.
 Website Designed by T'kheya Yisrael, Approved by Hubert Delany.
 Disclaimer: Sgt.

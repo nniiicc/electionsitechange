@@ -16,4 +16,4 @@ Education: Invest in a System That Delivers Results We are paying one of the hig
 You deserve better value for your school taxes.
 Your Choice: Support an education system that prioritizes your child's future success and vocational skills over administrative overhead.
 Housing: Create a Home in Your Community Top-down policies favor big developers over local families, pushing Vermonters out of their own towns.
-Your Choice: Whether you want to build a new home, upgrade an old barn house, or stay in your rural town, you should have the tools and incentives to make it happen. get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made in Vermont by Kenneth Sekuterski Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook
+Your Choice: Whether you want to build a new home, upgrade an old barn house, or stay in your rural town, you should have the tools and incentives to make it happen. get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made by NEQ Media Group Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook

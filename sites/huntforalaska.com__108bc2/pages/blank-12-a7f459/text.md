@@ -106,7 +106,7 @@ Measure the results.
 Expand as we can sustain it. ​ That is how we can work toward universal child care as a responsible long-term investment in Alaska’s future. ​ Future Generations First. ​ Not Left.
 Not Right.
 Forward, Together.
-Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

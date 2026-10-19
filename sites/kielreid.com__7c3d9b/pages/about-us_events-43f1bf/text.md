@@ -7,9 +7,7 @@ Sign Up Here LWV Candidate Forum – State House & Senate When October 1, 2026 6
 Doors open at 6 PM; the forum begins at 6:30 PM.
 Search Near...
 Dates and Sorting Order Grouped Lists Search Results View Type List Grouped Lists Grid Search Show Advanced Search Search Dates and Near...
-Location Options Country All Countries United States Region All Regions City/Town All Cities/Towns Within 5 10 25 50 100 distance units Miles Kilometers Categories Categories Candidate Forum Canvassing Community Event Fundraiser Meet & Greet Phone Banking Rally Town Hall Voter Registration Tags Tags Clear All Search 17 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Saturday, Oct 17 October 17, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Shifts start at 11 AM and 2 PM from the Grand Haven Dems office.
-Pick the one that works for you.
-More Info 19 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Spring Lake.
+Location Options Country All Countries United States Region All Regions City/Town All Cities/Towns Within 5 10 25 50 100 distance units Miles Kilometers Categories Categories Candidate Forum Canvassing Community Event Fundraiser Meet & Greet Phone Banking Rally Town Hall Voter Registration Tags Tags Clear All Search 19 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Spring Lake.
 Daytime shifts are open too.
 More Info 20 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Oct 20: Grand Haven Township October 20, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Grand Haven Township.
 Daytime shifts are open too.

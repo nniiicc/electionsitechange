@@ -5,6 +5,6 @@ Drew Stokesbary for the 2022 primary election.
 Earlier this year, NFIB awarded Drew with their “ Guardian of Small Business ” award, which is “reserved for those lawmakers who most reliably support small business.” It is the second time Drew has won this award.
 NFIB is a nonprofit, nonpartisan, and member-driven association that is exclusively dedicated to small and independent businesses and has been advocating on their behalf for nearly 80 years.
 NFIB has more than 7,000 members in Washington.
-Awards Endorsements endorsement small business More For You AWB announces endorsement of Drew Stokesbary Endorsements Saving Washington’s Charter Schools In the News Endorsed by Children’s Campaign Fund!
-Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards Endorsements endorsement small business More For You We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Rep.
+Stokesbary calls on auditor to resign In the News Stand for Children announces 2014 legislative candidate endorsements Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

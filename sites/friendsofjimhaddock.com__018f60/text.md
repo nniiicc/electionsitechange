@@ -2,21 +2,22 @@ Skip to content Home About Jim Issues Women’s Rights Education Standing Up for
 Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Greatly honored to receive my second Fraternal Order of Police (FOP) endorsement this time from the Paul Bickelman Memorial Lodge 46 of the Pennsylvania State Police servicing Luzerne and Lackawanna Counties.
 These fine men and women appreciate my years of supporting the law enforcement community by help passing legislation to help working conditions, education and benefits for the law enforcement community.
 I thank the membership for the faith they showed in me. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 38 Shares: 6 Comments: 6 6 Comments Comment on Facebook Congratulations!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 119 Shares: 13 Comments: 13 13 Comments Comment on Facebook Well Deserved my friend 💙💙 Congratulations Congratulations!
 Well deserved!
-Congratulations,Auguri .
-Awesome well deserved buddy View more comments Please see my statement on the use of AI for political purposes.
+View more comments Please see my statement on the use of AI for political purposes.
 Thank you. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love wow angry 183 Shares: 26 Comments: 32 32 Comments Comment on Facebook AI is good for folks trying to navigate the corruption in family court It's sad how Republicans never condemn ads like that 😕 their response is always it was a third party 😔 Jimmy you have always taken the high road.
-Your integrity is the reason you are well respected by people in the community and beyond.
-So proud of you and the work you do on our behalf. ❤️ View more comments You are all cordially invited to a support State Representative Jim Haddock at a cocktail reception with hot and cold buffet.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love wow angry 207 Shares: 28 Comments: 35 35 Comments Comment on Facebook AI is good for folks trying to navigate the corruption in family court It's sad how Republicans never condemn ads like that 😕 their response is always it was a third party 😔 It’s obvious that the other party knows they can’t beat you!!!
+With all the money you brought to our area, for all you did fighting the Utility Companies, supporting and backing the Veterans, Laborers, getting monies for the fire Companies….
+They can’t come close to doing what you did and continue to do!!!
+You already proved your the bigger person and continue to be!!!
+Keep doing what you’re doing!! ❤️ View more comments You are all cordially invited to a support State Representative Jim Haddock at a cocktail reception with hot and cold buffet.
 Tuesday October 27th from 5:30 to 7:30 at Rinaldi’s Cafe on Main St. in Old Forge.
 Please see the flyer below for more details.
 Thank you as always for the consideration. ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 25 Shares: 0 Comments: 2 2 Comments Comment on Facebook Are you having tripe ? + Thank you to the Friends of Jim Haddock and Marty Flynn who came out to the recent meet the candidates night held in Old Forge.
 The Democratic Committee of District 118 of Lackawanna County held the event and we greatly appreciated getting a chance to talk with so many constituents. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 111 Shares: 4 Comments: 12 12 Comments Comment on Facebook We love you jimmy!!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 113 Shares: 4 Comments: 12 12 Comments Comment on Facebook We love you jimmy!!
 Jim you have my vote.
 Not Shapiro Thank you Rep.
 Jim Haddock for all that you do for us in the 118th.

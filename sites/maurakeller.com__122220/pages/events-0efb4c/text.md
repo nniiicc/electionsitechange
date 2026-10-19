@@ -1,12 +1,11 @@
-0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Events Oct 18 Alfred Wilson Funeral Home Volunteer Meet and Greet with Maura Keller in Carroll County Alfred Wilson Funeral Home Volunteer Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
-She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
-Read more → Alfred Wilson Funeral Home Volunteer Oct 19 Newnan-Coweta Chamber of Commerce Candidate Forum Keller v.
+0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Events Oct 19 Central Educational Center Newnan-Coweta Chamber of Commerce Candidate Forum Central Educational Center Keller v.
 Jack.
 October 19th.
-Stay tuned for more!
-Read more → Oct 20 Fayette County Democratic Committee Volunteer , Text Bank Texting Tuesdays with Maura Keller Fayette County Democratic Committee Volunteer , Text Bank Volunteer with the Maura Keller campaign!
+Newnan.
+5 PM.
+Read more → Central Educational Center Oct 20 Fayette County Democratic Committee Volunteer , Text Bank Texting Tuesdays with Maura Keller Fayette County Democratic Committee Volunteer , Text Bank Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
-Read more → Fayette County Democratic Committee Volunteer , Text Bank Oct 30 End of 2026 Early Voting Early voting starts October 13th and ends October 30th.
+Read more → Fayette County Democratic Committee Volunteer , Text Bank Oct 26 Awkward Brewing Fall Fundraiser: Early Vote Energy with Maura Keller for Congress Awkward Brewing Join Maura Keller for Congress at Awkward Brewing on Monday, October 26th for our Fall Fundraiser “Early Vote Energy.” Read more → Awkward Brewing Oct 30 End of 2026 Early Voting Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
 Read more → Nov 3 Election Day Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
@@ -14,22 +13,23 @@ Read more → Campaign Calendar View Maura’s campaign calendar and keep scroll
 Check back frequently for an updated event schedule!
 Can’t find an event near you?
 Email us at maura@maurakeller.com or fill out our Contact Us form to enquire about speaking engagements.
-Oct 18 Political Action , Volunteer , Fayette Meet and Greet with Maura Keller in Carroll County Sunday, October 18, 2026 1:00 PM 4:00 PM Alfred Wilson Funeral Home (map) Google Calendar ICS Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
-She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
-View Event → Oct 19 Elections Newnan-Coweta Chamber of Commerce Candidate Forum Monday, October 19, 2026 6:00 PM 7:00 PM Google Calendar ICS Keller v.
+Oct 19 Elections Newnan-Coweta Chamber of Commerce Candidate Forum Monday, October 19, 2026 5:00 PM 5:45 PM Central Educational Center (map) Google Calendar ICS Keller v.
 Jack.
 October 19th.
-Stay tuned for more!
+Newnan.
+5 PM.
 View Event → Oct 20 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, October 20, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
 View Event → Oct 25 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 25, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
-View Event → Oct 30 Elections End of 2026 Early Voting Friday, October 30, 2026 9:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
+View Event → Oct 26 Elections Fall Fundraiser: Early Vote Energy with Maura Keller for Congress Monday, October 26, 2026 6:00 PM 9:00 PM Awkward Brewing (map) Google Calendar ICS Join Maura Keller for Congress at Awkward Brewing on Monday, October 26th for our Fall Fundraiser “Early Vote Energy.” View Event → Oct 30 Elections End of 2026 Early Voting Friday, October 30, 2026 9:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
 View Event → Nov 1 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, November 1, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
 View Event → Nov 3 Elections Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
 Make sure to check you My Voter Page before voting!
+View Event → Oct 18 Political Action , Volunteer , Fayette Meet and Greet with Maura Keller in Carroll County Sunday, October 18, 2026 1:00 PM 4:00 PM Alfred Wilson Funeral Home (map) Google Calendar ICS Meet Maura Keller will be in Villa Rica on Sunday, October 18th, from 1 PM to 4 PM.
+She’ll be with fellow Democratic nominees Kwasi Hudson, Maura Keller, and Brandolynn Yarbrough.
 View Event → Oct 13 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, October 13, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
 View Event → Oct 13 Elections Start of 2026 Early Voting!
@@ -88,8 +88,6 @@ View Event → Sep 10 Political Action , Volunteer , Fayette Canvass with the Ma
 Come canvassing in Fayetteville this Thursday.
 View Event → Sep 9 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Wednesday, September 9, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Wednesday.
-View Event → Sep 8 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, September 8, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
-Come join our text-banking party every Tuesday.
 View Event → Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

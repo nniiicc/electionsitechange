@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News District Map Donate Home Meet Jamie Issues Get Involved News District Map Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=71c6e16f3b News Lawmaker: Local school boards need say in extended school closures A north Alabama lawmaker wants local school boards, not just superintendents, to have decision-making power if schools need to be closed to in-person learning for more than a week in emergency situations.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=2f1c44e3e9 News Lawmaker: Local school boards need say in extended school closures A north Alabama lawmaker wants local school boards, not just superintendents, to have decision-making power if schools need to be closed to in-person learning for more than a week in emergency situations.
 Rep.
 Jamie Kiel’s proposed legislation, which he plans to file early next month, would Continue Reading Lawmaker: Local school boards need say in extended school closures A north Alabama lawmaker wants local school boards, not just superintendents, to have decision-making power if schools need to be closed to in-person learning for more than a week in emergency situations.
 Rep.

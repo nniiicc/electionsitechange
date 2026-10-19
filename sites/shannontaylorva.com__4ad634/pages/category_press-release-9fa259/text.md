@@ -1,7 +1,8 @@
 Skip to content Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Facebook Instagram X-twitter Donate Category: Press Release FACT CHECK: Second Local Fact-Check Finds Wittman’s NICU Attack Ad on Shannon Taylor FALSE While Rating Her Ad TRUE HENRICO, Va. — Today, WAVY’s Truth Tracker rated Rep.
 Rob Wittman’s attack ad on Shannon Taylor’s handling of the Henrico NICU child abuse case as FALSE.
 This is the second time this week that Wittman’s ad was rated FALSE, following an earlier 12 On Your Side fact-check.
-Fact-Check: Wittman’s NICU Attack Ad on Shannon Taylor Rated FALSE As Victim’s Parent Calls for Ad to be Taken Down HENRICO, Va. — A new fact-check from 12 On Your Side (WWBT, Richmond) has rated Rep.
+ICYMI: Wittman Says “There Is No War As We Speak” in Iran HENRICO, Va. — As gas and diesel prices soar and U.S. service-members have lost their lives because of the ongoing war in Iran, Rob Wittman refuses to call it what it is.
+A new article from The Huffington Post points to comments Wittman gave earlier today in which he asserted, “there is no war as we speak.” Fact-Check: Wittman’s NICU Attack Ad on Shannon Taylor Rated FALSE As Victim’s Parent Calls for Ad to be Taken Down HENRICO, Va. — A new fact-check from 12 On Your Side (WWBT, Richmond) has rated Rep.
 Rob Wittman’s attack ad on Shannon Taylor’s handling of the Henrico NICU child abuse case as FALSE.
 NEW AD: Shannon Taylor Calls Out Rob Wittman for Cashing In on Data Center Stocks While Virginians’ Utility Bills Skyrocket HENRICO, Va. — Henrico’s top prosecutor Shannon Taylor released a new ad, “Cashing In,” which exposes how Rep.
 Rob Wittman is personally invested in the data center boom that is driving up utility rates for families across Virginia’s First Congressional District.
@@ -16,8 +17,6 @@ Wittman Voted 60 Times to Repeal the ACA — Now Wants Credit for Trying to Save
 Having once bragged about his voting record to slash healthcare coverage, Wittman is now attempting to hide behind a single vote earlier this year to extend the subsidies.
 In response to this election year pivot, candidate for Congress in Virginia’s 1st Congressional District, Shannon Taylor, released the following statement: SIX MONTHS IN: Rob Wittman Has Voted Five Times to Continue A War in Iran That’s Raising Costs on Virginia Families Henrico, VA – Today marks six months since the start of the cost-spiking war with Iran.
 Wittman continues to back the war despite the fact that it has resulted in the death of American servicemembers, has cost our country billions of dollars, and Virginians are forced to pay more at the gas pump and the grocery store.
-NEW AD: Prosecutor Shannon Taylor Launches First TV Ad Highlighting Support From Law Enforcement and Record of Keeping Virginians Safe Henrico, VA – Today, prosecutor Shannon Taylor launched her first general election TV ad in her campaign for Congress in Virginia’s 1st Congressional District.
-The ad, “Prosecutor,” spotlights her record keeping Virginians safe and her backing from law enforcement officers across the Commonwealth.
 Next → Ready To GO?
 Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
 Consent is not a condition of donation.

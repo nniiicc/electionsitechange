@@ -1,5 +1,4 @@
-About Elizabeth 'Lilly' Issues Get Involved Events Donate Now Home About Elizabeth 'Lilly' Issues Get Involved Events Donate Now CALENDAR OF EVENTS Filter By Event Category Filter by Event Category All Categories Fundraising Events Volunteer Events Speaking Events General Events Viewing All Results November 21 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
-Louis View Event November 22 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
+About Elizabeth 'Lilly' Issues Get Involved Events Donate Now Home About Elizabeth 'Lilly' Issues Get Involved Events Donate Now CALENDAR OF EVENTS Filter By Event Category Filter by Event Category All Categories Fundraising Events Volunteer Events Speaking Events General Events Viewing All Results November 22 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event November 28 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event November 29 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event December 5 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
@@ -7,6 +6,7 @@ Louis View Event December 6 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, S
 Louis View Event December 12 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event December 13 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event December 19 | 10:00am Canvass with Lilly MoKaBe's Coffee House, St.
+Louis View Event December 20 | 2:00pm Canvass with Lilly MoKaBe's Coffee House, St.
 Louis View Event Load more Find more events across Missouri From Rock Port to Hannibal, St.
 Louis to Kansas City, Columbia to Kennett and everywhere in between, Missouri House Democrats are working to make long-term change for Missouri.
 See how you could get involved or spread the word about events all over the state.

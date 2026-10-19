@@ -10,15 +10,15 @@ Sign up below so we know you’re coming.
 Sign Up Here LWV Candidate Forum – State House & Senate When October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Event Type Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals.
 Doors open at 6 PM; the forum begins at 6:30 PM.
 19 June 11 AM Juneteenth Heritage Landing RSVP 25 June 7 PM Online AMA Ask Me Anything!
-RSVP October 11, 2026 - October 17, 2026 17 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Saturday, Oct 17 October 17, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Shifts start at 11 AM and 2 PM from the Grand Haven Dems office.
-Pick the one that works for you.
-More Info October 18, 2026 - October 24, 2026 19 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Spring Lake.
+RSVP October 18, 2026 - October 24, 2026 19 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Spring Lake.
 Daytime shifts are open too.
-More Info 20 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Oct 20: Grand Haven Township October 20, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Grand Haven Township.
+More Info 20 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Knock doors with Team Abdul & Team Reid - Tuesday, Oct 20: Grand Haven Township October 20, 2026 5:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM to canvass Grand Haven Township.
 Daytime shifts are open too.
 More Info 21 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Wednesday, Oct 21 October 21, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Meet at the Grand Haven Dems office at 5 PM.
 We'll hand out turf there.
 Daytime shifts are open too.
+More Info 22 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 22 October 22, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Joint canvass in Norton Shores with Team Amidon and Team Abdul.
+Meet at the Ross Park picnic area at 5 PM.
 More Info 1 2 3 4 > All Events Media Coverage Kiel Reid Steady.
 Prepared.
 Local.

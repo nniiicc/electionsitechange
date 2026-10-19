@@ -12,7 +12,7 @@ The job of government is to streamline economic progress for private businesses,
 Colorado needs legislators that grease the rails of commerce for business and the people, and then get out of the way.
 NOT dictate every little piece of our lives.
 There is another option this year for Colorado’s HD 49… Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Turn on JavaScript to leave a comment. Δ Michael_Sheperek@icloud.com P.O.
-Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 17, 2026 4:51 am Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein Discover more from SheperekForColorado Subscribe now to keep reading and get access to the full archive.
+Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 18, 2026 5:22 am Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein Discover more from SheperekForColorado Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

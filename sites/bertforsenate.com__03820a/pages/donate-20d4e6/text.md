@@ -1,8 +1,8 @@
 Home About Platform Events Contact Donate Donate @GenBert2026 Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
-Latest: Simple solutions can create big results when it comes to affordability.
-By thinking about the mechanisms of affordabili… See upcoming events Contribute Donate Today Stand with Bert and help bring strong, principled leadership to Virginia.
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Stop Spanberger — Fire Warner — Vote Bert!
+Latest: Even Warner agrees that he put too many into Virginia!
+See upcoming events Contribute Donate Today Stand with Bert and help bring strong, principled leadership to Virginia.
 WinRed Contribute securely through WinRed.
 Donate via WinRed Anedot Contribute securely through Anedot.
 Donate via Anedot Official Campaign Store Gear up and show your support across Virginia.

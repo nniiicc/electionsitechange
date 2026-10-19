@@ -2,7 +2,7 @@ Toggle Navigation Experience, Integrity, Commitment Putting NC First Volunteer C
 NC House District 70 covers the northwest quadrant of Randolph County.
 The voting precincts included in District 70 are Archdale, Asheboro North, Asheboro East, Asheboro South, Asheboro West, Back Creek, Level Cross, New Market, Randleman, Tabernacle, Trinity, and Trinity-Tabernacle.
 For more information, visit the Randolph County Board of Elections website.
-By billmccaskill , 5 months May 6, 2026 ago Info Register to Vote To register to vote and vote in North Carolina, a person must: Be a U.S. citizen.
+By billmccaskill , 6 months May 6, 2026 ago Info Register to Vote To register to vote and vote in North Carolina, a person must: Be a U.S. citizen.
 Be a resident of the county, and prior to voting in an election, must have resided at his or her residential address for at least # days prior to the date of the election.
 Be at least 18 years old or will be 18 by the date of the next general election.
 Not be serving a sentence for a felony conviction (including probation or on parole).
@@ -30,4 +30,4 @@ Imprima la solicitud.
 Firme la solicitud (tinta al papel).
 4.
 Envíe la solicitud a la junta electoral de su condado .
-By billmccaskill , 5 months May 5, 2026 ago imunify-bot-check
+By billmccaskill , 6 months May 5, 2026 ago imunify-bot-check

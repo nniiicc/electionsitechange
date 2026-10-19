@@ -21,6 +21,10 @@ La Campaña para Acabar con la Pobreza de los Veteranos de Landon lucha por la v
 06 · ATENCIÓN MÉDICA Atención al alcance de todos Atención médica preventiva y asequible, cerca de casa, y apoyo a las enfermeras y trabajadores de la salud que cuidan de nuestras comunidades.
 07 · QUE CADA NEOYORQUINO CUENTE Si no te cuentan, no te escuchan El censo decide nuestra representación y la parte justa de fondos que nos toca.
 Por eso Landon aseguró fondos para crear una oficina estatal dedicada al censo, y por eso seguirá luchando hasta que cada neoyorquino, en cada vecindario, sea contado.
+08 · ARREGLAR E-ZPASS Una Carta de Derechos de E-ZPass Una Carta de Derechos de E-ZPass para los neoyorquinos.
+Aviso claro antes de que se acumulen los cargos, una forma justa de disputar errores y no más multas sorpresa que convierten un peaje en una deuda.
+09 · DEPORTES JUVENILES Deportes juveniles al alcance de todos Cada niño merece un lugar en el equipo.
+Bajemos el costo de ligas, canchas y equipo para que ninguna familia tenga que elegir entre pagar las cuentas y el partido de su hijo.
 Un mañana más fuerte empieza aquí. Únete al movimiento LANDON DAIS | ASAMBLEÍSTA | DISTRITO 77 Instagram Facebook X Paid for by Landon Dais for NY · Pagado por Landon Dais for NY Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up to receive news and updates.

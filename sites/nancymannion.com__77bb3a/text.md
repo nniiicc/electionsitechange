@@ -16,9 +16,14 @@ Sign Up for Campaign Updates → Join Nancy’s campaign community and stay info
 Trusted by Democratic Leaders, Organizations, and Grassroots Groups in PA-11 and Beyond See Who Supports Nancy → Nancy’s Priorities Focused on what matters most to PA-11 Lowering costs, safer communities, and real results for working families.
 Explore Priorities → This campaign is powered by people — not billionaires .
 Donate $25 Donate $50 Donate Other › Volunteer › Latest News & Press Releases → Recent media coverage, interviews, features, and campaign press releases.
-Who is Nancy Mannion?
+Can this ER nurse unseat five-term Republican U.S.
+Rep.
+Lloyd Smucker?
+Nancy Mannion shares her perspectives on affordability, health care, and the concerns she's hearing from voters across Pennsylvania's 11th District.
+Read more › A Musical Surprise for Nancy at Central Market Local musician Antoine Cameron, "The Pianoman," surprised Nancy Mannion with an original song while the team was setting up at Central Market on Saturday.
+A wonderful, unexpected campaign moment!
+Watch the video › Who is Nancy Mannion?
 Meet the Democratic candidate for Pennsylvania's 11th District Nancy Mannion, a former emergency nurse and health care executive, is running as a Democrat to represent Pennsylvania's 11th Congressional District...
-Read more › Listen to the Love n’ Leary podcast episode with Nancy Mannion From the ER to Congress: Why This Nurse Is Running for Office 2026 Pennsylvania Election Guide Nancy Mannion running to challenge Lloyd Smucker in Pennsylvania's 11th Congressional District.
 Read more › View All News & Press Releases → NANCY MANNION FOR CONGRESS Citizens for Nancy Mannion PO Box 4217 Lancaster PA 17604 info@nancymannion.com Home Meet Nancy Events Donate Facebook Instagram Contact Us Sitemap Stay in the loop Get campaign updates, event invitations, and important election news.
 Sign Up → Paid for by Citizens for Nancy Mannion. © # Nancy Mannion for Congress.
 All Rights Reserved.

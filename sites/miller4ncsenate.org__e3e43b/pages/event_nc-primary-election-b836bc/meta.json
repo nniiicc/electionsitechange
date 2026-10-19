@@ -1,9 +1,10 @@
 {
  "description": "Some info for campaign event Some info for campaign event",
  "final_url": "https://miller4ncsenate.org/event/nc-primary-election/",
- "fingerprint": "e21bb63341c9f213e2e439f0124df6f2da8cdce8",
+ "fingerprint": "7f06a52f6d34d93beaee7a4fec2f7757db4fee6f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "NC Primary Election | Miller 4 NC Senate",
  "years_mentioned": [
   "2024"

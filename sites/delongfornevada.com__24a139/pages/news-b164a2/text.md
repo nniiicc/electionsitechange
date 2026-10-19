@@ -1,4 +1,4 @@
-top of page DONATE DONATE Home Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
+top of page DONATE DONATE Home My Record Nearest Voting Location About Voting Events Issues Contact News More Use tab to navigate through the menu items.
 DeLong For Nevada Newsletter February 2026 Happy New Year to all!
 With the start of 2026, the newsletter is back.
 I held another Saturday morning coffee on January 24th at the Raley’s Markey on Wedge Parkway, in their community room.

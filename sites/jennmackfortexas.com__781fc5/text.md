@@ -1,4 +1,4 @@
-Home About Issues News Donate Shop Contact Us Toggle Menu Write In Jenn Mack for Texas WRITE-IN CANDIDATE FOR TEXAS GOVERNOR Election Day 15 Days 20 Hours 04 Mins 42 Secs Register to Vote Contact Us Donate Together, let's rebuild constitutional government, give this nation back to the Lord, starting with Texas, and return power to the people.
+Home About Issues News Donate Shop Contact Us Toggle Menu Write In Jenn Mack for Texas WRITE-IN CANDIDATE FOR TEXAS GOVERNOR Election Day 14 Days 20 Hours 09 Mins 25 Secs Register to Vote Contact Us Donate Together, let's rebuild constitutional government, give this nation back to the Lord, starting with Texas, and return power to the people.
 Faith.
 Family.
 Freedom.

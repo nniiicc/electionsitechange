@@ -29,7 +29,7 @@ Transparent tracking of constituent concerns.
 Legislative summaries provided in plain English.
 Ready to make a difference?
 Join our campaign today and help us build a government that truly serves the people of Alaska.
-JOIN THE MISSION Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+JOIN THE MISSION Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

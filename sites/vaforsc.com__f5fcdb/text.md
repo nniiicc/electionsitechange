@@ -1,4 +1,4 @@
-top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Events Contact Donate Shop Merch More Use tab to navigate through the menu items.
+top of page Virginia McLean for SC House District 36 Home Values & Vision Voter Information About Contact Donate Shop Merch More Use tab to navigate through the menu items.
 A Better Choice Serving Communities in Lyman, Wellford, Startex, Duncan, Reidville, and Greer Donate Advocating for Our Future I believe that every child in South Carolina deserves a world-class education, and every teacher deserves the resources and respect necessary to provide it.
 I am running for the House because I am tired of seeing our public schools and educators sidelined; it’s time for a representative who treats our children’s future—from those first preschool milestones to high school graduation—as their top priority.
 Values & Vision Investing in Our Growth Spartanburg County is no longer the best-kept secret in the South—we are growing at a rapid pace, and while that brings incredible opportunity, it also brings a significant strain on our daily lives.

@@ -12,8 +12,10 @@ The same discipline that builds successful organizations can transform how gover
 Every dollar has to justify itself.
 Every decision has to show results.
 Now, he is bringing that same approach to public service — focused on stopping the squeeze on District 9A families, demanding real accountability for the $21,512 per student we already spend on education, and bringing a business owner's fiscal standard to every vote in Annapolis.
-"I have run under a party label before, because that was the path available at the time.
-What it taught me from the inside is that most of what happens to a bill happens before anyone votes on it.
+"I ran in a party primary in 2022, as most candidates do.
+The petition route existed then too.
+I didn't take it, and running inside a primary is what convinced me I should have.
+It taught me from the inside is that most of what happens to a bill happens before anyone votes on it.
 I am running unaffiliated so that when I am asked to vote, the only question I have to answer is whether it helps the people who live here." CAMPAIGN HISTORY Fighting for This Community Since 2018 Dr.
 Rehman has been on the ballot before — and every campaign taught him something about how the system works and who it serves.
 2018 Howard County Board of Education — Countywide Race First campaign.
@@ -22,7 +24,9 @@ Built grassroots support across the district and learned firsthand how party str
 2020 Howard County Board of Education — District 5 Second campaign.
 Deepened connections with District 9A parents and school families.
 Education accountability has been a priority since day one.
-2022 Maryland House of Delegates — District 9A Ran for this same seat under a party label, because that was the path available at the time.
+2022 Maryland House of Delegates — District 9A Ran for this same seat in a party primary, as most candidates do.
+The petition route existed then too.
+Not taking it is the lesson of that race.
 What that year taught from the inside is how much of a session is decided before a bill ever reaches the floor, and how little of it turns on whether the bill would help District 9A.
 2026 Maryland House of Delegates — District 9A (Independent) Running as an independent because District 9A deserves a delegate who answers to the district — and only the district.
 No caucus.
@@ -39,7 +43,7 @@ Every fee increase, every tax, every rate hike — I'm paying them too.
 Fiscal Accountability PhD in Management Information Systems — applied research focused on solving real-world problems.
 Every dollar has to justify itself.
 Every decision has to show results.
-BY THE NUMBERS Why This Race Matters $1.6B New Taxes & Fees MD DLS verified, FY 2025 budget 78% Registration Increase $67.50 → $120.50 $21,512 Per Student / Year 4th highest in MD — emergency legislation still needed $3.3B Deficit Closed with $1.6B in new taxes & fees on Maryland families WHY INDEPENDENT The System Is Built to Serve Itself I ran for Howard County Board of Education in 2018 and 2020, and for this same District 9A seat in 2022 under a party label.
+BY THE NUMBERS The Record Behind the Name 40+ Years in America Built a business and a family in Howard County 20+ Years Making Payroll A business owner's standard for every budget vote 3 Children Through Our Schools Two Howard County graduates, one still enrolled 1 Unaffiliated Name on the Ballot Across all 188 General Assembly seats this year WHY INDEPENDENT The System Is Built to Serve Itself I ran for Howard County Board of Education in 2018 and 2020, and for this same District 9A seat in 2022 under a party label.
 Those years showed me how Annapolis actually works, and where a district like this loses.
 Bills that would lower a real cost for families here rarely fail on the floor.
 They fail earlier and quietly, and nobody has to go on record killing them.

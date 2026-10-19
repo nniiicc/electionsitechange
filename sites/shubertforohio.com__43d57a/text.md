@@ -1,4 +1,4 @@
-top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED Standing for common sence governance.
+top of page Home Donate Biography Voter Information Campaign Newsletter Get Involved CONTRIBUTE GET INVOLVED Standing for common sense governance.
 Craig Shubert for State Representative From an Eagle Scout in Iowa to the mayor’s office in Hudson, Ohio, Craig Shubert has dedicated his life to service, leadership, and defending the values that make communities strong.
 He believes Ohio’s future demands a strong economy, good paying jobs, lower taxes, world-class education, reliable infrastructure, and leaders willing to stand for what is right.
 LEARN MORE Proudly e ndorsed by Leaders across Ohio and local community organizations stand with Craig Shubert for State Representative, trusting his commitment to common sense governance.

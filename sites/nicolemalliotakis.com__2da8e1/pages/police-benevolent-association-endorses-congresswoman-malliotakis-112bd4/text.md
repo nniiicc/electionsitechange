@@ -13,5 +13,5 @@ They are our first line of defense against the crime and terrorism and put their
 I will always continue my mission to ensure that 9/11 first responders and survivors have the coverage and care they need and deserve from the World Trade Center Health Center healthcare program.
 “In addition, I will never hesitate to stand up to radical politicians who want to defund or handcuff law enforcement.
 I’m glad the PBA has my back in this election, because I’ll always have theirs.” In Congress, Rep.
-Malliotakis has secured millions of dollars in federal funding for vehicles, K-9s, forensic equipment, protective gear, cameras, tasers and rape kits. share PREVIOUS ARTICLE Uniformed Fire Officers Assoc.
+Malliotakis has secured millions of dollars in federal funding for vehicles, K-9s, forensic equipment, protective gear, cameras, tasers and rape kits. share NEXT ARTICLE Malliotakis Op-Ed: Rubio’s Call to Defend Western Civilization Comes at a Pivotal Moment PREVIOUS ARTICLE Uniformed Fire Officers Assoc.
 Endorse Congresswoman Nicole Malliotakis STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

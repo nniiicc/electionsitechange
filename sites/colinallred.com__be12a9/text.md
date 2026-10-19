@@ -17,7 +17,9 @@ Leadership we deserve Colin knows that Washington is broken and the system is ri
 Folks who play by the rules and keep the faith just can’t seem to get ahead.
 But the folks who cut corners and cut deals – they’re doing just fine.
 Colin is running for Congress to lower costs and stop corrupt politicians like Donald Trump from rigging the economy against hard working Texans.
-Colin's Story Colin's Story Building an America that Finally Lives Up to its Promise AGENDA Immigration Read More AGENDA Affordability Read More AGENDA Corruption Read More Black political power is on the line across the South.
+Colin's Story Colin's Story Building an America that Finally Lives Up to its Promise AGENDA Immigration Read More AGENDA Affordability Read More AGENDA Corruption Read More Early voting starts TOMORROW, Texas! 🗳️ There's too much at stake to sit this election out.
+From lowerin...
+Black political power is on the line across the South.
 Gerrymandering threatens to silence Black voters and er...
 As a father, I'm heartbroken for the families in Bend, Oregon.
 No parent should have to fear sending their ch...
@@ -31,11 +33,7 @@ More than 1,000 Texas kids are waiting for autism services, and the state’s so
 Working families deserve more than a fighting chance.
 They deserve someone willing to fight for them. https://...
 Want to help us keep fighting for Texas families?
-Chip in and join the fight. 🥊 https://t.co/ifCi9bBSHS Happy birthday to a Texas legend, Ms.
-Opal Lee.
-A century of courage, service and making our country better.
-W...
-Donate to Support Allred for Texas If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount LET'S GET TO WORK Email Address Zip Code Phone Number (Optional) .
+Chip in and join the fight. 🥊 https://t.co/ifCi9bBSHS Donate to Support Allred for Texas If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount LET'S GET TO WORK Email Address Zip Code Phone Number (Optional) .
 Sign up here to receive text updates.
 By participating, you consent to recurring autodialed campaign and donation messages from Colin Allred to the phone number you provide.
 No purchase or donation required.
@@ -62,4 +60,4 @@ Donate Donate Donate to Stand with Allred for Texas $5 $25 $56 $100 $250 Other A
 Continue to Website ASK MARLEY!
 Marley Hi!
 I'm Colin Allred's pup — and I'm here to help you learn about what he's fighting for in Texas's 33rd Congressional District.
-3:56 AM Click to Start Chat
+3:48 AM Click to Start Chat

@@ -17,4 +17,4 @@ Chip in to help me get our message out before the clock runs out!
 “Do you want a Blue Dog, or a lap dog to this administration?” As headlined in Utah News Dispatch Send a Blue Dog to Congress Watch the Debate # Days Left To Return Your Ballot Nov 3rd, 2026 Do not mail it back.
 Use a drop box by 8 p.m.
 Nov 3rd.
-# Days Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026
+# Day Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026

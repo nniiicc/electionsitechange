@@ -36,4 +36,4 @@ It’s time to be brave.
 It’s time to say enough!
 It’s time for change!
 Let’s do this together!
-CONNECT WITH US DONATE JOIN OUR TEAM DONATE PO Box 91, Columbia City, IN 46725 | [email protected] Paid for by Kelly Thompson for Congress Privacy Policy bottom of page
+CONNECT WITH US DONATE JOIN OUR TEAM DONATE PO Box 91, Columbia City, IN 46725 | contact@kellythompsonforcongress.com Paid for by Kelly Thompson for Congress Privacy Policy bottom of page

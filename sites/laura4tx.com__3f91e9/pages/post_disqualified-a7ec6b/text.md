@@ -1,5 +1,5 @@
 top of page Texas District 8 Candidate for U.S.
-House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Disqualified sk9001 #ago 2 min read This is my 38th and final blog post in support of Laura Jones for Congress from the 8th Congressional District here in Texas.
+House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Disqualified sk9001 Oct 11 2 min read This is my 38th and final blog post in support of Laura Jones for Congress from the 8th Congressional District here in Texas.
 I've covered a variety of topics since the summer of 2025, but in this last post, I'll focus on just one.
 Wednesday, January 7th, 2026: In a lengthy interview with 4 reporters from the New York Times, Donald Trump was asked if there are any limits on his exercise of power around the world.
 Trump replied: "Yeah, there is one thing.

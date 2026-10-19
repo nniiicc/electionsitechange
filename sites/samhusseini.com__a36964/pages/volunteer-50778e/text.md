@@ -1,6 +1,5 @@
 About Issues Volunteer Resources for Supporters Press Events DONATE About Issues Volunteer Resources for Supporters Press Events DONATE Help us win.
-We need your help to get Sam into Congress.
-Volunteer Signup Join our movement to bring positive change to Maryland!
+We need your help to get Sam into Congress -- volunteer@samhusseini.com Volunteer Signup Join our movement to bring positive change to Maryland!
 We're seeking passionate volunteers to support Sam Husseini’s 2026 run for Congress.
 Your involvement is crucial to building a movement that prioritizes grassroots democracy, environmental sustainability, economic equity, the end of the war machine, and collective liberation.
 Sign up today to be part of this transformative journey and make a meaningful impact on our shared future.

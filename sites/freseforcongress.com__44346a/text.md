@@ -1,4 +1,4 @@
-Common sense for Contra Costa Frese For Congress Make California affordable.
+Common sense for California Frese For Congress Make California affordable.
 Better schools.
 Safer streets.
 Common sense.

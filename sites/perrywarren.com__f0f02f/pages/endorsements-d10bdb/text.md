@@ -128,7 +128,12 @@ They have 13,000 members throughout the state and have built support through gra
 Planned Parenthood of Pennsylvania fights for maximum access to and support of reproductive healthcare.
 They strive to ensure that all Pennsylvanians maintain their right to birth control, sexual education, and family planning.
 And more coming soon!
-2016 The Pennsylvania State Education Association strives to protect and improve our public schools throughout the commonwealth.
+2016 Perry was one of a select few Pennsylvania State House candidates to be officially endorsed by President Obama during the 2016 election.
+“It is truly an honor to have been endorsed by the President of the United States,” said Warren, who met with the President during Mr.
+Obama’s September 13th visit to Philadelphia.
+“President Obama’s support demonstrates the strength of my campaign.
+The President endorsed me because I want to go to Harrisburg to help end the gridlock, support sensible gun safety laws, serve as a champion of education for our children and future generations and protect the LGBTQ community and others from discrimination,“ Warren added.
+A press statement from the Democratic Legislative Campaign Committee on President Obama’s endorsement of Perry Warren and other legislative candidates can be viewed at http://www.dlcc.org/press/president-obama-endorses-key-statehouse-races/ The Pennsylvania State Education Association strives to protect and improve our public schools throughout the commonwealth.
 With 180,000 members they fight for their workers' rights in order to insure well run schools.
 Planned Parenthood of Pennsylvania fights for maximum access to and support of reproductive healthcare.
 They strive to ensure that all Pennsylvanians maintain their right to birth control, sexual education, and family planning.

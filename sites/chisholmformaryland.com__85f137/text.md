@@ -5,47 +5,47 @@ Follow Follow Follow First elected in 2018 , Brian has proudly represented Distr
 He is guided by unwavering core values of integrity, transparency, and accountability, and is deeply committed to serving with honesty and openness.
 Every action he takes is focused on faithfully representing the priorities and values of the community he serves.
 MEET BRIAN Please help me continue my tireless fight for Freedom and Liberty by Donating here.
-DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,456 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
+DONATE  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,458 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
 Question 3 isn’t on your sample ballot?
 Maryland Dems want to redraw the map AND keep you from noticing.
 VOTE NO before it’s too late. ...
-See More See Less #ago View Comments likes love haha wow angry 157 Comments: 59 Shares: 82 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 59 Comments Comment on Facebook Play Load more  Brian Chisholm Follow 851 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 10h 2111592838316384604 Nothing to see here, move along.
+See More See Less #ago View Comments likes love haha wow angry 195 Comments: 65 Shares: 99 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 65 Comments Comment on Facebook Play Load more  Brian Chisholm Follow 852 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 9h 2111965773141012617 Last call!
+Mark Fisher @fisher4maryland Moore Closures — Guinness is closing its Maryland location.
+Almost 200 jobs lost due to @govwesmoore & @mddems failed policies.
+It is simply too expensive for businesses to operate in the State.
+Join @chisholmstrong & me for the Dumbest Bill in America!
+Reply on Twitter 2111965773141012617 Retweet on Twitter 2111965773141012617 0 Like on Twitter 2111965773141012617 2 X 2111965773141012617 Brian Chisholm @Chisholmstrong · 17 Oct 2111592838316384604 Nothing to see here, move along.
 Matt Morgan @MattMorgan29A Neighboring states have an Inspector General.
 Maryland doesn't.
 Why?
 The Office of Legislative Audits flagged over $3 billion in federal funds the state can't document across eight agencies.
 Maryland ranks 42nd in fiscal responsibility, with a $25.7 billion hole and a D grade.
-I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 0 Like on Twitter 2111592838316384604 1 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 16h 2111499630672499062 Wait...
+I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 2 Like on Twitter 2111592838316384604 4 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 17 Oct 2111499630672499062 Wait...
 Question 3 isn’t on your sample ballot?
 Maryland Dems want to redraw the map AND keep you from noticing.
 VOTE NO before it’s too late.
 Twitter feed video.
-Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 9 X 2111499630672499062 Brian Chisholm @Chisholmstrong · 15 Oct 2110765205940510967 I fight for your wallet.
-They fire back with lies.
-Here’s the record they hoped you wouldn’t see.
-Watch and share.
-Twitter feed video.
-Reply on Twitter 2110765205940510967 Retweet on Twitter 2110765205940510967 0 Like on Twitter 2110765205940510967 1 X 2110765205940510967 Load More  Brian Chisholm Follow 851 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 10h 2111592838316384604 Nothing to see here, move along.
+Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 12 X 2111499630672499062 Load More  Brian Chisholm Follow 852 1,842 MD Del. | Small biz owner | Fighting for lower energy costs & ratepayers | Holding gov’t accountable Auth: Citzens for Brian Chisholm, Brian Crepeau;Treasurer Brian Chisholm @Chisholmstrong · 9h 2111965773141012617 Last call!
+Mark Fisher @fisher4maryland Moore Closures — Guinness is closing its Maryland location.
+Almost 200 jobs lost due to @govwesmoore & @mddems failed policies.
+It is simply too expensive for businesses to operate in the State.
+Join @chisholmstrong & me for the Dumbest Bill in America!
+Reply on Twitter 2111965773141012617 Retweet on Twitter 2111965773141012617 0 Like on Twitter 2111965773141012617 2 X 2111965773141012617 Brian Chisholm @Chisholmstrong · 17 Oct 2111592838316384604 Nothing to see here, move along.
 Matt Morgan @MattMorgan29A Neighboring states have an Inspector General.
 Maryland doesn't.
 Why?
 The Office of Legislative Audits flagged over $3 billion in federal funds the state can't document across eight agencies.
 Maryland ranks 42nd in fiscal responsibility, with a $25.7 billion hole and a D grade.
-I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 0 Like on Twitter 2111592838316384604 1 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 16h 2111499630672499062 Wait...
+I Reply on Twitter 2111592838316384604 Retweet on Twitter 2111592838316384604 2 Like on Twitter 2111592838316384604 4 X 2111592838316384604 Brian Chisholm @Chisholmstrong · 17 Oct 2111499630672499062 Wait...
 Question 3 isn’t on your sample ballot?
 Maryland Dems want to redraw the map AND keep you from noticing.
 VOTE NO before it’s too late.
 Twitter feed video.
-Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 9 X 2111499630672499062 Brian Chisholm @Chisholmstrong · 15 Oct 2110765205940510967 I fight for your wallet.
-They fire back with lies.
-Here’s the record they hoped you wouldn’t see.
-Watch and share.
-Twitter feed video.
-Reply on Twitter 2110765205940510967 Retweet on Twitter 2110765205940510967 0 Like on Twitter 2110765205940510967 1 X 2110765205940510967 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,456 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
+Reply on Twitter 2111499630672499062 Retweet on Twitter 2111499630672499062 2 Like on Twitter 2111499630672499062 12 X 2111499630672499062 Load More  Used for the like, share, comment, and reaction icons Delegate Brian Chisholm 8,458 Likes Anne Arundel County By Authority: Citizens for Brian Chisholm; Brian Crepeau-Treasurer Wait...
 Question 3 isn’t on your sample ballot?
 Maryland Dems want to redraw the map AND keep you from noticing.
 VOTE NO before it’s too late. ...
-See More See Less #ago View Comments likes love haha wow angry 157 Comments: 59 Shares: 82 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 59 Comments Comment on Facebook Play Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
+See More See Less #ago View Comments likes love haha wow angry 195 Comments: 65 Shares: 99 Share Share on Facebook Share on Twitter Share on Linked In Share by Email 65 Comments Comment on Facebook Play Load more What I’m Fighting For Fiscal Responsibility Small Businesses Energy Independence Maryland Families Testimonials “I just wanted to update you and let you know that I have been in contact with head of payroll at umms.
 We were able to come to a verbal agreement for repayment.
 I am waiting on email documentation of our agreement and from there God willing I do expect all to be resolved with no further issues!
 I truly want to thank you and anyone on staff who assisted with helping me on this.

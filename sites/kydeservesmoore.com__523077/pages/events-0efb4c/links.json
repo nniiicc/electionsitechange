@@ -12,8 +12,8 @@
 "href": "https://kydeservesmoore.com/about/"
 },
 {
-"text": "Click here",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSeEPPsWpMv4C2tIyoogqu0-cfOu8SL5oNNQR2_4JfRIjG6jIA/viewform"
+"text": "Beaumont YMCA",
+"href": "https://maps.app.goo.gl/bp3QvFq5whHxmKFN6"
 },
 {
 "text": "Contact",
@@ -40,10 +40,6 @@
 "href": "https://www.facebook.com/kydeservesmoore"
 },
 {
-"text": "Higbee Mill Park",
-"href": "https://maps.app.goo.gl/Pz7gjWyedGhckcnV8"
-},
-{
 "text": "Home",
 "href": "https://kydeservesmoore.com/"
 },
@@ -62,6 +58,10 @@
 {
 "text": "Newsletter",
 "href": "https://docs.google.com/forms/d/e/1FAIpQLSfHZywPTZ6CXlTMbUq9j4GC6hyGBPxgssJCmJ9OS8tC1-jXaQ/viewform"
+},
+{
+"text": "RSVP or support the event here",
+"href": "https://secure.actblue.com/donate/moorefrankfort2026"
 },
 {
 "text": "Request a Yard Sign",
@@ -110,5 +110,9 @@
 {
 "text": "[no text]",
 "href": "https://bsky.app/profile/kydeservesmoore.bsky.social"
+},
+{
+"text": "reach out directly",
+"href": "https://kydeservesmoore.com/contact/"
 }
 ]

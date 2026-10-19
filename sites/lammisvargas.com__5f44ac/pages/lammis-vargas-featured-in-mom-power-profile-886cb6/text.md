@@ -4,7 +4,6 @@ Vargas’ kids, Nevari and Christian, were 12 and 5 when she first ran for the c
 She refused to drop out, crediting the support of her husband and her children.
 “They were my motivation from the very beginning,” she said.
 Click here to read the full article in the Cranston Herald.
-You May Also Like Posted July 17, 2024 Secretary Gorbea Hires Lammis J.
-Vargas as Deputy Secretary of State/Director of Administration Posted July 17, 2024 Vargas Named Deputy Treasurer Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+You May Also Like Posted November 7, 2024 Lammis Vargas Becomes Senator-Elect From District 28 Posted January 21, 2026 2025 Legislative Recap Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
 #teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
 Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

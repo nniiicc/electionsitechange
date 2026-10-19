@@ -41,7 +41,7 @@ Better health outcomes.
 Healthcare focused on patients instead of paperwork.
 This plan also complements the priorities you’ve discussed throughout your campaign: investing in Alaska’s workforce, improving access in rural communities, demanding transparency, and planning beyond the next election cycle rather than the next budget cycle.
 Alaska’s healthcare system is expensive partly because of geography and workforce shortages, so addressing those root causes is just as important as changing how care is financed.
-Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

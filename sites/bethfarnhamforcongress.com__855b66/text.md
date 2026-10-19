@@ -16,9 +16,10 @@ Not car accidents.
 Unique to the United States of… read More Published Writings Uncovering the Law Offset School Taxes Every Year My Church’s Mother’s Day Service is Hijacked by Youth Sunday Parents Know Best Sex Ed Alternative read More Interested in volunteering with beth’s campaign?
 Please click Here Support Beth’s campaign HERE , please!
 Help Pennsylvania’s voters CHOOSE DEMOCRACY so our voting rights remain intact, our reproductive freedom, gun safety, universal healthcare, and immigration reform can be enshrined into national law, and our public education is truly defended!
-The View from PA-13 Latest posts Doing the Job that Joyce Doesn’t Come to my next Town Hall in Johnstown on October 17th from 2-4 at Studio 404 to understand how we can stop this awful administration from making our beloved nation ever more vulnerable to our… Read more PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
-You can also vote for legislators at the state and federal level to stand up for… Read more Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
-Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language surrounding the process to override… Read more Type your email… Subscribe for latest posts!
+The View from PA-13 Latest posts Thank you, Governor Shapiro!
+This election is critical and re-electing our caring governor is important to protect our state from the overreaches of the current and criminal presidential administration.
+Governor Shapiro has my support and our 13th Congressional District… Read more Doing the Job that Joyce Doesn’t Come to my next Town Hall in Johnstown on October 17th from 2-4 at Studio 404 to understand how we can stop this awful administration from making our beloved nation ever more vulnerable to our… Read more PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal level to stand up for… Read more Type your email… Subscribe for latest posts!
 Find me on social media!
 Facebook Instagram Bluesky YouTube @bethfarnhamforcongress Menu Close Priorities Meet Beth Contact Beth donate Join us !
 Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Subscribe Loading Comments...

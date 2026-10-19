@@ -4,9 +4,8 @@ Putting the Reins on Data Centers Making Artificial Intelligence Work For Us Sup
 We can only realize those benefits however by taking a strong public oversight of this technology and how it is built out.
 View more Making Artificial Intelligence Work For Us AI and the technology that drives it has tremendous potential to remake and improve many aspects of our society and our lives.
 But without adequate guardrails, AI also creates huge new risks for all of us.
-View more Supporting Women’s Rights and Women’s Health In this country we know how to take opportunities and do big things.
-Adapting to a new future requires research, development, and commercialization of new products.
-We can re-imagine our economy.
+View more Supporting Women’s Rights and Women’s Health I firmly support the freedom for women to make choices about reproductive care with their doctors.
+I have consistently supported funding and access to a full range of reproductive health care for women of all ages including contraception.
 View more Border Safety and Immigration There is no question we need a secure border, and we need to actively prosecute and deport criminals.
 We also need to guarantee the rights of law-abiding people who are in this country legally.
 View more Our Constitution and the Rule of Law The United States Constitution has been a blueprint for democracy for America and for the World.

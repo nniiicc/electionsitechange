@@ -126,4 +126,5 @@ Join this team to get us across the finish line.
 And please vote for me on November 3rd.
 Thank you.
 Previous CrossTalk feat.
-Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Next Yet another school shooting today You Might Also Like Powder Point Bridge One reason I support Labor Unions I would be the FIRST WOMAN elected to this seat Moderating a Truman National Security Project Panel My work to build the Pembroke Community Center Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative Next Yet another school shooting today You Might Also Like CrossTalk feat.
+Jessica Bradley Rushing, Democratic Candidate for 6th Plymouth State Representative WATD 95.9 - Sixth Plymouth District Political Forum Being an Inaugural Member of American Service Fellowship at Harvard Another Reason I support Labor Unions My work to build the Pembroke Community Center Duxbury | Marshfield | Pembroke | Hanson | Halifax Paid for by the Committee to Elect Jessica Bradley Rushing DONATE NOW Want a lawn sign?

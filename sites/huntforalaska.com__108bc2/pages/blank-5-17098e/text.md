@@ -58,7 +58,7 @@ It turns one-time resource extraction into permanent public benefit.
 Conclusion Alaska’s natural resources belong to the people of Alaska.
 By dedicating a portion of that wealth to a long-term Energy Dividend Fund, Alaska can reduce energy costs, strengthen communities, support businesses, and invest in a more secure future.
 Just as the Alaska Permanent Fund changed how Alaska manages resource wealth, the Alaska Energy Dividend Fund offers a path toward a more affordable, more competitive, and more sustainable energy future.
-Back to Policy Issues Alaska Public Safety & Privacy PlanPolicy Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 Accessibility Statement © # by William Hunt Campaign for Senate.
+Back to Policy Issues Terms & Conditions Privacy Policy Alaska Public Safety & Privacy PlanPolicy © # by William Hunt Campaign for Senate.
 Alaska.
 All Rights Reserved.
-Terms & Conditions Privacy Policy Shipping Policy Refund Policy bottom of page
+Paid by Hunt for Alaska, PO 57009 North Pole, AK 99705 bottom of page

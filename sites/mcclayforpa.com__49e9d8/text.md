@@ -149,8 +149,10 @@ Plains Twp.
 Bear Creek Twp.
 Bear Creek Village Buck Twp.
 Laurel Run & every voter in between Find your polling place at vote.pa.gov/polls Vote Make your vote count.
-Three things to do before November 3, 2026 — and three ways to do them. -- Days Until Election Day Register to Vote Get Started Request Mail Ballot Apply Now Find Polling Place Locate Oct 19 Voter Registration Deadline Last day to register for the November election.
-General Add to calendar Oct 27 Mail Ballot Application Last day to request a mail-in ballot.
+Three things to do before November 3, 2026 — and three ways to do them. -- Days Until Election Day Register to Vote Get Started Check Your Registration Verify Request Mail Ballot Apply Now Find Polling Place Locate Oct 19 Voter Registration Deadline Last day to register for the November election.
+Registration for the Nov.
+3 election is closed.
+General Closed Add to calendar Oct 27 Mail Ballot Application Last day to request a mail-in ballot.
 General Add to calendar Nov 3 General Election Day Polls open 7 AM – 8 PM.
 This is the one.
 Election Day Add to calendar Join The Campaign Power the campaign for the 121st.

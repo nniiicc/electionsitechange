@@ -1,4 +1,4 @@
-top of page Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
+top of page Rebecca's Record Nearest Voting Location Endorsements About Contact Issues Voting Guide Events News Use tab to navigate through the menu items.
 CONTACT REBECCA Dr.
 Rebecca Edgeworth represents you in Nevada State Assembly District 35 and wants to hear from YOU!
 EMAIL REBECCA EDGEWORTH Rebecca@EdgeworthForNevada.com GET SOCIAL CALL REBECCA EDGEWORTH 702-268-9921 Let Rebecca know how we can work together in her run for Nevada State Assembly District 35 or sign up for campaign updates below!

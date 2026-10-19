@@ -2,5 +2,5 @@ Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get I
 Polls open at 7:30am and close at 7:30pm.
 Be sure that you’re registered to vote and know where your polling place is ahead of time.
 More information to come as Election Day approaches.
-Previous Previous October 20 The Hub - GOTV, Arkansas!
-Paid for By Mitchell Smith For AR 13
+Previous Previous October 31 Oct.
+31 PM Session – Benton County GOTV Next Next November 3 Election Night Watch Party Paid for By Mitchell Smith For AR 13

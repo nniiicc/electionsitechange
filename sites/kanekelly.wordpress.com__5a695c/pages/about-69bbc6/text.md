@@ -8,6 +8,6 @@ I most recently earned a Master of Legal Studies at Texas A&M University, and I 
 I am not a servant of labels.
 I believe our creator has no favorite color, race, religion, nationality, principality, or power established by mankind.
 I believe we all have a duty of care to be good stewards of each other and the world that we live in, and we owe allegiance to our Constitution and the laws that govern our land above symbols used to divide and trivialize individual freedoms.
-Home Platform Volunteer The Compass About Blog at WordPress.com.
+Home Platform Volunteer The Compass About Create a free website or blog at WordPress.com.
 Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

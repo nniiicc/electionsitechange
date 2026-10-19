@@ -9,7 +9,7 @@ Despite our efforts to make all pages and content on Leoraptakis.com fully acces
 This may be a result of not having found or identified the most appropriate technological solution.
 Here For You If you are experiencing difficulty with any content on Leoraptakis.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
 Contact Us If you wish to report an accessibility issue, have any questions or need assistance, please contact Leoraptakis.com Customer Support as follows: Email: [email protected] End HOME | ABOUT | AGENDA | NEWSROOM | EVENTS | DONATE | SOCIAL | ARCHIVES | CONTACT Newsroom DONATE GET INVOLVED Thank You for Your Support!
-"No One's Voice but Ours" State House Contact Number: 401-276-5567 * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
+"No One's Voice but Ours" * Indicates required field Your eMail * To opt-in to "I'm In!" enter your personal email address or where you would like to be contacted.
 Please review Privacy Policy.
 Your Zip Code * Enter your zip code of residence.
 I agree to receiving marketing and promotional materials Opt-In * Please Note: Donations require employer's company name, and donor's residential address. ©# | ALL RIGHTS RESERVED.

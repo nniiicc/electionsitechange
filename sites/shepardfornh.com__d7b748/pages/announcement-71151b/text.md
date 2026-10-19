@@ -18,4 +18,4 @@ Volunteer Contact the Campaign Donate SHEPARD FOR NH Scott Shepard is a Democrat
 Facts.
 Strategy.
 Real Solutions.
-Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by Shepard For NH, Scott Shepard, Treasurer, ShepardForNH.com.
+Explore About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Connect Volunteer Donate Contact the campaign NH Insights on Substack ↗ Privacy & Disclaimer Paid for by SHEPARD FOR NH, 97 Birch Lane, Barrington, NH 03825, Scott Shepard, Treasurer.

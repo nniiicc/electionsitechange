@@ -4,7 +4,7 @@ I've covered a variety of topics since the summer of 2025, but in this last post
 Wednesday, January 7th, 2026: In a lengthy interview with 4 reporters from the New York Times, Donald Trump was asked if there are any limits on his exercise of power around the world.
 Trump replied: "Yeah, there is one thing.
 My own morality.
-My o sk9001 #ago 2 min read Character and Class I’ve never met Jessica Hart Steinmann, but I know her type, and would likely be quite comfortable in her presence.
+My o sk9001 Oct 11 2 min read Character and Class I’ve never met Jessica Hart Steinmann, but I know her type, and would likely be quite comfortable in her presence.
 We come from the same social class, or so I believe.
 If you told me that her father is or was a lawyer, and that her mother is or was an interior designer, I wouldn’t be that surprised.
 BUT – if you said the same about Laura’s parents, I would be astonished.
